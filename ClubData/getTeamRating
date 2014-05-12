@@ -2,7 +2,7 @@
 URL='http://www.futhead.com/fifa/nations'
 DEBUG=true
 team=$1
-DATA="data/$team/DATA.dat"
+DATA="data/"$team"DATA.dat"
 if [ ! -e $DATA ]; then
 	curl $URL'/'$team'/' -s | grep "Attackers\|Midfielders\|Defenders\|Goal Keepers\|playercard-rating\|playercard-name" > $DATA 
 fi	

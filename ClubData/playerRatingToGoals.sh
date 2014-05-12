@@ -19,7 +19,7 @@ for file in ${files[@]}; do
 		parse=(`echo $LINE | sed 's/\([a-zA-Z]\)\s\([a-zA-Z]\)/\1\2/g' | awk '{print $2, $7, $8}' | tr " " "\n"`)
 		DATA="data/${parse[0]}DATA.txt"
 		if [ ! -e $DATA ]; then
-			curl $URL'/'${parse[0]}'/' -s | grep "Attackers\|Midfielders\|Defenders\|Goal Keepers\|playercard-rating\|playercard-name" > $DATA 
+			curl $URL'/'${parse[0]}'/' -s | grep "playercard-position\|playercard-rating\|playercard-name" > $DATA 
 		fi
 
 		if [ $DEBUG = true ]; then
@@ -37,21 +37,6 @@ for file in ${files[@]}; do
 		OFFENSE_NUM=0
 		DEFENSE_NUM=0
 		while read -r DATA_LINE; do
-			# first determine position
-			lineAtt=$(echo $DATA_LINE | grep "Attackers" | sed 's/.*<h2>\(.*\)<\/h2>/\1/')
-			lineMid=$(echo $DATA_LINE | grep "Midfielders" | sed 's/.*<h2>\(.*\)<\/h2>/\1/')
-			lineDef=$(echo $DATA_LINE | grep "Defenders" | sed 's/.*<h2>\(.*\)<\/h2>/\1/')
-			lineGK=$(echo $DATA_LINE | grep "Goal Keepers" | sed 's/.*<h2>\(.*\)<\/h2>/\1/')
-			if [ ! -z "$lineAtt" ]; then
-				POSITION="ATTACKERS"
-			elif [ ! -z "$lineMid" ]; then
-				POSITION="MIDFIELDERS"
-			elif [ ! -z "$lineDef" ]; then
-				POSITION="DEFENSE"
-			elif [ ! -z "$lineGK" ]; then
-				POSITION="DEFENSE"
-			fi
-
 			# rating is posted before name
 			lineRating=$(echo $DATA_LINE | grep "playercard-rating")
 			if [ ! -z "$lineRating" ]; then
@@ -69,11 +54,26 @@ for file in ${files[@]}; do
 					NEW_VAL=false
 				else
 					PLAYER="$TEMP_PLAYER"
-					NEW_VAL=true
 				fi
 			fi
 			# only update when I have a new rating with a new player
 			if [ $NEW_VAL = true ]; then
+				linePos=$(echo $DATA_LINE | grep "playercard-position" | sed 's/.*position\">\([A-Z]*\).*/\1/')
+				lineMid=$(echo $linePos | grep "AM\|CM\|W")
+				lineDef=$(echo $linePos | grep "B\|DM")
+				lineAtt=$(echo $linePos | grep "ST\|F")
+				if [ ! -z "$lineAtt" ]; then
+					POSITION="ATTACKERS"
+				elif [ ! -z "$lineMid" ]; then
+					POSITION="MIDFIELDERS"
+				elif [ ! -z "$lineDef" ]; then
+					POSITION="DEFENSE"
+				elif [ ! -z "$lineGK" ]; then
+					POSITION="DEFENSE"
+				else
+					continue
+				fi
+
 				if [ "$POSITION" = "ATTACKERS" ] || [ "$POSITION" = "MIDFIELDERS" ]; then
 					OFFENSE=`expr $OFFENSE + $RATING`
 					let OFFENSE_NUM+=1
@@ -92,6 +92,9 @@ for file in ${files[@]}; do
 			fi
 		done < $DATA
 		if [ $OFFENSE_NUM -eq "0" ] || [ $DEFENSE_NUM -eq "0" ]; then
+			if [ $DEBUG = true ]; then
+				echo "${parse[0]} failed"
+			fi
 			continue
 		fi
 		retOffense=$(echo "$OFFENSE/$OFFENSE_NUM" | bc -l)
