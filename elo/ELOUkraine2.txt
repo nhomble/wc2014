@@ -1,0 +1,1872 @@
+April 29
+1992	Ukraine
+Hungary	1
+3	Friendly
+in Ukraine	-16
++16	1584
+1702	-
++2	50
+30
+June 27
+1992	United States
+Ukraine	0
+0	Friendly
+in the United States	-5
++5	1648
+1589	0
++1	38
+49
+August 26
+1992	Hungary
+Ukraine	2
+1	Friendly
+in Hungary	+5
+-5	1663
+1584	-1
+-2	35
+51
+October 28
+1992	Belarus
+Ukraine	1
+1	Friendly
+in Belarus	+2
+-2	1402
+1582	-
+-1	96
+51
+April 27
+1993	Ukraine
+Israel	1
+1	Friendly
+in Ukraine	-4
++4	1578
+1541	-1
++1	53
+61
+May 18
+1993	Lithuania
+Ukraine	1
+2	Friendly
+in Lithuania	-6
++6	1340
+1584	-3
++1	117
+51
+June 25
+1993	Croatia
+Ukraine	3
+1	Friendly
+in Croatia	+4
+-4	1803
+1580	0
+-1	14
+52
+October 16
+1993	United States
+Ukraine	1
+2	Friendly
+in the United States	-14
++14	1602
+1594	-4
++2	49
+52
+October 20
+1993	Mexico
+Ukraine	2
+1	Friendly
+in the United States	+3
+-3	1869
+1591	0
+0	10
+52
+October 23
+1993	United States
+Ukraine	0
+1	Friendly
+in the United States	-13
++13	1589
+1604	-3
++3	52
+49
+March 15
+1994	Israel
+Ukraine	1
+0	Friendly
+in Israel	+9
+-9	1551
+1595	+1
+-2	60
+51
+May 25
+1994	Ukraine
+Belarus	3
+1	Friendly
+in Ukraine	+5
+-5	1600
+1395	0
+0	49
+102
+June 03
+1994	Bulgaria
+Ukraine	1
+1	Friendly
+in Bulgaria	-6
++6	1738
+1606	0
++1	25
+48
+August 27
+1994	United Arab Emirates
+Ukraine	1
+1	Friendly
+in Austria	+4
+-4	1466
+1602	+2
+-1	84
+47
+September 07
+1994	Ukraine
+Lithuania	0
+2	European Cup qualifier
+in Ukraine	-54
++54	1548
+1384	-15
++14	61
+109
+September 11
+1994	South Korea
+Ukraine	1
+0	Friendly
+in South Korea	+5
+-5	1666
+1543	+1
+0	33
+61
+September 13
+1994	South Korea
+Ukraine	2
+0	Friendly
+in South Korea	+7
+-7	1673
+1536	0
+-1	33
+62
+October 12
+1994	Ukraine
+Slovenia	0
+0	European Cup qualifier
+in Ukraine	-6
++6	1530
+1537	0
++3	64
+63
+November 13
+1994	Ukraine
+Estonia	3
+0	European Cup qualifier
+in Ukraine	+4
+-4	1534
+1153	0
+-1	63
+162
+March 25
+1995	Croatia
+Ukraine	4
+0	European Cup qualifier
+in Croatia	+6
+-6	1852
+1528	+2
+-2	13
+64
+March 29
+1995	Ukraine
+Italy	0
+2	European Cup qualifier
+in Ukraine	-8
++8	1520
+1955	-3
+0	67
+3
+April 26
+1995	Estonia
+Ukraine	0
+1	European Cup qualifier
+in Estonia	-6
++6	1124
+1526	-1
++4	169
+65
+June 11
+1995	Ukraine
+Croatia	1
+0	European Cup qualifier
+in Ukraine	+31
+-31	1557
+1811	+9
+-6	56
+20
+September 06
+1995	Lithuania
+Ukraine	1
+3	European Cup qualifier
+in Lithuania	-29
++29	1415
+1586	-9
++10	100
+48
+October 11
+1995	Slovenia
+Ukraine	3
+2	European Cup qualifier
+in Slovenia	+20
+-20	1512
+1566	+5
+-3	71
+52
+November 11
+1995	Italy
+Ukraine	3
+1	European Cup qualifier
+in Italy	+4
+-4	1949
+1562	+1
+-3	3
+55
+April 09
+1996	Moldova
+Ukraine	2
+2	Friendly
+in Moldova	+2
+-2	1396
+1560	0
+0	106
+59
+May 01
+1996	Turkey
+Ukraine	3
+2	Friendly
+in Turkey	+4
+-4	1724
+1556	0
+0	27
+58
+August 13
+1996	Ukraine
+Lithuania	5
+2	Friendly
+in Ukraine	+7
+-7	1563
+1416	+1
+-1	57
+100
+August 31
+1996	Northern Ireland
+Ukraine	0
+1	World Cup qualifier
+in Northern Ireland	-28
++28	1579
+1591	-9
++9	53
+48
+October 05
+1996	Ukraine
+Portugal	2
+1	World Cup qualifier
+in Ukraine	+29
+-29	1620
+1837	+11
+-3	40
+14
+November 09
+1996	Portugal
+Ukraine	1
+0	World Cup qualifier
+in Portugal	+5
+-5	1851
+1615	0
+-1	13
+43
+March 23
+1997	Ukraine
+Moldova	1
+0	Friendly
+in Ukraine	+3
+-3	1618
+1380	+1
+-3	48
+112
+March 29
+1997	Albania
+Ukraine	0
+1	World Cup qualifier
+in Albania	-12
++12	1367
+1630	-3
++6	117
+42
+April 02
+1997	Ukraine
+Northern Ireland	2
+1	World Cup qualifier
+in Ukraine	+14
+-14	1644
+1603	+4
+-1	40
+50
+April 30
+1997	Germany
+Ukraine	2
+0	World Cup qualifier
+in Germany	+3
+-3	2048
+1641	-1
+-1	2
+42
+May 07
+1997	Ukraine
+Armenia	1
+1	World Cup qualifier
+in Ukraine	-16
++16	1625
+1395	-5
++5	47
+105
+June 07
+1997	Ukraine
+Germany	0
+0	World Cup qualifier
+in Ukraine	+15
+-15	1640
+2033	+4
+0	42
+1
+August 20
+1997	Ukraine
+Albania	1
+0	World Cup qualifier
+in Ukraine	+4
+-4	1644
+1360	+3
+-2	41
+117
+October 11
+1997	Armenia
+Ukraine	0
+2	World Cup qualifier
+in Armenia	-19
++19	1394
+1663	-4
++3	104
+40
+October 29
+1997	Croatia
+Ukraine	2
+0	World Cup qualifier
+in Croatia	+12
+-12	1824
+1651	+1
+-3	16
+42
+November 15
+1997	Ukraine
+Croatia	1
+1	World Cup qualifier
+in Ukraine	+4
+-4	1655
+1820	+1
+0	43
+16
+July 15
+1998	Ukraine
+Poland	1
+2	Friendly
+in Ukraine	-14
++14	1641
+1638	-3
++4	42
+44
+August 19
+1998	Ukraine
+Georgia	4
+0	Friendly
+in Ukraine	+12
+-12	1653
+1592	+4
+-4	40
+58
+September 05
+1998	Ukraine
+Russia	3
+2	European Cup qualifier
+in Ukraine	+23
+-23	1676
+1784	+5
+-1	35
+19
+October 10
+1998	Andorra
+Ukraine	0
+2	European Cup qualifier
+in Andorra	-3
++3	1054
+1679	0
+-1	179
+35
+October 14
+1998	Ukraine
+Armenia	2
+0	European Cup qualifier
+in Ukraine	+6
+-6	1685
+1395	+1
+-4	34
+106
+March 20
+1999	Georgia
+Ukraine	0
+1	Friendly
+in Georgia	-9
++9	1549
+1694	0
++1	59
+34
+March 27
+1999	France
+Ukraine	0
+0	European Cup qualifier
+in France	-17
++17	2039
+1711	0
++5	1
+29
+March 31
+1999	Ukraine
+Iceland	1
+1	European Cup qualifier
+in Ukraine	-14
++14	1697
+1526	-3
++3	32
+66
+June 05
+1999	Ukraine
+Andorra	4
+0	European Cup qualifier
+in Ukraine	+1
+-1	1698
+1048	+2
+0	31
+181
+June 09
+1999	Armenia
+Ukraine	0
+0	European Cup qualifier
+in Armenia	+12
+-12	1381
+1686	+2
+-4	109
+35
+August 18
+1999	Ukraine
+Bulgaria	1
+1	Friendly
+in Ukraine	-4
++4	1682
+1636	0
+0	33
+47
+September 04
+1999	Ukraine
+France	0
+0	European Cup qualifier
+in Ukraine	+11
+-11	1693
+1995	0
+0	33
+2
+September 08
+1999	Iceland
+Ukraine	0
+1	European Cup qualifier
+in Iceland	-17
++17	1526
+1710	-1
++1	64
+31
+October 09
+1999	Russia
+Ukraine	1
+1	European Cup qualifier
+in Russia	-10
++10	1780
+1720	-1
++2	19
+29
+November 13
+1999	Slovenia
+Ukraine	2
+1	European Cup qualifier
+in Slovenia	+25
+-25	1554
+1695	+3
+-5	61
+33
+November 17
+1999	Ukraine
+Slovenia	1
+1	European Cup qualifier
+in Ukraine	-12
++12	1683
+1566	-3
+0	36
+61
+April 26
+2000	Bulgaria
+Ukraine	0
+1	Friendly
+in Bulgaria	-12
++12	1631
+1695	-2
++6	50
+32
+May 31
+2000	England
+Ukraine	2
+0	Friendly
+in England	+5
+-5	1878
+1690	+1
+-1	9
+34
+September 02
+2000	Ukraine
+Poland	1
+3	World Cup qualifier
+in Ukraine	-38
++38	1652
+1727	-11
++11	46
+25
+October 07
+2000	Armenia
+Ukraine	2
+3	World Cup qualifier
+in Armenia	-12
++12	1396
+1664	-2
++2	102
+44
+October 11
+2000	Norway
+Ukraine	0
+1	World Cup qualifier
+in Norway	-32
++32	1772
+1696	-3
++9	18
+34
+February 14
+2001	Georgia
+Ukraine	0
+0	Friendly
+in Georgia	+2
+-2	1516
+1694	0
+0	69
+37
+February 26
+2001	Romania
+Ukraine	1
+0	Friendly tournament
+in Cyprus	+11
+-11	1806
+1683	0
+-5	14
+40
+February 28
+2001	Cyprus
+Ukraine	4
+3	Friendly tournament
+in Cyprus	+19
+-19	1500
+1664	+5
+-5	72
+45
+March 24
+2001	Ukraine
+Belarus	0
+0	World Cup qualifier
+in Ukraine	-17
++17	1647
+1368	-3
++6	46
+115
+March 28
+2001	Wales
+Ukraine	1
+1	World Cup qualifier
+in Wales	+2
+-2	1520
+1645	+1
++1	68
+46
+June 02
+2001	Ukraine
+Norway	0
+0	World Cup qualifier
+in Ukraine	0
+0	1645
+1738	0
+-1	47
+28
+June 06
+2001	Ukraine
+Wales	1
+1	World Cup qualifier
+in Ukraine	-12
++12	1633
+1520	-1
++4	48
+68
+August 15
+2001	Latvia
+Ukraine	0
+1	Friendly
+in Latvia	-6
++6	1394
+1639	0
+0	101
+48
+September 01
+2001	Belarus
+Ukraine	0
+2	World Cup qualifier
+in Belarus	-20
++20	1405
+1659	-3
++3	100
+45
+September 05
+2001	Ukraine
+Armenia	3
+0	World Cup qualifier
+in Ukraine	+9
+-9	1668
+1412	+1
+-1	43
+99
+October 06
+2001	Poland
+Ukraine	1
+1	World Cup qualifier
+in Poland	-8
++8	1717
+1676	-1
++1	32
+42
+November 10
+2001	Ukraine
+Germany	1
+1	World Cup qualifier
+in Ukraine	+3
+-3	1679
+1819	+1
++1	41
+13
+November 14
+2001	Germany
+Ukraine	4
+1	World Cup qualifier
+in Germany	+14
+-14	1833
+1665	-1
+-1	14
+42
+March 21
+2002	Japan
+Ukraine	1
+0	Friendly
+in Japan	+3
+-3	1841
+1662	+1
+0	11
+42
+March 27
+2002	Romania
+Ukraine	4
+1	Friendly
+in Romania	+8
+-8	1774
+1654	+2
+0	23
+42
+April 17
+2002	Ukraine
+Georgia	2
+1	Friendly
+in Ukraine	+5
+-5	1659
+1564	0
+-1	42
+57
+May 17
+2002	Ukraine
+Yugoslavia	2
+0	Friendly tournament
+in Russia	+30
+-30	1689
+1758	+1
+-4	41
+25
+May 19
+2002	Belarus
+Ukraine	2
+0	Friendly tournament
+in Russia	+34
+-34	1523
+1655	+9
+-1	68
+42
+August 21
+2002	Ukraine
+Iran	0
+1	Friendly
+in Ukraine	-10
++10	1645
+1750	-2
++1	40
+28
+September 07
+2002	Armenia
+Ukraine	2
+2	European Cup qualifier
+in Armenia	+8
+-8	1410
+1637	0
+-2	101
+42
+October 12
+2002	Ukraine
+Greece	2
+0	European Cup qualifier
+in Ukraine	+22
+-22	1659
+1619	+3
+-6	40
+48
+October 16
+2002	Northern Ireland
+Ukraine	0
+0	European Cup qualifier
+in Northern Ireland	+4
+-4	1484
+1655	+2
+-1	76
+42
+November 20
+2002	Slovakia
+Ukraine	1
+1	Friendly
+in Slovakia	-2
++2	1609
+1657	+1
++1	51
+41
+February 12
+2003	Turkey
+Ukraine	0
+0	Friendly
+in Turkey	-7
++7	1858
+1664	-1
++2	10
+39
+March 29
+2003	Ukraine
+Spain	2
+2	European Cup qualifier
+in Ukraine	+11
+-11	1675
+1962	0
+0	38
+4
+April 02
+2003	Ukraine
+Latvia	1
+0	Friendly
+in Ukraine	+3
+-3	1678
+1439	0
++1	38
+92
+April 30
+2003	Denmark
+Ukraine	1
+0	Friendly
+in Denmark	+3
+-3	1852
+1675	0
+0	11
+39
+June 07
+2003	Ukraine
+Armenia	4
+3	European Cup qualifier
+in Ukraine	+4
+-4	1679
+1410	+2
+-3	37
+100
+June 11
+2003	Greece
+Ukraine	1
+0	European Cup qualifier
+in Greece	+13
+-13	1726
+1666	+2
+-1	31
+38
+August 20
+2003	Ukraine
+Romania	0
+2	Friendly
+in Ukraine	-17
++17	1649
+1746	-4
++3	43
+24
+September 06
+2003	Ukraine
+Northern Ireland	0
+0	European Cup qualifier
+in Ukraine	-14
++14	1635
+1464	-3
++5	46
+84
+September 10
+2003	Spain
+Ukraine	2
+1	European Cup qualifier
+in Spain	+4
+-4	1942
+1631	0
+0	5
+46
+October 11
+2003	Ukraine
+Macedonia	0
+0	Friendly
+in Ukraine	-7
++7	1624
+1441	-3
++2	49
+93
+February 18
+2004	Libya
+Ukraine	1
+1	Friendly
+in Libya	+3
+-3	1415
+1621	+2
++1	100
+49
+March 31
+2004	Macedonia
+Ukraine	1
+0	Friendly
+in Macedonia	+12
+-12	1465
+1609	+5
+-4	80
+55
+April 28
+2004	Ukraine
+Slovakia	1
+1	Friendly
+in Ukraine	-2
++2	1607
+1627	0
+0	55
+49
+June 06
+2004	France
+Ukraine	1
+0	Friendly
+in France	+1
+-1	2029
+1606	0
+0	1
+54
+August 18
+2004	England
+Ukraine	3
+0	Friendly
+in England	+3
+-3	1944
+1603	0
+-1	6
+55
+September 04
+2004	Denmark
+Ukraine	1
+1	World Cup qualifier
+in Denmark	-15
++15	1834
+1618	-2
++5	13
+50
+September 08
+2004	Kazakhstan
+Ukraine	1
+2	World Cup qualifier
+in Kazakhstan	-11
++11	1346
+1629	-4
++3	120
+47
+October 09
+2004	Ukraine
+Greece	1
+1	World Cup qualifier
+in Ukraine	+7
+-7	1636
+1847	+1
+0	46
+10
+October 13
+2004	Ukraine
+Georgia	2
+0	World Cup qualifier
+in Ukraine	+12
+-12	1648
+1476	+3
+-2	42
+84
+November 17
+2004	Turkey
+Ukraine	0
+3	World Cup qualifier
+in Turkey	-58
++58	1765
+1706	-9
++10	26
+31
+February 09
+2005	Albania
+Ukraine	0
+2	World Cup qualifier
+in Albania	-21
++21	1479
+1727	-7
+0	85
+31
+March 30
+2005	Ukraine
+Denmark	1
+0	World Cup qualifier
+in Ukraine	+19
+-19	1746
+1796	+1
+-4	29
+20
+June 04
+2005	Ukraine
+Kazakhstan	2
+0	World Cup qualifier
+in Ukraine	+3
+-3	1749
+1317	0
+-3	29
+128
+June 08
+2005	Greece
+Ukraine	0
+1	World Cup qualifier
+in Greece	-32
++32	1845
+1781	-2
++4	13
+24
+August 15
+2005	Ukraine
+Israel	0
+0	Friendly tournament
+in Ukraine	-8
++8	1773
+1688	-2
+0	24
+42
+August 17
+2005	Ukraine
+Serbia and Montenegro	2
+1	Friendly tournament
+in Ukraine	+9
+-9	1782
+1720	+4
+-5	20
+33
+September 03
+2005	Georgia
+Ukraine	1
+1	World Cup qualifier
+in Georgia	+11
+-11	1480
+1771	0
+-5	86
+25
+September 07
+2005	Ukraine
+Turkey	0
+1	World Cup qualifier
+in Ukraine	-25
++25	1746
+1801	-3
++5	28
+19
+October 08
+2005	Ukraine
+Albania	2
+2	World Cup qualifier
+in Ukraine	-16
++16	1730
+1503	-5
++2	33
+82
+October 12
+2005	Ukraine
+Japan	1
+0	Friendly
+in Ukraine	+9
+-9	1739
+1794	+1
+0	32
+21
+February 28
+2006	Azerbaijan
+Ukraine	0
+0	Friendly
+in Azerbaijan	+7
+-7	1320
+1732	+2
+0	124
+33
+May 28
+2006	Ukraine
+Costa Rica	4
+0	Friendly
+in Ukraine	+13
+-13	1745
+1703	+1
+-2	32
+38
+June 02
+2006	Italy
+Ukraine	0
+0	Friendly
+in Switzerland	-5
++5	1913
+1750	0
++2	7
+31
+June 05
+2006	Ukraine
+Libya	3
+0	Friendly
+in Switzerland	+6
+-6	1756
+1456	+1
+-1	31
+92
+June 08
+2006	Luxembourg
+Ukraine	0
+3	Friendly
+in Luxembourg	-1
++1	946
+1757	0
++1	190
+30
+June 14
+2006	Spain
+Ukraine	4
+0	World Cup
+in Germany	+30
+-30	1966
+1727	+1
+-7	4
+33
+June 19
+2006	Ukraine
+Saudi Arabia	4
+0	World Cup
+in Germany	+37
+-37	1764
+1567	+6
+-9	26
+63
+June 23
+2006	Ukraine
+Tunisia	1
+0	World Cup
+in Germany	+22
+-22	1786
+1652	+4
+-3	20
+48
+June 26
+2006	Ukraine
+Switzerland	0
+0	World Cup
+in Germany	+4
+-4	1790
+1828	+1
+0	19
+12
+June 30
+2006	Italy
+Ukraine	3
+0	World Cup
+in Germany	+27
+-27	2002
+1763	+2
+-5	2
+24
+August 15
+2006	Ukraine
+Azerbaijan	6
+0	Friendly
+in Ukraine	+2
+-2	1765
+1330	0
+-1	24
+123
+September 06
+2006	Ukraine
+Georgia	3
+2	European Cup qualifier
+in Ukraine	+4
+-4	1769
+1476	+2
+0	23
+85
+October 07
+2006	Italy
+Ukraine	2
+0	European Cup qualifier
+in Italy	+8
+-8	1995
+1761	0
+0	3
+23
+October 11
+2006	Ukraine
+Scotland	2
+0	European Cup qualifier
+in Ukraine	+19
+-19	1780
+1706	+3
+-6	20
+39
+February 07
+2007	Israel
+Ukraine	1
+1	Friendly
+in Israel	0
+0	1681
+1780	0
+-1	43
+21
+March 24
+2007	Faroe Islands
+Ukraine	0
+2	European Cup qualifier
+in Faroe Islands	-3
++3	1140
+1783	-1
++2	169
+19
+March 28
+2007	Ukraine
+Lithuania	1
+0	European Cup qualifier
+in Ukraine	+3
+-3	1786
+1455	+2
+0	18
+91
+June 02
+2007	France
+Ukraine	2
+0	European Cup qualifier
+in France	+7
+-7	2032
+1779	0
+-2	2
+21
+August 22
+2007	Ukraine
+Uzbekistan	2
+1	Friendly
+in Ukraine	+3
+-3	1782
+1569	+2
+0	19
+60
+September 08
+2007	Georgia
+Ukraine	1
+1	European Cup qualifier
+in Georgia	+10
+-10	1492
+1772	+5
+0	78
+19
+September 12
+2007	Ukraine
+Italy	1
+2	European Cup qualifier
+in Ukraine	-14
++14	1758
+1989	-5
+0	24
+5
+October 13
+2007	Scotland
+Ukraine	3
+1	European Cup qualifier
+in Scotland	+21
+-21	1788
+1737	+2
+-7	18
+31
+October 17
+2007	Ukraine
+Faroe Islands	5
+0	European Cup qualifier
+in Ukraine	+1
+-1	1738
+1127	-1
+-1	33
+172
+November 17
+2007	Lithuania
+Ukraine	2
+0	European Cup qualifier
+in Lithuania	+44
+-44	1509
+1694	+11
+-7	77
+40
+November 21
+2007	Ukraine
+France	2
+2	European Cup qualifier
+in Ukraine	+10
+-10	1704
+1986	0
+-1	39
+4
+February 06
+2008	Cyprus
+Ukraine	1
+1	Friendly
+in Cyprus	+3
+-3	1503
+1701	+3
+0	77
+40
+March 26
+2008	Ukraine
+Serbia	2
+0	Friendly
+in Ukraine	+12
+-12	1713
+1709	+4
+-3	36
+39
+May 24
+2008	Netherlands
+Ukraine	3
+0	Friendly
+in the Netherlands	+5
+-5	1945
+1708	0
+-2	6
+39
+June 01
+2008	Sweden
+Ukraine	0
+1	Friendly
+in Sweden	-14
++14	1756
+1722	-5
++3	28
+35
+August 20
+2008	Ukraine
+Poland	1
+0	Friendly
+in Ukraine	+7
+-7	1729
+1711	+3
+-1	32
+37
+September 06
+2008	Ukraine
+Belarus	1
+0	World Cup qualifier
+in Ukraine	+7
+-7	1736
+1550	0
+-1	31
+65
+September 10
+2008	Kazakhstan
+Ukraine	1
+3	World Cup qualifier
+in Kazakhstan	-9
++9	1328
+1745	+1
++2	123
+28
+October 11
+2008	Ukraine
+Croatia	0
+0	World Cup qualifier
+in Ukraine	+1
+-1	1746
+1855	0
++1	28
+9
+November 19
+2008	Ukraine
+Norway	1
+0	Friendly
+in Ukraine	+6
+-6	1752
+1677	+1
+-2	26
+44
+February 10
+2009	Ukraine
+Slovakia	3
+2	Friendly tournament
+in Cyprus	+9
+-9	1761
+1593	+3
+0	21
+55
+February 11
+2009	Ukraine
+Serbia	1
+0	Friendly tournament
+in Cyprus	+15
+-15	1776
+1745	+1
+-8	20
+30
+April 01
+2009	England
+Ukraine	2
+1	World Cup qualifier
+in England	+7
+-7	1961
+1769	+2
+-2	4
+22
+June 06
+2009	Croatia
+Ukraine	2
+2	World Cup qualifier
+in Croatia	-10
++10	1857
+1779	0
++4	8
+18
+June 10
+2009	Ukraine
+Kazakhstan	2
+1	World Cup qualifier
+in Ukraine	+1
+-1	1780
+1312	+1
+0	17
+131
+August 12
+2009	Ukraine
+Turkey	0
+3	Friendly
+in Ukraine	-22
++22	1758
+1800	-6
++5	24
+14
+September 05
+2009	Ukraine
+Andorra	5
+0	World Cup qualifier
+in Ukraine	+1
+-1	1759
+1022	-1
+0	25
+184
+September 09
+2009	Belarus
+Ukraine	0
+0	World Cup qualifier
+in Belarus	+6
+-6	1548
+1753	+2
+-1	66
+26
+October 10
+2009	Ukraine
+England	1
+0	World Cup qualifier
+in Ukraine	+27
+-27	1780
+1960	+5
+0	21
+4
+October 14
+2009	Andorra
+Ukraine	0
+6	World Cup qualifier
+in Andorra	-2
++2	1005
+1782	0
++4	185
+17
+November 14
+2009	Greece
+Ukraine	0
+0	World Cup qualifier
+in Greece	-3
++3	1729
+1785	0
+0	33
+17
+November 18
+2009	Ukraine
+Greece	0
+1	World Cup qualifier
+in Ukraine	-28
++28	1757
+1757	-6
++10	23
+23
+May 25
+2010	Ukraine
+Lithuania	4
+0	Friendly
+in Ukraine	+6
+-6	1763
+1552	+2
+-4	20
+69
+May 29
+2010	Ukraine
+Romania	3
+2	Friendly
+in Ukraine	+6
+-6	1769
+1716	+3
+-2	18
+33
+June 02
+2010	Norway
+Ukraine	0
+1	Friendly
+in Norway	-12
++12	1724
+1781	-4
++2	29
+17
+August 11
+2010	Ukraine
+Netherlands	1
+1	Friendly
+in Ukraine	+5
+-5	1786
+2067	0
+0	15
+3
+September 04
+2010	Poland
+Ukraine	1
+1	Friendly
+in Poland	+2
+-2	1627
+1784	0
+0	48
+17
+September 07
+2010	Ukraine
+Chile	2
+1	Friendly
+in Ukraine	+9
+-9	1793
+1850	+2
+0	15
+9
+October 08
+2010	Ukraine
+Canada	2
+2	Friendly
+in Ukraine	-7
++7	1786
+1581	-2
++1	17
+59
+October 11
+2010	Brazil
+Ukraine	2
+0	Friendly
+in England	+5
+-5	2087
+1781	0
+0	2
+16
+November 17
+2010	Switzerland
+Ukraine	2
+2	Friendly
+in Switzerland	-1
++1	1727
+1782	0
+-2	27
+16
+February 08
+2011	Ukraine
+Romania	2
+2	Friendly tournament
+in Cyprus	-4
++4	1778
+1688	-3
++1	20
+37
+February 09
+2011	Ukraine
+Sweden	1
+1	Friendly tournament
+in Cyprus	+1
+-1	1779
+1798	0
+0	20
+14
+March 29
+2011	Ukraine
+Italy	0
+2	Friendly
+in Ukraine	-17
++17	1762
+1850	-3
++2	21
+10
+June 01
+2011	Ukraine
+Uzbekistan	2
+0	Friendly
+in Ukraine	+4
+-4	1766
+1548	+1
+-1	20
+68
+June 06
+2011	Ukraine
+France	1
+4	Friendly
+in Ukraine	-21
++21	1745
+1809	-6
++2	27
+15
+August 10
+2011	Ukraine
+Sweden	0
+1	Friendly
+in Ukraine	-11
++11	1734
+1834	-2
+0	29
+13
+September 02
+2011	Ukraine
+Uruguay	2
+3	Friendly
+in Ukraine	-7
++7	1727
+1939	-3
+0	32
+5
+September 06
+2011	Czechia
+Ukraine	4
+0	Friendly
+in Czechia	+15
+-15	1719
+1712	+3
+-4	32
+35
+October 07
+2011	Ukraine
+Bulgaria	3
+0	Friendly
+in Ukraine	+9
+-9	1721
+1623	+3
+-2	32
+52
+October 11
+2011	Estonia
+Ukraine	0
+2	Friendly
+in Estonia	-11
++11	1503
+1732	-3
++1	81
+31
+November 11
+2011	Ukraine
+Germany	3
+3	Friendly
+in Ukraine	+6
+-6	1738
+2044	+2
+0	29
+3
+November 15
+2011	Ukraine
+Austria	2
+1	Friendly
+in Ukraine	+3
+-3	1741
+1552	0
+0	28
+69
+February 29
+2012	Israel
+Ukraine	2
+3	Friendly
+in Israel	-10
++10	1638
+1751	-5
+0	49
+27
+May 28
+2012	Ukraine
+Estonia	4
+0	Friendly
+in Austria	+8
+-8	1759
+1507	+1
+-4	25
+84
+June 01
+2012	Austria
+Ukraine	3
+2	Friendly
+in Austria	+13
+-13	1577
+1746	+3
+-3	63
+28
+June 05
+2012	Turkey
+Ukraine	2
+0	Friendly
+in Germany	+16
+-16	1747
+1730	+3
+-3	28
+31
+June 11
+2012	Ukraine
+Sweden	2
+1	European Cup
+in Ukraine	+27
+-27	1757
+1835	+5
+-3	25
+14
+June 15
+2012	Ukraine
+France	0
+2	European Cup
+in Ukraine	-39
++39	1718
+1886	-8
++4	32
+9
+June 19
+2012	Ukraine
+England	0
+1	European Cup
+in Ukraine	-17
++17	1701
+1957	-3
++1	34
+4
+August 15
+2012	Ukraine
+Czechia	0
+0	Friendly
+in Ukraine	-1
++1	1700
+1762	+1
+-1	33
+24
+September 11
+2012	England
+Ukraine	1
+1	World Cup qualifier
+in England	-16
++16	1948
+1716	0
++3	5
+31
+October 12
+2012	Moldova
+Ukraine	0
+0	World Cup qualifier
+in Moldova	+12
+-12	1377
+1704	+6
+-3	110
+34
+October 16
+2012	Ukraine
+Montenegro	0
+1	World Cup qualifier
+in Ukraine	-30
++30	1674
+1639	-5
++5	39
+46
+November 14
+2012	Bulgaria
+Ukraine	0
+1	Friendly
+in Bulgaria	-12
++12	1629
+1686	-4
++4	49
+36
+February 06
+2013	Norway
+Ukraine	0
+2	Friendly
+in Spain	-17
++17	1720
+1703	-1
++1	29
+36
+March 22
+2013	Poland
+Ukraine	1
+3	World Cup qualifier
+in Poland	-37
++37	1650
+1740	-8
++9	45
+26
+March 26
+2013	Ukraine
+Moldova	2
+1	World Cup qualifier
+in Ukraine	+2
+-2	1742
+1351	0
++1	26
+120
+June 02
+2013	Ukraine
+Cameroon	0
+0	Friendly
+in Ukraine	-6
++6	1736
+1587	-4
++3	29
+58
+June 07
+2013	Montenegro
+Ukraine	0
+4	World Cup qualifier
+in Montenegro	-40
++40	1620
+1776	-9
++6	52
+23
+August 14
+2013	Ukraine
+Israel	2
+0	Friendly
+in Ukraine	+6
+-6	1782
+1643	+1
+-2	23
+47
+September 06
+2013	Ukraine
+San Marino	9
+0	World Cup qualifier
+in Ukraine	0
+0	1782
+860	+1
+0	22
+204
+September 10
+2013	Ukraine
+England	0
+0	World Cup qualifier
+in Ukraine	+3
+-3	1785
+1924	0
+0	22
+6
+October 11
+2013	Ukraine
+Poland	1
+0	World Cup qualifier
+in Ukraine	+8
+-8	1793
+1636	+1
++2	21
+46
+October 15
+2013	San Marino
+Ukraine	0
+8	World Cup qualifier
+in San Marino	-1
++1	856
+1794	0
++1	205
+21
+November 15
+2013	Ukraine
+France	2
+0	World Cup qualifier
+in Ukraine	+27
+-27	1821
+1832	+5
+-1	16
+13
+November 19
+2013	France
+Ukraine	3
+0	World Cup qualifier
+in France	+24
+-24	1856
+1797	+1
+-4	12
+20
+March 05
+2014	Ukraine
+United States	2
+0	Friendly
+in Cyprus	+17
+-17	1814
+1829	+3
+0	17
+13

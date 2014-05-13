@@ -1,0 +1,3402 @@
+March 09
+1925	Haiti
+Jamaica	0
+1	Friendly
+in Haiti	-13
++13	1387
+1413	-
+-	46
+44
+March 22
+1925	Haiti
+Jamaica	1
+2	Friendly tournament
+in Haiti	-18
++18	1369
+1431	-1
+0	47
+44
+March 26
+1925	Haiti
+Jamaica	0
+3	Friendly tournament
+in Haiti	-29
++29	1340
+1460	-2
++1	49
+43
+March 29
+1925	Haiti
+Jamaica	0
+1	Friendly tournament
+in Haiti	-14
++14	1326
+1474	0
++3	49
+40
+January 24
+1926	Haiti
+Curacao	1
+1	Friendly tournament
+in Haiti	-1
++1	1325
+1401	-1
+-	52
+46
+January 31
+1926	Haiti
+Curacao	0
+1	Friendly tournament
+in Haiti	-16
++16	1309
+1417	0
+0	52
+46
+February 07
+1926	Haiti
+Curacao	2
+1	Friendly tournament
+in Haiti	+15
+-15	1324
+1402	0
+0	52
+46
+February 14
+1926	Haiti
+Curacao	2
+2	Friendly tournament
+in Haiti	-1
++1	1323
+1403	0
+0	52
+46
+November 26
+1926	Jamaica
+Haiti	6
+0	Friendly
+in Jamaica	+8
+-8	1482
+1315	+1
+-1	41
+55
+March 13
+1932	Haiti
+Jamaica	4
+1	Friendly tournament
+in Haiti	+27
+-27	1342
+1399	0
+-6	60
+52
+March 20
+1932	Haiti
+Jamaica	0
+1	Friendly tournament
+in Haiti	-17
++17	1325
+1416	0
++5	60
+47
+January 28
+1934	Haiti
+Cuba	1
+3	World Cup qualifier
+in Haiti	-15
++15	1310
+1624	0
++2	59
+24
+February 01
+1934	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	+11
+-11	1321
+1613	0
+0	59
+24
+February 04
+1934	Haiti
+Cuba	0
+6	World Cup qualifier
+in Haiti	-21
++21	1300
+1634	0
++2	59
+22
+March 13
+1938	Haiti
+Jamaica	5
+2	Friendly tournament
+in Haiti	+24
+-24	1324
+1343	+3
+-7	63
+61
+March 17
+1938	Haiti
+Jamaica	2
+0	Friendly tournament
+in Haiti	+17
+-17	1341
+1326	+2
+-2	61
+63
+March 20
+1938	Haiti
+Jamaica	2
+0	Friendly tournament
+in Haiti	+15
+-15	1356
+1311	+4
+-1	57
+64
+March 15
+1939	Haiti
+Panama	1
+0	Friendly tournament
+in Haiti	+11
+-11	1367
+1351	+3
+-7	54
+62
+March 19
+1939	Haiti
+Panama	1
+1	Friendly tournament
+in Haiti	-5
++5	1362
+1356	-1
++5	55
+57
+March 24
+1939	Haiti
+Panama	3
+0	Friendly tournament
+in Haiti	+18
+-18	1380
+1338	+1
+-6	54
+63
+
+1948	Trinidad and Tobago
+Haiti	2
+2	Friendly tournament
+in Trinidad and Tobago	-9
++9	1528
+1389	-9
++11	46
+51
+
+1948	Trinidad and Tobago
+Haiti	3
+2	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1534
+1383	-9
++11	46
+51
+
+1948	Trinidad and Tobago
+Haiti	0
+5	Friendly tournament
+in Trinidad and Tobago	-49
++49	1485
+1432	-9
++11	46
+51
+October 09
+1948	Jamaica
+Haiti	1
+0	Friendly tournament
+in Jamaica	+15
+-15	1355
+1417	+3
+-5	66
+59
+October 11
+1948	Jamaica
+Haiti	3
+0	Friendly tournament
+in Jamaica	+23
+-23	1378
+1394	+2
+-2	64
+61
+October 13
+1948	Jamaica
+Haiti	1
+2	Friendly tournament
+in Jamaica	-19
++19	1359
+1413	-2
++2	66
+59
+April
+1949	Haiti
+Trinidad and Tobago	2
+2	Friendly tournament
+in Haiti	-2
++2	1411
+1471	0
+-1	59
+50
+April
+1949	Haiti
+Trinidad and Tobago	2
+3	Friendly tournament
+in Haiti	-17
++17	1394
+1488	0
+-1	59
+50
+April
+1949	Haiti
+Trinidad and Tobago	5
+0	Friendly tournament
+in Haiti	+29
+-29	1423
+1459	0
+-1	59
+50
+December 20
+1949	Haiti
+Jamaica	2
+0	Friendly tournament
+in Haiti	+15
+-15	1438
+1395	+4
+-3	56
+65
+February 25
+1950	El Salvador
+Haiti	1
+0	Central American and Caribbean Games
+in Guatemala	+25
+-25	1370
+1413	+6
+-4	69
+60
+February 28
+1950	Haiti
+Nicaragua	4
+2	Central American and Caribbean Games
+in Guatemala	+5
+-5	1418
+984	0
+0	60
+99
+March 06
+1950	Curacao
+Haiti	3
+0	Central American and Caribbean Games
+in Guatemala	+33
+-33	1469
+1385	+2
+-6	53
+66
+October 14
+1950	Jamaica
+Haiti	2
+1	Friendly
+in Jamaica	+7
+-7	1402
+1378	+2
+-2	64
+71
+December 24
+1951	Jamaica
+Haiti	2
+1	Friendly tournament
+in Jamaica	+11
+-11	1373
+1367	+2
+-4	74
+75
+December 26
+1951	Jamaica
+Haiti	2
+2	Friendly tournament
+in Jamaica	-4
++4	1369
+1371	-1
++1	75
+74
+December 27
+1951	Jamaica
+Haiti	0
+1	Friendly tournament
+in Jamaica	-19
++19	1350
+1390	-3
++5	78
+69
+July 19
+1952	Haiti
+Jamaica	4
+1	Friendly tournament
+in Haiti	+16
+-16	1406
+1334	+5
+-3	65
+83
+July 20
+1952	Haiti
+Jamaica	3
+3	Friendly tournament
+in Haiti	-7
++7	1399
+1341	-3
+0	68
+83
+July 23
+1952	Haiti
+Jamaica	2
+0	Friendly tournament
+in Haiti	+13
+-13	1412
+1328	+4
+0	64
+83
+July 27
+1952	Haiti
+Jamaica	3
+2	Friendly tournament
+in Haiti	+8
+-8	1420
+1320	0
+-1	64
+84
+July 19
+1953	Mexico
+Haiti	8
+0	World Cup qualifier
+in Mexico	+16
+-16	1619
+1404	+2
+0	30
+66
+November 14
+1953	Haiti
+Jamaica	4
+1	Friendly tournament
+in Haiti	+14
+-14	1418
+1306	+2
+-4	66
+91
+November 21
+1953	Haiti
+Jamaica	1
+0	Friendly tournament
+in Haiti	+7
+-7	1425
+1299	0
+0	66
+91
+December 27
+1953	Haiti
+Mexico	0
+4	World Cup qualifier
+in Haiti	-28
++28	1397
+1647	-6
++3	72
+26
+April 03
+1954	Haiti
+United States	2
+3	World Cup qualifier
+in Haiti	-20
++20	1377
+1525	-4
++2	76
+44
+April 04
+1954	Haiti
+United States	0
+3	World Cup qualifier
+in Haiti	-30
++30	1347
+1555	-7
++4	83
+40
+March 10
+1956	Haiti
+Venezuela	1
+1	Friendly tournament
+in Haiti	-5
++5	1342
+1327	0
+0	87
+89
+March 16
+1956	Haiti
+Venezuela	3
+0	Friendly tournament
+in Haiti	+19
+-19	1361
+1328	+6
+-2	82
+89
+August 14
+1957	Haiti
+Honduras	2
+1	CCCF Championship
+in Curacao	+33
+-33	1394
+1444	+9
+-6	74
+65
+August 18
+1957	Curacao
+Haiti	1
+3	CCCF Championship
+in Curacao	-59
++59	1468
+1453	-12
++12	59
+62
+August 22
+1957	Haiti
+Panama	3
+1	CCCF Championship
+in Curacao	+20
+-20	1473
+1255	+3
+-2	59
+104
+August 25
+1957	Haiti
+Cuba	6
+1	CCCF Championship
+in Curacao	+14
+-14	1487
+1145	+4
+-1	55
+118
+March 02
+1961	Haiti
+Cuba	2
+1	CCCF Championship
+in Costa Rica	+6
+-6	1493
+1140	0
+0	59
+129
+March 07
+1961	Haiti
+Panama	2
+0	CCCF Championship
+in Costa Rica	+13
+-13	1506
+1215	+5
+-2	54
+118
+March 10
+1961	Costa Rica
+Haiti	3
+0	CCCF Championship
+in Costa Rica	+16
+-16	1682
+1490	+3
+-5	25
+59
+March 14
+1961	Haiti
+Guatemala	3
+1	CCCF Championship
+in Costa Rica	+31
+-31	1521
+1402	+8
+-12	51
+83
+March 16
+1961	Honduras
+Haiti	2
+0	CCCF Championship
+in Costa Rica	+45
+-45	1499
+1476	+9
+-11	57
+62
+March 18
+1961	Costa Rica
+Haiti	8
+0	CCCF Championship
+in Costa Rica	+16
+-16	1713
+1460	0
+-4	24
+66
+March 20
+1961	El Salvador
+Haiti	2
+0	CCCF Championship
+in Costa Rica	+36
+-36	1513
+1424	+7
+-9	54
+75
+March 22
+1961	Panama
+Haiti	0
+3	Friendly tournament
+in Panama	-19
++19	1211
+1443	-2
++6	118
+69
+March 23
+1961	Panama
+Haiti	0
+2	Friendly tournament
+in Panama	-14
++14	1197
+1457	-2
++3	120
+66
+March 14
+1962	Haiti
+Mexico	1
+1	Friendly
+in Haiti	+6
+-6	1463
+1768	+1
+0	66
+18
+May 17
+1962	Jamaica
+Haiti	2
+5	Friendly tournament
+in Jamaica	-26
++26	1331
+1489	-4
++7	100
+59
+May 19
+1962	Jamaica
+Haiti	3
+4	Friendly tournament
+in Jamaica	-13
++13	1318
+1502	-4
++3	104
+56
+May 21
+1962	Jamaica
+Haiti	1
+3	Friendly tournament
+in Jamaica	-17
++17	1301
+1519	-5
++3	109
+53
+February 23
+1963	Jamaica
+Haiti	3
+2	Friendly tournament
+in Jamaica	+21
+-21	1290
+1498	+6
+-5	111
+60
+February 25
+1963	Netherlands Antilles
+Haiti	3
+1	Concacaf Championship qualifier
+in Jamaica	+31
+-31	1517
+1467	+7
+-7	57
+67
+March 02
+1963	Netherlands Antilles
+Haiti	1
+0	Concacaf Championship qualifier
+in Jamaica	+17
+-17	1544
+1450	+4
+-3	50
+70
+March 06
+1963	Jamaica
+Haiti	0
+3	Friendly tournament
+in Jamaica	-20
++20	1252
+1470	-1
++3	118
+67
+March 28
+1965	Haiti
+Netherlands Antilles	1
+1	Concacaf Championship
+in Guatemala	-1
++1	1469
+1464	0
+0	73
+75
+March 31
+1965	Guatemala
+Haiti	3
+0	Concacaf Championship
+in Guatemala	+40
+-40	1437
+1429	+12
+-10	78
+83
+April 04
+1965	Mexico
+Haiti	3
+0	Concacaf Championship
+in Guatemala	+9
+-9	1808
+1420	+1
+-2	14
+85
+April 06
+1965	El Salvador
+Haiti	3
+1	Concacaf Championship
+in Guatemala	+31
+-31	1509
+1389	+11
+-6	60
+91
+April 10
+1965	Costa Rica
+Haiti	3
+1	Concacaf Championship
+in Guatemala	+8
+-8	1759
+1381	0
+-3	23
+94
+March 06
+1967	Trinidad and Tobago
+Haiti	3
+2	Concacaf Championship
+in Honduras	+25
+-25	1410
+1356	+3
+-8	87
+102
+March 09
+1967	Honduras
+Haiti	2
+0	Concacaf Championship
+in Honduras	+25
+-25	1404
+1331	+8
+-4	88
+106
+March 12
+1967	Guatemala
+Haiti	2
+1	Concacaf Championship
+in Honduras	+12
+-12	1548
+1319	+1
+-3	49
+109
+March 14
+1967	Mexico
+Haiti	1
+0	Concacaf Championship
+in Honduras	+4
+-4	1753
+1315	0
+0	19
+109
+March 18
+1967	Haiti
+Nicaragua	2
+1	Concacaf Championship
+in Honduras	+8
+-8	1323
+1008	+3
+0	106
+157
+May 21
+1967	Dominican Republic
+Haiti	0
+8	Olympic Games qualifier
+in Dominican Republic	-31
++31	1069
+1354	-
++2	152
+104
+May 27
+1967	Haiti
+Dominican Republic	6
+0	Olympic Games qualifier
+in Haiti	+8
+-8	1362
+1061	+4
+0	100
+152
+October 08
+1967	Costa Rica
+Haiti	3
+1	Olympic Games qualifier
+in Costa Rica	+4
+-4	1730
+1358	+1
+-4	22
+100
+December 09
+1967	Haiti
+Costa Rica	3
+2	Olympic Games qualifier
+in Haiti	+32
+-32	1390
+1675	+10
+-5	88
+29
+October 20
+1968	Haiti
+United States	3
+6	Friendly tournament
+in Haiti	-32
++32	1358
+1446	-11
++8	100
+77
+October 21
+1968	Haiti
+United States	5
+2	Friendly tournament
+in Haiti	+25
+-25	1383
+1421	+8
+-7	92
+84
+October 23
+1968	Haiti
+United States	0
+1	Friendly tournament
+in Haiti	-18
++18	1365
+1439	-5
++7	97
+77
+November 23
+1968	Haiti
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Haiti	+27
+-27	1392
+1340	+10
+-9	88
+104
+November 25
+1968	Haiti
+Trinidad and Tobago	2
+4	World Cup qualifier
+in Haiti	-42
++42	1350
+1382	-13
++12	101
+92
+December 08
+1968	Haiti
+Guatemala	2
+0	World Cup qualifier
+in Haiti	+40
+-40	1390
+1536	+12
+-13	89
+59
+February
+1969	Jamaica
+Haiti	2
+1	Friendly tournament
+in Jamaica	+19
+-19	1202
+1371	0
+0	137
+89
+February
+1969	Jamaica
+Haiti	0
+3	Friendly tournament
+in Jamaica	-21
++21	1181
+1392	0
+0	137
+89
+February 23
+1969	Guatemala
+Haiti	1
+1	World Cup qualifier
+in Guatemala	-12
++12	1524
+1404	-1
++1	60
+88
+April 20
+1969	Haiti
+United States	2
+0	World Cup qualifier
+in Haiti	+30
+-30	1434
+1472	+7
+-8	81
+72
+May 11
+1969	United States
+Haiti	0
+1	World Cup qualifier
+in the United States	-28
++28	1444
+1462	-8
++6	80
+75
+September 21
+1969	Haiti
+El Salvador	1
+2	World Cup qualifier
+in Haiti	-23
++23	1439
+1538	-5
++5	80
+57
+September 28
+1969	El Salvador
+Haiti	0
+3	World Cup qualifier
+in El Salvador	-53
++53	1485
+1492	-14
++11	71
+69
+October 08
+1969	El Salvador
+Haiti	1
+0	World Cup qualifier
+in Jamaica	+20
+-20	1505
+1472	+6
+-3	65
+72
+April 21
+1971	Haiti
+Mexico	3
+1	Friendly
+in Haiti	+21
+-21	1493
+1686	+5
+-2	66
+27
+November 21
+1971	Haiti
+Mexico	0
+0	Concacaf Championship
+in Trinidad and Tobago	+13
+-13	1506
+1675	+5
+0	61
+31
+November 25
+1971	Costa Rica
+Haiti	0
+0	Concacaf Championship
+in Trinidad and Tobago	-12
++12	1667
+1518	-1
++1	32
+60
+November 27
+1971	Haiti
+Honduras	3
+1	Concacaf Championship
+in Trinidad and Tobago	+22
+-22	1540
+1339	+5
+-8	55
+103
+November 30
+1971	Cuba
+Haiti	0
+0	Concacaf Championship
+in Trinidad and Tobago	+16
+-16	1291
+1524	+3
+-2	115
+57
+December 05
+1971	Trinidad and Tobago
+Haiti	0
+6	Concacaf Championship
+in Trinidad and Tobago	-44
++44	1321
+1568	-13
++6	107
+51
+February 09
+1972	Haiti
+Chile	1
+0	Friendly
+in Haiti	+11
+-11	1579
+1707	+3
+-2	48
+29
+April 15
+1972	Haiti
+Puerto Rico	7
+0	World Cup qualifier
+in Haiti	+1
+-1	1580
+903	0
+0	51
+167
+April 23
+1972	Puerto Rico
+Haiti	0
+5	World Cup qualifier
+in Puerto Rico	-3
++3	900
+1583	0
++2	167
+49
+February 08
+1973	Barbados
+Haiti	3
+2	Friendly
+in Barbados	+18
+-18	1156
+1565	+1
+-2	148
+48
+April 14
+1973	Haiti
+Chile	1
+1	Friendly
+in Haiti	+1
+-1	1566
+1684	0
+0	49
+29
+May 12
+1973	Haiti
+Ecuador	1
+2	Friendly
+in Haiti	-16
++16	1550
+1440	-3
++3	53
+75
+May 15
+1973	Haiti
+Ecuador	1
+0	Friendly
+in Haiti	+5
+-5	1555
+1435	+1
+-1	52
+76
+May 27
+1973	Haiti
+Colombia	1
+2	Friendly
+in Haiti	-16
++16	1539
+1417	-7
++6	59
+81
+May 29
+1973	Haiti
+Colombia	2
+1	Friendly
+in Haiti	+4
+-4	1543
+1413	+2
+-2	57
+83
+June 06
+1973	Haiti
+Uruguay	0
+0	Friendly
+in Haiti	+3
+-3	1546
+1747	0
+0	57
+24
+November 03
+1973	Haiti
+United States	1
+0	Friendly
+in Haiti	+6
+-6	1552
+1472	+1
+-1	56
+70
+November 05
+1973	Haiti
+United States	1
+0	Friendly
+in Haiti	+5
+-5	1557
+1467	+3
+0	53
+69
+November 10
+1973	Haiti
+Canada	5
+1	Friendly
+in Haiti	+11
+-11	1568
+1495	+4
+-3	49
+66
+November 12
+1973	Haiti
+Canada	0
+1	Friendly
+in Haiti	-15
++15	1553
+1510	-7
++3	55
+63
+December 01
+1973	Haiti
+Netherlands Antilles	3
+0	World Cup qualifier
+in Haiti	+13
+-13	1566
+1391	+7
+-1	47
+88
+December 04
+1973	Haiti
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Haiti	+6
+-6	1572
+1358	0
+-2	47
+100
+December 07
+1973	Haiti
+Honduras	1
+0	World Cup qualifier
+in Haiti	+8
+-8	1580
+1413	+1
+-2	46
+85
+December 13
+1973	Haiti
+Guatemala	2
+1	World Cup qualifier
+in Haiti	+13
+-13	1593
+1544	+1
+-3	44
+56
+December 18
+1973	Haiti
+Mexico	0
+1	World Cup qualifier
+in Haiti	-22
++22	1571
+1684	-2
++1	46
+30
+March 23
+1974	Haiti
+Uruguay	0
+1	Friendly
+in Haiti	-8
++8	1563
+1734	-4
+0	51
+26
+March 25
+1974	Haiti
+Uruguay	0
+0	Friendly
+in Haiti	+2
+-2	1565
+1732	+2
+0	49
+26
+April 21
+1974	Brazil
+Haiti	4
+0	Friendly
+in Brazil	+1
+-1	2086
+1564	0
+-1	1
+50
+April 24
+1974	Haiti
+Chile	0
+1	Friendly
+in Haiti	-7
++7	1557
+1763	-1
++1	51
+20
+April 26
+1974	Haiti
+Chile	0
+0	Friendly
+in Haiti	+3
+-3	1560
+1760	0
+0	51
+20
+June 15
+1974	Italy
+Haiti	3
+1	World Cup
+in West Germany	+8
+-8	1963
+1552	0
+-1	3
+51
+June 19
+1974	Poland
+Haiti	7
+0	World Cup
+in West Germany	+12
+-12	1965
+1540	+1
+-3	3
+54
+June 23
+1974	Argentina
+Haiti	4
+1	World Cup
+in West Germany	+15
+-15	1860
+1525	0
+-4	9
+58
+August 15
+1975	Panama
+Haiti	2
+0	Friendly
+in Panama	+22
+-22	1276
+1503	+4
+-2	124
+64
+August 17
+1975	Panama
+Haiti	1
+1	Friendly
+in Panama	+4
+-4	1280
+1499	+2
+-1	122
+65
+April 02
+1976	Dominican Republic
+Haiti	0
+3	World Cup qualifier
+in Dominican Republic	-7
++7	1004
+1506	-1
++3	163
+62
+April 14
+1976	Haiti
+Dominican Republic	3
+0	World Cup qualifier
+in Haiti	+2
+-2	1508
+1002	0
+-1	62
+164
+July 31
+1976	Netherlands Antilles
+Haiti	1
+2	World Cup qualifier
+in the Netherlands Antilles	-17
++17	1342
+1525	-3
++2	102
+60
+August 14
+1976	Haiti
+Netherlands Antilles	7
+0	World Cup qualifier
+in Haiti	+15
+-15	1540
+1327	+4
+-4	56
+107
+November 10
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1535
+1448	-2
+0	58
+75
+November 12
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1530
+1453	-1
++1	59
+74
+November 14
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1525
+1458	0
+0	59
+74
+November 28
+1976	Cuba
+Haiti	1
+1	World Cup qualifier
+in Cuba	-6
++6	1523
+1531	-2
++2	60
+57
+December 11
+1976	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	-6
++6	1525
+1529	-2
++1	59
+58
+December 29
+1976	Haiti
+Cuba	2
+0	World Cup qualifier
+in Panama	+31
+-31	1556
+1508	+5
+-7	54
+64
+May 26
+1977	Haiti
+Peru	1
+2	Friendly
+in Haiti	-8
++8	1548
+1744	-2
+0	55
+24
+May 29
+1977	Haiti
+Peru	2
+2	Friendly
+in Haiti	+3
+-3	1551
+1741	+1
+0	54
+24
+October 09
+1977	Mexico
+Haiti	4
+1	World Cup qualifier
+in Mexico	+15
+-15	1690
+1536	+2
+-2	32
+57
+October 12
+1977	Haiti
+Guatemala	2
+1	World Cup qualifier
+in Mexico	+22
+-22	1558
+1555	+5
+-6	52
+55
+October 16
+1977	Haiti
+El Salvador	1
+0	World Cup qualifier
+in Mexico	+12
+-12	1570
+1409	+2
+-4	50
+85
+October 20
+1977	Canada
+Haiti	1
+1	World Cup qualifier
+in Mexico	+5
+-5	1491
+1565	+1
+-1	69
+51
+October 23
+1977	Haiti
+Surinam	1
+0	World Cup qualifier
+in Mexico	+10
+-10	1575
+1360	+1
+-3	50
+98
+September 29
+1979	Haiti
+Antigua and Barbuda	1
+0	CFU Championship qualifier
+in Haiti	+2
+-2	1577
+1119	0
+0	53
+157
+October 03
+1979	Jamaica
+Haiti	0
+4	CFU Championship qualifier
+in Jamaica	-14
++14	1203
+1591	-4
++6	142
+50
+October 15
+1979	Antigua and Barbuda
+Haiti	1
+2	CFU Championship qualifier
+in Antigua and Barbuda	-4
++4	1115
+1595	0
+0	157
+50
+November 02
+1979	Haiti
+Jamaica	3
+0	CFU Championship qualifier
+in Haiti	+4
+-4	1599
+1199	+1
+-2	46
+144
+November 11
+1979	Haiti
+Trinidad and Tobago	1
+0	CFU Championship
+in Surinam	+9
+-9	1608
+1385	0
+-1	45
+92
+November 18
+1979	Surinam
+Haiti	0
+1	CFU Championship
+in Surinam	-15
++15	1395
+1623	-6
++2	91
+43
+August 01
+1980	Haiti
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Haiti	+6
+-6	1629
+1330	+3
+-1	40
+107
+August 17
+1980	Trinidad and Tobago
+Haiti	1
+0	World Cup qualifier
+in Trinidad and Tobago	+30
+-30	1360
+1599	+9
+-8	98
+48
+September 12
+1980	Haiti
+Netherlands Antilles	1
+0	World Cup qualifier
+in Haiti	+4
+-4	1603
+1323	0
+-1	47
+109
+December 12
+1980	Netherlands Antilles
+Haiti	1
+1	World Cup qualifier
+in the Netherlands Antilles	+9
+-9	1336
+1594	+1
+0	109
+45
+November 03
+1981	Honduras
+Haiti	4
+0	World Cup qualifier
+in Honduras	+36
+-36	1541
+1558	+4
+-10	61
+56
+November 06
+1981	Canada
+Haiti	1
+1	World Cup qualifier
+in Honduras	+3
+-3	1506
+1555	0
+0	66
+56
+November 11
+1981	Haiti
+Mexico	1
+1	World Cup qualifier
+in Honduras	+3
+-3	1558
+1612	0
+-1	57
+43
+November 15
+1981	Cuba
+Haiti	2
+0	World Cup qualifier
+in Honduras	+35
+-35	1534
+1523	+4
+-6	62
+63
+November 19
+1981	El Salvador
+Haiti	1
+0	World Cup qualifier
+in Honduras	+22
+-22	1507
+1501	+6
+-3	65
+66
+April 08
+1983	Haiti
+United States	0
+2	Friendly
+in Haiti	-20
++20	1481
+1500	-3
++3	72
+69
+March 28
+1984	Haiti
+Canada	0
+1	Friendly
+in Haiti	-13
++13	1468
+1474	-5
++4	80
+76
+May 01
+1984	Jamaica
+Haiti	0
+1	Friendly
+in Jamaica	-5
++5	1176
+1473	0
++2	147
+78
+August 04
+1984	Haiti
+Antigua and Barbuda	4
+0	World Cup qualifier
+in Haiti	+4
+-4	1477
+1055	+2
+0	76
+165
+August 07
+1984	Haiti
+Antigua and Barbuda	1
+2	World Cup qualifier
+in Haiti	-38
++38	1439
+1093	-7
++4	83
+161
+April 13
+1985	Canada
+Haiti	2
+0	World Cup qualifier
+in Canada	+16
+-16	1525
+1423	+1
+-2	63
+85
+April 26
+1985	Haiti
+Guatemala	0
+1	World Cup qualifier
+in Haiti	-22
++22	1401
+1504	-4
++7	89
+66
+May 08
+1985	Haiti
+Canada	0
+2	World Cup qualifier
+in Haiti	-26
++26	1375
+1568	-4
++6	94
+57
+May 15
+1985	Guatemala
+Haiti	4
+0	World Cup qualifier
+in Guatemala	+16
+-16	1516
+1359	+3
+-5	64
+99
+June 27
+1989	Colombia
+Haiti	4
+0	Friendly
+in the United States	+3
+-3	1815
+1356	+1
+0	15
+104
+March 05
+1991	Dominican Republic
+Haiti	1
+1	Caribbean Cup qualifier
+in Puerto Rico	+15
+-15	1030
+1341	-1
+-3	173
+109
+March 07
+1991	Puerto Rico
+Haiti	2
+3	Caribbean Cup qualifier
+in Puerto Rico	-5
++5	890
+1346	-1
+-1	186
+110
+April 26
+1992	Bermuda
+Haiti	1
+0	World Cup qualifier
+in Bermuda	+13
+-13	1377
+1333	+3
+0	103
+111
+May 09
+1992	Congo
+Haiti	4
+1	Friendly
+in Congo	+6
+-6	1519
+1327	+1
+0	65
+112
+May 25
+1992	Haiti
+Bermuda	2
+1	World Cup qualifier
+in Haiti	+17
+-17	1344
+1360	0
+-5	112
+108
+March 10
+1994	Dominican Republic
+Haiti	0
+1	Caribbean Cup qualifier
+in Dominican Republic	-10
++10	1048
+1354	-1
++6	183
+114
+April 07
+1994	Haiti
+Cayman Islands	3
+2	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1363
+1129	+3
+-2	111
+168
+April 09
+1994	Martinique
+Haiti	3
+0	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1531
+1342	+8
+-9	65
+120
+April 11
+1994	Haiti
+Surinam	1
+1	Caribbean Cup
+in Trinidad and Tobago	-1
++1	1341
+1333	0
++1	120
+122
+March 06
+1996	Trinidad and Tobago
+Haiti	2
+0	Friendly
+in Trinidad and Tobago	+6
+-6	1496
+1335	+2
+-4	74
+120
+April 26
+1996	Haiti
+Dominican Republic	6
+0	Caribbean Cup qualifier
+in Haiti	+11
+-11	1346
+1084	+2
+-1	116
+175
+April 28
+1996	Haiti
+Dominican Republic	1
+1	Caribbean Cup qualifier
+in Haiti	-16
++16	1330
+1100	-6
++2	122
+173
+May 12
+1996	Haiti
+Grenada	6
+1	World Cup qualifier
+in Haiti	+21
+-21	1351
+1229	+5
+-4	117
+147
+May 18
+1996	Grenada
+Haiti	0
+1	World Cup qualifier
+in Grenada	-19
++19	1210
+1370	-5
++3	152
+114
+May 25
+1996	Martinique
+Haiti	1
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1506
+1357	+3
+-1	73
+115
+May 27
+1996	Haiti
+St. Vincent & Grenadines	2
+2	Caribbean Cup
+in Trinidad and Tobago	-3
++3	1354
+1315	-1
++2	116
+127
+May 29
+1996	Cuba
+Haiti	0
+0	Caribbean Cup
+in Trinidad and Tobago	-10
++10	1541
+1364	-3
++1	63
+115
+June 10
+1996	Cuba
+Haiti	6
+1	World Cup qualifier
+in Trinidad and Tobago	+22
+-22	1555
+1342	+7
+-5	59
+119
+June 30
+1996	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	+6
+-6	1348
+1549	+2
+-2	117
+61
+October 18
+1997	Haiti
+Jamaica	0
+1	Friendly
+in Haiti	-6
++6	1342
+1621	0
++2	118
+49
+October 20
+1997	Haiti
+Cuba	2
+2	Friendly tournament
+in Haiti	0
+0	1342
+1446	0
+0	118
+91
+October 22
+1997	Haiti
+Martinique	3
+0	Friendly tournament
+in Haiti	+31
+-31	1373
+1471	+7
+-6	111
+77
+March 11
+1998	Haiti
+Puerto Rico	4
+0	Caribbean Cup qualifier
+in Haiti	+6
+-6	1379
+1034	+1
+-2	109
+185
+March 15
+1998	Haiti
+Dominican Republic	5
+0	Caribbean Cup qualifier
+in Haiti	+10
+-10	1389
+1130	+2
+-1	107
+168
+July 22
+1998	Haiti
+Netherlands Antilles	4
+0	Caribbean Cup
+in Jamaica	+19
+-19	1408
+1178	+4
+-7	101
+160
+July 24
+1998	Haiti
+Cayman Islands	1
+0	Caribbean Cup
+in Jamaica	+7
+-7	1415
+1145	+2
+-2	100
+168
+July 26
+1998	Jamaica
+Haiti	2
+1	Caribbean Cup
+in Jamaica	+6
+-6	1635
+1409	+1
+0	46
+100
+July 29
+1998	Trinidad and Tobago
+Haiti	4
+1	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1482
+1388	+6
+-7	79
+107
+July 31
+1998	Antigua and Barbuda
+Haiti	2
+3	Caribbean Cup
+in Trinidad and Tobago	-11
++11	1216
+1399	-2
++3	149
+104
+March 17
+1999	Haiti
+Puerto Rico	2
+0	Caribbean Cup qualifier
+in Haiti	+3
+-3	1402
+1008	+2
+0	103
+186
+March 19
+1999	Haiti
+Dominican Republic	4
+0	Caribbean Cup qualifier
+in Haiti	+7
+-7	1409
+1110	+1
+0	102
+171
+March 21
+1999	Haiti
+British Virgin Islands	6
+0	Caribbean Cup qualifier
+in Haiti	+3
+-3	1412
+933	0
+0	102
+196
+May 21
+1999	Honduras
+Haiti	2
+0	Friendly
+in the United States	+9
+-9	1562
+1403	+1
+-2	58
+102
+June 04
+1999	Cuba
+Haiti	3
+1	Caribbean Cup
+in Trinidad and Tobago	+26
+-26	1475
+1377	+5
+-6	81
+108
+June 06
+1999	Haiti
+Saint Kitts and Nevis	2
+0	Caribbean Cup
+in Trinidad and Tobago	+22
+-22	1399
+1264	+7
+-6	101
+138
+June 11
+1999	Trinidad and Tobago
+Haiti	6
+1	Caribbean Cup
+in Trinidad and Tobago	+16
+-16	1557
+1383	+3
+-6	60
+107
+September 28
+1999	Haiti
+Venezuela	3
+2	Friendly
+in Haiti	+7
+-7	1390
+1372	+1
+-2	105
+111
+October 06
+1999	El Salvador
+Haiti	1
+1	Concacaf Gold Cup qualifier
+in the United States	0
+0	1397
+1390	0
+0	104
+105
+October 08
+1999	Haiti
+Cuba	1
+0	Concacaf Gold Cup qualifier
+in the United States	+27
+-27	1417
+1490	+4
+-10	101
+77
+October 10
+1999	Canada
+Haiti	2
+1	Concacaf Gold Cup qualifier
+in the United States	+14
+-14	1539
+1403	+3
+-1	61
+102
+February 12
+2000	United States
+Haiti	3
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1794
+1398	0
+-3	18
+104
+February 14
+2000	Haiti
+Peru	1
+1	Concacaf Gold Cup
+in the United States	+18
+-18	1416
+1693	+3
+-6	101
+35
+March 05
+2000	Bolivia
+Haiti	9
+2	Friendly
+in Bolivia	+7
+-7	1629
+1409	+1
+0	51
+101
+March 11
+2000	Haiti
+Dominica	4
+0	World Cup qualifier
+in Haiti	+9
+-9	1418
+1145	0
+-2	101
+165
+March 19
+2000	Dominica
+Haiti	1
+3	World Cup qualifier
+in Dominica	-16
++16	1129
+1434	-4
++8	169
+93
+March 28
+2000	El Salvador
+Haiti	3
+1	Friendly
+in El Salvador	+14
+-14	1373
+1420	+3
+-8	113
+100
+April 01
+2000	Haiti
+Bahamas	9
+0	World Cup qualifier
+in Haiti	+2
+-2	1422
+862	+4
+0	95
+207
+April 16
+2000	Bahamas
+Haiti	0
+4	World Cup qualifier
+in the Bahamas	-5
++5	857
+1427	0
++1	207
+94
+May 07
+2000	Trinidad and Tobago
+Haiti	3
+1	World Cup qualifier
+in Trinidad and Tobago	+11
+-11	1589
+1416	+1
+-3	56
+98
+May 19
+2000	Haiti
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Haiti	+4
+-4	1420
+1585	+3
+-1	95
+57
+May 27
+2000	Cuba
+Haiti	0
+1	Friendly
+in Cuba	-14
++14	1463
+1434	-2
++4	85
+90
+May 29
+2000	Cuba
+Haiti	1
+1	Friendly
+in Cuba	-4
++4	1459
+1438	0
+0	85
+90
+June 03
+2000	Honduras
+Haiti	4
+0	World Cup qualifier
+in Honduras	+12
+-12	1642
+1426	+5
+-2	47
+91
+June 17
+2000	Haiti
+Honduras	1
+3	World Cup qualifier
+in Haiti	-20
++20	1406
+1662	-12
++4	103
+43
+July 03
+2000	Guatemala
+Haiti	4
+1	Friendly tournament
+in Canada	+21
+-21	1496
+1385	+7
+-6	75
+106
+August 05
+2000	Haiti
+El Salvador	2
+1	Friendly
+in Haiti	+8
+-8	1393
+1395	+6
+0	101
+100
+August 20
+2000	Honduras
+Haiti	4
+0	Friendly
+in the United States	+7
+-7	1660
+1386	+2
+-6	42
+107
+April 05
+2001	Haiti
+Panama	1
+1	Friendly
+in Haiti	-3
++3	1383
+1374	-2
++1	107
+114
+April 07
+2001	Haiti
+Panama	0
+0	Friendly
+in Haiti	-3
++3	1380
+1377	-4
++2	111
+112
+April 10
+2001	Haiti
+US Virgin Islands	12
+1	Caribbean Cup qualifier
+in Haiti	+2
+-2	1382
+780	+2
+0	108
+211
+April 12
+2001	Haiti
+Saint Lucia	3
+2	Caribbean Cup qualifier
+in Haiti	+9
+-9	1391
+1252	+6
+-2	102
+143
+April 14
+2001	Haiti
+Guadeloupe	2
+0	Caribbean Cup qualifier
+in Haiti	+15
+-15	1406
+1291	+4
+-6	98
+135
+April 24
+2001	Panama
+Haiti	2
+0	Friendly
+in Panama	+12
+-12	1389
+1394	+5
+-5	106
+102
+May 16
+2001	Haiti
+Saint Kitts and Nevis	7
+2	Caribbean Cup
+in Trinidad and Tobago	+23
+-23	1417
+1212	+7
+-3	95
+150
+May 18
+2001	Haiti
+Surinam	1
+1	Caribbean Cup
+in Trinidad and Tobago	-7
++7	1410
+1298	-2
++2	97
+132
+May 20
+2001	Cuba
+Haiti	0
+0	Caribbean Cup
+in Trinidad and Tobago	-4
++4	1474
+1414	-1
++2	81
+96
+May 22
+2001	Haiti
+Martinique	5
+0	Caribbean Cup
+in Trinidad and Tobago	+42
+-42	1456
+1387	+11
+-13	85
+107
+May 25
+2001	Trinidad and Tobago
+Haiti	3
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1629
+1443	+4
+-4	50
+88
+October 21
+2001	Bahamas
+Haiti	0
+2	Friendly
+in the Bahamas	-2
++2	855
+1445	0
++1	208
+93
+December 15
+2001	El Salvador
+Haiti	0
+0	Friendly
+in the United States	-1
++1	1466
+1446	0
+0	84
+91
+January 06
+2002	Martinique
+Haiti	3
+3	Friendly tournament
+in Martinique	-1
++1	1357
+1447	0
+0	118
+90
+January 18
+2002	Canada
+Haiti	2
+0	Concacaf Gold Cup
+in the United States	+25
+-25	1593
+1422	+3
+-8	54
+98
+January 20
+2002	Ecuador
+Haiti	0
+2	Concacaf Gold Cup
+in the United States	-63
++63	1650
+1485	-10
++17	43
+82
+January 26
+2002	Costa Rica
+Haiti	2
+1	Concacaf Gold Cup
+in the United States	+9
+-9	1753
+1476	+2
+0	25
+83
+November 18
+2002	Haiti
+Antigua and Barbuda	1
+0	Concacaf Gold Cup qualifier
+in Haiti	+3
+-3	1479
+1145	+2
+-2	79
+167
+November 22
+2002	Haiti
+Netherlands Antilles	3
+0	Concacaf Gold Cup qualifier
+in Haiti	+5
+-5	1484
+1124	+2
+-1	77
+171
+February 23
+2003	Peru
+Haiti	5
+1	Friendly
+in Peru	+8
+-8	1606
+1476	+4
+-1	52
+81
+March 26
+2003	Haiti
+Martinique	2
+1	Concacaf Gold Cup qualifier
+in Jamaica	+18
+-18	1494
+1424	+5
+-5	76
+98
+March 28
+2003	Saint Lucia
+Haiti	2
+1	Concacaf Gold Cup qualifier
+in Jamaica	+32
+-32	1291
+1462	+9
+-11	134
+88
+March 30
+2003	Jamaica
+Haiti	3
+0	Concacaf Gold Cup qualifier
+in Jamaica	+19
+-19	1554
+1443	+1
+-4	62
+91
+July 29
+2003	Saint Kitts and Nevis
+Haiti	1
+0	Friendly tournament
+in Saint Kitts and Nevis	+15
+-15	1354
+1428	+5
+-2	119
+94
+July 31
+2003	Haiti
+Trinidad and Tobago	2
+0	Friendly tournament
+in Saint Kitts and Nevis	+21
+-21	1449
+1379	+4
+-7	90
+110
+August 20
+2003	Venezuela
+Haiti	3
+2	Friendly
+in Venezuela	+4
+-4	1594
+1445	0
+0	57
+90
+August 31
+2003	Haiti
+China	4
+3	Friendly
+in the United States	+14
+-14	1459
+1587	+6
+-3	84
+59
+December 27
+2003	Haiti
+Bahamas	6
+0	Friendly
+in the United States	+1
+-1	1460
+854	0
+0	86
+207
+January 31
+2004	Haiti
+Nicaragua	1
+1	Friendly
+in the United States	-9
++9	1451
+978	-1
++1	84
+190
+February 18
+2004	Haiti
+Turks and Caicos	5
+0	World Cup qualifier
+in the United States	+1
+-1	1452
+687	-1
+0	85
+218
+February 21
+2004	Haiti
+Turks and Caicos	2
+0	World Cup qualifier
+in the United States	+1
+-1	1453
+686	+1
+0	84
+218
+February 29
+2004	Nicaragua
+Haiti	1
+1	Friendly
+in Nicaragua	+8
+-8	986
+1445	0
+-5	190
+89
+March 13
+2004	United States
+Haiti	1
+1	Friendly
+in the United States	-9
++9	1793
+1454	-1
++5	17
+84
+May 05
+2004	Guatemala
+Haiti	1
+0	Friendly
+in Guatemala	+5
+-5	1533
+1449	+2
+-4	68
+90
+May 12
+2004	El Salvador
+Haiti	3
+3	Friendly
+in the United States	0
+0	1457
+1449	0
+0	84
+90
+June 12
+2004	Haiti
+Jamaica	1
+1	World Cup qualifier
+in the United States	+8
+-8	1457
+1585	+3
+0	85
+58
+June 20
+2004	Jamaica
+Haiti	3
+0	World Cup qualifier
+in Jamaica	+15
+-15	1600
+1442	+2
+-6	56
+92
+August 18
+2004	Haiti
+Brazil	0
+6	Friendly
+in Haiti	-3
++3	1439
+1983	-1
+0	93
+3
+November 11
+2004	Haiti
+Honduras	1
+1	Friendly
+in the United States	+5
+-5	1444
+1627	+1
+-1	92
+47
+November 24
+2004	Haiti
+US Virgin Islands	11
+0	Caribbean Cup qualifier
+in Jamaica	+2
+-2	1446
+726	0
+0	92
+214
+November 26
+2004	Haiti
+Saint Martin	2
+0	Caribbean Cup qualifier
+in Jamaica	+6
+-6	1452
+1042	0
+0	92
+182
+November 28
+2004	Jamaica
+Haiti	3
+1	Caribbean Cup qualifier
+in Jamaica	+11
+-11	1619
+1441	+4
+0	50
+92
+December 12
+2004	Haiti
+Saint Kitts and Nevis	1
+0	Caribbean Cup qualifier
+in the United States	+10
+-10	1451
+1246	0
+-3	92
+144
+December 15
+2004	Saint Kitts and Nevis
+Haiti	0
+2	Caribbean Cup qualifier
+in Saint Kitts and Nevis	-21
++21	1225
+1472	-5
++3	149
+89
+January 09
+2005	Haiti
+Cuba	0
+1	Caribbean Cup qualifier
+in Haiti	-20
++20	1452
+1598	-2
++3	91
+58
+January 12
+2005	Costa Rica
+Haiti	3
+3	Friendly
+in Costa Rica	-7
++7	1663
+1459	0
+0	39
+91
+January 16
+2005	Cuba
+Haiti	1
+1	Caribbean Cup qualifier
+in Cuba	-12
++12	1586
+1471	-3
++3	60
+88
+February 01
+2005	Trinidad and Tobago
+Haiti	1
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1485
+1464	+2
+-1	84
+90
+February 03
+2005	Trinidad and Tobago
+Haiti	2
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1492
+1457	+2
+-1	82
+91
+February 06
+2005	Trinidad and Tobago
+Haiti	0
+1	Friendly
+in Trinidad and Tobago	-14
++14	1478
+1471	-4
++2	86
+89
+February 13
+2005	Guatemala
+Haiti	2
+1	Friendly
+in the United States	+7
+-7	1601
+1464	+4
+-2	55
+88
+August 16
+2006	Guatemala
+Haiti	1
+1	Friendly
+in the United States	-3
++3	1556
+1467	-2
+-2	66
+89
+September 15
+2006	Haiti
+Dominican Republic	3
+1	Friendly
+in Haiti	+2
+-2	1469
+1076	0
+0	88
+177
+September 17
+2006	Haiti
+Dominican Republic	2
+1	Friendly
+in Haiti	+1
+-1	1470
+1075	0
+0	88
+177
+September 27
+2006	Haiti
+St. Vincent & Grenadines	4
+0	Caribbean Cup qualifier
+in Jamaica	+23
+-23	1493
+1304	+7
+-5	81
+125
+September 29
+2006	Haiti
+Saint Lucia	7
+1	Caribbean Cup qualifier
+in Jamaica	+15
+-15	1508
+1211	+5
+-4	76
+153
+October 01
+2006	Jamaica
+Haiti	2
+0	Caribbean Cup qualifier
+in Jamaica	+17
+-17	1592
+1491	+2
+-6	57
+82
+October 17
+2006	Haiti
+Cuba	0
+0	Friendly
+in Haiti	-2
++2	1489
+1536	-1
++2	82
+69
+October 19
+2006	Haiti
+Cuba	0
+1	Friendly
+in Haiti	-12
++12	1477
+1548	-2
++6	84
+63
+November 08
+2006	Cuba
+Haiti	2
+1	Caribbean Cup qualifier
+in Martinique	+16
+-16	1564
+1461	+2
+-5	62
+89
+November 10
+2006	Martinique
+Haiti	1
+0	Caribbean Cup qualifier
+in Martinique	+21
+-21	1371
+1440	+9
+-5	107
+94
+November 12
+2006	Haiti
+Surinam	1
+1	Caribbean Cup qualifier
+in Martinique	-12
++12	1428
+1224	-3
++3	97
+149
+January 07
+2007	Haiti
+Bermuda	2
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+13
+-13	1441
+1195	+3
+-4	93
+158
+January 09
+2007	Haiti
+Bermuda	3
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+14
+-14	1455
+1181	0
+-5	93
+163
+January 12
+2007	Haiti
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+16
+-16	1471
+1368	+5
+-6	88
+109
+January 15
+2007	Haiti
+Barbados	2
+0	Caribbean Cup
+in Trinidad and Tobago	+18
+-18	1489
+1308	+7
+-5	81
+125
+January 17
+2007	Trinidad and Tobago
+Haiti	3
+1	Caribbean Cup
+in Trinidad and Tobago	+18
+-18	1549
+1471	+7
+-6	65
+87
+January 20
+2007	Haiti
+Guadeloupe	3
+1	Caribbean Cup
+in Trinidad and Tobago	+24
+-24	1495
+1377	+7
+-5	79
+105
+January 23
+2007	Trinidad and Tobago
+Haiti	1
+2	Caribbean Cup
+in Trinidad and Tobago	-29
++29	1541
+1524	-7
++3	67
+76
+March 24
+2007	Haiti
+Panama	3
+0	Friendly
+in the United States	+19
+-19	1543
+1544	+8
+-4	67
+66
+April 17
+2007	El Salvador
+Haiti	0
+1	Friendly
+in El Salvador	-7
++7	1326
+1550	-1
++2	122
+66
+April 19
+2007	Honduras
+Haiti	1
+3	Friendly
+in Honduras	-24
++24	1657
+1574	0
++4	43
+62
+May 23
+2007	Haiti
+Chile	0
+0	Friendly
+in Haiti	+2
+-2	1576
+1725	+1
+0	60
+33
+May 28
+2007	Trinidad and Tobago
+Haiti	1
+0	Friendly tournament
+in Trinidad and Tobago	+13
+-13	1533
+1563	+2
+-4	74
+64
+May 30
+2007	Haiti
+St. Vincent & Grenadines	3
+0	Friendly tournament
+in Trinidad and Tobago	+11
+-11	1574
+1331	+3
+-2	61
+121
+June 06
+2007	Guadeloupe
+Haiti	1
+1	Concacaf Gold Cup
+in the United States	+14
+-14	1374
+1560	+5
+-3	107
+64
+June 09
+2007	Costa Rica
+Haiti	1
+1	Concacaf Gold Cup
+in the United States	-5
++5	1632
+1565	0
++1	47
+64
+June 11
+2007	Canada
+Haiti	2
+0	Concacaf Gold Cup
+in the United States	+37
+-37	1607
+1528	+8
+-9	53
+72
+October 17
+2007	Costa Rica
+Haiti	1
+1	Friendly
+in Costa Rica	-5
++5	1619
+1533	-1
+0	54
+71
+January 26
+2008	Haiti
+El Salvador	0
+0	Friendly
+in Haiti	-6
++6	1527
+1372	-3
++3	73
+110
+January 29
+2008	Haiti
+El Salvador	0
+0	Friendly
+in Haiti	-6
++6	1521
+1378	-1
++2	74
+108
+February 03
+2008	Venezuela
+Haiti	1
+0	Friendly
+in Venezuela	+4
+-4	1653
+1517	0
+0	43
+74
+February 06
+2008	Venezuela
+Haiti	1
+1	Friendly
+in Venezuela	-6
++6	1647
+1523	-3
+0	46
+74
+March 26
+2008	Ecuador
+Haiti	3
+1	Friendly
+in Ecuador	+6
+-6	1654
+1517	+4
+-1	43
+75
+April 23
+2008	Guatemala
+Haiti	1
+0	Friendly
+in Guatemala	+8
+-8	1496
+1509	+2
+-3	83
+78
+June 07
+2008	Honduras
+Haiti	3
+1	Friendly
+in Honduras	+5
+-5	1683
+1504	0
+-4	42
+81
+June 15
+2008	Haiti
+Netherlands Antilles	0
+0	World Cup qualifier
+in Haiti	-17
++17	1487
+1153	-4
++1	82
+170
+June 22
+2008	Netherlands Antilles
+Haiti	0
+1	World Cup qualifier
+in the Netherlands Antilles	-8
++8	1145
+1495	0
+0	170
+83
+July 30
+2008	Trinidad and Tobago
+Haiti	2
+0	Friendly
+in Trinidad and Tobago	+11
+-11	1490
+1484	+3
+-3	84
+86
+August 10
+2008	Haiti
+Trinidad and Tobago	1
+0	Friendly
+in Haiti	+7
+-7	1491
+1483	+2
+-3	84
+87
+August 20
+2008	Haiti
+Surinam	2
+2	World Cup qualifier
+in Haiti	-14
++14	1477
+1304	-5
++1	89
+129
+September 06
+2008	El Salvador
+Haiti	5
+0	World Cup qualifier
+in El Salvador	+37
+-37	1437
+1440	+8
+-7	97
+96
+September 10
+2008	Haiti
+Costa Rica	1
+3	World Cup qualifier
+in Haiti	-24
++24	1416
+1637	-5
++2	101
+47
+October 11
+2008	Haiti
+El Salvador	0
+0	World Cup qualifier
+in Haiti	-3
++3	1413
+1467	+1
+0	100
+91
+October 15
+2008	Costa Rica
+Haiti	2
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1658
+1405	+2
+-6	45
+106
+November 19
+2008	Surinam
+Haiti	1
+1	World Cup qualifier
+in Surinam	+4
+-4	1239
+1401	+3
+-5	145
+110
+December 04
+2008	Antigua and Barbuda
+Haiti	1
+1	Caribbean Cup
+in Jamaica	+9
+-9	1242
+1392	+6
+-1	145
+111
+December 06
+2008	Guadeloupe
+Haiti	3
+2	Caribbean Cup
+in Jamaica	+16
+-16	1486
+1376	+4
+-5	88
+116
+December 08
+2008	Haiti
+Cuba	1
+0	Caribbean Cup
+in Jamaica	+25
+-25	1401
+1448	+6
+-2	110
+93
+January 17
+2009	Guatemala
+Haiti	1
+0	Friendly
+in the United States	+7
+-7	1504
+1394	+5
+0	80
+110
+February 11
+2009	Colombia
+Haiti	2
+0	Friendly
+in Colombia	+2
+-2	1728
+1392	-2
+0	35
+110
+March 31
+2009	Panama
+Haiti	4
+0	Friendly
+in Panama	+7
+-7	1569
+1385	+1
+-3	60
+112
+May 23
+2009	Haiti
+Jamaica	2
+2	Friendly
+in the United States	+6
+-6	1391
+1620	+3
+0	110
+51
+June 19
+2009	Haiti
+Panama	1
+1	Friendly
+in Haiti	+2
+-2	1393
+1559	+1
+-3	107
+63
+June 23
+2009	Haiti
+Martinique	0
+0	Friendly
+in Haiti	-3
++3	1390
+1374	-3
+0	109
+115
+June 27
+2009	Syria
+Haiti	2
+1	Friendly
+in Canada	+5
+-5	1565
+1385	0
+-2	60
+111
+July 04
+2009	Honduras
+Haiti	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1724
+1379	0
+-3	35
+114
+July 08
+2009	Haiti
+Grenada	2
+0	Concacaf Gold Cup
+in the United States	+27
+-27	1406
+1250	+10
+-5	104
+142
+July 11
+2009	United States
+Haiti	2
+2	Concacaf Gold Cup
+in the United States	-23
++23	1849
+1429	-2
++6	11
+98
+July 19
+2009	Mexico
+Haiti	4
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1772
+1417	+4
+-2	20
+100
+March 24
+2010	Martinique
+Haiti	0
+0	Friendly
+in Martinique	-2
++2	1372
+1419	0
++4	112
+101
+May 05
+2010	Argentina
+Haiti	4
+0	Friendly
+in Argentina	+1
+-1	1896
+1418	0
+-1	7
+102
+November 02
+2010	Guyana
+Haiti	0
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+6
+-6	1319
+1412	0
+-1	132
+105
+November 04
+2010	Haiti
+St. Vincent & Grenadines	3
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	+14
+-14	1426
+1187	+2
+-2	103
+156
+November 06
+2010	Trinidad and Tobago
+Haiti	4
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+19
+-19	1529
+1407	+7
+-4	76
+107
+November 18
+2010	Qatar
+Haiti	0
+1	Friendly
+in Qatar	-15
++15	1478
+1422	-2
++3	91
+105
+February 09
+2011	El Salvador
+Haiti	1
+0	Friendly
+in El Salvador	+6
+-6	1465
+1416	0
+-2	94
+106
+September 02
+2011	Haiti
+US Virgin Islands	6
+0	World Cup qualifier
+in Haiti	+1
+-1	1417
+785	0
+0	101
+215
+September 06
+2011	Curacao
+Haiti	2
+4	World Cup qualifier
+in Curacao	-12
++12	1059
+1429	0
++1	180
+100
+October 07
+2011	US Virgin Islands
+Haiti	0
+7	World Cup qualifier
+in US Virgin Islands	-4
++4	772
+1433	0
++2	216
+98
+October 11
+2011	Haiti
+Curacao	2
+2	World Cup qualifier
+in Haiti	-18
++18	1415
+1065	-3
++1	101
+179
+November 11
+2011	Antigua and Barbuda
+Haiti	1
+0	World Cup qualifier
+in Antigua and Barbuda	+21
+-21	1317
+1394	+3
+-5	132
+105
+November 15
+2011	Haiti
+Antigua and Barbuda	2
+1	World Cup qualifier
+in Haiti	+11
+-11	1405
+1306	+2
+-2	104
+133
+September 07
+2012	Haiti
+Saint Martin	7
+0	Caribbean Cup qualifier
+in Haiti	+3
+-3	1408
+903	0
+0	105
+198
+September 09
+2012	Haiti
+Bermuda	3
+1	Caribbean Cup qualifier
+in Haiti	+8
+-8	1416
+1172	+3
+0	102
+161
+September 11
+2012	Haiti
+Puerto Rico	2
+1	Caribbean Cup qualifier
+in Haiti	+4
+-4	1420
+1122	-1
+-1	103
+174
+September 16
+2012	French Guiana
+Haiti	1
+2	Friendly
+in French Guiana	-6
++6	1182
+1426	-3
+0	161
+103
+November 14
+2012	Haiti
+Guyana	1
+0	Caribbean Cup qualifier
+in Grenada	+14
+-14	1440
+1303	+3
+-7	98
+135
+November 16
+2012	French Guiana
+Haiti	1
+0	Caribbean Cup qualifier
+in Grenada	+31
+-31	1258
+1409	+7
+-5	143
+103
+November 18
+2012	Grenada
+Haiti	0
+2	Caribbean Cup qualifier
+in Grenada	-19
++19	1156
+1428	-3
++3	164
+100
+December 07
+2012	Haiti
+Trinidad and Tobago	0
+0	Caribbean Cup
+in Antigua and Barbuda	+4
+-4	1432
+1486	0
+-1	99
+85
+December 09
+2012	Haiti
+Dominican Republic	2
+1	Caribbean Cup
+in Antigua and Barbuda	+12
+-12	1444
+1266	+3
+-2	96
+142
+December 11
+2012	Antigua and Barbuda
+Haiti	0
+1	Caribbean Cup
+in Antigua and Barbuda	-16
++16	1259
+1460	-2
++4	142
+92
+December 14
+2012	Cuba
+Haiti	1
+0	Caribbean Cup
+in Antigua and Barbuda	+25
+-25	1399
+1435	+8
+-6	106
+98
+December 16
+2012	Haiti
+Martinique	1
+0	Caribbean Cup
+in Antigua and Barbuda	+19
+-19	1454
+1400	+2
+-5	96
+106
+January 19
+2013	Chile
+Haiti	3
+0	Friendly
+in Chile	+3
+-3	1776
+1451	0
+0	21
+94
+February 06
+2013	Bolivia
+Haiti	2
+1	Friendly
+in Bolivia	+4
+-4	1607
+1447	+2
+0	51
+97
+March 20
+2013	Oman
+Haiti	3
+0	Friendly
+in Oman	+10
+-10	1505
+1437	+1
+-2	83
+99
+March 24
+2013	Dominican Republic
+Haiti	3
+1	Friendly
+in Dominican Republic	+18
+-18	1273
+1419	+3
+-2	141
+101
+June 08
+2013	Spain
+Haiti	2
+1	Friendly
+in the United States	0
+0	2125
+1419	0
+0	1
+101
+June 11
+2013	Haiti
+Italy	2
+2	Friendly
+in Brazil	+9
+-9	1428
+1885	+1
+-1	100
+8
+July 08
+2013	Honduras
+Haiti	2
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1640
+1410	+3
+-3	47
+104
+July 12
+2013	Haiti
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+38
+-38	1448
+1375	+6
+-12	97
+113
+July 15
+2013	El Salvador
+Haiti	1
+0	Concacaf Gold Cup
+in the United States	+22
+-22	1517
+1426	+7
+-5	79
+101
+September 06
+2013	South Korea
+Haiti	4
+1	Friendly
+in South Korea	+4
+-4	1672
+1422	0
+-1	41
+100
+March 05
+2014	Kosovo
+Haiti	0
+0	Friendly
+in Kosovo	-1
++1	1370
+1423	-1
+0	118
+102

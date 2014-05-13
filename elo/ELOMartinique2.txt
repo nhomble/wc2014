@@ -1,0 +1,1512 @@
+February 09
+1931	Barbados
+Martinique	1
+2	Friendly
+in Barbados	-8
++8	1338
+1508	-1
+-	58
+35
+February 11
+1931	Barbados
+Martinique	3
+2	Friendly
+in Barbados	+12
+-12	1350
+1496	+2
+-2	56
+37
+February 12
+1931	Barbados
+Martinique	0
+0	Friendly
+in Barbados	+1
+-1	1351
+1495	0
+-1	56
+38
+December 18
+1948	Martinique
+Dutch Guiana	3
+2	Friendly tournament
+in Martinique	+5
+-5	1500
+1299	+1
+0	42
+74
+July 23
+1983	Martinique
+Antigua and Barbuda	2
+0	CFU Championship
+in French Guiana	+5
+-5	1505
+1075	0
+-2	67
+163
+July 25
+1983	Martinique
+Trinidad and Tobago	3
+1	CFU Championship
+in French Guiana	+19
+-19	1524
+1350	+5
+-6	62
+103
+July 27
+1983	French Guiana
+Martinique	0
+0	CFU Championship
+in French Guiana	+12
+-12	1204
+1512	+4
+-3	140
+65
+November 29
+1983	Martinique
+Mexico	4
+4	Friendly
+in Martinique	+1
+-1	1513
+1659	+1
+0	64
+36
+March 15
+1989	Martinique
+Paraguay	0
+2	Friendly
+in Martinique	-8
++8	1505
+1786	-2
++2	66
+19
+April
+1990	Martinique
+French Guiana	4
+0	Caribbean Cup qualifier
+in Martinique	+6
+-6	1511
+1171	+1
+0	66
+145
+March 05
+1991	Martinique
+French Guiana	1
+2	Caribbean Cup qualifier
+in Martinique	-37
++37	1474
+1208	-7
++9	72
+138
+March 09
+1991	Martinique
+Guadeloupe	3
+1	Caribbean Cup qualifier
+in Martinique	+20
+-20	1494
+1434	+4
+-5	68
+82
+May 23
+1991	Martinique
+Dominican Republic	4
+1	Caribbean Cup
+in Jamaica	+5
+-5	1499
+1052	0
+0	67
+171
+May 25
+1991	Trinidad and Tobago
+Martinique	1
+0	Caribbean Cup
+in Jamaica	+25
+-25	1435
+1474	+5
+-5	82
+72
+May 27
+1991	Saint Lucia
+Martinique	0
+0	Caribbean Cup
+in Jamaica	+10
+-10	1298
+1464	+2
+-2	119
+74
+April 01
+1992	Martinique
+Cayman Islands	7
+0	Caribbean Cup qualifier
+in Sint Maarten	+14
+-14	1478
+1158	+2
+-2	74
+152
+April 05
+1992	Sint Maarten
+Martinique	1
+1	Caribbean Cup qualifier
+in Sint Maarten	+9
+-9	1227
+1469	+1
+0	138
+74
+June 17
+1992	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1464
+1454	+1
+-3	76
+78
+June 19
+1992	Antigua and Barbuda
+Martinique	1
+4	Caribbean Cup
+in Trinidad and Tobago	-12
++12	1163
+1466	0
++1	152
+77
+June 21
+1992	Martinique
+Surinam	4
+1	Caribbean Cup
+in Trinidad and Tobago	+25
+-25	1491
+1341	+8
+-9	69
+114
+June 24
+1992	Jamaica
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+28
+-28	1380
+1463	+7
+-8	103
+77
+June 27
+1992	Martinique
+Cuba	1
+1	Caribbean Cup
+in Trinidad and Tobago	0
+0	1463
+1463	0
+0	77
+77
+March 03
+1993	Martinique
+French Guiana	2
+1	Caribbean Cup qualifier
+in Martinique	+5
+-5	1468
+1210	0
+0	83
+149
+April 14
+1993	Guadeloupe
+Martinique	1
+4	Caribbean Cup qualifier
+in Guadeloupe	-36
++36	1342
+1504	-9
++12	113
+72
+May 21
+1993	Martinique
+Trinidad and Tobago	3
+2	Caribbean Cup
+in Jamaica	+19
+-19	1523
+1459	+10
+-4	63
+85
+May 23
+1993	Martinique
+St. Vincent & Grenadines	3
+0	Caribbean Cup
+in Jamaica	+15
+-15	1538
+1284	+2
+-4	62
+130
+May 25
+1993	Martinique
+Saint Lucia	2
+0	Caribbean Cup
+in Jamaica	+12
+-12	1550
+1281	+2
+-4	60
+131
+May 28
+1993	Martinique
+Saint Kitts and Nevis	1
+1	Caribbean Cup
+in Jamaica	-15
++15	1535
+1229	-1
++3	62
+144
+May 30
+1993	Jamaica
+Martinique	0
+0	Caribbean Cup
+in Jamaica	+1
+-1	1418
+1534	0
+0	95
+62
+July 11
+1993	Mexico
+Martinique	9
+0	Concacaf Gold Cup
+in Mexico	+11
+-11	1844
+1523	0
+-2	11
+68
+July 15
+1993	Canada
+Martinique	2
+2	Concacaf Gold Cup
+in Mexico	-3
++3	1559
+1526	-2
+0	57
+68
+July 18
+1993	Costa Rica
+Martinique	3
+1	Concacaf Gold Cup
+in Mexico	+33
+-33	1597
+1493	+4
+-9	50
+75
+April 07
+1994	Martinique
+Surinam	2
+0	Caribbean Cup
+in Trinidad and Tobago	+17
+-17	1510
+1317	+3
+-3	73
+125
+April 09
+1994	Martinique
+Haiti	3
+0	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1531
+1342	+8
+-9	65
+120
+April 11
+1994	Cayman Islands
+Martinique	1
+1	Caribbean Cup
+in Trinidad and Tobago	+17
+-17	1131
+1514	+5
+-7	168
+72
+April 14
+1994	Guadeloupe
+Martinique	2
+4	Caribbean Cup
+in Trinidad and Tobago	-19
++19	1365
+1533	-2
++8	110
+64
+April 17
+1994	Trinidad and Tobago
+Martinique	7
+2	Caribbean Cup
+in Trinidad and Tobago	+37
+-37	1498
+1496	+10
+-13	75
+77
+May 09
+1995	French Guiana
+Martinique	1
+3	Caribbean Cup qualifier
+in French Guiana	-16
++16	1203
+1512	-3
++8	153
+70
+May 11
+1995	Martinique
+Surinam	1
+1	Caribbean Cup qualifier
+in French Guiana	-10
++10	1502
+1333	-6
++2	76
+125
+May 13
+1995	Guadeloupe
+Martinique	2
+1	Caribbean Cup qualifier
+in French Guiana	+28
+-28	1390
+1474	+6
+-5	107
+81
+April 24
+1996	Martinique
+Saint Lucia	1
+0	Caribbean Cup qualifier
+in Martinique	+6
+-6	1480
+1257	+1
+0	85
+141
+April 28
+1996	Saint Lucia
+Martinique	0
+1	Caribbean Cup qualifier
+in Saint Lucia	-13
++13	1244
+1493	-4
++9	145
+76
+May 25
+1996	Martinique
+Haiti	1
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1506
+1357	+3
+-1	73
+115
+May 27
+1996	Cuba
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+18
+-18	1551
+1488	+4
+-7	60
+79
+May 29
+1996	Martinique
+St. Vincent & Grenadines	3
+0	Caribbean Cup
+in Trinidad and Tobago	+19
+-19	1507
+1296	+7
+-6	71
+133
+June 02
+1996	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1538
+1493	+2
+-5	64
+76
+June 05
+1996	Martinique
+Surinam	1
+1	Caribbean Cup
+in Trinidad and Tobago	-11
++11	1482
+1291	-5
++1	81
+134
+March 12
+1997	Martinique
+Saint Lucia	2
+1	Caribbean Cup qualifier
+in Martinique	+4
+-4	1486
+1186	+4
+-2	76
+158
+March 16
+1997	Martinique
+St. Vincent & Grenadines	7
+1	Caribbean Cup qualifier
+in Martinique	+9
+-9	1495
+1199	+2
+-3	74
+155
+April 27
+1997	Dominica
+Martinique	1
+2	Caribbean Cup qualifier
+in Dominica	-9
++9	1164
+1504	-1
++2	163
+75
+May 04
+1997	Martinique
+Dominica	7
+0	Caribbean Cup qualifier
+in Martinique	+7
+-7	1511
+1157	+4
+0	71
+163
+July 04
+1997	Martinique
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Saint Kitts and Nevis	+16
+-16	1527
+1421	+7
+0	66
+94
+July 06
+1997	Saint Kitts and Nevis
+Martinique	2
+0	Caribbean Cup
+in Saint Kitts and Nevis	+44
+-44	1295
+1483	+7
+-12	133
+78
+October 20
+1997	Martinique
+Cameroon	2
+1	Friendly tournament
+in Haiti	+19
+-19	1502
+1562	+3
+-4	71
+59
+October 22
+1997	Haiti
+Martinique	3
+0	Friendly tournament
+in Haiti	+31
+-31	1373
+1471	+7
+-6	111
+77
+December 17
+1997	Martinique
+Trinidad and Tobago	3
+0	Friendly
+in Martinique	+13
+-13	1484
+1457	+5
+-3	74
+83
+December 18
+1997	Martinique
+Trinidad and Tobago	3
+2	Friendly
+in Martinique	+6
+-6	1490
+1451	0
+-3	74
+86
+March 18
+1998	St. Vincent & Grenadines
+Martinique	4
+1	Caribbean Cup qualifier
+in Saint Lucia	+58
+-58	1269
+1432	+10
+-25	135
+97
+March 20
+1998	Martinique
+Barbados	4
+1	Caribbean Cup qualifier
+in Saint Lucia	+22
+-22	1454
+1271	+12
+-4	85
+134
+March 22
+1998	Saint Lucia
+Martinique	1
+2	Caribbean Cup qualifier
+in Saint Lucia	-14
++14	1230
+1468	-2
++3	143
+82
+July 22
+1998	Dominica
+Martinique	1
+5	Caribbean Cup
+in Trinidad and Tobago	-14
++14	1194
+1482	-5
++3	154
+78
+July 24
+1998	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+17
+-17	1451
+1465	+10
+-2	87
+81
+July 26
+1998	Antigua and Barbuda
+Martinique	5
+1	Caribbean Cup
+in Trinidad and Tobago	+64
+-64	1231
+1401	+19
+-22	144
+103
+February 03
+1999	Martinique
+French Guiana	3
+1	Caribbean Cup qualifier
+in Martinique	+5
+-5	1406
+1096	+1
+-1	102
+174
+April 17
+1999	Saint Lucia
+Martinique	3
+1	Caribbean Cup qualifier
+in St. Vincent & Grenadines	+45
+-45	1261
+1361	+12
+-12	137
+114
+April 18
+1999	Martinique
+Saint Kitts and Nevis	2
+1	Caribbean Cup qualifier
+in St. Vincent & Grenadines	+15
+-15	1376
+1256	+3
+-6	111
+141
+April 21
+1999	St. Vincent & Grenadines
+Martinique	2
+1	Caribbean Cup qualifier
+in St. Vincent & Grenadines	+23
+-23	1241
+1353	+6
+-6	143
+117
+February 21
+2001	Martinique
+Saint Lucia	4
+2	Friendly
+in Martinique	+7
+-7	1360
+1251	+2
+-1	115
+141
+March 21
+2001	Saint Lucia
+Martinique	1
+1	Friendly
+in Saint Lucia	+1
+-1	1236
+1359	0
+-1	147
+118
+March 28
+2001	Martinique
+Guadeloupe	4
+1	Friendly
+in Martinique	+12
+-12	1371
+1326	+5
+-1	114
+125
+April 04
+2001	Martinique
+St. Vincent & Grenadines	3
+0	Caribbean Cup qualifier
+in Martinique	+16
+-16	1387
+1250	+10
+-2	104
+141
+April 06
+2001	Martinique
+British Virgin Islands	6
+0	Caribbean Cup qualifier
+in Martinique	+4
+-4	1391
+941	+2
+0	102
+194
+April 08
+2001	Martinique
+Cayman Islands	1
+1	Caribbean Cup qualifier
+in Martinique	-15
++15	1376
+1164	-10
++1	112
+164
+May 15
+2001	Jamaica
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+10
+-10	1574
+1366	+1
+-6	60
+117
+May 17
+2001	Martinique
+Barbados	3
+1	Caribbean Cup
+in Trinidad and Tobago	+28
+-28	1394
+1315	+14
+-4	103
+128
+May 19
+2001	Trinidad and Tobago
+Martinique	1
+2	Caribbean Cup
+in Trinidad and Tobago	-35
++35	1603
+1429	-5
++9	55
+94
+May 22
+2001	Haiti
+Martinique	5
+0	Caribbean Cup
+in Trinidad and Tobago	+42
+-42	1456
+1387	+11
+-13	85
+107
+May 24
+2001	Martinique
+Cuba	1
+0	Caribbean Cup
+in Trinidad and Tobago	+24
+-24	1411
+1437	+9
+-8	98
+90
+July 27
+2001	Jamaica
+Martinique	0
+0	Friendly tournament
+in Saint Kitts and Nevis	-7
++7	1588
+1418	-1
++2	57
+97
+July 28
+2001	Saint Kitts and Nevis
+Martinique	4
+2	Friendly tournament
+in Saint Kitts and Nevis	+26
+-26	1296
+1392	+7
+-6	130
+103
+January 04
+2002	Martinique
+Guadeloupe	1
+3	Friendly tournament
+in Martinique	-34
++34	1358
+1325	-14
++7	118
+126
+January 06
+2002	Martinique
+Haiti	3
+3	Friendly tournament
+in Martinique	-1
++1	1357
+1447	0
+0	118
+90
+January 18
+2002	Costa Rica
+Martinique	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1757
+1350	0
+-3	26
+120
+January 22
+2002	Martinique
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+39
+-39	1389
+1535	+15
+-10	105
+66
+January 26
+2002	Martinique
+Canada	1
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1401
+1550	+2
+-3	103
+61
+October 09
+2002	Martinique
+Saint Lucia	4
+0	Friendly
+in Martinique	+8
+-8	1409
+1254	+5
+-2	100
+145
+November 03
+2002	Martinique
+Saint Kitts and Nevis	2
+1	Friendly
+in Martinique	+6
+-6	1415
+1337	+3
+-1	98
+127
+November 06
+2002	Saint Lucia
+Martinique	0
+2	Friendly
+in Saint Lucia	-12
++12	1242
+1427	-2
+0	145
+98
+November 27
+2002	Martinique
+Dominican Republic	4
+0	Concacaf Gold Cup qualifier
+in Cayman Islands	+13
+-13	1440
+1140	+5
+-3	93
+166
+November 29
+2002	Cuba
+Martinique	2
+1	Concacaf Gold Cup qualifier
+in Cayman Islands	+18
+-18	1486
+1422	+6
+-5	77
+98
+December 01
+2002	Cayman Islands
+Martinique	0
+3	Concacaf Gold Cup qualifier
+in Cayman Islands	-18
++18	1124
+1440	-4
++5	169
+93
+February 12
+2003	Barbados
+Martinique	3
+3	Friendly
+in Barbados	0
+0	1351
+1440	0
+-1	120
+95
+March 14
+2003	Martinique
+French Guiana	2
+1	Friendly tournament
+in Martinique	+2
+-2	1442
+1088	+1
+0	93
+174
+March 26
+2003	Haiti
+Martinique	2
+1	Concacaf Gold Cup qualifier
+in Jamaica	+18
+-18	1494
+1424	+5
+-5	76
+98
+March 28
+2003	Jamaica
+Martinique	2
+2	Concacaf Gold Cup qualifier
+in Jamaica	-11
++11	1535
+1435	0
++4	63
+94
+March 30
+2003	Martinique
+Saint Lucia	5
+4	Concacaf Gold Cup qualifier
+in Jamaica	+12
+-12	1447
+1279	+6
+-5	89
+139
+April 23
+2003	Martinique
+Trinidad and Tobago	3
+2	Concacaf Gold Cup qualifier
+in Martinique	+13
+-13	1460
+1415	+1
+-5	87
+99
+April 27
+2003	Martinique
+Honduras	2
+4	Concacaf Gold Cup qualifier
+in Martinique	-22
++22	1438
+1682	-5
++4	92
+37
+July 14
+2003	United States
+Martinique	2
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1801
+1433	0
+0	20
+94
+July 16
+2003	El Salvador
+Martinique	1
+0	Concacaf Gold Cup
+in the United States	+21
+-21	1517
+1412	+5
+-3	69
+97
+January 08
+2004	Cuba
+Martinique	0
+0	Friendly
+in Cuba	-6
++6	1524
+1418	-2
++2	70
+100
+May 30
+2004	St. Vincent & Grenadines
+Martinique	2
+0	Friendly
+in St. Vincent & Grenadines	+17
+-17	1281
+1401	+6
+-5	137
+105
+November 10
+2004	Martinique
+Dominica	5
+1	Caribbean Cup qualifier
+in Martinique	+6
+-6	1407
+1081	+2
+0	100
+174
+November 12
+2004	Martinique
+French Guiana	0
+0	Caribbean Cup qualifier
+in Martinique	-16
++16	1391
+1157	-3
++4	103
+164
+November 14
+2004	Martinique
+Guadeloupe	0
+0	Caribbean Cup qualifier
+in Martinique	-8
++8	1383
+1354	-2
++1	105
+118
+December 12
+2004	Cuba
+Martinique	2
+0	Caribbean Cup qualifier
+in Cuba	+11
+-11	1555
+1372	0
+-3	67
+109
+December 21
+2004	Martinique
+Cuba	0
+2	Caribbean Cup qualifier
+in Martinique	-23
++23	1349
+1578	-10
++6	119
+60
+September 20
+2006	Martinique
+Dominica	4
+0	Caribbean Cup qualifier
+in Guadeloupe	+9
+-9	1358
+989	+1
+-2	114
+188
+September 22
+2006	Martinique
+Saint Martin	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+5
+-5	1363
+1014	+3
+0	111
+184
+September 24
+2006	Guadeloupe
+Martinique	4
+0	Caribbean Cup qualifier
+in Guadeloupe	+26
+-26	1395
+1337	+5
+-8	101
+119
+October 22
+2006	St. Vincent & Grenadines
+Martinique	1
+1	Friendly
+in St. Vincent & Grenadines	-4
++4	1360
+1341	-1
++1	112
+117
+November 08
+2006	Martinique
+Surinam	1
+0	Caribbean Cup qualifier
+in Martinique	+9
+-9	1350
+1219	+1
+0	116
+149
+November 10
+2006	Martinique
+Haiti	1
+0	Caribbean Cup qualifier
+in Martinique	+21
+-21	1371
+1440	+9
+-5	107
+94
+November 12
+2006	Martinique
+Cuba	0
+0	Caribbean Cup qualifier
+in Martinique	+6
+-6	1377
+1565	+2
+-1	105
+62
+December 28
+2006	Martinique
+St. Vincent & Grenadines	2
+2	Friendly
+in Martinique	-4
++4	1373
+1351	-1
++2	107
+115
+December 30
+2006	Martinique
+St. Vincent & Grenadines	1
+1	Friendly
+in Martinique	-3
++3	1370
+1354	-1
++1	108
+114
+January 06
+2007	Martinique
+Guadeloupe	3
+0	Friendly
+in Martinique	+14
+-14	1384
+1378	+5
+-4	103
+105
+January 12
+2007	Haiti
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+16
+-16	1471
+1368	+5
+-6	88
+109
+January 15
+2007	Trinidad and Tobago
+Martinique	5
+1	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1531
+1353	+4
+-4	72
+114
+January 17
+2007	Martinique
+Barbados	3
+2	Caribbean Cup
+in Trinidad and Tobago	+17
+-17	1370
+1291	+6
+-6	108
+132
+January 30
+2008	Martinique
+Canada	0
+1	Friendly
+in Martinique	-6
++6	1364
+1615	-2
++3	114
+52
+September 06
+2008	Martinique
+French Guiana	2
+1	Friendly
+in Martinique	+3
+-3	1367
+1182	0
+-1	117
+160
+September 15
+2008	Martinique
+St. Vincent & Grenadines	3
+0	Caribbean Cup qualifier
+in Martinique	+16
+-16	1383
+1241	+2
+-1	114
+147
+September 19
+2008	Martinique
+Anguilla	3
+1	Caribbean Cup qualifier
+in Martinique	0
+0	1383
+644	0
+0	114
+221
+September 24
+2008	Martinique
+Guadeloupe	1
+0	French Territory Cup
+in France	+18
+-18	1401
+1435	+8
+-3	106
+95
+September 27
+2008	Martinique
+Tahiti	1
+0	French Territory Cup
+in France	+8
+-8	1409
+1215	+2
+0	104
+152
+September 30
+2008	Martinique
+New Caledonia	1
+1	French Territory Cup
+in France	-3
++3	1406
+1348	-1
++1	105
+119
+October 04
+2008	Reunion
+Martinique	1
+0	French Territory Cup
+in Reunion	+15
+-15	1318
+1391	+1
+-4	128
+109
+October 11
+2008	Grenada
+Martinique	2
+2	Caribbean Cup qualifier
+in Guadeloupe	+9
+-9	1222
+1382	+1
+-6	151
+115
+October 13
+2008	Martinique
+Cayman Islands	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+4
+-4	1386
+1000	+1
+0	114
+186
+October 15
+2008	Guadeloupe
+Martinique	3
+1	Caribbean Cup qualifier
+in Guadeloupe	+15
+-15	1493
+1371	+2
+-2	86
+116
+June 23
+2009	Haiti
+Martinique	0
+0	Friendly
+in Haiti	-3
++3	1390
+1374	-3
+0	109
+115
+March 24
+2010	Martinique
+Haiti	0
+0	Friendly
+in Martinique	-2
++2	1372
+1419	0
++4	112
+101
+May 31
+2010	Grenada
+Martinique	2
+2	Friendly
+in Grenada	+1
+-1	1245
+1371	0
+0	145
+112
+August 26
+2010	Saint Lucia
+Martinique	1
+3	Friendly
+in Saint Lucia	-9
++9	1111
+1380	-1
++3	174
+111
+August 28
+2010	Saint Lucia
+Martinique	1
+1	Friendly
+in Saint Lucia	+5
+-5	1116
+1375	+1
+0	173
+111
+September 23
+2010	Martinique
+Tahiti	4
+1	French Territory Cup
+in France	+15
+-15	1390
+1194	+4
+-3	110
+157
+September 26
+2010	Martinique
+New Caledonia	4
+0	French Territory Cup
+in France	+26
+-26	1416
+1333	+6
+-8	104
+127
+September 29
+2010	Guadeloupe
+Martinique	2
+0	French Territory Cup
+in France	+22
+-22	1448
+1394	+6
+-5	95
+109
+October 02
+2010	Martinique
+Reunion	0
+0	French Territory Cup
+in France	-2
++2	1392
+1344	0
++1	109
+120
+November 26
+2010	Martinique
+Grenada	1
+1	Caribbean Cup
+in Martinique	-12
++12	1380
+1267	-2
+0	113
+143
+November 28
+2010	Martinique
+Cuba	0
+1	Caribbean Cup
+in Martinique	-19
++19	1361
+1510	-6
++8	119
+80
+November 30
+2010	Martinique
+Trinidad and Tobago	0
+1	Caribbean Cup
+in Martinique	-20
++20	1341
+1482	-4
++6	123
+89
+September 30
+2011	Antigua and Barbuda
+Martinique	1
+0	Friendly
+in Antigua and Barbuda	+9
+-9	1289
+1332	+3
+-5	137
+126
+October 02
+2011	Antigua and Barbuda
+Martinique	1
+2	Friendly
+in Antigua and Barbuda	-12
++12	1277
+1344	-3
++6	140
+120
+March 03
+2012	Martinique
+Guadeloupe	1
+2	Friendly
+in Martinique	-10
++10	1334
+1469	-6
++1	126
+92
+April 07
+2012	Guadeloupe
+Martinique	0
+1	Friendly
+in Guadeloupe	-16
++16	1453
+1350	-3
++7	95
+119
+May 02
+2012	Martinique
+Guyana	2
+2	Friendly
+in Martinique	-3
++3	1347
+1348	-2
++2	121
+120
+September 05
+2012	Martinique
+British Virgin Islands	16
+0	Caribbean Cup qualifier
+in Martinique	+3
+-3	1350
+794	+1
+0	119
+213
+September 07
+2012	Martinique
+Montserrat	5
+0	Caribbean Cup qualifier
+in Martinique	+1
+-1	1351
+613	+2
+0	117
+225
+September 09
+2012	Martinique
+Surinam	2
+2	Caribbean Cup qualifier
+in Martinique	-13
++13	1338
+1199	-6
++4	124
+154
+September 22
+2012	Martinique
+New Caledonia	2
+0	French Territory Cup
+in France	+27
+-27	1365
+1374	+4
+-5	116
+112
+September 24
+2012	Tahiti
+Martinique	3
+2	French Territory Cup
+in France	+19
+-19	1285
+1346	+3
+-3	140
+119
+September 26
+2012	Martinique
+Mayotte	3
+0	French Territory Cup
+in France	+18
+-18	1364
+1213	+2
+-2	117
+151
+September 29
+2012	Reunion
+Martinique	2
+2	French Territory Cup
+in France	0
+0	1369
+1364	0
+0	114
+117
+October 23
+2012	Martinique
+Puerto Rico	2
+1	Caribbean Cup qualifier
+in Guadeloupe	+8
+-8	1372
+1114	+3
+-3	114
+176
+October 25
+2012	Dominican Republic
+Martinique	1
+1	Caribbean Cup qualifier
+in Guadeloupe	+8
+-8	1232
+1364	+1
+-4	150
+118
+October 27
+2012	Guadeloupe
+Martinique	3
+3	Caribbean Cup qualifier
+in Guadeloupe	-7
++7	1384
+1371	0
++4	108
+114
+December 08
+2012	Martinique
+Cuba	1
+0	Caribbean Cup
+in Antigua and Barbuda	+18
+-18	1389
+1325	+7
+-4	108
+128
+December 10
+2012	Martinique
+Jamaica	0
+0	Caribbean Cup
+in Antigua and Barbuda	+10
+-10	1399
+1578	+4
+-3	104
+62
+December 12
+2012	Martinique
+French Guiana	3
+1	Caribbean Cup
+in Antigua and Barbuda	+18
+-18	1417
+1240	+3
+-7	101
+150
+December 14
+2012	Martinique
+Trinidad and Tobago	1
+1	Caribbean Cup
+in Antigua and Barbuda	+2
+-2	1419
+1453	0
+-3	101
+96
+December 16
+2012	Haiti
+Martinique	1
+0	Caribbean Cup
+in Antigua and Barbuda	+19
+-19	1454
+1400	+2
+-5	96
+106
+July 07
+2013	Martinique
+Canada	1
+0	Concacaf Gold Cup
+in the United States	+34
+-34	1434
+1504	+5
+-11	100
+84
+July 11
+2013	Panama
+Martinique	1
+0	Concacaf Gold Cup
+in the United States	+9
+-9	1700
+1425	+1
+0	35
+100
+July 14
+2013	Mexico
+Martinique	3
+1	Concacaf Gold Cup
+in the United States	+8
+-8	1810
+1417	0
+0	19
+101
+March 19
+2014	Saint Lucia
+Martinique	0
+0	Friendly
+in Saint Lucia	+7
+-7	1045
+1410	0
+-1	185
+106
+April 19
+2014	Guadeloupe
+Martinique	0
+1	Friendly tournament
+in Guadeloupe	-18
++18	1372
+1428	-6
++5	117
+101

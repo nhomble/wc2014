@@ -1,0 +1,2735 @@
+April 13
+1960	Congo
+Reunion	4
+1	Friendly tournament
+in Madagascar	+7
+-7	1507
+1168	-
+-6	53
+126
+April 15
+1960	Congo
+Ivory Coast	3
+2	Friendly tournament
+in Madagascar	+23
+-23	1530
+1680	+4
+-1	49
+24
+April 17
+1960	Cameroon
+Congo	5
+4	Friendly tournament
+in Madagascar	+12
+-12	1624
+1518	+1
+-1	36
+50
+April 19
+1960	Madagascar
+Congo	8
+1	Friendly tournament
+in Madagascar	+34
+-34	1454
+1484	+7
+-9	68
+59
+April 13
+1963	Tunisia
+Congo	2
+0	Friendly tournament
+in Senegal	+20
+-20	1548
+1464	+4
+-6	52
+72
+April 14
+1963	Congo
+Ivory Coast	3
+2	Friendly tournament
+in Senegal	+22
+-22	1486
+1625	+6
+-1	66
+31
+April 15
+1963	Congo
+Congo (Kinshasa)	2
+1	Friendly tournament
+in Senegal	+20
+-20	1506
+1586	+6
+-6	60
+44
+April 17
+1963	Congo
+Mauritania	7
+0	Friendly tournament
+in Senegal	+9
+-9	1515
+1176	+1
+0	59
+134
+July 18
+1965	Congo
+Mali	1
+2	African Games
+in Congo	-26
++26	1489
+1539	-10
++7	69
+53
+July 19
+1965	Congo
+Uganda	2
+1	African Games
+in Congo	+7
+-7	1496
+1308	+7
+-1	62
+110
+July 21
+1965	Congo
+Togo	7
+2	African Games
+in Congo	+25
+-25	1521
+1433	+3
+-2	59
+77
+July 23
+1965	Congo
+Ivory Coast	1
+0	African Games
+in Congo	+23
+-23	1544
+1657	+7
+-1	52
+31
+July 25
+1965	Congo
+Mali	0
+0	African Games
+in Congo	-5
++5	1539
+1568	-2
++1	54
+46
+January 22
+1967	Congo (Kinshasa)
+Congo	4
+1	Friendly
+in Congo (Kinshasa)	+12
+-12	1565
+1527	+2
+-2	47
+52
+April 19
+1967	Congo
+Congo (Kinshasa)	3
+1	Friendly
+in Congo	+12
+-12	1539
+1553	+3
+-3	50
+49
+August 02
+1967	Congo
+Cameroon	2
+1	African Nations Cup qualifier
+in Congo	+14
+-14	1553
+1511	+1
+-6	49
+61
+September 27
+1967	Tunisia
+Congo	1
+1	African Nations Cup qualifier
+in Tunisia	-4
++4	1526
+1557	-4
+0	60
+47
+January 12
+1968	Congo (Kinshasa)
+Congo	3
+0	African Nations Cup
+in Ethiopia	+41
+-41	1622
+1516	+6
+-10	38
+62
+January 14
+1968	Senegal
+Congo	2
+1	African Nations Cup
+in Ethiopia	+23
+-23	1567
+1493	+9
+-5	48
+67
+January 16
+1968	Ghana
+Congo	3
+1	African Nations Cup
+in Ethiopia	+14
+-14	1758
+1479	+2
+-2	18
+69
+January 22
+1969	Congo
+Senegal	1
+0	Friendly
+in Congo	+9
+-9	1488
+1540	+1
+-1	71
+58
+November 12
+1969	Congo
+Ghana	1
+1	Friendly
+in Congo	+1
+-1	1489
+1634	0
+0	70
+35
+November 01
+1970	Dahomey
+Congo	3
+2	Friendly
+in Dahomey	+11
+-11	1360
+1478	+4
+0	98
+68
+November 08
+1970	Nigeria
+Congo	0
+0	African Nations Cup qualifier
+in Nigeria	-10
++10	1550
+1488	0
+0	53
+68
+November 22
+1970	Congo
+Nigeria	2
+1	African Nations Cup qualifier
+in Congo	+18
+-18	1506
+1532	+6
+-5	62
+58
+March 14
+1971	Cameroon
+Congo	7
+1	Friendly
+in Cameroon	+13
+-13	1570
+1493	+5
+-2	49
+65
+October 13
+1971	Ivory Coast
+Congo	3
+2	African Nations Cup qualifier
+in Ivory Coast	+8
+-8	1629
+1485	0
+-4	42
+67
+October 27
+1971	Congo
+Ivory Coast	2
+0	African Nations Cup qualifier
+in Congo	+34
+-34	1519
+1595	+9
+-3	59
+45
+January 09
+1972	Senegal
+Congo	0
+2	Friendly
+in Senegal	-19
++19	1498
+1538	-1
++4	64
+58
+February 06
+1972	Congo
+Dahomey	2
+2	Friendly
+in Congo	-7
++7	1531
+1346	0
++3	58
+101
+February 25
+1972	Congo
+Morocco	1
+1	African Nations Cup
+in Cameroon	+11
+-11	1542
+1691	+1
+-2	58
+31
+February 27
+1972	Zaire
+Congo	2
+0	African Nations Cup
+in Cameroon	+25
+-25	1689
+1517	+3
+-3	31
+61
+February 29
+1972	Congo
+Sudan	4
+2	African Nations Cup
+in Cameroon	+50
+-50	1567
+1588	+10
+-5	52
+44
+March 02
+1972	Cameroon
+Congo	0
+1	African Nations Cup
+in Cameroon	-33
++33	1551
+1600	-12
++11	57
+42
+March 05
+1972	Congo
+Mali	3
+2	African Nations Cup
+in Cameroon	+22
+-22	1622
+1538	+4
+-5	38
+60
+August 05
+1972	Nigeria
+Congo	2
+1	World Cup qualifier
+in Nigeria	+19
+-19	1563
+1603	+4
+-4	52
+41
+August 15
+1972	Congo
+Nigeria	1
+1	World Cup qualifier
+in Congo	-8
++8	1595
+1571	-3
++2	45
+51
+January 08
+1973	Congo
+Upper Volta	3
+0	African Games
+in Nigeria	+14
+-14	1609
+1341	+4
+-4	40
+106
+January 10
+1973	Egypt
+Congo	3
+1	African Games
+in Nigeria	+28
+-28	1661
+1581	+3
+-8	33
+48
+January 12
+1973	Guinea
+Congo	5
+1	African Games
+in Nigeria	+30
+-30	1681
+1551	+6
+-5	29
+53
+March 03
+1974	Congo
+Mauritius	2
+0	African Nations Cup
+in Egypt	+20
+-20	1571
+1360	+9
+-5	47
+98
+March 05
+1974	Congo
+Zaire	2
+1	African Nations Cup
+in Egypt	+37
+-37	1608
+1708	+7
+-4	40
+28
+March 07
+1974	Congo
+Guinea	1
+1	African Nations Cup
+in Egypt	+1
+-1	1609
+1624	0
+0	40
+38
+March 09
+1974	Zambia
+Congo	4
+2	African Nations Cup
+in Egypt	+44
+-44	1595
+1565	+15
+-11	41
+51
+March 11
+1974	Egypt
+Congo	4
+0	African Nations Cup
+in Egypt	+27
+-27	1649
+1538	+4
+-6	34
+56
+September 14
+1975	Congo
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Congo	+15
+-15	1553
+1542	+4
+-2	54
+57
+September 28
+1975	Ivory Coast
+Congo	2
+1	African Nations Cup qualifier
+in Ivory Coast	+15
+-15	1557
+1538	+4
+-5	54
+60
+October 26
+1975	Congo
+Nigeria	0
+1	African Nations Cup qualifier
+in Congo	-20
++20	1518
+1653	-3
++7	63
+31
+November 09
+1975	Nigeria
+Congo	2
+1	African Nations Cup qualifier
+in Nigeria	+8
+-8	1661
+1510	-1
++1	32
+62
+June 29
+1976	Congo
+Central African Republic	2
+1	Central African Games
+in Gabon	+11
+-11	1521
+1323	0
+-6	60
+108
+July 07
+1976	Congo
+Sao Tome e Principe	11
+0	Central African Games
+in Gabon	+5
+-5	1526
+980	+1
+-2	58
+168
+July 10
+1976	Congo
+Chad	4
+1	Central African Games
+in Gabon	+12
+-12	1538
+1242	+1
+-1	57
+131
+July 12
+1976	Gabon
+Congo	0
+1	Central African Games
+in Gabon	-17
++17	1370
+1555	-7
++2	94
+55
+July 14
+1976	Cameroon
+Congo	3
+2	Central African Games
+in Gabon	+17
+-17	1628
+1538	+2
+-2	41
+57
+October 17
+1976	Congo
+Cameroon	2
+2	World Cup qualifier
+in Congo	-1
++1	1537
+1629	+1
+0	56
+41
+October 31
+1976	Cameroon
+Congo	1
+2	World Cup qualifier
+in Cameroon	-30
++30	1599
+1567	-2
++5	43
+51
+February 13
+1977	Ivory Coast
+Congo	3
+2	World Cup qualifier
+in Ivory Coast	+15
+-15	1572
+1552	+3
+-6	49
+55
+February 27
+1977	Congo
+Ivory Coast	1
+3	World Cup qualifier
+in Congo	-37
++37	1515
+1609	-6
++6	60
+43
+September 18
+1977	Cameroon
+Congo	2
+0	African Nations Cup qualifier
+in Cameroon	+15
+-15	1616
+1500	+2
+-6	43
+66
+October 02
+1977	Congo
+Cameroon	4
+0	African Nations Cup qualifier
+in Congo	+39
+-39	1539
+1577	+9
+-8	57
+49
+October 30
+1977	Congo
+Gabon	3
+2	African Nations Cup qualifier
+in Congo	+8
+-8	1547
+1381	0
+-2	56
+94
+November 13
+1977	Gabon
+Congo	3
+3	African Nations Cup qualifier
+in Gabon	+4
+-4	1385
+1543	+3
++1	91
+55
+March 06
+1978	Uganda
+Congo	3
+1	African Nations Cup
+in Ghana	+42
+-42	1547
+1501	+9
+-9	57
+66
+March 09
+1978	Morocco
+Congo	1
+0	African Nations Cup
+in Ghana	+11
+-11	1732
+1490	+1
+-5	26
+71
+March 11
+1978	Congo
+Tunisia	0
+0	African Nations Cup
+in Ghana	+15
+-15	1505
+1718	+5
+-2	66
+27
+November 17
+1978	Algeria
+Congo	3
+0	Friendly
+in Algeria	+9
+-9	1590
+1496	+1
+-3	47
+68
+September 16
+1979	Congo
+Zaire	4
+2	African Nations Cup qualifier
+in Congo	+29
+-29	1525
+1557	+5
+-6	63
+59
+September 30
+1979	Zaire
+Congo	4
+1	African Nations Cup qualifier
+in Zaire	+22
+-22	1579
+1503	+5
+-4	54
+67
+January 20
+1980	Congo
+Ivory Coast	0
+2	Friendly
+in Congo	-16
++16	1487
+1590	-4
++4	70
+50
+June 24
+1980	Congo
+Guinea	0
+0	Friendly
+in Congo	-1
++1	1486
+1544	-1
+0	70
+61
+June 25
+1980	Zaire
+Congo	1
+2	Friendly
+in Zaire	-15
++15	1559
+1501	-5
++4	58
+66
+October 03
+1980	Congo
+Niger	4
+0	Friendly
+in Congo	+3
+-3	1504
+1188	0
+-1	66
+146
+November 17
+1980	Angola
+Congo	1
+1	African Nations Cup qualifier
+in Angola	-5
++5	1497
+1509	-2
++1	68
+64
+November 30
+1980	Congo
+Angola	0
+0	African Nations Cup qualifier
+in Congo	-6
++6	1503
+1503	-2
++3	65
+65
+March 03
+1981	Zambia
+Congo	4
+1	Friendly
+in Zambia	+11
+-11	1547
+1492	+1
+-3	57
+68
+April 05
+1981	Zambia
+Congo	1
+1	Friendly
+in Zambia	-4
++4	1543
+1496	-1
++1	57
+67
+April 11
+1981	Ghana
+Congo	1
+1	African Nations Cup qualifier
+in Ghana	-12
++12	1636
+1508	-3
++3	40
+64
+April 14
+1981	Togo
+Congo	2
+1	Friendly
+in Togo	+11
+-11	1400
+1497	+1
+-2	89
+66
+April 26
+1981	Congo
+Ghana	0
+1	African Nations Cup qualifier
+in Congo	-18
++18	1479
+1654	-3
++2	70
+36
+July 29
+1981	Congo
+Zaire	2
+2	Friendly
+in Congo	0
+0	1479
+1571	0
+0	71
+55
+August 21
+1981	Congo
+Gabon	2
+1	Central African Games
+in Angola	+14
+-14	1493
+1365	+1
+-3	70
+96
+August 25
+1981	Angola
+Congo	1
+3	Central African Games
+in Angola	-39
++39	1460
+1532	-10
++8	78
+62
+August 27
+1981	Zaire
+Congo	2
+1	Central African Games
+in Angola	+18
+-18	1592
+1514	+4
+-2	48
+64
+August 29
+1981	Cameroon
+Congo	0
+0	Central African Games
+in Angola	-4
++4	1573
+1518	0
+0	52
+64
+January 17
+1982	Cameroon
+Congo	2
+1	Friendly
+in Cameroon	+5
+-5	1619
+1513	+1
+-1	41
+64
+March 17
+1983	Gabon
+Congo	2
+3	Friendly
+in Gabon	-9
++9	1367
+1522	-2
++2	95
+63
+March 20
+1983	Benin
+Congo	0
+2	Friendly
+in Benin	-10
++10	1289
+1532	-2
++3	119
+60
+March 24
+1983	Togo
+Congo	0
+2	Friendly
+in Togo	-17
++17	1459
+1549	-6
++2	82
+58
+April 03
+1983	Congo
+Angola	1
+0	Friendly
+in Congo	+5
+-5	1554
+1473	0
+-1	58
+75
+April 10
+1983	Congo
+Egypt	2
+0	African Nations Cup qualifier
+in Congo	+25
+-25	1579
+1574	+10
+-7	48
+50
+April 22
+1983	Egypt
+Congo	2
+0	African Nations Cup qualifier
+in Egypt	+22
+-22	1596
+1557	+7
+-8	43
+56
+August 02
+1983	Congo
+Cameroon	2
+2	Friendly
+in Congo	-1
++1	1556
+1611	0
++1	53
+42
+February 08
+1984	Congo
+Ivory Coast	2
+3	Friendly
+in Congo	-12
++12	1544
+1611	-3
++3	58
+41
+February 13
+1984	Congo
+Togo	2
+0	Friendly
+in Congo	+10
+-10	1554
+1502	+3
+-3	55
+67
+June 23
+1984	Congo
+United States	2
+0	Friendly tournament
+in China	+19
+-19	1573
+1477	+3
+-7	51
+76
+June 25
+1984	Canada
+Congo	2
+0	Friendly tournament
+in China	+27
+-27	1523
+1546	+8
+-6	61
+57
+July 15
+1984	Zambia
+Congo	2
+1	Friendly
+in Zambia	+6
+-6	1597
+1540	+3
+0	44
+57
+August 04
+1984	Benin
+Congo	2
+0	Friendly tournament
+in Burkina Faso	+37
+-37	1308
+1503	+13
+-8	112
+65
+October 15
+1984	Congo
+Benin	0
+2	Friendly
+in Congo	-25
++25	1478
+1333	-12
++5	77
+105
+October 17
+1984	Congo
+Benin	2
+0	Friendly
+in Congo	+6
+-6	1484
+1327	+2
+-1	75
+106
+December 09
+1984	Congo
+Equatorial Guinea	5
+0	UDEAC Tournament
+in Congo	+5
+-5	1489
+1095	+3
+-	71
+160
+December 12
+1984	Congo
+Central African Republic	2
+1	UDEAC Tournament
+in Congo	+7
+-7	1496
+1305	+3
+-2	67
+113
+December 17
+1984	Congo
+Gabon	3
+0	UDEAC Tournament
+in Congo	+15
+-15	1511
+1360	+3
+-3	64
+99
+December 20
+1984	Congo
+Cameroon	2
+2	UDEAC Tournament
+in Congo	+3
+-3	1514
+1652	+2
+0	62
+39
+February 20
+1985	Ivory Coast
+Congo	2
+1	Friendly
+in Ivory Coast	+6
+-6	1584
+1508	+3
+-3	51
+66
+March 31
+1985	Congo
+Zaire	2
+5	African Nations Cup qualifier
+in Congo	-38
++38	1470
+1621	-12
++11	77
+42
+April 14
+1985	Zaire
+Congo	0
+0	African Nations Cup qualifier
+in Zaire	-12
++12	1609
+1482	-2
++2	45
+75
+November 26
+1985	Congo
+Ivory Coast	2
+1	Friendly
+in Congo	+11
+-11	1493
+1599	+1
+-2	73
+44
+November 27
+1985	Congo
+Ivory Coast	0
+1	Friendly
+in Congo	-10
++10	1483
+1609	-1
++2	74
+42
+December 07
+1985	Gabon
+Congo	1
+0	UDEAC Tournament
+in Gabon	+22
+-22	1378
+1461	+8
+-7	95
+81
+December 09
+1985	Congo
+Central African Republic	4
+1	UDEAC Tournament
+in Gabon	+19
+-19	1480
+1269	+7
+-3	74
+124
+December 15
+1985	Congo
+Cameroon	1
+0	UDEAC Tournament
+in Gabon	+26
+-26	1506
+1563	+5
+-8	69
+56
+December 19
+1985	Gabon
+Congo	3
+0	UDEAC Tournament
+in Gabon	+35
+-35	1443
+1471	+4
+-9	83
+78
+1986	China
+Congo	1
+1	Friendly tournament
+in China	-7
++7	1533
+1478	-1
++3	64
+75
+October 05
+1986	Central African Republic
+Congo	1
+2	African Nations Cup qualifier
+in Central African Republic	-13
++13	1239
+1491	-1
++2	132
+72
+October 19
+1986	Congo
+Central African Republic	5
+1	African Nations Cup qualifier
+in Congo	+9
+-9	1500
+1230	+3
+-2	70
+134
+December 10
+1986	Gabon
+Congo	1
+0	UDEAC Tournament
+in Equatorial Guinea	+24
+-24	1462
+1476	+4
+-6	80
+76
+December 12
+1986	Congo
+Central African Republic	3
+1	UDEAC Tournament
+in Equatorial Guinea	+12
+-12	1488
+1218	+4
+-5	72
+139
+December 16
+1986	Cameroon
+Congo	1
+0	UDEAC Tournament
+in Equatorial Guinea	+10
+-10	1678
+1478	+1
+-2	34
+74
+March 29
+1987	Ivory Coast
+Congo	2
+0	African Nations Cup qualifier
+in Ivory Coast	+14
+-14	1593
+1464	+5
+-4	50
+79
+April 05
+1987	Congo
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Congo	-18
++18	1446
+1611	-3
++3	82
+47
+April 19
+1987	Congo
+Angola	3
+3	Central African Games
+in Congo	-4
++4	1442
+1479	-1
++2	83
+75
+April 23
+1987	Congo
+Zaire	0
+0	Central African Games
+in Congo	+1
+-1	1443
+1555	0
+0	83
+57
+April 27
+1987	Congo
+Cameroon	0
+3	Central African Games
+in Congo	-22
++22	1421
+1696	-3
++3	86
+31
+April 29
+1987	Congo
+Gabon	3
+2	Central African Games
+in Congo	+16
+-16	1437
+1435	+4
+-2	82
+83
+June 14
+1987	Congo
+Seychelles	1
+1	Friendly
+in Congo	-9
++9	1428
+1001	-1
++1	83
+171
+June 21
+1987	Madagascar
+Congo	3
+2	Friendly
+in Madagascar	+9
+-9	1386
+1419	+2
+-4	93
+87
+November 13
+1988	Zaire
+Congo	1
+0	Friendly
+in Zaire	+4
+-4	1569
+1415	0
+-2	50
+92
+November 30
+1988	Congo
+Chad	2
+1	UDEAC Tournament
+in Cameroon	+11
+-11	1426
+1237	+4
+-1	86
+133
+December 04
+1988	Congo
+Central African Republic	1
+0	UDEAC Tournament
+in Cameroon	+9
+-9	1435
+1214	+3
+-3	83
+140
+December 06
+1988	Cameroon
+Congo	2
+0	UDEAC Tournament
+in Cameroon	+7
+-7	1696
+1428	0
+-1	31
+84
+December 08
+1988	Congo
+Central African Republic	3
+0	UDEAC Tournament
+in Cameroon	+17
+-17	1445
+1208	+2
+-5	82
+142
+December 02
+1989	Congo
+Gabon	1
+0	UDEAC Tournament
+in Central African Republic	+21
+-21	1466
+1440	+7
+-6	76
+84
+December 04
+1989	Central African Republic
+Congo	1
+2	UDEAC Tournament
+in Central African Republic	-11
++11	1190
+1477	-2
++3	143
+73
+December 06
+1989	Cameroon
+Congo	1
+0	UDEAC Tournament
+in Central African Republic	+11
+-11	1656
+1466	+1
+-2	35
+76
+December 07
+1989	Chad
+Congo	2
+1	UDEAC Tournament
+in Central African Republic	+32
+-32	1252
+1434	+12
+-11	128
+87
+August 11
+1990	Reunion
+Congo	2
+1	Friendly
+in Reunion	+13
+-13	1223
+1421	+2
+-3	141
+87
+August 19
+1990	Malawi
+Congo	0
+1	African Nations Cup qualifier
+in Malawi	-27
++27	1428
+1448	-8
++8	87
+79
+September 02
+1990	Congo
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Congo	+24
+-24	1472
+1456	+5
+-5	74
+79
+November 10
+1990	Congo
+Mozambique	1
+0	Friendly tournament
+in Angola	+11
+-11	1483
+1368	+3
+-1	70
+99
+November 11
+1990	Angola
+Congo	1
+0	Friendly tournament
+in Angola	+13
+-13	1434
+1470	+6
+-3	83
+73
+December 08
+1990	Congo
+Chad	3
+0	UDEAC Tournament
+in Congo	+10
+-10	1480
+1250	+2
+-3	71
+129
+December 13
+1990	Congo
+Equatorial Guinea	6
+0	UDEAC Tournament
+in Congo	+5
+-5	1485
+1090	+2
+-1	69
+165
+December 15
+1990	Congo
+Gabon	1
+0	UDEAC Tournament
+in Congo	+13
+-13	1498
+1450	+1
+-2	68
+78
+December 18
+1990	Congo
+Cameroon	2
+1	UDEAC Tournament
+in Congo	+23
+-23	1521
+1626	+4
+-4	63
+39
+April 17
+1991	Congo
+Benin	1
+2	Friendly
+in Congo	-18
++18	1503
+1218	-3
++5	66
+137
+April 28
+1991	Congo
+Malawi	2
+1	African Nations Cup qualifier
+in Congo	+9
+-9	1512
+1373	+3
+-4	63
+100
+July 09
+1991	Congo
+Zaire	0
+0	Friendly
+in Congo	-3
++3	1509
+1509	0
++1	62
+62
+July 14
+1991	Zimbabwe
+Congo	2
+2	African Nations Cup qualifier
+in Zimbabwe	-2
++2	1438
+1511	-2
+-1	81
+64
+January 15
+1992	Ivory Coast
+Congo	0
+0	African Nations Cup
+in Senegal	-13
++13	1692
+1524	-2
++4	30
+60
+January 17
+1992	Algeria
+Congo	1
+1	African Nations Cup
+in Senegal	-10
++10	1669
+1534	0
++1	34
+59
+January 20
+1992	Ghana
+Congo	2
+1	African Nations Cup
+in Senegal	+21
+-21	1614
+1513	+3
+-6	45
+64
+May 09
+1992	Congo
+Haiti	4
+1	Friendly
+in Congo	+6
+-6	1519
+1327	+1
+0	65
+112
+August 16
+1992	Burundi
+Congo	1
+0	African Nations Cup qualifier
+in Burundi	+26
+-26	1345
+1493	+4
+-5	114
+71
+August 30
+1992	Congo
+Chad	2
+0	African Nations Cup qualifier
+in Congo	+7
+-7	1500
+1241	0
+0	70
+139
+October 25
+1992	South Africa
+Congo	1
+0	World Cup qualifier
+in South Africa	+7
+-7	1673
+1493	0
+-1	33
+70
+December 20
+1992	Congo
+Nigeria	0
+1	World Cup qualifier
+in Congo	-15
++15	1478
+1704	-4
++1	79
+29
+January 31
+1993	Congo
+South Africa	0
+1	World Cup qualifier
+in Congo	-15
++15	1463
+1685	-5
++2	84
+32
+February 27
+1993	Nigeria
+Congo	2
+0	World Cup qualifier
+in Nigeria	+7
+-7	1715
+1456	+1
+-2	28
+86
+April 11
+1993	Guinea
+Congo	1
+0	African Nations Cup qualifier
+in Guinea	+17
+-17	1422
+1439	+4
+-4	92
+90
+April 25
+1993	Congo
+Burundi	0
+0	African Nations Cup qualifier
+in Congo	-9
++9	1430
+1390	-1
++2	91
+98
+August 15
+1993	Congo
+Guinea	0
+0	African Nations Cup qualifier
+in Congo	-3
++3	1427
+1472	0
++2	97
+83
+March 12
+1994	Congo
+Zaire	2
+1	Friendly
+in Congo	+9
+-9	1436
+1490	+1
+-4	92
+79
+August 19
+1994	Congo
+Zaire	2
+0	Friendly
+in Congo	+13
+-13	1449
+1484	+4
+-7	88
+81
+August 24
+1994	Zaire
+Congo	2
+0	Friendly
+in Zaire	+9
+-9	1493
+1440	+5
+-2	76
+90
+August 26
+1994	Zaire
+Congo	1
+1	Friendly
+in Zaire	-4
++4	1489
+1444	-2
++2	78
+88
+September 04
+1994	Congo
+Gambia	1
+1	African Nations Cup qualifier
+in Congo	-10
++10	1434
+1370	-4
++2	91
+111
+October 16
+1994	Sierra Leone
+Congo	3
+2	African Nations Cup qualifier
+in Sierra Leone	+12
+-12	1484
+1422	+2
+-3	77
+97
+January 08
+1995	Congo
+Niger	3
+1	African Nations Cup qualifier
+in Congo	+17
+-17	1439
+1350	+7
+-3	91
+117
+January 22
+1995	Ghana
+Congo	3
+1	African Nations Cup qualifier
+in Ghana	+9
+-9	1654
+1430	0
+-6	34
+98
+April 09
+1995	Gambia
+Congo	1
+1	African Nations Cup qualifier
+in Gambia	-1
++1	1348
+1431	-1
++1	118
+94
+April 22
+1995	Congo
+Sierra Leone	0
+2	African Nations Cup qualifier
+in Congo	-35
++35	1396
+1513	-10
++10	104
+71
+July 30
+1995	Congo
+Ghana	0
+2	African Nations Cup qualifier
+in Congo	-20
++20	1376
+1641	-7
++7	112
+35
+December 12
+1995	Zaire
+Congo	2
+2	Friendly
+in Zaire	-6
++6	1539
+1382	-4
+0	66
+112
+April 08
+1996	Congo
+Zaire	2
+1	Friendly
+in Congo	+11
+-11	1393
+1500	+4
+-3	107
+73
+April 28
+1996	Zaire
+Congo	3
+1	Friendly
+in Zaire	+7
+-7	1507
+1386	+1
+-4	70
+111
+June 02
+1996	Congo
+Ivory Coast	2
+0	World Cup qualifier
+in Congo	+39
+-39	1425
+1555	+11
+-11	97
+59
+June 16
+1996	Ivory Coast
+Congo	1
+1	World Cup qualifier
+in Ivory Coast	-11
++11	1537
+1436	-4
++2	66
+94
+August 11
+1996	Congo
+Togo	0
+0	African Nations Cup qualifier
+in Congo	-9
++9	1427
+1378	-1
++2	95
+110
+August 25
+1996	Togo
+Congo	1
+0	African Nations Cup qualifier
+in Togo	+17
+-17	1399
+1410	+5
+-5	105
+100
+November 10
+1996	Congo
+Zambia	1
+0	World Cup qualifier
+in Congo	+28
+-28	1438
+1624	+5
+-5	93
+41
+January 12
+1997	Zaire
+Congo	1
+1	World Cup qualifier
+in Zaire	-9
++9	1492
+1447	-3
++3	74
+89
+April 06
+1997	Congo
+South Africa	2
+0	World Cup qualifier
+in Congo	+46
+-46	1493
+1713	+13
+-2	78
+26
+April 20
+1997	Cameroon
+Congo	2
+0	Friendly
+in Cameroon	+8
+-8	1574
+1485	+2
+-1	55
+79
+April 27
+1997	Zambia
+Congo	3
+0	World Cup qualifier
+in Zambia	+13
+-13	1654
+1472	+2
+-1	40
+80
+June 08
+1997	Congo
+Zaire	1
+0	World Cup qualifier
+in Congo	+16
+-16	1488
+1491	+2
+-2	78
+77
+August 16
+1997	South Africa
+Congo	1
+0	World Cup qualifier
+in South Africa	+5
+-5	1728
+1483	0
+0	27
+76
+August 02
+1998	Chad
+Congo	1
+1	African Nations Cup qualifier
+in Chad	+8
+-8	1236
+1475	+5
+-1	142
+78
+August 16
+1998	Congo
+Chad	0
+0	African Nations Cup qualifier
+in Congo	-15
++15	1460
+1251	-6
++2	85
+140
+October 03
+1998	Namibia
+Congo	0
+1	African Nations Cup qualifier
+in Namibia	-23
++23	1391
+1483	-10
++10	108
+76
+January 24
+1999	Congo
+Mali	0
+0	African Nations Cup qualifier
+in Congo	-9
++9	1474
+1416	-3
++4	79
+97
+February 28
+1999	Congo
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Congo	+24
+-24	1498
+1619	+4
+-8	75
+55
+April 11
+1999	Ivory Coast
+Congo	2
+0	African Nations Cup qualifier
+in Ivory Coast	+13
+-13	1632
+1485	+5
+-2	50
+77
+June 06
+1999	Mali
+Congo	3
+1	African Nations Cup qualifier
+in Mali	+25
+-25	1464
+1460	+8
+-5	82
+83
+June 20
+1999	Congo
+Namibia	3
+0	African Nations Cup qualifier
+in Congo	+16
+-16	1476
+1338	+3
+-3	81
+120
+October 30
+1999	Dem. Rep. of Congo
+Congo	1
+1	Friendly
+in Dem. Rep. of Congo	-4
++4	1513
+1480	0
++2	69
+79
+November 10
+1999	Congo
+Equatorial Guinea	2
+1	Unifac Cup
+in Gabon	+4
+-4	1484
+1073	0
+-1	79
+177
+November 11
+1999	Chad
+Congo	2
+0	Unifac Cup
+in Gabon	+49
+-49	1275
+1435	+12
+-14	137
+93
+November 12
+1999	Congo
+Sao Tome e Principe	1
+0	Unifac Cup
+in Gabon	+2
+-2	1437
+949	0
+0	93
+192
+November 13
+1999	Gabon
+Congo	0
+0	Unifac Cup
+in Gabon	-8
++8	1477
+1445	0
++2	79
+91
+November 14
+1999	Central African Republic
+Congo	4
+2	Unifac Cup
+in Gabon	+48
+-48	1245
+1397	+9
+-12	146
+103
+November 27
+1999	Congo
+Burkina Faso	2
+1	Friendly tournament
+in Gabon	+18
+-18	1415
+1451	+3
+-6	100
+88
+November 28
+1999	Congo
+Togo	2
+1	Friendly tournament
+in Gabon	+13
+-13	1428
+1361	+4
+-3	96
+114
+December 01
+1999	Congo
+Dem. Rep. of Congo	0
+1	Friendly
+in Congo	-10
++10	1418
+1523	-4
++4	100
+67
+January 25
+2000	Morocco
+Congo	1
+0	African Nations Cup
+in Nigeria	+6
+-6	1780
+1412	+2
++1	19
+99
+January 28
+2000	Nigeria
+Congo	0
+0	African Nations Cup
+in Nigeria	-20
++20	1676
+1432	-6
++4	39
+95
+February 03
+2000	Tunisia
+Congo	1
+0	African Nations Cup
+in Nigeria	+12
+-12	1638
+1420	+3
+-4	45
+98
+April 09
+2000	Equatorial Guinea
+Congo	1
+3	World Cup qualifier
+in Equatorial Guinea	-11
++11	1049
+1431	-1
++5	182
+93
+April 23
+2000	Congo
+Equatorial Guinea	2
+1	World Cup qualifier
+in Congo	+2
+-2	1433
+1047	0
+0	92
+182
+June 23
+2000	Gabon
+Congo	0
+2	Friendly
+in Gabon	-19
++19	1398
+1452	-6
++2	102
+88
+June 25
+2000	Gabon
+Congo	2
+3	Friendly
+in Gabon	-11
++11	1387
+1463	-4
++4	106
+84
+July 02
+2000	Rwanda
+Congo	2
+1	African Nations Cup qualifier
+in Rwanda	+25
+-25	1300
+1438	+5
+-4	133
+88
+July 09
+2000	Dem. Rep. of Congo
+Congo	2
+0	World Cup qualifier
+in Dem. Rep. of Congo	+20
+-20	1475
+1418	+3
+-4	82
+92
+July 16
+2000	Congo
+Rwanda	5
+1	African Nations Cup qualifier
+in Congo	+18
+-18	1436
+1296	+6
+-3	88
+133
+September 03
+2000	Congo
+South Africa	1
+2	African Nations Cup qualifier
+in Congo	-14
++14	1422
+1660	-4
++5	93
+43
+October 08
+2000	Mauritius
+Congo	1
+2	African Nations Cup qualifier
+in Mauritius	-16
++16	1237
+1438	-2
++2	144
+90
+January 14
+2001	Liberia
+Congo	5
+1	African Nations Cup qualifier
+in Liberia	+28
+-28	1453
+1410	+11
+-7	85
+98
+January 28
+2001	Congo
+Tunisia	1
+2	World Cup qualifier
+in Congo	-14
++14	1396
+1631	-2
++2	100
+51
+March 25
+2001	Congo
+Liberia	0
+1	African Nations Cup qualifier
+in Congo	-20
++20	1376
+1522	-8
++4	109
+67
+April 22
+2001	Ivory Coast
+Congo	2
+0	World Cup qualifier
+in Ivory Coast	+7
+-7	1642
+1369	+2
+-2	47
+115
+April 27
+2001	Congo
+Madagascar	2
+0	World Cup qualifier
+in Congo	+23
+-23	1392
+1366	+11
+-13	104
+118
+May 06
+2001	Congo
+Dem. Rep. of Congo	1
+1	World Cup qualifier
+in Congo	-4
++4	1388
+1433	-3
++1	106
+91
+June 03
+2001	Congo
+Mauritius	0
+0	African Nations Cup qualifier
+in Congo	-11
++11	1377
+1279	-2
++2	110
+136
+June 17
+2001	South Africa
+Congo	0
+0	African Nations Cup qualifier
+in South Africa	-16
++16	1657
+1393	-5
++7	44
+102
+July 01
+2001	Tunisia
+Congo	6
+0	World Cup qualifier
+in Tunisia	+10
+-10	1651
+1383	+2
+-7	44
+109
+July 15
+2001	Congo
+Ivory Coast	1
+1	World Cup qualifier
+in Congo	+10
+-10	1393
+1668	+7
+-3	102
+42
+July 29
+2001	Madagascar
+Congo	1
+0	World Cup qualifier
+in Madagascar	+19
+-19	1338
+1374	+3
+-10	123
+111
+September 01
+2002	Congo
+Gabon	0
+0	Friendly
+in Congo	-1
++1	1373
+1442	0
+0	111
+92
+September 08
+2002	Congo
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Congo	-5
++5	1368
+1394	-3
+0	116
+109
+October 13
+2002	Mozambique
+Congo	0
+3	African Nations Cup qualifier
+in Mozambique	-36
++36	1246
+1404	-10
++8	145
+107
+March 09
+2003	Dem. Rep. of Congo
+Congo	3
+0	Friendly
+in Dem. Rep. of Congo	+9
+-9	1486
+1395	+1
+-4	80
+108
+May 04
+2003	Congo
+Central African Republic	2
+1	African Nations Cup qualifier
+in Congo	+7
+-7	1402
+1210	+4
+-1	103
+152
+June 08
+2003	Central African Republic
+Congo	0
+0	African Nations Cup qualifier
+in Central African Republic	+5
+-5	1215
+1397	+1
+-2	151
+106
+June 21
+2003	Burkina Faso
+Congo	3
+0	African Nations Cup qualifier
+in Burkina Faso	+24
+-24	1431
+1373	+7
+-9	95
+114
+July 06
+2003	Congo
+Mozambique	0
+0	African Nations Cup qualifier
+in Congo	-11
++11	1362
+1269	-2
++1	116
+144
+October 12
+2003	Congo
+Sierra Leone	1
+0	World Cup qualifier
+in Congo	+13
+-13	1375
+1322	+2
+-4	115
+128
+November 16
+2003	Sierra Leone
+Congo	1
+1	World Cup qualifier
+in Sierra Leone	-3
++3	1319
+1378	-1
++4	128
+108
+December 05
+2003	Congo
+Gabon	3
+2	Cemac Cup
+in Congo	+17
+-17	1395
+1410	+5
+-2	105
+102
+December 09
+2003	Congo
+Gabon	1
+1	Cemac Cup
+in Congo	-5
++5	1390
+1415	-3
++1	108
+101
+December 13
+2003	Congo
+Gabon	1
+0	Cemac Cup
+in Congo	+13
+-13	1403
+1354	+2
+-4	105
+117
+June 05
+2004	Senegal
+Congo	2
+0	World Cup qualifier
+in Senegal	+5
+-5	1713
+1398	+3
+-3	30
+106
+June 20
+2004	Congo
+Liberia	3
+0	World Cup qualifier
+in Congo	+29
+-29	1427
+1406	+7
+-9	100
+104
+July 04
+2004	Congo
+Mali	1
+0	World Cup qualifier
+in Congo	+22
+-22	1449
+1532	+9
+-7	91
+70
+September 05
+2004	Togo
+Congo	2
+0	World Cup qualifier
+in Togo	+20
+-20	1488
+1429	+6
+-3	81
+95
+October 10
+2004	Congo
+Zambia	2
+3	World Cup qualifier
+in Congo	-23
++23	1406
+1501	-4
++8	98
+78
+February 05
+2005	Congo
+Central African Republic	1
+0	Cemac Cup
+in Gabon	+10
+-10	1416
+1205	0
+-3	98
+156
+February 08
+2005	Gabon
+Congo	1
+0	Cemac Cup
+in Gabon	+14
+-14	1440
+1402	0
+-1	93
+99
+February 12
+2005	Gabon
+Congo	2
+1	Cemac Cup
+in Gabon	+14
+-14	1422
+1388	+3
+-2	94
+100
+February 23
+2005	Congo
+Angola	0
+2	Friendly
+in Congo	-13
++13	1375
+1552	-5
++1	105
+69
+March 19
+2005	Gabon
+Congo	0
+0	Friendly
+in Gabon	-4
++4	1418
+1379	-1
++3	95
+102
+March 26
+2005	Zambia
+Congo	2
+0	World Cup qualifier
+in Zambia	+14
+-14	1504
+1365	+3
+-6	78
+108
+June 05
+2005	Congo
+Senegal	0
+0	World Cup qualifier
+in Congo	+11
+-11	1376
+1676	+5
+-2	103
+40
+June 19
+2005	Liberia
+Congo	0
+2	World Cup qualifier
+in Liberia	-35
++35	1299
+1411	-11
++3	132
+99
+September 03
+2005	Mali
+Congo	2
+0	World Cup qualifier
+in Mali	+14
+-14	1527
+1397	+4
+-3	73
+103
+October 08
+2005	Congo
+Togo	2
+3	World Cup qualifier
+in Congo	-15
++15	1382
+1606	0
++2	102
+57
+March 04
+2006	Equatorial Guinea
+Congo	2
+1	Cemac Cup
+in Equatorial Guinea	+29
+-29	1137
+1353	+4
+-10	168
+114
+March 08
+2006	Chad
+Congo	0
+0	Cemac Cup
+in Equatorial Guinea	+2
+-2	1313
+1351	+2
+0	126
+114
+September 02
+2006	South Africa
+Congo	0
+0	African Nations Cup qualifier
+in South Africa	-11
++11	1444
+1362	-1
++3	92
+111
+October 08
+2006	Congo
+Chad	3
+1	African Nations Cup qualifier
+in Congo	+17
+-17	1379
+1280	+8
+-7	104
+135
+November 14
+2006	Mali
+Congo	1
+0	Friendly
+in France	+5
+-5	1562
+1374	0
+-1	63
+105
+March 05
+2007	Congo
+Equatorial Guinea	2
+1	Cemac Cup
+in Chad	+10
+-10	1384
+1174	+1
+-5	103
+166
+March 07
+2007	Congo
+Gabon	2
+2	Cemac Cup
+in Chad	0
+0	1384
+1391	0
+0	103
+100
+March 12
+2007	Congo
+Central African Republic	4
+1	Cemac Cup
+in Chad	+18
+-18	1402
+1186	+4
+-4	99
+159
+March 16
+2007	Congo
+Gabon	1
+0	Cemac Cup
+in Chad	+20
+-20	1422
+1381	0
+-3	99
+103
+March 25
+2007	Congo
+Zambia	0
+0	African Nations Cup qualifier
+in Congo	+1
+-1	1423
+1545	0
+0	99
+65
+April 04
+2007	Angola
+Congo	0
+0	Friendly
+in Angola	-7
++7	1586
+1430	-2
++1	57
+97
+May 28
+2007	Congo
+Dem. Rep. of Congo	2
+1	Friendly
+in Congo	+9
+-9	1439
+1476	+3
+-1	94
+87
+June 02
+2007	Zambia
+Congo	3
+0	African Nations Cup qualifier
+in Zambia	+16
+-16	1565
+1423	+3
+-3	64
+97
+June 17
+2007	Congo
+South Africa	1
+1	African Nations Cup qualifier
+in Congo	-1
++1	1422
+1500	-1
++1	97
+78
+September 09
+2007	Chad
+Congo	1
+1	African Nations Cup qualifier
+in Chad	+3
+-3	1275
+1419	+1
+-2	139
+101
+June 01
+2008	Mali
+Congo	4
+2	World Cup qualifier
+in Mali	+11
+-11	1582
+1408	+1
+-3	58
+102
+June 08
+2008	Congo
+Sudan	1
+0	World Cup qualifier
+in Congo	+12
+-12	1420
+1340	+5
+-6	98
+120
+June 14
+2008	Chad
+Congo	2
+1	World Cup qualifier
+in Chad	+23
+-23	1289
+1397	+8
+-6	132
+104
+June 22
+2008	Congo
+Chad	2
+0	World Cup qualifier
+in Congo	+14
+-14	1411
+1275	+3
+-1	102
+133
+September 07
+2008	Congo
+Mali	1
+0	World Cup qualifier
+in Congo	+23
+-23	1434
+1538	+3
+-6	99
+68
+October 11
+2008	Sudan
+Congo	2
+0	World Cup qualifier
+in Sudan	+26
+-26	1412
+1408	+12
+-9	101
+105
+May 27
+2009	Jordan
+Congo	1
+1	Friendly
+in Jordan	-5
++5	1474
+1413	-1
++1	89
+101
+May 31
+2009	Bahrain
+Congo	3
+1	Friendly
+in Bahrain	+5
+-5	1587
+1408	0
+-1	58
+102
+August 12
+2009	Morocco
+Congo	1
+1	Friendly
+in Morocco	-7
++7	1628
+1415	-1
++2	49
+102
+October 13
+2009	Congo
+North Korea	0
+0	Friendly
+in France	+3
+-3	1418
+1527	+1
+-1	102
+74
+November 14
+2009	Angola
+Congo	1
+1	Friendly
+in Angola	-5
++5	1498
+1423	0
++1	84
+99
+December 03
+2009	Congo
+Equatorial Guinea	2
+2	Cemac Cup
+in Central African Republic	-12
++12	1411
+1207	-4
++3	104
+154
+December 05
+2009	Central African Republic
+Congo	2
+0	Cemac Cup
+in Central African Republic	+40
+-40	1232
+1371	+10
+-11	147
+115
+August 11
+2010	Burkina Faso
+Congo	3
+0	Friendly
+in France	+12
+-12	1498
+1359	+1
+-5	86
+118
+September 04
+2010	Sudan
+Congo	2
+0	African Nations Cup qualifier
+in Sudan	+25
+-25	1342
+1334	+8
+-9	122
+127
+October 10
+2010	Congo
+Swaziland	3
+1	African Nations Cup qualifier
+in Congo	+10
+-10	1344
+1154	+3
+-1	121
+166
+March 27
+2011	Congo
+Ghana	0
+3	African Nations Cup qualifier
+in Congo	-11
++11	1333
+1748	-5
++2	126
+26
+June 03
+2011	Ghana
+Congo	3
+1	African Nations Cup qualifier
+in Ghana	+3
+-3	1757
+1330	+1
+-1	24
+126
+September 04
+2011	Congo
+Sudan	0
+1	African Nations Cup qualifier
+in Congo	-23
++23	1307
+1403	-10
++7	134
+106
+October 08
+2011	Swaziland
+Congo	0
+1	African Nations Cup qualifier
+in Swaziland	-16
++16	1121
+1323	-2
++3	171
+128
+November 11
+2011	Sao Tome e Principe
+Congo	0
+5	World Cup qualifier
+in Sao Tome e Principe	-18
++18	994
+1341	0
++4	188
+124
+November 15
+2011	Congo
+Sao Tome e Principe	1
+1	World Cup qualifier
+in Congo	-17
++17	1324
+1011	-5
++1	129
+187
+February 29
+2012	Congo
+Uganda	3
+1	African Nations Cup qualifier
+in Congo	+40
+-40	1364
+1499	+12
+-12	115
+87
+June 02
+2012	Burkina Faso
+Congo	0
+0	World Cup qualifier
+in Burkina Faso	-10
++10	1442
+1374	-1
++6	96
+110
+June 09
+2012	Congo
+Niger	1
+0	World Cup qualifier
+in Congo	+12
+-12	1386
+1307	+1
+-4	109
+133
+June 16
+2012	Uganda
+Congo	4
+0	African Nations Cup qualifier
+in Uganda	+17
+-17	1515
+1369	+2
+-5	85
+113
+October 12
+2012	Egypt
+Congo	3
+0	Friendly
+in United Arab Emirates	+4
+-4	1714
+1365	+3
+-3	29
+117
+October 14
+2012	Saudi Arabia
+Congo	3
+2	Friendly
+in Saudi Arabia	+5
+-5	1482
+1360	+2
+-1	87
+118
+November 14
+2012	Angola
+Congo	1
+1	Friendly
+in Portugal	-4
++4	1483
+1364	-1
+0	86
+119
+March 23
+2013	Congo
+Gabon	1
+0	World Cup qualifier
+in Congo	+23
+-23	1387
+1490	+8
+-9	109
+87
+June 08
+2013	Gabon
+Congo	0
+0	World Cup qualifier
+in Gabon	-11
++11	1479
+1398	-2
++3	88
+107
+June 15
+2013	Congo
+Burkina Faso	0
+1	World Cup qualifier
+in Congo	-17
++17	1381
+1559	-4
++7	111
+65
+August 14
+2013	Tunisia
+Congo	3
+0	Friendly
+in Tunisia	+6
+-6	1574
+1375	+4
+-4	61
+114
+September 07
+2013	Niger
+Congo	2
+2	World Cup qualifier
+in Niger	-1
++1	1288
+1376	0
++2	139
+112

@@ -1,0 +1,4608 @@
+February 10
+1938	Mexico
+Colombia	3
+1	Central American and Caribbean Games
+in Panama	+19
+-19	1759
+1581	+1
+-	13
+32
+February 14
+1938	Panama
+Colombia	2
+4	Central American and Caribbean Games
+in Panama	-25
++25	1393
+1606	-3
++3	50
+29
+February 18
+1938	Costa Rica
+Colombia	2
+1	Central American and Caribbean Games
+in Panama	+10
+-10	1799
+1596	+1
+-2	9
+31
+February 21
+1938	Colombia
+El Salvador	3
+2	Central American and Caribbean Games
+in Panama	+9
+-9	1605
+1370	+2
+-1	29
+54
+February 23
+1938	Venezuela
+Colombia	2
+1	Central American and Caribbean Games
+in Panama	+35
+-35	1301
+1570	+2
+-4	65
+33
+August 08
+1938	Colombia
+Peru	2
+4	Bolivarian Games
+in Colombia	-34
++34	1536
+1653	-2
++6	36
+19
+August 10
+1938	Colombia
+Ecuador	1
+2	Bolivarian Games
+in Colombia	-32
++32	1504
+1429	-3
++2	39
+48
+August 13
+1938	Colombia
+Venezuela	2
+0	Bolivarian Games
+in Colombia	+8
+-8	1512
+1267	+1
+0	38
+68
+August 16
+1938	Colombia
+Bolivia	1
+2	Bolivarian Games
+in Colombia	-32
++32	1480
+1398	-4
++2	42
+51
+January 21
+1945	Brazil
+Colombia	3
+0	Copa América
+in Chile	+9
+-9	1870
+1471	+2
+-4	5
+48
+January 28
+1945	Uruguay
+Colombia	7
+0	Copa América
+in Chile	+9
+-9	1910
+1462	0
+-2	3
+50
+January 31
+1945	Chile
+Colombia	2
+0	Copa América
+in Chile	+16
+-16	1602
+1446	+2
+0	32
+50
+February 07
+1945	Argentina
+Colombia	9
+1	Copa América
+in Chile	+4
+-4	2044
+1442	0
+0	1
+50
+February 18
+1945	Colombia
+Ecuador	3
+1	Copa América
+in Chile	+19
+-19	1461
+1230	0
+-1	50
+76
+February 21
+1945	Bolivia
+Colombia	3
+3	Copa América
+in Chile	+6
+-6	1381
+1455	+1
+0	58
+50
+December 09
+1946	Colombia
+Curacao	4
+2	Central American and Caribbean Games
+in Colombia	+23
+-23	1478
+1452	+4
+-3	44
+48
+December 11
+1946	Colombia
+Venezuela	3
+1	Central American and Caribbean Games
+in Colombia	+11
+-11	1489
+1302	0
+-2	44
+69
+December 14
+1946	Colombia
+Guatemala	4
+2	Central American and Caribbean Games
+in Colombia	+20
+-20	1509
+1454	+3
+-2	41
+47
+December 16
+1946	Colombia
+Puerto Rico	4
+1	Central American and Caribbean Games
+in Colombia	+2
+-2	1511
+981	0
+0	41
+86
+December 18
+1946	Colombia
+Costa Rica	4
+1	Central American and Caribbean Games
+in Colombia	+40
+-40	1551
+1616	+4
+-6	37
+27
+December 20
+1946	Colombia
+Panama	2
+1	Central American and Caribbean Games
+in Colombia	+7
+-7	1558
+1363	0
+-1	37
+61
+December 02
+1947	Uruguay
+Colombia	2
+0	Copa América
+in Ecuador	+15
+-15	1815
+1543	0
+-2	9
+39
+December 04
+1947	Ecuador
+Colombia	0
+0	Copa América
+in Ecuador	+14
+-14	1243
+1529	+1
+-2	81
+41
+December 13
+1947	Bolivia
+Colombia	0
+0	Copa América
+in Ecuador	+13
+-13	1349
+1516	+1
+-2	68
+43
+December 18
+1947	Argentina
+Colombia	6
+0	Copa América
+in Ecuador	+5
+-5	2045
+1511	0
+0	1
+43
+December 20
+1947	Paraguay
+Colombia	2
+0	Copa América
+in Ecuador	+13
+-13	1792
+1498	+1
+-1	11
+44
+December 23
+1947	Peru
+Colombia	5
+1	Copa América
+in Ecuador	+32
+-32	1647
+1466	+3
+-3	23
+47
+December 29
+1947	Chile
+Colombia	4
+1	Copa América
+in Ecuador	+21
+-21	1688
+1445	+3
+-1	19
+48
+April 06
+1949	Paraguay
+Colombia	3
+0	Copa América
+in Brazil	+9
+-9	1825
+1436	0
+-1	9
+54
+April 10
+1949	Peru
+Colombia	4
+0	Copa América
+in Brazil	+22
+-22	1667
+1414	+3
+-5	22
+59
+April 17
+1949	Brazil
+Colombia	5
+0	Copa América
+in Brazil	+3
+-3	1914
+1411	0
+-1	5
+60
+April 20
+1949	Chile
+Colombia	1
+1	Copa América
+in Brazil	-15
++15	1632
+1426	-1
++3	25
+57
+April 24
+1949	Colombia
+Uruguay	2
+2	Copa América
+in Brazil	+21
+-21	1447
+1809	+4
+-2	53
+9
+May 03
+1949	Ecuador
+Colombia	3
+2	Copa América
+in Brazil	+40
+-40	1241
+1407	+3
+-6	84
+59
+May 06
+1949	Bolivia
+Colombia	4
+0	Copa América
+in Brazil	+48
+-48	1450
+1359	+9
+-10	51
+69
+
+1950	Guatemala
+Colombia	2
+1	Central American and Caribbean Games
+in Guatemala	+12
+-12	1417
+1347	0
+-4	57
+76
+
+1950	Honduras
+Colombia	2
+0	Central American and Caribbean Games
+in Guatemala	+20
+-20	1487
+1327	+10
+-4	44
+76
+March
+1954	Colombia
+Cuba	2
+1	Central American and Caribbean Games
+in Mexico	+26
+-26	1353
+1404	+8
+-23	78
+86
+March
+1954	Colombia
+El Salvador	2
+2	Central American and Caribbean Games
+in Mexico	+2
+-2	1355
+1380	+8
++12	78
+65
+March
+1954	Colombia
+Panama	2
+1	Central American and Caribbean Games
+in Mexico	+15
+-15	1370
+1251	+8
++2	78
+91
+March 13
+1957	Argentina
+Colombia	8
+2	Copa América
+in Peru	+2
+-2	2049
+1368	0
+-1	2
+81
+March 17
+1957	Colombia
+Uruguay	1
+0	Copa América
+in Peru	+48
+-48	1416
+1852	+16
+0	65
+5
+March 21
+1957	Chile
+Colombia	3
+2	Copa América
+in Peru	+8
+-8	1723
+1408	0
+-2	20
+67
+March 24
+1957	Brazil
+Colombia	9
+0	Copa América
+in Peru	+4
+-4	2027
+1404	0
+-1	3
+68
+March 27
+1957	Peru
+Colombia	4
+1	Copa América
+in Peru	+9
+-9	1700
+1395	+1
+-2	20
+70
+April 01
+1957	Colombia
+Ecuador	4
+1	Copa América
+in Peru	+28
+-28	1423
+1235	+5
+-3	65
+105
+June 16
+1957	Colombia
+Uruguay	1
+1	World Cup qualifier
+in Colombia	+17
+-17	1440
+1914	+1
+0	66
+5
+June 20
+1957	Colombia
+Paraguay	2
+3	World Cup qualifier
+in Colombia	-12
++12	1428
+1691	0
++2	66
+21
+June 23
+1957	Colombia
+Paraguay	1
+2	Friendly
+in Colombia	-6
++6	1422
+1697	-1
+0	67
+21
+June 30
+1957	Uruguay
+Colombia	1
+0	World Cup qualifier
+in Uruguay	+1
+-1	1915
+1421	0
+0	5
+67
+July 07
+1957	Paraguay
+Colombia	3
+0	World Cup qualifier
+in Paraguay	+7
+-7	1704
+1414	0
+0	22
+67
+April 30
+1961	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+31
+-31	1445
+1687	+8
+-4	70
+24
+May 07
+1961	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	-15
++15	1672
+1460	-2
++5	26
+66
+April 01
+1962	Colombia
+Mexico	0
+1	Friendly
+in Colombia	-5
++5	1455
+1769	0
+0	67
+18
+April 04
+1962	Colombia
+Mexico	2
+2	Friendly
+in Colombia	+5
+-5	1460
+1764	0
+0	67
+18
+April 25
+1962	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+2
+-2	1766
+1458	0
+0	18
+67
+May 30
+1962	Uruguay
+Colombia	2
+1	World Cup
+in Chile	+5
+-5	1876
+1453	0
+-1	9
+68
+June 03
+1962	Colombia
+Soviet Union	4
+4	World Cup
+in Chile	+28
+-28	1481
+1985	+5
+0	63
+2
+June 07
+1962	Yugoslavia
+Colombia	5
+0	World Cup
+in Chile	+9
+-9	1933
+1472	+1
+-1	4
+64
+March 10
+1963	Argentina
+Colombia	4
+2	Copa América
+in Bolivia	+5
+-5	1922
+1467	0
+-2	5
+67
+March 14
+1963	Brazil
+Colombia	5
+1	Copa América
+in Bolivia	+2
+-2	2150
+1465	0
+0	1
+67
+March 17
+1963	Bolivia
+Colombia	2
+1	Copa América
+in Bolivia	+14
+-14	1536
+1451	+2
+-3	52
+70
+March 20
+1963	Paraguay
+Colombia	3
+2	Copa América
+in Bolivia	+9
+-9	1724
+1442	0
+-1	21
+71
+March 24
+1963	Colombia
+Peru	1
+1	Copa América
+in Bolivia	+14
+-14	1456
+1657	+4
+-1	68
+28
+March 31
+1963	Ecuador
+Colombia	4
+3	Copa América
+in Bolivia	+33
+-33	1370
+1423	+6
+-9	96
+78
+September 01
+1963	Colombia
+Costa Rica	4
+5	Friendly
+in Colombia	-4
++4	1419
+1768	0
+0	80
+20
+September 04
+1963	Colombia
+Costa Rica	1
+0	Friendly
+in Colombia	+16
+-16	1435
+1752	+3
+0	77
+20
+July 20
+1965	Colombia
+Ecuador	0
+1	World Cup qualifier
+in Colombia	-29
++29	1406
+1399	-9
++7	86
+89
+July 25
+1965	Ecuador
+Colombia	2
+0	World Cup qualifier
+in Ecuador	+22
+-22	1421
+1384	+5
+-4	83
+89
+August 01
+1965	Chile
+Colombia	7
+2	World Cup qualifier
+in Chile	+4
+-4	1789
+1380	0
+-3	18
+92
+August 07
+1965	Colombia
+Chile	2
+0	World Cup qualifier
+in Colombia	+51
+-51	1431
+1738	+14
+-4	77
+22
+November 30
+1966	Chile
+Colombia	5
+2	Copa América qualifier
+in Chile	+8
+-8	1690
+1423	+3
+-4	27
+82
+December 11
+1966	Colombia
+Chile	0
+0	Copa América qualifier
+in Colombia	+9
+-9	1432
+1681	+2
+-3	80
+30
+February 08
+1968	Costa Rica
+Colombia	3
+1	Friendly
+in Costa Rica	+4
+-4	1679
+1428	+1
+-2	28
+81
+August 18
+1968	Colombia
+Argentina	0
+1	Friendly
+in Colombia	-2
++2	1426
+1875	-3
+0	83
+8
+September 22
+1968	Colombia
+Costa Rica	1
+1	Friendly
+in Colombia	+4
+-4	1430
+1664	+3
+0	79
+30
+October 16
+1968	Colombia
+Mexico	0
+1	Friendly
+in Colombia	-4
++4	1426
+1789	-3
++1	82
+16
+February 04
+1969	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+1
+-1	1804
+1425	0
+0	15
+83
+February 20
+1969	Colombia
+Soviet Union	1
+3	Friendly
+in Colombia	-3
++3	1422
+1910	-1
+0	85
+6
+May 08
+1969	Colombia
+Peru	1
+3	Friendly
+in Colombia	-13
++13	1409
+1582	0
++1	86
+47
+June 15
+1969	Colombia
+Chile	3
+3	Friendly
+in Colombia	+6
+-6	1415
+1756	0
+0	86
+19
+June 18
+1969	Peru
+Colombia	1
+1	Friendly
+in Peru	-7
++7	1602
+1422	-3
+0	42
+86
+June 22
+1969	Ecuador
+Colombia	4
+1	Friendly
+in Ecuador	+12
+-12	1437
+1410	+3
+0	82
+86
+July 02
+1969	Colombia
+Uruguay	0
+1	Friendly
+in Colombia	-3
++3	1407
+1797	0
++1	86
+13
+July 15
+1969	Colombia
+Chile	3
+3	Friendly
+in Colombia	+6
+-6	1413
+1758	0
+-2	86
+19
+July 27
+1969	Colombia
+Venezuela	3
+0	World Cup qualifier
+in Colombia	+22
+-22	1435
+1358	+5
+-6	81
+100
+August 02
+1969	Venezuela
+Colombia	1
+1	World Cup qualifier
+in Venezuela	-1
++1	1357
+1436	0
+0	100
+81
+August 06
+1969	Colombia
+Brazil	0
+2	World Cup qualifier
+in Colombia	-5
++5	1431
+1954	0
+0	81
+2
+August 10
+1969	Colombia
+Paraguay	0
+1	World Cup qualifier
+in Colombia	-11
++11	1420
+1718	-6
++1	87
+23
+August 21
+1969	Brazil
+Colombia	6
+2	World Cup qualifier
+in Brazil	+2
+-2	1982
+1418	0
+0	2
+87
+August 24
+1969	Paraguay
+Colombia	2
+1	World Cup qualifier
+in Paraguay	+4
+-4	1703
+1414	+1
+0	24
+87
+May 20
+1970	Colombia
+England	0
+4	Friendly
+in Colombia	-2
++2	1412
+2016	0
+0	86
+1
+March 29
+1972	Colombia
+Peru	1
+1	Friendly
+in Colombia	+5
+-5	1417
+1715	+3
+-1	84
+26
+June 03
+1972	Venezuela
+Colombia	2
+1	Friendly
+in Venezuela	+9
+-9	1354
+1408	+4
+-4	99
+88
+June 06
+1972	Peru
+Colombia	0
+0	Friendly
+in Peru	-8
++8	1679
+1416	0
++3	31
+85
+June 18
+1972	France
+Colombia	3
+2	Independence Cup
+in Brazil	+6
+-6	1731
+1410	0
+-3	25
+87
+June 22
+1972	Argentina
+Colombia	4
+1	Independence Cup
+in Brazil	+5
+-5	1845
+1405	0
+-1	7
+87
+February 15
+1973	Colombia
+East Germany	0
+2	Friendly
+in Colombia	-4
++4	1401
+1834	-1
+0	86
+12
+May 27
+1973	Haiti
+Colombia	1
+2	Friendly
+in Haiti	-16
++16	1539
+1417	-7
++6	59
+81
+May 29
+1973	Haiti
+Colombia	2
+1	Friendly
+in Haiti	+4
+-4	1543
+1413	+2
+-2	57
+83
+June 21
+1973	Colombia
+Ecuador	1
+1	World Cup qualifier
+in Colombia	-4
++4	1409
+1439	-1
++2	84
+74
+June 24
+1973	Colombia
+Uruguay	0
+0	World Cup qualifier
+in Colombia	+12
+-12	1421
+1735	+3
+-2	81
+25
+June 28
+1973	Ecuador
+Colombia	1
+1	World Cup qualifier
+in Ecuador	-7
++7	1432
+1428	-2
++3	76
+78
+July 01
+1973	Peru
+Colombia	3
+1	Friendly
+in Peru	+3
+-3	1695
+1425	0
+0	29
+78
+July 05
+1973	Uruguay
+Colombia	0
+1	World Cup qualifier
+in Uruguay	-37
++37	1707
+1462	-3
++9	26
+69
+July 20
+1975	Colombia
+Paraguay	1
+0	Copa América
+in Colombia	+36
+-36	1498
+1686	+4
+-4	67
+28
+July 27
+1975	Ecuador
+Colombia	1
+3	Copa América
+in Ecuador	-44
++44	1411
+1542	-10
++9	83
+58
+July 30
+1975	Paraguay
+Colombia	0
+1	Copa América
+in Paraguay	-40
++40	1636
+1582	-7
++12	37
+46
+August 07
+1975	Colombia
+Ecuador	2
+0	Copa América
+in Colombia	+13
+-13	1595
+1398	+3
+-5	45
+88
+September 21
+1975	Colombia
+Uruguay	3
+0	Copa América
+in Colombia	+44
+-44	1639
+1655	+9
+-2	37
+31
+October 01
+1975	Uruguay
+Colombia	1
+0	Copa América
+in Uruguay	+17
+-17	1672
+1622	0
+-5	31
+42
+October 16
+1975	Colombia
+Peru	1
+0	Copa América
+in Colombia	+27
+-27	1649
+1718	+7
+-2	34
+24
+October 22
+1975	Peru
+Colombia	2
+0	Copa América
+in Peru	+21
+-21	1739
+1628	+2
+-6	22
+40
+October 28
+1975	Peru
+Colombia	1
+0	Copa América
+in Venezuela	+17
+-17	1756
+1611	0
+-5	22
+45
+October 15
+1976	Colombia
+Uruguay	1
+2	Friendly
+in Colombia	-12
++12	1599
+1644	-1
++1	44
+39
+January 16
+1977	Colombia
+Ecuador	0
+1	Friendly
+in Colombia	-17
++17	1582
+1415	-3
++5	48
+83
+January 26
+1977	Ecuador
+Colombia	4
+1	Friendly
+in Ecuador	+21
+-21	1426
+1561	+6
+-4	80
+52
+January 30
+1977	Colombia
+Yugoslavia	0
+1	Friendly
+in Colombia	-6
++6	1555
+1830	-3
+0	55
+14
+February 20
+1977	Colombia
+Brazil	0
+0	World Cup qualifier
+in Colombia	+16
+-16	1571
+2030	+4
+0	50
+2
+February 24
+1977	Colombia
+Paraguay	0
+1	World Cup qualifier
+in Colombia	-21
++21	1550
+1668	-6
++7	56
+32
+March 06
+1977	Paraguay
+Colombia	1
+1	World Cup qualifier
+in Paraguay	-11
++11	1657
+1561	-3
++3	35
+52
+March 09
+1977	Brazil
+Colombia	6
+0	World Cup qualifier
+in Brazil	+3
+-3	2033
+1558	0
+0	2
+52
+July 18
+1979	Peru
+Colombia	0
+1	Friendly
+in Peru	-17
++17	1760
+1575	-3
++4	23
+54
+July 25
+1979	Colombia
+Peru	1
+2	Friendly
+in Colombia	-8
++8	1567
+1768	-2
++2	56
+21
+August 01
+1979	Venezuela
+Colombia	0
+0	Copa América
+in Venezuela	+11
+-11	1314
+1556	+6
+-4	110
+60
+August 15
+1979	Colombia
+Chile	1
+0	Copa América
+in Colombia	+20
+-20	1576
+1571	+6
+-5	54
+56
+August 22
+1979	Colombia
+Venezuela	4
+0	Copa América
+in Colombia	+11
+-11	1587
+1315	+2
+-1	52
+110
+September 05
+1979	Chile
+Colombia	2
+0	Copa América
+in Chile	+27
+-27	1611
+1560	+10
+-7	44
+59
+January 05
+1980	Venezuela
+Colombia	0
+0	Friendly
+in Venezuela	+4
+-4	1306
+1556	+1
+-1	116
+59
+June 12
+1980	Colombia
+Costa Rica	3
+1	Friendly
+in Colombia	+12
+-12	1568
+1578	+1
+-2	57
+52
+June 19
+1980	Costa Rica
+Colombia	1
+0	Friendly
+in Costa Rica	+7
+-7	1585
+1561	+1
+-1	51
+58
+July 09
+1980	Colombia
+Poland	1
+4	Friendly
+in Colombia	-6
++6	1555
+1925	-2
+0	59
+7
+February 01
+1981	Colombia
+Brazil	1
+1	Friendly
+in Colombia	+8
+-8	1563
+2006	0
+-1	53
+2
+March 10
+1981	Chile
+Colombia	1
+0	Friendly
+in Chile	+5
+-5	1678
+1558	0
+-1	31
+54
+March 15
+1981	Paraguay
+Colombia	0
+2	Friendly
+in Paraguay	-25
++25	1725
+1583	-2
++6	26
+48
+March 19
+1981	Colombia
+Chile	1
+2	Friendly
+in Colombia	-10
++10	1573
+1686	-2
++2	50
+30
+July 02
+1981	Colombia
+Spain	1
+1	Friendly
+in Colombia	+4
+-4	1577
+1801	0
+-1	52
+18
+July 26
+1981	Colombia
+Peru	1
+1	World Cup qualifier
+in Colombia	-1
++1	1576
+1660	0
+0	52
+34
+August 09
+1981	Uruguay
+Colombia	3
+2	World Cup qualifier
+in Uruguay	+6
+-6	1793
+1570	0
+-3	20
+55
+August 16
+1981	Peru
+Colombia	2
+0	World Cup qualifier
+in Peru	+16
+-16	1665
+1554	+4
+-2	34
+57
+September 13
+1981	Colombia
+Uruguay	1
+1	World Cup qualifier
+in Colombia	+6
+-6	1560
+1757	0
+-1	56
+21
+July 14
+1983	Colombia
+Chile	2
+2	Friendly
+in Colombia	0
+0	1560
+1672	0
+0	52
+34
+July 26
+1983	Ecuador
+Colombia	0
+0	Friendly
+in Ecuador	0
+0	1455
+1560	0
+0	83
+52
+July 29
+1983	Colombia
+Ecuador	0
+0	Friendly
+in Colombia	-5
++5	1555
+1460	-3
++3	55
+80
+August 14
+1983	Bolivia
+Colombia	0
+1	Copa América
+in Bolivia	-28
++28	1475
+1583	-9
++6	75
+49
+August 17
+1983	Peru
+Colombia	1
+0	Copa América
+in Peru	+12
+-12	1700
+1571	0
+-3	31
+52
+August 28
+1983	Colombia
+Peru	2
+2	Copa América
+in Colombia	+1
+-1	1572
+1690	+1
+-1	51
+32
+August 31
+1983	Colombia
+Bolivia	2
+2	Copa América
+in Colombia	-13
++13	1559
+1493	-2
++3	53
+71
+January 23
+1984	El Salvador
+Colombia	0
+1	Friendly
+in El Salvador	-10
++10	1447
+1569	0
++2	82
+52
+July 26
+1984	Colombia
+Peru	1
+1	Friendly
+in Colombia	-1
++1	1568
+1633	0
+0	51
+39
+August 09
+1984	Peru
+Colombia	0
+0	Friendly
+in Peru	-4
++4	1629
+1572	0
+0	39
+51
+August 24
+1984	Colombia
+Argentina	1
+0	Friendly
+in Colombia	+15
+-15	1587
+1830	+2
+-2	49
+11
+October 09
+1984	Mexico
+Colombia	1
+0	Friendly
+in the United States	+6
+-6	1725
+1581	+1
+-2	30
+50
+October 11
+1984	United States
+Colombia	1
+0	Friendly
+in the United States	+10
+-10	1507
+1571	+3
+-1	65
+51
+February 01
+1985	Colombia
+Switzerland	2
+2	Friendly
+in Colombia	+1
+-1	1572
+1721	0
+-1	55
+31
+February 10
+1985	Colombia
+Poland	1
+2	Friendly
+in Colombia	-6
++6	1566
+1831	-1
++1	56
+10
+February 14
+1985	Colombia
+Poland	1
+0	Friendly
+in Colombia	+14
+-14	1580
+1817	+3
+-1	53
+11
+February 21
+1985	Chile
+Colombia	1
+1	Friendly
+in Chile	-6
++6	1737
+1586	-1
++3	27
+51
+February 24
+1985	Uruguay
+Colombia	3
+0	Friendly
+in Uruguay	+3
+-3	1900
+1583	0
+-2	6
+53
+February 28
+1985	Paraguay
+Colombia	0
+3	Friendly
+in Paraguay	-27
++27	1681
+1610	-1
++8	33
+45
+April 17
+1985	Colombia
+Paraguay	1
+0	Friendly
+in Colombia	+9
+-9	1619
+1672	+1
+0	43
+32
+April 19
+1985	Colombia
+Paraguay	2
+2	Friendly
+in Colombia	-1
++1	1618
+1673	0
+0	43
+32
+April 25
+1985	Brazil
+Colombia	2
+1	Friendly
+in Brazil	+2
+-2	1911
+1616	0
+0	5
+42
+April 28
+1985	Colombia
+Uruguay	2
+1	Friendly
+in Colombia	+14
+-14	1630
+1851	+1
+0	41
+7
+May 15
+1985	Colombia
+Brazil	1
+0	Friendly
+in Colombia	+15
+-15	1645
+1893	+3
+0	39
+5
+May 26
+1985	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+16
+-16	1661
+1662	+2
+-3	37
+36
+June 02
+1985	Colombia
+Argentina	1
+3	World Cup qualifier
+in Colombia	-22
++22	1639
+1883	-3
+0	40
+6
+June 09
+1985	Peru
+Colombia	0
+0	World Cup qualifier
+in Peru	-7
++7	1666
+1646	0
++3	35
+38
+June 16
+1985	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+5
+-5	1890
+1641	0
+-2	6
+40
+June 23
+1985	Venezuela
+Colombia	2
+2	World Cup qualifier
+in Venezuela	+9
+-9	1384
+1632	0
+-2	94
+42
+June 30
+1985	Colombia
+Venezuela	2
+0	World Cup qualifier
+in Colombia	+7
+-7	1639
+1377	+1
+0	41
+94
+October 27
+1985	Paraguay
+Colombia	3
+0	World Cup qualifier
+in Paraguay	+20
+-20	1721
+1619	+2
+-2	30
+41
+November 03
+1985	Colombia
+Paraguay	2
+1	World Cup qualifier
+in Colombia	+20
+-20	1639
+1705	+2
+-1	39
+31
+June 11
+1987	Colombia
+Ecuador	1
+0	Friendly
+in Colombia	+4
+-4	1643
+1488	+1
+0	39
+75
+June 14
+1987	Ecuador
+Colombia	3
+0	Friendly
+in Ecuador	+20
+-20	1508
+1623	+5
+-6	70
+45
+July 01
+1987	Colombia
+Bolivia	2
+0	Copa América
+in Argentina	+23
+-23	1646
+1463	+6
+-1	40
+77
+July 05
+1987	Colombia
+Paraguay	3
+0	Copa América
+in Argentina	+58
+-58	1704
+1708	+10
+-8	30
+29
+July 08
+1987	Chile
+Colombia	2
+1	Copa América
+in Argentina	+16
+-16	1853
+1688	+3
+-3	11
+33
+July 11
+1987	Argentina
+Colombia	1
+2	Copa América
+in Argentina	-43
++43	1863
+1731	-3
++8	9
+25
+March 30
+1988	Colombia
+Canada	3
+0	Friendly
+in Colombia	+6
+-6	1737
+1546	+2
+-1	26
+60
+May 14
+1988	United States
+Colombia	0
+2	Friendly
+in the United States	-10
++10	1498
+1747	0
++1	69
+25
+May 17
+1988	Scotland
+Colombia	0
+0	Friendly tournament
+in Scotland	-4
++4	1748
+1751	-1
++1	25
+24
+May 19
+1988	Finland
+Colombia	1
+3	Friendly
+in Finland	-12
++12	1557
+1763	-5
++3	57
+21
+May 24
+1988	England
+Colombia	1
+1	Friendly tournament
+in England	-10
++10	1952
+1773	0
+0	1
+21
+August 07
+1988	Colombia
+Uruguay	2
+1	Friendly tournament
+in Colombia	+12
+-12	1785
+1795	+1
+-3	20
+17
+February 03
+1989	Colombia
+Peru	1
+0	Friendly tournament
+in Colombia	+5
+-5	1790
+1611	0
+-1	19
+43
+February 05
+1989	Colombia
+Chile	1
+0	Friendly tournament
+in Colombia	+9
+-9	1799
+1724	+2
+-1	17
+28
+March 09
+1989	Colombia
+Argentina	1
+0	Friendly
+in Colombia	+8
+-8	1807
+1819	+1
+0	15
+12
+June 24
+1989	United States
+Colombia	0
+1	Friendly
+in the United States	-5
++5	1500
+1812	-1
++1	70
+16
+June 27
+1989	Colombia
+Haiti	4
+0	Friendly
+in the United States	+3
+-3	1815
+1356	+1
+0	15
+104
+July 03
+1989	Colombia
+Venezuela	4
+2	Copa América
+in Brazil	+6
+-6	1821
+1382	+1
+0	15
+101
+July 05
+1989	Colombia
+Paraguay	0
+1	Copa América
+in Brazil	-28
++28	1793
+1810	-6
++5	20
+16
+July 07
+1989	Brazil
+Colombia	0
+0	Copa América
+in Brazil	-13
++13	1872
+1806	-1
++3	8
+18
+July 09
+1989	Colombia
+Peru	1
+1	Copa América
+in Brazil	-15
++15	1791
+1572	-4
++3	21
+52
+August 06
+1989	Uruguay
+Colombia	0
+0	Friendly
+in Uruguay	-4
++4	1854
+1795	0
++1	13
+18
+August 20
+1989	Colombia
+Ecuador	2
+0	World Cup qualifier
+in Colombia	+8
+-8	1803
+1571	+2
+-2	17
+52
+August 27
+1989	Paraguay
+Colombia	2
+1	World Cup qualifier
+in Paraguay	+18
+-18	1756
+1785	+3
+-3	24
+20
+September 03
+1989	Ecuador
+Colombia	0
+0	World Cup qualifier
+in Ecuador	+6
+-6	1577
+1779	+2
+0	50
+20
+September 17
+1989	Colombia
+Paraguay	2
+1	World Cup qualifier
+in Colombia	+14
+-14	1793
+1749	0
+-1	20
+24
+October 15
+1989	Colombia
+Israel	1
+0	World Cup qualifier
+in Colombia	+7
+-7	1800
+1620	+1
+0	19
+39
+October 30
+1989	Israel
+Colombia	0
+0	World Cup qualifier
+in Israel	+5
+-5	1625
+1795	0
+0	39
+19
+February 02
+1990	Uruguay
+Colombia	2
+0	Friendly tournament
+in the United States	+19
+-19	1865
+1776	+3
+-2	11
+20
+February 04
+1990	United States
+Colombia	1
+1	Friendly tournament
+in the United States	+7
+-7	1508
+1769	+4
+0	65
+20
+February 20
+1990	Colombia
+Soviet Union	0
+0	Friendly tournament
+in the United States	+6
+-6	1775
+1906	0
+-1	20
+6
+April 17
+1990	Mexico
+Colombia	2
+0	Friendly
+in the United States	+10
+-10	1900
+1765	0
+0	8
+20
+April 22
+1990	United States
+Colombia	0
+1	Friendly
+in the United States	-6
++6	1519
+1771	-2
+0	65
+20
+May 04
+1990	Colombia
+Poland	2
+1	Friendly tournament
+in the United States	+15
+-15	1786
+1747	0
+-2	20
+24
+May 26
+1990	Egypt
+Colombia	1
+1	Friendly
+in Egypt	+2
+-2	1614
+1784	+1
+0	40
+20
+June 02
+1990	Hungary
+Colombia	3
+1	Friendly
+in Hungary	+15
+-15	1696
+1769	+2
+0	31
+20
+June 09
+1990	Colombia
+United Arab Emirates	2
+0	World Cup
+in Italy	+13
+-13	1782
+1445	0
+-4	20
+82
+June 14
+1990	Colombia
+Yugoslavia	0
+1	World Cup
+in Italy	-27
++27	1755
+1841	-2
++1	22
+15
+June 19
+1990	Colombia
+West Germany	1
+1	World Cup
+in Italy	+18
+-18	1773
+1978	+1
+-1	21
+2
+June 23
+1990	Cameroon
+Colombia	2
+1	World Cup
+in Italy	+41
+-41	1686
+1732	+5
+-4	32
+25
+January 29
+1991	Mexico
+Colombia	0
+0	Friendly
+in Mexico	-5
++5	1839
+1737	-1
++1	12
+25
+February 03
+1991	Switzerland
+Colombia	3
+2	Friendly tournament
+in the United States	+17
+-17	1709
+1720	+1
+-1	31
+26
+June 05
+1991	Sweden
+Colombia	2
+2	Friendly
+in Sweden	-5
++5	1788
+1725	-1
+0	19
+27
+June 25
+1991	Costa Rica
+Colombia	0
+1	Friendly
+in Costa Rica	-10
++10	1631
+1735	-1
+0	38
+27
+July 07
+1991	Colombia
+Ecuador	1
+0	Copa América
+in Chile	+17
+-17	1752
+1600	+4
+-4	23
+47
+July 11
+1991	Colombia
+Bolivia	0
+0	Copa América
+in Chile	-13
++13	1739
+1561	-5
++2	27
+55
+July 13
+1991	Colombia
+Brazil	2
+0	Copa América
+in Chile	+55
+-55	1794
+1859	+9
+-5	17
+10
+July 15
+1991	Uruguay
+Colombia	1
+0	Copa América
+in Chile	+26
+-26	1809
+1768	+5
+-5	15
+22
+July 17
+1991	Chile
+Colombia	1
+1	Copa América
+in Chile	-7
++7	1767
+1775	-1
++2	22
+20
+July 19
+1991	Brazil
+Colombia	2
+0	Copa América
+in Chile	+29
+-29	1883
+1746	+2
+-5	8
+25
+July 21
+1991	Argentina
+Colombia	2
+1	Copa América
+in Chile	+12
+-12	1949
+1734	0
+-2	4
+27
+July 08
+1992	Honduras
+Colombia	1
+0	Friendly
+in Honduras	+10
+-10	1633
+1724	+1
+-1	41
+28
+July 31
+1992	United States
+Colombia	0
+1	Friendship Cup
+in the United States	-16
++16	1632
+1740	-5
++3	43
+25
+August 02
+1992	Mexico
+Colombia	0
+0	Friendship Cup
+in the United States	-2
++2	1787
+1742	0
+0	17
+25
+February 24
+1993	Venezuela
+Colombia	0
+0	Friendly
+in Venezuela	+7
+-7	1327
+1735	+2
+-3	118
+26
+March 31
+1993	Colombia
+Costa Rica	4
+1	Friendly
+in Colombia	+6
+-6	1741
+1550	+1
+0	25
+58
+May 08
+1993	United States
+Colombia	1
+2	Friendly
+in the United States	-9
++9	1614
+1750	-2
++1	46
+23
+May 21
+1993	Colombia
+Venezuela	1
+1	Friendly
+in Colombia	-9
++9	1741
+1336	-1
++1	24
+117
+May 30
+1993	Chile
+Colombia	1
+1	Friendly
+in Chile	-3
++3	1736
+1744	0
++1	25
+23
+June 06
+1993	Colombia
+Chile	1
+0	Friendly
+in Colombia	+7
+-7	1751
+1729	0
+0	24
+25
+June 16
+1993	Colombia
+Mexico	2
+1	Copa América
+in Ecuador	+30
+-30	1781
+1791	+4
+-6	20
+18
+June 20
+1993	Colombia
+Bolivia	1
+1	Copa América
+in Ecuador	-16
++16	1765
+1527	-2
++9	22
+65
+June 23
+1993	Argentina
+Colombia	1
+1	Copa América
+in Ecuador	-13
++13	1957
+1778	0
++2	2
+20
+June 26
+1993	Colombia
+Uruguay	1
+1	Copa América
+in Ecuador	0
+0	1778
+1776	0
+0	20
+22
+July 01
+1993	Argentina
+Colombia	0
+0	Copa América
+in Ecuador	-12
++12	1942
+1790	-1
++2	3
+18
+July 03
+1993	Ecuador
+Colombia	0
+1	Copa América
+in Ecuador	-24
++24	1652
+1814	-3
++5	34
+13
+August 01
+1993	Colombia
+Paraguay	0
+0	World Cup qualifier
+in Colombia	-13
++13	1801
+1648	-3
++4	16
+37
+August 08
+1993	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-12
++12	1535
+1813	-1
++3	63
+13
+August 15
+1993	Colombia
+Argentina	2
+1	World Cup qualifier
+in Colombia	+24
+-24	1837
+1956	+2
+-1	12
+2
+August 22
+1993	Paraguay
+Colombia	1
+1	World Cup qualifier
+in Paraguay	+5
+-5	1650
+1832	0
+-1	38
+13
+August 29
+1993	Colombia
+Peru	4
+0	World Cup qualifier
+in Colombia	+7
+-7	1839
+1516	+1
+-2	12
+65
+September 05
+1993	Argentina
+Colombia	0
+5	World Cup qualifier
+in Argentina	-61
++61	1880
+1900	-6
++6	9
+6
+January 28
+1994	Venezuela
+Colombia	1
+2	Friendly
+in Venezuela	-1
++1	1333
+1901	-1
+0	121
+5
+February 06
+1994	Saudi Arabia
+Colombia	1
+1	Friendly
+in Saudi Arabia	+3
+-3	1687
+1898	+1
+-1	30
+6
+February 09
+1994	Saudi Arabia
+Colombia	0
+1	Friendly
+in Saudi Arabia	-7
++7	1680
+1905	-1
++1	31
+5
+February 18
+1994	Colombia
+Sweden	0
+0	Friendly tournament
+in the United States	-2
++2	1903
+1849	0
+0	5
+11
+February 20
+1994	Colombia
+Bolivia	2
+0	Friendly tournament
+in the United States	+9
+-9	1912
+1654	0
+-2	5
+37
+February 26
+1994	Colombia
+South Korea	2
+2	Friendly
+in the United States	-6
++6	1906
+1658	0
++1	5
+37
+March 02
+1994	Mexico
+Colombia	0
+0	Friendly
+in Mexico	-1
++1	1826
+1907	0
+0	13
+5
+April 07
+1994	Colombia
+Bolivia	0
+1	Friendly
+in Colombia	-18
++18	1889
+1674	-1
++5	6
+32
+April 17
+1994	Colombia
+Nigeria	1
+0	Friendly
+in Colombia	+4
+-4	1893
+1747	+1
+-1	5
+25
+May 03
+1994	Colombia
+Peru	1
+0	Friendly tournament
+in the United States	+3
+-3	1896
+1516	0
+-2	5
+70
+May 05
+1994	Colombia
+El Salvador	3
+0	Friendly tournament
+in the United States	+4
+-4	1900
+1471	0
+0	5
+82
+June 03
+1994	Colombia
+Northern Ireland	2
+0	Friendly
+in the United States	+6
+-6	1906
+1646	0
+-1	5
+40
+June 05
+1994	Colombia
+Greece	2
+0	Friendly
+in the United States	+6
+-6	1912
+1650	0
+-1	5
+38
+June 18
+1994	Romania
+Colombia	3
+1	World Cup
+in the United States	+61
+-61	1846
+1851	+9
+-6	13
+11
+June 22
+1994	United States
+Colombia	2
+1	World Cup
+in the United States	+42
+-42	1645
+1809	+13
+-4	37
+16
+June 26
+1994	Colombia
+Switzerland	2
+0	World Cup
+in the United States	+54
+-54	1863
+1822	+8
+-7	10
+17
+January 31
+1995	South Korea
+Colombia	1
+0	Carlsberg Cup
+in Hong Kong	+24
+-24	1658
+1839	+1
+-5	34
+16
+February 07
+1995	Australia
+Colombia	0
+0	Friendly
+in Australia	+1
+-1	1690
+1838	0
+0	28
+16
+February 11
+1995	Australia
+Colombia	0
+1	Friendly
+in Australia	-9
++9	1681
+1847	0
++3	28
+12
+March 22
+1995	Colombia
+Uruguay	2
+1	Friendly
+in Colombia	+5
+-5	1852
+1765	0
+0	13
+24
+June 17
+1995	Colombia
+Nigeria	1
+0	US Cup
+in the United States	+11
+-11	1863
+1753	+2
+0	8
+25
+June 21
+1995	Mexico
+Colombia	0
+0	US Cup
+in the United States	+2
+-2	1820
+1861	+1
+0	17
+8
+June 25
+1995	United States
+Colombia	0
+0	US Cup
+in the United States	+5
+-5	1646
+1856	0
+0	34
+8
+July 07
+1995	Colombia
+Peru	1
+1	Copa América
+in Uruguay	-17
++17	1839
+1585	-5
++6	13
+48
+July 10
+1995	Colombia
+Ecuador	1
+0	Copa América
+in Uruguay	+12
+-12	1851
+1619	+3
+-3	10
+42
+July 13
+1995	Brazil
+Colombia	3
+0	Copa América
+in Uruguay	+20
+-20	2085
+1831	0
+-5	1
+15
+July 16
+1995	Colombia
+Paraguay	1
+1	Copa América
+in Uruguay	-8
++8	1823
+1726	0
+0	14
+27
+July 19
+1995	Uruguay
+Colombia	2
+0	Copa América
+in Uruguay	+31
+-31	1818
+1792	+4
+-6	17
+21
+July 22
+1995	Colombia
+United States	4
+1	Copa América
+in Uruguay	+34
+-34	1826
+1683	+6
+-2	15
+30
+September 06
+1995	England
+Colombia	0
+0	Friendly
+in England	-3
++3	1829
+1829	-1
++3	14
+14
+October 11
+1995	Argentina
+Colombia	0
+0	Friendly
+in Argentina	-3
++3	1827
+1832	0
++3	13
+11
+October 26
+1995	China
+Colombia	2
+1	Friendly
+in China	+15
+-15	1544
+1817	+2
+-5	64
+16
+November 29
+1995	Mexico
+Colombia	2
+2	Friendly
+in the United States	+1
+-1	1789
+1816	+1
+0	21
+16
+December 20
+1995	Brazil
+Colombia	3
+1	Friendly
+in Brazil	+3
+-3	2077
+1813	0
+0	1
+16
+March 06
+1996	Colombia
+Honduras	2
+1	Friendly
+in the United States	+3
+-3	1816
+1514	0
+0	18
+69
+March 21
+1996	Colombia
+Trinidad and Tobago	3
+0	Friendly
+in Colombia	+3
+-3	1819
+1493	+1
+-1	17
+74
+March 28
+1996	Colombia
+Bolivia	4
+1	Friendly
+in Colombia	+7
+-7	1826
+1666	+1
+0	16
+34
+April 24
+1996	Colombia
+Paraguay	1
+0	World Cup qualifier
+in Colombia	+10
+-10	1836
+1714	+2
+-1	14
+28
+May 29
+1996	Colombia
+Scotland	1
+0	Friendly
+in the United States	+7
+-7	1843
+1733	+4
+-2	12
+26
+June 02
+1996	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	+12
+-12	1525
+1831	+3
+-4	67
+16
+July 07
+1996	Colombia
+Uruguay	3
+1	World Cup qualifier
+in Colombia	+17
+-17	1848
+1749	+3
+-3	12
+24
+September 01
+1996	Colombia
+Chile	4
+1	World Cup qualifier
+in Colombia	+15
+-15	1863
+1702	0
+0	12
+28
+October 09
+1996	Ecuador
+Colombia	0
+1	World Cup qualifier
+in Ecuador	-15
++15	1666
+1878	-2
+0	34
+11
+November 01
+1996	Colombia
+Honduras	2
+1	Friendly
+in the United States	+2
+-2	1880
+1533	0
+0	11
+64
+November 10
+1996	Bolivia
+Colombia	2
+2	World Cup qualifier
+in Bolivia	+9
+-9	1631
+1871	+1
+0	40
+11
+November 23
+1996	South Korea
+Colombia	4
+1	Friendly
+in South Korea	+24
+-24	1656
+1847	+4
+-1	35
+12
+December 15
+1996	Venezuela
+Colombia	0
+2	World Cup qualifier
+in Venezuela	-5
++5	1343
+1852	-1
+0	122
+12
+February 08
+1997	Colombia
+Slovakia	1
+0	Friendly
+in Colombia	+2
+-2	1854
+1606	0
+-1	11
+49
+February 12
+1997	Colombia
+Argentina	0
+1	World Cup qualifier
+in Colombia	-29
++29	1825
+1810	-3
++4	14
+16
+April 02
+1997	Paraguay
+Colombia	2
+1	World Cup qualifier
+in Paraguay	+16
+-16	1813
+1809	+5
+-2	15
+16
+April 30
+1997	Colombia
+Peru	0
+1	World Cup qualifier
+in Colombia	-34
++34	1775
+1650	-5
++10	22
+39
+June 08
+1997	Uruguay
+Colombia	1
+1	World Cup qualifier
+in Uruguay	-1
++1	1687
+1776	-1
+0	31
+22
+June 13
+1997	Mexico
+Colombia	2
+1	Copa América
+in Bolivia	+22
+-22	1833
+1754	+2
+-1	14
+23
+June 16
+1997	Colombia
+Costa Rica	4
+1	Copa América
+in Bolivia	+26
+-26	1780
+1582	+2
+-4	21
+55
+June 19
+1997	Brazil
+Colombia	2
+0	Copa América
+in Bolivia	+13
+-13	2072
+1767	0
+-1	1
+22
+June 21
+1997	Bolivia
+Colombia	2
+1	Copa América
+in Bolivia	+22
+-22	1734
+1745	+3
+-3	26
+25
+July 05
+1997	Chile
+Colombia	4
+1	World Cup qualifier
+in Chile	+35
+-35	1683
+1710	+5
+-3	33
+29
+July 20
+1997	Colombia
+Ecuador	1
+0	World Cup qualifier
+in Colombia	+16
+-16	1726
+1731	+2
+-1	27
+25
+August 06
+1997	Jamaica
+Colombia	1
+0	Friendly
+in Jamaica	+12
+-12	1570
+1714	+2
+-1	59
+29
+August 20
+1997	Colombia
+Bolivia	3
+0	World Cup qualifier
+in Colombia	+28
+-28	1742
+1714	+4
+-5	24
+28
+August 24
+1997	Peru
+Colombia	2
+1	Friendly
+in Peru	+9
+-9	1700
+1733	0
+-1	30
+25
+September 10
+1997	Colombia
+Venezuela	1
+0	World Cup qualifier
+in Colombia	+2
+-2	1735
+1314	-1
+0	26
+126
+October 08
+1997	Norway
+Colombia	0
+0	Friendly
+in Norway	-5
++5	1834
+1740	-2
++2	13
+24
+November 16
+1997	Argentina
+Colombia	1
+1	World Cup qualifier
+in Argentina	-9
++9	1809
+1749	0
++1	17
+23
+March 25
+1998	Colombia
+Yugoslavia	0
+0	Friendly
+in Colombia	+2
+-2	1751
+1926	+2
+0	23
+7
+March 29
+1998	Colombia
+Paraguay	1
+1	Friendly
+in the United States	0
+0	1751
+1736	0
+0	23
+26
+April 22
+1998	Chile
+Colombia	2
+2	Friendly
+in Chile	-3
++3	1758
+1754	-1
++1	22
+23
+May 24
+1998	Scotland
+Colombia	2
+2	Friendly
+in the United States	0
+0	1742
+1754	0
++1	25
+22
+May 30
+1998	Germany
+Colombia	3
+1	Friendly
+in Germany	+3
+-3	2022
+1751	0
+-1	2
+23
+June 03
+1998	Belgium
+Colombia	2
+0	Friendly
+in Belgium	+10
+-10	1777
+1741	0
+-2	20
+25
+June 15
+1998	Romania
+Colombia	1
+0	World Cup
+in France	+23
+-23	1849
+1718	+3
+-5	13
+28
+June 22
+1998	Colombia
+Tunisia	1
+0	World Cup
+in France	+22
+-22	1740
+1595	+5
+-4	24
+55
+June 26
+1998	England
+Colombia	2
+0	World Cup
+in France	+24
+-24	1936
+1716	+1
+-2	7
+26
+February 09
+1999	Colombia
+Germany	3
+3	Friendly
+in the United States	+5
+-5	1721
+1910	+1
+-1	27
+8
+March 30
+1999	Venezuela
+Colombia	0
+0	Friendly
+in Venezuela	+7
+-7	1317
+1714	+3
+-1	125
+28
+April 15
+1999	Venezuela
+Colombia	1
+1	Friendly
+in Venezuela	+7
+-7	1324
+1707	+3
+0	122
+28
+April 22
+1999	Paraguay
+Colombia	0
+2	Friendly
+in Paraguay	-22
++22	1758
+1729	-2
++3	19
+25
+May 29
+1999	El Salvador
+Colombia	2
+1	Friendly
+in the United States	+17
+-17	1421
+1712	+5
+-2	96
+27
+June 17
+1999	Colombia
+Peru	3
+3	Friendly
+in Colombia	-3
++3	1709
+1697	-2
+0	30
+34
+June 24
+1999	Paraguay
+Colombia	2
+1	Friendly
+in Paraguay	+6
+-6	1760
+1703	0
+0	20
+31
+July 01
+1999	Colombia
+Uruguay	1
+0	Copa América
+in Paraguay	+28
+-28	1731
+1718	+7
+-5	24
+26
+July 04
+1999	Colombia
+Argentina	3
+0	Copa América
+in Paraguay	+65
+-65	1796
+1852	+7
+-9	17
+15
+July 07
+1999	Colombia
+Ecuador	2
+1	Copa América
+in Paraguay	+16
+-16	1812
+1654	0
+-5	17
+45
+July 11
+1999	Chile
+Colombia	3
+2	Copa América
+in Paraguay	+31
+-31	1751
+1781	+5
+-2	22
+19
+September 08
+1999	Trinidad and Tobago
+Colombia	4
+3	Friendly
+in the United States	+15
+-15	1585
+1766	+4
+-2	55
+22
+October 13
+1999	Argentina
+Colombia	2
+1	Friendly
+in Argentina	+5
+-5	1884
+1761	0
+0	12
+22
+October 20
+1999	Colombia
+Mexico	0
+0	Friendly
+in the United States	+4
+-4	1765
+1887	0
+-1	22
+9
+November 19
+1999	Colombia
+Slovakia	1
+0	Friendly
+in Colombia	+4
+-4	1769
+1634	0
+0	22
+44
+February 12
+2000	Colombia
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+13
+-13	1782
+1570	+1
+-1	20
+57
+February 16
+2000	Honduras
+Colombia	2
+0	Concacaf Gold Cup
+in the United States	+52
+-52	1688
+1730	+13
+-6	35
+25
+February 19
+2000	United States
+Colombia	2
+2	Concacaf Gold Cup
+in the United States	-12
++12	1794
+1742	-1
++3	18
+22
+February 23
+2000	Colombia
+Peru	2
+1	Concacaf Gold Cup
+in the United States	+23
+-23	1765
+1696	+2
+-2	20
+30
+February 27
+2000	Canada
+Colombia	2
+0	Concacaf Gold Cup
+in the United States	+51
+-51	1685
+1714	+15
+-7	35
+27
+March 28
+2000	Colombia
+Brazil	0
+0	World Cup qualifier
+in Colombia	+13
+-13	1727
+2064	0
+0	27
+1
+April 26
+2000	Bolivia
+Colombia	1
+1	World Cup qualifier
+in Bolivia	+1
+-1	1616
+1726	0
+-2	53
+27
+May 27
+2000	Colombia
+Jamaica	3
+0	Friendly
+in the United States	+8
+-8	1734
+1511	+2
+-3	25
+69
+June 04
+2000	Colombia
+Venezuela	3
+0	World Cup qualifier
+in Colombia	+5
+-5	1739
+1372	+1
+-2	23
+113
+June 29
+2000	Colombia
+Argentina	1
+3	World Cup qualifier
+in Colombia	-23
++23	1716
+1950	-7
++1	29
+6
+July 19
+2000	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-25
++25	1675
+1741	-8
++7	41
+22
+July 25
+2000	Ecuador
+Colombia	0
+0	World Cup qualifier
+in Ecuador	-1
++1	1653
+1742	0
+0	44
+22
+August 15
+2000	Colombia
+Uruguay	1
+0	World Cup qualifier
+in Colombia	+14
+-14	1756
+1721	+1
+-8	20
+31
+September 02
+2000	Chile
+Colombia	0
+1	World Cup qualifier
+in Chile	-25
++25	1724
+1781	-5
++1	27
+19
+October 07
+2000	Colombia
+Paraguay	0
+2	World Cup qualifier
+in Colombia	-38
++38	1743
+1824	-4
++4	24
+14
+November 15
+2000	Brazil
+Colombia	1
+0	World Cup qualifier
+in Brazil	+5
+-5	1999
+1738	0
+-2	2
+26
+January 31
+2001	Colombia
+Mexico	3
+2	Friendly
+in the United States	+12
+-12	1750
+1780	+2
+-2	24
+18
+February 03
+2001	United States
+Colombia	0
+1	Friendly
+in the United States	-13
++13	1760
+1763	-1
++3	22
+21
+February 28
+2001	Colombia
+Australia	3
+2	Friendly
+in Colombia	+8
+-8	1771
+1768	+1
+-2	21
+22
+March 27
+2001	Colombia
+Bolivia	2
+0	World Cup qualifier
+in Colombia	+8
+-8	1779
+1544	+2
+-2	19
+64
+April 24
+2001	Venezuela
+Colombia	2
+2	World Cup qualifier
+in Venezuela	+14
+-14	1408
+1765	+5
+-3	97
+23
+June 03
+2001	Argentina
+Colombia	3
+0	World Cup qualifier
+in Argentina	+10
+-10	1982
+1755	0
+-1	3
+25
+July 11
+2001	Colombia
+Venezuela	2
+0	Copa América
+in Colombia	+5
+-5	1760
+1388	0
+-3	26
+106
+July 14
+2001	Colombia
+Ecuador	1
+0	Copa América
+in Colombia	+14
+-14	1774
+1675	+2
+-5	24
+41
+July 17
+2001	Colombia
+Chile	2
+0	Copa América
+in Colombia	+19
+-19	1793
+1666	+5
+-6	19
+43
+July 23
+2001	Colombia
+Peru	3
+0	Copa América
+in Colombia	+20
+-20	1813
+1659	+3
+-4	15
+44
+July 26
+2001	Colombia
+Honduras	2
+0	Copa América
+in Colombia	+22
+-22	1835
+1734	+2
+-2	13
+28
+July 29
+2001	Colombia
+Mexico	1
+0	Copa América
+in Colombia	+13
+-13	1848
+1736	+2
+-1	11
+27
+August 04
+2001	Colombia
+Liberia	2
+1	Friendly
+in the United States	+2
+-2	1850
+1501	0
+0	11
+75
+August 16
+2001	Colombia
+Peru	0
+1	World Cup qualifier
+in Colombia	-34
++34	1816
+1693	-2
++9	15
+34
+September 05
+2001	Colombia
+Ecuador	0
+0	World Cup qualifier
+in Colombia	-12
++12	1804
+1687	-2
++1	17
+38
+October 07
+2001	Uruguay
+Colombia	1
+1	World Cup qualifier
+in Uruguay	-1
++1	1726
+1805	-2
+0	30
+18
+November 07
+2001	Colombia
+Chile	3
+1	World Cup qualifier
+in Colombia	+8
+-8	1813
+1571	+3
+0	15
+57
+November 14
+2001	Paraguay
+Colombia	0
+4	World Cup qualifier
+in Paraguay	-40
++40	1699
+1853	-14
++5	39
+9
+May 07
+2002	Venezuela
+Colombia	0
+0	Friendly
+in Venezuela	+5
+-5	1544
+1848	0
+0	61
+9
+May 09
+2002	Costa Rica
+Colombia	1
+2	Friendly
+in Costa Rica	-10
++10	1739
+1858	0
++1	27
+8
+May 12
+2002	Mexico
+Colombia	2
+1	Friendly
+in Mexico	+9
+-9	1806
+1849	0
+-1	18
+9
+November 20
+2002	Honduras
+Colombia	1
+0	Friendly
+in Honduras	+10
+-10	1746
+1839	+2
+0	29
+12
+February 12
+2003	Mexico
+Colombia	0
+0	Friendly
+in the United States	+1
+-1	1803
+1838	-1
+-1	16
+13
+March 29
+2003	South Korea
+Colombia	0
+0	Friendly
+in South Korea	0
+0	1740
+1838	+1
+-1	28
+14
+April 30
+2003	Colombia
+Honduras	0
+0	Friendly
+in the United States	-4
++4	1834
+1686	+1
++1	12
+36
+June 08
+2003	Colombia
+Ecuador	0
+0	Friendly
+in Spain	-4
++4	1830
+1702	0
+0	14
+36
+June 18
+2003	France
+Colombia	1
+0	Confederations Cup
+in France	+12
+-12	1946
+1818	0
+-1	4
+15
+June 20
+2003	Colombia
+New Zealand	3
+1	Confederations Cup
+in France	+14
+-14	1832
+1549	+1
+-2	14
+63
+June 22
+2003	Colombia
+Japan	1
+0	Confederations Cup
+in France	+20
+-20	1852
+1747	+2
+-2	12
+24
+June 26
+2003	Cameroon
+Colombia	1
+0	Confederations Cup
+in France	+27
+-27	1849
+1825	+4
+-3	12
+15
+June 28
+2003	Turkey
+Colombia	2
+1	Confederations Cup
+in France	+24
+-24	1860
+1801	+2
+-4	12
+19
+July 13
+2003	Colombia
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+10
+-10	1811
+1558	0
+0	18
+61
+July 17
+2003	Colombia
+Guatemala	1
+1	Concacaf Gold Cup
+in the United States	-18
++18	1793
+1524	-2
++4	20
+69
+July 19
+2003	Brazil
+Colombia	2
+0	Concacaf Gold Cup
+in the United States	+21
+-21	1979
+1772	0
+-1	4
+21
+August 20
+2003	Colombia
+Slovakia	0
+0	Friendly
+in the United States	-4
++4	1768
+1625	0
+0	21
+49
+September 07
+2003	Colombia
+Brazil	1
+2	World Cup qualifier
+in Colombia	-14
++14	1754
+1984	-1
+0	22
+4
+September 10
+2003	Bolivia
+Colombia	4
+0	World Cup qualifier
+in Bolivia	+52
+-52	1567
+1702	+8
+-13	62
+35
+November 15
+2003	Colombia
+Venezuela	0
+1	World Cup qualifier
+in Colombia	-32
++32	1670
+1602	-3
++5	38
+57
+November 19
+2003	Colombia
+Argentina	1
+1	World Cup qualifier
+in Colombia	+12
+-12	1682
+1988	+2
+0	36
+2
+February 18
+2004	Honduras
+Colombia	1
+1	Friendly
+in Honduras	-1
++1	1626
+1683	0
+-1	48
+40
+March 31
+2004	Peru
+Colombia	0
+2	World Cup qualifier
+in Peru	-37
++37	1627
+1720	-5
++10	47
+30
+April 28
+2004	Colombia
+El Salvador	2
+0	Friendly
+in the United States	+6
+-6	1726
+1457	+1
+-3	29
+84
+June 02
+2004	Ecuador
+Colombia	2
+1	World Cup qualifier
+in Ecuador	+17
+-17	1700
+1709	+2
+-4	36
+32
+June 06
+2004	Colombia
+Uruguay	5
+0	World Cup qualifier
+in Colombia	+29
+-29	1738
+1681	+6
+-6	27
+38
+June 27
+2004	Colombia
+Argentina	2
+0	Friendly
+in the United States	+23
+-23	1761
+1935	+3
+-2	24
+6
+July 06
+2004	Colombia
+Venezuela	1
+0	Copa América
+in Peru	+18
+-18	1779
+1637	+1
+-5	23
+48
+July 09
+2004	Colombia
+Bolivia	1
+0	Copa América
+in Peru	+11
+-11	1790
+1552	+3
+-1	20
+63
+July 12
+2004	Peru
+Colombia	2
+2	Copa América
+in Peru	+1
+-1	1679
+1789	+2
+0	35
+20
+July 17
+2004	Colombia
+Costa Rica	2
+0	Copa América
+in Peru	+26
+-26	1815
+1657	+4
+-4	17
+38
+July 20
+2004	Argentina
+Colombia	3
+0	Copa América
+in Peru	+27
+-27	1983
+1788	+1
+-3	3
+20
+July 24
+2004	Uruguay
+Colombia	2
+1	Copa América
+in Peru	+27
+-27	1790
+1761	+4
+-6	20
+26
+September 05
+2004	Chile
+Colombia	0
+0	World Cup qualifier
+in Chile	+1
+-1	1653
+1760	0
+0	40
+26
+October 09
+2004	Colombia
+Paraguay	1
+1	World Cup qualifier
+in Colombia	-5
++5	1755
+1774	0
+0	26
+25
+October 13
+2004	Brazil
+Colombia	0
+0	World Cup qualifier
+in Brazil	-15
++15	1980
+1770	0
++1	2
+25
+November 17
+2004	Colombia
+Bolivia	1
+0	World Cup qualifier
+in Colombia	+6
+-6	1776
+1564	+1
+-3	23
+66
+January 15
+2005	Colombia
+South Korea	2
+1	Friendly
+in the United States	+8
+-8	1784
+1689	0
+-4	23
+36
+January 17
+2005	Colombia
+Guatemala	1
+1	Friendly
+in the United States	-5
++5	1779
+1601	0
++3	23
+55
+February 23
+2005	Mexico
+Colombia	1
+1	Friendly
+in Mexico	-5
++5	1872
+1784	0
+0	9
+23
+March 09
+2005	United States
+Colombia	3
+0	Friendly
+in the United States	+11
+-11	1824
+1773	0
+0	16
+23
+March 26
+2005	Venezuela
+Colombia	0
+0	World Cup qualifier
+in Venezuela	+4
+-4	1608
+1769	-1
+-1	54
+24
+March 30
+2005	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+5
+-5	2008
+1764	0
+0	1
+24
+May 31
+2005	England
+Colombia	3
+2	Friendly
+in the United States	+5
+-5	1960
+1759	0
+0	3
+25
+June 04
+2005	Colombia
+Peru	5
+0	World Cup qualifier
+in Colombia	+20
+-20	1779
+1645	+2
+-3	23
+47
+June 08
+2005	Colombia
+Ecuador	3
+0	World Cup qualifier
+in Colombia	+23
+-23	1802
+1727	+3
+-4	20
+31
+July 06
+2005	Panama
+Colombia	1
+0	Concacaf Gold Cup
+in the United States	+45
+-45	1482
+1757	+10
+-7	82
+26
+July 10
+2005	Honduras
+Colombia	2
+1	Concacaf Gold Cup
+in the United States	+33
+-33	1676
+1724	+7
+-5	43
+31
+July 12
+2005	Colombia
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1739
+1474	+4
+-2	27
+83
+July 17
+2005	Colombia
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+35
+-35	1774
+1853	+3
+-5	24
+13
+July 21
+2005	Panama
+Colombia	3
+2	Concacaf Gold Cup
+in the United States	+42
+-42	1522
+1732	+6
+-3	75
+27
+September 04
+2005	Uruguay
+Colombia	3
+2	World Cup qualifier
+in Uruguay	+12
+-12	1792
+1720	+1
+-2	21
+32
+October 08
+2005	Colombia
+Chile	1
+1	World Cup qualifier
+in Colombia	-9
++9	1711
+1658	-1
++1	35
+46
+October 12
+2005	Paraguay
+Colombia	0
+1	World Cup qualifier
+in Paraguay	-29
++29	1742
+1740	-5
++5	29
+30
+March 01
+2006	Venezuela
+Colombia	1
+1	Friendly
+in Venezuela	+2
+-2	1582
+1738	0
+0	57
+32
+May 24
+2006	Colombia
+Ecuador	1
+1	Friendly
+in the United States	-1
++1	1737
+1693	0
+0	32
+39
+May 27
+2006	Colombia
+Romania	0
+0	Friendly
+in the United States	+2
+-2	1739
+1816	0
+0	32
+15
+May 30
+2006	Poland
+Colombia	1
+2	Friendly
+in Poland	-14
++14	1778
+1753	-2
++3	22
+30
+June 02
+2006	Germany
+Colombia	3
+0	Friendly
+in Germany	+8
+-8	1872
+1745	+1
+-2	10
+33
+June 04
+2006	Colombia
+Morocco	2
+0	Friendly
+in Spain	+12
+-12	1757
+1656	+2
+-2	30
+48
+August 16
+2006	Chile
+Colombia	1
+2	Friendly
+in Chile	-11
++11	1682
+1768	-1
++3	40
+23
+February 07
+2007	Colombia
+Uruguay	1
+3	Friendly
+in Colombia	-18
++18	1750
+1819	-4
++3	28
+14
+March 25
+2007	Colombia
+Switzerland	3
+1	Friendly
+in the United States	+18
+-18	1768
+1800	+5
+0	23
+16
+March 28
+2007	Colombia
+Paraguay	2
+0	Friendly
+in Colombia	+9
+-9	1777
+1723	+2
+-2	21
+35
+May 09
+2007	Panama
+Colombia	0
+4	Friendly
+in Panama	-12
++12	1536
+1789	-5
++3	72
+18
+June 03
+2007	Colombia
+Montenegro	1
+0	Kirin Cup
+in Japan	+7
+-7	1796
+1589	0
+-1	18
+55
+June 05
+2007	Japan
+Colombia	0
+0	Kirin Cup
+in Japan	-2
++2	1733
+1798	-2
+0	34
+18
+June 23
+2007	Colombia
+Ecuador	3
+1	Friendly
+in Colombia	+8
+-8	1806
+1714	+1
+-2	18
+39
+June 28
+2007	Paraguay
+Colombia	5
+0	Copa América
+in Venezuela	+60
+-60	1795
+1746	+15
+-11	18
+28
+July 02
+2007	Argentina
+Colombia	4
+2	Copa América
+in Venezuela	+15
+-15	2006
+1731	+2
+-6	2
+35
+July 05
+2007	Colombia
+United States	1
+0	Copa América
+in Venezuela	+28
+-28	1759
+1741	+10
+-6	26
+30
+August 22
+2007	Colombia
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1773
+1894	+5
+-1	21
+9
+September 08
+2007	Peru
+Colombia	2
+2	Friendly
+in Peru	+1
+-1	1635
+1772	0
++2	49
+19
+September 12
+2007	Colombia
+Paraguay	1
+0	Friendly
+in Colombia	+7
+-7	1779
+1748	0
+-2	19
+28
+October 14
+2007	Colombia
+Brazil	0
+0	World Cup qualifier
+in Colombia	+10
+-10	1789
+2062	+2
+0	18
+1
+October 17
+2007	Bolivia
+Colombia	0
+0	World Cup qualifier
+in Bolivia	+8
+-8	1550
+1781	+2
+-1	65
+19
+November 17
+2007	Colombia
+Venezuela	1
+0	World Cup qualifier
+in Colombia	+8
+-8	1789
+1634	+4
+-2	16
+46
+November 20
+2007	Colombia
+Argentina	2
+1	World Cup qualifier
+in Colombia	+27
+-27	1816
+1991	+2
+-2	14
+4
+February 06
+2008	Uruguay
+Colombia	2
+2	Friendly
+in Uruguay	-2
++2	1774
+1818	-2
++1	23
+16
+March 26
+2008	Honduras
+Colombia	2
+1	Friendly
+in the United States	+14
+-14	1678
+1804	0
+0	41
+16
+April 30
+2008	Colombia
+Venezuela	5
+2	Friendly
+in Colombia	+6
+-6	1810
+1628	+1
+0	15
+47
+May 29
+2008	Ireland
+Colombia	1
+0	Friendly
+in England	+12
+-12	1744
+1798	+2
+-1	29
+16
+June 03
+2008	France
+Colombia	1
+0	Friendly
+in France	+3
+-3	1980
+1795	0
+0	4
+16
+June 14
+2008	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	+5
+-5	1612
+1790	+1
++2	50
+14
+June 18
+2008	Ecuador
+Colombia	0
+0	World Cup qualifier
+in Ecuador	+1
+-1	1670
+1789	+1
+-1	41
+17
+August 20
+2008	Ecuador
+Colombia	1
+0	Friendly
+in the United States	+13
+-13	1683
+1776	+2
+-3	40
+20
+September 06
+2008	Colombia
+Uruguay	0
+1	World Cup qualifier
+in Colombia	-24
++24	1752
+1831	-7
++2	27
+14
+September 10
+2008	Chile
+Colombia	4
+0	World Cup qualifier
+in Chile	+29
+-29	1760
+1723	+8
+-6	23
+33
+October 11
+2008	Colombia
+Paraguay	0
+1	World Cup qualifier
+in Colombia	-21
++21	1702
+1827	-7
++4	40
+12
+October 15
+2008	Brazil
+Colombia	0
+0	World Cup qualifier
+in Brazil	-16
++16	1989
+1718	-1
++5	3
+35
+November 19
+2008	Colombia
+Nigeria	1
+0	Friendly
+in Colombia	+8
+-8	1726
+1735	+1
+-3	34
+32
+February 11
+2009	Colombia
+Haiti	2
+0	Friendly
+in Colombia	+2
+-2	1728
+1392	-2
+0	35
+110
+March 28
+2009	Colombia
+Bolivia	2
+0	World Cup qualifier
+in Colombia	+11
+-11	1739
+1563	+4
+-2	30
+61
+March 31
+2009	Venezuela
+Colombia	2
+0	World Cup qualifier
+in Venezuela	+30
+-30	1666
+1709	0
+-8	47
+37
+June 06
+2009	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+6
+-6	1913
+1703	0
+0	7
+36
+June 10
+2009	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+7
+-7	1710
+1521	0
+-3	36
+76
+August 07
+2009	Colombia
+El Salvador	2
+1	Friendly
+in the United States	+5
+-5	1715
+1507	+1
+-1	36
+83
+August 12
+2009	Venezuela
+Colombia	2
+1	Friendly
+in the United States	+11
+-11	1681
+1704	+2
+-4	44
+40
+September 05
+2009	Colombia
+Ecuador	2
+0	World Cup qualifier
+in Colombia	+23
+-23	1727
+1701	+3
+-3	36
+38
+September 09
+2009	Uruguay
+Colombia	3
+1	World Cup qualifier
+in Uruguay	+19
+-19	1784
+1708	+3
+-1	20
+37
+September 30
+2009	Colombia
+Mexico	2
+1	Friendly
+in the United States	+15
+-15	1723
+1884	+1
+-1	36
+8
+October 10
+2009	Colombia
+Chile	2
+4	World Cup qualifier
+in Colombia	-31
++31	1692
+1838	-3
++1	39
+12
+October 14
+2009	Paraguay
+Colombia	0
+2	World Cup qualifier
+in Paraguay	-47
++47	1760
+1739	-6
++9	22
+30
+May 27
+2010	South Africa
+Colombia	2
+1	Friendly
+in South Africa	+13
+-13	1562
+1726	+7
+-3	64
+28
+May 30
+2010	Colombia
+Nigeria	1
+1	Friendly
+in England	-1
++1	1725
+1699	-2
++1	30
+35
+August 11
+2010	Bolivia
+Colombia	1
+1	Friendly
+in Bolivia	+1
+-1	1574
+1724	+1
+-2	59
+31
+September 02
+2010	Venezuela
+Colombia	0
+2	Friendly
+in Venezuela	-18
++18	1669
+1742	-3
++4	41
+27
+September 07
+2010	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+5
+-5	1834
+1737	+1
+-1	10
+28
+October 08
+2010	Colombia
+Ecuador	1
+0	Friendly
+in the United States	+9
+-9	1746
+1694	+4
+-3	24
+35
+October 12
+2010	United States
+Colombia	0
+0	Friendly
+in the United States	-3
++3	1734
+1749	-1
+0	26
+24
+November 17
+2010	Colombia
+Peru	1
+1	Friendly
+in Colombia	-6
++6	1743
+1610	0
++2	24
+52
+February 09
+2011	Spain
+Colombia	1
+0	Friendly
+in Spain	+1
+-1	2092
+1742	0
+0	1
+26
+March 26
+2011	Colombia
+Ecuador	2
+0	Friendly
+in Spain	+14
+-14	1756
+1694	+3
+-3	23
+36
+March 29
+2011	Chile
+Colombia	2
+0	Friendly
+in the Netherlands	+10
+-10	1882
+1746	0
+-3	7
+26
+July 02
+2011	Colombia
+Costa Rica	1
+0	Copa América
+in Argentina	+18
+-18	1764
+1624	+4
+-5	22
+53
+July 06
+2011	Argentina
+Colombia	0
+0	Copa América
+in Argentina	-15
++15	1890
+1779	-2
++3	8
+19
+July 10
+2011	Colombia
+Bolivia	2
+0	Copa América
+in Argentina	+14
+-14	1793
+1514	+2
+-3	18
+77
+July 16
+2011	Peru
+Colombia	2
+0	Copa América
+in Argentina	+50
+-50	1726
+1743	+7
+-10	33
+28
+September 03
+2011	Colombia
+Honduras	2
+0	Friendly
+in the United States	+11
+-11	1754
+1633	+4
+-4	24
+51
+September 06
+2011	Colombia
+Jamaica	2
+0	Friendly
+in the United States	+10
+-10	1764
+1633	+2
+-2	22
+48
+October 11
+2011	Bolivia
+Colombia	1
+2	World Cup qualifier
+in Bolivia	-12
++12	1497
+1776	-4
++2	83
+22
+November 11
+2011	Colombia
+Venezuela	1
+1	World Cup qualifier
+in Colombia	-9
++9	1767
+1713	-2
++2	24
+34
+November 15
+2011	Colombia
+Argentina	1
+2	World Cup qualifier
+in Colombia	-20
++20	1747
+1893	-3
++1	27
+7
+February 29
+2012	Colombia
+Mexico	2
+0	Friendly
+in the United States	+19
+-19	1766
+1834	+3
+-2	23
+13
+May 28
+2012	Colombia
+Guyana	7
+1	Friendly
+in Colombia	+2
+-2	1768
+1356	0
+-1	23
+118
+June 03
+2012	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-23
++23	1690
+1791	-4
++3	37
+18
+June 10
+2012	Ecuador
+Colombia	1
+0	World Cup qualifier
+in Ecuador	+17
+-17	1767
+1774	+2
+-3	22
+21
+September 07
+2012	Colombia
+Uruguay	4
+0	World Cup qualifier
+in Colombia	+46
+-46	1820
+1905	+4
+-2	16
+8
+September 11
+2012	Chile
+Colombia	1
+3	World Cup qualifier
+in Chile	-43
++43	1834
+1863	-6
++5	16
+11
+October 12
+2012	Colombia
+Paraguay	2
+0	World Cup qualifier
+in Colombia	+10
+-10	1873
+1677	0
+0	11
+38
+October 16
+2012	Colombia
+Cameroon	3
+0	Friendly
+in Colombia	+4
+-4	1877
+1590	+1
+0	10
+58
+November 14
+2012	Brazil
+Colombia	1
+1	Friendly
+in the United States	-5
++5	2046
+1882	0
++1	2
+9
+February 06
+2013	Colombia
+Guatemala	4
+1	Friendly
+in the United States	+3
+-3	1885
+1480	+1
+-4	8
+89
+March 22
+2013	Colombia
+Bolivia	5
+0	World Cup qualifier
+in Colombia	+8
+-8	1893
+1599	0
+-3	8
+55
+March 26
+2013	Venezuela
+Colombia	1
+0	World Cup qualifier
+in Venezuela	+26
+-26	1710
+1867	+3
+-2	33
+10
+June 07
+2013	Argentina
+Colombia	0
+0	World Cup qualifier
+in Argentina	-11
++11	1980
+1878	0
++2	4
+8
+June 11
+2013	Colombia
+Peru	2
+0	World Cup qualifier
+in Colombia	+13
+-13	1891
+1750	+2
+-2	7
+27
+August 14
+2013	Colombia
+Serbia	1
+0	Friendly
+in Spain	+4
+-4	1895
+1662	0
++1	8
+43
+September 06
+2013	Colombia
+Ecuador	1
+0	World Cup qualifier
+in Colombia	+11
+-11	1906
+1816	0
+-2	8
+18
+September 10
+2013	Uruguay
+Colombia	2
+0	World Cup qualifier
+in Uruguay	+25
+-25	1895
+1881	+2
+-2	8
+10
+October 11
+2013	Colombia
+Chile	3
+3	World Cup qualifier
+in Colombia	-7
++7	1874
+1860	+1
+0	9
+11
+October 15
+2013	Paraguay
+Colombia	1
+2	World Cup qualifier
+in Paraguay	-16
++16	1681
+1890	-5
+0	39
+9
+November 14
+2013	Belgium
+Colombia	0
+2	Friendly
+in Belgium	-17
++17	1823
+1907	-2
++1	16
+8
+November 19
+2013	Netherlands
+Colombia	0
+0	Friendly
+in the Netherlands	-5
++5	1979
+1912	0
++1	5
+7
+March 05
+2014	Colombia
+Tunisia	1
+1	Friendly
+in Spain	-8
++8	1904
+1512	-2
++5	8
+78

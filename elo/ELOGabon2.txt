@@ -1,0 +1,2754 @@
+April 13
+1960	Upper Volta
+Gabon	5
+4	Friendly tournament
+in Madagascar	+15
+-15	1415
+1385	-
+-	76
+90
+April 11
+1963	Gabon
+Upper Volta	4
+0	Friendly tournament
+in Senegal	+28
+-28	1413
+1359	+7
+-10	84
+100
+April 15
+1963	Gambia
+Gabon	2
+2	Friendly tournament
+in Senegal	+4
+-4	1323
+1409	0
+0	107
+84
+August 28
+1965	Gabon
+Nigeria	2
+2	Friendly
+in Gabon	-2
++2	1407
+1446	0
+0	87
+75
+August 29
+1965	Gabon
+Nigeria	1
+4	Friendly
+in Gabon	-21
++21	1386
+1467	-3
++2	90
+73
+June 18
+1967	Gabon
+Guinea	0
+0	Olympic Games qualifier
+in Gabon	0
+0	1386
+1494	0
+0	90
+66
+July 09
+1967	Guinea
+Gabon	6
+1	Olympic Games qualifier
+in Guinea	+19
+-19	1513
+1367	+8
+-9	58
+99
+August 24
+1969	Dahomey
+Gabon	1
+0	Friendly
+in Dahomey	+8
+-8	1349
+1359	+1
+-2	101
+99
+November 08
+1970	Gabon
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Gabon	-11
++11	1348
+1639	-3
+0	102
+39
+November 22
+1970	Ivory Coast
+Gabon	1
+0	African Nations Cup qualifier
+in Ivory Coast	+4
+-4	1643
+1344	+1
+-1	35
+103
+
+1971	Gabon
+Cameroon	2
+3	Olympic Games qualifier
+in Gabon	-13
++13	1331
+1577	-4
++2	107
+49
+June 29
+1976	Gabon
+Cameroon	0
+0	Central African Games
+in Gabon	+7
+-7	1338
+1550	+3
+-1	102
+54
+July
+1976	Gabon
+Zaire	1
+1	Central African Games
+in Gabon	+8
+-8	1346
+1587	0
+-1	102
+47
+July 07
+1976	Gabon
+Burundi	4
+1	Central African Games
+in Gabon	+26
+-26	1372
+1327	+9
+-7	94
+108
+July 10
+1976	Gabon
+Rwanda	3
+0	Central African Games
+in Gabon	+15
+-15	1387
+1227	+7
+-3	87
+135
+July 12
+1976	Gabon
+Congo	0
+1	Central African Games
+in Gabon	-17
++17	1370
+1555	-7
++2	94
+55
+July 14
+1976	Gabon
+Central African Republic	3
+1	Central African Games
+in Gabon	+19
+-19	1389
+1312	+10
+-4	84
+110
+October 30
+1977	Congo
+Gabon	3
+2	African Nations Cup qualifier
+in Congo	+8
+-8	1547
+1381	0
+-2	56
+94
+November 13
+1977	Gabon
+Congo	3
+3	African Nations Cup qualifier
+in Gabon	+4
+-4	1385
+1543	+3
++1	91
+55
+April 06
+1980	Ivory Coast
+Gabon	4
+1	Friendly
+in Ivory Coast	+6
+-6	1572
+1379	0
+-2	56
+95
+August 21
+1981	Congo
+Gabon	2
+1	Central African Games
+in Angola	+14
+-14	1493
+1365	+1
+-3	70
+96
+August 23
+1981	Angola
+Gabon	1
+1	Central African Games
+in Angola	-12
++12	1499
+1377	-2
++2	68
+94
+August 25
+1981	Gabon
+Zaire	1
+1	Central African Games
+in Angola	+11
+-11	1388
+1574	+1
+-1	93
+52
+August 27
+1981	Cameroon
+Gabon	0
+0	Central African Games
+in Angola	-10
++10	1577
+1398	-2
++3	52
+90
+November 18
+1982	Gabon
+Angola	2
+2	African Nations Cup qualifier
+in Gabon	-2
++2	1396
+1464	0
+0	92
+78
+November 28
+1982	Angola
+Gabon	4
+0	African Nations Cup qualifier
+in Angola	+21
+-21	1485
+1375	+7
+-1	73
+93
+March 02
+1983	Gabon
+Nigeria	0
+0	Friendly
+in Gabon	+1
+-1	1376
+1524	+1
+-1	93
+62
+March 17
+1983	Gabon
+Congo	2
+3	Friendly
+in Gabon	-9
++9	1367
+1522	-2
++2	95
+63
+February 19
+1984	Gabon
+Togo	1
+1	Friendly
+in Gabon	+1
+-1	1368
+1515	0
+0	95
+62
+November 11
+1984	Zaire
+Gabon	2
+0	African Nations Cup qualifier
+in Zaire	+8
+-8	1598
+1360	+4
+-2	44
+99
+November 25
+1984	Gabon
+Zaire	1
+1	African Nations Cup qualifier
+in Gabon	+8
+-8	1368
+1590	+3
+-4	97
+48
+December 12
+1984	Chad
+Gabon	3
+3	UDEAC Tournament
+in Congo	+7
+-7	1244
+1361	0
+-2	135
+99
+December 14
+1984	Cameroon
+Gabon	0
+0	UDEAC Tournament
+in Congo	-14
++14	1645
+1375	0
++3	39
+96
+December 17
+1984	Congo
+Gabon	3
+0	UDEAC Tournament
+in Congo	+15
+-15	1511
+1360	+3
+-3	64
+99
+December 19
+1984	Central African Republic
+Gabon	2
+2	UDEAC Tournament
+in Congo	+4
+-4	1288
+1356	+1
+-1	122
+100
+December 07
+1985	Gabon
+Congo	1
+0	UDEAC Tournament
+in Gabon	+22
+-22	1378
+1461	+8
+-7	95
+81
+December 11
+1985	Gabon
+Central African Republic	4
+0	UDEAC Tournament
+in Gabon	+17
+-17	1395
+1252	+4
+-7	91
+131
+December 14
+1985	Gabon
+Chad	3
+0	UDEAC Tournament
+in Gabon	+13
+-13	1408
+1232	+4
+-3	87
+136
+December 19
+1985	Gabon
+Congo	3
+0	UDEAC Tournament
+in Gabon	+35
+-35	1443
+1471	+4
+-9	83
+78
+January 22
+1986	Gabon
+Senegal	0
+1	Friendly
+in Gabon	-8
++8	1435
+1607	0
++2	83
+43
+August 13
+1986	Senegal
+Gabon	1
+0	Friendly
+in Senegal	+3
+-3	1646
+1432	+1
+0	38
+84
+October 05
+1986	Angola
+Gabon	1
+0	African Nations Cup qualifier
+in Angola	+12
+-12	1491
+1420	+1
+-2	72
+86
+October 19
+1986	Gabon
+Angola	1
+0	African Nations Cup qualifier
+in Gabon	+18
+-18	1438
+1473	+2
+-5	84
+78
+December 10
+1986	Gabon
+Congo	1
+0	UDEAC Tournament
+in Equatorial Guinea	+24
+-24	1462
+1476	+4
+-6	80
+76
+December 14
+1986	Gabon
+Central African Republic	1
+0	UDEAC Tournament
+in Equatorial Guinea	+8
+-8	1470
+1210	+2
+-1	78
+140
+December 17
+1986	Chad
+Gabon	0
+0	UDEAC Tournament
+in Equatorial Guinea	+12
+-12	1254
+1458	+4
+-3	128
+81
+April 08
+1987	Gabon
+Ivory Coast	1
+0	Friendly
+in Gabon	+12
+-12	1470
+1599	+3
+-1	77
+48
+April 20
+1987	Cameroon
+Gabon	2
+0	Central African Games
+in Congo	+15
+-15	1669
+1455	+1
+-2	36
+81
+April 22
+1987	Gabon
+Chad	3
+1	Central African Games
+in Congo	+14
+-14	1469
+1234	+2
+-2	79
+133
+April 27
+1987	Angola
+Gabon	1
+0	Central African Games
+in Congo	+18
+-18	1523
+1451	+8
+-2	63
+81
+April 29
+1987	Congo
+Gabon	3
+2	Central African Games
+in Congo	+16
+-16	1437
+1435	+4
+-2	82
+83
+November 29
+1987	Gabon
+Angola	0
+0	Friendly
+in Gabon	-2
++2	1433
+1480	0
+0	82
+76
+December 09
+1987	Central African Republic
+Gabon	1
+1	UDEAC Tournament
+in Chad	+12
+-12	1201
+1421	+1
+-3	143
+85
+December 11
+1987	Chad
+Gabon	1
+1	UDEAC Tournament
+in Chad	+5
+-5	1238
+1416	+1
+-5	134
+90
+December 16
+1987	Cameroon
+Gabon	1
+0	UDEAC Tournament
+in Chad	+9
+-9	1647
+1407	+1
+-4	39
+92
+December 18
+1987	Equatorial Guinea
+Gabon	0
+0	UDEAC Tournament
+in Chad	+14
+-14	1109
+1393	0
+-1	160
+93
+August 01
+1988	Angola
+Gabon	4
+1	Friendly
+in Angola	+9
+-9	1488
+1384	+3
+-2	72
+95
+October 09
+1988	Gabon
+Burkina Faso	3
+0	African Nations Cup qualifier
+in Gabon	+27
+-27	1411
+1374	+6
+-6	91
+99
+October 23
+1988	Burkina Faso
+Gabon	1
+0	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1390
+1395	+3
+-3	96
+95
+November 24
+1988	Gabon
+Mali	4
+0	Friendly
+in Gabon	+15
+-15	1410
+1405	+3
+-4	92
+93
+November 30
+1988	Cameroon
+Gabon	0
+0	UDEAC Tournament
+in Cameroon	-16
++16	1688
+1426	0
++6	31
+86
+December 04
+1988	Gabon
+Equatorial Guinea	3
+0	UDEAC Tournament
+in Cameroon	+10
+-10	1436
+1107	+4
+-2	82
+161
+December 06
+1988	Gabon
+Central African Republic	0
+0	UDEAC Tournament
+in Cameroon	-11
++11	1425
+1225	-4
++3	86
+137
+December 08
+1988	Cameroon
+Gabon	0
+1	UDEAC Tournament
+in Cameroon	-36
++36	1660
+1461	-8
++9	39
+77
+December 15
+1988	Morocco
+Gabon	5
+2	Friendly
+in Morocco	+6
+-6	1648
+1455	0
+-3	40
+80
+January 07
+1989	Nigeria
+Gabon	1
+0	World Cup qualifier
+in Nigeria	+10
+-10	1559
+1445	+1
+-2	55
+82
+January 22
+1989	Gabon
+Cameroon	1
+3	World Cup qualifier
+in Gabon	-21
++21	1424
+1668	-7
++4	89
+36
+April 09
+1989	Gabon
+Ghana	1
+0	African Nations Cup qualifier
+in Gabon	+17
+-17	1441
+1452	+4
+-7	85
+82
+April 23
+1989	Ghana
+Gabon	1
+0	African Nations Cup qualifier
+in Ghana	+14
+-14	1466
+1427	+4
+-4	75
+88
+June 04
+1989	Gabon
+Zaire	0
+0	Friendly
+in Gabon	+1
+-1	1428
+1555	+1
+0	88
+57
+June 10
+1989	Angola
+Gabon	2
+0	World Cup qualifier
+in Angola	+19
+-19	1479
+1409	+5
+-4	75
+92
+June 25
+1989	Gabon
+Nigeria	2
+1	World Cup qualifier
+in Gabon	+25
+-25	1434
+1581	+4
+-5	87
+49
+July 06
+1989	Malawi
+Gabon	2
+0	Friendly
+in Malawi	+7
+-7	1557
+1427	+1
+-2	55
+88
+July 07
+1989	Gabon
+Mozambique	1
+0	Friendly
+in Malawi	+8
+-8	1435
+1339	+1
+-1	87
+110
+July 15
+1989	Zambia
+Gabon	3
+0	African Nations Cup qualifier
+in Zambia	+10
+-10	1649
+1425	+1
+-2	37
+89
+July 30
+1989	Gabon
+Zambia	2
+1	African Nations Cup qualifier
+in Gabon	+27
+-27	1452
+1622	+8
+-4	80
+41
+August 13
+1989	Cameroon
+Gabon	2
+1	World Cup qualifier
+in Cameroon	+6
+-6	1662
+1446	+2
+-1	34
+81
+August 27
+1989	Gabon
+Angola	1
+0	World Cup qualifier
+in Gabon	+15
+-15	1461
+1439	+4
+-9	78
+88
+December 02
+1989	Congo
+Gabon	1
+0	UDEAC Tournament
+in Central African Republic	+21
+-21	1466
+1440	+7
+-6	76
+84
+December 05
+1989	Gabon
+Cameroon	2
+0	UDEAC Tournament
+in Central African Republic	+49
+-49	1489
+1645	+12
+-8	72
+36
+December 06
+1989	Central African Republic
+Gabon	2
+0	UDEAC Tournament
+in Central African Republic	+46
+-46	1236
+1443	+7
+-12	136
+84
+December 12
+1989	Gabon
+Chad	2
+0	UDEAC Tournament
+in Central African Republic	+16
+-16	1459
+1252	+5
+-5	79
+128
+August 12
+1990	Gabon
+Mali	0
+0	Friendly
+in Gabon	-3
++3	1456
+1464	-1
+0	78
+75
+August 19
+1990	Gabon
+Uganda	1
+0	African Nations Cup qualifier
+in Gabon	+18
+-18	1474
+1502	+4
+-2	74
+68
+September 01
+1990	Tanzania
+Gabon	0
+0	African Nations Cup qualifier
+in Tanzania	+9
+-9	1217
+1465	0
+-3	142
+77
+December 09
+1990	Cameroon
+Gabon	2
+1	UDEAC Tournament
+in Congo	+11
+-11	1639
+1454	+2
+-1	37
+77
+December 11
+1990	Gabon
+Central African Republic	1
+0	UDEAC Tournament
+in Congo	+9
+-9	1463
+1221	+1
+-1	76
+136
+December 15
+1990	Congo
+Gabon	1
+0	UDEAC Tournament
+in Congo	+13
+-13	1498
+1450	+1
+-2	68
+78
+December 17
+1990	Chad
+Gabon	2
+1	UDEAC Tournament
+in Congo	+30
+-30	1288
+1420	+6
+-8	120
+86
+April 14
+1991	Zaire
+Gabon	2
+1	African Nations Cup qualifier
+in Zaire	+9
+-9	1534
+1411	+1
+-1	61
+88
+April 27
+1991	Uganda
+Gabon	0
+0	African Nations Cup qualifier
+in Uganda	-11
++11	1504
+1422	-2
++1	65
+86
+July 07
+1991	Gabon
+Ghana	0
+1	Friendly
+in Gabon	-9
++9	1413
+1562	0
++2	88
+54
+July 14
+1991	Gabon
+Tanzania	1
+0	African Nations Cup qualifier
+in Gabon	+10
+-10	1423
+1302	0
+-4	89
+119
+July 28
+1991	Gabon
+Zaire	0
+0	African Nations Cup qualifier
+in Gabon	0
+0	1423
+1523	+1
+0	87
+61
+June 14
+1992	Gabon
+Togo	1
+0	Friendly
+in Gabon	+6
+-6	1429
+1390	+1
+-3	85
+100
+June 21
+1992	Gabon
+Burundi	0
+1	Friendly
+in Gabon	-16
++16	1413
+1319	-4
++3	89
+115
+August 16
+1992	Gabon
+Cameroon	0
+0	African Nations Cup qualifier
+in Gabon	+8
+-8	1421
+1646	-1
+0	90
+37
+August 30
+1992	Niger
+Gabon	1
+3	African Nations Cup qualifier
+in Niger	-36
++36	1351
+1457	-10
++7	113
+83
+October 04
+1992	Gabon
+Chad	1
+0	Friendly
+in Gabon	+3
+-3	1460
+1238	-1
+0	83
+139
+October 11
+1992	Gabon
+Mozambique	3
+1	World Cup qualifier
+in Gabon	+15
+-15	1475
+1350	+4
+-4	79
+111
+December 20
+1992	Gabon
+Senegal	3
+2	World Cup qualifier
+in Gabon	+19
+-19	1494
+1531	+6
+-5	75
+61
+January 02
+1993	Gabon
+Burkina Faso	1
+1	Black Stars Tournament
+in Gabon	-7
++7	1487
+1421	-2
++1	76
+92
+January 03
+1993	Gabon
+Ghana	2
+3	Black Stars Tournament
+in Gabon	-13
++13	1474
+1637	-5
++2	81
+38
+January 17
+1993	Mozambique
+Gabon	1
+1	World Cup qualifier
+in Mozambique	+2
+-2	1338
+1472	0
+-1	116
+82
+February 27
+1993	Senegal
+Gabon	1
+0	World Cup qualifier
+in Senegal	+12
+-12	1532
+1460	+6
+-3	60
+85
+April 11
+1993	Gabon
+Benin	2
+0	African Nations Cup qualifier
+in Gabon	+6
+-6	1466
+1174	0
+0	85
+155
+April 25
+1993	Cameroon
+Gabon	0
+0	African Nations Cup qualifier
+in Cameroon	-12
++12	1592
+1478	0
++3	50
+81
+July 04
+1993	Gabon
+Mali	0
+2	Friendly
+in Gabon	-21
++21	1457
+1443	-4
++4	86
+92
+July 11
+1993	Gabon
+Niger	3
+0	African Nations Cup qualifier
+in Gabon	+16
+-16	1473
+1336	+5
+-2	81
+118
+July 25
+1993	Benin
+Gabon	1
+2	African Nations Cup qualifier
+in Benin	-9
++9	1143
+1482	-1
+-1	165
+82
+October 01
+1993	Morocco
+Gabon	1
+0	Friendly
+in Morocco	+4
+-4	1647
+1478	0
+-1	37
+81
+October 06
+1993	Belgium
+Gabon	2
+1	Friendly
+in Belgium	+2
+-2	1813
+1476	+1
+0	16
+81
+November 05
+1993	Tunisia
+Gabon	4
+0	Friendly tournament
+in Tunisia	+13
+-13	1595
+1463	+1
+-4	51
+85
+November 07
+1993	Malta
+Gabon	2
+1	Friendly tournament
+in Tunisia	+20
+-20	1365
+1443	+5
+-9	110
+94
+February 27
+1994	Gabon
+Senegal	0
+0	Friendly
+in Gabon	-3
++3	1440
+1447	-1
+0	91
+88
+March 15
+1994	Gabon
+Zaire	2
+1	Friendly
+in Gabon	+9
+-9	1449
+1481	+4
+-1	86
+80
+March 19
+1994	Angola
+Gabon	2
+1	Friendly
+in Angola	+8
+-8	1428
+1441	+5
+-3	93
+89
+March 26
+1994	Nigeria
+Gabon	3
+0	African Nations Cup
+in Tunisia	+16
+-16	1717
+1425	+1
+-5	27
+94
+March 28
+1994	Egypt
+Gabon	4
+0	African Nations Cup
+in Tunisia	+20
+-20	1676
+1405	+4
+-7	32
+101
+November 13
+1994	Gabon
+Mauritius	3
+0	African Nations Cup qualifier
+in Gabon	+13
+-13	1418
+1232	+1
+-3	101
+146
+November 20
+1994	Gabon
+Zambia	2
+1	African Nations Cup qualifier
+in Gabon	+29
+-29	1447
+1662	+12
+-4	89
+33
+April 02
+1995	Gabon
+Benin	7
+0	Friendly
+in Gabon	+4
+-4	1451
+1139	0
+0	87
+166
+April 08
+1995	Zambia
+Gabon	1
+0	African Nations Cup qualifier
+in Zambia	+6
+-6	1670
+1445	0
+-1	31
+88
+June 04
+1995	Mauritius
+Gabon	0
+3	African Nations Cup qualifier
+in Mauritius	-23
++23	1200
+1468	-5
++7	154
+83
+October 22
+1995	Gabon
+Sierra Leone	1
+0	Friendly
+in Gabon	+9
+-9	1477
+1508	+3
+-1	82
+71
+November 26
+1995	Gabon
+Cameroon	1
+2	Belier d'Afrique Tournament
+in Gabon	-16
++16	1461
+1569	-4
++9	86
+52
+November 28
+1995	Gabon
+Ivory Coast	0
+2	Belier d'Afrique Tournament
+in Gabon	-18
++18	1443
+1647	-4
++5	90
+34
+November 30
+1995	Gabon
+Algeria	2
+1	Belier d'Afrique Tournament
+in Gabon	+17
+-17	1460
+1572	+4
+-4	86
+52
+December 02
+1995	Gabon
+Cameroon	0
+0	Belier d'Afrique Tournament
+in Gabon	-1
++1	1459
+1530	0
+0	87
+68
+December 22
+1995	Burkina Faso
+Gabon	2
+5	Friendly
+in Burkina Faso	-22
++22	1430
+1481	-9
++4	96
+82
+December 26
+1995	Mali
+Gabon	1
+2	Friendly
+in Mali	-9
++9	1322
+1490	-3
++4	123
+78
+January 07
+1996	Zimbabwe
+Gabon	1
+2	Friendly
+in Zimbabwe	-13
++13	1483
+1503	-7
++2	81
+74
+January 11
+1996	Mozambique
+Gabon	1
+0	Friendly
+in Mozambique	+9
+-9	1432
+1494	+5
+-2	94
+76
+January 16
+1996	Liberia
+Gabon	2
+1	African Nations Cup
+in South Africa	+33
+-33	1419
+1461	+10
+-11	101
+86
+January 19
+1996	Gabon
+Zaire	2
+0	African Nations Cup
+in South Africa	+46
+-46	1507
+1493	+15
+-11	71
+75
+January 28
+1996	Tunisia
+Gabon	1
+1	African Nations Cup
+in South Africa	-4
++4	1566
+1511	-1
++2	55
+69
+May 26
+1996	Gabon
+Ivory Coast	0
+1	Friendly
+in Gabon	-11
++11	1500
+1594	-4
++3	74
+48
+June 02
+1996	Swaziland
+Gabon	0
+1	World Cup qualifier
+in Swaziland	-12
++12	1232
+1512	-3
++1	147
+72
+June 16
+1996	Gabon
+Swaziland	2
+0	World Cup qualifier
+in Gabon	+6
+-6	1518
+1226	+1
+0	72
+147
+September 22
+1996	Guinea
+Gabon	0
+1	Friendly
+in Guinea	-8
++8	1325
+1526	-3
++1	125
+68
+September 29
+1996	Gabon
+Mali	1
+1	Friendly
+in Gabon	-7
++7	1519
+1318	-2
++1	70
+126
+October 06
+1996	Gabon
+Cameroon	0
+0	African Nations Cup qualifier
+in Gabon	-4
++4	1515
+1548	-1
+0	70
+62
+October 19
+1996	Gabon
+Burkina Faso	2
+0	Friendly
+in Gabon	+7
+-7	1522
+1389	+2
+-2	68
+105
+November 03
+1996	Togo
+Gabon	0
+1	Friendly
+in Togo	-10
++10	1404
+1532	-3
++2	101
+66
+November 10
+1996	Gabon
+Ghana	1
+1	World Cup qualifier
+in Gabon	-1
++1	1531
+1621	+1
+-1	64
+43
+December 20
+1996	Burkina Faso
+Gabon	1
+1	Friendly tournament
+in Benin	+6
+-6	1379
+1525	+5
+-1	111
+66
+December 22
+1996	Benin
+Gabon	3
+3	Friendly tournament
+in Benin	+10
+-10	1174
+1515	+3
+-3	161
+69
+December 25
+1996	Ghana
+Gabon	1
+1	Friendly tournament
+in Benin	-3
++3	1583
+1518	0
++3	53
+66
+January 11
+1997	Sierra Leone
+Gabon	1
+0	World Cup qualifier
+in Sierra Leone	+20
+-20	1439
+1498	+4
+-7	91
+74
+January 25
+1997	Kenya
+Gabon	1
+0	African Nations Cup qualifier
+in Kenya	+20
+-20	1410
+1478	+6
+-8	98
+81
+February 22
+1997	Namibia
+Gabon	1
+1	African Nations Cup qualifier
+in Namibia	+6
+-6	1276
+1472	+2
+0	135
+81
+March 30
+1997	Gabon
+Togo	2
+1	Friendly
+in Gabon	+6
+-6	1478
+1399	0
+-3	81
+104
+April 06
+1997	Gabon
+Morocco	0
+4	World Cup qualifier
+in Gabon	-29
++29	1449
+1685	-7
++8	88
+31
+April 27
+1997	Ghana
+Gabon	3
+0	World Cup qualifier
+in Ghana	+16
+-16	1578
+1433	+4
+-4	55
+91
+June 22
+1997	Cameroon
+Gabon	2
+2	African Nations Cup qualifier
+in Cameroon	-12
++12	1565
+1445	-2
++6	59
+89
+July 13
+1997	Gabon
+Kenya	1
+0	African Nations Cup qualifier
+in Gabon	+12
+-12	1457
+1386	+5
+-7	86
+108
+July 27
+1997	Gabon
+Namibia	1
+1	African Nations Cup qualifier
+in Gabon	-9
++9	1448
+1390	-3
++2	88
+107
+August 17
+1997	Morocco
+Gabon	2
+0	World Cup qualifier
+in Morocco	+6
+-6	1739
+1442	+1
+-5	25
+93
+August 02
+1998	Equatorial Guinea
+Gabon	0
+2	African Nations Cup qualifier
+in Equatorial Guinea	-12
++12	1085
+1454	-1
++4	175
+87
+August 16
+1998	Gabon
+Equatorial Guinea	3
+0	African Nations Cup qualifier
+in Gabon	+4
+-4	1458
+1081	+2
+-1	87
+176
+October 04
+1998	Gabon
+Mauritius	2
+0	African Nations Cup qualifier
+in Gabon	+5
+-5	1463
+1141	+3
+-2	86
+168
+January 04
+1999	Burkina Faso
+Gabon	2
+1	Friendly
+in Burkina Faso	+9
+-9	1401
+1454	+6
+-3	102
+86
+January 24
+1999	Angola
+Gabon	3
+1	African Nations Cup qualifier
+in Angola	+19
+-19	1500
+1435	+2
+-7	75
+92
+February 20
+1999	Gabon
+Burkina Faso	1
+1	Friendly
+in Gabon	-3
++3	1432
+1444	-1
+0	93
+91
+February 27
+1999	South Africa
+Gabon	4
+1	African Nations Cup qualifier
+in South Africa	+10
+-10	1658
+1422	+2
+-2	42
+95
+April 10
+1999	Gabon
+South Africa	1
+0	African Nations Cup qualifier
+in Gabon	+27
+-27	1449
+1631	+9
+-9	85
+52
+June 06
+1999	Gabon
+Angola	3
+1	African Nations Cup qualifier
+in Gabon	+22
+-22	1471
+1433	+6
+-9	80
+92
+June 20
+1999	Mauritius
+Gabon	2
+2	African Nations Cup qualifier
+in Reunion	+12
+-12	1241
+1459	+7
+-5	142
+85
+October 30
+1999	Ivory Coast
+Gabon	0
+1	Friendly
+in Ivory Coast	-16
++16	1593
+1475	-1
++5	53
+83
+November 07
+1999	Gabon
+Equatorial Guinea	4
+0	Unifac Cup
+in Gabon	+4
+-4	1479
+1077	+2
+0	80
+176
+November 10
+1999	Gabon
+Central African Republic	1
+0	Unifac Cup
+in Gabon	+5
+-5	1484
+1225	+1
+-1	79
+150
+November 11
+1999	Gabon
+Sao Tome e Principe	1
+0	Unifac Cup
+in Gabon	+1
+-1	1485
+951	0
+0	79
+192
+November 13
+1999	Gabon
+Congo	0
+0	Unifac Cup
+in Gabon	-8
++8	1477
+1445	0
++2	79
+91
+November 14
+1999	Gabon
+Chad	2
+0	Unifac Cup
+in Gabon	+9
+-9	1486
+1277	+1
+-2	78
+136
+November 21
+1999	Gabon
+Nigeria	0
+2	Friendly
+in Gabon	-12
++12	1474
+1672	-4
++1	82
+39
+November 26
+1999	Gabon
+Togo	0
+0	Friendly tournament
+in Gabon	-8
++8	1466
+1374	-2
++2	84
+111
+November 28
+1999	Gabon
+Burkina Faso	3
+2	Friendly tournament
+in Gabon	+10
+-10	1476
+1441	+1
+-3	81
+91
+December 23
+1999	Libya
+Gabon	2
+0	Artificial River Tournament
+in Libya	+19
+-19	1450
+1457	+8
+-5	88
+86
+December 27
+1999	Gabon
+Togo	3
+2	Artificial River Tournament
+in Libya	+11
+-11	1468
+1350	+5
+-3	81
+117
+January 06
+2000	Egypt
+Gabon	4
+0	Friendly
+in Egypt	+7
+-7	1643
+1461	0
+-4	45
+85
+January 09
+2000	Burkina Faso
+Gabon	1
+1	Friendly
+in Burkina Faso	-2
++2	1433
+1463	-2
++2	95
+83
+January 23
+2000	South Africa
+Gabon	3
+1	African Nations Cup
+in Ghana	+19
+-19	1670
+1444	+2
+-7	40
+90
+January 29
+2000	Algeria
+Gabon	3
+1	African Nations Cup
+in Ghana	+30
+-30	1549
+1414	+7
+-10	61
+100
+February 02
+2000	Gabon
+Dem. Rep. of Congo	0
+0	African Nations Cup
+in Ghana	+7
+-7	1421
+1501	+1
+-2	98
+72
+April 08
+2000	Madagascar
+Gabon	2
+0	World Cup qualifier
+in Madagascar	+21
+-21	1445
+1400	+4
+-3	91
+102
+April 22
+2000	Gabon
+Madagascar	1
+0	World Cup qualifier
+in Gabon	+17
+-17	1417
+1428	+1
+-1	100
+93
+June 23
+2000	Gabon
+Congo	0
+2	Friendly
+in Gabon	-19
++19	1398
+1452	-6
++2	102
+88
+June 25
+2000	Gabon
+Congo	2
+3	Friendly
+in Gabon	-11
++11	1387
+1463	-4
++4	106
+84
+July 01
+2000	Sao Tome e Principe
+Gabon	1
+1	African Nations Cup qualifier
+in Sao Tome e Principe	+13
+-13	1040
+1374	+1
+-4	185
+111
+July 15
+2000	Gabon
+Sao Tome e Principe	4
+1	African Nations Cup qualifier
+in Gabon	+5
+-5	1379
+1035	0
+-1	110
+186
+September 02
+2000	Gabon
+Morocco	2
+0	African Nations Cup qualifier
+in Gabon	+48
+-48	1427
+1674	+18
+-11	91
+39
+October 07
+2000	Tunisia
+Gabon	4
+2	African Nations Cup qualifier
+in Tunisia	+9
+-9	1643
+1418	+1
+-4	49
+97
+January 13
+2001	Kenya
+Gabon	2
+1	African Nations Cup qualifier
+in Kenya	+18
+-18	1364
+1400	+4
+-1	113
+100
+March 18
+2001	Gabon
+Mali	2
+0	Friendly
+in Gabon	+12
+-12	1412
+1411	+3
+-4	96
+97
+March 24
+2001	Gabon
+Kenya	1
+1	African Nations Cup qualifier
+in Gabon	-8
++8	1404
+1381	-2
+0	99
+110
+June 02
+2001	Gabon
+Tunisia	1
+1	African Nations Cup qualifier
+in Gabon	+7
+-7	1411
+1632	+4
+0	97
+48
+June 16
+2001	Morocco
+Gabon	0
+1	African Nations Cup qualifier
+in Morocco	-36
++36	1672
+1447	-10
++11	40
+86
+August 25
+2002	Angola
+Gabon	1
+0	Friendly
+in Angola	+6
+-6	1506
+1441	0
+-1	73
+92
+September 01
+2002	Congo
+Gabon	0
+0	Friendly
+in Congo	-1
++1	1373
+1442	0
+0	111
+92
+September 07
+2002	Gabon
+Morocco	0
+1	African Nations Cup qualifier
+in Gabon	-16
++16	1426
+1631	-3
++6	96
+45
+October 12
+2002	Sierra Leone
+Gabon	2
+0	African Nations Cup qualifier
+in Sierra Leone	+32
+-32	1335
+1394	+3
+-14	128
+110
+March 29
+2003	Gabon
+Equatorial Guinea	4
+0	African Nations Cup qualifier
+in Gabon	+5
+-5	1399
+1014	+1
+0	108
+188
+June 08
+2003	Equatorial Guinea
+Gabon	2
+1	African Nations Cup qualifier
+in Equatorial Guinea	+34
+-34	1048
+1365	+5
+-10	183
+117
+June 13
+2003	Andorra
+Gabon	0
+2	Friendly
+in Andorra	-7
++7	1040
+1372	-1
+0	185
+116
+June 20
+2003	Morocco
+Gabon	2
+0	African Nations Cup qualifier
+in Morocco	+8
+-8	1615
+1364	+2
+0	51
+116
+July 06
+2003	Gabon
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Gabon	+21
+-21	1385
+1335	+9
+-8	108
+127
+September 24
+2003	Algeria
+Gabon	2
+2	Friendly tournament
+in Algeria	-8
++8	1497
+1393	-5
++2	77
+106
+September 26
+2003	Gabon
+Benin	4
+0	Friendly tournament
+in Algeria	+25
+-25	1418
+1323	+6
+-6	100
+127
+October 12
+2003	Burundi
+Gabon	0
+0	World Cup qualifier
+in Burundi	+3
+-3	1276
+1415	+2
+0	137
+100
+November 08
+2003	Gabon
+Burkina Faso	0
+0	Friendly
+in Gabon	-2
++2	1413
+1444	0
++1	100
+90
+November 15
+2003	Gabon
+Burundi	4
+1	World Cup qualifier
+in Gabon	+14
+-14	1427
+1262	+2
+-5	98
+143
+December 05
+2003	Congo
+Gabon	3
+2	Cemac Cup
+in Congo	+17
+-17	1395
+1410	+5
+-2	105
+102
+December 09
+2003	Congo
+Gabon	1
+1	Cemac Cup
+in Congo	-5
++5	1390
+1415	-3
++1	108
+101
+December 11
+2003	Central African Republic
+Gabon	2
+0	Cemac Cup
+in Congo	+48
+-48	1227
+1367	+9
+-11	152
+113
+December 13
+2003	Congo
+Gabon	1
+0	Cemac Cup
+in Congo	+13
+-13	1403
+1354	+2
+-4	105
+117
+May 29
+2004	Egypt
+Gabon	2
+0	Friendly
+in Egypt	+2
+-2	1676
+1352	+2
+-1	39
+121
+June 05
+2004	Gabon
+Zimbabwe	1
+1	World Cup qualifier
+in Gabon	+2
+-2	1354
+1481	0
+-1	122
+80
+June 19
+2004	Rwanda
+Gabon	3
+1	World Cup qualifier
+in Rwanda	+22
+-22	1368
+1332	+7
+-5	113
+124
+July 03
+2004	Gabon
+Angola	2
+2	World Cup qualifier
+in Gabon	+5
+-5	1337
+1515	0
+-2	124
+75
+September 05
+2004	Algeria
+Gabon	0
+3	World Cup qualifier
+in Algeria	-56
++56	1428
+1393	-17
++16	97
+107
+October 03
+2004	Gabon
+Benin	2
+0	Friendly
+in Gabon	+7
+-7	1400
+1288	+1
+-3	104
+134
+October 09
+2004	Gabon
+Nigeria	1
+1	World Cup qualifier
+in Gabon	+14
+-14	1414
+1795	+6
+-3	98
+22
+February 03
+2005	Gabon
+Central African Republic	4
+0	Cemac Cup
+in Gabon	+12
+-12	1426
+1215	+4
+-6	93
+153
+February 08
+2005	Gabon
+Congo	1
+0	Cemac Cup
+in Gabon	+14
+-14	1440
+1402	0
+-1	93
+99
+February 10
+2005	Gabon
+Chad	2
+3	Cemac Cup
+in Gabon	-32
++32	1408
+1320	-4
++10	97
+127
+February 12
+2005	Gabon
+Congo	2
+1	Cemac Cup
+in Gabon	+14
+-14	1422
+1388	+3
+-2	94
+100
+March 19
+2005	Gabon
+Congo	0
+0	Friendly
+in Gabon	-4
++4	1418
+1379	-1
++3	95
+102
+March 26
+2005	Nigeria
+Gabon	2
+0	World Cup qualifier
+in Nigeria	+5
+-5	1757
+1413	+2
+-2	25
+97
+June 01
+2005	Zambia
+Gabon	1
+0	Friendly
+in South Africa	+7
+-7	1511
+1406	0
+-1	77
+99
+June 05
+2005	Zimbabwe
+Gabon	1
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1539
+1397	+1
+0	71
+99
+June 18
+2005	Gabon
+Rwanda	3
+0	World Cup qualifier
+in Gabon	+21
+-21	1418
+1331	+1
+-9	98
+122
+September 04
+2005	Angola
+Gabon	3
+0	World Cup qualifier
+in Angola	+17
+-17	1533
+1401	+5
+-4	71
+102
+October 08
+2005	Gabon
+Algeria	0
+0	World Cup qualifier
+in Gabon	-5
++5	1396
+1411	+2
++2	99
+97
+March 08
+2006	Central African Republic
+Gabon	2
+2	Cemac Cup
+in Equatorial Guinea	+10
+-10	1215
+1386	+2
+-3	153
+103
+March 11
+2006	Equatorial Guinea
+Gabon	0
+0	Cemac Cup
+in Equatorial Guinea	+8
+-8	1149
+1378	+1
+0	167
+103
+March 13
+2006	Gabon
+Chad	2
+2	Cemac Cup
+in Equatorial Guinea	-4
++4	1374
+1317	0
+0	103
+126
+August 15
+2006	Gabon
+Algeria	2
+0	Friendly
+in France	+17
+-17	1391
+1399	+1
+-3	102
+101
+September 02
+2006	Gabon
+Madagascar	4
+0	African Nations Cup qualifier
+in Gabon	+11
+-11	1402
+1179	+4
+-3	98
+163
+October 08
+2006	Ivory Coast
+Gabon	5
+0	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1754
+1396	+1
+-1	24
+101
+November 15
+2006	Morocco
+Gabon	6
+0	Friendly
+in Morocco	+5
+-5	1667
+1391	+1
+-1	44
+102
+March 07
+2007	Congo
+Gabon	2
+2	Cemac Cup
+in Chad	0
+0	1384
+1391	0
+0	103
+100
+March 09
+2007	Gabon
+Equatorial Guinea	1
+1	Cemac Cup
+in Chad	-11
++11	1380
+1185	-3
++6	103
+160
+March 11
+2007	Chad
+Gabon	1
+2	Cemac Cup
+in Chad	-21
++21	1283
+1401	-7
++4	137
+99
+March 16
+2007	Congo
+Gabon	1
+0	Cemac Cup
+in Chad	+20
+-20	1422
+1381	0
+-3	99
+103
+June 12
+2007	Reunion
+Gabon	0
+3	Friendly
+in Reunion	-17
++17	1257
+1398	-2
++2	141
+104
+June 17
+2007	Madagascar
+Gabon	0
+2	African Nations Cup qualifier
+in Madagascar	-22
++22	1180
+1420	-4
++6	162
+99
+August 21
+2007	Benin
+Gabon	2
+2	Friendly
+in France	+2
+-2	1336
+1418	+1
+0	121
+99
+September 08
+2007	Gabon
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Gabon	+13
+-13	1431
+1766	+3
+-2	96
+22
+March 25
+2008	Dem. Rep. of Congo
+Gabon	0
+0	Friendly
+in France	-1
++1	1450
+1432	-1
+0	95
+97
+June 07
+2008	Libya
+Gabon	1
+0	World Cup qualifier
+in Libya	+13
+-13	1472
+1419	+3
+-1	90
+99
+June 14
+2008	Gabon
+Ghana	2
+0	World Cup qualifier
+in Gabon	+49
+-49	1468
+1734	+8
+-9	92
+29
+June 22
+2008	Ghana
+Gabon	2
+0	World Cup qualifier
+in Ghana	+7
+-7	1741
+1461	+2
+-2	29
+92
+June 28
+2008	Gabon
+Lesotho	2
+0	World Cup qualifier
+in Gabon	+5
+-5	1466
+1151	0
+-1	92
+169
+August 19
+2008	Gabon
+Mali	1
+0	Friendly
+in France	+13
+-13	1479
+1561	+3
+-1	88
+59
+September 07
+2008	Gabon
+Lesotho	3
+0	World Cup qualifier
+in South Africa	+9
+-9	1488
+1141	+2
+0	86
+170
+October 11
+2008	Gabon
+Libya	1
+0	World Cup qualifier
+in Gabon	+16
+-16	1504
+1505	+3
+-4	84
+83
+November 18
+2008	Gabon
+Guinea	3
+3	Friendly
+in France	+2
+-2	1506
+1579	+2
+0	81
+59
+March 28
+2009	Morocco
+Gabon	1
+2	World Cup qualifier
+in Morocco	-33
++33	1629
+1539	-4
++9	49
+70
+June 06
+2009	Gabon
+Togo	3
+0	World Cup qualifier
+in Gabon	+18
+-18	1557
+1435	+5
+-2	66
+96
+August 11
+2009	Benin
+Gabon	1
+1	Friendly
+in France	+4
+-4	1397
+1553	+1
+0	106
+65
+September 05
+2009	Gabon
+Cameroon	0
+2	World Cup qualifier
+in Gabon	-25
++25	1528
+1741	-9
++4	74
+33
+September 09
+2009	Cameroon
+Gabon	2
+1	World Cup qualifier
+in Cameroon	+6
+-6	1747
+1522	+2
+-1	30
+75
+October 10
+2009	Gabon
+Morocco	3
+1	World Cup qualifier
+in Gabon	+30
+-30	1552
+1593	+9
+-3	66
+55
+November 14
+2009	Togo
+Gabon	1
+0	World Cup qualifier
+in Togo	+21
+-21	1447
+1531	+2
+-8	95
+75
+December 04
+2009	Chad
+Gabon	4
+3	Cemac Cup
+in Central African Republic	+33
+-33	1302
+1498	+4
+-8	133
+85
+December 09
+2009	Central African Republic
+Gabon	2
+1	Cemac Cup
+in Central African Republic	+29
+-29	1261
+1469	+7
+-5	140
+90
+December 12
+2009	Chad
+Gabon	2
+1	Cemac Cup
+in Central African Republic	+30
+-30	1307
+1439	+7
+-8	130
+98
+January 03
+2010	Gabon
+Mozambique	1
+0	Friendly
+in South Africa	+9
+-9	1448
+1399	+3
+-1	95
+106
+January 06
+2010	Gabon
+Mozambique	2
+0	Friendly
+in South Africa	+13
+-13	1461
+1386	+2
+-5	93
+111
+January 13
+2010	Gabon
+Cameroon	1
+0	African Nations Cup
+in Angola	+43
+-43	1504
+1733	+8
+-13	85
+31
+January 17
+2010	Gabon
+Tunisia	0
+0	African Nations Cup
+in Angola	+7
+-7	1511
+1590	+3
+0	83
+54
+January 21
+2010	Zambia
+Gabon	2
+1	African Nations Cup
+in Angola	+24
+-24	1543
+1487	+9
+-5	73
+88
+May 19
+2010	Gabon
+Togo	3
+0	Friendly tournament
+in France	+23
+-23	1510
+1424	+4
+-6	83
+99
+August 11
+2010	Algeria
+Gabon	1
+2	Friendly
+in Algeria	-13
++13	1519
+1523	-3
++3	80
+79
+September 06
+2010	Burkina Faso
+Gabon	1
+1	Friendly
+in France	+1
+-1	1499
+1522	0
+0	87
+78
+October 08
+2010	Oman
+Gabon	1
+0	Friendly
+in Oman	+7
+-7	1534
+1515	+4
+0	74
+79
+October 12
+2010	Saudi Arabia
+Gabon	1
+0	Friendly
+in Turkey	+5
+-5	1690
+1510	-4
+-2	40
+83
+November 17
+2010	Senegal
+Gabon	2
+1	Friendly
+in France	+8
+-8	1583
+1502	+2
+-2	58
+86
+February 09
+2011	Gabon
+Dem. Rep. of Congo	2
+0	Friendly
+in France	+11
+-11	1513
+1402	+7
+-2	79
+109
+June 07
+2011	Gabon
+Gambia	0
+1	Friendly
+in Gabon	-16
++16	1497
+1391	-5
++4	83
+110
+August 10
+2011	Gabon
+Guinea	1
+1	Friendly
+in France	0
+0	1497
+1506	-1
+0	83
+78
+September 06
+2011	Gabon
+Niger	1
+0	Friendly
+in France	+6
+-6	1503
+1362	+1
+0	82
+118
+October 07
+2011	Gabon
+Equatorial Guinea	2
+0	Friendly
+in France	+5
+-5	1508
+1234	+1
+-1	81
+147
+November 10
+2011	Gabon
+Brazil	0
+2	Friendly
+in Gabon	-2
++2	1506
+2035	0
+0	78
+4
+November 15
+2011	Ghana
+Gabon	2
+1	Friendly
+in France	+4
+-4	1761
+1502	+2
+-1	23
+82
+January 09
+2012	Gabon
+Burkina Faso	0
+0	Friendly
+in Gabon	-2
++2	1500
+1533	-1
+0	84
+74
+January 16
+2012	Gabon
+Sudan	0
+0	Friendly
+in Gabon	-5
++5	1495
+1417	-2
+0	87
+102
+January 23
+2012	Gabon
+Niger	2
+0	African Nations Cup
+in Gabon	+15
+-15	1510
+1341	+8
+-4	78
+123
+January 27
+2012	Gabon
+Morocco	3
+2	African Nations Cup
+in Gabon	+20
+-20	1530
+1525	+3
+-7	76
+78
+January 31
+2012	Gabon
+Tunisia	1
+0	African Nations Cup
+in Gabon	+24
+-24	1554
+1586	+5
+-3	69
+56
+February 05
+2012	Gabon
+Mali	1
+1	African Nations Cup
+in Gabon	-8
++8	1546
+1539	-2
++3	71
+74
+June 03
+2012	Niger
+Gabon	0
+0	World Cup qualifier
+in Niger	+7
+-7	1319
+1539	+2
+-3	130
+74
+June 09
+2012	Gabon
+Burkina Faso	1
+0	World Cup qualifier
+in Gabon	+10
+-10	1549
+1432	+1
+-3	71
+99
+June 15
+2012	South Africa
+Gabon	3
+0	Friendly
+in South Africa	+12
+-12	1571
+1537	+2
+-8	64
+77
+September 08
+2012	Gabon
+Togo	1
+1	African Nations Cup qualifier
+in Gabon	-14
++14	1523
+1352	-3
++5	77
+117
+September 11
+2012	Gabon
+Saudi Arabia	1
+0	Friendly
+in France	+9
+-9	1532
+1477	+1
+-2	77
+89
+October 14
+2012	Togo
+Gabon	2
+1	African Nations Cup qualifier
+in Togo	+25
+-25	1377
+1507	+10
+-4	110
+80
+November 14
+2012	Gabon
+Portugal	2
+2	Friendly
+in Gabon	+7
+-7	1514
+1878	+1
+-2	79
+11
+January 10
+2013	Gabon
+Tunisia	1
+1	Friendly
+in United Arab Emirates	+2
+-2	1516
+1591	0
+-1	79
+58
+January 15
+2013	Lebanon
+Gabon	0
+0	Friendly
+in Lebanon	+3
+-3	1311
+1513	+1
+0	131
+79
+March 23
+2013	Congo
+Gabon	1
+0	World Cup qualifier
+in Congo	+23
+-23	1387
+1490	+8
+-9	109
+87
+June 08
+2013	Gabon
+Congo	0
+0	World Cup qualifier
+in Gabon	-11
++11	1479
+1398	-2
++3	88
+107
+June 15
+2013	Gabon
+Niger	4
+1	World Cup qualifier
+in Gabon	+12
+-12	1491
+1289	+1
+-4	87
+139
+August 14
+2013	Cape Verde
+Gabon	1
+1	Friendly
+in Portugal	+1
+-1	1462
+1490	0
+0	91
+87
+September 07
+2013	Burkina Faso
+Gabon	1
+0	World Cup qualifier
+in Burkina Faso	+11
+-11	1571
+1479	+4
+-3	64
+89
+March 05
+2014	Morocco
+Gabon	1
+1	Friendly
+in Morocco	-4
++4	1525
+1483	-2
+-1	76
+89

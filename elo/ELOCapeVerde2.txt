@@ -1,0 +1,1224 @@
+January 07
+1979	Guinea-Bissau
+Cape Verde	3
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+24
+-24	1335
+1276	+7
+-	104
+122
+January 09
+1979	Senegal
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+7
+-7	1549
+1269	0
+-2	59
+124
+February 03
+1981	Senegal
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Mali	+4
+-4	1637
+1265	0
+-2	40
+127
+February 07
+1981	Cape Verde
+Guinea-Bissau	3
+0	Amilcar Cabral Cup
+in Mali	+37
+-37	1302
+1250	+11
+-11	116
+131
+February 09
+1981	Mali
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Mali	+8
+-8	1531
+1294	+3
+-3	59
+119
+February 12
+1981	Senegal
+Cape Verde	5
+1	Amilcar Cabral Cup
+in Mali	+10
+-10	1626
+1284	+1
+-2	41
+121
+February 11
+1982	Cape Verde
+Gambia	2
+0	Amilcar Cabral Cup
+in Cape Verde	+21
+-21	1305
+1253	+7
+-7	114
+129
+February 13
+1982	Cape Verde
+Mali	1
+0	Amilcar Cabral Cup
+in Cape Verde	+28
+-28	1333
+1533	+6
+-4	108
+61
+February 15
+1982	Cape Verde
+Mauritania	1
+2	Amilcar Cabral Cup
+in Cape Verde	-34
++34	1299
+1150	-9
++6	117
+151
+February 17
+1982	Cape Verde
+Guinea	0
+1	Amilcar Cabral Cup
+in Cape Verde	-12
++12	1287
+1548	-2
++1	120
+59
+February 19
+1982	Cape Verde
+Mali	1
+2	Amilcar Cabral Cup
+in Cape Verde	-13
++13	1274
+1518	-1
++3	121
+62
+July 20
+1983	Mauritania
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Mauritania	+28
+-28	1224
+1246	+5
+-10	137
+134
+July 22
+1983	Cape Verde
+Mali	1
+0	Amilcar Cabral Cup
+in Mauritania	+33
+-33	1279
+1476	+11
+-9	123
+74
+July 25
+1983	Sierra Leone
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Mauritania	+20
+-20	1305
+1259	+7
+-10	114
+133
+February 08
+1984	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Sierra Leone	+18
+-18	1321
+1241	+6
+-4	107
+138
+February 10
+1984	Cape Verde
+Guinea	2
+2	Amilcar Cabral Cup
+in Sierra Leone	+9
+-9	1250
+1406	+3
+-2	135
+89
+February 12
+1984	Gambia
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Sierra Leone	+20
+-20	1384
+1230	+5
+-5	92
+140
+February 11
+1985	Gambia
+Cape Verde	1
+2	Amilcar Cabral Cup
+in Gambia	-31
++31	1304
+1261	-6
++7	113
+132
+February 13
+1985	Sierra Leone
+Cape Verde	2
+1	Amilcar Cabral Cup
+in Gambia	+16
+-16	1354
+1245	+4
+-3	101
+135
+February 15
+1985	Cape Verde
+Guinea-Bissau	2
+0	Amilcar Cabral Cup
+in Gambia	+38
+-38	1283
+1306	+11
+-7	124
+112
+February 19
+1985	Senegal
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Gambia	+8
+-8	1541
+1275	+3
+0	58
+124
+February 21
+1985	Mali
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Gambia	+9
+-9	1504
+1266	+4
+-4	67
+128
+February 25
+1987	Senegal
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Guinea	+7
+-7	1621
+1259	+3
+-7	43
+128
+February 27
+1987	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Guinea	+15
+-15	1459
+1244	+3
+-3	80
+131
+February 28
+1987	Cape Verde
+Guinea-Bissau	0
+0	Amilcar Cabral Cup
+in Guinea	+2
+-2	1246
+1272	0
+0	131
+121
+March 02
+1987	Cape Verde
+Guinea-Bissau	0
+0	Amilcar Cabral Cup
+in Guinea	+1
+-1	1247
+1271	0
+0	131
+121
+April 29
+1988	Cape Verde
+Mali	1
+3	Amilcar Cabral Cup
+in Guinea-Bissau	-17
++17	1230
+1426	-2
++6	135
+83
+May 01
+1988	Cape Verde
+Mauritania	3
+2	Amilcar Cabral Cup
+in Guinea-Bissau	+12
+-12	1242
+1070	+1
+-1	134
+167
+May 03
+1988	Cape Verde
+Guinea	1
+1	Amilcar Cabral Cup
+in Guinea-Bissau	+9
+-9	1251
+1412	+4
+-4	130
+88
+November 17
+1988	Cape Verde
+Senegal	0
+1	Friendly tournament
+in Cape Verde	-8
++8	1243
+1549	-4
++4	133
+54
+November 19
+1988	Cape Verde
+Angola	2
+3	Friendly tournament
+in Cape Verde	-10
++10	1233
+1481	-2
++1	135
+73
+May 25
+1989	Mali
+Cape Verde	1
+1	Amilcar Cabral Cup
+in Mali	-14
++14	1412
+1247	-2
++3	92
+132
+May 27
+1989	Cape Verde
+Guinea-Bissau	2
+3	Amilcar Cabral Cup
+in Mali	-15
++15	1232
+1352	-3
++4	135
+106
+May 30
+1989	Cape Verde
+Senegal	2
+1	Amilcar Cabral Cup
+in Mali	+35
+-35	1267
+1516	+13
+-6	122
+64
+June 02
+1989	Cape Verde
+Guinea	0
+1	Amilcar Cabral Cup
+in Mali	-10
++10	1257
+1475	-4
++3	126
+73
+June 03
+1989	Cape Verde
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Mali	+29
+-29	1286
+1392	+7
+-8	119
+98
+November 22
+1991	Cape Verde
+Guinea-Bissau	2
+1	Amilcar Cabral Cup
+in Senegal	+24
+-24	1310
+1335	+9
+-6	114
+112
+November 27
+1991	Senegal
+Cape Verde	0
+0	Amilcar Cabral Cup
+in Senegal	-16
++16	1564
+1326	-2
++2	52
+112
+November 30
+1991	Cape Verde
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Senegal	+6
+-6	1332
+1425	0
+-2	112
+85
+December 02
+1991	Senegal
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Senegal	+5
+-5	1574
+1327	+2
+0	50
+112
+June 14
+1992	Guinea-Bissau
+Cape Verde	3
+1	African Nations Cup qualifier
+in Guinea-Bissau	+22
+-22	1348
+1305	+2
+-3	112
+116
+June 28
+1992	Cape Verde
+Guinea-Bissau	0
+1	African Nations Cup qualifier
+in Cape Verde	-23
++23	1282
+1371	-6
++7	123
+105
+November 17
+1995	Cape Verde
+Mali	1
+0	Amilcar Cabral Cup
+in Mauritania	+25
+-25	1307
+1349	+8
+-3	128
+117
+November 19
+1995	Mauritania
+Cape Verde	1
+1	Amilcar Cabral Cup
+in Mauritania	0
+0	1204
+1307	0
++1	153
+127
+November 21
+1995	Gambia
+Cape Verde	3
+0	Amilcar Cabral Cup
+in Mauritania	+35
+-35	1340
+1272	+10
+-10	119
+137
+November 25
+1995	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Mauritania	+11
+-11	1542
+1261	+2
+-2	65
+140
+November 27
+1995	Cape Verde
+Guinea-Bissau	1
+0	Amilcar Cabral Cup
+in Mauritania	+20
+-20	1281
+1247	+5
+-9	136
+146
+November 28
+1997	Gambia
+Cape Verde	3
+1	Amilcar Cabral Cup
+in Gambia	+19
+-19	1330
+1262	+4
+-5	123
+139
+November 30
+1997	Senegal
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Gambia	+16
+-16	1452
+1246	+11
+0	86
+139
+December 02
+1997	Cape Verde
+Mauritania	2
+2	Amilcar Cabral Cup
+in Gambia	-3
++3	1243
+1197	-2
++2	141
+151
+July 19
+1998	Senegal
+Cape Verde	1
+0	Friendly
+in Senegal	+3
+-3	1454
+1240	0
+0	85
+142
+August 02
+1998	Mali
+Cape Verde	3
+0	African Nations Cup qualifier
+in Mali	+11
+-11	1450
+1229	+6
+-5	88
+147
+August 16
+1998	Cape Verde
+Mali	0
+0	African Nations Cup qualifier
+in Cape Verde	+7
+-7	1236
+1443	+4
+-2	143
+92
+April 09
+2000	Cape Verde
+Algeria	0
+0	World Cup qualifier
+in Cape Verde	+10
+-10	1246
+1525	+2
+-1	144
+66
+April 21
+2000	Algeria
+Cape Verde	2
+0	World Cup qualifier
+in Algeria	+6
+-6	1531
+1240	+1
+-1	65
+145
+May 04
+2000	Cape Verde
+Gambia	1
+1	Amilcar Cabral Cup
+in Cape Verde	-3
++3	1237
+1296	0
++1	145
+130
+May 06
+2000	Cape Verde
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Cape Verde	+22
+-22	1259
+1358	+3
+-7	142
+116
+May 08
+2000	Cape Verde
+Senegal	2
+2	Amilcar Cabral Cup
+in Cape Verde	+8
+-8	1267
+1507	0
+-1	142
+69
+May 11
+2000	Cape Verde
+Guinea	2
+0	Amilcar Cabral Cup
+in Cape Verde	+41
+-41	1308
+1461	+13
+-13	129
+86
+May 14
+2000	Cape Verde
+Senegal	1
+0	Amilcar Cabral Cup
+in Cape Verde	+25
+-25	1333
+1478	+6
+-9	123
+81
+July 02
+2000	Cape Verde
+Liberia	1
+0	African Nations Cup qualifier
+in Cape Verde	+17
+-17	1350
+1362	+5
+-5	119
+113
+July 06
+2000	Cape Verde
+Angola	1
+1	Friendly
+in Cape Verde	+2
+-2	1352
+1517	+2
+0	117
+67
+July 16
+2000	Liberia
+Cape Verde	3
+0	African Nations Cup qualifier
+in Liberia	+21
+-21	1416
+1331	+4
+-5	97
+123
+April 07
+2001	Mauritania
+Cape Verde	0
+1	West African Nations Cup qualifier
+in Mauritania	-18
++18	1183
+1349	-2
++3	159
+122
+November 07
+2001	Cape Verde
+Gambia	1
+1	Amilcar Cabral Cup
+in Mali	-1
++1	1348
+1330	0
+0	121
+124
+September 06
+2002	Mauritania
+Cape Verde	0
+2	African Nations Cup qualifier
+in Mauritania	-21
++21	1114
+1369	-2
++7	172
+116
+October 12
+2002	Cape Verde
+Kenya	0
+1	African Nations Cup qualifier
+in Cape Verde	-22
++22	1347
+1456	-9
++5	124
+88
+November 20
+2002	Luxembourg
+Cape Verde	0
+0	Friendly
+in Luxembourg	+5
+-5	1069
+1342	0
+-2	176
+126
+March 29
+2003	Cape Verde
+Togo	2
+1	African Nations Cup qualifier
+in Cape Verde	+20
+-20	1362
+1425	+6
+-5	117
+96
+May 31
+2003	Senegal
+Cape Verde	2
+1	Friendly
+in Senegal	+1
+-1	1734
+1361	-1
+0	29
+117
+June 08
+2003	Togo
+Cape Verde	5
+2	African Nations Cup qualifier
+in Togo	+20
+-20	1445
+1341	+6
+-7	89
+125
+June 21
+2003	Cape Verde
+Mauritania	3
+0	African Nations Cup qualifier
+in Cape Verde	+9
+-9	1350
+1107	+4
+0	121
+172
+July 05
+2003	Kenya
+Cape Verde	1
+0	African Nations Cup qualifier
+in Kenya	+8
+-8	1488
+1342	+3
+-1	77
+124
+October 12
+2003	Swaziland
+Cape Verde	1
+1	World Cup qualifier
+in Swaziland	+1
+-1	1222
+1341	0
+-1	152
+123
+November 16
+2003	Cape Verde
+Swaziland	3
+0	World Cup qualifier
+in Cape Verde	+15
+-15	1356
+1197	+6
+-2	117
+157
+June 05
+2004	South Africa
+Cape Verde	2
+1	World Cup qualifier
+in South Africa	+6
+-6	1570
+1350	+1
+-3	62
+123
+June 13
+2004	Cape Verde
+Senegal	1
+3	Friendly
+in Cape Verde	-5
++5	1345
+1718	+1
+0	121
+30
+June 19
+2004	Cape Verde
+Uganda	1
+0	World Cup qualifier
+in Cape Verde	+19
+-19	1364
+1406	+7
+-6	114
+104
+July 03
+2004	Cape Verde
+Dem. Rep. of Congo	1
+1	World Cup qualifier
+in Cape Verde	-3
++3	1361
+1416	+1
+0	113
+102
+September 05
+2004	Ghana
+Cape Verde	2
+0	World Cup qualifier
+in Ghana	+13
+-13	1489
+1348	+1
+-9	80
+121
+October 09
+2004	Cape Verde
+Burkina Faso	1
+0	World Cup qualifier
+in Cape Verde	+18
+-18	1366
+1393	+8
+-4	111
+102
+March 26
+2005	Burkina Faso
+Cape Verde	1
+2	World Cup qualifier
+in Burkina Faso	-26
++26	1349
+1392	-10
++9	115
+100
+June 04
+2005	Cape Verde
+South Africa	1
+2	World Cup qualifier
+in Cape Verde	-14
++14	1378
+1609	0
++2	102
+55
+June 18
+2005	Uganda
+Cape Verde	1
+0	World Cup qualifier
+in Uganda	+18
+-18	1327
+1360	+6
+-8	123
+110
+August 17
+2005	Angola
+Cape Verde	2
+1	Friendly
+in Portugal	+6
+-6	1516
+1354	+2
+-2	76
+112
+September 04
+2005	Dem. Rep. of Congo
+Cape Verde	2
+1	World Cup qualifier
+in Dem. Rep. of Congo	+10
+-10	1453
+1344	+1
+-5	89
+117
+October 08
+2005	Cape Verde
+Ghana	0
+4	World Cup qualifier
+in Cape Verde	-26
++26	1318
+1577	-8
++2	125
+60
+May 27
+2006	Portugal
+Cape Verde	4
+1	Friendly
+in Portugal	+1
+-1	1888
+1317	0
+0	9
+125
+September 03
+2006	Gambia
+Cape Verde	2
+0	African Nations Cup qualifier
+in Gambia	+19
+-19	1364
+1298	+6
+-3	109
+126
+October 07
+2006	Cape Verde
+Guinea	1
+0	African Nations Cup qualifier
+in Cape Verde	+31
+-31	1329
+1579	+4
+-7	122
+59
+March 24
+2007	Algeria
+Cape Verde	2
+0	African Nations Cup qualifier
+in Algeria	+15
+-15	1439
+1314	+1
+-4	95
+125
+June 02
+2007	Cape Verde
+Algeria	2
+2	African Nations Cup qualifier
+in Cape Verde	+1
+-1	1315
+1438	-1
+0	127
+94
+June 16
+2007	Cape Verde
+Gambia	0
+0	African Nations Cup qualifier
+in Cape Verde	-5
++5	1310
+1334	+1
++3	127
+121
+September 09
+2007	Guinea
+Cape Verde	4
+0	African Nations Cup qualifier
+in Guinea	+7
+-7	1614
+1303	0
+-1	56
+133
+December 03
+2007	Cape Verde
+Gambia	0
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+3
+-3	1306
+1350	+1
+-3	131
+120
+December 07
+2007	Guinea-Bissau
+Cape Verde	1
+1	Amilcar Cabral Cup
+in Guinea-Bissau	-2
++2	1242
+1308	-1
+0	144
+131
+May 24
+2008	Cape Verde
+Burkina Faso	1
+0	Friendly
+in Portugal	+11
+-11	1319
+1346	+1
+-2	130
+115
+May 27
+2008	Luxembourg
+Cape Verde	1
+1	Friendly
+in Luxembourg	+5
+-5	1010
+1314	0
+0	186
+130
+May 31
+2008	Cameroon
+Cape Verde	2
+0	World Cup qualifier
+in Cameroon	+2
+-2	1764
+1312	0
++2	26
+128
+June 07
+2008	Cape Verde
+Tanzania	1
+0	World Cup qualifier
+in Cape Verde	+14
+-14	1326
+1296	+5
+-3	123
+132
+June 15
+2008	Mauritius
+Cape Verde	0
+1	World Cup qualifier
+in Mauritius	-18
++18	1167
+1344	-6
++6	165
+119
+June 22
+2008	Cape Verde
+Mauritius	3
+1	World Cup qualifier
+in Cape Verde	+10
+-10	1354
+1157	+1
+-2	118
+167
+September 06
+2008	Cape Verde
+Cameroon	1
+2	World Cup qualifier
+in Cape Verde	-6
++6	1348
+1760	-1
++1	120
+23
+October 11
+2008	Tanzania
+Cape Verde	3
+1	World Cup qualifier
+in Tanzania	+22
+-22	1362
+1326	+5
+-5	117
+125
+March 25
+2009	Cape Verde
+Angola	1
+0	Friendly
+in Portugal	+15
+-15	1341
+1500	+2
+-5	125
+83
+March 28
+2009	Cape Verde
+Equatorial Guinea	5
+0	Friendly
+in Cape Verde	+9
+-9	1350
+1220	+3
+-2	122
+153
+September 04
+2009	Malta
+Cape Verde	0
+2	Friendly
+in Malta	-13
++13	1199
+1363	-4
++1	158
+119
+September 09
+2009	Angola
+Cape Verde	1
+1	Friendly
+in Portugal	-4
++4	1494
+1367	-2
+0	86
+118
+May 24
+2010	Portugal
+Cape Verde	0
+0	Friendly
+in Portugal	-9
++9	1838
+1376	0
++5	12
+111
+August 11
+2010	Senegal
+Cape Verde	1
+0	Friendly
+in Senegal	+4
+-4	1546
+1372	+3
+-1	71
+113
+September 04
+2010	Cape Verde
+Mali	1
+0	African Nations Cup qualifier
+in Cape Verde	+24
+-24	1396
+1512	+6
+-4	108
+81
+October 10
+2010	Zimbabwe
+Cape Verde	0
+0	African Nations Cup qualifier
+in Zimbabwe	-5
++5	1374
+1401	0
++1	115
+109
+November 16
+2010	Cape Verde
+Guinea-Bissau	2
+1	Friendly
+in Portugal	+6
+-6	1407
+1250	+3
+-2	107
+145
+February 09
+2011	Cape Verde
+Burkina Faso	1
+0	Friendly
+in Portugal	+13
+-13	1420
+1512	+4
+-7	105
+81
+March 26
+2011	Cape Verde
+Liberia	4
+2	African Nations Cup qualifier
+in Cape Verde	+9
+-9	1429
+1215	+2
+-1	103
+151
+June 05
+2011	Liberia
+Cape Verde	1
+0	African Nations Cup qualifier
+in Liberia	+26
+-26	1241
+1403	+6
+-6	147
+107
+September 03
+2011	Mali
+Cape Verde	3
+0	African Nations Cup qualifier
+in Mali	+17
+-17	1515
+1386	+5
+-5	76
+111
+October 08
+2011	Cape Verde
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Cape Verde	+16
+-16	1402
+1404	+4
+-3	106
+105
+February 29
+2012	Madagascar
+Cape Verde	0
+4	African Nations Cup qualifier
+in Madagascar	-25
++25	1159
+1427	-3
++6	162
+99
+June 02
+2012	Sierra Leone
+Cape Verde	2
+1	World Cup qualifier
+in Sierra Leone	+21
+-21	1325
+1406	+4
+-3	128
+102
+June 09
+2012	Cape Verde
+Tunisia	1
+2	World Cup qualifier
+in Cape Verde	-15
++15	1391
+1603	-3
++4	108
+54
+June 16
+2012	Cape Verde
+Madagascar	3
+1	African Nations Cup qualifier
+in Cape Verde	+8
+-8	1399
+1151	0
+-2	107
+163
+September 08
+2012	Cape Verde
+Cameroon	2
+0	African Nations Cup qualifier
+in Cape Verde	+41
+-41	1440
+1586	+10
+-14	97
+61
+October 14
+2012	Cameroon
+Cape Verde	2
+1	African Nations Cup qualifier
+in Cameroon	+8
+-8	1594
+1432	+3
+-3	58
+100
+November 14
+2012	Ghana
+Cape Verde	1
+0	Friendly
+in Portugal	+4
+-4	1670
+1428	+4
+-1	38
+101
+January 09
+2013	Cape Verde
+Nigeria	0
+0	Friendly
+in Portugal	+6
+-6	1434
+1637	+1
+-2	99
+48
+January 19
+2013	South Africa
+Cape Verde	0
+0	African Nations Cup
+in South Africa	-14
++14	1543
+1448	-3
++3	74
+95
+January 23
+2013	Cape Verde
+Morocco	1
+1	African Nations Cup
+in South Africa	+7
+-7	1455
+1538	+3
+-2	93
+74
+January 27
+2013	Cape Verde
+Angola	2
+1	African Nations Cup
+in South Africa	+27
+-27	1482
+1459	+7
+-8	86
+93
+February 02
+2013	Ghana
+Cape Verde	2
+0	African Nations Cup
+in South Africa	+16
+-16	1731
+1466	+2
+-5	29
+91
+March 24
+2013	Equatorial Guinea
+Cape Verde	4
+3	World Cup qualifier
+in Equatorial Guinea	+24
+-24	1328
+1442	+5
+-6	128
+98
+June 08
+2013	Cape Verde
+Equatorial Guinea	2
+1	World Cup qualifier
+in Cape Verde	+9
+-9	1451
+1309	+2
+-3	94
+134
+June 15
+2013	Cape Verde
+Sierra Leone	1
+0	World Cup qualifier
+in Cape Verde	+10
+-10	1461
+1352	+4
+-3	91
+122
+August 14
+2013	Cape Verde
+Gabon	1
+1	Friendly
+in Portugal	+1
+-1	1462
+1490	0
+0	91
+87
+September 07
+2013	Tunisia
+Cape Verde	0
+2	World Cup qualifier
+in Tunisia	-46
++46	1528
+1508	-16
++10	79
+83
+March 05
+2014	Luxembourg
+Cape Verde	0
+0	Friendly
+in Luxembourg	+6
+-6	1187
+1502	+1
+-3	160
+82

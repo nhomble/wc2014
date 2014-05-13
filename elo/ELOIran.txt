@@ -1,0 +1,4859 @@
+August 25
+1941	Afghanistan
+Iran	0
+0	Friendly
+in Afghanistan	+8
+-8	1108
+1592	-
+-	82
+34
+October 26
+1947	Iran
+Turkey	1
+3	Friendly
+in Iran	-26
++26	1566
+1408	-3
++4	35
+57
+October 28
+1948	Iran
+Turkey	1
+1	Friendly
+in Iran	-5
++5	1561
+1487	-1
+0	35
+45
+May 28
+1950	Turkey
+Iran	6
+1	Friendly
+in Turkey	+15
+-15	1572
+1546	+5
+-3	33
+39
+May 30
+1950	Turkey
+Iran	2
+2	Friendly
+in Turkey	-3
++3	1569
+1549	-1
+0	34
+39
+October 26
+1950	Iran
+Afghanistan	4
+0	Friendly
+in Iran	+1
+-1	1550
+1062	0
+0	39
+100
+October 27
+1950	Iran
+Pakistan	5
+1	Friendly
+in Iran	+4
+-4	1554
+1296	0
+-	39
+84
+March 04
+1951	Iran
+Burma	2
+0	Asian Games
+in India	+11
+-11	1565
+1289	+5
+-	33
+85
+March 07
+1951	Iran
+Japan	0
+0	Asian Games
+in India	-15
++15	1550
+1248	-5
++1	38
+93
+March 08
+1951	Iran
+Japan	3
+2	Asian Games
+in India	+6
+-6	1556
+1242	+2
+0	36
+93
+March 11
+1951	India
+Iran	1
+0	Asian Games
+in India	+20
+-20	1469
+1536	+1
+-4	55
+40
+April 02
+1952	Pakistan
+Iran	0
+0	Friendly
+in Pakistan	+3
+-3	1347
+1533	0
+-1	80
+40
+May 26
+1958	Israel
+Iran	4
+0	Asian Games
+in Japan	+49
+-49	1470
+1484	+10
+-10	61
+58
+May 28
+1958	South Korea
+Iran	5
+0	Asian Games
+in Japan	+28
+-28	1616
+1456	+6
+-7	33
+65
+December 05
+1959	Iran
+Israel	3
+0	Asian Cup qualifier
+in India	+36
+-36	1492
+1426	+7
+-8	55
+68
+December 06
+1959	Iran
+Pakistan	4
+1	Asian Cup qualifier
+in India	+23
+-23	1515
+1349	+6
+-2	49
+90
+December 08
+1959	India
+Iran	3
+1	Asian Cup qualifier
+in India	+26
+-26	1486
+1489	-4
+-7	65
+56
+December 12
+1959	Iran
+Israel	1
+1	Asian Cup qualifier
+in India	0
+0	1489
+1489	0
+0	56
+56
+December 13
+1959	Pakistan
+Iran	4
+1	Asian Cup qualifier
+in India	+50
+-50	1379
+1439	+6
+-10	87
+66
+December 15
+1959	India
+Iran	1
+2	Asian Cup qualifier
+in India	-25
++25	1404
+1464	-7
++6	75
+60
+May 31
+1962	Iran
+Iraq	1
+1	Friendly
+in Iran	+1
+-1	1465
+1590	0
+0	66
+43
+June 02
+1962	Iran
+Iraq	1
+2	Friendly
+in Iran	-9
++9	1456
+1599	0
++1	66
+42
+November 27
+1963	Iran
+Pakistan	4
+1	Olympic Games qualifier
+in Iran	+20
+-20	1476
+1371	+4
+-6	68
+94
+December 07
+1963	Pakistan
+Iran	1
+0	Olympic Games qualifier
+in Pakistan	+20
+-20	1391
+1456	+6
+-5	89
+73
+January 02
+1964	Iraq
+Iran	0
+0	Olympic Games qualifier
+in Iraq	-12
++12	1587
+1468	-3
++1	42
+72
+March 22
+1964	Iran
+Iraq	4
+0	Olympic Games qualifier
+in Iran	+40
+-40	1508
+1547	+14
+-8	58
+50
+May 31
+1964	Iran
+India	3
+0	Olympic Games qualifier
+in Iran	+27
+-27	1535
+1498	+7
+-7	52
+61
+June 28
+1964	India
+Iran	1
+3	Olympic Games qualifier
+in India	-37
++37	1486
+1572	-10
++5	66
+46
+October 11
+1964	East Germany
+Iran	4
+0	Olympic Games
+in Japan	+38
+-38	1725
+1534	+3
+-7	23
+53
+October 15
+1964	Romania
+Iran	1
+0	Olympic Games
+in Japan	+14
+-14	1751
+1520	0
+-3	21
+56
+1965	Iran
+Iraq	2
+0	Friendly
+in Iran	+13
+-13	1533
+1561	+4
+-2	52
+48
+May 22
+1965	Iran
+Turkey	1
+2	Friendly
+in Iran	-12
++12	1521
+1587	-3
++2	56
+42
+May 24
+1965	Iran
+Turkey	2
+1	Friendly
+in Iran	+9
+-9	1530
+1578	+2
+-2	54
+44
+July 23
+1965	Iran
+Pakistan	4
+1	Friendly tournament
+in Iran	+10
+-10	1540
+1370	+2
+-1	54
+95
+July 25
+1965	Iran
+Turkey	0
+0	Friendly tournament
+in Iran	-2
++2	1538
+1591	-1
++1	55
+42
+March 16
+1966	Iran
+Turkey	0
+0	Friendly
+in Iran	-2
++2	1536
+1586	0
+0	53
+42
+December 10
+1966	Iran
+Malaysia	2
+0	Asian Games
+in Thailand	+9
+-9	1545
+1232	+2
+0	50
+129
+December 11
+1966	Japan
+Iran	3
+1	Asian Games
+in Thailand	+41
+-41	1447
+1504	+10
+-7	76
+57
+December 13
+1966	Iran
+India	4
+1	Asian Games
+in Thailand	+33
+-33	1537
+1456	+5
+-9	52
+74
+December 16
+1966	Iran
+Indonesia	1
+0	Asian Games
+in Thailand	+21
+-21	1558
+1536	+4
+-4	48
+52
+December 17
+1966	Burma
+Iran	1
+0	Asian Games
+in Thailand	+26
+-26	1471
+1532	+5
+-5	72
+53
+December 18
+1966	Iran
+Japan	1
+0	Asian Games
+in Thailand	+19
+-19	1551
+1487	+4
+-10	49
+68
+December 20
+1966	Burma
+Iran	1
+0	Asian Games
+in Thailand	+24
+-24	1512
+1527	+8
+-5	58
+54
+November 24
+1967	Pakistan
+Iran	0
+2	Friendly tournament
+in Pakistan	-16
++16	1316
+1543	-4
++2	110
+58
+November 26
+1967	Turkey
+Iran	1
+0	Friendly tournament
+in Pakistan	+12
+-12	1623
+1531	+2
+0	36
+59
+May 10
+1968	Iran
+Taiwan	4
+0	Asian Cup
+in Iran	+13
+-13	1544
+1306	+2
+-3	58
+113
+May 14
+1968	Iran
+Hong Kong	2
+0	Asian Cup
+in Iran	+5
+-5	1549
+1192	+1
+-2	57
+137
+May 16
+1968	Iran
+Burma	3
+1	Asian Cup
+in Iran	+32
+-32	1581
+1561	+13
+-8	44
+50
+May 19
+1968	Iran
+Israel	2
+1	Asian Cup
+in Iran	+13
+-13	1594
+1484	+2
+-1	42
+68
+March 07
+1969	Iran
+Iraq	2
+1	Friendship Cup
+in Iran	+9
+-9	1603
+1537	+3
+0	40
+57
+March 09
+1969	Iran
+Turkey	2
+1	Friendship Cup
+in Iran	+9
+-9	1612
+1552	+1
+-4	39
+54
+March 12
+1969	Iran
+Pakistan	9
+1	Friendship Cup
+in Iran	+7
+-7	1619
+1309	+2
+-3	37
+110
+March 14
+1969	Iran
+Soviet Union	0
+2	Friendship Cup
+in Iran	-11
++11	1608
+1933	-3
++2	40
+4
+September 13
+1969	Iran
+Pakistan	4
+2	Friendly tournament
+in Turkey	+7
+-7	1615
+1302	+2
+-2	40
+112
+September 17
+1969	Turkey
+Iran	4
+0	Friendly tournament
+in Turkey	+25
+-25	1577
+1590	+6
+-6	49
+46
+September 01
+1970	Iran
+Pakistan	7
+0	Friendly tournament
+in Iran	+6
+-6	1596
+1291	+1
+-3	45
+116
+September 03
+1970	Iran
+Turkey	1
+1	Friendly tournament
+in Iran	-5
++5	1591
+1580	-1
++1	46
+48
+November 04
+1970	Iran
+Australia	1
+2	Friendly
+in Iran	-12
++12	1579
+1646	-1
++2	48
+36
+December 11
+1970	South Korea
+Iran	1
+0	Asian Games
+in Thailand	+18
+-18	1635
+1561	+4
+-5	37
+52
+December 12
+1970	Indonesia
+Iran	2
+2	Asian Games
+in Thailand	+3
+-3	1508
+1558	+1
+0	63
+52
+September 10
+1971	South Korea
+Iran	2
+0	Friendly
+in South Korea	+8
+-8	1637
+1550	+3
+-1	39
+54
+September 12
+1971	South Korea
+Iran	0
+2	Friendly
+in South Korea	-22
++22	1615
+1572	-4
++5	43
+49
+December 13
+1971	Iran
+Kuwait	2
+0	Olympic Games qualifier
+in Iran	+9
+-9	1581
+1371	0
+0	48
+93
+January 15
+1972	Kuwait
+Iran	0
+2	Olympic Games qualifier
+in Kuwait	-21
++21	1355
+1602	-4
++5	97
+42
+May 04
+1972	North Korea
+Iran	0
+0	Olympic Games qualifier
+in North Korea	-9
++9	1657
+1611	-1
++1	35
+41
+May 07
+1972	Iran
+Khmer Republic	2
+0	Asian Cup
+in Thailand	+7
+-7	1618
+1197	+1
+-3	40
+139
+May 09
+1972	Iran
+Iraq	3
+0	Asian Cup
+in Thailand	+39
+-39	1657
+1538	+5
+-9	35
+60
+May 13
+1972	Thailand
+Iran	2
+3	Asian Cup
+in Thailand	-7
++7	1232
+1664	-4
++1	131
+35
+May 16
+1972	Iran
+Khmer Republic	2
+1	Asian Cup
+in Thailand	+5
+-5	1669
+1264	+1
+-1	34
+124
+May 19
+1972	Iran
+South Korea	2
+1	Asian Cup
+in Thailand	+16
+-16	1685
+1528	+2
+-2	32
+60
+May 30
+1972	Iran
+North Korea	0
+0	Olympic Games qualifier
+in Iran	-7
++7	1678
+1664	-1
++1	32
+35
+June 01
+1972	Iran
+North Korea	2
+0	Olympic Games qualifier
+in Pakistan	+29
+-29	1707
+1635	+4
+-3	28
+38
+June 11
+1972	Ireland
+Iran	2
+1	Independence Cup
+in Brazil	+31
+-31	1524
+1676	+6
+-4	61
+32
+June 14
+1972	Portugal
+Iran	3
+0	Independence Cup
+in Brazil	+27
+-27	1788
+1649	+2
+-5	14
+37
+June 21
+1972	Ecuador
+Iran	1
+1	Independence Cup
+in Brazil	+13
+-13	1407
+1636	+2
+0	87
+37
+June 25
+1972	Chile
+Iran	2
+1	Independence Cup
+in Brazil	+17
+-17	1709
+1619	+2
+-2	27
+39
+August 27
+1972	Hungary
+Iran	5
+0	Olympic Games
+in West Germany	+27
+-27	1863
+1592	+2
+-9	7
+46
+May 04
+1973	Iran
+North Korea	0
+0	World Cup qualifier
+in Iran	-3
++3	1589
+1638	-2
+0	45
+37
+May 06
+1973	Iran
+Kuwait	2
+1	World Cup qualifier
+in Iran	+7
+-7	1596
+1401	+2
+-3	43
+86
+May 08
+1973	Iran
+Syria	1
+0	World Cup qualifier
+in Iran	+8
+-8	1604
+1440	0
+-3	43
+74
+May 11
+1973	Iran
+North Korea	2
+1	World Cup qualifier
+in Iran	+15
+-15	1619
+1602	+2
+-2	41
+43
+May 13
+1973	Iran
+Kuwait	2
+0	World Cup qualifier
+in Iran	+8
+-8	1627
+1376	+2
+-3	39
+95
+May 15
+1973	Iran
+Syria	0
+1	World Cup qualifier
+in Iran	-33
++33	1594
+1479	-3
++3	42
+68
+August 12
+1973	New Zealand
+Iran	0
+0	Friendly
+in New Zealand	+2
+-2	1440
+1592	-1
+-1	77
+43
+August 18
+1973	Australia
+Iran	3
+0	World Cup qualifier
+in Australia	+20
+-20	1672
+1572	+1
+-4	31
+48
+August 24
+1973	Iran
+Australia	2
+0	World Cup qualifier
+in Iran	+30
+-30	1602
+1642	+6
+-5	42
+36
+January 17
+1974	Pakistan
+Iran	1
+2	Friendly tournament
+in Pakistan	-7
++7	1284
+1609	-3
+0	120
+40
+January 20
+1974	Turkey
+Iran	1
+0	Friendly tournament
+in Pakistan	+15
+-15	1631
+1594	+1
+-2	37
+42
+September 02
+1974	Iran
+Pakistan	7
+0	Asian Games
+in Iran	+8
+-8	1602
+1285	+1
+-1	40
+120
+September 04
+1974	Iran
+Bahrain	6
+0	Asian Games
+in Iran	+7
+-7	1609
+1272	0
+0	40
+122
+September 06
+1974	Iran
+Burma	2
+1	Asian Games
+in Iran	+12
+-12	1621
+1560	+2
+-2	38
+50
+September 09
+1974	Iran
+Malaysia	1
+0	Asian Games
+in Iran	+8
+-8	1629
+1470	+1
+0	37
+70
+September 12
+1974	Iran
+South Korea	2
+0	Asian Games
+in Iran	+14
+-14	1643
+1514	+2
+-4	35
+60
+September 13
+1974	Iran
+Iraq	1
+0	Asian Games
+in Iran	+12
+-12	1655
+1581	+3
+-2	32
+43
+September 16
+1974	Iran
+Israel	1
+0	Asian Games
+in Iran	+19
+-19	1674
+1716	+3
+-1	29
+26
+December 20
+1974	Iran
+Czechoslovakia	0
+1	Friendly
+in Iran	-9
++9	1665
+1812	-2
++2	32
+14
+May 10
+1975	Iran
+Burma	1
+1	Presidents Cup
+in South Korea	-8
++8	1657
+1516	0
++1	33
+61
+May 13
+1975	Iran
+Thailand	1
+1	Presidents Cup
+in South Korea	-14
++14	1643
+1356	-4
++3	37
+100
+May 16
+1975	Iran
+Malaysia	3
+0	Presidents Cup
+in South Korea	+18
+-18	1661
+1443	+4
+-2	33
+74
+May 19
+1975	South Korea
+Iran	1
+0	Presidents Cup
+in South Korea	+22
+-22	1543
+1639	+7
+-3	55
+36
+May 22
+1975	Iran
+Japan	3
+0	Presidents Cup
+in South Korea	+14
+-14	1653
+1391	+3
+-3	33
+88
+July 13
+1975	Iran
+Soviet Union	1
+0	Friendly tournament
+in Iran	+18
+-18	1671
+1794	0
+-4	33
+17
+July 15
+1975	Iran
+Soviet Union	0
+1	Friendly tournament
+in Iran	-14
++14	1657
+1808	0
++4	33
+13
+August 10
+1975	Iran
+Hungary	1
+2	Friendly
+in Iran	-10
++10	1647
+1774	-2
++1	34
+20
+August 20
+1975	Iran
+Bahrain	3
+0	Olympic Games qualifier
+in Iran	+3
+-3	1650
+1231	+1
+-1	34
+134
+August 22
+1975	Iran
+Kuwait	1
+1	Olympic Games qualifier
+in Iran	-11
++11	1639
+1550	-2
++3	36
+54
+August 24
+1975	Iran
+Saudi Arabia	3
+0	Olympic Games qualifier
+in Iran	+12
+-12	1651
+1449	+3
+-2	33
+75
+August 26
+1975	Iran
+Iraq	1
+1	Olympic Games qualifier
+in Iran	-10
++10	1641
+1572	-2
++2	35
+50
+June 03
+1976	Iran
+South Yemen	8
+0	Asian Cup
+in Iran	+3
+-3	1644
+1089	-1
+-1	38
+157
+June 07
+1976	Iran
+Iraq	2
+0	Asian Cup
+in Iran	+21
+-21	1665
+1554	+4
+-5	34
+55
+June 10
+1976	Iran
+China	2
+0	Asian Cup
+in Iran	+12
+-12	1677
+1470	+1
+-1	33
+70
+June 13
+1976	Iran
+Kuwait	1
+0	Asian Cup
+in Iran	+18
+-18	1695
+1663	+5
+-5	28
+35
+June 25
+1976	Iran
+Soviet Union	1
+0	Friendly
+in Iran	+11
+-11	1706
+1816	0
+-1	28
+14
+June 27
+1976	Iran
+Soviet Union	2
+2	Friendly
+in Iran	0
+0	1706
+1816	0
+0	28
+14
+July 02
+1976	Iran
+Romania	2
+2	Friendly
+in Iran	-1
++1	1705
+1757	0
+0	28
+20
+July 20
+1976	Iran
+Cuba	1
+0	Olympic Games
+in Canada	+15
+-15	1720
+1505	+1
+-3	27
+64
+July 22
+1976	Poland
+Iran	3
+2	Olympic Games
+in Canada	+17
+-17	1895
+1703	+1
+-1	7
+28
+July 25
+1976	Soviet Union
+Iran	2
+1	Olympic Games
+in Canada	+18
+-18	1871
+1685	+3
+-2	9
+30
+January 07
+1977	Saudi Arabia
+Iran	0
+3	World Cup qualifier
+in Saudi Arabia	-17
++17	1372
+1702	-4
++3	95
+26
+January 28
+1977	Syria
+Iran	0
+1	World Cup qualifier
+in Syria	-11
++11	1416
+1713	-4
++1	83
+26
+March 15
+1977	Iran
+Hungary	0
+2	Friendly
+in Iran	-15
++15	1698
+1832	-1
++1	27
+13
+March 22
+1977	Argentina
+Iran	1
+1	Friendly
+in Spain	-5
++5	1892
+1703	-2
+0	9
+26
+April 22
+1977	Iran
+Saudi Arabia	2
+0	World Cup qualifier
+in Iran	+5
+-5	1708
+1367	0
+-1	27
+97
+June 19
+1977	Hong Kong
+Iran	0
+2	World Cup qualifier
+in Hong Kong	-13
++13	1380
+1721	-4
+0	96
+27
+July 03
+1977	South Korea
+Iran	0
+0	World Cup qualifier
+in South Korea	-3
++3	1674
+1724	0
+0	31
+27
+July 29
+1977	Iran
+Soviet Union	1
+3	Friendly
+in Iran	-13
++13	1711
+1877	0
++1	27
+9
+July 31
+1977	Iran
+Soviet Union	1
+1	Friendly
+in Iran	+2
+-2	1713
+1875	0
+0	27
+9
+August 05
+1977	Iran
+Romania	0
+0	Friendly
+in Iran	+1
+-1	1714
+1841	0
+0	27
+14
+August 14
+1977	Australia
+Iran	0
+1	World Cup qualifier
+in Australia	-23
++23	1641
+1737	-1
++2	37
+25
+October 01
+1977	Iran
+Hungary	3
+1	Friendly
+in Iran	+16
+-16	1753
+1842	+1
+-3	23
+14
+October 28
+1977	Iran
+Kuwait	1
+0	World Cup qualifier
+in Iran	+13
+-13	1766
+1704	+1
+-2	21
+31
+November 11
+1977	Iran
+South Korea	2
+2	World Cup qualifier
+in Iran	-9
++9	1757
+1716	0
++2	21
+28
+November 18
+1977	Iran
+Hong Kong	3
+0	World Cup qualifier
+in Iran	+3
+-3	1760
+1320	+1
+0	21
+107
+November 25
+1977	Iran
+Australia	1
+0	World Cup qualifier
+in Iran	+9
+-9	1769
+1644	0
+0	21
+37
+December 03
+1977	Kuwait
+Iran	1
+2	World Cup qualifier
+in Kuwait	-23
++23	1692
+1792	-3
++2	31
+19
+April 05
+1978	Iran
+Yugoslavia	0
+0	Friendly
+in Iran	-3
++3	1789
+1775	0
++1	19
+20
+April 18
+1978	Iran
+Wales	0
+1	Friendly
+in Iran	-14
++14	1775
+1759	0
++1	19
+22
+April 26
+1978	Iran
+Bulgaria	1
+1	Friendly
+in Iran	-5
++5	1770
+1692	-1
+0	20
+29
+May 11
+1978	France
+Iran	2
+1	Friendly
+in France	+6
+-6	1831
+1764	0
+0	14
+21
+May 19
+1978	Iran
+Ghana	3
+0	Afro-Asian Championship
+in Iran	+22
+-22	1786
+1654	+2
+-3	19
+37
+June 03
+1978	Netherlands
+Iran	3
+0	World Cup
+in Argentina	+19
+-19	2068
+1767	0
+-4	1
+23
+June 07
+1978	Iran
+Scotland	1
+1	World Cup
+in Argentina	+5
+-5	1772
+1824	+1
+0	22
+13
+June 11
+1978	Peru
+Iran	4
+1	World Cup
+in Argentina	+47
+-47	1856
+1725	+3
+-5	12
+26
+September 06
+1978	Iran
+Soviet Union	0
+1	Friendly
+in Iran	-8
++8	1717
+1919	-1
+0	28
+7
+September 09
+1978	Iran
+Morocco	2
+0	Presidents Cup
+in South Korea	+26
+-26	1743
+1639	+3
+-2	25
+37
+September 11
+1978	Iran
+New Zealand	2
+1	Presidents Cup
+in South Korea	+8
+-8	1751
+1501	+1
+-2	24
+66
+October 11
+1978	Iran
+Ghana	3
+0	Friendly
+in Iran	+8
+-8	1759
+1628	0
+-1	22
+39
+June 22
+1979	Soviet Union
+Iran	2
+0	Friendly
+in the Soviet Union	+6
+-6	1899
+1753	0
+-1	9
+25
+June 25
+1979	Iran
+Soviet Union	1
+3	Friendly
+in Iran	-13
++13	1740
+1912	0
++1	25
+8
+August 05
+1980	United Arab Emirates
+Iran	0
+2	Friendly
+in United Arab Emirates	-2
++2	1157
+1742	0
+0	149
+24
+August 07
+1980	United Arab Emirates
+Iran	0
+3	Friendly
+in United Arab Emirates	-2
++2	1155
+1744	0
+0	149
+24
+September 16
+1980	Iran
+Syria	0
+0	Asian Cup
+in Kuwait	-21
++21	1723
+1329	0
++6	26
+108
+September 19
+1980	China
+Iran	2
+2	Asian Cup
+in Kuwait	+9
+-9	1602
+1714	+2
+0	48
+26
+September 21
+1980	Iran
+North Korea	3
+2	Asian Cup
+in Kuwait	+23
+-23	1737
+1670	0
+-3	26
+34
+September 24
+1980	Iran
+Bangladesh	7
+0	Asian Cup
+in Kuwait	+2
+-2	1739
+1054	0
+0	26
+162
+September 28
+1980	Kuwait
+Iran	2
+1	Asian Cup
+in Kuwait	+29
+-29	1611
+1710	+4
+0	45
+26
+September 30
+1980	Iran
+North Korea	3
+0	Asian Cup
+in Kuwait	+39
+-39	1749
+1631	0
+-5	26
+39
+June 26
+1981	Libya
+Iran	0
+1	Friendly
+in Libya	-5
++5	1461
+1754	-1
+0	78
+22
+June 30
+1981	Algeria
+Iran	1
+0	Friendly
+in Algeria	+12
+-12	1593
+1742	+3
+-2	47
+24
+February 15
+1982	China
+Iran	0
+0	Friendly tournament
+in Pakistan	+6
+-6	1588
+1736	+1
+-1	48
+24
+February 17
+1982	Pakistan
+Iran	1
+4	Friendly tournament
+in Pakistan	-7
++7	1309
+1743	-3
++1	113
+23
+February 19
+1982	Iran
+Nepal	4
+0	Friendly tournament
+in Pakistan	+1
+-1	1744
+1004	0
+0	23
+168
+February 23
+1982	Iran
+Oman	4
+0	Friendly tournament
+in Pakistan	+1
+-1	1745
+977	0
+0	22
+172
+February 25
+1982	Iran
+Bangladesh	9
+0	Friendly tournament
+in Pakistan	+1
+-1	1746
+1053	-1
+-1	23
+164
+March 06
+1982	Iran
+North Korea	2
+0	Friendly
+in Iran	+6
+-6	1752
+1594	0
+0	23
+44
+November 19
+1982	Japan
+Iran	1
+0	Asian Games
+in India	+34
+-34	1488
+1718	+11
+-3	72
+25
+November 22
+1982	Iran
+South Yemen	2
+0	Asian Games
+in India	+2
+-2	1720
+1167	0
+0	25
+146
+November 25
+1982	Iran
+South Korea	1
+0	Asian Games
+in India	+12
+-12	1732
+1569	0
+-4	25
+52
+November 28
+1982	Kuwait
+Iran	1
+0	Asian Games
+in India	+25
+-25	1661
+1707	+4
+-2	36
+27
+August 07
+1984	Iran
+Bangladesh	5
+0	Asian Cup qualifier
+in Indonesia	+2
+-2	1709
+1068	0
+-1	30
+164
+August 11
+1984	Iran
+Thailand	5
+0	Asian Cup qualifier
+in Indonesia	+7
+-7	1716
+1301	0
+-4	30
+116
+August 13
+1984	Indonesia
+Iran	0
+1	Asian Cup qualifier
+in Indonesia	-5
++5	1275
+1721	0
+0	125
+30
+August 15
+1984	Iran
+Philippines	7
+1	Asian Cup qualifier
+in Indonesia	+1
+-1	1722
+911	0
+0	30
+179
+September 24
+1984	Iran
+Syria	3
+1	Asian Cup qualifier
+in Indonesia	+5
+-5	1727
+1285	+1
+-1	28
+123
+December 01
+1984	Iran
+United Arab Emirates	3
+0	Asian Cup
+in Singapore	+7
+-7	1734
+1286	+1
+-5	28
+124
+December 03
+1984	Iran
+China	2
+0	Asian Cup
+in Singapore	+22
+-22	1756
+1555	+4
+-4	24
+55
+December 07
+1984	India
+Iran	0
+0	Asian Cup
+in Singapore	+23
+-23	1248
+1733	+6
+-4	134
+28
+December 10
+1984	Singapore
+Iran	1
+1	Asian Cup
+in Singapore	+20
+-20	1257
+1713	+3
+-4	132
+32
+December 13
+1984	Iran
+Saudi Arabia	1
+1	Asian Cup
+in Singapore	-12
++12	1701
+1542	0
++3	32
+57
+December 16
+1984	Iran
+Kuwait	1
+1	Asian Cup
+in Singapore	-12
++12	1689
+1534	-2
++1	34
+60
+January 20
+1985	Yugoslavia
+Iran	3
+1	Nehru Gold Cup
+in India	+24
+-24	1778
+1665	+2
+-1	21
+35
+January 28
+1985	Soviet Union
+Iran	2
+0	Nehru Gold Cup
+in India	+11
+-11	1944
+1654	0
+0	2
+35
+February 05
+1985	Iran
+North Korea	1
+0	Friendly
+in Iran	+5
+-5	1659
+1579	+1
+-2	35
+53
+February 16
+1986	Iran
+Pakistan	2
+0	Friendly
+in Iran	+1
+-1	1660
+1207	0
+0	36
+142
+February 20
+1986	Iran
+Ghana	2
+0	Friendly
+in Iran	+7
+-7	1667
+1547	+1
+0	35
+62
+May 28
+1986	China
+Iran	2
+1	Friendly
+in China	+12
+-12	1516
+1655	+2
+-2	66
+36
+September 20
+1986	Iran
+Thailand	4
+0	Friendly
+in South Korea	+5
+-5	1660
+1318	+3
+0	34
+106
+September 22
+1986	Iran
+Japan	2
+0	Asian Games
+in South Korea	+21
+-21	1681
+1537	0
+-4	34
+64
+September 24
+1986	Iran
+Bangladesh	4
+0	Asian Games
+in South Korea	+4
+-4	1685
+1154	0
+-3	34
+152
+September 26
+1986	Kuwait
+Iran	1
+0	Asian Games
+in South Korea	+24
+-24	1645
+1661	+2
+0	39
+34
+September 28
+1986	Iran
+Nepal	6
+0	Asian Games
+in South Korea	+1
+-1	1662
+928	0
+0	34
+178
+October 01
+1986	South Korea
+Iran	1
+1	Asian Games
+in South Korea	-2
++2	1603
+1664	0
+0	46
+34
+June 15
+1988	Iran
+Syria	1
+1	Asian Cup qualifier
+in Nepal	-13
++13	1651
+1393	0
++2	39
+91
+June 17
+1988	Nepal
+Iran	0
+3	Asian Cup qualifier
+in Nepal	-3
++3	997
+1654	0
+0	172
+39
+June 21
+1988	Hong Kong
+Iran	0
+2	Asian Cup qualifier
+in Nepal	-6
++6	1281
+1660	0
+0	119
+39
+June 23
+1988	Iran
+North Korea	0
+0	Asian Cup qualifier
+in Nepal	-3
++3	1657
+1606	0
+0	39
+46
+December 02
+1988	Qatar
+Iran	0
+2	Asian Cup
+in Qatar	-24
++24	1406
+1681	-9
++5	93
+33
+December 04
+1988	Iran
+Japan	0
+0	Asian Cup
+in Qatar	-13
++13	1668
+1501	-3
++3	36
+69
+December 08
+1988	Iran
+United Arab Emirates	1
+0	Asian Cup
+in Qatar	+13
+-13	1681
+1471	+4
+-3	32
+74
+December 11
+1988	Iran
+South Korea	0
+3	Asian Cup
+in Qatar	-44
++44	1637
+1722	-9
++5	41
+28
+December 14
+1988	Iran
+Saudi Arabia	0
+1	Asian Cup
+in Qatar	-33
++33	1604
+1550	-5
++10	46
+55
+December 17
+1988	China
+Iran	0
+0	Asian Cup
+in Qatar	+5
+-5	1532
+1599	+2
+0	63
+46
+January 20
+1989	Iran
+Japan	2
+2	Friendly
+in Iran	-7
++7	1592
+1423	0
++2	47
+88
+January 22
+1989	Iran
+Japan	1
+3	Friendly
+in Iran	-25
++25	1567
+1448	-2
++6	49
+82
+February 23
+1989	Thailand
+Iran	0
+3	World Cup qualifier
+in Thailand	-21
++21	1294
+1588	-5
++1	117
+48
+February 27
+1989	Bangladesh
+Iran	1
+2	World Cup qualifier
+in Bangladesh	-4
++4	1092
+1592	0
++2	162
+46
+March 17
+1989	Iran
+Bangladesh	1
+0	World Cup qualifier
+in Iran	+1
+-1	1593
+1121	0
+0	46
+157
+May 30
+1989	Iran
+Thailand	3
+0	World Cup qualifier
+in Iran	+5
+-5	1598
+1230	+2
+-1	46
+135
+July 15
+1989	China
+Iran	2
+0	World Cup qualifier
+in China	+24
+-24	1588
+1574	+5
+-6	48
+52
+July 22
+1989	Iran
+China	3
+2	World Cup qualifier
+in Iran	+15
+-15	1589
+1573	+3
+-3	49
+52
+November 01
+1989	Iran
+South Yemen	2
+0	Friendly tournament
+in Kuwait	+3
+-3	1592
+1113	0
+-1	46
+163
+November 03
+1989	Iran
+Guinea	1
+1	Friendly tournament
+in Kuwait	-6
++6	1586
+1461	-1
++2	47
+79
+November 05
+1989	Iran
+Iraq	0
+0	Friendly tournament
+in Kuwait	0
+0	1586
+1577	0
+0	47
+49
+November 08
+1989	Iran
+Uganda	2
+2	Friendly tournament
+in Kuwait	-5
++5	1581
+1480	-1
++1	48
+73
+November 12
+1989	Kuwait
+Iran	1
+0	Friendly tournament
+in Kuwait	+14
+-14	1509
+1567	+7
+-2	64
+50
+February 02
+1990	Iran
+Poland	0
+2	Friendly
+in Iran	-11
++11	1556
+1761	-4
++2	54
+21
+February 04
+1990	Iran
+Poland	0
+1	Friendly
+in Iran	-7
++7	1549
+1768	-2
+0	56
+21
+September 24
+1990	Iran
+Malaysia	3
+0	Asian Games
+in China	+14
+-14	1563
+1294	+3
+-5	54
+118
+September 28
+1990	Iran
+North Korea	2
+1	Asian Games
+in China	+18
+-18	1581
+1504	+3
+-5	51
+67
+October 01
+1990	Iran
+Japan	1
+0	Asian Games
+in China	+11
+-11	1592
+1399	+4
+-1	47
+93
+October 03
+1990	Iran
+South Korea	1
+0	Asian Games
+in China	+28
+-28	1620
+1716	+7
+-3	40
+27
+October 06
+1990	Iran
+North Korea	0
+0	Asian Games
+in China	-5
++5	1615
+1527	-1
++1	41
+60
+September 27
+1991	Iran
+Algeria	2
+1	Afro-Asian Championship
+in Iran	+27
+-27	1642
+1721	+7
+-4	38
+28
+October 13
+1991	Algeria
+Iran	1
+0	Afro-Asian Championship
+in Algeria	+13
+-13	1734
+1629	+2
+-2	26
+41
+July 03
+1992	Iran
+Pakistan	7
+0	Asian Cup qualifier
+in India	+4
+-4	1633
+1101	+1
+0	40
+168
+July 05
+1992	India
+Iran	0
+3	Asian Cup qualifier
+in India	-6
++6	1113
+1639	-1
++1	165
+39
+October 02
+1992	Iran
+Cameroon	1
+1	Friendly
+in Iran	-3
++3	1636
+1651	-1
+0	39
+36
+October 04
+1992	Iran
+Cameroon	0
+0	Friendly
+in Iran	-2
++2	1634
+1653	0
+0	38
+36
+October 18
+1992	Kuwait
+Iran	1
+1	Friendly
+in Kuwait	+1
+-1	1508
+1633	0
+0	68
+41
+October 30
+1992	Iran
+North Korea	2
+0	Asian Cup
+in Japan	+25
+-25	1658
+1491	+7
+-4	34
+70
+November 01
+1992	Iran
+United Arab Emirates	0
+0	Asian Cup
+in Japan	-13
++13	1645
+1479	-4
++6	38
+77
+November 03
+1992	Japan
+Iran	1
+0	Asian Cup
+in Japan	+30
+-30	1498
+1615	+11
+-8	70
+46
+June 06
+1993	Iran
+Pakistan	5
+0	Friendly tournament
+in Iran	+1
+-1	1616
+1031	-3
+-2	49
+182
+June 06
+1993	Iran
+Bosnia and Herzegovina	1
+3	Friendly
+in Iran	-23
++23	1593
+1523	-3
+-	49
+66
+June 08
+1993	Iran
+Turkmenistan	2
+1	Friendly tournament
+in Iran	+5
+-5	1598
+1395	+2
+-	47
+102
+June 13
+1993	Iran
+Tajikistan	1
+0	Friendly tournament
+in Iran	+6
+-6	1604
+1463	+1
+0	47
+84
+June 14
+1993	Iran
+Turkmenistan	2
+1	Friendly tournament
+in Iran	+4
+-4	1608
+1391	0
+-1	47
+103
+June 23
+1993	Iran
+Oman	0
+0	World Cup qualifier
+in Iran	-19
++19	1589
+1107	-3
++3	49
+172
+June 25
+1993	Iran
+Taiwan	6
+0	World Cup qualifier
+in Iran	+3
+-3	1592
+1115	+2
+-1	48
+172
+June 27
+1993	Iran
+Syria	1
+1	World Cup qualifier
+in Iran	-13
++13	1579
+1424	-3
++4	51
+95
+July 02
+1993	Iran
+Oman	1
+0	World Cup qualifier
+in Syria	+3
+-3	1582
+1139	+2
+-1	49
+166
+July 04
+1993	Iran
+Taiwan	6
+0	World Cup qualifier
+in Syria	+5
+-5	1587
+1083	+1
+0	48
+175
+July 06
+1993	Syria
+Iran	1
+1	World Cup qualifier
+in Syria	+3
+-3	1438
+1584	+1
+0	93
+48
+October 16
+1993	Iran
+South Korea	0
+3	World Cup qualifier
+in Qatar	-32
++32	1552
+1647	-8
++7	60
+39
+October 18
+1993	Japan
+Iran	1
+2	World Cup qualifier
+in Qatar	-24
++24	1602
+1576	-5
++4	48
+56
+October 22
+1993	Iran
+Iraq	1
+2	World Cup qualifier
+in Qatar	-18
++18	1558
+1630	-3
++4	59
+41
+October 25
+1993	Iran
+North Korea	2
+1	World Cup qualifier
+in Qatar	+23
+-23	1581
+1586	+4
+-5	55
+52
+October 28
+1993	Saudi Arabia
+Iran	4
+3	World Cup qualifier
+in Qatar	+15
+-15	1686
+1566	+1
+-1	30
+55
+October 03
+1994	Bahrain
+Iran	0
+0	Asian Games
+in Japan	+8
+-8	1434
+1558	+7
+-1	90
+55
+October 05
+1994	Iran
+Turkmenistan	1
+1	Asian Games
+in Japan	-7
++7	1551
+1440	-3
++5	58
+87
+October 07
+1994	China
+Iran	1
+0	Asian Games
+in Japan	+20
+-20	1574
+1531	+4
+-7	52
+65
+October 09
+1994	Iran
+Yemen	4
+0	Asian Games
+in Japan	+9
+-9	1540
+1169	+3
+-1	62
+159
+April 26
+1996	Turkmenistan
+Iran	1
+1	Friendly
+in Turkmenistan	+1
+-1	1414
+1539	+1
+0	100
+64
+April 28
+1996	Turkmenistan
+Iran	1
+0	Friendly
+in Turkmenistan	+11
+-11	1425
+1528	+3
++1	97
+63
+May 17
+1996	Iran
+Qatar	2
+0	Friendly
+in Iran	+7
+-7	1535
+1424	0
+-3	63
+96
+May 27
+1996	Kuwait
+Iran	2
+2	Friendly
+in Kuwait	-2
++2	1501
+1537	+1
+-1	72
+64
+May 30
+1996	Kuwait
+Iran	1
+2	Friendly
+in Kuwait	-12
++12	1489
+1549	-3
++4	76
+60
+June 01
+1996	Qatar
+Iran	0
+1	Friendly
+in Qatar	-9
++9	1411
+1558	-4
++3	101
+57
+June 10
+1996	Iran
+Nepal	8
+0	Asian Cup qualifier
+in Iran	+1
+-1	1559
+932	0
+0	57
+197
+June 12
+1996	Iran
+Sri Lanka	7
+0	Asian Cup qualifier
+in Iran	+2
+-2	1561
+964	+1
+0	56
+193
+June 14
+1996	Iran
+Oman	2
+0	Asian Cup qualifier
+in Iran	+8
+-8	1569
+1318	+1
+-1	55
+126
+June 17
+1996	Iran
+Sri Lanka	4
+0	Asian Cup qualifier
+in Oman	+3
+-3	1572
+987	+1
+0	54
+188
+June 19
+1996	Iran
+Nepal	4
+0	Asian Cup qualifier
+in Oman	+1
+-1	1573
+894	0
+0	54
+202
+June 21
+1996	Oman
+Iran	1
+2	Asian Cup qualifier
+in Oman	-12
++12	1316
+1585	-3
++4	128
+50
+October 04
+1996	Kuwait
+Iran	0
+1	Friendly
+in Kuwait	-11
++11	1496
+1596	-2
++3	77
+49
+November 13
+1996	Lebanon
+Iran	0
+0	Friendly
+in Lebanon	+4
+-4	1364
+1592	0
+0	117
+52
+November 25
+1996	Iran
+Turkmenistan	0
+1	Friendly
+in Iran	-17
++17	1575
+1386	-4
++10	54
+106
+December 05
+1996	Iraq
+Iran	2
+1	Asian Cup
+in United Arab Emirates	+20
+-20	1664
+1555	+2
+-3	35
+57
+December 08
+1996	Iran
+Thailand	3
+1	Asian Cup
+in United Arab Emirates	+28
+-28	1583
+1435	+4
+-7	54
+94
+December 11
+1996	Iran
+Saudi Arabia	3
+0	Asian Cup
+in United Arab Emirates	+53
+-53	1636
+1601	+14
+-14	39
+50
+December 16
+1996	Iran
+South Korea	6
+2	Asian Cup
+in United Arab Emirates	+44
+-44	1680
+1573	+5
+-10	34
+56
+December 18
+1996	Saudi Arabia
+Iran	0
+0	Asian Cup
+in United Arab Emirates	+4
+-4	1625
+1676	+2
+0	42
+34
+December 21
+1996	Iran
+Kuwait	1
+1	Asian Cup
+in United Arab Emirates	-5
++5	1671
+1610	0
++3	34
+48
+April 11
+1997	Kuwait
+Iran	0
+2	Friendly
+in Kuwait	-17
++17	1603
+1688	-1
++5	49
+30
+April 21
+1997	Iran
+Kenya	3
+0	Friendly
+in Iran	+4
+-4	1692
+1420	+1
+0	29
+96
+April 27
+1997	China
+Iran	0
+0	Friendly
+in China	+2
+-2	1525
+1690	+2
+-1	66
+31
+June 02
+1997	Iran
+Maldives	17
+0	World Cup qualifier
+in Syria	+1
+-1	1691
+831	0
+0	29
+208
+June 04
+1997	Iran
+Kyrgyzstan	7
+0	World Cup qualifier
+in Syria	+5
+-5	1696
+1183	0
+-2	29
+160
+June 06
+1997	Syria
+Iran	0
+1	World Cup qualifier
+in Syria	-13
++13	1455
+1709	-4
++3	86
+26
+June 09
+1997	Iran
+Kyrgyzstan	3
+1	World Cup qualifier
+in Iran	+2
+-2	1711
+1189	+2
+0	27
+156
+June 11
+1997	Iran
+Maldives	9
+0	World Cup qualifier
+in Iran	0
+0	1711
+818	0
+0	27
+209
+June 13
+1997	Iran
+Syria	2
+2	World Cup qualifier
+in Iran	-16
++16	1695
+1441	-2
++7	29
+90
+August 17
+1997	Canada
+Iran	0
+1	Friendly
+in Canada	-10
++10	1588
+1705	-2
++2	53
+29
+September 01
+1997	United Arab Emirates
+Iran	3
+1	Friendly
+in United Arab Emirates	+15
+-15	1624
+1690	+1
+-2	49
+31
+September 13
+1997	China
+Iran	2
+4	World Cup qualifier
+in China	-31
++31	1565
+1721	-7
++4	59
+28
+September 19
+1997	Iran
+Saudi Arabia	1
+1	World Cup qualifier
+in Iran	-9
++9	1712
+1655	-1
++1	29
+41
+September 26
+1997	Kuwait
+Iran	1
+1	World Cup qualifier
+in Kuwait	-2
++2	1652
+1714	0
++1	42
+28
+October 03
+1997	Iran
+Qatar	3
+0	World Cup qualifier
+in Iran	+9
+-9	1723
+1463	0
+-4	28
+82
+October 17
+1997	Iran
+China	4
+1	World Cup qualifier
+in Iran	+16
+-16	1739
+1598	+4
+-1	25
+53
+October 24
+1997	Saudi Arabia
+Iran	1
+0	World Cup qualifier
+in Saudi Arabia	+20
+-20	1651
+1719	+2
+-3	43
+29
+October 31
+1997	Iran
+Kuwait	0
+0	World Cup qualifier
+in Iran	-11
++11	1708
+1619	-1
++1	30
+50
+November 07
+1997	Qatar
+Iran	2
+0	World Cup qualifier
+in Qatar	+37
+-37	1558
+1671	+10
+-9	59
+38
+November 16
+1997	Japan
+Iran	3
+2	World Cup qualifier
+in Malaysia	+18
+-18	1732
+1653	+3
+-5	27
+44
+November 22
+1997	Iran
+Australia	1
+1	World Cup qualifier
+in Iran	+5
+-5	1658
+1832	+2
+-1	42
+14
+November 29
+1997	Australia
+Iran	2
+2	World Cup qualifier
+in Australia	-13
++13	1819
+1671	-2
++3	16
+39
+January 28
+1998	Nigeria
+Iran	1
+0	Carlsberg Cup
+in Hong Kong	+15
+-15	1690
+1656	+1
+-2	34
+39
+January 31
+1998	Iran
+Chile	1
+1	Carlsberg Cup
+in Hong Kong	+3
+-3	1659
+1724	0
+0	39
+29
+April 14
+1998	Iran
+Kuwait	1
+1	Friendly
+in Iran	-4
++4	1655
+1606	-1
+0	40
+55
+April 20
+1998	Iran
+Hungary	0
+2	Friendly tournament
+in Iran	-34
++34	1621
+1602	-10
++1	50
+56
+April 22
+1998	Iran
+Jamaica	1
+0	Friendly tournament
+in Iran	+11
+-11	1632
+1624	+7
+-5	43
+49
+June 03
+1998	Croatia
+Iran	2
+0	Friendly
+in Croatia	+5
+-5	1813
+1627	0
+-2	17
+45
+June 14
+1998	Yugoslavia
+Iran	1
+0	World Cup
+in France	+9
+-9	1943
+1618	+1
+-6	5
+52
+June 21
+1998	Iran
+United States	2
+1	World Cup
+in France	+38
+-38	1656
+1678	+10
+-4	40
+34
+June 25
+1998	Germany
+Iran	2
+0	World Cup
+in France	+9
+-9	2037
+1647	0
+-1	2
+41
+October 13
+1998	Kuwait
+Iran	3
+0	Friendly
+in Kuwait	+13
+-13	1652
+1634	+3
+-5	44
+50
+December 01
+1998	Iran
+Kazakhstan	2
+0	Asian Games
+in Thailand	+16
+-16	1650
+1440	+3
+-7	43
+95
+December 05
+1998	Iran
+Laos	6
+1	Asian Games
+in Thailand	+2
+-2	1652
+1003	+1
+-2	42
+189
+December 08
+1998	Oman
+Iran	4
+2	Asian Games
+in Thailand	+51
+-51	1408
+1601	+14
+-12	102
+54
+December 10
+1998	Iran
+Tajikistan	5
+0	Asian Games
+in Thailand	+26
+-26	1627
+1452	+3
+-10	51
+89
+December 12
+1998	Iran
+China	2
+1	Asian Games
+in Thailand	+23
+-23	1650
+1648	+8
+-6	43
+44
+December 14
+1998	Iran
+Uzbekistan	4
+0	Asian Games
+in Thailand	+26
+-26	1676
+1515	+6
+-3	37
+68
+December 16
+1998	Iran
+China	1
+0	Asian Games
+in Thailand	+19
+-19	1695
+1645	+5
+-5	32
+46
+December 19
+1998	Iran
+Kuwait	2
+0	Asian Games
+in Thailand	+31
+-31	1726
+1678	+6
+-8	26
+36
+February 15
+1999	Kuwait
+Iran	1
+2	Friendly tournament
+in Kuwait	-17
++17	1658
+1743	-3
++4	42
+22
+March 14
+1999	China
+Iran	1
+0	Friendly
+in China	+9
+-9	1677
+1734	+3
+0	38
+22
+June 02
+1999	Ecuador
+Iran	1
+1	Canada Cup
+in Canada	+1
+-1	1703
+1733	0
+0	29
+22
+June 04
+1999	Canada
+Iran	0
+1	Canada Cup
+in Canada	-11
++11	1521
+1744	-3
++1	67
+21
+June 06
+1999	Iran
+Guatemala	2
+2	Canada Cup
+in Canada	-9
++9	1735
+1521	-1
++5	23
+68
+September 08
+1999	Japan
+Iran	1
+1	Friendly
+in Japan	+1
+-1	1599
+1734	0
+0	52
+26
+October 10
+1999	Denmark
+Iran	0
+0	Friendly
+in Denmark	-5
++5	1827
+1739	0
++1	17
+24
+January 09
+2000	Mexico
+Iran	2
+1	Friendly
+in the United States	+6
+-6	1887
+1733	0
+0	9
+25
+January 16
+2000	United States
+Iran	1
+1	Friendly
+in the United States	-4
++4	1777
+1737	-1
+0	20
+25
+February 04
+2000	Kuwait
+Iran	1
+1	Friendly
+in Kuwait	-1
++1	1662
+1738	0
+0	43
+24
+March 22
+2000	Cyprus
+Iran	0
+0	Friendly
+in Cyprus	+4
+-4	1509
+1734	0
+-1	69
+25
+March 31
+2000	Iran
+Maldives	8
+0	Asian Cup qualifier
+in Syria	+1
+-1	1735
+926	+1
+0	24
+194
+April 02
+2000	Syria
+Iran	0
+1	Asian Cup qualifier
+in Syria	-10
++10	1437
+1745	0
++2	90
+22
+April 04
+2000	Bahrain
+Iran	1
+0	Asian Cup qualifier
+in Syria	+37
+-37	1372
+1708	+8
+-8	115
+30
+April 09
+2000	Iran
+Bahrain	3
+0	Asian Cup qualifier
+in Iran	+5
+-5	1713
+1367	0
+-1	30
+116
+April 11
+2000	Iran
+Syria	1
+1	Asian Cup qualifier
+in Iran	-16
++16	1697
+1457	0
++4	30
+88
+April 13
+2000	Iran
+Maldives	3
+0	Asian Cup qualifier
+in Iran	0
+0	1697
+913	0
+0	30
+199
+May 24
+2000	Iran
+Kazakhstan	3
+0	West Asian Championship
+in Jordan	+14
+-14	1711
+1446	+1
+-4	29
+90
+May 26
+2000	Palestine
+Iran	1
+1	West Asian Championship
+in Jordan	+18
+-18	1253
+1693	+1
+-3	144
+32
+May 28
+2000	Iran
+Syria	1
+0	West Asian Championship
+in Jordan	+11
+-11	1704
+1503	+2
+-4	30
+72
+May 31
+2000	Jordan
+Iran	0
+1	West Asian Championship
+in Jordan	-12
++12	1436
+1716	-1
++3	90
+28
+June 02
+2000	Iran
+Syria	1
+0	West Asian Championship
+in Jordan	+9
+-9	1725
+1501	+1
+-2	27
+72
+June 07
+2000	Iran
+Egypt	1
+1	Friendly tournament
+in Iran	-7
++7	1718
+1667	-4
++1	30
+42
+June 09
+2000	Iran
+Macedonia	3
+1	Friendly tournament
+in Iran	+6
+-6	1724
+1487	+4
+-3	26
+79
+August 16
+2000	Iran
+Georgia	2
+1	Friendly
+in Iran	+2
+-2	1726
+1474	0
+-1	28
+83
+September 01
+2000	Austria
+Iran	5
+1	Friendly
+in Austria	+17
+-17	1677
+1709	+1
+-4	41
+32
+September 27
+2000	Qatar
+Iran	1
+2	Friendly
+in Qatar	-8
++8	1530
+1717	-2
++2	66
+31
+October 12
+2000	Lebanon
+Iran	0
+4	Asian Cup
+in Lebanon	-20
++20	1369
+1737	-7
++5	111
+25
+October 15
+2000	Iran
+Thailand	1
+1	Asian Cup
+in Lebanon	-15
++15	1722
+1505	-4
++5	29
+73
+October 18
+2000	Iran
+Iraq	1
+0	Asian Cup
+in Lebanon	+21
+-21	1743
+1640	+6
+-3	23
+48
+October 23
+2000	South Korea
+Iran	2
+1	Asian Cup
+in Lebanon	+27
+-27	1747
+1716	+7
+-7	22
+30
+November 24
+2000	Iran
+Guam	19
+0	World Cup qualifier
+in Iran	0
+0	1716
+681	0
+0	31
+219
+November 28
+2000	Iran
+Tajikistan	2
+0	World Cup qualifier
+in Iran	+7
+-7	1723
+1445	+3
+0	28
+88
+January 19
+2001	Iran
+China	4
+0	Civilizations Cup
+in Iran	+16
+-16	1739
+1652	+2
+-3	26
+46
+April 24
+2001	South Korea
+Iran	1
+0	Friendly tournament
+in Egypt	+15
+-15	1765
+1724	+3
+-3	23
+31
+April 26
+2001	Canada
+Iran	1
+0	Friendly tournament
+in Egypt	+20
+-20	1613
+1704	+2
+-4	55
+35
+July 22
+2001	Bosnia and Herzegovina
+Iran	2
+2	Friendly
+in Bosnia and Herzegovina	+2
+-2	1544
+1702	0
+0	65
+31
+August 01
+2001	Qatar
+Iran	2
+1	Friendly
+in Qatar	+11
+-11	1591
+1691	+2
+-2	56
+36
+August 08
+2001	Iran
+Oman	5
+2	Friendly tournament
+in Iran	+5
+-5	1696
+1383	+2
+-2	33
+107
+August 10
+2001	Iran
+Bosnia and Herzegovina	4
+0	Friendly tournament
+in Iran	+11
+-11	1707
+1533	+2
+0	31
+65
+August 15
+2001	Slovakia
+Iran	3
+4	Friendly
+in Slovakia	-10
++10	1596
+1717	-1
++1	56
+29
+August 24
+2001	Iran
+Saudi Arabia	2
+0	World Cup qualifier
+in Iran	+18
+-18	1735
+1656	+2
+-1	27
+43
+September 01
+2001	Thailand
+Iran	0
+0	World Cup qualifier
+in Thailand	+7
+-7	1506
+1728	0
+-1	75
+28
+September 07
+2001	Iraq
+Iran	1
+2	World Cup qualifier
+in Iraq	-16
++16	1534
+1744	-3
++1	64
+26
+September 14
+2001	Iran
+Bahrain	0
+0	World Cup qualifier
+in Iran	-16
++16	1728
+1496	-1
++2	27
+80
+September 28
+2001	Saudi Arabia
+Iran	2
+2	World Cup qualifier
+in Saudi Arabia	-4
++4	1697
+1732	-2
+0	37
+27
+October 05
+2001	Iran
+Thailand	1
+0	World Cup qualifier
+in Iran	+5
+-5	1737
+1481	0
+-1	27
+82
+October 12
+2001	Iran
+Iraq	2
+1	World Cup qualifier
+in Iran	+6
+-6	1743
+1534	0
+-1	25
+65
+October 21
+2001	Bahrain
+Iran	3
+1	World Cup qualifier
+in Bahrain	+44
+-44	1507
+1699	+13
+-13	73
+38
+October 25
+2001	Iran
+United Arab Emirates	1
+0	World Cup qualifier
+in Iran	+6
+-6	1705
+1485	+2
+-2	36
+81
+October 31
+2001	United Arab Emirates
+Iran	0
+3	World Cup qualifier
+in United Arab Emirates	-23
++23	1462
+1728	-5
++8	86
+28
+November 10
+2001	Ireland
+Iran	2
+0	World Cup qualifier
+in Ireland	+14
+-14	1849
+1714	+2
+-4	10
+33
+November 15
+2001	Iran
+Ireland	1
+0	World Cup qualifier
+in Iran	+22
+-22	1736
+1827	+4
+-3	27
+14
+February 06
+2002	Iran
+Slovakia	2
+3	Friendly
+in Iran	-15
++15	1721
+1638	-1
++3	29
+45
+March 01
+2002	Iran
+Venezuela	1
+0	Friendly tournament
+in Morocco	+8
+-8	1729
+1539	+2
+0	29
+61
+May 30
+2002	Kuwait
+Iran	1
+3	Friendly
+in Kuwait	-11
++11	1522
+1740	-4
++2	68
+27
+August 21
+2002	Ukraine
+Iran	0
+1	Friendly
+in Ukraine	-10
++10	1645
+1750	-2
++1	40
+28
+August 30
+2002	Jordan
+Iran	1
+0	West Asian Championship
+in Syria	+36
+-36	1402
+1714	+14
+-7	101
+35
+September 03
+2002	Iran
+Lebanon	2
+0	West Asian Championship
+in Syria	+7
+-7	1721
+1367	+1
+-6	34
+117
+September 05
+2002	Iraq
+Iran	0
+0	West Asian Championship
+in Syria	+7
+-7	1605
+1714	+1
+-1	53
+35
+September 07
+2002	Syria
+Iran	2
+2	West Asian Championship
+in Syria	+11
+-11	1405
+1703	+2
+-1	104
+36
+September 19
+2002	Iran
+Paraguay	1
+1	Friendly tournament
+in Iran	-3
++3	1700
+1730	0
++1	36
+31
+February 04
+2003	Uruguay
+Iran	1
+1	Carlsberg Cup
+in Hong Kong	-3
++3	1758
+1703	0
+0	26
+35
+August 13
+2003	Iran
+Iraq	0
+1	Friendly tournament
+in Iran	-23
++23	1680
+1628	-2
++7	36
+47
+August 15
+2003	Iran
+Cameroon	4
+1	Friendly tournament
+in Iran	+28
+-28	1708
+1779	+2
+-1	34
+20
+August 20
+2003	Belarus
+Iran	2
+1	Friendly
+in Belarus	+13
+-13	1504
+1695	+5
+-1	73
+35
+September 05
+2003	Iran
+Jordan	4
+1	Asian Cup qualifier
+in Iran	+12
+-12	1707
+1510	+1
+-2	34
+72
+September 26
+2003	Jordan
+Iran	3
+2	Asian Cup qualifier
+in Jordan	+26
+-26	1530
+1681	+4
+-3	68
+36
+October 12
+2003	Iran
+New Zealand	3
+0	AFC-OFC Challenge Cup
+in Iran	+11
+-11	1692
+1533	0
+-4	37
+68
+October 27
+2003	North Korea
+Iran	1
+3	Asian Cup qualifier
+in North Korea	-21
++21	1459
+1713	-4
++6	86
+30
+November 19
+2003	Lebanon
+Iran	0
+3	Asian Cup qualifier
+in Lebanon	-14
++14	1364
+1727	-7
++1	115
+28
+November 28
+2003	Iran
+Lebanon	1
+0	Asian Cup qualifier
+in Iran	+3
+-3	1730
+1361	0
+0	28
+115
+December 02
+2003	Kuwait
+Iran	3
+1	Friendly
+in Kuwait	+19
+-19	1554
+1711	+1
+-2	65
+30
+February 18
+2004	Iran
+Qatar	3
+1	World Cup qualifier
+in Iran	+10
+-10	1721
+1518	+3
+-4	29
+73
+March 31
+2004	Laos
+Iran	0
+7	World Cup qualifier
+in Laos	-1
++1	905
+1722	0
++1	196
+29
+June 09
+2004	Iran
+Jordan	0
+1	World Cup qualifier
+in Iran	-32
++32	1690
+1611	-5
++6	35
+53
+June 17
+2004	Iran
+Lebanon	4
+0	West Asian Championship
+in Iran	+7
+-7	1697
+1388	+1
+0	33
+109
+June 21
+2004	Iran
+Syria	7
+1	West Asian Championship
+in Iran	+9
+-9	1706
+1427	0
+-2	31
+99
+June 23
+2004	Iran
+Iraq	2
+1	West Asian Championship
+in Iran	+7
+-7	1713
+1543	+2
+-3	29
+67
+June 25
+2004	Iran
+Syria	4
+1	West Asian Championship
+in Iran	+7
+-7	1720
+1430	+1
+-2	28
+98
+July 20
+2004	Iran
+Thailand	3
+0	Asian Cup
+in China	+12
+-12	1732
+1393	0
+-3	30
+107
+July 24
+2004	Oman
+Iran	2
+2	Asian Cup
+in China	+12
+-12	1561
+1720	+2
+0	62
+30
+July 28
+2004	Japan
+Iran	0
+0	Asian Cup
+in China	-7
++7	1815
+1727	-2
+0	17
+30
+July 31
+2004	Iran
+South Korea	4
+3	Asian Cup
+in China	+23
+-23	1750
+1683	+1
+-2	29
+34
+August 03
+2004	China
+Iran	1
+1	Asian Cup
+in China	+1
+-1	1640
+1749	0
+0	47
+29
+August 06
+2004	Iran
+Bahrain	4
+2	Asian Cup
+in China	+20
+-20	1769
+1551	+5
+-1	24
+64
+September 08
+2004	Jordan
+Iran	0
+2	World Cup qualifier
+in Jordan	-27
++27	1611
+1796	-9
++1	54
+23
+October 09
+2004	Iran
+Germany	0
+2	Friendly
+in Iran	-18
++18	1778
+1842	-1
++2	24
+13
+October 13
+2004	Qatar
+Iran	2
+3	World Cup qualifier
+in Qatar	-9
++9	1444
+1787	-1
++1	92
+23
+November 17
+2004	Iran
+Laos	7
+0	World Cup qualifier
+in Iran	0
+0	1787
+898	0
+0	22
+197
+December 18
+2004	Iran
+Panama	1
+0	Friendly
+in Iran	+2
+-2	1789
+1493	+1
+-2	21
+82
+February 02
+2005	Iran
+Bosnia and Herzegovina	2
+1	Friendly
+in Iran	+3
+-3	1792
+1602	0
+-1	21
+54
+February 09
+2005	Bahrain
+Iran	0
+0	World Cup qualifier
+in Bahrain	+6
+-6	1583
+1786	-1
+0	62
+21
+March 25
+2005	Iran
+Japan	2
+1	World Cup qualifier
+in Iran	+17
+-17	1803
+1818	+1
+-1	20
+16
+March 30
+2005	North Korea
+Iran	0
+2	World Cup qualifier
+in North Korea	-12
++12	1459
+1815	-3
++3	88
+17
+May 29
+2005	Iran
+Azerbaijan	2
+1	Friendly
+in Iran	+1
+-1	1816
+1334	0
+0	15
+122
+June 03
+2005	Iran
+North Korea	1
+0	World Cup qualifier
+in Iran	+3
+-3	1819
+1456	0
+-1	15
+88
+June 08
+2005	Iran
+Bahrain	1
+0	World Cup qualifier
+in Iran	+5
+-5	1824
+1580	0
+-3	17
+62
+August 17
+2005	Japan
+Iran	2
+1	World Cup qualifier
+in Japan	+16
+-16	1805
+1808	+2
+-1	18
+17
+August 24
+2005	Iran
+Libya	4
+0	Friendly
+in Iran	+3
+-3	1811
+1504	0
+-1	17
+80
+October 12
+2005	South Korea
+Iran	2
+0	Friendly
+in South Korea	+18
+-18	1650
+1793	+3
+-5	47
+22
+November 13
+2005	Iran
+Togo	2
+0	Friendly tournament
+in Iran	+7
+-7	1800
+1585	+2
+0	19
+57
+February 22
+2006	Iran
+Taiwan	4
+0	Asian Cup qualifier
+in Iran	0
+0	1800
+980	0
+0	19
+189
+March 01
+2006	Iran
+Costa Rica	3
+2	Friendly
+in Iran	+5
+-5	1805
+1716	0
+0	19
+35
+May 28
+2006	Croatia
+Iran	2
+2	Friendly
+in Croatia	-3
++3	1825
+1808	0
+0	13
+18
+May 31
+2006	Iran
+Bosnia and Herzegovina	5
+2	Friendly
+in Iran	+5
+-5	1813
+1602	+1
+0	17
+53
+June 11
+2006	Mexico
+Iran	3
+1	World Cup
+in Germany	+45
+-45	1859
+1768	+3
+-9	12
+25
+June 17
+2006	Portugal
+Iran	2
+0	World Cup
+in Germany	+29
+-29	1925
+1739	+3
+-2	7
+28
+June 21
+2006	Angola
+Iran	1
+1	World Cup
+in Germany	+13
+-13	1590
+1726	+1
+-3	56
+34
+August 08
+2006	Iran
+United Arab Emirates	1
+0	Friendly
+in Iran	+3
+-3	1729
+1487	0
+0	32
+79
+August 16
+2006	Iran
+Syria	1
+1	Asian Cup qualifier
+in Iran	-16
++16	1713
+1445	-3
++1	35
+95
+September 02
+2006	South Korea
+Iran	1
+1	Asian Cup qualifier
+in South Korea	-5
++5	1692
+1718	+1
++1	38
+34
+September 06
+2006	Syria
+Iran	0
+2	Asian Cup qualifier
+in Syria	-16
++16	1421
+1734	-2
++2	96
+31
+October 04
+2006	Iran
+Iraq	2
+0	Friendly tournament
+in Jordan	+11
+-11	1745
+1519	+2
+-3	29
+75
+October 06
+2006	Jordan
+Iran	0
+0	Friendly tournament
+in Jordan	+6
+-6	1503
+1739	+1
+-1	77
+30
+October 11
+2006	Taiwan
+Iran	0
+2	Asian Cup qualifier
+in Taiwan	-1
++1	944
+1740	0
+0	191
+29
+November 15
+2006	Iran
+South Korea	2
+0	Asian Cup qualifier
+in Iran	+16
+-16	1756
+1644	+4
+-2	25
+48
+January 12
+2007	United Arab Emirates
+Iran	0
+2	Friendly
+in United Arab Emirates	-8
++8	1466
+1764	-10
+0	92
+25
+February 07
+2007	Iran
+Belarus	2
+2	Friendly
+in Iran	-7
++7	1757
+1535	-1
++3	26
+69
+March 24
+2007	Qatar
+Iran	0
+1	Friendly
+in Qatar	-6
++6	1500
+1763	-2
++3	83
+23
+June 02
+2007	Mexico
+Iran	4
+0	Friendly
+in Mexico	+11
+-11	1822
+1752	+1
+-2	15
+27
+June 16
+2007	Iran
+Iraq	0
+0	West Asian Championship
+in Jordan	-11
++11	1741
+1557	-2
++4	29
+64
+June 20
+2007	Iran
+Palestine	2
+0	West Asian Championship
+in Jordan	+3
+-3	1744
+1233	+2
+-2	27
+148
+June 22
+2007	Jordan
+Iran	0
+1	West Asian Championship
+in Jordan	-13
++13	1499
+1757	-3
++1	79
+26
+June 24
+2007	Iran
+Iraq	2
+1	West Asian Championship
+in Jordan	+11
+-11	1768
+1579	+2
+-3	24
+60
+July 02
+2007	Iran
+Jamaica	8
+1	Friendly
+in Iran	+6
+-6	1774
+1534	+1
+-2	23
+71
+July 11
+2007	Iran
+Uzbekistan	2
+1	Asian Cup
+in Malaysia	+10
+-10	1784
+1523	+3
+-1	19
+72
+July 15
+2007	China
+Iran	2
+2	Asian Cup
+in Malaysia	+13
+-13	1596
+1771	+2
+-4	57
+23
+July 18
+2007	Malaysia
+Iran	0
+2	Asian Cup
+in Malaysia	-4
++4	1155
+1775	0
++1	168
+22
+July 22
+2007	Iran
+South Korea	0
+0	Asian Cup
+in Malaysia	-10
++10	1765
+1635	-2
++3	24
+48
+January 10
+2008	Qatar
+Iran	0
+0	Friendly
+in Qatar	+5
+-5	1467
+1760	0
+0	88
+24
+January 30
+2008	Iran
+Costa Rica	0
+0	Friendly
+in Iran	-6
++6	1754
+1617	-4
++3	29
+51
+February 06
+2008	Iran
+Syria	0
+0	World Cup qualifier
+in Iran	-15
++15	1739
+1515	-1
++5	30
+75
+March 21
+2008	Bahrain
+Iran	1
+0	Friendly
+in Bahrain	+14
+-14	1494
+1725	+5
+-2	80
+33
+March 26
+2008	Kuwait
+Iran	2
+2	World Cup qualifier
+in Kuwait	+11
+-11	1417
+1714	+1
+-1	99
+34
+May 25
+2008	Iran
+Zambia	3
+2	Friendly
+in Iran	+4
+-4	1718
+1566	0
+-1	35
+60
+June 02
+2008	Iran
+United Arab Emirates	0
+0	World Cup qualifier
+in Iran	-15
++15	1703
+1475	-2
++4	39
+88
+June 07
+2008	United Arab Emirates
+Iran	0
+1	World Cup qualifier
+in United Arab Emirates	-13
++13	1462
+1716	-5
++3	93
+36
+June 14
+2008	Syria
+Iran	0
+2	World Cup qualifier
+in Syria	-20
++20	1475
+1736	-4
++7	88
+28
+June 22
+2008	Iran
+Kuwait	2
+0	World Cup qualifier
+in Iran	+5
+-5	1741
+1412	0
+-2	29
+101
+August 07
+2008	Iran
+Palestine	3
+0	West Asian Championship
+in Iran	+2
+-2	1743
+1200	0
++1	29
+156
+August 11
+2008	Iran
+Qatar	6
+1	West Asian Championship
+in Iran	+11
+-11	1754
+1516	+3
+-2	26
+77
+August 13
+2008	Iran
+Syria	2
+0	West Asian Championship
+in Iran	+8
+-8	1762
+1524	+2
+-5	24
+77
+August 15
+2008	Iran
+Jordan	2
+1	West Asian Championship
+in Iran	+6
+-6	1768
+1538	+1
+0	23
+67
+August 27
+2008	Iran
+Azerbaijan	1
+0	Friendly
+in Iran	+1
+-1	1769
+1341	0
+-1	22
+122
+September 06
+2008	Saudi Arabia
+Iran	1
+1	World Cup qualifier
+in Saudi Arabia	-1
++1	1683
+1770	-2
++1	42
+21
+October 15
+2008	Iran
+North Korea	2
+1	World Cup qualifier
+in Iran	+6
+-6	1776
+1547	+1
++1	21
+66
+November 09
+2008	Qatar
+Iran	0
+1	Friendly
+in Qatar	-6
++6	1503
+1782	-3
++1	84
+20
+November 19
+2008	United Arab Emirates
+Iran	1
+1	World Cup qualifier
+in United Arab Emirates	+14
+-14	1410
+1768	+8
+-1	102
+21
+December 17
+2008	Ecuador
+Iran	1
+0	Friendly tournament
+in Oman	+18
+-18	1707
+1750	+2
+-5	39
+26
+December 19
+2008	Iran
+China	2
+0	Friendly tournament
+in Oman	+9
+-9	1759
+1508	+3
+-4	23
+80
+January 09
+2009	Iran
+China	3
+1	Friendly
+in Iran	+4
+-4	1763
+1517	+1
+-3	22
+76
+January 14
+2009	Iran
+Singapore	6
+0	Asian Cup qualifier
+in Iran	+5
+-5	1768
+1359	+1
+0	21
+120
+January 28
+2009	Thailand
+Iran	0
+0	Asian Cup qualifier
+in Thailand	+12
+-12	1443
+1756	+6
+-3	94
+23
+February 11
+2009	Iran
+South Korea	1
+1	World Cup qualifier
+in Iran	-8
++8	1748
+1708	-2
++1	27
+39
+March 14
+2009	Iran
+Kenya	1
+0	Friendly
+in Iran	+2
+-2	1750
+1418	+1
+0	26
+100
+March 23
+2009	Kuwait
+Iran	0
+1	Friendly
+in Kuwait	-5
++5	1445
+1755	0
++3	93
+23
+March 28
+2009	Iran
+Saudi Arabia	1
+2	World Cup qualifier
+in Iran	-31
++31	1724
+1673	-9
++1	32
+45
+April 01
+2009	Iran
+Senegal	1
+1	Friendly
+in Iran	-7
++7	1717
+1517	-5
++2	35
+78
+June 01
+2009	China
+Iran	1
+0	Friendly
+in China	+13
+-13	1538
+1704	+4
+-3	72
+38
+June 06
+2009	North Korea
+Iran	0
+0	World Cup qualifier
+in North Korea	+4
+-4	1530
+1700	0
+-1	74
+39
+June 10
+2009	Iran
+United Arab Emirates	1
+0	World Cup qualifier
+in Iran	+3
+-3	1703
+1380	0
+-2	40
+114
+June 17
+2009	South Korea
+Iran	1
+1	World Cup qualifier
+in South Korea	-6
++6	1713
+1709	-1
++2	35
+37
+July 05
+2009	Botswana
+Iran	1
+1	Friendly
+in Botswana	+7
+-7	1294
+1702	+1
+-2	133
+40
+August 12
+2009	Bosnia and Herzegovina
+Iran	2
+3	Friendly
+in Bosnia and Herzegovina	-10
++10	1604
+1712	-4
++2	54
+38
+August 31
+2009	Bahrain
+Iran	4
+2	Friendly tournament
+in Bahrain	+23
+-23	1622
+1689	+5
+-5	50
+43
+September 05
+2009	Uzbekistan
+Iran	0
+0	Friendly
+in Uzbekistan	+2
+-2	1521
+1687	+1
++1	77
+42
+November 10
+2009	Iran
+Iceland	1
+0	Friendly
+in Iran	+2
+-2	1689
+1424	+1
+-1	42
+98
+November 14
+2009	Iran
+Jordan	1
+0	Asian Cup qualifier
+in Iran	+4
+-4	1693
+1412	+1
+-2	41
+104
+November 18
+2009	Iran
+Macedonia	1
+1	Friendly
+in Iran	-6
++6	1687
+1549	-1
++2	41
+69
+November 22
+2009	Jordan
+Iran	1
+0	Asian Cup qualifier
+in Jordan	+29
+-29	1441
+1658	+7
+-3	97
+44
+December 28
+2009	Qatar
+Iran	3
+2	Friendly tournament
+in Qatar	+17
+-17	1531
+1641	+4
+-2	78
+46
+December 30
+2009	Mali
+Iran	2
+1	Friendly tournament
+in Qatar	+19
+-19	1573
+1622	+7
+-2	60
+48
+January 02
+2010	Iran
+North Korea	1
+0	Friendly tournament
+in Qatar	+12
+-12	1634
+1535	0
+-8	48
+77
+January 06
+2010	Singapore
+Iran	1
+3	Asian Cup qualifier
+in Singapore	-18
++18	1373
+1652	-5
++4	114
+44
+March 03
+2010	Iran
+Thailand	1
+0	Asian Cup qualifier
+in Iran	+6
+-6	1658
+1445	0
+-1	44
+95
+August 11
+2010	Armenia
+Iran	1
+3	Friendly
+in Armenia	-7
++7	1355
+1665	-1
++1	120
+43
+September 03
+2010	China
+Iran	0
+2	Friendly
+in China	-18
++18	1610
+1683	-3
++6	52
+37
+September 07
+2010	South Korea
+Iran	0
+1	Friendly
+in South Korea	-14
++14	1721
+1697	-1
++2	30
+35
+September 24
+2010	Iran
+Bahrain	3
+0	West Asian Championship
+in Jordan	+18
+-18	1715
+1497	+4
+-8	31
+87
+September 28
+2010	Iran
+Oman	2
+2	West Asian Championship
+in Jordan	-10
++10	1705
+1527	-1
++1	32
+78
+October 01
+2010	Iran
+Iraq	2
+1	West Asian Championship
+in Jordan	+12
+-12	1717
+1539	+1
+-2	31
+74
+October 03
+2010	Kuwait
+Iran	2
+1	West Asian Championship
+in Jordan	+30
+-30	1549
+1687	+7
+-7	72
+38
+October 07
+2010	Brazil
+Iran	3
+0	Friendly
+in United Arab Emirates	+3
+-3	2082
+1684	0
+-1	2
+39
+December 28
+2010	Qatar
+Iran	0
+0	Friendly
+in Qatar	+2
+-2	1516
+1682	0
+-1	79
+37
+January 02
+2011	Iran
+Angola	1
+0	Friendly
+in Qatar	+5
+-5	1687
+1474	+2
+-1	35
+92
+January 11
+2011	Iran
+Iraq	2
+1	Asian Cup
+in Qatar	+17
+-17	1704
+1552	+1
+-5	34
+69
+January 15
+2011	Iran
+North Korea	1
+0	Asian Cup
+in Qatar	+13
+-13	1717
+1509	+4
+-5	30
+82
+January 19
+2011	Iran
+United Arab Emirates	3
+0	Asian Cup
+in Qatar	+17
+-17	1734
+1448	+3
+-3	27
+97
+January 22
+2011	South Korea
+Iran	1
+0	Asian Cup
+in Qatar	+25
+-25	1764
+1709	+4
+-6	22
+33
+February 09
+2011	Iran
+Russia	1
+0	Friendly
+in United Arab Emirates	+12
+-12	1721
+1785	+3
+-2	30
+17
+July 17
+2011	Iran
+Madagascar	1
+0	Friendly
+in Iran	+1
+-1	1722
+1213	0
+0	34
+153
+July 23
+2011	Iran
+Maldives	4
+0	World Cup qualifier
+in Iran	+2
+-2	1724
+1150	-1
+0	34
+167
+July 28
+2011	Maldives
+Iran	0
+1	World Cup qualifier
+in Maldives	-2
++2	1148
+1726	0
+0	167
+34
+September 02
+2011	Iran
+Indonesia	3
+0	World Cup qualifier
+in Iran	+4
+-4	1730
+1324	0
+-1	31
+128
+September 06
+2011	Qatar
+Iran	1
+1	World Cup qualifier
+in Qatar	+9
+-9	1481
+1721	+4
+-1	88
+31
+October 05
+2011	Iran
+Palestine	7
+0	Friendly
+in Iran	+1
+-1	1722
+1179	0
+0	31
+162
+October 11
+2011	Iran
+Bahrain	6
+0	World Cup qualifier
+in Iran	+10
+-10	1732
+1471	0
+-3	31
+91
+November 11
+2011	Bahrain
+Iran	1
+1	World Cup qualifier
+in Bahrain	+8
+-8	1494
+1724	0
+-1	86
+32
+November 15
+2011	Indonesia
+Iran	1
+4	World Cup qualifier
+in Indonesia	-8
++8	1267
+1732	+1
++1	141
+31
+February 23
+2012	Iran
+Jordan	2
+2	Friendly
+in United Arab Emirates	-5
++5	1727
+1561	0
++2	31
+67
+February 29
+2012	Iran
+Qatar	2
+2	World Cup qualifier
+in Iran	-15
++15	1712
+1507	-2
++4	33
+84
+April 18
+2012	Iran
+Mauritania	2
+0	Friendly
+in Iran	+1
+-1	1713
+1145	0
+0	32
+166
+May 02
+2012	Iran
+Mozambique	3
+0	Friendly
+in Iran	+2
+-2	1715
+1321	0
+0	32
+127
+May 27
+2012	Albania
+Iran	1
+0	Friendly
+in Turkey	+16
+-16	1473
+1699	+2
+-1	92
+33
+June 03
+2012	Uzbekistan
+Iran	0
+1	World Cup qualifier
+in Uzbekistan	-21
++21	1593
+1720	-5
++2	58
+33
+June 12
+2012	Iran
+Qatar	0
+0	World Cup qualifier
+in Iran	-15
++15	1705
+1498	0
++2	33
+87
+August 15
+2012	Iran
+Tunisia	2
+2	Friendly
+in Hungary	-3
++3	1702
+1606	0
++1	32
+54
+September 05
+2012	Jordan
+Iran	0
+0	Friendly
+in Jordan	+2
+-2	1542
+1700	0
+0	73
+32
+September 11
+2012	Lebanon
+Iran	1
+0	World Cup qualifier
+in Lebanon	+35
+-35	1310
+1665	+9
+-7	134
+41
+October 16
+2012	Iran
+South Korea	1
+0	World Cup qualifier
+in Iran	+21
+-21	1686
+1763	+5
+-3	36
+23
+November 06
+2012	Iran
+Tajikistan	6
+1	Friendly
+in Iran	+2
+-2	1688
+1249	0
+0	36
+148
+November 14
+2012	Iran
+Uzbekistan	0
+1	World Cup qualifier
+in Iran	-29
++29	1659
+1642	-7
++5	43
+47
+December 09
+2012	Iran
+Saudi Arabia	0
+0	West Asian Championship
+in Kuwait	-9
++9	1650
+1509	-1
++1	44
+81
+December 12
+2012	Bahrain
+Iran	0
+0	West Asian Championship
+in Kuwait	+10
+-10	1471
+1640	0
+-3	91
+47
+December 15
+2012	Iran
+Yemen	2
+1	West Asian Championship
+in Kuwait	+4
+-4	1644
+1267	+2
+0	45
+140
+February 06
+2013	Iran
+Lebanon	5
+0	Asian Cup qualifier
+in Iran	+6
+-6	1650
+1301	0
+-2	46
+135
+March 26
+2013	Kuwait
+Iran	1
+1	Asian Cup qualifier
+in Kuwait	0
+0	1544
+1650	0
+-1	70
+46
+May 22
+2013	Oman
+Iran	3
+1	Friendly
+in Oman	+16
+-16	1536
+1634	+6
+-2	73
+48
+June 04
+2013	Qatar
+Iran	0
+1	World Cup qualifier
+in Qatar	-17
++17	1456
+1651	-2
++4	93
+44
+June 11
+2013	Iran
+Lebanon	4
+0	World Cup qualifier
+in Iran	+7
+-7	1658
+1344	0
+-2	44
+124
+June 18
+2013	South Korea
+Iran	0
+1	World Cup qualifier
+in South Korea	-29
++29	1707
+1687	-4
++7	33
+37
+October 15
+2013	Iran
+Thailand	2
+1	Asian Cup qualifier
+in Iran	+3
+-3	1690
+1354	+2
+-1	35
+121
+November 15
+2013	Thailand
+Iran	0
+3	Asian Cup qualifier
+in Thailand	-14
++14	1340
+1704	-2
++3	123
+32
+November 19
+2013	Lebanon
+Iran	1
+4	Asian Cup qualifier
+in Lebanon	-15
++15	1367
+1719	-4
++3	117
+29
+March 03
+2014	Iran
+Kuwait	3
+2	Asian Cup qualifier
+in Iran	+7
+-7	1726
+1541	0
+0	29
+73
+March 05
+2014	Iran
+Guinea	1
+2	Friendly
+in Iran	-17
++17	1709
+1534	-2
++2	31
+75

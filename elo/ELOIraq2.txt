@@ -1,0 +1,4545 @@
+October 19
+1957	Morocco
+Iraq	3
+3	Pan Arab Games
+in Lebanon	0
+0	1600
+1600	-
+-	36
+36
+October 21
+1957	Tunisia
+Iraq	4
+2	Pan Arab Games
+in Lebanon	+38
+-38	1539
+1562	+3
+-8	49
+44
+October 23
+1957	Iraq
+Libya	3
+1	Pan Arab Games
+in Lebanon	+21
+-21	1583
+1430	+5
+-4	39
+70
+November 15
+1959	Lebanon
+Iraq	0
+3	Friendly
+in Lebanon	-13
++13	1370
+1596	-3
++3	89
+38
+November 25
+1959	Iraq
+Lebanon	8
+0	Friendly
+in Iraq	+6
+-6	1602
+1364	0
+0	38
+89
+June 05
+1960	Tunisia
+Iraq	2
+1	Friendly
+in Tunisia	+11
+-11	1490
+1591	+4
+-2	58
+42
+May 31
+1962	Iran
+Iraq	1
+1	Friendly
+in Iran	+1
+-1	1465
+1590	0
+0	66
+43
+June 02
+1962	Iran
+Iraq	1
+2	Friendly
+in Iran	-9
++9	1456
+1599	0
++1	66
+42
+January 02
+1964	Iraq
+Iran	0
+0	Olympic Games qualifier
+in Iraq	-12
++12	1587
+1468	-3
++1	42
+72
+March 22
+1964	Iran
+Iraq	4
+0	Olympic Games qualifier
+in Iran	+40
+-40	1508
+1547	+14
+-8	58
+50
+November 13
+1964	Kuwait
+Iraq	0
+1	Arab Nations Cup
+in Kuwait	-14
++14	1320
+1561	-2
++1	108
+49
+November 16
+1964	Iraq
+Jordan	3
+1	Arab Nations Cup
+in Kuwait	+6
+-6	1567
+1159	+1
+0	48
+140
+November 18
+1964	Iraq
+Lebanon	1
+0	Arab Nations Cup
+in Kuwait	+13
+-13	1580
+1422	+2
+-5	46
+83
+November 20
+1964	Iraq
+Libya	1
+1	Arab Nations Cup
+in Kuwait	-6
++6	1574
+1477	-1
++2	47
+70
+
+1965	Iran
+Iraq	2
+0	Friendly
+in Iran	+13
+-13	1533
+1561	+4
+-2	52
+48
+September
+1965	Iraq
+Palestine	1
+1	Pan Arab Games
+in Egypt	-15
++15	1546
+1252	-3
++4	51
+123
+September
+1965	Iraq
+South Yemen	6
+0	Pan Arab Games
+in Egypt	+6
+-6	1552
+1094	-3
+-	51
+150
+September
+1965	Lebanon
+Iraq	0
+0	Pan Arab Games
+in Egypt	+7
+-7	1437
+1545	-6
+-3	84
+51
+September 08
+1965	Egypt
+Iraq	1
+0	Pan Arab Games
+in Egypt	+6
+-6	1764
+1539	0
+-1	18
+52
+April 01
+1966	Iraq
+Lebanon	0
+0	Arab Nations Cup
+in Iraq	-12
++12	1527
+1420	-4
++1	55
+83
+April 03
+1966	Iraq
+Jordan	2
+1	Arab Nations Cup
+in Iraq	+2
+-2	1529
+1146	+1
+0	54
+144
+April 04
+1966	Iraq
+Kuwait	3
+1	Arab Nations Cup
+in Iraq	+8
+-8	1537
+1288	+2
+-5	52
+120
+April 05
+1966	Iraq
+Bahrain	10
+1	Arab Nations Cup
+in Iraq	+17
+-17	1554
+1340	+3
+-5	49
+105
+April 08
+1966	Iraq
+Libya	3
+1	Arab Nations Cup
+in Iraq	+18
+-18	1572
+1483	+4
+-11	45
+71
+April 10
+1966	Iraq
+Syria	2
+1	Arab Nations Cup
+in Iraq	+10
+-10	1582
+1472	+2
+-1	43
+73
+March 10
+1967	Iraq
+Sudan	2
+2	Friendly tournament
+in Libya	0
+0	1582
+1586	0
+0	43
+42
+March 12
+1967	Libya
+Iraq	0
+1	Friendly tournament
+in Libya	-16
++16	1487
+1598	-8
++2	67
+41
+September 01
+1967	Thailand
+Iraq	2
+1	Olympic Games qualifier
+in Thailand	+32
+-32	1289
+1566	+8
+-5	116
+44
+September 05
+1967	Iraq
+Indonesia	1
+1	Olympic Games qualifier
+in Thailand	-8
++8	1558
+1437	-2
++4	46
+75
+September 07
+1967	Thailand
+Iraq	0
+4	Olympic Games qualifier
+in Thailand	-21
++21	1268
+1579	-6
++4	122
+42
+September 11
+1967	Indonesia
+Iraq	2
+1	Olympic Games qualifier
+in Thailand	+28
+-28	1465
+1551	0
+-7	75
+49
+March 05
+1969	Soviet Union
+Iraq	2
+0	Friendship Cup
+in Iran	+5
+-5	1915
+1546	0
+-3	6
+57
+March 07
+1969	Iran
+Iraq	2
+1	Friendship Cup
+in Iran	+9
+-9	1603
+1537	+3
+0	40
+57
+March 10
+1969	Pakistan
+Iraq	2
+1	Friendship Cup
+in Iran	+24
+-24	1316
+1513	+7
+-6	107
+63
+March 13
+1969	Turkey
+Iraq	1
+0	Friendship Cup
+in Iran	+14
+-14	1561
+1499	+6
+-3	50
+66
+December 08
+1969	Iraq
+East Germany	1
+1	Friendly
+in Iraq	+6
+-6	1505
+1854	+3
+0	64
+8
+July 22
+1970	Poland
+Iraq	2
+0	Friendly
+in Poland	+4
+-4	1750
+1501	+1
+0	19
+64
+July 26
+1970	East Germany
+Iraq	5
+0	Friendly
+in East Germany	+3
+-3	1870
+1498	0
+-2	6
+66
+
+1971	Iraq
+Egypt	1
+3	Palestine Cup
+in Iraq	-16
++16	1482
+1783	-2
++1	67
+18
+October 10
+1971	Lebanon
+Iraq	1
+0	Olympic Games qualifier
+in Lebanon	+17
+-17	1444
+1465	+7
+-2	76
+70
+October 17
+1971	Iraq
+Lebanon	1
+0	Olympic Games qualifier
+in Iraq	+13
+-13	1478
+1431	+1
+-4	68
+80
+October 24
+1971	Iraq
+Lebanon	2
+1	Olympic Games qualifier
+in Kuwait	+17
+-17	1495
+1414	+4
+-6	64
+86
+November 12
+1971	Iraq
+North Korea	1
+0	Olympic Games qualifier
+in Iraq	+25
+-25	1520
+1651	+6
+-5	59
+37
+November 19
+1971	North Korea
+Iraq	3
+0	Olympic Games qualifier
+in North Korea	+15
+-15	1666
+1505	+3
+-2	34
+61
+December 10
+1971	Kuwait
+Iraq	1
+1	Asian Cup qualifier
+in Kuwait	+1
+-1	1380
+1504	0
+0	94
+62
+December 13
+1971	Iraq
+Ceylon	5
+0	Asian Cup qualifier
+in Kuwait	+5
+-5	1509
+1034	0
+0	62
+161
+December 15
+1971	Iraq
+Bahrain	1
+0	Asian Cup qualifier
+in Kuwait	+9
+-9	1518
+1295	0
+-1	62
+115
+December 18
+1971	Iraq
+Jordan	2
+0	Asian Cup qualifier
+in Kuwait	+10
+-10	1528
+1219	+3
+-1	59
+131
+December 22
+1971	Iraq
+Lebanon	4
+1	Asian Cup qualifier
+in Kuwait	+21
+-21	1549
+1357	+2
+-2	57
+96
+December 24
+1971	Kuwait
+Iraq	0
+1	Asian Cup qualifier
+in Kuwait	-17
++17	1376
+1566	-3
++5	93
+52
+January 03
+1972	Iraq
+Egypt	0
+0	Friendly
+in Iraq	+1
+-1	1567
+1717	0
+-1	51
+29
+January 12
+1972	Iraq
+Algeria	3
+1	Friendly
+in Iraq	+10
+-10	1577
+1547	+3
+-2	48
+57
+May 07
+1972	Iraq
+South Korea	0
+0	Asian Cup
+in Thailand	0
+0	1577
+1582	0
+0	51
+49
+May 09
+1972	Iran
+Iraq	3
+0	Asian Cup
+in Thailand	+39
+-39	1657
+1538	+5
+-9	35
+60
+May 11
+1972	Thailand
+Iraq	1
+1	Asian Cup
+in Thailand	+14
+-14	1239
+1524	+4
+-1	127
+61
+March 11
+1973	Australia
+Iraq	3
+1	World Cup qualifier
+in Australia	+13
+-13	1662
+1511	+2
+-2	32
+62
+March 13
+1973	Iraq
+New Zealand	2
+0	World Cup qualifier
+in Australia	+30
+-30	1541
+1477	+7
+-5	55
+68
+March 16
+1973	Indonesia
+Iraq	1
+1	World Cup qualifier
+in Australia	+8
+-8	1396
+1533	+2
+-4	88
+59
+March 18
+1973	Australia
+Iraq	0
+0	World Cup qualifier
+in Australia	-11
++11	1641
+1544	-2
++5	35
+54
+March 21
+1973	Iraq
+Indonesia	3
+2	World Cup qualifier
+in Australia	+13
+-13	1557
+1408	+3
+-4	51
+84
+March 24
+1973	Iraq
+New Zealand	4
+0	World Cup qualifier
+in Australia	+28
+-28	1585
+1438	+5
+-6	46
+74
+August 15
+1973	Algeria
+Iraq	0
+0	Palestine Cup
+in Libya	+1
+-1	1563
+1584	0
+-1	50
+47
+August 18
+1973	Libya
+Iraq	0
+0	Palestine Cup
+in Libya	+3
+-3	1435
+1581	+1
++1	78
+46
+August 20
+1973	Iraq
+United Arab Emirates	3
+1	Palestine Cup
+in Libya	+10
+-10	1591
+1292	+1
+-3	45
+117
+August 23
+1973	Tunisia
+Iraq	2
+0	Palestine Cup
+in Libya	+26
+-26	1664
+1565	+4
+-3	33
+49
+August 25
+1973	Algeria
+Iraq	0
+0	Palestine Cup
+in Libya	-1
++1	1587
+1566	0
+0	46
+49
+September 03
+1974	Iraq
+India	3
+0	Asian Games
+in Iran	+15
+-15	1581
+1326	+3
+-6	43
+111
+September 05
+1974	Iraq
+Taiwan	1
+0	Asian Games
+in Iran	+5
+-5	1586
+1234	0
+-2	43
+131
+September 07
+1974	Iraq
+North Korea	1
+0	Asian Games
+in Iran	+19
+-19	1605
+1555	+2
+-5	41
+51
+September 10
+1974	Iraq
+South Korea	1
+1	Asian Games
+in Iran	-5
++5	1600
+1528	0
++3	41
+56
+September 11
+1974	Iraq
+Malaysia	0
+0	Asian Games
+in Iran	-7
++7	1593
+1477	0
+0	41
+70
+September 13
+1974	Iran
+Iraq	1
+0	Asian Games
+in Iran	+12
+-12	1655
+1581	+3
+-2	32
+43
+April 02
+1975	Iraq
+Qatar	1
+0	Asian Cup qualifier
+in Iraq	+3
+-3	1584
+1220	0
+-1	44
+135
+April 04
+1975	Iraq
+Afghanistan	4
+0	Asian Cup qualifier
+in Iraq	+2
+-2	1586
+1017	0
+0	44
+161
+April 06
+1975	Iraq
+Saudi Arabia	1
+1	Asian Cup qualifier
+in Iraq	-12
++12	1574
+1451	0
++5	44
+72
+April 10
+1975	Iraq
+Qatar	3
+0	Asian Cup qualifier
+in Iraq	+5
+-5	1579
+1216	0
+-1	44
+135
+April 12
+1975	Iraq
+Saudi Arabia	2
+1	Asian Cup qualifier
+in Iraq	+9
+-9	1588
+1448	+1
+-1	43
+73
+April 14
+1975	Iraq
+Afghanistan	3
+1	Asian Cup qualifier
+in Iraq	+1
+-1	1589
+1011	0
+0	43
+162
+August 20
+1975	Iraq
+Kuwait	2
+1	Olympic Games qualifier
+in Iran	+18
+-18	1607
+1539	+3
+-4	43
+57
+August 22
+1975	Saudi Arabia
+Iraq	2
+0	Olympic Games qualifier
+in Iran	+45
+-45	1461
+1562	+10
+-9	73
+52
+August 26
+1975	Iran
+Iraq	1
+1	Olympic Games qualifier
+in Iran	-10
++10	1641
+1572	-2
++2	35
+50
+August 28
+1975	Iraq
+Bahrain	4
+0	Olympic Games qualifier
+in Iran	+9
+-9	1581
+1208	+3
+-2	47
+137
+December 21
+1975	Iraq
+United Arab Emirates	5
+0	Palestine Cup
+in Tunisia	+12
+-12	1593
+1267	0
+-3	46
+126
+December 28
+1975	Egypt
+Iraq	1
+0	Palestine Cup
+in Tunisia	+16
+-16	1673
+1577	+4
+0	29
+46
+February 08
+1976	Iraq
+Turkey	0
+0	Friendly
+in Iraq	-2
++2	1575
+1619	-1
+0	48
+43
+March 27
+1976	Iraq
+Oman	4
+0	Gulf Cup
+in Qatar	+4
+-4	1579
+1058	+2
+0	45
+158
+March 29
+1976	Iraq
+Bahrain	4
+1	Gulf Cup
+in Qatar	+8
+-8	1587
+1223	0
+0	46
+134
+April 01
+1976	Iraq
+Saudi Arabia	7
+1	Gulf Cup
+in Qatar	+20
+-20	1607
+1365	+2
+-5	44
+95
+April 03
+1976	Qatar
+Iraq	0
+0	Gulf Cup
+in Qatar	+12
+-12	1275
+1595	+3
+0	124
+44
+April 06
+1976	Iraq
+United Arab Emirates	4
+0	Gulf Cup
+in Qatar	+8
+-8	1603
+1212	0
+-2	44
+137
+April 08
+1976	Iraq
+Kuwait	2
+2	Gulf Cup
+in Qatar	-1
++1	1602
+1591	0
+0	44
+46
+April 15
+1976	Kuwait
+Iraq	4
+2	Gulf Cup
+in Qatar	+30
+-30	1633
+1572	+4
+-4	40
+49
+June 05
+1976	Iraq
+South Yemen	1
+0	Asian Cup
+in Iran	+3
+-3	1575
+1086	0
+0	50
+157
+June 07
+1976	Iran
+Iraq	2
+0	Asian Cup
+in Iran	+21
+-21	1665
+1554	+4
+-5	34
+55
+June 10
+1976	Kuwait
+Iraq	3
+2	Asian Cup
+in Iran	+17
+-17	1681
+1537	+5
+-2	30
+57
+June 12
+1976	China
+Iraq	1
+0	Asian Cup
+in Iran	+30
+-30	1500
+1507	+5
+-6	65
+63
+July 17
+1977	Iraq
+Thailand	5
+0	Merdeka Tournament
+in Malaysia	+14
+-14	1521
+1281	+4
+-1	58
+120
+July 18
+1977	Iraq
+Burma	3
+0	Merdeka Tournament
+in Malaysia	+23
+-23	1544
+1455	+2
+-3	56
+75
+July 21
+1977	Iraq
+Libya	0
+0	Merdeka Tournament
+in Malaysia	-6
++6	1538
+1402	-1
++4	57
+87
+July 22
+1977	Malaysia
+Iraq	0
+0	Merdeka Tournament
+in Malaysia	-2
++2	1489
+1540	0
++1	70
+56
+July 25
+1977	Iraq
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+6
+-6	1546
+1682	0
+-1	56
+32
+July 27
+1977	Iraq
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+6
+-6	1552
+1229	+3
+0	53
+132
+July 31
+1977	South Korea
+Iraq	1
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1702
+1543	+1
+-3	28
+56
+February 21
+1978	Iraq
+Algeria	3
+0	Friendly
+in Iraq	+12
+-12	1555
+1507	0
+-3	56
+64
+February 23
+1978	Iraq
+Algeria	1
+0	Friendly
+in Iraq	+6
+-6	1561
+1501	+1
+-2	55
+66
+July 02
+1978	Algeria
+Iraq	1
+1	Friendly
+in Algeria	-1
++1	1510
+1562	0
+0	63
+55
+July 04
+1978	Algeria
+Iraq	0
+0	Friendly
+in Algeria	-1
++1	1509
+1563	0
+0	63
+55
+July 12
+1978	Iraq
+Singapore	3
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1567
+1139	+3
+-1	52
+150
+July 14
+1978	Iraq
+Japan	0
+0	Merdeka Tournament
+in Malaysia	-7
++7	1560
+1404	-3
++1	55
+85
+July 17
+1978	Malaysia
+Iraq	1
+2	Merdeka Tournament
+in Malaysia	-20
++20	1555
+1580	-5
++5	56
+50
+July 19
+1978	South Korea
+Iraq	2
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1719
+1565	0
+-1	28
+51
+July 21
+1978	Iraq
+Thailand	1
+0	Merdeka Tournament
+in Malaysia	+6
+-6	1571
+1321	0
+-2	51
+108
+July 24
+1978	Iraq
+Syria	2
+1	Merdeka Tournament
+in Malaysia	+5
+-5	1576
+1292	+1
+-2	50
+118
+July 26
+1978	Iraq
+Indonesia	4
+0	Merdeka Tournament
+in Malaysia	+8
+-8	1584
+1265	+1
+-1	49
+123
+July 29
+1978	South Korea
+Iraq	2
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1757
+1571	+1
+-3	23
+52
+December 09
+1978	Iraq
+Saudi Arabia	1
+1	Asian Games
+in Thailand	-11
++11	1560
+1370	-3
++1	55
+97
+December 11
+1978	Iraq
+Qatar	2
+1	Asian Games
+in Thailand	+5
+-5	1565
+1230	+2
+0	53
+133
+December 13
+1978	Iraq
+China	2
+0	Asian Games
+in Thailand	+26
+-26	1591
+1496	+7
+-4	46
+66
+December 16
+1978	North Korea
+Iraq	1
+0	Asian Games
+in Thailand	+18
+-18	1649
+1573	+3
+-5	36
+51
+December 18
+1978	Iraq
+Kuwait	3
+0	Asian Games
+in Thailand	+46
+-46	1619
+1640	+9
+-6	42
+37
+December 20
+1978	Iraq
+India	3
+0	Asian Games
+in Thailand	+8
+-8	1627
+1258	+1
+-3	41
+125
+December 22
+1978	China
+Iraq	1
+0	Asian Games
+in Thailand	+23
+-23	1591
+1604	+5
+-3	47
+44
+February 05
+1979	Iraq
+Finland	1
+0	Friendly
+in Iraq	+4
+-4	1608
+1451	+1
+-1	45
+76
+February 07
+1979	Iraq
+Finland	2
+0	Friendly
+in Iraq	+6
+-6	1614
+1445	+1
+0	44
+76
+February 09
+1979	Iraq
+East Germany	1
+1	Friendly
+in Iraq	+4
+-4	1618
+1875	0
+0	44
+10
+February 12
+1979	Iraq
+East Germany	2
+1	Friendly
+in Iraq	+14
+-14	1632
+1861	+5
+-1	39
+11
+March 23
+1979	Iraq
+Bahrain	4
+0	Gulf Cup
+in Iraq	+3
+-3	1635
+1202	+1
+0	37
+140
+March 26
+1979	Iraq
+Qatar	2
+0	Gulf Cup
+in Iraq	+4
+-4	1639
+1273	0
+0	37
+122
+March 29
+1979	Iraq
+Kuwait	3
+1	Gulf Cup
+in Iraq	+22
+-22	1661
+1626	+4
+-4	33
+40
+April 03
+1979	Iraq
+United Arab Emirates	5
+0	Gulf Cup
+in Iraq	+2
+-2	1663
+1135	0
+0	33
+150
+April 05
+1979	Iraq
+Oman	7
+0	Gulf Cup
+in Iraq	+1
+-1	1664
+1002	0
+-1	33
+166
+April 08
+1979	Iraq
+Saudi Arabia	2
+0	Gulf Cup
+in Iraq	+7
+-7	1671
+1407	0
+-3	33
+87
+February 27
+1980	Iraq
+Poland	1
+1	Friendly
+in Iraq	+4
+-4	1675
+1934	0
+-1	30
+7
+June 22
+1980	Poland
+Iraq	3
+0	Friendly
+in Poland	+5
+-5	1910
+1670	+1
+-2	7
+34
+March 08
+1981	Morocco
+Iraq	1
+1	Friendly
+in Morocco	-3
++3	1660
+1673	0
++2	34
+31
+March 18
+1981	Iraq
+Qatar	1
+0	World Cup qualifier
+in Saudi Arabia	+4
+-4	1677
+1266	+1
+0	31
+124
+March 21
+1981	Saudi Arabia
+Iraq	1
+0	World Cup qualifier
+in Saudi Arabia	+29
+-29	1447
+1648	+4
+-3	79
+35
+March 25
+1981	Iraq
+Bahrain	2
+0	World Cup qualifier
+in Saudi Arabia	+5
+-5	1653
+1231	0
+-1	35
+136
+March 30
+1981	Iraq
+Syria	2
+1	World Cup qualifier
+in Saudi Arabia	+5
+-5	1658
+1302	+1
+-2	34
+116
+August 30
+1981	Iraq
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+1
+-1	1659
+1689	0
++1	35
+30
+September 06
+1981	Iraq
+Thailand	7
+1	Merdeka Tournament
+in Malaysia	+13
+-13	1672
+1403	+3
+-5	32
+88
+September 13
+1981	Iraq
+Singapore	4
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1675
+1174	+1
+0	31
+145
+September 17
+1981	Iraq
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+11
+-11	1686
+1468	+1
+-4	30
+76
+March 02
+1982	Iraq
+East Germany	0
+0	Friendly
+in Iraq	+2
+-2	1688
+1860	0
+0	31
+11
+March 07
+1982	Iraq
+South Korea	3
+0	Friendly
+in Iraq	+12
+-12	1700
+1656	+3
+-3	28
+36
+March 10
+1982	Iraq
+South Korea	1
+1	Friendly
+in Iraq	-4
++4	1696
+1660	-1
+0	29
+35
+March 20
+1982	Iraq
+Oman	4
+0	Gulf Cup
+in United Arab Emirates	+1
+-1	1697
+976	0
+0	30
+172
+March 24
+1982	Iraq
+Saudi Arabia	1
+1	Gulf Cup
+in United Arab Emirates	-15
++15	1682
+1368	-2
++4	32
+96
+March 26
+1982	Iraq
+Qatar	2
+1	Gulf Cup
+in United Arab Emirates	+4
+-4	1686
+1298	0
+-2	32
+117
+March 30
+1982	United Arab Emirates
+Iraq	0
+1	Gulf Cup
+in United Arab Emirates	-3
++3	1163
+1689	-1
+0	148
+32
+November 20
+1982	Kuwait
+Iraq	2
+1	Asian Games
+in India	+25
+-25	1621
+1664	+5
+-6	40
+35
+November 24
+1982	Iraq
+Nepal	3
+0	Asian Games
+in India	+1
+-1	1665
+995	0
+-1	35
+170
+November 26
+1982	Iraq
+Burma	4
+0	Asian Games
+in India	+10
+-10	1675
+1324	+3
+-2	32
+109
+November 28
+1982	Iraq
+Japan	1
+0	Asian Games
+in India	+12
+-12	1687
+1510	+1
+-2	31
+65
+December 01
+1982	Iraq
+Saudi Arabia	1
+0	Asian Games
+in India	+9
+-9	1696
+1470	+2
+-3	29
+79
+December 04
+1982	Iraq
+Kuwait	1
+0	Asian Games
+in India	+19
+-19	1715
+1659	+3
+-3	26
+36
+February 27
+1984	Egypt
+Iraq	1
+2	Friendly
+in Egypt	-10
++10	1598
+1725	-1
++3	43
+28
+February 29
+1984	Egypt
+Iraq	0
+0	Friendly
+in Egypt	+1
+-1	1599
+1724	0
+0	43
+28
+March 11
+1984	Oman
+Iraq	1
+2	Gulf Cup
+in Oman	-1
++1	953
+1725	0
+0	174
+28
+March 15
+1984	Iraq
+United Arab Emirates	0
+0	Gulf Cup
+in Oman	-17
++17	1708
+1325	-2
++4	30
+108
+March 17
+1984	Iraq
+Saudi Arabia	4
+0	Gulf Cup
+in Oman	+16
+-16	1724
+1459	+1
+-4	29
+80
+March 20
+1984	Iraq
+Bahrain	1
+0	Gulf Cup
+in Oman	+3
+-3	1727
+1282	+1
+-1	28
+124
+March 22
+1984	Iraq
+Kuwait	3
+1	Gulf Cup
+in Oman	+17
+-17	1744
+1554	+2
+-5	26
+55
+March 25
+1984	Qatar
+Iraq	2
+1	Gulf Cup
+in Oman	+36
+-36	1382
+1708	+12
+-5	93
+31
+March 28
+1984	Iraq
+Qatar	1
+1	Gulf Cup
+in Oman	-15
++15	1693
+1397	-1
++2	32
+91
+March 15
+1985	Iraq
+Lebanon	6
+0	World Cup qualifier
+in Kuwait	+7
+-7	1700
+1264	0
+-5	32
+129
+March 18
+1985	Iraq
+Lebanon	6
+0	World Cup qualifier
+in Kuwait	+6
+-6	1706
+1258	0
+-3	32
+132
+March 29
+1985	Jordan
+Iraq	2
+3	World Cup qualifier
+in Jordan	-4
++4	1241
+1710	0
+0	136
+31
+April 05
+1985	Qatar
+Iraq	3
+0	World Cup qualifier
+in Qatar	+50
+-50	1495
+1660	+13
+-3	69
+34
+April 19
+1985	Iraq
+Jordan	2
+0	World Cup qualifier
+in Kuwait	+5
+-5	1665
+1220	0
+-1	34
+142
+May 05
+1985	Iraq
+Qatar	2
+1	World Cup qualifier
+in India	+11
+-11	1676
+1491	0
+-4	34
+71
+June 09
+1985	Iraq
+Canada	6
+1	Presidents Cup
+in South Korea	+31
+-31	1707
+1562	+4
+-8	30
+57
+June 15
+1985	South Korea
+Iraq	2
+0	Presidents Cup
+in South Korea	+39
+-39	1542
+1668	+3
+-4	64
+34
+July 04
+1985	Bahrain
+Iraq	1
+1	Arab Nations Cup
+in Saudi Arabia	+16
+-16	1319
+1652	+6
+-2	108
+37
+July 08
+1985	Iraq
+Mauritania	2
+0	Arab Nations Cup
+in Saudi Arabia	+3
+-3	1655
+1144	+1
+0	36
+153
+July 10
+1985	Saudi Arabia
+Iraq	2
+3	Arab Nations Cup
+in Saudi Arabia	-21
++21	1543
+1676	-7
++1	63
+35
+July 12
+1985	Iraq
+Bahrain	1
+0	Arab Nations Cup
+in Saudi Arabia	+5
+-5	1681
+1340	0
+0	35
+107
+August 06
+1985	Iraq
+Libya	2
+0	Pan Arab Games
+in Morocco	+23
+-23	1704
+1578	+4
+-6	31
+52
+August 12
+1985	Iraq
+Syria	2
+0	Pan Arab Games
+in Morocco	+7
+-7	1711
+1358	0
+-2	31
+99
+August 14
+1985	Iraq
+Saudi Arabia	2
+1	Pan Arab Games
+in Morocco	+11
+-11	1722
+1532	+1
+0	30
+64
+August 16
+1985	Morocco
+Iraq	0
+1	Pan Arab Games
+in Morocco	-23
++23	1649
+1745	-2
++2	37
+28
+September 20
+1985	United Arab Emirates
+Iraq	2
+3	World Cup qualifier
+in United Arab Emirates	-6
++6	1352
+1751	-4
+0	104
+27
+September 27
+1985	United Arab Emirates
+Iraq	2
+1	World Cup qualifier
+in Saudi Arabia	+36
+-36	1388
+1715	+12
+-2	92
+30
+November 15
+1985	Syria
+Iraq	0
+0	World Cup qualifier
+in Syria	+12
+-12	1388
+1703	+3
+-1	92
+32
+November 29
+1985	Iraq
+Syria	3
+1	World Cup qualifier
+in Saudi Arabia	+8
+-8	1711
+1380	+1
+-2	31
+94
+March 14
+1986	Iraq
+Romania	1
+1	Friendly
+in Iraq	-1
++1	1710
+1767	0
+0	30
+24
+March 17
+1986	Iraq
+Romania	0
+0	Friendly
+in Iraq	-1
++1	1709
+1768	0
+0	30
+24
+March 22
+1986	Bahrain
+Iraq	0
+0	Gulf Cup
+in Bahrain	+14
+-14	1316
+1695	+7
+-1	109
+31
+March 24
+1986	Iraq
+United Arab Emirates	2
+2	Gulf Cup
+in Bahrain	-14
++14	1681
+1409	0
++4	31
+87
+March 27
+1986	Iraq
+Qatar	1
+1	Gulf Cup
+in Bahrain	-10
++10	1671
+1490	-1
+0	32
+71
+March 30
+1986	Saudi Arabia
+Iraq	2
+1	Gulf Cup
+in Bahrain	+31
+-31	1499
+1640	+10
+-5	69
+37
+April 03
+1986	Kuwait
+Iraq	2
+1	Gulf Cup
+in Bahrain	+24
+-24	1598
+1616	+9
+-7	48
+44
+April 06
+1986	Iraq
+Oman	3
+2	Gulf Cup
+in Bahrain	+1
+-1	1617
+986	0
+0	44
+172
+June 04
+1986	Paraguay
+Iraq	1
+0	World Cup
+in Mexico	+18
+-18	1786
+1599	+3
+-2	22
+45
+June 08
+1986	Belgium
+Iraq	2
+1	World Cup
+in Mexico	+18
+-18	1770
+1581	+5
+-6	24
+52
+June 11
+1986	Mexico
+Iraq	1
+0	World Cup
+in Mexico	+8
+-8	1825
+1573	0
+-4	11
+56
+September 21
+1986	Iraq
+Oman	4
+0	Asian Games
+in South Korea	+3
+-3	1576
+1007	0
+0	57
+170
+September 23
+1986	Iraq
+Pakistan	5
+1	Asian Games
+in South Korea	+8
+-8	1584
+1191	+2
+0	55
+144
+September 25
+1986	United Arab Emirates
+Iraq	2
+1	Asian Games
+in South Korea	+27
+-27	1493
+1557	+7
+-5	72
+59
+September 27
+1986	Iraq
+Thailand	2
+1	Asian Games
+in South Korea	+7
+-7	1564
+1284	+2
+-1	57
+119
+October 01
+1986	Iraq
+Saudi Arabia	1
+1	Asian Games
+in South Korea	-1
++1	1563
+1539	-1
+0	59
+63
+February 21
+1987	Kuwait
+Iraq	2
+0	Friendly
+in Kuwait	+8
+-8	1649
+1555	+1
+0	40
+57
+February 25
+1988	Tunisia
+Iraq	0
+2	Friendly
+in Tunisia	-12
++12	1368
+1567	-2
++4	98
+53
+March 04
+1988	Iraq
+Oman	1
+1	Gulf Cup
+in Saudi Arabia	-18
++18	1549
+1071	-6
++3	59
+166
+March 08
+1988	Iraq
+Kuwait	1
+0	Gulf Cup
+in Saudi Arabia	+21
+-21	1570
+1550	+8
+-8	51
+59
+March 10
+1988	Iraq
+United Arab Emirates	0
+0	Gulf Cup
+in Saudi Arabia	-6
++6	1564
+1477	-2
+0	53
+76
+March 13
+1988	Iraq
+Qatar	3
+0	Gulf Cup
+in Saudi Arabia	+22
+-22	1586
+1403	+5
+-8	48
+91
+March 16
+1988	Saudi Arabia
+Iraq	0
+2	Gulf Cup
+in Saudi Arabia	-33
++33	1488
+1619	-8
++2	73
+46
+March 18
+1988	Iraq
+Bahrain	1
+0	Gulf Cup
+in Saudi Arabia	+8
+-8	1627
+1370	+3
+-1	43
+97
+July 09
+1988	Iraq
+Tunisia	1
+1	Arab Nations Cup
+in Jordan	-13
++13	1614
+1378	-1
++3	44
+97
+July 11
+1988	Iraq
+Lebanon	0
+0	Arab Nations Cup
+in Jordan	-16
++16	1598
+1242	-3
++1	47
+136
+July 15
+1988	Iraq
+Saudi Arabia	1
+0	Arab Nations Cup
+in Jordan	+12
+-12	1610
+1439	+3
+0	44
+81
+July 17
+1988	Egypt
+Iraq	0
+0	Arab Nations Cup
+in Jordan	-4
++4	1668
+1614	-1
+0	37
+44
+July 19
+1988	Jordan
+Iraq	0
+3	Arab Nations Cup
+in Jordan	-19
++19	1318
+1633	-4
++3	112
+41
+July 21
+1988	Iraq
+Syria	1
+1	Arab Nations Cup
+in Jordan	-8
++8	1625
+1488	-2
++2	43
+72
+January 06
+1989	Oman
+Iraq	1
+1	World Cup qualifier
+in Oman	+17
+-17	1089
+1608	+2
+-4	164
+45
+January 13
+1989	Jordan
+Iraq	0
+1	World Cup qualifier
+in Jordan	-9
++9	1283
+1617	-2
++4	118
+41
+January 20
+1989	Qatar
+Iraq	1
+0	World Cup qualifier
+in Qatar	+24
+-24	1470
+1593	+7
+-5	74
+46
+January 27
+1989	Iraq
+Oman	3
+1	World Cup qualifier
+in Iraq	+2
+-2	1595
+1090	0
+0	46
+164
+February 03
+1989	Iraq
+Jordan	4
+0	World Cup qualifier
+in Iraq	+7
+-7	1602
+1290	0
+-1	46
+118
+February 10
+1989	Iraq
+Qatar	2
+2	World Cup qualifier
+in Iraq	-12
++12	1590
+1482	-1
++1	47
+73
+October 15
+1989	Iraq
+Kuwait	1
+0	Friendly
+in Iraq	+5
+-5	1595
+1509	+2
+-2	44
+65
+October 31
+1989	Guinea
+Iraq	1
+0	Friendly tournament
+in Kuwait	+22
+-22	1455
+1573	+8
+-4	80
+49
+November 03
+1989	Iraq
+South Yemen	6
+2	Friendly tournament
+in Kuwait	+4
+-4	1577
+1109	0
+0	49
+163
+November 05
+1989	Iran
+Iraq	0
+0	Friendly tournament
+in Kuwait	0
+0	1586
+1577	0
+0	47
+49
+November 08
+1989	Kuwait
+Iraq	1
+2	Friendly tournament
+in Kuwait	-16
++16	1495
+1593	-7
++3	71
+46
+November 12
+1989	Iraq
+Uganda	1
+1	Friendly tournament
+in Kuwait	-5
++5	1588
+1485	0
++1	46
+72
+January 29
+1990	Iraq
+Denmark	1
+1	Friendly
+in Iraq	+5
+-5	1593
+1864	0
+0	46
+11
+February 01
+1990	Iraq
+Denmark	1
+0	Friendly
+in Iraq	+15
+-15	1608
+1849	+3
+-2	43
+13
+February 15
+1990	Iraq
+South Korea	0
+0	Friendly
+in Iraq	+1
+-1	1609
+1739	0
+0	43
+25
+February 26
+1990	Iraq
+Bahrain	1
+0	Gulf Cup
+in Kuwait	+9
+-9	1618
+1383	+1
+-3	42
+100
+February 28
+1990	Kuwait
+Iraq	1
+1	Gulf Cup
+in Kuwait	+2
+-2	1483
+1616	0
+0	72
+42
+March 03
+1990	Iraq
+United Arab Emirates	2
+2	Gulf Cup
+in Kuwait	-5
++5	1611
+1538	+1
++1	41
+59
+June 01
+1990	Jordan
+Iraq	0
+2	Friendly
+in Jordan	-7
++7	1304
+1618	0
++2	115
+40
+April 25
+1993	South Korea
+Iraq	1
+1	Friendly
+in South Korea	-3
++3	1629
+1621	-1
+0	40
+45
+April 28
+1993	South Korea
+Iraq	2
+2	Friendly
+in South Korea	-3
++3	1626
+1624	-1
++3	41
+42
+May 24
+1993	Jordan
+Iraq	1
+1	World Cup qualifier
+in Jordan	+12
+-12	1294
+1612	+5
+-3	126
+45
+May 26
+1993	Iraq
+Yemen	6
+1	World Cup qualifier
+in Jordan	+6
+-6	1618
+1159	+3
+-1	42
+156
+May 28
+1993	Iraq
+Pakistan	8
+0	World Cup qualifier
+in Jordan	+3
+-3	1621
+1040	0
+-1	42
+180
+May 30
+1993	Iraq
+China	1
+0	World Cup qualifier
+in Jordan	+14
+-14	1635
+1501	+2
+-5	40
+74
+June 14
+1993	Iraq
+Jordan	4
+0	World Cup qualifier
+in China	+8
+-8	1643
+1267	+4
+-1	37
+135
+June 16
+1993	Iraq
+Yemen	3
+0	World Cup qualifier
+in China	+6
+-6	1649
+1213	+1
+0	36
+151
+June 18
+1993	Iraq
+Pakistan	4
+0	World Cup qualifier
+in China	+2
+-2	1651
+1007	+1
+0	35
+186
+June 20
+1993	China
+Iraq	2
+1	World Cup qualifier
+in China	+22
+-22	1539
+1629	+6
+-5	63
+41
+October 15
+1993	North Korea
+Iraq	3
+2	World Cup qualifier
+in Qatar	+19
+-19	1670
+1610	+6
+-7	32
+48
+October 19
+1993	Iraq
+South Korea	2
+2	World Cup qualifier
+in Qatar	+2
+-2	1612
+1645	+1
+0	45
+39
+October 22
+1993	Iran
+Iraq	1
+2	World Cup qualifier
+in Qatar	-18
++18	1558
+1630	-3
++4	59
+41
+October 24
+1993	Iraq
+Saudi Arabia	1
+1	World Cup qualifier
+in Qatar	+2
+-2	1632
+1671	0
+0	41
+32
+October 28
+1993	Iraq
+Japan	2
+2	World Cup qualifier
+in Qatar	+2
+-2	1634
+1660	-1
+-2	41
+36
+March 12
+1995	India
+Iraq	1
+1	Nehru Gold Cup
+in India	+17
+-17	1108
+1617	+2
+-3	175
+39
+March 14
+1995	Iraq
+Thailand	3
+1	Nehru Gold Cup
+in India	+14
+-14	1631
+1399	+2
+-2	37
+104
+August 11
+1996	Iraq
+Pakistan	3
+0	Asian Cup qualifier
+in Jordan	+1
+-1	1632
+914	0
+0	38
+200
+August 13
+1996	Jordan
+Iraq	0
+1	Asian Cup qualifier
+in Jordan	-8
++8	1294
+1640	-1
+0	131
+38
+November 24
+1996	Iraq
+Indonesia	4
+0	Friendly
+in Italy	+4
+-4	1644
+1244	0
+-1	37
+144
+December 05
+1996	Iraq
+Iran	2
+1	Asian Cup
+in United Arab Emirates	+20
+-20	1664
+1555	+2
+-3	35
+57
+December 08
+1996	Saudi Arabia
+Iraq	1
+0	Asian Cup
+in United Arab Emirates	+28
+-28	1654
+1636	+4
+-3	37
+39
+December 11
+1996	Iraq
+Thailand	4
+1	Asian Cup
+in United Arab Emirates	+21
+-21	1657
+1414	+3
+-3	35
+96
+December 15
+1996	United Arab Emirates
+Iraq	1
+0	Asian Cup
+in United Arab Emirates	+24
+-24	1589
+1633	+3
+-5	54
+41
+February 16
+1997	Iraq
+Jordan	1
+0	Friendly
+in Iraq	+1
+-1	1634
+1288	0
+0	40
+132
+March 30
+1997	Iraq
+China	2
+0	Nehru Gold Cup
+in India	+25
+-25	1659
+1555	+6
+-3	35
+59
+April 02
+1997	Iraq
+Uzbekistan	6
+1	Nehru Gold Cup
+in India	+27
+-27	1686
+1516	+5
+-8	30
+70
+April 06
+1997	India
+Iraq	0
+1	Nehru Gold Cup
+in India	-2
++2	1110
+1688	0
+0	171
+30
+April 10
+1997	India
+Iraq	1
+1	Nehru Gold Cup
+in India	+18
+-18	1128
+1670	+3
+-6	168
+36
+April 12
+1997	Iraq
+Uzbekistan	3
+1	Nehru Gold Cup
+in India	+18
+-18	1688
+1507	+6
+-6	30
+72
+May 23
+1997	Pakistan
+Iraq	2
+6	World Cup qualifier
+in Pakistan	-2
++2	910
+1690	0
++1	200
+29
+June 06
+1997	Iraq
+Kazakhstan	1
+2	World Cup qualifier
+in Iraq	-36
++36	1654
+1446	-8
++14	38
+87
+June 20
+1997	Iraq
+Pakistan	6
+1	World Cup qualifier
+in Iraq	+1
+-1	1655
+902	0
+0	36
+200
+June 29
+1997	Kazakhstan
+Iraq	3
+1	World Cup qualifier
+in Kazakhstan	+39
+-39	1492
+1616	+10
+-12	76
+49
+August 21
+1997	Lebanon
+Iraq	0
+2	Friendly
+in Lebanon	-9
++9	1365
+1625	-3
++1	114
+48
+November 18
+1998	Lebanon
+Iraq	0
+2	Friendly
+in Lebanon	-7
++7	1315
+1632	-2
++5	127
+46
+June 28
+1999	Jordan
+Iraq	0
+1	Friendly
+in Jordan	-7
++7	1401
+1639	-2
++1	101
+47
+June 30
+1999	Jordan
+Iraq	1
+1	Friendly
+in Jordan	+4
+-4	1405
+1635	+2
+0	99
+48
+August 03
+1999	Tajikistan
+Iraq	1
+2	Asian Cup qualifier
+in Tajikistan	-15
++15	1434
+1650	-7
++1	93
+46
+August 05
+1999	Iraq
+Oman	2
+0	Asian Cup qualifier
+in Tajikistan	+11
+-11	1661
+1375	+4
+-3	42
+110
+August 07
+1999	Iraq
+Kyrgyzstan	5
+1	Asian Cup qualifier
+in Tajikistan	+5
+-5	1666
+1198	+3
+0	39
+153
+August 21
+1999	Libya
+Iraq	2
+0	Pan Arab Games
+in Jordan	+51
+-51	1420
+1615	+12
+-11	100
+50
+August 23
+1999	Iraq
+Oman	3
+0	Pan Arab Games
+in Jordan	+14
+-14	1629
+1354	+3
+-3	47
+117
+August 25
+1999	Jordan
+Iraq	2
+1	Pan Arab Games
+in Jordan	+27
+-27	1420
+1602	+5
+-4	99
+51
+August 27
+1999	Iraq
+Lebanon	4
+0	Pan Arab Games
+in Jordan	+16
+-16	1618
+1362	+3
+-5	48
+115
+August 29
+1999	Iraq
+Libya	3
+1	Pan Arab Games
+in Jordan	+16
+-16	1634
+1422	+1
+-8	47
+100
+August 31
+1999	Jordan
+Iraq	4
+4	Pan Arab Games
+in Jordan	+5
+-5	1456
+1629	0
+0	88
+47
+October 30
+1999	Estonia
+Iraq	1
+1	Friendly tournament
+in United Arab Emirates	+12
+-12	1286
+1617	+3
+0	133
+49
+November 01
+1999	Iraq
+Turkmenistan	3
+0	Friendly tournament
+in United Arab Emirates	+12
+-12	1629
+1389	0
+-2	49
+105
+November 03
+1999	United Arab Emirates
+Iraq	2
+2	Friendly tournament
+in United Arab Emirates	+3
+-3	1472
+1626	0
+0	83
+49
+May 23
+2000	Iraq
+Lebanon	2
+1	West Asian Championship
+in Jordan	+7
+-7	1633
+1360	+1
+-2	51
+115
+May 25
+2000	Jordan
+Iraq	0
+0	West Asian Championship
+in Jordan	+4
+-4	1458
+1629	0
+-1	86
+52
+May 27
+2000	Iraq
+Kyrgyzstan	4
+0	West Asian Championship
+in Jordan	+5
+-5	1634
+1170	+2
+-1	50
+163
+May 31
+2000	Syria
+Iraq	0
+0	West Asian Championship
+in Jordan	+7
+-7	1510
+1627	+2
+-3	70
+52
+June 02
+2000	Jordan
+Iraq	1
+4	West Asian Championship
+in Jordan	-26
++26	1410
+1653	-9
++7	99
+45
+September 01
+2000	Iraq
+Uzbekistan	2
+0	Friendly tournament
+in China	+15
+-15	1668
+1521	+3
+-3	42
+69
+September 03
+2000	China
+Iraq	4
+1	Friendly tournament
+in China	+18
+-18	1697
+1650	+1
+-6	35
+47
+October 12
+2000	Iraq
+Thailand	2
+0	Asian Cup
+in Lebanon	+24
+-24	1674
+1490	+6
+-8	42
+78
+October 15
+2000	Lebanon
+Iraq	2
+2	Asian Cup
+in Lebanon	+13
+-13	1382
+1661	+4
+-2	108
+45
+October 18
+2000	Iran
+Iraq	1
+0	Asian Cup
+in Lebanon	+21
+-21	1743
+1640	+6
+-3	23
+48
+October 24
+2000	Japan
+Iraq	4
+1	Asian Cup
+in Lebanon	+35
+-35	1748
+1605	+10
+-6	22
+55
+January 31
+2001	Lebanon
+Iraq	0
+0	Friendly
+in Lebanon	+3
+-3	1387
+1602	+3
+0	103
+58
+April 12
+2001	Iraq
+Macao	8
+0	World Cup qualifier
+in Iraq	+2
+-2	1604
+1022	+1
+0	56
+187
+April 14
+2001	Iraq
+Nepal	9
+1	World Cup qualifier
+in Iraq	+1
+-1	1605
+822	0
+0	56
+209
+April 16
+2001	Iraq
+Kazakhstan	1
+1	World Cup qualifier
+in Iraq	-14
++14	1591
+1434	-2
++3	58
+90
+April 21
+2001	Iraq
+Macao	5
+0	World Cup qualifier
+in Kazakhstan	+2
+-2	1593
+960	0
+0	58
+191
+April 23
+2001	Iraq
+Nepal	4
+2	World Cup qualifier
+in Kazakhstan	+1
+-1	1594
+872	0
+0	58
+206
+April 25
+2001	Kazakhstan
+Iraq	1
+1	World Cup qualifier
+in Kazakhstan	+3
+-3	1442
+1591	0
+-1	90
+58
+July 29
+2001	Oman
+Iraq	1
+0	Friendly
+in Oman	+13
+-13	1388
+1578	+5
+-4	105
+60
+August 02
+2001	United Arab Emirates
+Iraq	2
+2	Friendly
+in United Arab Emirates	+1
+-1	1439
+1577	0
+0	94
+59
+August 17
+2001	Iraq
+Thailand	4
+0	World Cup qualifier
+in Iraq	+22
+-22	1599
+1499	+5
+-5	54
+74
+August 23
+2001	Bahrain
+Iraq	2
+0	World Cup qualifier
+in Bahrain	+34
+-34	1484
+1565	+8
+-6	80
+60
+August 31
+2001	Saudi Arabia
+Iraq	1
+0	World Cup qualifier
+in Bahrain	+15
+-15	1671
+1550	+1
+-4	42
+64
+September 07
+2001	Iraq
+Iran	1
+2	World Cup qualifier
+in Iraq	-16
++16	1534
+1744	-3
++1	64
+26
+September 14
+2001	Qatar
+Iraq	0
+0	Friendly
+in Qatar	-4
++4	1592
+1538	0
++2	53
+62
+September 22
+2001	Thailand
+Iraq	1
+1	World Cup qualifier
+in Thailand	-3
++3	1480
+1541	-1
+0	82
+62
+September 28
+2001	Iraq
+Bahrain	1
+0	World Cup qualifier
+in Iraq	+11
+-11	1552
+1456	+1
+-3	61
+87
+October 05
+2001	Saudi Arabia
+Iraq	2
+1	World Cup qualifier
+in Jordan	+12
+-12	1709
+1540	+5
+-1	32
+62
+October 12
+2001	Iran
+Iraq	2
+1	World Cup qualifier
+in Iran	+6
+-6	1743
+1534	0
+-1	25
+65
+January 11
+2002	Iraq
+Oman	2
+0	Friendly
+in Qatar	+10
+-10	1544
+1408	+3
+-1	64
+100
+January 13
+2002	Qatar
+Iraq	1
+3	Friendly
+in Qatar	-19
++19	1519
+1563	-6
++6	71
+58
+July 19
+2002	Iraq
+Syria	2
+0	Friendly
+in Iraq	+6
+-6	1569
+1433	+2
+0	57
+93
+July 22
+2002	Iraq
+Syria	2
+1	Friendly
+in Iraq	+4
+-4	1573
+1429	0
+0	57
+93
+September 01
+2002	Iraq
+Palestine	2
+0	West Asian Championship
+in Syria	+8
+-8	1581
+1242	+1
+-1	56
+146
+September 03
+2002	Syria
+Iraq	0
+1	West Asian Championship
+in Syria	-17
++17	1419
+1598	-4
++2	97
+54
+September 05
+2002	Iraq
+Iran	0
+0	West Asian Championship
+in Syria	+7
+-7	1605
+1714	+1
+-1	53
+35
+September 07
+2002	Iraq
+Jordan	3
+2	West Asian Championship
+in Syria	+11
+-11	1616
+1435	+2
+-1	51
+92
+November 20
+2002	Qatar
+Iraq	2
+1	Friendly
+in Qatar	+8
+-8	1582
+1608	-1
+-2	59
+52
+November 23
+2002	Bahrain
+Iraq	2
+2	Friendly
+in Qatar	+3
+-3	1489
+1605	+1
+-1	75
+53
+August 13
+2003	Iran
+Iraq	0
+1	Friendly tournament
+in Iran	-23
++23	1680
+1628	-2
++7	36
+47
+August 15
+2003	Uruguay
+Iraq	5
+2	Friendly tournament
+in Iran	+13
+-13	1841
+1615	0
+-5	15
+52
+August 26
+2003	Jordan
+Iraq	2
+1	Friendly
+in Jordan	+10
+-10	1522
+1605	+2
+0	69
+54
+October 08
+2003	Iraq
+Bahrain	5
+1	Asian Cup qualifier
+in Malaysia	+25
+-25	1630
+1462	+9
+-6	46
+86
+October 10
+2003	Malaysia
+Iraq	0
+0	Asian Cup qualifier
+in Malaysia	+11
+-11	1327
+1619	+2
+-5	127
+51
+October 12
+2003	Iraq
+Myanmar	3
+0	Asian Cup qualifier
+in Malaysia	+4
+-4	1623
+1143	0
+0	51
+165
+October 20
+2003	Iraq
+Malaysia	5
+1	Asian Cup qualifier
+in Bahrain	+12
+-12	1635
+1318	+5
+-3	46
+129
+October 22
+2003	Iraq
+Myanmar	3
+1	Asian Cup qualifier
+in Bahrain	+3
+-3	1638
+1134	+2
+-1	44
+166
+October 24
+2003	Bahrain
+Iraq	1
+0	Asian Cup qualifier
+in Bahrain	+23
+-23	1508
+1615	+5
+-9	75
+53
+December 12
+2003	Bahrain
+Iraq	2
+2	Friendly tournament
+in Bahrain	0
+0	1508
+1615	0
+0	76
+52
+December 15
+2003	Iraq
+Kenya	2
+0	Friendly tournament
+in Bahrain	+15
+-15	1630
+1481	+4
+-3	48
+82
+December 18
+2003	Egypt
+Iraq	2
+0	Friendly tournament
+in Bahrain	+19
+-19	1697
+1611	+5
+-6	34
+54
+December 21
+2003	Qatar
+Iraq	0
+0	Friendly
+in Qatar	0
+0	1513
+1611	0
+0	74
+54
+February 12
+2004	Japan
+Iraq	2
+0	Friendly
+in Japan	+6
+-6	1763
+1605	+1
+-1	22
+54
+February 18
+2004	Uzbekistan
+Iraq	1
+1	World Cup qualifier
+in Uzbekistan	0
+0	1500
+1605	-1
+-1	77
+54
+March 31
+2004	Palestine
+Iraq	1
+1	World Cup qualifier
+in Qatar	+15
+-15	1292
+1590	+4
+-6	133
+60
+May 23
+2004	Trinidad and Tobago
+Iraq	2
+0	Friendly
+in England	+22
+-22	1432
+1568	+5
+-4	96
+62
+June 09
+2004	Iraq
+Taiwan	6
+1	World Cup qualifier
+in Jordan	+4
+-4	1572
+1050	+1
+-2	61
+182
+June 19
+2004	Iraq
+Palestine	2
+1	West Asian Championship
+in Iran	+7
+-7	1579
+1289	0
+-2	61
+136
+June 21
+2004	Jordan
+Iraq	2
+0	West Asian Championship
+in Iran	+29
+-29	1625
+1550	+8
+-3	50
+64
+June 23
+2004	Iran
+Iraq	2
+1	West Asian Championship
+in Iran	+7
+-7	1713
+1543	+2
+-3	29
+67
+June 25
+2004	Jordan
+Iraq	3
+1	West Asian Championship
+in Iran	+24
+-24	1639
+1519	+6
+-7	48
+74
+July 18
+2004	Uzbekistan
+Iraq	1
+0	Asian Cup
+in China	+27
+-27	1524
+1492	+5
+-4	73
+78
+July 22
+2004	Iraq
+Turkmenistan	3
+2	Asian Cup
+in China	+22
+-22	1514
+1424	+3
+-8	75
+100
+July 26
+2004	Iraq
+Saudi Arabia	2
+1	Asian Cup
+in China	+33
+-33	1547
+1589	+10
+-7	65
+58
+July 30
+2004	China
+Iraq	3
+0	Asian Cup
+in China	+24
+-24	1639
+1523	+4
+-9	47
+74
+September 08
+2004	Taiwan
+Iraq	1
+4	World Cup qualifier
+in Taiwan	-7
++7	1043
+1530	0
++1	182
+73
+October 07
+2004	Oman
+Iraq	1
+0	Friendly
+in Oman	+6
+-6	1597
+1524	+1
+0	60
+73
+October 13
+2004	Uzbekistan
+Iraq	2
+1	World Cup qualifier
+in Jordan	+16
+-16	1602
+1508	+6
+0	56
+74
+November 16
+2004	Iraq
+Palestine	4
+1	World Cup qualifier
+in Qatar	+15
+-15	1523
+1274	+1
+-5	74
+139
+December 03
+2004	Iraq
+Yemen	3
+1	Friendly
+in United Arab Emirates	+4
+-4	1527
+1194	+2
+-1	73
+158
+December 10
+2004	Oman
+Iraq	3
+1	Gulf Cup
+in Qatar	+25
+-25	1608
+1502	+4
+-4	55
+77
+December 13
+2004	Qatar
+Iraq	3
+3	Gulf Cup
+in Qatar	-4
++4	1475
+1506	0
++1	86
+76
+December 16
+2004	Iraq
+United Arab Emirates	1
+1	Gulf Cup
+in Qatar	-7
++7	1499
+1389	-2
++4	78
+101
+March 26
+2005	Australia
+Iraq	2
+1	Friendly
+in Australia	+2
+-2	1806
+1497	0
+-1	19
+79
+June 08
+2005	Jordan
+Iraq	0
+1	Friendly
+in Jordan	-14
++14	1543
+1511	-2
+0	70
+78
+August 07
+2005	Bahrain
+Iraq	2
+2	Friendly
+in Bahrain	-5
++5	1581
+1516	-2
++2	61
+79
+August 13
+2005	Cyprus
+Iraq	2
+1	Friendly
+in Cyprus	+10
+-10	1417
+1506	+1
+-2	99
+81
+October 11
+2005	Qatar
+Iraq	0
+0	Friendly
+in Qatar	-3
++3	1515
+1509	0
++1	76
+78
+November 26
+2005	Kuwait
+Iraq	0
+0	Friendly
+in Kuwait	-1
++1	1431
+1510	0
+0	93
+76
+December 01
+2005	Iraq
+Palestine	4
+0	West Asian Games
+in Qatar	+13
+-13	1523
+1218	+1
+-2	75
+150
+December 10
+2005	Syria
+Iraq	2
+2	West Asian Games
+in Qatar	+4
+-4	1456
+1519	+1
+0	89
+75
+February 13
+2006	Oman
+Iraq	1
+0	Friendly
+in Oman	+7
+-7	1550
+1512	+1
+-2	67
+76
+February 16
+2006	Thailand
+Iraq	4
+3	Friendly
+in Thailand	+12
+-12	1338
+1500	+4
+-1	118
+77
+February 22
+2006	Singapore
+Iraq	2
+0	Asian Cup qualifier
+in Singapore	+36
+-36	1363
+1464	+10
+-9	112
+86
+March 01
+2006	Iraq
+China	2
+1	Asian Cup qualifier
+in United Arab Emirates	+29
+-29	1493
+1593	+8
+-3	77
+56
+March 15
+2006	Saudi Arabia
+Iraq	2
+2	Friendly
+in Saudi Arabia	-6
++6	1612
+1499	-1
++1	53
+76
+July 15
+2006	Syria
+Iraq	1
+3	Friendly
+in Syria	-18
++18	1441
+1517	-5
++1	95
+74
+July 21
+2006	Jordan
+Iraq	2
+1	Friendly
+in Jordan	+8
+-8	1502
+1509	+1
+0	76
+74
+July 25
+2006	Syria
+Iraq	1
+2	Friendly
+in Syria	-11
++11	1430
+1520	-1
+0	96
+75
+August 09
+2006	Jordan
+Iraq	0
+1	Friendly
+in Jordan	-13
++13	1498
+1533	-1
++5	77
+70
+August 17
+2006	Iraq
+Palestine	3
+0	Asian Cup qualifier
+in Jordan	+11
+-11	1544
+1236	+2
+-1	68
+143
+September 06
+2006	Iraq
+Palestine	2
+2	Asian Cup qualifier
+in United Arab Emirates	-14
++14	1530
+1250	-3
++3	72
+140
+October 04
+2006	Iran
+Iraq	2
+0	Friendly tournament
+in Jordan	+11
+-11	1745
+1519	+2
+-3	29
+75
+October 11
+2006	Iraq
+Singapore	4
+2	Asian Cup qualifier
+in United Arab Emirates	+16
+-16	1535
+1326	+5
+-3	69
+120
+November 15
+2006	China
+Iraq	1
+1	Asian Cup qualifier
+in China	-8
++8	1582
+1543	-1
++4	57
+67
+January 18
+2007	Iraq
+Qatar	1
+0	Gulf Cup
+in United Arab Emirates	+20
+-20	1563
+1523	+7
+-8	61
+76
+January 21
+2007	Bahrain
+Iraq	1
+1	Gulf Cup
+in United Arab Emirates	+5
+-5	1470
+1558	+2
+-2	88
+64
+January 24
+2007	Saudi Arabia
+Iraq	1
+0	Gulf Cup
+in United Arab Emirates	+17
+-17	1635
+1541	+2
+-3	49
+66
+June 08
+2007	Jordan
+Iraq	1
+1	Friendly
+in Jordan	-3
++3	1531
+1544	0
+0	72
+69
+June 12
+2007	Jordan
+Iraq	0
+0	Friendly
+in Jordan	-2
++2	1529
+1546	0
+0	71
+68
+June 16
+2007	Iran
+Iraq	0
+0	West Asian Championship
+in Jordan	-11
++11	1741
+1557	-2
++4	29
+64
+June 18
+2007	Iraq
+Palestine	1
+0	West Asian Championship
+in Jordan	+6
+-6	1563
+1236	+1
+-2	64
+147
+June 22
+2007	Iraq
+Syria	3
+0	West Asian Championship
+in Jordan	+27
+-27	1590
+1452	+6
+-2	57
+89
+June 24
+2007	Iran
+Iraq	2
+1	West Asian Championship
+in Jordan	+11
+-11	1768
+1579	+2
+-3	24
+60
+June 29
+2007	South Korea
+Iraq	3
+0	Friendly
+in South Korea	+10
+-10	1649
+1569	+2
+-2	45
+62
+July 02
+2007	Uzbekistan
+Iraq	2
+0	Friendly
+in South Korea	+17
+-17	1538
+1552	+2
+-3	70
+64
+July 07
+2007	Thailand
+Iraq	1
+1	Asian Cup
+in Thailand	+7
+-7	1358
+1545	+3
+-2	112
+66
+July 13
+2007	Iraq
+Australia	3
+1	Asian Cup
+in Thailand	+56
+-56	1601
+1680	+9
+-9	56
+41
+July 16
+2007	Oman
+Iraq	0
+0	Asian Cup
+in Thailand	+4
+-4	1545
+1597	+3
+0	66
+56
+July 21
+2007	Iraq
+Vietnam	2
+0	Asian Cup
+in Thailand	+13
+-13	1610
+1312	+2
+-2	54
+128
+July 25
+2007	Iraq
+South Korea	0
+0	Asian Cup
+in Malaysia	+2
+-2	1612
+1633	0
+0	54
+48
+July 29
+2007	Iraq
+Saudi Arabia	1
+0	Asian Cup
+in Indonesia	+31
+-31	1643
+1673	+7
+-1	47
+42
+October 16
+2007	Qatar
+Iraq	3
+2	Friendly
+in Qatar	+12
+-12	1477
+1631	+2
+-5	85
+50
+October 22
+2007	Pakistan
+Iraq	0
+7	World Cup qualifier
+in Pakistan	-3
++3	916
+1634	0
+0	195
+49
+October 28
+2007	Iraq
+Pakistan	0
+0	World Cup qualifier
+in Syria	-19
++19	1615
+935	-5
++1	54
+194
+January 24
+2008	Iraq
+Jordan	1
+1	Friendly
+in United Arab Emirates	-3
++3	1612
+1502	-2
++1	53
+80
+January 31
+2008	United Arab Emirates
+Iraq	0
+1	Friendly
+in United Arab Emirates	-8
++8	1425
+1620	-1
++4	97
+51
+February 06
+2008	Iraq
+China	1
+1	World Cup qualifier
+in United Arab Emirates	-3
++3	1617
+1567	-2
++2	52
+60
+March 21
+2008	Kuwait
+Iraq	0
+0	Friendly
+in Kuwait	+3
+-3	1406
+1614	+1
+-1	101
+53
+March 26
+2008	Qatar
+Iraq	2
+0	World Cup qualifier
+in Qatar	+35
+-35	1493
+1579	+7
+-5	84
+58
+May 17
+2008	Syria
+Iraq	2
+1	Friendly
+in Syria	+9
+-9	1522
+1570	+1
+-1	75
+59
+May 25
+2008	Thailand
+Iraq	2
+1	Friendly
+in Thailand	+12
+-12	1417
+1558	+3
+-4	100
+63
+June 01
+2008	Australia
+Iraq	1
+0	World Cup qualifier
+in Australia	+7
+-7	1729
+1551	+1
+-1	33
+65
+June 07
+2008	Iraq
+Australia	1
+0	World Cup qualifier
+in United Arab Emirates	+29
+-29	1580
+1700	+8
+-7	58
+40
+June 14
+2008	China
+Iraq	1
+2	World Cup qualifier
+in China	-23
++23	1501
+1603	-5
++7	79
+52
+June 22
+2008	Qatar
+Iraq	1
+0	World Cup qualifier
+in United Arab Emirates	+26
+-26	1522
+1577	+5
+-5	76
+57
+December 27
+2008	United Arab Emirates
+Iraq	2
+2	Friendly
+in United Arab Emirates	+2
+-2	1412
+1575	+2
+0	101
+60
+January 04
+2009	Bahrain
+Iraq	3
+1	Gulf Cup
+in Oman	+36
+-36	1543
+1539	+14
+-7	66
+67
+January 07
+2009	Oman
+Iraq	4
+0	Gulf Cup
+in Oman	+28
+-28	1561
+1511	+11
+-13	60
+80
+January 10
+2009	Iraq
+Kuwait	1
+1	Gulf Cup
+in Oman	-3
++3	1508
+1456	+1
+0	78
+93
+March 22
+2009	Saudi Arabia
+Iraq	0
+0	Friendly
+in Saudi Arabia	-6
++6	1642
+1514	0
+0	46
+79
+March 28
+2009	South Korea
+Iraq	2
+1	Friendly
+in South Korea	+3
+-3	1711
+1511	+1
+-2	37
+80
+May 31
+2009	Qatar
+Iraq	1
+0	Friendly
+in Qatar	+8
+-8	1493
+1503	+1
+-1	84
+81
+June 09
+2009	Iraq
+Poland	1
+1	Friendly
+in South Africa	+5
+-5	1508
+1684	0
+-4	82
+45
+June 14
+2009	South Africa
+Iraq	0
+0	Confederations Cup
+in South Africa	-8
++8	1513
+1516	-6
++5	82
+78
+June 17
+2009	Spain
+Iraq	1
+0	Confederations Cup
+in South Africa	+2
+-2	2099
+1514	0
+-3	1
+81
+June 20
+2009	Iraq
+New Zealand	0
+0	Confederations Cup
+in South Africa	-2
++2	1512
+1490	-1
++1	82
+86
+July 10
+2009	Iraq
+Palestine	3
+0	Friendly
+in Iraq	+3
+-3	1515
+1187	+2
+-1	80
+160
+July 13
+2009	Iraq
+Palestine	4
+0	Friendly
+in Iraq	+3
+-3	1518
+1184	+1
+0	79
+160
+November 15
+2009	Iraq
+Azerbaijan	1
+0	Friendly tournament
+in United Arab Emirates	+9
+-9	1527
+1352	+4
+-2	78
+120
+November 18
+2009	United Arab Emirates
+Iraq	0
+1	Friendly tournament
+in United Arab Emirates	-14
++14	1382
+1541	-4
++5	113
+72
+September 16
+2010	Jordan
+Iraq	4
+1	Friendly
+in Jordan	+17
+-17	1460
+1524	+3
+-3	92
+78
+September 21
+2010	Iraq
+Oman	3
+2	Friendly
+in Jordan	+11
+-11	1535
+1552	+2
+-4	75
+70
+September 25
+2010	Iraq
+Yemen	2
+1	West Asian Championship
+in Jordan	+8
+-8	1543
+1289	+1
++1	74
+134
+September 29
+2010	Iraq
+Palestine	3
+0	West Asian Championship
+in Jordan	+8
+-8	1551
+1167	+1
+-2	72
+163
+October 01
+2010	Iran
+Iraq	2
+1	West Asian Championship
+in Jordan	+12
+-12	1717
+1539	+1
+-2	31
+74
+October 12
+2010	Qatar
+Iraq	1
+2	Friendly
+in Qatar	-12
++12	1493
+1551	-2
++4	88
+69
+November 11
+2010	Iraq
+India	2
+0	Friendly
+in United Arab Emirates	+4
+-4	1555
+1238	+1
+0	68
+147
+November 17
+2010	Iraq
+Kuwait	1
+1	Friendly
+in United Arab Emirates	0
+0	1555
+1540	0
+0	69
+73
+November 23
+2010	Iraq
+United Arab Emirates	0
+0	Gulf Cup
+in Yemen	-7
++7	1548
+1436	0
++2	70
+102
+November 26
+2010	Iraq
+Bahrain	3
+2	Gulf Cup
+in Yemen	+18
+-18	1566
+1490	+5
+-8	65
+90
+November 29
+2010	Iraq
+Oman	0
+0	Gulf Cup
+in Yemen	-3
++3	1563
+1510	-2
++3	68
+80
+December 02
+2010	Kuwait
+Iraq	2
+2	Gulf Cup
+in Yemen	-1
++1	1583
+1564	0
++2	58
+66
+December 18
+2010	Iraq
+Syria	0
+1	Friendly
+in Iraq	-14
++14	1550
+1540	-4
+0	70
+73
+December 22
+2010	Syria
+Iraq	0
+1	Friendly
+in Syria	-13
++13	1527
+1563	0
++3	73
+67
+December 28
+2010	Saudi Arabia
+Iraq	0
+1	Friendly
+in Saudi Arabia	-15
++15	1641
+1578	-4
++6	47
+61
+January 02
+2011	China
+Iraq	3
+2	Friendly
+in Qatar	+9
+-9	1631
+1569	+3
+-3	50
+64
+January 11
+2011	Iran
+Iraq	2
+1	Asian Cup
+in Qatar	+17
+-17	1704
+1552	+1
+-5	34
+69
+January 15
+2011	Iraq
+United Arab Emirates	1
+0	Asian Cup
+in Qatar	+20
+-20	1572
+1465	+8
+-4	63
+95
+January 19
+2011	Iraq
+North Korea	1
+0	Asian Cup
+in Qatar	+21
+-21	1593
+1488	+7
+-8	56
+90
+January 22
+2011	Australia
+Iraq	1
+0	Asian Cup
+in Qatar	+14
+-14	1777
+1579	+2
+-4	19
+61
+March 26
+2011	Iraq
+North Korea	2
+0	Friendly
+in United Arab Emirates	+11
+-11	1590
+1477	+1
+-5	58
+93
+March 29
+2011	Kuwait
+Iraq	1
+0	Friendly
+in United Arab Emirates	+12
+-12	1536
+1578	+4
+-2	70
+60
+June 29
+2011	Iraq
+Syria	1
+2	Friendly
+in Iraq	-15
++15	1563
+1520	-4
++6	64
+75
+July 13
+2011	Kuwait
+Iraq	2
+0	Friendly tournament
+in Jordan	+24
+-24	1569
+1539	+6
+-6	61
+70
+July 16
+2011	Jordan
+Iraq	1
+1	Friendly tournament
+in Jordan	-3
++3	1502
+1542	-1
++1	82
+69
+July 23
+2011	Iraq
+Yemen	2
+0	World Cup qualifier
+in Iraq	+7
+-7	1549
+1276	+3
+-1	66
+137
+July 28
+2011	Yemen
+Iraq	0
+0	World Cup qualifier
+in United Arab Emirates	+13
+-13	1289
+1536	+1
+-5	135
+71
+August 19
+2011	Qatar
+Iraq	0
+1	Friendly
+in Qatar	-12
++12	1479
+1548	-3
++1	90
+69
+September 02
+2011	Iraq
+Jordan	0
+2	World Cup qualifier
+in Iraq	-43
++43	1505
+1535	-11
++17	80
+70
+September 06
+2011	Singapore
+Iraq	0
+2	World Cup qualifier
+in Singapore	-24
++24	1306
+1529	-6
++8	132
+74
+October 11
+2011	China
+Iraq	0
+1	World Cup qualifier
+in China	-31
++31	1607
+1560	-6
++5	54
+68
+November 06
+2011	Iraq
+Lebanon	1
+0	Friendly
+in Qatar	+3
+-3	1563
+1221	+1
+-1	67
+149
+November 11
+2011	Iraq
+China	1
+0	World Cup qualifier
+in Qatar	+23
+-23	1586
+1584	+9
+-5	58
+59
+November 15
+2011	Jordan
+Iraq	1
+3	World Cup qualifier
+in Jordan	-38
++38	1544
+1624	-11
++6	71
+52
+December 13
+2011	Bahrain
+Iraq	3
+0	Pan Arab Games
+in Qatar	+48
+-48	1536
+1576	+15
+-9	74
+60
+December 16
+2011	Qatar
+Iraq	0
+0	Pan Arab Games
+in Qatar	-1
++1	1492
+1577	0
+0	88
+60
+January 22
+2012	Lebanon
+Iraq	1
+0	Friendly
+in Lebanon	+14
+-14	1332
+1563	+2
+-6	128
+66
+February 29
+2012	Iraq
+Singapore	7
+1	World Cup qualifier
+in Qatar	+13
+-13	1576
+1254	+6
+-4	60
+145
+April 17
+2012	Egypt
+Iraq	0
+0	Friendly
+in United Arab Emirates	-4
++4	1724
+1580	-2
+0	31
+60
+May 23
+2012	Iraq
+Sierra Leone	1
+0	Friendly
+in Turkey	+4
+-4	1584
+1309	+1
+0	59
+131
+May 28
+2012	Botswana
+Iraq	1
+1	Friendly
+in Turkey	+6
+-6	1368
+1578	+2
+-2	114
+62
+June 03
+2012	Jordan
+Iraq	1
+1	World Cup qualifier
+in Jordan	-4
++4	1550
+1582	-1
++3	71
+60
+June 12
+2012	Iraq
+Oman	1
+1	World Cup qualifier
+in Qatar	-3
++3	1579
+1532	0
++1	60
+79
+June 24
+2012	Iraq
+Lebanon	1
+0	Arab Nations Cup
+in Saudi Arabia	+7
+-7	1586
+1296	+1
+-2	59
+135
+June 30
+2012	Iraq
+Sudan	1
+1	Arab Nations Cup
+in Saudi Arabia	-7
++7	1579
+1475	-1
++2	61
+90
+July 03
+2012	Morocco
+Iraq	2
+1	Arab Nations Cup
+in Saudi Arabia	+19
+-19	1609
+1560	+6
+-7	53
+68
+July 05
+2012	Saudi Arabia
+Iraq	0
+1	Arab Nations Cup
+in Saudi Arabia	-23
++23	1487
+1583	-4
++7	88
+61
+September 11
+2012	Japan
+Iraq	1
+0	World Cup qualifier
+in Japan	+6
+-6	1788
+1577	+1
+0	20
+64
+October 11
+2012	Brazil
+Iraq	6
+0	Friendly
+in Sweden	+3
+-3	2044
+1574	0
+0	2
+64
+October 16
+2012	Iraq
+Australia	1
+2	World Cup qualifier
+in Qatar	-11
++11	1563
+1754	-4
++2	68
+24
+November 07
+2012	Qatar
+Iraq	2
+1	Friendly
+in Qatar	+10
+-10	1471
+1553	+1
+-1	91
+69
+November 14
+2012	Iraq
+Jordan	1
+0	World Cup qualifier
+in Qatar	+19
+-19	1572
+1514	+5
+-5	64
+79
+December 03
+2012	Bahrain
+Iraq	0
+0	Friendly
+in Qatar	+3
+-3	1450
+1569	0
+0	96
+64
+December 10
+2012	Iraq
+Jordan	1
+0	West Asian Championship
+in Kuwait	+17
+-17	1586
+1497	+5
+-4	60
+82
+December 13
+2012	Iraq
+Syria	1
+1	West Asian Championship
+in Kuwait	-6
++6	1580
+1484	0
++4	60
+85
+December 18
+2012	Iraq
+Oman	2
+0	West Asian Championship
+in Kuwait	+26
+-26	1606
+1510	+8
+-5	52
+79
+December 20
+2012	Syria
+Iraq	1
+0	West Asian Championship
+in Kuwait	+26
+-26	1530
+1580	+6
+-8	75
+60
+December 30
+2012	Tunisia
+Iraq	2
+1	Friendly
+in United Arab Emirates	+10
+-10	1599
+1570	+2
+-3	55
+63
+January 06
+2013	Iraq
+Saudi Arabia	2
+0	Gulf Cup
+in Bahrain	+24
+-24	1594
+1470	+5
+-7	57
+92
+January 09
+2013	Iraq
+Kuwait	1
+0	Gulf Cup
+in Bahrain	+13
+-13	1607
+1458	+4
+-3	52
+93
+January 12
+2013	Iraq
+Yemen	2
+0	Gulf Cup
+in Bahrain	+6
+-6	1613
+1220	0
+-1	52
+152
+January 15
+2013	Bahrain
+Iraq	1
+1	Gulf Cup
+in Bahrain	+2
+-2	1476
+1611	+2
+0	87
+52
+January 18
+2013	United Arab Emirates
+Iraq	2
+1	Gulf Cup
+in Bahrain	+22
+-22	1590
+1589	+9
+-6	57
+58
+February 01
+2013	Iraq
+Malaysia	3
+0	Friendly
+in United Arab Emirates	+3
+-3	1592
+1194	+1
+0	55
+156
+February 06
+2013	Iraq
+Indonesia	1
+0	Asian Cup qualifier
+in United Arab Emirates	+4
+-4	1596
+1222	+1
+0	54
+150
+March 22
+2013	China
+Iraq	1
+0	Asian Cup qualifier
+in China	+15
+-15	1599
+1581	+4
+-5	55
+60
+March 26
+2013	Iraq
+Syria	2
+1	Friendly
+in Iraq	+6
+-6	1587
+1507	+3
+-5	58
+82
+May 27
+2013	Iraq
+Liberia	0
+1	Friendly
+in Iraq	-18
++18	1569
+1363	-6
++5	64
+118
+June 04
+2013	Oman
+Iraq	1
+0	World Cup qualifier
+in Oman	+16
+-16	1547
+1553	+7
+-2	68
+66
+June 11
+2013	Iraq
+Japan	0
+1	World Cup qualifier
+in Qatar	-10
++10	1543
+1761	-4
++2	70
+25
+June 18
+2013	Australia
+Iraq	1
+0	World Cup qualifier
+in Australia	+6
+-6	1757
+1537	0
+-2	25
+74
+August 14
+2013	Chile
+Iraq	6
+0	Friendly
+in Denmark	+7
+-7	1833
+1530	+2
+-1	14
+75
+October 06
+2013	Iraq
+Yemen	3
+2	Friendly
+in Lebanon	+2
+-2	1532
+1188	+1
+-1	73
+161
+October 08
+2013	Lebanon
+Iraq	1
+1	Friendly
+in Lebanon	+2
+-2	1369
+1530	+1
+-1	115
+74
+October 15
+2013	Iraq
+Saudi Arabia	0
+2	Asian Cup qualifier
+in Jordan	-36
++36	1494
+1493	-8
++9	83
+84
+November 11
+2013	Iraq
+Syria	2
+1	Friendly
+in Jordan	+9
+-9	1503
+1455	+1
+-1	82
+93
+November 15
+2013	Saudi Arabia
+Iraq	2
+1	Asian Cup qualifier
+in Saudi Arabia	+15
+-15	1508
+1488	+4
+-2	80
+84
+November 19
+2013	Indonesia
+Iraq	0
+2	Asian Cup qualifier
+in Indonesia	-18
++18	1223
+1506	-4
++3	151
+81
+February 21
+2014	Iraq
+North Korea	2
+0	Friendly
+in United Arab Emirates	+18
+-18	1524
+1559	+6
+-5	75
+66
+March 05
+2014	Iraq
+China	3
+1	Asian Cup qualifier
+in United Arab Emirates	+35
+-35	1559
+1547	+10
+-14	65
+72

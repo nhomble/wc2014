@@ -1,0 +1,1971 @@
+July 16
+1992	Kazakhstan
+Uzbekistan	1
+0	Friendly tournament
+in Kazakhstan	+15
+-15	1515
+1585	-
+-	68
+51
+October 14
+1992	Uzbekistan
+Kazakhstan	1
+1	Friendly tournament
+in Uzbekistan	-7
++7	1578
+1522	-2
++3	52
+63
+December 01
+1992	Malaysia
+Uzbekistan	1
+0	Friendly
+in Malaysia	+15
+-15	1317
+1563	+2
+-3	119
+55
+April 11
+1994	Uzbekistan
+Turkmenistan	4
+0	Friendly tournament
+in Uzbekistan	+10
+-10	1573
+1381	+2
+-2	53
+108
+April 13
+1994	Uzbekistan
+Kazakhstan	1
+0	Friendly tournament
+in Uzbekistan	+9
+-9	1582
+1516	0
+-4	53
+70
+April 17
+1994	Uzbekistan
+Tajikistan	1
+1	Friendly tournament
+in Uzbekistan	-9
++9	1573
+1464	0
++1	53
+85
+April 19
+1994	Uzbekistan
+Kyrgyzstan	3
+0	Friendly tournament
+in Uzbekistan	+3
+-3	1576
+1181	0
+0	53
+159
+October 03
+1994	Uzbekistan
+Malaysia	5
+0	Asian Games
+in Japan	+14
+-14	1590
+1286	+2
+-3	49
+133
+October 05
+1994	Uzbekistan
+Hong Kong	1
+0	Asian Games
+in Japan	+4
+-4	1594
+1213	+1
+0	48
+151
+October 07
+1994	Uzbekistan
+Thailand	5
+4	Asian Games
+in Japan	+9
+-9	1603
+1378	+3
+-1	45
+109
+October 11
+1994	Uzbekistan
+Turkmenistan	3
+0	Asian Games
+in Japan	+21
+-21	1624
+1432	+6
+-8	39
+93
+October 13
+1994	Uzbekistan
+South Korea	1
+0	Asian Games
+in Japan	+23
+-23	1647
+1646	+5
+-3	35
+36
+October 16
+1994	Uzbekistan
+China	4
+2	Asian Games
+in Japan	+26
+-26	1673
+1578	+2
+-8	33
+52
+October 21
+1995	Uzbekistan
+Nigeria	2
+3	Afro-Asian Championship
+in Uzbekistan	-27
++27	1646
+1768	-3
++2	35
+23
+November 10
+1995	Nigeria
+Uzbekistan	1
+0	Afro-Asian Championship
+in Nigeria	+11
+-11	1779
+1635	0
+-3	23
+38
+May 08
+1996	Tajikistan
+Uzbekistan	4
+0	Asian Cup qualifier
+in Tajikistan	+48
+-48	1485
+1587	+9
+-11	82
+50
+June 19
+1996	Uzbekistan
+Tajikistan	5
+0	Asian Cup qualifier
+in Uzbekistan	+19
+-19	1606
+1466	+3
+-4	46
+86
+September 11
+1996	Japan
+Uzbekistan	1
+0	Friendly
+in Japan	+4
+-4	1729
+1602	0
+0	27
+46
+November 19
+1996	United Arab Emirates
+Uzbekistan	4
+2	Friendly
+in United Arab Emirates	+14
+-14	1531
+1588	+3
+-2	66
+52
+November 22
+1996	United Arab Emirates
+Uzbekistan	2
+0	Friendly
+in United Arab Emirates	+13
+-13	1544
+1575	+2
+-3	64
+55
+December 06
+1996	Uzbekistan
+China	2
+0	Asian Cup
+in United Arab Emirates	+32
+-32	1607
+1496	+5
+-11	49
+77
+December 09
+1996	Japan
+Uzbekistan	4
+0	Asian Cup
+in United Arab Emirates	+29
+-29	1772
+1578	+4
+-5	22
+54
+December 12
+1996	Syria
+Uzbekistan	2
+1	Asian Cup
+in United Arab Emirates	+35
+-35	1459
+1543	+6
+-9	88
+63
+April 02
+1997	Iraq
+Uzbekistan	6
+1	Nehru Gold Cup
+in India	+27
+-27	1686
+1516	+5
+-8	30
+70
+April 04
+1997	India
+Uzbekistan	2
+2	Nehru Gold Cup
+in India	+15
+-15	1112
+1501	+3
+-3	171
+73
+April 06
+1997	China
+Uzbekistan	1
+1	Nehru Gold Cup
+in India	-2
++2	1537
+1503	0
+0	63
+73
+April 09
+1997	Uzbekistan
+China	2
+1	Nehru Gold Cup
+in India	+22
+-22	1525
+1515	+7
+-8	66
+71
+April 12
+1997	Iraq
+Uzbekistan	3
+1	Nehru Gold Cup
+in India	+18
+-18	1688
+1507	+6
+-6	30
+72
+May 09
+1997	Yemen
+Uzbekistan	0
+1	World Cup qualifier
+in Yemen	-9
++9	1171
+1516	-2
++2	162
+71
+May 25
+1997	Uzbekistan
+Cambodia	6
+0	World Cup qualifier
+in Uzbekistan	+2
+-2	1518
+993	+1
+0	70
+190
+June 01
+1997	Indonesia
+Uzbekistan	1
+1	World Cup qualifier
+in Indonesia	+9
+-9	1256
+1509	+2
+-3	140
+73
+June 20
+1997	Uzbekistan
+Indonesia	3
+0	World Cup qualifier
+in Uzbekistan	+8
+-8	1517
+1250	+2
+-2	70
+141
+June 29
+1997	Cambodia
+Uzbekistan	1
+4	World Cup qualifier
+in Cambodia	-6
++6	987
+1523	0
++3	190
+67
+August 24
+1997	Uzbekistan
+Yemen	5
+1	World Cup qualifier
+in Uzbekistan	+6
+-6	1529
+1180	+2
+-2	66
+159
+September 07
+1997	Japan
+Uzbekistan	6
+3	World Cup qualifier
+in Japan	+13
+-13	1704
+1516	+1
+-2	30
+68
+September 12
+1997	South Korea
+Uzbekistan	2
+1	World Cup qualifier
+in South Korea	+7
+-7	1687
+1509	+2
+-1	33
+70
+September 20
+1997	Kazakhstan
+Uzbekistan	1
+1	World Cup qualifier
+in Kazakhstan	-3
++3	1455
+1512	0
+0	85
+70
+September 27
+1997	Uzbekistan
+United Arab Emirates	2
+3	World Cup qualifier
+in Uzbekistan	-19
++19	1493
+1655	-2
++5	72
+42
+October 11
+1997	Uzbekistan
+Japan	1
+1	World Cup qualifier
+in Uzbekistan	+4
+-4	1497
+1668	0
+-1	71
+37
+October 18
+1997	Uzbekistan
+South Korea	1
+5	World Cup qualifier
+in Uzbekistan	-24
++24	1473
+1749	-6
++5	77
+23
+October 25
+1997	Uzbekistan
+Kazakhstan	4
+0	World Cup qualifier
+in Uzbekistan	+31
+-31	1504
+1482	+7
+-6	70
+76
+November 02
+1997	United Arab Emirates
+Uzbekistan	0
+0	World Cup qualifier
+in United Arab Emirates	-10
++10	1596
+1514	0
+0	52
+71
+April 24
+1998	Azerbaijan
+Uzbekistan	2
+1	Friendly
+in Azerbaijan	+14
+-14	1290
+1500	+3
+-3	130
+70
+August 15
+1998	Thailand
+Uzbekistan	4
+1	Friendly
+in Thailand	+15
+-15	1460
+1485	+4
+-3	87
+76
+November 16
+1998	India
+Uzbekistan	0
+0	Friendly
+in India	+6
+-6	1165
+1479	+3
+-3	162
+79
+November 19
+1998	India
+Uzbekistan	0
+4	Friendly
+in India	-8
++8	1157
+1487	-2
++3	165
+76
+December 03
+1998	Uzbekistan
+Kuwait	3
+3	Asian Games
+in Thailand	+11
+-11	1498
+1696	+2
+-3	74
+31
+December 05
+1998	Uzbekistan
+Mongolia	15
+0	Asian Games
+in Thailand	+2
+-2	1500
+792	0
+0	74
+211
+December 07
+1998	Uzbekistan
+North Korea	4
+0	Asian Games
+in Thailand	+42
+-42	1542
+1501	+9
+-7	65
+73
+December 09
+1998	Uzbekistan
+India	2
+0	Asian Games
+in Thailand	+6
+-6	1548
+1148	+3
+0	62
+165
+December 11
+1998	Uzbekistan
+Turkmenistan	1
+1	Asian Games
+in Thailand	-7
++7	1541
+1430	-3
++3	65
+96
+December 14
+1998	Iran
+Uzbekistan	4
+0	Asian Games
+in Thailand	+26
+-26	1676
+1515	+6
+-3	37
+68
+July 11
+1999	Uzbekistan
+Malaysia	3
+0	Friendly
+in Uzbekistan	+3
+-3	1518
+1217	+2
+-1	69
+151
+July 24
+1999	Thailand
+Uzbekistan	1
+0	Friendly
+in Thailand	+10
+-10	1414
+1508	+2
+-4	98
+73
+August 18
+1999	Uzbekistan
+Azerbaijan	5
+1	Friendly
+in Uzbekistan	+5
+-5	1513
+1266	+1
+-2	72
+138
+November 21
+1999	Uzbekistan
+Bangladesh	6
+0	Asian Cup qualifier
+in United Arab Emirates	+6
+-6	1519
+1064	0
+-2	69
+179
+November 23
+1999	Uzbekistan
+Sri Lanka	6
+0	Asian Cup qualifier
+in United Arab Emirates	+2
+-2	1521
+898	0
+0	69
+201
+November 25
+1999	Uzbekistan
+India	3
+2	Asian Cup qualifier
+in United Arab Emirates	+5
+-5	1526
+1163	+4
+-1	65
+162
+November 27
+1999	United Arab Emirates
+Uzbekistan	0
+1	Asian Cup qualifier
+in United Arab Emirates	-23
++23	1457
+1549	-7
++3	86
+62
+February 29
+2000	Uzbekistan
+Mongolia	8
+1	Friendly
+in Uzbekistan	0
+0	1549
+792	0
+0	61
+211
+May 18
+2000	Thailand
+Uzbekistan	2
+0	Friendly
+in Thailand	+13
+-13	1511
+1536	+6
+-2	69
+63
+September 01
+2000	Iraq
+Uzbekistan	2
+0	Friendly tournament
+in China	+15
+-15	1668
+1521	+3
+-3	42
+69
+September 03
+2000	Thailand
+Uzbekistan	4
+2	Friendly tournament
+in China	+25
+-25	1515
+1496	+9
+-6	68
+74
+October 08
+2000	Uzbekistan
+Turkmenistan	3
+0	Friendly
+in Uzbekistan	+8
+-8	1504
+1383	+3
+-4	74
+107
+October 14
+2000	Qatar
+Uzbekistan	1
+1	Asian Cup
+in Lebanon	-1
++1	1517
+1505	-1
+0	69
+73
+October 17
+2000	Japan
+Uzbekistan	8
+1	Asian Cup
+in Lebanon	+28
+-28	1726
+1477	+5
+-7	28
+80
+October 20
+2000	Saudi Arabia
+Uzbekistan	5
+0	Asian Cup
+in Lebanon	+32
+-32	1639
+1445	+5
+-9	50
+89
+January 17
+2001	Israel
+Uzbekistan	2
+0	Friendly
+in Israel	+5
+-5	1638
+1440	0
+-4	49
+91
+February 12
+2001	Armenia
+Uzbekistan	2
+0	Friendly tournament
+in Bulgaria	+26
+-26	1407
+1414	+10
+-8	98
+96
+February 15
+2001	Uzbekistan
+Azerbaijan	2
+1	Friendly tournament
+in Bulgaria	+7
+-7	1421
+1206	+2
+-1	94
+152
+February 17
+2001	Uzbekistan
+Belarus	2
+0	Friendly tournament
+in Bulgaria	+21
+-21	1442
+1373	+6
+-7	88
+109
+April 23
+2001	Uzbekistan
+Taiwan	7
+0	World Cup qualifier
+in Uzbekistan	+5
+-5	1447
+1048	+3
+-2	86
+180
+April 25
+2001	Uzbekistan
+Turkmenistan	1
+0	World Cup qualifier
+in Uzbekistan	+13
+-13	1460
+1403	+3
+-3	83
+98
+April 27
+2001	Uzbekistan
+Jordan	2
+2	World Cup qualifier
+in Uzbekistan	-9
++9	1451
+1406	-2
++4	86
+98
+May 03
+2001	Uzbekistan
+Turkmenistan	5
+2	World Cup qualifier
+in Jordan	+31
+-31	1482
+1381	+9
+-13	77
+108
+May 05
+2001	Uzbekistan
+Taiwan	4
+0	World Cup qualifier
+in Jordan	+5
+-5	1487
+1022	0
+0	77
+186
+May 07
+2001	Jordan
+Uzbekistan	1
+1	World Cup qualifier
+in Jordan	0
+0	1384
+1487	0
+0	108
+77
+June 26
+2001	Uzbekistan
+India	2
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1491
+1159	+1
+-1	76
+165
+June 28
+2001	Uzbekistan
+Bahrain	2
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1511
+1428	+5
+-10	71
+95
+June 30
+2001	Uzbekistan
+Bosnia and Herzegovina	2
+1	Merdeka Tournament
+in Malaysia	+17
+-17	1528
+1542	+4
+-1	67
+65
+August 17
+2001	United Arab Emirates
+Uzbekistan	4
+1	World Cup qualifier
+in United Arab Emirates	+34
+-34	1467
+1494	+13
+-11	83
+78
+August 26
+2001	Uzbekistan
+Qatar	2
+1	World Cup qualifier
+in Uzbekistan	+19
+-19	1513
+1566	+6
+-3	72
+59
+September 08
+2001	Uzbekistan
+Oman	5
+0	World Cup qualifier
+in Uzbekistan	+17
+-17	1530
+1365	+5
+-8	66
+116
+September 15
+2001	China
+Uzbekistan	2
+0	World Cup qualifier
+in China	+10
+-10	1714
+1520	+2
+-3	31
+69
+September 22
+2001	Uzbekistan
+United Arab Emirates	0
+1	World Cup qualifier
+in Uzbekistan	-29
++29	1491
+1484	-10
++7	78
+81
+September 28
+2001	Qatar
+Uzbekistan	2
+2	World Cup qualifier
+in Qatar	-11
++11	1604
+1502	-2
++3	53
+75
+October 13
+2001	Oman
+Uzbekistan	4
+2	World Cup qualifier
+in Oman	+36
+-36	1369
+1466	+9
+-8	114
+84
+October 19
+2001	Uzbekistan
+China	1
+0	World Cup qualifier
+in Uzbekistan	+29
+-29	1495
+1713	+8
+-8	77
+34
+May 14
+2002	Slovakia
+Uzbekistan	4
+1	Friendly
+in Slovakia	+7
+-7	1636
+1488	+2
+-3	45
+77
+August 21
+2002	Azerbaijan
+Uzbekistan	2
+0	Friendly
+in Azerbaijan	+20
+-20	1287
+1468	+7
+-7	135
+84
+April 02
+2003	Belarus
+Uzbekistan	2
+2	Friendly
+in Belarus	-4
++4	1503
+1472	-1
+0	73
+85
+April 30
+2003	Uzbekistan
+Belarus	1
+2	Friendly
+in Uzbekistan	-12
++12	1460
+1515	-2
++4	86
+70
+August 20
+2003	Latvia
+Uzbekistan	0
+3	Friendly
+in Latvia	-22
++22	1420
+1482	-4
++4	97
+80
+October 11
+2003	United Arab Emirates
+Uzbekistan	2
+2	Friendly
+in United Arab Emirates	0
+0	1387
+1482	-1
+0	109
+80
+November 06
+2003	Uzbekistan
+Hong Kong	4
+1	Asian Cup qualifier
+in Uzbekistan	+6
+-6	1488
+1175	0
+-1	81
+160
+November 08
+2003	Uzbekistan
+Thailand	3
+0	Asian Cup qualifier
+in Uzbekistan	+21
+-21	1509
+1416	+9
+-6	72
+99
+November 10
+2003	Uzbekistan
+Tajikistan	0
+0	Asian Cup qualifier
+in Uzbekistan	-8
++8	1501
+1460	-5
++1	77
+87
+November 17
+2003	Uzbekistan
+Tajikistan	4
+1	Asian Cup qualifier
+in Thailand	+31
+-31	1532
+1429	+8
+-10	69
+97
+November 19
+2003	Uzbekistan
+Hong Kong	1
+0	Asian Cup qualifier
+in Thailand	+5
+-5	1537
+1202	+3
+0	66
+154
+November 21
+2003	Thailand
+Uzbekistan	4
+1	Asian Cup qualifier
+in Thailand	+37
+-37	1451
+1500	+13
+-10	87
+76
+February 18
+2004	Uzbekistan
+Iraq	1
+1	World Cup qualifier
+in Uzbekistan	0
+0	1500
+1605	-1
+-1	77
+54
+March 31
+2004	Taiwan
+Uzbekistan	0
+1	World Cup qualifier
+in Taiwan	-5
++5	1054
+1505	-2
++2	181
+74
+May 28
+2004	Azerbaijan
+Uzbekistan	3
+1	Friendly
+in Azerbaijan	+19
+-19	1332
+1486	+4
+-4	125
+78
+June 09
+2004	Uzbekistan
+Palestine	3
+0	World Cup qualifier
+in Uzbekistan	+11
+-11	1497
+1281	+4
+-5	75
+138
+July 18
+2004	Uzbekistan
+Iraq	1
+0	Asian Cup
+in China	+27
+-27	1524
+1492	+5
+-4	73
+78
+July 22
+2004	Uzbekistan
+Saudi Arabia	1
+0	Asian Cup
+in China	+34
+-34	1558
+1622	+11
+-12	62
+51
+July 26
+2004	Uzbekistan
+Turkmenistan	1
+0	Asian Cup
+in China	+16
+-16	1574
+1408	+1
+-2	62
+102
+July 30
+2004	Bahrain
+Uzbekistan	2
+2	Asian Cup
+in China	-1
++1	1582
+1575	-1
+0	60
+63
+September 08
+2004	Uzbekistan
+Palestine	3
+0	World Cup qualifier
+in Qatar	+11
+-11	1586
+1276	-1
+-4	62
+140
+October 13
+2004	Uzbekistan
+Iraq	2
+1	World Cup qualifier
+in Jordan	+16
+-16	1602
+1508	+6
+0	56
+74
+November 17
+2004	Uzbekistan
+Taiwan	6
+1	World Cup qualifier
+in Uzbekistan	+2
+-2	1604
+1028	0
+0	56
+186
+February 09
+2005	Uzbekistan
+Saudi Arabia	1
+1	World Cup qualifier
+in Uzbekistan	-9
++9	1595
+1551	-5
+-1	58
+69
+March 25
+2005	Kuwait
+Uzbekistan	2
+1	World Cup qualifier
+in Kuwait	+20
+-20	1515
+1575	+2
+-3	76
+62
+March 30
+2005	South Korea
+Uzbekistan	2
+1	World Cup qualifier
+in South Korea	+10
+-10	1668
+1565	+1
+-2	42
+65
+June 03
+2005	Uzbekistan
+South Korea	1
+1	World Cup qualifier
+in Uzbekistan	0
+0	1565
+1668	0
+0	65
+42
+June 08
+2005	Saudi Arabia
+Uzbekistan	3
+0	World Cup qualifier
+in Saudi Arabia	+21
+-21	1631
+1544	+2
+-4	52
+69
+August 17
+2005	Uzbekistan
+Kuwait	3
+2	World Cup qualifier
+in Uzbekistan	+10
+-10	1554
+1432	+4
+-2	64
+95
+September 03
+2005	Uzbekistan
+Bahrain	1
+0	World Cup qualifier
+in Uzbekistan	+14
+-14	1568
+1536	+3
+-1	61
+68
+October 08
+2005	Uzbekistan
+Bahrain	1
+1	World Cup qualifier
+in Uzbekistan	-7
++7	1561
+1543	-1
+-1	62
+67
+October 12
+2005	Bahrain
+Uzbekistan	0
+0	World Cup qualifier
+in Bahrain	-5
++5	1538
+1566	-1
+0	69
+62
+February 22
+2006	Uzbekistan
+Bangladesh	5
+0	Asian Cup qualifier
+in Uzbekistan	+3
+-3	1569
+1071	+1
+-1	58
+179
+March 01
+2006	Qatar
+Uzbekistan	2
+1	Asian Cup qualifier
+in Qatar	+16
+-16	1557
+1553	+2
+-7	65
+67
+August 16
+2006	Uzbekistan
+Hong Kong	2
+2	Asian Cup qualifier
+in Uzbekistan	-17
++17	1536
+1232	-1
++6	68
+145
+September 02
+2006	Thailand
+Uzbekistan	0
+1	Friendly
+in Thailand	-6
++6	1293
+1542	+1
+0	129
+69
+September 06
+2006	Hong Kong
+Uzbekistan	0
+0	Asian Cup qualifier
+in Hong Kong	+11
+-11	1243
+1531	+4
+-1	142
+71
+October 11
+2006	Bangladesh
+Uzbekistan	0
+4	Asian Cup qualifier
+in Bangladesh	-7
++7	1028
+1538	0
++2	182
+67
+November 15
+2006	Uzbekistan
+Qatar	2
+0	Asian Cup qualifier
+in Uzbekistan	+24
+-24	1562
+1546	+8
+-4	61
+65
+February 07
+2007	Uzbekistan
+Azerbaijan	0
+0	Friendly
+in Uzbekistan	-8
++8	1554
+1325	-1
++2	63
+121
+March 07
+2007	Azerbaijan
+Uzbekistan	1
+0	Friendly tournament
+in Kazakhstan	+24
+-24	1349
+1530	+7
+-9	114
+73
+March 09
+2007	Uzbekistan
+Kyrgyzstan	6
+0	Friendly tournament
+in Kazakhstan	+8
+-8	1538
+1175	+5
+-6	68
+166
+March 11
+2007	Kazakhstan
+Uzbekistan	1
+1	Friendly tournament
+in Kazakhstan	+5
+-5	1325
+1533	0
+-5	122
+73
+March 24
+2007	Taiwan
+Uzbekistan	0
+1	Friendly
+in Taiwan	-1
++1	939
+1534	-1
+0	192
+73
+March 27
+2007	China
+Uzbekistan	3
+1	Friendly
+in Macao	+13
+-13	1586
+1521	+3
+-2	58
+75
+July 02
+2007	Uzbekistan
+Iraq	2
+0	Friendly
+in South Korea	+17
+-17	1538
+1552	+2
+-3	70
+64
+July 05
+2007	South Korea
+Uzbekistan	2
+1	Friendly
+in South Korea	+5
+-5	1654
+1533	+1
+-1	44
+71
+July 11
+2007	Iran
+Uzbekistan	2
+1	Asian Cup
+in Malaysia	+10
+-10	1784
+1523	+3
+-1	19
+72
+July 14
+2007	Malaysia
+Uzbekistan	0
+5	Asian Cup
+in Malaysia	-20
++20	1159
+1543	-4
++5	168
+67
+July 18
+2007	Uzbekistan
+China	3
+0	Asian Cup
+in Malaysia	+50
+-50	1593
+1546	+11
+-9	57
+66
+July 22
+2007	Saudi Arabia
+Uzbekistan	2
+1	Asian Cup
+in Indonesia	+21
+-21	1674
+1572	+2
+-4	42
+61
+August 22
+2007	Ukraine
+Uzbekistan	2
+1	Friendly
+in Ukraine	+3
+-3	1782
+1569	+2
+0	19
+60
+October 13
+2007	Uzbekistan
+Taiwan	9
+0	World Cup qualifier
+in Uzbekistan	+2
+-2	1571
+999	0
+-1	62
+186
+October 28
+2007	Taiwan
+Uzbekistan	0
+2	World Cup qualifier
+in Taiwan	-4
++4	995
+1575	-1
+0	187
+63
+November 21
+2007	Uzbekistan
+Estonia	0
+0	Friendly
+in Uzbekistan	-7
++7	1568
+1372	0
++1	61
+110
+December 22
+2007	Thailand
+Uzbekistan	3
+2	King's Cup
+in Thailand	+18
+-18	1411
+1550	+2
+-4	102
+65
+December 24
+2007	North Korea
+Uzbekistan	2
+2	King's Cup
+in Thailand	+3
+-3	1489
+1547	+1
+-3	82
+68
+February 06
+2008	Lebanon
+Uzbekistan	0
+1	World Cup qualifier
+in Lebanon	-14
++14	1323
+1561	-6
++6	127
+63
+March 22
+2008	Uzbekistan
+Jordan	4
+1	Friendly
+in Uzbekistan	+9
+-9	1570
+1467	+3
+-2	59
+89
+March 26
+2008	Uzbekistan
+Saudi Arabia	3
+0	World Cup qualifier
+in Uzbekistan	+33
+-33	1603
+1621	+5
+-4	54
+48
+June 02
+2008	Singapore
+Uzbekistan	3
+7	World Cup qualifier
+in Singapore	-24
++24	1348
+1627	-4
++4	116
+48
+June 07
+2008	Uzbekistan
+Singapore	1
+0	World Cup qualifier
+in Uzbekistan	+4
+-4	1631
+1344	+1
+-1	47
+117
+June 14
+2008	Uzbekistan
+Lebanon	3
+0	World Cup qualifier
+in Uzbekistan	+6
+-6	1637
+1308	0
+-1	47
+128
+June 22
+2008	Saudi Arabia
+Uzbekistan	4
+0	World Cup qualifier
+in Saudi Arabia	+25
+-25	1678
+1612	+3
+-4	41
+51
+August 20
+2008	Oman
+Uzbekistan	2
+0	Friendly
+in Oman	+17
+-17	1482
+1595	+5
+-3	87
+54
+August 29
+2008	Uzbekistan
+North Korea	0
+0	Friendly
+in Uzbekistan	-5
++5	1590
+1527	0
+0	54
+77
+September 06
+2008	Qatar
+Uzbekistan	3
+0	World Cup qualifier
+in Qatar	+35
+-35	1526
+1555	+7
+-9	78
+63
+September 10
+2008	Uzbekistan
+Australia	0
+1	World Cup qualifier
+in Uzbekistan	-17
++17	1538
+1717	-7
++3	69
+34
+October 11
+2008	South Korea
+Uzbekistan	3
+0	Friendly
+in South Korea	+8
+-8	1661
+1530	+1
+-6	44
+75
+October 15
+2008	Japan
+Uzbekistan	1
+1	World Cup qualifier
+in Japan	-15
++15	1735
+1545	-5
++8	31
+67
+January 28
+2009	United Arab Emirates
+Uzbekistan	0
+1	Asian Cup qualifier
+in United Arab Emirates	-20
++20	1417
+1565	-5
++5	102
+62
+February 01
+2009	Azerbaijan
+Uzbekistan	1
+1	Friendly
+in United Arab Emirates	+6
+-6	1344
+1559	+2
+-1	122
+63
+February 11
+2009	Uzbekistan
+Bahrain	0
+1	World Cup qualifier
+in Uzbekistan	-26
++26	1533
+1573	-8
++8	71
+59
+March 28
+2009	Uzbekistan
+Qatar	4
+0	World Cup qualifier
+in Uzbekistan	+24
+-24	1557
+1482	+7
+-7	64
+86
+April 01
+2009	Australia
+Uzbekistan	2
+0	World Cup qualifier
+in Australia	+12
+-12	1707
+1545	+2
+-7	38
+70
+June 01
+2009	Uzbekistan
+Bosnia and Herzegovina	0
+0	Friendly
+in Uzbekistan	-1
++1	1544
+1604	0
+0	70
+54
+June 06
+2009	Uzbekistan
+Japan	0
+1	World Cup qualifier
+in Uzbekistan	-13
++13	1531
+1789	-3
++2	73
+16
+June 17
+2009	Bahrain
+Uzbekistan	1
+0	World Cup qualifier
+in Bahrain	+12
+-12	1594
+1519	+1
+-6	56
+77
+September 05
+2009	Uzbekistan
+Iran	0
+0	Friendly
+in Uzbekistan	+2
+-2	1521
+1687	+1
++1	77
+42
+November 14
+2009	Uzbekistan
+Malaysia	3
+1	Asian Cup qualifier
+in Uzbekistan	+4
+-4	1525
+1174	0
+-2	79
+163
+November 18
+2009	Malaysia
+Uzbekistan	1
+3	Asian Cup qualifier
+in Malaysia	-11
++11	1163
+1536	-3
++3	166
+76
+March 03
+2010	Uzbekistan
+United Arab Emirates	0
+1	Asian Cup qualifier
+in Uzbekistan	-32
++32	1504
+1425	-8
++9	84
+99
+May 25
+2010	Armenia
+Uzbekistan	3
+1	Friendly
+in Armenia	+18
+-18	1362
+1486	+3
+-3	118
+88
+August 11
+2010	Albania
+Uzbekistan	1
+0	Friendly
+in Albania	+7
+-7	1498
+1479	0
+-4	86
+91
+September 07
+2010	Estonia
+Uzbekistan	3
+3	Friendly
+in Estonia	-2
++2	1430
+1481	-2
++1	101
+90
+October 09
+2010	Saudi Arabia
+Uzbekistan	4
+0	Friendly
+in Saudi Arabia	+6
+-6	1685
+1475	+3
+-1	36
+91
+October 12
+2010	Bahrain
+Uzbekistan	2
+4	Friendly
+in Bahrain	-22
++22	1530
+1497	-3
++5	74
+85
+December 25
+2010	Bahrain
+Uzbekistan	1
+1	Friendly
+in United Arab Emirates	+1
+-1	1457
+1496	0
+0	97
+87
+January 02
+2011	Jordan
+Uzbekistan	2
+2	Friendly
+in United Arab Emirates	+1
+-1	1458
+1495	0
+0	97
+87
+January 07
+2011	Qatar
+Uzbekistan	0
+2	Asian Cup
+in Qatar	-49
++49	1454
+1544	-12
++15	96
+72
+January 12
+2011	Uzbekistan
+Kuwait	2
+1	Asian Cup
+in Qatar	+28
+-28	1572
+1561	+9
+-10	63
+68
+January 16
+2011	China
+Uzbekistan	2
+2	Asian Cup
+in Qatar	-3
++3	1616
+1575	0
++2	51
+61
+January 21
+2011	Uzbekistan
+Jordan	2
+1	Asian Cup
+in Qatar	+22
+-22	1597
+1515	+6
+-6	56
+80
+January 25
+2011	Australia
+Uzbekistan	6
+0	Asian Cup
+in Qatar	+28
+-28	1805
+1569	+6
+-7	13
+63
+January 28
+2011	South Korea
+Uzbekistan	3
+2	Asian Cup
+in Qatar	+12
+-12	1779
+1557	+1
+-5	20
+68
+March 25
+2011	Montenegro
+Uzbekistan	1
+0	Friendly
+in Montenegro	+5
+-5	1675
+1552	+1
+0	39
+67
+June 01
+2011	Ukraine
+Uzbekistan	2
+0	Friendly
+in Ukraine	+4
+-4	1766
+1548	+1
+-1	20
+68
+June 05
+2011	China
+Uzbekistan	1
+0	Friendly
+in China	+5
+-5	1637
+1543	+1
+-1	48
+68
+July 23
+2011	Uzbekistan
+Kyrgyzstan	4
+0	World Cup qualifier
+in Uzbekistan	+4
+-4	1547
+1122	0
+0	67
+171
+July 28
+2011	Kyrgyzstan
+Uzbekistan	0
+3	World Cup qualifier
+in Kyrgyzstan	-9
++9	1113
+1556	0
+0	171
+67
+September 02
+2011	Tajikistan
+Uzbekistan	0
+1	World Cup qualifier
+in Tajikistan	-10
++10	1259
+1566	-1
++1	142
+67
+September 06
+2011	Uzbekistan
+Japan	1
+1	World Cup qualifier
+in Uzbekistan	+8
+-8	1574
+1814	+5
+-1	61
+15
+October 11
+2011	North Korea
+Uzbekistan	0
+1	World Cup qualifier
+in North Korea	-21
++21	1467
+1595	-7
++4	93
+57
+November 11
+2011	Uzbekistan
+North Korea	1
+0	World Cup qualifier
+in Uzbekistan	+8
+-8	1603
+1459	+2
+0	55
+93
+November 15
+2011	Uzbekistan
+Tajikistan	3
+0	World Cup qualifier
+in Uzbekistan	+5
+-5	1608
+1242	+1
+0	55
+145
+January 17
+2012	Kuwait
+Uzbekistan	1
+0	Friendly
+in Kuwait	+10
+-10	1532
+1598	0
+-1	75
+55
+January 29
+2012	United Arab Emirates
+Uzbekistan	1
+0	Friendly
+in United Arab Emirates	+13
+-13	1394
+1585	+3
+-3	106
+58
+February 25
+2012	South Korea
+Uzbekistan	4
+2	Friendly
+in South Korea	+5
+-5	1761
+1580	+2
+-1	23
+60
+February 29
+2012	Japan
+Uzbekistan	0
+1	World Cup qualifier
+in Japan	-34
++34	1757
+1614	-7
++6	25
+54
+June 03
+2012	Uzbekistan
+Iran	0
+1	World Cup qualifier
+in Uzbekistan	-21
++21	1593
+1720	-5
++2	58
+33
+June 08
+2012	Lebanon
+Uzbekistan	1
+1	World Cup qualifier
+in Lebanon	+10
+-10	1305
+1583	+3
+-1	133
+59
+August 13
+2012	Jordan
+Uzbekistan	0
+1	Friendly
+in Jordan	-12
++12	1526
+1595	-4
+0	78
+61
+August 15
+2012	Jordan
+Uzbekistan	2
+0	Friendly
+in Jordan	+14
+-14	1540
+1581	+4
+-4	74
+65
+September 07
+2012	Uzbekistan
+Kuwait	3
+0	Friendly
+in Uzbekistan	+10
+-10	1591
+1503	+4
+-4	61
+84
+September 11
+2012	Uzbekistan
+South Korea	2
+2	World Cup qualifier
+in Uzbekistan	+5
+-5	1596
+1784	+1
+-2	57
+21
+October 12
+2012	United Arab Emirates
+Uzbekistan	2
+2	Friendly
+in United Arab Emirates	+2
+-2	1434
+1594	+1
+-1	99
+58
+October 16
+2012	Qatar
+Uzbekistan	0
+1	World Cup qualifier
+in Qatar	-19
++19	1461
+1613	-3
++6	92
+52
+November 14
+2012	Iran
+Uzbekistan	0
+1	World Cup qualifier
+in Iran	-29
++29	1659
+1642	-7
++5	43
+47
+February 01
+2013	Azerbaijan
+Uzbekistan	0
+0	Friendly
+in United Arab Emirates	+6
+-6	1392
+1636	0
+-1	109
+47
+February 06
+2013	Uzbekistan
+Hong Kong	0
+0	Asian Cup qualifier
+in Uzbekistan	-19
++19	1617
+1189	-2
++5	50
+158
+March 22
+2013	United Arab Emirates
+Uzbekistan	2
+1	Asian Cup qualifier
+in United Arab Emirates	+16
+-16	1604
+1601	+5
+-4	52
+54
+March 26
+2013	Uzbekistan
+Lebanon	1
+0	World Cup qualifier
+in Uzbekistan	+4
+-4	1605
+1332	0
+-1	54
+125
+June 06
+2013	China
+Uzbekistan	1
+2	Friendly
+in China	-13
++13	1586
+1618	-3
++2	59
+52
+June 11
+2013	South Korea
+Uzbekistan	1
+0	World Cup qualifier
+in South Korea	+9
+-9	1736
+1609	+1
+-1	29
+53
+June 18
+2013	Uzbekistan
+Qatar	5
+1	World Cup qualifier
+in Uzbekistan	+14
+-14	1623
+1443	+4
+-5	49
+98
+September 06
+2013	Jordan
+Uzbekistan	1
+1	World Cup qualifier
+in Jordan	-2
++2	1551
+1625	0
+-2	70
+51
+September 10
+2013	Uzbekistan
+Jordan	1
+1	World Cup qualifier
+in Uzbekistan	-9
++9	1616
+1560	-3
++3	54
+67
+October 15
+2013	Uzbekistan
+Vietnam	3
+1	Asian Cup qualifier
+in Uzbekistan	+4
+-4	1620
+1240	+4
+-1	51
+148
+November 15
+2013	Vietnam
+Uzbekistan	0
+3	Asian Cup qualifier
+in Vietnam	-12
++12	1228
+1632	-1
++3	150
+48
+November 19
+2013	Hong Kong
+Uzbekistan	0
+2	Asian Cup qualifier
+in Hong Kong	-7
++7	1181
+1639	-1
+0	161
+48
+March 05
+2014	Uzbekistan
+United Arab Emirates	1
+1	Asian Cup qualifier
+in Uzbekistan	-5
++5	1634
+1647	-1
++1	49
+46

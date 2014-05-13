@@ -1,0 +1,8622 @@
+August 02
+1948	South Korea
+Mexico	5
+3	Olympic Games
+in England	+61
+-61	1761
+1767	-
+-4	13
+12
+August 05
+1948	Sweden
+South Korea	12
+0	Olympic Games
+in England	+69
+-69	1902
+1692	+4
+-8	4
+21
+January 01
+1949	Hong Kong
+South Korea	2
+5	Friendly
+in Hong Kong	-9
++9	1391
+1701	-
++2	63
+18
+January 02
+1949	China
+South Korea	3
+2	Friendly
+in Hong Kong	+15
+-15	1532
+1686	+1
+-3	40
+21
+January 09
+1949	Hong Kong
+South Korea	2
+4	Friendly
+in Hong Kong	-7
++7	1384
+1693	0
++1	63
+20
+January 15
+1949	South Vietnam
+South Korea	2
+4	Friendly
+in South Vietnam	-7
++7	1393
+1700	-
++2	62
+18
+January 16
+1949	South Vietnam
+South Korea	3
+3	Friendly
+in South Vietnam	+5
+-5	1398
+1695	0
+-1	62
+19
+January 25
+1949	Macao
+South Korea	1
+5	Friendly
+in Macao	-2
++2	1098
+1697	-
++1	91
+18
+April 15
+1950	Hong Kong
+South Korea	3
+6	Friendly
+in Hong Kong	-8
++8	1376
+1705	-1
++1	69
+18
+April 16
+1950	South Korea
+China	3
+1	Friendly
+in Hong Kong	+8
+-8	1713
+1524	+1
+-1	17
+43
+April 05
+1953	Hong Kong
+South Korea	3
+0	Friendly
+in Hong Kong	+28
+-28	1404
+1685	+9
+-3	65
+20
+April 06
+1953	South Korea
+China	4
+0	Friendly
+in Hong Kong	+10
+-10	1695
+1492	0
+-5	20
+51
+April 07
+1953	Hong Kong
+South Korea	5
+3	Friendly
+in Hong Kong	+23
+-23	1427
+1672	+1
+-1	64
+21
+April 08
+1953	South Korea
+China	2
+4	Friendly
+in Hong Kong	-22
++22	1650
+1514	-2
++7	23
+44
+April 11
+1953	Singapore
+South Korea	2
+3	Friendly
+in Singapore	-4
++4	1296
+1654	-
++1	87
+22
+April 13
+1953	South Korea
+Malaya	3
+2	Friendly
+in Singapore	+4
+-4	1658
+1396	0
+-	22
+70
+April 14
+1953	Singapore
+South Korea	3
+1	Friendly
+in Singapore	+25
+-25	1321
+1633	+3
+-3	85
+25
+April 15
+1953	Singapore
+South Korea	1
+3	Friendly
+in Singapore	-7
++7	1314
+1640	-1
++1	86
+24
+April 16
+1953	South Korea
+Malaya	0
+0	Friendly
+in Singapore	-6
++6	1634
+1402	-1
++3	25
+67
+April 17
+1953	Singapore
+South Korea	0
+0	Friendly
+in Singapore	+6
+-6	1320
+1628	+1
+-1	85
+26
+April 18
+1953	South Korea
+Indonesia	3
+1	Friendly
+in Singapore	+5
+-5	1633
+1338	+1
+0	25
+83
+March 07
+1954	Japan
+South Korea	1
+5	World Cup qualifier
+in Japan	-13
++13	1244
+1646	-1
+0	99
+27
+March 14
+1954	Japan
+South Korea	2
+2	World Cup qualifier
+in Japan	+14
+-14	1258
+1632	+1
+0	98
+27
+May 01
+1954	Hong Kong
+South Korea	3
+3	Asian Games
+in the Philippines	+11
+-11	1438
+1621	0
+-1	63
+28
+May 02
+1954	South Korea
+Afghanistan	8
+2	Asian Games
+in the Philippines	+3
+-3	1624
+1040	0
+0	28
+115
+May 06
+1954	Burma
+South Korea	2
+2	Asian Games
+in the Philippines	+16
+-16	1262
+1608	+1
+-2	99
+30
+May 08
+1954	Taiwan
+South Korea	5
+2	Asian Games
+in the Philippines	+41
+-41	1593
+1567	+9
+-7	33
+37
+June 17
+1954	Hungary
+South Korea	9
+0	World Cup
+in Switzerland	+8
+-8	2075
+1559	0
+-1	1
+39
+June 20
+1954	Turkey
+South Korea	7
+0	World Cup
+in Switzerland	+63
+-63	1646
+1496	+10
+-10	24
+49
+February 25
+1956	Philippines
+South Korea	0
+2	Asian Cup qualifier
+in the Philippines	-10
++10	1113
+1506	-1
++3	114
+49
+April 21
+1956	South Korea
+Philippines	3
+0	Asian Cup qualifier
+in South Korea	+4
+-4	1510
+1109	0
+0	49
+114
+June 03
+1956	Japan
+South Korea	2
+0	Olympic Games qualifier
+in Japan	+39
+-39	1345
+1471	+4
+-6	88
+55
+June 10
+1956	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-28
++28	1317
+1499	-2
++5	90
+50
+August 26
+1956	South Korea
+Taiwan	2
+0	Asian Cup qualifier
+in South Korea	+29
+-29	1528
+1564	+4
+-3	46
+36
+September 02
+1956	Taiwan
+South Korea	1
+2	Asian Cup qualifier
+in Taiwan	-27
++27	1537
+1555	-7
++8	43
+38
+September 06
+1956	Hong Kong
+South Korea	2
+2	Asian Cup
+in Hong Kong	+3
+-3	1413
+1552	0
+-1	67
+39
+September 08
+1956	South Korea
+Israel	2
+1	Asian Cup
+in Hong Kong	+17
+-17	1569
+1425	+3
+-1	36
+66
+September 15
+1956	South Korea
+South Vietnam	5
+3	Asian Cup
+in Hong Kong	+23
+-23	1592
+1409	+4
+-1	32
+66
+February 18
+1958	Hong Kong
+South Korea	3
+2	Friendly
+in Hong Kong	+11
+-11	1466
+1581	+3
+-1	61
+40
+February 25
+1958	Hong Kong
+South Korea	1
+1	Friendly
+in Hong Kong	0
+0	1466
+1581	0
+0	61
+40
+May 26
+1958	South Korea
+Singapore	2
+1	Asian Games
+in Japan	+7
+-7	1588
+1303	+1
+-1	39
+98
+May 28
+1958	South Korea
+Iran	5
+0	Asian Games
+in Japan	+28
+-28	1616
+1456	+6
+-7	33
+65
+May 30
+1958	South Korea
+South Vietnam	3
+1	Asian Games
+in Japan	+15
+-15	1631
+1417	+4
+-1	29
+71
+May 31
+1958	South Korea
+India	3
+1	Asian Games
+in Japan	+20
+-20	1651
+1491	+3
+-5	26
+55
+June 01
+1958	Taiwan
+South Korea	3
+2	Asian Games
+in Japan	+23
+-23	1621
+1628	+7
+-3	33
+29
+August 30
+1959	Malaya
+South Korea	4
+1	Merdeka Tournament
+in Malaya	+39
+-39	1389
+1589	+8
+-8	82
+40
+September 01
+1959	South Vietnam
+South Korea	3
+2	Merdeka Tournament
+in Malaya	+24
+-24	1378
+1565	+3
+-2	86
+42
+September 05
+1959	South Korea
+Singapore	4
+1	Merdeka Tournament
+in Malaya	+7
+-7	1572
+1228	0
+-2	42
+110
+September 07
+1959	Japan
+South Korea	0
+0	Merdeka Tournament
+in Malaya	+10
+-10	1304
+1562	0
+-2	98
+44
+September 08
+1959	South Korea
+Japan	3
+1	Merdeka Tournament
+in Malaya	+8
+-8	1570
+1296	+2
+0	42
+98
+September 13
+1959	Singapore
+South Korea	0
+4	Friendly
+in Singapore	-7
++7	1221
+1577	-1
+-1	111
+43
+December 13
+1959	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-16
++16	1280
+1593	-3
++1	101
+40
+December 20
+1959	Japan
+South Korea	1
+0	Olympic Games qualifier
+in Japan	+31
+-31	1311
+1562	+4
+-4	97
+44
+
+1960	Taiwan
+South Korea	1
+2	Olympic Games qualifier
+in Taiwan	-29
++29	1604
+1591	-4
++3	37
+41
+August 05
+1960	South Korea
+South Vietnam	0
+0	Merdeka Tournament
+in Malaya	-5
++5	1586
+1487	-2
++2	44
+59
+August 09
+1960	South Korea
+Indonesia	2
+0	Merdeka Tournament
+in Malaya	+15
+-15	1601
+1457	+4
+-4	40
+66
+August 10
+1960	Singapore
+South Korea	3
+3	Merdeka Tournament
+in Malaya	+13
+-13	1168
+1588	+2
+-3	125
+43
+August 12
+1960	South Korea
+Hong Kong	3
+1	Merdeka Tournament
+in Malaya	+12
+-12	1600
+1408	+3
+-4	40
+81
+August 14
+1960	Malaya
+South Korea	0
+0	Merdeka Tournament
+in Malaya	+2
+-2	1446
+1598	0
+-1	68
+41
+October 14
+1960	South Korea
+South Vietnam	5
+1	Asian Cup
+in South Korea	+17
+-17	1615
+1424	+4
+-5	36
+75
+October 17
+1960	South Korea
+Israel	3
+0	Asian Cup
+in South Korea	+23
+-23	1638
+1513	+3
+-4	33
+52
+October 21
+1960	South Korea
+Taiwan	1
+0	Asian Cup
+in South Korea	+15
+-15	1653
+1578	+3
+-3	30
+44
+November 06
+1960	South Korea
+Japan	2
+1	World Cup qualifier
+in South Korea	+3
+-3	1656
+1296	0
+0	28
+105
+June 11
+1961	Japan
+South Korea	0
+2	World Cup qualifier
+in Japan	-12
++12	1295
+1668	0
++1	105
+27
+August 02
+1961	Hong Kong
+South Korea	1
+1	Merdeka Tournament
+in Malaya	+10
+-10	1418
+1658	+3
+0	77
+27
+August 06
+1961	Singapore
+South Korea	1
+0	Merdeka Tournament
+in Malaya	+28
+-28	1211
+1630	+5
+-4	118
+31
+August 08
+1961	South Korea
+Thailand	3
+1	Merdeka Tournament
+in Malaya	+3
+-3	1633
+1167	0
+-2	31
+127
+August 10
+1961	Indonesia
+South Korea	1
+1	Merdeka Tournament
+in Malaya	+5
+-5	1509
+1628	+2
+-1	54
+32
+October 08
+1961	Yugoslavia
+South Korea	5
+1	World Cup qualifier
+in Yugoslavia	+9
+-9	1878
+1619	0
+-3	10
+36
+October 18
+1961	Turkey
+South Korea	1
+0	Friendly
+in Turkey	+6
+-6	1669
+1613	0
+-2	27
+38
+October 22
+1961	Israel
+South Korea	1
+1	Friendly
+in Israel	-2
++2	1569
+1615	0
+0	45
+38
+October 28
+1961	Burma
+South Korea	0
+3	Friendly
+in Burma	-5
++5	1188
+1620	-1
++2	124
+36
+November 04
+1961	Thailand
+South Korea	1
+4	Friendly
+in Thailand	-4
++4	1143
+1624	0
++2	129
+34
+November 26
+1961	South Korea
+Yugoslavia	1
+3	World Cup qualifier
+in South Korea	-17
++17	1607
+1901	-6
++1	40
+8
+August 24
+1962	South Korea
+India	2
+0	Asian Games
+in Indonesia	+16
+-16	1623
+1422	+6
+-6	31
+79
+August 27
+1962	South Korea
+Thailand	3
+2	Asian Games
+in Indonesia	+3
+-3	1626
+1172	0
+-1	31
+128
+August 30
+1962	South Korea
+Japan	1
+0	Asian Games
+in Indonesia	+5
+-5	1631
+1298	+2
+-1	29
+108
+September 01
+1962	South Korea
+Malaya	2
+1	Asian Games
+in Indonesia	+10
+-10	1641
+1435	+1
+-3	28
+73
+September 04
+1962	India
+South Korea	2
+1	Asian Games
+in Indonesia	+29
+-29	1503
+1612	+6
+-7	59
+35
+September 08
+1962	South Korea
+South Vietnam	3
+0	Merdeka Tournament
+in Malaya	+11
+-11	1623
+1365	+5
+-2	31
+96
+September 12
+1962	South Korea
+Singapore	2
+0	Merdeka Tournament
+in Malaya	+4
+-4	1627
+1231	0
+-1	32
+119
+September 14
+1962	South Korea
+Philippines	3
+2	Merdeka Tournament
+in Malaya	+1
+-1	1628
+1067	+2
+0	30
+136
+September 16
+1962	Indonesia
+South Korea	3
+0	Merdeka Tournament
+in Malaya	+33
+-33	1564
+1595	+3
+-10	47
+40
+September 19
+1962	Malaya
+South Korea	3
+1	Merdeka Tournament
+in Malaya	+25
+-25	1479
+1570	+3
+-7	66
+47
+October 12
+1962	South Korea
+Indonesia	2
+0	Friendly
+in South Korea	+11
+-11	1581
+1561	+4
+-2	44
+49
+October 14
+1962	South Korea
+Indonesia	2
+0	Friendly
+in South Korea	+10
+-10	1591
+1551	+5
+-1	39
+50
+August 09
+1963	Taiwan
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+16
+-16	1586
+1575	+3
+-3	44
+46
+August 11
+1963	South Korea
+Thailand	5
+1	Merdeka Tournament
+in Malaysia	+6
+-6	1581
+1202	0
+-1	46
+131
+August 13
+1963	Japan
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+9
+-9	1342
+1572	+3
+-1	103
+47
+August 14
+1963	Malaysia
+South Korea	3
+2	Merdeka Tournament
+in Malaysia	+18
+-18	1415
+1554	+6
+-3	82
+50
+August 16
+1963	South Korea
+South Vietnam	3
+1	Merdeka Tournament
+in Malaysia	+10
+-10	1564
+1334	+3
+-2	47
+104
+November 27
+1963	South Korea
+Taiwan	2
+1	Olympic Games qualifier
+in South Korea	+16
+-16	1580
+1579	+5
+-5	44
+45
+December 07
+1963	Taiwan
+South Korea	1
+0	Olympic Games qualifier
+in Taiwan	+14
+-14	1593
+1566	+3
+-4	42
+48
+May 27
+1964	India
+South Korea	2
+0	Asian Cup
+in Israel	+43
+-43	1556
+1523	+10
+-8	48
+54
+May 31
+1964	South Korea
+South Vietnam	3
+0	Olympic Games qualifier
+in South Korea	+15
+-15	1538
+1385	+4
+-4	51
+93
+June 03
+1964	Israel
+South Korea	2
+1	Asian Cup
+in Israel	+17
+-17	1564
+1521	+3
+-6	46
+57
+June 09
+1964	South Korea
+Hong Kong	1
+0	Asian Cup
+in Israel	+14
+-14	1535
+1338	+6
+-1	51
+105
+June 28
+1964	South Vietnam
+South Korea	2
+2	Olympic Games qualifier
+in South Vietnam	+3
+-3	1388
+1532	0
+-2	93
+53
+August 22
+1964	South Korea
+Burma	1
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1536
+1214	+1
+0	53
+129
+August 23
+1964	India
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1487
+1534	0
+0	67
+53
+August 26
+1964	Khmer
+South Korea	2
+2	Merdeka Tournament
+in Malaysia	+13
+-13	1036
+1521	+1
+-3	151
+56
+August 29
+1964	South Korea
+Thailand	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1526
+1166	+1
+0	55
+139
+September 01
+1964	India
+South Korea	2
+1	Merdeka Tournament
+in Malaysia	+16
+-16	1519
+1510	+5
+-6	57
+61
+September 03
+1964	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1525
+1328	+6
+-3	55
+108
+September 05
+1964	South Korea
+South Vietnam	2
+1	Merdeka Tournament
+in Malaysia	+10
+-10	1535
+1402	+2
+-3	53
+89
+October 16
+1964	Egypt
+South Korea	10
+0	Olympic Games
+in Japan	+42
+-42	1752
+1493	+4
+-13	20
+65
+August 14
+1965	Thailand
+South Korea	3
+2	Merdeka Tournament
+in Malaysia	+26
+-26	1199
+1467	+4
+-5	134
+72
+August 17
+1965	South Korea
+South Vietnam	0
+0	Merdeka Tournament
+in Malaysia	-1
++1	1466
+1439	0
+0	72
+76
+August 19
+1965	South Korea
+Hong Kong	1
+0	Merdeka Tournament
+in Malaysia	+8
+-8	1474
+1272	+1
+0	71
+122
+August 22
+1965	Malaysia
+South Korea	0
+2	Merdeka Tournament
+in Malaysia	-20
++20	1308
+1494	-5
++5	112
+66
+August 24
+1965	South Korea
+India	1
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1509
+1486	+6
+-8	60
+69
+August 28
+1965	South Korea
+Taiwan	1
+1	Merdeka Tournament
+in Malaysia	0
+0	1509
+1501	0
++1	60
+62
+August 14
+1966	South Korea
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1524
+1377	+5
+-7	56
+92
+August 17
+1966	South Korea
+Hong Kong	1
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1531
+1298	+2
+0	54
+113
+August 20
+1966	South Korea
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+5
+-5	1536
+1248	+1
+-1	53
+128
+August 23
+1966	Burma
+South Korea	2
+0	Merdeka Tournament
+in Malaysia	+31
+-31	1431
+1505	+7
+-8	78
+61
+August 25
+1966	Malaysia
+South Korea	1
+2	Merdeka Tournament
+in Malaysia	-9
++9	1245
+1514	-2
+0	128
+61
+August 27
+1966	South Korea
+India	1
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1529
+1508	+7
+-5	54
+61
+December 09
+1966	Thailand
+South Korea	3
+0	Asian Games
+in Thailand	+52
+-52	1296
+1477	+14
+-15	113
+69
+December 11
+1966	Burma
+South Korea	1
+0	Asian Games
+in Thailand	+24
+-24	1438
+1453	+7
+-5	78
+74
+July 29
+1967	Indonesia
+South Korea	1
+1	Asian Cup qualifier
+in Taiwan	-1
++1	1476
+1454	0
++1	69
+74
+August 01
+1967	Japan
+South Korea	2
+1	Asian Cup qualifier
+in Taiwan	+17
+-17	1518
+1437	+4
+-1	58
+75
+August 05
+1967	South Korea
+Philippines	7
+0	Asian Cup qualifier
+in Taiwan	+8
+-8	1445
+1026	+1
+0	74
+156
+August 07
+1967	Taiwan
+South Korea	1
+0	Asian Cup qualifier
+in Taiwan	+16
+-16	1424
+1429	+2
+-5	84
+79
+August 10
+1967	South Korea
+Indonesia	3
+1	Merdeka Tournament
+in Malaysia	+24
+-24	1453
+1424	+5
+-9	74
+83
+August 12
+1967	South Korea
+Taiwan	2
+1	Merdeka Tournament
+in Malaysia	+14
+-14	1467
+1410	0
+-2	74
+85
+August 15
+1967	South Korea
+Singapore	3
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1476
+1175	+5
+-1	69
+138
+August 17
+1967	South Korea
+Burma	1
+0	Merdeka Tournament
+in Malaysia	+17
+-17	1493
+1508	+2
+-4	67
+60
+August 23
+1967	Malaysia
+South Korea	1
+3	Merdeka Tournament
+in Malaysia	-15
++15	1256
+1508	-4
++5	125
+62
+August 26
+1967	Burma
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	-2
++2	1548
+1510	0
++1	50
+61
+September 27
+1967	South Korea
+Taiwan	4
+2	Olympic Games qualifier
+in Japan	+23
+-23	1533
+1399	+6
+-2	56
+86
+September 30
+1967	South Korea
+Lebanon	2
+0	Olympic Games qualifier
+in Japan	+21
+-21	1554
+1404	+6
+-1	50
+84
+October 03
+1967	South Korea
+South Vietnam	3
+0	Olympic Games qualifier
+in Japan	+22
+-22	1576
+1392	+9
+-2	41
+86
+October 07
+1967	Japan
+South Korea	3
+3	Olympic Games qualifier
+in Japan	-5
++5	1563
+1581	-3
+0	47
+41
+October 10
+1967	South Korea
+Philippines	5
+0	Olympic Games qualifier
+in Japan	+3
+-3	1584
+993	0
+0	41
+158
+November 05
+1967	South Korea
+Hong Kong	1
+0	Friendly tournament
+in South Vietnam	+5
+-5	1589
+1278	0
+-1	41
+119
+November 07
+1967	South Korea
+Thailand	3
+1	Friendly tournament
+in South Vietnam	+6
+-6	1595
+1246	+2
+-1	39
+127
+November 11
+1967	South Korea
+Malaysia	2
+1	Friendly tournament
+in South Vietnam	+4
+-4	1599
+1279	+1
+-1	38
+119
+November 12
+1967	South Vietnam
+South Korea	0
+3	Friendly tournament
+in South Vietnam	-21
++21	1414
+1620	-8
++2	85
+36
+November 14
+1967	Australia
+South Korea	3
+2	Friendly tournament
+in South Vietnam	+18
+-18	1558
+1602	+7
+-1	50
+37
+August 10
+1968	South Korea
+Singapore	3
+2	Merdeka Tournament
+in Malaysia	+2
+-2	1604
+1159	0
+0	40
+142
+August 13
+1968	South Korea
+Taiwan	2
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1608
+1267	0
+-2	40
+119
+August 16
+1968	Indonesia
+South Korea	4
+2	Merdeka Tournament
+in Malaysia	+29
+-29	1538
+1579	+6
+-5	59
+45
+August 18
+1968	South Korea
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1599
+1521	+4
+-5	41
+63
+August 21
+1968	South Korea
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1603
+1255	+1
+-2	40
+123
+August 23
+1968	South Korea
+India	1
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1610
+1386	0
+-3	40
+91
+August 27
+1968	Singapore
+South Korea	4
+3	Friendly
+in Singapore	+18
+-18	1152
+1592	+3
+-3	143
+43
+October 12
+1969	South Korea
+Japan	2
+2	World Cup qualifier
+in South Korea	-9
++9	1583
+1535	-4
++1	49
+58
+October 14
+1969	South Korea
+Australia	1
+2	World Cup qualifier
+in South Korea	-25
++25	1558
+1625	-4
++5	53
+37
+October 18
+1969	South Korea
+Japan	2
+0	World Cup qualifier
+in South Korea	+20
+-20	1578
+1520	+3
+-5	50
+61
+October 20
+1969	South Korea
+Australia	1
+1	World Cup qualifier
+in South Korea	-3
++3	1575
+1623	0
++1	50
+37
+October 30
+1969	Indonesia
+South Korea	3
+0	Merdeka Tournament
+in Malaysia	+26
+-26	1606
+1549	+6
+-4	41
+53
+November 02
+1969	Malaysia
+South Korea	4
+1	Merdeka Tournament
+in Malaysia	+38
+-38	1313
+1511	+7
+-11	109
+64
+November 04
+1969	South Korea
+Thailand	3
+0	Merdeka Tournament
+in Malaysia	+10
+-10	1521
+1255	+3
+-3	61
+122
+November 19
+1969	South Korea
+Laos	2
+0	King's Cup
+in Thailand	+2
+-2	1523
+1016	+1
+0	59
+158
+November 21
+1969	South Korea
+Malaysia	2
+0	King's Cup
+in Thailand	+11
+-11	1534
+1316	+1
+-2	58
+109
+November 23
+1969	Thailand
+South Korea	0
+0	King's Cup
+in Thailand	+7
+-7	1253
+1527	+2
+-1	123
+59
+November 26
+1969	South Korea
+South Vietnam	3
+0	King's Cup
+in Thailand	+16
+-16	1543
+1369	+3
+-4	56
+94
+November 28
+1969	South Korea
+Indonesia	1
+0	King's Cup
+in Thailand	+18
+-18	1561
+1600	+4
+-6	52
+42
+December 05
+1969	Algeria
+South Korea	1
+3	Friendly
+in Algeria	-21
++21	1586
+1582	-6
++5	46
+47
+July 30
+1970	South Korea
+Indonesia	2
+1	Merdeka Tournament
+in Malaysia	+16
+-16	1598
+1584	+6
+-7	43
+49
+August 01
+1970	Japan
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1529
+1595	0
+-1	60
+44
+August 04
+1970	South Korea
+Thailand	0
+0	Merdeka Tournament
+in Malaysia	-11
++11	1584
+1273	-5
++2	49
+121
+August 06
+1970	Hong Kong
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+11
+-11	1276
+1573	0
+-2	122
+50
+August 08
+1970	South Korea
+Singapore	4
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1577
+1104	+1
+-2	49
+151
+August 12
+1970	South Korea
+India	3
+2	Merdeka Tournament
+in Malaysia	+7
+-7	1584
+1356	0
+-3	48
+97
+August 16
+1970	South Korea
+Burma	1
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1597
+1525	+5
+-1	43
+60
+November 10
+1970	South Korea
+Hong Kong	3
+0	King's Cup
+in Thailand	+6
+-6	1603
+1220	+2
+0	42
+130
+November 12
+1970	South Korea
+Laos	4
+0	King's Cup
+in Thailand	+2
+-2	1605
+1042	0
+0	42
+158
+November 14
+1970	Thailand
+South Korea	0
+0	King's Cup
+in Thailand	+7
+-7	1332
+1598	0
+-1	107
+43
+November 16
+1970	South Korea
+Singapore	4
+0	King's Cup
+in Thailand	+3
+-3	1601
+1070	+2
+0	41
+155
+November 18
+1970	South Korea
+Malaysia	2
+0	King's Cup
+in Thailand	+7
+-7	1608
+1285	0
+-4	41
+119
+November 20
+1970	Thailand
+South Korea	0
+1	King's Cup
+in Thailand	-9
++9	1343
+1617	-4
+0	104
+41
+December 11
+1970	South Korea
+Iran	1
+0	Asian Games
+in Thailand	+18
+-18	1635
+1561	+4
+-5	37
+52
+December 13
+1970	Indonesia
+South Korea	0
+0	Asian Games
+in Thailand	+7
+-7	1515
+1628	+1
+-2	62
+39
+December 15
+1970	Thailand
+South Korea	1
+2	Asian Games
+in Thailand	-11
++11	1340
+1639	-6
++2	106
+37
+December 17
+1970	Burma
+South Korea	1
+0	Asian Games
+in Thailand	+27
+-27	1541
+1612	+4
+-4	57
+41
+December 18
+1970	South Korea
+Japan	2
+1	Asian Games
+in Thailand	+18
+-18	1630
+1561	+2
+-6	39
+53
+December 20
+1970	Burma
+South Korea	0
+0	Asian Games
+in Thailand	+4
+-4	1566
+1626	+2
+-1	50
+40
+February 10
+1971	Peru
+South Korea	4
+0	Friendly
+in Peru	+9
+-9	1738
+1617	+2
+-2	21
+42
+May 02
+1971	South Korea
+Thailand	1
+0	Presidents Cup
+in South Korea	+4
+-4	1621
+1340	+2
+-1	39
+104
+May 06
+1971	South Korea
+Malaysia	5
+1	Presidents Cup
+in South Korea	+7
+-7	1628
+1322	+1
+0	38
+107
+May 09
+1971	South Korea
+Khmer Republic	2
+0	Presidents Cup
+in South Korea	+2
+-2	1630
+1128	0
+0	38
+146
+May 11
+1971	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+12
+-12	1642
+1447	0
+-1	38
+76
+May 13
+1971	South Korea
+Burma	0
+0	Presidents Cup
+in South Korea	-7
++7	1635
+1625	-1
++2	39
+40
+May 15
+1971	South Korea
+Burma	0
+0	Presidents Cup
+in South Korea	-6
++6	1629
+1631	-1
++1	40
+39
+August 05
+1971	Malaysia
+South Korea	0
+1	Merdeka Tournament
+in Malaysia	-9
++9	1373
+1638	-1
++4	94
+38
+August 08
+1971	South Korea
+South Vietnam	1
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1641
+1221	0
+-1	39
+128
+August 12
+1971	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+17
+-17	1658
+1500	+3
+-4	36
+62
+August 15
+1971	Taiwan
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+28
+-28	1260
+1630	+4
+-6	122
+42
+August 18
+1971	South Korea
+Thailand	4
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1637
+1276	+4
+0	38
+119
+August 20
+1971	Burma
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+16
+-16	1633
+1621	+4
+-4	39
+42
+August 22
+1971	South Korea
+Taiwan	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1626
+1255	0
+-2	42
+123
+August 27
+1971	South Korea
+Philippines	2
+1	Friendly
+in Malaysia	+1
+-1	1627
+1053	0
+0	42
+159
+August 28
+1971	South Korea
+Singapore	4
+1	Friendly
+in Malaysia	+2
+-2	1629
+1115	0
+0	42
+149
+September 10
+1971	South Korea
+Iran	2
+0	Friendly
+in South Korea	+8
+-8	1637
+1550	+3
+-1	39
+54
+September 12
+1971	South Korea
+Iran	0
+2	Friendly
+in South Korea	-22
++22	1615
+1572	-4
++5	43
+49
+September 25
+1971	South Korea
+Malaysia	0
+1	Olympic Games qualifier
+in South Korea	-34
++34	1581
+1454	-2
++13	45
+72
+September 27
+1971	South Korea
+Philippines	6
+0	Olympic Games qualifier
+in South Korea	+2
+-2	1583
+1051	+1
+0	44
+159
+October 02
+1971	South Korea
+Japan	2
+1	Olympic Games qualifier
+in South Korea	+8
+-8	1591
+1434	0
+-2	44
+79
+October 04
+1971	South Korea
+Taiwan	8
+0	Olympic Games qualifier
+in South Korea	+7
+-7	1598
+1248	0
+-1	44
+124
+November 08
+1971	Malaysia
+South Korea	2
+2	King's Cup
+in Thailand	+6
+-6	1460
+1592	+1
+-1	71
+45
+November 12
+1971	Indonesia
+South Korea	0
+0	King's Cup
+in Thailand	+5
+-5	1480
+1587	+2
+0	69
+45
+November 14
+1971	South Korea
+South Vietnam	1
+1	King's Cup
+in Thailand	-11
++11	1576
+1267	-2
++1	47
+120
+November 16
+1971	Thailand
+South Korea	0
+1	King's Cup
+in Thailand	-6
++6	1233
+1582	0
++1	126
+46
+May 07
+1972	Iraq
+South Korea	0
+0	Asian Cup
+in Thailand	0
+0	1577
+1582	0
+0	51
+49
+May 10
+1972	South Korea
+Khmer Republic	4
+1	Asian Cup
+in Thailand	+9
+-9	1591
+1188	+4
+-3	45
+142
+May 12
+1972	Kuwait
+South Korea	2
+1	Asian Cup
+in Thailand	+33
+-33	1510
+1558	+7
+-10	63
+55
+May 17
+1972	Thailand
+South Korea	1
+1	Asian Cup
+in Thailand	+14
+-14	1246
+1544	+4
+-3	128
+58
+May 19
+1972	Iran
+South Korea	2
+1	Asian Cup
+in Thailand	+16
+-16	1685
+1528	+2
+-2	32
+60
+July 24
+1972	South Korea
+Thailand	2
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1535
+1233	+1
+-2	59
+130
+July 27
+1972	South Korea
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1555
+1469	+6
+-2	53
+70
+July 31
+1972	South Korea
+Singapore	4
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1558
+1057	0
+0	53
+160
+August 03
+1972	Hong Kong
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+11
+-11	1228
+1547	+1
+-2	133
+55
+August 08
+1972	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+22
+-22	1569
+1465	+6
+-1	50
+70
+August 11
+1972	Malaysia
+South Korea	1
+2	Merdeka Tournament
+in Malaysia	-17
++17	1494
+1586	-4
++3	68
+47
+September 14
+1972	Japan
+South Korea	2
+2	Friendly
+in Japan	+1
+-1	1466
+1585	0
+0	70
+47
+September 20
+1972	South Korea
+Thailand	3
+0	Presidents Cup
+in South Korea	+6
+-6	1591
+1272	0
+-1	47
+123
+September 22
+1972	South Korea
+Khmer Republic	3
+1	Presidents Cup
+in South Korea	+5
+-5	1596
+1279	+3
+-1	44
+122
+September 24
+1972	South Korea
+Malaysia	2
+0	Presidents Cup
+in South Korea	+12
+-12	1608
+1450	+3
+0	41
+72
+September 27
+1972	South Korea
+Burma	0
+1	Presidents Cup
+in South Korea	-27
++27	1581
+1609	-8
++10	49
+39
+September 30
+1972	South Korea
+Malaysia	1
+0	Presidents Cup
+in South Korea	+7
+-7	1588
+1415	+1
+-2	48
+83
+October 22
+1972	South Korea
+Australia	1
+1	Friendly
+in South Korea	0
+0	1588
+1674	0
+0	47
+31
+October 24
+1972	South Korea
+Australia	0
+2	Friendly
+in South Korea	-16
++16	1572
+1690	-3
++3	50
+28
+November 18
+1972	South Korea
+Malaysia	4
+1	King's Cup
+in Thailand	+12
+-12	1584
+1343	+2
+-7	47
+106
+November 22
+1972	Indonesia
+South Korea	1
+1	King's Cup
+in Thailand	+6
+-6	1448
+1578	+1
+-1	71
+48
+November 24
+1972	South Korea
+Singapore	2
+0	King's Cup
+in Thailand	+4
+-4	1582
+1147	0
+0	48
+149
+November 26
+1972	Thailand
+South Korea	1
+0	King's Cup
+in Thailand	+22
+-22	1322
+1560	+4
+-5	110
+53
+November 28
+1972	Singapore
+South Korea	0
+0	King's Cup
+in Thailand	+12
+-12	1159
+1548	+1
+-1	148
+54
+May 19
+1973	South Korea
+Thailand	4
+0	World Cup qualifier
+in South Korea	+8
+-8	1556
+1276	+2
+-1	52
+124
+May 21
+1973	South Korea
+Malaysia	0
+0	World Cup qualifier
+in South Korea	-13
++13	1543
+1391	-5
++7	57
+88
+May 23
+1973	South Korea
+Israel	0
+0	World Cup qualifier
+in South Korea	+3
+-3	1546
+1692	0
+0	57
+28
+May 26
+1973	South Korea
+Hong Kong	3
+1	World Cup qualifier
+in South Korea	+7
+-7	1553
+1291	+4
+-2	53
+118
+May 28
+1973	South Korea
+Israel	1
+0	World Cup qualifier
+in South Korea	+23
+-23	1576
+1677	+4
+-3	48
+31
+June 23
+1973	South Korea
+Japan	2
+0	Friendly
+in South Korea	+6
+-6	1582
+1432	+1
+-2	47
+77
+July 26
+1973	Burma
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	-2
++2	1628
+1584	0
+0	37
+47
+July 29
+1973	India
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1350
+1575	+2
+-1	104
+48
+July 31
+1973	South Korea
+Thailand	0
+0	Merdeka Tournament
+in Malaysia	-11
++11	1564
+1258	-1
++3	49
+126
+August 03
+1973	South Korea
+Khmer Republic	1
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1569
+1259	0
+0	49
+125
+August 05
+1973	Malaysia
+South Korea	1
+2	Merdeka Tournament
+in Malaysia	-12
++12	1393
+1581	-3
++2	88
+47
+August 09
+1973	Kuwait
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+21
+-21	1460
+1560	+5
+-3	71
+50
+August 11
+1973	Burma
+South Korea	2
+1	Merdeka Tournament
+in Malaysia	+12
+-12	1640
+1548	+1
+-5	36
+55
+September 22
+1973	South Korea
+Khmer Republic	6
+0	Presidents Cup
+in South Korea	+6
+-6	1554
+1193	+2
+-1	53
+139
+September 24
+1973	South Korea
+Indonesia	3
+1	Presidents Cup
+in South Korea	+11
+-11	1565
+1386	+4
+-1	49
+88
+September 28
+1973	South Korea
+Burma	0
+1	Presidents Cup
+in South Korea	-24
++24	1541
+1624	-7
++2	56
+38
+September 30
+1973	South Korea
+Malaysia	2
+0	Presidents Cup
+in South Korea	+16
+-16	1557
+1448	+4
+-2	52
+72
+October 28
+1973	Australia
+South Korea	0
+0	World Cup qualifier
+in Australia	-10
++10	1632
+1567	0
++4	36
+49
+November 10
+1973	South Korea
+Australia	2
+2	World Cup qualifier
+in South Korea	-2
++2	1565
+1634	-3
+0	52
+36
+November 13
+1973	Australia
+South Korea	1
+0	World Cup qualifier
+in Hong Kong	+16
+-16	1650
+1549	+1
+-6	34
+56
+December 16
+1973	South Korea
+Khmer Republic	5
+0	King's Cup
+in Thailand	+11
+-11	1560
+1278	+2
+-3	53
+122
+December 18
+1973	Malaysia
+South Korea	0
+0	King's Cup
+in Thailand	+4
+-4	1458
+1556	+1
+0	71
+53
+December 22
+1973	South Korea
+Burma	2
+0	King's Cup
+in Thailand	+26
+-26	1582
+1583	+8
+-4	45
+44
+December 25
+1973	South Korea
+Malaysia	2
+1	King's Cup
+in Thailand	+11
+-11	1593
+1466	+2
+0	43
+70
+May 11
+1974	South Korea
+Japan	3
+0	Presidents Cup
+in South Korea	+13
+-13	1606
+1419	+2
+-3	40
+82
+May 13
+1974	South Korea
+Khmer Republic	0
+1	Presidents Cup
+in South Korea	-37
++37	1569
+1306	-6
++9	46
+114
+May 15
+1974	South Korea
+Malaysia	4
+0	Presidents Cup
+in South Korea	+17
+-17	1586
+1436	+4
+-4	42
+77
+May 18
+1974	South Korea
+Burma	3
+0	Presidents Cup
+in South Korea	+24
+-24	1610
+1545	+2
+-7	40
+54
+May 20
+1974	South Korea
+Indonesia	7
+1	Presidents Cup
+in South Korea	+12
+-12	1622
+1379	+2
+-5	38
+95
+July 23
+1974	Malaysia
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+19
+-19	1455
+1603	+4
+-2	73
+40
+July 26
+1974	Indonesia
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+8
+-8	1402
+1595	+2
+-1	89
+41
+July 28
+1974	South Korea
+Singapore	1
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1598
+1177	+1
+0	40
+141
+July 30
+1974	South Korea
+Thailand	1
+1	Merdeka Tournament
+in Malaysia	-11
++11	1587
+1280	-3
++2	43
+122
+August 01
+1974	Hong Kong
+South Korea	3
+3	Merdeka Tournament
+in Malaysia	+11
+-11	1281
+1576	+2
+-1	122
+44
+August 04
+1974	Malaysia
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1494
+1561	+1
+-5	69
+49
+September 04
+1974	South Korea
+Thailand	1
+0	Asian Games
+in Iran	+6
+-6	1567
+1246	+1
+-2	48
+128
+September 06
+1974	Kuwait
+South Korea	4
+0	Asian Games
+in Iran	+44
+-44	1548
+1523	+11
+-11	53
+60
+September 10
+1974	Iraq
+South Korea	1
+1	Asian Games
+in Iran	-5
++5	1600
+1528	0
++3	41
+56
+September 12
+1974	Iran
+South Korea	2
+0	Asian Games
+in Iran	+14
+-14	1643
+1514	+2
+-4	35
+60
+September 14
+1974	Malaysia
+South Korea	3
+2	Asian Games
+in Iran	+22
+-22	1499
+1492	+5
+-9	65
+69
+September 28
+1974	Japan
+South Korea	4
+1	Friendly
+in Japan	+17
+-17	1427
+1475	+3
+0	81
+70
+December 11
+1974	South Korea
+Indonesia	4
+0	King's Cup
+in Thailand	+23
+-23	1498
+1388	+4
+-6	66
+91
+December 13
+1974	South Korea
+Khmer Republic	2
+1	King's Cup
+in Thailand	+8
+-8	1506
+1305	+3
+-2	63
+113
+December 15
+1974	South Korea
+South Vietnam	2
+2	King's Cup
+in Thailand	-8
++8	1498
+1308	-3
++3	66
+113
+December 18
+1974	Malaysia
+South Korea	0
+0	King's Cup
+in Thailand	+3
+-3	1436
+1495	+1
+-2	77
+68
+December 20
+1974	Thailand
+South Korea	1
+3	King's Cup
+in Thailand	-16
++16	1268
+1511	-2
++6	124
+62
+December 25
+1974	South Korea
+Indonesia	3
+1	Friendly
+in Hong Kong	+9
+-9	1520
+1357	+2
+-4	60
+101
+March 16
+1975	Malaysia
+South Korea	2
+1	Asian Cup qualifier
+in Thailand	+24
+-24	1478
+1496	+1
+-5	70
+65
+March 19
+1975	South Korea
+South Vietnam	1
+0	Asian Cup qualifier
+in Thailand	+8
+-8	1504
+1259	+2
+-1	63
+126
+March 22
+1975	South Korea
+Indonesia	1
+0	Asian Cup qualifier
+in Thailand	+12
+-12	1516
+1342	+3
+-2	60
+104
+March 24
+1975	Thailand
+South Korea	1
+0	Asian Cup qualifier
+in Thailand	+26
+-26	1333
+1490	+5
+-8	108
+68
+May 10
+1975	South Korea
+Japan	1
+0	Presidents Cup
+in South Korea	+11
+-11	1501
+1416	+6
+-2	63
+82
+May 16
+1975	South Korea
+Lebanon	1
+0	Presidents Cup
+in South Korea	+9
+-9	1510
+1388	0
+-2	63
+90
+May 18
+1975	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+11
+-11	1521
+1301	+1
+-2	62
+113
+May 19
+1975	South Korea
+Iran	1
+0	Presidents Cup
+in South Korea	+22
+-22	1543
+1639	+7
+-3	55
+36
+May 22
+1975	South Korea
+Burma	1
+0	Presidents Cup
+in South Korea	+16
+-16	1559
+1558	+4
+-5	51
+52
+July 29
+1975	South Korea
+Hong Kong	1
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1564
+1277	+1
+-1	50
+124
+July 31
+1975	South Korea
+Indonesia	5
+1	Merdeka Tournament
+in Malaysia	+10
+-10	1574
+1285	+4
+-3	48
+120
+August 03
+1975	South Korea
+Japan	3
+1	Merdeka Tournament
+in Malaysia	+13
+-13	1587
+1412	+2
+-3	46
+83
+August 05
+1975	South Korea
+Burma	3
+2	Merdeka Tournament
+in Malaysia	+14
+-14	1601
+1541	+3
+-3	43
+58
+August 08
+1975	South Korea
+Thailand	6
+0	Merdeka Tournament
+in Malaysia	+8
+-8	1609
+1259	+1
+-1	42
+126
+August 10
+1975	South Korea
+Bangladesh	4
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1612
+1111	0
+0	42
+153
+August 13
+1975	Malaysia
+South Korea	1
+3	Merdeka Tournament
+in Malaysia	-21
++21	1472
+1633	0
++4	69
+38
+August 17
+1975	Malaysia
+South Korea	0
+1	Merdeka Tournament
+in Malaysia	-12
++12	1460
+1645	-5
++2	74
+36
+September 28
+1975	South Korea
+Japan	3
+0	Friendly
+in South Korea	+5
+-5	1650
+1417	+1
+-3	33
+83
+December 14
+1975	Taiwan
+South Korea	0
+2	Olympic Games qualifier
+in Taiwan	-12
++12	1288
+1662	-4
++3	118
+31
+December 21
+1975	South Korea
+Burma	3
+1	King's Cup
+in Thailand	+12
+-12	1674
+1482	+2
+-2	29
+69
+December 23
+1975	Thailand
+South Korea	2
+1	King's Cup
+in Thailand	+25
+-25	1310
+1649	+9
+-5	111
+34
+December 27
+1975	South Korea
+Indonesia	2
+0	King's Cup
+in Thailand	+5
+-5	1654
+1279	+1
+-2	34
+122
+December 30
+1975	South Korea
+Singapore	5
+0	King's Cup
+in Thailand	+5
+-5	1659
+1221	0
+0	34
+134
+January 02
+1976	South Korea
+Malaysia	4
+0	King's Cup
+in Thailand	+11
+-11	1670
+1411	+3
+-3	31
+82
+January 04
+1976	South Korea
+Burma	1
+0	King's Cup
+in Thailand	+8
+-8	1678
+1499	+1
+-3	29
+65
+March 06
+1976	South Korea
+Taiwan	3
+0	Olympic Games qualifier
+in South Korea	+4
+-4	1682
+1284	+1
+-2	30
+120
+March 21
+1976	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-16
++16	1392
+1698	-3
++2	85
+29
+March 27
+1976	South Korea
+Japan	2
+2	Olympic Games qualifier
+in South Korea	-16
++16	1682
+1408	-3
++3	31
+82
+April 04
+1976	South Korea
+Israel	1
+3	Olympic Games qualifier
+in South Korea	-36
++36	1646
+1746	-5
++4	36
+23
+April 28
+1976	Israel
+South Korea	0
+0	Olympic Games qualifier
+in Israel	-11
++11	1740
+1657	-1
++4	24
+33
+August 08
+1976	Malaysia
+South Korea	2
+1	Merdeka Tournament
+in Malaysia	+20
+-20	1445
+1637	+1
+-3	75
+39
+August 10
+1976	South Korea
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1642
+1281	+1
+-1	38
+121
+August 12
+1976	Japan
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1413
+1633	+3
+-2	79
+39
+August 13
+1976	South Korea
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+5
+-5	1638
+1343	+1
+0	38
+102
+August 15
+1976	Burma
+South Korea	2
+2	Merdeka Tournament
+in Malaysia	+6
+-6	1484
+1632	0
+-2	69
+40
+August 16
+1976	South Korea
+India	8
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1639
+1241	+3
+-2	37
+130
+September 11
+1976	South Korea
+Malaysia	4
+4	Presidents Cup
+in South Korea	-13
++13	1626
+1478	-4
++3	41
+70
+September 13
+1976	South Korea
+India	4
+0	Presidents Cup
+in South Korea	+4
+-4	1630
+1216	+1
+0	40
+136
+September 17
+1976	South Korea
+Singapore	7
+0	Presidents Cup
+in South Korea	+5
+-5	1635
+1230	+1
+-2	39
+133
+September 23
+1976	South Korea
+New Zealand	2
+0	Presidents Cup
+in South Korea	+12
+-12	1647
+1475	+2
+-1	37
+71
+November 04
+1976	Japan
+South Korea	1
+2	Friendly
+in Japan	-7
++7	1414
+1654	-2
++1	81
+36
+December 15
+1976	Thailand
+South Korea	2
+1	King's Cup
+in Thailand	+24
+-24	1323
+1630	+9
+-5	108
+41
+December 17
+1976	South Korea
+Singapore	4
+0	King's Cup
+in Thailand	+5
+-5	1635
+1222	+1
+-2	40
+134
+December 22
+1976	Malaysia
+South Korea	1
+1	King's Cup
+in Thailand	+5
+-5	1517
+1630	+3
+-1	61
+41
+February 14
+1977	Singapore
+South Korea	0
+4	Friendly
+in Singapore	-5
++5	1202
+1635	-2
+0	139
+40
+February 18
+1977	Bahrain
+South Korea	1
+4	Friendly
+in Bahrain	-5
++5	1227
+1640	0
+0	131
+40
+February 20
+1977	Bahrain
+South Korea	1
+1	Friendly
+in Bahrain	+7
+-7	1234
+1633	+1
+0	130
+40
+February 27
+1977	Israel
+South Korea	0
+0	World Cup qualifier
+in Israel	-9
++9	1698
+1642	0
++1	27
+39
+March 20
+1977	South Korea
+Israel	3
+1	World Cup qualifier
+in South Korea	+27
+-27	1669
+1683	+6
+-2	33
+28
+March 26
+1977	Japan
+South Korea	0
+0	World Cup qualifier
+in Japan	+9
+-9	1411
+1660	+2
+-2	84
+35
+April 03
+1977	South Korea
+Japan	1
+0	World Cup qualifier
+in South Korea	+5
+-5	1665
+1406	0
+-1	35
+85
+June 15
+1977	South Korea
+Japan	2
+1	Friendly
+in South Korea	+2
+-2	1667
+1404	0
+-1	35
+87
+June 26
+1977	Hong Kong
+South Korea	0
+1	World Cup qualifier
+in Hong Kong	-10
++10	1370
+1677	0
++4	96
+31
+July 03
+1977	South Korea
+Iran	0
+0	World Cup qualifier
+in South Korea	-3
++3	1674
+1724	0
+0	31
+27
+July 16
+1977	South Korea
+Libya	4
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1683
+1375	+1
+-1	31
+95
+July 17
+1977	Malaysia
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1483
+1679	0
+-1	71
+32
+July 19
+1977	South Korea
+Thailand	4
+1	Merdeka Tournament
+in Malaysia	+5
+-5	1684
+1276	+1
+-1	31
+121
+July 22
+1977	South Korea
+Indonesia	5
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1688
+1248	0
+-2	31
+128
+July 25
+1977	Iraq
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+6
+-6	1546
+1682	0
+-1	56
+32
+July 26
+1977	South Korea
+Burma	4
+0	Merdeka Tournament
+in Malaysia	+11
+-11	1693
+1428	+3
+0	29
+77
+July 31
+1977	South Korea
+Iraq	1
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1702
+1543	+1
+-3	28
+56
+August 28
+1977	Australia
+South Korea	2
+1	World Cup qualifier
+in Australia	+18
+-18	1659
+1684	+1
+-3	36
+31
+September 03
+1977	South Korea
+Thailand	3
+1	Presidents Cup
+in South Korea	+5
+-5	1689
+1350	+1
+-2	31
+103
+September 05
+1977	South Korea
+India	3
+0	Presidents Cup
+in South Korea	+3
+-3	1692
+1214	+1
+0	30
+136
+September 07
+1977	South Korea
+Lebanon	4
+1	Presidents Cup
+in South Korea	+4
+-4	1696
+1289	+3
+0	28
+119
+September 13
+1977	South Korea
+Malaysia	3
+0	Presidents Cup
+in South Korea	+11
+-11	1707
+1499	0
+-6	28
+67
+October 09
+1977	South Korea
+Kuwait	1
+0	World Cup qualifier
+in South Korea	+14
+-14	1721
+1693	+2
+-1	28
+31
+October 23
+1977	South Korea
+Australia	0
+0	World Cup qualifier
+in South Korea	-10
++10	1711
+1645	-4
++1	31
+37
+October 29
+1977	India
+South Korea	1
+0	King's Cup
+in Thailand	+28
+-28	1242
+1683	+6
+-3	130
+32
+November 01
+1977	South Korea
+Indonesia	3
+0	King's Cup
+in Thailand	+3
+-3	1686
+1216	+1
+0	32
+136
+November 04
+1977	South Korea
+Malaysia	1
+0	King's Cup
+in Thailand	+8
+-8	1694
+1497	0
+-3	32
+67
+November 05
+1977	Kuwait
+South Korea	2
+2	World Cup qualifier
+in Kuwait	-6
++6	1698
+1700	-2
++2	32
+30
+November 07
+1977	South Korea
+Singapore	3
+0	King's Cup
+in Thailand	+2
+-2	1702
+1171	0
+-1	30
+144
+November 09
+1977	Thailand
+South Korea	0
+1	King's Cup
+in Thailand	-5
++5	1330
+1707	-1
+0	105
+30
+November 11
+1977	Iran
+South Korea	2
+2	World Cup qualifier
+in Iran	-9
++9	1757
+1716	0
++2	21
+28
+November 12
+1977	Malaysia
+South Korea	0
+0	King's Cup
+in Thailand	+8
+-8	1529
+1708	0
+-2	60
+30
+December 04
+1977	South Korea
+Hong Kong	5
+2	World Cup qualifier
+in South Korea	+4
+-4	1712
+1316	0
+0	29
+107
+
+1978	Malaysia
+South Korea	3
+0	King's Cup
+in Thailand	+39
+-39	1561
+1673	+5
+-6	53
+35
+May 04
+1978	Kenya
+South Korea	2
+2	Friendly
+in Saudi Arabia	+8
+-8	1333
+1665	+1
+-2	106
+36
+May 07
+1978	South Korea
+Pakistan	5
+0	Friendly
+in Saudi Arabia	+5
+-5	1670
+1305	0
+0	36
+113
+May 10
+1978	Saudi Arabia
+South Korea	0
+2	Friendly
+in Saudi Arabia	-7
++7	1360
+1677	0
++4	97
+32
+May 25
+1978	Japan
+South Korea	0
+3	Friendly
+in Japan	-10
++10	1406
+1687	-1
++2	85
+29
+July 12
+1978	South Korea
+Japan	4
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1696
+1397	+1
+-2	28
+87
+July 14
+1978	South Korea
+Singapore	2
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1698
+1137	0
+0	28
+150
+July 17
+1978	South Korea
+Thailand	3
+0	Merdeka Tournament
+in Malaysia	+6
+-6	1704
+1333	0
+-3	28
+106
+July 19
+1978	South Korea
+Iraq	2
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1719
+1565	0
+-1	28
+51
+July 21
+1978	Malaysia
+South Korea	1
+3	Merdeka Tournament
+in Malaysia	-19
++19	1542
+1738	-4
++4	58
+24
+July 24
+1978	South Korea
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1741
+1273	0
+0	24
+122
+July 26
+1978	South Korea
+Syria	2
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1744
+1289	0
+0	24
+118
+July 29
+1978	South Korea
+Iraq	2
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1757
+1571	+1
+-3	23
+52
+September 11
+1978	South Korea
+Malaysia	2
+2	Presidents Cup
+in South Korea	-14
++14	1743
+1575	-2
++5	25
+51
+September 13
+1978	South Korea
+Bahrain	3
+1	Presidents Cup
+in South Korea	+2
+-2	1745
+1244	0
+0	25
+130
+December 10
+1978	South Korea
+Bahrain	5
+1	Asian Games
+in Thailand	+4
+-4	1749
+1240	+1
+-1	23
+130
+December 12
+1978	South Korea
+Kuwait	2
+0	Asian Games
+in Thailand	+26
+-26	1775
+1674	+3
+-2	20
+32
+December 14
+1978	South Korea
+Japan	3
+1	Asian Games
+in Thailand	+6
+-6	1781
+1389	+2
+-1	18
+89
+December 16
+1978	South Korea
+China	1
+0	Asian Games
+in Thailand	+6
+-6	1787
+1490	0
+-3	18
+69
+December 18
+1978	South Korea
+Malaysia	1
+0	Asian Games
+in Thailand	+8
+-8	1795
+1548	+1
+-1	17
+57
+December 20
+1978	Thailand
+South Korea	1
+3	Asian Games
+in Thailand	-7
++7	1322
+1802	-2
+0	107
+17
+December 22
+1978	North Korea
+South Korea	0
+0	Asian Games
+in Thailand	+8
+-8	1662
+1794	+2
+-1	33
+18
+December 25
+1978	South Korea
+Macao	4
+1	Asian Cup qualifier
+in the Philippines	+1
+-1	1795
+1110	+1
+0	17
+156
+December 27
+1978	Philippines
+South Korea	0
+5	Asian Cup qualifier
+in the Philippines	-2
++2	1009
+1797	-1
+0	166
+17
+December 29
+1978	South Korea
+China	1
+0	Asian Cup qualifier
+in the Philippines	+10
+-10	1807
+1588	+1
+-2	16
+48
+March 04
+1979	Japan
+South Korea	2
+1	Friendly
+in Japan	+17
+-17	1406
+1790	+2
+-2	87
+18
+April 27
+1979	Burma
+South Korea	1
+0	Friendly tournament
+in Indonesia	+27
+-27	1440
+1763	+7
+-4	77
+22
+June 16
+1979	South Korea
+Japan	4
+1	Friendly
+in South Korea	+2
+-2	1765
+1413	+1
+0	21
+82
+June 27
+1979	South Korea
+Indonesia	6
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1767
+1197	0
+0	21
+142
+June 29
+1979	Singapore
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+14
+-14	1107
+1753	0
+-3	159
+24
+July 02
+1979	South Korea
+Burma	3
+2	Merdeka Tournament
+in Malaysia	+5
+-5	1758
+1450	+1
+-1	23
+76
+July 04
+1979	South Korea
+Japan	1
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1762
+1432	0
+-2	23
+80
+July 06
+1979	Malaysia
+South Korea	1
+4	Merdeka Tournament
+in Malaysia	-15
++15	1488
+1777	-5
++3	71
+20
+July 12
+1979	South Korea
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+1
+-1	1778
+1263	0
+0	20
+124
+July 15
+1979	Malaysia
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+7
+-7	1501
+1771	+3
+-1	67
+21
+September 08
+1979	South Korea
+Sudan	8
+0	Presidents Cup
+in South Korea	+12
+-12	1783
+1525	0
+-1	20
+63
+September 12
+1979	South Korea
+Sri Lanka	6
+0	Presidents Cup
+in South Korea	0
+0	1783
+950	0
+0	20
+175
+September 14
+1979	South Korea
+Bahrain	5
+1	Presidents Cup
+in South Korea	+3
+-3	1786
+1300	0
+-1	20
+116
+September 16
+1979	South Korea
+Bangladesh	9
+0	Presidents Cup
+in South Korea	+1
+-1	1787
+1071	0
+0	20
+161
+January 28
+1980	Saudi Arabia
+South Korea	1
+3	Friendly
+in Saudi Arabia	-5
++5	1402
+1792	-4
+0	89
+19
+January 30
+1980	Saudi Arabia
+South Korea	1
+0	Friendly
+in Saudi Arabia	+17
+-17	1419
+1775	+8
+0	81
+19
+February 26
+1980	South Korea
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1781
+1628	0
+-4	19
+42
+May 09
+1980	Luxembourg
+South Korea	3
+2	Friendly
+in Indonesia	+19
+-19	1230
+1762	+3
+-3	136
+21
+May 14
+1980	South Korea
+Luxembourg	3
+0	Friendly
+in Indonesia	+1
+-1	1763
+1214	0
+0	21
+139
+August 23
+1980	South Korea
+Malaysia	2
+0	Presidents Cup
+in South Korea	+4
+-4	1767
+1399	0
+-1	21
+87
+August 25
+1980	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+2
+-2	1769
+1233	+1
+0	20
+136
+August 27
+1980	South Korea
+Thailand	4
+0	Presidents Cup
+in South Korea	+2
+-2	1771
+1282	0
++1	20
+120
+August 29
+1980	South Korea
+Bahrain	5
+0	Presidents Cup
+in South Korea	+2
+-2	1773
+1265	+1
+-2	19
+126
+September 02
+1980	South Korea
+Indonesia	2
+0	Presidents Cup
+in South Korea	+2
+-2	1775
+1259	0
+-2	19
+128
+September 09
+1980	Singapore
+South Korea	0
+2	Friendly
+in Singapore	-2
++2	1174
+1777	0
++1	147
+18
+September 16
+1980	Malaysia
+South Korea	1
+1	Asian Cup
+in Kuwait	+21
+-21	1363
+1756	+9
+-3	97
+21
+September 19
+1980	South Korea
+Qatar	2
+0	Asian Cup
+in Kuwait	+4
+-4	1760
+1272	0
+0	22
+122
+September 21
+1980	Kuwait
+South Korea	0
+3	Asian Cup
+in Kuwait	-38
++38	1573
+1798	-6
++5	51
+17
+September 24
+1980	South Korea
+United Arab Emirates	4
+1	Asian Cup
+in Kuwait	+2
+-2	1800
+1139	0
+0	17
+151
+September 28
+1980	South Korea
+North Korea	2
+1	Asian Cup
+in Kuwait	+17
+-17	1817
+1670	+2
+-2	15
+34
+September 30
+1980	Kuwait
+South Korea	3
+0	Asian Cup
+in Kuwait	+57
+-57	1668
+1760	+10
+-5	35
+20
+October 16
+1980	South Korea
+Indonesia	1
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1762
+1257	0
+-1	22
+130
+October 18
+1980	South Korea
+Kuwait	3
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1777
+1584	+2
+-2	20
+48
+October 19
+1980	New Zealand
+South Korea	2
+1	Merdeka Tournament
+in Malaysia	+25
+-25	1506
+1752	+6
+-3	65
+23
+October 20
+1980	Morocco
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1669
+1748	0
+-2	34
+25
+October 22
+1980	Malaysia
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+11
+-11	1346
+1737	+1
+-1	107
+26
+October 24
+1980	South Korea
+Thailand	0
+0	Merdeka Tournament
+in Malaysia	-12
++12	1725
+1375	0
++2	26
+96
+October 30
+1980	Burma
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+12
+-12	1360
+1713	+7
+0	100
+26
+November
+1980	South Korea
+China	2
+1	King's Cup
+in Thailand	+8
+-8	1721
+1529	0
+-8	26
+64
+November
+1980	South Korea
+Indonesia	3
+0	King's Cup
+in Thailand	+5
+-5	1726
+1314	0
++1	26
+117
+November
+1980	South Korea
+Malaysia	3
+0	King's Cup
+in Thailand	+7
+-7	1733
+1386	0
+-11	26
+96
+November
+1980	South Korea
+Singapore	3
+1	King's Cup
+in Thailand	+2
+-2	1735
+1186	0
++1	26
+146
+November
+1980	Thailand
+South Korea	2
+1	King's Cup
+in Thailand	+24
+-24	1428
+1711	+17
+0	73
+26
+December 03
+1980	Thailand
+South Korea	0
+0	King's Cup
+in Thailand	+6
+-6	1470
+1705	+4
+0	72
+26
+February 10
+1981	Mexico
+South Korea	4
+0	Friendly
+in Mexico	+19
+-19	1628
+1686	+2
+-3	40
+30
+March 08
+1981	Japan
+South Korea	0
+1	Friendly
+in Japan	-6
++6	1432
+1692	-1
+0	81
+29
+April 21
+1981	South Korea
+Malaysia	2
+1	World Cup qualifier
+in Kuwait	+5
+-5	1697
+1363	0
+-2	29
+98
+April 24
+1981	South Korea
+Thailand	5
+1	World Cup qualifier
+in Kuwait	+14
+-14	1711
+1432	+1
+-1	28
+80
+April 29
+1981	Kuwait
+South Korea	2
+0	World Cup qualifier
+in Kuwait	+34
+-34	1600
+1677	+9
+-4	45
+32
+June 17
+1981	South Korea
+Malaysia	2
+0	Presidents Cup
+in South Korea	+5
+-5	1682
+1351	0
+-3	31
+104
+June 21
+1981	South Korea
+Japan	2
+0	Presidents Cup
+in South Korea	+8
+-8	1690
+1449	+1
+-2	30
+81
+August 30
+1981	Iraq
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+1
+-1	1659
+1689	0
++1	35
+30
+September 07
+1981	South Korea
+Singapore	2
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1691
+1177	0
+0	30
+145
+September 14
+1981	South Korea
+Thailand	1
+1	Merdeka Tournament
+in Malaysia	-10
++10	1681
+1413	0
++5	30
+84
+February 18
+1982	India
+South Korea	2
+2	Nehru Gold Cup
+in India	+13
+-13	1316
+1668	+4
+-1	110
+34
+February 20
+1982	Uruguay
+South Korea	2
+2	Nehru Gold Cup
+in India	-5
++5	1752
+1673	-1
+0	22
+34
+March 01
+1982	China
+South Korea	1
+1	Nehru Gold Cup
+in India	+5
+-5	1592
+1668	+5
+-1	45
+34
+March 07
+1982	Iraq
+South Korea	3
+0	Friendly
+in Iraq	+12
+-12	1700
+1656	+3
+-3	28
+36
+March 10
+1982	Iraq
+South Korea	1
+1	Friendly
+in Iraq	-4
++4	1696
+1660	-1
+0	29
+35
+March 21
+1982	South Korea
+Japan	3
+0	Friendly
+in South Korea	+5
+-5	1665
+1463	0
+-1	34
+77
+May
+1982	South Korea
+Malaysia	5
+0	King's Cup
+in Thailand	+5
+-5	1670
+1255	+1
+-4	33
+133
+May 08
+1982	South Korea
+Indonesia	1
+0	King's Cup
+in Thailand	+2
+-2	1672
+1248	0
+-1	33
+135
+May 09
+1982	Thailand
+South Korea	0
+3	King's Cup
+in Thailand	-16
++16	1416
+1688	-5
++2	87
+31
+May 10
+1982	South Korea
+Indonesia	2
+0	King's Cup
+in Thailand	+3
+-3	1691
+1245	+1
+0	30
+135
+May 17
+1982	Thailand
+South Korea	0
+0	King's Cup
+in Thailand	+7
+-7	1426
+1684	+1
+-3	86
+33
+June 05
+1982	South Korea
+Bahrain	3
+0	Presidents Cup
+in South Korea	+4
+-4	1688
+1281	+2
+0	31
+121
+June 07
+1982	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+3
+-3	1691
+1259	+1
+-2	30
+131
+June 09
+1982	South Korea
+India	1
+0	Presidents Cup
+in South Korea	+2
+-2	1693
+1282	0
+0	30
+120
+August 05
+1982	Malaysia
+South Korea	1
+2	Merdeka Tournament
+in Malaysia	-4
++4	1260
+1697	-1
+0	129
+28
+August 06
+1982	Senegal
+South Korea	2
+0	Merdeka Tournament
+in Malaysia	+30
+-30	1615
+1667	+8
+-8	41
+36
+August 07
+1982	South Korea
+Indonesia	4
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1672
+1254	+1
+-1	35
+133
+August 10
+1982	South Korea
+United Arab Emirates	3
+2	Merdeka Tournament
+in Malaysia	+1
+-1	1673
+1159	+1
+0	34
+151
+August 16
+1982	Ghana
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1724
+1660	+1
+-3	24
+36
+August 18
+1982	Senegal
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1584
+1657	+2
+0	49
+36
+August 29
+1982	Qatar
+South Korea	2
+1	Lion City Cup
+in Singapore	+27
+-27	1324
+1630	+7
+-4	110
+40
+September 01
+1982	South Korea
+Indonesia	2
+0	Lion City Cup
+in Singapore	+5
+-5	1635
+1246	+1
+-1	39
+135
+September 05
+1982	Thailand
+South Korea	3
+1	Lion City Cup
+in Singapore	+35
+-35	1451
+1600	+6
+-3	81
+42
+October 05
+1982	South Korea
+Brunei	4
+1	Merlion Tournament
+in Singapore	+1
+-1	1601
+817	0
+0	42
+187
+October 07
+1982	South Korea
+Malaysia	3
+1	Merlion Tournament
+in Singapore	+6
+-6	1607
+1255	+1
+-4	41
+133
+October 10
+1982	Singapore
+South Korea	0
+2	Merlion Tournament
+in Singapore	-9
++9	1258
+1616	-7
++1	132
+40
+October 13
+1982	South Korea
+Indonesia	1
+0	Merlion Tournament
+in Singapore	+3
+-3	1619
+1247	0
+-2	40
+136
+October 17
+1982	Australia
+South Korea	3
+2	Merlion Tournament
+in Singapore	+16
+-16	1619
+1603	+3
+-3	40
+43
+November 19
+1982	South Korea
+South Yemen	3
+0	Asian Games
+in India	+5
+-5	1608
+1169	+1
+0	41
+146
+November 23
+1982	Japan
+South Korea	2
+1	Asian Games
+in India	+27
+-27	1515
+1581	+7
+-6	65
+48
+November 25
+1982	Iran
+South Korea	1
+0	Asian Games
+in India	+12
+-12	1732
+1569	0
+-4	25
+52
+March 06
+1983	Japan
+South Korea	1
+1	Friendly
+in Japan	-1
++1	1509
+1570	0
+0	66
+52
+June 08
+1983	South Korea
+Nigeria	0
+0	Presidents Cup
+in South Korea	-8
++8	1562
+1532	-1
++2	51
+59
+June 12
+1983	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+5
+-5	1567
+1219	+1
+-1	50
+138
+June 15
+1983	South Korea
+Ghana	1
+0	Presidents Cup
+in South Korea	+22
+-22	1589
+1677	+2
+-2	48
+33
+July 29
+1983	Guatemala
+South Korea	1
+1	Friendly
+in Guatemala	0
+0	1480
+1589	0
+0	73
+48
+August 03
+1983	Guatemala
+South Korea	2
+1	Friendly
+in Guatemala	+10
+-10	1490
+1579	+2
+-1	71
+49
+August 09
+1983	Costa Rica
+South Korea	1
+1	Friendly
+in Costa Rica	-2
++2	1534
+1581	-1
+0	59
+49
+September 16
+1983	Algeria
+South Korea	3
+1	Merdeka Tournament
+in Malaysia	+17
+-17	1691
+1564	+2
+-1	32
+51
+September 17
+1983	South Korea
+Bangladesh	3
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1567
+1069	0
+-1	51
+164
+September 22
+1983	South Korea
+Nepal	1
+0	Merdeka Tournament
+in Malaysia	+1
+-1	1568
+981	0
+-1	51
+172
+September 24
+1983	Malaysia
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+9
+-9	1229
+1559	+1
+-2	138
+53
+December 15
+1983	Australia
+South Korea	3
+1	Merlion Tournament
+in Singapore	+21
+-21	1601
+1538	+5
+-6	43
+59
+June 03
+1984	South Korea
+Guatemala	0
+0	Presidents Cup
+in South Korea	-9
++9	1529
+1485	-2
++2	61
+73
+September 30
+1984	South Korea
+Japan	1
+2	Friendly
+in South Korea	-13
++13	1516
+1535	-2
++3	61
+58
+October 04
+1984	South Korea
+Cameroon	5
+0	Friendly
+in South Korea	+24
+-24	1540
+1654	+4
+-2	57
+38
+October 10
+1984	South Korea
+North Yemen	6
+0	Asian Cup qualifier
+in India	+7
+-7	1547
+1108	0
+0	57
+158
+October 13
+1984	South Korea
+Pakistan	6
+0	Asian Cup qualifier
+in India	+15
+-15	1562
+1267	+2
+-4	55
+129
+October 16
+1984	Malaysia
+South Korea	0
+0	Asian Cup qualifier
+in India	+13
+-13	1300
+1549	+9
+-2	114
+57
+October 19
+1984	India
+South Korea	0
+1	Asian Cup qualifier
+in India	-12
++12	1290
+1561	-9
++2	123
+55
+December 02
+1984	Saudi Arabia
+South Korea	1
+1	Asian Cup
+in Singapore	+5
+-5	1495
+1556	+4
+-1	68
+55
+December 05
+1984	Kuwait
+South Korea	0
+0	Asian Cup
+in Singapore	0
+0	1555
+1556	-1
+-1	56
+55
+December 07
+1984	Syria
+South Korea	1
+0	Asian Cup
+in Singapore	+41
+-41	1336
+1515	+12
+-6	107
+61
+December 10
+1984	Qatar
+South Korea	1
+0	Asian Cup
+in Singapore	+32
+-32	1440
+1483	+6
+-13	84
+74
+March 02
+1985	Nepal
+South Korea	0
+2	World Cup qualifier
+in Nepal	-4
++4	909
+1487	0
++1	179
+74
+March 05
+1985	Kuwait
+South Korea	1
+0	Friendly
+in Kuwait	+6
+-6	1540
+1481	+1
+-1	60
+75
+March 07
+1985	Bahrain
+South Korea	1
+5	Friendly
+in Bahrain	-13
++13	1258
+1494	-8
++2	132
+73
+March 10
+1985	Malaysia
+South Korea	1
+0	World Cup qualifier
+in Malaysia	+23
+-23	1361
+1471	+7
+-3	98
+76
+April 06
+1985	South Korea
+Nepal	4
+0	World Cup qualifier
+in South Korea	+2
+-2	1473
+918	0
+0	77
+179
+May 19
+1985	South Korea
+Malaysia	2
+0	World Cup qualifier
+in South Korea	+13
+-13	1486
+1337	+4
+-2	73
+107
+June 04
+1985	South Korea
+Thailand	3
+2	Presidents Cup
+in South Korea	+5
+-5	1491
+1236	+1
+-2	71
+135
+June 08
+1985	South Korea
+Bahrain	3
+0	Presidents Cup
+in South Korea	+12
+-12	1503
+1303	+4
+-5	67
+114
+June 15
+1985	South Korea
+Iraq	2
+0	Presidents Cup
+in South Korea	+39
+-39	1542
+1668	+3
+-4	64
+34
+July 21
+1985	South Korea
+Indonesia	2
+0	World Cup qualifier
+in South Korea	+6
+-6	1548
+1254	0
+-2	63
+131
+July 30
+1985	Indonesia
+South Korea	1
+4	World Cup qualifier
+in Indonesia	-17
++17	1237
+1565	-3
+0	134
+63
+July 30
+1985	Thailand
+South Korea	3
+2	Merdeka Tournament
+in Malaysia	+26
+-26	1262
+1539	+6
+0	129
+63
+August 01
+1985	Malaysia
+South Korea	0
+3	Merdeka Tournament
+in Malaysia	-17
++17	1300
+1556	-8
++2	117
+61
+October 26
+1985	Japan
+South Korea	1
+2	World Cup qualifier
+in Japan	-28
++28	1570
+1584	-10
++9	56
+51
+November 03
+1985	South Korea
+Japan	1
+0	World Cup qualifier
+in South Korea	+14
+-14	1598
+1556	+5
+-3	46
+59
+December 03
+1985	Mexico
+South Korea	2
+1	Friendly
+in the United States	+6
+-6	1767
+1592	0
+-1	25
+46
+December 08
+1985	Hungary
+South Korea	1
+0	Friendly tournament
+in Mexico	+6
+-6	1835
+1586	+2
+-4	9
+50
+December 10
+1985	Mexico
+South Korea	2
+1	Friendly tournament
+in Mexico	+5
+-5	1786
+1581	0
+-1	23
+51
+December 14
+1985	South Korea
+Algeria	2
+0	Friendly tournament
+in Mexico	+30
+-30	1611
+1675	+9
+-1	42
+33
+February 09
+1986	Hong Kong
+South Korea	0
+2	Friendly tournament
+in Hong Kong	-14
++14	1357
+1625	-4
++2	102
+41
+February 14
+1986	Paraguay
+South Korea	3
+1	Friendly tournament
+in Hong Kong	+16
+-16	1751
+1609	+2
+-1	27
+43
+June 02
+1986	Argentina
+South Korea	3
+1	World Cup
+in Mexico	+19
+-19	1860
+1590	+1
+-2	6
+48
+June 05
+1986	Bulgaria
+South Korea	1
+1	World Cup
+in Mexico	-15
++15	1766
+1605	-1
++3	25
+45
+June 10
+1986	Italy
+South Korea	3
+2	World Cup
+in Mexico	+13
+-13	1846
+1592	0
+-2	9
+47
+September 20
+1986	South Korea
+India	3
+0	Asian Games
+in South Korea	+5
+-5	1597
+1240	+1
+0	48
+134
+September 24
+1986	South Korea
+Bahrain	0
+0	Asian Games
+in South Korea	-17
++17	1580
+1302	-8
++3	56
+116
+September 28
+1986	South Korea
+China	4
+2	Asian Games
+in South Korea	+25
+-25	1605
+1594	+9
+-8	46
+50
+October 01
+1986	South Korea
+Iran	1
+1	Asian Games
+in South Korea	-2
++2	1603
+1664	0
+0	46
+34
+October 03
+1986	South Korea
+Indonesia	4
+0	Asian Games
+in South Korea	+4
+-4	1607
+1182	0
+0	46
+145
+October 05
+1986	South Korea
+Saudi Arabia	2
+0	Asian Games
+in South Korea	+17
+-17	1624
+1528	+4
+-4	42
+65
+December 02
+1986	China
+South Korea	0
+0	Friendly tournament
+in Nepal	+2
+-2	1582
+1622	+2
+-1	53
+43
+December 06
+1986	South Korea
+Malaysia	2
+1	Friendly tournament
+in Nepal	+3
+-3	1625
+1221	+1
+0	42
+138
+December 09
+1986	Denmark
+South Korea	2
+1	Friendly tournament
+in Nepal	+5
+-5	1895
+1620	+1
+-1	7
+43
+December 11
+1986	Nepal
+South Korea	1
+2	Friendly tournament
+in Nepal	-1
++1	954
+1621	0
+0	176
+43
+June 10
+1987	South Korea
+Egypt	0
+0	Presidents Cup
+in South Korea	-5
++5	1616
+1643	-2
++1	47
+39
+June 12
+1987	South Korea
+United States	1
+0	Presidents Cup
+in South Korea	+7
+-7	1623
+1452	+2
+0	45
+78
+June 14
+1987	South Korea
+Thailand	4
+2	Presidents Cup
+in South Korea	+7
+-7	1630
+1353	+4
+-2	41
+103
+June 21
+1987	South Korea
+Australia	1
+1	Presidents Cup
+in South Korea	-2
++2	1628
+1693	0
+0	41
+31
+January 06
+1988	Egypt
+South Korea	1
+1	Afro-Asian Championship
+in Qatar	-4
++4	1682
+1632	0
++1	33
+41
+January 21
+1988	Malaysia
+South Korea	0
+0	King's Cup
+in Thailand	+11
+-11	1305
+1621	+3
+-4	115
+45
+June 17
+1988	Bahrain
+South Korea	2
+0	Asian Cup qualifier
+in Indonesia	+49
+-49	1419
+1572	+12
+-4	86
+50
+June 19
+1988	South Korea
+Zambia	4
+0	Presidents Cup
+in South Korea	+26
+-26	1598
+1541	0
+-10	50
+61
+June 19
+1988	South Korea
+South Yemen	1
+1	Asian Cup qualifier
+in Indonesia	-18
++18	1580
+1125	0
++4	50
+156
+June 22
+1988	Indonesia
+South Korea	0
+4	Asian Cup qualifier
+in Indonesia	-21
++21	1296
+1601	-5
++3	115
+47
+July 02
+1988	Indonesia
+South Korea	0
+4	Friendly
+in Indonesia	-9
++9	1287
+1610	-2
++2	117
+45
+October 26
+1988	Japan
+South Korea	0
+1	Friendly
+in Japan	-10
++10	1488
+1620	-2
++2	72
+43
+December 03
+1988	South Korea
+United Arab Emirates	1
+0	Asian Cup
+in Qatar	+19
+-19	1639
+1509	+1
+-4	41
+68
+December 06
+1988	Japan
+South Korea	0
+2	Asian Cup
+in Qatar	-23
++23	1478
+1662	-5
++4	73
+37
+December 09
+1988	Qatar
+South Korea	2
+3	Asian Cup
+in Qatar	-16
++16	1415
+1678	-5
++3	91
+33
+December 11
+1988	Iran
+South Korea	0
+3	Asian Cup
+in Qatar	-44
++44	1637
+1722	-9
++5	41
+28
+December 14
+1988	China
+South Korea	1
+2	Asian Cup
+in Qatar	-13
++13	1527
+1735	-6
++1	65
+27
+December 18
+1988	Saudi Arabia
+South Korea	0
+0	Asian Cup
+in Qatar	+12
+-12	1562
+1723	+2
+-1	53
+28
+May 05
+1989	South Korea
+Japan	1
+0	Friendly
+in South Korea	+2
+-2	1725
+1446	0
+0	27
+82
+May 23
+1989	South Korea
+Singapore	3
+0	World Cup qualifier
+in South Korea	+2
+-2	1727
+1226	0
+0	27
+136
+May 25
+1989	South Korea
+Nepal	9
+0	World Cup qualifier
+in South Korea	+1
+-1	1728
+985	0
+0	27
+175
+May 27
+1989	South Korea
+Malaysia	3
+0	World Cup qualifier
+in South Korea	+3
+-3	1731
+1276	0
+0	27
+119
+June 03
+1989	Nepal
+South Korea	0
+4	World Cup qualifier
+in Singapore	-1
++1	969
+1732	0
++1	177
+26
+June 05
+1989	Malaysia
+South Korea	0
+3	World Cup qualifier
+in Singapore	-5
++5	1274
+1737	-1
+0	121
+26
+June 07
+1989	Singapore
+South Korea	0
+3	World Cup qualifier
+in Singapore	-6
++6	1225
+1743	-2
+0	137
+26
+August 08
+1989	Mexico
+South Korea	4
+2	Friendly
+in the United States	+10
+-10	1869
+1733	+3
+-3	9
+27
+August 13
+1989	United States
+South Korea	1
+2	Friendly
+in the United States	-6
++6	1494
+1739	-1
++1	69
+26
+September 16
+1989	South Korea
+Egypt	1
+0	Friendly
+in South Korea	+5
+-5	1744
+1640	0
+-1	26
+38
+October 13
+1989	Qatar
+South Korea	0
+0	World Cup qualifier
+in Singapore	+13
+-13	1491
+1731	0
+-2	71
+26
+October 16
+1989	North Korea
+South Korea	0
+1	World Cup qualifier
+in Singapore	-13
++13	1585
+1744	-5
++2	48
+24
+October 20
+1989	China
+South Korea	0
+1	World Cup qualifier
+in Singapore	-10
++10	1550
+1754	-5
++1	58
+23
+October 25
+1989	Saudi Arabia
+South Korea	0
+2	World Cup qualifier
+in Singapore	-14
++14	1537
+1768	-2
++2	60
+21
+October 28
+1989	South Korea
+United Arab Emirates	1
+1	World Cup qualifier
+in Singapore	-12
++12	1756
+1547	-1
++3	22
+59
+February 05
+1990	Norway
+South Korea	3
+2	Rothmans Tournament
+in Malta	+21
+-21	1634
+1735	+3
+-2	39
+25
+February 10
+1990	Malta
+South Korea	1
+2	Rothmans Tournament
+in Malta	-5
++5	1337
+1740	-3
+0	112
+25
+February 15
+1990	Iraq
+South Korea	0
+0	Friendly
+in Iraq	+1
+-1	1609
+1739	0
+0	43
+25
+February 18
+1990	Egypt
+South Korea	0
+0	Friendly
+in Egypt	-1
++1	1675
+1740	-1
+0	33
+25
+June 12
+1990	Belgium
+South Korea	2
+0	World Cup
+in Italy	+37
+-37	1842
+1703	+3
+-4	14
+29
+June 17
+1990	South Korea
+Spain	1
+3	World Cup
+in Italy	-23
++23	1680
+1908	-6
++1	34
+5
+June 21
+1990	South Korea
+Uruguay	0
+1	World Cup
+in Italy	-18
++18	1662
+1839	0
++2	33
+14
+July 28
+1990	Japan
+South Korea	0
+2	Dynasty Cup
+in China	-10
++10	1435
+1672	-3
+0	84
+34
+July 30
+1990	South Korea
+North Korea	1
+0	Dynasty Cup
+in China	+9
+-9	1681
+1523	+1
+-1	33
+64
+July 31
+1990	China
+South Korea	0
+1	Dynasty Cup
+in China	-14
++14	1533
+1695	-4
++3	62
+30
+August 03
+1990	China
+South Korea	1
+1	Dynasty Cup
+in China	+3
+-3	1536
+1692	+2
+-1	61
+31
+September 06
+1990	South Korea
+Australia	1
+0	Friendly
+in South Korea	+6
+-6	1698
+1647	+1
+-1	29
+37
+September 09
+1990	South Korea
+Australia	1
+0	Friendly
+in South Korea	+6
+-6	1704
+1641	0
+-1	29
+38
+September 23
+1990	South Korea
+Singapore	7
+0	Asian Games
+in China	+7
+-7	1711
+1271	0
+0	29
+123
+September 25
+1990	South Korea
+Pakistan	7
+0	Asian Games
+in China	+2
+-2	1713
+1085	+1
+-1	28
+167
+September 27
+1990	China
+South Korea	0
+2	Asian Games
+in China	-23
++23	1511
+1736	-4
++2	64
+26
+October 01
+1990	South Korea
+Kuwait	1
+0	Asian Games
+in China	+8
+-8	1744
+1485	+2
++1	24
+69
+October 03
+1990	Iran
+South Korea	1
+0	Asian Games
+in China	+28
+-28	1620
+1716	+7
+-3	40
+27
+October 05
+1990	South Korea
+Thailand	1
+0	Asian Games
+in China	+5
+-5	1721
+1357	+1
+0	26
+102
+October 11
+1990	North Korea
+South Korea	2
+1	Friendly
+in North Korea	+13
+-13	1540
+1708	+4
+-2	57
+28
+October 23
+1990	South Korea
+North Korea	1
+0	Friendly
+in South Korea	+4
+-4	1712
+1536	+1
+-2	30
+59
+June 07
+1991	South Korea
+Egypt	0
+0	Presidents Cup
+in South Korea	-10
++10	1702
+1631	0
++2	31
+38
+June 09
+1991	South Korea
+Indonesia	3
+0	Presidents Cup
+in South Korea	+3
+-3	1705
+1271	0
+0	31
+125
+June 11
+1991	South Korea
+Malta	1
+1	Presidents Cup
+in South Korea	-18
++18	1687
+1340	-2
++1	33
+111
+June 14
+1991	South Korea
+Australia	0
+0	Presidents Cup
+in South Korea	-8
++8	1679
+1651	0
++2	33
+35
+June 16
+1991	South Korea
+Egypt	2
+0	Presidents Cup
+in South Korea	+19
+-19	1698
+1632	+2
+-3	31
+38
+July 27
+1991	Japan
+South Korea	0
+1	Friendly
+in Japan	-5
++5	1404
+1703	+1
+0	90
+30
+September 04
+1991	South Korea
+Australia	0
+0	Friendly
+in South Korea	-4
++4	1699
+1655	0
++2	30
+36
+June 19
+1992	South Korea
+Bangladesh	6
+0	Asian Cup qualifier
+in Thailand	+3
+-3	1702
+1119	0
+-1	30
+165
+June 21
+1992	Thailand
+South Korea	2
+1	Asian Cup qualifier
+in Thailand	+31
+-31	1426
+1671	+14
+-3	84
+33
+August 10
+1992	Indonesia
+South Korea	0
+1	Independence Cup
+in Indonesia	-6
++6	1272
+1677	-1
+0	126
+33
+August 13
+1992	South Korea
+Australia	1
+0	Independence Cup
+in Indonesia	+20
+-20	1697
+1654	+2
+-3	30
+36
+August 14
+1992	South Korea
+Malaysia	1
+0	Independence Cup
+in Indonesia	+3
+-3	1700
+1265	0
+-2	30
+132
+August 16
+1992	Malaysia
+South Korea	2
+1	Independence Cup
+in Indonesia	+37
+-37	1302
+1663	+10
+-4	122
+34
+August 22
+1992	Japan
+South Korea	0
+0	Dynasty Cup
+in China	+10
+-10	1406
+1653	+7
+-1	93
+35
+August 24
+1992	North Korea
+South Korea	1
+1	Dynasty Cup
+in China	+4
+-4	1550
+1649	+1
+0	57
+35
+August 26
+1992	China
+South Korea	0
+2	Dynasty Cup
+in China	-19
++19	1475
+1668	-8
++2	78
+33
+August 29
+1992	Japan
+South Korea	2
+2	Dynasty Cup
+in China	+8
+-8	1483
+1660	+2
+-2	76
+35
+October 21
+1992	South Korea
+United Arab Emirates	0
+0	Friendly
+in South Korea	-7
++7	1653
+1457	-1
++2	35
+85
+December 16
+1992	Singapore
+South Korea	0
+1	Merlion Tournament
+in Singapore	-5
++5	1282
+1658	-1
++1	127
+35
+December 19
+1992	South Korea
+China	3
+1	Merlion Tournament
+in Singapore	+13
+-13	1671
+1496	+1
+-4	34
+72
+February 08
+1993	South Korea
+Indonesia	5
+0	Merdeka Tournament
+in Malaysia	+6
+-6	1677
+1287	0
+-1	34
+126
+February 10
+1993	South Korea
+Ghana	3
+1	Merdeka Tournament
+in Malaysia	+21
+-21	1698
+1629	+3
+-3	31
+39
+February 14
+1993	Malaysia
+South Korea	3
+1	Merdeka Tournament
+in Malaysia	+38
+-38	1347
+1660	+9
+-3	112
+34
+February 19
+1993	Thailand
+South Korea	1
+0	King's Cup
+in Thailand	+23
+-23	1378
+1637	+1
+-3	105
+37
+March 09
+1993	Canada
+South Korea	0
+2	Friendly
+in Canada	-13
++13	1472
+1650	-3
++2	80
+36
+March 11
+1993	Canada
+South Korea	2
+0	Friendly
+in Canada	+18
+-18	1490
+1632	+6
+-2	74
+38
+April 25
+1993	South Korea
+Iraq	1
+1	Friendly
+in South Korea	-3
++3	1629
+1621	-1
+0	40
+45
+April 28
+1993	South Korea
+Iraq	2
+2	Friendly
+in South Korea	-3
++3	1626
+1624	-1
++3	41
+42
+May 09
+1993	Bahrain
+South Korea	0
+0	World Cup qualifier
+in Lebanon	+12
+-12	1385
+1614	+2
+-3	100
+45
+May 11
+1993	Lebanon
+South Korea	0
+1	World Cup qualifier
+in Lebanon	-7
++7	1238
+1621	0
++2	141
+43
+May 13
+1993	South Korea
+India	3
+0	World Cup qualifier
+in Lebanon	+5
+-5	1626
+1160	+2
+-1	41
+156
+May 15
+1993	South Korea
+Hong Kong	3
+0	World Cup qualifier
+in Lebanon	+9
+-9	1635
+1289	+2
+-1	39
+128
+June 05
+1993	South Korea
+Hong Kong	3
+0	World Cup qualifier
+in South Korea	+5
+-5	1640
+1284	+4
+-2	36
+128
+June 07
+1993	South Korea
+Lebanon	2
+0	World Cup qualifier
+in South Korea	+3
+-3	1643
+1246	0
+0	36
+141
+June 09
+1993	South Korea
+India	7
+0	World Cup qualifier
+in South Korea	+3
+-3	1646
+1133	0
+-1	36
+166
+June 13
+1993	South Korea
+Bahrain	3
+0	World Cup qualifier
+in South Korea	+9
+-9	1655
+1411	+1
+-3	35
+99
+June 19
+1993	South Korea
+Egypt	1
+2	Presidents Cup
+in South Korea	-26
++26	1629
+1666	-8
++4	42
+33
+June 29
+1993	South Korea
+Egypt	0
+1	Presidents Cup
+in South Korea	-24
++24	1605
+1690	-4
++2	45
+31
+September 24
+1993	South Korea
+Australia	1
+1	Friendly
+in South Korea	0
+0	1605
+1705	0
+0	48
+28
+September 26
+1993	South Korea
+Australia	1
+0	Friendly
+in South Korea	+10
+-10	1615
+1695	+3
+-1	45
+30
+October 16
+1993	Iran
+South Korea	0
+3	World Cup qualifier
+in Qatar	-32
++32	1552
+1647	-8
++7	60
+39
+October 19
+1993	Iraq
+South Korea	2
+2	World Cup qualifier
+in Qatar	+2
+-2	1612
+1645	+1
+0	45
+39
+October 22
+1993	South Korea
+Saudi Arabia	1
+1	World Cup qualifier
+in Qatar	+2
+-2	1647
+1673	0
+0	38
+32
+October 25
+1993	Japan
+South Korea	1
+0	World Cup qualifier
+in Qatar	+20
+-20	1662
+1627	+5
+-5	34
+43
+October 28
+1993	South Korea
+North Korea	3
+0	World Cup qualifier
+in Qatar	+31
+-31	1658
+1555	+6
+-8	37
+60
+February 16
+1994	South Korea
+Romania	1
+2	Friendly
+in South Korea	-9
++9	1649
+1791	0
++1	38
+21
+February 20
+1994	South Korea
+Malaysia	5
+1	Friendly
+in South Korea	+3
+-3	1652
+1295	0
+-1	38
+132
+February 26
+1994	Colombia
+South Korea	2
+2	Friendly
+in the United States	-6
++6	1906
+1658	0
++1	5
+37
+March 05
+1994	United States
+South Korea	1
+0	Friendly
+in the United States	+9
+-9	1609
+1649	+4
+-1	46
+38
+March 12
+1994	United States
+South Korea	1
+1	Friendly
+in the United States	-2
++2	1607
+1651	-1
+0	48
+38
+May 01
+1994	South Korea
+Cameroon	2
+2	Friendly
+in South Korea	-3
++3	1648
+1631	-1
+0	39
+44
+May 03
+1994	South Korea
+Cameroon	2
+1	Friendly
+in South Korea	+7
+-7	1655
+1624	+2
+0	37
+44
+June 05
+1994	Ecuador
+South Korea	2
+1	Friendly
+in the United States	+11
+-11	1625
+1644	+2
+-3	44
+41
+June 11
+1994	South Korea
+Honduras	3
+0	Friendly
+in the United States	+11
+-11	1655
+1488	+4
+-4	37
+78
+June 17
+1994	Spain
+South Korea	2
+2	World Cup
+in the United States	-16
++16	1838
+1671	-1
++6	12
+31
+June 23
+1994	South Korea
+Bolivia	0
+0	World Cup
+in the United States	-1
++1	1670
+1655	-1
+0	33
+36
+June 27
+1994	Germany
+South Korea	3
+2	World Cup
+in the United States	+9
+-9	1977
+1661	+1
+-4	1
+36
+September 11
+1994	South Korea
+Ukraine	1
+0	Friendly
+in South Korea	+5
+-5	1666
+1543	+1
+0	33
+61
+September 13
+1994	South Korea
+Ukraine	2
+0	Friendly
+in South Korea	+7
+-7	1673
+1536	0
+-1	33
+62
+September 19
+1994	South Korea
+United Arab Emirates	0
+0	Friendly
+in South Korea	-7
++7	1666
+1466	0
++1	33
+83
+October 01
+1994	South Korea
+Nepal	11
+0	Asian Games
+in Japan	+2
+-2	1668
+952	0
+0	33
+193
+October 05
+1994	South Korea
+Oman	2
+1	Asian Games
+in Japan	+5
+-5	1673
+1337	0
+-1	33
+122
+October 07
+1994	Kuwait
+South Korea	1
+0	Asian Games
+in Japan	+28
+-28	1554
+1645	+9
+-2	57
+35
+October 11
+1994	Japan
+South Korea	2
+3	Asian Games
+in Japan	-24
++24	1585
+1669	-7
++2	49
+33
+October 13
+1994	Uzbekistan
+South Korea	1
+0	Asian Games
+in Japan	+23
+-23	1647
+1646	+5
+-3	35
+36
+October 15
+1994	Kuwait
+South Korea	2
+1	Asian Games
+in Japan	+26
+-26	1566
+1620	+4
+-4	56
+40
+December 24
+1994	Saudi Arabia
+South Korea	0
+1	Friendly
+in Saudi Arabia	-14
++14	1654
+1634	-3
++2	34
+37
+January 31
+1995	South Korea
+Colombia	1
+0	Carlsberg Cup
+in Hong Kong	+24
+-24	1658
+1839	+1
+-5	34
+16
+February 04
+1995	Yugoslavia
+South Korea	1
+0	Carlsberg Cup
+in Hong Kong	+7
+-7	1885
+1651	0
+-1	8
+35
+February 19
+1995	China
+South Korea	0
+0	Dynasty Cup
+in Hong Kong	+4
+-4	1563
+1647	0
+0	54
+35
+February 21
+1995	Japan
+South Korea	1
+1	Dynasty Cup
+in Hong Kong	+4
+-4	1559
+1643	+1
+0	54
+35
+February 23
+1995	Hong Kong
+South Korea	2
+3	Dynasty Cup
+in Hong Kong	-4
++4	1208
+1647	-1
+0	152
+35
+February 26
+1995	Japan
+South Korea	2
+2	Dynasty Cup
+in Hong Kong	+3
+-3	1577
+1644	+1
+0	51
+35
+June 05
+1995	South Korea
+Costa Rica	1
+0	Korea Cup
+in South Korea	+10
+-10	1654
+1608	0
+-3	34
+43
+June 10
+1995	South Korea
+Zambia	2
+3	Korea Cup
+in South Korea	-20
++20	1634
+1654	-1
++1	35
+34
+August 12
+1995	South Korea
+Brazil	0
+1	Friendly
+in South Korea	-3
++3	1631
+2072	-1
+0	41
+1
+October 31
+1995	South Korea
+Saudi Arabia	1
+1	Friendly
+in South Korea	-4
++4	1627
+1588	-1
++1	42
+48
+March 13
+1996	Croatia
+South Korea	3
+0	Friendly
+in Croatia	+5
+-5	1832
+1622	+2
+0	13
+41
+March 19
+1996	United Arab Emirates
+South Korea	3
+2	Friendly tournament
+in United Arab Emirates	+15
+-15	1537
+1607	+2
+-3	64
+44
+March 23
+1996	Morocco
+South Korea	2
+2	Friendly tournament
+in United Arab Emirates	-1
++1	1620
+1608	0
+0	42
+44
+March 25
+1996	South Korea
+Egypt	1
+1	Friendly tournament
+in United Arab Emirates	-1
++1	1607
+1592	0
+0	44
+48
+April 30
+1996	Israel
+South Korea	4
+5	Friendly
+in Israel	-12
++12	1575
+1619	-4
+0	54
+42
+May 16
+1996	South Korea
+Sweden	0
+2	Friendly
+in South Korea	-10
++10	1609
+1839	0
++5	41
+13
+August 05
+1996	South Korea
+Guam	9
+0	Asian Cup qualifier
+in Vietnam	0
+0	1609
+642	0
+0	43
+215
+August 08
+1996	South Korea
+Taiwan	4
+0	Asian Cup qualifier
+in Vietnam	+3
+-3	1612
+1032	+1
+0	42
+184
+August 11
+1996	Vietnam
+South Korea	0
+4	Asian Cup qualifier
+in Vietnam	-12
++12	1218
+1624	-2
++3	149
+39
+September 25
+1996	South Korea
+China	3
+1	Friendly
+in South Korea	+8
+-8	1632
+1537	+1
+-2	38
+65
+November 23
+1996	South Korea
+Colombia	4
+1	Friendly
+in South Korea	+24
+-24	1656
+1847	+4
+-1	35
+12
+November 26
+1996	China
+South Korea	2
+3	Friendly
+in China	-9
++9	1528
+1665	-2
+0	66
+35
+December 04
+1996	United Arab Emirates
+South Korea	1
+1	Asian Cup
+in United Arab Emirates	+2
+-2	1541
+1663	+1
+0	63
+35
+December 07
+1996	South Korea
+Indonesia	4
+2	Asian Cup
+in United Arab Emirates	+7
+-7	1670
+1252	+2
+0	34
+141
+December 10
+1996	Kuwait
+South Korea	2
+0	Asian Cup
+in United Arab Emirates	+53
+-53	1567
+1617	+15
+-10	57
+44
+December 16
+1996	Iran
+South Korea	6
+2	Asian Cup
+in United Arab Emirates	+44
+-44	1680
+1573	+5
+-10	34
+56
+January 18
+1997	South Korea
+Norway	1
+0	Friendly tournament
+in Australia	+24
+-24	1597
+1799	+3
+-1	52
+16
+January 22
+1997	Australia
+South Korea	2
+1	Friendly tournament
+in Australia	+6
+-6	1751
+1591	0
+-1	24
+53
+January 25
+1997	South Korea
+New Zealand	3
+1	Friendly tournament
+in Australia	+15
+-15	1606
+1460	+3
+-4	50
+86
+February 22
+1997	Hong Kong
+South Korea	0
+2	World Cup qualifier
+in Hong Kong	-10
++10	1213
+1616	-1
++3	149
+47
+March 02
+1997	Thailand
+South Korea	1
+3	World Cup qualifier
+in Thailand	-22
++22	1402
+1638	-7
++9	103
+38
+May 21
+1997	Japan
+South Korea	1
+1	Friendly
+in Japan	-4
++4	1687
+1642	-3
++2	32
+41
+May 28
+1997	South Korea
+Hong Kong	4
+0	World Cup qualifier
+in South Korea	+4
+-4	1646
+1226	+2
+0	39
+145
+June 01
+1997	South Korea
+Thailand	0
+0	World Cup qualifier
+in South Korea	-14
++14	1632
+1443	-4
++6	43
+87
+June 12
+1997	South Korea
+Egypt	3
+1	Korea Cup
+in South Korea	+12
+-12	1644
+1551	+5
+-2	40
+62
+June 14
+1997	South Korea
+Ghana	3
+0	Korea Cup
+in South Korea	+14
+-14	1658
+1550	+3
+-4	37
+63
+June 16
+1997	South Korea
+Yugoslavia	1
+1	Korea Cup
+in South Korea	+6
+-6	1664
+1907	+1
+-1	36
+9
+August 10
+1997	South Korea
+Brazil	1
+2	Friendly
+in South Korea	-2
++2	1662
+2112	0
+0	37
+1
+August 24
+1997	South Korea
+Tajikistan	4
+1	Friendly
+in South Korea	+7
+-7	1669
+1515	0
+-1	37
+70
+September 06
+1997	South Korea
+Kazakhstan	3
+0	World Cup qualifier
+in South Korea	+11
+-11	1680
+1472	+2
+-5	35
+79
+September 12
+1997	South Korea
+Uzbekistan	2
+1	World Cup qualifier
+in South Korea	+7
+-7	1687
+1509	+2
+-1	33
+70
+September 28
+1997	Japan
+South Korea	1
+2	World Cup qualifier
+in Japan	-27
++27	1679
+1714	-4
++5	35
+28
+October 04
+1997	South Korea
+United Arab Emirates	3
+0	World Cup qualifier
+in South Korea	+20
+-20	1734
+1635	+2
+-4	27
+46
+October 11
+1997	Kazakhstan
+South Korea	1
+1	World Cup qualifier
+in Kazakhstan	+9
+-9	1471
+1725	+6
+0	77
+27
+October 18
+1997	Uzbekistan
+South Korea	1
+5	World Cup qualifier
+in Uzbekistan	-24
++24	1473
+1749	-6
++5	77
+23
+November 01
+1997	South Korea
+Japan	0
+2	World Cup qualifier
+in South Korea	-45
++45	1704
+1704	-7
++10	30
+30
+November 09
+1997	United Arab Emirates
+South Korea	1
+3	World Cup qualifier
+in United Arab Emirates	-29
++29	1567
+1733	-4
++3	56
+27
+January 27
+1998	South Korea
+Egypt	2
+0	King's Cup
+in Thailand	+14
+-14	1747
+1579	+2
+-1	24
+53
+January 29
+1998	Thailand
+South Korea	0
+2	King's Cup
+in Thailand	-11
++11	1443
+1758	-8
++1	92
+23
+January 31
+1998	South Korea
+Egypt	1
+1	King's Cup
+in Thailand	-7
++7	1751
+1586	0
++1	23
+52
+February 07
+1998	New Zealand
+South Korea	0
+1	Friendly
+in New Zealand	-5
++5	1438
+1756	-3
+0	95
+23
+February 11
+1998	Australia
+South Korea	1
+0	Friendly
+in Australia	+6
+-6	1824
+1750	+1
+-1	15
+25
+March 01
+1998	Japan
+South Korea	2
+1	Dynasty Cup
+in Japan	+10
+-10	1768
+1740	+2
+-1	22
+26
+March 04
+1998	South Korea
+China	2
+1	Dynasty Cup
+in Japan	+9
+-9	1749
+1588	+1
+-1	25
+56
+March 07
+1998	South Korea
+Hong Kong	1
+0	Dynasty Cup
+in Japan	+1
+-1	1750
+1221	+1
+0	24
+144
+April 01
+1998	South Korea
+Japan	2
+1	Friendly
+in South Korea	+7
+-7	1757
+1724	+1
+-1	23
+30
+April 15
+1998	Slovakia
+South Korea	0
+0	Friendly
+in Slovakia	0
+0	1654
+1757	0
+0	42
+23
+April 18
+1998	Macedonia
+South Korea	2
+2	Friendly
+in Macedonia	+5
+-5	1482
+1752	0
+0	77
+23
+April 22
+1998	Yugoslavia
+South Korea	3
+1	Friendly
+in Yugoslavia	+5
+-5	1931
+1747	0
+-1	7
+24
+May 16
+1998	South Korea
+Jamaica	2
+1	Friendly
+in South Korea	+4
+-4	1751
+1620	0
+-2	24
+51
+May 19
+1998	South Korea
+Jamaica	0
+0	Friendly
+in South Korea	-6
++6	1745
+1626	0
++4	24
+47
+May 27
+1998	South Korea
+Czechia	2
+2	Friendly
+in South Korea	0
+0	1745
+1852	0
+0	24
+12
+June 04
+1998	South Korea
+China	1
+1	Friendly
+in South Korea	-6
++6	1739
+1632	-2
++3	25
+44
+June 13
+1998	Mexico
+South Korea	3
+1	World Cup
+in France	+34
+-34	1860
+1705	+4
+-8	11
+32
+June 20
+1998	Netherlands
+South Korea	5
+0	World Cup
+in France	+28
+-28	1942
+1677	+2
+-4	6
+35
+June 25
+1998	Belgium
+South Korea	1
+1	World Cup
+in France	-10
++10	1791
+1687	0
++2	19
+32
+November 13
+1998	China
+South Korea	0
+3	Friendly
+in China	-20
++20	1626
+1707	-6
++4	50
+29
+November 22
+1998	China
+South Korea	0
+0	Friendly
+in China	-1
++1	1625
+1708	0
+0	51
+28
+December 02
+1998	Turkmenistan
+South Korea	3
+2	Asian Games
+in Thailand	+35
+-35	1410
+1673	+11
+-8	101
+36
+December 04
+1998	South Korea
+Vietnam	4
+0	Asian Games
+in Thailand	+5
+-5	1678
+1223	0
+0	36
+146
+December 09
+1998	South Korea
+United Arab Emirates	2
+1	Asian Games
+in Thailand	+12
+-12	1690
+1515	+4
+-3	32
+69
+December 11
+1998	South Korea
+Kuwait	1
+0	Asian Games
+in Thailand	+22
+-22	1712
+1698	+4
+-5	28
+31
+December 14
+1998	Thailand
+South Korea	2
+1	Asian Games
+in Thailand	+30
+-30	1446
+1682	+8
+-7	91
+35
+March 28
+1999	South Korea
+Brazil	1
+0	Friendly
+in South Korea	+16
+-16	1698
+2006	+5
+0	32
+2
+June 05
+1999	South Korea
+Belgium	1
+2	Friendly
+in South Korea	-12
++12	1686
+1736	-6
++2	37
+23
+June 12
+1999	South Korea
+Mexico	1
+1	Korea Cup
+in South Korea	+3
+-3	1689
+1851	0
+0	35
+15
+June 15
+1999	South Korea
+Egypt	0
+0	Korea Cup
+in South Korea	-4
++4	1685
+1702	-1
+0	36
+32
+June 19
+1999	South Korea
+Croatia	1
+1	Korea Cup
+in South Korea	+4
+-4	1689
+1876	+2
+0	34
+12
+January 21
+2000	New Zealand
+South Korea	0
+1	Friendly
+in New Zealand	-7
++7	1487
+1696	-1
++2	77
+33
+January 23
+2000	New Zealand
+South Korea	0
+0	Friendly
+in New Zealand	+3
+-3	1490
+1693	+1
+-3	76
+36
+February 15
+2000	Canada
+South Korea	0
+0	Concacaf Gold Cup
+in the United States	+9
+-9	1566
+1684	0
+-1	58
+36
+February 17
+2000	Costa Rica
+South Korea	2
+2	Concacaf Gold Cup
+in the United States	+5
+-5	1618
+1679	0
+-3	53
+39
+April 05
+2000	South Korea
+Laos	9
+0	Asian Cup qualifier
+in South Korea	+1
+-1	1680
+992	0
+0	39
+189
+April 07
+2000	South Korea
+Mongolia	6
+0	Asian Cup qualifier
+in South Korea	0
+0	1680
+783	0
+0	39
+212
+April 09
+2000	South Korea
+Myanmar	4
+0	Asian Cup qualifier
+in South Korea	+2
+-2	1682
+1136	0
+0	39
+166
+April 26
+2000	South Korea
+Japan	1
+0	Friendly
+in South Korea	+5
+-5	1687
+1605	+2
+0	37
+54
+May 28
+2000	South Korea
+Yugoslavia	0
+0	Friendly
+in South Korea	+4
+-4	1691
+1911	+4
+0	33
+7
+May 30
+2000	South Korea
+Yugoslavia	0
+0	Friendly
+in South Korea	+3
+-3	1694
+1908	-1
+0	34
+7
+June 07
+2000	South Korea
+Macedonia	2
+1	Friendly tournament
+in Iran	+7
+-7	1701
+1493	0
+-3	33
+76
+June 09
+2000	South Korea
+Egypt	1
+0	Friendly tournament
+in Iran	+14
+-14	1715
+1653	+2
+-2	31
+44
+July 28
+2000	China
+South Korea	0
+1	Friendly
+in China	-12
++12	1671
+1727	-3
++3	41
+27
+October 04
+2000	United Arab Emirates
+South Korea	1
+1	Friendly tournament
+in United Arab Emirates	+5
+-5	1501
+1722	+1
+-2	73
+28
+October 07
+2000	South Korea
+Australia	4
+2	Friendly tournament
+in United Arab Emirates	+27
+-27	1749
+1758	+5
+-1	23
+20
+October 13
+2000	South Korea
+China	2
+2	Asian Cup
+in Lebanon	-5
++5	1744
+1680	0
++3	22
+38
+October 16
+2000	Kuwait
+South Korea	1
+0	Asian Cup
+in Lebanon	+35
+-35	1640
+1709	+6
+-9	49
+31
+October 19
+2000	South Korea
+Indonesia	3
+0	Asian Cup
+in Lebanon	+11
+-11	1720
+1356	+2
+-1	30
+113
+October 23
+2000	South Korea
+Iran	2
+1	Asian Cup
+in Lebanon	+27
+-27	1747
+1716	+7
+-7	22
+30
+October 26
+2000	Saudi Arabia
+South Korea	2
+1	Asian Cup
+in Lebanon	+31
+-31	1695
+1716	+9
+-6	36
+30
+October 29
+2000	South Korea
+China	1
+0	Asian Cup
+in Lebanon	+23
+-23	1739
+1667	+5
+-7	25
+45
+December 20
+2000	Japan
+South Korea	1
+1	Friendly
+in Japan	-4
++4	1786
+1743	0
++1	18
+24
+January 24
+2001	Norway
+South Korea	3
+2	Carlsberg Cup
+in Hong Kong	+14
+-14	1786
+1729	+3
+-4	18
+28
+January 27
+2001	South Korea
+Paraguay	1
+1	Carlsberg Cup
+in Hong Kong	+5
+-5	1734
+1832	+1
+0	27
+12
+February 08
+2001	Morocco
+South Korea	1
+1	Friendly tournament
+in United Arab Emirates	+2
+-2	1701
+1732	+1
+-1	34
+29
+February 11
+2001	United Arab Emirates
+South Korea	1
+4	Friendly tournament
+in United Arab Emirates	-18
++18	1497
+1750	-2
++4	72
+25
+April 24
+2001	South Korea
+Iran	1
+0	Friendly tournament
+in Egypt	+15
+-15	1765
+1724	+3
+-3	23
+31
+April 26
+2001	Egypt
+South Korea	1
+2	Friendly tournament
+in Egypt	-15
++15	1644
+1780	-4
++4	47
+19
+May 25
+2001	South Korea
+Cameroon	0
+0	Friendly
+in South Korea	-5
++5	1775
+1706	-1
++1	20
+34
+May 30
+2001	South Korea
+France	0
+5	Confederations Cup
+in South Korea	-24
++24	1751
+2103	-5
+0	25
+1
+June 01
+2001	South Korea
+Mexico	2
+1	Confederations Cup
+in South Korea	+16
+-16	1767
+1711	+4
+-4	21
+32
+June 03
+2001	South Korea
+Australia	1
+0	Confederations Cup
+in South Korea	+24
+-24	1791
+1828	+2
+-3	21
+13
+August 15
+2001	Czechia
+South Korea	5
+0	Friendly
+in Czechia	+12
+-12	1860
+1779	+2
+-2	10
+21
+September 13
+2001	South Korea
+Nigeria	2
+2	Friendly
+in South Korea	-5
++5	1774
+1712	-1
+0	22
+31
+September 16
+2001	South Korea
+Nigeria	2
+1	Friendly
+in South Korea	+6
+-6	1780
+1706	+2
+0	20
+32
+November 08
+2001	South Korea
+Senegal	0
+1	Friendly
+in South Korea	-17
++17	1763
+1606	0
+0	22
+54
+November 10
+2001	South Korea
+Croatia	2
+0	Friendly
+in South Korea	+15
+-15	1778
+1851	+1
+-1	21
+9
+November 13
+2001	South Korea
+Croatia	1
+1	Friendly
+in South Korea	-1
++1	1777
+1852	0
+0	22
+9
+December 09
+2001	South Korea
+United States	1
+0	Friendly
+in South Korea	+6
+-6	1783
+1722	+1
+0	22
+28
+January 19
+2002	United States
+South Korea	2
+1	Concacaf Gold Cup
+in the United States	+22
+-22	1744
+1761	+2
+-2	27
+24
+January 23
+2002	Cuba
+South Korea	0
+0	Concacaf Gold Cup
+in the United States	+19
+-19	1449
+1742	+6
+-3	90
+27
+January 27
+2002	South Korea
+Mexico	0
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1747
+1805	0
+-1	28
+17
+January 30
+2002	Costa Rica
+South Korea	3
+1	Concacaf Gold Cup
+in the United States	+37
+-37	1790
+1710	+6
+-7	21
+35
+February 02
+2002	Canada
+South Korea	2
+1	Concacaf Gold Cup
+in the United States	+35
+-35	1603
+1675	+3
+-5	53
+40
+February 13
+2002	Uruguay
+South Korea	2
+1	Friendly
+in Uruguay	+5
+-5	1774
+1670	+1
+0	23
+41
+March 13
+2002	Tunisia
+South Korea	0
+0	Friendly
+in Tunisia	-2
++2	1630
+1672	0
+0	47
+41
+March 20
+2002	Finland
+South Korea	0
+2	Friendly
+in Spain	-17
++17	1692
+1689	-4
++1	38
+40
+March 26
+2002	Turkey
+South Korea	0
+0	Friendly
+in Germany	-2
++2	1745
+1691	0
++1	27
+39
+April 20
+2002	South Korea
+Costa Rica	2
+0	Friendly
+in South Korea	+14
+-14	1705
+1749	+5
+-1	34
+27
+April 27
+2002	South Korea
+China	0
+0	Friendly
+in South Korea	-3
++3	1702
+1715	-1
+0	35
+32
+May 16
+2002	South Korea
+Scotland	4
+1	Friendly
+in South Korea	+12
+-12	1714
+1676	+5
+-1	32
+41
+May 21
+2002	South Korea
+England	1
+1	Friendly
+in South Korea	+2
+-2	1716
+1894	0
+0	32
+7
+May 26
+2002	South Korea
+France	2
+3	Friendly
+in South Korea	-4
++4	1712
+2066	0
+0	32
+1
+June 04
+2002	South Korea
+Poland	2
+0	World Cup
+in South Korea	+31
+-31	1743
+1669	+3
+-3	29
+38
+June 10
+2002	South Korea
+United States	1
+1	World Cup
+in South Korea	-2
++2	1741
+1824	0
++1	28
+17
+June 14
+2002	South Korea
+Portugal	1
+0	World Cup
+in South Korea	+37
+-37	1778
+1889	+6
+-4	22
+10
+June 18
+2002	South Korea
+Italy	2
+1	World Cup
+in South Korea	+35
+-35	1813
+1906	+7
+-2	17
+8
+June 22
+2002	South Korea
+Spain	0
+0	World Cup
+in South Korea	+4
+-4	1817
+1961	0
+0	16
+3
+June 25
+2002	South Korea
+Germany	0
+1	World Cup
+in South Korea	-27
++27	1790
+1977	-6
++3	22
+2
+June 29
+2002	South Korea
+Turkey	2
+3	World Cup
+in South Korea	-37
++37	1753
+1844	-5
++4	27
+13
+September 07
+2002	South Korea
+North Korea	0
+0	Friendly
+in South Korea	-8
++8	1745
+1519	-1
++2	28
+69
+November 20
+2002	South Korea
+Brazil	2
+3	Friendly
+in South Korea	-5
++5	1740
+2032	-1
+0	30
+1
+March 29
+2003	South Korea
+Colombia	0
+0	Friendly
+in South Korea	0
+0	1740
+1838	+1
+-1	28
+14
+April 16
+2003	South Korea
+Japan	0
+1	Friendly
+in South Korea	-12
++12	1728
+1789	-3
++1	31
+19
+May 31
+2003	Japan
+South Korea	0
+1	Friendly
+in Japan	-14
++14	1775
+1742	0
++5	20
+26
+June 08
+2003	South Korea
+Uruguay	0
+2	Friendly
+in South Korea	-18
++18	1724
+1779	-3
++1	30
+20
+June 11
+2003	South Korea
+Argentina	0
+1	Friendly
+in South Korea	-5
++5	1719
+2006	-2
+0	32
+3
+September 25
+2003	South Korea
+Vietnam	5
+0	Asian Cup qualifier
+in South Korea	+4
+-4	1723
+1290	0
+-1	29
+134
+September 27
+2003	South Korea
+Oman	1
+0	Asian Cup qualifier
+in South Korea	+4
+-4	1727
+1442	+1
+-2	28
+92
+September 29
+2003	South Korea
+Nepal	16
+0	Asian Cup qualifier
+in South Korea	+1
+-1	1728
+898	0
+0	28
+200
+October 19
+2003	Vietnam
+South Korea	1
+0	Asian Cup qualifier
+in Oman	+37
+-37	1309
+1691	+9
+-9	132
+37
+October 21
+2003	Oman
+South Korea	3
+1	Asian Cup qualifier
+in Oman	+39
+-39	1518
+1652	+9
+-4	72
+41
+October 24
+2003	South Korea
+Nepal	7
+0	Asian Cup qualifier
+in Oman	+1
+-1	1653
+890	0
+0	41
+200
+November 18
+2003	South Korea
+Bulgaria	0
+1	Friendly
+in South Korea	-11
++11	1642
+1726	-4
+0	45
+28
+December 04
+2003	South Korea
+Hong Kong	3
+1	East Asian Championship
+in Japan	+4
+-4	1646
+1189	+1
+-1	42
+157
+December 07
+2003	South Korea
+China	1
+0	East Asian Championship
+in Japan	+16
+-16	1662
+1551	+2
+-4	40
+66
+December 10
+2003	Japan
+South Korea	0
+0	East Asian Championship
+in Japan	-11
++11	1756
+1673	-3
++1	25
+39
+February 14
+2004	South Korea
+Oman	5
+0	Friendly
+in South Korea	+9
+-9	1682
+1538	0
+0	39
+67
+February 18
+2004	South Korea
+Lebanon	2
+0	World Cup qualifier
+in South Korea	+5
+-5	1687
+1367	+1
+0	38
+113
+March 31
+2004	Maldives
+South Korea	0
+0	World Cup qualifier
+in Maldives	+19
+-19	986
+1668	+1
+-5	190
+42
+April 28
+2004	South Korea
+Paraguay	0
+0	Friendly
+in South Korea	0
+0	1668
+1772	0
+-1	42
+21
+June 02
+2004	South Korea
+Turkey	0
+1	Friendly
+in South Korea	-8
++8	1660
+1854	-3
++1	44
+11
+June 05
+2004	South Korea
+Turkey	2
+1	Friendly
+in South Korea	+13
+-13	1673
+1841	+3
+0	41
+11
+June 09
+2004	South Korea
+Vietnam	2
+0	World Cup qualifier
+in South Korea	+3
+-3	1676
+1273	+1
+0	40
+140
+July 10
+2004	South Korea
+Bahrain	2
+0	Friendly
+in South Korea	+7
+-7	1683
+1566	+3
+0	34
+61
+July 14
+2004	South Korea
+Trinidad and Tobago	1
+1	Friendly
+in South Korea	-8
++8	1675
+1426	-3
+0	37
+101
+July 19
+2004	Jordan
+South Korea	0
+0	Asian Cup
+in China	+3
+-3	1638
+1672	+1
+0	47
+35
+July 23
+2004	South Korea
+United Arab Emirates	2
+0	Asian Cup
+in China	+14
+-14	1686
+1400	+1
+-4	34
+106
+July 27
+2004	South Korea
+Kuwait	4
+0	Asian Cup
+in China	+20
+-20	1706
+1438	+2
+-7	32
+95
+July 31
+2004	Iran
+South Korea	4
+3	Asian Cup
+in China	+23
+-23	1750
+1683	+1
+-2	29
+34
+September 08
+2004	Vietnam
+South Korea	1
+2	World Cup qualifier
+in Vietnam	-6
++6	1290
+1689	-3
++2	134
+33
+October 13
+2004	Lebanon
+South Korea	1
+1	World Cup qualifier
+in Lebanon	+12
+-12	1372
+1677	+3
+-3	110
+37
+November 17
+2004	South Korea
+Maldives	2
+0	World Cup qualifier
+in South Korea	+1
+-1	1678
+1021	-1
+-1	38
+188
+December 19
+2004	South Korea
+Germany	3
+1	Friendly
+in South Korea	+19
+-19	1697
+1853	+6
+-1	32
+11
+January 15
+2005	Colombia
+South Korea	2
+1	Friendly
+in the United States	+8
+-8	1784
+1689	0
+-4	23
+36
+January 19
+2005	Paraguay
+South Korea	1
+1	Friendly
+in the United States	-2
++2	1747
+1691	0
++1	28
+35
+January 22
+2005	Sweden
+South Korea	1
+1	Friendly
+in the United States	-4
++4	1840
+1695	0
++1	13
+34
+February 04
+2005	South Korea
+Egypt	0
+1	Friendly
+in South Korea	-14
++14	1681
+1659	-3
++3	37
+42
+February 09
+2005	South Korea
+Kuwait	2
+0	World Cup qualifier
+in South Korea	+10
+-10	1691
+1492	+2
+-4	35
+81
+March 20
+2005	South Korea
+Burkina Faso	1
+0	Friendly
+in United Arab Emirates	+3
+-3	1694
+1375	+2
+-1	35
+105
+March 25
+2005	Saudi Arabia
+South Korea	2
+0	World Cup qualifier
+in Saudi Arabia	+36
+-36	1563
+1658	+4
+-7	68
+42
+March 30
+2005	South Korea
+Uzbekistan	2
+1	World Cup qualifier
+in South Korea	+10
+-10	1668
+1565	+1
+-2	42
+65
+June 03
+2005	Uzbekistan
+South Korea	1
+1	World Cup qualifier
+in Uzbekistan	0
+0	1565
+1668	0
+0	65
+42
+June 08
+2005	Kuwait
+South Korea	0
+4	World Cup qualifier
+in Kuwait	-29
++29	1457
+1697	-5
++6	86
+37
+July 31
+2005	South Korea
+China	1
+1	East Asian Championship
+in South Korea	-10
++10	1687
+1618	-3
++1	42
+54
+August 04
+2005	South Korea
+North Korea	0
+0	East Asian Championship
+in South Korea	-14
++14	1673
+1498	-1
+0	43
+82
+August 07
+2005	South Korea
+Japan	0
+1	East Asian Championship
+in South Korea	-20
++20	1653
+1789	-3
++3	46
+20
+August 14
+2005	South Korea
+North Korea	3
+0	Friendly
+in South Korea	+6
+-6	1659
+1473	0
+-2	46
+85
+August 17
+2005	South Korea
+Saudi Arabia	0
+1	World Cup qualifier
+in South Korea	-27
++27	1632
+1658	-6
++7	52
+46
+October 12
+2005	South Korea
+Iran	2
+0	Friendly
+in South Korea	+18
+-18	1650
+1793	+3
+-5	47
+22
+November 12
+2005	South Korea
+Sweden	2
+2	Friendly
+in South Korea	+4
+-4	1654
+1874	0
+-1	47
+10
+November 16
+2005	South Korea
+Serbia and Montenegro	2
+0	Friendly
+in South Korea	+16
+-16	1670
+1761	+2
+-2	44
+25
+January 18
+2006	United Arab Emirates
+South Korea	1
+0	Friendly
+in United Arab Emirates	+13
+-13	1460
+1657	+4
+-1	89
+45
+January 21
+2006	Greece
+South Korea	1
+1	Friendly tournament
+in Saudi Arabia	-5
++5	1774
+1662	0
+0	23
+45
+January 25
+2006	South Korea
+Finland	1
+0	Friendly tournament
+in Saudi Arabia	+14
+-14	1676
+1621	+1
+-4	44
+54
+January 29
+2006	South Korea
+Croatia	2
+0	Carlsberg Cup
+in Hong Kong	+32
+-32	1708
+1803	+5
+-5	38
+18
+February 01
+2006	Denmark
+South Korea	3
+1	Carlsberg Cup
+in Hong Kong	+13
+-13	1869
+1695	+2
+-1	10
+38
+February 11
+2006	Costa Rica
+South Korea	1
+0	Friendly
+in the United States	+10
+-10	1721
+1685	+1
+-3	35
+42
+February 15
+2006	South Korea
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1699
+1806	+4
+-3	38
+17
+February 22
+2006	Syria
+South Korea	1
+2	Asian Cup qualifier
+in Syria	-13
++13	1458
+1712	-5
++1	90
+37
+March 01
+2006	South Korea
+Angola	1
+0	Friendly
+in South Korea	+4
+-4	1716
+1550	+2
+-3	35
+68
+May 23
+2006	South Korea
+Senegal	1
+1	Friendly
+in South Korea	-4
++4	1712
+1663	-1
+0	36
+48
+May 26
+2006	South Korea
+Bosnia and Herzegovina	2
+0	Friendly
+in South Korea	+7
+-7	1719
+1607	+2
+-1	34
+53
+June 01
+2006	Norway
+South Korea	0
+0	Friendly
+in Norway	-3
++3	1706
+1722	0
+0	36
+35
+June 04
+2006	Ghana
+South Korea	3
+1	Friendly
+in Scotland	+20
+-20	1612
+1702	+4
+-2	52
+37
+June 13
+2006	South Korea
+Togo	2
+1	World Cup
+in Germany	+14
+-14	1716
+1475	+2
+-4	36
+84
+June 18
+2006	France
+South Korea	1
+1	World Cup
+in Germany	-16
++16	1914
+1732	-2
++6	8
+30
+June 23
+2006	Switzerland
+South Korea	2
+0	World Cup
+in Germany	+37
+-37	1832
+1695	+4
+-6	13
+38
+August 16
+2006	Taiwan
+South Korea	0
+3	Asian Cup qualifier
+in Taiwan	-2
++2	946
+1697	0
+-1	190
+39
+September 02
+2006	South Korea
+Iran	1
+1	Asian Cup qualifier
+in South Korea	-5
++5	1692
+1718	+1
++1	38
+34
+September 06
+2006	South Korea
+Taiwan	8
+0	Asian Cup qualifier
+in South Korea	+1
+-1	1693
+945	-1
+-1	39
+191
+October 08
+2006	South Korea
+Ghana	1
+3	Friendly
+in South Korea	-18
++18	1675
+1743	-3
++4	44
+28
+October 11
+2006	South Korea
+Syria	1
+1	Asian Cup qualifier
+in South Korea	-15
++15	1660
+1436	-2
++2	46
+96
+November 15
+2006	Iran
+South Korea	2
+0	Asian Cup qualifier
+in Iran	+16
+-16	1756
+1644	+4
+-2	25
+48
+February 06
+2007	South Korea
+Greece	1
+0	Friendly
+in England	+14
+-14	1658
+1795	+2
+-2	46
+19
+March 24
+2007	South Korea
+Uruguay	0
+2	Friendly
+in South Korea	-12
++12	1646
+1831	-2
+-1	48
+15
+June 02
+2007	South Korea
+Netherlands	0
+2	Friendly
+in South Korea	-7
++7	1639
+1967	-1
++2	48
+4
+June 29
+2007	South Korea
+Iraq	3
+0	Friendly
+in South Korea	+10
+-10	1649
+1569	+2
+-2	45
+62
+July 05
+2007	South Korea
+Uzbekistan	2
+1	Friendly
+in South Korea	+5
+-5	1654
+1533	+1
+-1	44
+71
+July 11
+2007	Saudi Arabia
+South Korea	1
+1	Asian Cup
+in Indonesia	+3
+-3	1612
+1651	0
+0	53
+44
+July 15
+2007	Bahrain
+South Korea	2
+1	Asian Cup
+in Indonesia	+39
+-39	1471
+1612	+9
+-9	86
+53
+July 18
+2007	Indonesia
+South Korea	0
+1	Asian Cup
+in Indonesia	-13
++13	1325
+1625	-5
++2	126
+51
+July 22
+2007	Iran
+South Korea	0
+0	Asian Cup
+in Malaysia	-10
++10	1765
+1635	-2
++3	24
+48
+July 25
+2007	Iraq
+South Korea	0
+0	Asian Cup
+in Malaysia	+2
+-2	1612
+1633	0
+0	54
+48
+July 28
+2007	South Korea
+Japan	0
+0	Asian Cup
+in Indonesia	+6
+-6	1639
+1707	+1
+-3	47
+40
+January 30
+2008	South Korea
+Chile	0
+1	Friendly
+in South Korea	-11
++11	1628
+1721	0
++2	48
+37
+February 06
+2008	South Korea
+Turkmenistan	4
+0	World Cup qualifier
+in South Korea	+8
+-8	1636
+1358	0
+-2	47
+113
+February 17
+2008	China
+South Korea	2
+3	East Asian Championship
+in China	-22
++22	1545
+1658	-8
++5	68
+42
+February 20
+2008	North Korea
+South Korea	1
+1	East Asian Championship
+in China	+8
+-8	1524
+1650	+1
+-2	74
+44
+February 23
+2008	South Korea
+Japan	1
+1	East Asian Championship
+in China	+7
+-7	1657
+1765	+2
+-2	42
+26
+March 26
+2008	North Korea
+South Korea	0
+0	World Cup qualifier
+in China	+8
+-8	1511
+1649	-1
+-2	78
+44
+May 31
+2008	South Korea
+Jordan	2
+2	World Cup qualifier
+in South Korea	-13
++13	1636
+1500	-1
++4	45
+82
+June 07
+2008	Jordan
+South Korea	0
+1	World Cup qualifier
+in Jordan	-18
++18	1482
+1654	-4
++1	86
+44
+June 14
+2008	Turkmenistan
+South Korea	1
+3	World Cup qualifier
+in Turkmenistan	-13
++13	1310
+1667	-2
++2	127
+42
+June 22
+2008	South Korea
+North Korea	0
+0	World Cup qualifier
+in South Korea	-12
++12	1655
+1544	-2
++4	44
+68
+September 05
+2008	South Korea
+Jordan	1
+0	Friendly
+in South Korea	+4
+-4	1659
+1534	+2
+-1	43
+73
+September 10
+2008	North Korea
+South Korea	1
+1	World Cup qualifier
+in China	+6
+-6	1553
+1653	+1
+-1	65
+45
+October 11
+2008	South Korea
+Uzbekistan	3
+0	Friendly
+in South Korea	+8
+-8	1661
+1530	+1
+-6	44
+75
+October 15
+2008	South Korea
+United Arab Emirates	4
+1	World Cup qualifier
+in South Korea	+8
+-8	1669
+1396	0
+-1	44
+109
+November 14
+2008	Qatar
+South Korea	1
+1	Friendly
+in Qatar	+2
+-2	1505
+1667	+3
+0	81
+44
+November 19
+2008	Saudi Arabia
+South Korea	0
+2	World Cup qualifier
+in Saudi Arabia	-41
++41	1661
+1708	-8
++6	45
+38
+February 01
+2009	South Korea
+Syria	1
+1	Friendly
+in United Arab Emirates	-4
++4	1704
+1571	0
+0	39
+61
+February 04
+2009	Bahrain
+South Korea	2
+2	Friendly
+in United Arab Emirates	+4
+-4	1547
+1700	+2
+-1	67
+40
+February 11
+2009	Iran
+South Korea	1
+1	World Cup qualifier
+in Iran	-8
++8	1748
+1708	-2
++1	27
+39
+March 28
+2009	South Korea
+Iraq	2
+1	Friendly
+in South Korea	+3
+-3	1711
+1511	+1
+-2	37
+80
+April 01
+2009	South Korea
+North Korea	1
+0	World Cup qualifier
+in South Korea	+7
+-7	1718
+1526	+2
+-1	34
+75
+June 02
+2009	Oman
+South Korea	0
+0	Friendly
+in United Arab Emirates	+4
+-4	1592
+1714	+1
+0	56
+34
+June 06
+2009	United Arab Emirates
+South Korea	0
+2	World Cup qualifier
+in United Arab Emirates	-13
++13	1383
+1727	-8
++3	113
+31
+June 10
+2009	South Korea
+Saudi Arabia	0
+0	World Cup qualifier
+in South Korea	-8
++8	1719
+1688	-3
++2	34
+44
+June 17
+2009	South Korea
+Iran	1
+1	World Cup qualifier
+in South Korea	-6
++6	1713
+1709	-1
++2	35
+37
+August 12
+2009	South Korea
+Paraguay	1
+0	Friendly
+in South Korea	+9
+-9	1722
+1759	+1
+-1	36
+23
+September 05
+2009	South Korea
+Australia	3
+1	Friendly
+in South Korea	+12
+-12	1734
+1745	+2
+-5	34
+30
+October 14
+2009	South Korea
+Senegal	2
+0	Friendly
+in South Korea	+4
+-4	1738
+1523	-1
+-2	31
+76
+November 14
+2009	Denmark
+South Korea	0
+0	Friendly
+in Denmark	-4
++4	1762
+1742	-2
+0	23
+30
+November 18
+2009	Serbia
+South Korea	1
+0	Friendly
+in England	+8
+-8	1805
+1734	+1
+-2	14
+32
+January 09
+2010	Zambia
+South Korea	4
+2	Friendly
+in South Africa	+24
+-24	1525
+1710	+4
+-4	80
+36
+January 18
+2010	South Korea
+Finland	2
+0	Friendly
+in Spain	+13
+-13	1723
+1639	+3
+-4	33
+47
+January 22
+2010	South Korea
+Latvia	1
+0	Friendly
+in Spain	+5
+-5	1728
+1541	0
+-4	33
+73
+February 07
+2010	South Korea
+Hong Kong	5
+0	East Asian Championship
+in Japan	+4
+-4	1732
+1221	0
+-1	32
+152
+February 10
+2010	China
+South Korea	3
+0	East Asian Championship
+in Japan	+51
+-51	1612
+1681	+11
+-10	51
+42
+February 14
+2010	Japan
+South Korea	1
+3	East Asian Championship
+in Japan	-44
++44	1716
+1725	-14
++11	35
+31
+March 03
+2010	South Korea
+Ivory Coast	2
+0	Friendly
+in England	+16
+-16	1741
+1726	+7
+-4	24
+31
+May 16
+2010	South Korea
+Ecuador	2
+0	Friendly
+in South Korea	+9
+-9	1750
+1695	+1
+-1	23
+40
+May 24
+2010	Japan
+South Korea	0
+2	Friendly
+in Japan	-17
++17	1691
+1767	-5
++5	40
+18
+May 30
+2010	Belarus
+South Korea	1
+0	Friendly
+in Austria	+15
+-15	1577
+1752	+8
+-3	57
+22
+June 03
+2010	Spain
+South Korea	1
+0	Friendly
+in Austria	+3
+-3	2083
+1749	0
+0	2
+22
+June 12
+2010	South Korea
+Greece	2
+0	World Cup
+in South Africa	+40
+-40	1789
+1671	+5
+-10	17
+42
+June 17
+2010	Argentina
+South Korea	4
+1	World Cup
+in South Africa	+34
+-34	1948
+1755	0
+-7	6
+23
+June 22
+2010	Nigeria
+South Korea	2
+2	World Cup
+in South Africa	+8
+-8	1668
+1747	0
+-1	43
+24
+June 26
+2010	Uruguay
+South Korea	2
+1	World Cup
+in South Africa	+18
+-18	1908
+1729	0
+-3	7
+28
+August 11
+2010	South Korea
+Nigeria	2
+1	Friendly
+in South Korea	+6
+-6	1735
+1662	0
+-1	28
+44
+September 07
+2010	South Korea
+Iran	0
+1	Friendly
+in South Korea	-14
++14	1721
+1697	-1
++2	30
+35
+October 12
+2010	South Korea
+Japan	0
+0	Friendly
+in South Korea	-1
++1	1720
+1771	-2
++3	29
+18
+December 30
+2010	South Korea
+Syria	1
+0	Friendly
+in United Arab Emirates	+5
+-5	1725
+1522	0
+-2	29
+75
+January 10
+2011	South Korea
+Bahrain	2
+1	Asian Cup
+in Qatar	+8
+-8	1733
+1440	+3
+-2	26
+99
+January 14
+2011	Australia
+South Korea	1
+1	Asian Cup
+in Qatar	-2
++2	1755
+1735	0
+0	22
+26
+January 18
+2011	South Korea
+India	4
+1	Asian Cup
+in Qatar	+4
+-4	1739
+1198	0
+0	26
+155
+January 22
+2011	South Korea
+Iran	1
+0	Asian Cup
+in Qatar	+25
+-25	1764
+1709	+4
+-6	22
+33
+January 25
+2011	Japan
+South Korea	2
+2	Asian Cup
+in Qatar	-3
++3	1801
+1767	-1
++1	14
+21
+January 28
+2011	South Korea
+Uzbekistan	3
+2	Asian Cup
+in Qatar	+12
+-12	1779
+1557	+1
+-5	20
+68
+February 09
+2011	Turkey
+South Korea	0
+0	Friendly
+in Turkey	-2
++2	1749
+1781	0
++1	24
+18
+March 25
+2011	South Korea
+Honduras	4
+0	Friendly
+in South Korea	+10
+-10	1791
+1691	+2
+-2	16
+37
+June 03
+2011	South Korea
+Serbia	2
+1	Friendly
+in South Korea	+6
+-6	1797
+1724	+1
+-1	16
+30
+June 07
+2011	South Korea
+Ghana	2
+1	Friendly
+in South Korea	+6
+-6	1803
+1751	+1
+-3	16
+24
+August 10
+2011	Japan
+South Korea	3
+0	Friendly
+in Japan	+12
+-12	1819
+1791	+1
+-1	14
+17
+September 02
+2011	South Korea
+Lebanon	6
+0	World Cup qualifier
+in South Korea	+1
+-1	1792
+1166	0
++1	17
+164
+September 06
+2011	Kuwait
+South Korea	1
+1	World Cup qualifier
+in Kuwait	+5
+-5	1599
+1787	+1
+-1	58
+19
+October 07
+2011	South Korea
+Poland	2
+2	Friendly
+in South Korea	-6
++6	1781
+1676	0
++2	19
+37
+October 11
+2011	South Korea
+United Arab Emirates	2
+1	World Cup qualifier
+in South Korea	+2
+-2	1783
+1399	-1
+-1	20
+107
+November 11
+2011	United Arab Emirates
+South Korea	0
+2	World Cup qualifier
+in United Arab Emirates	-10
++10	1389
+1793	0
++1	107
+19
+November 15
+2011	Lebanon
+South Korea	2
+1	World Cup qualifier
+in Lebanon	+37
+-37	1318
+1756	+11
+-7	130
+26
+February 25
+2012	South Korea
+Uzbekistan	4
+2	Friendly
+in South Korea	+5
+-5	1761
+1580	+2
+-1	23
+60
+February 29
+2012	South Korea
+Kuwait	2
+0	World Cup qualifier
+in South Korea	+8
+-8	1769
+1515	+2
+-1	21
+79
+May 30
+2012	Spain
+South Korea	4
+1	Friendly
+in Switzerland	+5
+-5	2103
+1764	0
+-2	1
+24
+June 08
+2012	Qatar
+South Korea	1
+4	World Cup qualifier
+in Qatar	-20
++20	1483
+1784	-3
++2	89
+21
+June 12
+2012	South Korea
+Lebanon	3
+0	World Cup qualifier
+in South Korea	+2
+-2	1786
+1303	+1
+-1	18
+134
+August 15
+2012	South Korea
+Zambia	2
+1	Friendly
+in South Korea	+3
+-3	1789
+1606	0
+-2	18
+54
+September 11
+2012	Uzbekistan
+South Korea	2
+2	World Cup qualifier
+in Uzbekistan	+5
+-5	1596
+1784	+1
+-2	57
+21
+October 16
+2012	Iran
+South Korea	1
+0	World Cup qualifier
+in Iran	+21
+-21	1686
+1763	+5
+-3	36
+23
+November 14
+2012	South Korea
+Australia	1
+2	Friendly
+in South Korea	-13
++13	1750
+1767	-1
++2	24
+22
+February 06
+2013	Croatia
+South Korea	4
+0	Friendly
+in England	+13
+-13	1868
+1737	+3
+0	11
+25
+March 26
+2013	South Korea
+Qatar	2
+1	World Cup qualifier
+in South Korea	+4
+-4	1741
+1462	0
+-2	27
+94
+June 04
+2013	Lebanon
+South Korea	1
+1	World Cup qualifier
+in Lebanon	+14
+-14	1351
+1727	+4
+-3	121
+30
+June 11
+2013	South Korea
+Uzbekistan	1
+0	World Cup qualifier
+in South Korea	+9
+-9	1736
+1609	+1
+-1	29
+53
+June 18
+2013	South Korea
+Iran	0
+1	World Cup qualifier
+in South Korea	-29
++29	1707
+1687	-4
++7	33
+37
+July 20
+2013	South Korea
+Australia	0
+0	East Asian Championship
+in South Korea	-3
++3	1704
+1760	-1
+0	33
+25
+July 24
+2013	South Korea
+China	0
+0	East Asian Championship
+in South Korea	-12
++12	1692
+1569	-3
++3	35
+64
+July 28
+2013	South Korea
+Japan	1
+2	East Asian Championship
+in South Korea	-23
++23	1669
+1754	-7
++4	42
+25
+August 14
+2013	South Korea
+Peru	0
+0	Friendly
+in South Korea	-1
++1	1668
+1751	+1
++1	41
+25
+September 06
+2013	South Korea
+Haiti	4
+1	Friendly
+in South Korea	+4
+-4	1672
+1422	0
+-1	41
+100
+September 10
+2013	South Korea
+Croatia	1
+2	Friendly
+in South Korea	-8
++8	1664
+1846	-1
+0	42
+13
+October 12
+2013	South Korea
+Brazil	0
+2	Friendly
+in South Korea	-4
++4	1660
+2101	0
++1	43
+1
+October 15
+2013	South Korea
+Mali	3
+1	Friendly
+in South Korea	+7
+-7	1667
+1558	+1
+-3	42
+66
+November 15
+2013	South Korea
+Switzerland	2
+1	Friendly
+in South Korea	+12
+-12	1679
+1822	+2
+-1	40
+15
+November 19
+2013	Russia
+South Korea	2
+1	Friendly
+in United Arab Emirates	+6
+-6	1819
+1673	+5
+-2	15
+42
+January 25
+2014	South Korea
+Costa Rica	1
+0	Friendly
+in the United States	+11
+-11	1684
+1700	+3
+0	39
+32
+January 29
+2014	Mexico
+South Korea	4
+0	Friendly
+in the United States	+13
+-13	1797
+1671	+2
+-3	20
+42
+February 01
+2014	United States
+South Korea	2
+0	Friendly
+in the United States	+5
+-5	1846
+1666	0
+-1	13
+43
+March 05
+2014	Greece
+South Korea	0
+2	Friendly
+in Greece	-24
++24	1790
+1690	-4
++7	21
+36

@@ -1,0 +1,1836 @@
+
+27	Georgia
+Azerbaijan	1
+1	Trans-Caucasian Championship
+in Georgia	-11
++11	1505
+1311	-2
+-	38
+53
+
+1927	Azerbaijan
+Armenia	6
+0	Trans-Caucasian Championship
+in Georgia	+38
+-38	1349
+1346	-
+-1	53
+52
+September 17
+1992	Georgia
+Azerbaijan	6
+3	Friendly
+in Georgia	+7
+-7	1496
+1342	+1
+-1	71
+115
+May 15
+1993	Kazakhstan
+Azerbaijan	1
+1	Friendly
+in Iran	-5
++5	1517
+1347	-2
++2	69
+113
+May 25
+1993	Azerbaijan
+Georgia	1
+0	Friendly
+in Azerbaijan	+11
+-11	1358
+1472	+7
+-1	107
+82
+June 06
+1993	Azerbaijan
+Tajikistan	2
+0	Friendly tournament
+in Iran	+31
+-31	1389
+1469	+5
+-	102
+84
+June 07
+1993	Azerbaijan
+Kyrgyzstan	3
+2	Friendly tournament
+in Iran	+8
+-8	1397
+1192	+1
+-	101
+155
+June 08
+1993	Azerbaijan
+Kazakhstan	3
+3	Friendly tournament
+in Iran	+5
+-5	1402
+1512	+2
+-3	99
+73
+April 19
+1994	Malta
+Azerbaijan	5
+0	Friendly
+in Malta	+18
+-18	1362
+1384	+8
+-7	111
+108
+June 01
+1994	Azerbaijan
+Turkey	1
+2	Friendly
+in Azerbaijan	-8
++8	1376
+1545	0
++3	108
+59
+June 03
+1994	Azerbaijan
+Turkey	0
+0	Friendly
+in Azerbaijan	+2
+-2	1378
+1543	0
+-1	109
+60
+September 01
+1994	Moldova
+Azerbaijan	2
+1	Friendly
+in Moldova	+7
+-7	1402
+1371	0
+-1	103
+109
+September 07
+1994	Romania
+Azerbaijan	3
+0	European Cup qualifier
+in Romania	+2
+-2	1857
+1369	0
+-3	11
+113
+October 12
+1994	Poland
+Azerbaijan	1
+0	European Cup qualifier
+in Poland	+4
+-4	1638
+1365	-1
+-1	37
+113
+November 16
+1994	Azerbaijan
+Israel	0
+2	European Cup qualifier
+in Turkey	-16
++16	1349
+1564	-5
++2	118
+56
+December 13
+1994	Azerbaijan
+France	0
+2	European Cup qualifier
+in Turkey	-3
++3	1346
+1864	0
++1	118
+10
+March 29
+1995	Slovakia
+Azerbaijan	4
+1	European Cup qualifier
+in Slovakia	+8
+-8	1610
+1338	+3
+-5	42
+123
+April 26
+1995	Azerbaijan
+Romania	1
+4	European Cup qualifier
+in Turkey	-4
++4	1334
+1845	0
++1	124
+15
+August 16
+1995	Azerbaijan
+Slovakia	0
+1	European Cup qualifier
+in Turkey	-8
++8	1326
+1579	-1
++2	122
+49
+September 06
+1995	France
+Azerbaijan	10
+0	European Cup qualifier
+in France	+3
+-3	1868
+1323	0
+0	7
+123
+October 11
+1995	Israel
+Azerbaijan	2
+0	European Cup qualifier
+in Israel	+6
+-6	1599
+1317	+1
+-2	46
+125
+November 15
+1995	Azerbaijan
+Poland	0
+0	European Cup qualifier
+in Turkey	+16
+-16	1333
+1668	+3
+-3	122
+32
+February 16
+1996	Estonia
+Azerbaijan	0
+0	Friendly
+in Cyprus	+6
+-6	1089
+1327	0
+-1	176
+121
+February 27
+1996	Azerbaijan
+Faroe Islands	3
+0	Friendly
+in Cyprus	+9
+-9	1336
+1126	+1
+-4	120
+170
+April 09
+1996	Azerbaijan
+Turkey	0
+1	Friendly
+in Azerbaijan	-3
++3	1333
+1720	-1
++1	120
+27
+May 27
+1996	Belarus
+Azerbaijan	2
+2	Friendly
+in Belarus	-5
++5	1432
+1338	-1
++2	94
+118
+June 02
+1996	Norway
+Azerbaijan	5
+0	World Cup qualifier
+in Norway	+3
+-3	1791
+1335	0
+-1	20
+120
+August 31
+1996	Azerbaijan
+Switzerland	1
+0	World Cup qualifier
+in Azerbaijan	+34
+-34	1369
+1688	+8
+-3	113
+31
+October 07
+1996	Oman
+Azerbaijan	2
+0	Friendly
+in Oman	+14
+-14	1306
+1355	+2
+-4	129
+118
+November 10
+1996	Azerbaijan
+Hungary	0
+3	World Cup qualifier
+in Azerbaijan	-26
++26	1329
+1576	-6
++3	124
+55
+March 01
+1997	Estonia
+Azerbaijan	2
+0	Friendly
+in Cyprus	+20
+-20	1225
+1309	+6
+-5	148
+129
+March 22
+1997	Azerbaijan
+Turkmenistan	3
+0	Friendly
+in Azerbaijan	+16
+-16	1325
+1370	+2
+-8	127
+117
+April 02
+1997	Azerbaijan
+Finland	1
+2	World Cup qualifier
+in Azerbaijan	-20
++20	1305
+1449	-5
++2	130
+90
+April 25
+1997	Turkmenistan
+Azerbaijan	2
+0	Friendly
+in Turkmenistan	+8
+-8	1378
+1297	+3
+0	112
+131
+June 04
+1997	Estonia
+Azerbaijan	1
+0	Friendly
+in Estonia	+10
+-10	1206
+1287	+4
+-2	151
+132
+June 08
+1997	Finland
+Azerbaijan	3
+0	World Cup qualifier
+in Finland	+12
+-12	1478
+1275	+1
+-2	80
+134
+August 19
+1997	Latvia
+Azerbaijan	0
+0	Friendly
+in Latvia	-6
++6	1395
+1281	-2
++1	102
+134
+September 06
+1997	Azerbaijan
+Norway	0
+1	World Cup qualifier
+in Azerbaijan	-3
++3	1278
+1826	-1
+0	135
+14
+September 10
+1997	Hungary
+Azerbaijan	3
+1	World Cup qualifier
+in Hungary	+6
+-6	1573
+1272	+4
+-2	56
+137
+October 11
+1997	Switzerland
+Azerbaijan	5
+0	World Cup qualifier
+in Switzerland	+5
+-5	1633
+1267	+2
+0	45
+138
+March 22
+1998	Azerbaijan
+Moldova	1
+0	Friendly
+in Azerbaijan	+9
+-9	1276
+1324	+2
+-4	133
+126
+April 24
+1998	Azerbaijan
+Uzbekistan	2
+1	Friendly
+in Azerbaijan	+14
+-14	1290
+1500	+3
+-3	130
+70
+May 16
+1998	Estonia
+Azerbaijan	0
+0	Friendly
+in Estonia	+1
+-1	1170
+1289	+1
+-1	163
+130
+June 24
+1998	Azerbaijan
+Andorra	0
+0	Friendly
+in Estonia	-6
++6	1283
+1069	-1
+0	131
+179
+June 26
+1998	Azerbaijan
+Lithuania	2
+1	Friendly
+in Estonia	+15
+-15	1298
+1466	+3
+-3	128
+81
+August 12
+1998	Azerbaijan
+Georgia	1
+0	Friendly
+in Azerbaijan	+16
+-16	1314
+1604	+1
+-4	126
+54
+September 05
+1998	Slovakia
+Azerbaijan	3
+0	European Cup qualifier
+in Slovakia	+5
+-5	1670
+1309	-1
+-1	37
+128
+October 10
+1998	Azerbaijan
+Hungary	0
+4	European Cup qualifier
+in Azerbaijan	-20
++20	1289
+1608	-2
++3	131
+54
+October 14
+1998	Liechtenstein
+Azerbaijan	2
+1	European Cup qualifier
+in Liechtenstein	+28
+-28	1070
+1261	+3
+-5	179
+136
+November 28
+1998	Azerbaijan
+Estonia	2
+1	Friendly
+in Azerbaijan	+6
+-6	1267
+1195	+1
+-1	135
+153
+March 06
+1999	Estonia
+Azerbaijan	2
+2	Friendly
+in Cyprus	+2
+-2	1208
+1265	0
+0	151
+137
+March 26
+1999	Portugal
+Azerbaijan	7
+0	European Cup qualifier
+in Portugal	+1
+-1	1875
+1264	0
+0	11
+137
+March 30
+1999	Azerbaijan
+Romania	0
+1	European Cup qualifier
+in Azerbaijan	-3
++3	1261
+1818	0
+0	137
+16
+June 05
+1999	Azerbaijan
+Liechtenstein	4
+0	European Cup qualifier
+in Azerbaijan	+12
+-12	1273
+1055	+1
+-1	137
+179
+June 09
+1999	Romania
+Azerbaijan	4
+0	European Cup qualifier
+in Romania	+2
+-2	1835
+1271	0
+0	16
+136
+August 18
+1999	Uzbekistan
+Azerbaijan	5
+1	Friendly
+in Uzbekistan	+5
+-5	1513
+1266	+1
+-2	72
+138
+September 04
+1999	Azerbaijan
+Portugal	1
+1	European Cup qualifier
+in Azerbaijan	+18
+-18	1284
+1863	+7
+-4	133
+14
+September 08
+1999	Hungary
+Azerbaijan	3
+0	European Cup qualifier
+in Hungary	+7
+-7	1582
+1277	0
+-2	56
+135
+October 09
+1999	Azerbaijan
+Slovakia	0
+1	European Cup qualifier
+in Azerbaijan	-7
++7	1270
+1643	-2
+0	138
+45
+February 06
+2000	Malta
+Azerbaijan	3
+0	Rothmans Tournament
+in Malta	+24
+-24	1230
+1246	+2
+-3	151
+143
+February 08
+2000	Albania
+Azerbaijan	1
+0	Rothmans Tournament
+in Malta	+9
+-9	1411
+1237	+3
+-4	100
+147
+February 10
+2000	Andorra
+Azerbaijan	0
+0	Rothmans Tournament
+in Malta	+8
+-8	1042
+1229	+1
+-3	183
+150
+June 04
+2000	Azerbaijan
+Georgia	0
+0	Friendly
+in Azerbaijan	+4
+-4	1233
+1488	+1
+-1	145
+79
+July 27
+2000	Macedonia
+Azerbaijan	2
+1	Friendly tournament
+in Bulgaria	+6
+-6	1493
+1227	0
+0	77
+145
+September 02
+2000	Azerbaijan
+Sweden	0
+1	World Cup qualifier
+in Azerbaijan	-2
++2	1225
+1801	-2
+0	148
+15
+October 06
+2000	Macedonia
+Azerbaijan	3
+0	World Cup qualifier
+in Macedonia	+8
+-8	1491
+1217	0
+0	77
+149
+October 11
+2000	Azerbaijan
+Turkey	0
+1	World Cup qualifier
+in Azerbaijan	-4
++4	1213
+1727	-2
++1	151
+28
+February 15
+2001	Uzbekistan
+Azerbaijan	2
+1	Friendly tournament
+in Bulgaria	+7
+-7	1421
+1206	+2
+-1	94
+152
+February 25
+2001	Azerbaijan
+Belarus	1
+0	Friendly tournament
+in Bulgaria	+22
+-22	1228
+1351	+6
+-8	147
+118
+March 24
+2001	Azerbaijan
+Moldova	0
+0	World Cup qualifier
+in Azerbaijan	+2
+-2	1230
+1366	+2
+-2	147
+116
+March 28
+2001	Slovakia
+Azerbaijan	3
+1	World Cup qualifier
+in Slovakia	+2
+-2	1722
+1228	0
+-2	32
+149
+May 09
+2001	Georgia
+Azerbaijan	1
+0	Friendly
+in Georgia	+2
+-2	1513
+1226	0
+-1	69
+149
+June 02
+2001	Turkey
+Azerbaijan	3
+0	World Cup qualifier
+in Turkey	+2
+-2	1710
+1224	+2
+0	31
+151
+June 06
+2001	Azerbaijan
+Slovakia	2
+0	World Cup qualifier
+in Azerbaijan	+54
+-54	1278
+1652	+14
+-13	137
+45
+September 01
+2001	Moldova
+Azerbaijan	2
+0	World Cup qualifier
+in Moldova	+15
+-15	1377
+1263	+6
+-2	110
+138
+September 05
+2001	Azerbaijan
+Macedonia	1
+1	World Cup qualifier
+in Azerbaijan	+6
+-6	1269
+1467	+1
+-2	137
+84
+October 07
+2001	Sweden
+Azerbaijan	3
+0	World Cup qualifier
+in Sweden	+1
+-1	1856
+1268	0
+0	9
+137
+March 27
+2002	Albania
+Azerbaijan	1
+0	Friendly
+in Albania	+4
+-4	1420
+1264	0
+0	98
+138
+April 17
+2002	Malta
+Azerbaijan	1
+0	Friendly
+in Malta	+8
+-8	1229
+1256	+2
+-5	149
+144
+July 03
+2002	Estonia
+Azerbaijan	0
+0	Friendly
+in Estonia	-5
++5	1359
+1261	-2
++3	116
+141
+July 06
+2002	Latvia
+Azerbaijan	0
+0	Friendly
+in Latvia	-6
++6	1394
+1267	-1
++1	105
+140
+August 21
+2002	Azerbaijan
+Uzbekistan	2
+0	Friendly
+in Azerbaijan	+20
+-20	1287
+1468	+7
+-7	135
+84
+September 07
+2002	Azerbaijan
+Italy	0
+2	European Cup qualifier
+in Azerbaijan	-3
++3	1284
+1891	-1
++1	135
+9
+October 12
+2002	Finland
+Azerbaijan	3
+0	European Cup qualifier
+in Finland	+5
+-5	1654
+1279	-3
+-3	42
+137
+November 20
+2002	Azerbaijan
+Wales	0
+2	European Cup qualifier
+in Azerbaijan	-12
++12	1267
+1641	-4
++2	140
+44
+February 12
+2003	Serbia and Montenegro
+Azerbaijan	2
+2	European Cup qualifier
+in Serbia and Montenegro	-19
++19	1759
+1286	-1
++8	22
+135
+March 29
+2003	Wales
+Azerbaijan	4
+0	European Cup qualifier
+in Wales	+5
+-5	1640
+1281	0
+-2	46
+138
+June 11
+2003	Azerbaijan
+Serbia and Montenegro	2
+1	European Cup qualifier
+in Azerbaijan	+35
+-35	1316
+1669	+8
+-3	130
+37
+September 06
+2003	Azerbaijan
+Finland	1
+2	European Cup qualifier
+in Azerbaijan	-8
++8	1308
+1670	-2
++1	131
+39
+October 11
+2003	Italy
+Azerbaijan	4
+0	European Cup qualifier
+in Italy	+1
+-1	1910
+1307	0
+0	8
+131
+December 14
+2003	United Arab Emirates
+Azerbaijan	3
+3	Friendly
+in United Arab Emirates	-6
++6	1429
+1313	-4
++1	98
+128
+December 17
+2003	Oman
+Azerbaijan	1
+0	Friendly
+in Oman	+3
+-3	1530
+1310	+1
+0	68
+128
+December 20
+2003	Saudi Arabia
+Azerbaijan	1
+0	Friendly
+in Saudi Arabia	+2
+-2	1617
+1308	+1
+0	50
+128
+February 18
+2004	Israel
+Azerbaijan	6
+0	Friendly
+in Israel	+4
+-4	1620
+1304	0
+-1	51
+130
+March 31
+2004	Moldova
+Azerbaijan	2
+1	Friendly
+in Moldova	+6
+-6	1363
+1298	+2
+-3	113
+132
+April 28
+2004	Kazakhstan
+Azerbaijan	2
+3	Friendly
+in Kazakhstan	-15
++15	1357
+1313	-5
++5	117
+128
+May 28
+2004	Azerbaijan
+Uzbekistan	3
+1	Friendly
+in Azerbaijan	+19
+-19	1332
+1486	+4
+-4	125
+78
+June 06
+2004	Latvia
+Azerbaijan	2
+2	Friendly
+in Latvia	-6
++6	1491
+1338	-1
+0	76
+125
+August 18
+2004	Jordan
+Azerbaijan	1
+1	Friendly
+in Jordan	-8
++8	1646
+1346	-4
++1	44
+122
+September 04
+2004	Azerbaijan
+Wales	1
+1	World Cup qualifier
+in Azerbaijan	+10
+-10	1356
+1629	+4
+-4	118
+48
+September 08
+2004	Austria
+Azerbaijan	2
+0	World Cup qualifier
+in Austria	+6
+-6	1648
+1350	-1
+0	44
+118
+October 09
+2004	Azerbaijan
+Northern Ireland	0
+0	World Cup qualifier
+in Azerbaijan	+1
+-1	1351
+1470	-1
++2	119
+87
+October 13
+2004	Azerbaijan
+England	0
+1	World Cup qualifier
+in Azerbaijan	-2
++2	1349
+1954	0
+0	118
+4
+November 17
+2004	Azerbaijan
+Bulgaria	0
+0	Friendly
+in Azerbaijan	+6
+-6	1355
+1695	+3
+-1	116
+33
+January 21
+2005	Trinidad and Tobago
+Azerbaijan	1
+0	Friendly
+in Trinidad and Tobago	+5
+-5	1471
+1350	+2
+-4	88
+118
+January 23
+2005	Trinidad and Tobago
+Azerbaijan	2
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1478
+1343	+2
+-3	86
+121
+February 09
+2005	Azerbaijan
+Moldova	0
+0	Friendly
+in Azerbaijan	-2
++2	1341
+1365	-1
+0	121
+110
+March 26
+2005	Poland
+Azerbaijan	8
+0	World Cup qualifier
+in Poland	+5
+-5	1747
+1336	0
+-2	28
+123
+March 30
+2005	England
+Azerbaijan	2
+0	World Cup qualifier
+in England	+1
+-1	1946
+1335	0
+0	4
+123
+May 29
+2005	Iran
+Azerbaijan	2
+1	Friendly
+in Iran	+1
+-1	1816
+1334	0
+0	15
+122
+June 04
+2005	Azerbaijan
+Poland	0
+3	World Cup qualifier
+in Azerbaijan	-9
++9	1325
+1765	-2
++2	124
+25
+August 17
+2005	Albania
+Azerbaijan	2
+1	Friendly
+in Albania	+4
+-4	1481
+1321	-1
+0	84
+126
+September 03
+2005	Northern Ireland
+Azerbaijan	2
+0	World Cup qualifier
+in Northern Ireland	+13
+-13	1459
+1308	+2
+-3	88
+129
+September 07
+2005	Azerbaijan
+Austria	0
+0	World Cup qualifier
+in Azerbaijan	+12
+-12	1320
+1627	+4
+-3	125
+53
+October 12
+2005	Wales
+Azerbaijan	2
+0	World Cup qualifier
+in Wales	+7
+-7	1571
+1313	+1
+-5	60
+128
+February 28
+2006	Azerbaijan
+Ukraine	0
+0	Friendly
+in Azerbaijan	+7
+-7	1320
+1732	+2
+0	124
+33
+April 12
+2006	Azerbaijan
+Turkey	1
+1	Friendly
+in Azerbaijan	+8
+-8	1328
+1804	0
+-3	124
+20
+May 18
+2006	Moldova
+Azerbaijan	0
+0	Friendly
+in Moldova	-4
++4	1384
+1332	-1
+0	102
+123
+August 15
+2006	Ukraine
+Azerbaijan	6
+0	Friendly
+in Ukraine	+2
+-2	1765
+1330	0
+-1	24
+123
+September 02
+2006	Serbia
+Azerbaijan	1
+0	European Cup qualifier
+in Serbia	+2
+-2	1717
+1328	-1
++1	35
+120
+September 06
+2006	Azerbaijan
+Kazakhstan	1
+1	European Cup qualifier
+in Azerbaijan	-5
++5	1323
+1339	-2
+-1	122
+119
+October 07
+2006	Portugal
+Azerbaijan	3
+0	European Cup qualifier
+in Portugal	+1
+-1	1893
+1322	+1
+-2	8
+124
+October 11
+2006	Belgium
+Azerbaijan	3
+0	European Cup qualifier
+in Belgium	+5
+-5	1669
+1317	+2
+0	43
+122
+February 07
+2007	Uzbekistan
+Azerbaijan	0
+0	Friendly
+in Uzbekistan	-8
++8	1554
+1325	-1
++2	63
+121
+March 07
+2007	Azerbaijan
+Uzbekistan	1
+0	Friendly tournament
+in Kazakhstan	+24
+-24	1349
+1530	+7
+-9	114
+73
+March 09
+2007	Kazakhstan
+Azerbaijan	1
+0	Friendly tournament
+in Kazakhstan	+13
+-13	1320
+1336	+6
+-4	122
+118
+March 11
+2007	Azerbaijan
+Kyrgyzstan	1
+0	Friendly tournament
+in Kazakhstan	+9
+-9	1345
+1166	+3
+0	115
+166
+March 24
+2007	Poland
+Azerbaijan	5
+0	European Cup qualifier
+in Poland	+4
+-4	1757
+1341	+1
+-4	26
+119
+March 28
+2007	Azerbaijan
+Finland	1
+0	European Cup qualifier
+in Azerbaijan	+31
+-31	1372
+1628	+12
+-5	107
+49
+June 02
+2007	Azerbaijan
+Poland	1
+3	European Cup qualifier
+in Azerbaijan	-10
++10	1362
+1769	-5
++2	111
+24
+June 06
+2007	Kazakhstan
+Azerbaijan	1
+1	European Cup qualifier
+in Kazakhstan	-4
++4	1329
+1366	-2
++1	122
+110
+August 22
+2007	Tajikistan
+Azerbaijan	2
+3	Friendly
+in Tajikistan	-12
++12	1332
+1378	-3
++3	123
+108
+September 12
+2007	Azerbaijan
+Georgia	1
+1	Friendly
+in Azerbaijan	0
+0	1378
+1492	-1
+0	110
+77
+October 13
+2007	Azerbaijan
+Portugal	0
+2	European Cup qualifier
+in Azerbaijan	-6
++6	1372
+1862	0
+0	110
+12
+October 17
+2007	Azerbaijan
+Serbia	1
+6	European Cup qualifier
+in Azerbaijan	-16
++16	1356
+1725	-3
++1	113
+36
+November 17
+2007	Finland
+Azerbaijan	2
+1	European Cup qualifier
+in Finland	+4
+-4	1647
+1352	0
+-4	43
+117
+November 21
+2007	Azerbaijan
+Belgium	0
+1	European Cup qualifier
+in Azerbaijan	-12
++12	1340
+1614	-6
++4	125
+52
+February 03
+2008	Azerbaijan
+Kazakhstan	0
+0	Friendly
+in Turkey	0
+0	1340
+1353	0
+0	120
+117
+March 26
+2008	Lithuania
+Azerbaijan	1
+0	Friendly
+in Lithuania	+3
+-3	1553
+1337	0
++1	66
+119
+June 01
+2008	Bosnia and Herzegovina
+Azerbaijan	1
+0	Friendly
+in Bosnia and Herzegovina	+4
+-4	1509
+1333	+2
+0	78
+118
+June 04
+2008	Andorra
+Azerbaijan	1
+2	Friendly
+in Andorra	-5
++5	1039
+1338	0
+0	182
+118
+August 20
+2008	Iceland
+Azerbaijan	1
+1	Friendly
+in Iceland	-4
++4	1385
+1342	-3
++1	113
+121
+August 27
+2008	Iran
+Azerbaijan	1
+0	Friendly
+in Iran	+1
+-1	1769
+1341	0
+-1	22
+122
+September 06
+2008	Wales
+Azerbaijan	1
+0	World Cup qualifier
+in Wales	+4
+-4	1612
+1337	-1
+-2	50
+124
+September 10
+2008	Azerbaijan
+Liechtenstein	0
+0	World Cup qualifier
+in Azerbaijan	-14
++14	1323
+1165	-2
++3	126
+165
+October 11
+2008	Finland
+Azerbaijan	1
+0	World Cup qualifier
+in Finland	+3
+-3	1659
+1320	-1
+-2	45
+127
+October 15
+2008	Bahrain
+Azerbaijan	1
+2	Friendly
+in Bahrain	-17
++17	1517
+1337	-8
++4	79
+123
+November 19
+2008	Azerbaijan
+Albania	1
+1	Friendly
+in Azerbaijan	+1
+-1	1338
+1471	-1
+0	124
+92
+February 01
+2009	Azerbaijan
+Uzbekistan	1
+1	Friendly
+in United Arab Emirates	+6
+-6	1344
+1559	+2
+-1	122
+63
+February 11
+2009	Kuwait
+Azerbaijan	1
+1	Friendly
+in Kuwait	-5
++5	1419
+1349	-2
+0	100
+122
+March 28
+2009	Russia
+Azerbaijan	2
+0	World Cup qualifier
+in Russia	+2
+-2	1855
+1347	-1
+-1	10
+123
+June 02
+2009	Turkey
+Azerbaijan	2
+0	Friendly
+in Turkey	+1
+-1	1784
+1346	0
+0	16
+124
+June 06
+2009	Azerbaijan
+Wales	0
+1	World Cup qualifier
+in Azerbaijan	-13
++13	1333
+1584	-1
++1	125
+58
+June 09
+2009	Azerbaijan
+Spain	0
+6	Friendly
+in Azerbaijan	-1
++1	1332
+2093	0
+0	125
+1
+August 12
+2009	Azerbaijan
+Germany	0
+2	World Cup qualifier
+in Azerbaijan	-3
++3	1329
+1932	-2
+0	127
+5
+September 05
+2009	Azerbaijan
+Finland	1
+2	World Cup qualifier
+in Azerbaijan	-10
++10	1319
+1640	-2
+0	129
+48
+September 09
+2009	Germany
+Azerbaijan	4
+0	World Cup qualifier
+in Germany	+1
+-1	1934
+1318	0
+-1	5
+130
+October 10
+2009	Liechtenstein
+Azerbaijan	0
+2	World Cup qualifier
+in Liechtenstein	-26
++26	1140
+1344	-4
++6	169
+124
+October 14
+2009	Azerbaijan
+Russia	1
+1	World Cup qualifier
+in Azerbaijan	+17
+-17	1361
+1845	+5
+-4	119
+12
+November 15
+2009	Iraq
+Azerbaijan	1
+0	Friendly tournament
+in United Arab Emirates	+9
+-9	1527
+1352	+4
+-2	78
+120
+November 18
+2009	Azerbaijan
+Czechia	2
+0	Friendly tournament
+in United Arab Emirates	+41
+-41	1393
+1718	+10
+-13	110
+36
+February 25
+2010	Jordan
+Azerbaijan	0
+2	Friendly
+in Jordan	-21
++21	1432
+1414	-4
++4	98
+103
+March 03
+2010	Luxembourg
+Azerbaijan	1
+2	Friendly
+in Luxembourg	-4
++4	1068
+1418	-1
+0	179
+103
+May 26
+2010	Moldova
+Azerbaijan	1
+1	Friendly
+in Austria	0
+0	1418
+1418	0
+0	102
+102
+May 29
+2010	Macedonia
+Azerbaijan	3
+1	Friendly
+in Austria	+9
+-9	1567
+1409	+5
+-5	62
+107
+June 02
+2010	Azerbaijan
+Honduras	0
+0	Friendly
+in Austria	+7
+-7	1416
+1714	+3
++1	103
+31
+August 11
+2010	Azerbaijan
+Kuwait	1
+1	Friendly
+in Azerbaijan	0
+0	1416
+1507	0
+0	102
+84
+September 07
+2010	Germany
+Azerbaijan	6
+1	European Cup qualifier
+in Germany	+1
+-1	2036
+1415	0
+0	4
+105
+October 08
+2010	Austria
+Azerbaijan	3
+0	European Cup qualifier
+in Austria	+13
+-13	1581
+1402	+5
+-1	59
+106
+October 12
+2010	Azerbaijan
+Turkey	1
+0	European Cup qualifier
+in Azerbaijan	+34
+-34	1436
+1753	+7
+-8	101
+23
+November 17
+2010	Montenegro
+Azerbaijan	2
+0	Friendly
+in Montenegro	+4
+-4	1670
+1432	+2
+-1	40
+102
+February 09
+2011	Hungary
+Azerbaijan	2
+0	Friendly
+in United Arab Emirates	+8
+-8	1617
+1424	+3
+-2	50
+103
+March 29
+2011	Belgium
+Azerbaijan	4
+1	European Cup qualifier
+in Belgium	+10
+-10	1636
+1414	+2
+-4	47
+108
+June 03
+2011	Kazakhstan
+Azerbaijan	2
+1	European Cup qualifier
+in Kazakhstan	+21
+-21	1321
+1393	+5
+-3	127
+110
+June 07
+2011	Azerbaijan
+Germany	1
+3	European Cup qualifier
+in Azerbaijan	-3
++3	1390
+2029	-1
+0	111
+4
+August 10
+2011	Azerbaijan
+Macedonia	0
+1	Friendly
+in Azerbaijan	-10
++10	1380
+1512	-3
++5	112
+76
+September 02
+2011	Azerbaijan
+Belgium	1
+1	European Cup qualifier
+in Azerbaijan	+9
+-9	1389
+1631	+3
+-1	110
+52
+September 06
+2011	Azerbaijan
+Kazakhstan	3
+2	European Cup qualifier
+in Azerbaijan	+11
+-11	1400
+1312	+1
+0	109
+130
+October 07
+2011	Azerbaijan
+Austria	1
+4	European Cup qualifier
+in Azerbaijan	-32
++32	1368
+1563	-7
++5	116
+67
+October 11
+2011	Turkey
+Azerbaijan	1
+0	European Cup qualifier
+in Turkey	+3
+-3	1741
+1365	-1
+-1	29
+116
+November 11
+2011	Albania
+Azerbaijan	0
+1	Friendly
+in Albania	-15
++15	1448
+1380	-2
++6	96
+110
+February 24
+2012	Azerbaijan
+Singapore	2
+2	Friendly
+in United Arab Emirates	-3
++3	1377
+1267	0
++1	110
+141
+February 27
+2012	Azerbaijan
+India	3
+0	Friendly
+in United Arab Emirates	+11
+-11	1388
+1226	+1
+0	109
+148
+February 29
+2012	Palestine
+Azerbaijan	2
+0	Friendly
+in United Arab Emirates	+23
+-23	1204
+1365	+7
+-5	154
+114
+May 23
+2012	Japan
+Azerbaijan	2
+0	Friendly
+in Japan	+2
+-2	1759
+1363	0
+-1	25
+115
+May 30
+2012	Andorra
+Azerbaijan	0
+0	Friendly
+in Germany	+8
+-8	984
+1355	0
+-2	187
+118
+August 15
+2012	Azerbaijan
+Bahrain	3
+0	Friendly
+in Azerbaijan	+17
+-17	1372
+1437	+6
+-3	111
+98
+September 07
+2012	Azerbaijan
+Israel	1
+1	World Cup qualifier
+in Azerbaijan	+9
+-9	1381
+1625	+3
+-1	108
+48
+September 11
+2012	Portugal
+Azerbaijan	3
+0	World Cup qualifier
+in Portugal	+2
+-2	1923
+1379	0
+-1	7
+110
+October 16
+2012	Russia
+Azerbaijan	1
+0	World Cup qualifier
+in Russia	+1
+-1	1867
+1378	+1
+-2	11
+111
+November 14
+2012	Northern Ireland
+Azerbaijan	1
+1	World Cup qualifier
+in Northern Ireland	-8
++8	1413
+1386	0
++2	102
+109
+February 01
+2013	Azerbaijan
+Uzbekistan	0
+0	Friendly
+in United Arab Emirates	+6
+-6	1392
+1636	0
+-1	109
+47
+February 06
+2013	Azerbaijan
+Liechtenstein	1
+0	Friendly
+in United Arab Emirates	+4
+-4	1396
+1150	+1
+-1	108
+166
+March 22
+2013	Luxembourg
+Azerbaijan	0
+0	World Cup qualifier
+in Luxembourg	+9
+-9	1137
+1387	+3
+0	171
+108
+March 26
+2013	Azerbaijan
+Portugal	0
+2	World Cup qualifier
+in Azerbaijan	-6
++6	1381
+1861	-5
++2	115
+12
+May 29
+2013	Qatar
+Azerbaijan	1
+1	Friendly
+in Qatar	-5
++5	1473
+1386	-1
++1	91
+112
+June 07
+2013	Azerbaijan
+Luxembourg	1
+1	World Cup qualifier
+in Azerbaijan	-15
++15	1371
+1149	-2
++4	114
+167
+August 14
+2013	Azerbaijan
+Malta	3
+0	Friendly
+in Azerbaijan	+8
+-8	1379
+1241	+4
+-2	110
+147
+September 07
+2013	Israel
+Azerbaijan	1
+1	World Cup qualifier
+in Israel	-16
++16	1627
+1395	-4
++2	50
+108
+October 11
+2013	Azerbaijan
+Northern Ireland	2
+0	World Cup qualifier
+in Azerbaijan	+21
+-21	1416
+1369	+4
+-4	103
+113
+October 15
+2013	Azerbaijan
+Russia	1
+1	World Cup qualifier
+in Azerbaijan	+14
+-14	1430
+1816	+4
+-1	99
+17
+November 15
+2013	Estonia
+Azerbaijan	2
+1	Friendly
+in Estonia	+7
+-7	1433
+1423	+3
+-1	98
+101
+November 19
+2013	Kyrgyzstan
+Azerbaijan	0
+0	Friendly
+in Kyrgyzstan	+5
+-5	1122
+1418	+1
+-1	174
+102
+March 05
+2014	Azerbaijan
+Philippines	1
+0	Friendly
+in United Arab Emirates	+5
+-5	1423
+1200	+1
++1	102
+156

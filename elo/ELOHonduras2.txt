@@ -1,0 +1,4302 @@
+September 14
+1921	Guatemala
+Honduras	10
+1	Central American Independence Centenary Cup
+in Guatemala	+27
+-27	1527
+1473	-
+-	28
+31
+March 18
+1930	Honduras
+Jamaica	5
+1	Central American Games
+in Cuba	+36
+-36	1509
+1426	+6
+0	37
+45
+March 20
+1930	Cuba
+Honduras	7
+0	Central American Games
+in Cuba	+31
+-31	1551
+1478	+4
+-2	31
+39
+March 23
+1930	Cuba
+Honduras	5
+0	Central American Games
+in Cuba	+22
+-22	1573
+1456	+1
+-4	30
+43
+March 29
+1930	Honduras
+El Salvador	4
+1	Central American Games
+in Cuba	+31
+-31	1487
+1390	+4
+-3	39
+49
+April 04
+1930	Costa Rica
+Honduras	8
+0	Central American Games
+in Cuba	+17
+-17	1767
+1470	+2
+-3	11
+42
+March 25
+1935	Cuba
+Honduras	3
+0	Central American Games
+in El Salvador	+32
+-32	1535
+1438	0
+-3	36
+44
+March 28
+1935	El Salvador
+Honduras	3
+4	Central American Games
+in El Salvador	-22
++22	1359
+1460	-2
++3	55
+41
+March 31
+1935	Guatemala
+Honduras	0
+0	Central American Games
+in El Salvador	+4
+-4	1395
+1456	0
+0	51
+41
+April 01
+1935	Mexico
+Honduras	8
+2	Central American Games
+in El Salvador	+21
+-21	1670
+1435	0
+-3	18
+44
+April 03
+1935	Costa Rica
+Honduras	6
+0	Central American Games
+in El Salvador	+12
+-12	1762
+1423	+1
+-3	11
+47
+February 23
+1946	Panama
+Honduras	1
+0	CCCF Championship
+in Costa Rica	+32
+-32	1351
+1391	+2
+-2	63
+56
+February 28
+1946	Honduras
+Guatemala	5
+3	CCCF Championship
+in Costa Rica	+50
+-50	1441
+1459	+6
+-7	50
+48
+March 07
+1946	Costa Rica
+Honduras	5
+1	CCCF Championship
+in Costa Rica	+12
+-12	1679
+1429	0
+-2	19
+52
+March 10
+1946	El Salvador
+Honduras	0
+0	CCCF Championship
+in Costa Rica	-2
++2	1461
+1431	-1
+0	49
+52
+March 13
+1946	Honduras
+Nicaragua	10
+0	CCCF Championship
+in Costa Rica	+11
+-11	1442
+996	+2
+0	50
+84
+
+1950	Guatemala
+Honduras	0
+1	Central American and Caribbean Games
+in Guatemala	-25
++25	1405
+1467	0
++10	57
+44
+
+1950	Honduras
+Colombia	2
+0	Central American and Caribbean Games
+in Guatemala	+20
+-20	1487
+1327	+10
+-4	44
+76
+
+1950	Honduras
+El Salvador	2
+1	Central American and Caribbean Games
+in Guatemala	+13
+-13	1500
+1345	+10
+-5	44
+75
+March 14
+1950	Curacao
+Honduras	2
+1	Central American and Caribbean Games
+in Guatemala	+19
+-19	1529
+1481	0
+-3	44
+48
+March 08
+1953	Honduras
+Nicaragua	2
+1	CCCF Championship
+in Costa Rica	+2
+-2	1483
+965	0
+0	52
+110
+March 13
+1953	Costa Rica
+Honduras	4
+1	CCCF Championship
+in Costa Rica	+21
+-21	1603
+1462	+2
+-2	30
+55
+March 15
+1953	Honduras
+El Salvador	3
+0	CCCF Championship
+in Costa Rica	+34
+-34	1496
+1353	+5
+-8	50
+79
+March 19
+1953	Honduras
+Netherlands Antilles	4
+3	CCCF Championship
+in Costa Rica	+25
+-25	1521
+1476	+8
+-6	42
+53
+March 21
+1953	Honduras
+Panama	3
+1	CCCF Championship
+in Costa Rica	+16
+-16	1537
+1280	+2
+-2	40
+89
+August 14
+1955	Honduras
+Cuba	3
+0	CCCF Championship
+in Honduras	+12
+-12	1549
+1311	+1
+-1	41
+90
+August 17
+1955	Honduras
+El Salvador	3
+1	CCCF Championship
+in Honduras	+18
+-18	1567
+1431	+5
+-3	36
+64
+August 20
+1955	Honduras
+Netherlands Antilles	0
+2	CCCF Championship
+in Honduras	-60
++60	1507
+1479	-9
++11	45
+55
+August 22
+1955	Honduras
+Aruba	1
+1	CCCF Championship
+in Honduras	-22
++22	1485
+1134	-9
+0	54
+113
+August 28
+1955	Honduras
+Costa Rica	1
+2	CCCF Championship
+in Honduras	-19
++19	1466
+1688	-3
++2	58
+21
+August 11
+1957	Curacao
+Honduras	1
+1	CCCF Championship
+in Curacao	-11
++11	1516
+1477	-1
++1	48
+59
+August 14
+1957	Haiti
+Honduras	2
+1	CCCF Championship
+in Curacao	+33
+-33	1394
+1444	+9
+-6	74
+65
+August 17
+1957	Honduras
+Cuba	2
+0	CCCF Championship
+in Curacao	+13
+-13	1457
+1166	+4
+-1	61
+117
+August 25
+1957	Honduras
+Panama	2
+1	CCCF Championship
+in Curacao	+12
+-12	1469
+1243	+1
+-1	61
+105
+December 14
+1959	Costa Rica
+Honduras	6
+1	Friendly tournament
+in El Salvador	+12
+-12	1731
+1457	0
+0	22
+60
+February 15
+1960	Dutch Guiana
+Honduras	1
+1	CCCF Championship
+in Cuba	+4
+-4	1403
+1453	+1
+-1	79
+63
+February 20
+1960	Costa Rica
+Honduras	1
+1	CCCF Championship
+in Cuba	-16
++16	1698
+1469	-2
++3	23
+60
+February 23
+1960	Cuba
+Honduras	2
+1	CCCF Championship
+in Cuba	+41
+-41	1153
+1428	+2
+-8	123
+69
+February 27
+1960	Honduras
+Netherlands Antilles	3
+3	CCCF Championship
+in Cuba	+4
+-4	1432
+1473	0
+0	69
+59
+September 04
+1960	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+27
+-27	1459
+1632	+9
+-4	65
+33
+September 11
+1960	Costa Rica
+Honduras	5
+0	World Cup qualifier
+in Costa Rica	+14
+-14	1646
+1445	+2
+-4	31
+69
+September 25
+1960	Honduras
+Guatemala	1
+1	World Cup qualifier
+in Honduras	-8
++8	1437
+1407	-4
++3	73
+81
+January 14
+1961	Costa Rica
+Honduras	1
+0	World Cup qualifier
+in Guatemala	+9
+-9	1655
+1428	+4
+-1	29
+72
+March 02
+1961	El Salvador
+Honduras	1
+0	CCCF Championship
+in Costa Rica	+27
+-27	1421
+1401	+10
+-10	74
+82
+March 09
+1961	Honduras
+Netherlands Antilles	4
+2	CCCF Championship
+in Costa Rica	+45
+-45	1446
+1426	+16
+-13	67
+76
+March 13
+1961	Honduras
+Nicaragua	6
+0	CCCF Championship
+in Costa Rica	+8
+-8	1454
+994	+1
+0	66
+137
+March 16
+1961	Honduras
+Haiti	2
+0	CCCF Championship
+in Costa Rica	+45
+-45	1499
+1476	+9
+-11	57
+62
+March 18
+1961	El Salvador
+Honduras	5
+1	CCCF Championship
+in Costa Rica	+57
+-57	1477
+1442	+14
+-13	61
+70
+March 20
+1961	Costa Rica
+Honduras	3
+0	CCCF Championship
+in Costa Rica	+9
+-9	1722
+1433	+3
+0	21
+70
+March 23
+1963	Honduras
+Guatemala	2
+1	Concacaf Championship
+in El Salvador	+23
+-23	1456
+1379	+6
+-8	68
+94
+March 27
+1963	Honduras
+Panama	1
+0	Concacaf Championship
+in El Salvador	+11
+-11	1467
+1225	+1
+-1	67
+123
+March 29
+1963	Honduras
+Nicaragua	1
+0	Concacaf Championship
+in El Salvador	+3
+-3	1470
+980	+1
+0	66
+144
+March 31
+1963	El Salvador
+Honduras	2
+2	Concacaf Championship
+in El Salvador	-8
++8	1473
+1478	-1
++2	65
+64
+April 03
+1963	El Salvador
+Honduras	3
+0	Concacaf Championship
+in El Salvador	+32
+-32	1505
+1446	+7
+-6	58
+70
+April 05
+1963	Costa Rica
+Honduras	2
+1	Concacaf Championship
+in El Salvador	+8
+-8	1733
+1438	+1
+-2	22
+72
+April 07
+1963	Netherlands Antilles
+Honduras	4
+1	Concacaf Championship
+in El Salvador	+31
+-31	1574
+1407	+5
+-11	46
+83
+February 28
+1965	Honduras
+Mexico	0
+1	World Cup qualifier
+in Honduras	-7
++7	1400
+1776	-1
++1	89
+18
+March 04
+1965	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+4
+-4	1780
+1396	+1
+-1	17
+90
+March 17
+1965	Honduras
+United States	0
+1	World Cup qualifier
+in Honduras	-23
++23	1373
+1462	-5
++2	95
+76
+March 21
+1965	Honduras
+United States	1
+1	World Cup qualifier
+in Honduras	-1
++1	1372
+1463	0
++1	95
+75
+July 11
+1965	Honduras
+Costa Rica	1
+1	Friendly
+in Honduras	+6
+-6	1378
+1726	+1
+0	94
+25
+March 05
+1967	Honduras
+Guatemala	0
+0	Concacaf Championship
+in Honduras	+1
+-1	1379
+1494	+2
+-1	97
+65
+March 09
+1967	Honduras
+Haiti	2
+0	Concacaf Championship
+in Honduras	+25
+-25	1404
+1331	+8
+-4	88
+106
+March 12
+1967	Honduras
+Nicaragua	1
+1	Concacaf Championship
+in Honduras	-22
++22	1382
+1019	-6
+0	94
+157
+March 15
+1967	Honduras
+Trinidad and Tobago	1
+0	Concacaf Championship
+in Honduras	+19
+-19	1401
+1385	+7
+-4	87
+91
+March 19
+1967	Honduras
+Mexico	0
+1	Concacaf Championship
+in Honduras	-9
++9	1392
+1762	0
++1	87
+18
+December 05
+1968	Honduras
+Jamaica	3
+1	World Cup qualifier
+in Honduras	+9
+-9	1401
+1192	0
+-4	88
+137
+December 08
+1968	Honduras
+Jamaica	2
+0	World Cup qualifier
+in Honduras	+9
+-9	1410
+1183	+3
+0	85
+137
+December 22
+1968	Honduras
+Costa Rica	1
+0	World Cup qualifier
+in Honduras	+29
+-29	1439
+1643	+6
+-1	79
+30
+December 29
+1968	Costa Rica
+Honduras	1
+1	World Cup qualifier
+in Costa Rica	-14
++14	1629
+1453	-6
++3	36
+76
+June 08
+1969	Honduras
+El Salvador	1
+0	World Cup qualifier
+in Honduras	+16
+-16	1469
+1461	+5
+-5	73
+76
+June 15
+1969	El Salvador
+Honduras	3
+0	World Cup qualifier
+in El Salvador	+26
+-26	1487
+1443	+6
+-7	70
+80
+June 28
+1969	El Salvador
+Honduras	3
+2	World Cup qualifier
+in Mexico	+17
+-17	1504
+1426	+7
+-5	63
+85
+June 13
+1970	Honduras
+Panama	1
+0	Friendly
+in Honduras	+2
+-2	1428
+1157	+2
+0	83
+143
+November 22
+1971	Costa Rica
+Honduras	2
+1	Concacaf Championship
+in Trinidad and Tobago	+10
+-10	1679
+1418	+1
+-5	31
+85
+November 24
+1971	Cuba
+Honduras	3
+1	Concacaf Championship
+in Trinidad and Tobago	+57
+-57	1279
+1361	+10
+-10	118
+95
+November 27
+1971	Haiti
+Honduras	3
+1	Concacaf Championship
+in Trinidad and Tobago	+22
+-22	1540
+1339	+5
+-8	55
+103
+December 01
+1971	Trinidad and Tobago
+Honduras	1
+1	Concacaf Championship
+in Trinidad and Tobago	-9
++9	1365
+1348	0
++4	94
+100
+December 04
+1971	Mexico
+Honduras	2
+1	Concacaf Championship
+in Trinidad and Tobago	+5
+-5	1718
+1343	+1
+-2	27
+102
+December 03
+1972	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+29
+-29	1372
+1587	+11
+-8	96
+46
+December 10
+1972	Costa Rica
+Honduras	3
+3	World Cup qualifier
+in Costa Rica	-14
++14	1573
+1386	-2
++5	48
+91
+November 29
+1973	Honduras
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Haiti	+20
+-20	1406
+1364	+4
+-7	86
+98
+December 03
+1973	Honduras
+Mexico	1
+1	World Cup qualifier
+in Haiti	+15
+-15	1421
+1714	+3
+-3	83
+28
+December 07
+1973	Haiti
+Honduras	1
+0	World Cup qualifier
+in Haiti	+8
+-8	1580
+1413	+1
+-2	46
+85
+December 12
+1973	Honduras
+Netherlands Antilles	2
+2	World Cup qualifier
+in Haiti	-1
++1	1412
+1389	0
++1	85
+89
+December 15
+1973	Guatemala
+Honduras	1
+1	World Cup qualifier
+in Haiti	-7
++7	1537
+1419	0
++2	56
+84
+April 20
+1975	Honduras
+Guatemala	0
+0	Olympic Games qualifier
+in Honduras	+1
+-1	1420
+1536	-1
+0	83
+57
+April 27
+1975	Guatemala
+Honduras	2
+0	Olympic Games qualifier
+in Guatemala	+13
+-13	1549
+1407	+3
+-2	54
+85
+June 06
+1977	Honduras
+Panama	1
+0	Friendly
+in Honduras	+3
+-3	1410
+1216	0
+0	85
+136
+October 17
+1978	Mexico
+Honduras	1
+4	Friendly
+in Mexico	-31
++31	1616
+1441	-4
++6	41
+78
+March 06
+1980	Honduras
+Costa Rica	1
+1	Friendly
+in Honduras	+1
+-1	1442
+1569	0
+0	76
+56
+March 18
+1980	Honduras
+Mexico	0
+1	Friendly
+in Honduras	-8
++8	1434
+1636	-2
++2	78
+40
+April 08
+1980	Mexico
+Honduras	5
+1	Friendly
+in Mexico	+6
+-6	1642
+1428	+1
+-1	38
+79
+April 16
+1980	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-6
++6	1585
+1434	-2
++1	51
+78
+June 13
+1980	Honduras
+Panama	0
+0	Friendly
+in Honduras	-7
++7	1427
+1213	-2
++3	81
+140
+June 15
+1980	Honduras
+Panama	0
+2	Friendly
+in Honduras	-26
++26	1401
+1239	-6
++4	87
+136
+July 30
+1980	Panama
+Honduras	0
+2	World Cup qualifier
+in Panama	-23
++23	1198
+1424	-6
++5	144
+81
+October 01
+1980	Costa Rica
+Honduras	2
+3	World Cup qualifier
+in Costa Rica	-32
++32	1524
+1456	-5
++7	62
+74
+October 26
+1980	Honduras
+Guatemala	0
+0	World Cup qualifier
+in Honduras	-3
++3	1453
+1504	0
++1	75
+65
+November 09
+1980	Honduras
+Canada	2
+0	Friendly
+in Honduras	+11
+-11	1464
+1441	+3
+-4	72
+80
+November 16
+1980	Honduras
+Costa Rica	1
+1	World Cup qualifier
+in Honduras	-2
++2	1462
+1535	-3
+0	75
+57
+November 23
+1980	El Salvador
+Honduras	2
+1	World Cup qualifier
+in El Salvador	+15
+-15	1459
+1447	+4
+-5	76
+80
+November 30
+1980	Honduras
+El Salvador	2
+0	World Cup qualifier
+in Honduras	+23
+-23	1470
+1436	+8
+-6	72
+82
+December 07
+1980	Guatemala
+Honduras	0
+1	World Cup qualifier
+in Guatemala	-29
++29	1508
+1499	-6
++4	62
+68
+December 14
+1980	Honduras
+Panama	5
+0	World Cup qualifier
+in Honduras	+6
+-6	1505
+1163	+4
+-1	64
+148
+November 03
+1981	Honduras
+Haiti	4
+0	World Cup qualifier
+in Honduras	+36
+-36	1541
+1558	+4
+-10	61
+56
+November 08
+1981	Honduras
+Cuba	2
+0	World Cup qualifier
+in Honduras	+20
+-20	1561
+1500	+6
+-3	55
+66
+November 12
+1981	Honduras
+Canada	2
+1	World Cup qualifier
+in Honduras	+12
+-12	1573
+1494	+5
+-3	50
+68
+November 16
+1981	Honduras
+El Salvador	0
+0	World Cup qualifier
+in Honduras	-10
++10	1563
+1485	-5
++2	56
+71
+November 22
+1981	Honduras
+Mexico	0
+0	World Cup qualifier
+in Honduras	-3
++3	1560
+1608	0
++2	56
+43
+June 16
+1982	Spain
+Honduras	1
+1	World Cup
+in Spain	-24
++24	1822
+1584	0
++3	14
+51
+June 21
+1982	Honduras
+Northern Ireland	1
+1	World Cup
+in Spain	+10
+-10	1594
+1699	+5
+-2	46
+27
+June 24
+1982	Yugoslavia
+Honduras	1
+0	World Cup
+in Spain	+12
+-12	1845
+1582	0
+-5	12
+51
+May 11
+1983	Honduras
+Costa Rica	0
+1	Olympic Games qualifier
+in Honduras	-31
++31	1551
+1496	-8
++8	55
+72
+May 18
+1983	Costa Rica
+Honduras	3
+2	Olympic Games qualifier
+in Costa Rica	+17
+-17	1513
+1534	+7
+-3	65
+58
+December 11
+1983	Honduras
+Canada	3
+1	Friendly
+in Honduras	+9
+-9	1543
+1466	+2
+-3	58
+80
+December 14
+1983	Honduras
+Canada	1
+0	Friendly
+in Honduras	+5
+-5	1548
+1461	+2
+-1	56
+81
+February 26
+1984	Peru
+Honduras	1
+3	Friendly
+in Peru	-23
++23	1632
+1571	-1
++5	39
+52
+June 15
+1984	Panama
+Honduras	0
+3	World Cup qualifier
+in Panama	-11
++11	1159
+1582	-3
+0	151
+49
+June 24
+1984	Honduras
+Panama	1
+0	World Cup qualifier
+in Honduras	+2
+-2	1584
+1157	0
+0	49
+151
+December 07
+1984	Honduras
+Ecuador	0
+0	Friendly
+in Honduras	-5
++5	1579
+1495	0
++1	50
+69
+January 25
+1985	Honduras
+Denmark	0
+3	Friendly
+in Honduras	-10
++10	1569
+1853	-1
+0	55
+9
+January 27
+1985	Honduras
+Denmark	1
+0	Friendly
+in Honduras	+15
+-15	1584
+1838	+3
+0	52
+9
+March 03
+1985	Honduras
+Surinam	1
+1	World Cup qualifier
+in Honduras	-14
++14	1570
+1397	-3
++1	55
+94
+March 06
+1985	Honduras
+Surinam	2
+1	World Cup qualifier
+in Honduras	+7
+-7	1577
+1390	0
+-1	55
+95
+March 10
+1985	El Salvador
+Honduras	1
+2	World Cup qualifier
+in El Salvador	-22
++22	1490
+1599	-7
++8	73
+47
+March 14
+1985	Honduras
+El Salvador	0
+0	World Cup qualifier
+in Honduras	-11
++11	1588
+1501	-5
++3	52
+70
+August 11
+1985	Costa Rica
+Honduras	2
+2	World Cup qualifier
+in Costa Rica	-4
++4	1561
+1592	-2
+0	59
+48
+August 25
+1985	Honduras
+Canada	0
+1	World Cup qualifier
+in Honduras	-27
++27	1565
+1583	-8
++7	57
+52
+September 08
+1985	Honduras
+Costa Rica	3
+1	World Cup qualifier
+in Honduras	+21
+-21	1586
+1541	+7
+-4	49
+63
+September 14
+1985	Canada
+Honduras	2
+1	World Cup qualifier
+in Canada	+14
+-14	1602
+1572	+2
+-5	46
+54
+January 04
+1986	Honduras
+El Salvador	2
+0	Friendly tournament
+in Guatemala	+18
+-18	1590
+1483	+6
+-4	48
+73
+January 08
+1986	Guatemala
+Honduras	1
+0	Friendly tournament
+in Guatemala	+14
+-14	1516
+1576	+2
+-5	66
+53
+January 10
+1986	Honduras
+Nicaragua	4
+0	Friendly tournament
+in Guatemala	+3
+-3	1579
+1058	+1
+0	52
+167
+June 25
+1986	Honduras
+Netherlands Antilles	2
+0	Friendly tournament
+in Dominican Republic	+7
+-7	1586
+1290	+2
+-2	51
+120
+June 28
+1986	Honduras
+Barbados	1
+0	Friendly tournament
+in Dominican Republic	+3
+-3	1589
+1189	+3
+-1	48
+146
+June 30
+1986	Honduras
+Antigua and Barbuda	1
+0	Friendly tournament
+in Dominican Republic	+2
+-2	1591
+1091	0
+0	48
+161
+July 02
+1986	Dominican Republic
+Honduras	0
+2	Friendly tournament
+in Dominican Republic	-3
++3	1027
+1594	0
++1	169
+47
+July 04
+1986	Cuba
+Honduras	1
+1	Friendly tournament
+in Dominican Republic	+5
+-5	1476
+1589	+1
+-1	78
+48
+April 29
+1987	Honduras
+El Salvador	1
+0	Friendly
+in Honduras	+4
+-4	1593
+1441	+1
++1	50
+81
+October 02
+1987	Honduras
+Canada	1
+1	Friendly
+in Honduras	-4
++4	1589
+1559	0
+0	50
+57
+January 13
+1988	Honduras
+Mexico	0
+1	Friendly
+in Honduras	-6
++6	1583
+1856	-1
+-1	52
+11
+April 26
+1988	Mexico
+Honduras	4
+1	Friendly
+in Mexico	+4
+-4	1842
+1579	0
+0	11
+51
+June 15
+1988	Honduras
+Ecuador	1
+1	Friendly
+in Honduras	-4
++4	1575
+1552	0
++2	51
+58
+June 17
+1988	Honduras
+Ecuador	0
+1	Friendly
+in Honduras	-13
++13	1562
+1565	-4
++6	55
+52
+September 12
+1988	Honduras
+Paraguay	0
+0	Friendly
+in Honduras	+2
+-2	1564
+1722	+1
+0	51
+28
+September 15
+1988	Honduras
+Paraguay	0
+2	Friendly
+in Honduras	-13
++13	1551
+1735	-4
+0	55
+28
+September 25
+1988	El Salvador
+Honduras	0
+0	Friendly
+in the United States	+3
+-3	1448
+1548	+1
+-1	80
+56
+October 30
+1988	Trinidad and Tobago
+Honduras	0
+0	World Cup qualifier
+in Trinidad and Tobago	+5
+-5	1364
+1543	+1
+-2	102
+58
+November 13
+1988	Honduras
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Honduras	-13
++13	1530
+1377	-5
++3	63
+99
+May 12
+1991	Panama
+Honduras	2
+0	UNCAF Cup
+in Panama	+49
+-49	1220
+1481	+12
+-9	137
+70
+May 19
+1991	Honduras
+Panama	3
+0	UNCAF Cup
+in Honduras	+8
+-8	1489
+1212	+2
+-3	68
+140
+May 26
+1991	Costa Rica
+Honduras	2
+0	UNCAF Cup
+in Costa Rica	+13
+-13	1622
+1476	+4
+-4	39
+71
+May 29
+1991	Guatemala
+Honduras	0
+0	UNCAF Cup
+in Costa Rica	+1
+-1	1461
+1475	0
+0	75
+71
+June 02
+1991	Honduras
+El Salvador	2
+1	UNCAF Cup
+in Costa Rica	+15
+-15	1490
+1380	+4
+-1	67
+96
+June 28
+1991	Honduras
+Canada	4
+2	Concacaf Gold Cup
+in the United States	+40
+-40	1530
+1475	+7
+-10	60
+72
+June 30
+1991	Honduras
+Jamaica	5
+0	Concacaf Gold Cup
+in the United States	+22
+-22	1552
+1289	+3
+-7	57
+122
+July 03
+1991	Mexico
+Honduras	1
+1	Concacaf Gold Cup
+in the United States	-17
++17	1822
+1569	-1
++6	13
+51
+July 05
+1991	Honduras
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+40
+-40	1609
+1551	+6
+-8	45
+57
+July 07
+1991	United States
+Honduras	0
+0	Concacaf Gold Cup
+in the United States	-10
++10	1647
+1619	-1
++3	36
+42
+June 28
+1992	Honduras
+Panama	4
+0	Friendly
+in Honduras	+2
+-2	1621
+1210	0
+0	43
+144
+June 30
+1992	Honduras
+Panama	4
+0	Friendly
+in Honduras	+2
+-2	1623
+1208	+1
+-3	42
+147
+July 08
+1992	Honduras
+Colombia	1
+0	Friendly
+in Honduras	+10
+-10	1633
+1724	+1
+-1	41
+28
+July 19
+1992	Guatemala
+Honduras	0
+0	World Cup qualifier
+in Guatemala	+4
+-4	1458
+1629	0
+-1	81
+42
+July 26
+1992	Honduras
+Guatemala	2
+0	World Cup qualifier
+in Honduras	+10
+-10	1639
+1447	+4
+0	39
+82
+August 12
+1992	Honduras
+El Salvador	3
+0	Friendly
+in the United States	+8
+-8	1647
+1408	0
+-3	38
+92
+September 13
+1992	El Salvador
+Honduras	3
+1	Friendly
+in El Salvador	+21
+-21	1429
+1626	+3
+-5	89
+42
+September 18
+1992	Honduras
+El Salvador	1
+1	Friendly
+in Honduras	-7
++7	1619
+1436	0
+0	42
+88
+September 22
+1992	Honduras
+Jamaica	5
+1	Friendly
+in Honduras	+5
+-5	1624
+1393	0
+-5	42
+101
+September 24
+1992	Honduras
+Jamaica	7
+0	Friendly
+in Honduras	+6
+-6	1630
+1387	0
+-1	42
+103
+November 08
+1992	Costa Rica
+Honduras	2
+3	World Cup qualifier
+in Costa Rica	-20
++20	1516
+1650	-7
++6	67
+36
+November 15
+1992	Mexico
+Honduras	2
+0	World Cup qualifier
+in Mexico	+13
+-13	1789
+1637	+3
+-4	17
+40
+November 22
+1992	St. Vincent & Grenadines
+Honduras	0
+4	World Cup qualifier
+in St. Vincent & Grenadines	-13
++13	1254
+1650	-4
++2	135
+36
+November 28
+1992	Honduras
+St. Vincent & Grenadines	4
+0	World Cup qualifier
+in Honduras	+4
+-4	1654
+1250	+2
+-2	34
+137
+December 05
+1992	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+10
+-10	1664
+1554	0
+-2	34
+55
+December 13
+1992	Honduras
+Mexico	1
+1	World Cup qualifier
+in Honduras	0
+0	1664
+1756	0
+0	34
+23
+January 27
+1993	Peru
+Honduras	1
+1	Friendly
+in Peru	+1
+-1	1521
+1663	0
+0	65
+35
+January 29
+1993	Bolivia
+Honduras	3
+1	Friendly
+in Bolivia	+18
+-18	1502
+1645	+5
+-2	72
+37
+March 05
+1993	Honduras
+Panama	2
+0	UNCAF Cup
+in Honduras	+3
+-3	1648
+1230	0
+0	35
+143
+March 07
+1993	Honduras
+Costa Rica	2
+0	UNCAF Cup
+in Honduras	+17
+-17	1665
+1563	+1
+-2	34
+55
+March 09
+1993	Honduras
+El Salvador	3
+0	UNCAF Cup
+in Honduras	+11
+-11	1676
+1461	0
+-3	34
+84
+March 14
+1993	Honduras
+Bolivia	0
+0	Friendly
+in Honduras	-7
++7	1669
+1506	0
++2	34
+68
+March 16
+1993	Honduras
+Bolivia	0
+0	Friendly
+in Honduras	-6
++6	1663
+1512	0
++1	34
+67
+March 25
+1993	Honduras
+United States	4
+1	Friendly
+in Honduras	+11
+-11	1674
+1609	0
+-7	34
+48
+April 04
+1993	Honduras
+Canada	2
+2	World Cup qualifier
+in Honduras	-13
++13	1661
+1518	-1
++3	34
+66
+April 11
+1993	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+19
+-19	1754
+1642	+6
+-1	21
+35
+April 18
+1993	Canada
+Honduras	3
+1	World Cup qualifier
+in Canada	+30
+-30	1568
+1612	+7
+-12	54
+47
+April 25
+1993	Honduras
+El Salvador	2
+0	World Cup qualifier
+in Honduras	+12
+-12	1624
+1454	+6
+-3	42
+87
+May 02
+1993	Honduras
+Mexico	1
+4	World Cup qualifier
+in Honduras	-30
++30	1594
+1802	-7
++3	50
+16
+May 09
+1993	El Salvador
+Honduras	2
+1	World Cup qualifier
+in El Salvador	+23
+-23	1457
+1571	+5
+-3	86
+53
+July 10
+1993	Honduras
+Panama	5
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1583
+1219	+3
+-4	49
+149
+July 14
+1993	Jamaica
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+55
+-55	1465
+1528	+17
+-16	83
+66
+July 17
+1993	United States
+Honduras	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1598
+1513	+2
+-5	48
+71
+May 03
+1994	El Salvador
+Honduras	3
+1	Friendly tournament
+in the United States	+27
+-27	1475
+1486	+5
+-10	82
+81
+May 05
+1994	Honduras
+Peru	2
+1	Friendly tournament
+in the United States	+16
+-16	1502
+1500	+9
+-3	72
+73
+June 08
+1994	Brazil
+Honduras	8
+2	Friendly
+in the United States	+3
+-3	1924
+1499	0
+-2	4
+74
+June 11
+1994	South Korea
+Honduras	3
+0	Friendly
+in the United States	+11
+-11	1655
+1488	+4
+-4	37
+78
+December 11
+1994	United States
+Honduras	1
+1	Friendly
+in the United States	-6
++6	1597
+1494	0
++2	44
+75
+March 29
+1995	Brazil
+Honduras	1
+1	Friendly
+in Brazil	-10
++10	2025
+1504	0
++2	1
+73
+June 11
+1995	Turkey
+Honduras	1
+0	Friendly
+in Canada	+5
+-5	1692
+1499	0
+-2	29
+76
+October 18
+1995	Jamaica
+Honduras	1
+0	Friendly
+in Jamaica	+8
+-8	1473
+1491	+4
+-4	83
+77
+November 29
+1995	Honduras
+Panama	2
+0	UNCAF Cup
+in El Salvador	+13
+-13	1504
+1253	+5
+-3	71
+141
+December 03
+1995	Honduras
+Guatemala	2
+0	UNCAF Cup
+in El Salvador	+26
+-26	1530
+1436	+3
+-7	68
+93
+December 07
+1995	Honduras
+Costa Rica	1
+1	UNCAF Cup
+in El Salvador	+1
+-1	1531
+1545	0
+0	68
+61
+December 10
+1995	Honduras
+Guatemala	3
+0	UNCAF Cup
+in El Salvador	+28
+-28	1559
+1436	+10
+-8	58
+93
+January 10
+1996	Canada
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+38
+-38	1588
+1521	+11
+-12	49
+69
+January 14
+1996	Brazil
+Honduras	5
+0	Concacaf Gold Cup
+in the United States	+4
+-4	2086
+1517	0
+-2	1
+70
+March 06
+1996	Colombia
+Honduras	2
+1	Friendly
+in the United States	+3
+-3	1816
+1514	0
+0	18
+69
+March 27
+1996	Honduras
+Nicaragua	1
+0	Friendly
+in Honduras	+1
+-1	1515
+986	0
+0	69
+190
+June 22
+1996	Honduras
+Venezuela	1
+0	Friendly
+in Honduras	+3
+-3	1518
+1324	+1
+0	71
+125
+July 24
+1996	Honduras
+Panama	1
+1	Friendly
+in Honduras	-8
++8	1510
+1253	-1
++4	72
+141
+July 28
+1996	Honduras
+Trinidad and Tobago	0
+0	Friendly
+in Honduras	-1
++1	1509
+1587	0
+0	72
+50
+August 04
+1996	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-4
++4	1536
+1513	-3
+0	67
+72
+August 07
+1996	Panama
+Honduras	2
+1	Friendly
+in Panama	+14
+-14	1280
+1499	+3
+-2	136
+74
+August 11
+1996	Honduras
+Costa Rica	0
+0	Friendly
+in Honduras	-2
++2	1497
+1538	-1
++2	75
+65
+August 14
+1996	Honduras
+El Salvador	2
+1	Friendly
+in Honduras	+7
+-7	1504
+1491	+2
+-2	73
+76
+August 18
+1996	Guatemala
+Honduras	1
+1	Friendly
+in the United States	+2
+-2	1439
+1502	+1
+0	91
+73
+August 21
+1996	El Salvador
+Honduras	1
+2	Friendly
+in El Salvador	-13
++13	1478
+1515	-6
++1	82
+72
+August 25
+1996	Honduras
+Cuba	4
+0	Friendly
+in Honduras	+15
+-15	1530
+1534	+4
+-5	68
+66
+August 28
+1996	Honduras
+Cuba	2
+2	Friendly
+in Honduras	-3
++3	1527
+1537	-1
++1	69
+65
+September 15
+1996	Jamaica
+Honduras	3
+0	World Cup qualifier
+in Jamaica	+31
+-31	1496
+1496	+10
+-9	76
+76
+September 21
+1996	Honduras
+Mexico	2
+1	World Cup qualifier
+in Honduras	+31
+-31	1527
+1792	+8
+-1	67
+17
+October 13
+1996	St. Vincent & Grenadines
+Honduras	1
+4	World Cup qualifier
+in St. Vincent & Grenadines	-20
++20	1251
+1547	-2
++3	142
+63
+October 21
+1996	Honduras
+El Salvador	1
+1	Friendly
+in Honduras	-4
++4	1543
+1499	-1
+-1	63
+76
+October 26
+1996	Honduras
+Jamaica	0
+0	World Cup qualifier
+in Honduras	-8
++8	1535
+1513	0
++2	63
+73
+November 01
+1996	Colombia
+Honduras	2
+1	Friendly
+in the United States	+2
+-2	1880
+1533	0
+0	11
+64
+November 06
+1996	Mexico
+Honduras	3
+1	World Cup qualifier
+in Mexico	+7
+-7	1791
+1526	+1
+-4	18
+68
+November 17
+1996	Honduras
+St. Vincent & Grenadines	11
+3	World Cup qualifier
+in Honduras	+9
+-9	1535
+1231	+1
+-1	65
+146
+January 26
+1997	Chile
+Honduras	3
+2	Friendly
+in Chile	+4
+-4	1703
+1531	0
+0	29
+65
+April 16
+1997	Honduras
+Panama	5
+0	UNCAF Cup
+in Guatemala	+18
+-18	1549
+1300	+3
+-4	61
+131
+April 18
+1997	Honduras
+El Salvador	3
+0	UNCAF Cup
+in Guatemala	+29
+-29	1578
+1463	+7
+-6	54
+85
+April 23
+1997	Costa Rica
+Honduras	4
+0	UNCAF Cup
+in Guatemala	+36
+-36	1631
+1542	+7
+-7	44
+61
+April 25
+1997	Guatemala
+Honduras	1
+0	UNCAF Cup
+in Guatemala	+16
+-16	1527
+1526	+7
+-5	65
+66
+April 27
+1997	El Salvador
+Honduras	0
+0	UNCAF Cup
+in Guatemala	+4
+-4	1460
+1522	+1
+-3	85
+69
+January 22
+1998	Costa Rica
+Honduras	1
+4	Friendly
+in Costa Rica	-25
++25	1566
+1547	-3
++5	56
+63
+January 28
+1998	El Salvador
+Honduras	1
+1	Friendly
+in El Salvador	-1
++1	1490
+1548	0
+0	74
+63
+February 01
+1998	Trinidad and Tobago
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+49
+-49	1485
+1499	+20
+-7	76
+70
+February 07
+1998	Mexico
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1798
+1487	0
+-6	18
+76
+November 17
+1998	Guatemala
+Honduras	3
+3	Friendly tournament
+in the United States	-2
++2	1537
+1489	0
+0	64
+75
+November 18
+1998	Honduras
+El Salvador	2
+1	Friendly tournament
+in the United States	+14
+-14	1503
+1452	+4
+-8	71
+90
+March 19
+1999	Honduras
+Belize	5
+1	UNCAF Cup
+in Costa Rica	+4
+-4	1507
+980	+2
++1	68
+191
+March 21
+1999	Costa Rica
+Honduras	0
+1	UNCAF Cup
+in Costa Rica	-31
++31	1591
+1538	-3
++5	56
+63
+March 24
+1999	Honduras
+El Salvador	3
+1	UNCAF Cup
+in Costa Rica	+23
+-23	1561
+1434	+4
+-8	59
+92
+March 26
+1999	Costa Rica
+Honduras	1
+2	UNCAF Cup
+in Costa Rica	-28
++28	1573
+1589	-1
++3	57
+56
+March 28
+1999	Guatemala
+Honduras	2
+0	UNCAF Cup
+in Costa Rica	+36
+-36	1550
+1553	+8
+-3	60
+59
+May 21
+1999	Honduras
+Haiti	2
+0	Friendly
+in the United States	+9
+-9	1562
+1403	+1
+-2	58
+102
+November 10
+1999	Guatemala
+Honduras	1
+1	Friendly
+in Guatemala	-2
++2	1539
+1564	0
+0	61
+60
+November 17
+1999	Honduras
+Trinidad and Tobago	3
+2	Friendly
+in Honduras	+8
+-8	1572
+1572	+1
+-3	59
+59
+December 01
+1999	Peru
+Honduras	0
+0	Friendly
+in Peru	-6
++6	1711
+1578	0
++4	28
+55
+December 15
+1999	Honduras
+Zambia	7
+1	Friendly
+in Honduras	+17
+-17	1595
+1587	+1
+-3	54
+55
+December 29
+1999	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-3
++3	1602
+1598	0
+0	51
+53
+January 27
+2000	Honduras
+Ecuador	1
+1	Friendly
+in Honduras	-1
++1	1597
+1666	-1
+0	54
+41
+February 09
+2000	Honduras
+El Salvador	5
+1	Friendly
+in Honduras	+5
+-5	1602
+1357	0
+-2	53
+116
+February 14
+2000	Honduras
+Jamaica	2
+0	Concacaf Gold Cup
+in the United States	+34
+-34	1636
+1536	+8
+-7	46
+64
+February 16
+2000	Honduras
+Colombia	2
+0	Concacaf Gold Cup
+in the United States	+52
+-52	1688
+1730	+13
+-6	35
+25
+February 19
+2000	Peru
+Honduras	5
+3	Concacaf Gold Cup
+in the United States	+38
+-38	1719
+1650	+10
+-11	28
+46
+March 04
+2000	Honduras
+Nicaragua	3
+0	World Cup qualifier
+in Honduras	+1
+-1	1651
+971	0
+0	47
+192
+March 08
+2000	Ecuador
+Honduras	1
+3	Friendly
+in Ecuador	-20
++20	1646
+1671	-5
++5	48
+42
+March 22
+2000	Chile
+Honduras	5
+2	Friendly
+in Chile	+12
+-12	1694
+1659	+4
+-2	33
+44
+April 02
+2000	Panama
+Honduras	1
+0	World Cup qualifier
+in Panama	+31
+-31	1373
+1628	+7
+-6	113
+50
+April 16
+2000	Nicaragua
+Honduras	0
+1	World Cup qualifier
+in Nicaragua	-1
++1	958
+1629	0
+0	193
+51
+May 07
+2000	Honduras
+Panama	3
+1	World Cup qualifier
+in Honduras	+7
+-7	1636
+1366	+2
+-2	49
+112
+May 30
+2000	Canada
+Honduras	2
+1	Friendly
+in Canada	+6
+-6	1696
+1630	+2
+-3	32
+52
+June 03
+2000	Honduras
+Haiti	4
+0	World Cup qualifier
+in Honduras	+12
+-12	1642
+1426	+5
+-2	47
+91
+June 17
+2000	Haiti
+Honduras	1
+3	World Cup qualifier
+in Haiti	-20
++20	1406
+1662	-12
++4	103
+43
+July 16
+2000	El Salvador
+Honduras	2
+5	World Cup qualifier
+in El Salvador	-20
++20	1380
+1682	-10
++3	109
+40
+July 23
+2000	Jamaica
+Honduras	3
+1	World Cup qualifier
+in Jamaica	+34
+-34	1564
+1648	+9
+-9	59
+47
+August 16
+2000	Honduras
+St. Vincent & Grenadines	6
+0	World Cup qualifier
+in Honduras	+5
+-5	1653
+1275	+1
+-1	44
+138
+August 20
+2000	Honduras
+Haiti	4
+0	Friendly
+in the United States	+7
+-7	1660
+1386	+2
+-6	42
+107
+September 02
+2000	Honduras
+El Salvador	5
+0	World Cup qualifier
+in Honduras	+8
+-8	1668
+1380	+3
+-4	41
+109
+October 08
+2000	Honduras
+Jamaica	1
+0	World Cup qualifier
+in Honduras	+10
+-10	1678
+1572	+5
+-1	38
+60
+November 14
+2000	St. Vincent & Grenadines
+Honduras	0
+7	World Cup qualifier
+in St. Vincent & Grenadines	-12
++12	1239
+1690	-3
++3	145
+37
+February 28
+2001	Costa Rica
+Honduras	2
+2	World Cup qualifier
+in Costa Rica	-1
++1	1610
+1691	+1
+0	54
+36
+March 07
+2001	Honduras
+Peru	0
+0	Friendly
+in the United States	-1
++1	1690
+1642	0
+0	36
+49
+March 21
+2001	Honduras
+Chile	3
+1	Friendly
+in Honduras	+11
+-11	1701
+1673	+2
+-2	34
+40
+March 28
+2001	Honduras
+United States	1
+2	World Cup qualifier
+in Honduras	-21
++21	1680
+1797	-5
++5	39
+15
+April 25
+2001	Jamaica
+Honduras	1
+1	World Cup qualifier
+in Jamaica	+1
+-1	1564
+1679	0
+-1	61
+39
+May 23
+2001	Honduras
+Panama	1
+2	UNCAF Cup
+in Honduras	-36
++36	1643
+1425	-9
++9	48
+95
+May 25
+2001	Honduras
+Nicaragua	10
+2	UNCAF Cup
+in Honduras	+1
+-1	1644
+934	0
+0	48
+192
+May 27
+2001	Honduras
+El Salvador	1
+1	UNCAF Cup
+in Honduras	-14
++14	1630
+1468	-1
++3	49
+80
+June 16
+2001	Trinidad and Tobago
+Honduras	2
+4	World Cup qualifier
+in Trinidad and Tobago	-38
++38	1587
+1668	-5
++9	57
+42
+June 20
+2001	Honduras
+Mexico	3
+1	World Cup qualifier
+in Honduras	+22
+-22	1690
+1647	+6
+-6	35
+46
+July 01
+2001	Honduras
+Costa Rica	2
+3	World Cup qualifier
+in Honduras	-29
++29	1661
+1651	-6
++7	41
+44
+July 07
+2001	Ecuador
+Honduras	1
+1	Friendly
+in the United States	-3
++3	1748
+1664	0
+0	27
+41
+July 13
+2001	Costa Rica
+Honduras	1
+0	Copa América
+in Colombia	+26
+-26	1677
+1638	+4
+-5	41
+48
+July 16
+2001	Honduras
+Bolivia	2
+0	Copa América
+in Colombia	+29
+-29	1667
+1533	+5
+-4	43
+66
+July 19
+2001	Honduras
+Uruguay	1
+0	Copa América
+in Colombia	+33
+-33	1700
+1743	+10
+-2	33
+26
+July 23
+2001	Honduras
+Brazil	2
+0	Copa América
+in Colombia	+56
+-56	1756
+1834	+6
+-6	27
+13
+July 26
+2001	Colombia
+Honduras	2
+0	Copa América
+in Colombia	+22
+-22	1835
+1734	+2
+-2	13
+28
+July 29
+2001	Honduras
+Uruguay	2
+2	Copa América
+in Colombia	0
+0	1734
+1738	0
++1	28
+26
+September 01
+2001	United States
+Honduras	2
+3	World Cup qualifier
+in the United States	-28
++28	1751
+1762	-4
++4	25
+24
+September 05
+2001	Honduras
+Jamaica	1
+0	World Cup qualifier
+in Honduras	+5
+-5	1767
+1537	+1
+-1	23
+64
+October 07
+2001	Honduras
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Honduras	-35
++35	1732
+1550	-5
++8	28
+62
+November 11
+2001	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+22
+-22	1792
+1710	+3
+-8	20
+36
+February 12
+2002	Honduras
+Slovenia	5
+1	Carlsberg Cup
+in Hong Kong	+29
+-29	1739
+1692	+7
+-11	28
+40
+March 02
+2002	United States
+Honduras	4
+0	Friendly
+in the United States	+12
+-12	1782
+1727	+1
+-1	23
+29
+May 02
+2002	Japan
+Honduras	3
+3	Kirin Cup
+in Japan	-9
++9	1845
+1736	-2
++2	11
+28
+November 20
+2002	Honduras
+Colombia	1
+0	Friendly
+in Honduras	+10
+-10	1746
+1839	+2
+0	29
+12
+February 01
+2003	Honduras
+Argentina	1
+3	Friendly
+in Honduras	-10
++10	1736
+1974	-2
+0	31
+3
+February 11
+2003	Honduras
+Nicaragua	2
+0	UNCAF Cup
+in Panama	+1
+-1	1737
+937	0
+0	31
+192
+February 15
+2003	El Salvador
+Honduras	1
+0	UNCAF Cup
+in Panama	+32
+-32	1525
+1705	+11
+-3	65
+34
+February 18
+2003	Panama
+Honduras	1
+1	UNCAF Cup
+in Panama	+11
+-11	1391
+1694	+2
+-2	110
+36
+February 20
+2003	Costa Rica
+Honduras	1
+0	UNCAF Cup
+in Panama	+18
+-18	1743
+1676	+4
+-2	28
+38
+February 23
+2003	Guatemala
+Honduras	2
+1	UNCAF Cup
+in Panama	+28
+-28	1548
+1648	+5
+-6	62
+44
+April 02
+2003	Honduras
+Paraguay	1
+1	Friendly
+in Honduras	0
+0	1648
+1733	+1
+0	41
+31
+April 25
+2003	Honduras
+Trinidad and Tobago	2
+0	Concacaf Gold Cup qualifier
+in Martinique	+12
+-12	1660
+1403	0
+-5	41
+104
+April 27
+2003	Martinique
+Honduras	2
+4	Concacaf Gold Cup qualifier
+in Martinique	-22
++22	1438
+1682	-5
++4	92
+37
+April 30
+2003	Colombia
+Honduras	0
+0	Friendly
+in the United States	-4
++4	1834
+1686	+1
++1	12
+36
+June 07
+2003	Venezuela
+Honduras	2
+1	Friendly
+in the United States	+13
+-13	1610
+1673	+6
+-5	51
+41
+June 11
+2003	Honduras
+Chile	1
+2	Friendly
+in Honduras	-15
++15	1658
+1589	+1
++1	40
+59
+June 22
+2003	Honduras
+Guatemala	2
+1	Friendly
+in the United States	+7
+-7	1665
+1541	+1
+-1	39
+66
+June 29
+2003	Honduras
+El Salvador	1
+1	Friendly
+in Honduras	-7
++7	1658
+1499	-2
+0	41
+74
+July 15
+2003	Brazil
+Honduras	2
+1	Concacaf Gold Cup
+in Mexico	+8
+-8	1958
+1650	0
+-1	4
+42
+July 17
+2003	Mexico
+Honduras	0
+0	Concacaf Gold Cup
+in Mexico	-17
++17	1809
+1667	-2
++4	17
+38
+October 11
+2003	Bolivia
+Honduras	1
+0	Friendly
+in the United States	+13
+-13	1580
+1654	+3
+-3	59
+41
+November 16
+2003	Finland
+Honduras	2
+1	Friendly
+in the United States	+9
+-9	1687
+1645	0
+-4	37
+44
+January 25
+2004	Norway
+Honduras	3
+1	Carlsberg Cup
+in Hong Kong	+18
+-18	1732
+1627	+2
+-2	28
+47
+February 18
+2004	Honduras
+Colombia	1
+1	Friendly
+in Honduras	-1
++1	1626
+1683	0
+-1	48
+40
+March 10
+2004	Venezuela
+Honduras	2
+1	Friendly
+in Venezuela	+7
+-7	1625
+1619	+4
+-4	48
+52
+March 31
+2004	Jamaica
+Honduras	2
+2	Friendly
+in Jamaica	-2
++2	1602
+1621	-1
++1	57
+52
+April 07
+2004	Honduras
+Panama	0
+0	Friendly
+in Honduras	-8
++8	1613
+1380	0
++2	52
+109
+April 28
+2004	Ecuador
+Honduras	1
+1	Friendly
+in the United States	-2
++2	1683
+1615	-1
++1	38
+51
+June 02
+2004	United States
+Honduras	4
+0	Friendly
+in the United States	+6
+-6	1818
+1609	+1
+0	14
+53
+June 12
+2004	Netherlands Antilles
+Honduras	1
+2	World Cup qualifier
+in the Netherlands Antilles	-5
++5	1172
+1614	-1
++1	161
+53
+June 19
+2004	Honduras
+Netherlands Antilles	4
+0	World Cup qualifier
+in Honduras	+3
+-3	1617
+1169	0
+0	53
+161
+July 28
+2004	Honduras
+Panama	0
+0	Friendly
+in Honduras	-7
++7	1610
+1453	-1
++1	52
+90
+August 03
+2004	El Salvador
+Honduras	0
+4	Friendly
+in El Salvador	-15
++15	1430
+1625	-4
++2	96
+50
+August 18
+2004	Costa Rica
+Honduras	2
+5	World Cup qualifier
+in Costa Rica	-48
++48	1609
+1673	-14
++14	51
+35
+September 04
+2004	Canada
+Honduras	1
+1	World Cup qualifier
+in Canada	+2
+-2	1543
+1671	+1
+-1	69
+36
+September 08
+2004	Honduras
+Guatemala	2
+2	World Cup qualifier
+in Honduras	-9
++9	1662
+1621	-2
++3	39
+49
+October 09
+2004	Honduras
+Canada	1
+1	World Cup qualifier
+in Honduras	-12
++12	1650
+1543	-3
++2	41
+70
+October 13
+2004	Guatemala
+Honduras	1
+0	World Cup qualifier
+in Guatemala	+18
+-18	1609
+1632	+6
+-6	53
+47
+November 11
+2004	Haiti
+Honduras	1
+1	Friendly
+in the United States	+5
+-5	1444
+1627	+1
+-1	92
+47
+November 17
+2004	Honduras
+Costa Rica	0
+0	World Cup qualifier
+in Honduras	-3
++3	1624
+1670	-1
+-1	48
+39
+February 19
+2005	Honduras
+Nicaragua	5
+1	UNCAF Cup
+in Guatemala	+2
+-2	1626
+1020	0
+0	48
+186
+February 21
+2005	Honduras
+Belize	4
+0	UNCAF Cup
+in Guatemala	+3
+-3	1629
+1047	0
+0	48
+181
+February 23
+2005	Guatemala
+Honduras	1
+1	UNCAF Cup
+in Guatemala	-4
++4	1599
+1633	-4
++1	59
+47
+February 25
+2005	Honduras
+Panama	1
+0	UNCAF Cup
+in Guatemala	+12
+-12	1645
+1474	+2
+-2	46
+85
+February 27
+2005	Costa Rica
+Honduras	1
+1	UNCAF Cup
+in Guatemala	-3
++3	1694
+1648	-1
+0	34
+46
+March 19
+2005	United States
+Honduras	1
+0	Friendly
+in the United States	+3
+-3	1827
+1645	0
+0	16
+46
+June 04
+2005	Jamaica
+Honduras	0
+0	Friendly
+in the United States	0
+0	1648
+1645	+2
++2	46
+47
+July 02
+2005	Canada
+Honduras	1
+2	Friendly
+in Canada	-10
++10	1540
+1655	-4
++3	71
+46
+July 06
+2005	Honduras
+Trinidad and Tobago	1
+1	Concacaf Gold Cup
+in the United States	-12
++12	1643
+1490	-4
++1	50
+81
+July 10
+2005	Honduras
+Colombia	2
+1	Concacaf Gold Cup
+in the United States	+33
+-33	1676
+1724	+7
+-5	43
+31
+July 12
+2005	Honduras
+Panama	1
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1688
+1471	+2
+-2	41
+84
+July 16
+2005	Honduras
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+28
+-28	1716
+1695	+7
+-7	34
+39
+July 21
+2005	United States
+Honduras	2
+1	Concacaf Gold Cup
+in the United States	+10
+-10	1865
+1706	+1
+-1	11
+35
+September 07
+2005	Japan
+Honduras	5
+4	Friendly
+in Japan	+5
+-5	1810
+1701	+1
+0	17
+37
+January 25
+2006	Ecuador
+Honduras	1
+0	Friendly
+in Ecuador	+7
+-7	1699
+1694	+2
+-2	38
+40
+February 12
+2006	China
+Honduras	0
+1	Friendly
+in China	-11
++11	1618
+1705	-3
++2	55
+37
+August 16
+2006	Venezuela
+Honduras	0
+0	Friendly
+in Venezuela	+1
+-1	1575
+1704	-2
+-1	61
+38
+September 06
+2006	Honduras
+El Salvador	2
+0	Friendly
+in Honduras	+2
+-2	1706
+1359	-1
+0	38
+113
+October 07
+2006	Honduras
+Guatemala	3
+2	Friendly
+in the United States	+6
+-6	1712
+1535	-1
++1	38
+67
+October 10
+2006	Honduras
+Guatemala	2
+1	Friendly
+in the United States	+5
+-5	1717
+1530	+3
+-4	35
+70
+January 27
+2007	Honduras
+Denmark	1
+1	Friendly
+in Honduras	+1
+-1	1718
+1845	+2
+0	35
+12
+February 09
+2007	Costa Rica
+Honduras	3
+1	UNCAF Cup
+in El Salvador	+38
+-38	1657
+1680	+3
+-5	47
+43
+February 11
+2007	Honduras
+Panama	1
+1	UNCAF Cup
+in El Salvador	-10
++10	1670
+1499	0
++1	43
+82
+February 15
+2007	Honduras
+Nicaragua	9
+1	UNCAF Cup
+in El Salvador	+3
+-3	1673
+1062	0
+0	43
+179
+March 24
+2007	Honduras
+El Salvador	2
+0	Friendly
+in the United States	+4
+-4	1677
+1337	0
+-2	43
+120
+March 27
+2007	Honduras
+El Salvador	2
+0	Friendly
+in the United States	+4
+-4	1681
+1333	0
+-1	43
+121
+April 19
+2007	Honduras
+Haiti	1
+3	Friendly
+in Honduras	-24
++24	1657
+1574	0
++4	43
+62
+May 25
+2007	Venezuela
+Honduras	2
+1	Friendly
+in Venezuela	+8
+-8	1632
+1649	+2
+-3	49
+46
+June 02
+2007	Honduras
+Trinidad and Tobago	3
+1	Friendly
+in Honduras	+7
+-7	1656
+1526	+1
++1	45
+73
+June 08
+2007	Panama
+Honduras	3
+2	Concacaf Gold Cup
+in the United States	+33
+-33	1569
+1623	+9
+-5	62
+49
+June 10
+2007	Honduras
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+38
+-38	1661
+1777	+5
+-8	44
+23
+June 13
+2007	Honduras
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+30
+-30	1691
+1482	+2
+-9	42
+86
+June 17
+2007	Guadeloupe
+Honduras	2
+1	Concacaf Gold Cup
+in the United States	+42
+-42	1445
+1649	+6
+-2	94
+44
+August 22
+2007	El Salvador
+Honduras	2
+0	Friendly
+in El Salvador	+23
+-23	1368
+1626	+6
+-6	113
+51
+September 09
+2007	Costa Rica
+Honduras	0
+0	Friendly
+in the United States	0
+0	1625
+1626	+1
++1	53
+52
+September 12
+2007	Honduras
+Ecuador	2
+1	Friendly
+in Honduras	+9
+-9	1635
+1667	+4
++1	48
+42
+October 14
+2007	Honduras
+Panama	1
+0	Friendly
+in Honduras	+5
+-5	1640
+1553	+3
+0	47
+64
+November 17
+2007	Honduras
+Guatemala	1
+0	Friendly
+in the United States	+6
+-6	1646
+1497	+1
+-2	44
+79
+February 06
+2008	Honduras
+Paraguay	2
+0	Friendly
+in Honduras	+18
+-18	1664
+1805	+5
+-2	41
+17
+March 26
+2008	Honduras
+Colombia	2
+1	Friendly
+in the United States	+14
+-14	1678
+1804	0
+0	41
+16
+May 23
+2008	Honduras
+Belize	2
+0	Friendly
+in Honduras	0
+0	1678
+1045	0
+0	41
+181
+May 30
+2008	Honduras
+Venezuela	1
+1	Friendly
+in the United States	-1
++1	1677
+1629	0
++1	41
+47
+June 04
+2008	Honduras
+Puerto Rico	4
+0	World Cup qualifier
+in Honduras	+1
+-1	1678
+965	0
++1	42
+191
+June 07
+2008	Honduras
+Haiti	3
+1	Friendly
+in Honduras	+5
+-5	1683
+1504	0
+-4	42
+81
+June 14
+2008	Puerto Rico
+Honduras	2
+2	World Cup qualifier
+in Puerto Rico	+19
+-19	984
+1664	+2
+-1	189
+43
+August 20
+2008	Mexico
+Honduras	2
+1	World Cup qualifier
+in Mexico	+6
+-6	1877
+1658	0
+0	10
+43
+September 06
+2008	Canada
+Honduras	1
+2	World Cup qualifier
+in Canada	-23
++23	1580
+1681	-7
++1	58
+43
+September 10
+2008	Honduras
+Jamaica	2
+0	World Cup qualifier
+in Honduras	+12
+-12	1693
+1525	+1
+-8	42
+77
+October 11
+2008	Honduras
+Canada	3
+1	World Cup qualifier
+in Honduras	+13
+-13	1706
+1563	+3
+-4	39
+62
+October 15
+2008	Jamaica
+Honduras	1
+0	World Cup qualifier
+in Jamaica	+23
+-23	1580
+1683	+6
+-3	59
+42
+November 19
+2008	Honduras
+Mexico	1
+0	World Cup qualifier
+in Honduras	+23
+-23	1706
+1815	+3
+-2	39
+13
+January 18
+2009	Honduras
+Chile	2
+0	Friendly
+in the United States	+18
+-18	1724
+1760	+4
+-3	35
+23
+January 22
+2009	Honduras
+Belize	2
+1	UNCAF Cup
+in Honduras	0
+0	1724
+1044	0
+0	35
+182
+January 24
+2009	Honduras
+Nicaragua	4
+1	UNCAF Cup
+in Honduras	+1
+-1	1725
+1039	0
++1	35
+182
+January 26
+2009	Honduras
+El Salvador	2
+0	UNCAF Cup
+in Honduras	+7
+-7	1732
+1454	+2
+-1	33
+93
+January 30
+2009	Honduras
+Panama	0
+1	UNCAF Cup
+in Honduras	-34
++34	1698
+1561	-7
++11	40
+63
+February 01
+2009	Honduras
+El Salvador	1
+0	UNCAF Cup
+in Honduras	+5
+-5	1703
+1442	0
+-1	40
+93
+February 11
+2009	Costa Rica
+Honduras	2
+0	World Cup qualifier
+in Costa Rica	+21
+-21	1736
+1682	+5
+-4	32
+43
+March 28
+2009	Trinidad and Tobago
+Honduras	1
+1	World Cup qualifier
+in Trinidad and Tobago	+1
+-1	1560
+1681	0
+0	63
+43
+April 01
+2009	Honduras
+Mexico	3
+1	World Cup qualifier
+in Honduras	+32
+-32	1713
+1775	+8
+-7	36
+20
+June 06
+2009	United States
+Honduras	2
+1	World Cup qualifier
+in the United States	+11
+-11	1796
+1702	0
+-2	15
+37
+June 10
+2009	Honduras
+El Salvador	1
+0	World Cup qualifier
+in Honduras	+7
+-7	1709
+1515	0
+-4	37
+80
+June 28
+2009	Honduras
+Panama	2
+0	Friendly
+in the United States	+9
+-9	1718
+1550	+2
+-3	35
+66
+July 04
+2009	Honduras
+Haiti	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1724
+1379	0
+-3	35
+114
+July 08
+2009	United States
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1872
+1708	+1
+-2	9
+37
+July 11
+2009	Honduras
+Grenada	4
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1714
+1244	+2
+-1	35
+143
+July 18
+2009	Honduras
+Canada	1
+0	Concacaf Gold Cup
+in the United States	+19
+-19	1733
+1612	+3
+-1	32
+51
+July 23
+2009	United States
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1869
+1717	+2
+-3	9
+35
+August 12
+2009	Honduras
+Costa Rica	4
+0	World Cup qualifier
+in Honduras	+31
+-31	1748
+1726	+6
+-8	29
+34
+September 05
+2009	Honduras
+Trinidad and Tobago	4
+1	World Cup qualifier
+in Honduras	+11
+-11	1759
+1537	+4
+-4	25
+70
+September 09
+2009	Mexico
+Honduras	1
+0	World Cup qualifier
+in Mexico	+8
+-8	1899
+1751	0
+-3	7
+28
+October 10
+2009	Honduras
+United States	2
+3	World Cup qualifier
+in Honduras	-23
++23	1728
+1820	-6
+0	34
+15
+October 14
+2009	El Salvador
+Honduras	0
+1	World Cup qualifier
+in El Salvador	-14
++14	1498
+1742	-4
++5	85
+28
+November 14
+2009	Honduras
+Latvia	2
+1	Friendly
+in Honduras	+3
+-3	1745
+1546	0
++1	27
+69
+November 18
+2009	Peru
+Honduras	2
+1	Friendly
+in the United States	+15
+-15	1568
+1730	+6
+-6	61
+33
+January 23
+2010	United States
+Honduras	1
+3	Friendly
+in the United States	-21
++21	1763
+1751	-4
++6	20
+26
+March 03
+2010	Turkey
+Honduras	2
+0	Friendly
+in Turkey	+11
+-11	1768
+1740	+4
+-1	17
+25
+April 21
+2010	Honduras
+Venezuela	0
+1	Friendly
+in Honduras	-14
++14	1726
+1709	-5
++6	30
+34
+May 27
+2010	Belarus
+Honduras	2
+2	Friendly
+in Austria	+5
+-5	1562
+1721	+2
+-4	64
+33
+June 02
+2010	Azerbaijan
+Honduras	0
+0	Friendly
+in Austria	+7
+-7	1416
+1714	+3
++1	103
+31
+June 05
+2010	Romania
+Honduras	3
+0	Friendly
+in Austria	+18
+-18	1720
+1696	+3
+-4	31
+35
+June 16
+2010	Chile
+Honduras	1
+0	World Cup
+in South Africa	+17
+-17	1881
+1679	+2
+-4	8
+39
+June 21
+2010	Spain
+Honduras	2
+0	World Cup
+in South Africa	+10
+-10	2042
+1669	+1
+-2	2
+42
+June 25
+2010	Honduras
+Switzerland	0
+0	World Cup
+in South Africa	+8
+-8	1677
+1758	+3
+-1	39
+23
+September 04
+2010	El Salvador
+Honduras	2
+2	Friendly
+in the United States	+5
+-5	1489
+1672	0
+0	88
+40
+September 07
+2010	Canada
+Honduras	2
+1	Friendly
+in Canada	+10
+-10	1574
+1662	+2
+-3	60
+43
+October 09
+2010	New Zealand
+Honduras	1
+1	Friendly
+in New Zealand	-1
++1	1586
+1663	-1
+0	57
+43
+October 12
+2010	Honduras
+Guatemala	2
+0	Friendly
+in the United States	+6
+-6	1669
+1431	+1
+-2	41
+102
+November 17
+2010	Panama
+Honduras	2
+0	Friendly
+in Panama	+15
+-15	1579
+1654	+5
+-2	60
+43
+December 18
+2010	Honduras
+Panama	2
+1	Friendly
+in Honduras	+5
+-5	1659
+1574	+1
+-1	42
+62
+January 14
+2011	Costa Rica
+Honduras	1
+1	UNCAF Cup
+in Panama	+1
+-1	1650
+1658	0
+0	43
+42
+January 18
+2011	Honduras
+Guatemala	3
+1	UNCAF Cup
+in Panama	+13
+-13	1671
+1417	+4
+-2	39
+105
+January 21
+2011	Honduras
+El Salvador	2
+0	UNCAF Cup
+in Panama	+14
+-14	1685
+1447	+3
+-3	36
+97
+January 23
+2011	Honduras
+Costa Rica	2
+1	UNCAF Cup
+in Panama	+19
+-19	1704
+1647	+1
+-2	35
+43
+February 09
+2011	Honduras
+Ecuador	1
+1	Friendly
+in Honduras	-3
++3	1701
+1708	0
++1	35
+33
+March 25
+2011	South Korea
+Honduras	4
+0	Friendly
+in South Korea	+10
+-10	1791
+1691	+2
+-2	16
+37
+March 29
+2011	China
+Honduras	3
+0	Friendly
+in China	+16
+-16	1632
+1675	+2
+0	49
+37
+May 29
+2011	El Salvador
+Honduras	2
+2	Friendly
+in the United States	+5
+-5	1474
+1670	0
+-2	94
+39
+June 06
+2011	Guatemala
+Honduras	0
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1430
+1654	+5
+-4	99
+45
+June 10
+2011	Honduras
+Grenada	7
+1	Concacaf Gold Cup
+in the United States	+10
+-10	1664
+1251	+3
+-6	42
+146
+June 13
+2011	Jamaica
+Honduras	1
+0	Concacaf Gold Cup
+in the United States	+25
+-25	1687
+1639	+6
+-8	37
+50
+June 18
+2011	Costa Rica
+Honduras	1
+1	Concacaf Gold Cup
+in the United States	0
+0	1642
+1639	0
+0	49
+50
+June 22
+2011	Mexico
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+14
+-14	1902
+1625	+1
+-3	6
+53
+August 10
+2011	Honduras
+Venezuela	2
+0	Friendly
+in the United States	+19
+-19	1644
+1698	+4
+-2	49
+36
+September 03
+2011	Colombia
+Honduras	2
+0	Friendly
+in the United States	+11
+-11	1754
+1633	+4
+-4	24
+51
+September 06
+2011	Honduras
+Paraguay	0
+3	Friendly
+in Honduras	-15
++15	1618
+1794	-4
++1	54
+18
+October 08
+2011	United States
+Honduras	1
+0	Friendly
+in the United States	+5
+-5	1697
+1613	0
+0	36
+54
+October 11
+2011	Honduras
+Jamaica	2
+1	Friendly
+in Honduras	+8
+-8	1621
+1625	+2
+-1	52
+51
+November 14
+2011	Honduras
+Serbia	2
+0	Friendly
+in Honduras	+15
+-15	1636
+1695	+2
+-1	49
+36
+February 29
+2012	Ecuador
+Honduras	2
+0	Friendly
+in Ecuador	+7
+-7	1765
+1629	+1
+-1	24
+51
+April 11
+2012	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-4
++4	1654
+1633	0
+0	43
+51
+May 26
+2012	New Zealand
+Honduras	1
+0	Friendly
+in the United States	+12
+-12	1568
+1621	+4
+-3	64
+53
+June 02
+2012	Honduras
+El Salvador	3
+0	Friendly
+in the United States	+15
+-15	1636
+1546	+6
+-4	47
+71
+June 08
+2012	Honduras
+Panama	0
+2	World Cup qualifier
+in Honduras	-37
++37	1599
+1695	-9
++6	56
+36
+June 12
+2012	Canada
+Honduras	0
+0	World Cup qualifier
+in Canada	-4
++4	1574
+1603	-2
++3	63
+54
+September 07
+2012	Cuba
+Honduras	0
+3	World Cup qualifier
+in Cuba	-21
++21	1334
+1624	-8
++7	126
+50
+September 11
+2012	Honduras
+Cuba	1
+0	World Cup qualifier
+in Honduras	+4
+-4	1628
+1330	+1
++2	46
+123
+October 12
+2012	Panama
+Honduras	0
+0	World Cup qualifier
+in Panama	-9
++9	1681
+1637	0
+0	37
+46
+October 16
+2012	Honduras
+Canada	8
+1	World Cup qualifier
+in Honduras	+28
+-28	1665
+1569	+3
+-10	43
+65
+November 14
+2012	Honduras
+Peru	0
+0	Friendly
+in the United States	+1
+-1	1666
+1696	+3
+0	40
+34
+January 18
+2013	El Salvador
+Honduras	1
+1	UNCAF Cup
+in Costa Rica	+8
+-8	1528
+1658	+1
+-1	76
+42
+January 22
+2013	Honduras
+Panama	1
+1	UNCAF Cup
+in Costa Rica	+1
+-1	1659
+1668	0
+0	42
+40
+January 25
+2013	Honduras
+Belize	1
+0	UNCAF Cup
+in Costa Rica	+2
+-2	1661
+1137	0
+0	42
+169
+January 27
+2013	Costa Rica
+Honduras	1
+0	UNCAF Cup
+in Costa Rica	+15
+-15	1664
+1646	+3
+-2	41
+44
+February 06
+2013	Honduras
+United States	2
+1	World Cup qualifier
+in Honduras	+20
+-20	1666
+1722	+3
+-1	42
+28
+March 22
+2013	Honduras
+Mexico	2
+2	World Cup qualifier
+in Honduras	+6
+-6	1672
+1867	+2
+-1	38
+10
+March 26
+2013	Panama
+Honduras	2
+0	World Cup qualifier
+in Panama	+21
+-21	1698
+1651	+1
+-7	36
+45
+June 02
+2013	Israel
+Honduras	2
+0	Friendly
+in the United States	+16
+-16	1649
+1635	+2
+-2	46
+47
+June 07
+2013	Costa Rica
+Honduras	1
+0	World Cup qualifier
+in Costa Rica	+12
+-12	1695
+1623	+3
+-1	35
+49
+June 11
+2013	Honduras
+Jamaica	2
+0	World Cup qualifier
+in Honduras	+15
+-15	1638
+1510	+2
+-6	47
+82
+June 15
+2013	Nicaragua
+Honduras	2
+2	Friendly
+in Nicaragua	+8
+-8	1118
+1630	0
+-2	177
+49
+June 18
+2013	United States
+Honduras	1
+0	World Cup qualifier
+in the United States	+8
+-8	1783
+1622	+3
+-1	21
+50
+July 08
+2013	Honduras
+Haiti	2
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1640
+1410	+3
+-3	47
+104
+July 12
+2013	Honduras
+El Salvador	1
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1656
+1495	+2
+-5	45
+85
+July 15
+2013	Trinidad and Tobago
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+63
+-63	1438
+1593	+15
+-11	98
+56
+July 21
+2013	Honduras
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+34
+-34	1627
+1693	+7
+-7	49
+35
+July 24
+2013	United States
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1829
+1615	+3
+-4	15
+53
+September 06
+2013	Mexico
+Honduras	1
+2	World Cup qualifier
+in Mexico	-34
++34	1768
+1649	-2
++9	23
+44
+September 10
+2013	Honduras
+Panama	2
+2	World Cup qualifier
+in Honduras	-2
++2	1647
+1714	-3
++1	47
+28
+October 11
+2013	Honduras
+Costa Rica	1
+0	World Cup qualifier
+in Honduras	+19
+-19	1666
+1708	+5
+-4	42
+30
+October 15
+2013	Jamaica
+Honduras	2
+2	World Cup qualifier
+in Jamaica	+2
+-2	1527
+1664	+1
+-1	76
+43
+November 16
+2013	Brazil
+Honduras	5
+0	Friendly
+in the United States	+3
+-3	2105
+1661	0
+0	1
+43
+November 19
+2013	Ecuador
+Honduras	2
+2	Friendly
+in the United States	-4
++4	1816
+1665	+2
+-1	16
+44
+March 05
+2014	Honduras
+Venezuela	2
+1	Friendly
+in Honduras	+8
+-8	1673
+1677	0
+-3	44
+41

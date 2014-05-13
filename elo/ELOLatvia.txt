@@ -1,0 +1,3033 @@
+September 24
+1922	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-6
++6	1394
+1288	-
+-1	39
+43
+July 24
+1923	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-1
++1	1313
+1395	0
+0	45
+41
+May 27
+1924	France
+Latvia	7
+0	Olympic Games
+in France	+27
+-27	1562
+1368	+4
+-2	30
+46
+June 22
+1924	Latvia
+Turkey	1
+3	Friendly
+in Latvia	-10
++10	1358
+1611	0
++2	46
+25
+August 06
+1924	Lithuania
+Latvia	2
+4	Friendly
+in Lithuania	-15
++15	1238
+1373	0
+0	49
+46
+August 14
+1924	Latvia
+Finland	0
+2	Friendly
+in Latvia	-15
++15	1358
+1491	0
+0	46
+39
+October 18
+1924	Latvia
+Estonia	2
+0	Friendly
+in Latvia	+7
+-7	1365
+1259	0
+0	46
+48
+August 09
+1925	Finland
+Latvia	3
+1	Friendly
+in Finland	+7
+-7	1467
+1358	0
+0	42
+47
+August 26
+1925	Estonia
+Latvia	2
+2	Friendly
+in Estonia	-1
++1	1291
+1359	0
+0	50
+47
+September 20
+1925	Latvia
+Lithuania	2
+2	Friendly
+in Latvia	-6
++6	1353
+1245	0
+0	47
+51
+July 20
+1926	Latvia
+Sweden	4
+1	Friendly
+in Latvia	+31
+-31	1384
+1787	+2
+-3	49
+8
+August 12
+1926	Latvia
+Finland	1
+4	Friendly
+in Latvia	-19
++19	1365
+1474	-2
++3	51
+41
+August 21
+1926	Lithuania
+Latvia	2
+3	Friendly
+in Lithuania	-9
++9	1227
+1374	0
++1	56
+50
+September 19
+1926	Latvia
+Estonia	0
+1	Friendly
+in Latvia	-15
++15	1359
+1318	-1
+0	51
+54
+May 29
+1927	Sweden
+Latvia	12
+0	Friendly
+in Sweden	+3
+-3	1759
+1356	0
+0	10
+51
+June 16
+1927	Estonia
+Latvia	4
+1	Friendly
+in Estonia	+14
+-14	1332
+1342	0
+-2	55
+53
+July 27
+1927	Latvia
+Lithuania	6
+3	Friendly
+in Latvia	+8
+-8	1350
+1219	+1
+0	52
+58
+September 11
+1927	Finland
+Latvia	3
+1	Friendly
+in Finland	+7
+-7	1451
+1343	0
+-1	45
+54
+September 25
+1927	Latvia
+Estonia	4
+1	Friendly
+in Latvia	+13
+-13	1356
+1348	+3
+-3	51
+54
+July 06
+1928	Latvia
+Sweden	0
+4	Friendly
+in Latvia	-5
++5	1351
+1768	-1
+0	53
+11
+July 25
+1928	Latvia
+Lithuania	3
+0	Baltic Cup
+in Estonia	+16
+-16	1367
+1184	+1
+-1	52
+61
+July 27
+1928	Estonia
+Latvia	0
+1	Baltic Cup
+in Estonia	-19
++19	1338
+1386	-2
++2	55
+50
+August 19
+1928	Latvia
+Finland	2
+1	Friendly
+in Latvia	+8
+-8	1394
+1414	+1
+0	49
+46
+September 01
+1928	Lithuania
+Latvia	1
+1	Friendly
+in Lithuania	+3
+-3	1175
+1391	0
+0	61
+49
+September 23
+1928	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-4
++4	1387
+1347	-1
+0	50
+55
+July 28
+1929	Sweden
+Latvia	10
+0	Friendly
+in Sweden	+3
+-3	1769
+1384	0
+0	9
+49
+August 14
+1929	Latvia
+Lithuania	3
+1	Baltic Cup
+in Latvia	+7
+-7	1391
+1168	+1
+0	48
+62
+August 16
+1929	Latvia
+Estonia	2
+2	Baltic Cup
+in Latvia	-5
++5	1386
+1363	-1
+0	49
+52
+September 15
+1929	Finland
+Latvia	3
+1	Friendly
+in Finland	+10
+-10	1416
+1376	0
+-2	45
+51
+September 18
+1929	Estonia
+Latvia	4
+1	Friendly
+in Estonia	+13
+-13	1370
+1363	+1
+-1	51
+52
+June 27
+1930	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-3
++3	1367
+1366	0
+0	53
+54
+July 22
+1930	Latvia
+Sweden	0
+5	Friendly
+in Latvia	-6
++6	1360
+1763	-1
+0	53
+12
+August 04
+1930	Latvia
+Finland	3
+0	Friendly
+in Latvia	+14
+-14	1374
+1381	+2
+-1	52
+49
+August 16
+1930	Latvia
+Estonia	3
+2	Baltic Cup
+in Lithuania	+14
+-14	1388
+1342	+2
+-4	49
+58
+August 17
+1930	Lithuania
+Latvia	3
+3	Baltic Cup
+in Lithuania	+5
+-5	1179
+1383	0
+0	65
+49
+October 26
+1930	Poland
+Latvia	6
+0	Friendly
+in Poland	+6
+-6	1618
+1377	0
+-2	20
+51
+May 28
+1931	Latvia
+Estonia	0
+1	Friendly
+in Latvia	-14
++14	1363
+1334	-2
+0	54
+59
+June 30
+1931	Latvia
+Lithuania	5
+2	Friendly
+in Latvia	+6
+-6	1369
+1188	+1
+-1	53
+66
+July 26
+1931	Sweden
+Latvia	6
+0	Friendly
+in Sweden	+3
+-3	1733
+1366	0
+-1	13
+54
+August 05
+1931	Latvia
+Poland	0
+5	Friendly
+in Latvia	-12
++12	1354
+1617	-1
++2	55
+22
+August 19
+1931	Finland
+Latvia	4
+0	Friendly
+in Finland	+12
+-12	1392
+1342	+1
+-3	50
+58
+August 31
+1931	Lithuania
+Latvia	0
+1	Baltic Cup
+in Lithuania	-12
++12	1164
+1354	-1
++3	67
+55
+September 01
+1931	Estonia
+Latvia	3
+1	Baltic Cup
+in Estonia	+17
+-17	1355
+1337	+5
+-4	54
+59
+September 27
+1931	Latvia
+Estonia	2
+1	Friendly
+in Latvia	+8
+-8	1345
+1347	0
+-3	59
+57
+June 01
+1932	Estonia
+Latvia	3
+0	Friendly
+in Estonia	+13
+-13	1360
+1332	+3
+0	55
+59
+June 29
+1932	Lithuania
+Latvia	2
+3	Friendly
+in Lithuania	-8
++8	1156
+1340	0
+0	67
+59
+July 13
+1932	Latvia
+Sweden	0
+0	Friendly
+in Latvia	+6
+-6	1346
+1671	0
+-1	59
+17
+July 24
+1932	Latvia
+Lithuania	2
+1	Friendly
+in Latvia	+3
+-3	1349
+1153	+3
+0	56
+67
+August 28
+1932	Latvia
+Lithuania	4
+1	Baltic Cup
+in Latvia	+9
+-9	1358
+1157	+1
+0	55
+67
+August 30
+1932	Latvia
+Estonia	1
+0	Baltic Cup
+in Latvia	+8
+-8	1366
+1286	+2
+-1	53
+61
+September 11
+1932	Lithuania
+Latvia	1
+0	Friendly
+in Lithuania	+12
+-12	1190
+1354	0
+-3	66
+56
+October 02
+1932	Poland
+Latvia	2
+1	Friendly
+in Poland	+2
+-2	1644
+1352	+2
+0	17
+56
+May 28
+1933	Latvia
+Estonia	2
+0	Friendly
+in Latvia	+8
+-8	1360
+1278	+1
+0	55
+61
+June 12
+1933	Latvia
+Lithuania	6
+2	Friendly
+in Latvia	+6
+-6	1366
+1182	+1
+0	53
+66
+July 04
+1933	Latvia
+Sweden	1
+1	Friendly
+in Latvia	+5
+-5	1371
+1669	0
+-1	53
+17
+August 09
+1933	Estonia
+Latvia	2
+1	Friendly
+in Estonia	+10
+-10	1289
+1361	+1
+-1	60
+54
+September 03
+1933	Latvia
+Estonia	1
+0	Baltic Cup
+in Lithuania	+12
+-12	1373
+1272	+1
+0	53
+61
+September 04
+1933	Lithuania
+Latvia	2
+2	Baltic Cup
+in Lithuania	+4
+-4	1171
+1369	+1
+0	66
+53
+June 10
+1934	Lithuania
+Latvia	2
+0	Friendly
+in Lithuania	+20
+-20	1171
+1349	0
+-1	69
+56
+August 14
+1934	Latvia
+Finland	1
+1	Friendly
+in Latvia	0
+0	1349
+1434	0
+0	57
+45
+September 09
+1934	Latvia
+Lithuania	1
+3	Friendly
+in Latvia	-25
++25	1324
+1211	-3
++1	60
+66
+September 23
+1934	Sweden
+Latvia	3
+1	Friendly
+in Sweden	+2
+-2	1717
+1322	0
+0	13
+60
+October 14
+1934	Latvia
+Poland	2
+6	Friendly
+in Latvia	-10
++10	1312
+1600	0
+0	60
+28
+May 30
+1935	Latvia
+Lithuania	6
+1	Friendly
+in Latvia	+10
+-10	1322
+1201	0
+0	60
+66
+June 05
+1935	Finland
+Latvia	4
+1	Friendly
+in Finland	+8
+-8	1439
+1314	+1
+0	43
+60
+June 12
+1935	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-3
++3	1311
+1303	0
+0	60
+61
+July 05
+1935	Latvia
+Sweden	0
+3	Friendly
+in Latvia	-5
++5	1306
+1738	0
+0	60
+13
+August 21
+1935	Latvia
+Lithuania	2
+2	Baltic Cup
+in Estonia	-3
++3	1303
+1232	0
+0	60
+65
+August 22
+1935	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	-3
++3	1276
+1306	0
+0	63
+60
+September 08
+1935	Lithuania
+Latvia	2
+2	Friendly
+in Lithuania	-1
++1	1231
+1307	0
+0	65
+60
+September 15
+1935	Poland
+Latvia	3
+3	Friendly
+in Poland	-8
++8	1569
+1315	-3
+0	31
+60
+October 13
+1935	Latvia
+Germany	0
+3	Friendly
+in Latvia	-3
++3	1312
+1841	0
+0	60
+6
+May 28
+1936	Estonia
+Latvia	3
+4	Friendly
+in Estonia	-12
++12	1264
+1324	0
++1	64
+59
+June 14
+1936	Lithuania
+Latvia	1
+5	Friendly
+in Lithuania	-19
++19	1210
+1343	-1
+0	67
+59
+August 29
+1936	Latvia
+Lithuania	2
+1	Baltic Cup
+in Latvia	+7
+-7	1350
+1216	+2
+0	57
+68
+August 31
+1936	Latvia
+Estonia	2
+1	Baltic Cup
+in Latvia	+8
+-8	1358
+1261	+1
+0	56
+64
+September 06
+1936	Latvia
+Poland	3
+3	Friendly
+in Latvia	+5
+-5	1363
+1644	+1
+-2	55
+24
+June 25
+1937	Latvia
+Germany	1
+3	Friendly
+in Latvia	-4
++4	1359
+1786	-1
+0	55
+10
+July 13
+1937	Latvia
+Romania	0
+0	Friendly
+in Latvia	+4
+-4	1363
+1599	+1
+-1	54
+31
+July 29
+1937	Latvia
+Lithuania	4
+2	World Cup qualifier
+in Latvia	+10
+-10	1373
+1173	+2
+0	53
+72
+September 03
+1937	Lithuania
+Latvia	1
+5	World Cup qualifier
+in Lithuania	-27
++27	1146
+1400	-1
++4	73
+49
+September 04
+1937	Estonia
+Latvia	1
+1	Baltic Cup
+in Lithuania	+4
+-4	1315
+1396	+1
+0	61
+49
+September 07
+1937	Latvia
+Estonia	2
+0	Baltic Cup
+in Lithuania	+19
+-19	1415
+1319	+3
+-1	46
+61
+September 19
+1937	Latvia
+Estonia	3
+1	Friendly
+in Latvia	+7
+-7	1422
+1312	0
+0	46
+61
+October 05
+1937	Austria
+Latvia	2
+1	World Cup qualifier
+in Austria	+2
+-2	1827
+1420	0
+0	8
+46
+October 10
+1937	Poland
+Latvia	2
+1	Friendly
+in Poland	+3
+-3	1631
+1417	+3
+0	20
+46
+October 13
+1937	Czechoslovakia
+Latvia	4
+0	Friendly
+in Czechoslovakia	+2
+-2	1799
+1415	0
+0	10
+46
+May 17
+1938	Latvia
+Lithuania	2
+0	Friendly
+in Latvia	+3
+-3	1418
+1120	0
+0	47
+75
+June 10
+1938	Sweden
+Latvia	3
+3	Friendly
+in Sweden	-7
++7	1603
+1425	0
++1	29
+46
+July 20
+1938	Estonia
+Latvia	0
+2	Friendly
+in Estonia	-15
++15	1307
+1440	-3
++1	65
+46
+September 04
+1938	Latvia
+Lithuania	1
+1	Baltic Cup
+in Estonia	-11
++11	1429
+1112	-1
+0	47
+77
+September 05
+1938	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	+1
+-1	1297
+1428	0
+0	68
+47
+September 25
+1938	Latvia
+Poland	2
+1	Friendly
+in Latvia	+13
+-13	1441
+1615	+3
+-4	45
+26
+May 18
+1939	Romania
+Latvia	4
+0	Friendly
+in Romania	+10
+-10	1535
+1431	+1
+-2	35
+47
+May 24
+1939	Bulgaria
+Latvia	3
+0	Friendly
+in Bulgaria	+9
+-9	1514
+1422	0
+-2	38
+49
+July 27
+1939	Latvia
+Estonia	3
+3	Friendly
+in Latvia	-6
++6	1416
+1300	0
++1	49
+67
+September 24
+1939	Finland
+Latvia	0
+3	Friendly
+in Finland	-19
++19	1327
+1435	0
++2	63
+48
+July 18
+1940	Estonia
+Latvia	2
+1	Friendly
+in Estonia	+12
+-12	1286
+1423	0
+-1	72
+51
+September 06
+1940	Latvia
+Lithuania	1
+0	Baltic Cup
+in Latvia	+3
+-3	1426
+1139	+1
+0	50
+80
+September 08
+1940	Latvia
+Estonia	2
+2	Baltic Cup
+in Latvia	-9
++9	1417
+1276	-2
+0	52
+72
+October 13
+1940	Lithuania
+Latvia	4
+3	Friendly
+in Lithuania	+15
+-15	1155
+1402	0
+-3	80
+55
+August 03
+1942	Latvia
+Estonia	4
+0	Friendly
+in Latvia	+8
+-8	1410
+1268	+1
+0	55
+72
+August 18
+1942	Estonia
+Latvia	1
+6	Friendly
+in Estonia	-18
++18	1250
+1428	-2
++3	74
+52
+November 16
+1991	Latvia
+Estonia	2
+0	Baltic Cup
+in Latvia	+7
+-7	1435
+1218	+1
+-2	83
+140
+November 17
+1991	Lithuania
+Latvia	1
+1	Baltic Cup
+in Lithuania	+6
+-6	1195
+1429	+1
+-2	149
+85
+April 08
+1992	Romania
+Latvia	2
+0	Friendly
+in Romania	+2
+-2	1764
+1427	0
+0	22
+83
+May 26
+1992	Malta
+Latvia	1
+0	Friendly
+in Malta	+8
+-8	1394
+1419	+2
+-2	100
+87
+July 15
+1992	Latvia
+Estonia	2
+1	Baltic Cup
+in Latvia	+5
+-5	1424
+1218	0
+-1	86
+140
+July 17
+1992	Latvia
+Lithuania	2
+3	Baltic Cup
+in Latvia	-26
++26	1398
+1236	-11
++7	99
+139
+August 12
+1992	Latvia
+Lithuania	1
+2	World Cup qualifier
+in Latvia	-33
++33	1365
+1269	-13
++10	110
+129
+August 26
+1992	Latvia
+Denmark	0
+0	World Cup qualifier
+in Latvia	+17
+-17	1382
+1894	+4
+0	104
+7
+September 09
+1992	Ireland
+Latvia	4
+0	World Cup qualifier
+in Ireland	+3
+-3	1842
+1379	0
+0	10
+103
+September 23
+1992	Latvia
+Spain	0
+0	World Cup qualifier
+in Latvia	+15
+-15	1394
+1796	+6
+-2	97
+16
+October 28
+1992	Lithuania
+Latvia	1
+1	World Cup qualifier
+in Lithuania	0
+0	1295
+1394	-1
+-1	125
+100
+November 11
+1992	Albania
+Latvia	1
+1	World Cup qualifier
+in Albania	-6
++6	1388
+1400	-1
++2	101
+98
+November 18
+1992	Poland
+Latvia	1
+0	Friendly
+in Poland	+1
+-1	1759
+1399	0
+-1	21
+99
+December 16
+1992	Spain
+Latvia	5
+0	World Cup qualifier
+in Spain	+4
+-4	1793
+1395	0
+-1	16
+99
+February 20
+1993	Lithuania
+Latvia	2
+1	Baltic Tournament
+in Finland	+19
+-19	1314
+1376	+3
+-7	122
+105
+February 21
+1993	Latvia
+Estonia	2
+0	Baltic Tournament
+in Finland	+14
+-14	1390
+1222	+7
+-3	98
+146
+April 14
+1993	Denmark
+Latvia	2
+0	World Cup qualifier
+in Denmark	+2
+-2	1896
+1388	0
+-1	7
+99
+May 15
+1993	Latvia
+Albania	0
+0	World Cup qualifier
+in Latvia	-7
++7	1381
+1365	-1
++1	101
+104
+June 02
+1993	Latvia
+Northern Ireland	1
+2	World Cup qualifier
+in Latvia	-13
++13	1368
+1625	-2
++3	104
+43
+June 09
+1993	Latvia
+Ireland	0
+2	World Cup qualifier
+in Latvia	-6
++6	1362
+1844	-1
++1	109
+10
+July 02
+1993	Estonia
+Latvia	0
+2	Baltic Cup
+in Estonia	-18
++18	1174
+1380	-2
++2	158
+107
+July 03
+1993	Latvia
+Lithuania	0
+0	Baltic Cup
+in Estonia	-3
++3	1377
+1322	-1
++1	108
+123
+September 08
+1993	Northern Ireland
+Latvia	2
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1632
+1370	+2
+-1	43
+108
+June 02
+1994	Latvia
+Malta	2
+0	Friendly
+in Latvia	+10
+-10	1380
+1352	+2
+-4	108
+115
+June 26
+1994	Latvia
+Georgia	1
+3	Friendly
+in Latvia	-15
++15	1365
+1503	-2
++5	110
+73
+July 30
+1994	Latvia
+Estonia	2
+0	Baltic Cup
+in Lithuania	+11
+-11	1376
+1166	+1
+0	109
+160
+July 31
+1994	Lithuania
+Latvia	1
+0	Baltic Cup
+in Lithuania	+13
+-13	1331
+1363	+3
+-1	123
+110
+September 07
+1994	Latvia
+Ireland	0
+3	European Cup qualifier
+in Latvia	-9
++9	1354
+1804	-3
++1	117
+19
+October 09
+1994	Latvia
+Portugal	1
+3	European Cup qualifier
+in Latvia	-7
++7	1347
+1822	-3
+0	119
+17
+November 06
+1994	Latvia
+Estonia	0
+0	Friendly
+in Latvia	-7
++7	1340
+1157	-3
++2	120
+161
+November 15
+1994	Liechtenstein
+Latvia	0
+1	European Cup qualifier
+in Liechtenstein	-14
++14	1110
+1354	-6
++6	174
+116
+March 08
+1995	Hungary
+Latvia	3
+1	Friendly
+in Hungary	+4
+-4	1569
+1350	0
+-2	54
+116
+March 29
+1995	Austria
+Latvia	5
+0	European Cup qualifier
+in Austria	+11
+-11	1581
+1339	+3
+-6	50
+122
+April 26
+1995	Latvia
+Northern Ireland	0
+1	European Cup qualifier
+in Latvia	-10
++10	1329
+1638	-2
++2	125
+36
+May 19
+1995	Latvia
+Estonia	2
+0	Baltic Cup
+in Latvia	+7
+-7	1336
+1117	+1
+-1	124
+170
+May 21
+1995	Latvia
+Lithuania	2
+0	Baltic Cup
+in Latvia	+23
+-23	1359
+1420	+9
+-6	115
+97
+June 03
+1995	Portugal
+Latvia	3
+2	European Cup qualifier
+in Portugal	+1
+-1	1840
+1358	0
+0	17
+115
+June 07
+1995	Northern Ireland
+Latvia	1
+2	European Cup qualifier
+in Northern Ireland	-35
++35	1570
+1393	-6
++8	52
+106
+August 16
+1995	Latvia
+Austria	3
+2	European Cup qualifier
+in Latvia	+28
+-28	1421
+1608	+8
+-5	98
+44
+September 06
+1995	Latvia
+Liechtenstein	1
+0	European Cup qualifier
+in Latvia	+4
+-4	1425
+1118	+2
+-1	97
+169
+October 11
+1995	Ireland
+Latvia	2
+1	European Cup qualifier
+in Ireland	+4
+-4	1735
+1421	0
+0	27
+97
+March 12
+1996	Cyprus
+Latvia	1
+0	Friendly
+in Cyprus	+9
+-9	1368
+1412	0
+-5	114
+102
+July 07
+1996	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	+8
+-8	1100
+1404	+1
+-3	174
+105
+July 08
+1996	Lithuania
+Latvia	2
+1	Baltic Cup
+in Estonia	+15
+-15	1429
+1389	+4
+-3	97
+108
+August 14
+1996	Latvia
+Finland	0
+0	Friendly
+in Latvia	-1
++1	1388
+1469	-1
+0	109
+86
+September 01
+1996	Latvia
+Sweden	1
+2	World Cup qualifier
+in Latvia	-5
++5	1383
+1837	0
+0	110
+15
+October 05
+1996	Latvia
+Scotland	0
+2	World Cup qualifier
+in Latvia	-10
++10	1373
+1763	-2
++1	112
+22
+October 09
+1996	Belarus
+Latvia	1
+1	World Cup qualifier
+in Belarus	-7
++7	1385
+1380	-3
++2	108
+110
+November 09
+1996	Austria
+Latvia	2
+1	World Cup qualifier
+in Austria	+3
+-3	1698
+1377	0
+-2	31
+112
+February 14
+1997	Cyprus
+Latvia	2
+0	Friendly tournament
+in Cyprus	+15
+-15	1409
+1362	+6
+-1	99
+117
+February 15
+1997	Latvia
+Lithuania	1
+0	Friendly tournament
+in Cyprus	+19
+-19	1381
+1439	+6
+-3	111
+91
+February 17
+1997	Poland
+Latvia	3
+2	Friendly tournament
+in Cyprus	+6
+-6	1619
+1375	+3
+-5	44
+116
+April 02
+1997	Switzerland
+Latvia	1
+0	Friendly
+in Switzerland	+2
+-2	1674
+1373	-2
+0	34
+113
+April 30
+1997	Latvia
+Belarus	2
+0	World Cup qualifier
+in Latvia	+22
+-22	1395
+1358	+8
+-7	105
+116
+May 18
+1997	Estonia
+Latvia	1
+3	World Cup qualifier
+in Estonia	-24
++24	1196
+1419	-9
++7	156
+98
+June 08
+1997	Latvia
+Austria	1
+3	World Cup qualifier
+in Latvia	-18
++18	1401
+1678	-2
++2	100
+33
+June 25
+1997	Latvia
+Andorra	4
+1	Friendly
+in Latvia	+3
+-3	1404
+1067	0
+0	99
+178
+July 10
+1997	Latvia
+Estonia	2
+1	Baltic Cup
+in Lithuania	+7
+-7	1411
+1200	+1
+-1	98
+150
+July 11
+1997	Lithuania
+Latvia	1
+0	Baltic Cup
+in Lithuania	+10
+-10	1453
+1401	+3
+-1	88
+99
+August 19
+1997	Latvia
+Azerbaijan	0
+0	Friendly
+in Latvia	-6
++6	1395
+1281	-2
++1	102
+134
+September 06
+1997	Latvia
+Estonia	1
+0	World Cup qualifier
+in Latvia	+5
+-5	1400
+1168	0
+0	102
+161
+September 10
+1997	Sweden
+Latvia	1
+0	World Cup qualifier
+in Sweden	+2
+-2	1793
+1398	-1
+-1	19
+104
+October 11
+1997	Scotland
+Latvia	2
+0	World Cup qualifier
+in Scotland	+4
+-4	1763
+1394	0
+0	21
+104
+February 06
+1998	Georgia
+Latvia	2
+1	Rothmans Tournament
+in Malta	+8
+-8	1590
+1386	+1
+-3	53
+109
+February 08
+1998	Malta
+Latvia	2
+1	Rothmans Tournament
+in Malta	+19
+-19	1210
+1367	+7
+-4	147
+113
+February 10
+1998	Latvia
+Albania	2
+2	Rothmans Tournament
+in Malta	+1
+-1	1368
+1382	0
+0	113
+108
+April 21
+1998	Latvia
+Lithuania	1
+2	Baltic Cup
+in Latvia	-14
++14	1354
+1512	-5
++3	116
+68
+May 17
+1998	Latvia
+Israel	1
+5	Friendly
+in Latvia	-10
++10	1344
+1640	-3
++2	119
+42
+June 25
+1998	Estonia
+Latvia	0
+2	Baltic Cup
+in Estonia	-20
++20	1184
+1364	-6
++6	158
+113
+June 26
+1998	Latvia
+Andorra	2
+0	Friendly
+in Estonia	+5
+-5	1369
+1064	+2
+0	111
+179
+August 19
+1998	Iceland
+Latvia	4
+1	Friendly
+in Iceland	+9
+-9	1451
+1360	+4
+-2	89
+115
+September 06
+1998	Norway
+Latvia	1
+3	European Cup qualifier
+in Norway	-58
++58	1813
+1418	-6
++18	17
+97
+October 10
+1998	Latvia
+Georgia	1
+0	European Cup qualifier
+in Latvia	+25
+-25	1443
+1573	+5
+-3	92
+57
+October 14
+1998	Slovenia
+Latvia	1
+0	European Cup qualifier
+in Slovenia	+13
+-13	1480
+1430	+2
+-4	79
+96
+November 10
+1998	Tunisia
+Latvia	3
+0	Friendly
+in Tunisia	+6
+-6	1621
+1424	+1
+-1	53
+97
+February 24
+1999	Israel
+Latvia	2
+0	Friendly
+in Israel	+4
+-4	1644
+1420	+2
+0	46
+96
+March 31
+1999	Latvia
+Greece	0
+0	European Cup qualifier
+in Latvia	+9
+-9	1429
+1674	+3
+-1	91
+39
+April 28
+1999	Latvia
+Albania	0
+0	European Cup qualifier
+in Latvia	-6
++6	1423
+1420	-1
+0	93
+95
+June 05
+1999	Latvia
+Slovenia	1
+2	European Cup qualifier
+in Latvia	-21
++21	1402
+1530	-6
++9	100
+65
+June 09
+1999	Greece
+Latvia	1
+2	European Cup qualifier
+in Greece	-36
++36	1652
+1438	-10
++8	46
+91
+June 26
+1999	Brazil
+Latvia	3
+0	Friendly
+in Brazil	+1
+-1	2016
+1437	0
+-2	1
+92
+September 04
+1999	Albania
+Latvia	3
+3	European Cup qualifier
+in Albania	-3
++3	1382
+1440	0
++2	107
+92
+September 08
+1999	Georgia
+Latvia	2
+2	European Cup qualifier
+in Georgia	-8
++8	1484
+1448	0
++1	78
+91
+October 09
+1999	Latvia
+Norway	1
+2	European Cup qualifier
+in Latvia	-5
++5	1443
+1889	-1
++1	92
+9
+February 02
+2000	Romania
+Latvia	2
+0	Friendly tournament
+in Cyprus	+4
+-4	1859
+1439	0
+0	15
+90
+February 06
+2000	Lithuania
+Latvia	2
+1	Friendly tournament
+in Cyprus	+17
+-17	1421
+1422	+3
+-5	96
+95
+April 26
+2000	Lithuania
+Latvia	2
+1	Baltic Cup
+in Lithuania	+11
+-11	1432
+1411	+5
+-4	93
+100
+June 04
+2000	Latvia
+Finland	1
+0	Friendly
+in Latvia	+11
+-11	1422
+1538	+4
+-2	94
+63
+August 16
+2000	Latvia
+Belarus	0
+1	Friendly
+in Latvia	-15
++15	1407
+1360	-8
++3	99
+115
+September 02
+2000	Latvia
+Scotland	0
+1	World Cup qualifier
+in Latvia	-9
++9	1398
+1719	-4
++2	103
+29
+October 07
+2000	Latvia
+Belgium	0
+4	World Cup qualifier
+in Latvia	-15
++15	1383
+1754	-4
++3	107
+22
+November 15
+2000	San Marino
+Latvia	0
+1	World Cup qualifier
+in San Marino	-4
++4	912
+1387	0
++3	201
+104
+February 28
+2001	Liechtenstein
+Latvia	0
+2	Friendly
+in Liechtenstein	-6
++6	1057
+1393	0
++2	178
+102
+March 24
+2001	Croatia
+Latvia	4
+1	World Cup qualifier
+in Croatia	+3
+-3	1858
+1390	+1
+-1	9
+103
+April 25
+2001	Latvia
+San Marino	1
+1	World Cup qualifier
+in Latvia	-19
++19	1371
+931	-10
++5	113
+194
+June 02
+2001	Belgium
+Latvia	3
+1	World Cup qualifier
+in Belgium	+3
+-3	1765
+1368	+1
+-1	24
+115
+June 06
+2001	Latvia
+Croatia	0
+1	World Cup qualifier
+in Latvia	-4
++4	1364
+1855	-2
+0	116
+10
+July 03
+2001	Latvia
+Estonia	3
+1	Baltic Cup
+in Latvia	+16
+-16	1380
+1344	+6
+-4	110
+123
+July 05
+2001	Latvia
+Lithuania	4
+1	Baltic Cup
+in Latvia	+20
+-20	1400
+1380	+9
+-9	102
+111
+August 15
+2001	Latvia
+Ukraine	0
+1	Friendly
+in Latvia	-6
++6	1394
+1639	0
+0	101
+48
+October 06
+2001	Scotland
+Latvia	2
+1	World Cup qualifier
+in Scotland	+4
+-4	1702
+1390	-1
+-2	38
+103
+November 14
+2001	Latvia
+Russia	1
+3	Friendly
+in Latvia	-4
++4	1386
+1799	-2
++1	105
+18
+March 27
+2002	Luxembourg
+Latvia	0
+3	Friendly
+in Luxembourg	-8
++8	1076
+1394	0
++3	176
+104
+April 17
+2002	Latvia
+Kazakhstan	2
+1	Friendly
+in Latvia	+8
+-8	1402
+1433	+3
+-1	101
+95
+May 22
+2002	Finland
+Latvia	2
+1	Friendly
+in Finland	+2
+-2	1711
+1400	0
+-2	34
+103
+July 06
+2002	Latvia
+Azerbaijan	0
+0	Friendly
+in Latvia	-6
++6	1394
+1267	-1
++1	105
+140
+August 21
+2002	Latvia
+Belarus	2
+4	Friendly
+in Latvia	-14
++14	1380
+1537	-3
++3	109
+64
+September 07
+2002	Latvia
+Sweden	0
+0	European Cup qualifier
+in Latvia	+15
+-15	1395
+1816	+1
+-1	108
+15
+October 12
+2002	Poland
+Latvia	0
+1	European Cup qualifier
+in Poland	-37
++37	1675
+1432	-2
++14	37
+94
+November 20
+2002	San Marino
+Latvia	0
+1	European Cup qualifier
+in San Marino	-3
++3	921
+1435	-1
++2	197
+93
+February 12
+2003	Latvia
+Lithuania	2
+1	Friendly
+in Turkey	+7
+-7	1442
+1339	+3
+-3	93
+126
+April 02
+2003	Ukraine
+Latvia	1
+0	Friendly
+in Ukraine	+3
+-3	1678
+1439	0
++1	38
+92
+April 30
+2003	Latvia
+San Marino	3
+0	European Cup qualifier
+in Latvia	+2
+-2	1441
+918	0
+0	91
+196
+June 07
+2003	Hungary
+Latvia	3
+1	European Cup qualifier
+in Hungary	+14
+-14	1566
+1427	+3
+-3	61
+94
+July 04
+2003	Latvia
+Lithuania	2
+1	Baltic Cup
+in Estonia	+13
+-13	1440
+1379	+3
+-5	92
+111
+July 05
+2003	Estonia
+Latvia	0
+0	Baltic Cup
+in Estonia	-2
++2	1389
+1442	+1
+0	105
+92
+August 20
+2003	Latvia
+Uzbekistan	0
+3	Friendly
+in Latvia	-22
++22	1420
+1482	-4
++4	97
+80
+September 06
+2003	Latvia
+Poland	0
+2	European Cup qualifier
+in Latvia	-18
++18	1402
+1682	-4
++3	102
+36
+September 10
+2003	Latvia
+Hungary	3
+1	European Cup qualifier
+in Latvia	+35
+-35	1437
+1528	+10
+-5	92
+68
+October 11
+2003	Sweden
+Latvia	0
+1	European Cup qualifier
+in Sweden	-38
++38	1790
+1475	-4
++10	19
+83
+November 15
+2003	Latvia
+Turkey	1
+0	European Cup qualifier
+in Latvia	+34
+-34	1509
+1828	+8
+-2	73
+13
+November 19
+2003	Turkey
+Latvia	2
+2	European Cup qualifier
+in Turkey	-17
++17	1811
+1526	-2
++4	15
+71
+December 20
+2003	Kuwait
+Latvia	2
+0	Friendly
+in Cyprus	+14
+-14	1559
+1512	+2
+-5	64
+75
+February 18
+2004	Latvia
+Kazakhstan	3
+1	Friendly tournament
+in Cyprus	+15
+-15	1527
+1380	+4
+-2	70
+108
+February 19
+2004	Hungary
+Latvia	2
+1	Friendly tournament
+in Cyprus	+16
+-16	1527
+1511	+5
+-4	70
+74
+February 21
+2004	Belarus
+Latvia	4
+1	Friendly tournament
+in Cyprus	+28
+-28	1517
+1483	+6
+-5	73
+79
+March 31
+2004	Slovenia
+Latvia	0
+1	Friendly
+in Slovenia	-16
++16	1605
+1499	-5
++3	56
+76
+April 28
+2004	Latvia
+Iceland	0
+0	Friendly
+in Latvia	-2
++2	1497
+1547	+1
++1	75
+65
+June 06
+2004	Latvia
+Azerbaijan	2
+2	Friendly
+in Latvia	-6
++6	1491
+1338	-1
+0	76
+125
+June 15
+2004	Czechia
+Latvia	2
+1	European Cup
+in Portugal	+4
+-4	1927
+1487	+1
+-2	5
+79
+June 19
+2004	Latvia
+Germany	0
+0	European Cup
+in Portugal	+19
+-19	1506
+1826	+5
+-2	74
+13
+June 23
+2004	Netherlands
+Latvia	3
+0	European Cup
+in Portugal	+8
+-8	1907
+1498	0
+-1	8
+76
+August 18
+2004	Latvia
+Wales	0
+2	Friendly
+in Latvia	-14
++14	1484
+1639	-2
++4	79
+45
+September 04
+2004	Latvia
+Portugal	0
+2	World Cup qualifier
+in Latvia	-10
++10	1474
+1869	-4
++1	83
+9
+September 08
+2004	Luxembourg
+Latvia	3
+4	World Cup qualifier
+in Luxembourg	-5
++5	1029
+1479	-2
+-2	187
+85
+October 09
+2004	Slovakia
+Latvia	4
+1	World Cup qualifier
+in Slovakia	+14
+-14	1627
+1465	+5
+-2	49
+88
+October 13
+2004	Latvia
+Estonia	2
+2	World Cup qualifier
+in Latvia	-11
++11	1454
+1370	-1
++3	90
+111
+November 17
+2004	Liechtenstein
+Latvia	1
+3	World Cup qualifier
+in Liechtenstein	-11
++11	1086
+1465	0
+-1	173
+91
+December 01
+2004	Oman
+Latvia	3
+2	Friendly tournament
+in Bahrain	+11
+-11	1579
+1454	+4
+0	60
+91
+December 03
+2004	Bahrain
+Latvia	2
+2	Friendly tournament
+in Bahrain	-8
++8	1547
+1462	0
+0	67
+91
+February 08
+2005	Finland
+Latvia	2
+1	Friendly tournament
+in Cyprus	+7
+-7	1667
+1455	+2
+0	39
+91
+February 09
+2005	Austria
+Latvia	1
+1	Friendly tournament
+in Cyprus	-6
++6	1601
+1461	-3
++1	55
+90
+March 30
+2005	Latvia
+Luxembourg	4
+0	World Cup qualifier
+in Latvia	+3
+-3	1464
+977	+1
+-1	86
+191
+May 21
+2005	Lithuania
+Latvia	2
+0	Baltic Cup
+in Lithuania	+18
+-18	1449
+1446	+4
+-5	90
+91
+June 04
+2005	Russia
+Latvia	2
+0	World Cup qualifier
+in Russia	+6
+-6	1722
+1440	0
+-2	31
+93
+June 08
+2005	Latvia
+Liechtenstein	1
+0	World Cup qualifier
+in Latvia	+3
+-3	1443
+1074	+1
+0	92
+177
+August 17
+2005	Latvia
+Russia	1
+1	World Cup qualifier
+in Latvia	+10
+-10	1453
+1718	+2
+-5	89
+34
+September 03
+2005	Estonia
+Latvia	2
+1	World Cup qualifier
+in Estonia	+19
+-19	1387
+1434	+3
+-4	104
+93
+September 07
+2005	Latvia
+Slovakia	1
+1	World Cup qualifier
+in Latvia	+6
+-6	1440
+1643	+3
+-3	90
+49
+October 08
+2005	Latvia
+Japan	2
+2	Friendly
+in Latvia	+7
+-7	1447
+1803	0
+-4	90
+21
+October 12
+2005	Portugal
+Latvia	3
+0	World Cup qualifier
+in Portugal	+3
+-3	1878
+1444	0
+-1	9
+91
+November 12
+2005	Belarus
+Latvia	3
+1	Friendly
+in Belarus	+7
+-7	1547
+1437	+2
+0	66
+91
+December 24
+2005	Thailand
+Latvia	1
+1	King's Cup
+in Thailand	+1
+-1	1321
+1436	0
+0	123
+94
+December 26
+2005	Latvia
+North Korea	1
+1	King's Cup
+in Thailand	+2
+-2	1438
+1490	0
+0	94
+82
+December 28
+2005	Latvia
+Oman	2
+1	King's Cup
+in Thailand	+20
+-20	1458
+1538	+6
+-3	88
+68
+December 30
+2005	Latvia
+North Korea	2
+1	King's Cup
+in Thailand	+17
+-17	1475
+1492	+4
+-5	84
+82
+May 28
+2006	United States
+Latvia	1
+0	Friendly
+in the United States	+2
+-2	1813
+1473	0
+0	17
+84
+August 16
+2006	Russia
+Latvia	1
+0	Friendly
+in Russia	+2
+-2	1728
+1471	+2
+-3	31
+87
+September 02
+2006	Latvia
+Sweden	0
+1	European Cup qualifier
+in Latvia	-8
++8	1463
+1823	-1
++2	88
+14
+September 06
+2006	Luxembourg
+Latvia	0
+0	Friendly
+in Luxembourg	+8
+-8	954
+1455	0
+-4	190
+92
+October 07
+2006	Latvia
+Iceland	4
+0	European Cup qualifier
+in Latvia	+32
+-32	1487
+1474	+9
+-11	83
+87
+October 11
+2006	Northern Ireland
+Latvia	1
+0	European Cup qualifier
+in Northern Ireland	+14
+-14	1504
+1473	+4
+-2	78
+86
+February 06
+2007	Bulgaria
+Latvia	2
+0	Friendly tournament
+in Cyprus	+9
+-9	1713
+1464	+2
+-5	39
+90
+February 07
+2007	Hungary
+Latvia	2
+0	Friendly tournament
+in Cyprus	+18
+-18	1560
+1446	+3
+-2	62
+92
+March 28
+2007	Liechtenstein
+Latvia	1
+0	European Cup qualifier
+in Liechtenstein	+33
+-33	1114
+1413	+3
+-5	173
+99
+June 02
+2007	Latvia
+Spain	0
+2	European Cup qualifier
+in Latvia	-6
++6	1407
+1895	0
+0	100
+9
+June 06
+2007	Latvia
+Denmark	0
+2	European Cup qualifier
+in Latvia	-7
++7	1400
+1855	-1
+0	100
+12
+August 22
+2007	Latvia
+Moldova	1
+2	Friendly
+in Latvia	-14
++14	1386
+1369	-2
++1	105
+112
+September 08
+2007	Latvia
+Northern Ireland	1
+0	European Cup qualifier
+in Latvia	+23
+-23	1409
+1522	+4
+-5	102
+73
+September 12
+2007	Spain
+Latvia	2
+0	European Cup qualifier
+in Spain	+2
+-2	1891
+1407	+1
+0	8
+103
+October 13
+2007	Iceland
+Latvia	2
+4	European Cup qualifier
+in Iceland	-44
++44	1435
+1451	-12
++13	96
+90
+October 17
+2007	Denmark
+Latvia	3
+1	European Cup qualifier
+in Denmark	+4
+-4	1802
+1447	+2
+-2	14
+92
+November 17
+2007	Latvia
+Liechtenstein	4
+1	European Cup qualifier
+in Latvia	+7
+-7	1454
+1170	0
+-1	92
+168
+November 21
+2007	Sweden
+Latvia	2
+1	European Cup qualifier
+in Sweden	+3
+-3	1771
+1451	-1
+0	22
+92
+February 06
+2008	Georgia
+Latvia	1
+3	Friendly
+in Georgia	-21
++21	1484
+1472	-3
++4	82
+88
+March 26
+2008	Andorra
+Latvia	0
+3	Friendly
+in Andorra	-5
++5	1044
+1477	-1
+0	182
+88
+May 30
+2008	Latvia
+Estonia	1
+0	Baltic Cup
+in Latvia	+8
+-8	1485
+1383	0
+-2	87
+107
+June 01
+2008	Latvia
+Lithuania	2
+1	Baltic Cup
+in Latvia	+14
+-14	1499
+1545	+4
+-6	83
+69
+August 20
+2008	Romania
+Latvia	1
+0	Friendly
+in Romania	+1
+-1	1866
+1498	0
+0	11
+82
+September 06
+2008	Moldova
+Latvia	1
+2	World Cup qualifier
+in Moldova	-24
++24	1436
+1522	-6
++3	98
+80
+September 10
+2008	Latvia
+Greece	0
+2	World Cup qualifier
+in Latvia	-19
++19	1503
+1769	-5
++6	84
+22
+October 11
+2008	Switzerland
+Latvia	2
+1	World Cup qualifier
+in Switzerland	+5
+-5	1731
+1498	0
+-1	31
+85
+October 15
+2008	Latvia
+Israel	1
+1	World Cup qualifier
+in Latvia	+7
+-7	1505
+1720	+3
+-2	82
+34
+November 12
+2008	Estonia
+Latvia	1
+1	Friendly
+in Estonia	+1
+-1	1370
+1504	0
+-1	117
+82
+February 11
+2009	Armenia
+Latvia	0
+0	Friendly
+in Cyprus	+3
+-3	1387
+1501	0
+0	113
+82
+March 28
+2009	Luxembourg
+Latvia	0
+4	World Cup qualifier
+in Luxembourg	-9
++9	1056
+1510	-1
++1	182
+81
+April 01
+2009	Latvia
+Luxembourg	2
+0	World Cup qualifier
+in Latvia	+2
+-2	1512
+1054	+1
+0	79
+182
+August 12
+2009	Bulgaria
+Latvia	1
+0	Friendly
+in Bulgaria	+2
+-2	1762
+1510	+3
+0	22
+82
+September 05
+2009	Israel
+Latvia	0
+1	World Cup qualifier
+in Israel	-34
++34	1669
+1544	-5
++15	45
+67
+September 09
+2009	Latvia
+Switzerland	2
+2	World Cup qualifier
+in Latvia	+8
+-8	1552
+1789	+2
+0	65
+17
+October 10
+2009	Greece
+Latvia	5
+2	World Cup qualifier
+in Greece	+12
+-12	1732
+1540	+5
+-3	32
+68
+October 14
+2009	Latvia
+Moldova	3
+2	World Cup qualifier
+in Latvia	+9
+-9	1549
+1411	-2
+-3	70
+104
+November 14
+2009	Honduras
+Latvia	2
+1	Friendly
+in Honduras	+3
+-3	1745
+1546	0
++1	27
+69
+January 22
+2010	South Korea
+Latvia	1
+0	Friendly
+in Spain	+5
+-5	1728
+1541	0
+-4	33
+73
+March 03
+2010	Angola
+Latvia	1
+1	Friendly
+in Angola	-1
++1	1479
+1542	0
+-1	90
+73
+June 05
+2010	Ghana
+Latvia	1
+0	Friendly
+in England	+6
+-6	1686
+1536	+1
+-4	40
+77
+June 18
+2010	Lithuania
+Latvia	0
+0	Baltic Cup
+in Lithuania	-5
++5	1547
+1541	-2
+0	71
+76
+June 19
+2010	Estonia
+Latvia	0
+0	Baltic Cup
+in Lithuania	+4
+-4	1446
+1537	+1
+-1	93
+77
+August 11
+2010	Czechia
+Latvia	4
+1	Friendly
+in Czechia	+6
+-6	1728
+1531	+1
+0	30
+76
+September 03
+2010	Latvia
+Croatia	0
+3	European Cup qualifier
+in Latvia	-15
++15	1516
+1878	-5
++1	81
+7
+September 07
+2010	Malta
+Latvia	0
+2	European Cup qualifier
+in Malta	-13
++13	1179
+1529	-1
++3	160
+77
+October 08
+2010	Greece
+Latvia	1
+0	European Cup qualifier
+in Greece	+7
+-7	1705
+1522	+2
+-1	31
+78
+October 12
+2010	Latvia
+Georgia	1
+1	European Cup qualifier
+in Latvia	-9
++9	1513
+1456	-3
++2	82
+95
+November 17
+2010	China
+Latvia	1
+0	Friendly
+in China	+5
+-5	1610
+1508	+1
++1	52
+82
+February 09
+2011	Latvia
+Bolivia	2
+1	Friendly
+in Turkey	+11
+-11	1519
+1548	+5
+-3	76
+70
+March 26
+2011	Israel
+Latvia	2
+1	European Cup qualifier
+in Israel	+9
+-9	1653
+1510	+4
+-6	42
+81
+June 04
+2011	Latvia
+Israel	1
+2	European Cup qualifier
+in Latvia	-17
++17	1493
+1678	-5
++3	87
+39
+June 07
+2011	Austria
+Latvia	3
+1	Friendly
+in Austria	+10
+-10	1536
+1483	+3
+-3	70
+90
+August 10
+2011	Latvia
+Finland	0
+2	Friendly
+in Latvia	-16
++16	1467
+1572	-2
++4	91
+63
+September 02
+2011	Georgia
+Latvia	0
+1	European Cup qualifier
+in Georgia	-27
++27	1473
+1494	-10
++6	90
+85
+September 06
+2011	Latvia
+Greece	1
+1	European Cup qualifier
+in Latvia	+8
+-8	1502
+1742	+2
+-3	83
+28
+October 07
+2011	Latvia
+Malta	2
+0	European Cup qualifier
+in Latvia	+5
+-5	1507
+1194	0
+0	83
+156
+October 11
+2011	Croatia
+Latvia	2
+0	European Cup qualifier
+in Croatia	+5
+-5	1844
+1502	0
+0	12
+82
+February 29
+2012	Kazakhstan
+Latvia	0
+0	Friendly
+in Turkey	+5
+-5	1320
+1497	+5
+-6	128
+88
+May 22
+2012	Poland
+Latvia	1
+0	Friendly
+in Austria	+5
+-5	1690
+1492	+2
+-2	36
+89
+June 01
+2012	Latvia
+Lithuania	5
+0	Baltic Cup
+in Estonia	+29
+-29	1521
+1454	+9
+-4	79
+94
+June 03
+2012	Finland
+Latvia	1
+1	Baltic Cup
+in Estonia	-3
++3	1599
+1524	-2
++2	57
+78
+August 15
+2012	Montenegro
+Latvia	2
+0	Friendly
+in Montenegro	+8
+-8	1610
+1516	+6
+-1	52
+80
+September 07
+2012	Latvia
+Greece	1
+2	World Cup qualifier
+in Latvia	-12
++12	1504
+1777	-3
++1	82
+22
+September 11
+2012	Bosnia and Herzegovina
+Latvia	4
+1	World Cup qualifier
+in Bosnia and Herzegovina	+12
+-12	1695
+1492	+1
+-2	36
+83
+October 12
+2012	Slovakia
+Latvia	2
+1	World Cup qualifier
+in Slovakia	+10
+-10	1597
+1482	+6
+-3	55
+86
+October 16
+2012	Latvia
+Liechtenstein	2
+0	World Cup qualifier
+in Latvia	+5
+-5	1487
+1166	+2
+-1	85
+162
+February 06
+2013	Japan
+Latvia	3
+0	Friendly
+in Japan	+3
+-3	1809
+1484	0
+-3	18
+87
+March 22
+2013	Liechtenstein
+Latvia	1
+1	World Cup qualifier
+in Liechtenstein	+12
+-12	1162
+1472	+3
+-3	163
+91
+May 24
+2013	Qatar
+Latvia	3
+1	Friendly
+in Qatar	+11
+-11	1478
+1461	+3
+-3	90
+94
+May 28
+2013	Latvia
+Turkey	3
+3	Friendly
+in Germany	+5
+-5	1466
+1651	+1
+0	93
+44
+June 07
+2013	Latvia
+Bosnia and Herzegovina	0
+5	World Cup qualifier
+in Latvia	-19
++19	1447
+1782	-4
++2	95
+21
+August 14
+2013	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-3
++3	1448
+1450	-2
++1	96
+95
+September 06
+2013	Latvia
+Lithuania	2
+1	World Cup qualifier
+in Latvia	+13
+-13	1463
+1407	+4
+-2	91
+104
+September 10
+2013	Greece
+Latvia	1
+0	World Cup qualifier
+in Greece	+3
+-3	1796
+1460	-1
++1	20
+92
+October 11
+2013	Lithuania
+Latvia	2
+0	World Cup qualifier
+in Lithuania	+25
+-25	1440
+1435	+6
+-6	96
+98
+October 15
+2013	Latvia
+Slovakia	2
+2	World Cup qualifier
+in Latvia	+2
+-2	1437
+1567	+2
+-1	96
+62
+November 15
+2013	Ireland
+Latvia	3
+0	Friendly
+in Ireland	+4
+-4	1686
+1433	+3
+-2	35
+98
+March 05
+2014	Macedonia
+Latvia	2
+1	Friendly
+in Macedonia	+6
+-6	1494
+1427	+1
+-1	85
+101

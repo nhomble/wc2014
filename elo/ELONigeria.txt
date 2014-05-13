@@ -1,0 +1,4432 @@
+May 28
+1950	Gold Coast
+Nigeria	1
+0	Friendly
+in Gold Coast	+3
+-3	1703
+1497	-
+-	19
+46
+October 20
+1951	Nigeria
+Gold Coast	5
+0	Jalco_Cup
+in Nigeria	+39
+-39	1536
+1664	+5
+-3	41
+22
+October 11
+1953	Gold Coast
+Nigeria	1
+0	Jalco_Cup
+in Gold Coast	+6
+-6	1670
+1530	0
+-2	23
+44
+October 30
+1954	Nigeria
+Gold Coast	3
+0	Jalco_Cup
+in Nigeria	+30
+-30	1560
+1645	+4
+-3	39
+23
+October 30
+1955	Gold Coast
+Nigeria	7
+0	Jalco_Cup
+in Gold Coast	+17
+-17	1662
+1543	+2
+-1	22
+40
+October 27
+1956	Nigeria
+Gold Coast	3
+0	Jalco_Cup
+in Nigeria	+27
+-27	1570
+1631	+4
+-6	39
+28
+October 27
+1957	Gold Coast
+Nigeria	3
+3	Jalco_Cup
+in Gold Coast	-6
++6	1625
+1576	-1
++2	30
+41
+October 25
+1958	Nigeria
+Ghana	3
+2	Jalco_Cup
+in Nigeria	+13
+-13	1589
+1612	+1
+-4	41
+35
+October 10
+1959	Nigeria
+Ghana	3
+1	Olympic Games qualifier
+in Nigeria	+23
+-23	1612
+1589	+4
+-4	36
+40
+October 25
+1959	Ghana
+Nigeria	4
+1	Olympic Games qualifier
+in Ghana	+27
+-27	1616
+1585	+4
+-4	36
+40
+November 08
+1959	Dahomey
+Nigeria	0
+1	Nkrumah Cup
+in Dahomey	-8
++8	1292
+1593	-
++1	99
+39
+November 21
+1959	Ghana
+Nigeria	5
+2	Jalco_Cup
+in Ghana	+18
+-18	1619
+1575	+2
+-4	35
+43
+November 28
+1959	Nigeria
+Dahomey	10
+1	Nkrumah Cup
+in Nigeria	+7
+-7	1582
+1285	+3
+-2	40
+101
+1960	Egypt
+Nigeria	3
+0	Olympic Games qualifier
+in Egypt	+24
+-24	1619
+1558	+13
+-7	26
+48
+1960	Mali
+Nigeria	3
+2	Friendly
+in Mali	+9
+-9	1509
+1549	-
+-7	48
+48
+1960	Nigeria
+Egypt	2
+6	Olympic Games qualifier
+in Nigeria	-40
++40	1509
+1668	-7
++13	48
+26
+April 26
+1960	Cameroon
+Nigeria	0
+0	Friendly
+in Togo	-3
++3	1621
+1512	-1
+0	37
+51
+August 28
+1960	Ghana
+Nigeria	4
+1	World Cup qualifier
+in Ghana	+15
+-15	1655
+1497	+2
+-3	29
+54
+September 10
+1960	Nigeria
+Ghana	2
+2	World Cup qualifier
+in Nigeria	+3
+-3	1500
+1652	+1
+0	54
+29
+October 09
+1960	Nigeria
+Ghana	0
+3	Nkrumah Cup
+in Nigeria	-22
++22	1478
+1674	-6
++2	61
+27
+October 29
+1960	Nigeria
+Ghana	1
+1	Independence Cup
+in Nigeria	+5
+-5	1483
+1669	+1
+0	60
+27
+April 08
+1961	Nigeria
+Ghana	0
+0	African Nations Cup qualifier
+in Nigeria	+4
+-4	1487
+1654	+1
+-3	60
+31
+April 30
+1961	Ghana
+Nigeria	2
+2	African Nations Cup qualifier
+in Ghana	-13
++13	1641
+1500	-1
++3	31
+57
+June 01
+1961	Ghana
+Nigeria	3
+0	Friendly
+in Ghana	+8
+-8	1630
+1492	+2
+-3	32
+60
+December 17
+1961	Ghana
+Nigeria	5
+1	Friendly
+in Ghana	+8
+-8	1638
+1484	+2
+-1	29
+60
+November 10
+1962	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	+2
+-2	1486
+1648	+1
+0	62
+27
+December 08
+1962	Nigeria
+Cameroon	3
+1	Nkrumah Cup
+in Nigeria	+25
+-25	1511
+1596	+5
+-6	57
+38
+January 01
+1963	Cameroon
+Nigeria	1
+2	Nkrumah Cup
+in Cameroon	-22
++22	1574
+1533	-8
++6	47
+51
+January 27
+1963	Dahomey
+Nigeria	1
+1	Nkrumah Cup
+in Dahomey	+5
+-5	1310
+1528	0
+-2	109
+53
+February 02
+1963	Nigeria
+Dahomey	4
+1	Nkrumah Cup
+in Nigeria	+7
+-7	1535
+1303	+2
+0	51
+109
+February 23
+1963	Ghana
+Nigeria	5
+0	Nkrumah Cup
+in Ghana	+14
+-14	1662
+1521	+3
+-3	26
+54
+February 27
+1963	Nigeria
+Senegal	4
+0	Nkrumah Cup
+in Ghana	+22
+-22	1543
+1421	+4
+-7	50
+79
+April 11
+1963	Nigeria
+Niger	1
+0	Friendly tournament
+in Senegal	+6
+-6	1549
+1294	0
+-	52
+111
+April 13
+1963	Senegal
+Nigeria	5
+1	Friendly tournament
+in Senegal	+29
+-29	1467
+1520	+6
+-5	69
+57
+November 16
+1963	Nigeria
+Morocco	3
+0	Olympic Games qualifier
+in Nigeria	+36
+-36	1556
+1595	+5
+-6	52
+40
+November 24
+1963	Egypt
+Nigeria	6
+3	African Nations Cup
+in Ghana	+31
+-31	1691
+1525	+3
+-4	25
+55
+November 28
+1963	Sudan
+Nigeria	4
+0	African Nations Cup
+in Ghana	+58
+-58	1500
+1467	+14
+-18	61
+73
+March 08
+1964	Morocco
+Nigeria	4
+1	Olympic Games qualifier
+in Morocco	+15
+-15	1606
+1452	+4
+0	37
+73
+March 24
+1964	Morocco
+Nigeria	2
+1	Olympic Games qualifier
+in Egypt	+12
+-12	1618
+1440	+3
+-4	33
+77
+December 07
+1964	Togo
+Nigeria	2
+1	Friendly
+in Togo	+8
+-8	1412
+1432	+3
+-3	85
+80
+December 27
+1964	Nigeria
+Togo	1
+2	African Games qualifier
+in Nigeria	-27
++27	1405
+1439	-8
++8	88
+77
+December 29
+1964	Nigeria
+Upper Volta	6
+1	African Games qualifier
+in Nigeria	+24
+-24	1429
+1333	+5
+-4	83
+105
+January 01
+1965	Nigeria
+Niger	4
+0	African Games qualifier
+in Nigeria	+15
+-15	1444
+1266	+7
+-1	76
+122
+August 28
+1965	Gabon
+Nigeria	2
+2	Friendly
+in Gabon	-2
++2	1407
+1446	0
+0	87
+75
+August 29
+1965	Gabon
+Nigeria	1
+4	Friendly
+in Gabon	-21
++21	1386
+1467	-3
++2	90
+73
+October 30
+1965	Nigeria
+Ghana	0
+4	Azikwe Cup
+in Nigeria	-22
++22	1445
+1662	-3
++2	76
+32
+November 07
+1965	Ghana
+Nigeria	3
+0	Azikwe Cup
+in Ghana	+7
+-7	1669
+1438	0
+0	32
+76
+November 05
+1966	Nigeria
+Congo (Kinshasa)	3
+2	Friendly
+in Nigeria	+11
+-11	1449
+1548	0
+-1	76
+49
+November 25
+1966	Congo (Kinshasa)
+Nigeria	1
+0	Friendly
+in Congo (Kinshasa)	+5
+-5	1553
+1444	+1
+0	48
+76
+January 28
+1967	Nigeria
+Ghana	2
+2	Azikwe Cup
+in Nigeria	+9
+-9	1453
+1771	+1
+-1	76
+18
+February 12
+1967	Ghana
+Nigeria	2
+0	Azikwe Cup
+in Ghana	+4
+-4	1775
+1449	0
+-1	18
+77
+August 02
+1967	Nigeria
+Togo	4
+2	African Nations Cup qualifier
+in Nigeria	+20
+-20	1469
+1410	0
+-6	74
+85
+September 27
+1967	Ivory Coast
+Nigeria	2
+0	African Nations Cup qualifier
+in Ivory Coast	+8
+-8	1714
+1461	+1
+-2	25
+75
+September 28
+1967	Ghana
+Nigeria	1
+1	Friendly
+in Ghana	-8
++8	1766
+1469	-1
++2	17
+73
+October 11
+1967	Togo
+Nigeria	1
+0	African Nations Cup qualifier
+in Togo	+19
+-19	1413
+1450	0
+-2	86
+75
+October 14
+1967	Sierra Leone
+Nigeria	1
+1	Friendly
+in Sierra Leone	-3
++3	1470
+1453	-2
+0	72
+75
+October 21
+1967	Ghana
+Nigeria	2
+1	Azikwe Cup
+in Ghana	+3
+-3	1770
+1450	+2
+0	15
+75
+November 01
+1967	Nigeria
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Nigeria	+9
+-9	1459
+1705	+1
+-1	75
+25
+November 05
+1967	Nigeria
+Sudan	1
+0	Olympic Games qualifier
+in Nigeria	+21
+-21	1480
+1547	+6
+-10	69
+55
+November 19
+1967	Sudan
+Nigeria	2
+1	Olympic Games qualifier
+in Sudan	+11
+-11	1558
+1469	+6
+-4	51
+73
+December 23
+1967	Nigeria
+Ghana	2
+2	Azikwe Cup
+in Nigeria	+7
+-7	1476
+1740	+3
+0	70
+21
+January 27
+1968	Nigeria
+Sierra Leone	4
+1	Friendly
+in Nigeria	+13
+-13	1489
+1465	+3
+-4	67
+73
+April 20
+1968	Nigeria
+Ethiopia	3
+1	Olympic Games qualifier
+in Nigeria	+20
+-20	1509
+1453	+3
+-6	64
+76
+May 04
+1968	Ethiopia
+Nigeria	0
+1	Olympic Games qualifier
+in Ethiopia	-23
++23	1430
+1532	-4
++5	80
+59
+October 14
+1968	Japan
+Nigeria	3
+1	Olympic Games
+in Mexico	+48
+-48	1554
+1484	+13
+-10	53
+69
+December 07
+1968	Nigeria
+Cameroon	1
+1	World Cup qualifier
+in Nigeria	-3
++3	1481
+1532	-1
+0	71
+60
+December 22
+1968	Cameroon
+Nigeria	2
+3	World Cup qualifier
+in Cameroon	-28
++28	1504
+1509	-5
++7	65
+64
+May 10
+1969	Nigeria
+Ghana	2
+1	World Cup qualifier
+in Nigeria	+22
+-22	1531
+1618	+5
+-4	58
+38
+May 18
+1969	Ghana
+Nigeria	1
+1	World Cup qualifier
+in Ghana	-10
++10	1608
+1541	0
++1	38
+57
+September 13
+1969	Nigeria
+Sudan	2
+2	World Cup qualifier
+in Nigeria	-3
++3	1538
+1600	0
+0	57
+44
+September 21
+1969	Morocco
+Nigeria	2
+1	World Cup qualifier
+in Morocco	+10
+-10	1630
+1528	+1
+-3	37
+60
+October 03
+1969	Sudan
+Nigeria	3
+3	World Cup qualifier
+in Sudan	-9
++9	1591
+1537	-4
++2	47
+57
+November 08
+1969	Nigeria
+Morocco	2
+0	World Cup qualifier
+in Nigeria	+31
+-31	1568
+1614	+6
+-5	50
+40
+December 14
+1969	Congo (Kinshasa)
+Nigeria	5
+0	Friendly
+in Congo (Kinshasa)	+8
+-8	1714
+1560	+1
+-3	24
+54
+November 08
+1970	Nigeria
+Congo	0
+0	African Nations Cup qualifier
+in Nigeria	-10
++10	1550
+1488	0
+0	53
+68
+November 22
+1970	Congo
+Nigeria	2
+1	African Nations Cup qualifier
+in Congo	+18
+-18	1506
+1532	+6
+-5	62
+58
+February 13
+1971	Nigeria
+Sierra Leone	1
+0	Friendly
+in Nigeria	+6
+-6	1538
+1476	+1
+-2	58
+69
+April 03
+1971	Nigeria
+Senegal	1
+2	Olympic Games qualifier
+in Nigeria	-28
++28	1510
+1515	-4
++6	62
+61
+April 18
+1971	Senegal
+Nigeria	1
+1	Olympic Games qualifier
+in Senegal	-6
++6	1509
+1516	-1
++1	62
+61
+November 27
+1971	Nigeria
+Upper Volta	4
+0	Friendly
+in Nigeria	+7
+-7	1523
+1347	+3
+0	58
+99
+December 01
+1971	Guinea
+Nigeria	3
+0	Friendly
+in Guinea	+12
+-12	1544
+1511	0
+-3	55
+61
+December 04
+1971	Sierra Leone
+Nigeria	0
+1	Friendly
+in Sierra Leone	-12
++12	1464
+1523	0
++3	71
+58
+January 30
+1972	Nigeria
+Guinea	1
+1	Friendly
+in Nigeria	-2
++2	1521
+1563	-1
+0	62
+53
+February 20
+1972	Nigeria
+Morocco	3
+0	Friendly
+in Nigeria	+23
+-23	1544
+1702	+5
+-4	57
+29
+August 05
+1972	Nigeria
+Congo	2
+1	World Cup qualifier
+in Nigeria	+19
+-19	1563
+1603	+4
+-4	52
+41
+August 15
+1972	Congo
+Nigeria	1
+1	World Cup qualifier
+in Congo	-8
++8	1595
+1571	-3
++2	45
+51
+January 08
+1973	Nigeria
+Ghana	4
+2	African Games
+in Nigeria	+25
+-25	1596
+1589	+5
+-8	44
+47
+January 10
+1973	Nigeria
+Algeria	2
+2	African Games
+in Nigeria	-7
++7	1589
+1581	-2
++1	46
+48
+January 12
+1973	Nigeria
+Tanzania	2
+1	African Games
+in Nigeria	+4
+-4	1593
+1309	+2
+-1	44
+112
+January 14
+1973	Nigeria
+Egypt	4
+2	African Games
+in Nigeria	+28
+-28	1621
+1641	+5
+-4	39
+35
+January 17
+1973	Nigeria
+Guinea	2
+0	African Games
+in Nigeria	+28
+-28	1649
+1670	+3
+-3	36
+30
+February 10
+1973	Nigeria
+Ghana	2
+3	World Cup qualifier
+in Nigeria	-29
++29	1620
+1619	-3
++5	39
+40
+February 25
+1973	Ghana
+Nigeria	0
+0	World Cup qualifier
+in Ghana	-6
++6	1613
+1626	-1
+0	41
+39
+September 16
+1973	Sudan
+Nigeria	1
+1	African Nations Cup qualifier
+in Sudan	0
+0	1520
+1626	-1
+0	61
+38
+September 30
+1973	Nigeria
+Sudan	2
+1	African Nations Cup qualifier
+in Nigeria	+9
+-9	1635
+1511	0
+0	37
+61
+October 28
+1973	Zambia
+Nigeria	5
+1	African Nations Cup qualifier
+in Zambia	+35
+-35	1590
+1600	+9
+-4	46
+41
+November 11
+1973	Nigeria
+Zambia	3
+2	African Nations Cup qualifier
+in Nigeria	+12
+-12	1612
+1544	+3
+-3	38
+57
+1975	Morocco
+Nigeria	1
+0	Olympic Games qualifier
+in Morocco	+10
+-10	1719
+1602	-3
++3	29
+39
+1975	Nigeria
+Morocco	3
+1	Olympic Games qualifier
+in Nigeria	+31
+-31	1633
+1688	+3
+-3	39
+29
+October 26
+1975	Congo
+Nigeria	0
+1	African Nations Cup qualifier
+in Congo	-20
++20	1518
+1653	-3
++7	63
+31
+November 09
+1975	Nigeria
+Congo	2
+1	African Nations Cup qualifier
+in Nigeria	+8
+-8	1661
+1510	-1
++1	32
+62
+March 01
+1976	Nigeria
+Zaire	4
+2	African Nations Cup
+in Ethiopia	+37
+-37	1698
+1623	+5
+-8	27
+41
+March 04
+1976	Nigeria
+Sudan	1
+0	African Nations Cup
+in Ethiopia	+15
+-15	1713
+1531	+1
+0	26
+59
+March 06
+1976	Morocco
+Nigeria	3
+1	African Nations Cup
+in Ethiopia	+41
+-41	1720
+1672	+5
+-5	25
+31
+March 09
+1976	Guinea
+Nigeria	1
+1	African Nations Cup
+in Ethiopia	+1
+-1	1659
+1671	0
+0	33
+31
+March 11
+1976	Morocco
+Nigeria	2
+1	African Nations Cup
+in Ethiopia	+20
+-20	1760
+1651	+2
+-3	21
+34
+March 14
+1976	Nigeria
+Egypt	3
+2	African Nations Cup
+in Ethiopia	+21
+-21	1672
+1578	+2
+-1	32
+45
+October 16
+1976	Sierra Leone
+Nigeria	0
+0	World Cup qualifier
+in Sierra Leone	+9
+-9	1408
+1663	+4
+-1	82
+33
+October 30
+1976	Nigeria
+Sierra Leone	6
+2	World Cup qualifier
+in Nigeria	+9
+-9	1672
+1399	+1
+-4	32
+86
+July 10
+1977	Nigeria
+Ivory Coast	4
+0	World Cup qualifier
+in Nigeria	+21
+-21	1693
+1588	+4
+-4	29
+48
+July 24
+1977	Ivory Coast
+Nigeria	2
+2	World Cup qualifier
+in Ivory Coast	0
+0	1588
+1693	0
+0	48
+29
+September 18
+1977	Sierra Leone
+Nigeria	1
+1	African Nations Cup qualifier
+in Sierra Leone	+10
+-10	1409
+1683	+2
+-1	87
+32
+September 25
+1977	Tunisia
+Nigeria	0
+0	World Cup qualifier
+in Tunisia	-4
++4	1656
+1687	-1
++1	37
+31
+October 02
+1977	Nigeria
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1693
+1403	0
+-2	31
+88
+October 08
+1977	Nigeria
+Egypt	4
+0	World Cup qualifier
+in Nigeria	+19
+-19	1712
+1581	+3
+-3	28
+48
+October 21
+1977	Egypt
+Nigeria	3
+1	World Cup qualifier
+in Egypt	+33
+-33	1614
+1679	+6
+-3	42
+34
+October 30
+1977	Senegal
+Nigeria	3
+1	African Nations Cup qualifier
+in Senegal	+34
+-34	1562
+1645	+4
+-3	54
+37
+November 12
+1977	Nigeria
+Tunisia	0
+1	World Cup qualifier
+in Nigeria	-24
++24	1621
+1705	-3
+0	40
+31
+November 13
+1977	Nigeria
+Senegal	3
+0	African Nations Cup qualifier
+in Nigeria	+20
+-20	1641
+1542	+3
+-3	37
+57
+March 05
+1978	Nigeria
+Upper Volta	4
+2	African Nations Cup
+in Ghana	+9
+-9	1650
+1282	+1
+-2	37
+121
+March 08
+1978	Ghana
+Nigeria	1
+1	African Nations Cup
+in Ghana	-6
++6	1622
+1656	0
+0	40
+37
+March 10
+1978	Nigeria
+Zambia	0
+0	African Nations Cup
+in Ghana	-8
++8	1648
+1551	0
+0	37
+57
+March 14
+1978	Uganda
+Nigeria	2
+1	African Nations Cup
+in Ghana	+29
+-29	1622
+1619	+6
+-4	40
+41
+March 17
+1978	Nigeria
+Tunisia	1
+1	African Nations Cup
+in Ghana	+5
+-5	1624
+1689	+1
+-2	40
+30
+July 14
+1978	Cameroon
+Nigeria	0
+0	African Games
+in Algeria	+3
+-3	1580
+1621	0
+0	50
+39
+July 17
+1978	Nigeria
+Mali	3
+1	African Games
+in Algeria	+26
+-26	1647
+1546	+1
+-5	38
+58
+July 20
+1978	Ghana
+Nigeria	0
+0	African Games
+in Algeria	-1
++1	1664
+1648	-1
+0	36
+38
+July 25
+1978	Nigeria
+Malawi	3
+2	African Games
+in Algeria	+5
+-5	1653
+1309	+1
+-4	37
+112
+July 28
+1978	Algeria
+Nigeria	1
+0	African Games
+in Algeria	+19
+-19	1581
+1634	+4
+-2	50
+39
+January 26
+1980	Nigeria
+Liberia	1
+0	Friendly
+in Nigeria	+1
+-1	1635
+1279	0
+0	37
+123
+February 02
+1980	Nigeria
+Cameroon	0
+0	Friendly
+in Nigeria	-4
++4	1631
+1580	-2
+0	39
+54
+March 08
+1980	Nigeria
+Tanzania	3
+1	African Nations Cup
+in Nigeria	+10
+-10	1641
+1402	+2
+-5	38
+88
+March 12
+1980	Nigeria
+Ivory Coast	0
+0	African Nations Cup
+in Nigeria	-12
++12	1629
+1578	-2
++2	40
+54
+March 15
+1980	Nigeria
+Egypt	1
+0	African Nations Cup
+in Nigeria	+18
+-18	1647
+1608	+2
+-4	38
+47
+March 19
+1980	Nigeria
+Morocco	1
+0	African Nations Cup
+in Nigeria	+17
+-17	1664
+1611	+4
+-4	33
+47
+March 22
+1980	Nigeria
+Algeria	3
+0	African Nations Cup
+in Nigeria	+28
+-28	1692
+1609	+4
+-7	29
+47
+June 29
+1980	Tunisia
+Nigeria	2
+0	World Cup qualifier
+in Tunisia	+21
+-21	1723
+1671	+1
+-3	26
+33
+July 12
+1980	Nigeria
+Tunisia	2
+0	World Cup qualifier
+in Nigeria	+26
+-26	1697
+1697	+5
+-2	28
+28
+December 06
+1980	Nigeria
+Tanzania	1
+1	World Cup qualifier
+in Nigeria	-16
++16	1681
+1433	-1
++2	30
+83
+December 20
+1980	Tanzania
+Nigeria	0
+2	World Cup qualifier
+in Tanzania	-18
++18	1415
+1699	-2
++2	85
+28
+April 04
+1981	Nigeria
+Angola	0
+0	Friendly
+in Nigeria	-7
++7	1692
+1510	0
++1	28
+64
+April 12
+1981	Guinea
+Nigeria	1
+1	World Cup qualifier
+in Guinea	+1
+-1	1578
+1691	0
+-1	50
+29
+April 25
+1981	Nigeria
+Guinea	1
+0	World Cup qualifier
+in Nigeria	+9
+-9	1700
+1569	+1
+-4	29
+54
+July 18
+1981	Nigeria
+Upper Volta	1
+0	Friendly
+in Nigeria	+1
+-1	1701
+1260	0
+0	28
+128
+July 28
+1981	Zambia
+Nigeria	3
+0	Friendly
+in Zambia	+19
+-19	1599
+1682	+5
+-3	46
+31
+August 01
+1981	Zimbabwe
+Nigeria	2
+0	Friendly
+in Zimbabwe	+18
+-18	1521
+1664	+4
+-2	63
+33
+August 03
+1981	Kenya
+Nigeria	1
+3	Friendly
+in Kenya	-7
++7	1344
+1671	-3
++3	106
+31
+August 12
+1981	Norway
+Nigeria	2
+2	Friendly
+in Norway	+3
+-3	1464
+1668	+1
+-1	76
+32
+August 22
+1981	Iceland
+Nigeria	3
+0	Friendly
+in Iceland	+27
+-27	1393
+1641	+4
+-6	91
+38
+September 26
+1981	Nigeria
+Uganda	0
+1	Friendly
+in Nigeria	-17
++17	1624
+1421	-1
++5	40
+84
+October 10
+1981	Nigeria
+Algeria	0
+2	World Cup qualifier
+in Nigeria	-41
++41	1583
+1628	-10
++9	50
+41
+October 30
+1981	Algeria
+Nigeria	2
+1	World Cup qualifier
+in Algeria	+12
+-12	1640
+1571	0
+-2	39
+52
+March 07
+1982	Nigeria
+Ethiopia	3
+0	African Nations Cup
+in Libya	+19
+-19	1590
+1327	+6
+-5	47
+108
+March 10
+1982	Algeria
+Nigeria	2
+1	African Nations Cup
+in Libya	+19
+-19	1693
+1571	+1
+-6	31
+53
+March 13
+1982	Zambia
+Nigeria	3
+0	African Nations Cup
+in Libya	+44
+-44	1616
+1527	+11
+-9	41
+62
+February 18
+1983	Nigeria
+Egypt	0
+0	Friendly
+in Nigeria	-1
++1	1526
+1601	0
+0	59
+44
+February 20
+1983	Nigeria
+Egypt	1
+1	Friendly
+in Nigeria	-1
++1	1525
+1602	0
+0	59
+44
+March 02
+1983	Gabon
+Nigeria	0
+0	Friendly
+in Gabon	+1
+-1	1376
+1524	+1
+-1	93
+62
+April 10
+1983	Nigeria
+Angola	2
+0	African Nations Cup qualifier
+in Nigeria	+18
+-18	1542
+1455	+4
+-6	59
+81
+April 24
+1983	Angola
+Nigeria	1
+0	African Nations Cup qualifier
+in Angola	+19
+-19	1474
+1523	+6
+-3	75
+62
+April 29
+1983	Ethiopia
+Nigeria	0
+1	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	-12
++12	1330
+1535	-1
++2	105
+60
+May 01
+1983	Ghana
+Nigeria	1
+0	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	+7
+-7	1733
+1528	+2
++1	23
+59
+June 05
+1983	Nigeria
+Thailand	0
+0	Presidents Cup
+in South Korea	-6
++6	1522
+1420	-2
+0	61
+88
+June 07
+1983	United States
+Nigeria	1
+1	Friendly
+in the United States	-2
++2	1498
+1524	-2
+0	72
+61
+June 08
+1983	South Korea
+Nigeria	0
+0	Presidents Cup
+in South Korea	-8
++8	1562
+1532	-1
++2	51
+59
+June 09
+1983	Nigeria
+Indonesia	2
+1	Friendly
+in South Korea	+3
+-3	1535
+1224	+1
+0	58
+137
+August 14
+1983	Nigeria
+Morocco	0
+0	African Nations Cup qualifier
+in Nigeria	-5
++5	1530
+1556	-3
++1	61
+55
+August 28
+1983	Morocco
+Nigeria	0
+0	African Nations Cup qualifier
+in Morocco	-7
++7	1549
+1537	-1
++4	56
+57
+November 15
+1983	Nigeria
+Senegal	1
+0	Cedeao Tournament
+in Nigeria	+16
+-16	1553
+1545	+3
+-5	55
+57
+November 19
+1983	Senegal
+Nigeria	0
+1	Cedeao Tournament
+in Senegal	-25
++25	1520
+1578	-4
++5	61
+50
+December 16
+1983	Togo
+Nigeria	5
+2	Cedeao Tournament
+in Ivory Coast	+43
+-43	1540
+1535	+11
+-10	58
+60
+December 18
+1983	Mali
+Nigeria	0
+0	Cedeao Tournament
+in Ivory Coast	+2
+-2	1500
+1533	0
+0	69
+60
+March 05
+1984	Nigeria
+Ghana	2
+1	African Nations Cup
+in Ivory Coast	+37
+-37	1570
+1680	+9
+-3	52
+34
+March 08
+1984	Malawi
+Nigeria	2
+2	African Nations Cup
+in Ivory Coast	+8
+-8	1459
+1562	+1
+-3	80
+56
+March 11
+1984	Algeria
+Nigeria	0
+0	African Nations Cup
+in Ivory Coast	-10
++10	1703
+1572	-1
++4	32
+51
+March 14
+1984	Egypt
+Nigeria	2
+2	African Nations Cup
+in Ivory Coast	-5
++5	1638
+1577	-1
++1	39
+50
+March 18
+1984	Cameroon
+Nigeria	3
+1	African Nations Cup
+in Ivory Coast	+30
+-30	1675
+1547	+3
+-9	35
+59
+June 23
+1984	Canada
+Nigeria	3
+1	Friendly tournament
+in China	+28
+-28	1496
+1519	+11
+-4	69
+62
+September 26
+1984	Tunisia
+Nigeria	5
+0	Friendly
+in Tunisia	+9
+-9	1638
+1510	0
+-2	39
+64
+October 20
+1984	Nigeria
+Liberia	3
+0	World Cup qualifier
+in Nigeria	+8
+-8	1518
+1255	+2
+-3	62
+134
+November 04
+1984	Liberia
+Nigeria	0
+1	World Cup qualifier
+in Liberia	-11
++11	1244
+1529	-2
+0	136
+60
+April 06
+1985	Kenya
+Nigeria	0
+3	World Cup qualifier
+in Kenya	-33
++33	1380
+1562	-5
++1	94
+61
+April 20
+1985	Nigeria
+Kenya	3
+1	World Cup qualifier
+in Nigeria	+10
+-10	1572
+1370	+4
+-4	54
+98
+June 16
+1985	Nigeria
+Ivory Coast	0
+0	Friendly
+in Nigeria	-2
++2	1570
+1591	-1
+0	54
+49
+June 19
+1985	Nigeria
+Ivory Coast	2
+0	Friendly
+in Nigeria	+12
+-12	1582
+1579	+4
+-3	50
+52
+June 23
+1985	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-3
++3	1576
+1585	-1
+0	53
+50
+June 26
+1985	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-3
++3	1573
+1588	0
++1	53
+49
+July 06
+1985	Nigeria
+Tunisia	1
+0	World Cup qualifier
+in Nigeria	+16
+-16	1604
+1605	+3
+-2	46
+45
+July 20
+1985	Tunisia
+Nigeria	2
+0	World Cup qualifier
+in Tunisia	+22
+-22	1627
+1582	+1
+-6	43
+51
+August 10
+1985	Nigeria
+Zambia	0
+0	African Nations Cup qualifier
+in Nigeria	-4
++4	1578
+1619	-1
+0	51
+42
+August 18
+1985	Zambia
+Nigeria	1
+0	African Nations Cup qualifier
+in Zambia	+12
+-12	1631
+1566	0
+-4	42
+56
+July 27
+1986	Nigeria
+Togo	2
+2	Friendly tournament
+in Liberia	-4
++4	1562
+1481	-1
++5	58
+72
+July 29
+1986	Ghana
+Nigeria	2
+0	Friendly tournament
+in Liberia	+21
+-21	1599
+1541	+10
+-3	45
+61
+January 03
+1987	Nigeria
+Ivory Coast	0
+0	African Games qualifier
+in Nigeria	0
+0	1541
+1639	0
+0	61
+40
+January 18
+1987	Ivory Coast
+Nigeria	1
+0	African Games qualifier
+in Ivory Coast	+10
+-10	1649
+1531	+2
+-1	39
+61
+January 30
+1987	Liberia
+Nigeria	2
+0	West African Nations Cup
+in Liberia	+44
+-44	1298
+1487	+10
+-10	118
+71
+February 01
+1987	Benin
+Nigeria	1
+1	West African Nations Cup
+in Liberia	+11
+-11	1278
+1476	+1
+-5	121
+76
+February 03
+1987	Nigeria
+Burkina Faso	3
+0	West African Nations Cup
+in Liberia	+15
+-15	1491
+1238	+5
+-5	72
+133
+February 06
+1987	Ghana
+Nigeria	3
+1	West African Nations Cup
+in Liberia	+16
+-16	1676
+1475	+3
+-6	35
+77
+February 08
+1987	Nigeria
+Togo	3
+1	West African Nations Cup
+in Liberia	+26
+-26	1501
+1405	+8
+-4	69
+88
+March 28
+1987	Nigeria
+Togo	2
+0	African Nations Cup qualifier
+in Nigeria	+15
+-15	1516
+1390	+3
+-4	66
+92
+April 12
+1987	Togo
+Nigeria	1
+1	African Nations Cup qualifier
+in Togo	+1
+-1	1391
+1515	-1
+0	93
+64
+July 04
+1987	Nigeria
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Nigeria	+24
+-24	1539
+1479	+4
+-3	60
+75
+July 18
+1987	Sierra Leone
+Nigeria	2
+0	African Nations Cup qualifier
+in Sierra Leone	+27
+-27	1506
+1512	+3
+-6	72
+66
+November 22
+1987	Burkina Faso
+Nigeria	0
+0	Friendly
+in Burkina Faso	+4
+-4	1268
+1508	+1
+-1	122
+68
+March 14
+1988	Kenya
+Nigeria	0
+3	African Nations Cup
+in Morocco	-31
++31	1371
+1539	-5
++8	97
+60
+March 17
+1988	Cameroon
+Nigeria	1
+1	African Nations Cup
+in Morocco	-10
++10	1671
+1549	-1
+0	35
+60
+March 20
+1988	Egypt
+Nigeria	0
+0	African Nations Cup
+in Morocco	-9
++9	1668
+1558	0
++2	34
+58
+March 23
+1988	Algeria
+Nigeria	1
+1	African Nations Cup
+in Morocco	-8
++8	1658
+1566	-3
++4	38
+54
+March 27
+1988	Cameroon
+Nigeria	1
+0	African Nations Cup
+in Morocco	+17
+-17	1704
+1549	+1
+-6	32
+60
+January 07
+1989	Nigeria
+Gabon	1
+0	World Cup qualifier
+in Nigeria	+10
+-10	1559
+1445	+1
+-2	55
+82
+January 22
+1989	Angola
+Nigeria	2
+2	World Cup qualifier
+in Angola	-2
++2	1497
+1561	0
++3	68
+52
+April 15
+1989	Guinea
+Nigeria	1
+1	African Nations Cup qualifier
+in Guinea	0
+0	1454
+1561	0
+0	80
+55
+April 22
+1989	Nigeria
+Guinea	3
+0	African Nations Cup qualifier
+in Nigeria	+16
+-16	1577
+1438	+4
+-8	51
+86
+June 10
+1989	Nigeria
+Cameroon	2
+0	World Cup qualifier
+in Nigeria	+29
+-29	1606
+1639	+5
+-6	45
+38
+June 25
+1989	Gabon
+Nigeria	2
+1	World Cup qualifier
+in Gabon	+25
+-25	1434
+1581	+4
+-5	87
+49
+July 16
+1989	Nigeria
+Zimbabwe	3
+0	African Nations Cup qualifier
+in Nigeria	+19
+-19	1600
+1488	+3
+-3	46
+71
+July 30
+1989	Zimbabwe
+Nigeria	1
+1	African Nations Cup qualifier
+in Zimbabwe	+1
+-1	1489
+1599	0
+0	71
+46
+August 12
+1989	Nigeria
+Angola	1
+0	World Cup qualifier
+in Nigeria	+8
+-8	1607
+1454	+2
+-1	44
+79
+August 27
+1989	Cameroon
+Nigeria	1
+0	World Cup qualifier
+in Cameroon	+12
+-12	1674
+1595	+3
+-2	32
+44
+January 25
+1990	Nigeria
+Ivory Coast	2
+0	Cedeao Tournament
+in Nigeria	+28
+-28	1623
+1645	+4
+-2	41
+36
+January 28
+1990	Nigeria
+Senegal	1
+1	Cedeao Tournament
+in Nigeria	-8
++8	1615
+1581	0
+0	41
+48
+March 02
+1990	Algeria
+Nigeria	5
+1	African Nations Cup
+in Algeria	+28
+-28	1692
+1587	+5
+-4	29
+47
+March 05
+1990	Egypt
+Nigeria	0
+1	African Nations Cup
+in Algeria	-28
++28	1603
+1615	-7
++7	45
+40
+March 08
+1990	Ivory Coast
+Nigeria	0
+1	African Nations Cup
+in Algeria	-28
++28	1626
+1643	-4
++5	38
+35
+March 12
+1990	Nigeria
+Zambia	2
+0	African Nations Cup
+in Algeria	+30
+-30	1673
+1541	+1
+-9	34
+58
+March 16
+1990	Algeria
+Nigeria	1
+0	African Nations Cup
+in Algeria	+13
+-13	1763
+1660	+2
+0	21
+34
+August 18
+1990	Nigeria
+Togo	3
+0	African Nations Cup qualifier
+in Nigeria	+8
+-8	1668
+1396	0
+-4	35
+98
+September 01
+1990	Ghana
+Nigeria	1
+0	African Nations Cup qualifier
+in Ghana	+26
+-26	1486
+1642	+6
+-4	71
+39
+September 30
+1990	Benin
+Nigeria	0
+1	African Nations Cup qualifier
+in Benin	-6
++6	1219
+1648	-1
++1	141
+36
+January 13
+1991	Burkina Faso
+Nigeria	1
+1	African Nations Cup qualifier
+in Burkina Faso	+7
+-7	1423
+1641	+2
+0	85
+35
+January 27
+1991	Togo
+Nigeria	0
+0	African Nations Cup qualifier
+in Togo	+10
+-10	1364
+1631	+4
+-2	101
+37
+April 13
+1991	Nigeria
+Ghana	0
+0	African Nations Cup qualifier
+in Nigeria	-11
++11	1620
+1539	-3
++4	39
+57
+April 27
+1991	Nigeria
+Benin	3
+0	African Nations Cup qualifier
+in Nigeria	+4
+-4	1624
+1214	+3
+-1	36
+138
+July 27
+1991	Nigeria
+Burkina Faso	7
+1	African Nations Cup qualifier
+in Nigeria	+13
+-13	1637
+1417	+2
+-5	38
+89
+October 31
+1991	Ivory Coast
+Nigeria	2
+0	Cedeao Tournament
+in Ivory Coast	+20
+-20	1675
+1617	+3
+-6	33
+45
+November 02
+1991	Ghana
+Nigeria	1
+0	Cedeao Tournament
+in Ivory Coast	+26
+-26	1528
+1591	+5
+-1	60
+46
+January 12
+1992	Senegal
+Nigeria	1
+2	African Nations Cup
+in Senegal	-31
++31	1543
+1622	-6
++5	56
+43
+January 14
+1992	Nigeria
+Kenya	2
+1	African Nations Cup
+in Senegal	+15
+-15	1637
+1454	+3
+-3	40
+77
+January 19
+1992	Nigeria
+Zaire	1
+0	African Nations Cup
+in Senegal	+19
+-19	1656
+1532	+2
+-3	36
+59
+January 23
+1992	Ghana
+Nigeria	2
+1	African Nations Cup
+in Senegal	+28
+-28	1642
+1628	+7
+-5	38
+41
+January 25
+1992	Nigeria
+Cameroon	2
+1	African Nations Cup
+in Senegal	+30
+-30	1658
+1664	+5
+-4	36
+35
+February 22
+1992	Tunisia
+Nigeria	1
+1	Friendly
+in Tunisia	+2
+-2	1504
+1656	+1
+0	66
+37
+August 16
+1992	Sudan
+Nigeria	0
+0	African Nations Cup qualifier
+in Sudan	+10
+-10	1379
+1646	+2
+-1	105
+37
+August 30
+1992	Nigeria
+Uganda	2
+0	African Nations Cup qualifier
+in Nigeria	+12
+-12	1658
+1491	+2
+-3	35
+71
+October 10
+1992	Nigeria
+South Africa	4
+0	World Cup qualifier
+in Nigeria	+31
+-31	1689
+1666	+4
+-2	31
+33
+December 20
+1992	Congo
+Nigeria	0
+1	World Cup qualifier
+in Congo	-15
++15	1478
+1704	-4
++1	79
+29
+January 17
+1993	South Africa
+Nigeria	0
+0	World Cup qualifier
+in South Africa	-4
++4	1670
+1708	-1
+0	34
+29
+February 27
+1993	Nigeria
+Congo	2
+0	World Cup qualifier
+in Nigeria	+7
+-7	1715
+1456	+1
+-2	28
+86
+April 10
+1993	Ethiopia
+Nigeria	1
+0	African Nations Cup qualifier
+in Ethiopia	+34
+-34	1362
+1681	+10
+-2	106
+31
+April 24
+1993	Nigeria
+Sudan	4
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1687
+1352	0
+-4	31
+109
+May 02
+1993	Ivory Coast
+Nigeria	2
+1	World Cup qualifier
+in Ivory Coast	+18
+-18	1638
+1669	+8
+0	38
+31
+July 03
+1993	Nigeria
+Algeria	4
+1	World Cup qualifier
+in Nigeria	+22
+-22	1691
+1611	+3
+-5	30
+44
+July 17
+1993	Uganda
+Nigeria	0
+0	African Nations Cup qualifier
+in Uganda	+5
+-5	1507
+1686	0
+0	74
+30
+July 24
+1993	Nigeria
+Ethiopia	6
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1692
+1340	0
+-1	30
+116
+September 25
+1993	Nigeria
+Ivory Coast	4
+1	World Cup qualifier
+in Nigeria	+22
+-22	1714
+1631	+3
+-8	27
+42
+October 08
+1993	Algeria
+Nigeria	1
+1	World Cup qualifier
+in Algeria	0
+0	1621
+1714	0
+0	44
+27
+January 11
+1994	Thailand
+Nigeria	1
+1	King's Cup
+in Thailand	+8
+-8	1419
+1706	0
+0	100
+28
+March 09
+1994	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	-5
++5	1701
+1611	0
++3	28
+46
+March 26
+1994	Nigeria
+Gabon	3
+0	African Nations Cup
+in Tunisia	+16
+-16	1717
+1425	+1
+-5	27
+94
+March 30
+1994	Nigeria
+Egypt	0
+0	African Nations Cup
+in Tunisia	-3
++3	1714
+1679	0
+0	28
+31
+April 02
+1994	Nigeria
+Zaire	2
+0	African Nations Cup
+in Tunisia	+18
+-18	1732
+1497	+3
+-5	25
+75
+April 06
+1994	Nigeria
+Ivory Coast	2
+2	African Nations Cup
+in Tunisia	-6
++6	1726
+1658	-1
++1	26
+36
+April 10
+1994	Nigeria
+Zambia	2
+1	African Nations Cup
+in Tunisia	+25
+-25	1751
+1697	+1
+-2	25
+29
+April 17
+1994	Colombia
+Nigeria	1
+0	Friendly
+in Colombia	+4
+-4	1893
+1747	+1
+-1	5
+25
+May 05
+1994	Sweden
+Nigeria	3
+1	Friendly
+in Sweden	+7
+-7	1873
+1740	0
+-2	9
+26
+May 25
+1994	Romania
+Nigeria	2
+0	Friendly
+in Romania	+9
+-9	1790
+1731	0
+-1	21
+27
+June 11
+1994	Nigeria
+Georgia	5
+1	Friendly
+in Nigeria	+5
+-5	1736
+1488	0
+-1	26
+78
+June 21
+1994	Nigeria
+Bulgaria	3
+0	World Cup
+in the United States	+53
+-53	1789
+1685	+4
+-4	22
+29
+June 25
+1994	Argentina
+Nigeria	2
+1	World Cup
+in the United States	+20
+-20	1924
+1769	+1
+0	4
+22
+June 30
+1994	Nigeria
+Greece	2
+0	World Cup
+in the United States	+23
+-23	1792
+1556	0
+-3	23
+55
+July 05
+1994	Italy
+Nigeria	2
+1	World Cup
+in the United States	+19
+-19	1942
+1773	0
+-3	4
+24
+October 09
+1994	Senegal
+Nigeria	3
+1	Friendly
+in Senegal	+24
+-24	1451
+1749	+9
+-2	87
+26
+November 16
+1994	England
+Nigeria	1
+0	Friendly
+in England	+5
+-5	1855
+1744	0
++1	12
+26
+January 06
+1995	Nigeria
+Japan	3
+0	Intercontinental Cup
+in Saudi Arabia	+25
+-25	1769
+1560	0
+-7	24
+56
+January 10
+1995	Nigeria
+Argentina	0
+0	Intercontinental Cup
+in Saudi Arabia	+7
+-7	1776
+1865	+1
+-1	23
+10
+January 13
+1995	Mexico
+Nigeria	1
+1	Intercontinental Cup
+in Saudi Arabia	-7
++7	1864
+1783	0
+0	9
+23
+June 11
+1995	United States
+Nigeria	3
+2	US Cup
+in the United States	+19
+-19	1601
+1764	+5
+-2	44
+25
+June 17
+1995	Colombia
+Nigeria	1
+0	US Cup
+in the United States	+11
+-11	1863
+1753	+2
+0	8
+25
+June 24
+1995	Mexico
+Nigeria	2
+1	US Cup
+in the United States	+12
+-12	1832
+1741	+2
+-1	15
+26
+October 21
+1995	Uzbekistan
+Nigeria	2
+3	Afro-Asian Championship
+in Uzbekistan	-27
++27	1646
+1768	-3
++2	35
+23
+November 10
+1995	Nigeria
+Uzbekistan	1
+0	Afro-Asian Championship
+in Nigeria	+11
+-11	1779
+1635	0
+-3	23
+38
+June 09
+1996	Nigeria
+Togo	1
+3	Friendly
+in Nigeria	-29
++29	1750
+1359	-3
++7	24
+116
+November 09
+1996	Nigeria
+Burkina Faso	2
+0	World Cup qualifier
+in Nigeria	+4
+-4	1754
+1385	0
+-3	24
+108
+December 11
+1996	Czechia
+Nigeria	2
+1	King Hassan Cup
+in Morocco	+10
+-10	1887
+1744	0
+-1	10
+26
+December 12
+1996	Morocco
+Nigeria	2
+0	King Hassan Cup
+in Morocco	+23
+-23	1662
+1721	+2
+-2	35
+28
+January 12
+1997	Kenya
+Nigeria	1
+1	World Cup qualifier
+in Kenya	+12
+-12	1390
+1709	+9
+-1	104
+28
+April 05
+1997	Nigeria
+Guinea	2
+1	World Cup qualifier
+in Nigeria	+5
+-5	1714
+1448	0
+-2	26
+90
+April 27
+1997	Burkina Faso
+Nigeria	1
+2	World Cup qualifier
+in Burkina Faso	-7
++7	1335
+1721	-1
+0	119
+25
+June 07
+1997	Nigeria
+Kenya	3
+0	World Cup qualifier
+in Nigeria	+7
+-7	1728
+1429	0
+-4	25
+95
+August 07
+1997	Nigeria
+Cameroon	1
+0	Friendly tournament
+in Tunisia	+9
+-9	1737
+1558	+2
+-1	25
+61
+August 09
+1997	Tunisia
+Nigeria	2
+0	Friendly tournament
+in Tunisia	+22
+-22	1672
+1715	+2
+-3	36
+28
+August 17
+1997	Guinea
+Nigeria	1
+0	World Cup qualifier
+in Guinea	+29
+-29	1470
+1686	+11
+-4	81
+32
+December 15
+1997	Zambia
+Nigeria	2
+0	Friendly
+in Zambia	+13
+-13	1637
+1673	+2
+-3	44
+38
+December 17
+1997	Zambia
+Nigeria	0
+0	Friendly
+in Zambia	-2
++2	1635
+1675	0
++3	44
+35
+January 28
+1998	Nigeria
+Iran	1
+0	Carlsberg Cup
+in Hong Kong	+15
+-15	1690
+1656	+1
+-2	34
+39
+February 22
+1998	Jamaica
+Nigeria	2
+2	Friendly
+in Jamaica	-2
++2	1658
+1692	-2
+0	41
+34
+April 22
+1998	Germany
+Nigeria	1
+0	Friendly
+in Germany	+2
+-2	2027
+1690	0
+0	2
+34
+May 29
+1998	Yugoslavia
+Nigeria	3
+0	Friendly
+in Yugoslavia	+4
+-4	1935
+1686	0
+0	7
+34
+June 05
+1998	Netherlands
+Nigeria	5
+1	Friendly
+in the Netherlands	+5
+-5	1926
+1681	0
+-1	8
+35
+June 13
+1998	Nigeria
+Spain	3
+2	World Cup
+in France	+52
+-52	1733
+1948	+7
+-1	27
+4
+June 19
+1998	Nigeria
+Bulgaria	1
+0	World Cup
+in France	+33
+-33	1766
+1730	+4
+-5	21
+27
+June 24
+1998	Paraguay
+Nigeria	3
+1	World Cup
+in France	+50
+-50	1781
+1716	+6
+-5	21
+27
+June 28
+1998	Denmark
+Nigeria	4
+1	World Cup
+in France	+38
+-38	1853
+1678	+3
+-7	13
+33
+October 04
+1998	Burkina Faso
+Nigeria	0
+0	African Nations Cup qualifier
+in Burkina Faso	+9
+-9	1408
+1669	+4
+-3	100
+37
+January 23
+1999	Nigeria
+Burundi	2
+0	African Nations Cup qualifier
+in Nigeria	+10
+-10	1679
+1469	+3
+-2	36
+81
+February 28
+1999	Senegal
+Nigeria	1
+1	African Nations Cup qualifier
+in Senegal	+7
+-7	1459
+1672	+2
+-1	83
+39
+August 17
+1999	Mozambique
+Nigeria	0
+1	Friendly
+in Mozambique	-3
++3	1277
+1675	0
++2	133
+35
+August 28
+1999	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	-5
++5	1670
+1575	-1
+0	37
+58
+November 13
+1999	Greece
+Nigeria	2
+0	Friendly
+in Greece	+10
+-10	1706
+1660	+3
+0	30
+39
+November 21
+1999	Gabon
+Nigeria	0
+2	Friendly
+in Gabon	-12
++12	1474
+1672	-4
++1	82
+39
+January 23
+2000	Nigeria
+Tunisia	4
+2	African Nations Cup
+in Nigeria	+24
+-24	1696
+1615	+6
+-6	33
+50
+January 28
+2000	Nigeria
+Congo	0
+0	African Nations Cup
+in Nigeria	-20
++20	1676
+1432	-6
++4	39
+95
+February 03
+2000	Nigeria
+Morocco	2
+0	African Nations Cup
+in Nigeria	+37
+-37	1713
+1732	+12
+-4	27
+25
+February 07
+2000	Nigeria
+Senegal	2
+1	African Nations Cup
+in Nigeria	+9
+-9	1722
+1533	0
+-1	27
+66
+February 10
+2000	Nigeria
+South Africa	2
+0	African Nations Cup
+in Nigeria	+25
+-25	1747
+1674	+4
+-8	23
+40
+February 13
+2000	Nigeria
+Cameroon	2
+2	African Nations Cup
+in Nigeria	-12
++12	1735
+1673	-1
++3	24
+40
+April 09
+2000	Eritrea
+Nigeria	0
+0	World Cup qualifier
+in Eritrea	+17
+-17	1184
+1718	+3
+-5	160
+29
+April 22
+2000	Nigeria
+Eritrea	4
+0	World Cup qualifier
+in Nigeria	+2
+-2	1720
+1182	0
+0	29
+159
+June 04
+2000	Nigeria
+Malawi	3
+2	Friendly
+in Nigeria	+1
+-1	1721
+1328	+1
+-1	28
+125
+June 06
+2000	Nigeria
+Malawi	4
+1	Friendly
+in Nigeria	+2
+-2	1723
+1326	+1
+0	27
+125
+June 17
+2000	Nigeria
+Sierra Leone	2
+0	World Cup qualifier
+in Nigeria	+4
+-4	1727
+1351	+2
+-3	26
+119
+July 09
+2000	Liberia
+Nigeria	2
+1	World Cup qualifier
+in Liberia	+33
+-33	1395
+1694	+11
+-9	101
+35
+September 02
+2000	Nigeria
+Namibia	4
+0	African Nations Cup qualifier
+in Nigeria	+5
+-5	1699
+1345	0
+0	34
+119
+October 07
+2000	Madagascar
+Nigeria	0
+0	African Nations Cup qualifier
+in Madagascar	+8
+-8	1460
+1691	+2
+-1	85
+35
+January 13
+2001	Nigeria
+Zambia	1
+0	African Nations Cup qualifier
+in Nigeria	+5
+-5	1696
+1436	+2
+-2	34
+92
+January 27
+2001	Nigeria
+Sudan	3
+0	World Cup qualifier
+in Nigeria	+4
+-4	1700
+1300	0
+-2	35
+132
+March 11
+2001	Ghana
+Nigeria	0
+0	World Cup qualifier
+in Ghana	+9
+-9	1438
+1691	+2
+-2	90
+36
+March 24
+2001	Zambia
+Nigeria	1
+1	African Nations Cup qualifier
+in Zambia	+8
+-8	1451
+1683	+2
+-1	84
+37
+April 21
+2001	Sierra Leone
+Nigeria	1
+0	World Cup qualifier
+in Sierra Leone	+34
+-34	1330
+1649	+7
+-6	125
+44
+May 05
+2001	Nigeria
+Liberia	2
+0	World Cup qualifier
+in Nigeria	+12
+-12	1661
+1488	+2
+-5	42
+75
+June 02
+2001	Nigeria
+Madagascar	1
+0	African Nations Cup qualifier
+in Nigeria	+3
+-3	1664
+1346	0
+-1	42
+123
+June 16
+2001	Namibia
+Nigeria	0
+2	African Nations Cup qualifier
+in Namibia	-13
++13	1321
+1677	-2
++3	127
+38
+July 01
+2001	Sudan
+Nigeria	0
+4	World Cup qualifier
+in Sudan	-18
++18	1363
+1695	-7
++7	117
+32
+July 29
+2001	Nigeria
+Ghana	3
+0	World Cup qualifier
+in Nigeria	+12
+-12	1707
+1517	+3
+-3	31
+70
+September 13
+2001	South Korea
+Nigeria	2
+2	Friendly
+in South Korea	-5
++5	1774
+1712	-1
+0	22
+31
+September 16
+2001	South Korea
+Nigeria	2
+1	Friendly
+in South Korea	+6
+-6	1780
+1706	+2
+0	20
+32
+October 07
+2001	Nigeria
+Japan	2
+2	Friendly
+in England	+4
+-4	1710
+1837	+1
+0	35
+12
+January 12
+2002	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-1
++1	1645
+1711	0
+-1	44
+35
+January 21
+2002	Nigeria
+Algeria	1
+0	African Nations Cup
+in Mali	+13
+-13	1724
+1511	+4
+-5	30
+75
+January 24
+2002	Mali
+Nigeria	0
+0	African Nations Cup
+in Mali	+12
+-12	1461
+1712	+3
+-4	87
+34
+January 28
+2002	Nigeria
+Liberia	1
+0	African Nations Cup
+in Mali	+11
+-11	1723
+1485	+5
+-4	30
+81
+February 03
+2002	Nigeria
+Ghana	1
+0	African Nations Cup
+in Mali	+13
+-13	1736
+1532	+2
+-4	28
+67
+February 07
+2002	Senegal
+Nigeria	2
+1	African Nations Cup
+in Mali	+31
+-31	1685
+1705	+3
+-8	39
+36
+February 09
+2002	Mali
+Nigeria	0
+1	African Nations Cup
+in Mali	-18
++18	1493
+1723	-3
++8	77
+28
+March 26
+2002	Nigeria
+Paraguay	1
+1	Friendly
+in England	-1
++1	1722
+1694	-1
++1	31
+35
+April 17
+2002	Scotland
+Nigeria	1
+2	Friendly
+in Scotland	-12
++12	1688
+1734	-3
++3	40
+28
+May 04
+2002	Nigeria
+Kenya	3
+0	Friendly
+in Nigeria	+2
+-2	1736
+1374	+1
+0	28
+109
+May 16
+2002	Ireland
+Nigeria	1
+2	Friendly
+in Ireland	-16
++16	1839
+1752	-4
++1	12
+27
+May 18
+2002	Nigeria
+Jamaica	1
+0	Friendly
+in England	+4
+-4	1756
+1509	+1
+-2	26
+72
+June 02
+2002	Argentina
+Nigeria	1
+0	World Cup
+in Japan	+12
+-12	2000
+1744	0
+-2	2
+27
+June 07
+2002	Sweden
+Nigeria	2
+1	World Cup
+in Japan	+22
+-22	1862
+1722	+4
+-4	9
+32
+June 12
+2002	Nigeria
+England	0
+0	World Cup
+in Japan	+16
+-16	1738
+1910	+2
+-2	30
+8
+September 08
+2002	Angola
+Nigeria	0
+0	African Nations Cup qualifier
+in Angola	+7
+-7	1513
+1731	+1
+-1	70
+30
+October 12
+2002	Senegal
+Nigeria	2
+2	Friendly
+in Senegal	-4
++4	1770
+1735	0
+-1	24
+31
+November 20
+2002	Nigeria
+Jamaica	0
+0	Friendly
+in Nigeria	-7
++7	1728
+1562	-1
++1	33
+62
+November 25
+2002	Nigeria
+Egypt	1
+1	Friendly
+in Nigeria	-6
++6	1722
+1601	0
++1	33
+54
+December 15
+2002	Ghana
+Nigeria	0
+1	Friendly
+in Ghana	-7
++7	1496
+1729	-2
++1	75
+32
+February 16
+2003	Gambia
+Nigeria	0
+1	Friendly
+in Gambia	-4
++4	1368
+1733	-1
+0	116
+31
+March 29
+2003	Malawi
+Nigeria	0
+1	African Nations Cup qualifier
+in Malawi	-6
++6	1342
+1739	-6
++3	125
+29
+May 25
+2003	Jamaica
+Nigeria	3
+2	Friendly
+in Jamaica	+13
+-13	1563
+1726	+3
+-3	61
+31
+May 30
+2003	Nigeria
+Ghana	3
+1	Friendly tournament
+in Nigeria	+6
+-6	1732
+1492	+2
+-1	29
+76
+June 07
+2003	Nigeria
+Malawi	4
+1	African Nations Cup qualifier
+in Nigeria	+4
+-4	1736
+1326	+1
+-2	29
+129
+June 11
+2003	Nigeria
+Brazil	0
+3	Friendly
+in Nigeria	-9
++9	1727
+2019	-2
+0	30
+1
+June 21
+2003	Nigeria
+Angola	2
+2	African Nations Cup qualifier
+in Nigeria	-15
++15	1712
+1485	-3
++3	33
+78
+July 26
+2003	Nigeria
+Venezuela	1
+0	Friendly
+in England	+7
+-7	1719
+1590	+2
+0	31
+57
+August 20
+2003	Japan
+Nigeria	3
+0	Friendly
+in Japan	+11
+-11	1758
+1708	+1
+-2	22
+33
+January 27
+2004	Morocco
+Nigeria	1
+0	African Nations Cup
+in Tunisia	+32
+-32	1644
+1676	+7
+-6	45
+39
+January 31
+2004	Nigeria
+South Africa	4
+0	African Nations Cup
+in Tunisia	+37
+-37	1713
+1561	+7
+-7	31
+64
+February 04
+2004	Nigeria
+Benin	2
+1	African Nations Cup
+in Tunisia	+4
+-4	1717
+1302	+1
+-1	30
+131
+February 08
+2004	Nigeria
+Cameroon	2
+1	African Nations Cup
+in Tunisia	+29
+-29	1746
+1739	+4
+-7	25
+27
+February 11
+2004	Tunisia
+Nigeria	1
+1	African Nations Cup
+in Tunisia	-2
++2	1671
+1748	-1
+0	40
+25
+February 13
+2004	Nigeria
+Mali	2
+1	African Nations Cup
+in Tunisia	+16
+-16	1764
+1595	+3
+-3	22
+56
+April 28
+2004	Nigeria
+Jordan	2
+0	Friendly tournament
+in Nigeria	+9
+-9	1773
+1602	+3
+-2	19
+56
+May 29
+2004	Nigeria
+Ireland	3
+0	Friendly tournament
+in England	+30
+-30	1803
+1793	+4
+-5	15
+19
+May 31
+2004	Nigeria
+Jamaica	2
+0	Friendly tournament
+in England	+11
+-11	1814
+1600	+1
+-1	14
+55
+June 05
+2004	Nigeria
+Rwanda	2
+0	World Cup qualifier
+in Nigeria	+2
+-2	1816
+1346	0
+-1	15
+124
+June 20
+2004	Angola
+Nigeria	1
+0	World Cup qualifier
+in Angola	+32
+-32	1520
+1784	+4
+-5	74
+21
+July 03
+2004	Nigeria
+Algeria	1
+0	World Cup qualifier
+in Nigeria	+4
+-4	1788
+1489	+2
+0	20
+80
+September 05
+2004	Zimbabwe
+Nigeria	0
+3	World Cup qualifier
+in Zimbabwe	-21
++21	1514
+1809	-3
++3	76
+19
+October 09
+2004	Gabon
+Nigeria	1
+1	World Cup qualifier
+in Gabon	+14
+-14	1414
+1795	+6
+-3	98
+22
+October 20
+2004	Libya
+Nigeria	2
+1	Friendly tournament
+in Libya	+23
+-23	1522
+1772	+7
+-2	73
+24
+October 22
+2004	Ecuador
+Nigeria	2
+2	Friendly tournament
+in Libya	+7
+-7	1615
+1765	+2
+-2	52
+26
+November 17
+2004	South Africa
+Nigeria	2
+1	Friendly
+in South Africa	+13
+-13	1570
+1752	+3
+-1	63
+27
+March 26
+2005	Nigeria
+Gabon	2
+0	World Cup qualifier
+in Nigeria	+5
+-5	1757
+1413	+2
+-2	25
+97
+June 05
+2005	Rwanda
+Nigeria	1
+1	World Cup qualifier
+in Rwanda	+15
+-15	1352
+1742	+7
+-2	114
+29
+June 18
+2005	Nigeria
+Angola	1
+1	World Cup qualifier
+in Nigeria	-14
++14	1728
+1541	-1
++3	30
+71
+August 17
+2005	Libya
+Nigeria	0
+1	Friendly
+in Libya	-7
++7	1507
+1735	-3
++2	79
+27
+September 04
+2005	Algeria
+Nigeria	2
+5	World Cup qualifier
+in Algeria	-16
++16	1406
+1751	-4
+0	100
+28
+October 08
+2005	Nigeria
+Zimbabwe	5
+1	World Cup qualifier
+in Nigeria	+9
+-9	1760
+1506	+1
+-2	25
+79
+November 16
+2005	Romania
+Nigeria	3
+0	Friendly
+in Romania	+11
+-11	1817
+1749	+3
+-1	15
+27
+January 23
+2006	Nigeria
+Ghana	1
+0	African Nations Cup
+in Egypt	+14
+-14	1763
+1568	+4
+-1	24
+57
+January 27
+2006	Nigeria
+Zimbabwe	2
+0	African Nations Cup
+in Egypt	+12
+-12	1775
+1467	+2
+-4	23
+86
+January 31
+2006	Nigeria
+Senegal	2
+1	African Nations Cup
+in Egypt	+18
+-18	1793
+1659	+1
+-2	23
+45
+February 04
+2006	Nigeria
+Tunisia	1
+1	African Nations Cup
+in Egypt	-7
++7	1786
+1698	0
++2	23
+38
+February 07
+2006	Ivory Coast
+Nigeria	1
+0	African Nations Cup
+in Egypt	+30
+-30	1749
+1756	+5
+-4	30
+27
+February 09
+2006	Nigeria
+Senegal	1
+0	African Nations Cup
+in Egypt	+19
+-19	1775
+1650	+3
+-2	24
+46
+September 02
+2006	Nigeria
+Niger	2
+0	African Nations Cup qualifier
+in Nigeria	+2
+-2	1777
+1306	+1
+0	20
+127
+October 08
+2006	Lesotho
+Nigeria	0
+1	African Nations Cup qualifier
+in Lesotho	-2
++2	1132
+1779	0
+0	169
+21
+February 06
+2007	Ghana
+Nigeria	4
+1	Friendly
+in England	+19
+-19	1762
+1760	+5
+-5	26
+27
+March 24
+2007	Nigeria
+Uganda	1
+0	African Nations Cup qualifier
+in Nigeria	+3
+-3	1763
+1388	+2
+-2	23
+103
+May 27
+2007	Kenya
+Nigeria	0
+1	Friendly
+in Kenya	-3
++3	1328
+1766	0
+0	122
+24
+June 02
+2007	Uganda
+Nigeria	2
+1	African Nations Cup qualifier
+in Uganda	+33
+-33	1416
+1733	+5
+-11	98
+35
+June 17
+2007	Niger
+Nigeria	1
+3	African Nations Cup qualifier
+in Niger	-7
++7	1276
+1740	-1
++4	137
+30
+August 22
+2007	Macedonia
+Nigeria	0
+0	Friendly
+in Macedonia	+4
+-4	1499
+1736	+2
+-1	76
+31
+September 08
+2007	Nigeria
+Lesotho	2
+0	African Nations Cup qualifier
+in Nigeria	+1
+-1	1737
+1146	0
+0	31
+169
+October 14
+2007	Mexico
+Nigeria	2
+2	Friendly
+in Mexico	-6
++6	1881
+1743	-1
++2	11
+29
+November 17
+2007	Australia
+Nigeria	1
+0	Friendly
+in England	+11
+-11	1715
+1732	+1
+-4	37
+33
+November 20
+2007	Switzerland
+Nigeria	0
+1	Friendly
+in Switzerland	-14
++14	1781
+1746	-2
++3	17
+30
+January 09
+2008	Nigeria
+Sudan	2
+0	Friendly
+in Spain	+5
+-5	1751
+1444	+1
+-1	29
+96
+January 21
+2008	Ivory Coast
+Nigeria	1
+0	African Nations Cup
+in Ghana	+23
+-23	1806
+1728	+1
+-4	17
+34
+January 25
+2008	Mali
+Nigeria	0
+0	African Nations Cup
+in Ghana	+10
+-10	1590
+1718	+1
+-2	59
+35
+January 29
+2008	Nigeria
+Benin	2
+0	African Nations Cup
+in Ghana	+8
+-8	1726
+1332	+2
+-3	34
+123
+February 03
+2008	Ghana
+Nigeria	2
+1	African Nations Cup
+in Ghana	+14
+-14	1798
+1712	0
+-5	18
+39
+May 27
+2008	Austria
+Nigeria	1
+1	Friendly
+in Austria	+1
+-1	1571
+1711	+1
+0	58
+38
+June 01
+2008	Nigeria
+South Africa	2
+0	World Cup qualifier
+in Nigeria	+9
+-9	1720
+1505	+1
+-3	36
+80
+June 07
+2008	Sierra Leone
+Nigeria	0
+1	World Cup qualifier
+in Sierra Leone	-3
++3	1197
+1723	0
++2	157
+34
+June 15
+2008	Equatorial Guinea
+Nigeria	0
+1	World Cup qualifier
+in Equatorial Guinea	-4
++4	1251
+1727	0
+-1	144
+34
+June 21
+2008	Nigeria
+Equatorial Guinea	2
+0	World Cup qualifier
+in Nigeria	+2
+-2	1729
+1249	0
+0	33
+144
+September 06
+2008	South Africa
+Nigeria	0
+1	World Cup qualifier
+in South Africa	-12
++12	1462
+1741	-1
++1	91
+30
+October 11
+2008	Nigeria
+Sierra Leone	4
+1	World Cup qualifier
+in Nigeria	+2
+-2	1743
+1256	0
+0	29
+143
+November 19
+2008	Colombia
+Nigeria	1
+0	Friendly
+in Colombia	+8
+-8	1726
+1735	+1
+-3	34
+32
+February 11
+2009	Jamaica
+Nigeria	0
+0	Friendly
+in England	+3
+-3	1626
+1732	+1
+-1	49
+33
+March 29
+2009	Mozambique
+Nigeria	0
+0	World Cup qualifier
+in Mozambique	+11
+-11	1424
+1721	0
+-2	100
+33
+May 29
+2009	Ireland
+Nigeria	1
+1	Friendly
+in England	-1
++1	1755
+1722	0
+0	26
+32
+June 02
+2009	France
+Nigeria	0
+1	Friendly
+in France	-16
++16	1849
+1738	-1
++3	10
+29
+June 07
+2009	Nigeria
+Kenya	3
+0	World Cup qualifier
+in Nigeria	+5
+-5	1743
+1399	+1
+-2	29
+106
+June 20
+2009	Tunisia
+Nigeria	0
+0	World Cup qualifier
+in Tunisia	0
+0	1647
+1743	+1
+0	47
+30
+September 06
+2009	Nigeria
+Tunisia	2
+2	World Cup qualifier
+in Nigeria	-10
++10	1733
+1657	-3
+0	34
+47
+October 11
+2009	Nigeria
+Mozambique	1
+0	World Cup qualifier
+in Nigeria	+3
+-3	1736
+1415	+1
+-3	29
+103
+November 14
+2009	Kenya
+Nigeria	2
+3	World Cup qualifier
+in Kenya	-7
++7	1363
+1743	-1
++3	117
+28
+January 06
+2010	Nigeria
+Zambia	0
+0	Friendly
+in South Africa	-6
++6	1737
+1501	-3
++2	30
+84
+January 12
+2010	Egypt
+Nigeria	3
+1	African Nations Cup
+in Angola	+42
+-42	1739
+1695	+11
+-9	28
+39
+January 16
+2010	Nigeria
+Benin	1
+0	African Nations Cup
+in Angola	+10
+-10	1705
+1446	+2
+-3	37
+97
+January 20
+2010	Nigeria
+Mozambique	3
+0	African Nations Cup
+in Angola	+12
+-12	1717
+1370	0
+-4	37
+116
+January 25
+2010	Nigeria
+Zambia	0
+0	African Nations Cup
+in Angola	-12
++12	1705
+1555	+1
++6	36
+66
+January 28
+2010	Ghana
+Nigeria	1
+0	African Nations Cup
+in Angola	+27
+-27	1710
+1678	+5
+-6	36
+42
+January 30
+2010	Nigeria
+Algeria	1
+0	African Nations Cup
+in Angola	+17
+-17	1695
+1547	+2
+-9	40
+70
+March 03
+2010	Nigeria
+Dem. Rep. of Congo	5
+2	Friendly
+in Nigeria	+4
+-4	1699
+1419	+1
+-3	38
+102
+May 25
+2010	Nigeria
+Saudi Arabia	0
+0	Friendly
+in Austria	-1
++1	1698
+1679	0
+0	37
+43
+May 30
+2010	Colombia
+Nigeria	1
+1	Friendly
+in England	-1
++1	1725
+1699	-2
++1	30
+35
+June 06
+2010	Nigeria
+North Korea	3
+1	Friendly
+in South Africa	+8
+-8	1707
+1525	+1
+-1	33
+79
+June 12
+2010	Argentina
+Nigeria	1
+0	World Cup
+in South Africa	+15
+-15	1914
+1692	+1
+-4	6
+37
+June 17
+2010	Greece
+Nigeria	2
+1	World Cup
+in South Africa	+32
+-32	1703
+1660	+9
+-5	34
+43
+June 22
+2010	Nigeria
+South Korea	2
+2	World Cup
+in South Africa	+8
+-8	1668
+1747	0
+-1	43
+24
+August 11
+2010	South Korea
+Nigeria	2
+1	Friendly
+in South Korea	+6
+-6	1735
+1662	0
+-1	28
+44
+September 05
+2010	Nigeria
+Madagascar	2
+0	African Nations Cup qualifier
+in Nigeria	+3
+-3	1665
+1235	+1
+-1	42
+148
+October 10
+2010	Guinea
+Nigeria	1
+0	African Nations Cup qualifier
+in Guinea	+23
+-23	1529
+1642	+7
+-4	76
+46
+February 09
+2011	Nigeria
+Sierra Leone	2
+1	Friendly
+in Nigeria	+1
+-1	1643
+1298	-2
+-2	48
+133
+March 27
+2011	Nigeria
+Ethiopia	4
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1649
+1320	+3
+-2	43
+129
+March 29
+2011	Nigeria
+Kenya	3
+0	Friendly
+in Nigeria	+2
+-2	1651
+1292	-1
+-2	44
+136
+June 01
+2011	Nigeria
+Argentina	4
+1	Friendly
+in Nigeria	+27
+-27	1678
+1940	+8
+0	37
+5
+June 05
+2011	Ethiopia
+Nigeria	2
+2	African Nations Cup qualifier
+in Ethiopia	+13
+-13	1319
+1665	+2
+-5	128
+44
+September 04
+2011	Madagascar
+Nigeria	0
+2	African Nations Cup qualifier
+in Madagascar	-7
++7	1195
+1672	0
+0	153
+39
+September 06
+2011	Argentina
+Nigeria	3
+1	Friendly
+in Bangladesh	+6
+-6	1903
+1666	0
+-1	7
+40
+October 08
+2011	Nigeria
+Guinea	2
+2	African Nations Cup qualifier
+in Nigeria	-13
++13	1653
+1522	-3
++4	43
+74
+October 11
+2011	Ghana
+Nigeria	0
+0	Friendly
+in England	-3
++3	1757
+1656	+1
++1	25
+42
+November 12
+2011	Nigeria
+Botswana	0
+0	Friendly
+in Nigeria	-8
++8	1648
+1413	-3
++1	45
+101
+November 15
+2011	Nigeria
+Zambia	2
+0	Friendly
+in Nigeria	+6
+-6	1654
+1516	+2
+-1	43
+76
+January 11
+2012	Nigeria
+Angola	0
+0	Friendly
+in Nigeria	-6
++6	1648
+1503	-1
++3	44
+83
+February 15
+2012	Liberia
+Nigeria	0
+2	Friendly
+in Liberia	-5
++5	1245
+1653	-2
+0	145
+43
+February 29
+2012	Rwanda
+Nigeria	0
+0	African Nations Cup qualifier
+in Rwanda	+7
+-7	1427
+1646	+2
+-2	99
+45
+April 12
+2012	Egypt
+Nigeria	3
+2	Friendly
+in United Arab Emirates	+8
+-8	1727
+1638	+2
+-3	29
+48
+May 23
+2012	Peru
+Nigeria	1
+0	Friendly
+in Peru	+5
+-5	1713
+1633	0
+-2	33
+50
+June 03
+2012	Nigeria
+Namibia	1
+0	World Cup qualifier
+in Nigeria	+3
+-3	1636
+1300	+1
+0	47
+134
+June 09
+2012	Malawi
+Nigeria	1
+1	World Cup qualifier
+in Malawi	+8
+-8	1398
+1628	+1
+-4	107
+50
+June 16
+2012	Nigeria
+Rwanda	2
+0	African Nations Cup qualifier
+in Nigeria	+7
+-7	1635
+1375	+2
+0	46
+109
+August 15
+2012	Niger
+Nigeria	0
+0	Friendly
+in Niger	+6
+-6	1313
+1629	+1
+-3	131
+49
+September 08
+2012	Liberia
+Nigeria	2
+2	African Nations Cup qualifier
+in Liberia	+12
+-12	1291
+1617	+2
+-5	140
+51
+October 13
+2012	Nigeria
+Liberia	6
+1	African Nations Cup qualifier
+in Nigeria	+7
+-7	1624
+1302	+2
+-2	48
+136
+November 14
+2012	Nigeria
+Venezuela	3
+1	Friendly
+in the United States	+19
+-19	1643
+1690	+3
+-3	46
+35
+January 09
+2013	Cape Verde
+Nigeria	0
+0	Friendly
+in Portugal	+6
+-6	1434
+1637	+1
+-2	99
+48
+January 21
+2013	Burkina Faso
+Nigeria	1
+1	African Nations Cup
+in South Africa	+12
+-12	1471
+1625	+2
+-2	90
+50
+January 25
+2013	Nigeria
+Zambia	1
+1	African Nations Cup
+in South Africa	-5
++5	1620
+1556	0
+0	50
+70
+January 29
+2013	Nigeria
+Ethiopia	2
+0	African Nations Cup
+in South Africa	+12
+-12	1632
+1316	+2
+-1	48
+129
+February 03
+2013	Nigeria
+Ivory Coast	2
+1	African Nations Cup
+in South Africa	+39
+-39	1671
+1822	+7
+-4	41
+17
+February 06
+2013	Nigeria
+Mali	4
+1	African Nations Cup
+in South Africa	+34
+-34	1705
+1557	+8
+-12	33
+69
+February 10
+2013	Nigeria
+Burkina Faso	1
+0	African Nations Cup
+in South Africa	+14
+-14	1719
+1528	+2
+-2	30
+75
+March 23
+2013	Nigeria
+Kenya	1
+1	World Cup qualifier
+in Nigeria	-17
++17	1702
+1414	-2
++4	34
+103
+May 31
+2013	Mexico
+Nigeria	2
+2	Friendly
+in the United States	-4
++4	1847
+1706	-1
+0	14
+34
+June 05
+2013	Kenya
+Nigeria	0
+1	World Cup qualifier
+in Kenya	-10
++10	1404
+1716	-2
++2	104
+32
+June 12
+2013	Namibia
+Nigeria	1
+1	World Cup qualifier
+in Namibia	+14
+-14	1313
+1702	+4
+-3	131
+34
+June 17
+2013	Nigeria
+Tahiti	6
+1	Confederations Cup
+in Brazil	+8
+-8	1710
+1265	+2
+-1	32
+142
+June 20
+2013	Uruguay
+Nigeria	2
+1	Confederations Cup
+in Brazil	+18
+-18	1831
+1692	+3
+-3	14
+35
+June 23
+2013	Spain
+Nigeria	3
+0	Confederations Cup
+in Brazil	+6
+-6	2142
+1686	0
+-2	1
+37
+August 14
+2013	South Africa
+Nigeria	0
+2	Friendly
+in South Africa	-14
++14	1559
+1700	-3
++4	66
+33
+September 07
+2013	Nigeria
+Malawi	2
+0	World Cup qualifier
+in Nigeria	+4
+-4	1704
+1336	+1
+0	33
+126
+September 10
+2013	Nigeria
+Burkina Faso	4
+1	Friendly
+in Nigeria	+7
+-7	1711
+1564	+3
+-1	30
+65
+October 13
+2013	Ethiopia
+Nigeria	1
+2	World Cup qualifier
+in Ethiopia	-9
++9	1398
+1720	-1
++1	106
+27
+October 28
+2013	Jordan
+Nigeria	1
+0	Friendly
+in Jordan	+12
+-12	1563
+1708	+6
+-1	64
+31
+November 16
+2013	Nigeria
+Ethiopia	2
+0	World Cup qualifier
+in Nigeria	+5
+-5	1713
+1393	0
+-2	31
+109
+November 18
+2013	Italy
+Nigeria	2
+2	Friendly
+in England	-5
++5	1888
+1718	0
++1	10
+30
+March 05
+2014	Mexico
+Nigeria	0
+0	Friendly
+in the United States	-2
++2	1795
+1720	+1
++1	19
+29

@@ -1,0 +1,4455 @@
+June 17
+1922	New Zealand
+Australia	3
+1	Friendly
+in New Zealand	+15
+-15	1515
+1585	-
+-	32
+27
+June 24
+1922	New Zealand
+Australia	1
+1	Friendly
+in New Zealand	-1
++1	1514
+1586	-1
++1	33
+26
+July 08
+1922	New Zealand
+Australia	3
+1	Friendly
+in New Zealand	+14
+-14	1528
+1572	+1
+-2	32
+28
+June 09
+1923	Australia
+New Zealand	2
+1	Friendly
+in Australia	+6
+-6	1578
+1522	0
+-1	28
+34
+June 16
+1923	Australia
+New Zealand	2
+3	Friendly
+in Australia	-14
++14	1564
+1536	0
++1	28
+33
+June 30
+1923	Australia
+New Zealand	1
+4	Friendly
+in Australia	-24
++24	1540
+1560	-4
++5	32
+28
+June 07
+1924	Australia
+Canada	3
+2	Friendly
+in Australia	+9
+-9	1549
+1596	+2
+-1	32
+26
+June 14
+1924	Australia
+Canada	0
+1	Friendly
+in Australia	-12
++12	1537
+1608	-1
+0	33
+26
+June 23
+1924	Australia
+Canada	4
+1	Friendly
+in Australia	+16
+-16	1553
+1592	+1
+0	32
+27
+June 28
+1924	Australia
+Canada	0
+0	Friendly
+in Australia	-2
++2	1551
+1594	0
+0	32
+27
+July 12
+1924	Australia
+Canada	1
+4	Friendly
+in Australia	-20
++20	1531
+1614	-3
++2	35
+25
+July 26
+1924	Australia
+Canada	1
+0	Friendly
+in Australia	+10
+-10	1541
+1604	+1
+-1	34
+26
+June 05
+1933	Australia
+New Zealand	4
+2	Friendly
+in Australia	+10
+-10	1551
+1522	+1
+-1	33
+37
+June 17
+1933	Australia
+New Zealand	6
+4	Friendly
+in Australia	+10
+-10	1561
+1512	+1
+0	32
+37
+June 24
+1933	Australia
+New Zealand	4
+2	Friendly
+in Australia	+9
+-9	1570
+1503	0
+0	32
+37
+July 04
+1936	New Zealand
+Australia	1
+7	Friendly
+in New Zealand	-23
++23	1480
+1593	-5
++3	42
+28
+July 11
+1936	New Zealand
+Australia	0
+10	Friendly
+in New Zealand	-25
++25	1455
+1618	-1
++4	43
+24
+July 18
+1936	New Zealand
+Australia	1
+4	Friendly
+in New Zealand	-14
++14	1441
+1632	-1
++1	44
+23
+September 03
+1938	Australia
+India	5
+3	Friendly
+in Australia	+4
+-4	1636
+1396	0
+-	23
+52
+September 10
+1938	Australia
+India	4
+4	Friendly
+in Australia	-8
++8	1628
+1404	0
++1	23
+51
+September 17
+1938	Australia
+India	1
+4	Friendly
+in Australia	-30
++30	1598
+1434	-7
++4	30
+47
+September 24
+1938	Australia
+India	5
+4	Friendly
+in Australia	+4
+-4	1602
+1430	+1
+0	30
+47
+October 01
+1938	Australia
+India	3
+1	Friendly
+in Australia	+5
+-5	1607
+1425	+1
+0	29
+48
+May 10
+1947	Australia
+South Africa	1
+2	Friendly
+in Australia	-10
++10	1597
+1718	-3
+0	32
+17
+May 24
+1947	Australia
+South Africa	2
+4	Friendly
+in Australia	-14
++14	1583
+1732	-1
++1	33
+16
+May 31
+1947	Australia
+South Africa	3
+3	Friendly
+in Australia	+1
+-1	1584
+1731	0
+0	33
+16
+June 07
+1947	Australia
+South Africa	5
+1	Friendly
+in Australia	+21
+-21	1605
+1710	+4
+-1	29
+17
+June 14
+1947	Australia
+South Africa	1
+2	Friendly
+in Australia	-10
++10	1595
+1720	-1
++1	30
+16
+August 14
+1948	New Zealand
+Australia	0
+6	Friendly
+in New Zealand	-16
++16	1393
+1611	-3
++3	62
+27
+August 28
+1948	New Zealand
+Australia	0
+7	Friendly
+in New Zealand	-15
++15	1378
+1626	-2
+0	64
+27
+September 04
+1948	New Zealand
+Australia	0
+4	Friendly
+in New Zealand	-11
++11	1367
+1637	0
++2	64
+25
+September 11
+1948	New Zealand
+Australia	1
+8	Friendly
+in New Zealand	-12
++12	1355
+1649	-2
++2	66
+23
+June 24
+1950	South Africa
+Australia	3
+2	Friendly
+in South Africa	+5
+-5	1757
+1644	0
+0	15
+23
+July 01
+1950	South Africa
+Australia	2
+1	Friendly
+in South Africa	+5
+-5	1762
+1639	0
+0	14
+23
+July 08
+1950	South Africa
+Australia	1
+2	Friendly
+in South Africa	-16
++16	1746
+1655	-1
++1	15
+23
+July 15
+1950	Rhodesia
+Australia	0
+5	Friendly
+in Rhodesia	-17
++17	1483
+1672	-
++2	50
+21
+July 23
+1950	South Africa
+Australia	0
+2	Friendly
+in South Africa	-22
++22	1724
+1694	-1
++1	16
+20
+July 29
+1950	Rhodesia
+Australia	1
+4	Friendly
+in Rhodesia	-12
++12	1471
+1706	-4
++2	54
+18
+August 14
+1954	Australia
+New Zealand	1
+2	Friendly
+in Australia	-18
++18	1688
+1474	-2
++5	19
+55
+August 28
+1954	Australia
+New Zealand	4
+1	Friendly
+in Australia	+5
+-5	1693
+1469	+1
+-3	18
+58
+September 04
+1954	Australia
+New Zealand	4
+1	Friendly
+in Australia	+5
+-5	1698
+1464	0
+-1	18
+59
+September 03
+1955	Australia
+South Africa	0
+3	Friendly
+in Australia	-22
++22	1676
+1731	-3
++2	23
+17
+September 10
+1955	Australia
+South Africa	0
+2	Friendly
+in Australia	-17
++17	1659
+1748	0
++1	23
+16
+September 17
+1955	Australia
+South Africa	0
+8	Friendly
+in Australia	-25
++25	1634
+1773	-3
++2	26
+14
+September 24
+1955	Australia
+South Africa	0
+6	Friendly
+in Australia	-19
++19	1615
+1792	-4
++2	30
+12
+October 01
+1955	Australia
+South Africa	1
+4	Friendly
+in Australia	-14
++14	1601
+1806	-3
++3	33
+9
+November 27
+1956	Australia
+Japan	2
+0	Olympic Games
+in Australia	+9
+-9	1610
+1308	0
+-2	33
+95
+December 01
+1956	Australia
+India	2
+4	Olympic Games
+in Australia	-74
++74	1536
+1522	-12
++13	45
+49
+December 12
+1956	Australia
+India	1
+7	Friendly
+in Australia	-31
++31	1505
+1487	-5
++4	51
+57
+August 16
+1958	New Zealand
+Australia	2
+3	Friendly
+in New Zealand	-12
++12	1452
+1517	-5
++2	65
+49
+August 23
+1958	New Zealand
+Australia	2
+2	Friendly
+in New Zealand	-1
++1	1451
+1518	0
+0	65
+49
+November 21
+1965	North Korea
+Australia	6
+1	World Cup qualifier
+in Cambodia	+29
+-29	1644
+1489	+1
+-10	33
+69
+November 24
+1965	North Korea
+Australia	3
+1	World Cup qualifier
+in Cambodia	+17
+-17	1661
+1472	0
+-3	33
+72
+November 26
+1965	Khmer
+Australia	0
+0	Friendly
+in Khmer	+8
+-8	1024
+1464	+1
+-1	154
+73
+November 29
+1965	Hong Kong
+Australia	1
+0	Friendly tournament
+in Hong Kong	+18
+-18	1317
+1446	+3
+-2	110
+75
+December 03
+1965	Taiwan
+Australia	1
+3	Friendly
+in Taiwan	-21
++21	1480
+1467	-9
++2	71
+73
+December 07
+1965	Malaysia
+Australia	0
+1	Friendly
+in Malaysia	-8
++8	1289
+1475	-5
++1	119
+72
+December 08
+1965	Malaysia
+Australia	0
+3	Friendly
+in Malaysia	-13
++13	1276
+1488	-2
++3	121
+69
+November 05
+1967	Australia
+New Zealand	5
+3	Friendly tournament
+in South Vietnam	+25
+-25	1513
+1508	+4
+-7	63
+64
+November 07
+1967	South Vietnam
+Australia	0
+1	Friendly tournament
+in South Vietnam	-15
++15	1406
+1528	-1
++5	86
+58
+November 11
+1967	Australia
+Singapore	5
+1	Friendly tournament
+in South Vietnam	+6
+-6	1534
+1166	+1
+-1	57
+141
+November 12
+1967	Australia
+Malaysia	1
+0	Friendly tournament
+in South Vietnam	+6
+-6	1540
+1273	0
+-1	57
+120
+November 14
+1967	Australia
+South Korea	3
+2	Friendly tournament
+in South Vietnam	+18
+-18	1558
+1602	+7
+-1	50
+37
+November 18
+1967	Indonesia
+Australia	0
+2	Friendly
+in Indonesia	-15
++15	1450
+1573	-2
++7	76
+43
+November 21
+1967	Indonesia
+Australia	1
+3	Friendly
+in Indonesia	-14
++14	1436
+1587	0
++1	76
+42
+November 24
+1967	Singapore
+Australia	1
+6	Friendly
+in Singapore	-5
++5	1161
+1592	0
++1	141
+41
+November 27
+1967	Malaysia
+Australia	0
+4	Friendly
+in Malaysia	-7
++7	1242
+1599	0
++2	126
+40
+March 30
+1968	Australia
+Japan	2
+2	Friendly
+in Australia	-4
++4	1595
+1569	-1
+0	41
+47
+March 31
+1968	Australia
+Japan	3
+1	Friendly
+in Australia	+10
+-10	1605
+1559	+2
+-3	39
+50
+April 04
+1968	Australia
+Japan	1
+3	Friendly
+in Australia	-21
++21	1584
+1580	-4
++5	43
+45
+July 19
+1969	Australia
+Greece	1
+0	Friendly
+in Australia	+8
+-8	1592
+1621	+1
+-2	46
+37
+July 23
+1969	Australia
+Greece	2
+2	Friendly
+in Australia	-2
++2	1590
+1623	-1
++1	47
+36
+July 26
+1969	Australia
+Greece	0
+2	Friendly
+in Australia	-18
++18	1572
+1641	-1
++3	48
+33
+October 10
+1969	Australia
+Japan	3
+1	World Cup qualifier
+in South Korea	+28
+-28	1600
+1526	+8
+-4	42
+59
+October 14
+1969	South Korea
+Australia	1
+2	World Cup qualifier
+in South Korea	-25
++25	1558
+1625	-4
++5	53
+37
+October 16
+1969	Australia
+Japan	1
+1	World Cup qualifier
+in South Korea	-5
++5	1620
+1540	-1
++2	38
+56
+October 20
+1969	South Korea
+Australia	1
+1	World Cup qualifier
+in South Korea	-3
++3	1575
+1623	0
++1	50
+37
+November 23
+1969	Australia
+Rhodesia	1
+1	World Cup qualifier
+in Mozambique	-9
++9	1614
+1463	-3
++2	39
+76
+November 27
+1969	Australia
+Rhodesia	0
+0	World Cup qualifier
+in Mozambique	-8
++8	1606
+1471	-2
++2	41
+74
+November 29
+1969	Australia
+Rhodesia	3
+1	World Cup qualifier
+in Mozambique	+19
+-19	1625
+1452	+4
+-5	36
+79
+December 04
+1969	Israel
+Australia	1
+0	World Cup qualifier
+in Israel	+15
+-15	1631
+1610	+1
+-2	37
+39
+December 14
+1969	Australia
+Israel	1
+1	World Cup qualifier
+in Australia	-4
++4	1606
+1635	0
++2	39
+35
+October 23
+1970	New Caledonia
+Australia	1
+3	Friendly
+in New Caledonia	-15
++15	1501
+1621	0
++2	64
+39
+October 25
+1970	New Caledonia
+Australia	0
+1	Friendly
+in New Caledonia	-9
++9	1492
+1630	-3
++1	67
+38
+October 30
+1970	Macao
+Australia	0
+9	Friendly
+in Macao	-4
++4	1094
+1634	0
+0	151
+38
+November 04
+1970	Iran
+Australia	1
+2	Friendly
+in Iran	-12
++12	1579
+1646	-1
++2	48
+36
+November 10
+1970	Israel
+Australia	0
+1	Friendly
+in Israel	-13
++13	1634
+1659	-4
++2	39
+34
+November 19
+1970	Greece
+Australia	1
+3	Friendly
+in Greece	-19
++19	1636
+1678	-2
++5	37
+29
+December 02
+1970	Mexico
+Australia	3
+0	Friendly
+in Mexico	+12
+-12	1699
+1666	+1
+-5	25
+34
+November 11
+1971	Australia
+Israel	2
+2	Friendly
+in Australia	-3
++3	1663
+1649	-1
+0	35
+38
+November 14
+1971	Australia
+Israel	1
+0	Friendly
+in Australia	+7
+-7	1670
+1642	+2
+0	32
+38
+November 21
+1971	Australia
+Israel	1
+3	Friendly
+in Australia	-20
++20	1650
+1662	-6
++3	38
+35
+October 07
+1972	Indonesia
+Australia	1
+4	Friendly
+in Indonesia	-14
++14	1471
+1664	0
++2	68
+32
+October 09
+1972	Australia
+New Zealand	3
+1	Friendly
+in Indonesia	+7
+-7	1671
+1446	+1
+-1	31
+73
+October 15
+1972	South Vietnam
+Australia	0
+1	Friendly
+in South Vietnam	-3
++3	1287
+1674	-2
+0	120
+31
+October 22
+1972	South Korea
+Australia	1
+1	Friendly
+in South Korea	0
+0	1588
+1674	0
+0	47
+31
+October 24
+1972	South Korea
+Australia	0
+2	Friendly
+in South Korea	-16
++16	1572
+1690	-3
++3	50
+28
+October 29
+1972	Philippines
+Australia	0
+6	Friendly
+in the Philippines	-1
++1	1010
+1691	0
+0	162
+28
+February 14
+1973	Australia
+Bulgaria	2
+2	Friendly
+in Australia	0
+0	1691
+1783	0
+0	27
+16
+February 16
+1973	Australia
+Bulgaria	1
+3	Friendly
+in Australia	-15
++15	1676
+1798	-1
++1	28
+15
+February 18
+1973	Australia
+Bulgaria	0
+2	Friendly
+in Australia	-14
++14	1662
+1812	-5
++2	33
+13
+March 04
+1973	Australia
+New Zealand	1
+1	World Cup qualifier
+in Australia	-13
++13	1649
+1514	-2
++1	34
+63
+March 11
+1973	Australia
+Iraq	3
+1	World Cup qualifier
+in Australia	+13
+-13	1662
+1511	+2
+-2	32
+62
+March 13
+1973	Australia
+Indonesia	2
+1	World Cup qualifier
+in Australia	+4
+-4	1666
+1388	0
+-2	32
+90
+March 16
+1973	Australia
+New Zealand	3
+3	World Cup qualifier
+in Australia	-14
++14	1652
+1491	-1
++2	33
+66
+March 18
+1973	Australia
+Iraq	0
+0	World Cup qualifier
+in Australia	-11
++11	1641
+1544	-2
++5	35
+54
+March 24
+1973	Australia
+Indonesia	6
+0	World Cup qualifier
+in Australia	+11
+-11	1652
+1397	+2
+-4	33
+88
+August 18
+1973	Australia
+Iran	3
+0	World Cup qualifier
+in Australia	+20
+-20	1672
+1572	+1
+-4	31
+48
+August 24
+1973	Iran
+Australia	2
+0	World Cup qualifier
+in Iran	+30
+-30	1602
+1642	+6
+-5	42
+36
+October 28
+1973	Australia
+South Korea	0
+0	World Cup qualifier
+in Australia	-10
++10	1632
+1567	0
++4	36
+49
+November 10
+1973	South Korea
+Australia	2
+2	World Cup qualifier
+in South Korea	-2
++2	1565
+1634	-3
+0	52
+36
+November 13
+1973	Australia
+South Korea	1
+0	World Cup qualifier
+in Hong Kong	+16
+-16	1650
+1549	+1
+-6	34
+56
+April 26
+1974	Australia
+Uruguay	0
+0	Friendly
+in Australia	0
+0	1650
+1739	0
+0	33
+25
+April 28
+1974	Australia
+Uruguay	2
+0	Friendly
+in Australia	+15
+-15	1665
+1724	+1
+-2	32
+27
+May 21
+1974	Indonesia
+Australia	1
+2	Friendly
+in Indonesia	-5
++5	1374
+1670	-2
+0	97
+32
+May 28
+1974	Israel
+Australia	2
+1	Friendly
+in Israel	+7
+-7	1681
+1663	0
+0	30
+32
+June 14
+1974	East Germany
+Australia	2
+0	World Cup
+in West Germany	+19
+-19	1914
+1644	+1
+-2	6
+34
+June 18
+1974	West Germany
+Australia	3
+0	World Cup
+in West Germany	+5
+-5	2073
+1639	0
+-2	1
+36
+June 22
+1974	Australia
+Chile	0
+0	World Cup
+in West Germany	+9
+-9	1648
+1743	+2
+-1	34
+23
+August 06
+1975	Australia
+China	1
+0	Friendly
+in Australia	+4
+-4	1652
+1498	+1
+-2	33
+67
+February 29
+1976	New Zealand
+Australia	0
+1	Friendly
+in New Zealand	-7
++7	1439
+1659	0
++1	75
+34
+March 02
+1976	Australia
+New Zealand	3
+3	Friendly
+in Australia	-7
++7	1652
+1446	-2
+0	34
+75
+August 11
+1976	Australia
+Hong Kong	0
+1	Friendly
+in Australia	-18
++18	1634
+1338	-3
++5	39
+104
+August 18
+1976	Australia
+Hong Kong	2
+0	Friendly
+in Australia	+3
+-3	1637
+1335	0
+-1	39
+104
+October 20
+1976	Indonesia
+Australia	1
+1	Friendly
+in Indonesia	+7
+-7	1243
+1630	+2
+0	128
+40
+October 22
+1976	Singapore
+Australia	0
+1	Friendly
+in Singapore	-3
++3	1227
+1633	0
+0	132
+40
+October 24
+1976	Hong Kong
+Australia	0
+2	Friendly
+in Hong Kong	-7
++7	1328
+1640	-3
++2	106
+38
+October 29
+1976	China
+Australia	0
+2	Friendly
+in China	-13
++13	1487
+1653	-2
++2	68
+35
+November 03
+1976	Israel
+Australia	1
+1	Friendly
+in Israel	-5
++5	1729
+1658	0
+0	23
+35
+February 12
+1977	Australia
+Israel	1
+1	Friendly
+in Australia	-2
++2	1656
+1706	0
+0	35
+27
+February 16
+1977	Australia
+Israel	1
+1	Friendly
+in Australia	-1
++1	1655
+1707	-2
+0	37
+27
+March 13
+1977	Australia
+Taiwan	3
+0	World Cup qualifier
+in Fiji	+7
+-7	1662
+1277	+1
+-2	35
+122
+March 16
+1977	Australia
+Taiwan	2
+1	World Cup qualifier
+in Fiji	+4
+-4	1666
+1273	+2
+0	33
+122
+March 19
+1977	Fiji
+Australia	1
+0	Friendly
+in Fiji	+19
+-19	1142
+1647	+2
+-4	147
+37
+March 27
+1977	Australia
+New Zealand	3
+1	World Cup qualifier
+in Australia	+13
+-13	1660
+1506	+2
+-4	35
+64
+March 30
+1977	New Zealand
+Australia	1
+1	World Cup qualifier
+in New Zealand	+3
+-3	1509
+1657	+2
+-1	62
+36
+July 10
+1977	Australia
+Hong Kong	3
+0	World Cup qualifier
+in Australia	+7
+-7	1664
+1363	0
+-4	36
+100
+August 14
+1977	Australia
+Iran	0
+1	World Cup qualifier
+in Australia	-23
++23	1641
+1737	-1
++2	37
+25
+August 28
+1977	Australia
+South Korea	2
+1	World Cup qualifier
+in Australia	+18
+-18	1659
+1684	+1
+-3	36
+31
+October 16
+1977	Australia
+Kuwait	1
+2	World Cup qualifier
+in Australia	-24
++24	1635
+1717	-1
++3	38
+29
+October 23
+1977	South Korea
+Australia	0
+0	World Cup qualifier
+in South Korea	-10
++10	1711
+1645	-4
++1	31
+37
+October 30
+1977	Hong Kong
+Australia	2
+5	World Cup qualifier
+in Hong Kong	-17
++17	1328
+1662	-2
++1	106
+36
+November 13
+1977	Singapore
+Australia	0
+2	Friendly
+in Singapore	-3
++3	1148
+1665	0
+0	148
+36
+November 19
+1977	Kuwait
+Australia	1
+0	World Cup qualifier
+in Kuwait	+12
+-12	1715
+1653	+2
+0	28
+37
+November 25
+1977	Iran
+Australia	1
+0	World Cup qualifier
+in Iran	+9
+-9	1769
+1644	0
+0	21
+37
+June 11
+1978	Australia
+Greece	1
+2	Friendly
+in Australia	-15
++15	1629
+1567	0
++6	39
+51
+June 14
+1978	Australia
+Greece	0
+1	Friendly
+in Australia	-14
++14	1615
+1581	-2
++2	41
+49
+June 17
+1978	Australia
+Greece	1
+1	Friendly
+in Australia	-4
++4	1611
+1585	-1
++1	42
+48
+June 13
+1979	New Zealand
+Australia	1
+0	Friendly
+in New Zealand	+11
+-11	1498
+1600	+4
+-3	67
+49
+November 27
+1979	Taiwan
+Australia	0
+2	Friendly
+in Taiwan	-7
++7	1287
+1607	-1
++1	121
+47
+January 27
+1980	Australia
+Czechoslovakia	0
+4	Friendly
+in Australia	-11
++11	1596
+1873	-1
+0	48
+10
+February 03
+1980	Australia
+Czechoslovakia	0
+5	Friendly
+in Australia	-11
++11	1585
+1884	-5
++1	53
+9
+February 09
+1980	Australia
+Czechoslovakia	2
+2	Friendly
+in Australia	+5
+-5	1590
+1879	+3
+0	50
+9
+February 22
+1980	Australia
+New Hebrides	1
+0	Oceania Nations Cup
+in New Caledonia	+4
+-4	1594
+1141	+2
+0	48
+153
+February 24
+1980	New Caledonia
+Australia	0
+8	Oceania Nations Cup
+in New Caledonia	-47
++47	1371
+1641	-14
++11	97
+37
+February 26
+1980	Australia
+Papua New Guinea	11
+2	Oceania Nations Cup
+in New Caledonia	+6
+-6	1647
+1117	0
+0	37
+156
+March 03
+1980	Australia
+Tahiti	4
+2	Oceania Nations Cup
+in New Caledonia	+31
+-31	1678
+1555	+7
+-7	30
+60
+May 31
+1980	Australia
+England	1
+2	Friendly
+in Australia	-5
++5	1673
+1988	-1
++1	33
+3
+June 11
+1980	Australia
+Northern Ireland	1
+2	Friendly
+in Australia	-11
++11	1662
+1746	-3
++2	36
+22
+June 15
+1980	Australia
+Northern Ireland	1
+1	Friendly
+in Australia	0
+0	1662
+1746	0
+0	36
+22
+June 18
+1980	Australia
+Northern Ireland	1
+2	Friendly
+in Australia	-10
++10	1652
+1756	0
+0	36
+22
+August 24
+1980	Australia
+Mexico	2
+2	Friendly
+in Australia	-4
++4	1648
+1627	0
++1	36
+40
+August 26
+1980	Australia
+Mexico	1
+1	Friendly
+in Australia	-3
++3	1645
+1630	0
++1	36
+39
+November 11
+1980	Greece
+Australia	3
+3	Friendly
+in Greece	-3
++3	1651
+1648	0
+0	35
+37
+December 02
+1980	Israel
+Australia	0
+1	Friendly
+in Israel	-14
++14	1669
+1662	-2
++2	33
+34
+December 05
+1980	Hong Kong
+Australia	1
+0	Friendly
+in Hong Kong	+15
+-15	1374
+1647	+6
+-3	94
+37
+December 07
+1980	Indonesia
+Australia	1
+1	Friendly
+in Indonesia	+6
+-6	1307
+1641	+1
+0	114
+36
+April 25
+1981	New Zealand
+Australia	3
+3	World Cup qualifier
+in New Zealand	+5
+-5	1455
+1636	0
+0	78
+38
+May 16
+1981	Australia
+New Zealand	0
+2	World Cup qualifier
+in Australia	-48
++48	1588
+1548	-10
++7	48
+59
+May 20
+1981	Australia
+Indonesia	2
+0	World Cup qualifier
+in Australia	+5
+-5	1593
+1278	+2
+0	46
+122
+June 10
+1981	Australia
+Taiwan	3
+2	World Cup qualifier
+in Australia	+3
+-3	1596
+1264	+1
+-3	45
+127
+July 26
+1981	Fiji
+Australia	1
+4	World Cup qualifier
+in Fiji	-11
++11	1198
+1607	-2
++2	141
+43
+August 14
+1981	Australia
+Fiji	10
+0	World Cup qualifier
+in Australia	+6
+-6	1613
+1206	0
+0	43
+139
+August 30
+1981	Indonesia
+Australia	1
+0	World Cup qualifier
+in Indonesia	+34
+-34	1230
+1579	+6
+-9	135
+51
+September 06
+1981	Taiwan
+Australia	0
+0	World Cup qualifier
+in Taiwan	+11
+-11	1271
+1568	+4
+-4	124
+55
+October 06
+1982	Australia
+Thailand	4
+0	Merlion Tournament
+in Singapore	+21
+-21	1589
+1459	+4
+-6	49
+78
+October 11
+1982	Australia
+Indonesia	2
+0	Merlion Tournament
+in Singapore	+6
+-6	1595
+1250	+4
+0	45
+134
+October 14
+1982	Australia
+Malaysia	5
+0	Merlion Tournament
+in Singapore	+8
+-8	1603
+1251	+2
+-3	43
+133
+October 17
+1982	Australia
+South Korea	3
+2	Merlion Tournament
+in Singapore	+16
+-16	1619
+1603	+3
+-3	40
+43
+February 22
+1983	New Zealand
+Australia	2
+1	Trans Tasman Cup
+in New Zealand	+14
+-14	1557
+1605	+2
+-2	55
+43
+February 27
+1983	Australia
+New Zealand	0
+2	Trans Tasman Cup
+in Australia	-32
++32	1573
+1589	-6
++9	49
+46
+June 12
+1983	Australia
+England	0
+0	Friendly
+in Australia	+7
+-7	1580
+1970	0
+-1	48
+4
+June 15
+1983	Australia
+England	0
+1	Friendly
+in Australia	-3
++3	1577
+1973	-1
++1	49
+3
+June 19
+1983	Australia
+England	1
+1	Friendly
+in Australia	+7
+-7	1584
+1966	0
+-1	49
+4
+December 04
+1983	China
+Australia	2
+1	Merlion Tournament
+in Singapore	+18
+-18	1532
+1566	+2
+-3	61
+51
+December 10
+1983	Australia
+Thailand	2
+0	Merlion Tournament
+in Singapore	+14
+-14	1580
+1412	+3
+-5	48
+90
+December 15
+1983	Australia
+South Korea	3
+1	Merlion Tournament
+in Singapore	+21
+-21	1601
+1538	+5
+-6	43
+59
+December 18
+1983	Singapore
+Australia	2
+3	Merlion Tournament
+in Singapore	-6
++6	1256
+1607	-3
+0	134
+43
+November 03
+1984	China
+Australia	3
+2	Friendly
+in China	+8
+-8	1577
+1599	+2
+0	51
+43
+May
+1985	Australia
+Tahiti	4
+0	Friendly
+in Australia	+13
+-13	1612
+1580	+4
+-5	43
+53
+September 21
+1985	New Zealand
+Australia	0
+0	World Cup qualifier
+in New Zealand	-5
++5	1598
+1617	-2
+0	47
+44
+September 23
+1985	Australia
+China	2
+0	Friendly
+in Australia	+8
+-8	1625
+1545	0
+0	44
+62
+September 25
+1985	Australia
+China	1
+1	Friendly
+in Australia	-5
++5	1620
+1550	0
+0	44
+62
+September 27
+1985	Australia
+China	3
+0	Friendly
+in Australia	+10
+-10	1630
+1540	+1
+-1	43
+63
+October 08
+1985	Israel
+Australia	1
+2	World Cup qualifier
+in Israel	-27
++27	1627
+1657	-2
++2	41
+39
+October 20
+1985	Australia
+Israel	1
+1	World Cup qualifier
+in Australia	-7
++7	1650
+1634	0
++1	38
+40
+October 23
+1985	Australia
+Taiwan	7
+0	World Cup qualifier
+in Australia	+5
+-5	1655
+1244	0
+-1	38
+133
+October 27
+1985	Australia
+Taiwan	8
+0	World Cup qualifier
+in Australia	+5
+-5	1660
+1239	+2
+-1	36
+134
+November 03
+1985	Australia
+New Zealand	2
+0	World Cup qualifier
+in Australia	+20
+-20	1680
+1614	+1
+-2	35
+41
+November 20
+1985	Scotland
+Australia	2
+0	World Cup qualifier
+in Scotland	+12
+-12	1828
+1668	+2
+0	12
+34
+December 04
+1985	Australia
+Scotland	0
+0	World Cup qualifier
+in Australia	+3
+-3	1671
+1825	0
+-2	34
+14
+August 03
+1986	Australia
+Czechoslovakia	1
+1	Friendly
+in Australia	0
+0	1671
+1785	0
+0	34
+17
+August 06
+1986	Australia
+Czechoslovakia	0
+1	Friendly
+in Australia	-10
++10	1661
+1795	0
++2	34
+15
+August 10
+1986	Australia
+Czechoslovakia	0
+3	Friendly
+in Australia	-16
++16	1645
+1811	-4
++2	38
+13
+October 25
+1986	New Zealand
+Australia	1
+1	Trans Tasman Cup
+in New Zealand	-2
++2	1597
+1647	-2
++1	48
+38
+November 02
+1986	Australia
+New Zealand	2
+1	Trans Tasman Cup
+in Australia	+9
+-9	1656
+1588	+2
+-3	36
+51
+November 23
+1986	China
+Australia	0
+2	Friendly
+in China	-17
++17	1580
+1673	-6
++2	55
+34
+June 09
+1987	Australia
+Morocco	1
+0	Presidents Cup
+in South Korea	+21
+-21	1694
+1673	+4
+-4	31
+35
+June 19
+1987	Australia
+Egypt	0
+0	Presidents Cup
+in South Korea	-3
++3	1691
+1646	0
+0	31
+40
+June 21
+1987	South Korea
+Australia	1
+1	Presidents Cup
+in South Korea	-2
++2	1628
+1693	0
+0	41
+31
+September 02
+1987	Australia
+New Zealand	1
+1	Trans Tasman Cup
+in Australia	-8
++8	1685
+1607	-1
+0	32
+48
+September 09
+1987	New Zealand
+Australia	1
+0	Trans Tasman Cup
+in New Zealand	+14
+-14	1621
+1671	+1
+-2	47
+34
+November 15
+1987	Taiwan
+Australia	0
+3	Olympic Games qualifier
+in Taiwan	-8
++8	1217
+1679	-4
+0	141
+34
+February 28
+1988	Australia
+Taiwan	3
+0	Olympic Games qualifier
+in Australia	+3
+-3	1682
+1214	0
+0	34
+141
+March 07
+1988	Australia
+Israel	2
+0	Olympic Games qualifier
+in Australia	+11
+-11	1693
+1515	+2
+-2	32
+64
+March 09
+1988	Australia
+Taiwan	3
+2	Olympic Games qualifier
+in Australia	+1
+-1	1694
+1214	0
+0	32
+141
+March 13
+1988	Australia
+New Zealand	3
+1	Olympic Games qualifier
+in Australia	+14
+-14	1708
+1575	+3
+-4	29
+52
+March 20
+1988	Australia
+Israel	0
+0	Olympic Games qualifier
+in New Zealand	-8
++8	1700
+1571	-3
++3	32
+52
+March 23
+1988	New Zealand
+Australia	1
+1	Olympic Games qualifier
+in New Zealand	+1
+-1	1580
+1699	-1
+0	52
+32
+March 27
+1988	Australia
+Taiwan	3
+0	Olympic Games qualifier
+in New Zealand	+4
+-4	1703
+1186	-1
+0	33
+144
+July 07
+1988	Australia
+Brazil	0
+1	Bicentenary Gold Cup
+in Australia	-10
++10	1693
+1936	-1
+0	34
+3
+July 09
+1988	Australia
+Saudi Arabia	3
+0	Bicentenary Gold Cup
+in Australia	+8
+-8	1701
+1483	+1
+0	33
+72
+July 14
+1988	Australia
+Argentina	4
+1	Bicentenary Gold Cup
+in Australia	+29
+-29	1730
+1809	+6
+-3	27
+13
+July 17
+1988	Australia
+Brazil	0
+2	Bicentenary Gold Cup
+in Australia	-16
++16	1714
+1952	-1
+0	29
+3
+August 05
+1988	Australia
+China	2
+2	Friendly tournament
+in Indonesia	-9
++9	1705
+1496	-2
++4	31
+71
+August 09
+1988	Australia
+Thailand	0
+0	Friendly tournament
+in Indonesia	-13
++13	1692
+1290	-3
++1	34
+118
+August 15
+1988	China
+Australia	1
+0	Friendly tournament
+in Indonesia	+22
+-22	1529
+1670	+6
+-1	61
+35
+October 12
+1988	New Zealand
+Australia	1
+2	Trans Tasman Cup
+in New Zealand	-15
++15	1559
+1685	-2
++1	51
+34
+October 16
+1988	Australia
+New Zealand	2
+0	Trans Tasman Cup
+in Australia	+10
+-10	1695
+1549	+2
+-2	32
+53
+November 26
+1988	Fiji
+Australia	1
+0	World Cup qualifier
+in Fiji	+31
+-31	1410
+1664	+6
+-3	92
+35
+December 03
+1988	Australia
+Fiji	5
+1	World Cup qualifier
+in Australia	+9
+-9	1673
+1401	+1
+-2	35
+94
+March 12
+1989	Australia
+New Zealand	4
+1	World Cup qualifier
+in Australia	+14
+-14	1687
+1511	0
+-1	34
+65
+March 19
+1989	Israel
+Australia	1
+1	World Cup qualifier
+in Israel	-2
++2	1618
+1689	0
++1	42
+33
+April 02
+1989	New Zealand
+Australia	2
+0	World Cup qualifier
+in New Zealand	+37
+-37	1548
+1652	+4
+-2	60
+35
+April 16
+1989	Australia
+Israel	1
+1	World Cup qualifier
+in Australia	-7
++7	1645
+1627	-1
++1	37
+40
+August 25
+1990	Indonesia
+Australia	0
+3	Friendly tournament
+in Indonesia	-8
++8	1227
+1653	-3
++2	138
+37
+September 06
+1990	South Korea
+Australia	1
+0	Friendly
+in South Korea	+6
+-6	1698
+1647	+1
+-1	29
+37
+September 09
+1990	South Korea
+Australia	1
+0	Friendly
+in South Korea	+6
+-6	1704
+1641	0
+-1	29
+38
+January 30
+1991	Australia
+Czechoslovakia	0
+1	Friendly
+in Australia	-7
++7	1634
+1851	0
++2	35
+9
+February 06
+1991	Australia
+Czechoslovakia	0
+2	Friendly
+in Australia	-10
++10	1624
+1861	-2
+-1	37
+10
+May 12
+1991	New Zealand
+Australia	0
+1	Trans Tasman Cup
+in New Zealand	-17
++17	1543
+1641	-4
+0	57
+36
+May 15
+1991	Australia
+New Zealand	2
+1	Trans Tasman Cup
+in Australia	+7
+-7	1648
+1536	+1
+-2	35
+59
+June 01
+1991	Australia
+England	0
+1	Friendly
+in Australia	-5
++5	1643
+1958	-1
+0	36
+3
+June 14
+1991	South Korea
+Australia	0
+0	Presidents Cup
+in South Korea	-8
++8	1679
+1651	0
++2	33
+35
+September 04
+1991	South Korea
+Australia	0
+0	Friendly
+in South Korea	-4
++4	1699
+1655	0
++2	30
+36
+January 26
+1992	Australia
+Sweden	0
+0	Friendly
+in Australia	+1
+-1	1656
+1788	0
+0	37
+18
+January 29
+1992	Australia
+Sweden	1
+0	Friendly
+in Australia	+11
+-11	1667
+1777	+2
+-1	35
+19
+February 02
+1992	Australia
+Sweden	1
+0	Friendly
+in Australia	+10
+-10	1677
+1767	+1
+-1	34
+20
+June 14
+1992	United States
+Australia	0
+1	Friendly
+in the United States	-12
++12	1653
+1689	-4
++1	38
+32
+June 18
+1992	Argentina
+Australia	2
+0	Friendly
+in Argentina	+3
+-3	1961
+1686	-1
+0	3
+32
+June 21
+1992	Uruguay
+Australia	2
+0	Friendly
+in Uruguay	+6
+-6	1821
+1680	+2
+0	11
+32
+July 05
+1992	Australia
+Croatia	1
+0	Friendly
+in Australia	+11
+-11	1691
+1801	+1
+-2	31
+17
+July 08
+1992	Australia
+Croatia	3
+1	Friendly
+in Australia	+15
+-15	1706
+1786	+2
+-2	29
+19
+July 12
+1992	Australia
+Croatia	0
+0	Friendly
+in Australia	-1
++1	1705
+1787	-1
+0	30
+18
+August 10
+1992	Australia
+Thailand	1
+0	Independence Cup
+in Indonesia	+7
+-7	1712
+1423	+1
+-1	29
+88
+August 11
+1992	Malaysia
+Australia	1
+0	Independence Cup
+in Indonesia	+38
+-38	1225
+1674	+13
+-4	141
+33
+August 13
+1992	South Korea
+Australia	1
+0	Independence Cup
+in Indonesia	+20
+-20	1697
+1654	+2
+-3	30
+36
+August 14
+1992	Indonesia
+Australia	0
+3	Independence Cup
+in Indonesia	-14
++14	1298
+1668	-2
++2	122
+34
+September 04
+1992	Solomon Islands
+Australia	1
+2	World Cup qualifier
+in Solomon Islands	-6
++6	1258
+1674	-1
+0	133
+32
+September 11
+1992	Tahiti
+Australia	0
+3	World Cup qualifier
+in Tahiti	-26
++26	1453
+1700	-7
++3	83
+29
+September 20
+1992	Australia
+Tahiti	2
+0	World Cup qualifier
+in Australia	+7
+-7	1707
+1446	0
+-3	29
+86
+September 25
+1992	Australia
+Solomon Islands	6
+1	World Cup qualifier
+in Australia	+3
+-3	1710
+1255	+1
+-2	29
+135
+April 15
+1993	Australia
+Kuwait	1
+0	Friendly
+in Singapore	+4
+-4	1714
+1468	0
+-1	28
+84
+April 19
+1993	Kuwait
+Australia	3
+1	Friendly
+in Singapore	+24
+-24	1492
+1690	+8
+-2	75
+30
+May 30
+1993	New Zealand
+Australia	0
+1	World Cup qualifier
+in New Zealand	-18
++18	1539
+1708	-3
++1	61
+28
+June 06
+1993	Australia
+New Zealand	3
+0	World Cup qualifier
+in Australia	+12
+-12	1720
+1527	0
+-1	28
+62
+July 31
+1993	Canada
+Australia	2
+1	World Cup qualifier
+in Canada	+24
+-24	1570
+1696	+8
+-2	54
+29
+August 15
+1993	Australia
+Canada	2
+1	World Cup qualifier
+in Australia	+9
+-9	1705
+1561	+1
+-4	28
+58
+September 24
+1993	South Korea
+Australia	1
+1	Friendly
+in South Korea	0
+0	1605
+1705	0
+0	48
+28
+September 26
+1993	South Korea
+Australia	1
+0	Friendly
+in South Korea	+10
+-10	1615
+1695	+3
+-1	45
+30
+October 31
+1993	Australia
+Argentina	1
+1	World Cup qualifier
+in Australia	+5
+-5	1700
+1875	0
+-1	29
+9
+November 10
+1993	Chile
+Australia	3
+2	Friendly
+in Chile	+7
+-7	1718
+1693	+2
+0	26
+29
+November 17
+1993	Argentina
+Australia	1
+0	World Cup qualifier
+in Argentina	+7
+-7	1882
+1686	+1
+-1	8
+30
+May 22
+1994	Japan
+Australia	1
+1	Kirin Cup
+in Japan	-2
++2	1636
+1688	0
+0	43
+29
+May 26
+1994	France
+Australia	1
+0	Kirin Cup
+in Japan	+8
+-8	1872
+1680	+1
+-1	9
+30
+June 08
+1994	Australia
+South Africa	1
+0	Friendly
+in Australia	+6
+-6	1686
+1645	+1
+-3	29
+40
+June 12
+1994	Australia
+South Africa	1
+0	Friendly
+in Australia	+6
+-6	1692
+1639	0
+-1	29
+41
+September 24
+1994	Australia
+Kuwait	0
+0	Friendly
+in Malaysia	-4
++4	1688
+1533	0
++1	29
+65
+September 27
+1994	Japan
+Australia	0
+0	Friendly
+in Japan	-1
++1	1633
+1689	-2
+0	38
+30
+February 07
+1995	Australia
+Colombia	0
+0	Friendly
+in Australia	+1
+-1	1690
+1838	0
+0	28
+16
+February 11
+1995	Australia
+Colombia	0
+1	Friendly
+in Australia	-9
++9	1681
+1847	0
++3	28
+12
+February 15
+1995	Australia
+Japan	2
+1	Friendly
+in Australia	+4
+-4	1685
+1544	0
+0	28
+60
+June 18
+1995	Australia
+Ghana	2
+1	Friendly
+in Australia	+6
+-6	1691
+1623	+1
+-3	29
+43
+June 21
+1995	Australia
+Ghana	1
+0	Friendly
+in Australia	+6
+-6	1697
+1617	0
+0	30
+43
+June 24
+1995	Australia
+Ghana	0
+1	Friendly
+in Australia	-15
++15	1682
+1632	-1
++4	31
+39
+June 30
+1995	Argentina
+Australia	2
+0	Friendly
+in Argentina	+5
+-5	1854
+1677	0
+0	10
+31
+November 10
+1995	New Zealand
+Australia	0
+0	Oceania Nations Cup
+in New Zealand	+6
+-6	1505
+1671	+1
+-1	72
+32
+November 15
+1995	Australia
+New Zealand	3
+0	Oceania Nations Cup
+in Australia	+16
+-16	1687
+1489	+3
+-7	29
+78
+February 10
+1996	Australia
+Japan	1
+4	Friendly
+in Australia	-25
++25	1662
+1649	-4
++5	35
+36
+February 14
+1996	Australia
+Japan	3
+0	Friendly
+in Australia	+12
+-12	1674
+1637	+2
+0	33
+37
+February 25
+1996	Australia
+Sweden	0
+2	Friendly
+in Australia	-14
++14	1660
+1821	-2
++1	36
+17
+February 28
+1996	Australia
+Sweden	0
+0	Friendly
+in Australia	+2
+-2	1662
+1819	0
+0	36
+17
+March 27
+1996	Scotland
+Australia	1
+0	Friendly
+in Scotland	+5
+-5	1753
+1657	0
+0	24
+36
+April 23
+1996	Chile
+Australia	3
+0	Friendly
+in Chile	+11
+-11	1697
+1646	+1
+-1	30
+36
+September 14
+1996	Australia
+Ghana	2
+0	Simba Cup
+in South Africa	+21
+-21	1667
+1598	+2
+-6	33
+47
+September 18
+1996	South Africa
+Australia	2
+0	Simba Cup
+in South Africa	+11
+-11	1766
+1656	+1
+-2	21
+35
+September 21
+1996	Australia
+Kenya	4
+0	Simba Cup
+in South Africa	+14
+-14	1670
+1443	+2
+-2	33
+90
+October 09
+1996	Saudi Arabia
+Australia	0
+0	Friendly
+in Saudi Arabia	-1
++1	1604
+1671	0
+0	48
+33
+October 26
+1996	Tahiti
+Australia	0
+6	Oceania Nations Cup
+in Tahiti	-56
++56	1532
+1727	-10
++6	64
+28
+November 01
+1996	Australia
+Tahiti	5
+0	Oceania Nations Cup
+in Australia	+15
+-15	1742
+1517	+1
+-3	27
+69
+January 18
+1997	Australia
+New Zealand	1
+0	Friendly tournament
+in Australia	+3
+-3	1745
+1482	0
+-3	24
+81
+January 22
+1997	Australia
+South Korea	2
+1	Friendly tournament
+in Australia	+6
+-6	1751
+1591	0
+-1	24
+53
+January 25
+1997	Australia
+Norway	1
+0	Friendly tournament
+in Australia	+13
+-13	1764
+1793	+1
+0	23
+17
+March 12
+1997	Macedonia
+Australia	0
+1	Friendly
+in Macedonia	-5
++5	1481
+1769	-4
+0	80
+22
+April 02
+1997	Hungary
+Australia	1
+3	Friendly
+in Hungary	-11
++11	1573
+1780	-1
++1	55
+21
+June 11
+1997	Australia
+Solomon Islands	13
+0	World Cup qualifier
+in Australia	+5
+-5	1785
+1326	0
+-2	20
+124
+June 13
+1997	Australia
+Tahiti	5
+0	World Cup qualifier
+in Australia	+9
+-9	1794
+1508	0
+-2	20
+73
+June 17
+1997	Australia
+Solomon Islands	6
+2	World Cup qualifier
+in Australia	+4
+-4	1798
+1374	0
+0	19
+110
+June 19
+1997	Australia
+Tahiti	2
+0	World Cup qualifier
+in Australia	+4
+-4	1802
+1452	0
+-2	19
+87
+June 28
+1997	New Zealand
+Australia	0
+3	World Cup qualifier
+in New Zealand	-16
++16	1468
+1818	-3
++3	81
+14
+July 06
+1997	Australia
+New Zealand	2
+0	World Cup qualifier
+in Australia	+4
+-4	1822
+1464	0
+-2	14
+84
+October 01
+1997	Tunisia
+Australia	0
+3	Friendly
+in Tunisia	-15
++15	1664
+1837	-4
++3	39
+12
+November 22
+1997	Iran
+Australia	1
+1	World Cup qualifier
+in Iran	+5
+-5	1658
+1832	+2
+-1	42
+14
+November 29
+1997	Australia
+Iran	2
+2	World Cup qualifier
+in Australia	-13
++13	1819
+1671	-2
++3	16
+39
+December 12
+1997	Australia
+Mexico	3
+1	Confederations Cup
+in Saudi Arabia	+31
+-31	1850
+1727	+5
+-5	11
+27
+December 14
+1997	Australia
+Brazil	0
+0	Confederations Cup
+in Saudi Arabia	+17
+-17	1867
+2117	+1
+0	10
+1
+December 16
+1997	Saudi Arabia
+Australia	1
+0	Confederations Cup
+in Saudi Arabia	+37
+-37	1630
+1830	+6
+-3	46
+13
+December 19
+1997	Australia
+Uruguay	1
+0	Confederations Cup
+in Saudi Arabia	+21
+-21	1851
+1749	+2
+-2	11
+23
+December 21
+1997	Brazil
+Australia	6
+0	Confederations Cup
+in Saudi Arabia	+17
+-17	2151
+1834	0
+-1	1
+12
+February 07
+1998	Australia
+Chile	0
+1	Friendly
+in Australia	-16
++16	1818
+1735	-4
++4	16
+26
+February 11
+1998	Australia
+South Korea	1
+0	Friendly
+in Australia	+6
+-6	1824
+1750	+1
+-1	15
+25
+February 15
+1998	Australia
+Japan	0
+3	Friendly
+in Australia	-26
++26	1798
+1758	-3
++5	18
+24
+June 06
+1998	Croatia
+Australia	7
+0	Friendly
+in Croatia	+15
+-15	1828
+1783	+4
+0	13
+19
+September 25
+1998	Australia
+Fiji	3
+1	Oceania Nations Cup
+in Australia	+5
+-5	1788
+1424	0
+-1	19
+97
+September 28
+1998	Australia
+Cook Islands	16
+0	Oceania Nations Cup
+in Australia	+1
+-1	1789
+886	0
+0	19
+203
+October 02
+1998	Australia
+Tahiti	4
+1	Oceania Nations Cup
+in Australia	+6
+-6	1795
+1440	+1
+-2	18
+94
+October 04
+1998	Australia
+New Zealand	0
+1	Oceania Nations Cup
+in Australia	-45
++45	1750
+1546	-4
++12	22
+60
+November 06
+1998	United States
+Australia	0
+0	Friendly
+in the United States	-1
++1	1667
+1751	-1
+0	39
+21
+February 09
+2000	Chile
+Australia	2
+1	Copa Ciudad de Valparaíso
+in Chile	+13
+-13	1708
+1738	+5
+0	29
+23
+February 12
+2000	Australia
+Slovakia	0
+0	Copa Ciudad de Valparaíso
+in Chile	-5
++5	1733
+1618	-1
++1	25
+51
+February 15
+2000	Bulgaria
+Australia	1
+1	Copa Ciudad de Valparaíso
+in Chile	+4
+-4	1639
+1729	0
+-2	47
+27
+February 23
+2000	Hungary
+Australia	0
+3	Friendly
+in Hungary	-15
++15	1561
+1744	-1
++4	59
+23
+March 29
+2000	Czechia
+Australia	3
+1	Friendly
+in Czechia	+5
+-5	1914
+1739	-1
+-1	6
+23
+June 09
+2000	Australia
+Paraguay	0
+0	Friendly
+in Australia	-2
++2	1737
+1778	-1
+0	23
+20
+June 12
+2000	Australia
+Paraguay	0
+0	Friendly
+in Australia	-2
++2	1735
+1780	-1
+0	24
+19
+June 15
+2000	Australia
+Paraguay	2
+1	Friendly
+in Australia	+8
+-8	1743
+1772	+2
+-1	22
+19
+June 19
+2000	Australia
+Cook Islands	17
+0	Oceania Nations Cup
+in Tahiti	+2
+-2	1745
+931	0
+0	22
+194
+June 23
+2000	Australia
+Solomon Islands	6
+0	Oceania Nations Cup
+in Tahiti	+10
+-10	1755
+1347	+1
+-3	20
+119
+June 25
+2000	Australia
+Vanuatu	1
+0	Oceania Nations Cup
+in Tahiti	+2
+-2	1757
+1197	0
+-1	20
+156
+June 28
+2000	Australia
+New Zealand	2
+0	Oceania Nations Cup
+in Tahiti	+18
+-18	1775
+1538	+2
+-2	18
+62
+October 04
+2000	Australia
+Kuwait	1
+0	Friendly tournament
+in United Arab Emirates	+10
+-10	1785
+1638	+1
+-1	19
+49
+October 07
+2000	South Korea
+Australia	4
+2	Friendly tournament
+in United Arab Emirates	+27
+-27	1749
+1758	+5
+-1	23
+20
+November 15
+2000	Scotland
+Australia	0
+2	Friendly
+in Scotland	-18
++18	1714
+1776	-6
++3	33
+19
+February 28
+2001	Colombia
+Australia	3
+2	Friendly
+in Colombia	+8
+-8	1771
+1768	+1
+-2	21
+22
+April 09
+2001	Australia
+Tonga	22
+0	World Cup qualifier
+in Australia	+1
+-1	1769
+878	0
+0	23
+205
+April 11
+2001	Australia
+Eastern Samoa	31
+0	World Cup qualifier
+in Australia	0
+0	1769
+588	0
+0	23
+225
+April 14
+2001	Australia
+Fiji	2
+0	World Cup qualifier
+in Australia	+5
+-5	1774
+1448	+1
+-2	22
+86
+April 16
+2001	Australia
+Western Samoa	11
+0	World Cup qualifier
+in Australia	0
+0	1774
+911	0
+0	22
+200
+May 30
+2001	Australia
+Mexico	2
+0	Confederations Cup
+in South Korea	+36
+-36	1810
+1727	+8
+-3	13
+28
+June 01
+2001	Australia
+France	1
+0	Confederations Cup
+in South Korea	+42
+-42	1852
+2061	+2
+0	11
+1
+June 03
+2001	South Korea
+Australia	1
+0	Confederations Cup
+in South Korea	+24
+-24	1791
+1828	+2
+-3	21
+13
+June 07
+2001	Japan
+Australia	1
+0	Confederations Cup
+in Japan	+19
+-19	1834
+1809	+3
+-4	13
+17
+June 09
+2001	Australia
+Brazil	1
+0	Confederations Cup
+in South Korea	+33
+-33	1842
+1897	+5
+-1	12
+7
+June 20
+2001	New Zealand
+Australia	0
+2	World Cup qualifier
+in New Zealand	-15
++15	1537
+1857	-1
++2	66
+10
+June 24
+2001	Australia
+New Zealand	4
+1	World Cup qualifier
+in Australia	+6
+-6	1863
+1531	0
+0	10
+66
+August 15
+2001	Japan
+Australia	3
+0	AFC-OFC Challenge Cup
+in Japan	+20
+-20	1867
+1843	+5
+-5	8
+14
+November 11
+2001	Australia
+France	1
+1	Friendly
+in Australia	+4
+-4	1847
+2084	0
+0	11
+1
+November 20
+2001	Australia
+Uruguay	1
+0	World Cup qualifier
+in Australia	+9
+-9	1856
+1731	+2
+-1	9
+27
+November 25
+2001	Uruguay
+Australia	3
+0	World Cup qualifier
+in Uruguay	+38
+-38	1769
+1818	+3
+-5	24
+14
+July 06
+2002	Australia
+Vanuatu	2
+0	Oceania Nations Cup
+in New Zealand	+2
+-2	1820
+1146	0
+0	15
+167
+July 08
+2002	Australia
+New Caledonia	11
+0	Oceania Nations Cup
+in New Zealand	+3
+-3	1823
+1179	0
+-1	15
+158
+July 10
+2002	Australia
+Fiji	8
+0	Oceania Nations Cup
+in New Zealand	+11
+-11	1834
+1407	+1
+-3	14
+100
+July 12
+2002	Australia
+Tahiti	2
+1	Oceania Nations Cup
+in New Zealand	+4
+-4	1838
+1389	0
+-1	14
+107
+July 14
+2002	New Zealand
+Australia	1
+0	Oceania Nations Cup
+in New Zealand	+36
+-36	1608
+1802	+4
+-4	52
+18
+February 12
+2003	England
+Australia	1
+3	Friendly
+in England	-23
++23	1894
+1825	-1
+0	7
+15
+August 19
+2003	Ireland
+Australia	2
+1	Friendly
+in Ireland	+7
+-7	1849
+1818	0
+0	14
+16
+September 07
+2003	Australia
+Jamaica	2
+1	Friendly
+in England	+4
+-4	1822
+1576	0
+-1	16
+60
+February 18
+2004	Venezuela
+Australia	1
+1	Friendly
+in Venezuela	+3
+-3	1618
+1819	0
++2	52
+12
+March 30
+2004	Australia
+South Africa	1
+0	Friendly
+in England	+4
+-4	1823
+1564	+1
+0	12
+63
+May 21
+2004	Australia
+Turkey	1
+3	Friendly
+in Australia	-20
++20	1803
+1834	-4
++3	17
+12
+May 24
+2004	Australia
+Turkey	0
+1	Friendly
+in Australia	-12
++12	1791
+1846	0
+0	17
+12
+May 29
+2004	Australia
+New Zealand	1
+0	World Cup qualifier
+in Australia	+5
+-5	1796
+1528	0
+-2	17
+69
+May 31
+2004	Australia
+Tahiti	9
+0	World Cup qualifier
+in Australia	+4
+-4	1800
+1332	+1
++1	16
+124
+June 02
+2004	Australia
+Fiji	6
+1	World Cup qualifier
+in Australia	+4
+-4	1804
+1398	0
+-1	16
+106
+June 04
+2004	Australia
+Vanuatu	3
+0	World Cup qualifier
+in Australia	+2
+-2	1806
+1309	0
+0	16
+129
+June 06
+2004	Australia
+Solomon Islands	2
+2	World Cup qualifier
+in Australia	-18
++18	1788
+1409	-1
++6	19
+101
+October 09
+2004	Solomon Islands
+Australia	1
+5	Oceania Nations Cup
+in Solomon Islands	-16
++16	1393
+1804	-3
++4	102
+20
+October 12
+2004	Australia
+Solomon Islands	6
+0	Oceania Nations Cup
+in Australia	+5
+-5	1809
+1388	0
+-3	20
+105
+November 16
+2004	Australia
+Norway	2
+2	Friendly
+in England	-1
++1	1808
+1768	0
+0	20
+25
+February 09
+2005	South Africa
+Australia	1
+1	Friendly
+in South Africa	+4
+-4	1574
+1804	+1
+-1	63
+19
+March 26
+2005	Australia
+Iraq	2
+1	Friendly
+in Australia	+2
+-2	1806
+1497	0
+-1	19
+79
+March 29
+2005	Australia
+Indonesia	3
+0	Friendly
+in Australia	+1
+-1	1807
+1297	0
+0	19
+134
+June 09
+2005	Australia
+New Zealand	1
+0	Friendly
+in England	+4
+-4	1811
+1535	+1
+-1	18
+72
+June 15
+2005	Germany
+Australia	4
+3	Confederations Cup
+in Germany	+15
+-15	1877
+1796	+3
+-3	9
+21
+June 18
+2005	Argentina
+Australia	4
+2	Confederations Cup
+in Germany	+18
+-18	2009
+1778	0
+-3	1
+24
+June 21
+2005	Tunisia
+Australia	2
+0	Confederations Cup
+in Germany	+52
+-52	1691
+1726	+11
+-6	39
+31
+September 03
+2005	Australia
+Solomon Islands	7
+0	World Cup qualifier
+in Australia	+7
+-7	1733
+1381	+1
+-3	29
+105
+September 06
+2005	Solomon Islands
+Australia	1
+2	World Cup qualifier
+in Solomon Islands	-8
++8	1373
+1741	-1
+0	106
+30
+October 09
+2005	Australia
+Jamaica	5
+0	Friendly
+in England	+15
+-15	1756
+1631	+4
+-2	26
+51
+November 12
+2005	Uruguay
+Australia	1
+0	World Cup qualifier
+in Uruguay	+12
+-12	1818
+1744	+2
+-3	16
+30
+November 16
+2005	Australia
+Uruguay	1
+0	World Cup qualifier
+in Australia	+19
+-19	1763
+1799	+5
+-4	24
+20
+February 22
+2006	Bahrain
+Australia	1
+3	Asian Cup qualifier
+in Bahrain	-17
++17	1478
+1780	-4
++2	82
+24
+May 25
+2006	Australia
+Greece	1
+0	Friendly
+in Australia	+7
+-7	1787
+1774	+2
+-3	22
+25
+June 04
+2006	Netherlands
+Australia	1
+1	Friendly
+in the Netherlands	-7
++7	1962
+1794	0
++2	2
+20
+June 07
+2006	Australia
+Liechtenstein	3
+1	Friendly
+in Germany	+1
+-1	1795
+1098	+1
+0	19
+173
+June 12
+2006	Australia
+Japan	3
+1	World Cup
+in Germany	+42
+-42	1837
+1730	+5
+-9	13
+33
+June 18
+2006	Brazil
+Australia	2
+0	World Cup
+in Germany	+23
+-23	2047
+1814	0
+-3	1
+16
+June 22
+2006	Australia
+Croatia	2
+2	World Cup
+in Germany	-2
++2	1812
+1790	0
++1	16
+19
+June 26
+2006	Italy
+Australia	1
+0	World Cup
+in Germany	+18
+-18	1975
+1794	+1
+-2	5
+18
+August 16
+2006	Australia
+Kuwait	2
+0	Asian Cup qualifier
+in Australia	+4
+-4	1798
+1431	+1
+-1	17
+96
+September 06
+2006	Kuwait
+Australia	2
+0	Asian Cup qualifier
+in Kuwait	+49
+-49	1480
+1749	+12
+-9	84
+26
+October 07
+2006	Australia
+Paraguay	1
+1	Friendly
+in Australia	-3
++3	1746
+1746	0
++3	26
+26
+October 11
+2006	Australia
+Bahrain	2
+0	Asian Cup qualifier
+in Australia	+6
+-6	1752
+1451	0
+0	26
+93
+November 14
+2006	Australia
+Ghana	1
+1	Friendly
+in England	0
+0	1752
+1743	0
+0	26
+28
+February 06
+2007	Denmark
+Australia	3
+1	Friendly
+in England	+11
+-11	1856
+1741	+1
+-3	11
+31
+March 24
+2007	China
+Australia	0
+2	Friendly
+in China	-13
++13	1573
+1754	-3
++3	60
+27
+June 02
+2007	Australia
+Uruguay	1
+2	Friendly
+in Australia	-11
++11	1743
+1842	-1
++2	29
+13
+June 30
+2007	Singapore
+Australia	0
+3	Friendly
+in Singapore	-4
++4	1301
+1747	0
++2	131
+28
+July 08
+2007	Australia
+Oman	1
+1	Asian Cup
+in Thailand	-11
++11	1736
+1592	-4
++2	32
+57
+July 13
+2007	Iraq
+Australia	3
+1	Asian Cup
+in Thailand	+56
+-56	1601
+1680	+9
+-9	56
+41
+July 16
+2007	Thailand
+Australia	0
+4	Asian Cup
+in Thailand	-26
++26	1383
+1706	-4
++1	106
+40
+July 21
+2007	Japan
+Australia	1
+1	Asian Cup
+in Vietnam	-3
++3	1743
+1709	0
+0	28
+40
+September 11
+2007	Australia
+Argentina	0
+1	Friendly
+in Australia	-5
++5	1704
+1998	-2
+0	38
+3
+November 17
+2007	Australia
+Nigeria	1
+0	Friendly
+in England	+11
+-11	1715
+1732	+1
+-4	37
+33
+February 06
+2008	Australia
+Qatar	3
+0	World Cup qualifier
+in Australia	+8
+-8	1723
+1463	+2
+-3	35
+90
+March 22
+2008	Singapore
+Australia	0
+0	Friendly
+in Singapore	+6
+-6	1362
+1717	+2
+-3	113
+38
+March 26
+2008	China
+Australia	0
+0	World Cup qualifier
+in China	+4
+-4	1550
+1713	-1
++2	69
+36
+May 23
+2008	Australia
+Ghana	1
+0	Friendly
+in Australia	+9
+-9	1722
+1776	+2
+-4	34
+21
+June 01
+2008	Australia
+Iraq	1
+0	World Cup qualifier
+in Australia	+7
+-7	1729
+1551	+1
+-1	33
+65
+June 07
+2008	Iraq
+Australia	1
+0	World Cup qualifier
+in United Arab Emirates	+29
+-29	1580
+1700	+8
+-7	58
+40
+June 14
+2008	Qatar
+Australia	1
+3	World Cup qualifier
+in Qatar	-23
++23	1496
+1723	-7
++7	82
+33
+June 22
+2008	Australia
+China	0
+1	World Cup qualifier
+in Australia	-35
++35	1688
+1536	-5
++7	40
+71
+August 19
+2008	Australia
+South Africa	2
+2	Friendly
+in England	-6
++6	1682
+1474	0
++1	40
+89
+September 06
+2008	Netherlands
+Australia	1
+2	Friendly
+in the Netherlands	-18
++18	1979
+1700	-2
++5	4
+37
+September 10
+2008	Uzbekistan
+Australia	0
+1	World Cup qualifier
+in Uzbekistan	-17
++17	1538
+1717	-7
++3	69
+34
+October 15
+2008	Australia
+Qatar	4
+0	World Cup qualifier
+in Australia	+12
+-12	1729
+1509	+2
+-2	33
+81
+November 19
+2008	Bahrain
+Australia	0
+1	World Cup qualifier
+in Bahrain	-13
++13	1498
+1742	-5
++3	85
+30
+January 28
+2009	Indonesia
+Australia	0
+0	Asian Cup qualifier
+in Indonesia	+16
+-16	1278
+1726	+4
+-4	137
+34
+February 11
+2009	Japan
+Australia	0
+0	World Cup qualifier
+in Japan	-6
++6	1737
+1732	-2
+0	31
+33
+March 05
+2009	Australia
+Kuwait	0
+1	Asian Cup qualifier
+in Australia	-37
++37	1695
+1456	-6
++8	39
+92
+April 01
+2009	Australia
+Uzbekistan	2
+0	World Cup qualifier
+in Australia	+12
+-12	1707
+1545	+2
+-7	38
+70
+June 06
+2009	Qatar
+Australia	0
+0	World Cup qualifier
+in Qatar	+6
+-6	1499
+1701	0
+-1	84
+38
+June 10
+2009	Australia
+Bahrain	2
+0	World Cup qualifier
+in Australia	+14
+-14	1715
+1582	+3
+-1	35
+57
+June 17
+2009	Australia
+Japan	2
+1	World Cup qualifier
+in Australia	+18
+-18	1733
+1755	+4
+-6	31
+26
+August 12
+2009	Ireland
+Australia	0
+3	Friendly
+in Ireland	-24
++24	1737
+1757	-8
++7	32
+25
+September 05
+2009	South Korea
+Australia	3
+1	Friendly
+in South Korea	+12
+-12	1734
+1745	+2
+-5	34
+30
+October 10
+2009	Australia
+Netherlands	0
+0	Friendly
+in Australia	+5
+-5	1750
+2011	+5
+0	26
+3
+October 14
+2009	Australia
+Oman	1
+0	Asian Cup qualifier
+in Australia	+7
+-7	1757
+1586	+3
+-2	23
+58
+November 14
+2009	Oman
+Australia	1
+2	Asian Cup qualifier
+in Oman	-16
++16	1570
+1773	-2
++4	60
+18
+January 06
+2010	Kuwait
+Australia	2
+2	Asian Cup qualifier
+in Kuwait	+11
+-11	1474
+1762	+2
+-3	90
+22
+March 03
+2010	Australia
+Indonesia	1
+0	Asian Cup qualifier
+in Australia	+1
+-1	1763
+1262	+2
+0	18
+141
+May 24
+2010	Australia
+New Zealand	2
+1	Friendly
+in Australia	+3
+-3	1766
+1532	-1
+0	19
+78
+June 01
+2010	Australia
+Denmark	1
+0	Friendly
+in South Africa	+10
+-10	1776
+1755	+2
+-1	17
+21
+June 05
+2010	United States
+Australia	3
+1	Friendly
+in South Africa	+16
+-16	1765
+1760	+2
+-3	20
+21
+June 13
+2010	Germany
+Australia	4
+0	World Cup
+in South Africa	+31
+-31	1960
+1729	+1
+-5	4
+27
+June 19
+2010	Australia
+Ghana	1
+1	World Cup
+in South Africa	0
+0	1729
+1727	-1
+0	27
+28
+June 23
+2010	Australia
+Serbia	2
+1	World Cup
+in South Africa	+38
+-38	1767
+1781	+6
+-3	21
+17
+August 11
+2010	Slovenia
+Australia	2
+0	Friendly
+in Slovenia	+15
+-15	1687
+1752	+4
+-2	38
+22
+September 03
+2010	Switzerland
+Australia	0
+0	Friendly
+in Switzerland	-3
++3	1762
+1755	0
+0	21
+22
+September 07
+2010	Poland
+Australia	1
+2	Friendly
+in Poland	-9
++9	1618
+1764	-3
++3	51
+19
+October 09
+2010	Australia
+Paraguay	1
+0	Friendly
+in Australia	+7
+-7	1771
+1752	+1
+-2	20
+24
+November 17
+2010	Egypt
+Australia	3
+0	Friendly
+in Egypt	+13
+-13	1786
+1758	+3
+-4	14
+22
+January 05
+2011	United Arab Emirates
+Australia	0
+0	Friendly
+in United Arab Emirates	+5
+-5	1482
+1753	+2
+0	90
+22
+January 10
+2011	Australia
+India	4
+0	Asian Cup
+in Qatar	+4
+-4	1757
+1221	0
+-3	21
+152
+January 14
+2011	Australia
+South Korea	1
+1	Asian Cup
+in Qatar	-2
++2	1755
+1735	0
+0	22
+26
+January 18
+2011	Australia
+Bahrain	1
+0	Asian Cup
+in Qatar	+8
+-8	1763
+1451	+1
+-1	21
+97
+January 22
+2011	Australia
+Iraq	1
+0	Asian Cup
+in Qatar	+14
+-14	1777
+1579	+2
+-4	19
+61
+January 25
+2011	Australia
+Uzbekistan	6
+0	Asian Cup
+in Qatar	+28
+-28	1805
+1569	+6
+-7	13
+63
+January 29
+2011	Japan
+Australia	1
+0	Asian Cup
+in Qatar	+25
+-25	1826
+1780	+2
+-6	12
+19
+March 29
+2011	Germany
+Australia	1
+2	Friendly
+in Germany	-18
++18	2019
+1798	0
++2	4
+15
+June 05
+2011	Australia
+New Zealand	3
+0	Friendly
+in Australia	+5
+-5	1803
+1567	0
+-2	15
+64
+June 07
+2011	Australia
+Serbia	0
+0	Friendly
+in Australia	-5
++5	1798
+1729	-1
++1	17
+31
+August 10
+2011	Wales
+Australia	1
+2	Friendly
+in Wales	-5
++5	1509
+1803	-1
++1	77
+16
+September 02
+2011	Australia
+Thailand	2
+1	World Cup qualifier
+in Australia	+2
+-2	1805
+1385	0
+-1	16
+112
+September 06
+2011	Saudi Arabia
+Australia	1
+3	World Cup qualifier
+in Saudi Arabia	-18
++18	1545
+1823	-2
++3	69
+13
+October 07
+2011	Australia
+Malaysia	5
+0	Friendly
+in Australia	+1
+-1	1824
+1217	-1
+0	14
+150
+October 11
+2011	Australia
+Oman	3
+0	World Cup qualifier
+in Australia	+5
+-5	1829
+1483	0
+0	14
+86
+November 11
+2011	Oman
+Australia	1
+0	World Cup qualifier
+in Oman	+32
+-32	1518
+1797	+10
+-4	76
+18
+November 15
+2011	Thailand
+Australia	0
+1	World Cup qualifier
+in Thailand	-6
++6	1383
+1803	-1
++2	108
+15
+February 29
+2012	Australia
+Saudi Arabia	4
+2	World Cup qualifier
+in Australia	+7
+-7	1810
+1538	0
+-2	16
+75
+June 02
+2012	Denmark
+Australia	2
+0	Friendly
+in Denmark	+12
+-12	1788
+1798	+1
+0	19
+17
+June 08
+2012	Oman
+Australia	0
+0	World Cup qualifier
+in Oman	+9
+-9	1529
+1789	+4
+-1	76
+18
+June 12
+2012	Australia
+Japan	1
+1	World Cup qualifier
+in Australia	-6
++6	1783
+1786	-2
++2	20
+18
+August 15
+2012	Scotland
+Australia	3
+1	Friendly
+in Scotland	+16
+-16	1680
+1767	+3
+-1	38
+21
+September 06
+2012	Lebanon
+Australia	0
+3	Friendly
+in Lebanon	-3
++3	1275
+1770	0
+0	143
+21
+September 11
+2012	Jordan
+Australia	2
+1	World Cup qualifier
+in Jordan	+27
+-27	1569
+1743	+9
+-2	66
+25
+October 16
+2012	Iraq
+Australia	1
+2	World Cup qualifier
+in Qatar	-11
++11	1563
+1754	-4
++2	68
+24
+November 14
+2012	South Korea
+Australia	1
+2	Friendly
+in South Korea	-13
++13	1750
+1767	-1
++2	24
+22
+December 03
+2012	Hong Kong
+Australia	0
+1	East Asian Championship qualifier
+in Hong Kong	-2
++2	1177
+1769	-2
+0	162
+22
+December 05
+2012	North Korea
+Australia	1
+1	East Asian Championship qualifier
+in Hong Kong	+11
+-11	1557
+1758	+2
+-1	70
+23
+December 07
+2012	Australia
+Guam	9
+0	East Asian Championship qualifier
+in Hong Kong	0
+0	1758
+718	0
+0	23
+217
+December 09
+2012	Australia
+Taiwan	8
+0	East Asian Championship qualifier
+in Hong Kong	+1
+-1	1759
+891	+1
+0	22
+198
+February 06
+2013	Romania
+Australia	3
+2	Friendly
+in Spain	+11
+-11	1718
+1748	+1
+-1	30
+24
+March 26
+2013	Australia
+Oman	2
+2	World Cup qualifier
+in Australia	-15
++15	1733
+1520	-4
++2	29
+79
+June 04
+2013	Japan
+Australia	1
+1	World Cup qualifier
+in Japan	-7
++7	1751
+1740	0
++3	24
+27
+June 11
+2013	Australia
+Jordan	4
+0	World Cup qualifier
+in Australia	+11
+-11	1751
+1529	+3
+-2	26
+75
+June 18
+2013	Australia
+Iraq	1
+0	World Cup qualifier
+in Australia	+6
+-6	1757
+1537	0
+-2	25
+74
+July 20
+2013	South Korea
+Australia	0
+0	East Asian Championship
+in South Korea	-3
++3	1704
+1760	-1
+0	33
+25
+July 25
+2013	Japan
+Australia	3
+2	East Asian Championship
+in South Korea	+23
+-23	1731
+1737	+2
+-3	29
+28
+July 28
+2013	China
+Australia	4
+3	East Asian Championship
+in South Korea	+29
+-29	1598
+1708	+7
+-3	57
+31
+September 07
+2013	Brazil
+Australia	6
+0	Friendly
+in Brazil	+3
+-3	2090
+1705	0
+-1	2
+32
+October 11
+2013	France
+Australia	6
+0	Friendly
+in France	+9
+-9	1848
+1696	0
+-4	14
+35
+October 15
+2013	Australia
+Canada	3
+0	Friendly
+in England	+8
+-8	1704
+1472	+3
+-3	32
+90
+November 19
+2013	Australia
+Costa Rica	1
+0	Friendly
+in Australia	+8
+-8	1712
+1717	0
+-2	32
+31
+March 05
+2014	Ecuador
+Australia	4
+3	Friendly
+in England	+7
+-7	1823
+1705	+2
+-2	14
+33

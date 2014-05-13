@@ -1,0 +1,1179 @@
+
+950	Guadeloupe
+Trinidad and Tobago	0
+1	Friendly tournament
+in Guadeloupe	-16
++16	1384
+1493	-
++4	67
+47
+
+1975	Guadeloupe
+Puerto Rico	2
+1	Friendly
+in Guadeloupe	+1
+-1	1385
+876	0
+0	92
+173
+July 02
+1978	Guadeloupe
+Jamaica	1
+0	CFU Championship qualifier
+in Guadeloupe	+7
+-7	1392
+1214	+1
+-1	91
+137
+July 30
+1978	Jamaica
+Guadeloupe	1
+2	CFU Championship qualifier
+in Jamaica	-16
++16	1198
+1408	-5
++3	142
+85
+
+1981	Puerto Rico
+Guadeloupe	0
+0	Friendly
+in Puerto Rico	+8
+-8	884
+1400	+1
+0	184
+89
+May 28
+1987	Guadeloupe
+French Guiana	4
+1	Friendly tournament
+in France	+13
+-13	1413
+1191	+1
+0	88
+145
+May 29
+1987	Reunion
+Guadeloupe	0
+3	Friendly tournament
+in France	-12
++12	1197
+1425	-1
++3	144
+85
+March 17
+1989	Guadeloupe
+Paraguay	0
+2	Friendly
+in Guadeloupe	-5
++5	1420
+1791	-2
+0	90
+19
+May
+1989	Jamaica
+Guadeloupe	0
+3	Caribbean Cup qualifier
+in Jamaica	-24
++24	1180
+1444	-2
++6	144
+84
+July 03
+1989	Barbados
+Guadeloupe	1
+0	Caribbean Cup
+in Barbados	+29
+-29	1196
+1415	+4
+-6	144
+91
+July 07
+1989	Guadeloupe
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Barbados	+31
+-31	1446
+1391	+11
+-10	81
+99
+March 07
+1991	Guadeloupe
+French Guiana	1
+0	Caribbean Cup qualifier
+in Martinique	+8
+-8	1454
+1200	+1
+-3	77
+141
+March 09
+1991	Martinique
+Guadeloupe	3
+1	Caribbean Cup qualifier
+in Martinique	+20
+-20	1494
+1434	+4
+-5	68
+82
+March 01
+1992	Saint Lucia
+Guadeloupe	0
+2	Caribbean Cup qualifier
+in Saint Lucia	-27
++27	1277
+1461	-11
++4	127
+77
+March 05
+1992	Dominica
+Guadeloupe	0
+0	Caribbean Cup qualifier
+in Saint Lucia	+13
+-13	1217
+1448	+3
+0	141
+77
+June 17
+1992	Guadeloupe
+St. Vincent & Grenadines	1
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1461
+1304	+2
+-2	77
+116
+June 19
+1992	Guadeloupe
+Jamaica	0
+1	Caribbean Cup
+in Trinidad and Tobago	-29
++29	1432
+1325	-6
++7	83
+114
+June 21
+1992	Cuba
+Guadeloupe	2
+0	Caribbean Cup
+in Trinidad and Tobago	+29
+-29	1477
+1403	+2
+-11	77
+94
+March 24
+1993	French Guiana
+Guadeloupe	2
+1	Caribbean Cup qualifier
+in French Guiana	+25
+-25	1235
+1378	+6
+-7	144
+104
+April 14
+1993	Guadeloupe
+Martinique	1
+4	Caribbean Cup qualifier
+in Guadeloupe	-36
++36	1342
+1504	-9
++12	113
+72
+May 20
+1993	Reunion
+Guadeloupe	3
+0	Friendly
+in Reunion	+19
+-19	1227
+1323	+2
+-5	146
+121
+March 04
+1994	Guadeloupe
+Anguilla	9
+0	Caribbean Cup qualifier
+in St. Vincent & Grenadines	+3
+-3	1326
+684	+1
+0	123
+211
+March 08
+1994	St. Vincent & Grenadines
+Guadeloupe	0
+2	Caribbean Cup qualifier
+in St. Vincent & Grenadines	-33
++33	1233
+1359	-5
++10	143
+113
+April 07
+1994	Trinidad and Tobago
+Guadeloupe	0
+0	Caribbean Cup
+in Trinidad and Tobago	-10
++10	1434
+1369	-3
++3	91
+110
+April 09
+1994	Guadeloupe
+Dominica	5
+0	Caribbean Cup
+in Trinidad and Tobago	+24
+-24	1393
+1194	+7
+-7	103
+157
+April 11
+1994	Barbados
+Guadeloupe	2
+2	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1240
+1384	+2
+-4	142
+107
+April 14
+1994	Guadeloupe
+Martinique	2
+4	Caribbean Cup
+in Trinidad and Tobago	-19
++19	1365
+1533	-2
++8	110
+64
+April 17
+1994	Guadeloupe
+Surinam	2
+0	Caribbean Cup
+in Trinidad and Tobago	+26
+-26	1391
+1298	+4
+-5	106
+130
+May 09
+1995	Surinam
+Guadeloupe	2
+1	Caribbean Cup qualifier
+in French Guiana	+25
+-25	1323
+1366	+6
+-7	126
+113
+May 11
+1995	French Guiana
+Guadeloupe	2
+2	Caribbean Cup qualifier
+in French Guiana	+4
+-4	1207
+1362	+1
+0	152
+113
+May 13
+1995	Guadeloupe
+Martinique	2
+1	Caribbean Cup qualifier
+in French Guiana	+28
+-28	1390
+1474	+6
+-5	107
+81
+April 01
+1998	Dominica
+Guadeloupe	1
+1	Caribbean Cup qualifier
+in Saint Kitts and Nevis	+12
+-12	1171
+1378	+3
+-3	162
+109
+April 03
+1998	Guadeloupe
+British Virgin Islands	3
+0	Caribbean Cup qualifier
+in Saint Kitts and Nevis	+3
+-3	1381
+857	0
+-1	109
+205
+April 05
+1998	Saint Kitts and Nevis
+Guadeloupe	2
+1	Caribbean Cup qualifier
+in Saint Kitts and Nevis	+25
+-25	1208
+1356	+10
+-7	148
+116
+March 10
+1999	Guadeloupe
+Dominica	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+6
+-6	1362
+1155	+1
+-1	115
+166
+March 12
+1999	Guadeloupe
+Antigua and Barbuda	2
+1	Caribbean Cup qualifier
+in Guadeloupe	+8
+-8	1370
+1219	+2
+0	113
+146
+March 14
+1999	Guadeloupe
+Barbados	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+13
+-13	1383
+1323	+2
+-1	111
+122
+June 03
+1999	Grenada
+Guadeloupe	2
+1	Caribbean Cup
+in Trinidad and Tobago	+25
+-25	1313
+1358	+2
+-9	128
+116
+June 05
+1999	Jamaica
+Guadeloupe	5
+1	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1623
+1344	+2
+-6	53
+121
+June 07
+1999	Trinidad and Tobago
+Guadeloupe	3
+2	Caribbean Cup
+in Trinidad and Tobago	+6
+-6	1541
+1338	+1
+0	64
+121
+March 28
+2001	Martinique
+Guadeloupe	4
+1	Friendly
+in Martinique	+12
+-12	1371
+1326	+5
+-1	114
+125
+April 10
+2001	Saint Lucia
+Guadeloupe	3
+2	Caribbean Cup qualifier
+in Haiti	+25
+-25	1261
+1301	+5
+-4	141
+130
+April 12
+2001	Guadeloupe
+US Virgin Islands	11
+0	Caribbean Cup qualifier
+in Haiti	+5
+-5	1306
+775	+1
+0	129
+211
+April 14
+2001	Haiti
+Guadeloupe	2
+0	Caribbean Cup qualifier
+in Haiti	+15
+-15	1406
+1291	+4
+-6	98
+135
+January 04
+2002	Martinique
+Guadeloupe	1
+3	Friendly tournament
+in Martinique	-34
++34	1358
+1325	-14
++7	118
+126
+July 07
+2002	Guadeloupe
+Puerto Rico	4
+0	Concacaf Gold Cup qualifier
+in Guadeloupe	+3
+-3	1328
+896	0
+0	124
+201
+July 21
+2002	Puerto Rico
+Guadeloupe	0
+2	Concacaf Gold Cup qualifier
+in Puerto Rico	-8
++8	888
+1336	-2
+0	203
+124
+November 09
+2002	Grenada
+Guadeloupe	4
+5	Concacaf Gold Cup qualifier
+in Grenada	-25
++25	1300
+1361	-3
++8	132
+120
+November 11
+2002	Jamaica
+Guadeloupe	2
+0	Concacaf Gold Cup qualifier
+in Grenada	+17
+-17	1536
+1344	+3
+-7	64
+127
+November 13
+2002	Guadeloupe
+Barbados	1
+0	Concacaf Gold Cup qualifier
+in Grenada	+20
+-20	1364
+1332	+8
+-7	119
+129
+March 15
+2003	French Guiana
+Guadeloupe	2
+2	Friendly tournament
+in Martinique	+10
+-10	1098
+1354	+1
+-2	173
+118
+March 26
+2003	Cuba
+Guadeloupe	3
+2	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+12
+-12	1510
+1342	+4
+-6	70
+123
+March 28
+2003	Trinidad and Tobago
+Guadeloupe	1
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+9
+-9	1462
+1333	+2
+-3	88
+126
+March 30
+2003	Guadeloupe
+Antigua and Barbuda	2
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+14
+-14	1347
+1119	+3
+-4	124
+171
+June 03
+2003	Guadeloupe
+French Guiana	1
+0	Friendly tournament
+in France	+6
+-6	1353
+1092	+4
+-1	120
+174
+January 18
+2004	Guadeloupe
+Saint Lucia	2
+0	Friendly
+in Guadeloupe	+8
+-8	1361
+1271	+5
+-1	115
+138
+November 10
+2004	French Guiana
+Guadeloupe	1
+0	Caribbean Cup qualifier
+in Martinique	+32
+-32	1141
+1329	+4
+-8	168
+122
+November 12
+2004	Guadeloupe
+Dominica	7
+0	Caribbean Cup qualifier
+in Martinique	+17
+-17	1346
+1064	+3
+-6	119
+180
+November 14
+2004	Martinique
+Guadeloupe	0
+0	Caribbean Cup qualifier
+in Martinique	-8
++8	1383
+1354	-2
++1	105
+118
+October 30
+2005	Puerto Rico
+Guadeloupe	1
+3	Friendly
+in Puerto Rico	-3
++3	891
+1357	-1
++1	200
+111
+May 20
+2006	Guadeloupe
+Saint Lucia	2
+1	Friendly tournament
+in Guadeloupe	+7
+-7	1364
+1257	+3
+-2	110
+140
+September 20
+2006	Guadeloupe
+Saint Martin	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+3
+-3	1367
+1019	+2
+0	106
+184
+September 22
+2006	Guadeloupe
+Dominica	1
+0	Caribbean Cup qualifier
+in Guadeloupe	+2
+-2	1369
+987	0
+0	106
+188
+September 24
+2006	Guadeloupe
+Martinique	4
+0	Caribbean Cup qualifier
+in Guadeloupe	+26
+-26	1395
+1337	+5
+-8	101
+119
+November 24
+2006	Guadeloupe
+Dominican Republic	3
+0	Caribbean Cup qualifier
+in Guyana	+9
+-9	1404
+1062	+1
+0	100
+178
+November 26
+2006	Guyana
+Guadeloupe	3
+2	Caribbean Cup qualifier
+in Guyana	+21
+-21	1316
+1383	+8
+-3	122
+102
+November 28
+2006	Guadeloupe
+Antigua and Barbuda	3
+1	Caribbean Cup qualifier
+in Guyana	+9
+-9	1392
+1081	+2
+0	101
+176
+January 06
+2007	Martinique
+Guadeloupe	3
+0	Friendly
+in Martinique	+14
+-14	1384
+1378	+5
+-4	103
+105
+January 14
+2007	Guadeloupe
+Cuba	2
+1	Caribbean Cup
+in Trinidad and Tobago	+30
+-30	1408
+1535	+5
+-10	99
+70
+January 16
+2007	Guyana
+Guadeloupe	4
+3	Caribbean Cup
+in Trinidad and Tobago	+26
+-26	1324
+1382	+11
+-4	120
+103
+January 18
+2007	Guadeloupe
+St. Vincent & Grenadines	1
+0	Caribbean Cup
+in Trinidad and Tobago	+19
+-19	1401
+1342	+3
+-5	100
+118
+January 20
+2007	Haiti
+Guadeloupe	3
+1	Caribbean Cup
+in Trinidad and Tobago	+24
+-24	1495
+1377	+7
+-5	79
+105
+January 23
+2007	Cuba
+Guadeloupe	2
+1	Caribbean Cup
+in Trinidad and Tobago	+12
+-12	1535
+1365	+6
+-6	70
+111
+March 24
+2007	Guadeloupe
+Trinidad and Tobago	2
+2	Friendly
+in Guadeloupe	+2
+-2	1367
+1520	+3
+0	108
+76
+May 17
+2007	Guadeloupe
+Dominica	2
+0	Friendly
+in Guadeloupe	+2
+-2	1369
+987	0
+0	109
+188
+May 20
+2007	Guadeloupe
+Dominica	1
+1	Friendly
+in Guadeloupe	-9
++9	1360
+996	-2
++2	111
+186
+June 06
+2007	Guadeloupe
+Haiti	1
+1	Concacaf Gold Cup
+in the United States	+14
+-14	1374
+1560	+5
+-3	107
+64
+June 09
+2007	Guadeloupe
+Canada	2
+1	Concacaf Gold Cup
+in the United States	+40
+-40	1414
+1570	+7
+-9	100
+61
+June 11
+2007	Costa Rica
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1643
+1403	+1
+0	47
+100
+June 17
+2007	Guadeloupe
+Honduras	2
+1	Concacaf Gold Cup
+in the United States	+42
+-42	1445
+1649	+6
+-2	94
+44
+June 21
+2007	Mexico
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1809
+1439	+1
+-1	16
+95
+November 14
+2007	French Guiana
+Guadeloupe	2
+3	Friendly
+in French Guiana	-6
++6	1190
+1445	-1
++1	159
+94
+January 18
+2008	Dominica
+Guadeloupe	0
+3	Friendly
+in Dominica	-4
++4	992
+1449	-2
++1	188
+94
+February 06
+2008	Trinidad and Tobago
+Guadeloupe	0
+0	Friendly
+in Trinidad and Tobago	-4
++4	1475
+1453	-2
++1	86
+93
+September 24
+2008	Martinique
+Guadeloupe	1
+0	French Territory Cup
+in France	+18
+-18	1401
+1435	+8
+-3	106
+95
+September 27
+2008	Guadeloupe
+New Caledonia	4
+0	French Territory Cup
+in France	+23
+-23	1458
+1345	+4
+-3	91
+120
+September 30
+2008	Guadeloupe
+Tahiti	1
+0	French Territory Cup
+in France	+6
+-6	1464
+1209	+1
+-2	90
+154
+October 03
+2008	Guadeloupe
+French Guiana	4
+0	French Territory Cup
+in Guadeloupe	+6
+-6	1470
+1180	0
+0	90
+161
+October 11
+2008	Guadeloupe
+Cayman Islands	7
+1	Caribbean Cup qualifier
+in Guadeloupe	+3
+-3	1473
+1004	+1
+0	89
+186
+October 13
+2008	Guadeloupe
+Grenada	2
+1	Caribbean Cup qualifier
+in Guadeloupe	+5
+-5	1478
+1217	+1
+-1	88
+152
+October 15
+2008	Guadeloupe
+Martinique	3
+1	Caribbean Cup qualifier
+in Guadeloupe	+15
+-15	1493
+1371	+2
+-2	86
+116
+December 04
+2008	Cuba
+Guadeloupe	2
+1	Caribbean Cup
+in Jamaica	+23
+-23	1457
+1470	+2
+-4	93
+92
+December 06
+2008	Guadeloupe
+Haiti	3
+2	Caribbean Cup
+in Jamaica	+16
+-16	1486
+1376	+4
+-5	88
+116
+December 08
+2008	Guadeloupe
+Antigua and Barbuda	2
+2	Caribbean Cup
+in Jamaica	-13
++13	1473
+1239	-2
++6	90
+146
+December 11
+2008	Jamaica
+Guadeloupe	2
+0	Caribbean Cup
+in Jamaica	+12
+-12	1618
+1461	+2
+-2	50
+92
+December 14
+2008	Guadeloupe
+Cuba	0
+0	Caribbean Cup
+in Jamaica	-1
++1	1460
+1441	0
+0	92
+93
+July 05
+2009	Guadeloupe
+Panama	2
+1	Concacaf Gold Cup
+in the United States	+31
+-31	1491
+1519	+5
+-11	86
+78
+July 09
+2009	Guadeloupe
+Nicaragua	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1498
+1085	+1
+-1	85
+178
+July 12
+2009	Mexico
+Guadeloupe	2
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1760
+1483	+4
+-3	24
+88
+July 19
+2009	Costa Rica
+Guadeloupe	5
+1	Concacaf Gold Cup
+in the United States	+18
+-18	1756
+1465	+4
+-2	26
+90
+March 02
+2010	Guadeloupe
+Saint Kitts and Nevis	2
+1	Friendly
+in Guadeloupe	+2
+-2	1467
+1127	0
+-1	92
+172
+April 03
+2010	Saint Kitts and Nevis
+Guadeloupe	3
+0	Friendly
+in Saint Kitts and Nevis	+28
+-28	1155
+1439	+6
+-5	166
+97
+September 23
+2010	New Caledonia
+Guadeloupe	1
+1	French Territory Cup
+in France	+4
+-4	1359
+1435	+1
+-1	119
+99
+September 26
+2010	Guadeloupe
+Tahiti	1
+1	French Territory Cup
+in France	-9
++9	1426
+1203	-2
++2	101
+155
+September 29
+2010	Guadeloupe
+Martinique	2
+0	French Territory Cup
+in France	+22
+-22	1448
+1394	+6
+-5	95
+109
+October 01
+2010	Guadeloupe
+Mayotte	4
+0	French Territory Cup
+in France	+8
+-8	1456
+1129	+2
+0	93
+172
+October 22
+2010	Guadeloupe
+Saint Kitts and Nevis	2
+1	Caribbean Cup qualifier
+in Grenada	+6
+-6	1462
+1165	0
+-3	95
+165
+October 24
+2010	Guadeloupe
+Puerto Rico	3
+2	Caribbean Cup qualifier
+in Grenada	+3
+-3	1465
+1016	+1
+0	94
+185
+October 26
+2010	Grenada
+Guadeloupe	0
+3	Caribbean Cup qualifier
+in Grenada	-27
++27	1255
+1492	-5
++5	144
+89
+November 27
+2010	Guadeloupe
+Guyana	1
+1	Caribbean Cup
+in Martinique	-9
++9	1483
+1328	-2
++3	90
+127
+November 29
+2010	Jamaica
+Guadeloupe	2
+0	Caribbean Cup
+in Martinique	+19
+-19	1639
+1464	+4
+-3	47
+93
+December 01
+2010	Guadeloupe
+Antigua and Barbuda	1
+0	Caribbean Cup
+in Martinique	+10
+-10	1474
+1256	+3
+0	91
+144
+December 03
+2010	Guadeloupe
+Cuba	2
+1	Caribbean Cup
+in Martinique	+21
+-21	1495
+1478	+5
+-6	86
+91
+December 05
+2010	Jamaica
+Guadeloupe	1
+1	Caribbean Cup
+in Martinique	-9
++9	1644
+1504	-1
++2	45
+84
+June 07
+2011	Panama
+Guadeloupe	3
+2	Concacaf Gold Cup
+in the United States	+18
+-18	1617
+1486	+4
+-6	53
+89
+June 11
+2011	Canada
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+19
+-19	1592
+1467	+1
+-4	59
+92
+June 14
+2011	United States
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1710
+1461	+1
+-1	34
+93
+November 05
+2011	Antigua and Barbuda
+Guadeloupe	0
+0	Friendly
+in Antigua and Barbuda	+2
+-2	1296
+1459	+1
+0	135
+95
+March 03
+2012	Martinique
+Guadeloupe	1
+2	Friendly
+in Martinique	-10
++10	1334
+1469	-6
++1	126
+92
+April 07
+2012	Guadeloupe
+Martinique	0
+1	Friendly
+in Guadeloupe	-16
++16	1453
+1350	-3
++7	95
+119
+May 04
+2012	Guadeloupe
+Guyana	1
+2	Friendly
+in Guadeloupe	-15
++15	1438
+1363	-2
++4	97
+116
+September 08
+2012	Saint Barthelemy
+Guadeloupe	1
+8	Friendly
+in Saint Barthelemy	-2
++2	791
+1440	0
++1	213
+97
+September 22
+2012	Guadeloupe
+Saint Pierre and Miquelon	13
+0	French Territory Cup
+in France	+2
+-2	1442
+777	+1
+0	95
+215
+September 24
+2012	Guadeloupe
+French Guiana	4
+2	French Territory Cup
+in France	+8
+-8	1450
+1161	0
+0	95
+162
+September 26
+2012	Reunion
+Guadeloupe	2
+1	French Territory Cup
+in France	+19
+-19	1369
+1431	+3
+-6	114
+101
+September 29
+2012	Guadeloupe
+Mayotte	1
+0	French Territory Cup
+in France	+7
+-7	1438
+1206	+4
+-2	97
+153
+October 23
+2012	Guadeloupe
+Dominican Republic	0
+2	Caribbean Cup qualifier
+in Guadeloupe	-54
++54	1384
+1224	-9
++11	108
+151
+October 25
+2012	Guadeloupe
+Puerto Rico	4
+1	Caribbean Cup qualifier
+in Guadeloupe	+7
+-7	1391
+1107	0
+-2	108
+178
+October 27
+2012	Guadeloupe
+Martinique	3
+3	Caribbean Cup qualifier
+in Guadeloupe	-7
++7	1384
+1371	0
++4	108
+114
+April 17
+2014	Guadeloupe
+French Guiana	3
+2	Friendly tournament
+in Guadeloupe	+6
+-6	1390
+1234	+3
+-1	111
+147
+April 19
+2014	Guadeloupe
+Martinique	0
+1	Friendly tournament
+in Guadeloupe	-18
++18	1372
+1428	-6
++5	117
+101

@@ -1,0 +1,6705 @@
+April 05
+1903	Hungary
+Bohemia	2
+1	Friendly
+in Hungary	+13
+-13	1599
+1787	0
+-	8
+4
+April 01
+1906	Hungary
+Bohemia	1
+1	Friendly
+in Hungary	+2
+-2	1602
+1785	0
+0	11
+4
+October 07
+1906	Bohemia
+Hungary	4
+4	Friendly
+in Bohemia	-7
++7	1778
+1609	0
++1	4
+11
+April 07
+1907	Hungary
+Bohemia	5
+2	Friendly
+in Hungary	+20
+-20	1640
+1758	0
+0	10
+4
+October 06
+1907	Bohemia
+Hungary	5
+3	Friendly
+in Bohemia	+6
+-6	1764
+1622	0
+0	4
+10
+April 05
+1908	Hungary
+Bohemia	5
+2	Friendly
+in Hungary	+19
+-19	1653
+1745	0
+0	10
+4
+June 13
+1908	Bohemia
+England	0
+4	Friendly
+in Bohemia	-16
++16	1729
+1917	-1
+0	5
+1
+August 28
+1920	Czechoslovakia
+Yugoslavia	7
+0	Olympic Games
+in Belgium	+44
+-44	1773
+1556	0
+-	9
+25
+August 29
+1920	Czechoslovakia
+Norway	4
+0	Olympic Games
+in Belgium	+32
+-32	1805
+1581	+4
+-2	5
+19
+August 31
+1920	Czechoslovakia
+France	4
+1	Olympic Games
+in Belgium	+30
+-30	1835
+1615	+3
+0	2
+16
+September 02
+1920	Belgium
+Czechoslovakia	2
+0	Olympic Games
+in Belgium	+34
+-34	1852
+1801	+2
+-5	2
+7
+October 28
+1921	Czechoslovakia
+Yugoslavia	6
+1	Friendly
+in Czechoslovakia	+4
+-4	1805
+1523	+1
+0	6
+28
+November 13
+1921	Czechoslovakia
+Sweden	2
+2	Friendly
+in Czechoslovakia	-8
++8	1797
+1567	-1
++1	7
+24
+February 26
+1922	Italy
+Czechoslovakia	1
+1	Friendly
+in Italy	+2
+-2	1635
+1795	0
+0	17
+5
+June 11
+1922	Czechoslovakia
+Denmark	3
+0	Friendly
+in Czechoslovakia	+14
+-14	1809
+1802	+2
+-1	5
+6
+June 28
+1922	Yugoslavia
+Czechoslovakia	4
+3	Friendly
+in Yugoslavia	+15
+-15	1530
+1794	+1
+-2	31
+7
+August 13
+1922	Sweden
+Czechoslovakia	0
+2	Friendly
+in Sweden	-10
++10	1570
+1804	-1
++2	28
+5
+May 06
+1923	Czechoslovakia
+Denmark	2
+0	Friendly
+in Czechoslovakia	+10
+-10	1814
+1772	0
+-1	4
+10
+May 27
+1923	Czechoslovakia
+Italy	5
+1	Friendly
+in Czechoslovakia	+7
+-7	1821
+1655	0
+0	4
+19
+July 01
+1923	Romania
+Czechoslovakia	0
+6	Friendly
+in Romania	-19
++19	1672
+1840	-2
++1	18
+3
+October 28
+1923	Czechoslovakia
+Yugoslavia	4
+4	Friendly
+in Czechoslovakia	-8
++8	1832
+1553	0
++1	2
+32
+May 25
+1924	Czechoslovakia
+Turkey	5
+2	Olympic Games
+in France	+22
+-22	1854
+1577	+1
+-2	2
+28
+May 28
+1924	Czechoslovakia
+Switzerland	1
+1	Olympic Games
+in France	-16
++16	1838
+1660	-1
+0	3
+19
+May 30
+1924	Switzerland
+Czechoslovakia	1
+0	Olympic Games
+in France	+44
+-44	1704
+1794	+6
+-3	15
+6
+August 31
+1924	Czechoslovakia
+Romania	4
+1	Friendly
+in Czechoslovakia	+6
+-6	1800
+1609	+1
+-1	5
+24
+September 28
+1924	Yugoslavia
+Czechoslovakia	0
+2	Friendly
+in Yugoslavia	-8
++8	1512
+1808	0
+0	36
+5
+May 24
+1925	Czechoslovakia
+Austria	3
+1	Friendly
+in Czechoslovakia	+10
+-10	1818
+1769	0
+-1	6
+9
+October 11
+1925	Czechoslovakia
+Hungary	2
+0	Friendly
+in Czechoslovakia	+7
+-7	1825
+1714	0
+0	5
+14
+October 28
+1925	Czechoslovakia
+Yugoslavia	7
+0	Friendly
+in Czechoslovakia	+4
+-4	1829
+1508	0
+0	5
+35
+January 17
+1926	Italy
+Czechoslovakia	3
+1	Friendly
+in Italy	+18
+-18	1683
+1811	+2
+-1	17
+6
+March 14
+1926	Austria
+Czechoslovakia	2
+0	Friendly
+in Austria	+12
+-12	1792
+1799	0
+-1	8
+7
+June 06
+1926	Hungary
+Czechoslovakia	2
+1	Friendly
+in Hungary	+10
+-10	1718
+1789	0
+0	13
+8
+June 13
+1926	Sweden
+Czechoslovakia	2
+2	Friendly
+in Sweden	-4
++4	1825
+1793	0
+0	5
+8
+June 28
+1926	Yugoslavia
+Czechoslovakia	2
+6	Friendly
+in Yugoslavia	-9
++9	1492
+1802	-1
+0	39
+8
+July 03
+1926	Czechoslovakia
+Sweden	4
+2	Friendly
+in Czechoslovakia	+12
+-12	1814
+1811	+2
+-2	6
+7
+September 28
+1926	Czechoslovakia
+Austria	1
+2	Friendly
+in Czechoslovakia	-13
++13	1801
+1813	-2
++2	7
+5
+October 28
+1926	Czechoslovakia
+Italy	3
+1	Friendly
+in Czechoslovakia	+7
+-7	1808
+1686	+1
+0	6
+16
+January 02
+1927	Belgium
+Czechoslovakia	2
+3	Friendly
+in Belgium	-8
++8	1636
+1816	-1
+0	21
+6
+February 20
+1927	Italy
+Czechoslovakia	2
+2	Friendly
+in Italy	0
+0	1709
+1816	0
+0	13
+6
+March 11
+1927	Austria
+Czechoslovakia	1
+2	Friendly
+in Austria	-13
++13	1817
+1829	-1
++1	6
+5
+April 24
+1927	Czechoslovakia
+Hungary	4
+1	Friendly
+in Czechoslovakia	+9
+-9	1838
+1728	0
+-1	5
+12
+May 26
+1927	Czechoslovakia
+Belgium	4
+0	Friendly
+in Czechoslovakia	+5
+-5	1843
+1620	0
+0	5
+21
+July 30
+1927	Yugoslavia
+Czechoslovakia	1
+1	Friendly
+in Yugoslavia	+6
+-6	1530
+1837	0
+0	34
+6
+September 18
+1927	Czechoslovakia
+Austria	2
+0	Dr. Gero International Cup
+in Czechoslovakia	+22
+-22	1859
+1825	+1
+-1	5
+6
+October 09
+1927	Hungary
+Czechoslovakia	1
+2	Friendly
+in Hungary	-10
++10	1756
+1869	0
+0	11
+5
+October 23
+1927	Czechoslovakia
+Italy	2
+2	Dr. Gero International Cup
+in Czechoslovakia	-12
++12	1857
+1747	0
+0	5
+12
+October 28
+1927	Czechoslovakia
+Yugoslavia	5
+3	Friendly
+in Czechoslovakia	+2
+-2	1859
+1528	0
+0	5
+34
+April 01
+1928	Austria
+Czechoslovakia	0
+1	Dr. Gero International Cup
+in Austria	-24
++24	1802
+1883	-1
++1	7
+4
+April 22
+1928	Hungary
+Czechoslovakia	2
+0	Dr. Gero International Cup
+in Hungary	+33
+-33	1776
+1850	+1
+-1	9
+5
+May 13
+1928	France
+Czechoslovakia	0
+2	Friendly
+in France	-6
++6	1498
+1856	-1
+0	38
+5
+September 23
+1928	Czechoslovakia
+Hungary	6
+1	Friendly
+in Czechoslovakia	+10
+-10	1866
+1764	0
+0	5
+10
+October 27
+1928	Czechoslovakia
+Poland	3
+2	Friendly
+in Czechoslovakia	+2
+-2	1868
+1583	0
+0	5
+27
+October 28
+1928	Czechoslovakia
+Yugoslavia	7
+1	Friendly
+in Czechoslovakia	+3
+-3	1871
+1527	0
+-1	5
+35
+March 03
+1929	Italy
+Czechoslovakia	4
+2	Dr. Gero International Cup
+in Italy	+21
+-21	1905
+1850	+1
+0	3
+5
+March 17
+1929	Czechoslovakia
+Austria	3
+3	Friendly
+in Czechoslovakia	-3
++3	1847
+1851	-1
++1	6
+5
+May 05
+1929	Switzerland
+Czechoslovakia	1
+4	Dr. Gero International Cup
+in Switzerland	-15
++15	1506
+1862	-2
++1	37
+5
+June 28
+1929	Yugoslavia
+Czechoslovakia	3
+3	Friendly
+in Yugoslavia	+5
+-5	1565
+1857	0
+-1	31
+6
+September 08
+1929	Czechoslovakia
+Hungary	1
+1	Dr. Gero International Cup
+in Czechoslovakia	-11
++11	1846
+1758	0
++2	6
+10
+September 15
+1929	Austria
+Czechoslovakia	2
+1	Friendly
+in Austria	+6
+-6	1881
+1840	0
+0	4
+6
+October 06
+1929	Czechoslovakia
+Switzerland	5
+0	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1846
+1500	0
+-1	6
+37
+October 28
+1929	Czechoslovakia
+Yugoslavia	4
+3	Friendly
+in Czechoslovakia	+2
+-2	1848
+1550	0
+0	6
+32
+January 01
+1930	Spain
+Czechoslovakia	1
+0	Friendly
+in Spain	+7
+-7	1844
+1841	+1
+-1	6
+7
+January 12
+1930	Portugal
+Czechoslovakia	1
+0	Friendly
+in Portugal	+12
+-12	1665
+1829	0
+0	17
+7
+March 23
+1930	Czechoslovakia
+Austria	2
+2	Friendly
+in Czechoslovakia	-1
++1	1828
+1881	0
++1	7
+4
+May 01
+1930	Czechoslovakia
+Hungary	1
+1	Friendly
+in Czechoslovakia	-4
++4	1824
+1768	0
++1	8
+10
+May 11
+1930	France
+Czechoslovakia	2
+3	Friendly
+in France	-3
++3	1444
+1827	0
+0	43
+8
+June 14
+1930	Czechoslovakia
+Spain	2
+0	Friendly
+in Czechoslovakia	+11
+-11	1838
+1833	+1
+-1	7
+8
+September 21
+1930	Belgium
+Czechoslovakia	2
+3	Friendly
+in Belgium	-4
++4	1509
+1842	0
+0	34
+8
+October 26
+1930	Hungary
+Czechoslovakia	1
+1	Friendly
+in Hungary	0
+0	1751
+1842	0
+0	13
+8
+February 15
+1931	France
+Czechoslovakia	1
+2	Friendly
+in France	-4
++4	1493
+1846	-2
+0	38
+8
+March 22
+1931	Czechoslovakia
+Hungary	3
+3	Dr. Gero International Cup
+in Czechoslovakia	-10
++10	1836
+1761	-1
+0	8
+12
+April 12
+1931	Austria
+Czechoslovakia	2
+1	Dr. Gero International Cup
+in Austria	+14
+-14	1859
+1822	+2
+0	5
+8
+June 13
+1931	Czechoslovakia
+Switzerland	7
+3	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1828
+1488	0
+0	8
+39
+June 14
+1931	Poland
+Czechoslovakia	0
+4	Friendly
+in Poland	-13
++13	1605
+1841	-3
++1	24
+7
+August 02
+1931	Yugoslavia
+Czechoslovakia	2
+1	Friendly
+in Yugoslavia	+13
+-13	1630
+1828	0
+-1	21
+8
+September 20
+1931	Hungary
+Czechoslovakia	3
+0	Friendly
+in Hungary	+15
+-15	1784
+1813	0
+0	10
+8
+November 15
+1931	Italy
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Italy	-11
++11	1909
+1824	0
+0	3
+8
+March 20
+1932	Czechoslovakia
+Hungary	1
+3	Friendly
+in Czechoslovakia	-21
++21	1803
+1804	-2
++1	10
+9
+April 17
+1932	Switzerland
+Czechoslovakia	5
+1	Dr. Gero International Cup
+in Switzerland	+60
+-60	1520
+1743	+8
+-1	35
+11
+May 22
+1932	Czechoslovakia
+Austria	1
+1	Dr. Gero International Cup
+in Czechoslovakia	+5
+-5	1748
+1925	0
+0	11
+3
+May 29
+1932	Netherlands
+Czechoslovakia	1
+2	Friendly
+in the Netherlands	-9
++9	1593
+1757	-2
+0	27
+11
+September 18
+1932	Hungary
+Czechoslovakia	2
+1	Dr. Gero International Cup
+in Hungary	+15
+-15	1767
+1742	+2
+-1	9
+11
+October 09
+1932	Czechoslovakia
+Yugoslavia	2
+1	Friendly
+in Czechoslovakia	+4
+-4	1746
+1572	0
+-1	11
+30
+October 28
+1932	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+24
+-24	1770
+1884	+2
+-1	9
+5
+March 19
+1933	Hungary
+Czechoslovakia	2
+0	Friendly
+in Hungary	+11
+-11	1768
+1759	+2
+-2	9
+11
+April 09
+1933	Austria
+Czechoslovakia	1
+2	Friendly
+in Austria	-17
++17	1929
+1776	0
++2	2
+9
+May 07
+1933	Italy
+Czechoslovakia	2
+0	Dr. Gero International Cup
+in Italy	+12
+-12	1927
+1764	+2
+-2	2
+11
+June 10
+1933	Czechoslovakia
+France	4
+0	Friendly
+in Czechoslovakia	+5
+-5	1769
+1534	+1
+0	10
+35
+August 06
+1933	Yugoslavia
+Czechoslovakia	2
+1	Friendly
+in Yugoslavia	+13
+-13	1593
+1756	+2
+-1	28
+10
+September 17
+1933	Czechoslovakia
+Austria	3
+3	Friendly
+in Czechoslovakia	+2
+-2	1758
+1927	-1
+0	11
+2
+October 15
+1933	Poland
+Czechoslovakia	1
+2	World Cup qualifier
+in Poland	-20
++20	1639
+1778	-4
++2	22
+9
+March 25
+1934	France
+Czechoslovakia	1
+2	Friendly
+in France	-6
++6	1524
+1784	0
+0	36
+9
+April 29
+1934	Czechoslovakia
+Hungary	2
+2	Dr. Gero International Cup
+in Czechoslovakia	-7
++7	1777
+1762	0
++1	8
+10
+May 16
+1934	Czechoslovakia
+England	2
+1	Friendly
+in Czechoslovakia	+10
+-10	1787
+1878	+1
+0	8
+5
+May 27
+1934	Czechoslovakia
+Romania	2
+1	World Cup
+in Italy	+20
+-20	1807
+1647	0
+0	8
+19
+May 31
+1934	Czechoslovakia
+Switzerland	3
+2	World Cup
+in Italy	+14
+-14	1821
+1580	+1
+0	7
+28
+June 03
+1934	Czechoslovakia
+Germany	3
+1	World Cup
+in Italy	+40
+-40	1861
+1742	0
+-2	7
+12
+June 10
+1934	Italy
+Czechoslovakia	2
+1	World Cup
+in Italy	+14
+-14	1979
+1847	0
+0	1
+7
+September 02
+1934	Czechoslovakia
+Yugoslavia	3
+1	Friendly
+in Czechoslovakia	+4
+-4	1851
+1599	0
+-2	7
+27
+September 23
+1934	Austria
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Austria	-9
++9	1915
+1860	0
+0	3
+7
+October 14
+1934	Switzerland
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Switzerland	+10
+-10	1590
+1850	0
+0	29
+7
+March 17
+1935	Czechoslovakia
+Switzerland	3
+1	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1856
+1555	0
+-2	7
+33
+April 14
+1935	Czechoslovakia
+Austria	0
+0	Dr. Gero International Cup
+in Czechoslovakia	-6
++6	1850
+1863	0
+0	7
+6
+May 26
+1935	Germany
+Czechoslovakia	2
+1	Friendly
+in Germany	+8
+-8	1843
+1842	+1
+-2	7
+8
+September 06
+1935	Yugoslavia
+Czechoslovakia	0
+0	Friendly
+in Yugoslavia	+2
+-2	1671
+1840	+1
+0	18
+7
+September 22
+1935	Hungary
+Czechoslovakia	1
+0	Dr. Gero International Cup
+in Hungary	+19
+-19	1783
+1821	+1
+-1	10
+8
+October 27
+1935	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+25
+-25	1846
+1983	+2
+0	6
+1
+February 09
+1936	France
+Czechoslovakia	0
+3	Friendly
+in France	-9
++9	1552
+1855	-2
++1	33
+6
+March 22
+1936	Austria
+Czechoslovakia	1
+1	Dr. Gero International Cup
+in Austria	-5
++5	1842
+1860	0
+0	8
+6
+April 26
+1936	Czechoslovakia
+Spain	1
+0	Friendly
+in Czechoslovakia	+8
+-8	1868
+1868	+2
+0	4
+4
+September 27
+1936	Czechoslovakia
+Germany	1
+2	Friendly
+in Czechoslovakia	-15
++15	1853
+1789	0
++1	5
+8
+October 18
+1936	Czechoslovakia
+Hungary	5
+2	Dr. Gero International Cup
+in Czechoslovakia	+18
+-18	1871
+1755	0
+-4	5
+12
+December 13
+1936	Italy
+Czechoslovakia	2
+0	Friendly
+in Italy	+6
+-6	2020
+1865	0
+0	1
+5
+February 21
+1937	Czechoslovakia
+Switzerland	5
+3	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1871
+1567	0
+-2	4
+34
+April 18
+1937	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+5
+-5	1574
+1866	+1
+0	32
+4
+May 22
+1937	Czechoslovakia
+Scotland	1
+3	Friendly
+in Czechoslovakia	-21
++21	1845
+1849	-1
++4	5
+4
+May 23
+1937	Czechoslovakia
+Italy	0
+1	Dr. Gero International Cup
+in Czechoslovakia	-16
++16	1829
+2024	-2
+0	7
+1
+September 19
+1937	Hungary
+Czechoslovakia	8
+3	Dr. Gero International Cup
+in Hungary	+36
+-36	1802
+1793	+2
+-4	9
+11
+October 03
+1937	Czechoslovakia
+Yugoslavia	5
+4	Friendly
+in Czechoslovakia	+4
+-4	1797
+1642	+1
+0	10
+21
+October 13
+1937	Czechoslovakia
+Latvia	4
+0	Friendly
+in Czechoslovakia	+2
+-2	1799
+1415	0
+0	10
+46
+October 24
+1937	Czechoslovakia
+Austria	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+14
+-14	1813
+1786	+2
+-2	8
+11
+November 07
+1937	Bulgaria
+Czechoslovakia	1
+1	World Cup qualifier
+in Bulgaria	+10
+-10	1530
+1803	+1
+-2	36
+10
+December 01
+1937	England
+Czechoslovakia	5
+4	Friendly
+in England	+6
+-6	1870
+1797	0
+-1	4
+10
+December 08
+1937	Scotland
+Czechoslovakia	5
+0	Friendly
+in Scotland	+14
+-14	1827
+1783	+1
+-1	7
+11
+April 03
+1938	Switzerland
+Czechoslovakia	4
+0	Dr. Gero International Cup
+in Switzerland	+52
+-52	1588
+1731	+5
+-2	32
+13
+April 24
+1938	Czechoslovakia
+Bulgaria	6
+0	World Cup qualifier
+in Czechoslovakia	+12
+-12	1743
+1505	0
+-1	13
+40
+May 18
+1938	Czechoslovakia
+Ireland	2
+2	Friendly
+in Czechoslovakia	-6
++6	1737
+1603	0
++1	13
+29
+June 05
+1938	Czechoslovakia
+Netherlands	3
+0	World Cup
+in France	+40
+-40	1777
+1611	+1
+-7	12
+27
+June 12
+1938	Brazil
+Czechoslovakia	1
+1	World Cup
+in France	-6
++6	1839
+1783	-1
++2	7
+10
+June 14
+1938	Brazil
+Czechoslovakia	2
+1	World Cup
+in France	+25
+-25	1864
+1758	+2
+-2	5
+12
+August 07
+1938	Sweden
+Czechoslovakia	2
+6	Friendly
+in Sweden	-18
++18	1619
+1776	-2
+0	25
+12
+August 28
+1938	Yugoslavia
+Czechoslovakia	1
+3	Friendly
+in Yugoslavia	-13
++13	1626
+1789	-2
++3	24
+9
+December 04
+1938	Czechoslovakia
+Romania	6
+2	Friendly
+in Czechoslovakia	+4
+-4	1793
+1515	0
+-1	8
+37
+November 12
+1939	Germany
+Bohemia	4
+4	Friendly
+in Poland	+1
+-1	1756
+1792	0
+-1	14
+9
+April 07
+1946	France
+Czechoslovakia	3
+0	Friendly
+in France	+22
+-22	1615
+1770	+6
+-3	26
+13
+May 09
+1946	Czechoslovakia
+Yugoslavia	0
+2	Friendly
+in Czechoslovakia	-24
++24	1746
+1647	-2
++3	14
+22
+September 14
+1946	Czechoslovakia
+Switzerland	3
+2	Friendly
+in Czechoslovakia	+6
+-6	1752
+1687	+1
+0	13
+18
+September 29
+1946	Yugoslavia
+Czechoslovakia	4
+2	Friendly
+in Yugoslavia	+15
+-15	1662
+1737	+3
+-3	20
+16
+October 27
+1946	Austria
+Czechoslovakia	3
+4	Friendly
+in Austria	-13
++13	1739
+1750	-3
++3	16
+13
+May 11
+1947	Czechoslovakia
+Yugoslavia	3
+1	Friendly
+in Czechoslovakia	+7
+-7	1757
+1647	0
+-2	12
+24
+June 20
+1947	Denmark
+Czechoslovakia	2
+2	Friendly
+in Denmark	0
+0	1671
+1757	0
+0	19
+13
+August 31
+1947	Czechoslovakia
+Poland	6
+3	Friendly
+in Czechoslovakia	+6
+-6	1763
+1570	0
+-1	13
+33
+September 21
+1947	Romania
+Czechoslovakia	2
+6	Friendly
+in Romania	-14
++14	1557
+1777	-5
+0	38
+13
+October 05
+1947	Czechoslovakia
+Austria	3
+2	Friendly
+in Czechoslovakia	+6
+-6	1783
+1724	0
+0	12
+17
+December 14
+1947	Italy
+Czechoslovakia	3
+1	Friendly
+in Italy	+4
+-4	2005
+1779	0
+0	2
+12
+April 18
+1948	Poland
+Czechoslovakia	3
+1	Balkan Cup
+in Poland	+40
+-40	1605
+1739	+6
+-3	29
+16
+May 23
+1948	Hungary
+Czechoslovakia	2
+1	Dr. Gero International Cup
+in Hungary	+10
+-10	1843
+1729	-1
+0	6
+16
+June 12
+1948	Czechoslovakia
+France	0
+4	Friendly
+in Czechoslovakia	-27
++27	1702
+1694	0
++4	16
+18
+July 04
+1948	Romania
+Czechoslovakia	2
+1	Balkan Cup
+in Romania	+25
+-25	1533
+1677	0
+-5	40
+21
+August 29
+1948	Bulgaria
+Czechoslovakia	1
+0	Balkan Cup
+in Bulgaria	+30
+-30	1426
+1647	+2
+-1	58
+23
+October 10
+1948	Switzerland
+Czechoslovakia	1
+1	Dr. Gero International Cup
+in Switzerland	-7
++7	1664
+1654	0
++1	22
+23
+October 31
+1948	Czechoslovakia
+Austria	3
+1	Dr. Gero International Cup
+in Czechoslovakia	+27
+-27	1681
+1695	+1
+-3	22
+18
+March 23
+1949	Czechoslovakia
+Luxembourg	2
+2	Friendly
+in Czechoslovakia	-9
++9	1672
+1260	0
+0	22
+82
+April 10
+1949	Czechoslovakia
+Hungary	5
+2	Dr. Gero International Cup
+in Czechoslovakia	+43
+-43	1715
+1810	+3
+-3	18
+9
+May 22
+1949	Czechoslovakia
+Romania	3
+2	Friendly
+in Czechoslovakia	+3
+-3	1718
+1530	+1
+-2	16
+42
+September 04
+1949	Czechoslovakia
+Bulgaria	1
+3	Friendly
+in Czechoslovakia	-27
++27	1691
+1489	-4
++2	20
+48
+September 25
+1949	Austria
+Czechoslovakia	3
+1	Dr. Gero International Cup
+in Austria	+20
+-20	1728
+1671	0
+-2	16
+21
+October 30
+1949	Czechoslovakia
+Poland	2
+0	Friendly
+in Czechoslovakia	+6
+-6	1677
+1527	0
+-2	20
+42
+November 13
+1949	France
+Czechoslovakia	1
+0	Friendly
+in France	+8
+-8	1671
+1669	+1
+-1	20
+21
+April 30
+1950	Hungary
+Czechoslovakia	5
+0	Friendly
+in Hungary	+6
+-6	1881
+1663	0
+0	6
+20
+May 21
+1950	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+1
+-1	1546
+1662	0
+0	39
+20
+August 27
+1950	Bulgaria
+Czechoslovakia	1
+2	Friendly
+in Bulgaria	-7
++7	1461
+1669	0
++1	55
+22
+September 01
+1950	Czechoslovakia
+Albania	3
+0	Friendly
+in Czechoslovakia	+4
+-4	1673
+1419	0
+0	22
+62
+October 22
+1950	Poland
+Czechoslovakia	1
+4	Friendly
+in Poland	-15
++15	1507
+1688	0
++2	44
+20
+May 20
+1951	Czechoslovakia
+Romania	2
+2	Friendly
+in Czechoslovakia	-6
++6	1682
+1561	0
++2	20
+35
+October 14
+1951	Czechoslovakia
+Hungary	1
+2	Friendly
+in Czechoslovakia	-7
++7	1675
+1882	-1
+0	21
+6
+May 11
+1952	Romania
+Czechoslovakia	3
+1	Friendly
+in Romania	+16
+-16	1577
+1659	+4
+-3	32
+24
+July 06
+1952	Soviet Union
+Czechoslovakia	2
+1	Friendly
+in the Soviet Union	+9
+-9	1604
+1650	+2
+-1	29
+25
+September 14
+1952	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	-7
++7	1643
+1479	0
++3	25
+50
+October 19
+1952	Hungary
+Czechoslovakia	5
+0	Friendly
+in Hungary	+3
+-3	1995
+1640	0
++1	3
+24
+November 29
+1952	Albania
+Czechoslovakia	3
+2	Friendly
+in Albania	+14
+-14	1422
+1626	+1
+-2	65
+26
+December 09
+1952	Albania
+Czechoslovakia	2
+1	Friendly
+in Albania	+13
+-13	1435
+1613	+4
+-2	61
+28
+April 26
+1953	Czechoslovakia
+Italy	2
+0	Dr. Gero International Cup
+in Czechoslovakia	+46
+-46	1659
+1881	+7
+-2	22
+6
+May 10
+1953	Poland
+Czechoslovakia	1
+1	Friendly
+in Poland	+2
+-2	1499
+1657	0
+0	47
+22
+June 14
+1953	Czechoslovakia
+Romania	2
+0	World Cup qualifier
+in Czechoslovakia	+16
+-16	1673
+1558	+1
+-3	22
+37
+September 06
+1953	Bulgaria
+Czechoslovakia	1
+2	World Cup qualifier
+in Bulgaria	-13
++13	1437
+1686	-1
++2	60
+20
+September 20
+1953	Czechoslovakia
+Switzerland	5
+0	Dr. Gero International Cup
+in Czechoslovakia	+22
+-22	1708
+1591	+3
+-3	17
+34
+October 04
+1953	Czechoslovakia
+Hungary	1
+5	Friendly
+in Czechoslovakia	-8
++8	1700
+2031	-2
+0	19
+2
+October 25
+1953	Romania
+Czechoslovakia	0
+1	World Cup qualifier
+in Romania	-19
++19	1572
+1719	-3
++2	35
+17
+November 08
+1953	Czechoslovakia
+Bulgaria	0
+0	World Cup qualifier
+in Czechoslovakia	-16
++16	1703
+1443	-1
++3	18
+61
+December 13
+1953	Italy
+Czechoslovakia	3
+0	Dr. Gero International Cup
+in Italy	+13
+-13	1871
+1690	+2
+-2	7
+20
+June 16
+1954	Uruguay
+Czechoslovakia	2
+0	World Cup
+in Switzerland	+25
+-25	1880
+1665	0
+-1	9
+21
+June 19
+1954	Austria
+Czechoslovakia	5
+0	World Cup
+in Switzerland	+35
+-35	1857
+1630	+1
+-7	9
+28
+October 24
+1954	Hungary
+Czechoslovakia	4
+1	Friendly
+in Hungary	+1
+-1	2117
+1629	0
+0	1
+28
+March 27
+1955	Czechoslovakia
+Austria	3
+2	Dr. Gero International Cup
+in Czechoslovakia	+28
+-28	1657
+1855	+4
+0	23
+8
+June 05
+1955	Belgium
+Czechoslovakia	1
+3	Friendly
+in Belgium	-21
++21	1680
+1678	-2
+0	21
+22
+September 25
+1955	Czechoslovakia
+Belgium	5
+2	Friendly
+in Czechoslovakia	+13
+-13	1691
+1667	+2
+-1	20
+22
+October 02
+1955	Czechoslovakia
+Hungary	1
+3	Dr. Gero International Cup
+in Czechoslovakia	-8
++8	1683
+2137	-1
+0	21
+1
+November 13
+1955	Bulgaria
+Czechoslovakia	3
+0	Friendly
+in Bulgaria	+22
+-22	1503
+1661	+6
+-1	49
+22
+April 21
+1956	Czechoslovakia
+Brazil	0
+0	Friendly
+in Czechoslovakia	+6
+-6	1667
+2003	+1
+0	21
+3
+May 10
+1956	Switzerland
+Czechoslovakia	1
+6	Dr. Gero International Cup
+in Switzerland	-49
++49	1601
+1716	-9
++1	32
+20
+May 20
+1956	Hungary
+Czechoslovakia	2
+4	Dr. Gero International Cup
+in Hungary	-57
++57	2051
+1773	0
++6	1
+14
+August 05
+1956	Brazil
+Czechoslovakia	0
+1	Friendly
+in Brazil	-18
++18	2003
+1791	0
++2	3
+12
+August 08
+1956	Brazil
+Czechoslovakia	4
+1	Friendly
+in Brazil	+5
+-5	2008
+1786	0
+-1	3
+13
+August 12
+1956	Uruguay
+Czechoslovakia	2
+1	Friendly
+in Uruguay	+5
+-5	1901
+1781	+2
+-1	5
+14
+August 19
+1956	Argentina
+Czechoslovakia	1
+0	Friendly
+in Argentina	+2
+-2	2044
+1779	0
+0	1
+14
+August 26
+1956	Chile
+Czechoslovakia	3
+0	Friendly
+in Chile	+15
+-15	1749
+1764	+2
+-1	17
+15
+September 30
+1956	Yugoslavia
+Czechoslovakia	1
+2	Dr. Gero International Cup
+in Yugoslavia	-31
++31	1841
+1795	-1
++4	8
+11
+November 25
+1956	Czechoslovakia
+Turkey	1
+1	Friendly
+in Czechoslovakia	-6
++6	1789
+1637	-1
++2	13
+24
+May 01
+1957	Wales
+Czechoslovakia	1
+0	World Cup qualifier
+in Wales	+24
+-24	1639
+1765	+5
+-2	25
+16
+May 18
+1957	Czechoslovakia
+Yugoslavia	1
+0	Dr. Gero International Cup
+in Czechoslovakia	+18
+-18	1783
+1810	+2
+-3	14
+11
+May 26
+1957	Czechoslovakia
+Wales	2
+0	World Cup qualifier
+in Czechoslovakia	+11
+-11	1794
+1609	+2
+-3	13
+30
+June 16
+1957	Czechoslovakia
+East Germany	3
+1	World Cup qualifier
+in Czechoslovakia	+8
+-8	1802
+1566	+1
+-4	12
+42
+October 13
+1957	Austria
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Austria	-7
++7	1829
+1809	-1
++1	8
+10
+October 27
+1957	East Germany
+Czechoslovakia	1
+4	World Cup qualifier
+in East Germany	-20
++20	1525
+1829	-1
++3	50
+7
+December 13
+1957	Egypt
+Czechoslovakia	1
+2	Friendly
+in Egypt	-6
++6	1567
+1835	0
+0	43
+8
+April 02
+1958	Czechoslovakia
+West Germany	3
+2	Friendly
+in Czechoslovakia	+8
+-8	1843
+1864	+2
+0	7
+6
+June 08
+1958	Northern Ireland
+Czechoslovakia	1
+0	World Cup
+in Sweden	+45
+-45	1694
+1798	+4
+-5	22
+13
+June 11
+1958	Czechoslovakia
+West Germany	2
+2	World Cup
+in Sweden	+11
+-11	1809
+1916	+3
+0	10
+5
+June 15
+1958	Czechoslovakia
+Argentina	6
+1	World Cup
+in Sweden	+85
+-85	1894
+1879	+6
+-5	5
+7
+June 17
+1958	Northern Ireland
+Czechoslovakia	2
+1	World Cup
+in Sweden	+46
+-46	1741
+1848	+3
+-4	20
+9
+August 30
+1958	Czechoslovakia
+Soviet Union	1
+2	Friendly
+in Czechoslovakia	-13
++13	1835
+1859	-1
++2	9
+7
+September 20
+1958	Czechoslovakia
+Switzerland	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+4
+-4	1839
+1554	0
+-1	9
+46
+October 12
+1958	Czechoslovakia
+Bulgaria	0
+1	Friendly
+in Czechoslovakia	-17
++17	1822
+1626	-1
++6	10
+31
+December 13
+1958	Italy
+Czechoslovakia	1
+1	Dr. Gero International Cup
+in Italy	-2
++2	1749
+1824	0
+0	18
+11
+December 18
+1958	Turkey
+Czechoslovakia	1
+0	Friendly
+in Turkey	+12
+-12	1663
+1812	+1
+-1	26
+12
+April 05
+1959	Ireland
+Czechoslovakia	2
+0	European Cup qualifier
+in Ireland	+33
+-33	1713
+1779	+3
+-4	23
+14
+May 10
+1959	Czechoslovakia
+Ireland	4
+0	European Cup qualifier
+in Czechoslovakia	+21
+-21	1800
+1692	+1
+-1	12
+25
+September 06
+1959	Soviet Union
+Czechoslovakia	3
+1	Friendly
+in the Soviet Union	+9
+-9	1865
+1791	+2
+-3	5
+14
+September 23
+1959	Denmark
+Czechoslovakia	2
+2	European Cup qualifier
+in Denmark	+5
+-5	1602
+1786	+1
+0	38
+14
+October 18
+1959	Czechoslovakia
+Denmark	5
+1	European Cup qualifier
+in Czechoslovakia	+12
+-12	1798
+1593	+2
+-1	13
+39
+November 01
+1959	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+12
+-12	1810
+1742	+2
+-1	11
+20
+May 01
+1960	Czechoslovakia
+Austria	4
+0	Friendly
+in Czechoslovakia	+10
+-10	1820
+1733	+1
+0	11
+20
+May 22
+1960	Romania
+Czechoslovakia	0
+2	European Cup qualifier
+in Romania	-22
++22	1605
+1842	-3
++1	38
+9
+May 29
+1960	Czechoslovakia
+Romania	3
+0	European Cup qualifier
+in Czechoslovakia	+9
+-9	1851
+1596	0
+-3	9
+42
+July 06
+1960	Soviet Union
+Czechoslovakia	3
+0	European Cup
+in France	+41
+-41	1916
+1810	+2
+-2	4
+11
+July 09
+1960	France
+Czechoslovakia	0
+2	European Cup
+in France	-54
++54	1824
+1864	-5
++3	11
+8
+October 30
+1960	Czechoslovakia
+Netherlands	4
+0	Friendly
+in Czechoslovakia	+5
+-5	1869
+1649	0
+-3	9
+31
+March 26
+1961	Czechoslovakia
+Sweden	2
+1	Friendly
+in Czechoslovakia	+7
+-7	1876
+1855	+1
+0	8
+10
+April 29
+1961	Czechoslovakia
+Mexico	2
+1	Friendly
+in Czechoslovakia	+5
+-5	1881
+1796	0
+0	9
+13
+May 14
+1961	Czechoslovakia
+Scotland	4
+0	World Cup qualifier
+in Czechoslovakia	+18
+-18	1899
+1762	+1
+0	7
+18
+June 19
+1961	Czechoslovakia
+Argentina	3
+3	Friendly
+in Czechoslovakia	-2
++2	1897
+1942	-1
+0	8
+2
+September 26
+1961	Scotland
+Czechoslovakia	3
+2	World Cup qualifier
+in Scotland	+22
+-22	1784
+1875	+1
+0	17
+8
+October 08
+1961	Ireland
+Czechoslovakia	1
+3	World Cup qualifier
+in Ireland	-20
++20	1629
+1895	-2
++1	31
+8
+October 29
+1961	Czechoslovakia
+Ireland	7
+1	World Cup qualifier
+in Czechoslovakia	+9
+-9	1904
+1620	+3
+-4	5
+36
+November 29
+1961	Czechoslovakia
+Scotland	4
+2	World Cup qualifier
+in Belgium	+23
+-23	1927
+1803	+3
+-2	4
+14
+April 07
+1962	Sweden
+Czechoslovakia	3
+1	Friendly
+in Sweden	+15
+-15	1840
+1912	+1
+-2	10
+6
+April 22
+1962	Czechoslovakia
+Uruguay	3
+1	Friendly
+in Czechoslovakia	+9
+-9	1921
+1869	+2
+0	4
+8
+May 31
+1962	Czechoslovakia
+Spain	1
+0	World Cup
+in Chile	+29
+-29	1950
+1884	0
+0	4
+6
+June 02
+1962	Brazil
+Czechoslovakia	0
+0	World Cup
+in Chile	-11
++11	2069
+1961	0
++1	1
+3
+June 07
+1962	Mexico
+Czechoslovakia	3
+1	World Cup
+in Chile	+70
+-70	1809
+1891	+4
+-5	14
+8
+June 10
+1962	Czechoslovakia
+Hungary	1
+0	World Cup
+in Chile	+35
+-35	1926
+1909	+4
+-2	4
+5
+June 13
+1962	Czechoslovakia
+Yugoslavia	3
+1	World Cup
+in Chile	+50
+-50	1976
+1911	+2
+-2	2
+4
+June 17
+1962	Brazil
+Czechoslovakia	3
+1	World Cup
+in Chile	+27
+-27	2153
+1949	0
+-1	1
+3
+September 16
+1962	Austria
+Czechoslovakia	0
+6	Friendly
+in Austria	-20
++20	1807
+1969	-2
++1	13
+2
+October 28
+1962	Czechoslovakia
+Poland	2
+1	Friendly
+in Czechoslovakia	+1
+-1	1970
+1613	0
+-1	2
+35
+November 21
+1962	East Germany
+Czechoslovakia	2
+1	European Cup qualifier
+in East Germany	+35
+-35	1559
+1935	+4
+-2	48
+4
+March 31
+1963	Czechoslovakia
+East Germany	1
+1	European Cup qualifier
+in Czechoslovakia	-17
++17	1918
+1598	-1
++3	4
+41
+April 24
+1963	Austria
+Czechoslovakia	3
+1	Friendly
+in Austria	+16
+-16	1804
+1902	+2
++1	15
+3
+April 28
+1963	Bulgaria
+Czechoslovakia	1
+0	Friendly
+in Bulgaria	+12
+-12	1727
+1890	0
+-2	24
+5
+May 29
+1963	Czechoslovakia
+England	2
+4	Friendly
+in Czechoslovakia	-22
++22	1868
+1843	-3
++2	8
+10
+June 02
+1963	Czechoslovakia
+Hungary	2
+2	Friendly
+in Czechoslovakia	-1
++1	1867
+1925	0
+0	8
+2
+November 03
+1963	Yugoslavia
+Czechoslovakia	2
+0	Friendly
+in Yugoslavia	+11
+-11	1875
+1856	+2
+-2	6
+9
+April 11
+1964	Italy
+Czechoslovakia	0
+0	Friendly
+in Italy	-3
++3	1860
+1859	-1
+-1	9
+10
+April 29
+1964	West Germany
+Czechoslovakia	3
+4	Friendly
+in West Germany	-13
++13	1851
+1872	-3
++3	11
+7
+May 17
+1964	Czechoslovakia
+Yugoslavia	2
+3	Friendly
+in Czechoslovakia	-13
++13	1859
+1888	-2
+0	10
+6
+September 13
+1964	Poland
+Czechoslovakia	2
+1	Friendly
+in Poland	+14
+-14	1621
+1845	+5
+-1	35
+11
+October 11
+1964	Hungary
+Czechoslovakia	2
+2	Friendly
+in Hungary	-5
++5	1912
+1850	0
++1	2
+10
+April 25
+1965	Czechoslovakia
+Portugal	0
+1	World Cup qualifier
+in Czechoslovakia	-33
++33	1817
+1718	-4
++2	13
+25
+May 30
+1965	Romania
+Czechoslovakia	1
+0	World Cup qualifier
+in Romania	+14
+-14	1838
+1803	+2
+-3	10
+16
+September 19
+1965	Czechoslovakia
+Romania	3
+1	World Cup qualifier
+in Czechoslovakia	+23
+-23	1826
+1794	+4
+-3	11
+16
+October 09
+1965	Turkey
+Czechoslovakia	0
+6	World Cup qualifier
+in Turkey	-27
++27	1564
+1853	-4
++2	47
+8
+October 31
+1965	Portugal
+Czechoslovakia	0
+0	World Cup qualifier
+in Portugal	+1
+-1	1742
+1852	+1
+0	20
+8
+November 21
+1965	Czechoslovakia
+Turkey	3
+1	World Cup qualifier
+in Czechoslovakia	+7
+-7	1859
+1584	0
+-1	8
+42
+May 18
+1966	Czechoslovakia
+Soviet Union	1
+2	Friendly
+in Czechoslovakia	-12
++12	1847
+1908	-1
+0	9
+5
+June 12
+1966	Brazil
+Czechoslovakia	2
+1	Friendly
+in Brazil	+5
+-5	1959
+1842	0
+-1	1
+10
+June 15
+1966	Brazil
+Czechoslovakia	2
+2	Friendly
+in Brazil	-6
++6	1953
+1848	0
++1	1
+9
+October 19
+1966	Yugoslavia
+Czechoslovakia	1
+0	Friendly
+in Yugoslavia	+11
+-11	1727
+1837	+1
+0	22
+10
+November 02
+1966	England
+Czechoslovakia	0
+0	Friendly
+in England	-7
++7	2034
+1844	0
+0	1
+10
+November 06
+1966	Netherlands
+Czechoslovakia	1
+2	Friendly
+in the Netherlands	-7
++7	1617
+1851	-1
+0	37
+10
+May 03
+1967	Switzerland
+Czechoslovakia	1
+2	Friendly
+in Switzerland	-5
++5	1558
+1856	-1
++1	48
+10
+May 21
+1967	Ireland
+Czechoslovakia	0
+2	European Cup qualifier
+in Ireland	-18
++18	1590
+1874	-1
++1	41
+9
+June 18
+1967	Czechoslovakia
+Turkey	3
+0	European Cup qualifier
+in Czechoslovakia	+8
+-8	1882
+1602	+1
+0	8
+40
+October 01
+1967	Czechoslovakia
+Spain	1
+0	European Cup qualifier
+in Czechoslovakia	+11
+-11	1893
+1803	+1
+-1	8
+13
+October 22
+1967	Spain
+Czechoslovakia	2
+1	European Cup qualifier
+in Spain	+19
+-19	1822
+1874	+1
+-1	12
+9
+November 15
+1967	Turkey
+Czechoslovakia	0
+0	European Cup qualifier
+in Turkey	+9
+-9	1611
+1865	0
+0	37
+9
+November 22
+1967	Czechoslovakia
+Ireland	1
+2	European Cup qualifier
+in Czechoslovakia	-36
++36	1829
+1626	-1
++5	11
+35
+April 27
+1968	Czechoslovakia
+Yugoslavia	3
+0	Friendly
+in Czechoslovakia	+10
+-10	1839
+1768	0
+-1	11
+18
+June 23
+1968	Czechoslovakia
+Brazil	3
+2	Friendly
+in Czechoslovakia	+9
+-9	1848
+1903	0
+-2	10
+6
+September 25
+1968	Denmark
+Czechoslovakia	0
+3	World Cup qualifier
+in Denmark	-19
++19	1559
+1867	-3
++2	49
+8
+October 20
+1968	Czechoslovakia
+Denmark	1
+0	World Cup qualifier
+in Czechoslovakia	+3
+-3	1870
+1549	0
+-1	8
+56
+April 16
+1969	Netherlands
+Czechoslovakia	2
+0	Friendly
+in the Netherlands	+21
+-21	1656
+1849	+3
+-1	30
+8
+May 04
+1969	Ireland
+Czechoslovakia	1
+2	World Cup qualifier
+in Ireland	-13
++13	1603
+1862	-4
+0	41
+8
+May 25
+1969	Hungary
+Czechoslovakia	2
+0	World Cup qualifier
+in Hungary	+17
+-17	1946
+1845	+2
+-1	3
+9
+September 14
+1969	Czechoslovakia
+Hungary	3
+3	World Cup qualifier
+in Czechoslovakia	-1
++1	1844
+1921	0
+0	9
+5
+October 07
+1969	Czechoslovakia
+Ireland	3
+0	World Cup qualifier
+in Czechoslovakia	+8
+-8	1852
+1568	+1
+-2	8
+52
+December 03
+1969	Czechoslovakia
+Hungary	4
+1	World Cup qualifier
+in France	+41
+-41	1893
+1875	+2
+-1	6
+7
+April 12
+1970	Austria
+Czechoslovakia	1
+3	Friendly
+in Austria	-11
++11	1681
+1904	-1
+0	27
+6
+May 09
+1970	Luxembourg
+Czechoslovakia	0
+1	Friendly
+in Luxembourg	-1
++1	1245
+1905	0
+0	126
+6
+May 13
+1970	Norway
+Czechoslovakia	0
+2	Friendly
+in Norway	-4
++4	1493
+1909	-1
+0	68
+6
+June 03
+1970	Brazil
+Czechoslovakia	4
+1	World Cup
+in Mexico	+44
+-44	2010
+1865	0
+-2	2
+8
+June 06
+1970	Romania
+Czechoslovakia	2
+1	World Cup
+in Mexico	+42
+-42	1762
+1823	+6
+-1	18
+9
+June 11
+1970	England
+Czechoslovakia	1
+0	World Cup
+in Mexico	+16
+-16	2012
+1807	0
+-1	2
+9
+September 05
+1970	France
+Czechoslovakia	3
+0	Friendly
+in France	+18
+-18	1716
+1789	+2
+-4	23
+13
+October 07
+1970	Czechoslovakia
+Finland	1
+1	European Cup qualifier
+in Czechoslovakia	-18
++18	1771
+1374	-3
++5	16
+93
+October 25
+1970	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	-3
++3	1768
+1766	0
+0	16
+17
+April 21
+1971	Wales
+Czechoslovakia	1
+3	European Cup qualifier
+in Wales	-28
++28	1614
+1796	-3
++3	42
+12
+May 16
+1971	Czechoslovakia
+Romania	1
+0	European Cup qualifier
+in Czechoslovakia	+12
+-12	1808
+1745	+2
+-1	10
+20
+June 16
+1971	Finland
+Czechoslovakia	0
+4	European Cup qualifier
+in Finland	-9
++9	1347
+1817	-5
++1	102
+9
+July 14
+1971	Brazil
+Czechoslovakia	1
+0	Friendly
+in Brazil	+2
+-2	2127
+1815	0
+0	1
+10
+September 25
+1971	East Germany
+Czechoslovakia	1
+1	Friendly
+in East Germany	-4
++4	1873
+1819	0
+0	6
+10
+October 27
+1971	Czechoslovakia
+Wales	1
+0	European Cup qualifier
+in Czechoslovakia	+7
+-7	1826
+1633	+1
+-1	9
+40
+November 14
+1971	Romania
+Czechoslovakia	2
+1	European Cup qualifier
+in Romania	+19
+-19	1755
+1807	+3
+-2	17
+11
+April 08
+1972	Czechoslovakia
+Austria	2
+0	Friendly
+in Czechoslovakia	+8
+-8	1815
+1737	+1
+-2	10
+21
+April 26
+1972	Czechoslovakia
+Luxembourg	6
+0	Friendly
+in Czechoslovakia	+1
+-1	1816
+1237	0
+0	10
+128
+May 14
+1972	Sweden
+Czechoslovakia	1
+2	Friendly
+in Sweden	-12
++12	1779
+1828	0
++1	16
+9
+June 28
+1972	Brazil
+Czechoslovakia	0
+0	Independence Cup
+in Brazil	-16
++16	2082
+1844	-1
++2	2
+7
+July 02
+1972	Czechoslovakia
+Scotland	0
+0	Independence Cup
+in Brazil	-6
++6	1838
+1734	0
+0	8
+26
+July 06
+1972	Yugoslavia
+Czechoslovakia	2
+1	Independence Cup
+in Brazil	+22
+-22	1831
+1816	+2
+-4	10
+12
+August 30
+1972	Czechoslovakia
+Netherlands	1
+2	Friendly
+in Czechoslovakia	-15
++15	1801
+1762	-2
++2	14
+18
+October 15
+1972	Poland
+Czechoslovakia	3
+0	Friendly
+in Poland	+8
+-8	1932
+1793	0
+-1	4
+16
+November 01
+1972	Czechoslovakia
+East Germany	1
+3	Friendly
+in Czechoslovakia	-18
++18	1775
+1830	0
++1	16
+12
+March 28
+1973	West Germany
+Czechoslovakia	3
+0	Friendly
+in West Germany	+3
+-3	2081
+1772	0
+0	2
+18
+May 02
+1973	Denmark
+Czechoslovakia	1
+1	World Cup qualifier
+in Denmark	+6
+-6	1564
+1766	+1
+-2	51
+20
+May 27
+1973	Czechoslovakia
+England	1
+1	Friendly
+in Czechoslovakia	+3
+-3	1769
+1969	0
+0	20
+3
+June 06
+1973	Czechoslovakia
+Denmark	6
+0	World Cup qualifier
+in Czechoslovakia	+13
+-13	1782
+1551	+2
+-1	18
+52
+September 26
+1973	Scotland
+Czechoslovakia	2
+1	World Cup qualifier
+in Scotland	+17
+-17	1754
+1765	+2
+-2	22
+20
+October 17
+1973	Czechoslovakia
+Scotland	1
+0	World Cup qualifier
+in Czechoslovakia	+14
+-14	1779
+1740	+1
+-2	19
+24
+March 27
+1974	East Germany
+Czechoslovakia	1
+0	Friendly
+in East Germany	+5
+-5	1897
+1774	0
+0	7
+19
+April 07
+1974	Brazil
+Czechoslovakia	1
+0	Friendly
+in Brazil	+2
+-2	2081
+1772	0
+0	1
+19
+April 13
+1974	Bulgaria
+Czechoslovakia	0
+1	Friendly
+in Bulgaria	-13
++13	1777
+1785	-2
++2	19
+17
+April 27
+1974	Czechoslovakia
+France	3
+3	Friendly
+in Czechoslovakia	-4
++4	1781
+1730	-1
+0	18
+27
+May 20
+1974	Soviet Union
+Czechoslovakia	0
+1	Friendly
+in the Soviet Union	-14
++14	1831
+1795	-3
++3	12
+16
+September 25
+1974	Czechoslovakia
+East Germany	3
+1	Friendly
+in Czechoslovakia	+15
+-15	1810
+1886	+2
+0	16
+7
+October 13
+1974	Czechoslovakia
+Sweden	4
+0	Friendly
+in Czechoslovakia	+15
+-15	1825
+1831	+1
+-2	15
+13
+October 30
+1974	England
+Czechoslovakia	3
+0	European Cup qualifier
+in England	+17
+-17	1935
+1808	0
++2	5
+13
+November 13
+1974	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	+2
+-2	1810
+1994	+1
+0	13
+3
+December 08
+1974	Indonesia
+Czechoslovakia	1
+1	Friendly
+in Indonesia	+7
+-7	1411
+1803	+1
+-2	85
+16
+December 20
+1974	Iran
+Czechoslovakia	0
+1	Friendly
+in Iran	-9
++9	1665
+1812	-2
++2	32
+14
+March 31
+1975	Czechoslovakia
+Romania	1
+1	Friendly
+in Czechoslovakia	-4
++4	1808
+1765	0
+0	14
+21
+April 20
+1975	Czechoslovakia
+Cyprus	4
+0	European Cup qualifier
+in Czechoslovakia	+2
+-2	1810
+1294	0
+-1	14
+119
+April 30
+1975	Czechoslovakia
+Portugal	5
+0	European Cup qualifier
+in Czechoslovakia	+31
+-31	1841
+1800	+3
+-3	11
+15
+June 07
+1975	Austria
+Czechoslovakia	0
+0	Friendly
+in Austria	-1
++1	1784
+1842	0
+0	18
+10
+September 24
+1975	Czechoslovakia
+Switzerland	1
+1	Friendly
+in Czechoslovakia	-7
++7	1835
+1634	0
++1	11
+39
+October 15
+1975	Czechoslovakia
+Hungary	1
+1	Friendly
+in Czechoslovakia	-4
++4	1831
+1789	-1
++1	14
+18
+October 30
+1975	Czechoslovakia
+England	2
+1	European Cup qualifier
+in Czechoslovakia	+21
+-21	1852
+1929	+4
+0	10
+5
+November 12
+1975	Portugal
+Czechoslovakia	1
+1	European Cup qualifier
+in Portugal	-3
++3	1796
+1855	0
++1	16
+9
+November 19
+1975	Czechoslovakia
+East Germany	1
+1	Olympic Games qualifier
+in Czechoslovakia	-6
++6	1849
+1858	-3
++2	12
+9
+November 23
+1975	Cyprus
+Czechoslovakia	0
+3	European Cup qualifier
+in Cyprus	-5
++5	1282
+1854	-1
++1	121
+11
+March 10
+1976	Czechoslovakia
+Soviet Union	2
+2	Friendly
+in Czechoslovakia	-4
++4	1850
+1829	0
+0	10
+14
+March 27
+1976	France
+Czechoslovakia	2
+2	Friendly
+in France	+1
+-1	1717
+1849	0
++1	26
+10
+April 07
+1976	East Germany
+Czechoslovakia	0
+0	Olympic Games qualifier
+in East Germany	-6
++6	1852
+1855	-1
++1	10
+9
+April 24
+1976	Czechoslovakia
+Soviet Union	2
+0	European Cup qualifier
+in Czechoslovakia	+20
+-20	1875
+1815	+2
+0	8
+14
+May 22
+1976	Soviet Union
+Czechoslovakia	2
+2	European Cup qualifier
+in the Soviet Union	-2
++2	1813
+1877	+1
+0	14
+9
+June 16
+1976	Czechoslovakia
+Netherlands	3
+1	European Cup
+in Yugoslavia	+53
+-53	1930
+1977	+4
+0	5
+3
+June 20
+1976	Czechoslovakia
+West Germany	2
+2	European Cup
+in Yugoslavia	+10
+-10	1940
+2075	0
+0	5
+1
+September 22
+1976	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+2
+-2	1759
+1938	+1
+0	19
+4
+October 06
+1976	Czechoslovakia
+Romania	3
+2	Friendly
+in Czechoslovakia	+3
+-3	1941
+1756	0
+-1	4
+20
+October 13
+1976	Czechoslovakia
+Scotland	2
+0	World Cup qualifier
+in Czechoslovakia	+18
+-18	1959
+1876	0
+0	4
+8
+November 17
+1976	West Germany
+Czechoslovakia	2
+0	Friendly
+in West Germany	+7
+-7	2087
+1952	0
+0	1
+4
+March 23
+1977	Czechoslovakia
+Greece	4
+0	Friendly
+in Czechoslovakia	+2
+-2	1954
+1572	0
+0	4
+49
+March 30
+1977	Wales
+Czechoslovakia	3
+0	World Cup qualifier
+in Wales	+51
+-51	1729
+1903	+4
+-1	26
+5
+April 20
+1977	Hungary
+Czechoslovakia	2
+0	Friendly
+in Hungary	+13
+-13	1858
+1890	+1
+-2	12
+8
+May 24
+1977	Switzerland
+Czechoslovakia	1
+0	Friendly
+in Switzerland	+16
+-16	1555
+1874	+2
+-1	54
+10
+June 01
+1977	Czechoslovakia
+Austria	0
+0	Friendly
+in Czechoslovakia	-5
++5	1869
+1783	-1
+0	11
+19
+September 07
+1977	Czechoslovakia
+Turkey	1
+0	Friendly
+in Czechoslovakia	+2
+-2	1871
+1618	0
+-2	10
+42
+September 21
+1977	Scotland
+Czechoslovakia	3
+1	World Cup qualifier
+in Scotland	+18
+-18	1933
+1853	+1
+-2	5
+12
+November 09
+1977	Czechoslovakia
+Hungary	1
+1	Friendly
+in Czechoslovakia	-3
++3	1850
+1864	0
+0	13
+11
+November 16
+1977	Czechoslovakia
+Wales	1
+0	World Cup qualifier
+in Czechoslovakia	+9
+-9	1859
+1736	0
+-1	13
+24
+March 22
+1978	Greece
+Czechoslovakia	0
+1	Friendly
+in Greece	-6
++6	1600
+1865	-1
+0	44
+13
+April 15
+1978	Hungary
+Czechoslovakia	2
+1	Friendly
+in Hungary	+7
+-7	1878
+1858	0
+0	12
+13
+April 23
+1978	Czechoslovakia
+Bulgaria	0
+0	Friendly
+in Czechoslovakia	-7
++7	1851
+1687	0
++3	13
+29
+May 17
+1978	Brazil
+Czechoslovakia	2
+0	Friendly
+in Brazil	+5
+-5	2033
+1846	0
+0	3
+13
+May 21
+1978	Sweden
+Czechoslovakia	0
+0	Friendly
+in Sweden	0
+0	1755
+1846	0
+0	24
+13
+September 06
+1978	East Germany
+Czechoslovakia	2
+1	Friendly
+in East Germany	+6
+-6	1893
+1840	0
+0	10
+13
+October 04
+1978	Sweden
+Czechoslovakia	1
+3	European Cup qualifier
+in Sweden	-29
++29	1704
+1869	-1
++1	28
+12
+October 11
+1978	Czechoslovakia
+West Germany	3
+4	Friendly
+in Czechoslovakia	-10
++10	1859
+1990	0
+0	12
+4
+November 08
+1978	Czechoslovakia
+Italy	3
+0	Friendly
+in Czechoslovakia	+18
+-18	1877
+1948	+1
+0	11
+5
+November 29
+1978	England
+Czechoslovakia	1
+0	Friendly
+in England	+5
+-5	1952
+1872	+1
+0	5
+11
+March 14
+1979	Czechoslovakia
+Spain	1
+0	Friendly
+in Czechoslovakia	+8
+-8	1880
+1907	0
+0	10
+7
+April 04
+1979	Czechoslovakia
+France	2
+0	European Cup qualifier
+in Czechoslovakia	+19
+-19	1899
+1828	+1
+-3	9
+15
+May 01
+1979	Luxembourg
+Czechoslovakia	0
+3	European Cup qualifier
+in Luxembourg	-2
++2	1189
+1901	0
+0	141
+8
+May 05
+1979	Soviet Union
+Czechoslovakia	3
+0	Friendly
+in the Soviet Union	+13
+-13	1906
+1888	+2
+-1	8
+10
+September 12
+1979	Hungary
+Czechoslovakia	2
+1	Friendly
+in Hungary	+11
+-11	1774
+1877	0
+0	21
+10
+September 26
+1979	Czechoslovakia
+Ireland	4
+1	Friendly
+in Czechoslovakia	+5
+-5	1882
+1662	+1
+0	9
+31
+October 10
+1979	Czechoslovakia
+Sweden	4
+1	European Cup qualifier
+in Czechoslovakia	+9
+-9	1891
+1648	+1
+0	8
+34
+November 17
+1979	France
+Czechoslovakia	2
+1	European Cup qualifier
+in France	+16
+-16	1879
+1875	+3
+-2	9
+10
+November 24
+1979	Czechoslovakia
+Luxembourg	4
+0	European Cup qualifier
+in Czechoslovakia	+1
+-1	1876
+1202	0
+0	10
+142
+January 23
+1980	Mexico
+Czechoslovakia	1
+0	Friendly
+in Mexico	+14
+-14	1634
+1862	+7
+0	37
+10
+January 27
+1980	Australia
+Czechoslovakia	0
+4	Friendly
+in Australia	-11
++11	1596
+1873	-1
+0	48
+10
+February 03
+1980	Australia
+Czechoslovakia	0
+5	Friendly
+in Australia	-11
++11	1585
+1884	-5
++1	53
+9
+February 09
+1980	Australia
+Czechoslovakia	2
+2	Friendly
+in Australia	+5
+-5	1590
+1879	+3
+0	50
+9
+March 26
+1980	Switzerland
+Czechoslovakia	2
+0	Friendly
+in Switzerland	+24
+-24	1565
+1855	+5
+-2	56
+12
+April 16
+1980	Spain
+Czechoslovakia	2
+2	Friendly
+in Spain	-2
++2	1832
+1857	0
+0	15
+14
+April 30
+1980	Czechoslovakia
+Hungary	1
+0	Friendly
+in Czechoslovakia	+5
+-5	1862
+1751	0
+0	14
+22
+May 16
+1980	Czechoslovakia
+Romania	2
+1	Friendly
+in Czechoslovakia	+4
+-4	1866
+1724	+1
+0	13
+25
+June 11
+1980	West Germany
+Czechoslovakia	1
+0	European Cup
+in Italy	+14
+-14	2051
+1852	0
+-1	1
+14
+June 14
+1980	Czechoslovakia
+Greece	3
+1	European Cup
+in Italy	+16
+-16	1868
+1607	+1
+-5	13
+48
+June 17
+1980	Czechoslovakia
+Netherlands	1
+1	European Cup
+in Italy	+7
+-7	1875
+1965	+1
+0	12
+3
+June 21
+1980	Italy
+Czechoslovakia	1
+1	European Cup
+in Italy	-12
++12	1936
+1887	0
++2	6
+10
+September 24
+1980	Poland
+Czechoslovakia	1
+1	Friendly
+in Poland	-4
++4	1921
+1891	-1
+0	8
+10
+October 08
+1980	Czechoslovakia
+East Germany	0
+1	Friendly
+in Czechoslovakia	-13
++13	1878
+1887	-1
++2	11
+10
+October 15
+1980	Argentina
+Czechoslovakia	1
+0	Friendly
+in Argentina	+5
+-5	1960
+1873	+1
+-1	3
+13
+November 19
+1980	Wales
+Czechoslovakia	1
+0	World Cup qualifier
+in Wales	+19
+-19	1807
+1854	+3
+0	15
+13
+December 03
+1980	Czechoslovakia
+Turkey	2
+0	World Cup qualifier
+in Czechoslovakia	+6
+-6	1860
+1550	0
+-2	13
+55
+January 25
+1981	Bolivia
+Czechoslovakia	2
+1	Friendly
+in Bolivia	+16
+-16	1560
+1844	+3
+0	53
+13
+January 29
+1981	Bolivia
+Czechoslovakia	2
+5	Friendly
+in Bolivia	-9
++9	1551
+1853	-2
+0	55
+13
+February 04
+1981	Peru
+Czechoslovakia	1
+3	Friendly
+in Peru	-13
++13	1685
+1866	-1
+0	31
+13
+March 24
+1981	Czechoslovakia
+Switzerland	0
+1	Friendly
+in Czechoslovakia	-19
++19	1847
+1545	0
++3	13
+58
+April 15
+1981	Turkey
+Czechoslovakia	0
+3	World Cup qualifier
+in Turkey	-16
++16	1523
+1863	-2
++1	60
+12
+April 29
+1981	Ireland
+Czechoslovakia	3
+1	Friendly
+in Ireland	+18
+-18	1699
+1845	+3
+-2	29
+14
+May 27
+1981	Czechoslovakia
+Iceland	6
+1	World Cup qualifier
+in Czechoslovakia	+3
+-3	1848
+1366	+1
+-1	14
+96
+September 09
+1981	Czechoslovakia
+Wales	2
+0	World Cup qualifier
+in Czechoslovakia	+22
+-22	1870
+1835	+4
+-2	10
+15
+September 23
+1981	Iceland
+Czechoslovakia	1
+1	World Cup qualifier
+in Iceland	+15
+-15	1438
+1855	+2
+-2	81
+12
+October 28
+1981	Soviet Union
+Czechoslovakia	2
+0	World Cup qualifier
+in the Soviet Union	+15
+-15	1958
+1840	0
+-2	4
+13
+November 11
+1981	Argentina
+Czechoslovakia	1
+1	Friendly
+in Argentina	-6
++6	1966
+1846	0
++1	3
+12
+November 29
+1981	Czechoslovakia
+Soviet Union	1
+1	World Cup qualifier
+in Czechoslovakia	+1
+-1	1847
+1971	0
+0	14
+3
+March 03
+1982	Brazil
+Czechoslovakia	1
+1	Friendly
+in Brazil	-7
++7	2051
+1854	0
++1	2
+13
+March 09
+1982	Argentina
+Czechoslovakia	0
+0	Friendly
+in Argentina	-5
++5	1961
+1859	0
++1	4
+12
+March 24
+1982	Czechoslovakia
+Greece	2
+1	Friendly
+in Czechoslovakia	+2
+-2	1861
+1600	+2
+-1	10
+44
+April 14
+1982	West Germany
+Czechoslovakia	2
+1	Friendly
+in West Germany	+3
+-3	2064
+1858	0
+-3	1
+13
+April 28
+1982	Austria
+Czechoslovakia	2
+1	Friendly
+in Austria	+7
+-7	1867
+1851	+3
+0	9
+13
+June 17
+1982	Czechoslovakia
+Kuwait	1
+1	World Cup
+in Spain	-18
++18	1833
+1620	0
++1	13
+41
+June 20
+1982	England
+Czechoslovakia	2
+0	World Cup
+in Spain	+30
+-30	1982
+1803	+2
+-2	3
+15
+June 24
+1982	Czechoslovakia
+France	1
+1	World Cup
+in Spain	+2
+-2	1805
+1826	+1
+0	16
+14
+October 06
+1982	Czechoslovakia
+Sweden	2
+2	European Cup qualifier
+in Czechoslovakia	-13
++13	1792
+1662	-2
++3	18
+35
+October 27
+1982	Denmark
+Czechoslovakia	1
+3	Friendly
+in Denmark	-15
++15	1677
+1807	-3
++3	31
+15
+November 13
+1982	Italy
+Czechoslovakia	2
+2	European Cup qualifier
+in Italy	-14
++14	1993
+1821	-1
++1	3
+14
+March 27
+1983	Cyprus
+Czechoslovakia	1
+1	European Cup qualifier
+in Cyprus	+17
+-17	1276
+1804	+9
+-4	123
+16
+April 16
+1983	Czechoslovakia
+Cyprus	6
+0	European Cup qualifier
+in Czechoslovakia	+2
+-2	1806
+1274	0
+0	15
+122
+May 15
+1983	Romania
+Czechoslovakia	0
+1	European Cup qualifier
+in Romania	-24
++24	1758
+1830	-2
++3	21
+11
+September 07
+1983	Switzerland
+Czechoslovakia	0
+0	Friendly
+in Switzerland	+1
+-1	1706
+1829	-1
+0	29
+12
+September 21
+1983	Sweden
+Czechoslovakia	1
+0	European Cup qualifier
+in Sweden	+19
+-19	1761
+1810	+1
+-2	22
+14
+October 26
+1983	Czechoslovakia
+Bulgaria	1
+2	Friendly
+in Czechoslovakia	-16
++16	1794
+1686	-3
++2	19
+33
+November 16
+1983	Czechoslovakia
+Italy	2
+0	European Cup qualifier
+in Czechoslovakia	+25
+-25	1819
+1814	+7
+-5	13
+14
+November 30
+1983	Czechoslovakia
+Romania	1
+1	European Cup qualifier
+in Czechoslovakia	-8
++8	1811
+1785	-2
++1	14
+22
+March 28
+1984	East Germany
+Czechoslovakia	2
+1	Friendly
+in East Germany	+7
+-7	1826
+1804	0
+-2	12
+16
+April 07
+1984	Italy
+Czechoslovakia	1
+1	Friendly
+in Italy	-3
++3	1825
+1807	-1
++1	12
+15
+May 16
+1984	Czechoslovakia
+Denmark	1
+0	Friendly
+in Czechoslovakia	+6
+-6	1813
+1754	0
+0	15
+25
+September 05
+1984	Greece
+Czechoslovakia	0
+1	Friendly
+in Greece	-6
++6	1557
+1819	0
++2	53
+13
+October 14
+1984	Portugal
+Czechoslovakia	2
+1	World Cup qualifier
+in Portugal	+13
+-13	1852
+1806	+1
+-1	10
+16
+October 31
+1984	Czechoslovakia
+Malta	4
+0	World Cup qualifier
+in Czechoslovakia	+2
+-2	1808
+1291	0
+-2	15
+121
+March 27
+1985	Switzerland
+Czechoslovakia	2
+0	Friendly
+in Switzerland	+14
+-14	1737
+1794	-1
+-3	29
+16
+April 21
+1985	Malta
+Czechoslovakia	0
+0	World Cup qualifier
+in Malta	+16
+-16	1308
+1778	+7
+-2	112
+19
+April 30
+1985	Czechoslovakia
+West Germany	1
+5	World Cup qualifier
+in Czechoslovakia	-31
++31	1747
+1969	-8
++2	27
+2
+June 05
+1985	Sweden
+Czechoslovakia	2
+0	World Cup qualifier
+in Sweden	+18
+-18	1814
+1729	+3
+-1	13
+28
+September 04
+1985	Czechoslovakia
+Poland	3
+1	Friendly
+in Czechoslovakia	+14
+-14	1743
+1802	0
+-5	29
+17
+September 25
+1985	Czechoslovakia
+Portugal	1
+0	World Cup qualifier
+in Czechoslovakia	+16
+-16	1759
+1754	+3
+-4	26
+27
+October 16
+1985	Czechoslovakia
+Sweden	2
+1	World Cup qualifier
+in Czechoslovakia	+19
+-19	1778
+1824	+1
+-3	25
+11
+November 17
+1985	West Germany
+Czechoslovakia	2
+2	World Cup qualifier
+in West Germany	-10
++10	1863
+1788	-1
++2	6
+21
+April 23
+1986	Czechoslovakia
+East Germany	2
+0	Friendly
+in Czechoslovakia	+12
+-12	1800
+1803	+1
+-2	19
+17
+May 27
+1986	Ireland
+Czechoslovakia	1
+0	Friendly tournament
+in Iceland	+21
+-21	1687
+1779	+3
+-2	31
+21
+May 29
+1986	Iceland
+Czechoslovakia	1
+2	Friendly tournament
+in Iceland	-6
++6	1417
+1785	0
+0	86
+21
+August 03
+1986	Australia
+Czechoslovakia	1
+1	Friendly
+in Australia	0
+0	1671
+1785	0
+0	34
+17
+August 06
+1986	Australia
+Czechoslovakia	0
+1	Friendly
+in Australia	-10
++10	1661
+1795	0
++2	34
+15
+August 10
+1986	Australia
+Czechoslovakia	0
+3	Friendly
+in Australia	-16
++16	1645
+1811	-4
++2	38
+13
+September 10
+1986	Czechoslovakia
+Netherlands	1
+0	Friendly
+in Czechoslovakia	+8
+-8	1819
+1825	+1
+-1	12
+11
+October 15
+1986	Czechoslovakia
+Finland	3
+0	European Cup qualifier
+in Czechoslovakia	+7
+-7	1826
+1524	+1
+-3	12
+66
+November 12
+1986	Czechoslovakia
+Denmark	0
+0	European Cup qualifier
+in Czechoslovakia	-2
++2	1824
+1888	0
+0	12
+8
+March 25
+1987	Switzerland
+Czechoslovakia	1
+2	Friendly
+in Switzerland	-9
++9	1673
+1833	0
++1	35
+12
+April 29
+1987	Wales
+Czechoslovakia	1
+1	European Cup qualifier
+in Wales	-2
++2	1762
+1835	0
+-2	19
+14
+May 13
+1987	East Germany
+Czechoslovakia	2
+0	Friendly
+in East Germany	+15
+-15	1752
+1820	+1
+0	23
+14
+June 03
+1987	Denmark
+Czechoslovakia	1
+1	European Cup qualifier
+in Denmark	-10
++10	1898
+1830	0
+0	7
+14
+September 09
+1987	Finland
+Czechoslovakia	3
+0	European Cup qualifier
+in Finland	+55
+-55	1555
+1775	+14
+-8	58
+21
+October 27
+1987	Czechoslovakia
+Poland	3
+1	Friendly
+in Czechoslovakia	+9
+-9	1784
+1705	0
+-2	19
+31
+November 11
+1987	Czechoslovakia
+Wales	2
+0	European Cup qualifier
+in Czechoslovakia	+21
+-21	1805
+1752	+3
+-2	16
+23
+January 12
+1988	Czechoslovakia
+Finland	0
+2	Friendly tournament
+in Spain	-36
++36	1769
+1591	-4
++7	20
+49
+January 15
+1988	Czechoslovakia
+East Germany	1
+0	Friendly tournament
+in Spain	+16
+-16	1785
+1765	+1
+-1	19
+20
+February 24
+1988	Spain
+Czechoslovakia	1
+2	Friendly
+in Spain	-16
++16	1899
+1801	-1
++2	6
+17
+March 23
+1988	Bulgaria
+Czechoslovakia	2
+0	Friendly
+in Bulgaria	+13
+-13	1757
+1788	+3
+-2	22
+19
+April 27
+1988	Czechoslovakia
+Soviet Union	1
+1	Friendly
+in Czechoslovakia	+1
+-1	1789
+1928	0
+-1	19
+3
+June 01
+1988	Denmark
+Czechoslovakia	0
+1	Friendly
+in Denmark	-15
++15	1844
+1804	-1
++4	10
+15
+August 24
+1988	France
+Czechoslovakia	1
+1	Friendly
+in France	-3
++3	1827
+1807	0
+-1	10
+15
+September 20
+1988	Czechoslovakia
+Austria	4
+2	Friendly
+in Czechoslovakia	+7
+-7	1814
+1688	+2
+0	13
+32
+October 18
+1988	Luxembourg
+Czechoslovakia	0
+2	World Cup qualifier
+in Luxembourg	-2
++2	1130
+1816	0
+0	152
+13
+November 04
+1988	Czechoslovakia
+Norway	3
+2	Friendly
+in Czechoslovakia	+3
+-3	1819
+1617	0
+-2	13
+44
+November 16
+1988	Czechoslovakia
+Belgium	0
+0	World Cup qualifier
+in Czechoslovakia	-9
++9	1810
+1763	-2
++3	15
+22
+April 11
+1989	Austria
+Czechoslovakia	1
+2	Friendly
+in Austria	-9
++9	1673
+1819	-1
++2	34
+12
+April 29
+1989	Belgium
+Czechoslovakia	2
+1	World Cup qualifier
+in Belgium	+17
+-17	1784
+1802	+3
+-5	21
+18
+May 09
+1989	Czechoslovakia
+Luxembourg	4
+0	World Cup qualifier
+in Czechoslovakia	+1
+-1	1803
+1128	+1
+0	17
+154
+June 07
+1989	Switzerland
+Czechoslovakia	0
+1	World Cup qualifier
+in Switzerland	-18
++18	1648
+1821	-3
++3	36
+14
+September 05
+1989	Czechoslovakia
+Romania	2
+0	Friendly
+in Czechoslovakia	+12
+-12	1833
+1849	+1
+-1	14
+12
+October 06
+1989	Czechoslovakia
+Portugal	2
+1	World Cup qualifier
+in Czechoslovakia	+10
+-10	1843
+1736	+1
+-1	14
+26
+October 25
+1989	Czechoslovakia
+Switzerland	3
+0	World Cup qualifier
+in Czechoslovakia	+11
+-11	1854
+1635	+1
+-1	12
+38
+November 15
+1989	Portugal
+Czechoslovakia	0
+0	World Cup qualifier
+in Portugal	+1
+-1	1741
+1853	0
+0	25
+12
+February 21
+1990	Spain
+Czechoslovakia	1
+0	Friendly
+in Spain	+6
+-6	1891
+1847	0
+-1	8
+14
+April 04
+1990	Czechoslovakia
+Egypt	0
+1	Friendly
+in Czechoslovakia	-18
++18	1829
+1597	-2
++3	16
+44
+April 25
+1990	England
+Czechoslovakia	4
+2	Friendly
+in England	+8
+-8	1920
+1821	+1
+0	5
+16
+May 26
+1990	West Germany
+Czechoslovakia	1
+0	Friendly
+in West Germany	+4
+-4	1948
+1817	0
+0	3
+16
+June 10
+1990	Czechoslovakia
+United States	5
+1	World Cup
+in Italy	+19
+-19	1836
+1525	+1
+-4	15
+64
+June 15
+1990	Austria
+Czechoslovakia	0
+1	World Cup
+in Italy	-20
++20	1692
+1856	-3
++5	30
+11
+June 19
+1990	Italy
+Czechoslovakia	2
+0	World Cup
+in Italy	+24
+-24	1959
+1832	0
+-6	4
+15
+June 23
+1990	Costa Rica
+Czechoslovakia	1
+4	World Cup
+in Italy	-26
++26	1612
+1858	-4
++6	44
+9
+July 01
+1990	Czechoslovakia
+West Germany	0
+1	World Cup
+in Italy	-18
++18	1840
+2024	-3
+0	12
+1
+August 29
+1990	Finland
+Czechoslovakia	1
+1	Friendly
+in Finland	+5
+-5	1575
+1835	+1
+-2	50
+14
+September 26
+1990	Czechoslovakia
+Iceland	1
+0	European Cup qualifier
+in Czechoslovakia	+3
+-3	1838
+1511	+2
+0	12
+66
+October 13
+1990	France
+Czechoslovakia	2
+1	European Cup qualifier
+in France	+13
+-13	1881
+1825	0
+-3	8
+15
+November 14
+1990	Czechoslovakia
+Spain	3
+2	European Cup qualifier
+in Czechoslovakia	+19
+-19	1844
+1897	+4
+-1	10
+6
+January 30
+1991	Australia
+Czechoslovakia	0
+1	Friendly
+in Australia	-7
++7	1634
+1851	0
++2	35
+9
+February 06
+1991	Australia
+Czechoslovakia	0
+2	Friendly
+in Australia	-10
++10	1624
+1861	-2
+-1	37
+10
+March 27
+1991	Czechoslovakia
+Poland	4
+0	Friendly
+in Czechoslovakia	+8
+-8	1869
+1722	+1
+-1	9
+25
+May 01
+1991	Albania
+Czechoslovakia	0
+2	European Cup qualifier
+in Albania	-5
++5	1340
+1874	0
++2	110
+8
+June 05
+1991	Iceland
+Czechoslovakia	0
+1	European Cup qualifier
+in Iceland	-7
++7	1488
+1881	-1
+0	67
+8
+August 08
+1991	Czechoslovakia
+Yugoslavia	0
+0	Friendly tournament
+in Italy	+1
+-1	1882
+1908	0
+0	9
+6
+August 21
+1991	Czechoslovakia
+Switzerland	1
+1	Friendly
+in Czechoslovakia	-6
++6	1876
+1743	-1
+0	10
+24
+September 04
+1991	Czechoslovakia
+France	1
+2	European Cup qualifier
+in Czechoslovakia	-23
++23	1853
+1946	0
+0	10
+5
+September 25
+1991	Norway
+Czechoslovakia	2
+3	Friendly
+in Norway	-8
++8	1664
+1861	-1
++1	34
+10
+October 16
+1991	Czechoslovakia
+Albania	2
+1	European Cup qualifier
+in Czechoslovakia	+1
+-1	1862
+1390	0
+0	10
+97
+November 13
+1991	Spain
+Czechoslovakia	2
+1	European Cup qualifier
+in Spain	+20
+-20	1788
+1842	0
+-2	20
+12
+December 18
+1991	Brazil
+Czechoslovakia	2
+1	Friendly
+in Brazil	+5
+-5	1922
+1837	+1
+0	6
+12
+January 04
+1992	Egypt
+Czechoslovakia	2
+0	Friendly
+in Egypt	+18
+-18	1676
+1819	+1
+0	34
+12
+March 25
+1992	Czechoslovakia
+England	2
+2	Friendly
+in Czechoslovakia	+1
+-1	1820
+1961	0
+0	12
+2
+April 22
+1992	Czechoslovakia
+Germany	1
+1	Friendly
+in Czechoslovakia	+3
+-3	1823
+2035	0
+0	12
+1
+May 27
+1992	Poland
+Czechoslovakia	1
+0	Friendly
+in Poland	+9
+-9	1753
+1814	+1
+-1	22
+13
+August 19
+1992	Czechoslovakia
+Austria	2
+2	Friendly
+in Czechoslovakia	-8
++8	1806
+1567	0
++2	14
+53
+September 02
+1992	Czechoslovakia
+Belgium	1
+2	World Cup qualifier
+in Czechoslovakia	-27
++27	1779
+1807	-4
++4	18
+14
+September 23
+1992	Czechoslovakia
+Faroe Islands	4
+0	World Cup qualifier
+in Czechoslovakia	+1
+-1	1780
+1158	0
+0	18
+155
+November 14
+1992	Romania
+Czechoslovakia	1
+1	World Cup qualifier
+in Romania	-6
++6	1783
+1786	-1
++1	18
+17
+March 24
+1993	Cyprus
+Czechoslovakia	1
+1	World Cup qualifier
+in Cyprus	+16
+-16	1312
+1770	+3
+-1	123
+18
+April 28
+1993	Czechoslovakia
+Wales	1
+1	World Cup qualifier
+in Czechoslovakia	-6
++6	1764
+1761	-1
+0	20
+21
+June 02
+1993	Czechoslovakia
+Romania	5
+2	World Cup qualifier
+in Czechoslovakia	+23
+-23	1787
+1721	+1
+-4	19
+27
+June 16
+1993	Faroe Islands
+Czechoslovakia	0
+3	World Cup qualifier
+in Faroe Islands	-3
++3	1140
+1790	0
+0	165
+19
+September 08
+1993	Wales
+Czechoslovakia	2
+2	World Cup qualifier
+in Wales	-4
++4	1760
+1794	0
+0	23
+19
+October 27
+1993	Czechoslovakia
+Cyprus	3
+0	World Cup qualifier
+in Czechoslovakia	+3
+-3	1797
+1319	+1
+0	19
+123
+November 17
+1993	Belgium
+Czechoslovakia	0
+0	World Cup qualifier
+in Belgium	-5
++5	1789
+1802	+1
++2	20
+18
+February 23
+1994	Turkey
+Czechia	1
+4	Friendly
+in Turkey	-10
++10	1543
+1812	0
++3	60
+15
+April 20
+1994	Switzerland
+Czechia	3
+0	Friendly
+in Switzerland	+12
+-12	1841
+1800	+1
+-1	12
+18
+May 25
+1994	Czechia
+Lithuania	5
+3	Friendly
+in Czechia	+1
+-1	1801
+1306	0
+0	18
+128
+June 05
+1994	Ireland
+Czechia	1
+3	Friendly
+in Ireland	-21
++21	1824
+1822	-1
++3	14
+15
+August 17
+1994	France
+Czechia	2
+2	Friendly
+in France	-4
++4	1884
+1826	-1
++1	9
+15
+September 06
+1994	Czechia
+Malta	6
+1	European Cup qualifier
+in Czechia	+3
+-3	1829
+1356	+1
+-1	14
+116
+October 12
+1994	Malta
+Czechia	0
+0	European Cup qualifier
+in Malta	+16
+-16	1372
+1813	+3
+-4	111
+18
+November 16
+1994	Netherlands
+Czechia	0
+0	European Cup qualifier
+in the Netherlands	-11
++11	1922
+1824	-1
+-1	5
+19
+March 08
+1995	Czechia
+Finland	4
+1	Friendly
+in Czechia	+3
+-3	1827
+1488	0
+-1	20
+77
+March 29
+1995	Czechia
+Belarus	4
+2	European Cup qualifier
+in Czechia	+3
+-3	1830
+1394	+2
+0	18
+105
+April 26
+1995	Czechia
+Netherlands	3
+1	European Cup qualifier
+in Czechia	+27
+-27	1857
+1869	+8
+-3	10
+8
+May 08
+1995	Slovakia
+Czechia	1
+1	Friendly
+in Slovakia	+4
+-4	1605
+1853	+3
+0	45
+10
+June 07
+1995	Luxembourg
+Czechia	1
+0	European Cup qualifier
+in Luxembourg	+39
+-39	1191
+1814	+7
+-10	156
+21
+August 16
+1995	Norway
+Czechia	1
+1	European Cup qualifier
+in Norway	-8
++8	1845
+1822	-2
+-1	10
+19
+September 06
+1995	Czechia
+Norway	2
+0	European Cup qualifier
+in Czechia	+23
+-23	1845
+1822	+10
+-8	9
+18
+October 07
+1995	Belarus
+Czechia	0
+2	European Cup qualifier
+in Belarus	-8
++8	1414
+1853	-2
+0	100
+9
+November 15
+1995	Czechia
+Luxembourg	3
+0	European Cup qualifier
+in Czechia	+1
+-1	1854
+1219	-1
+0	9
+149
+December 13
+1995	Kuwait
+Czechia	1
+2	Friendly
+in Kuwait	-4
++4	1492
+1858	-2
+0	77
+9
+March 26
+1996	Czechia
+Turkey	3
+0	Friendly
+in Czechia	+7
+-7	1865
+1717	+1
+-1	9
+28
+April 24
+1996	Czechia
+Ireland	2
+0	Friendly
+in Czechia	+5
+-5	1870
+1682	+1
+0	9
+31
+May 29
+1996	Austria
+Czechia	1
+0	Friendly
+in Austria	+13
+-13	1663
+1857	0
+0	35
+10
+June 01
+1996	Switzerland
+Czechia	1
+2	Friendly
+in Switzerland	-11
++11	1765
+1868	0
+0	23
+10
+June 09
+1996	Germany
+Czechia	2
+0	European Cup
+in England	+25
+-25	2018
+1843	0
+-1	2
+11
+June 14
+1996	Czechia
+Italy	2
+1	European Cup
+in England	+34
+-34	1877
+1936	+3
+-2	9
+5
+June 19
+1996	Czechia
+Russia	3
+3	European Cup
+in England	-3
++3	1874
+1837	-1
+0	10
+14
+June 23
+1996	Czechia
+Portugal	1
+0	European Cup
+in England	+28
+-28	1902
+1883	+4
+-4	6
+10
+June 26
+1996	Czechia
+France	0
+0	European Cup
+in England	+5
+-5	1907
+1972	0
+0	6
+3
+June 30
+1996	Germany
+Czechia	2
+1	European Cup
+in England	+16
+-16	2061
+1891	0
+-2	1
+8
+September 04
+1996	Czechia
+Iceland	2
+1	Friendly
+in Czechia	+1
+-1	1892
+1521	0
+0	8
+69
+September 18
+1996	Czechia
+Malta	6
+0	World Cup qualifier
+in Czechia	+1
+-1	1893
+1265	0
+0	8
+140
+October 09
+1996	Czechia
+Spain	0
+0	World Cup qualifier
+in Czechia	-2
++2	1891
+1964	0
+0	8
+4
+November 10
+1996	Yugoslavia
+Czechia	1
+0	World Cup qualifier
+in Yugoslavia	+14
+-14	1905
+1877	+1
+-1	8
+10
+December 11
+1996	Czechia
+Nigeria	2
+1	King Hassan Cup
+in Morocco	+10
+-10	1887
+1744	0
+-1	10
+26
+December 12
+1996	Croatia
+Czechia	1
+1	King Hassan Cup
+in Morocco	+2
+-2	1837
+1885	0
+0	14
+10
+February 26
+1997	Czechia
+Belarus	4
+1	Friendly
+in Czechia	+1
+-1	1886
+1380	0
+-1	10
+113
+March 12
+1997	Czechia
+Poland	2
+1	Friendly
+in Czechia	+2
+-2	1888
+1616	0
+-1	10
+49
+April 02
+1997	Czechia
+Yugoslavia	1
+2	World Cup qualifier
+in Czechia	-25
++25	1863
+1916	0
++3	10
+6
+June 08
+1997	Spain
+Czechia	1
+0	World Cup qualifier
+in Spain	+9
+-9	1999
+1854	0
+0	3
+10
+August 20
+1997	Czechia
+Faroe Islands	2
+0	World Cup qualifier
+in Czechia	+1
+-1	1855
+1183	0
+-1	10
+159
+August 24
+1997	Slovakia
+Czechia	2
+1	World Cup qualifier
+in Slovakia	+26
+-26	1668
+1829	+5
+-3	38
+13
+September 06
+1997	Faroe Islands
+Czechia	0
+2	World Cup qualifier
+in Faroe Islands	-2
++2	1181
+1831	0
+0	158
+13
+September 24
+1997	Malta
+Czechia	0
+1	World Cup qualifier
+in Malta	-2
++2	1188
+1833	-1
+0	155
+13
+October 11
+1997	Czechia
+Slovakia	3
+0	World Cup qualifier
+in Czechia	+12
+-12	1845
+1655	+3
+-4	11
+41
+December 13
+1997	South Africa
+Czechia	2
+2	Confederations Cup
+in Saudi Arabia	+9
+-9	1728
+1836	+3
+-1	27
+13
+December 15
+1997	Uruguay
+Czechia	2
+1	Confederations Cup
+in Saudi Arabia	+33
+-33	1749
+1803	+9
+-4	23
+17
+December 17
+1997	Czechia
+United Arab Emirates	6
+1	Confederations Cup
+in Saudi Arabia	+22
+-22	1825
+1557	+2
+-3	15
+58
+December 19
+1997	Brazil
+Czechia	2
+0	Confederations Cup
+in Saudi Arabia	+11
+-11	2134
+1814	0
+-1	1
+16
+December 21
+1997	Czechia
+Uruguay	1
+0	Confederations Cup
+in Saudi Arabia	+20
+-20	1834
+1729	+4
+-5	12
+28
+March 25
+1998	Czechia
+Ireland	2
+1	Friendly
+in Czechia	+4
+-4	1838
+1671	-1
+0	14
+37
+April 22
+1998	Slovenia
+Czechia	1
+3	Friendly
+in Slovenia	-5
++5	1464
+1843	-2
++1	84
+12
+May 21
+1998	Czechia
+Paraguay	1
+0	Kirin Cup
+in Japan	+10
+-10	1853
+1725	+1
+-4	12
+30
+May 24
+1998	Japan
+Czechia	0
+0	Kirin Cup
+in Japan	+1
+-1	1721
+1852	0
+0	31
+12
+May 27
+1998	South Korea
+Czechia	2
+2	Friendly
+in South Korea	0
+0	1745
+1852	0
+0	24
+12
+August 19
+1998	Czechia
+Denmark	1
+0	Friendly
+in Czechia	+7
+-7	1859
+1832	0
+-1	12
+16
+September 06
+1998	Faroe Islands
+Czechia	0
+1	European Cup qualifier
+in Faroe Islands	-1
++1	1148
+1860	0
+0	165
+12
+October 10
+1998	Bosnia and Herzegovina
+Czechia	1
+3	European Cup qualifier
+in Bosnia and Herzegovina	-13
++13	1527
+1873	-5
++1	67
+11
+October 14
+1998	Czechia
+Estonia	4
+1	European Cup qualifier
+in Czechia	+1
+-1	1874
+1206	0
+0	11
+151
+November 18
+1998	England
+Czechia	2
+0	Friendly
+in England	+10
+-10	1911
+1864	+1
+-1	9
+12
+February 09
+1999	Belgium
+Czechia	0
+1	Friendly
+in Belgium	-10
++10	1759
+1874	0
++1	20
+11
+March 27
+1999	Czechia
+Lithuania	2
+0	European Cup qualifier
+in Czechia	+3
+-3	1877
+1449	+1
+0	11
+85
+March 31
+1999	Scotland
+Czechia	1
+2	European Cup qualifier
+in Scotland	-15
++15	1670
+1892	-4
+0	41
+11
+April 28
+1999	Poland
+Czechia	2
+1	Friendly
+in Poland	+13
+-13	1702
+1879	+6
+0	30
+11
+June 05
+1999	Estonia
+Czechia	0
+2	European Cup qualifier
+in Estonia	-3
++3	1258
+1882	-2
++1	140
+10
+June 09
+1999	Czechia
+Scotland	3
+2	European Cup qualifier
+in Czechia	+6
+-6	1888
+1665	+1
+0	9
+42
+August 18
+1999	Czechia
+Switzerland	3
+0	Friendly
+in Czechia	+5
+-5	1893
+1669	0
+-2	8
+38
+September 04
+1999	Lithuania
+Czechia	0
+4	European Cup qualifier
+in Lithuania	-9
++9	1430
+1902	-4
+0	96
+7
+September 08
+1999	Czechia
+Bosnia and Herzegovina	3
+0	European Cup qualifier
+in Czechia	+3
+-3	1905
+1467	+1
+-3	6
+86
+October 09
+1999	Czechia
+Faroe Islands	2
+0	European Cup qualifier
+in Czechia	0
+0	1905
+1141	0
+0	6
+165
+November 13
+1999	Netherlands
+Czechia	1
+1	Friendly
+in the Netherlands	-3
++3	1924
+1908	0
++1	4
+5
+February 08
+2000	Czechia
+Mexico	2
+1	Carlsberg Cup
+in Hong Kong	+14
+-14	1922
+1878	0
+-1	5
+10
+February 23
+2000	Ireland
+Czechia	3
+2	Friendly
+in Ireland	+13
+-13	1743
+1909	+2
+0	24
+5
+March 29
+2000	Czechia
+Australia	3
+1	Friendly
+in Czechia	+5
+-5	1914
+1739	-1
+-1	6
+23
+April 26
+2000	Czechia
+Israel	4
+1	Friendly
+in Czechia	+4
+-4	1918
+1637	0
++1	6
+48
+June 03
+2000	Germany
+Czechia	3
+2	Friendly
+in Germany	+9
+-9	1856
+1909	0
+0	14
+6
+June 11
+2000	Netherlands
+Czechia	1
+0	European Cup
+in the Netherlands	+17
+-17	1947
+1892	0
+-2	4
+8
+June 16
+2000	France
+Czechia	2
+1	European Cup
+in Belgium	+14
+-14	2062
+1878	0
+-1	2
+10
+June 21
+2000	Czechia
+Denmark	2
+0	European Cup
+in Belgium	+25
+-25	1903
+1730	+2
+-5	8
+25
+August 16
+2000	Czechia
+Slovenia	0
+1	Friendly
+in Czechia	-18
++18	1885
+1639	0
++4	8
+50
+September 02
+2000	Bulgaria
+Czechia	0
+1	World Cup qualifier
+in Bulgaria	-11
++11	1605
+1896	0
+0	55
+8
+October 07
+2000	Czechia
+Iceland	4
+0	World Cup qualifier
+in Czechia	+6
+-6	1902
+1556	0
+0	8
+61
+October 11
+2000	Malta
+Czechia	0
+0	World Cup qualifier
+in Malta	+19
+-19	1202
+1883	+6
+0	154
+8
+February 28
+2001	Macedonia
+Czechia	1
+1	Friendly
+in Macedonia	+7
+-7	1497
+1876	+1
+0	73
+8
+March 24
+2001	Northern Ireland
+Czechia	0
+1	World Cup qualifier
+in Northern Ireland	-6
++6	1465
+1882	-1
+0	81
+8
+March 28
+2001	Czechia
+Denmark	0
+0	World Cup qualifier
+in Czechia	-12
++12	1870
+1758	0
++4	8
+24
+April 25
+2001	Czechia
+Belgium	1
+1	Friendly
+in Czechia	-5
++5	1865
+1762	-1
+0	9
+26
+June 02
+2001	Denmark
+Czechia	2
+1	World Cup qualifier
+in Denmark	+20
+-20	1785
+1845	+2
+-3	21
+12
+June 06
+2001	Czechia
+Northern Ireland	3
+1	World Cup qualifier
+in Czechia	+3
+-3	1848
+1442	0
+-2	11
+89
+August 15
+2001	Czechia
+South Korea	5
+0	Friendly
+in Czechia	+12
+-12	1860
+1779	+2
+-2	10
+21
+September 01
+2001	Iceland
+Czechia	3
+1	World Cup qualifier
+in Iceland	+45
+-45	1612
+1815	+5
+-6	54
+16
+September 05
+2001	Czechia
+Malta	3
+2	World Cup qualifier
+in Czechia	+1
+-1	1816
+1164	0
+-1	16
+162
+October 06
+2001	Czechia
+Bulgaria	6
+0	World Cup qualifier
+in Czechia	+16
+-16	1832
+1647	+2
+-2	14
+46
+November 10
+2001	Belgium
+Czechia	1
+0	World Cup qualifier
+in Belgium	+19
+-19	1774
+1813	+1
+-1	22
+14
+November 14
+2001	Czechia
+Belgium	0
+1	World Cup qualifier
+in Czechia	-28
++28	1785
+1802	-7
++6	21
+17
+February 12
+2002	Czechia
+Hungary	2
+0	Friendly tournament
+in Cyprus	+10
+-10	1795
+1547	0
+-1	22
+61
+February 13
+2002	Cyprus
+Czechia	3
+4	Friendly tournament
+in Cyprus	-6
++6	1464
+1801	-1
++2	87
+20
+March 27
+2002	Wales
+Czechia	0
+0	Friendly
+in Wales	+5
+-5	1528
+1796	+1
+0	69
+20
+April 17
+2002	Greece
+Czechia	0
+0	Friendly
+in Greece	+2
+-2	1635
+1794	+1
+-1	45
+20
+May 18
+2002	Czechia
+Italy	1
+0	Friendly
+in Czechia	+13
+-13	1807
+1978	+1
+-1	18
+3
+August 21
+2002	Czechia
+Slovakia	4
+1	Friendly
+in Czechia	+6
+-6	1813
+1630	+2
+-4	15
+47
+September 06
+2002	Czechia
+Yugoslavia	5
+0	Friendly
+in Czechia	+12
+-12	1825
+1760	0
+-2	15
+26
+October 12
+2002	Moldova
+Czechia	0
+2	European Cup qualifier
+in Moldova	-5
++5	1305
+1830	-1
+0	131
+14
+October 16
+2002	Czechia
+Belarus	2
+0	European Cup qualifier
+in Czechia	+5
+-5	1835
+1500	+1
+0	13
+71
+November 20
+2002	Czechia
+Sweden	3
+3	Friendly
+in Czechia	-4
++4	1831
+1794	0
++1	13
+18
+February 12
+2003	France
+Czechia	0
+2	Friendly
+in France	-23
++23	1923
+1854	0
++1	5
+12
+March 29
+2003	Netherlands
+Czechia	1
+1	European Cup qualifier
+in the Netherlands	-13
++13	2008
+1867	0
++2	2
+10
+April 02
+2003	Czechia
+Austria	4
+0	European Cup qualifier
+in Czechia	+10
+-10	1877
+1635	+1
+-2	9
+45
+April 30
+2003	Czechia
+Turkey	4
+0	Friendly
+in Czechia	+12
+-12	1889
+1827	+1
+-2	8
+14
+June 11
+2003	Czechia
+Moldova	5
+0	European Cup qualifier
+in Czechia	+2
+-2	1891
+1350	-1
+-1	9
+121
+September 06
+2003	Belarus
+Czechia	1
+3	European Cup qualifier
+in Belarus	-10
++10	1494
+1901	-4
++1	78
+8
+September 10
+2003	Czechia
+Netherlands	3
+1	European Cup qualifier
+in Czechia	+31
+-31	1932
+1979	+1
+-3	7
+4
+October 11
+2003	Austria
+Czechia	2
+3	European Cup qualifier
+in Austria	-10
++10	1640
+1942	-2
++1	43
+6
+November 15
+2003	Czechia
+Canada	5
+1	Friendly
+in Czechia	+2
+-2	1944
+1581	0
+-2	6
+59
+February 18
+2004	Italy
+Czechia	2
+2	Friendly
+in Italy	-1
++1	1892
+1945	0
+0	8
+6
+March 31
+2004	Ireland
+Czechia	2
+1	Friendly
+in Ireland	+11
+-11	1816
+1934	+1
+0	14
+6
+April 28
+2004	Czechia
+Japan	0
+1	Friendly
+in Czechia	-17
++17	1917
+1773	0
++6	6
+19
+June 02
+2004	Czechia
+Bulgaria	3
+1	Friendly
+in Czechia	+5
+-5	1922
+1724	0
+-1	6
+28
+June 06
+2004	Czechia
+Estonia	2
+0	Friendly
+in Czechia	+1
+-1	1923
+1360	0
+0	6
+115
+June 15
+2004	Czechia
+Latvia	2
+1	European Cup
+in Portugal	+4
+-4	1927
+1487	+1
+-2	5
+79
+June 19
+2004	Czechia
+Netherlands	3
+2	European Cup
+in Portugal	+25
+-25	1952
+1899	0
+-2	5
+8
+June 23
+2004	Czechia
+Germany	2
+1	European Cup
+in Portugal	+16
+-16	1968
+1810	+2
+-3	3
+16
+June 27
+2004	Czechia
+Denmark	3
+0	European Cup
+in Portugal	+31
+-31	1999
+1831	+2
+-2	1
+12
+July 01
+2004	Greece
+Czechia	1
+0	European Cup
+in Portugal	+37
+-37	1857
+1962	+5
+-2	10
+3
+August 18
+2004	Czechia
+Greece	0
+0	Friendly
+in Czechia	-5
++5	1957
+1896	0
++1	4
+7
+September 08
+2004	Netherlands
+Czechia	2
+0	World Cup qualifier
+in the Netherlands	+28
+-28	1910
+1929	+1
+-2	7
+6
+October 09
+2004	Czechia
+Romania	1
+0	World Cup qualifier
+in Czechia	+9
+-9	1938
+1803	0
+-4	6
+21
+October 13
+2004	Armenia
+Czechia	0
+3	World Cup qualifier
+in Armenia	-5
++5	1387
+1943	-2
++1	105
+5
+November 17
+2004	Macedonia
+Czechia	0
+2	World Cup qualifier
+in Macedonia	-6
++6	1467
+1949	-4
++2	90
+3
+February 09
+2005	Slovenia
+Czechia	0
+3	Friendly
+in Slovenia	-8
++8	1624
+1957	-2
++1	48
+2
+March 26
+2005	Czechia
+Finland	4
+3	World Cup qualifier
+in Czechia	+5
+-5	1962
+1694	0
+-3	2
+36
+March 30
+2005	Andorra
+Czechia	0
+4	World Cup qualifier
+in Andorra	-1
++1	1090
+1963	-1
+0	174
+2
+June 04
+2005	Czechia
+Andorra	8
+1	World Cup qualifier
+in Czechia	0
+0	1963
+1090	+1
+0	1
+174
+June 08
+2005	Czechia
+Macedonia	6
+1	World Cup qualifier
+in Czechia	+2
+-2	1965
+1461	-2
++1	3
+85
+August 17
+2005	Sweden
+Czechia	2
+1	Friendly
+in Sweden	+10
+-10	1873
+1955	0
+-1	11
+4
+September 03
+2005	Romania
+Czechia	2
+0	World Cup qualifier
+in Romania	+38
+-38	1801
+1917	+5
+-3	19
+7
+September 07
+2005	Czechia
+Armenia	4
+1	World Cup qualifier
+in Czechia	+2
+-2	1919
+1369	+2
+0	5
+108
+October 08
+2005	Czechia
+Netherlands	0
+2	World Cup qualifier
+in Czechia	-35
++35	1884
+2001	-3
+0	8
+2
+October 12
+2005	Finland
+Czechia	0
+3	World Cup qualifier
+in Finland	-23
++23	1638
+1907	-7
++1	52
+7
+November 12
+2005	Norway
+Czechia	0
+1	World Cup qualifier
+in Norway	-17
++17	1745
+1924	-4
++1	29
+6
+November 16
+2005	Czechia
+Norway	1
+0	World Cup qualifier
+in Czechia	+7
+-7	1931
+1738	+1
+-3	5
+31
+March 01
+2006	Turkey
+Czechia	2
+2	Friendly
+in Turkey	+1
+-1	1812
+1930	0
+0	16
+5
+May 26
+2006	Czechia
+Saudi Arabia	2
+0	Friendly
+in Austria	+4
+-4	1934
+1600	+1
+0	4
+54
+May 30
+2006	Czechia
+Costa Rica	1
+0	Friendly
+in Czechia	+3
+-3	1937
+1700	0
+0	4
+38
+June 03
+2006	Czechia
+Trinidad and Tobago	3
+0	Friendly
+in Czechia	+2
+-2	1939
+1548	0
+0	5
+68
+June 12
+2006	Czechia
+United States	3
+0	World Cup
+in Germany	+35
+-35	1974
+1782	+2
+-5	3
+19
+June 17
+2006	Ghana
+Czechia	2
+0	World Cup
+in Germany	+81
+-81	1679
+1893	+13
+-7	43
+10
+June 22
+2006	Italy
+Czechia	2
+0	World Cup
+in Germany	+42
+-42	1957
+1851	+3
+-1	5
+11
+August 16
+2006	Czechia
+Serbia	1
+3	Friendly
+in Czechia	-25
++25	1826
+1715	-2
++6	13
+34
+September 02
+2006	Czechia
+Wales	2
+1	European Cup qualifier
+in Czechia	+5
+-5	1831
+1567	0
+0	13
+62
+September 06
+2006	Slovakia
+Czechia	0
+3	European Cup qualifier
+in Slovakia	-30
++30	1646
+1861	-3
++2	48
+11
+October 07
+2006	Czechia
+San Marino	7
+0	European Cup qualifier
+in Czechia	0
+0	1861
+914	0
+0	11
+196
+October 11
+2006	Ireland
+Czechia	1
+1	European Cup qualifier
+in Ireland	+3
+-3	1718
+1858	+3
+0	34
+11
+November 15
+2006	Czechia
+Denmark	1
+1	Friendly
+in Czechia	-2
++2	1856
+1880	-1
+0	12
+8
+February 07
+2007	Belgium
+Czechia	0
+2	Friendly
+in Belgium	-10
++10	1636
+1866	-1
+0	49
+11
+March 24
+2007	Czechia
+Germany	1
+2	European Cup qualifier
+in Czechia	-21
++21	1845
+1977	-1
++2	12
+4
+March 28
+2007	Czechia
+Cyprus	1
+0	European Cup qualifier
+in Czechia	+2
+-2	1847
+1448	-1
+0	13
+93
+June 02
+2007	Wales
+Czechia	0
+0	European Cup qualifier
+in Wales	+11
+-11	1548
+1836	+3
+-1	68
+14
+August 22
+2007	Austria
+Czechia	1
+1	Friendly
+in Austria	+4
+-4	1587
+1832	+1
++1	58
+13
+September 08
+2007	San Marino
+Czechia	0
+3	European Cup qualifier
+in San Marino	-1
++1	908
+1833	0
+0	196
+13
+September 12
+2007	Czechia
+Ireland	1
+0	European Cup qualifier
+in Czechia	+11
+-11	1844
+1753	0
+-2	13
+26
+October 17
+2007	Germany
+Czechia	0
+3	European Cup qualifier
+in Germany	-56
++56	1928
+1900	-1
++4	6
+9
+November 17
+2007	Czechia
+Slovakia	3
+1	European Cup qualifier
+in Czechia	+6
+-6	1906
+1622	0
+-2	9
+50
+November 21
+2007	Cyprus
+Czechia	0
+2	European Cup qualifier
+in Cyprus	-9
++9	1500
+1915	-2
++2	79
+7
+February 05
+2008	Greece
+Czechia	1
+0	Friendly
+in Cyprus	+13
+-13	1821
+1902	+1
+-1	16
+8
+February 06
+2008	Poland
+Czechia	2
+0	Friendly
+in Cyprus	+21
+-21	1785
+1881	+6
+-1	19
+9
+March 26
+2008	Denmark
+Czechia	1
+1	Friendly
+in Denmark	0
+0	1782
+1881	+1
++1	19
+8
+May 27
+2008	Czechia
+Lithuania	2
+0	Friendly
+in Czechia	+2
+-2	1883
+1551	0
+-1	8
+67
+May 30
+2008	Czechia
+Scotland	3
+1	Friendly
+in Czechia	+6
+-6	1889
+1725	+1
+0	8
+33
+June 07
+2008	Switzerland
+Czechia	0
+1	European Cup
+in Switzerland	-23
++23	1743
+1912	-4
++1	29
+8
+June 11
+2008	Portugal
+Czechia	3
+1	European Cup
+in Switzerland	+42
+-42	1909
+1870	+4
+-3	8
+11
+June 15
+2008	Turkey
+Czechia	3
+2	European Cup
+in Switzerland	+31
+-31	1813
+1839	+3
+-1	15
+13
+August 20
+2008	England
+Czechia	2
+2	Friendly
+in England	-4
++4	1889
+1843	0
++1	9
+13
+September 10
+2008	Northern Ireland
+Czechia	0
+0	World Cup qualifier
+in Northern Ireland	+10
+-10	1555
+1833	+4
++1	63
+12
+October 11
+2008	Poland
+Czechia	2
+1	World Cup qualifier
+in Poland	+22
+-22	1720
+1811	+6
+-3	33
+15
+October 15
+2008	Czechia
+Slovenia	1
+0	World Cup qualifier
+in Czechia	+5
+-5	1816
+1561	+2
+-2	13
+63
+November 19
+2008	San Marino
+Czechia	0
+3	World Cup qualifier
+in San Marino	-1
++1	897
+1817	0
++1	198
+12
+February 11
+2009	Morocco
+Czechia	0
+0	Friendly
+in Morocco	+2
+-2	1662
+1815	+1
+-1	45
+13
+March 28
+2009	Slovenia
+Czechia	0
+0	World Cup qualifier
+in Slovenia	+9
+-9	1547
+1806	+1
+-1	68
+14
+April 01
+2009	Czechia
+Slovakia	1
+2	World Cup qualifier
+in Czechia	-35
++35	1771
+1611	-7
++5	21
+52
+June 05
+2009	Czechia
+Malta	1
+0	Friendly
+in Czechia	0
+0	1771
+1192	0
+-1	21
+158
+August 12
+2009	Czechia
+Belgium	3
+1	Friendly
+in Czechia	+4
+-4	1775
+1555	+1
+-1	20
+64
+September 05
+2009	Slovakia
+Czechia	2
+2	World Cup qualifier
+in Slovakia	+4
+-4	1613
+1771	0
+-1	52
+21
+September 09
+2009	Czechia
+San Marino	7
+0	World Cup qualifier
+in Czechia	0
+0	1771
+891	0
+0	21
+200
+October 10
+2009	Czechia
+Poland	2
+0	World Cup qualifier
+in Czechia	+13
+-13	1784
+1633	+1
+-1	20
+49
+October 14
+2009	Czechia
+Northern Ireland	0
+0	World Cup qualifier
+in Czechia	-15
++15	1769
+1551	0
++1	20
+69
+November 15
+2009	United Arab Emirates
+Czechia	0
+0	Friendly tournament
+in United Arab Emirates	+10
+-10	1396
+1759	+2
+-3	109
+23
+November 18
+2009	Azerbaijan
+Czechia	2
+0	Friendly tournament
+in United Arab Emirates	+41
+-41	1393
+1718	+10
+-13	110
+36
+March 03
+2010	Scotland
+Czechia	1
+0	Friendly
+in Scotland	+9
+-9	1651
+1709	0
+-1	45
+35
+May 22
+2010	Turkey
+Czechia	2
+1	Friendly
+in the United States	+8
+-8	1776
+1701	0
+-2	17
+37
+May 25
+2010	United States
+Czechia	2
+4	Friendly
+in the United States	-21
++21	1741
+1722	-4
++4	24
+32
+August 11
+2010	Czechia
+Latvia	4
+1	Friendly
+in Czechia	+6
+-6	1728
+1531	+1
+0	30
+76
+September 07
+2010	Czechia
+Lithuania	0
+1	European Cup qualifier
+in Czechia	-34
++34	1694
+1573	-7
++14	37
+62
+October 08
+2010	Czechia
+Scotland	1
+0	European Cup qualifier
+in Czechia	+12
+-12	1706
+1632	+6
+-1	30
+48
+October 12
+2010	Liechtenstein
+Czechia	0
+2	European Cup qualifier
+in Liechtenstein	-4
++4	1134
+1710	0
+-1	171
+31
+November 17
+2010	Denmark
+Czechia	0
+0	Friendly
+in Denmark	-3
++3	1703
+1713	-2
+0	34
+31
+February 09
+2011	Croatia
+Czechia	4
+2	Friendly
+in Croatia	+5
+-5	1891
+1708	0
+-1	7
+33
+March 25
+2011	Spain
+Czechia	2
+1	European Cup qualifier
+in Spain	+2
+-2	2094
+1706	0
+-1	1
+34
+March 29
+2011	Czechia
+Liechtenstein	2
+0	European Cup qualifier
+in Czechia	+1
+-1	1707
+1147	-1
+0	34
+167
+June 04
+2011	Czechia
+Peru	0
+0	Kirin Cup
+in Japan	-3
++3	1704
+1632	0
++2	35
+49
+June 07
+2011	Japan
+Czechia	0
+0	Kirin Cup
+in Japan	-8
++8	1807
+1712	-2
++1	15
+34
+August 10
+2011	Norway
+Czechia	3
+0	Friendly
+in Norway	+11
+-11	1763
+1701	+2
++1	22
+35
+September 03
+2011	Scotland
+Czechia	2
+2	European Cup qualifier
+in Scotland	-3
++3	1658
+1704	0
+0	41
+35
+September 06
+2011	Czechia
+Ukraine	4
+0	Friendly
+in Czechia	+15
+-15	1719
+1712	+3
+-4	32
+35
+October 07
+2011	Czechia
+Spain	0
+2	European Cup qualifier
+in Czechia	-10
++10	1709
+2111	-3
+0	35
+1
+October 11
+2011	Lithuania
+Czechia	1
+4	European Cup qualifier
+in Lithuania	-24
++24	1476
+1733	-5
++5	89
+30
+November 11
+2011	Czechia
+Montenegro	2
+0	European Cup qualifier
+in Czechia	+14
+-14	1747
+1613	+3
+-4	27
+53
+November 15
+2011	Montenegro
+Czechia	0
+1	European Cup qualifier
+in Montenegro	-18
++18	1595
+1765	-3
++5	57
+22
+February 29
+2012	Ireland
+Czechia	1
+1	Friendly
+in Ireland	-3
++3	1773
+1768	+1
+0	20
+22
+May 26
+2012	Czechia
+Israel	2
+1	Friendly
+in Austria	+6
+-6	1774
+1632	+1
+-2	21
+50
+June 01
+2012	Czechia
+Hungary	1
+2	Friendly
+in Czechia	-16
++16	1758
+1658	-4
++5	25
+41
+June 08
+2012	Russia
+Czechia	4
+1	European Cup
+in Poland	+36
+-36	1859
+1722	+5
+-8	11
+32
+June 12
+2012	Czechia
+Greece	2
+1	European Cup
+in Poland	+28
+-28	1750
+1730	+7
+-7	25
+31
+June 16
+2012	Poland
+Czechia	0
+1	European Cup
+in Poland	-29
++29	1670
+1779	-4
++2	39
+21
+June 21
+2012	Portugal
+Czechia	1
+0	European Cup
+in Poland	+18
+-18	1902
+1761	+1
+-3	8
+24
+August 15
+2012	Ukraine
+Czechia	0
+0	Friendly
+in Ukraine	-1
++1	1700
+1762	+1
+-1	33
+24
+September 08
+2012	Denmark
+Czechia	0
+0	World Cup qualifier
+in Denmark	-6
++6	1761
+1768	-1
++1	25
+24
+September 11
+2012	Czechia
+Finland	0
+1	Friendly
+in Czechia	-17
++17	1751
+1601	0
++9	24
+53
+October 12
+2012	Czechia
+Malta	3
+1	World Cup qualifier
+in Czechia	+1
+-1	1752
+1204	-1
+0	25
+154
+October 16
+2012	Czechia
+Bulgaria	0
+0	World Cup qualifier
+in Czechia	-11
++11	1741
+1641	-2
++2	27
+45
+November 14
+2012	Czechia
+Slovakia	3
+0	Friendly
+in Czechia	+6
+-6	1747
+1575	+1
++1	26
+62
+February 06
+2013	Turkey
+Czechia	0
+2	Friendly
+in Turkey	-16
++16	1660
+1763	-4
++4	44
+22
+March 22
+2013	Czechia
+Denmark	0
+3	World Cup qualifier
+in Czechia	-47
++47	1716
+1783	-11
++7	33
+20
+March 26
+2013	Armenia
+Czechia	0
+3	World Cup qualifier
+in Armenia	-23
++23	1474
+1739	-4
++4	90
+28
+June 07
+2013	Czechia
+Italy	0
+0	World Cup qualifier
+in Czechia	+3
+-3	1742
+1894	0
+0	28
+7
+August 14
+2013	Hungary
+Czechia	1
+1	Friendly
+in Hungary	-1
++1	1666
+1743	+1
++1	42
+26
+September 06
+2013	Czechia
+Armenia	1
+2	World Cup qualifier
+in Czechia	-35
++35	1708
+1532	-5
++8	31
+77
+September 10
+2013	Italy
+Czechia	2
+1	World Cup qualifier
+in Italy	+6
+-6	1913
+1702	0
+-1	7
+32
+October 11
+2013	Malta
+Czechia	1
+4	World Cup qualifier
+in Malta	-7
++7	1223
+1709	0
++3	150
+29
+October 15
+2013	Bulgaria
+Czechia	0
+1	World Cup qualifier
+in Bulgaria	-21
++21	1613
+1730	-6
++4	54
+25
+November 15
+2013	Czechia
+Canada	2
+0	Friendly
+in Czechia	+3
+-3	1733
+1469	0
+-1	25
+91
+March 05
+2014	Czechia
+Norway	2
+2	Friendly
+in Czechia	-6
++6	1727
+1593	-1
+-1	27
+57

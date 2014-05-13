@@ -1,0 +1,1665 @@
+October 28
+1992	Belarus
+Ukraine	1
+1	Friendly
+in Belarus	+2
+-2	1402
+1582	-
+-1	96
+51
+January 27
+1993	Ecuador
+Belarus	1
+1	Friendly
+in Ecuador	-7
++7	1607
+1409	-2
++2	46
+94
+January 30
+1993	Peru
+Belarus	1
+1	Friendly
+in Peru	-5
++5	1516
+1414	-1
+0	66
+94
+May 12
+1993	Belarus
+Moldova	0
+1	Friendly
+in Belarus	-14
++14	1400
+1393	0
++4	96
+97
+May 25
+1994	Ukraine
+Belarus	3
+1	Friendly
+in Ukraine	+5
+-5	1600
+1395	0
+0	49
+102
+August 17
+1994	Poland
+Belarus	1
+1	Friendly
+in Poland	-8
++8	1656
+1403	-2
+0	35
+102
+September 07
+1994	Norway
+Belarus	1
+0	European Cup qualifier
+in Norway	+2
+-2	1829
+1401	+1
+-1	14
+103
+October 12
+1994	Belarus
+Luxembourg	2
+0	European Cup qualifier
+in Belarus	+6
+-6	1407
+1121	+1
+-6	101
+172
+November 16
+1994	Belarus
+Norway	0
+4	European Cup qualifier
+in Belarus	-10
++10	1397
+1839	-2
+-1	104
+15
+March 29
+1995	Czechia
+Belarus	4
+2	European Cup qualifier
+in Czechia	+3
+-3	1830
+1394	+2
+0	18
+105
+April 26
+1995	Belarus
+Malta	1
+1	European Cup qualifier
+in Belarus	-9
++9	1385
+1340	-5
++3	110
+122
+June 07
+1995	Belarus
+Netherlands	1
+0	European Cup qualifier
+in Belarus	+36
+-36	1421
+1833	+12
+-9	98
+17
+July 29
+1995	Lithuania
+Belarus	1
+1	Friendly
+in Lithuania	-3
++3	1436
+1424	-2
+0	93
+97
+September 06
+1995	Netherlands
+Belarus	1
+0	European Cup qualifier
+in the Netherlands	+2
+-2	1835
+1422	+2
+0	10
+98
+October 07
+1995	Belarus
+Czechia	0
+2	European Cup qualifier
+in Belarus	-8
++8	1414
+1853	-2
+0	100
+9
+October 11
+1995	Luxembourg
+Belarus	0
+0	European Cup qualifier
+in Luxembourg	+6
+-6	1220
+1408	+1
+-2	149
+102
+November 12
+1995	Malta
+Belarus	0
+2	European Cup qualifier
+in Malta	-31
++31	1286
+1439	-9
++10	134
+92
+February 14
+1996	Turkey
+Belarus	3
+2	Friendly
+in Turkey	+2
+-2	1724
+1437	+1
+-1	27
+92
+March 27
+1996	Slovakia
+Belarus	4
+0	Friendly
+in Slovakia	+7
+-7	1590
+1430	+1
+-3	49
+93
+May 01
+1996	Poland
+Belarus	1
+1	Friendly
+in Poland	-7
++7	1620
+1437	0
++3	41
+91
+May 27
+1996	Belarus
+Azerbaijan	2
+2	Friendly
+in Belarus	-5
++5	1432
+1338	-1
++2	94
+118
+June 01
+1996	Sweden
+Belarus	5
+1	World Cup qualifier
+in Sweden	+4
+-4	1843
+1428	+3
+0	12
+94
+July 31
+1996	Belarus
+Lithuania	2
+2	Friendly
+in Belarus	-3
++3	1425
+1423	-2
++1	98
+99
+August 20
+1996	United Arab Emirates
+Belarus	1
+0	Friendly
+in United Arab Emirates	+5
+-5	1539
+1420	+1
+-1	65
+99
+August 31
+1996	Belarus
+Estonia	1
+0	World Cup qualifier
+in Belarus	+3
+-3	1423
+1106	+1
+0	97
+170
+October 05
+1996	Estonia
+Belarus	1
+0	World Cup qualifier
+in Estonia	+31
+-31	1137
+1392	+4
+-7	166
+105
+October 09
+1996	Belarus
+Latvia	1
+1	World Cup qualifier
+in Belarus	-7
++7	1385
+1380	-3
++2	108
+110
+January 05
+1997	Egypt
+Belarus	2
+0	Friendly
+in Egypt	+4
+-4	1619
+1381	0
+-1	45
+109
+February 26
+1997	Czechia
+Belarus	4
+1	Friendly
+in Czechia	+1
+-1	1886
+1380	0
+-1	10
+113
+April 30
+1997	Latvia
+Belarus	2
+0	World Cup qualifier
+in Latvia	+22
+-22	1395
+1358	+8
+-7	105
+116
+June 08
+1997	Belarus
+Scotland	0
+1	World Cup qualifier
+in Belarus	-6
++6	1352
+1756	-1
++1	116
+23
+August 05
+1997	Belarus
+Israel	2
+3	Friendly
+in Belarus	-7
++7	1345
+1577	-2
++2	120
+56
+August 20
+1997	Belarus
+Sweden	1
+2	World Cup qualifier
+in Belarus	-4
++4	1341
+1813	-1
++1	121
+16
+September 07
+1997	Scotland
+Belarus	4
+1	World Cup qualifier
+in Scotland	+3
+-3	1759
+1338	0
+0	21
+120
+September 10
+1997	Belarus
+Austria	0
+1	World Cup qualifier
+in Belarus	-7
++7	1331
+1713	-3
++1	123
+28
+October 11
+1997	Austria
+Belarus	4
+0	World Cup qualifier
+in Austria	+4
+-4	1717
+1327	0
+-2	30
+123
+June 07
+1998	Belarus
+Lithuania	5
+0	Friendly
+in Belarus	+24
+-24	1351
+1481	+8
+-9	115
+78
+August 19
+1998	Lithuania
+Belarus	0
+3	Friendly
+in Lithuania	-27
++27	1429
+1378	-8
++7	96
+109
+September 05
+1998	Belarus
+Denmark	0
+0	European Cup qualifier
+in Belarus	+15
+-15	1393
+1817	+2
+-1	108
+17
+October 14
+1998	Wales
+Belarus	3
+2	European Cup qualifier
+in Wales	+7
+-7	1565
+1386	+2
+-4	57
+111
+February 09
+1999	Israel
+Belarus	2
+1	Friendly
+in Israel	+2
+-2	1640
+1384	+1
+-1	49
+110
+March 27
+1999	Belarus
+Switzerland	0
+1	European Cup qualifier
+in Belarus	-12
++12	1372
+1644	-3
++1	113
+47
+March 31
+1999	Italy
+Belarus	1
+1	European Cup qualifier
+in Italy	-19
++19	1975
+1391	0
++6	3
+107
+May 19
+1999	Russia
+Belarus	1
+1	Friendly
+in Russia	-9
++9	1740
+1400	0
++1	21
+104
+June 05
+1999	Denmark
+Belarus	1
+0	European Cup qualifier
+in Denmark	+2
+-2	1776
+1398	0
+0	18
+103
+August 18
+1999	Belarus
+Russia	0
+2	Friendly
+in Belarus	-5
++5	1393
+1786	0
+0	104
+20
+September 04
+1999	Belarus
+Wales	1
+2	European Cup qualifier
+in Belarus	-18
++18	1375
+1551	-5
++3	110
+62
+September 08
+1999	Switzerland
+Belarus	2
+0	European Cup qualifier
+in Switzerland	+6
+-6	1666
+1369	+2
+-3	38
+113
+October 09
+1999	Belarus
+Italy	0
+0	European Cup qualifier
+in Belarus	+17
+-17	1386
+1918	+6
+-1	107
+5
+March 29
+2000	Bulgaria
+Belarus	4
+1	Friendly
+in Bulgaria	+4
+-4	1643
+1382	+1
+0	49
+108
+April 26
+2000	Andorra
+Belarus	2
+0	Friendly
+in Andorra	+24
+-24	1066
+1358	+5
+-9	178
+117
+June 04
+2000	Estonia
+Belarus	2
+0	Friendly
+in Estonia	+13
+-13	1307
+1345	+2
+-5	130
+121
+August 16
+2000	Latvia
+Belarus	0
+1	Friendly
+in Latvia	-15
++15	1407
+1360	-8
++3	99
+115
+September 02
+2000	Belarus
+Wales	2
+1	World Cup qualifier
+in Belarus	+23
+-23	1383
+1493	+8
+-4	108
+75
+October 07
+2000	Poland
+Belarus	3
+1	World Cup qualifier
+in Poland	+4
+-4	1731
+1379	-1
+0	27
+109
+October 11
+2000	Belarus
+Armenia	2
+1	World Cup qualifier
+in Belarus	+15
+-15	1394
+1381	+7
+-7	102
+109
+February 17
+2001	Uzbekistan
+Belarus	2
+0	Friendly tournament
+in Bulgaria	+21
+-21	1442
+1373	+6
+-7	88
+109
+February 25
+2001	Azerbaijan
+Belarus	1
+0	Friendly tournament
+in Bulgaria	+22
+-22	1228
+1351	+6
+-8	147
+118
+March 24
+2001	Ukraine
+Belarus	0
+0	World Cup qualifier
+in Ukraine	-17
++17	1647
+1368	-3
++6	46
+115
+March 28
+2001	Belarus
+Norway	2
+1	World Cup qualifier
+in Belarus	+34
+-34	1402
+1732	+14
+-7	101
+30
+June 02
+2001	Armenia
+Belarus	0
+0	World Cup qualifier
+in Armenia	-6
++6	1397
+1408	-1
++4	103
+99
+June 06
+2001	Norway
+Belarus	1
+1	World Cup qualifier
+in Norway	-17
++17	1721
+1425	0
++4	28
+94
+September 01
+2001	Belarus
+Ukraine	0
+2	World Cup qualifier
+in Belarus	-20
++20	1405
+1659	-3
++3	100
+45
+September 05
+2001	Belarus
+Poland	4
+1	World Cup qualifier
+in Belarus	+58
+-58	1463
+1725	+14
+-11	86
+30
+October 06
+2001	Wales
+Belarus	1
+0	World Cup qualifier
+in Wales	+12
+-12	1515
+1451	+3
+-3	70
+89
+April 17
+2002	Hungary
+Belarus	2
+5	Friendly
+in Hungary	-26
++26	1520
+1477	-9
++6	70
+84
+May 17
+2002	Russia
+Belarus	1
+1	Friendly tournament
+in Russia	-12
++12	1767
+1489	+1
++6	24
+77
+May 19
+2002	Belarus
+Ukraine	2
+0	Friendly tournament
+in Russia	+34
+-34	1523
+1655	+9
+-1	68
+42
+August 21
+2002	Latvia
+Belarus	2
+4	Friendly
+in Latvia	-14
++14	1380
+1537	-3
++3	109
+64
+September 07
+2002	Netherlands
+Belarus	3
+0	European Cup qualifier
+in the Netherlands	+3
+-3	1983
+1534	0
+-1	2
+65
+October 12
+2002	Belarus
+Austria	0
+2	European Cup qualifier
+in Belarus	-29
++29	1505
+1674	-6
++3	71
+38
+October 16
+2002	Czechia
+Belarus	2
+0	European Cup qualifier
+in Czechia	+5
+-5	1835
+1500	+1
+0	13
+71
+March 29
+2003	Belarus
+Moldova	2
+1	European Cup qualifier
+in Belarus	+7
+-7	1507
+1321	+2
+-1	72
+129
+April 02
+2003	Belarus
+Uzbekistan	2
+2	Friendly
+in Belarus	-4
++4	1503
+1472	-1
+0	73
+85
+April 30
+2003	Uzbekistan
+Belarus	1
+2	Friendly
+in Uzbekistan	-12
++12	1460
+1515	-2
++4	86
+70
+June 07
+2003	Belarus
+Netherlands	0
+2	European Cup qualifier
+in Belarus	-6
++6	1509
+2010	-2
++1	72
+1
+June 11
+2003	Austria
+Belarus	5
+0	European Cup qualifier
+in Austria	+18
+-18	1640
+1491	+5
+-5	44
+77
+August 20
+2003	Belarus
+Iran	2
+1	Friendly
+in Belarus	+13
+-13	1504
+1695	+5
+-1	73
+35
+September 06
+2003	Belarus
+Czechia	1
+3	European Cup qualifier
+in Belarus	-10
++10	1494
+1901	-4
++1	78
+8
+September 10
+2003	Moldova
+Belarus	2
+1	European Cup qualifier
+in Moldova	+23
+-23	1372
+1471	+7
+-4	114
+82
+February 18
+2004	Cyprus
+Belarus	0
+2	Friendly tournament
+in Cyprus	-26
++26	1404
+1497	-8
++3	104
+78
+February 19
+2004	Romania
+Belarus	2
+0	Friendly tournament
+in Cyprus	+8
+-8	1770
+1489	+6
+-1	19
+79
+February 21
+2004	Belarus
+Latvia	4
+1	Friendly tournament
+in Cyprus	+28
+-28	1517
+1483	+6
+-5	73
+79
+April 28
+2004	Belarus
+Lithuania	1
+0	Friendly
+in Belarus	+4
+-4	1521
+1384	+2
+-1	71
+109
+August 18
+2004	Turkey
+Belarus	1
+2	Friendly
+in Turkey	-18
++18	1823
+1539	-3
++4	15
+71
+September 08
+2004	Norway
+Belarus	1
+1	World Cup qualifier
+in Norway	-14
++14	1731
+1553	0
++6	29
+65
+October 09
+2004	Belarus
+Moldova	4
+0	World Cup qualifier
+in Belarus	+12
+-12	1565
+1356	+1
+-6	64
+117
+October 13
+2004	Italy
+Belarus	4
+3	World Cup qualifier
+in Italy	+4
+-4	1874
+1561	0
+0	8
+64
+November 22
+2004	United Arab Emirates
+Belarus	2
+3	Friendly
+in United Arab Emirates	-8
++8	1389
+1569	-1
++3	102
+64
+February 09
+2005	Poland
+Belarus	1
+3	Friendly
+in Poland	-25
++25	1742
+1594	-3
++6	28
+59
+March 30
+2005	Slovenia
+Belarus	1
+1	World Cup qualifier
+in Slovenia	-7
++7	1611
+1601	-1
++3	53
+54
+June 04
+2005	Belarus
+Slovenia	1
+1	World Cup qualifier
+in Belarus	-5
++5	1596
+1616	-2
+0	57
+53
+June 08
+2005	Belarus
+Scotland	0
+0	World Cup qualifier
+in Belarus	-7
++7	1589
+1584	-2
++1	59
+61
+August 17
+2005	Lithuania
+Belarus	1
+0	Friendly
+in Lithuania	+11
+-11	1459
+1578	+2
+-2	88
+59
+September 03
+2005	Moldova
+Belarus	2
+0	World Cup qualifier
+in Moldova	+39
+-39	1407
+1539	+6
+-7	101
+66
+September 07
+2005	Belarus
+Italy	1
+4	World Cup qualifier
+in Belarus	-15
++15	1524
+1887	-9
++1	75
+9
+October 08
+2005	Scotland
+Belarus	0
+1	World Cup qualifier
+in Scotland	-31
++31	1600
+1555	-6
++10	58
+64
+October 12
+2005	Belarus
+Norway	0
+1	World Cup qualifier
+in Belarus	-15
++15	1540
+1762	-3
++5	67
+25
+November 12
+2005	Belarus
+Latvia	3
+1	Friendly
+in Belarus	+7
+-7	1547
+1437	+2
+0	66
+91
+February 28
+2006	Greece
+Belarus	1
+0	Friendly tournament
+in Cyprus	+6
+-6	1778
+1541	+1
+0	25
+67
+March 01
+2006	Finland
+Belarus	2
+2	Friendly tournament
+in Cyprus	-3
++3	1602
+1544	+1
+-2	55
+69
+May 30
+2006	Tunisia
+Belarus	3
+0	Friendly tournament
+in Tunisia	+10
+-10	1697
+1534	0
+-2	39
+71
+June 02
+2006	Libya
+Belarus	1
+1	Friendly tournament
+in Tunisia	+3
+-3	1462
+1531	0
+0	90
+71
+August 16
+2006	Belarus
+Andorra	3
+0	Friendly
+in Belarus	+1
+-1	1532
+1086	0
+0	71
+177
+September 02
+2006	Belarus
+Albania	2
+2	European Cup qualifier
+in Belarus	-8
++8	1524
+1487	-3
++2	75
+82
+September 06
+2006	Netherlands
+Belarus	3
+0	European Cup qualifier
+in the Netherlands	+3
+-3	1972
+1521	0
+0	5
+75
+October 07
+2006	Romania
+Belarus	3
+1	European Cup qualifier
+in Romania	+6
+-6	1825
+1515	+1
+-1	14
+75
+October 11
+2006	Belarus
+Slovenia	4
+2	European Cup qualifier
+in Belarus	+25
+-25	1540
+1531	+9
+-7	66
+72
+November 15
+2006	Estonia
+Belarus	2
+1	Friendly
+in Estonia	+12
+-12	1378
+1528	+4
+-6	104
+74
+February 07
+2007	Iran
+Belarus	2
+2	Friendly
+in Iran	-7
++7	1757
+1535	-1
++3	26
+69
+March 24
+2007	Luxembourg
+Belarus	1
+2	European Cup qualifier
+in Luxembourg	-3
++3	974
+1538	-1
+-2	189
+71
+June 02
+2007	Belarus
+Bulgaria	0
+2	European Cup qualifier
+in Belarus	-24
++24	1514
+1738	-8
++7	78
+31
+June 06
+2007	Bulgaria
+Belarus	2
+1	European Cup qualifier
+in Bulgaria	+5
+-5	1743
+1509	+3
+-2	28
+80
+August 22
+2007	Belarus
+Israel	2
+1	Friendly
+in Belarus	+13
+-13	1522
+1699	+2
+-3	73
+40
+September 08
+2007	Belarus
+Romania	1
+3	European Cup qualifier
+in Belarus	-11
++11	1511
+1884	-3
++2	76
+10
+September 12
+2007	Slovenia
+Belarus	1
+0	European Cup qualifier
+in Slovenia	+14
+-14	1541
+1497	+3
+0	69
+76
+October 13
+2007	Belarus
+Luxembourg	0
+1	European Cup qualifier
+in Belarus	-39
++39	1458
+1007	-12
++6	88
+185
+October 17
+2007	Israel
+Belarus	2
+1	Friendly
+in Israel	+3
+-3	1686
+1455	+1
+-1	40
+89
+November 17
+2007	Albania
+Belarus	2
+4	European Cup qualifier
+in Albania	-42
++42	1457
+1497	-12
++11	90
+79
+November 21
+2007	Belarus
+Netherlands	2
+1	European Cup qualifier
+in Belarus	+35
+-35	1532
+1917	+7
+-1	73
+6
+February 02
+2008	Belarus
+Iceland	2
+0	Friendly tournament
+in Malta	+13
+-13	1545
+1364	+1
+-4	70
+112
+February 04
+2008	Armenia
+Belarus	2
+1	Friendly tournament
+in Malta	+21
+-21	1428
+1524	+5
+-3	97
+73
+February 06
+2008	Malta
+Belarus	0
+1	Friendly tournament
+in Malta	-7
++7	1210
+1531	0
++1	153
+72
+March 26
+2008	Belarus
+Turkey	2
+2	Friendly
+in Belarus	+4
+-4	1535
+1777	+1
+0	71
+21
+May 27
+2008	Germany
+Belarus	2
+2	Friendly
+in Germany	-9
++9	1929
+1544	0
++3	7
+70
+June 02
+2008	Finland
+Belarus	1
+1	Friendly
+in Finland	-5
++5	1630
+1549	-1
++1	46
+69
+August 20
+2008	Belarus
+Argentina	0
+0	Friendly
+in Belarus	+8
+-8	1557
+1991	+1
+-1	64
+3
+September 06
+2008	Ukraine
+Belarus	1
+0	World Cup qualifier
+in Ukraine	+7
+-7	1736
+1550	0
+-1	31
+65
+September 10
+2008	Andorra
+Belarus	1
+3	World Cup qualifier
+in Andorra	-5
++5	1027
+1555	-1
++1	183
+63
+October 15
+2008	Belarus
+England	1
+3	World Cup qualifier
+in Belarus	-10
++10	1545
+1946	-1
++1	67
+6
+November 19
+2008	Cyprus
+Belarus	2
+1	Friendly
+in Cyprus	+9
+-9	1502
+1536	+5
+-3	83
+69
+April 01
+2009	Kazakhstan
+Belarus	1
+5	World Cup qualifier
+in Kazakhstan	-28
++28	1316
+1564	-5
++11	129
+61
+June 06
+2009	Belarus
+Andorra	5
+1	World Cup qualifier
+in Belarus	+2
+-2	1566
+1023	0
+0	61
+184
+June 10
+2009	Belarus
+Moldova	2
+2	Friendly
+in Belarus	-6
++6	1560
+1414	-1
++1	61
+101
+August 12
+2009	Belarus
+Croatia	1
+3	World Cup qualifier
+in Belarus	-15
++15	1545
+1872	-5
++1	67
+8
+September 05
+2009	Croatia
+Belarus	1
+0	World Cup qualifier
+in Croatia	+3
+-3	1875
+1542	0
+-1	8
+68
+September 09
+2009	Belarus
+Ukraine	0
+0	World Cup qualifier
+in Belarus	+6
+-6	1548
+1753	+2
+-1	66
+26
+October 10
+2009	Belarus
+Kazakhstan	4
+0	World Cup qualifier
+in Belarus	+10
+-10	1558
+1317	+3
+-4	63
+131
+October 14
+2009	England
+Belarus	3
+0	World Cup qualifier
+in England	+4
+-4	1964
+1554	0
+-1	4
+66
+November 13
+2009	Saudi Arabia
+Belarus	2
+1	Friendly
+in Saudi Arabia	+4
+-4	1678
+1550	0
+-3	44
+69
+November 14
+2009	Saudi Arabia
+Belarus	1
+1	Friendly
+in Saudi Arabia	-6
++6	1672
+1556	0
++4	44
+65
+November 18
+2009	Montenegro
+Belarus	1
+0	Friendly
+in Montenegro	+6
+-6	1607
+1550	+2
+-2	51
+68
+March 03
+2010	Belarus
+Armenia	3
+1	Friendly
+in Turkey	+7
+-7	1557
+1344	+2
+0	66
+121
+May 27
+2010	Belarus
+Honduras	2
+2	Friendly
+in Austria	+5
+-5	1562
+1721	+2
+-4	64
+33
+May 30
+2010	Belarus
+South Korea	1
+0	Friendly
+in Austria	+15
+-15	1577
+1752	+8
+-3	57
+22
+June 02
+2010	Belarus
+Sweden	0
+1	Friendly
+in Belarus	-8
++8	1569
+1771	-4
+0	61
+20
+August 11
+2010	Lithuania
+Belarus	0
+2	Friendly
+in Lithuania	-19
++19	1539
+1588	-5
++7	74
+55
+September 03
+2010	France
+Belarus	0
+1	European Cup qualifier
+in France	-33
++33	1712
+1621	-6
++6	31
+49
+September 07
+2010	Belarus
+Romania	0
+0	European Cup qualifier
+in Belarus	-1
++1	1620
+1698	-1
++1	50
+33
+October 08
+2010	Luxembourg
+Belarus	0
+0	European Cup qualifier
+in Luxembourg	+17
+-17	1077
+1603	+3
+-4	177
+54
+October 12
+2010	Belarus
+Albania	2
+0	European Cup qualifier
+in Belarus	+15
+-15	1618
+1497	+4
+-1	50
+85
+November 17
+2010	Oman
+Belarus	0
+4	Friendly
+in Oman	-19
++19	1511
+1637	-7
++3	81
+47
+February 09
+2011	Belarus
+Kazakhstan	1
+1	Friendly
+in Turkey	-8
++8	1629
+1301	-2
++3	49
+131
+March 26
+2011	Albania
+Belarus	1
+0	European Cup qualifier
+in Albania	+22
+-22	1509
+1607	+6
+-9	83
+57
+March 29
+2011	Canada
+Belarus	1
+0	Friendly
+in Turkey	+11
+-11	1588
+1596	+2
+-1	59
+58
+June 03
+2011	Belarus
+France	1
+1	European Cup qualifier
+in Belarus	+5
+-5	1601
+1788	+2
+-1	56
+17
+June 07
+2011	Belarus
+Luxembourg	2
+0	European Cup qualifier
+in Belarus	+2
+-2	1603
+1095	-2
+0	58
+175
+August 10
+2011	Belarus
+Bulgaria	1
+0	Friendly
+in Belarus	+9
+-9	1612
+1670	+2
+-3	56
+40
+September 02
+2011	Belarus
+Bosnia and Herzegovina	0
+2	European Cup qualifier
+in Belarus	-39
++39	1573
+1649	-7
++13	63
+44
+September 06
+2011	Bosnia and Herzegovina
+Belarus	1
+0	European Cup qualifier
+in Bosnia and Herzegovina	+11
+-11	1660
+1562	0
+-3	43
+66
+October 07
+2011	Romania
+Belarus	2
+2	European Cup qualifier
+in Romania	-11
++11	1674
+1573	-1
++4	39
+62
+October 11
+2011	Poland
+Belarus	2
+0	Friendly
+in Germany	+11
+-11	1687
+1562	0
+-5	37
+67
+November 15
+2011	Belarus
+Libya	1
+1	Friendly
+in United Arab Emirates	-1
++1	1561
+1516	+1
++1	67
+76
+February 29
+2012	Belarus
+Moldova	0
+0	Friendly
+in Turkey	-5
++5	1556
+1382	-1
++3	68
+108
+June 07
+2012	Belarus
+Lithuania	1
+1	Friendly
+in Belarus	-5
++5	1551
+1450	0
+0	70
+95
+August 15
+2012	Armenia
+Belarus	1
+2	Friendly
+in Armenia	-12
++12	1505
+1563	-4
++1	85
+69
+September 07
+2012	Georgia
+Belarus	1
+0	World Cup qualifier
+in Georgia	+20
+-20	1487
+1543	+6
+-4	86
+72
+September 11
+2012	France
+Belarus	3
+1	World Cup qualifier
+in France	+5
+-5	1847
+1538	+1
+-4	13
+75
+October 12
+2012	Belarus
+Spain	0
+4	World Cup qualifier
+in Belarus	-4
++4	1534
+2139	-1
+0	76
+1
+October 16
+2012	Belarus
+Georgia	2
+0	World Cup qualifier
+in Belarus	+19
+-19	1553
+1477	+4
+-7	70
+89
+November 14
+2012	Israel
+Belarus	1
+2	Friendly
+in Israel	-14
++14	1595
+1567	-4
++3	57
+66
+February 06
+2013	Belarus
+Hungary	1
+1	Friendly
+in Turkey	+3
+-3	1570
+1659	+3
+-2	63
+45
+March 21
+2013	Jordan
+Belarus	1
+0	Friendly
+in Jordan	+9
+-9	1501
+1561	+3
+-3	84
+67
+March 25
+2013	Belarus
+Canada	2
+0	Friendly
+in Qatar	+15
+-15	1576
+1547	+4
+-3	63
+68
+June 03
+2013	Estonia
+Belarus	0
+2	Friendly
+in Estonia	-15
++15	1453
+1591	-4
++6	96
+57
+June 07
+2013	Finland
+Belarus	1
+0	World Cup qualifier
+in Finland	+13
+-13	1635
+1578	+3
+-7	47
+63
+June 11
+2013	Belarus
+Finland	1
+1	World Cup qualifier
+in Belarus	-2
++2	1576
+1637	-2
+-1	64
+48
+August 14
+2013	Belarus
+Montenegro	1
+1	Friendly
+in Belarus	-2
++2	1574
+1622	+1
++1	61
+50
+September 06
+2013	Belarus
+Kyrgyzstan	3
+1	Friendly
+in Belarus	+1
+-1	1575
+1143	-1
++1	62
+168
+September 10
+2013	Belarus
+France	2
+4	World Cup qualifier
+in Belarus	-18
++18	1557
+1839	-5
++1	68
+14
+October 11
+2013	Spain
+Belarus	2
+1	World Cup qualifier
+in Spain	+1
+-1	2099
+1556	0
+-1	1
+67
+October 15
+2013	Belarus
+Japan	1
+0	Friendly
+in Belarus	+12
+-12	1568
+1726	+8
+-1	60
+26
+November 15
+2013	Belarus
+Albania	0
+0	Friendly
+in Turkey	-2
++2	1566
+1488	-3
++2	63
+84
+November 19
+2013	Turkey
+Belarus	2
+1	Friendly
+in Turkey	+4
+-4	1686
+1562	+1
+-2	37
+66
+March 05
+2014	Bulgaria
+Belarus	2
+1	Friendly
+in Bulgaria	+6
+-6	1619
+1556	+2
+-4	51
+68

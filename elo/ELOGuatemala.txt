@@ -1,0 +1,4119 @@
+September 14
+1921	Guatemala
+Honduras	10
+1	Central American Independence Centenary Cup
+in Guatemala	+27
+-27	1527
+1473	-
+-	28
+31
+September 18
+1921	Guatemala
+Costa Rica	0
+6	Central American Independence Centenary Cup
+in Guatemala	-24
++24	1503
+1734	-1
++2	29
+11
+January 01
+1923	Guatemala
+Mexico	2
+3	Friendly
+in Guatemala	-7
++7	1496
+1707	-1
+-	35
+15
+January 04
+1923	Guatemala
+Mexico	3
+1	Friendly
+in Guatemala	+20
+-20	1516
+1687	+2
+-2	33
+17
+January 07
+1923	Guatemala
+Mexico	1
+4	Friendly
+in Guatemala	-14
++14	1502
+1701	-2
++1	35
+16
+December 09
+1923	Mexico
+Guatemala	2
+1	Friendly
+in Mexico	+3
+-3	1704
+1499	0
+0	14
+38
+December 12
+1923	Mexico
+Guatemala	2
+0	Friendly
+in Mexico	+4
+-4	1708
+1495	0
+0	14
+38
+December 16
+1923	Mexico
+Guatemala	3
+3	Friendly
+in Mexico	-7
++7	1701
+1502	0
+0	14
+38
+March 17
+1930	Costa Rica
+Guatemala	8
+1	Central American Games
+in Cuba	+19
+-19	1753
+1483	+2
+-2	12
+39
+March 19
+1930	El Salvador
+Guatemala	8
+2	Central American Games
+in Cuba	+54
+-54	1444
+1429	+5
+-5	44
+45
+March 25
+1935	Costa Rica
+Guatemala	4
+3	Central American Games
+in El Salvador	+5
+-5	1772
+1424	+1
+-1	10
+48
+March 27
+1935	Cuba
+Guatemala	2
+1	Central American Games
+in El Salvador	+14
+-14	1549
+1410	+2
+-2	34
+50
+March 28
+1935	Mexico
+Guatemala	5
+1	Central American Games
+in El Salvador	+19
+-19	1617
+1391	+3
+-1	24
+51
+March 31
+1935	Guatemala
+Honduras	0
+0	Central American Games
+in El Salvador	+4
+-4	1395
+1456	0
+0	51
+41
+April 03
+1935	El Salvador
+Guatemala	6
+1	Central American Games
+in El Salvador	+34
+-34	1382
+1361	+7
+-4	51
+55
+December 05
+1943	El Salvador
+Guatemala	2
+2	CCCF Championship
+in El Salvador	-11
++11	1422
+1372	-4
++1	54
+59
+December 07
+1943	Guatemala
+Costa Rica	3
+2	CCCF Championship
+in El Salvador	+46
+-46	1418
+1740	+4
+-3	55
+15
+December 09
+1943	Guatemala
+Nicaragua	6
+2	CCCF Championship
+in El Salvador	+6
+-6	1424
+957	+1
+0	54
+84
+December 12
+1943	El Salvador
+Guatemala	2
+1	CCCF Championship
+in El Salvador	+14
+-14	1498
+1410	+2
+-2	42
+56
+December 16
+1943	Guatemala
+Costa Rica	4
+2	CCCF Championship
+in El Salvador	+62
+-62	1472
+1621	+8
+-7	48
+25
+February 23
+1946	Guatemala
+El Salvador	3
+1	CCCF Championship
+in Costa Rica	+37
+-37	1509
+1429	+5
+-3	41
+51
+February 28
+1946	Honduras
+Guatemala	5
+3	CCCF Championship
+in Costa Rica	+50
+-50	1441
+1459	+6
+-7	50
+48
+March 07
+1946	Guatemala
+Nicaragua	7
+0	CCCF Championship
+in Costa Rica	+6
+-6	1465
+940	+1
+0	47
+84
+March 10
+1946	Costa Rica
+Guatemala	1
+4	CCCF Championship
+in Costa Rica	-75
++75	1604
+1540	-10
++9	29
+38
+March 13
+1946	Guatemala
+Panama	3
+3	CCCF Championship
+in Costa Rica	-17
++17	1523
+1263	-3
++2	41
+72
+December 09
+1946	Panama
+Guatemala	4
+2	Central American and Caribbean Games
+in Colombia	+48
+-48	1334
+1475	+6
+-4	66
+45
+December 11
+1946	Curacao
+Guatemala	2
+2	Central American and Caribbean Games
+in Colombia	+1
+-1	1453
+1474	0
+0	48
+45
+December 14
+1946	Colombia
+Guatemala	4
+2	Central American and Caribbean Games
+in Colombia	+20
+-20	1509
+1454	+3
+-2	41
+47
+December 16
+1946	Costa Rica
+Guatemala	6
+0	Central American and Caribbean Games
+in Colombia	+22
+-22	1656
+1432	+3
+-5	21
+52
+December 19
+1946	Guatemala
+Puerto Rico	4
+1	Central American and Caribbean Games
+in Colombia	+5
+-5	1437
+976	+1
+0	51
+86
+December 23
+1946	Venezuela
+Guatemala	3
+2	Central American and Caribbean Games
+in Colombia	+29
+-29	1295
+1408	+4
+-6	69
+57
+March 02
+1948	Guatemala
+El Salvador	3
+0	CCCF Championship
+in Guatemala	+30
+-30	1438
+1363	+6
+-2	51
+63
+March 04
+1948	Guatemala
+Costa Rica	1
+1	CCCF Championship
+in Guatemala	+4
+-4	1442
+1583	+1
+0	50
+32
+March 05
+1948	Guatemala
+Netherlands Antilles	2
+2	CCCF Championship
+in Guatemala	-1
++1	1441
+1533	-1
+0	51
+41
+March 09
+1948	Guatemala
+Panama	4
+3	CCCF Championship
+in Guatemala	+14
+-14	1455
+1363	+4
+-1	47
+63
+March 13
+1948	Guatemala
+El Salvador	1
+1	CCCF Championship
+in Guatemala	-9
++9	1446
+1431	-2
++3	48
+52
+March 16
+1948	Guatemala
+Costa Rica	3
+2	CCCF Championship
+in Guatemala	+30
+-30	1476
+1589	+4
+-6	44
+32
+March 18
+1948	Guatemala
+Netherlands Antilles	2
+2	CCCF Championship
+in Guatemala	-13
++13	1463
+1386	-2
++3	46
+60
+March 21
+1948	Guatemala
+Panama	4
+5	CCCF Championship
+in Guatemala	-33
++33	1430
+1476	-7
++7	53
+44
+1950	Guatemala
+Honduras	0
+1	Central American and Caribbean Games
+in Guatemala	-25
++25	1405
+1467	0
++10	57
+44
+1950	Guatemala
+Colombia	2
+1	Central American and Caribbean Games
+in Guatemala	+12
+-12	1417
+1347	0
+-4	57
+76
+1950	Guatemala
+El Salvador	2
+0	Central American and Caribbean Games
+in Guatemala	+18
+-18	1435
+1358	0
+-5	57
+75
+March 12
+1950	Guatemala
+Curacao	0
+2	Central American and Caribbean Games
+in Guatemala	-35
++35	1400
+1510	-5
++6	61
+44
+September 02
+1950	El Salvador
+Guatemala	2
+1	Friendly tournament
+in Curacao	+15
+-15	1422
+1385	+1
+-4	62
+69
+March 09
+1953	Guatemala
+Netherlands Antilles	1
+1	CCCF Championship
+in Costa Rica	+7
+-7	1392
+1472	0
+-1	72
+54
+March 13
+1953	Guatemala
+El Salvador	3
+2	CCCF Championship
+in Costa Rica	+27
+-27	1419
+1387	+6
+-6	65
+71
+March 17
+1953	Guatemala
+Panama	2
+2	CCCF Championship
+in Costa Rica	-8
++8	1411
+1318	0
++1	65
+85
+March 19
+1953	Guatemala
+Nicaragua	1
+0	CCCF Championship
+in Costa Rica	+5
+-5	1416
+1015	0
+0	65
+110
+March 21
+1953	Costa Rica
+Guatemala	3
+0	CCCF Championship
+in Costa Rica	+13
+-13	1631
+1403	+2
+0	26
+65
+July 24
+1955	Costa Rica
+Guatemala	9
+1	Friendly
+in Costa Rica	+6
+-6	1637
+1397	+4
+-3	24
+73
+July 31
+1955	Guatemala
+Costa Rica	3
+1	Friendly
+in Guatemala	+21
+-21	1418
+1616	+6
+-5	67
+29
+August 15
+1955	El Salvador
+Guatemala	3
+2	CCCF Championship
+in Honduras	+24
+-24	1449
+1394	+4
+-6	61
+73
+August 18
+1955	Guatemala
+Netherlands Antilles	4
+1	CCCF Championship
+in Honduras	+54
+-54	1448
+1419	+13
+-11	60
+67
+February 10
+1957	Guatemala
+Costa Rica	2
+6	World Cup qualifier
+in Guatemala	-18
++18	1430
+1760	-2
++1	64
+17
+February 17
+1957	Costa Rica
+Guatemala	3
+1	World Cup qualifier
+in Costa Rica	+5
+-5	1765
+1425	+1
+-1	16
+65
+March 10
+1957	Guatemala
+Curacao	1
+3	World Cup qualifier
+in Guatemala	-31
++31	1394
+1540	-5
++4	70
+44
+August 21
+1960	Costa Rica
+Guatemala	3
+2	World Cup qualifier
+in Costa Rica	+4
+-4	1668
+1390	+1
+-3	26
+87
+August 28
+1960	Guatemala
+Costa Rica	4
+4	World Cup qualifier
+in Guatemala	+9
+-9	1399
+1659	+3
+-2	84
+28
+September 25
+1960	Honduras
+Guatemala	1
+1	World Cup qualifier
+in Honduras	-8
++8	1437
+1407	-4
++3	73
+81
+March 01
+1961	Costa Rica
+Guatemala	4
+2	CCCF Championship
+in Costa Rica	+9
+-9	1664
+1398	+1
+-3	28
+83
+March 04
+1961	Guatemala
+Panama	2
+0	CCCF Championship
+in Costa Rica	+23
+-23	1421
+1228	+10
+-4	74
+116
+March 08
+1961	Guatemala
+Cuba	2
+0	CCCF Championship
+in Costa Rica	+12
+-12	1433
+1126	+4
+-2	71
+131
+March 14
+1961	Haiti
+Guatemala	3
+1	CCCF Championship
+in Costa Rica	+31
+-31	1521
+1402	+8
+-12	51
+83
+March 23
+1963	Honduras
+Guatemala	2
+1	Concacaf Championship
+in El Salvador	+23
+-23	1456
+1379	+6
+-8	68
+94
+March 25
+1963	Guatemala
+Panama	2
+2	Concacaf Championship
+in El Salvador	-10
++10	1369
+1236	-2
++1	96
+122
+March 27
+1963	Guatemala
+Nicaragua	3
+1	Concacaf Championship
+in El Salvador	+8
+-8	1377
+983	+2
+0	94
+144
+March 29
+1963	El Salvador
+Guatemala	1
+1	Concacaf Championship
+in El Salvador	-14
++14	1481
+1391	-3
++7	64
+87
+March 10
+1965	Guatemala
+Paraguay	1
+4	Friendly
+in Guatemala	-6
++6	1385
+1764	-2
+0	94
+22
+March 14
+1965	Guatemala
+Paraguay	0
+3	Friendly
+in Guatemala	-6
++6	1379
+1770	-1
++2	95
+20
+March 28
+1965	Guatemala
+Costa Rica	0
+0	Concacaf Championship
+in Guatemala	+18
+-18	1397
+1771	+4
+-3	90
+19
+March 31
+1965	Guatemala
+Haiti	3
+0	Concacaf Championship
+in Guatemala	+40
+-40	1437
+1429	+12
+-10	78
+83
+April 03
+1965	Guatemala
+El Salvador	4
+1	Concacaf Championship
+in Guatemala	+42
+-42	1479
+1478	+8
+-14	70
+71
+April 06
+1965	Guatemala
+Netherlands Antilles	3
+2	Concacaf Championship
+in Guatemala	+15
+-15	1494
+1417	+5
+-4	65
+84
+April 11
+1965	Guatemala
+Mexico	1
+2	Concacaf Championship
+in Guatemala	-11
++11	1483
+1815	-6
++2	71
+13
+February 28
+1966	Panama
+Guatemala	0
+1	Friendly
+in Panama	-5
++5	1208
+1488	-1
++2	131
+69
+February 12
+1967	Guatemala
+Panama	3
+1	Concacaf Championship qualifier
+in Guatemala	+7
+-7	1495
+1216	+2
+-1	64
+132
+March 05
+1967	Honduras
+Guatemala	0
+0	Concacaf Championship
+in Honduras	+1
+-1	1379
+1494	+2
+-1	97
+65
+March 10
+1967	Guatemala
+Mexico	1
+0	Concacaf Championship
+in Honduras	+42
+-42	1536
+1736	+15
+-3	50
+20
+March 12
+1967	Guatemala
+Haiti	2
+1	Concacaf Championship
+in Honduras	+12
+-12	1548
+1319	+1
+-3	49
+109
+March 15
+1967	Guatemala
+Nicaragua	2
+0	Concacaf Championship
+in Honduras	+3
+-3	1551
+1016	0
+0	49
+157
+March 19
+1967	Guatemala
+Trinidad and Tobago	2
+0	Concacaf Championship
+in Honduras	+21
+-21	1572
+1364	+4
+-10	45
+101
+March 05
+1968	Guatemala
+Bermuda	1
+1	Olympic Games qualifier
+in Guatemala	-15
++15	1557
+1345	-5
++2	51
+104
+March 07
+1968	Bermuda
+Guatemala	1
+2	Olympic Games qualifier
+in Bermuda	-14
++14	1331
+1571	-2
++5	106
+46
+May 26
+1968	Guatemala
+Costa Rica	1
+0	Olympic Games qualifier
+in Guatemala	+20
+-20	1591
+1659	+3
+-4	44
+31
+June 02
+1968	Costa Rica
+Guatemala	3
+2	Olympic Games qualifier
+in Costa Rica	+11
+-11	1670
+1580	0
+-1	31
+45
+October 16
+1968	Guatemala
+Thailand	4
+1	Olympic Games
+in Mexico	+13
+-13	1593
+1231	+4
+-1	42
+127
+October 18
+1968	Bulgaria
+Guatemala	2
+1	Olympic Games
+in Mexico	+12
+-12	1840
+1581	+1
+-4	11
+46
+November 17
+1968	Guatemala
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Guatemala	+10
+-10	1591
+1352	+3
+-3	42
+101
+November 20
+1968	Guatemala
+Trinidad and Tobago	0
+0	World Cup qualifier
+in Guatemala	-15
++15	1576
+1367	-3
++6	45
+95
+December 08
+1968	Haiti
+Guatemala	2
+0	World Cup qualifier
+in Haiti	+40
+-40	1390
+1536	+12
+-13	89
+59
+February 23
+1969	Guatemala
+Haiti	1
+1	World Cup qualifier
+in Guatemala	-12
++12	1524
+1404	-1
++1	60
+88
+November 16
+1969	Guatemala
+Norway	1
+3	Friendly
+in Guatemala	-21
++21	1503
+1497	-5
++3	64
+68
+November 24
+1969	Guatemala
+Jamaica	0
+0	Concacaf Championship
+in Costa Rica	-18
++18	1485
+1207	-7
++6	71
+131
+November 27
+1969	Costa Rica
+Guatemala	1
+1	Concacaf Championship
+in Costa Rica	-15
++15	1611
+1500	-3
++7	39
+64
+December 01
+1969	Guatemala
+Trinidad and Tobago	2
+0	Concacaf Championship
+in Costa Rica	+22
+-22	1522
+1326	+4
+-4	60
+106
+December 04
+1969	Guatemala
+Mexico	1
+0	Concacaf Championship
+in Costa Rica	+37
+-37	1559
+1665	+6
+-7	54
+33
+December 08
+1969	Guatemala
+Netherlands Antilles	6
+1	Concacaf Championship
+in Costa Rica	+38
+-38	1597
+1438	+11
+-10	43
+82
+July 18
+1971	Guatemala
+Dutch Guiana	2
+2	Olympic Games qualifier
+in Guatemala	-12
++12	1585
+1475	-2
++2	46
+70
+July 25
+1971	Guatemala
+Panama	4
+1	Olympic Games qualifier
+in Guatemala	+3
+-3	1588
+1154	0
+-1	46
+146
+August 15
+1971	Dutch Guiana
+Guatemala	0
+1	Olympic Games qualifier
+in Dutch Guiana	-17
++17	1413
+1605	-5
++2	87
+44
+January 23
+1972	Guatemala
+Jamaica	1
+0	Olympic Games qualifier
+in Guatemala	+2
+-2	1607
+1225	0
+0	41
+131
+April 16
+1972	Guatemala
+United States	3
+2	Olympic Games qualifier
+in Guatemala	+9
+-9	1616
+1471	+1
+-1	40
+69
+April 25
+1972	United States
+Guatemala	2
+1	Olympic Games qualifier
+in the United States	+23
+-23	1494
+1593	+5
+-6	65
+46
+May 10
+1972	Jamaica
+Guatemala	0
+0	Olympic Games qualifier
+in Jamaica	+13
+-13	1238
+1580	+3
+-5	127
+50
+September 02
+1972	Guatemala
+Canada	2
+2	Friendly
+in Guatemala	-4
++4	1576
+1554	0
+0	50
+54
+October 15
+1972	Guatemala
+Costa Rica	0
+0	Friendly
+in Guatemala	-2
++2	1574
+1620	0
+0	50
+37
+November 12
+1972	Costa Rica
+Guatemala	1
+1	Friendly
+in Costa Rica	-4
++4	1616
+1578	-2
++1	40
+48
+December 03
+1972	Guatemala
+El Salvador	1
+0	World Cup qualifier
+in Guatemala	+8
+-8	1586
+1433	+1
+-1	47
+74
+December 10
+1972	El Salvador
+Guatemala	0
+1	World Cup qualifier
+in El Salvador	-17
++17	1416
+1603	-8
++7	82
+40
+March 04
+1973	Peru
+Guatemala	5
+1	Friendly
+in Peru	+11
+-11	1677
+1592	+2
+0	29
+43
+November 30
+1973	Guatemala
+Mexico	0
+0	World Cup qualifier
+in Haiti	+8
+-8	1600
+1729	+2
+0	42
+25
+December 05
+1973	Guatemala
+Netherlands Antilles	2
+2	World Cup qualifier
+in Haiti	-11
++11	1589
+1402	-2
++1	44
+87
+December 10
+1973	Trinidad and Tobago
+Guatemala	1
+0	World Cup qualifier
+in Haiti	+32
+-32	1390
+1557	+12
+-9	88
+53
+December 13
+1973	Haiti
+Guatemala	2
+1	World Cup qualifier
+in Haiti	+13
+-13	1593
+1544	+1
+-3	44
+56
+December 15
+1973	Guatemala
+Honduras	1
+1	World Cup qualifier
+in Haiti	-7
++7	1537
+1419	0
++2	56
+84
+April 20
+1975	Honduras
+Guatemala	0
+0	Olympic Games qualifier
+in Honduras	+1
+-1	1420
+1536	-1
+0	83
+57
+April 27
+1975	Guatemala
+Honduras	2
+0	Olympic Games qualifier
+in Guatemala	+13
+-13	1549
+1407	+3
+-2	54
+85
+August 01
+1975	Panama
+Guatemala	2
+0	Friendly
+in Panama	+23
+-23	1254
+1526	+5
+-5	129
+61
+November 30
+1975	Costa Rica
+Guatemala	1
+1	Olympic Games qualifier
+in Costa Rica	-8
++8	1568
+1534	-2
++2	50
+59
+December 07
+1975	Guatemala
+Costa Rica	2
+1	Olympic Games qualifier
+in Guatemala	+16
+-16	1550
+1552	+3
+-6	57
+56
+March 07
+1976	Guatemala
+Cuba	1
+1	Olympic Games qualifier
+in Guatemala	-9
++9	1541
+1498	0
++2	58
+67
+March 11
+1976	Cuba
+Guatemala	1
+1	Olympic Games qualifier
+in Cuba	-3
++3	1495
+1544	-1
+0	68
+58
+June 30
+1976	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+7
+-7	1551
+1515	+1
+-1	54
+60
+July 19
+1976	Guatemala
+Israel	0
+0	Olympic Games
+in Canada	+15
+-15	1566
+1725	+4
+-2	51
+26
+September 17
+1976	Panama
+Guatemala	2
+4	World Cup qualifier
+in Panama	-15
++15	1253
+1581	-2
++2	126
+49
+September 26
+1976	Guatemala
+Panama	7
+0	World Cup qualifier
+in Guatemala	+7
+-7	1588
+1246	+2
+-1	46
+127
+December 05
+1976	Costa Rica
+Guatemala	0
+0	World Cup qualifier
+in Costa Rica	-2
++2	1520
+1590	-1
+0	61
+47
+December 08
+1976	Guatemala
+El Salvador	3
+1	World Cup qualifier
+in Guatemala	+9
+-9	1599
+1374	+3
+0	44
+95
+December 12
+1976	Guatemala
+Costa Rica	1
+1	World Cup qualifier
+in Guatemala	-9
++9	1590
+1529	-3
++3	47
+58
+December 19
+1976	El Salvador
+Guatemala	2
+0	World Cup qualifier
+in El Salvador	+39
+-39	1426
+1551	+12
+-8	81
+55
+September 18
+1977	Guatemala
+United States	3
+1	Friendly
+in Guatemala	+7
+-7	1558
+1426	+2
+-3	52
+81
+September 25
+1977	Guatemala
+United States	2
+0	Friendly
+in Guatemala	+7
+-7	1565
+1431	+1
+0	51
+78
+October 08
+1977	Guatemala
+Surinam	3
+2	World Cup qualifier
+in Mexico	+12
+-12	1577
+1416	+2
+-5	49
+84
+October 12
+1977	Haiti
+Guatemala	2
+1	World Cup qualifier
+in Mexico	+22
+-22	1558
+1555	+5
+-6	52
+55
+October 16
+1977	Canada
+Guatemala	2
+1	World Cup qualifier
+in Mexico	+25
+-25	1486
+1530	+3
+-3	70
+58
+October 19
+1977	Mexico
+Guatemala	2
+1	World Cup qualifier
+in Mexico	+7
+-7	1712
+1523	+1
+-2	31
+60
+October 23
+1977	El Salvador
+Guatemala	2
+2	World Cup qualifier
+in Mexico	+5
+-5	1433
+1518	+2
+-1	78
+61
+April 01
+1979	Guatemala
+Mexico	0
+0	Friendly
+in Guatemala	0
+0	1518
+1610	0
+0	62
+46
+July 25
+1979	Costa Rica
+Guatemala	1
+2	Olympic Games qualifier
+in Costa Rica	-27
++27	1525
+1545	-2
++3	63
+61
+August 05
+1979	Guatemala
+Costa Rica	0
+1	Olympic Games qualifier
+in Guatemala	-27
++27	1518
+1552	-4
++3	65
+61
+August 26
+1979	Costa Rica
+Guatemala	1
+0	Olympic Games qualifier
+in El Salvador	+18
+-18	1570
+1500	+4
+-2	57
+67
+April 15
+1980	Guatemala
+Mexico	2
+4	Friendly
+in Guatemala	-13
++13	1487
+1655	-3
++2	68
+36
+April 29
+1980	Mexico
+Guatemala	2
+2	Friendly
+in Mexico	-6
++6	1649
+1493	0
++1	36
+68
+May 20
+1980	Guatemala
+Costa Rica	0
+0	Friendly
+in Guatemala	0
+0	1493
+1585	0
+0	68
+51
+May 29
+1980	Costa Rica
+Guatemala	2
+1	Friendly
+in Costa Rica	+5
+-5	1590
+1488	+1
+-1	50
+69
+July 02
+1980	Panama
+Guatemala	0
+2	World Cup qualifier
+in Panama	-18
++18	1221
+1506	-2
++4	138
+65
+October 12
+1980	Guatemala
+Costa Rica	0
+0	World Cup qualifier
+in Guatemala	-5
++5	1501
+1529	-1
++1	66
+61
+October 26
+1980	Honduras
+Guatemala	0
+0	World Cup qualifier
+in Honduras	-3
++3	1453
+1504	0
++1	75
+65
+November 09
+1980	Guatemala
+El Salvador	0
+0	World Cup qualifier
+in Guatemala	-9
++9	1495
+1444	-4
++2	69
+79
+November 11
+1980	Guatemala
+Canada	0
+1	Friendly
+in Guatemala	-14
++14	1481
+1455	-1
++5	70
+75
+November 16
+1980	Guatemala
+Panama	5
+0	World Cup qualifier
+in Guatemala	+7
+-7	1488
+1169	0
+0	70
+147
+November 26
+1980	Costa Rica
+Guatemala	0
+3	World Cup qualifier
+in Costa Rica	-49
++49	1486
+1537	-12
++14	70
+56
+December 07
+1980	Guatemala
+Honduras	0
+1	World Cup qualifier
+in Guatemala	-29
++29	1508
+1499	-6
++4	62
+68
+December 21
+1980	El Salvador
+Guatemala	1
+0	World Cup qualifier
+in El Salvador	+18
+-18	1462
+1490	+4
+-7	77
+70
+April 05
+1983	Mexico
+Guatemala	2
+0	Friendly
+in the United States	+10
+-10	1631
+1480	0
+0	40
+72
+July 29
+1983	Guatemala
+South Korea	1
+1	Friendly
+in Guatemala	0
+0	1480
+1589	0
+0	73
+48
+August 03
+1983	Guatemala
+South Korea	2
+1	Friendly
+in Guatemala	+10
+-10	1490
+1579	+2
+-1	71
+49
+October 23
+1983	Costa Rica
+Guatemala	1
+0	Olympic Games qualifier
+in Costa Rica	+12
+-12	1546
+1478	+2
+-4	56
+76
+October 30
+1983	Guatemala
+Costa Rica	1
+1	Olympic Games qualifier
+in Guatemala	-2
++2	1476
+1548	0
+0	76
+56
+June 03
+1984	South Korea
+Guatemala	0
+0	Presidents Cup
+in South Korea	-9
++9	1529
+1485	-2
++2	61
+73
+July 22
+1984	Guatemala
+Mexico	1
+3	Friendly
+in Guatemala	-12
++12	1473
+1674	-5
+0	78
+37
+October 14
+1984	Guatemala
+United States	4
+0	Friendly
+in Guatemala	+15
+-15	1488
+1492	+5
+-7	73
+72
+December 09
+1984	Guatemala
+Ecuador	1
+0	Friendly
+in Guatemala	+7
+-7	1495
+1488	+2
+-3	69
+72
+February 17
+1985	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+9
+-9	1504
+1540	+4
+0	68
+58
+March 06
+1985	Costa Rica
+Guatemala	2
+0	Friendly
+in Costa Rica	+9
+-9	1549
+1495	0
+-4	60
+72
+April 20
+1985	Canada
+Guatemala	2
+1	World Cup qualifier
+in Canada	+13
+-13	1538
+1482	0
+-2	63
+73
+April 26
+1985	Haiti
+Guatemala	0
+1	World Cup qualifier
+in Haiti	-22
++22	1401
+1504	-4
++7	89
+66
+May 05
+1985	Guatemala
+Canada	1
+1	World Cup qualifier
+in Guatemala	-4
++4	1500
+1542	-1
+0	67
+63
+May 15
+1985	Guatemala
+Haiti	4
+0	World Cup qualifier
+in Guatemala	+16
+-16	1516
+1359	+3
+-5	64
+99
+January 06
+1986	Guatemala
+Nicaragua	1
+1	Friendly tournament
+in Guatemala	-14
++14	1502
+1048	-2
++1	68
+167
+January 08
+1986	Guatemala
+Honduras	1
+0	Friendly tournament
+in Guatemala	+14
+-14	1516
+1576	+2
+-5	66
+53
+January 10
+1986	Guatemala
+El Salvador	2
+0	Friendly tournament
+in Guatemala	+14
+-14	1530
+1456	+2
+-4	64
+82
+March 22
+1987	Guatemala
+El Salvador	2
+0	Friendly
+in Guatemala	+8
+-8	1538
+1445	+1
+0	60
+83
+October 07
+1987	El Salvador
+Guatemala	1
+0	Friendly
+in the United States	+12
+-12	1468
+1526	+2
+-3	77
+64
+January 06
+1988	Guatemala
+Costa Rica	1
+2	Friendly
+in Guatemala	-12
++12	1514
+1553	-1
++1	65
+59
+January 10
+1988	Guatemala
+United States	1
+0	Friendly
+in Guatemala	+7
+-7	1521
+1494	0
+-1	65
+74
+January 13
+1988	Guatemala
+United States	0
+1	Friendly
+in Guatemala	-14
++14	1507
+1508	-5
++5	70
+68
+March 02
+1988	Costa Rica
+Guatemala	2
+1	Friendly
+in Costa Rica	+6
+-6	1559
+1501	+1
+-2	57
+72
+March 16
+1988	Guatemala
+Uruguay	1
+0	Friendly
+in Guatemala	+16
+-16	1517
+1807	+7
+-2	65
+15
+April 10
+1988	El Salvador
+Guatemala	0
+0	Friendly
+in El Salvador	-1
++1	1446
+1518	0
+0	80
+65
+April 21
+1988	El Salvador
+Guatemala	1
+0	Friendly
+in the United States	+12
+-12	1458
+1506	+2
+-4	78
+69
+April 30
+1988	Cuba
+Guatemala	0
+1	World Cup qualifier
+in Cuba	-23
++23	1429
+1529	-1
++6	81
+63
+May 15
+1988	Guatemala
+Cuba	1
+1	World Cup qualifier
+in Guatemala	-10
++10	1519
+1439	-2
++1	65
+81
+August 05
+1988	Guatemala
+El Salvador	2
+1	Friendly
+in the United States	+8
+-8	1527
+1450	+3
+-1	61
+79
+October 05
+1988	Trinidad and Tobago
+Guatemala	2
+2	Friendly
+in Trinidad and Tobago	+2
+-2	1359
+1525	+1
+-1	105
+64
+October 09
+1988	Guatemala
+Canada	1
+0	World Cup qualifier
+in Guatemala	+15
+-15	1540
+1517	+3
+-4	61
+65
+October 15
+1988	Canada
+Guatemala	3
+2	World Cup qualifier
+in Canada	+16
+-16	1533
+1524	+4
+-3	61
+64
+November 09
+1988	Guatemala
+El Salvador	1
+0	Friendly
+in the United States	+9
+-9	1533
+1472	+3
+0	60
+74
+February 12
+1989	Guatemala
+Poland	0
+1	Friendly
+in Guatemala	-6
++6	1527
+1776	-3
++2	65
+20
+February 21
+1989	Mexico
+Guatemala	2
+1	Friendship Cup
+in the United States	+4
+-4	1854
+1523	+1
++1	9
+64
+February 23
+1989	Guatemala
+Costa Rica	3
+2	Friendship Cup
+in the United States	+15
+-15	1538
+1502	+6
+-2	58
+67
+March 03
+1989	Guatemala
+El Salvador	3
+0	Friendly
+in Guatemala	+10
+-10	1548
+1475	+1
+-1	58
+74
+March 19
+1989	Guatemala
+Costa Rica	1
+0	World Cup qualifier
+in Guatemala	+12
+-12	1560
+1490	+3
+-5	55
+72
+April 02
+1989	Costa Rica
+Guatemala	2
+1	World Cup qualifier
+in Costa Rica	+18
+-18	1508
+1542	+6
+-6	66
+61
+May 05
+1989	Chile
+Guatemala	1
+0	Friendly tournament
+in the United States	+8
+-8	1732
+1534	0
+-1	26
+62
+May 07
+1989	Guatemala
+Paraguay	1
+2	Friendly tournament
+in the United States	-6
++6	1528
+1779	-1
++1	63
+23
+June 17
+1989	United States
+Guatemala	2
+1	World Cup qualifier
+in the United States	+17
+-17	1505
+1511	+3
+-3	69
+65
+August 20
+1989	Guatemala
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Guatemala	-29
++29	1482
+1462	-8
++11	72
+78
+September 03
+1989	Trinidad and Tobago
+Guatemala	2
+1	World Cup qualifier
+in Trinidad and Tobago	+15
+-15	1477
+1467	+5
+-3	72
+75
+October 08
+1989	Guatemala
+United States	0
+0	World Cup qualifier
+in Guatemala	-3
++3	1464
+1511	-2
++1	77
+64
+January 14
+1990	Guatemala
+Argentina	0
+0	Friendly
+in Guatemala	+5
+-5	1469
+1768	+2
+0	75
+21
+November 30
+1990	Guatemala
+Soviet Union	0
+3	Friendly
+in Guatemala	-6
++6	1463
+1845	-3
++2	77
+10
+May 26
+1991	El Salvador
+Guatemala	0
+0	UNCAF Cup
+in Costa Rica	+3
+-3	1407
+1460	+1
+0	88
+75
+May 29
+1991	Guatemala
+Honduras	0
+0	UNCAF Cup
+in Costa Rica	+1
+-1	1461
+1475	0
+0	75
+71
+June 02
+1991	Costa Rica
+Guatemala	1
+0	UNCAF Cup
+in Costa Rica	+7
+-7	1641
+1454	0
+0	37
+75
+June 29
+1991	Costa Rica
+Guatemala	2
+0	Concacaf Gold Cup
+in the United States	+20
+-20	1651
+1434	+3
+-6	35
+82
+July 01
+1991	United States
+Guatemala	3
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1588
+1416	0
+-6	50
+88
+July 03
+1991	Guatemala
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+28
+-28	1444
+1424	+11
+-10	77
+87
+May 24
+1992	Guatemala
+Ecuador	1
+1	Friendly
+in Guatemala	+3
+-3	1447
+1632	0
+-1	79
+40
+June 07
+1992	Guatemala
+Nicaragua	7
+1	Friendly
+in Guatemala	+2
+-2	1449
+1044	+3
+0	77
+175
+July 05
+1992	Guatemala
+Poland	2
+2	Friendly
+in Guatemala	+5
+-5	1454
+1748	0
+-1	79
+23
+July 19
+1992	Guatemala
+Honduras	0
+0	World Cup qualifier
+in Guatemala	+4
+-4	1458
+1629	0
+-1	81
+42
+July 25
+1992	Uruguay
+Guatemala	2
+1	Friendly
+in Uruguay	+1
+-1	1827
+1457	0
+-1	11
+82
+July 26
+1992	Honduras
+Guatemala	2
+0	World Cup qualifier
+in Honduras	+10
+-10	1639
+1447	+4
+0	39
+82
+December 02
+1992	Guatemala
+Jamaica	2
+1	Friendly
+in Guatemala	+5
+-5	1452
+1363	+1
+0	88
+106
+December 01
+1995	Guatemala
+Panama	1
+0	UNCAF Cup
+in El Salvador	+10
+-10	1462
+1243	+1
+-4	86
+145
+December 03
+1995	Honduras
+Guatemala	2
+0	UNCAF Cup
+in El Salvador	+26
+-26	1530
+1436	+3
+-7	68
+93
+December 07
+1995	El Salvador
+Guatemala	0
+1	UNCAF Cup
+in El Salvador	-28
++28	1458
+1464	-5
++8	87
+85
+December 10
+1995	Honduras
+Guatemala	3
+0	UNCAF Cup
+in El Salvador	+28
+-28	1559
+1436	+10
+-8	58
+93
+January 14
+1996	Mexico
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1770
+1429	0
+-6	23
+98
+January 16
+1996	Guatemala
+St. Vincent & Grenadines	3
+0	Concacaf Gold Cup
+in the United States	+29
+-29	1458
+1279	+10
+-6	87
+134
+January 19
+1996	Mexico
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1777
+1451	+1
+0	22
+87
+January 21
+1996	United States
+Guatemala	3
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1707
+1440	+1
+-1	30
+88
+March 03
+1996	Jamaica
+Guatemala	2
+0	Friendly
+in Jamaica	+8
+-8	1519
+1432	+2
+-3	67
+93
+March 27
+1996	Guatemala
+Venezuela	3
+0	Friendly
+in Guatemala	+8
+-8	1440
+1319	+2
+-3	90
+125
+May 05
+1996	Nicaragua
+Guatemala	0
+1	World Cup qualifier
+in Nicaragua	-5
++5	981
+1445	-1
++2	190
+88
+May 10
+1996	Guatemala
+Nicaragua	2
+1	World Cup qualifier
+in Guatemala	+1
+-1	1446
+980	0
+0	89
+190
+August 04
+1996	Guatemala
+Panama	1
+0	Friendly
+in Guatemala	+3
+-3	1449
+1266	0
+-1	89
+139
+August 14
+1996	Panama
+Guatemala	1
+0	Friendly
+in Panama	+12
+-12	1292
+1437	+4
+-3	132
+92
+August 18
+1996	Guatemala
+Honduras	1
+1	Friendly
+in the United States	+2
+-2	1439
+1502	+1
+0	91
+73
+August 27
+1996	Guatemala
+Jamaica	2
+1	Friendly
+in Guatemala	+8
+-8	1447
+1450	+2
+0	89
+88
+August 30
+1996	Guatemala
+Cuba	1
+1	Friendly
+in Guatemala	0
+0	1447
+1537	0
+0	89
+65
+September 25
+1996	El Salvador
+Guatemala	2
+1	Friendly
+in the United States	+9
+-9	1502
+1438	0
+-5	77
+93
+October 06
+1996	Trinidad and Tobago
+Guatemala	1
+1	World Cup qualifier
+in Trinidad and Tobago	-11
++11	1532
+1449	-2
++6	65
+88
+November 03
+1996	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+8
+-8	1684
+1441	+1
+-2	33
+91
+November 17
+1996	Costa Rica
+Guatemala	3
+0	World Cup qualifier
+in Costa Rica	+18
+-18	1546
+1423	+2
+-4	62
+95
+November 24
+1996	Guatemala
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+27
+-27	1450
+1519	+5
+-6	90
+68
+December 08
+1996	Guatemala
+Trinidad and Tobago	2
+1	World Cup qualifier
+in the United States	+23
+-23	1473
+1482	+7
+-9	83
+81
+December 21
+1996	Guatemala
+United States	2
+2	World Cup qualifier
+in El Salvador	+11
+-11	1484
+1683	+3
+-1	80
+32
+February 20
+1997	Mexico
+Guatemala	1
+1	Friendly
+in the United States	-7
++7	1809
+1491	-1
++4	16
+74
+March 13
+1997	El Salvador
+Guatemala	0
+0	Friendly
+in El Salvador	-3
++3	1481
+1494	0
+0	79
+74
+March 25
+1997	Guatemala
+Ecuador	0
+0	Friendly
+in Guatemala	+2
+-2	1496
+1675	+2
+0	74
+31
+April 13
+1997	El Salvador
+Guatemala	1
+1	Friendly
+in the United States	0
+0	1492
+1496	0
+0	79
+76
+April 16
+1997	Guatemala
+Costa Rica	1
+1	UNCAF Cup
+in Guatemala	0
+0	1496
+1593	0
+0	76
+52
+April 20
+1997	Guatemala
+Nicaragua	6
+1	UNCAF Cup
+in Guatemala	+2
+-2	1498
+976	0
+-1	76
+193
+April 23
+1997	Guatemala
+El Salvador	1
+0	UNCAF Cup
+in Guatemala	+13
+-13	1511
+1467	+4
+0	72
+81
+April 25
+1997	Guatemala
+Honduras	1
+0	UNCAF Cup
+in Guatemala	+16
+-16	1527
+1526	+7
+-5	65
+66
+April 27
+1997	Guatemala
+Costa Rica	1
+1	UNCAF Cup
+in Guatemala	+1
+-1	1528
+1641	0
+-1	65
+42
+September 24
+1997	Guatemala
+El Salvador	1
+0	Friendly
+in the United States	+9
+-9	1537
+1497	0
+0	67
+71
+November 07
+1997	Chile
+Guatemala	4
+1	Friendly
+in Chile	+6
+-6	1703
+1531	+1
+-2	31
+68
+January 23
+1998	Guatemala
+Trinidad and Tobago	3
+1	Friendly
+in Guatemala	+8
+-8	1539
+1444	+2
+-8	65
+94
+February 01
+1998	El Salvador
+Guatemala	0
+0	Concacaf Gold Cup
+in the United States	+4
+-4	1494
+1535	0
+0	74
+65
+February 05
+1998	Guatemala
+Brazil	1
+1	Concacaf Gold Cup
+in the United States	+23
+-23	1558
+2105	+7
+0	58
+1
+February 08
+1998	Jamaica
+Guatemala	3
+2	Concacaf Gold Cup
+in the United States	+19
+-19	1661
+1539	+4
+-6	39
+65
+November 17
+1998	Guatemala
+Honduras	3
+3	Friendly tournament
+in the United States	-2
++2	1537
+1489	0
+0	64
+75
+November 18
+1998	Guatemala
+Mexico	2
+2	Friendly tournament
+in the United States	+11
+-11	1548
+1839	+3
+0	61
+15
+February 03
+1999	Guatemala
+Ecuador	0
+0	Friendly
+in Guatemala	+2
+-2	1550
+1726	+1
+0	60
+25
+February 17
+1999	Guatemala
+Chile	1
+1	Friendly
+in Guatemala	+2
+-2	1552
+1731	0
+0	60
+25
+March 03
+1999	Guatemala
+Paraguay	2
+3	Copa Guatemala
+in Guatemala	-11
++11	1541
+1769	-3
++1	63
+19
+March 05
+1999	Guatemala
+Bolivia	0
+3	Copa Guatemala
+in Guatemala	-25
++25	1516
+1685	-2
++6	65
+35
+March 07
+1999	Guatemala
+Jamaica	2
+4	Copa Guatemala
+in Guatemala	-22
++22	1494
+1639	-11
++7	76
+48
+March 11
+1999	United States
+Guatemala	3
+1	US Cup
+in the United States	+7
+-7	1710
+1487	0
+0	32
+76
+March 13
+1999	Guatemala
+Bolivia	2
+1	US Cup
+in the United States	+22
+-22	1509
+1636	+9
+-5	67
+47
+March 17
+1999	Guatemala
+Nicaragua	1
+0	UNCAF Cup
+in Costa Rica	+2
+-2	1511
+974	0
+0	67
+193
+March 19
+1999	Guatemala
+El Salvador	1
+1	UNCAF Cup
+in Costa Rica	-3
++3	1508
+1455	0
++1	67
+84
+March 24
+1999	Costa Rica
+Guatemala	1
+0	UNCAF Cup
+in Costa Rica	+10
+-10	1601
+1498	0
+-6	56
+74
+March 26
+1999	Guatemala
+El Salvador	1
+0	UNCAF Cup
+in Costa Rica	+16
+-16	1514
+1418	+6
+-3	68
+95
+March 28
+1999	Guatemala
+Honduras	2
+0	UNCAF Cup
+in Costa Rica	+36
+-36	1550
+1553	+8
+-3	60
+59
+May 29
+1999	Canada
+Guatemala	1
+0	Friendly
+in Canada	+8
+-8	1514
+1542	+1
+-3	72
+63
+June 02
+1999	Canada
+Guatemala	2
+0	Canada Cup
+in Canada	+18
+-18	1532
+1524	+8
+-3	64
+66
+June 04
+1999	Ecuador
+Guatemala	3
+1	Canada Cup
+in Canada	+12
+-12	1715
+1512	+1
+-7	28
+73
+June 06
+1999	Iran
+Guatemala	2
+2	Canada Cup
+in Canada	-9
++9	1735
+1521	-1
++5	23
+68
+July 28
+1999	Guatemala
+El Salvador	2
+0	Friendly tournament
+in the United States	+16
+-16	1537
+1405	+3
+-4	63
+101
+October 15
+1999	Guatemala
+Paraguay	0
+0	Friendly
+in Guatemala	+4
+-4	1541
+1780	+1
+0	61
+19
+November 10
+1999	Guatemala
+Honduras	1
+1	Friendly
+in Guatemala	-2
++2	1539
+1564	0
+0	61
+60
+November 23
+1999	Guatemala
+Slovakia	0
+1	Friendly
+in Guatemala	-10
++10	1529
+1644	-2
++1	64
+43
+January 09
+2000	Armenia
+Guatemala	1
+1	Friendly
+in the United States	+4
+-4	1379
+1525	+2
+0	108
+66
+January 19
+2000	Panama
+Guatemala	2
+0	Friendly
+in Panama	+20
+-20	1321
+1505	+4
+-5	126
+71
+January 26
+2000	Guatemala
+Panama	1
+1	Friendly
+in Guatemala	-7
++7	1498
+1328	-3
++3	74
+123
+February 05
+2000	Guatemala
+Chile	2
+1	Friendly
+in Guatemala	+13
+-13	1511
+1695	+5
+-4	69
+33
+February 15
+2000	Trinidad and Tobago
+Guatemala	4
+2	Concacaf Gold Cup
+in the United States	+34
+-34	1580
+1477	+5
+-11	57
+80
+February 17
+2000	Mexico
+Guatemala	1
+1	Concacaf Gold Cup
+in the United States	-21
++21	1870
+1498	-5
++5	14
+74
+March 19
+2000	Guatemala
+Belize	2
+1	World Cup qualifier
+in Honduras	+2
+-2	1500
+973	+2
+0	74
+190
+April 02
+2000	Guatemala
+El Salvador	0
+1	World Cup qualifier
+in Guatemala	-31
++31	1469
+1404	-12
++10	84
+102
+May 07
+2000	El Salvador
+Guatemala	1
+1	World Cup qualifier
+in El Salvador	-2
++2	1410
+1471	-1
++1	100
+84
+May 19
+2000	Guatemala
+Belize	0
+0	World Cup qualifier
+in Honduras	-18
++18	1453
+983	-4
++2	88
+190
+June 11
+2000	Antigua and Barbuda
+Guatemala	0
+1	World Cup qualifier
+in Antigua and Barbuda	-12
++12	1198
+1465	-4
++2	155
+84
+June 18
+2000	Guatemala
+Antigua and Barbuda	8
+1	World Cup qualifier
+in Guatemala	+10
+-10	1475
+1188	+1
+-2	82
+157
+July 03
+2000	Guatemala
+Haiti	4
+1	Friendly tournament
+in Canada	+21
+-21	1496
+1385	+7
+-6	75
+106
+July 07
+2000	Guatemala
+El Salvador	1
+0	Friendly
+in the United States	+7
+-7	1503
+1400	+5
+-2	70
+101
+July 16
+2000	Guatemala
+United States	1
+1	World Cup qualifier
+in Guatemala	+9
+-9	1512
+1773	+3
+-1	70
+18
+July 22
+2000	Guatemala
+Barbados	2
+0	World Cup qualifier
+in Guatemala	+13
+-13	1525
+1372	+1
+-5	69
+112
+August 15
+2000	Costa Rica
+Guatemala	2
+1	World Cup qualifier
+in Costa Rica	+12
+-12	1574
+1513	+2
+-3	58
+72
+September 03
+2000	United States
+Guatemala	1
+0	World Cup qualifier
+in the United States	+5
+-5	1757
+1508	0
+-1	21
+72
+October 08
+2000	Barbados
+Guatemala	1
+3	World Cup qualifier
+in Barbados	-26
++26	1331
+1534	-5
++7	121
+65
+November 15
+2000	Guatemala
+Costa Rica	2
+1	World Cup qualifier
+in Guatemala	+18
+-18	1552
+1579	+2
+-1	62
+58
+January 06
+2001	Costa Rica
+Guatemala	5
+2	World Cup qualifier
+in the United States	+32
+-32	1611
+1520	+3
+-4	55
+66
+February 21
+2001	Panama
+Guatemala	2
+2	Friendly
+in Panama	+2
+-2	1362
+1518	0
+-1	114
+68
+March 06
+2001	Guatemala
+El Salvador	1
+1	Friendly
+in Guatemala	-5
++5	1513
+1440	-1
++1	69
+88
+March 24
+2001	Trinidad and Tobago
+Guatemala	3
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1639
+1506	+1
+-1	51
+70
+May 25
+2001	Belize
+Guatemala	3
+3	UNCAF Cup
+in Honduras	+18
+-18	1015
+1488	+1
+-3	187
+74
+May 27
+2001	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Honduras	-8
++8	1617
+1496	-2
++1	53
+73
+May 30
+2001	El Salvador
+Guatemala	0
+0	UNCAF Cup
+in Honduras	+2
+-2	1470
+1494	0
+0	80
+73
+June 01
+2001	Guatemala
+Costa Rica	2
+0	UNCAF Cup
+in Honduras	+41
+-41	1535
+1585	+7
+-8	66
+59
+June 03
+2001	Guatemala
+Panama	3
+1	UNCAF Cup
+in Honduras	+19
+-19	1554
+1387	+2
+-6	64
+107
+January 06
+2002	Cuba
+Guatemala	0
+1	Friendly
+in Cuba	-10
++10	1433
+1564	-3
++4	95
+58
+January 09
+2002	Cuba
+Guatemala	0
+0	Friendly
+in Cuba	+1
+-1	1434
+1563	0
+0	96
+58
+January 12
+2002	Ecuador
+Guatemala	1
+0	Friendly
+in Ecuador	+4
+-4	1713
+1559	+4
+-1	33
+59
+January 21
+2002	Mexico
+Guatemala	3
+1	Concacaf Gold Cup
+in the United States	+15
+-15	1810
+1544	+4
+-4	16
+64
+January 23
+2002	El Salvador
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+31
+-31	1490
+1513	+5
+-11	81
+74
+October 31
+2002	Guatemala
+Jamaica	1
+1	Friendly
+in Guatemala	-2
++2	1511
+1531	0
+0	69
+64
+January 17
+2003	El Salvador
+Guatemala	0
+0	Friendly
+in the United States	+1
+-1	1478
+1510	+1
+0	82
+68
+January 19
+2003	El Salvador
+Guatemala	0
+0	Friendly
+in the United States	+1
+-1	1479
+1509	0
+0	82
+68
+February 13
+2003	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Panama	-12
++12	1725
+1521	-2
++3	33
+66
+February 16
+2003	Panama
+Guatemala	2
+0	UNCAF Cup
+in Panama	+37
+-37	1380
+1484	+12
+-12	112
+79
+February 18
+2003	Guatemala
+Nicaragua	5
+0	UNCAF Cup
+in Panama	+3
+-3	1487
+931	0
+0	79
+192
+February 20
+2003	Guatemala
+El Salvador	2
+0	UNCAF Cup
+in Panama	+33
+-33	1520
+1492	+12
+-10	67
+76
+February 23
+2003	Guatemala
+Honduras	2
+1	UNCAF Cup
+in Panama	+28
+-28	1548
+1648	+5
+-6	62
+44
+June 22
+2003	Honduras
+Guatemala	2
+1	Friendly
+in the United States	+7
+-7	1665
+1541	+1
+-1	39
+66
+July 02
+2003	Peru
+Guatemala	2
+1	Friendly
+in the United States	+8
+-8	1618
+1533	+3
+-1	50
+66
+July 08
+2003	Guatemala
+El Salvador	2
+1	Friendly
+in the United States	+9
+-9	1542
+1503	+2
+-2	65
+73
+July 15
+2003	Jamaica
+Guatemala	2
+0	Concacaf Gold Cup
+in the United States	+36
+-36	1594
+1506	+4
+-6	58
+72
+July 17
+2003	Colombia
+Guatemala	1
+1	Concacaf Gold Cup
+in the United States	-18
++18	1793
+1524	-2
++4	20
+69
+August 20
+2003	Ecuador
+Guatemala	2
+0	Friendly
+in Ecuador	+5
+-5	1704
+1519	+1
+0	34
+69
+August 27
+2003	Peru
+Guatemala	0
+0	Friendly
+in Peru	-5
++5	1627
+1524	-1
++1	47
+69
+March 31
+2004	El Salvador
+Guatemala	0
+3	Friendly
+in El Salvador	-20
++20	1463
+1544	-2
++4	81
+67
+May 01
+2004	Guatemala
+Panama	1
+2	Friendly
+in Guatemala	-16
++16	1528
+1403	-3
++3	70
+105
+May 05
+2004	Guatemala
+Haiti	1
+0	Friendly
+in Guatemala	+5
+-5	1533
+1449	+2
+-4	68
+90
+June 12
+2004	Surinam
+Guatemala	1
+1	World Cup qualifier
+in Surinam	+9
+-9	1276
+1524	+2
+-1	140
+71
+June 20
+2004	Guatemala
+Surinam	3
+1	World Cup qualifier
+in Guatemala	+7
+-7	1531
+1269	0
+-2	71
+142
+July 18
+2004	Guatemala
+El Salvador	1
+0	Friendly
+in the United States	+8
+-8	1539
+1445	+4
+-4	67
+94
+July 23
+2004	Panama
+Guatemala	1
+1	Friendly
+in Panama	0
+0	1446
+1539	0
+0	92
+68
+August 06
+2004	Guatemala
+El Salvador	2
+0	Friendly
+in the United States	+10
+-10	1549
+1420	+3
+-3	65
+99
+August 11
+2004	Guatemala
+Trinidad and Tobago	4
+1	Friendly
+in Guatemala	+8
+-8	1557
+1418	+2
+-1	63
+99
+August 18
+2004	Canada
+Guatemala	0
+2	World Cup qualifier
+in Canada	-40
++40	1541
+1597	-10
++5	70
+58
+September 05
+2004	Guatemala
+Costa Rica	2
+1	World Cup qualifier
+in Guatemala	+15
+-15	1612
+1594	+5
+-2	52
+57
+September 08
+2004	Honduras
+Guatemala	2
+2	World Cup qualifier
+in Honduras	-9
++9	1662
+1621	-2
++3	39
+49
+October 02
+2004	Guatemala
+Jamaica	2
+2	Friendly
+in the United States	0
+0	1621
+1605	0
+0	49
+57
+October 09
+2004	Costa Rica
+Guatemala	5
+0	World Cup qualifier
+in Costa Rica	+30
+-30	1636
+1591	+10
+-10	46
+59
+October 13
+2004	Guatemala
+Honduras	1
+0	World Cup qualifier
+in Guatemala	+18
+-18	1609
+1632	+6
+-6	53
+47
+November 10
+2004	Mexico
+Guatemala	2
+0	Friendly
+in the United States	+6
+-6	1860
+1603	0
+-2	10
+56
+November 13
+2004	Guatemala
+Bolivia	1
+0	Friendly
+in the United States	+9
+-9	1612
+1570	+4
+0	51
+63
+November 17
+2004	Guatemala
+Canada	0
+1	World Cup qualifier
+in Guatemala	-30
++30	1582
+1542	-8
++6	59
+69
+December 21
+2004	Venezuela
+Guatemala	0
+1	Friendly
+in Venezuela	-14
++14	1600
+1596	-5
++1	56
+58
+January 17
+2005	Colombia
+Guatemala	1
+1	Friendly
+in the United States	-5
++5	1779
+1601	0
++3	23
+55
+January 23
+2005	Paraguay
+Guatemala	2
+1	Friendly
+in the United States	+6
+-6	1753
+1595	+1
+-3	27
+58
+February 09
+2005	Panama
+Guatemala	0
+0	World Cup qualifier
+in Panama	+1
+-1	1483
+1594	+1
+-1	83
+59
+February 13
+2005	Guatemala
+Haiti	2
+1	Friendly
+in the United States	+7
+-7	1601
+1464	+4
+-2	55
+88
+February 19
+2005	Guatemala
+Belize	2
+0	UNCAF Cup
+in Guatemala	+1
+-1	1602
+1050	+1
+-1	54
+181
+February 21
+2005	Guatemala
+Nicaragua	4
+0	UNCAF Cup
+in Guatemala	+1
+-1	1603
+1019	+1
+0	55
+186
+February 23
+2005	Guatemala
+Honduras	1
+1	UNCAF Cup
+in Guatemala	-4
++4	1599
+1633	-4
++1	59
+47
+February 25
+2005	Guatemala
+Costa Rica	0
+4	UNCAF Cup
+in Guatemala	-42
++42	1557
+1697	-9
++10	67
+33
+February 27
+2005	Guatemala
+Panama	3
+0	UNCAF Cup
+in Guatemala	+18
+-18	1575
+1456	+4
+-5	63
+90
+March 26
+2005	Guatemala
+Trinidad and Tobago	5
+1	World Cup qualifier
+in Guatemala	+17
+-17	1592
+1444	+2
+-3	60
+91
+March 30
+2005	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+8
+-8	1823
+1584	0
+-1	16
+60
+April 20
+2005	Jamaica
+Guatemala	1
+0	Friendly
+in the United States	+8
+-8	1648
+1576	+1
+-1	48
+62
+April 27
+2005	Brazil
+Guatemala	3
+0	Friendly
+in Brazil	+2
+-2	1952
+1574	0
+0	3
+62
+June 04
+2005	Guatemala
+Mexico	0
+2	World Cup qualifier
+in Guatemala	-15
++15	1559
+1885	-4
++3	66
+8
+June 08
+2005	Costa Rica
+Guatemala	3
+2	World Cup qualifier
+in Costa Rica	+9
+-9	1679
+1550	+2
+-1	40
+67
+July 08
+2005	Jamaica
+Guatemala	4
+3	Concacaf Gold Cup
+in the United States	+18
+-18	1666
+1532	+4
+-6	43
+73
+July 10
+2005	Mexico
+Guatemala	4
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1877
+1520	+2
+-1	9
+74
+July 13
+2005	Guatemala
+South Africa	1
+1	Concacaf Gold Cup
+in the United States	+6
+-6	1526
+1604	+1
+-1	74
+56
+August 17
+2005	Guatemala
+Panama	2
+1	World Cup qualifier
+in Guatemala	+15
+-15	1541
+1528	+4
+-5	70
+74
+September 03
+2005	Trinidad and Tobago
+Guatemala	3
+2	World Cup qualifier
+in Trinidad and Tobago	+18
+-18	1489
+1523	+2
+-4	83
+74
+September 07
+2005	Guatemala
+United States	0
+0	World Cup qualifier
+in Guatemala	+12
+-12	1535
+1858	+6
+-1	69
+12
+October 01
+2005	Jamaica
+Guatemala	2
+1	Friendly
+in the United States	+7
+-7	1646
+1528	+2
+-3	48
+71
+October 08
+2005	Mexico
+Guatemala	5
+2	World Cup qualifier
+in Mexico	+6
+-6	1853
+1522	0
+-1	13
+72
+October 12
+2005	Guatemala
+Costa Rica	3
+1	World Cup qualifier
+in Guatemala	+41
+-41	1563
+1715	+8
+-9	64
+35
+February 19
+2006	United States
+Guatemala	4
+0	Friendly
+in the United States	+4
+-4	1833
+1559	0
+-1	13
+63
+August 16
+2006	Guatemala
+Haiti	1
+1	Friendly
+in the United States	-3
++3	1556
+1467	-2
+-2	66
+89
+September 06
+2006	Guatemala
+Panama	1
+2	Friendly
+in Guatemala	-15
++15	1541
+1496	-3
++4	68
+80
+October 07
+2006	Honduras
+Guatemala	3
+2	Friendly
+in the United States	+6
+-6	1712
+1535	-1
++1	38
+67
+October 10
+2006	Honduras
+Guatemala	2
+1	Friendly
+in the United States	+5
+-5	1717
+1530	+3
+-4	35
+70
+November 15
+2006	Venezuela
+Guatemala	2
+1	Friendly
+in Venezuela	+6
+-6	1603
+1524	+1
+-2	53
+76
+February 08
+2007	Guatemala
+Nicaragua	1
+0	UNCAF Cup
+in El Salvador	+2
+-2	1526
+1039	0
+0	74
+181
+February 10
+2007	Guatemala
+Belize	1
+0	UNCAF Cup
+in El Salvador	+2
+-2	1528
+1020	+1
+0	73
+182
+February 12
+2007	El Salvador
+Guatemala	0
+0	UNCAF Cup
+in El Salvador	+3
+-3	1377
+1525	0
+-1	104
+74
+February 16
+2007	Panama
+Guatemala	2
+0	UNCAF Cup
+in El Salvador	+30
+-30	1558
+1495	+10
+-7	63
+82
+February 18
+2007	El Salvador
+Guatemala	0
+1	UNCAF Cup
+in El Salvador	-18
++18	1341
+1513	-5
++5	117
+77
+March 25
+2007	Barbados
+Guatemala	0
+0	Friendly
+in Barbados	+3
+-3	1294
+1510	+3
+-2	131
+80
+March 28
+2007	United States
+Guatemala	0
+0	Friendly
+in the United States	-8
++8	1783
+1518	0
++2	19
+78
+June 07
+2007	United States
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1793
+1513	0
+-1	19
+76
+June 09
+2007	Guatemala
+El Salvador	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1528
+1349	+2
+-2	73
+115
+June 12
+2007	Guatemala
+Trinidad and Tobago	1
+1	Concacaf Gold Cup
+in the United States	-3
++3	1525
+1484	-1
++1	73
+85
+June 16
+2007	Canada
+Guatemala	3
+0	Concacaf Gold Cup
+in the United States	+34
+-34	1641
+1491	+4
+-9	48
+82
+August 22
+2007	Panama
+Guatemala	2
+1	Friendly
+in Panama	+6
+-6	1554
+1485	-2
+-1	66
+80
+October 17
+2007	Guatemala
+Mexico	3
+2	Friendly
+in the United States	+18
+-18	1503
+1863	+2
+-2	78
+13
+November 17
+2007	Honduras
+Guatemala	1
+0	Friendly
+in the United States	+6
+-6	1646
+1497	+1
+-2	44
+79
+November 21
+2007	Jamaica
+Guatemala	2
+0	Friendly
+in Jamaica	+9
+-9	1549
+1488	+3
+-1	67
+81
+April 23
+2008	Guatemala
+Haiti	1
+0	Friendly
+in Guatemala	+8
+-8	1496
+1509	+2
+-3	83
+78
+May 30
+2008	El Salvador
+Guatemala	0
+0	Friendly
+in the United States	+3
+-3	1381
+1493	0
+0	109
+83
+June 01
+2008	Panama
+Guatemala	1
+0	Friendly
+in the United States	+8
+-8	1560
+1485	+3
+-3	63
+87
+June 04
+2008	Chile
+Guatemala	2
+0	Friendly
+in Chile	+4
+-4	1718
+1481	0
+0	37
+87
+June 14
+2008	Guatemala
+Saint Lucia	6
+0	World Cup qualifier
+in Guatemala	+6
+-6	1487
+1127	+3
+-1	84
+173
+June 21
+2008	Guatemala
+Saint Lucia	3
+1	World Cup qualifier
+in the United States	+7
+-7	1494
+1120	0
+-2	82
+175
+July 20
+2008	El Salvador
+Guatemala	0
+0	Friendly
+in the United States	+2
+-2	1415
+1492	0
+0	100
+84
+August 06
+2008	Guatemala
+Bolivia	3
+0	Friendly
+in the United States	+22
+-22	1514
+1554	+4
+-4	79
+62
+August 20
+2008	Guatemala
+United States	0
+1	World Cup qualifier
+in Guatemala	-11
++11	1503
+1795	-1
++2	80
+17
+September 06
+2008	Trinidad and Tobago
+Guatemala	1
+1	World Cup qualifier
+in Trinidad and Tobago	-7
++7	1530
+1510	-3
+-2	74
+83
+September 10
+2008	Guatemala
+Cuba	4
+1	World Cup qualifier
+in Guatemala	+19
+-19	1529
+1425	+8
+-3	75
+97
+October 11
+2008	Guatemala
+Trinidad and Tobago	0
+0	World Cup qualifier
+in Guatemala	-6
++6	1523
+1531	-2
++3	77
+74
+October 15
+2008	Cuba
+Guatemala	2
+1	World Cup qualifier
+in Cuba	+20
+-20	1440
+1503	+4
+-7	93
+85
+November 19
+2008	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+6
+-6	1791
+1497	+1
+-2	18
+87
+January 17
+2009	Guatemala
+Haiti	1
+0	Friendly
+in the United States	+7
+-7	1504
+1394	+5
+0	80
+110
+January 25
+2009	Costa Rica
+Guatemala	3
+1	UNCAF Cup
+in Honduras	+14
+-14	1717
+1490	+3
+-5	37
+86
+January 27
+2009	Panama
+Guatemala	1
+0	UNCAF Cup
+in Honduras	+19
+-19	1527
+1471	+4
+-2	73
+88
+January 29
+2009	Nicaragua
+Guatemala	2
+0	UNCAF Cup
+in Honduras	+55
+-55	1094
+1416	+5
+-16	177
+103
+February 11
+2009	Venezuela
+Guatemala	2
+1	Friendly
+in Venezuela	+3
+-3	1642
+1413	0
+0	47
+103
+June 28
+2009	Guatemala
+Mexico	0
+0	Friendly
+in the United States	+8
+-8	1421
+1758	+2
+-3	100
+26
+June 30
+2009	Canada
+Guatemala	3
+0	Friendly
+in the United States	+11
+-11	1571
+1410	+1
+-2	60
+102
+March 03
+2010	Guatemala
+El Salvador	2
+1	Friendly
+in the United States	+12
+-12	1422
+1484	+5
+-3	101
+89
+May 31
+2010	South Africa
+Guatemala	5
+0	Friendly
+in South Africa	+8
+-8	1570
+1414	+6
+-3	60
+104
+September 04
+2010	Guatemala
+Nicaragua	5
+0	Friendly
+in the United States	+5
+-5	1419
+1073	+1
+0	103
+177
+September 07
+2010	Japan
+Guatemala	2
+1	Friendly
+in Japan	+2
+-2	1757
+1417	-1
++3	23
+100
+September 07
+2010	Guatemala
+El Salvador	2
+0	Friendly
+in the United States	+18
+-18	1435
+1471	+3
+-2	100
+91
+October 09
+2010	Guatemala
+Belize	4
+2	Friendly
+in Guatemala	+2
+-2	1437
+1044	0
+-1	100
+182
+October 12
+2010	Honduras
+Guatemala	2
+0	Friendly
+in the United States	+6
+-6	1669
+1431	+1
+-2	41
+102
+November 17
+2010	Guatemala
+Guyana	3
+0	Friendly
+in the United States	+13
+-13	1444
+1319	+3
+-3	99
+131
+January 16
+2011	Costa Rica
+Guatemala	2
+0	UNCAF Cup
+in Panama	+14
+-14	1664
+1430	+2
+-4	41
+103
+January 18
+2011	Honduras
+Guatemala	3
+1	UNCAF Cup
+in Panama	+13
+-13	1671
+1417	+4
+-2	39
+105
+January 21
+2011	Guatemala
+Nicaragua	2
+1	UNCAF Cup
+in Panama	+5
+-5	1422
+1058	+1
+-1	104
+181
+March 28
+2011	Guatemala
+Bolivia	1
+1	Friendly
+in Guatemala	0
+0	1422
+1538	0
+0	105
+70
+June 01
+2011	Guatemala
+Venezuela	0
+2	Friendly
+in Guatemala	-8
++8	1414
+1708	-3
++2	107
+34
+June 06
+2011	Guatemala
+Honduras	0
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1430
+1654	+5
+-4	99
+45
+June 10
+2011	Jamaica
+Guatemala	2
+0	Concacaf Gold Cup
+in the United States	+17
+-17	1662
+1413	+3
+-6	44
+105
+June 13
+2011	Guatemala
+Grenada	4
+0	Concacaf Gold Cup
+in the United States	+26
+-26	1439
+1225	+6
+-4	98
+150
+June 18
+2011	Mexico
+Guatemala	2
+1	Concacaf Gold Cup
+in the United States	+4
+-4	1888
+1435	0
+0	7
+98
+September 02
+2011	Guatemala
+St. Vincent & Grenadines	4
+0	World Cup qualifier
+in Guatemala	+8
+-8	1443
+1164	-1
+-3	98
+165
+September 06
+2011	Belize
+Guatemala	1
+2	World Cup qualifier
+in Belize	-8
++8	1099
+1451	-3
+0	176
+98
+October 07
+2011	St. Vincent & Grenadines
+Guatemala	0
+3	World Cup qualifier
+in St. Vincent & Grenadines	-19
++19	1163
+1470	-6
++6	166
+92
+October 11
+2011	Guatemala
+Belize	3
+1	World Cup qualifier
+in Guatemala	+3
+-3	1473
+1056	+2
+-1	90
+180
+November 11
+2011	Guatemala
+Grenada	3
+0	World Cup qualifier
+in Guatemala	+7
+-7	1480
+1179	+3
+-4	88
+161
+November 15
+2011	Grenada
+Guatemala	1
+4	World Cup qualifier
+in Grenada	-17
++17	1162
+1497	-3
++1	164
+87
+February 22
+2012	Paraguay
+Guatemala	2
+1	Friendly
+in Paraguay	+2
+-2	1780
+1495	0
+0	20
+86
+February 29
+2012	Guyana
+Guatemala	0
+2	Friendly
+in Guyana	-13
++13	1344
+1508	-3
++3	120
+83
+April 25
+2012	Guatemala
+Paraguay	0
+1	Friendly
+in Guatemala	-5
++5	1503
+1789	-1
+0	85
+18
+May 25
+2012	Costa Rica
+Guatemala	3
+2	Friendly
+in Costa Rica	+4
+-4	1658
+1499	+1
+-1	42
+86
+June 01
+2012	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+12
+-12	1511
+1646	+2
+-5	84
+46
+June 08
+2012	Jamaica
+Guatemala	2
+1	World Cup qualifier
+in Jamaica	+9
+-9	1631
+1502	+4
+-2	48
+85
+June 12
+2012	Guatemala
+United States	1
+1	World Cup qualifier
+in Guatemala	+7
+-7	1509
+1723	+1
+-1	84
+32
+August 11
+2012	El Salvador
+Guatemala	1
+0	Friendly
+in the United States	+9
+-9	1556
+1500	+2
+0	69
+84
+August 15
+2012	Guatemala
+Paraguay	3
+3	Friendly
+in the United States	+6
+-6	1506
+1738	0
+-1	84
+27
+September 07
+2012	Guatemala
+Antigua and Barbuda	3
+1	World Cup qualifier
+in Guatemala	+8
+-8	1514
+1281	+3
+0	80
+140
+September 11
+2012	Antigua and Barbuda
+Guatemala	0
+1	World Cup qualifier
+in Antigua and Barbuda	-13
++13	1268
+1527	-3
++2	143
+78
+October 12
+2012	Guatemala
+Jamaica	2
+1	World Cup qualifier
+in Guatemala	+21
+-21	1548
+1619	+7
+-5	72
+49
+October 16
+2012	United States
+Guatemala	3
+1	World Cup qualifier
+in the United States	+10
+-10	1743
+1538	+2
+-3	26
+75
+November 14
+2012	Paraguay
+Guatemala	3
+1	Friendly
+in Paraguay	+6
+-6	1699
+1532	+3
+0	32
+73
+January 10
+2013	Panama
+Guatemala	3
+0	Friendly
+in Panama	+7
+-7	1671
+1525	+1
+-2	40
+76
+January 13
+2013	Panama
+Guatemala	2
+0	Friendly
+in Panama	+6
+-6	1677
+1519	+1
+-1	39
+78
+January 18
+2013	Guatemala
+Nicaragua	1
+1	UNCAF Cup
+in Costa Rica	-16
++16	1503
+1133	-5
++5	83
+170
+January 20
+2013	Belize
+Guatemala	0
+0	UNCAF Cup
+in Costa Rica	+16
+-16	1118
+1487	+2
+-1	176
+84
+January 22
+2013	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Costa Rica	-13
++13	1640
+1500	-2
+0	46
+84
+January 25
+2013	Panama
+Guatemala	3
+1	UNCAF Cup
+in Costa Rica	+17
+-17	1685
+1483	+3
+-3	37
+86
+February 06
+2013	Colombia
+Guatemala	4
+1	Friendly
+in the United States	+3
+-3	1885
+1480	+1
+-4	8
+89
+June 11
+2013	Guatemala
+Belize	0
+0	Friendly
+in Guatemala	-9
++9	1471
+1147	-3
++3	90
+168
+June 14
+2013	Guatemala
+Argentina	0
+4	Friendly
+in Guatemala	-3
++3	1468
+1980	+1
+0	89
+5
+July 05
+2013	United States
+Guatemala	6
+0	Friendly
+in the United States	+4
+-4	1787
+1464	0
+0	21
+89
+September 06
+2013	Japan
+Guatemala	3
+0	Friendly
+in Japan	+4
+-4	1742
+1460	+3
+-5	24
+94
