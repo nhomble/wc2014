@@ -16,7 +16,7 @@ for file in ${files[@]}; do
 		echo $file
 	fi
 	while read -r LINE; do
-		parse=(`echo $LINE | sed 's/\([a-zA-Z]\)\s\([a-zA-Z]\)/\1\2/g' | awk '{print $2, $7, $8}' | tr " " "\n"`)
+		parse=(`echo $LINE | sed 's/\([a-zA-Z]\)\s\([a-zA-Z]\)/\1\2/g' | awk '{print $2, $7, $8, $3}' | tr " " "\n"`)
 		DATA="data/${parse[0]}DATA.txt"
 		if [ ! -e $DATA ]; then
 			curl $URL'/'${parse[0]}'/' -s | grep "playercard-position\|playercard-rating\|playercard-name" > $DATA 
@@ -99,10 +99,12 @@ for file in ${files[@]}; do
 		fi
 		retOffense=$(echo "$OFFENSE/$OFFENSE_NUM" | bc -l)
 		retDefense=$(echo "$DEFENSE/$DEFENSE_NUM" | bc -l)
+		retGoals=$(echo "${parse[1]}/${parse[3]}" | bc -l)
+		retConceded=$(echo "${parse[2]}/${parse[3]}" | bc -l)
 		if [ $DEBUG = true ]; then
 			echo "club: ${parse[0]} goals: ${parse[1]} conceded: ${parse[2]} OFFENSE: $retOffense DEFENSE: $retDefense"
 		else
-			echo "${parse[0]} ${parse[1]} ${parse[2]} $retOffense $retDefense"
+			echo "${parse[0]} $retGoals $retConceded $retOffense $retDefense"
 		fi
 	done < $file
 done
