@@ -1,0 +1,2205 @@
+August 27
+1939	Slovakia
+Germany	2
+0	Friendly
+in Slovakia	+17
+-17	1617
+1739	-
+-1	26
+15
+December 03
+1939	Germany
+Slovakia	3
+1	Friendly
+in Germany	+5
+-5	1788
+1612	+1
+0	10
+26
+June 06
+1940	Bulgaria
+Slovakia	1
+4	Friendly
+in Bulgaria	-17
++17	1487
+1629	-3
++2	44
+24
+September 15
+1940	Slovakia
+Germany	0
+1	Friendly
+in Slovakia	-9
++9	1620
+1783	-2
++1	26
+12
+September 07
+1941	Slovakia
+Croatia	1
+1	Friendly
+in Slovakia	+2
+-2	1622
+1792	0
+-1	27
+10
+September 28
+1941	Croatia
+Slovakia	5
+2	Friendly
+in Croatia	+6
+-6	1798
+1616	+1
+0	9
+27
+October 12
+1941	Romania
+Slovakia	3
+2	Friendly
+in Romania	+10
+-10	1537
+1606	+1
+-3	38
+30
+December 07
+1941	Germany
+Slovakia	4
+0	Friendly
+in Germany	+6
+-6	1800
+1600	+1
+-1	9
+31
+June 07
+1942	Slovakia
+Croatia	1
+2	Friendly
+in Slovakia	-8
++8	1592
+1794	-1
++1	33
+9
+August 23
+1942	Slovakia
+Romania	1
+0	Friendly
+in Slovakia	+6
+-6	1598
+1527	0
+0	33
+39
+September 06
+1942	Croatia
+Slovakia	6
+1	Friendly
+in Croatia	+6
+-6	1803
+1592	0
+0	9
+33
+November 22
+1942	Slovakia
+Germany	2
+5	Friendly
+in Slovakia	-11
++11	1581
+1847	-2
+0	35
+7
+April 10
+1943	Croatia
+Slovakia	1
+0	Friendly
+in Croatia	+3
+-3	1779
+1578	+1
+0	13
+35
+June 07
+1943	Slovakia
+Croatia	1
+3	Friendly
+in Slovakia	-11
++11	1567
+1790	-1
++2	36
+11
+June 13
+1943	Romania
+Slovakia	2
+2	Friendly
+in Romania	-2
++2	1530
+1569	0
+0	39
+36
+April 09
+1944	Croatia
+Slovakia	7
+3	Friendly
+in Croatia	+5
+-5	1795
+1564	+1
+0	9
+36
+October 14
+1992	Lithuania
+Slovakia	0
+1	Friendly
+in Lithuania	-6
++6	1295
+1570	-2
++1	124
+54
+March 30
+1993	Slovakia
+Lithuania	2
+2	Friendly
+in Slovakia	-8
++8	1562
+1310	-2
+0	55
+124
+November 16
+1993	Slovakia
+Slovenia	2
+0	Friendly
+in Slovakia	+7
+-7	1569
+1461	+2
+-3	54
+87
+February 02
+1994	United Arab Emirates
+Slovakia	0
+1	Friendly tournament
+in United Arab Emirates	-16
++16	1473
+1585	-1
++1	79
+53
+February 04
+1994	Egypt
+Slovakia	1
+0	Friendly tournament
+in United Arab Emirates	+13
+-13	1648
+1572	0
+-1	39
+54
+February 06
+1994	Morocco
+Slovakia	2
+1	Friendly tournament
+in United Arab Emirates	+11
+-11	1668
+1561	+3
+-2	32
+56
+March 30
+1994	Malta
+Slovakia	1
+2	Friendly
+in Malta	-7
++7	1344
+1568	-3
++2	120
+53
+April 20
+1994	Slovakia
+Croatia	4
+1	Friendly
+in Slovakia	+25
+-25	1593
+1799	+3
+-4	51
+19
+May 29
+1994	Russia
+Slovakia	2
+1	Friendly
+in Russia	+3
+-3	1809
+1590	0
+0	17
+50
+August 16
+1994	Slovakia
+Malta	1
+1	Friendly
+in Slovakia	-8
++8	1582
+1359	0
++3	50
+113
+September 07
+1994	Slovakia
+France	0
+0	European Cup qualifier
+in Slovakia	+10
+-10	1592
+1874	+1
++1	48
+8
+October 12
+1994	Israel
+Slovakia	2
+2	European Cup qualifier
+in Israel	-3
++3	1548
+1595	-1
++1	60
+47
+November 12
+1994	Romania
+Slovakia	3
+2	European Cup qualifier
+in Romania	+4
+-4	1870
+1591	+1
+-2	9
+48
+February 22
+1995	Brazil
+Slovakia	5
+0	Friendly
+in Brazil	+2
+-2	2035
+1589	0
+0	1
+47
+March 08
+1995	Slovakia
+Russia	2
+1	Friendly
+in Slovakia	+13
+-13	1602
+1784	+3
+0	44
+22
+March 29
+1995	Slovakia
+Azerbaijan	4
+1	European Cup qualifier
+in Slovakia	+8
+-8	1610
+1338	+3
+-5	42
+123
+April 26
+1995	France
+Slovakia	4
+0	European Cup qualifier
+in France	+9
+-9	1876
+1601	+2
+-6	7
+48
+May 08
+1995	Slovakia
+Czechia	1
+1	Friendly
+in Slovakia	+4
+-4	1605
+1853	+3
+0	45
+10
+June 07
+1995	Poland
+Slovakia	5
+0	European Cup qualifier
+in Poland	+21
+-21	1708
+1584	0
+-1	28
+47
+June 22
+1995	Argentina
+Slovakia	6
+0	Friendly
+in Argentina	+5
+-5	1849
+1579	+2
+-1	10
+49
+June 25
+1995	Peru
+Slovakia	1
+0	Friendly
+in Peru	+8
+-8	1552
+1571	+1
+-2	58
+51
+August 16
+1995	Azerbaijan
+Slovakia	0
+1	European Cup qualifier
+in Turkey	-8
++8	1326
+1579	-1
++2	122
+49
+September 06
+1995	Slovakia
+Israel	1
+0	European Cup qualifier
+in Slovakia	+15
+-15	1594
+1572	+4
+-5	46
+51
+October 11
+1995	Slovakia
+Poland	4
+1	European Cup qualifier
+in Slovakia	+38
+-38	1632
+1684	+7
+-1	39
+29
+November 15
+1995	Slovakia
+Romania	0
+2	European Cup qualifier
+in Slovakia	-23
++23	1609
+1840	-7
++4	46
+12
+December 06
+1995	Lebanon
+Slovakia	2
+1	Friendly
+in Lebanon	+16
+-16	1302
+1593	+3
+-2	130
+47
+January 30
+1996	Bolivia
+Slovakia	2
+0	Friendly
+in Bolivia	+10
+-10	1636
+1583	+3
+-1	37
+49
+March 27
+1996	Slovakia
+Belarus	4
+0	Friendly
+in Slovakia	+7
+-7	1590
+1430	+1
+-3	49
+93
+April 24
+1996	Slovakia
+Bulgaria	0
+0	Friendly
+in Slovakia	+3
+-3	1593
+1785	+1
+-1	48
+21
+May 09
+1996	Sweden
+Slovakia	2
+1	Friendly
+in Sweden	+3
+-3	1829
+1590	0
+-2	18
+49
+May 18
+1996	Mexico
+Slovakia	5
+2	Friendly
+in the United States	+7
+-7	1837
+1583	+3
+-2	15
+51
+August 31
+1996	Faroe Islands
+Slovakia	1
+2	World Cup qualifier
+in Faroe Islands	-5
++5	1121
+1588	0
++3	168
+49
+September 22
+1996	Slovakia
+Malta	6
+0	World Cup qualifier
+in Slovakia	+7
+-7	1595
+1258	+1
+-1	49
+141
+October 23
+1996	Slovakia
+Faroe Islands	3
+0	World Cup qualifier
+in Slovakia	+2
+-2	1597
+1116	+1
+-1	52
+170
+November 13
+1996	Spain
+Slovakia	4
+1	World Cup qualifier
+in Spain	+4
+-4	1968
+1593	0
+0	4
+51
+February 02
+1997	Bolivia
+Slovakia	0
+1	Friendly
+in Bolivia	-14
++14	1645
+1607	-1
++3	36
+49
+February 05
+1997	Costa Rica
+Slovakia	2
+2	Friendly
+in Costa Rica	-1
++1	1547
+1608	0
++1	62
+48
+February 08
+1997	Colombia
+Slovakia	1
+0	Friendly
+in Colombia	+2
+-2	1854
+1606	0
+-1	11
+49
+March 11
+1997	Bulgaria
+Slovakia	0
+1	Friendly
+in Bulgaria	-17
++17	1772
+1623	0
++7	21
+44
+March 31
+1997	Malta
+Slovakia	0
+2	World Cup qualifier
+in Malta	-10
++10	1243
+1633	-5
++3	144
+42
+April 29
+1997	Slovakia
+Iceland	3
+1	Friendly
+in Slovakia	+6
+-6	1639
+1479	+2
+0	43
+78
+June 08
+1997	Yugoslavia
+Slovakia	2
+0	World Cup qualifier
+in Yugoslavia	+6
+-6	1920
+1633	0
+-1	8
+44
+August 06
+1997	Slovakia
+Switzerland	1
+0	Friendly
+in Slovakia	+9
+-9	1642
+1675	+7
+-2	38
+35
+August 24
+1997	Slovakia
+Czechia	2
+1	World Cup qualifier
+in Slovakia	+26
+-26	1668
+1829	+5
+-3	38
+13
+September 10
+1997	Slovakia
+Yugoslavia	1
+1	World Cup qualifier
+in Slovakia	+8
+-8	1676
+1910	+1
+0	38
+8
+September 24
+1997	Slovakia
+Spain	1
+2	World Cup qualifier
+in Slovakia	-9
++9	1667
+2008	0
+0	38
+3
+October 11
+1997	Czechia
+Slovakia	3
+0	World Cup qualifier
+in Czechia	+12
+-12	1845
+1655	+3
+-4	11
+41
+January 28
+1998	Italy
+Slovakia	3
+0	Friendly
+in Italy	+4
+-4	1935
+1651	0
+-2	7
+42
+February 06
+1998	Slovenia
+Slovakia	1
+1	Friendly tournament
+in Cyprus	+7
+-7	1489
+1644	+1
+0	76
+42
+February 07
+1998	Slovakia
+Iceland	2
+1	Friendly tournament
+in Cyprus	+7
+-7	1651
+1432	0
+-1	42
+97
+February 09
+1998	Slovakia
+Finland	2
+0	Friendly tournament
+in Cyprus	+13
+-13	1664
+1483	+5
+-4	38
+76
+March 25
+1998	Northern Ireland
+Slovakia	1
+0	Friendly
+in Northern Ireland	+10
+-10	1561
+1654	+4
+-4	58
+42
+April 15
+1998	Slovakia
+South Korea	0
+0	Friendly
+in Slovakia	0
+0	1654
+1757	0
+0	42
+23
+May 29
+1998	Croatia
+Slovakia	1
+2	Friendly
+in Croatia	-17
++17	1808
+1671	-3
++3	17
+37
+August 19
+1998	Slovakia
+Finland	0
+0	Friendly
+in Slovakia	-6
++6	1665
+1511	-1
++1	36
+68
+September 05
+1998	Slovakia
+Azerbaijan	3
+0	European Cup qualifier
+in Slovakia	+5
+-5	1670
+1309	-1
+-1	37
+128
+October 10
+1998	Liechtenstein
+Slovakia	0
+4	European Cup qualifier
+in Liechtenstein	-4
++4	1042
+1674	-1
+0	182
+36
+October 14
+1998	Slovakia
+Portugal	0
+3	European Cup qualifier
+in Slovakia	-29
++29	1645
+1868	-9
++2	45
+12
+November 10
+1998	Slovakia
+Poland	1
+3	Friendly
+in Slovakia	-17
++17	1628
+1717	-4
++3	50
+26
+March 03
+1999	Bulgaria
+Slovakia	2
+0	Friendly
+in Bulgaria	+11
+-11	1630
+1617	+5
+-6	50
+56
+March 27
+1999	Romania
+Slovakia	0
+0	European Cup qualifier
+in Romania	-14
++14	1815
+1631	-1
++3	16
+52
+March 31
+1999	Slovakia
+Hungary	0
+0	European Cup qualifier
+in Slovakia	-6
++6	1625
+1630	-3
++1	54
+52
+May 19
+1999	Slovakia
+Bulgaria	2
+0	Friendly
+in Slovakia	+12
+-12	1637
+1640	+6
+-1	48
+46
+June 05
+1999	Portugal
+Slovakia	1
+0	European Cup qualifier
+in Portugal	+5
+-5	1881
+1632	+1
+-2	11
+49
+June 09
+1999	Hungary
+Slovakia	0
+1	European Cup qualifier
+in Hungary	-25
++25	1600
+1657	-2
++4	55
+45
+August 18
+1999	Slovakia
+Israel	1
+0	Friendly
+in Slovakia	+9
+-9	1666
+1702	+4
+0	39
+31
+September 04
+1999	Slovakia
+Romania	1
+5	European Cup qualifier
+in Slovakia	-31
++31	1635
+1859	-6
++1	45
+15
+September 08
+1999	Slovakia
+Liechtenstein	2
+0	European Cup qualifier
+in Slovakia	+1
+-1	1636
+1078	0
+0	45
+177
+October 09
+1999	Azerbaijan
+Slovakia	0
+1	European Cup qualifier
+in Azerbaijan	-7
++7	1270
+1643	-2
+0	138
+45
+November 17
+1999	Peru
+Slovakia	2
+1	Friendly
+in Peru	+5
+-5	1717
+1638	+1
+-1	28
+44
+November 19
+1999	Colombia
+Slovakia	1
+0	Friendly
+in Colombia	+4
+-4	1769
+1634	0
+0	22
+44
+November 23
+1999	Guatemala
+Slovakia	0
+1	Friendly
+in Guatemala	-10
++10	1529
+1644	-2
++1	64
+43
+November 25
+1999	Costa Rica
+Slovakia	4
+0	Friendly
+in Costa Rica	+16
+-16	1605
+1628	+3
+-3	51
+46
+February 09
+2000	Bulgaria
+Slovakia	1
+0	Copa Ciudad de Valparaíso
+in Chile	+15
+-15	1643
+1613	0
+-5	46
+51
+February 12
+2000	Australia
+Slovakia	0
+0	Copa Ciudad de Valparaíso
+in Chile	-5
++5	1733
+1618	-1
++1	25
+51
+February 15
+2000	Chile
+Slovakia	0
+2	Copa Ciudad de Valparaíso
+in Chile	-34
++34	1682
+1652	-10
++7	38
+45
+May 24
+2000	Slovakia
+Saudi Arabia	1
+1	Friendly
+in Slovakia	-3
++3	1649
+1644	-1
+0	46
+47
+May 27
+2000	Norway
+Slovakia	2
+0	Friendly
+in Norway	+4
+-4	1873
+1645	+2
+0	11
+46
+May 31
+2000	Russia
+Slovakia	1
+1	Friendly
+in Russia	-6
++6	1766
+1651	0
++1	20
+45
+June 11
+2000	Japan
+Slovakia	1
+1	Kirin Cup
+in Japan	-4
++4	1633
+1655	-2
++3	50
+43
+June 14
+2000	Slovakia
+Bolivia	2
+0	Kirin Cup
+in Japan	+20
+-20	1675
+1593	+4
+-1	39
+55
+August 16
+2000	Slovakia
+Croatia	1
+1	Friendly
+in Slovakia	+3
+-3	1678
+1865	0
++1	39
+10
+September 03
+2000	Slovakia
+Macedonia	2
+0	World Cup qualifier
+in Slovakia	+10
+-10	1688
+1483	+1
+-3	36
+78
+October 07
+2000	Moldova
+Slovakia	0
+1	World Cup qualifier
+in Moldova	-9
++9	1369
+1697	-1
++1	112
+34
+October 11
+2000	Slovakia
+Sweden	0
+0	World Cup qualifier
+in Slovakia	0
+0	1697
+1791	+1
++1	33
+16
+November 15
+2000	Greece
+Slovakia	0
+2	Friendly
+in Greece	-19
++19	1661
+1716	-6
++3	46
+31
+February 27
+2001	Algeria
+Slovakia	1
+1	Friendly
+in Algeria	+2
+-2	1534
+1714	0
+0	65
+32
+March 24
+2001	Turkey
+Slovakia	1
+1	World Cup qualifier
+in Turkey	-6
++6	1722
+1720	0
+0	31
+32
+March 28
+2001	Slovakia
+Azerbaijan	3
+1	World Cup qualifier
+in Slovakia	+2
+-2	1722
+1228	0
+-2	32
+149
+April 25
+2001	Romania
+Slovakia	0
+0	Friendly
+in Romania	-5
++5	1796
+1727	-3
++2	17
+30
+May 29
+2001	Germany
+Slovakia	2
+0	Friendly
+in Germany	+6
+-6	1875
+1721	0
+0	8
+29
+June 02
+2001	Sweden
+Slovakia	2
+0	World Cup qualifier
+in Sweden	+15
+-15	1820
+1706	+2
+-5	14
+33
+June 06
+2001	Azerbaijan
+Slovakia	2
+0	World Cup qualifier
+in Azerbaijan	+54
+-54	1278
+1652	+14
+-13	137
+45
+June 21
+2001	Bosnia and Herzegovina
+Slovakia	1
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1558
+1632	+1
+-5	64
+50
+June 23
+2001	Malaysia
+Slovakia	0
+2	Merdeka Tournament
+in Malaysia	-9
++9	1276
+1641	-1
++4	135
+46
+June 25
+2001	Bahrain
+Slovakia	2
+0	Merdeka Tournament
+in Malaysia	+35
+-35	1448
+1606	+12
+-9	85
+55
+August 15
+2001	Slovakia
+Iran	3
+4	Friendly
+in Slovakia	-10
++10	1596
+1717	-1
++1	56
+29
+September 01
+2001	Slovakia
+Turkey	0
+1	World Cup qualifier
+in Slovakia	-20
++20	1576
+1718	-3
++5	58
+29
+September 05
+2001	Slovakia
+Moldova	4
+2	World Cup qualifier
+in Slovakia	+9
+-9	1585
+1368	+3
+-5	55
+115
+October 07
+2001	Macedonia
+Slovakia	0
+5	World Cup qualifier
+in Macedonia	-38
++38	1429
+1623	-13
++5	98
+50
+February 06
+2002	Iran
+Slovakia	2
+3	Friendly
+in Iran	-15
++15	1721
+1638	-1
++3	29
+45
+March 27
+2002	Austria
+Slovakia	2
+0	Friendly
+in Austria	+11
+-11	1652
+1627	+1
+-4	43
+49
+April 17
+2002	Belgium
+Slovakia	1
+1	Friendly
+in Belgium	-6
++6	1789
+1633	-1
++3	21
+46
+April 29
+2002	Japan
+Slovakia	1
+0	Kirin Cup
+in Japan	+4
+-4	1854
+1629	+1
+-1	9
+47
+May 14
+2002	Slovakia
+Uzbekistan	4
+1	Friendly
+in Slovakia	+7
+-7	1636
+1488	+2
+-3	45
+77
+August 21
+2002	Czechia
+Slovakia	4
+1	Friendly
+in Czechia	+6
+-6	1813
+1630	+2
+-4	15
+47
+September 07
+2002	Turkey
+Slovakia	3
+0	European Cup qualifier
+in Turkey	+10
+-10	1858
+1620	+2
+-3	11
+49
+October 12
+2002	Slovakia
+England	1
+2	European Cup qualifier
+in Slovakia	-9
++9	1611
+1936	-2
+0	51
+6
+November 20
+2002	Slovakia
+Ukraine	1
+1	Friendly
+in Slovakia	-2
++2	1609
+1657	+1
++1	51
+41
+February 12
+2003	Romania
+Slovakia	2
+1	Friendly tournament
+in Cyprus	+9
+-9	1759
+1600	+6
+-5	22
+55
+February 13
+2003	Cyprus
+Slovakia	1
+3	Friendly tournament
+in Cyprus	-19
++19	1431
+1619	-7
++5	96
+50
+March 29
+2003	Macedonia
+Slovakia	0
+2	European Cup qualifier
+in Macedonia	-22
++22	1408
+1641	-6
++4	102
+45
+April 02
+2003	Slovakia
+Liechtenstein	4
+0	European Cup qualifier
+in Slovakia	+1
+-1	1642
+1053	+2
+0	43
+179
+April 30
+2003	Slovakia
+Greece	2
+2	Friendly
+in Slovakia	-2
++2	1640
+1677	-2
++2	45
+38
+June 07
+2003	Slovakia
+Turkey	0
+1	European Cup qualifier
+in Slovakia	-15
++15	1625
+1842	-2
++2	47
+12
+June 11
+2003	England
+Slovakia	2
+1	European Cup qualifier
+in England	+4
+-4	1927
+1621	+1
+-1	5
+49
+August 20
+2003	Colombia
+Slovakia	0
+0	Friendly
+in the United States	-4
++4	1768
+1625	0
+0	21
+49
+September 10
+2003	Slovakia
+Macedonia	1
+1	European Cup qualifier
+in Slovakia	-14
++14	1611
+1434	-3
++3	53
+94
+October 11
+2003	Liechtenstein
+Slovakia	0
+2	European Cup qualifier
+in Liechtenstein	-4
++4	1056
+1615	-1
++1	178
+53
+December 10
+2003	Slovakia
+Kuwait	2
+0	Friendly
+in Cyprus	+12
+-12	1627
+1542	+3
+-2	48
+66
+March 31
+2004	Slovakia
+Austria	1
+1	Friendly
+in Slovakia	-2
++2	1625
+1642	-1
+0	49
+46
+April 28
+2004	Ukraine
+Slovakia	1
+1	Friendly
+in Ukraine	-2
++2	1607
+1627	0
+0	55
+49
+May 29
+2004	Croatia
+Slovakia	1
+0	Friendly
+in Croatia	+4
+-4	1795
+1623	-1
+-2	18
+51
+July 09
+2004	Japan
+Slovakia	3
+1	Kirin Cup
+in Japan	+8
+-8	1798
+1615	0
+0	19
+53
+July 11
+2004	Serbia and Montenegro
+Slovakia	2
+0	Kirin Cup
+in Japan	+18
+-18	1704
+1597	+1
+-5	32
+58
+August 18
+2004	Slovakia
+Luxembourg	3
+1	World Cup qualifier
+in Slovakia	+1
+-1	1598
+1040	0
++1	57
+184
+September 04
+2004	Russia
+Slovakia	1
+1	World Cup qualifier
+in Russia	-13
++13	1747
+1611	+1
++5	27
+52
+September 08
+2004	Slovakia
+Liechtenstein	7
+0	World Cup qualifier
+in Slovakia	+2
+-2	1613
+1032	0
+-1	53
+186
+October 09
+2004	Slovakia
+Latvia	4
+1	World Cup qualifier
+in Slovakia	+14
+-14	1627
+1465	+5
+-2	49
+88
+November 17
+2004	Slovakia
+Slovenia	0
+0	Friendly
+in Slovakia	-3
++3	1624
+1632	-1
+0	48
+46
+November 30
+2004	Slovakia
+Hungary	1
+0	King's Cup
+in Thailand	+13
+-13	1637
+1560	+2
+-7	46
+67
+December 02
+2004	Thailand
+Slovakia	1
+1	King's Cup
+in Thailand	+8
+-8	1352
+1629	+2
+-2	117
+48
+February 09
+2005	Romania
+Slovakia	2
+2	Friendly
+in Cyprus	-4
++4	1785
+1633	0
++1	22
+47
+March 26
+2005	Estonia
+Slovakia	1
+2	World Cup qualifier
+in Estonia	-10
++10	1339
+1643	-4
++1	120
+48
+March 30
+2005	Slovakia
+Portugal	1
+1	World Cup qualifier
+in Slovakia	+7
+-7	1650
+1861	+2
+-1	46
+13
+June 04
+2005	Portugal
+Slovakia	2
+0	World Cup qualifier
+in Portugal	+9
+-9	1870
+1641	+1
+-3	12
+50
+June 08
+2005	Luxembourg
+Slovakia	0
+4	World Cup qualifier
+in Luxembourg	-3
++3	974
+1644	0
+0	191
+50
+August 17
+2005	Liechtenstein
+Slovakia	0
+0	World Cup qualifier
+in Liechtenstein	+17
+-17	1091
+1627	+4
+-3	173
+53
+September 03
+2005	Slovakia
+Germany	2
+0	Friendly
+in Slovakia	+22
+-22	1649
+1867	+6
+-4	47
+12
+September 07
+2005	Latvia
+Slovakia	1
+1	World Cup qualifier
+in Latvia	+6
+-6	1440
+1643	+3
+-3	90
+49
+October 08
+2005	Slovakia
+Estonia	1
+0	World Cup qualifier
+in Slovakia	+5
+-5	1648
+1382	+2
++2	48
+102
+October 12
+2005	Slovakia
+Russia	0
+0	World Cup qualifier
+in Slovakia	-1
++1	1647
+1724	0
+0	48
+34
+November 12
+2005	Spain
+Slovakia	5
+1	World Cup qualifier
+in Spain	+7
+-7	1938
+1640	0
+-2	4
+50
+November 16
+2005	Slovakia
+Spain	1
+1	World Cup qualifier
+in Slovakia	+10
+-10	1650
+1928	+1
+-2	47
+6
+March 01
+2006	France
+Slovakia	1
+2	Friendly
+in France	-18
++18	1928
+1668	-3
++2	6
+44
+May 20
+2006	Slovakia
+Belgium	1
+1	Friendly
+in Slovakia	-3
++3	1665
+1682	-1
++1	47
+41
+August 15
+2006	Slovakia
+Malta	3
+0	Friendly
+in Slovakia	+1
+-1	1666
+1216	0
+-1	45
+150
+September 02
+2006	Slovakia
+Cyprus	6
+1	European Cup qualifier
+in Slovakia	+10
+-10	1676
+1417	0
+0	45
+97
+September 06
+2006	Slovakia
+Czechia	0
+3	European Cup qualifier
+in Slovakia	-30
++30	1646
+1861	-3
++2	48
+11
+October 07
+2006	Wales
+Slovakia	1
+5	European Cup qualifier
+in Wales	-40
++40	1525
+1686	-10
++4	73
+44
+October 11
+2006	Slovakia
+Germany	1
+4	European Cup qualifier
+in Slovakia	-20
++20	1666
+1967	-1
++3	44
+4
+November 15
+2006	Slovakia
+Bulgaria	3
+1	Friendly
+in Slovakia	+13
+-13	1679
+1704	+1
+-5	43
+41
+December 10
+2006	United Arab Emirates
+Slovakia	1
+2	Friendly
+in United Arab Emirates	-7
++7	1474
+1686	0
++1	82
+42
+February 07
+2007	Poland
+Slovakia	2
+2	Friendly
+in Spain	-2
++2	1753
+1688	+1
+0	27
+42
+March 24
+2007	Cyprus
+Slovakia	1
+3	European Cup qualifier
+in Cyprus	-20
++20	1450
+1708	-7
++2	93
+39
+March 28
+2007	Ireland
+Slovakia	1
+0	European Cup qualifier
+in Ireland	+13
+-13	1739
+1695	+4
+-2	31
+41
+June 06
+2007	Germany
+Slovakia	2
+1	European Cup qualifier
+in Germany	+4
+-4	1965
+1691	+1
+0	5
+42
+August 22
+2007	Slovakia
+France	0
+1	Friendly
+in Slovakia	-4
++4	1687
+2037	0
+0	41
+2
+September 08
+2007	Slovakia
+Ireland	2
+2	European Cup qualifier
+in Slovakia	-1
++1	1686
+1764	0
+-1	41
+26
+September 12
+2007	Slovakia
+Wales	2
+5	European Cup qualifier
+in Slovakia	-55
++55	1631
+1611	-8
++9	50
+56
+October 13
+2007	Slovakia
+San Marino	7
+0	European Cup qualifier
+in Slovakia	+1
+-1	1632
+905	-1
+0	51
+196
+October 16
+2007	Croatia
+Slovakia	3
+0	Friendly
+in Croatia	+4
+-4	1889
+1628	0
+0	10
+51
+November 17
+2007	Czechia
+Slovakia	3
+1	European Cup qualifier
+in Czechia	+6
+-6	1906
+1622	0
+-2	9
+50
+November 21
+2007	San Marino
+Slovakia	0
+5	European Cup qualifier
+in San Marino	-2
++2	902
+1624	0
+0	196
+49
+February 06
+2008	Hungary
+Slovakia	1
+1	Friendly
+in Cyprus	+2
+-2	1542
+1622	+1
+0	69
+48
+March 26
+2008	Slovakia
+Iceland	1
+2	Friendly
+in Slovakia	-18
++18	1604
+1396	-5
++3	53
+104
+May 20
+2008	Turkey
+Slovakia	1
+0	Friendly
+in Germany	+5
+-5	1782
+1599	+2
+-2	19
+55
+May 24
+2008	Switzerland
+Slovakia	2
+0	Friendly
+in Switzerland	+5
+-5	1765
+1594	+2
+0	25
+55
+August 20
+2008	Slovakia
+Greece	0
+2	Friendly
+in Slovakia	-13
++13	1581
+1748	-1
++5	56
+26
+September 06
+2008	Slovakia
+Northern Ireland	2
+1	World Cup qualifier
+in Slovakia	+13
+-13	1594
+1545	0
+-5	56
+68
+September 10
+2008	Slovenia
+Slovakia	2
+1	World Cup qualifier
+in Slovenia	+18
+-18	1544
+1576	+10
+-2	67
+58
+October 11
+2008	San Marino
+Slovakia	1
+3	World Cup qualifier
+in San Marino	-2
++2	899
+1578	-1
++1	197
+57
+October 15
+2008	Slovakia
+Poland	2
+1	World Cup qualifier
+in Slovakia	+22
+-22	1600
+1698	+3
+-3	55
+37
+November 19
+2008	Slovakia
+Liechtenstein	4
+0	Friendly
+in Slovakia	+2
+-2	1602
+1160	-1
+-1	55
+165
+February 10
+2009	Ukraine
+Slovakia	3
+2	Friendly tournament
+in Cyprus	+9
+-9	1761
+1593	+3
+0	21
+55
+February 11
+2009	Cyprus
+Slovakia	3
+2	Friendly tournament
+in Cyprus	+15
+-15	1503
+1578	+3
+-3	81
+58
+March 28
+2009	England
+Slovakia	4
+0	Friendly
+in England	+2
+-2	1954
+1576	0
++1	6
+57
+April 01
+2009	Czechia
+Slovakia	1
+2	World Cup qualifier
+in Czechia	-35
++35	1771
+1611	-7
++5	21
+52
+June 06
+2009	Slovakia
+San Marino	7
+0	World Cup qualifier
+in Slovakia	+1
+-1	1612
+892	+1
+0	51
+199
+August 12
+2009	Iceland
+Slovakia	1
+1	Friendly
+in Iceland	+3
+-3	1393
+1609	+2
+0	108
+51
+September 05
+2009	Slovakia
+Czechia	2
+2	World Cup qualifier
+in Slovakia	+4
+-4	1613
+1771	0
+-1	52
+21
+September 09
+2009	Northern Ireland
+Slovakia	0
+2	World Cup qualifier
+in Northern Ireland	-35
++35	1536
+1648	-8
++5	70
+47
+October 10
+2009	Slovakia
+Slovenia	0
+2	World Cup qualifier
+in Slovakia	-44
++44	1604
+1616	-7
++8	54
+50
+October 14
+2009	Poland
+Slovakia	0
+1	World Cup qualifier
+in Poland	-27
++27	1606
+1631	-5
++5	54
+49
+November 14
+2009	Slovakia
+United States	1
+0	Friendly
+in Slovakia	+12
+-12	1643
+1796	+3
+-2	46
+16
+November 17
+2009	Slovakia
+Chile	1
+2	Friendly
+in Slovakia	-7
++7	1636
+1858	-1
+0	47
+11
+March 03
+2010	Slovakia
+Norway	0
+1	Friendly
+in Slovakia	-10
++10	1626
+1732	-1
++4	49
+28
+May 29
+2010	Cameroon
+Slovakia	1
+1	Friendly
+in Austria	-2
++2	1697
+1628	-1
+0	37
+48
+June 05
+2010	Slovakia
+Costa Rica	3
+0	Friendly
+in Slovakia	+16
+-16	1644
+1677	+1
+-2	48
+41
+June 15
+2010	New Zealand
+Slovakia	1
+1	World Cup
+in South Africa	+9
+-9	1547
+1635	+3
+0	72
+48
+June 20
+2010	Paraguay
+Slovakia	2
+0	World Cup
+in South Africa	+30
+-30	1788
+1605	+5
+-5	17
+52
+June 24
+2010	Slovakia
+Italy	3
+2	World Cup
+in South Africa	+49
+-49	1654
+1825	+7
+-4	45
+13
+June 28
+2010	Netherlands
+Slovakia	2
+1	World Cup
+in South Africa	+6
+-6	2051
+1648	0
+-1	3
+46
+August 11
+2010	Slovakia
+Croatia	1
+1	Friendly
+in Slovakia	+3
+-3	1651
+1863	+1
+-1	45
+8
+September 03
+2010	Slovakia
+Macedonia	1
+0	European Cup qualifier
+in Slovakia	+11
+-11	1662
+1563	+2
+-4	43
+63
+September 07
+2010	Russia
+Slovakia	0
+1	European Cup qualifier
+in Russia	-33
++33	1790
+1695	-4
++7	16
+36
+October 08
+2010	Armenia
+Slovakia	3
+1	European Cup qualifier
+in Armenia	+48
+-48	1410
+1647	+13
+-11	105
+46
+October 12
+2010	Slovakia
+Ireland	1
+1	European Cup qualifier
+in Slovakia	-2
++2	1645
+1722	-1
+0	45
+28
+November 17
+2010	Slovakia
+Bosnia and Herzegovina	2
+3	Friendly
+in Slovakia	-14
++14	1631
+1601	-4
++2	49
+55
+February 09
+2011	Luxembourg
+Slovakia	2
+1	Friendly
+in Luxembourg	+19
+-19	1102
+1612	+2
+-4	174
+53
+March 26
+2011	Andorra
+Slovakia	0
+1	European Cup qualifier
+in Andorra	-2
++2	989
+1614	0
+-2	189
+54
+March 29
+2011	Slovakia
+Denmark	1
+2	Friendly
+in Slovakia	-10
++10	1604
+1715	-2
++2	56
+32
+June 04
+2011	Slovakia
+Andorra	1
+0	European Cup qualifier
+in Slovakia	+1
+-1	1605
+988	0
+0	55
+188
+August 10
+2011	Austria
+Slovakia	1
+2	Friendly
+in Austria	-11
++11	1525
+1616	-1
++3	73
+54
+September 02
+2011	Ireland
+Slovakia	0
+0	European Cup qualifier
+in Ireland	-13
++13	1759
+1629	-3
+0	23
+54
+September 06
+2011	Slovakia
+Armenia	0
+4	European Cup qualifier
+in Slovakia	-64
++64	1565
+1481	-12
++13	65
+88
+October 07
+2011	Slovakia
+Russia	0
+1	European Cup qualifier
+in Slovakia	-14
++14	1551
+1785	-5
++2	70
+18
+October 11
+2011	Macedonia
+Slovakia	1
+1	European Cup qualifier
+in Macedonia	-2
++2	1479
+1553	0
+-1	88
+71
+February 29
+2012	Turkey
+Slovakia	1
+2	Friendly
+in Turkey	-16
++16	1703
+1569	-2
++6	34
+64
+May 26
+2012	Poland
+Slovakia	1
+0	Friendly
+in Austria	+7
+-7	1697
+1562	+2
+-3	34
+67
+May 30
+2012	Netherlands
+Slovakia	2
+0	Friendly
+in the Netherlands	+1
+-1	2035
+1561	0
+0	3
+67
+August 15
+2012	Denmark
+Slovakia	1
+3	Friendly
+in Denmark	-26
++26	1767
+1587	-4
++7	21
+61
+September 07
+2012	Lithuania
+Slovakia	1
+1	World Cup qualifier
+in Lithuania	+3
+-3	1446
+1584	0
+-1	96
+62
+September 11
+2012	Slovakia
+Liechtenstein	2
+0	World Cup qualifier
+in Slovakia	+3
+-3	1587
+1189	+1
+0	61
+157
+October 12
+2012	Slovakia
+Latvia	2
+1	World Cup qualifier
+in Slovakia	+10
+-10	1597
+1482	+6
+-3	55
+86
+October 16
+2012	Slovakia
+Greece	0
+1	World Cup qualifier
+in Slovakia	-16
++16	1581
+1788	-8
++1	63
+21
+November 14
+2012	Czechia
+Slovakia	3
+0	Friendly
+in Czechia	+6
+-6	1747
+1575	+1
++1	26
+62
+February 06
+2013	Belgium
+Slovakia	2
+1	Friendly
+in Belgium	+3
+-3	1762
+1572	0
++2	23
+61
+March 22
+2013	Slovakia
+Lithuania	1
+1	World Cup qualifier
+in Slovakia	-12
++12	1560
+1454	-6
++1	68
+96
+March 26
+2013	Slovakia
+Sweden	0
+0	Friendly
+in Slovakia	+5
+-5	1565
+1851	+2
+-1	65
+14
+June 07
+2013	Liechtenstein
+Slovakia	1
+1	World Cup qualifier
+in Liechtenstein	+14
+-14	1175
+1551	+1
+-2	162
+67
+August 14
+2013	Romania
+Slovakia	1
+1	Friendly
+in Romania	-6
++6	1708
+1557	0
++3	30
+67
+September 06
+2013	Bosnia and Herzegovina
+Slovakia	0
+1	World Cup qualifier
+in Bosnia and Herzegovina	-34
++34	1737
+1591	-1
++11	25
+57
+September 10
+2013	Slovakia
+Bosnia and Herzegovina	1
+2	World Cup qualifier
+in Slovakia	-17
++17	1574
+1754	-4
++2	61
+23
+October 11
+2013	Greece
+Slovakia	1
+0	World Cup qualifier
+in Greece	+5
+-5	1801
+1569	0
+0	20
+61
+October 15
+2013	Latvia
+Slovakia	2
+2	World Cup qualifier
+in Latvia	+2
+-2	1437
+1567	+2
+-1	96
+62
+November 15
+2013	Poland
+Slovakia	0
+2	Friendly
+in Poland	-22
++22	1608
+1589	-6
++5	54
+57
+November 19
+2013	Gibraltar
+Slovakia	0
+0	Friendly
+in Portugal	+9
+-9	1118
+1580	+2
+-3	175
+61
+March 05
+2014	Israel
+Slovakia	1
+3	Friendly
+in Israel	-21
++21	1597
+1601	-3
++6	55
+54

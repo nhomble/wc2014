@@ -1,0 +1,4995 @@
+January 1
+1923	Trinidad and Tobago
+Guyana	1
+1	Friendly tournament
+in Trinidad and Tobago	-12
++12	1488
+1212	-
+-	35
+45
+
+1923	Trinidad and Tobago
+Guyana	1
+0	Friendly tournament
+in Trinidad and Tobago	+3
+-3	1491
+1209	-
+-	35
+45
+
+1923	Trinidad and Tobago
+Guyana	2
+0	Friendly tournament
+in Trinidad and Tobago	+4
+-4	1495
+1205	-
+-	35
+45
+
+1929	Trinidad and Tobago
+Guyana	0
+0	Friendly tournament
+in Trinidad and Tobago	-12
++12	1483
+1217	-6
+0	45
+59
+
+1929	Trinidad and Tobago
+Guyana	0
+1	Friendly tournament
+in Trinidad and Tobago	-27
++27	1456
+1244	-6
+0	45
+59
+
+1929	Trinidad and Tobago
+Guyana	3
+1	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1462
+1238	-6
+0	45
+59
+
+1929	Trinidad and Tobago
+Guyana	1
+1	Friendly tournament
+in Trinidad and Tobago	-11
++11	1451
+1249	-6
+0	45
+59
+
+1929	Trinidad and Tobago
+Guyana	0
+1	Friendly tournament
+in Trinidad and Tobago	-26
++26	1425
+1275	-6
+0	45
+59
+April 20
+1929	Barbados
+Trinidad and Tobago	3
+0	Friendly
+in Barbados	+19
+-19	1319
+1406	-
+-2	57
+47
+April 22
+1929	Barbados
+Trinidad and Tobago	2
+0	Friendly
+in Barbados	+14
+-14	1333
+1392	0
+-2	57
+48
+April 24
+1929	Barbados
+Trinidad and Tobago	3
+1	Friendly
+in Barbados	+13
+-13	1346
+1379	0
+-3	57
+51
+
+1931	Guyana
+Trinidad and Tobago	1
+1	Friendly tournament
+in Guyana	0
+0	1275
+1379	0
+-3	61
+53
+
+1931	Guyana
+Trinidad and Tobago	2
+0	Friendly tournament
+in Guyana	+23
+-23	1298
+1356	0
+-3	61
+53
+March 06
+1931	Trinidad and Tobago
+Barbados	5
+1	Friendly tournament
+in Guyana	+28
+-28	1384
+1323	+4
+-2	50
+58
+March 09
+1931	Trinidad and Tobago
+Barbados	7
+1	Friendly tournament
+in Guyana	+24
+-24	1408
+1272	+3
+0	47
+62
+April 15
+1932	Guyana
+Trinidad and Tobago	1
+0	Friendly tournament
+in Barbados	+18
+-18	1365
+1390	+3
+-2	54
+52
+April 17
+1932	Barbados
+Trinidad and Tobago	1
+0	Friendly tournament
+in Barbados	+17
+-17	1267
+1373	0
+-1	62
+53
+April 23
+1932	Trinidad and Tobago
+Guyana	2
+1	Friendly tournament
+in Barbados	+15
+-15	1388
+1364	+2
+-1	52
+54
+April 26
+1932	Barbados
+Trinidad and Tobago	1
+3	Friendly tournament
+in Barbados	-20
++20	1233
+1408	-1
++2	63
+50
+October 23
+1933	Trinidad and Tobago
+Barbados	8
+4	Friendly
+in Trinidad and Tobago	+6
+-6	1414
+1227	+1
+0	48
+63
+October 24
+1933	Trinidad and Tobago
+Guyana	2
+0	Friendly
+in Trinidad and Tobago	+9
+-9	1423
+1355	+2
+0	46
+54
+October 27
+1933	Trinidad and Tobago
+Guyana	1
+1	Friendly tournament
+in Trinidad and Tobago	-6
++6	1417
+1376	-1
+0	47
+53
+October 30
+1933	Trinidad and Tobago
+Guyana	1
+0	Friendly tournament
+in Trinidad and Tobago	+9
+-9	1426
+1367	+1
+-1	46
+54
+November 02
+1933	Trinidad and Tobago
+Barbados	3
+1	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1432
+1206	+1
+0	45
+63
+November 07
+1933	Trinidad and Tobago
+Barbados	6
+0	Friendly tournament
+in Trinidad and Tobago	+8
+-8	1440
+1183	+1
+0	44
+65
+August 06
+1934	Trinidad and Tobago
+Dutch Guiana	3
+3	Friendly
+in Trinidad and Tobago	-4
++4	1436
+1378	0
++1	44
+54
+
+1935	Trinidad and Tobago
+Dutch Guiana	3
+0	Friendly
+in Trinidad and Tobago	+10
+-10	1446
+1368	0
+-2	43
+56
+December 28
+1935	Jamaica
+Trinidad and Tobago	2
+3	Friendly tournament
+in Jamaica	-18
++18	1398
+1464	-3
++1	50
+42
+January 02
+1936	Jamaica
+Trinidad and Tobago	0
+1	Friendly tournament
+in Jamaica	-16
++16	1382
+1480	-1
+0	51
+42
+January 09
+1936	Jamaica
+Trinidad and Tobago	1
+2	Friendly tournament
+in Jamaica	-15
++15	1367
+1495	-3
++2	54
+40
+January
+1937	Trinidad and Tobago
+Guyana	3
+0	Friendly tournament
+in Dutch Guiana	+18
+-18	1513
+1364	+3
+-5	37
+56
+January
+1937	Trinidad and Tobago
+Guyana	3
+2	Friendly tournament
+in Dutch Guiana	+9
+-9	1522
+1355	+3
+-5	37
+56
+January
+1937	Dutch Guiana
+Trinidad and Tobago	4
+4	Friendly tournament
+in Dutch Guiana	+1
+-1	1389
+1521	+1
++3	48
+37
+January
+1937	Dutch Guiana
+Trinidad and Tobago	2
+2	Friendly tournament
+in Dutch Guiana	+1
+-1	1390
+1520	+1
++3	48
+37
+January
+1937	Dutch Guiana
+Trinidad and Tobago	3
+3	Friendly tournament
+in Dutch Guiana	+1
+-1	1391
+1519	+1
++3	48
+37
+April 11
+1942	Barbados
+Trinidad and Tobago	3
+3	Friendly
+in Barbados	+6
+-6	1191
+1513	+1
+0	79
+40
+
+1944	Barbados
+Trinidad and Tobago	1
+1	Friendly
+in Barbados	+6
+-6	1197
+1507	0
+0	79
+40
+
+1944	Barbados
+Trinidad and Tobago	1
+1	Friendly
+in Barbados	+5
+-5	1202
+1502	0
+0	79
+40
+
+1944	Barbados
+Trinidad and Tobago	1
+4	Friendly
+in Barbados	-8
++8	1194
+1510	0
+0	79
+40
+
+1944	Trinidad and Tobago
+Barbados	5
+0	Friendly
+in Trinidad and Tobago	+3
+-3	1513
+1191	0
+0	40
+79
+May 17
+1944	Trinidad and Tobago
+Cuba	0
+0	Friendly
+in Trinidad and Tobago	-3
++3	1510
+1508	0
+0	40
+41
+May 19
+1944	Trinidad and Tobago
+Cuba	1
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1517
+1501	0
+0	40
+41
+October 04
+1944	Trinidad and Tobago
+Guyana	1
+1	Friendly tournament
+in Trinidad and Tobago	-10
++10	1507
+1365	0
++1	40
+60
+October 05
+1944	Trinidad and Tobago
+Barbados	3
+0	Friendly tournament
+in Trinidad and Tobago	+4
+-4	1511
+1187	0
+0	40
+79
+October 10
+1944	Trinidad and Tobago
+Barbados	6
+1	Friendly tournament
+in Trinidad and Tobago	+4
+-4	1515
+1169	0
+0	40
+80
+October 11
+1944	Trinidad and Tobago
+Guyana	3
+0	Friendly tournament
+in Trinidad and Tobago	+11
+-11	1526
+1368	0
+0	40
+60
+October 16
+1944	Trinidad and Tobago
+Guyana	3
+0	Friendly tournament
+in Trinidad and Tobago	+10
+-10	1536
+1365	+2
+0	38
+60
+February 11
+1947	Jamaica
+Trinidad and Tobago	0
+0	Friendly tournament
+in Jamaica	+5
+-5	1316
+1531	0
+-1	69
+39
+February 15
+1947	Jamaica
+Trinidad and Tobago	2
+1	Friendly tournament
+in Jamaica	+20
+-20	1336
+1511	0
+-3	69
+42
+February 19
+1947	Jamaica
+Trinidad and Tobago	1
+0	Friendly tournament
+in Jamaica	+18
+-18	1354
+1493	+3
+-4	66
+46
+February 22
+1947	Jamaica
+Trinidad and Tobago	1
+2	Friendly tournament
+in Jamaica	-13
++13	1341
+1506	-3
++3	69
+43
+February 26
+1947	Jamaica
+Trinidad and Tobago	0
+6	Friendly tournament
+in Jamaica	-26
++26	1315
+1532	0
++4	69
+39
+November 03
+1947	Trinidad and Tobago
+Jamaica	1
+0	Friendly tournament
+in Trinidad and Tobago	+4
+-4	1536
+1311	0
+0	40
+70
+November 08
+1947	Trinidad and Tobago
+Jamaica	6
+0	Friendly tournament
+in Trinidad and Tobago	+8
+-8	1544
+1284	+1
+-1	39
+74
+November 12
+1947	Trinidad and Tobago
+Jamaica	1
+0	Friendly tournament
+in Trinidad and Tobago	+3
+-3	1547
+1285	+1
+-1	38
+74
+
+1948	Dutch Guiana
+Trinidad and Tobago	1
+0	Friendly tournament
+in Dutch Guiana	+21
+-21	1315
+1526	0
+-9	72
+46
+
+1948	Dutch Guiana
+Trinidad and Tobago	0
+0	Friendly tournament
+in Dutch Guiana	+5
+-5	1320
+1521	0
+-9	72
+46
+
+1948	Dutch Guiana
+Trinidad and Tobago	0
+2	Friendly tournament
+in Dutch Guiana	-16
++16	1304
+1537	0
+-9	72
+46
+
+1948	Trinidad and Tobago
+Haiti	2
+2	Friendly tournament
+in Trinidad and Tobago	-9
++9	1528
+1389	-9
++11	46
+51
+
+1948	Trinidad and Tobago
+Haiti	3
+2	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1534
+1383	-9
++11	46
+51
+
+1948	Trinidad and Tobago
+Haiti	0
+5	Friendly tournament
+in Trinidad and Tobago	-49
++49	1485
+1432	-9
++11	46
+51
+
+1948	Jamaica
+Trinidad and Tobago	3
+1	Friendly tournament
+in Jamaica	+29
+-29	1314
+1456	+1
+-9	73
+46
+
+1948	Jamaica
+Trinidad and Tobago	1
+2	Friendly tournament
+in Jamaica	-13
++13	1301
+1469	+1
+-9	73
+46
+April
+1949	Haiti
+Trinidad and Tobago	2
+2	Friendly tournament
+in Haiti	-2
++2	1411
+1471	0
+-1	59
+50
+April
+1949	Haiti
+Trinidad and Tobago	2
+3	Friendly tournament
+in Haiti	-17
++17	1394
+1488	0
+-1	59
+50
+April
+1949	Haiti
+Trinidad and Tobago	5
+0	Friendly tournament
+in Haiti	+29
+-29	1423
+1459	0
+-1	59
+50
+May
+1949	Puerto Rico
+Trinidad and Tobago	2
+8	Friendly tournament
+in Puerto Rico	-6
++6	953
+1465	0
++1	95
+49
+May
+1949	Puerto Rico
+Trinidad and Tobago	0
+7	Friendly tournament
+in Puerto Rico	-6
++6	947
+1471	0
++1	95
+49
+May 02
+1949	Jamaica
+Trinidad and Tobago	3
+1	Friendly tournament
+in Jamaica	+23
+-23	1382
+1448	+3
+-2	66
+51
+May 04
+1949	Jamaica
+Trinidad and Tobago	2
+1	Friendly tournament
+in Jamaica	+14
+-14	1396
+1434	+2
+-2	64
+53
+May 07
+1949	Jamaica
+Trinidad and Tobago	1
+2	Friendly tournament
+in Jamaica	-18
++18	1378
+1452	-3
++3	66
+51
+
+1950	Guyana
+Trinidad and Tobago	0
+1	Friendly tournament
+in Guyana	-16
++16	1364
+1468	-1
++4	70
+47
+
+1950	Guyana
+Trinidad and Tobago	1
+4	Friendly tournament
+in Guyana	-26
++26	1338
+1494	-1
++4	70
+47
+
+1950	Guyana
+Trinidad and Tobago	1
+0	Friendly tournament
+in Guyana	+17
+-17	1355
+1477	-1
++4	70
+47
+
+1950	Guadeloupe
+Trinidad and Tobago	0
+1	Friendly tournament
+in Guadeloupe	-16
++16	1384
+1493	-
++4	67
+47
+
+1955	Dutch Guiana
+Trinidad and Tobago	5
+2	Friendly tournament
+in Dutch Guiana	+36
+-36	1301
+1457	+15
+-16	84
+69
+
+1955	Dutch Guiana
+Trinidad and Tobago	3
+1	Friendly tournament
+in Dutch Guiana	+26
+-26	1327
+1431	+15
+-16	84
+69
+
+1955	Dutch Guiana
+Trinidad and Tobago	3
+0	Friendly tournament
+in Dutch Guiana	+27
+-27	1354
+1404	+15
+-16	84
+69
+
+1957	Jamaica
+Trinidad and Tobago	1
+0	Friendly
+in Jamaica	+10
+-10	1309
+1394	+6
+-9	90
+79
+
+1957	Jamaica
+Trinidad and Tobago	2
+1	Friendly
+in Jamaica	+10
+-10	1319
+1384	+6
+-9	90
+79
+
+1957	Jamaica
+Trinidad and Tobago	2
+0	Friendly
+in Jamaica	+13
+-13	1332
+1371	+6
+-9	90
+79
+May 04
+1958	Trinidad and Tobago
+Jamaica	1
+0	Friendly tournament
+in Trinidad and Tobago	+9
+-9	1380
+1323	0
+-1	85
+95
+May 11
+1958	Trinidad and Tobago
+Jamaica	4
+0	Friendly tournament
+in Trinidad and Tobago	+16
+-16	1396
+1307	+7
+-4	78
+99
+May 13
+1958	Trinidad and Tobago
+Jamaica	0
+1	Friendly tournament
+in Trinidad and Tobago	-22
++22	1374
+1329	-7
++5	85
+94
+March 02
+1959	Trinidad and Tobago
+Barbados	2
+0	Friendly tournament
+in Trinidad and Tobago	+8
+-8	1382
+1193	+1
+-1	83
+115
+March 05
+1959	Trinidad and Tobago
+Guyana	2
+1	Friendly tournament
+in Trinidad and Tobago	+10
+-10	1392
+1344	+3
+-5	80
+93
+March 10
+1959	Trinidad and Tobago
+Jamaica	2
+1	Friendly tournament
+in Trinidad and Tobago	+9
+-9	1401
+1335	+4
+0	76
+93
+February 07
+1965	Trinidad and Tobago
+Dutch Guiana	4
+1	World Cup qualifier
+in Trinidad and Tobago	+29
+-29	1430
+1408	+8
+-9	82
+88
+February 21
+1965	Costa Rica
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Costa Rica	+6
+-6	1761
+1424	+2
+-2	21
+84
+February 22
+1965	Costa Rica
+Trinidad and Tobago	1
+0	Friendly
+in Costa Rica	+1
+-1	1762
+1423	0
+0	21
+84
+March 07
+1965	Trinidad and Tobago
+Costa Rica	0
+1	World Cup qualifier
+in Trinidad and Tobago	-8
++8	1415
+1781	0
++3	84
+17
+March 14
+1965	Dutch Guiana
+Trinidad and Tobago	6
+1	World Cup qualifier
+in Dutch Guiana	+31
+-31	1425
+1384	+7
+-9	84
+93
+August 05
+1965	Jamaica
+Trinidad and Tobago	4
+0	Friendly
+in Jamaica	+19
+-19	1304
+1365	+9
+-8	111
+97
+June
+1966	Trinidad and Tobago
+Jamaica	4
+1	Friendly tournament
+in Haiti	+22
+-22	1387
+1282	+9
+-7	87
+121
+January 18
+1967	Jamaica
+Trinidad and Tobago	1
+1	Friendly
+in Jamaica	+2
+-2	1218
+1385	0
+-2	132
+90
+March 06
+1967	Trinidad and Tobago
+Haiti	3
+2	Concacaf Championship
+in Honduras	+25
+-25	1410
+1356	+3
+-8	87
+102
+March 09
+1967	Trinidad and Tobago
+Nicaragua	3
+1	Concacaf Championship
+in Honduras	+7
+-7	1417
+997	+1
+0	86
+157
+March 12
+1967	Mexico
+Trinidad and Tobago	4
+0	Concacaf Championship
+in Honduras	+13
+-13	1749
+1404	+1
+-1	19
+87
+March 15
+1967	Honduras
+Trinidad and Tobago	1
+0	Concacaf Championship
+in Honduras	+19
+-19	1401
+1385	+7
+-4	87
+91
+March 19
+1967	Guatemala
+Trinidad and Tobago	2
+0	Concacaf Championship
+in Honduras	+21
+-21	1572
+1364	+4
+-10	45
+101
+May 21
+1967	Trinidad and Tobago
+Dutch Guiana	1
+0	Olympic Games qualifier
+in Trinidad and Tobago	+18
+-18	1382
+1407	+5
+-2	95
+86
+May 27
+1967	Dutch Guiana
+Trinidad and Tobago	5
+2	Olympic Games qualifier
+in Dutch Guiana	+23
+-23	1430
+1359	+6
+-6	80
+101
+November 25
+1967	Trinidad and Tobago
+Jamaica	1
+0	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1365
+1212	+2
+0	95
+131
+December 02
+1967	Trinidad and Tobago
+Jamaica	1
+0	Friendly tournament
+in Trinidad and Tobago	+6
+-6	1371
+1206	+2
+0	93
+131
+March 05
+1968	Netherlands Antilles
+Trinidad and Tobago	3
+0	Olympic Games qualifier
+in the Netherlands Antilles	+16
+-16	1497
+1355	+2
+-6	65
+101
+March 07
+1968	Trinidad and Tobago
+Netherlands Antilles	4
+0	Olympic Games qualifier
+in Trinidad and Tobago	+42
+-42	1397
+1455	+13
+-10	88
+75
+March 10
+1968	El Salvador
+Trinidad and Tobago	2
+0	Olympic Games qualifier
+in El Salvador	+16
+-16	1493
+1381	+3
+-4	66
+92
+March 12
+1968	Trinidad and Tobago
+El Salvador	1
+2	Olympic Games qualifier
+in Trinidad and Tobago	-19
++19	1362
+1512	-6
++4	98
+62
+November 17
+1968	Guatemala
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Guatemala	+10
+-10	1591
+1352	+3
+-3	42
+101
+November 20
+1968	Guatemala
+Trinidad and Tobago	0
+0	World Cup qualifier
+in Guatemala	-15
++15	1576
+1367	-3
++6	45
+95
+November 23
+1968	Haiti
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Haiti	+27
+-27	1392
+1340	+10
+-9	88
+104
+November 25
+1968	Haiti
+Trinidad and Tobago	2
+4	World Cup qualifier
+in Haiti	-42
++42	1350
+1382	-13
++12	101
+92
+November 28
+1969	Netherlands Antilles
+Trinidad and Tobago	3
+1	Concacaf Championship
+in Costa Rica	+34
+-34	1453
+1348	+7
+-11	79
+102
+December 01
+1969	Guatemala
+Trinidad and Tobago	2
+0	Concacaf Championship
+in Costa Rica	+22
+-22	1522
+1326	+4
+-4	60
+106
+December 03
+1969	Trinidad and Tobago
+Jamaica	3
+2	Concacaf Championship
+in Costa Rica	+16
+-16	1342
+1178	+3
+-1	103
+137
+December 05
+1969	Costa Rica
+Trinidad and Tobago	5
+0	Concacaf Championship
+in Costa Rica	+9
+-9	1661
+1333	+1
+-3	34
+106
+December 08
+1969	Mexico
+Trinidad and Tobago	0
+0	Concacaf Championship
+in Costa Rica	-18
++18	1634
+1351	0
++7	35
+100
+November 13
+1971	Venezuela
+Trinidad and Tobago	1
+0	Friendly
+in Venezuela	+8
+-8	1345
+1343	+2
+-3	102
+103
+November 20
+1971	Trinidad and Tobago
+Cuba	2
+2	Concacaf Championship
+in Trinidad and Tobago	-15
++15	1328
+1222	-3
++5	106
+128
+November 26
+1971	Trinidad and Tobago
+Mexico	0
+2	Concacaf Championship
+in Trinidad and Tobago	-15
++15	1313
+1690	-1
+0	107
+31
+November 29
+1971	Trinidad and Tobago
+Costa Rica	3
+1	Concacaf Championship
+in Trinidad and Tobago	+61
+-61	1374
+1606	+13
+-9	94
+41
+December 01
+1971	Trinidad and Tobago
+Honduras	1
+1	Concacaf Championship
+in Trinidad and Tobago	-9
++9	1365
+1348	0
++4	94
+100
+December 05
+1971	Trinidad and Tobago
+Haiti	0
+6	Concacaf Championship
+in Trinidad and Tobago	-44
++44	1321
+1568	-13
++6	107
+51
+November 10
+1972	Trinidad and Tobago
+Antigua and Barbuda	11
+1	World Cup qualifier
+in Trinidad and Tobago	+23
+-23	1344
+1181	+4
+-5	105
+144
+November 19
+1972	Antigua and Barbuda
+Trinidad and Tobago	1
+2	World Cup qualifier
+in Antigua and Barbuda	-16
++16	1165
+1360	-3
++6	147
+98
+November 28
+1972	Trinidad and Tobago
+Dutch Guiana	2
+1	World Cup qualifier
+in Trinidad and Tobago	+17
+-17	1377
+1396	+5
+-5	94
+87
+November 30
+1972	Dutch Guiana
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Dutch Guiana	-7
++7	1389
+1384	-1
++2	88
+92
+November 29
+1973	Honduras
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Haiti	+20
+-20	1406
+1364	+4
+-7	86
+98
+December 04
+1973	Haiti
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Haiti	+6
+-6	1572
+1358	0
+-2	47
+100
+December 10
+1973	Trinidad and Tobago
+Guatemala	1
+0	World Cup qualifier
+in Haiti	+32
+-32	1390
+1557	+12
+-9	88
+53
+December 14
+1973	Trinidad and Tobago
+Mexico	4
+0	World Cup qualifier
+in Haiti	+66
+-66	1456
+1662	+17
+-6	71
+31
+December 17
+1973	Trinidad and Tobago
+Netherlands Antilles	4
+0	World Cup qualifier
+in Haiti	+30
+-30	1486
+1359	+2
+-10	69
+99
+March 02
+1974	Trinidad and Tobago
+Barbados	1
+0	Central American and Caribbean Games
+in Dominican Republic	+5
+-5	1491
+1124	+1
+-1	68
+151
+March 04
+1974	Cuba
+Trinidad and Tobago	1
+0	Central American and Caribbean Games
+in Dominican Republic	+30
+-30	1336
+1461	+8
+-3	107
+71
+March 06
+1974	Trinidad and Tobago
+Puerto Rico	4
+0	Central American and Caribbean Games
+in Dominican Republic	+3
+-3	1464
+893	+1
+0	70
+171
+March 08
+1974	Trinidad and Tobago
+Nicaragua	3
+0	Central American and Caribbean Games
+in Dominican Republic	+4
+-4	1468
+994	+1
+0	69
+166
+March 12
+1974	Cuba
+Trinidad and Tobago	1
+1	Central American and Caribbean Games
+in Dominican Republic	+5
+-5	1380
+1463	+2
+-1	93
+70
+March 13
+1975	Barbados
+Trinidad and Tobago	1
+1	Olympic Games qualifier
+in Barbados	+11
+-11	1161
+1452	+2
+-2	147
+72
+March 20
+1975	Trinidad and Tobago
+Barbados	0
+0	Olympic Games qualifier
+in Trinidad and Tobago	-16
++16	1436
+1177	-6
++5	78
+142
+March 27
+1975	Trinidad and Tobago
+Barbados	3
+1	Olympic Games qualifier
+in Trinidad and Tobago	+7
+-7	1443
+1170	+4
+-4	74
+146
+April 20
+1975	Surinam
+Trinidad and Tobago	2
+0	Olympic Games qualifier
+in Surinam	+22
+-22	1463
+1421	+4
+-8	71
+82
+April 27
+1975	Trinidad and Tobago
+Surinam	1
+1	Olympic Games qualifier
+in Trinidad and Tobago	-3
++3	1418
+1466	+1
+0	81
+71
+August 15
+1976	Barbados
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Barbados	+28
+-28	1198
+1390	+3
+-6	140
+84
+August 31
+1976	Trinidad and Tobago
+Barbados	1
+0	World Cup qualifier
+in Trinidad and Tobago	+6
+-6	1396
+1192	+1
+-1	85
+141
+September 14
+1976	Barbados
+Trinidad and Tobago	1
+3	World Cup qualifier
+in Barbados	-21
++21	1171
+1417	-2
++7	143
+78
+November 14
+1976	Surinam
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Surinam	-5
++5	1401
+1422	-2
+0	86
+79
+November 28
+1976	Trinidad and Tobago
+Surinam	2
+2	World Cup qualifier
+in Trinidad and Tobago	-7
++7	1415
+1408	-1
++2	81
+83
+December 18
+1976	Surinam
+Trinidad and Tobago	3
+2	World Cup qualifier
+in French Guiana	+20
+-20	1428
+1395	+6
+-7	77
+88
+September 11
+1977	Trinidad and Tobago
+Canada	1
+1	Friendly
+in Trinidad and Tobago	-1
++1	1394
+1466	0
+0	91
+74
+November 11
+1979	Haiti
+Trinidad and Tobago	1
+0	CFU Championship
+in Surinam	+9
+-9	1608
+1385	0
+-1	45
+92
+November 15
+1979	Surinam
+Trinidad and Tobago	3
+0	CFU Championship
+in Surinam	+25
+-25	1410
+1360	+7
+-8	85
+100
+November 18
+1979	St. Vincent & Grenadines
+Trinidad and Tobago	2
+1	CFU Championship
+in Surinam	+24
+-24	1312
+1336	+9
+-5	111
+105
+August 01
+1980	Haiti
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Haiti	+6
+-6	1629
+1330	+3
+-1	40
+107
+August 17
+1980	Trinidad and Tobago
+Haiti	1
+0	World Cup qualifier
+in Trinidad and Tobago	+30
+-30	1360
+1599	+9
+-8	98
+48
+November 09
+1980	Trinidad and Tobago
+Netherlands Antilles	0
+0	World Cup qualifier
+in Trinidad and Tobago	-8
++8	1352
+1331	-6
++1	106
+110
+November 29
+1980	Netherlands Antilles
+Trinidad and Tobago	0
+0	World Cup qualifier
+in the Netherlands Antilles	-4
++4	1327
+1356	0
++2	110
+103
+June 19
+1981	Jamaica
+Trinidad and Tobago	2
+0	CFU Championship qualifier
+in Jamaica	+35
+-35	1234
+1321	+6
+-7	137
+108
+July 06
+1981	Jamaica
+Trinidad and Tobago	0
+4	CFU Championship qualifier
+in Jamaica	-39
++39	1195
+1360	-7
++11	143
+97
+October 12
+1981	Trinidad and Tobago
+Canada	2
+4	Friendly
+in Trinidad and Tobago	-15
++15	1345
+1484	-6
++4	104
+71
+March 21
+1982	Trinidad and Tobago
+United States	1
+2	Friendly
+in Trinidad and Tobago	-9
++9	1336
+1480	-3
++2	106
+73
+May 30
+1982	Trinidad and Tobago
+Ireland	2
+1	Friendly
+in Trinidad and Tobago	+16
+-16	1352
+1688	+5
+-5	101
+31
+July 23
+1983	French Guiana
+Trinidad and Tobago	0
+1	CFU Championship
+in French Guiana	-17
++17	1183
+1369	-
++6	146
+97
+July 25
+1983	Martinique
+Trinidad and Tobago	3
+1	CFU Championship
+in French Guiana	+19
+-19	1524
+1350	+5
+-6	62
+103
+July 27
+1983	Trinidad and Tobago
+Antigua and Barbuda	2
+1	CFU Championship
+in French Guiana	+7
+-7	1357
+1059	+1
+0	102
+165
+November 16
+1983	Trinidad and Tobago
+Sweden	0
+5	Friendly
+in Trinidad and Tobago	-4
++4	1353
+1821	0
++3	101
+12
+November 11
+1984	Trinidad and Tobago
+Mexico	0
+2	Friendly
+in Trinidad and Tobago	-5
++5	1348
+1740	-1
++3	103
+24
+March 10
+1985	Trinidad and Tobago
+Canada	1
+2	Friendly
+in Trinidad and Tobago	-8
++8	1340
+1511	-2
++3	105
+66
+April 24
+1985	Costa Rica
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Costa Rica	+10
+-10	1561
+1330	0
+-1	59
+108
+April 28
+1985	Costa Rica
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Costa Rica	-15
++15	1546
+1345	-1
+0	60
+108
+May 05
+1985	Trinidad and Tobago
+Surinam	0
+1	Friendly
+in Trinidad and Tobago	-12
++12	1333
+1402	0
++5	108
+88
+May 15
+1985	United States
+Trinidad and Tobago	2
+1	World Cup qualifier
+in the United States	+8
+-8	1483
+1325	+4
+-1	72
+109
+May 19
+1985	United States
+Trinidad and Tobago	1
+0	World Cup qualifier
+in the United States	+7
+-7	1490
+1318	0
+0	72
+109
+July 18
+1985	Costa Rica
+Trinidad and Tobago	3
+1	Friendly
+in Costa Rica	+4
+-4	1565
+1314	+2
+0	56
+109
+August 10
+1987	United States
+Trinidad and Tobago	3
+1	Friendly
+in the United States	+6
+-6	1472
+1308	0
+-4	75
+112
+September 05
+1987	United States
+Trinidad and Tobago	4
+1	Friendly
+in the United States	+6
+-6	1474
+1302	0
+-2	75
+114
+September 13
+1987	Guyana
+Trinidad and Tobago	1
+2	Friendly
+in Guyana	-13
++13	1309
+1315	-5
++7	112
+107
+September 20
+1987	Trinidad and Tobago
+United States	0
+1	Friendly
+in Trinidad and Tobago	-8
++8	1307
+1482	-5
+0	112
+75
+April 17
+1988	Guyana
+Trinidad and Tobago	0
+4	World Cup qualifier
+in Guyana	-48
++48	1261
+1355	-12
++11	126
+104
+May 08
+1988	Trinidad and Tobago
+Guyana	1
+0	World Cup qualifier
+in Trinidad and Tobago	+10
+-10	1365
+1251	+2
+-3	102
+129
+October 02
+1988	Trinidad and Tobago
+Canada	1
+2	Friendly
+in Trinidad and Tobago	-8
++8	1357
+1532	-3
++3	106
+61
+October 05
+1988	Trinidad and Tobago
+Guatemala	2
+2	Friendly
+in Trinidad and Tobago	+2
+-2	1359
+1525	+1
+-1	105
+64
+October 30
+1988	Trinidad and Tobago
+Honduras	0
+0	World Cup qualifier
+in Trinidad and Tobago	+5
+-5	1364
+1543	+1
+-2	102
+58
+November 13
+1988	Honduras
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Honduras	-13
++13	1530
+1377	-5
++3	63
+99
+March 19
+1989	Trinidad and Tobago
+Paraguay	2
+2	Friendly
+in Trinidad and Tobago	+7
+-7	1384
+1784	+1
+0	99
+19
+March 22
+1989	Trinidad and Tobago
+Paraguay	1
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1391
+1777	+1
+-2	98
+21
+April 16
+1989	Trinidad and Tobago
+Bermuda	1
+1	Friendly
+in Trinidad and Tobago	-4
++4	1387
+1340	-1
+0	98
+109
+April 18
+1989	Trinidad and Tobago
+Bermuda	0
+1	Friendly
+in Trinidad and Tobago	-14
++14	1373
+1354	-2
++2	100
+107
+May 13
+1989	United States
+Trinidad and Tobago	1
+1	World Cup qualifier
+in the United States	-10
++10	1457
+1383	-4
++1	78
+99
+May 28
+1989	Trinidad and Tobago
+Costa Rica	1
+1	World Cup qualifier
+in Trinidad and Tobago	+1
+-1	1384
+1501	0
+0	99
+68
+June
+1989	Trinidad and Tobago
+Aruba	11
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+12
+-12	1396
+1115	+6
+-5	93
+161
+June
+1989	Trinidad and Tobago
+French Guiana	3
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	+9
+-9	1405
+1177	+6
+-1	93
+145
+June
+1989	Trinidad and Tobago
+Saint Kitts and Nevis	2
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+12
+-12	1417
+1248	+6
+-6	93
+132
+June 06
+1989	Grenada
+Trinidad and Tobago	1
+0	Caribbean Cup qualifier
+in Grenada	+24
+-24	1279
+1393	+7
+-5	120
+97
+June 11
+1989	Costa Rica
+Trinidad and Tobago	1
+0	World Cup qualifier
+in Costa Rica	+9
+-9	1510
+1384	+3
+-2	66
+99
+June 16
+1989	Trinidad and Tobago
+Peru	2
+1	Friendly
+in Trinidad and Tobago	+13
+-13	1397
+1580	+2
+-2	97
+50
+July 05
+1989	Barbados
+Trinidad and Tobago	0
+3	Caribbean Cup
+in Barbados	-25
++25	1171
+1422	-3
++8	147
+89
+July 07
+1989	Guadeloupe
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Barbados	+31
+-31	1446
+1391	+11
+-10	81
+99
+July 09
+1989	Trinidad and Tobago
+Grenada	2
+1	Caribbean Cup
+in Barbados	+15
+-15	1406
+1296	+7
+-4	92
+117
+July 30
+1989	Trinidad and Tobago
+El Salvador	2
+0	World Cup qualifier
+in Trinidad and Tobago	+23
+-23	1429
+1398	+6
+-6	87
+96
+August 13
+1989	El Salvador
+Trinidad and Tobago	0
+0	World Cup qualifier
+in El Salvador	-4
++4	1394
+1433	-1
+-1	97
+89
+August 20
+1989	Guatemala
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Guatemala	-29
++29	1482
+1462	-8
++11	72
+78
+September 03
+1989	Trinidad and Tobago
+Guatemala	2
+1	World Cup qualifier
+in Trinidad and Tobago	+15
+-15	1477
+1467	+5
+-3	72
+75
+October 22
+1989	Trinidad and Tobago
+Finland	0
+1	Friendly
+in Trinidad and Tobago	-10
++10	1467
+1583	-3
++2	74
+49
+October 25
+1989	Trinidad and Tobago
+Finland	2
+0	Friendly
+in Trinidad and Tobago	+16
+-16	1483
+1567	+3
+-3	71
+52
+November 18
+1989	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-25
++25	1458
+1528	-6
++3	79
+64
+July 25
+1990	Trinidad and Tobago
+Grenada	5
+0	Caribbean Cup
+in Trinidad and Tobago	+16
+-16	1474
+1307	+5
+0	73
+114
+July 27
+1990	Trinidad and Tobago
+Jamaica	0
+0	Caribbean Cup
+in Trinidad and Tobago	-16
++16	1458
+1197	-5
++1	78
+144
+September 15
+1990	United States
+Trinidad and Tobago	3
+0	Friendly
+in the United States	+11
+-11	1510
+1447	+1
+-2	68
+80
+November 18
+1990	Trinidad and Tobago
+United States	0
+0	Friendly tournament
+in Trinidad and Tobago	-1
++1	1446
+1527	-1
+0	80
+61
+November 24
+1990	Trinidad and Tobago
+Soviet Union	0
+2	Friendly tournament
+in Trinidad and Tobago	-7
++7	1439
+1839	-2
++1	82
+12
+May 23
+1991	Saint Lucia
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Jamaica	+29
+-29	1300
+1410	+6
+-7	118
+87
+May 25
+1991	Trinidad and Tobago
+Martinique	1
+0	Caribbean Cup
+in Jamaica	+25
+-25	1435
+1474	+5
+-5	82
+72
+May 27
+1991	Trinidad and Tobago
+Dominican Republic	7
+0	Caribbean Cup
+in Jamaica	+10
+-10	1445
+1054	+5
+-1	77
+171
+May 30
+1991	Trinidad and Tobago
+Guyana	3
+1	Caribbean Cup
+in Jamaica	+14
+-14	1459
+1232	+1
+-4	76
+136
+June 02
+1991	Jamaica
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Jamaica	+37
+-37	1315
+1422	+13
+-10	112
+86
+June 29
+1991	United States
+Trinidad and Tobago	2
+1	Concacaf Gold Cup
+in the United States	+10
+-10	1570
+1412	+3
+-1	50
+88
+July 01
+1991	Trinidad and Tobago
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+40
+-40	1452
+1611	+11
+-9	77
+44
+July 03
+1991	Guatemala
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+28
+-28	1444
+1424	+11
+-10	77
+87
+April 19
+1992	Barbados
+Trinidad and Tobago	1
+2	World Cup qualifier
+in Barbados	-15
++15	1219
+1439	-2
++4	139
+81
+May 31
+1992	Trinidad and Tobago
+Barbados	3
+0	World Cup qualifier
+in Trinidad and Tobago	+10
+-10	1449
+1209	+4
+-7	78
+147
+June 17
+1992	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1464
+1454	+1
+-3	76
+78
+June 19
+1992	Trinidad and Tobago
+Surinam	1
+0	Caribbean Cup
+in Trinidad and Tobago	+10
+-10	1474
+1366	+1
+-1	75
+105
+June 21
+1992	Trinidad and Tobago
+Antigua and Barbuda	7
+0	Caribbean Cup
+in Trinidad and Tobago	+8
+-8	1482
+1155	+1
+0	74
+152
+June 24
+1992	Trinidad and Tobago
+Cuba	1
+0	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1496
+1463	+5
+0	69
+77
+June 27
+1992	Trinidad and Tobago
+Jamaica	3
+1	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1509
+1367	+1
+-2	68
+105
+July 05
+1992	Trinidad and Tobago
+Jamaica	1
+2	World Cup qualifier
+in Trinidad and Tobago	-32
++32	1477
+1399	-7
++10	75
+97
+August 18
+1992	Jamaica
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Jamaica	-1
++1	1398
+1478	0
+0	97
+78
+May 21
+1993	Martinique
+Trinidad and Tobago	3
+2	Caribbean Cup
+in Jamaica	+19
+-19	1523
+1459	+10
+-4	63
+85
+May 23
+1993	Saint Lucia
+Trinidad and Tobago	1
+1	Caribbean Cup
+in Jamaica	+9
+-9	1293
+1450	+4
+-4	126
+89
+May 25
+1993	St. Vincent & Grenadines
+Trinidad and Tobago	1
+4	Caribbean Cup
+in Jamaica	-19
++19	1265
+1469	-2
++6	133
+83
+May 28
+1993	Jamaica
+Trinidad and Tobago	3
+0	Caribbean Cup
+in Jamaica	+34
+-34	1417
+1435	+6
+-8	95
+91
+May 30
+1993	Saint Kitts and Nevis
+Trinidad and Tobago	2
+3	Caribbean Cup
+in Jamaica	-9
++9	1220
+1444	-3
++2	147
+89
+April 07
+1994	Trinidad and Tobago
+Guadeloupe	0
+0	Caribbean Cup
+in Trinidad and Tobago	-10
++10	1434
+1369	-3
++3	91
+110
+April 09
+1994	Trinidad and Tobago
+Barbados	2
+0	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1443
+1231	+2
+-2	89
+144
+April 11
+1994	Trinidad and Tobago
+Dominica	5
+0	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1452
+1185	+4
+-2	85
+159
+April 14
+1994	Trinidad and Tobago
+Surinam	3
+2	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1461
+1324	0
+-3	85
+125
+April 17
+1994	Trinidad and Tobago
+Martinique	7
+2	Caribbean Cup
+in Trinidad and Tobago	+37
+-37	1498
+1496	+10
+-13	75
+77
+June 04
+1994	Saudi Arabia
+Trinidad and Tobago	3
+2	Friendly
+in the United States	+6
+-6	1646
+1492	+2
+-4	40
+78
+October 26
+1994	Saudi Arabia
+Trinidad and Tobago	1
+0	Friendly
+in Saudi Arabia	+3
+-3	1696
+1489	0
+0	29
+73
+November 15
+1994	Grenada
+Trinidad and Tobago	1
+2	Friendly
+in Grenada	-6
++6	1222
+1495	-1
+0	149
+74
+November 19
+1994	Trinidad and Tobago
+United States	1
+0	Friendly
+in Trinidad and Tobago	+10
+-10	1505
+1588	+3
+-4	71
+48
+February 15
+1995	Trinidad and Tobago
+Finland	2
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1512
+1488	0
+-2	71
+77
+February 17
+1995	Trinidad and Tobago
+Finland	2
+2	Friendly
+in Trinidad and Tobago	-3
++3	1509
+1491	0
++1	71
+76
+July 19
+1995	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Jamaica	+29
+-29	1538
+1469	+8
+-6	64
+83
+July 21
+1995	Trinidad and Tobago
+Saint Lucia	5
+0	Caribbean Cup
+in Jamaica	+16
+-16	1554
+1275	+4
+-4	60
+137
+July 23
+1995	Jamaica
+Trinidad and Tobago	1
+0	Caribbean Cup
+in Jamaica	+23
+-23	1421
+1531	+7
+-6	97
+65
+July 28
+1995	Cayman Islands
+Trinidad and Tobago	2
+9	Caribbean Cup
+in Cayman Islands	-17
++17	1158
+1548	-5
++4	164
+61
+July 30
+1995	Trinidad and Tobago
+St. Vincent & Grenadines	5
+0	Caribbean Cup
+in Cayman Islands	+18
+-18	1566
+1315	+6
+-6	55
+128
+August 03
+1995	Canada
+Trinidad and Tobago	3
+1	Caribana Cup
+in Canada	+18
+-18	1557
+1548	+6
+-7	58
+62
+August 06
+1995	Jamaica
+Trinidad and Tobago	1
+0	Caribana Cup
+in Canada	+21
+-21	1432
+1527	+6
+-5	94
+67
+September 24
+1995	Trinidad and Tobago
+Jamaica	1
+0	Friendly
+in Trinidad and Tobago	+5
+-5	1532
+1449	+1
+-2	66
+90
+October 20
+1995	Jamaica
+Trinidad and Tobago	1
+0	Friendly
+in Cayman Islands	+12
+-12	1485
+1520	+2
+-3	81
+69
+October 24
+1995	Cayman Islands
+Trinidad and Tobago	0
+7	Friendly
+in Cayman Islands	-7
++7	1130
+1527	-2
++2	168
+67
+November 29
+1995	Trinidad and Tobago
+Norway	3
+2	Friendly
+in Trinidad and Tobago	+14
+-14	1541
+1776	+3
+-2	65
+23
+January 05
+1996	Trinidad and Tobago
+Venezuela	0
+0	Friendly
+in Trinidad and Tobago	-7
++7	1534
+1325	-3
++2	67
+122
+January 07
+1996	Trinidad and Tobago
+Venezuela	0
+0	Friendly
+in Trinidad and Tobago	-7
++7	1527
+1332	-1
++2	68
+120
+January 10
+1996	El Salvador
+Trinidad and Tobago	3
+2	Concacaf Gold Cup
+in the United States	+29
+-29	1506
+1498	+11
+-7	72
+75
+January 13
+1996	United States
+Trinidad and Tobago	3
+2	Concacaf Gold Cup
+in the United States	+8
+-8	1692
+1490	+1
+-2	30
+76
+March 06
+1996	Trinidad and Tobago
+Haiti	2
+0	Friendly
+in Trinidad and Tobago	+6
+-6	1496
+1335	+2
+-4	74
+120
+March 21
+1996	Colombia
+Trinidad and Tobago	3
+0	Friendly
+in Colombia	+3
+-3	1819
+1493	+1
+-1	17
+74
+May 24
+1996	Trinidad and Tobago
+Jamaica	1
+0	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1508
+1484	+5
+-10	71
+83
+May 26
+1996	Trinidad and Tobago
+Surinam	3
+0	Caribbean Cup
+in Trinidad and Tobago	+8
+-8	1516
+1250	+3
+-1	68
+142
+May 28
+1996	Trinidad and Tobago
+Saint Kitts and Nevis	5
+1	Caribbean Cup
+in Trinidad and Tobago	+8
+-8	1524
+1243	+2
+-4	66
+144
+June 02
+1996	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1538
+1493	+2
+-5	64
+76
+June 07
+1996	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Trinidad and Tobago	+23
+-23	1561
+1533	+10
+-9	55
+66
+June 09
+1996	Barbados
+Trinidad and Tobago	0
+4	Friendly
+in Barbados	-12
++12	1312
+1573	-4
++2	129
+53
+June 15
+1996	Dominican Republic
+Trinidad and Tobago	1
+4	World Cup qualifier
+in Dominican Republic	-9
++9	1121
+1582	-1
++1	169
+52
+June 23
+1996	Trinidad and Tobago
+Dominican Republic	8
+0	World Cup qualifier
+in Trinidad and Tobago	+4
+-4	1586
+1117	+3
+0	50
+169
+July 28
+1996	Honduras
+Trinidad and Tobago	0
+0	Friendly
+in Honduras	-1
++1	1509
+1587	0
+0	72
+50
+July 30
+1996	Panama
+Trinidad and Tobago	1
+0	Friendly
+in Panama	+16
+-16	1269
+1571	+3
+-5	138
+55
+September 01
+1996	Trinidad and Tobago
+Costa Rica	0
+1	World Cup qualifier
+in Trinidad and Tobago	-28
++28	1543
+1561	-8
++9	64
+58
+October 06
+1996	Trinidad and Tobago
+Guatemala	1
+1	World Cup qualifier
+in Trinidad and Tobago	-11
++11	1532
+1449	-2
++6	65
+88
+November 10
+1996	United States
+Trinidad and Tobago	2
+0	World Cup qualifier
+in the United States	+11
+-11	1695
+1521	+3
+-4	30
+69
+November 24
+1996	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-16
++16	1505
+1711	-3
++2	72
+29
+December 08
+1996	Guatemala
+Trinidad and Tobago	2
+1	World Cup qualifier
+in the United States	+23
+-23	1473
+1482	+7
+-9	83
+81
+December 21
+1996	Costa Rica
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Costa Rica	+12
+-12	1548
+1470	+1
+-2	62
+83
+April 02
+1997	Trinidad and Tobago
+Guyana	3
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1472
+1103	0
+-1	82
+172
+April 04
+1997	Trinidad and Tobago
+Barbados	0
+1	Friendly
+in Trinidad and Tobago	-17
++17	1455
+1297	-5
++3	87
+132
+April 06
+1997	Trinidad and Tobago
+Grenada	2
+3	Friendly
+in Trinidad and Tobago	-17
++17	1438
+1257	-5
++5	92
+140
+May 01
+1997	Trinidad and Tobago
+Jamaica	1
+1	Friendly
+in Trinidad and Tobago	0
+0	1438
+1548	0
+0	89
+61
+July 02
+1997	Barbados
+Trinidad and Tobago	1
+1	Friendly
+in Barbados	+1
+-1	1311
+1437	+1
+0	128
+94
+July 04
+1997	Martinique
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Saint Kitts and Nevis	+16
+-16	1527
+1421	+7
+0	66
+94
+July 08
+1997	Saint Kitts and Nevis
+Trinidad and Tobago	0
+3	Caribbean Cup
+in Saint Kitts and Nevis	-32
++32	1263
+1453	-7
++7	140
+87
+July 10
+1997	Trinidad and Tobago
+Jamaica	1
+1	Caribbean Cup
+in Antigua and Barbuda	+5
+-5	1458
+1545	0
+0	87
+63
+July 13
+1997	Trinidad and Tobago
+Saint Kitts and Nevis	4
+0	Caribbean Cup
+in Antigua and Barbuda	+20
+-20	1478
+1259	+8
+-4	78
+140
+August 31
+1997	Jamaica
+Trinidad and Tobago	6
+1	Friendly
+in Jamaica	+10
+-10	1580
+1468	+3
+-3	57
+81
+November 23
+1997	Trinidad and Tobago
+Jamaica	0
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1470
+1619	+1
+-1	79
+49
+December 17
+1997	Martinique
+Trinidad and Tobago	3
+0	Friendly
+in Martinique	+13
+-13	1484
+1457	+5
+-3	74
+83
+December 18
+1997	Martinique
+Trinidad and Tobago	3
+2	Friendly
+in Martinique	+6
+-6	1490
+1451	0
+-3	74
+86
+January 05
+1998	Barbados
+Trinidad and Tobago	0
+1	Friendly
+in Barbados	-9
++9	1302
+1460	0
++4	129
+83
+January 07
+1998	Trinidad and Tobago
+Jamaica	0
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1462
+1617	+1
+0	82
+49
+January 21
+1998	El Salvador
+Trinidad and Tobago	2
+0	Friendly
+in El Salvador	+10
+-10	1491
+1452	+3
+-3	74
+86
+January 23
+1998	Guatemala
+Trinidad and Tobago	3
+1	Friendly
+in Guatemala	+8
+-8	1539
+1444	+2
+-8	65
+94
+January 25
+1998	Costa Rica
+Trinidad and Tobago	4
+0	Friendly
+in Costa Rica	+8
+-8	1574
+1436	+2
+-3	54
+97
+February 01
+1998	Trinidad and Tobago
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+49
+-49	1485
+1499	+20
+-7	76
+70
+February 04
+1998	Mexico
+Trinidad and Tobago	4
+2	Concacaf Gold Cup
+in the United States	+12
+-12	1786
+1473	+2
+-3	18
+79
+May 09
+1998	Saudi Arabia
+Trinidad and Tobago	2
+1	Friendly
+in France	+6
+-6	1631
+1467	+3
+-3	44
+82
+May 28
+1998	Saint Kitts and Nevis
+Trinidad and Tobago	4
+1	Friendly tournament
+in Saint Kitts and Nevis	+37
+-37	1245
+1430	+8
+-16	140
+98
+July 22
+1998	Trinidad and Tobago
+Antigua and Barbuda	3
+2	Caribbean Cup
+in Trinidad and Tobago	+4
+-4	1434
+1144	+1
+0	97
+168
+July 24
+1998	Trinidad and Tobago
+Martinique	2
+1	Caribbean Cup
+in Trinidad and Tobago	+17
+-17	1451
+1465	+10
+-2	87
+81
+July 26
+1998	Trinidad and Tobago
+Dominica	8
+0	Caribbean Cup
+in Trinidad and Tobago	+10
+-10	1461
+1161	+2
+-3	85
+165
+July 29
+1998	Trinidad and Tobago
+Haiti	4
+1	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1482
+1388	+6
+-7	79
+107
+July 31
+1998	Trinidad and Tobago
+Jamaica	1
+2	Caribbean Cup
+in Trinidad and Tobago	-17
++17	1465
+1656	-2
++5	81
+39
+March 28
+1999	Trinidad and Tobago
+Jamaica	2
+0	Friendly
+in Trinidad and Tobago	+18
+-18	1483
+1621	+3
+-6	78
+54
+May 06
+1999	Trinidad and Tobago
+South Africa	2
+0	Friendly
+in Trinidad and Tobago	+17
+-17	1500
+1620	+2
+-7	76
+55
+June 03
+1999	Trinidad and Tobago
+Jamaica	1
+0	Caribbean Cup
+in Trinidad and Tobago	+22
+-22	1522
+1609	+8
+-1	68
+55
+June 05
+1999	Trinidad and Tobago
+Grenada	7
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1535
+1300	+2
+0	64
+128
+June 07
+1999	Trinidad and Tobago
+Guadeloupe	3
+2	Caribbean Cup
+in Trinidad and Tobago	+6
+-6	1541
+1338	+1
+0	64
+121
+June 11
+1999	Trinidad and Tobago
+Haiti	6
+1	Caribbean Cup
+in Trinidad and Tobago	+16
+-16	1557
+1383	+3
+-6	60
+107
+June 13
+1999	Trinidad and Tobago
+Cuba	2
+1	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1570
+1517	+2
+-2	58
+69
+September 08
+1999	Trinidad and Tobago
+Colombia	4
+3	Friendly
+in the United States	+15
+-15	1585
+1766	+4
+-2	55
+22
+October 12
+1999	Panama
+Trinidad and Tobago	2
+2	Friendly
+in Panama	+5
+-5	1288
+1580	+2
+0	132
+55
+November 17
+1999	Honduras
+Trinidad and Tobago	3
+2	Friendly
+in Honduras	+8
+-8	1572
+1572	+1
+-3	59
+59
+January 08
+2000	Trinidad and Tobago
+Canada	0
+0	Friendly
+in Trinidad and Tobago	-4
++4	1568
+1543	0
+0	60
+63
+January 18
+2000	Morocco
+Trinidad and Tobago	1
+0	Friendly
+in Morocco	+3
+-3	1774
+1565	0
+-1	21
+61
+January 26
+2000	Costa Rica
+Trinidad and Tobago	2
+1	Friendly
+in Costa Rica	+6
+-6	1608
+1559	0
+-1	51
+61
+February 13
+2000	Mexico
+Trinidad and Tobago	4
+0	Concacaf Gold Cup
+in the United States	+13
+-13	1891
+1546	+1
+-4	9
+63
+February 15
+2000	Trinidad and Tobago
+Guatemala	4
+2	Concacaf Gold Cup
+in the United States	+34
+-34	1580
+1477	+5
+-11	57
+80
+February 20
+2000	Trinidad and Tobago
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+28
+-28	1608
+1590	+1
+-4	55
+57
+February 24
+2000	Canada
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+25
+-25	1634
+1583	+4
+-2	50
+57
+March 04
+2000	Trinidad and Tobago
+Netherlands Antilles	5
+0	World Cup qualifier
+in Trinidad and Tobago	+3
+-3	1586
+1115	0
+0	57
+170
+March 18
+2000	Netherlands Antilles
+Trinidad and Tobago	1
+1	World Cup qualifier
+in the Netherlands Antilles	+16
+-16	1131
+1570	+1
+-1	169
+58
+April 02
+2000	Trinidad and Tobago
+Dominican Republic	3
+0	World Cup qualifier
+in Trinidad and Tobago	+3
+-3	1573
+1136	0
+0	58
+166
+April 16
+2000	Dominican Republic
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Dominican Republic	-5
++5	1131
+1578	-2
+0	169
+58
+May 07
+2000	Trinidad and Tobago
+Haiti	3
+1	World Cup qualifier
+in Trinidad and Tobago	+11
+-11	1589
+1416	+1
+-3	56
+98
+May 19
+2000	Haiti
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Haiti	+4
+-4	1420
+1585	+3
+-1	95
+57
+May 27
+2000	Canada
+Trinidad and Tobago	1
+0	Friendly
+in Canada	+5
+-5	1690
+1580	+4
+0	33
+57
+June 29
+2000	Barbados
+Trinidad and Tobago	0
+0	Friendly
+in Barbados	+3
+-3	1366
+1577	0
+0	113
+58
+July 02
+2000	Trinidad and Tobago
+St. Vincent & Grenadines	1
+2	Friendly
+in Trinidad and Tobago	-18
++18	1559
+1321	0
++5	58
+126
+July 04
+2000	Trinidad and Tobago
+Cuba	4
+1	Friendly
+in Trinidad and Tobago	+9
+-9	1568
+1457	0
+0	58
+84
+July 08
+2000	Trinidad and Tobago
+Jamaica	2
+4	Friendly
+in Trinidad and Tobago	-22
++22	1546
+1516	-1
++8	59
+68
+July 16
+2000	Canada
+Trinidad and Tobago	0
+2	World Cup qualifier
+in Canada	-48
++48	1644
+1594	-13
++4	49
+56
+July 23
+2000	Trinidad and Tobago
+Mexico	1
+0	World Cup qualifier
+in Trinidad and Tobago	+28
+-28	1622
+1808	+2
+-1	54
+14
+August 06
+2000	Guyana
+Trinidad and Tobago	0
+0	Friendly
+in Guyana	+9
+-9	1076
+1613	+1
+-1	176
+55
+August 16
+2000	Trinidad and Tobago
+Panama	6
+0	World Cup qualifier
+in Trinidad and Tobago	+11
+-11	1624
+1373	+2
+-2	53
+111
+September 03
+2000	Trinidad and Tobago
+Canada	4
+0	World Cup qualifier
+in Trinidad and Tobago	+27
+-27	1651
+1598	+7
+-3	46
+55
+October 08
+2000	Mexico
+Trinidad and Tobago	7
+0	World Cup qualifier
+in Mexico	+15
+-15	1848
+1636	0
+-3	12
+50
+November 15
+2000	Trinidad and Tobago
+Panama	1
+0	World Cup qualifier
+in Trinidad and Tobago	+4
+-4	1640
+1360	0
+-1	49
+114
+January 27
+2001	Grenada
+Trinidad and Tobago	1
+2	Friendly
+in Grenada	-4
++4	1273
+1644	-1
++1	137
+48
+January 29
+2001	Grenada
+Trinidad and Tobago	0
+2	Friendly
+in Grenada	-5
++5	1268
+1649	-2
++1	140
+47
+February 25
+2001	Cayman Islands
+Trinidad and Tobago	0
+3	Friendly
+in Cayman Islands	-3
++3	1154
+1652	0
++1	166
+47
+February 28
+2001	Jamaica
+Trinidad and Tobago	1
+0	World Cup qualifier
+in Jamaica	+20
+-20	1575
+1632	0
+-4	60
+51
+March 24
+2001	Trinidad and Tobago
+Guatemala	3
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1639
+1506	+1
+-1	51
+70
+March 28
+2001	Costa Rica
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Costa Rica	+28
+-28	1638
+1611	+5
+-4	49
+54
+April 25
+2001	Trinidad and Tobago
+Mexico	1
+1	World Cup qualifier
+in Trinidad and Tobago	+4
+-4	1615
+1773	0
+-1	54
+21
+May 10
+2001	Trinidad and Tobago
+Grenada	5
+3	Friendly
+in Trinidad and Tobago	+2
+-2	1617
+1267	+1
+-1	53
+139
+May 15
+2001	Trinidad and Tobago
+Barbados	5
+0	Caribbean Cup
+in Trinidad and Tobago	+9
+-9	1626
+1343	+3
+-3	50
+124
+May 17
+2001	Trinidad and Tobago
+Jamaica	2
+1	Caribbean Cup
+in Trinidad and Tobago	+12
+-12	1638
+1562	0
+-1	50
+61
+May 19
+2001	Trinidad and Tobago
+Martinique	1
+2	Caribbean Cup
+in Trinidad and Tobago	-35
++35	1603
+1429	-5
++9	55
+94
+May 22
+2001	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1616
+1461	+1
+-1	54
+82
+May 25
+2001	Trinidad and Tobago
+Haiti	3
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1629
+1443	+4
+-4	50
+88
+June 10
+2001	Panama
+Trinidad and Tobago	0
+0	Friendly
+in Panama	+4
+-4	1391
+1625	+1
+0	106
+52
+June 16
+2001	Trinidad and Tobago
+Honduras	2
+4	World Cup qualifier
+in Trinidad and Tobago	-38
++38	1587
+1668	-5
++9	57
+42
+June 20
+2001	United States
+Trinidad and Tobago	2
+0	World Cup qualifier
+in the United States	+9
+-9	1802
+1578	0
+-2	20
+59
+June 23
+2001	Bermuda
+Trinidad and Tobago	0
+5	Friendly
+in Bermuda	-10
++10	1274
+1588	-1
++2	136
+57
+June 30
+2001	Trinidad and Tobago
+Jamaica	1
+2	World Cup qualifier
+in Trinidad and Tobago	-26
++26	1562
+1597	-6
++6	63
+56
+August 03
+2001	Kuwait
+Trinidad and Tobago	1
+1	Friendly tournament
+in China	-1
++1	1585
+1563	0
++1	57
+61
+August 05
+2001	China
+Trinidad and Tobago	3
+0	Friendly tournament
+in China	+12
+-12	1680
+1551	+1
+-3	40
+64
+September 01
+2001	Trinidad and Tobago
+Costa Rica	0
+2	World Cup qualifier
+in Trinidad and Tobago	-27
++27	1524
+1716	-4
++6	67
+31
+September 05
+2001	Mexico
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Mexico	+9
+-9	1763
+1515	0
+-3	25
+70
+October 07
+2001	Honduras
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Honduras	-35
++35	1732
+1550	-5
++8	28
+62
+November 11
+2001	Trinidad and Tobago
+United States	0
+0	World Cup qualifier
+in Trinidad and Tobago	+5
+-5	1555
+1728	+3
+-1	60
+28
+January 11
+2002	Grenada
+Trinidad and Tobago	2
+3	Friendly
+in Grenada	-6
++6	1284
+1561	0
++2	135
+59
+January 20
+2002	Trinidad and Tobago
+Costa Rica	1
+1	Concacaf Gold Cup
+in the United States	+13
+-13	1574
+1744	+2
+0	56
+26
+January 22
+2002	Martinique
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+39
+-39	1389
+1535	+15
+-10	105
+66
+July 25
+2002	Barbados
+Trinidad and Tobago	0
+0	Friendly tournament
+in Saint Kitts and Nevis	+9
+-9	1316
+1526	0
+-2	128
+66
+July 27
+2002	Taiwan
+Trinidad and Tobago	1
+0	Friendly tournament
+in Saint Kitts and Nevis	+29
+-29	1042
+1497	+5
+-8	182
+74
+July 28
+2002	Saint Kitts and Nevis
+Trinidad and Tobago	2
+1	Friendly tournament
+in Saint Kitts and Nevis	+18
+-18	1346
+1479	+2
+-9	123
+83
+November 15
+2002	Trinidad and Tobago
+Saint Kitts and Nevis	2
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+13
+-13	1492
+1339	+6
+-5	73
+128
+November 17
+2002	Trinidad and Tobago
+Saint Lucia	0
+1	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	-36
++36	1456
+1268	-15
++8	88
+140
+January 29
+2003	Trinidad and Tobago
+Finland	1
+2	Friendly
+in Trinidad and Tobago	-8
++8	1448
+1644	-2
++1	90
+44
+March 26
+2003	Trinidad and Tobago
+Antigua and Barbuda	2
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+5
+-5	1453
+1139	0
+0	90
+166
+March 28
+2003	Trinidad and Tobago
+Guadeloupe	1
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+9
+-9	1462
+1333	+2
+-3	88
+126
+March 30
+2003	Trinidad and Tobago
+Cuba	1
+3	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	-34
++34	1428
+1550	-8
++5	95
+63
+April 23
+2003	Martinique
+Trinidad and Tobago	3
+2	Concacaf Gold Cup qualifier
+in Martinique	+13
+-13	1460
+1415	+1
+-5	87
+99
+April 25
+2003	Honduras
+Trinidad and Tobago	2
+0	Concacaf Gold Cup qualifier
+in Martinique	+12
+-12	1660
+1403	0
+-5	41
+104
+April 30
+2003	Venezuela
+Trinidad and Tobago	3
+0	Friendly
+in Venezuela	+6
+-6	1597
+1397	+1
+-3	57
+106
+May 31
+2003	Kenya
+Trinidad and Tobago	1
+1	Friendly
+in Kenya	-5
++5	1502
+1402	0
++4	73
+103
+June 10
+2003	Botswana
+Trinidad and Tobago	0
+0	Friendly
+in Botswana	+3
+-3	1191
+1399	0
+-1	156
+105
+June 14
+2003	South Africa
+Trinidad and Tobago	2
+1	Friendly
+in South Africa	+2
+-2	1652
+1397	0
+0	42
+105
+July 03
+2003	Trinidad and Tobago
+Venezuela	2
+2	Friendly
+in Trinidad and Tobago	+3
+-3	1400
+1597	+2
+0	103
+58
+July 31
+2003	Haiti
+Trinidad and Tobago	2
+0	Friendly tournament
+in Saint Kitts and Nevis	+21
+-21	1449
+1379	+4
+-7	90
+110
+August 02
+2003	Saint Kitts and Nevis
+Trinidad and Tobago	1
+2	Friendly tournament
+in Saint Kitts and Nevis	-18
++18	1336
+1397	-5
++7	124
+103
+September 10
+2003	Morocco
+Trinidad and Tobago	2
+0	Friendly
+in Morocco	+4
+-4	1621
+1393	+3
+-3	49
+107
+November 19
+2003	Trinidad and Tobago
+Cuba	2
+1	Friendly
+in Trinidad and Tobago	+11
+-11	1404
+1530	+2
+-3	104
+69
+February 10
+2004	Bermuda
+Trinidad and Tobago	0
+1	Friendly
+in Bermuda	-8
++8	1236
+1412	0
++2	147
+102
+February 12
+2004	Bermuda
+Trinidad and Tobago	2
+2	Friendly
+in Bermuda	+2
+-2	1238
+1410	0
+-1	147
+103
+March 02
+2004	Trinidad and Tobago
+Guyana	1
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1412
+1101	0
+0	103
+172
+March 31
+2004	Egypt
+Trinidad and Tobago	2
+1	Friendly
+in Egypt	+2
+-2	1669
+1410	0
+0	41
+103
+May 23
+2004	Trinidad and Tobago
+Iraq	2
+0	Friendly
+in England	+22
+-22	1432
+1568	+5
+-4	96
+62
+May 30
+2004	Scotland
+Trinidad and Tobago	4
+1	Friendly
+in Scotland	+5
+-5	1632
+1427	+1
+-2	48
+99
+June 06
+2004	Trinidad and Tobago
+Northern Ireland	0
+3	Friendly
+in Trinidad and Tobago	-21
++21	1406
+1475	-4
++4	102
+81
+June 13
+2004	Dominican Republic
+Trinidad and Tobago	0
+2	World Cup qualifier
+in Dominican Republic	-14
++14	1084
+1420	-2
++3	174
+99
+June 20
+2004	Trinidad and Tobago
+Dominican Republic	4
+0	World Cup qualifier
+in Trinidad and Tobago	+6
+-6	1426
+1078	-1
+-1	101
+175
+July 10
+2004	Thailand
+Trinidad and Tobago	3
+2	Friendly
+in Thailand	+8
+-8	1405
+1418	+3
+0	104
+101
+July 14
+2004	South Korea
+Trinidad and Tobago	1
+1	Friendly
+in South Korea	-8
++8	1675
+1426	-3
+0	37
+101
+August 11
+2004	Guatemala
+Trinidad and Tobago	4
+1	Friendly
+in Guatemala	+8
+-8	1557
+1418	+2
+-1	63
+99
+August 18
+2004	St. Vincent & Grenadines
+Trinidad and Tobago	0
+2	World Cup qualifier
+in St. Vincent & Grenadines	-27
++27	1254
+1445	-5
++8	145
+91
+September 04
+2004	Saint Kitts and Nevis
+Trinidad and Tobago	1
+2	World Cup qualifier
+in Saint Kitts and Nevis	-21
++21	1333
+1466	-5
++4	124
+88
+September 08
+2004	Trinidad and Tobago
+Mexico	1
+3	World Cup qualifier
+in Trinidad and Tobago	-11
++11	1455
+1842	-4
++3	91
+11
+October 10
+2004	Trinidad and Tobago
+Saint Kitts and Nevis	5
+1	World Cup qualifier
+in Trinidad and Tobago	+15
+-15	1470
+1299	+3
+-4	87
+129
+October 13
+2004	Mexico
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Mexico	+4
+-4	1850
+1466	0
+-1	11
+88
+November 17
+2004	Trinidad and Tobago
+St. Vincent & Grenadines	2
+1	World Cup qualifier
+in Trinidad and Tobago	+8
+-8	1474
+1320	+2
+-1	86
+124
+November 24
+2004	Trinidad and Tobago
+Puerto Rico	5
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+2
+-2	1476
+886	0
+-2	86
+201
+November 26
+2004	Trinidad and Tobago
+Grenada	2
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+9
+-9	1485
+1260	+2
+-1	84
+141
+November 28
+2004	Trinidad and Tobago
+Surinam	1
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+5
+-5	1490
+1232	+1
+0	83
+147
+December 12
+2004	British Virgin Islands
+Trinidad and Tobago	0
+4	Caribbean Cup qualifier
+in British Virgin Islands	-5
++5	943
+1495	0
++4	192
+79
+December 19
+2004	Trinidad and Tobago
+British Virgin Islands	2
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+1
+-1	1496
+942	0
+0	80
+192
+January 09
+2005	Trinidad and Tobago
+St. Vincent & Grenadines	3
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	+11
+-11	1507
+1327	+3
+-1	76
+124
+January 12
+2005	Antigua and Barbuda
+Trinidad and Tobago	2
+1	Friendly
+in Antigua and Barbuda	+17
+-17	1142
+1490	+1
+-8	169
+84
+January 16
+2005	St. Vincent & Grenadines
+Trinidad and Tobago	1
+0	Caribbean Cup qualifier
+in St. Vincent & Grenadines	+24
+-24	1351
+1466	+6
+-6	118
+90
+January 21
+2005	Trinidad and Tobago
+Azerbaijan	1
+0	Friendly
+in Trinidad and Tobago	+5
+-5	1471
+1350	+2
+-4	88
+118
+January 23
+2005	Trinidad and Tobago
+Azerbaijan	2
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1478
+1343	+2
+-3	86
+121
+February 01
+2005	Trinidad and Tobago
+Haiti	1
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1485
+1464	+2
+-1	84
+90
+February 03
+2005	Trinidad and Tobago
+Haiti	2
+1	Friendly
+in Trinidad and Tobago	+7
+-7	1492
+1457	+2
+-1	82
+91
+February 06
+2005	Trinidad and Tobago
+Haiti	0
+1	Friendly
+in Trinidad and Tobago	-14
++14	1478
+1471	-4
++2	86
+89
+February 09
+2005	Trinidad and Tobago
+United States	1
+2	World Cup qualifier
+in Trinidad and Tobago	-9
++9	1469
+1813	-2
++3	88
+16
+February 20
+2005	Jamaica
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Barbados	+13
+-13	1611
+1456	+6
+-3	52
+90
+February 22
+2005	Cuba
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Barbados	+12
+-12	1617
+1444	+2
+-1	51
+91
+February 24
+2005	Barbados
+Trinidad and Tobago	2
+3	Caribbean Cup
+in Barbados	-17
++17	1275
+1461	-5
++2	140
+89
+March 26
+2005	Guatemala
+Trinidad and Tobago	5
+1	World Cup qualifier
+in Guatemala	+17
+-17	1592
+1444	+2
+-3	60
+91
+March 30
+2005	Trinidad and Tobago
+Costa Rica	0
+0	World Cup qualifier
+in Trinidad and Tobago	+8
+-8	1452
+1691	+2
+-4	90
+38
+May 25
+2005	Trinidad and Tobago
+Bermuda	4
+0	Friendly
+in Trinidad and Tobago	+4
+-4	1456
+1174	+1
+0	88
+161
+May 27
+2005	Trinidad and Tobago
+Bermuda	1
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1458
+1172	0
+0	88
+161
+June 04
+2005	Trinidad and Tobago
+Panama	2
+0	World Cup qualifier
+in Trinidad and Tobago	+23
+-23	1481
+1449	+4
+-7	83
+90
+June 08
+2005	Mexico
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Mexico	+3
+-3	1888
+1478	0
++1	8
+82
+July 06
+2005	Honduras
+Trinidad and Tobago	1
+1	Concacaf Gold Cup
+in the United States	-12
++12	1643
+1490	-4
++1	50
+81
+July 10
+2005	Panama
+Trinidad and Tobago	2
+2	Concacaf Gold Cup
+in the United States	+1
+-1	1483
+1489	0
+0	82
+81
+July 12
+2005	Colombia
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1739
+1474	+4
+-2	27
+83
+August 17
+2005	United States
+Trinidad and Tobago	1
+0	World Cup qualifier
+in the United States	+3
+-3	1847
+1471	0
+-1	13
+85
+September 03
+2005	Trinidad and Tobago
+Guatemala	3
+2	World Cup qualifier
+in Trinidad and Tobago	+18
+-18	1489
+1523	+2
+-4	83
+74
+September 07
+2005	Costa Rica
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1717
+1481	0
+-2	35
+85
+October 08
+2005	Panama
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Panama	-26
++26	1471
+1507	-5
++7	86
+78
+October 12
+2005	Trinidad and Tobago
+Mexico	2
+1	World Cup qualifier
+in Trinidad and Tobago	+32
+-32	1539
+1821	+11
+-2	68
+15
+November 12
+2005	Trinidad and Tobago
+Bahrain	1
+1	World Cup qualifier
+in Trinidad and Tobago	-5
++5	1534
+1554	-3
+0	72
+65
+November 16
+2005	Bahrain
+Trinidad and Tobago	0
+1	World Cup qualifier
+in Bahrain	-27
++27	1527
+1561	-7
++8	72
+64
+February 28
+2006	Trinidad and Tobago
+Iceland	2
+0	Friendly
+in England	+11
+-11	1572
+1463	+3
+-3	59
+87
+May 10
+2006	Trinidad and Tobago
+Peru	1
+1	Friendly
+in Trinidad and Tobago	-1
++1	1571
+1640	0
+0	60
+48
+May 27
+2006	Wales
+Trinidad and Tobago	2
+1	Friendly
+in Austria	+10
+-10	1572
+1561	+3
+-3	61
+64
+May 31
+2006	Slovenia
+Trinidad and Tobago	3
+1	Friendly
+in Slovenia	+11
+-11	1579
+1550	+5
+-4	58
+68
+June 03
+2006	Czechia
+Trinidad and Tobago	3
+0	Friendly
+in Czechia	+2
+-2	1939
+1548	0
+0	5
+68
+June 10
+2006	Trinidad and Tobago
+Sweden	0
+0	World Cup
+in Germany	+20
+-20	1568
+1812	+5
+-5	63
+17
+June 15
+2006	England
+Trinidad and Tobago	2
+0	World Cup
+in Germany	+9
+-9	1966
+1559	+1
+0	4
+63
+June 20
+2006	Paraguay
+Trinidad and Tobago	2
+0	World Cup
+in Germany	+26
+-26	1743
+1533	+8
+-6	28
+70
+August 09
+2006	Japan
+Trinidad and Tobago	2
+0	Friendly
+in Japan	+5
+-5	1725
+1528	0
+-4	34
+74
+October 07
+2006	Trinidad and Tobago
+St. Vincent & Grenadines	5
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1535
+1364	+5
+-5	67
+110
+October 11
+2006	Trinidad and Tobago
+Panama	2
+1	Friendly
+in Trinidad and Tobago	+6
+-6	1541
+1494	+1
+0	65
+79
+November 15
+2006	Austria
+Trinidad and Tobago	4
+1	Friendly
+in Austria	+11
+-11	1598
+1530	+3
+-6	54
+73
+January 12
+2007	Trinidad and Tobago
+Barbados	1
+1	Caribbean Cup
+in Trinidad and Tobago	-14
++14	1516
+1326	-3
++6	76
+120
+January 15
+2007	Trinidad and Tobago
+Martinique	5
+1	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1531
+1353	+4
+-4	72
+114
+January 17
+2007	Trinidad and Tobago
+Haiti	3
+1	Caribbean Cup
+in Trinidad and Tobago	+18
+-18	1549
+1471	+7
+-6	65
+87
+January 20
+2007	Trinidad and Tobago
+Cuba	3
+1	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1570
+1523	+5
+-7	60
+75
+January 23
+2007	Trinidad and Tobago
+Haiti	1
+2	Caribbean Cup
+in Trinidad and Tobago	-29
++29	1541
+1524	-7
++3	67
+76
+January 31
+2007	Panama
+Trinidad and Tobago	2
+1	Friendly
+in Panama	+9
+-9	1489
+1532	0
+-5	83
+71
+February 04
+2007	Costa Rica
+Trinidad and Tobago	4
+0	Friendly
+in Costa Rica	+10
+-10	1619
+1522	+2
+-5	51
+76
+March 24
+2007	Guadeloupe
+Trinidad and Tobago	2
+2	Friendly
+in Guadeloupe	+2
+-2	1367
+1520	+3
+0	108
+76
+May 28
+2007	Trinidad and Tobago
+Haiti	1
+0	Friendly tournament
+in Trinidad and Tobago	+13
+-13	1533
+1563	+2
+-4	74
+64
+June 02
+2007	Honduras
+Trinidad and Tobago	3
+1	Friendly
+in Honduras	+7
+-7	1656
+1526	+1
++1	45
+73
+June 07
+2007	El Salvador
+Trinidad and Tobago	2
+1	Concacaf Gold Cup
+in the United States	+38
+-38	1364
+1488	+11
+-12	113
+85
+June 09
+2007	United States
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1800
+1481	+1
+-1	18
+86
+June 12
+2007	Guatemala
+Trinidad and Tobago	1
+1	Concacaf Gold Cup
+in the United States	-3
++3	1525
+1484	-1
++1	73
+85
+October 17
+2007	El Salvador
+Trinidad and Tobago	0
+0	Friendly
+in El Salvador	0
+0	1369
+1484	+2
++1	110
+80
+January 26
+2008	Puerto Rico
+Trinidad and Tobago	2
+2	Friendly
+in Puerto Rico	+9
+-9	943
+1475	+2
+-1	193
+85
+January 29
+2008	Trinidad and Tobago
+Guyana	2
+1	Friendly
+in Trinidad and Tobago	+4
+-4	1479
+1326	0
+0	84
+127
+February 06
+2008	Trinidad and Tobago
+Guadeloupe	0
+0	Friendly
+in Trinidad and Tobago	-4
++4	1475
+1453	-2
++1	86
+93
+March 19
+2008	Trinidad and Tobago
+El Salvador	1
+0	Friendly
+in Trinidad and Tobago	+5
+-5	1480
+1374	+2
+-3	85
+110
+March 26
+2008	Jamaica
+Trinidad and Tobago	2
+2	Friendly
+in Jamaica	-4
++4	1544
+1484	-3
+0	70
+86
+April 27
+2008	Trinidad and Tobago
+Grenada	2
+0	Friendly
+in Trinidad and Tobago	+3
+-3	1487
+1212	0
+0	86
+154
+May 11
+2008	Trinidad and Tobago
+Barbados	3
+0	Friendly
+in Trinidad and Tobago	+6
+-6	1493
+1304	+1
+-1	85
+132
+June 01
+2008	Trinidad and Tobago
+England	0
+3	Friendly
+in Trinidad and Tobago	-5
++5	1488
+1893	-2
++1	86
+8
+June 04
+2008	Trinidad and Tobago
+Guyana	3
+0	Friendly
+in Trinidad and Tobago	+6
+-6	1494
+1320	+2
+-1	84
+124
+June 07
+2008	Trinidad and Tobago
+Jamaica	1
+1	Friendly
+in Trinidad and Tobago	-1
++1	1493
+1549	-1
++3	85
+67
+June 15
+2008	Trinidad and Tobago
+Bermuda	1
+2	World Cup qualifier
+in Trinidad and Tobago	-37
++37	1456
+1187	-11
++11	94
+159
+June 22
+2008	Bermuda
+Trinidad and Tobago	0
+2	World Cup qualifier
+in Bermuda	-16
++16	1171
+1472	-4
++5	163
+89
+July 08
+2008	Trinidad and Tobago
+Guyana	2
+0	Friendly
+in Trinidad and Tobago	+5
+-5	1477
+1267	+2
+0	87
+136
+July 17
+2008	Trinidad and Tobago
+Netherlands Antilles	2
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1479
+1143	0
+0	87
+170
+July 30
+2008	Trinidad and Tobago
+Haiti	2
+0	Friendly
+in Trinidad and Tobago	+11
+-11	1490
+1484	+3
+-3	84
+86
+August 10
+2008	Haiti
+Trinidad and Tobago	1
+0	Friendly
+in Haiti	+7
+-7	1491
+1483	+2
+-3	84
+87
+August 14
+2008	Trinidad and Tobago
+El Salvador	3
+1	Friendly
+in the United States	+12
+-12	1495
+1406	+3
+-5	83
+105
+August 20
+2008	Cuba
+Trinidad and Tobago	1
+3	World Cup qualifier
+in Cuba	-38
++38	1452
+1533	-10
++10	95
+73
+September 03
+2008	Trinidad and Tobago
+Guyana	3
+0	Friendly
+in Trinidad and Tobago	+4
+-4	1537
+1266	+1
+-1	73
+138
+September 06
+2008	Trinidad and Tobago
+Guatemala	1
+1	World Cup qualifier
+in Trinidad and Tobago	-7
++7	1530
+1510	-3
+-2	74
+83
+September 10
+2008	United States
+Trinidad and Tobago	3
+0	World Cup qualifier
+in the United States	+7
+-7	1810
+1523	+2
+-5	15
+78
+October 08
+2008	Trinidad and Tobago
+Dominican Republic	9
+0	Friendly
+in Trinidad and Tobago	+2
+-2	1525
+1062	+1
+0	77
+180
+October 11
+2008	Guatemala
+Trinidad and Tobago	0
+0	World Cup qualifier
+in Guatemala	-6
++6	1523
+1531	-2
++3	77
+74
+October 15
+2008	Trinidad and Tobago
+United States	2
+1	World Cup qualifier
+in Trinidad and Tobago	+30
+-30	1561
+1785	+11
+-5	63
+19
+November 05
+2008	Trinidad and Tobago
+Antigua and Barbuda	3
+2	Caribbean Cup qualifier
+in Trinidad and Tobago	+3
+-3	1564
+1196	0
+-1	63
+158
+November 07
+2008	Trinidad and Tobago
+Saint Kitts and Nevis	3
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	+3
+-3	1567
+1120	0
+-1	63
+173
+November 09
+2008	Trinidad and Tobago
+Guyana	1
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	-17
++17	1550
+1236	-1
++5	64
+147
+November 19
+2008	Trinidad and Tobago
+Cuba	3
+0	World Cup qualifier
+in Trinidad and Tobago	+17
+-17	1567
+1434	+3
+-2	61
+95
+December 03
+2008	Grenada
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Jamaica	+35
+-35	1265
+1532	+11
+-10	141
+71
+December 05
+2008	Trinidad and Tobago
+Barbados	2
+1	Caribbean Cup
+in Jamaica	+10
+-10	1542
+1323	+5
+-2	66
+127
+December 07
+2008	Jamaica
+Trinidad and Tobago	1
+1	Caribbean Cup
+in Jamaica	-9
++9	1606
+1551	-2
++4	52
+62
+February 11
+2009	El Salvador
+Trinidad and Tobago	2
+2	World Cup qualifier
+in El Salvador	0
+0	1456
+1551	0
+-1	92
+66
+March 18
+2009	Trinidad and Tobago
+Panama	1
+0	Friendly
+in Trinidad and Tobago	+8
+-8	1559
+1562	+2
+0	64
+63
+March 28
+2009	Trinidad and Tobago
+Honduras	1
+1	World Cup qualifier
+in Trinidad and Tobago	+1
+-1	1560
+1681	0
+0	63
+43
+April 01
+2009	United States
+Trinidad and Tobago	3
+0	World Cup qualifier
+in the United States	+8
+-8	1814
+1552	+1
+-5	13
+67
+June 06
+2009	Trinidad and Tobago
+Costa Rica	2
+3	World Cup qualifier
+in Trinidad and Tobago	-14
++14	1538
+1767	-2
++4	70
+23
+June 10
+2009	Mexico
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Mexico	+6
+-6	1751
+1532	0
+-1	28
+69
+July 12
+2009	Saint Kitts and Nevis
+Trinidad and Tobago	2
+3	Friendly
+in Saint Kitts and Nevis	-3
++3	1103
+1535	-1
+0	175
+71
+August 12
+2009	Trinidad and Tobago
+El Salvador	1
+0	World Cup qualifier
+in Trinidad and Tobago	+13
+-13	1548
+1494	+5
+-2	66
+85
+September 05
+2009	Honduras
+Trinidad and Tobago	4
+1	World Cup qualifier
+in Honduras	+11
+-11	1759
+1537	+4
+-4	25
+70
+September 09
+2009	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-12
++12	1525
+1797	-3
++3	73
+15
+October 10
+2009	Costa Rica
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Costa Rica	+15
+-15	1683
+1510	+1
+-11	42
+84
+October 14
+2009	Trinidad and Tobago
+Mexico	2
+2	World Cup qualifier
+in Trinidad and Tobago	+13
+-13	1523
+1875	+6
+-1	76
+8
+May 05
+2010	Chile
+Trinidad and Tobago	2
+0	Friendly
+in Chile	+2
+-2	1855
+1521	0
+-1	10
+82
+July 21
+2010	Trinidad and Tobago
+Antigua and Barbuda	4
+1	Friendly
+in Trinidad and Tobago	+4
+-4	1525
+1236	+2
+0	79
+148
+August 11
+2010	Trinidad and Tobago
+Jamaica	1
+3	Friendly
+in Trinidad and Tobago	-16
++16	1509
+1609	-3
+0	82
+53
+September 07
+2010	Panama
+Trinidad and Tobago	3
+0	Friendly
+in Panama	+10
+-10	1579
+1499	+3
+-3	58
+86
+September 10
+2010	Belize
+Trinidad and Tobago	0
+0	Friendly
+in Belize	+8
+-8	1046
+1491	+2
+-2	181
+88
+September 19
+2010	Antigua and Barbuda
+Trinidad and Tobago	0
+1	Friendly tournament
+in Antigua and Barbuda	-9
++9	1228
+1500	-1
++2	149
+86
+September 21
+2010	Trinidad and Tobago
+Saint Lucia	3
+0	Friendly tournament
+in Antigua and Barbuda	+5
+-5	1505
+1092	+3
+0	83
+175
+September 26
+2010	Guyana
+Trinidad and Tobago	1
+1	Friendly
+in Guyana	+4
+-4	1254
+1501	+1
+-4	145
+86
+October 10
+2010	Jamaica
+Trinidad and Tobago	1
+0	Friendly
+in Jamaica	+5
+-5	1612
+1496	+2
+0	51
+87
+November 02
+2010	Trinidad and Tobago
+St. Vincent & Grenadines	6
+2	Caribbean Cup qualifier
+in Trinidad and Tobago	+7
+-7	1503
+1201	+2
+-1	85
+154
+November 04
+2010	Trinidad and Tobago
+Guyana	2
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	+7
+-7	1510
+1312	+2
+0	83
+132
+November 06
+2010	Trinidad and Tobago
+Haiti	4
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+19
+-19	1529
+1407	+7
+-4	76
+107
+November 26
+2010	Cuba
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Martinique	+36
+-36	1491
+1493	+8
+-13	89
+87
+November 28
+2010	Grenada
+Trinidad and Tobago	1
+0	Caribbean Cup
+in Martinique	+31
+-31	1298
+1462	+8
+-8	135
+95
+November 30
+2010	Martinique
+Trinidad and Tobago	0
+1	Caribbean Cup
+in Martinique	-20
++20	1341
+1482	-4
++6	123
+89
+August 21
+2011	Trinidad and Tobago
+India	3
+0	Friendly
+in Trinidad and Tobago	+4
+-4	1486
+1241	+1
+0	88
+146
+September 02
+2011	Trinidad and Tobago
+Bermuda	1
+0	World Cup qualifier
+in Trinidad and Tobago	+3
+-3	1489
+1150	+2
+0	86
+167
+September 06
+2011	Barbados
+Trinidad and Tobago	0
+2	World Cup qualifier
+in Barbados	-17
++17	1205
+1506	-4
++5	153
+81
+October 07
+2011	Bermuda
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Bermuda	+33
+-33	1176
+1473	+5
+-10	163
+91
+October 11
+2011	Trinidad and Tobago
+Barbados	4
+0	World Cup qualifier
+in Trinidad and Tobago	+7
+-7	1480
+1171	+4
+-1	87
+163
+November 11
+2011	Guyana
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Guyana	+21
+-21	1379
+1459	+6
+-5	111
+93
+November 15
+2011	Trinidad and Tobago
+Guyana	2
+0	World Cup qualifier
+in Trinidad and Tobago	+16
+-16	1475
+1363	+1
+-6	92
+117
+January 22
+2012	Trinidad and Tobago
+Finland	2
+3	Friendly
+in Trinidad and Tobago	-10
++10	1465
+1584	-1
++3	92
+59
+February 29
+2012	Antigua and Barbuda
+Trinidad and Tobago	0
+4	Friendly
+in Antigua and Barbuda	-16
++16	1290
+1481	-3
++2	137
+90
+August 15
+2012	Canada
+Trinidad and Tobago	2
+0	Friendly
+in the United States	+11
+-11	1585
+1470	+3
+-2	62
+91
+October 10
+2012	Trinidad and Tobago
+French Guiana	4
+1	Caribbean Cup qualifier
+in Saint Kitts and Nevis	+12
+-12	1482
+1177	+6
+-4	87
+162
+October 12
+2012	Saint Kitts and Nevis
+Trinidad and Tobago	0
+1	Caribbean Cup qualifier
+in Saint Kitts and Nevis	-10
++10	1187
+1492	-1
++3	157
+84
+October 14
+2012	Trinidad and Tobago
+Anguilla	10
+0	Caribbean Cup qualifier
+in Saint Kitts and Nevis	+1
+-1	1493
+640	0
+0	84
+226
+November 14
+2012	Trinidad and Tobago
+St. Vincent & Grenadines	1
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	-17
++17	1476
+1192	-7
++3	91
+157
+November 16
+2012	Trinidad and Tobago
+Surinam	3
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+6
+-6	1482
+1168	+4
+-3	87
+164
+November 18
+2012	Trinidad and Tobago
+Cuba	1
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+8
+-8	1490
+1343	+3
+0	84
+124
+December 07
+2012	Haiti
+Trinidad and Tobago	0
+0	Caribbean Cup
+in Antigua and Barbuda	+4
+-4	1432
+1486	0
+-1	99
+85
+December 09
+2012	Antigua and Barbuda
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Antigua and Barbuda	+42
+-42	1275
+1444	+10
+-10	140
+96
+December 11
+2012	Trinidad and Tobago
+Dominican Republic	2
+1	Caribbean Cup
+in Antigua and Barbuda	+11
+-11	1455
+1255	+3
+-4	93
+145
+December 14
+2012	Martinique
+Trinidad and Tobago	1
+1	Caribbean Cup
+in Antigua and Barbuda	+2
+-2	1419
+1453	0
+-3	101
+96
+December 16
+2012	Cuba
+Trinidad and Tobago	1
+0	Caribbean Cup
+in Antigua and Barbuda	+23
+-23	1422
+1430	+5
+-3	101
+99
+February 06
+2013	Trinidad and Tobago
+Peru	0
+2	Friendly
+in Trinidad and Tobago	-8
++8	1422
+1704	-1
+0	101
+35
+March 23
+2013	Belize
+Trinidad and Tobago	0
+0	Friendly
+in Belize	+5
+-5	1138
+1417	+2
+-1	171
+102
+March 26
+2013	Peru
+Trinidad and Tobago	3
+0	Friendly
+in Peru	+3
+-3	1726
+1414	0
+0	30
+102
+June 04
+2013	Romania
+Trinidad and Tobago	4
+0	Friendly
+in Romania	+3
+-3	1714
+1411	+1
+-2	32
+104
+June 07
+2013	Estonia
+Trinidad and Tobago	1
+0	Friendly
+in Estonia	+6
+-6	1459
+1405	+5
+0	91
+103
+July 08
+2013	El Salvador
+Trinidad and Tobago	2
+2	Concacaf Gold Cup
+in the United States	-8
++8	1511
+1413	-1
++3	80
+102
+July 12
+2013	Haiti
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+38
+-38	1448
+1375	+6
+-12	97
+113
+July 15
+2013	Trinidad and Tobago
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+63
+-63	1438
+1593	+15
+-11	98
+56
+July 20
+2013	Mexico
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1815
+1433	+1
+-1	18
+99
+September 05
+2013	Trinidad and Tobago
+United Arab Emirates	3
+3	Friendly tournament
+in Saudi Arabia	+7
+-7	1440
+1597	0
+-2	98
+57
+September 09
+2013	Saudi Arabia
+Trinidad and Tobago	1
+3	Friendly tournament
+in Saudi Arabia	-32
++32	1457
+1472	-8
++9	95
+90
+October 15
+2013	Trinidad and Tobago
+New Zealand	0
+0	Friendly
+in Trinidad and Tobago	+1
+-1	1473
+1598	+2
++1	88
+56
+November 15
+2013	Jamaica
+Trinidad and Tobago	0
+1	Friendly
+in Jamaica	-14
++14	1513
+1487	-4
++1	79
+87
+November 19
+2013	Trinidad and Tobago
+Jamaica	2
+0	Friendly
+in Trinidad and Tobago	+12
+-12	1499
+1501	+3
+-5	84
+83

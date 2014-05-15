@@ -1,0 +1,5463 @@
+March 25
+1876	Scotland
+Wales	4
+0	Friendly
+in Scotland	+3
+-3	1813
+1497	0
+-	1
+3
+March 05
+1877	Wales
+Scotland	0
+2	Friendly
+in Wales	-6
++6	1491
+1837	0
+0	3
+1
+March 23
+1878	Scotland
+Wales	9
+0	Friendly
+in Scotland	+3
+-3	1851
+1488	0
+0	1
+3
+January 18
+1879	England
+Wales	2
+1	Friendly
+in England	+2
+-2	1763
+1486	0
+0	2
+3
+April 07
+1879	Wales
+Scotland	0
+3	Friendly
+in Wales	-7
++7	1479
+1848	0
+0	3
+1
+March 15
+1880	Wales
+England	2
+3	Friendly
+in Wales	-5
++5	1474
+1773	0
+0	3
+2
+March 27
+1880	Scotland
+Wales	5
+1	Friendly
+in Scotland	+2
+-2	1855
+1472	0
+0	1
+3
+February 26
+1881	England
+Wales	0
+1	Friendly
+in England	-18
++18	1755
+1490	0
+0	2
+3
+March 14
+1881	Wales
+Scotland	1
+5	Friendly
+in Wales	-6
++6	1484
+1881	0
+0	3
+1
+February 25
+1882	Wales
+Ireland	7
+1	Friendly
+in Wales	+10
+-10	1494
+1378	0
+0	3
+4
+March 13
+1882	Wales
+England	5
+3	Friendly
+in Wales	+21
+-21	1515
+1718	0
+0	3
+2
+March 25
+1882	Scotland
+Wales	5
+0	Friendly
+in Scotland	+2
+-2	1891
+1513	0
+0	1
+3
+February 03
+1883	England
+Wales	5
+0	Friendly
+in England	+6
+-6	1724
+1507	0
+0	2
+3
+March 12
+1883	Wales
+Scotland	1
+4	Friendly
+in Wales	-5
++5	1502
+1904	0
+0	3
+1
+March 17
+1883	Ireland
+Wales	1
+1	Friendly
+in Ireland	+1
+-1	1376
+1501	0
+0	4
+3
+February 09
+1884	Wales
+Ireland	6
+0	British International Championship
+in Wales	+18
+-18	1519
+1352	0
+0	3
+4
+March 17
+1884	Wales
+England	0
+4	British International Championship
+in Wales	-26
++26	1493
+1754	0
+0	3
+2
+March 29
+1884	Scotland
+Wales	4
+1	British International Championship
+in Scotland	+3
+-3	1920
+1490	0
+0	1
+3
+March 14
+1885	England
+Wales	1
+1	British International Championship
+in England	-16
++16	1742
+1506	0
+0	2
+3
+March 23
+1885	Wales
+Scotland	1
+8	British International Championship
+in Wales	-13
++13	1493
+1930	0
+0	3
+1
+April 11
+1885	Ireland
+Wales	2
+8	British International Championship
+in Ireland	-35
++35	1295
+1528	0
+0	4
+3
+February 27
+1886	Wales
+Ireland	5
+0	British International Championship
+in Wales	+10
+-10	1538
+1285	0
+0	5
+6
+March 29
+1886	Wales
+England	1
+3	British International Championship
+in Wales	-19
++19	1519
+1788	0
+0	5
+2
+April 10
+1886	Scotland
+Wales	4
+1	British International Championship
+in Scotland	+4
+-4	1924
+1515	0
+0	1
+5
+February 26
+1887	England
+Wales	4
+0	British International Championship
+in England	+8
+-8	1799
+1507	0
+0	2
+5
+March 12
+1887	Ireland
+Wales	4
+1	British International Championship
+in Ireland	+48
+-48	1317
+1459	0
+0	6
+5
+March 21
+1887	Wales
+Scotland	0
+2	British International Championship
+in Wales	-6
++6	1453
+1950	0
+0	5
+1
+February 04
+1888	England
+Wales	5
+1	British International Championship
+in England	+6
+-6	1786
+1447	0
+0	2
+5
+March 03
+1888	Wales
+Ireland	11
+0	British International Championship
+in Wales	+23
+-23	1470
+1294	0
+0	5
+6
+March 10
+1888	Scotland
+Wales	5
+1	British International Championship
+in Scotland	+3
+-3	1953
+1467	0
+0	1
+5
+February 23
+1889	England
+Wales	4
+1	British International Championship
+in England	+4
+-4	1861
+1463	0
+0	2
+5
+April 15
+1889	Wales
+Scotland	0
+0	British International Championship
+in Wales	+15
+-15	1478
+1902	0
+0	5
+1
+April 27
+1889	Ireland
+Wales	1
+3	British International Championship
+in Ireland	-22
++22	1259
+1500	0
+0	6
+5
+February 08
+1890	Wales
+Ireland	5
+2	British International Championship
+in Wales	+9
+-9	1509
+1250	0
+0	5
+6
+March 15
+1890	Wales
+England	1
+3	British International Championship
+in Wales	-12
++12	1497
+1856	0
+0	5
+2
+March 22
+1890	Scotland
+Wales	5
+0	British International Championship
+in Scotland	+4
+-4	1906
+1493	0
+0	1
+5
+February 07
+1891	Ireland
+Wales	7
+2	British International Championship
+in Ireland	+56
+-56	1298
+1437	0
+0	6
+5
+March 07
+1891	England
+Wales	4
+1	British International Championship
+in England	+3
+-3	1869
+1434	0
+0	2
+5
+March 21
+1891	Wales
+Scotland	3
+4	British International Championship
+in Wales	-4
++4	1430
+1905	0
+0	5
+1
+February 27
+1892	Wales
+Ireland	1
+1	British International Championship
+in Wales	-12
++12	1418
+1307	0
+0	5
+6
+March 05
+1892	Wales
+England	0
+2	British International Championship
+in Wales	-6
++6	1412
+1895	0
++1	5
+1
+March 26
+1892	Scotland
+Wales	6
+1	British International Championship
+in Scotland	+3
+-3	1895
+1409	+1
+0	1
+5
+March 13
+1893	England
+Wales	6
+0	British International Championship
+in England	+2
+-2	1943
+1407	0
+0	1
+5
+March 18
+1893	Wales
+Scotland	0
+8	British International Championship
+in Wales	-12
++12	1395
+1862	0
+0	5
+2
+April 05
+1893	Ireland
+Wales	4
+3	British International Championship
+in Ireland	+20
+-20	1318
+1375	0
+0	6
+5
+February 24
+1894	Wales
+Ireland	4
+1	British International Championship
+in Wales	+20
+-20	1395
+1298	0
+0	5
+6
+March 12
+1894	Wales
+England	1
+5	British International Championship
+in Wales	-5
++5	1390
+1948	0
+0	5
+1
+March 24
+1894	Scotland
+Wales	5
+2	British International Championship
+in Scotland	+3
+-3	1849
+1387	0
+0	2
+5
+March 16
+1895	Ireland
+Wales	2
+2	British International Championship
+in Ireland	-1
++1	1311
+1388	0
+0	6
+5
+March 18
+1895	England
+Wales	1
+1	British International Championship
+in England	-19
++19	1930
+1407	0
+0	1
+5
+March 23
+1895	Wales
+Scotland	2
+2	British International Championship
+in Wales	+15
+-15	1422
+1837	0
+0	5
+2
+February 29
+1896	Wales
+Ireland	6
+1	British International Championship
+in Wales	+18
+-18	1440
+1291	0
+0	5
+6
+March 16
+1896	Wales
+England	1
+9	British International Championship
+in Wales	-8
++8	1432
+1957	0
+0	5
+1
+March 21
+1896	Scotland
+Wales	4
+0	British International Championship
+in Scotland	+4
+-4	1826
+1428	0
+0	2
+5
+March 06
+1897	Ireland
+Wales	4
+3	British International Championship
+in Ireland	+21
+-21	1326
+1407	0
+0	6
+5
+March 20
+1897	Wales
+Scotland	2
+2	British International Championship
+in Wales	+15
+-15	1422
+1817	0
+0	5
+2
+March 29
+1897	England
+Wales	4
+0	British International Championship
+in England	+2
+-2	1937
+1420	0
+0	1
+5
+February 19
+1898	Wales
+Ireland	0
+1	British International Championship
+in Wales	-30
++30	1390
+1354	0
+0	5
+6
+March 19
+1898	Scotland
+Wales	5
+2	British International Championship
+in Scotland	+3
+-3	1853
+1387	0
+0	2
+5
+March 28
+1898	Wales
+England	0
+3	British International Championship
+in Wales	-6
++6	1381
+1915	0
+0	5
+1
+March 04
+1899	Ireland
+Wales	1
+0	British International Championship
+in Ireland	+16
+-16	1359
+1365	0
+0	6
+5
+March 18
+1899	Wales
+Scotland	0
+6	British International Championship
+in Wales	-10
++10	1355
+1835	-1
+0	6
+2
+March 20
+1899	England
+Wales	4
+0	British International Championship
+in England	+1
+-1	1952
+1354	0
+0	1
+6
+February 03
+1900	Scotland
+Wales	5
+2	British International Championship
+in Scotland	+2
+-2	1831
+1352	0
+0	2
+6
+February 24
+1900	Wales
+Ireland	2
+0	British International Championship
+in Wales	+22
+-22	1374
+1334	+1
+-1	5
+6
+March 26
+1900	Wales
+England	1
+1	British International Championship
+in Wales	+18
+-18	1392
+1946	0
+0	5
+1
+March 02
+1901	Wales
+Scotland	1
+1	British International Championship
+in Wales	+16
+-16	1408
+1860	0
+0	5
+2
+March 18
+1901	England
+Wales	6
+0	British International Championship
+in England	+3
+-3	1914
+1405	0
+0	1
+5
+March 23
+1901	Ireland
+Wales	0
+1	British International Championship
+in Ireland	-21
++21	1300
+1426	0
+0	6
+5
+February 22
+1902	Wales
+Ireland	0
+3	British International Championship
+in Wales	-55
++55	1371
+1355	0
+0	7
+8
+March 03
+1902	Wales
+England	0
+0	British International Championship
+in Wales	+17
+-17	1388
+1889	0
+0	7
+1
+March 15
+1902	Scotland
+Wales	5
+1	British International Championship
+in Scotland	+2
+-2	1875
+1386	0
+0	2
+7
+March 02
+1903	England
+Wales	2
+1	British International Championship
+in England	+1
+-1	1889
+1385	0
+0	1
+9
+March 09
+1903	Wales
+Scotland	0
+1	British International Championship
+in Wales	-4
++4	1381
+1885	0
+0	9
+2
+March 28
+1903	Ireland
+Wales	2
+0	British International Championship
+in Ireland	+20
+-20	1424
+1361	0
+0	9
+10
+February 29
+1904	Wales
+England	2
+2	British International Championship
+in Wales	+16
+-16	1377
+1844	0
+-1	11
+2
+March 12
+1904	Scotland
+Wales	1
+1	British International Championship
+in Scotland	-19
++19	1836
+1396	-1
+0	2
+11
+March 21
+1904	Wales
+Ireland	0
+1	British International Championship
+in Wales	-25
++25	1371
+1441	0
+0	11
+10
+March 06
+1905	Wales
+Scotland	3
+1	British International Championship
+in Wales	+52
+-52	1423
+1746	0
+-1	14
+4
+March 27
+1905	England
+Wales	3
+1	British International Championship
+in England	+3
+-3	1861
+1420	0
+0	1
+14
+April 08
+1905	Ireland
+Wales	2
+2	British International Championship
+in Ireland	-8
++8	1457
+1428	0
+0	13
+14
+March 03
+1906	Scotland
+Wales	0
+2	British International Championship
+in Scotland	-55
++55	1690
+1483	-1
++1	6
+14
+March 19
+1906	Wales
+England	0
+1	British International Championship
+in Wales	-6
++6	1477
+1887	0
+0	14
+1
+April 02
+1906	Wales
+Ireland	4
+4	British International Championship
+in Wales	-8
++8	1469
+1442	0
+0	14
+15
+February 23
+1907	Ireland
+Wales	2
+3	British International Championship
+in Ireland	-24
++24	1416
+1493	0
+0	16
+15
+March 04
+1907	Wales
+Scotland	1
+0	British International Championship
+in Wales	+27
+-27	1520
+1700	0
+-1	15
+7
+March 18
+1907	England
+Wales	1
+1	British International Championship
+in England	-17
++17	1847
+1537	0
+0	1
+15
+March 07
+1908	Scotland
+Wales	2
+1	British International Championship
+in Scotland	+7
+-7	1726
+1530	0
+0	6
+15
+March 16
+1908	Wales
+England	1
+7	British International Championship
+in Wales	-19
++19	1511
+1862	0
+0	15
+1
+April 11
+1908	Wales
+Ireland	0
+1	British International Championship
+in Wales	-31
++31	1480
+1415	0
+0	16
+17
+March 01
+1909	Wales
+Scotland	3
+2	British International Championship
+in Wales	+29
+-29	1509
+1715	0
+-2	19
+7
+March 15
+1909	England
+Wales	2
+0	British International Championship
+in England	+2
+-2	1992
+1507	0
+0	1
+19
+March 20
+1909	Ireland
+Wales	2
+3	British International Championship
+in Ireland	-20
++20	1386
+1527	0
+0	20
+19
+March 05
+1910	Scotland
+Wales	1
+0	British International Championship
+in Scotland	+6
+-6	1722
+1521	0
+0	6
+19
+March 14
+1910	Wales
+England	0
+1	British International Championship
+in Wales	-4
++4	1517
+2003	0
+0	19
+1
+April 11
+1910	Wales
+Ireland	4
+1	British International Championship
+in Wales	+18
+-18	1535
+1417	0
+0	19
+20
+January 28
+1911	Ireland
+Wales	1
+2	British International Championship
+in Ireland	-19
++19	1398
+1554	0
++1	22
+19
+March 06
+1911	Wales
+Scotland	2
+2	British International Championship
+in Wales	+5
+-5	1559
+1732	0
+0	19
+7
+March 13
+1911	England
+Wales	3
+0	British International Championship
+in England	+4
+-4	1962
+1555	0
+0	1
+19
+March 02
+1912	Scotland
+Wales	1
+0	British International Championship
+in Scotland	+6
+-6	1758
+1549	0
+0	5
+20
+March 11
+1912	Wales
+England	0
+2	British International Championship
+in Wales	-9
++9	1540
+1968	0
+0	20
+1
+April 13
+1912	Wales
+Ireland	2
+3	British International Championship
+in Wales	-33
++33	1507
+1408	0
+0	20
+24
+January 18
+1913	Ireland
+Wales	0
+1	British International Championship
+in Ireland	-20
++20	1388
+1527	-1
++1	24
+19
+March 03
+1913	Wales
+Scotland	0
+0	British International Championship
+in Wales	+8
+-8	1535
+1767	0
+-2	19
+6
+March 17
+1913	England
+Wales	4
+3	British International Championship
+in England	+2
+-2	1997
+1533	0
+0	1
+19
+January 19
+1914	Wales
+Ireland	1
+2	British International Championship
+in Wales	-31
++31	1502
+1449	-1
+0	20
+24
+February 28
+1914	Scotland
+Wales	0
+0	British International Championship
+in Scotland	-16
++16	1754
+1518	-1
++1	7
+20
+March 16
+1914	Wales
+England	0
+2	British International Championship
+in Wales	-8
++8	1510
+1942	0
+0	21
+1
+February 14
+1920	Ireland
+Wales	2
+2	British International Championship
+in Ireland	-7
++7	1531
+1517	0
++1	21
+24
+February 26
+1920	Wales
+Scotland	1
+1	British International Championship
+in Wales	+9
+-9	1526
+1775	+1
+0	23
+8
+March 15
+1920	England
+Wales	1
+2	British International Championship
+in England	-37
++37	1854
+1563	-1
++1	2
+20
+February 12
+1921	Scotland
+Wales	2
+1	British International Championship
+in Scotland	+6
+-6	1778
+1557	0
+0	9
+23
+March 14
+1921	Wales
+England	0
+0	British International Championship
+in Wales	+8
+-8	1565
+1786	0
+-1	23
+9
+April 09
+1921	Wales
+Ireland	2
+1	British International Championship
+in Wales	+11
+-11	1576
+1488	+1
+0	21
+28
+February 04
+1922	Wales
+Scotland	2
+1	British International Championship
+in Wales	+28
+-28	1604
+1791	+4
+-2	20
+7
+March 13
+1922	England
+Wales	1
+0	British International Championship
+in England	+7
+-7	1781
+1597	0
+-1	9
+21
+April 01
+1922	Ireland
+Wales	1
+1	British International Championship
+in Ireland	0
+0	1494
+1597	0
+0	32
+21
+March 05
+1923	Wales
+England	2
+2	British International Championship
+in Wales	+4
+-4	1601
+1759	+1
+0	25
+10
+March 17
+1923	Scotland
+Wales	2
+0	British International Championship
+in Scotland	+8
+-8	1836
+1593	0
+-2	3
+26
+April 14
+1923	Wales
+Ireland	0
+3	British International Championship
+in Wales	-54
++54	1539
+1533	-4
++6	30
+31
+February 16
+1924	Wales
+Scotland	2
+0	British International Championship
+in Wales	+45
+-45	1584
+1782	+6
+-4	28
+8
+March 03
+1924	England
+Wales	1
+2	British International Championship
+in England	-34
++34	1751
+1618	-2
++8	10
+20
+March 15
+1924	Northern Ireland
+Wales	0
+1	British International Championship
+in Northern Ireland	-25
++25	1590
+1643	-6
++1	27
+19
+February 14
+1925	Scotland
+Wales	3
+1	British International Championship
+in Scotland	+11
+-11	1807
+1632	0
+0	6
+21
+February 28
+1925	Wales
+England	1
+2	British International Championship
+in Wales	-17
++17	1615
+1796	0
+0	21
+7
+April 18
+1925	Wales
+Northern Ireland	0
+0	British International Championship
+in Wales	-9
++9	1606
+1565	-3
++2	24
+28
+October 31
+1925	Wales
+Scotland	0
+3	British International Championship
+in Wales	-21
++21	1585
+1870	-2
+0	27
+3
+February 13
+1926	Northern Ireland
+Wales	3
+0	British International Championship
+in Northern Ireland	+27
+-27	1598
+1558	+3
+-2	25
+29
+March 01
+1926	England
+Wales	1
+3	British International Championship
+in England	-52
++52	1724
+1610	-3
++5	13
+24
+October 30
+1926	Scotland
+Wales	3
+0	British International Championship
+in Scotland	+7
+-7	1902
+1603	+1
+0	2
+25
+February 12
+1927	Wales
+England	3
+3	British International Championship
+in Wales	+1
+-1	1604
+1712	0
+0	24
+12
+April 09
+1927	Wales
+Northern Ireland	2
+2	British International Championship
+in Wales	-6
++6	1598
+1594	0
++1	24
+25
+October 29
+1927	Wales
+Scotland	2
+2	British International Championship
+in Wales	+10
+-10	1608
+1872	0
+0	26
+3
+November 28
+1927	England
+Wales	1
+2	British International Championship
+in England	-32
++32	1716
+1640	-2
++7	13
+19
+February 04
+1928	Northern Ireland
+Wales	1
+2	British International Championship
+in Northern Ireland	-25
++25	1607
+1665	-5
++2	25
+17
+October 27
+1928	Scotland
+Wales	4
+2	British International Championship
+in Scotland	+9
+-9	1880
+1656	0
+-1	4
+18
+November 17
+1928	Wales
+England	2
+3	British International Championship
+in Wales	-22
++22	1634
+1744	-2
++1	19
+12
+February 02
+1929	Wales
+Northern Ireland	2
+2	British International Championship
+in Wales	-6
++6	1628
+1638	-1
++1	20
+19
+October 26
+1929	Wales
+Scotland	2
+4	British International Championship
+in Wales	-15
++15	1613
+1937	-3
+0	21
+3
+November 20
+1929	England
+Wales	6
+0	British International Championship
+in England	+14
+-14	1803
+1599	0
+-3	9
+24
+February 01
+1930	Northern Ireland
+Wales	7
+0	British International Championship
+in Northern Ireland	+34
+-34	1618
+1565	+7
+-6	20
+30
+October 25
+1930	Scotland
+Wales	1
+1	British International Championship
+in Scotland	-17
++17	1889
+1582	-1
++1	4
+30
+November 22
+1930	Wales
+England	0
+4	British International Championship
+in Wales	-20
++20	1562
+1876	-1
++1	31
+5
+April 22
+1931	Wales
+Northern Ireland	3
+2	British International Championship
+in Wales	+17
+-17	1579
+1596	+1
+-5	30
+27
+October 31
+1931	Wales
+Scotland	2
+3	British International Championship
+in Wales	-10
++10	1569
+1891	0
+0	30
+5
+November 18
+1931	England
+Wales	3
+1	British International Championship
+in England	+6
+-6	1864
+1563	0
+-1	6
+31
+December 05
+1931	Northern Ireland
+Wales	4
+0	British International Championship
+in Northern Ireland	+27
+-27	1594
+1536	+3
+-1	27
+32
+October 26
+1932	Scotland
+Wales	2
+5	British International Championship
+in Scotland	-65
++65	1826
+1601	-1
++8	7
+26
+November 16
+1932	Wales
+England	0
+0	British International Championship
+in Wales	+11
+-11	1612
+1896	+4
+0	22
+4
+December 07
+1932	Wales
+Northern Ireland	4
+1	British International Championship
+in Wales	+22
+-22	1634
+1549	+2
+-2	21
+33
+May 25
+1933	France
+Wales	1
+1	Friendly
+in France	0
+0	1539
+1634	0
+0	35
+21
+October 04
+1933	Wales
+Scotland	3
+2	British International Championship
+in Wales	+24
+-24	1658
+1785	+3
+0	19
+8
+November 04
+1933	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	-1
++1	1568
+1659	0
+0	32
+18
+November 15
+1933	England
+Wales	1
+2	British International Championship
+in England	-35
++35	1879
+1694	0
++3	5
+15
+September 29
+1934	Wales
+England	0
+4	British International Championship
+in Wales	-29
++29	1665
+1907	-2
++2	17
+4
+November 21
+1934	Scotland
+Wales	3
+2	British International Championship
+in Scotland	+11
+-11	1754
+1654	0
+0	12
+17
+March 27
+1935	Wales
+Northern Ireland	3
+1	British International Championship
+in Wales	+17
+-17	1671
+1574	0
+-1	17
+29
+October 05
+1935	Wales
+Scotland	1
+1	British International Championship
+in Wales	+1
+-1	1672
+1789	0
+0	18
+9
+February 05
+1936	England
+Wales	1
+2	British International Championship
+in England	-35
++35	1877
+1707	-1
++3	5
+16
+March 11
+1936	Northern Ireland
+Wales	3
+2	British International Championship
+in Northern Ireland	+23
+-23	1579
+1684	+4
+-1	29
+17
+October 17
+1936	Wales
+England	2
+1	British International Championship
+in Wales	+22
+-22	1706
+1795	0
+-1	16
+7
+December 02
+1936	Scotland
+Wales	1
+2	British International Championship
+in Scotland	-31
++31	1802
+1737	-1
++3	7
+13
+March 17
+1937	Wales
+Northern Ireland	4
+1	British International Championship
+in Wales	+11
+-11	1748
+1541	0
+-1	13
+36
+October 30
+1937	Wales
+Scotland	2
+1	British International Championship
+in Wales	+20
+-20	1768
+1829	+1
+0	12
+5
+November 17
+1937	England
+Wales	2
+1	British International Championship
+in England	+10
+-10	1864
+1758	0
+-1	4
+13
+March 16
+1938	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+27
+-27	1566
+1731	+1
+0	35
+14
+October 22
+1938	Wales
+England	4
+2	British International Championship
+in Wales	+32
+-32	1763
+1823	0
+0	13
+7
+November 09
+1938	Scotland
+Wales	3
+2	British International Championship
+in Scotland	+9
+-9	1889
+1754	0
+0	3
+13
+March 15
+1939	Wales
+Northern Ireland	3
+1	British International Championship
+in Wales	+9
+-9	1763
+1534	0
+0	14
+35
+May 20
+1939	France
+Wales	2
+1	Friendly
+in France	+11
+-11	1627
+1752	+3
+0	22
+14
+October 19
+1946	Wales
+Scotland	3
+1	British International Championship
+in Wales	+32
+-32	1784
+1838	+1
+-2	11
+7
+November 13
+1946	England
+Wales	3
+0	British International Championship
+in England	+16
+-16	1907
+1768	0
+-1	4
+12
+April 16
+1947	Northern Ireland
+Wales	2
+1	British International Championship
+in Northern Ireland	+27
+-27	1561
+1741	+2
+-3	36
+15
+October 18
+1947	Wales
+England	0
+3	British International Championship
+in Wales	-28
++28	1713
+1941	-1
++1	17
+3
+November 12
+1947	Scotland
+Wales	1
+2	British International Championship
+in Scotland	-29
++29	1744
+1742	-2
+0	15
+17
+March 10
+1948	Wales
+Northern Ireland	2
+0	British International Championship
+in Wales	+13
+-13	1755
+1608	+3
+-3	14
+29
+October 23
+1948	Wales
+Scotland	1
+3	British International Championship
+in Wales	-43
++43	1712
+1743	-4
++3	17
+14
+November 10
+1948	England
+Wales	1
+0	British International Championship
+in England	+4
+-4	1992
+1708	0
+0	2
+16
+March 09
+1949	Northern Ireland
+Wales	0
+2	British International Championship
+in Northern Ireland	-28
++28	1559
+1736	-6
++2	36
+15
+May 15
+1949	Portugal
+Wales	3
+2	Friendly
+in Portugal	+10
+-10	1640
+1726	+2
+-1	25
+15
+May 22
+1949	Belgium
+Wales	3
+1	Friendly
+in Belgium	+19
+-19	1538
+1707	+3
+-3	40
+18
+May 26
+1949	Switzerland
+Wales	4
+0	Friendly
+in Switzerland	+16
+-16	1665
+1691	+1
+-3	22
+21
+October 15
+1949	Wales
+England	1
+4	World Cup qualifier
+in Wales	-23
++23	1668
+1940	-2
++1	21
+4
+November 09
+1949	Scotland
+Wales	2
+0	World Cup qualifier
+in Scotland	+11
+-11	1846
+1657	0
+-1	9
+22
+November 23
+1949	Wales
+Belgium	5
+1	Friendly
+in Wales	+10
+-10	1667
+1562	0
+-4	22
+34
+March 08
+1950	Wales
+Northern Ireland	0
+0	World Cup qualifier
+in Wales	-12
++12	1655
+1541	0
++2	21
+41
+October 21
+1950	Wales
+Scotland	1
+3	British International Championship
+in Wales	-23
++23	1632
+1860	-1
++2	25
+7
+November 15
+1950	England
+Wales	4
+2	British International Championship
+in England	+6
+-6	1925
+1626	0
+0	4
+25
+March 07
+1951	Northern Ireland
+Wales	1
+2	British International Championship
+in Northern Ireland	-20
++20	1502
+1646	-2
++1	45
+25
+May 12
+1951	Wales
+Portugal	2
+1	Friendly
+in Wales	+6
+-6	1652
+1611	+1
+-1	24
+28
+May 16
+1951	Wales
+Switzerland	3
+2	Friendly
+in Wales	+8
+-8	1660
+1665	0
+-1	24
+23
+October 20
+1951	Wales
+England	1
+1	British International Championship
+in Wales	+8
+-8	1668
+1889	+2
+-1	21
+5
+November 14
+1951	Scotland
+Wales	0
+1	British International Championship
+in Scotland	-35
++35	1857
+1703	-2
++3	6
+19
+March 19
+1952	Wales
+Northern Ireland	3
+0	British International Championship
+in Wales	+10
+-10	1713
+1478	+2
+-4	17
+53
+October 18
+1952	Wales
+Scotland	1
+2	British International Championship
+in Wales	-19
++19	1694
+1852	-3
++2	21
+7
+November 12
+1952	England
+Wales	5
+2	British International Championship
+in England	+9
+-9	1929
+1685	+1
+0	4
+21
+April 15
+1953	Northern Ireland
+Wales	2
+3	British International Championship
+in Northern Ireland	-16
++16	1490
+1701	-6
++2	51
+18
+May 14
+1953	France
+Wales	6
+1	Friendly
+in France	+14
+-14	1715
+1687	+1
+-2	17
+20
+May 21
+1953	Yugoslavia
+Wales	5
+2	Friendly
+in Yugoslavia	+5
+-5	1884
+1682	0
+0	6
+20
+October 10
+1953	Wales
+England	1
+4	World Cup qualifier
+in Wales	-21
++21	1661
+1947	-2
++1	24
+3
+November 04
+1953	Scotland
+Wales	3
+3	World Cup qualifier
+in Scotland	-13
++13	1830
+1674	-1
++2	11
+22
+March 31
+1954	Wales
+Northern Ireland	1
+2	World Cup qualifier
+in Wales	-34
++34	1640
+1510	-4
++9	26
+45
+May 09
+1954	Austria
+Wales	2
+0	Friendly
+in Austria	+6
+-6	1785
+1634	0
+0	13
+26
+September 22
+1954	Wales
+Yugoslavia	1
+3	Friendly
+in Wales	-10
++10	1624
+1871	-4
+0	29
+9
+October 16
+1954	Wales
+Scotland	0
+1	British International Championship
+in Wales	-20
++20	1604
+1744	-3
+0	32
+15
+November 10
+1954	England
+Wales	3
+2	British International Championship
+in England	+4
+-4	1913
+1600	0
+0	5
+32
+April 20
+1955	Northern Ireland
+Wales	2
+3	British International Championship
+in Northern Ireland	-21
++21	1494
+1621	-7
++2	52
+29
+October 22
+1955	Wales
+England	2
+1	British International Championship
+in Wales	+30
+-30	1651
+1882	+5
+0	23
+6
+November 09
+1955	Scotland
+Wales	2
+0	British International Championship
+in Scotland	+16
+-16	1739
+1635	+1
+-1	17
+25
+November 23
+1955	Wales
+Austria	1
+2	Friendly
+in Wales	-6
++6	1629
+1868	-1
+0	26
+7
+April 11
+1956	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-11
++11	1618
+1529	-1
+0	29
+45
+October 20
+1956	Wales
+Scotland	2
+2	British International Championship
+in Wales	+1
+-1	1619
+1741	0
+-1	30
+18
+November 14
+1956	England
+Wales	3
+1	British International Championship
+in England	+6
+-6	1919
+1613	0
+-1	4
+30
+April 10
+1957	Northern Ireland
+Wales	0
+0	British International Championship
+in Northern Ireland	-2
++2	1546
+1615	0
+0	42
+30
+May 01
+1957	Wales
+Czechoslovakia	1
+0	World Cup qualifier
+in Wales	+24
+-24	1639
+1765	+5
+-2	25
+16
+May 19
+1957	East Germany
+Wales	2
+1	World Cup qualifier
+in East Germany	+19
+-19	1574
+1620	+5
+-2	37
+27
+May 26
+1957	Czechoslovakia
+Wales	2
+0	World Cup qualifier
+in Czechoslovakia	+11
+-11	1794
+1609	+2
+-3	13
+30
+September 25
+1957	Wales
+East Germany	4
+1	World Cup qualifier
+in Wales	+21
+-21	1630
+1545	+2
+-2	30
+44
+October 19
+1957	Wales
+England	0
+4	British International Championship
+in Wales	-16
++16	1614
+1966	-1
++1	31
+3
+November 13
+1957	Scotland
+Wales	1
+1	British International Championship
+in Scotland	-13
++13	1774
+1627	0
++4	15
+30
+January 15
+1958	Israel
+Wales	0
+2	World Cup qualifier
+in Israel	-24
++24	1429
+1651	-5
++4	70
+25
+February 05
+1958	Wales
+Israel	2
+0	World Cup qualifier
+in Wales	+8
+-8	1659
+1421	0
+-1	25
+71
+April 16
+1958	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-6
++6	1653
+1649	0
++1	25
+26
+June 08
+1958	Hungary
+Wales	1
+1	World Cup
+in Sweden	-23
++23	1995
+1676	0
+-1	1
+26
+June 11
+1958	Mexico
+Wales	1
+1	World Cup
+in Sweden	-4
++4	1713
+1680	-1
++1	22
+25
+June 15
+1958	Sweden
+Wales	0
+0	World Cup
+in Sweden	-18
++18	1805
+1698	-4
++3	13
+22
+June 17
+1958	Wales
+Hungary	2
+1	World Cup
+in Sweden	+50
+-50	1748
+1928	+4
+0	18
+2
+June 19
+1958	Brazil
+Wales	1
+0	World Cup
+in Sweden	+10
+-10	2028
+1738	0
+-1	1
+19
+October 18
+1958	Wales
+Scotland	0
+3	British International Championship
+in Wales	-48
++48	1690
+1750	-5
++4	24
+18
+November 26
+1958	England
+Wales	2
+2	British International Championship
+in England	-14
++14	1887
+1704	0
++2	4
+22
+April 22
+1959	Northern Ireland
+Wales	4
+1	British International Championship
+in Northern Ireland	+25
+-25	1729
+1679	+3
+-2	21
+26
+October 17
+1959	Wales
+England	1
+1	British International Championship
+in Wales	+5
+-5	1684
+1856	+1
+-1	25
+7
+November 14
+1959	Scotland
+Wales	1
+1	British International Championship
+in Scotland	-11
++11	1777
+1695	-1
++1	16
+24
+April 06
+1960	Wales
+Northern Ireland	3
+2	British International Championship
+in Wales	+13
+-13	1708
+1662	0
+-2	22
+28
+September 28
+1960	Ireland
+Wales	2
+3	Friendly
+in Ireland	-13
++13	1710
+1721	-2
++2	23
+21
+October 22
+1960	Wales
+Scotland	2
+0	British International Championship
+in Wales	+23
+-23	1744
+1714	+2
+-3	19
+22
+November 23
+1960	England
+Wales	5
+1	British International Championship
+in England	+16
+-16	1889
+1728	+1
+-3	6
+22
+April 12
+1961	Northern Ireland
+Wales	1
+5	British International Championship
+in Northern Ireland	-35
++35	1566
+1763	-6
++3	45
+18
+April 19
+1961	Wales
+Spain	1
+2	World Cup qualifier
+in Wales	-19
++19	1744
+1898	0
++1	18
+7
+May 18
+1961	Spain
+Wales	1
+1	World Cup qualifier
+in Spain	-12
++12	1886
+1756	0
+0	8
+19
+May 28
+1961	Hungary
+Wales	3
+2	Friendly
+in Hungary	+3
+-3	1951
+1753	0
+0	3
+19
+October 14
+1961	Wales
+England	1
+1	British International Championship
+in Wales	+3
+-3	1756
+1897	+1
+0	19
+7
+November 08
+1961	Scotland
+Wales	2
+0	British International Championship
+in Scotland	+18
+-18	1826
+1738	0
+0	13
+20
+April 11
+1962	Wales
+Northern Ireland	4
+0	British International Championship
+in Wales	+12
+-12	1750
+1536	0
+-1	19
+49
+May 12
+1962	Brazil
+Wales	3
+1	Friendly
+in Brazil	+3
+-3	2063
+1747	0
+0	1
+19
+May 16
+1962	Brazil
+Wales	3
+1	Friendly
+in Brazil	+3
+-3	2066
+1744	0
+0	1
+19
+May 22
+1962	Mexico
+Wales	2
+1	Friendly
+in Mexico	+7
+-7	1773
+1737	0
+0	18
+19
+October 20
+1962	Wales
+Scotland	2
+3	British International Championship
+in Wales	-21
++21	1716
+1841	-1
+0	21
+10
+November 07
+1962	Hungary
+Wales	3
+1	European Cup qualifier
+in Hungary	+9
+-9	1930
+1707	0
+-1	4
+22
+November 21
+1962	England
+Wales	4
+0	British International Championship
+in England	+13
+-13	1887
+1694	+2
+0	7
+22
+March 20
+1963	Wales
+Hungary	1
+1	European Cup qualifier
+in Wales	+8
+-8	1702
+1929	+1
+-1	23
+4
+April 03
+1963	Northern Ireland
+Wales	1
+4	British International Championship
+in Northern Ireland	-33
++33	1546
+1735	-5
++3	51
+21
+October 12
+1963	Wales
+England	0
+4	British International Championship
+in Wales	-35
++35	1700
+1895	-3
++5	24
+5
+November 20
+1963	Scotland
+Wales	2
+1	British International Championship
+in Scotland	+8
+-8	1854
+1692	+1
+0	10
+24
+April 15
+1964	Wales
+Northern Ireland	2
+3	British International Championship
+in Wales	-31
++31	1661
+1603	-2
++7	28
+38
+October 03
+1964	Wales
+Scotland	3
+2	British International Championship
+in Wales	+26
+-26	1687
+1847	+3
+-5	26
+10
+October 21
+1964	Denmark
+Wales	1
+0	World Cup qualifier
+in Denmark	+20
+-20	1599
+1667	+2
+-1	42
+28
+November 18
+1964	England
+Wales	2
+1	British International Championship
+in England	+6
+-6	1878
+1661	+1
+0	4
+28
+December 09
+1964	Greece
+Wales	2
+0	World Cup qualifier
+in Greece	+37
+-37	1518
+1624	+13
+-5	57
+34
+March 17
+1965	Wales
+Greece	4
+1	World Cup qualifier
+in Wales	+16
+-16	1640
+1494	+4
+-4	30
+64
+March 31
+1965	Northern Ireland
+Wales	0
+5	British International Championship
+in Northern Ireland	-48
++48	1566
+1688	-8
++3	45
+27
+May 01
+1965	Italy
+Wales	4
+1	Friendly
+in Italy	+6
+-6	1872
+1682	+1
+-2	5
+29
+May 30
+1965	Soviet Union
+Wales	2
+1	World Cup qualifier
+in the Soviet Union	+7
+-7	1862
+1675	0
+-1	6
+30
+October 02
+1965	Wales
+England	0
+0	British International Championship
+in Wales	+7
+-7	1682
+1892	+2
+0	28
+4
+October 27
+1965	Wales
+Soviet Union	2
+1	World Cup qualifier
+in Wales	+25
+-25	1707
+1851	+2
+-5	26
+9
+November 24
+1965	Scotland
+Wales	4
+1	British International Championship
+in Scotland	+17
+-17	1827
+1690	+1
+-1	12
+30
+December 01
+1965	Wales
+Denmark	4
+2	World Cup qualifier
+in Wales	+13
+-13	1703
+1551	+1
+-1	29
+49
+March 30
+1966	Wales
+Northern Ireland	1
+4	British International Championship
+in Wales	-53
++53	1650
+1655	-5
++6	34
+33
+May 14
+1966	Brazil
+Wales	3
+1	Friendly
+in Brazil	+3
+-3	1946
+1647	0
+-1	2
+34
+May 18
+1966	Brazil
+Wales	1
+0	Friendly
+in Brazil	+2
+-2	1941
+1645	0
+0	2
+34
+May 22
+1966	Chile
+Wales	2
+0	Friendly
+in Chile	+8
+-8	1742
+1637	+1
+-1	20
+35
+October 22
+1966	Wales
+Scotland	1
+1	European Cup qualifier
+in Wales	0
+0	1637
+1744	+1
+0	34
+20
+November 16
+1966	England
+Wales	5
+1	European Cup qualifier
+in England	+4
+-4	2038
+1633	0
+-1	1
+35
+April 12
+1967	Northern Ireland
+Wales	0
+0	European Cup qualifier
+in Northern Ireland	-6
++6	1641
+1639	0
+0	32
+33
+October 21
+1967	Wales
+England	0
+3	European Cup qualifier
+in Wales	-12
++12	1627
+2024	0
+0	34
+1
+November 22
+1967	Scotland
+Wales	3
+2	European Cup qualifier
+in Scotland	+9
+-9	1762
+1618	+1
+-1	18
+36
+February 28
+1968	Wales
+Northern Ireland	2
+0	European Cup qualifier
+in Wales	+25
+-25	1643
+1634	+5
+-5	33
+37
+May 08
+1968	Wales
+West Germany	1
+1	Friendly
+in Wales	+5
+-5	1648
+1939	0
+0	34
+3
+October 23
+1968	Wales
+Italy	0
+1	World Cup qualifier
+in Wales	-11
++11	1637
+1919	-3
+0	34
+5
+March 26
+1969	West Germany
+Wales	1
+1	Friendly
+in West Germany	-8
++8	1946
+1645	0
++2	2
+30
+April 16
+1969	East Germany
+Wales	2
+1	World Cup qualifier
+in East Germany	+6
+-6	1868
+1639	+1
+-3	7
+33
+May 03
+1969	Wales
+Scotland	3
+5	British International Championship
+in Wales	-25
++25	1614
+1824	-4
++3	39
+11
+May 07
+1969	England
+Wales	2
+1	British International Championship
+in England	+2
+-2	2017
+1612	0
+0	1
+38
+May 10
+1969	Northern Ireland
+Wales	0
+0	British International Championship
+in Northern Ireland	-10
++10	1689
+1622	-1
++1	27
+37
+October 22
+1969	Wales
+East Germany	1
+3	World Cup qualifier
+in Wales	-19
++19	1603
+1881	-2
+0	40
+7
+November 04
+1969	Italy
+Wales	4
+1	World Cup qualifier
+in Italy	+6
+-6	1931
+1597	0
+-2	5
+44
+April 18
+1970	Wales
+England	1
+1	British International Championship
+in Wales	+15
+-15	1612
+2018	+4
+0	40
+1
+April 22
+1970	Scotland
+Wales	0
+0	British International Championship
+in Scotland	-13
++13	1770
+1625	-3
+0	16
+40
+April 25
+1970	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+16
+-16	1641
+1646	+4
+0	36
+34
+November 11
+1970	Wales
+Romania	0
+0	European Cup qualifier
+in Wales	+1
+-1	1642
+1755	+1
+0	36
+20
+April 21
+1971	Wales
+Czechoslovakia	1
+3	European Cup qualifier
+in Wales	-28
++28	1614
+1796	-3
++3	42
+12
+May 15
+1971	Wales
+Scotland	0
+0	British International Championship
+in Wales	+1
+-1	1615
+1725	0
+0	43
+23
+May 19
+1971	England
+Wales	0
+0	British International Championship
+in England	-18
++18	1983
+1633	-1
++4	3
+39
+May 22
+1971	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+12
+-12	1689
+1621	+1
+-2	28
+41
+May 26
+1971	Finland
+Wales	0
+1	European Cup qualifier
+in Finland	-12
++12	1356
+1633	-2
++2	97
+39
+October 13
+1971	Wales
+Finland	3
+0	European Cup qualifier
+in Wales	+7
+-7	1640
+1336	+1
+-2	39
+105
+October 27
+1971	Czechoslovakia
+Wales	1
+0	European Cup qualifier
+in Czechoslovakia	+7
+-7	1826
+1633	+1
+-1	9
+40
+November 24
+1971	Romania
+Wales	2
+0	European Cup qualifier
+in Romania	+13
+-13	1768
+1620	+1
+-1	17
+41
+May 20
+1972	Wales
+England	0
+3	British International Championship
+in Wales	-14
++14	1606
+1977	-1
+0	41
+3
+May 24
+1972	Scotland
+Wales	1
+0	British International Championship
+in Scotland	+9
+-9	1736
+1597	+2
+-4	22
+45
+May 27
+1972	Wales
+Northern Ireland	0
+0	British International Championship
+in Wales	+1
+-1	1598
+1709	0
+0	45
+27
+November 15
+1972	Wales
+England	0
+1	World Cup qualifier
+in Wales	-8
++8	1590
+1958	-2
+0	46
+3
+January 24
+1973	England
+Wales	1
+1	World Cup qualifier
+in England	-17
++17	1941
+1607	0
++3	3
+42
+March 28
+1973	Wales
+Poland	2
+0	World Cup qualifier
+in Wales	+47
+-47	1654
+1886	+8
+-1	34
+5
+May 12
+1973	Wales
+Scotland	0
+2	British International Championship
+in Wales	-30
++30	1624
+1788	-6
++6	40
+16
+May 15
+1973	England
+Wales	3
+0	British International Championship
+in England	+5
+-5	1966
+1619	0
++1	3
+40
+May 19
+1973	Northern Ireland
+Wales	1
+0	British International Championship
+in England	+15
+-15	1714
+1604	0
+-1	27
+41
+September 26
+1973	Poland
+Wales	3
+0	World Cup qualifier
+in Poland	+5
+-5	1939
+1599	0
+-1	4
+41
+May 11
+1974	Wales
+England	0
+2	British International Championship
+in Wales	-13
++13	1586
+1941	-3
+0	43
+4
+May 14
+1974	Scotland
+Wales	2
+0	British International Championship
+in Scotland	+13
+-13	1730
+1573	+2
+-2	26
+44
+May 18
+1974	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+24
+-24	1597
+1720	+4
+-6	41
+28
+September 04
+1974	Austria
+Wales	2
+1	European Cup qualifier
+in Austria	+7
+-7	1770
+1590	0
+0	20
+41
+October 30
+1974	Wales
+Hungary	2
+0	European Cup qualifier
+in Wales	+42
+-42	1632
+1801	+3
+-4	38
+15
+November 20
+1974	Wales
+Luxembourg	5
+0	European Cup qualifier
+in Wales	+5
+-5	1637
+1255	0
+-2	38
+127
+April 16
+1975	Hungary
+Wales	1
+2	European Cup qualifier
+in Hungary	-33
++33	1764
+1670	-5
++7	21
+31
+May 01
+1975	Luxembourg
+Wales	1
+3	European Cup qualifier
+in Luxembourg	-8
++8	1244
+1678	-1
++2	130
+29
+May 17
+1975	Wales
+Scotland	2
+2	British International Championship
+in Wales	+4
+-4	1682
+1839	0
+-2	29
+12
+May 21
+1975	England
+Wales	2
+2	British International Championship
+in England	-15
++15	1924
+1697	0
+0	5
+29
+May 23
+1975	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+12
+-12	1757
+1685	0
+0	22
+29
+November 19
+1975	Wales
+Austria	1
+0	European Cup qualifier
+in Wales	+19
+-19	1704
+1744	+1
+-1	27
+22
+March 24
+1976	Wales
+England	1
+2	Friendly
+in Wales	-7
++7	1697
+1934	-2
+0	29
+5
+April 24
+1976	Yugoslavia
+Wales	2
+0	European Cup qualifier
+in Yugoslavia	+9
+-9	1911
+1688	+1
+0	6
+29
+May 06
+1976	Scotland
+Wales	3
+1	British International Championship
+in Scotland	+11
+-11	1859
+1677	+1
+-1	10
+30
+May 08
+1976	Wales
+England	0
+1	British International Championship
+in Wales	-12
++12	1665
+1946	-1
++1	31
+4
+May 14
+1976	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+17
+-17	1682
+1692	+1
+-1	30
+28
+May 22
+1976	Wales
+Yugoslavia	1
+1	European Cup qualifier
+in Wales	+7
+-7	1689
+1904	+1
+-1	29
+7
+October 06
+1976	Wales
+West Germany	0
+2	Friendly
+in Wales	-5
++5	1684
+2080	-2
+0	31
+1
+November 17
+1976	Scotland
+Wales	1
+0	World Cup qualifier
+in Scotland	+6
+-6	1882
+1678	0
++1	10
+30
+March 30
+1977	Wales
+Czechoslovakia	3
+0	World Cup qualifier
+in Wales	+51
+-51	1729
+1903	+4
+-1	26
+5
+May 28
+1977	Wales
+Scotland	0
+0	British International Championship
+in Wales	+3
+-3	1732
+1886	+1
+0	25
+9
+May 31
+1977	England
+Wales	0
+1	British International Championship
+in England	-33
++33	1879
+1765	-4
++3	9
+22
+June 03
+1977	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	0
+0	1669
+1765	0
+0	33
+22
+September 06
+1977	Wales
+Kuwait	0
+0	Friendly
+in Wales	-5
++5	1760
+1696	0
++3	21
+28
+September 20
+1977	Kuwait
+Wales	0
+0	Friendly
+in Kuwait	-1
++1	1695
+1761	-1
+0	30
+21
+October 12
+1977	Scotland
+Wales	2
+0	World Cup qualifier
+in England	+16
+-16	1949
+1745	0
+-2	4
+23
+November 16
+1977	Czechoslovakia
+Wales	1
+0	World Cup qualifier
+in Czechoslovakia	+9
+-9	1859
+1736	0
+-1	13
+24
+December 14
+1977	West Germany
+Wales	1
+1	Friendly
+in West Germany	-9
++9	2084
+1745	0
++1	1
+23
+April 18
+1978	Iran
+Wales	0
+1	Friendly
+in Iran	-14
++14	1775
+1759	0
++1	19
+22
+May 13
+1978	Wales
+England	1
+3	British International Championship
+in Wales	-28
++28	1731
+1908	-1
++5	24
+6
+May 17
+1978	Scotland
+Wales	1
+1	British International Championship
+in Scotland	-14
++14	1921
+1745	0
+0	4
+24
+May 19
+1978	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+11
+-11	1756
+1676	+1
+-3	23
+32
+October 25
+1978	Wales
+Malta	7
+0	European Cup qualifier
+in Wales	+3
+-3	1759
+1250	+2
+-1	21
+127
+November 29
+1978	Wales
+Turkey	1
+0	European Cup qualifier
+in Wales	+7
+-7	1766
+1578	+1
+0	20
+48
+May 02
+1979	Wales
+West Germany	0
+2	European Cup qualifier
+in Wales	-22
++22	1744
+1984	-4
++2	25
+3
+May 19
+1979	Wales
+Scotland	3
+0	British International Championship
+in Wales	+35
+-35	1779
+1807	+7
+-2	18
+15
+May 23
+1979	England
+Wales	0
+0	British International Championship
+in England	-14
++14	1967
+1793	-2
+0	6
+18
+May 26
+1979	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	-1
++1	1704
+1794	0
+0	27
+18
+June 02
+1979	Malta
+Wales	0
+2	European Cup qualifier
+in Malta	-5
++5	1260
+1799	-1
++2	126
+16
+September 11
+1979	Wales
+Ireland	2
+1	Friendly
+in Wales	+4
+-4	1803
+1667	+1
+-1	16
+31
+October 17
+1979	West Germany
+Wales	5
+1	European Cup qualifier
+in West Germany	+12
+-12	2010
+1791	0
+-4	2
+20
+November 21
+1979	Turkey
+Wales	1
+0	European Cup qualifier
+in Turkey	+25
+-25	1618
+1766	+4
+-1	44
+21
+May 17
+1980	Wales
+England	4
+1	British International Championship
+in Wales	+50
+-50	1816
+1976	+3
+-2	16
+4
+May 21
+1980	Scotland
+Wales	1
+0	British International Championship
+in Scotland	+18
+-18	1773
+1798	+2
+-1	19
+17
+May 23
+1980	Wales
+Northern Ireland	0
+1	British International Championship
+in Wales	-30
++30	1768
+1735	-3
++2	20
+25
+June 02
+1980	Iceland
+Wales	0
+4	World Cup qualifier
+in Iceland	-9
++9	1310
+1777	-4
++1	112
+18
+October 15
+1980	Wales
+Turkey	4
+0	World Cup qualifier
+in Wales	+11
+-11	1788
+1556	0
+-1	18
+55
+November 19
+1980	Wales
+Czechoslovakia	1
+0	World Cup qualifier
+in Wales	+19
+-19	1807
+1854	+3
+0	15
+13
+February 24
+1981	Ireland
+Wales	1
+3	Friendly
+in Ireland	-15
++15	1686
+1822	-2
++1	29
+15
+March 25
+1981	Turkey
+Wales	0
+1	World Cup qualifier
+in Turkey	-11
++11	1539
+1833	-2
+0	58
+15
+May 16
+1981	Wales
+Scotland	2
+0	British International Championship
+in Wales	+17
+-17	1850
+1759	+2
+-3	13
+24
+May 20
+1981	England
+Wales	0
+0	British International Championship
+in England	-9
++9	1904
+1859	0
+0	7
+13
+May 30
+1981	Wales
+Soviet Union	0
+0	World Cup qualifier
+in Wales	-2
++2	1857
+1932	+1
++1	12
+4
+September 09
+1981	Czechoslovakia
+Wales	2
+0	World Cup qualifier
+in Czechoslovakia	+22
+-22	1870
+1835	+4
+-2	10
+15
+October 14
+1981	Wales
+Iceland	2
+2	World Cup qualifier
+in Wales	-18
++18	1817
+1456	-1
++1	16
+80
+November 18
+1981	Soviet Union
+Wales	3
+0	World Cup qualifier
+in the Soviet Union	+14
+-14	1972
+1803	+1
+0	3
+16
+March 24
+1982	Spain
+Wales	1
+1	Friendly
+in Spain	-4
++4	1842
+1807	0
+0	15
+16
+April 27
+1982	Wales
+England	0
+1	British International Championship
+in Wales	-22
++22	1785
+1892	-3
++3	19
+6
+May 24
+1982	Scotland
+Wales	1
+0	British International Championship
+in Scotland	+14
+-14	1816
+1771	+1
+0	16
+19
+May 27
+1982	Wales
+Northern Ireland	3
+0	British International Championship
+in Wales	+20
+-20	1791
+1695	0
+-4	19
+30
+June 02
+1982	France
+Wales	0
+1	Friendly
+in France	-14
++14	1835
+1805	-2
++3	15
+16
+September 22
+1982	Wales
+Norway	1
+0	European Cup qualifier
+in Wales	+4
+-4	1809
+1502	0
+-1	15
+66
+December 15
+1982	Yugoslavia
+Wales	4
+4	European Cup qualifier
+in Yugoslavia	-6
++6	1810
+1815	-1
++1	15
+14
+February 23
+1983	England
+Wales	2
+1	British International Championship
+in England	+7
+-7	1982
+1808	0
+-3	2
+16
+April 27
+1983	Wales
+Bulgaria	1
+0	European Cup qualifier
+in Wales	+7
+-7	1815
+1629	+1
+-1	13
+39
+May 28
+1983	Wales
+Scotland	0
+2	British International Championship
+in Wales	-42
++42	1773
+1813	-5
++5	19
+14
+May 31
+1983	Northern Ireland
+Wales	0
+1	British International Championship
+in Northern Ireland	-24
++24	1722
+1797	-4
++3	26
+16
+June 12
+1983	Wales
+Brazil	1
+1	Friendly
+in Wales	+5
+-5	1802
+2080	0
+0	16
+1
+September 21
+1983	Norway
+Wales	0
+0	European Cup qualifier
+in Norway	+9
+-9	1547
+1793	0
+-2	56
+18
+October 12
+1983	Wales
+Romania	5
+0	Friendly
+in Wales	+14
+-14	1807
+1773	+2
+-1	16
+20
+November 16
+1983	Bulgaria
+Wales	1
+0	European Cup qualifier
+in Bulgaria	+21
+-21	1707
+1786	+2
+-5	31
+21
+December 14
+1983	Wales
+Yugoslavia	1
+1	European Cup qualifier
+in Wales	-5
++5	1781
+1807	-1
++2	23
+15
+February 28
+1984	Scotland
+Wales	2
+1	British International Championship
+in Scotland	+14
+-14	1801
+1767	+4
+-2	18
+25
+May 02
+1984	Wales
+England	1
+0	British International Championship
+in Wales	+25
+-25	1792
+1924	+2
+-1	21
+4
+May 22
+1984	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-6
++6	1786
+1786	-1
++1	22
+22
+June 06
+1984	Norway
+Wales	1
+0	Friendly
+in Norway	+14
+-14	1569
+1772	+3
+-1	50
+22
+June 10
+1984	Israel
+Wales	0
+0	Friendly
+in Israel	0
+0	1676
+1772	0
+0	35
+22
+September 12
+1984	Iceland
+Wales	1
+0	World Cup qualifier
+in Iceland	+33
+-33	1439
+1739	+7
+-4	82
+25
+October 17
+1984	Spain
+Wales	3
+0	World Cup qualifier
+in Spain	+17
+-17	1853
+1722	+3
+-6	9
+31
+November 14
+1984	Wales
+Iceland	2
+1	World Cup qualifier
+in Wales	+4
+-4	1726
+1444	+1
+-1	30
+82
+February 26
+1985	Wales
+Norway	1
+1	Friendly
+in Wales	-5
++5	1721
+1627	-3
+0	30
+42
+March 27
+1985	Scotland
+Wales	0
+1	World Cup qualifier
+in Scotland	-30
++30	1792
+1751	-9
++1	19
+28
+April 30
+1985	Wales
+Spain	3
+0	World Cup qualifier
+in Wales	+34
+-34	1785
+1806	+7
+-4	19
+13
+June 05
+1985	Norway
+Wales	4
+2	Friendly
+in Norway	+17
+-17	1644
+1768	+4
+-3	38
+23
+September 10
+1985	Wales
+Scotland	1
+1	World Cup qualifier
+in Wales	-3
++3	1765
+1819	0
+0	24
+12
+October 16
+1985	Wales
+Hungary	0
+3	Friendly
+in Wales	-20
++20	1745
+1829	-4
++4	27
+10
+February 25
+1986	Saudi Arabia
+Wales	1
+2	Friendly
+in Saudi Arabia	-7
++7	1529
+1752	-1
++2	65
+27
+March 26
+1986	Ireland
+Wales	0
+1	Friendly
+in Ireland	-10
++10	1654
+1762	-1
++2	36
+26
+April 21
+1986	Wales
+Uruguay	0
+0	Friendly
+in Wales	-1
++1	1761
+1815	0
++1	26
+15
+May 10
+1986	Canada
+Wales	2
+0	Friendly
+in Canada	+18
+-18	1609
+1743	+3
+-2	46
+29
+May 19
+1986	Canada
+Wales	0
+3	Friendly
+in Canada	-16
++16	1593
+1759	-3
++2	49
+27
+September 10
+1986	Finland
+Wales	1
+1	European Cup qualifier
+in Finland	+7
+-7	1531
+1752	+2
+-1	65
+24
+February 18
+1987	Wales
+Soviet Union	0
+0	Friendly
+in Wales	+3
+-3	1755
+1949	+1
+-1	21
+4
+April 01
+1987	Wales
+Finland	4
+0	European Cup qualifier
+in Wales	+9
+-9	1764
+1508	+2
+-3	19
+68
+April 29
+1987	Wales
+Czechoslovakia	1
+1	European Cup qualifier
+in Wales	-2
++2	1762
+1835	0
+-2	19
+14
+September 09
+1987	Wales
+Denmark	1
+0	European Cup qualifier
+in Wales	+22
+-22	1784
+1868	+2
+-1	19
+7
+October 14
+1987	Denmark
+Wales	1
+0	European Cup qualifier
+in Denmark	+11
+-11	1873
+1773	+2
+0	6
+20
+November 11
+1987	Czechoslovakia
+Wales	2
+0	European Cup qualifier
+in Czechoslovakia	+21
+-21	1805
+1752	+3
+-2	16
+23
+March 23
+1988	Wales
+Yugoslavia	1
+2	Friendly
+in Wales	-12
++12	1740
+1804	-4
++3	26
+16
+April 27
+1988	Sweden
+Wales	4
+1	Friendly
+in Sweden	+6
+-6	1907
+1734	+1
+-2	5
+27
+June 01
+1988	Malta
+Wales	2
+3	Friendly
+in Malta	-3
++3	1361
+1737	0
+0	102
+26
+June 04
+1988	Italy
+Wales	0
+1	Friendly
+in Italy	-17
++17	1890
+1754	-1
++2	7
+24
+September 14
+1988	Netherlands
+Wales	1
+0	World Cup qualifier
+in the Netherlands	+5
+-5	2013
+1749	0
+-1	1
+25
+October 19
+1988	Wales
+Finland	2
+2	World Cup qualifier
+in Wales	-14
++14	1735
+1567	-1
++3	28
+49
+February 08
+1989	Israel
+Wales	3
+3	Friendly
+in Israel	+1
+-1	1609
+1734	0
+0	45
+26
+April 26
+1989	Wales
+Sweden	0
+2	Friendly
+in Wales	-12
++12	1722
+1918	-3
+0	28
+6
+May 31
+1989	Wales
+West Germany	0
+0	World Cup qualifier
+in Wales	+7
+-7	1729
+1950	0
++1	28
+3
+September 06
+1989	Finland
+Wales	1
+0	World Cup qualifier
+in Finland	+24
+-24	1578
+1705	+7
+-1	49
+29
+October 11
+1989	Wales
+Netherlands	1
+2	World Cup qualifier
+in Wales	-9
++9	1696
+2018	-1
+0	31
+1
+November 15
+1989	West Germany
+Wales	2
+1	World Cup qualifier
+in West Germany	+5
+-5	1959
+1691	0
++2	2
+29
+March 28
+1990	Ireland
+Wales	1
+0	Friendly
+in Ireland	+4
+-4	1847
+1687	+1
+-1	15
+31
+April 25
+1990	Sweden
+Wales	4
+2	Friendly
+in Sweden	+4
+-4	1910
+1683	0
+-1	7
+32
+May 19
+1990	Wales
+Costa Rica	1
+0	Friendly
+in Wales	+4
+-4	1687
+1554	0
+-1	31
+54
+September 11
+1990	Denmark
+Wales	1
+0	Friendly
+in Denmark	+3
+-3	1866
+1684	0
+-1	9
+32
+October 17
+1990	Wales
+Belgium	3
+1	European Cup qualifier
+in Wales	+33
+-33	1717
+1781	+4
+-3	27
+20
+November 14
+1990	Luxembourg
+Wales	0
+1	European Cup qualifier
+in Luxembourg	-2
++2	1134
+1719	-1
+0	157
+27
+February 06
+1991	Wales
+Ireland	0
+3	Friendly
+in Wales	-16
++16	1703
+1864	-5
++1	32
+9
+March 27
+1991	Belgium
+Wales	1
+1	European Cup qualifier
+in Belgium	-10
++10	1779
+1713	-1
++2	19
+30
+May 01
+1991	Wales
+Iceland	1
+0	Friendly
+in Wales	+3
+-3	1716
+1506	+1
+0	29
+64
+May 29
+1991	Poland
+Wales	0
+0	Friendly
+in Poland	-4
++4	1744
+1720	-1
++2	24
+27
+June 05
+1991	Wales
+Germany	1
+0	European Cup qualifier
+in Wales	+32
+-32	1752
+2017	+4
+0	23
+1
+September 11
+1991	Wales
+Brazil	1
+0	Friendly
+in Wales	+12
+-12	1764
+1907	+1
+0	21
+6
+October 16
+1991	Germany
+Wales	4
+1	European Cup qualifier
+in Germany	+8
+-8	2036
+1756	0
+0	1
+21
+November 13
+1991	Wales
+Luxembourg	1
+0	European Cup qualifier
+in Wales	+1
+-1	1757
+1138	0
+0	21
+158
+February 19
+1992	Ireland
+Wales	0
+1	Friendly
+in Ireland	-16
++16	1857
+1773	0
++3	10
+19
+April 29
+1992	Austria
+Wales	1
+1	Friendly
+in Austria	+3
+-3	1572
+1770	-1
+-2	53
+21
+May 20
+1992	Romania
+Wales	5
+1	World Cup qualifier
+in Romania	+27
+-27	1793
+1743	+4
+-3	18
+24
+May 30
+1992	Netherlands
+Wales	4
+0	Friendly
+in the Netherlands	+6
+-6	1922
+1737	+1
+0	6
+24
+June 03
+1992	Argentina
+Wales	1
+0	Kirin Cup
+in Japan	+7
+-7	1958
+1730	0
+-4	3
+28
+June 07
+1992	Japan
+Wales	0
+1	Kirin Cup
+in Japan	-6
++6	1396
+1736	-3
++3	97
+25
+September 09
+1992	Wales
+Faroe Islands	6
+0	World Cup qualifier
+in Wales	+2
+-2	1738
+1159	-1
+0	26
+155
+October 14
+1992	Cyprus
+Wales	0
+1	World Cup qualifier
+in Cyprus	-5
++5	1283
+1743	-2
++1	127
+25
+November 18
+1992	Belgium
+Wales	2
+0	World Cup qualifier
+in Belgium	+16
+-16	1837
+1727	+2
+-4	12
+28
+February 17
+1993	Ireland
+Wales	2
+1	Friendly
+in Ireland	+4
+-4	1855
+1723	0
+0	11
+27
+March 31
+1993	Wales
+Belgium	2
+0	World Cup qualifier
+in Wales	+32
+-32	1755
+1810	+6
+-1	21
+13
+April 28
+1993	Czechoslovakia
+Wales	1
+1	World Cup qualifier
+in Czechoslovakia	-6
++6	1764
+1761	-1
+0	20
+21
+June 06
+1993	Faroe Islands
+Wales	0
+3	World Cup qualifier
+in Faroe Islands	-3
++3	1143
+1764	-3
++1	162
+22
+September 08
+1993	Wales
+Czechoslovakia	2
+2	World Cup qualifier
+in Wales	-4
++4	1760
+1794	0
+0	23
+19
+October 13
+1993	Wales
+Cyprus	2
+0	World Cup qualifier
+in Wales	+3
+-3	1763
+1322	0
+-2	23
+123
+November 17
+1993	Wales
+Romania	1
+2	World Cup qualifier
+in Wales	-26
++26	1737
+1773	-2
++2	25
+22
+March 09
+1994	Wales
+Norway	1
+3	Friendly
+in Wales	-16
++16	1721
+1821	-1
++1	26
+15
+April 20
+1994	Wales
+Sweden	0
+2	Friendly
+in Wales	-14
++14	1707
+1866	0
++1	28
+9
+May 23
+1994	Estonia
+Wales	1
+2	Friendly
+in Estonia	-2
++2	1191
+1709	-1
+0	157
+28
+September 07
+1994	Wales
+Albania	2
+0	European Cup qualifier
+in Wales	+4
+-4	1713
+1337	0
+-2	28
+122
+October 12
+1994	Moldova
+Wales	3
+2	European Cup qualifier
+in Moldova	+30
+-30	1462
+1683	+9
+-4	84
+32
+November 16
+1994	Georgia
+Wales	5
+0	European Cup qualifier
+in Georgia	+53
+-53	1515
+1630	+12
+-7	70
+38
+December 14
+1994	Wales
+Bulgaria	0
+3	European Cup qualifier
+in Wales	-29
++29	1601
+1822	-5
++1	43
+21
+March 29
+1995	Bulgaria
+Wales	3
+1	European Cup qualifier
+in Bulgaria	+9
+-9	1819
+1592	0
+-2	21
+48
+April 26
+1995	Germany
+Wales	1
+1	European Cup qualifier
+in Germany	-18
++18	1952
+1610	-1
++8	3
+41
+June 07
+1995	Wales
+Georgia	0
+1	European Cup qualifier
+in Wales	-29
++29	1581
+1562	-9
++8	50
+54
+September 06
+1995	Wales
+Moldova	1
+0	European Cup qualifier
+in Wales	+6
+-6	1587
+1368	+1
+-2	47
+115
+October 11
+1995	Wales
+Germany	1
+2	European Cup qualifier
+in Wales	-6
++6	1581
+1985	-2
+0	50
+2
+November 15
+1995	Albania
+Wales	1
+1	European Cup qualifier
+in Albania	+6
+-6	1385
+1575	-1
+0	112
+50
+January 24
+1996	Italy
+Wales	3
+0	Friendly
+in Italy	+2
+-2	1953
+1573	0
+0	3
+53
+April 24
+1996	Switzerland
+Wales	2
+0	Friendly
+in Switzerland	+5
+-5	1776
+1568	0
+-1	23
+55
+June 02
+1996	San Marino
+Wales	0
+5	World Cup qualifier
+in San Marino	-4
++4	935
+1572	0
++1	196
+54
+August 31
+1996	Wales
+San Marino	6
+0	World Cup qualifier
+in Wales	+1
+-1	1573
+934	-1
+0	55
+196
+October 05
+1996	Wales
+Netherlands	1
+3	World Cup qualifier
+in Wales	-14
++14	1559
+1887	-1
+0	57
+10
+November 09
+1996	Netherlands
+Wales	7
+1	World Cup qualifier
+in the Netherlands	+7
+-7	1894
+1552	+2
+-1	8
+57
+December 14
+1996	Wales
+Turkey	0
+0	World Cup qualifier
+in Wales	0
+0	1552
+1656	0
+0	60
+37
+February 11
+1997	Wales
+Ireland	0
+0	Friendly
+in Wales	+1
+-1	1553
+1693	0
+0	60
+31
+March 29
+1997	Wales
+Belgium	1
+2	World Cup qualifier
+in Wales	-17
++17	1536
+1717	-4
++2	65
+25
+May 27
+1997	Scotland
+Wales	0
+1	Friendly
+in Scotland	-17
++17	1748
+1553	-1
++2	24
+62
+August 20
+1997	Turkey
+Wales	6
+4	World Cup qualifier
+in Turkey	+15
+-15	1656
+1538	+3
+-2	39
+65
+October 11
+1997	Belgium
+Wales	3
+2	World Cup qualifier
+in Belgium	+6
+-6	1747
+1532	0
+-2	23
+67
+November 11
+1997	Brazil
+Wales	3
+0	Friendly
+in Brazil	+1
+-1	2122
+1531	0
+0	1
+66
+March 25
+1998	Wales
+Jamaica	0
+0	Friendly
+in Wales	+1
+-1	1532
+1657	0
++1	65
+40
+June 03
+1998	Malta
+Wales	0
+3	Friendly
+in Malta	-7
++7	1188
+1539	-2
++2	157
+63
+June 06
+1998	Tunisia
+Wales	4
+0	Friendly
+in Tunisia	+10
+-10	1630
+1529	+6
+-2	46
+65
+September 05
+1998	Wales
+Italy	0
+2	European Cup qualifier
+in Wales	-7
++7	1522
+1986	0
+0	66
+3
+October 10
+1998	Denmark
+Wales	1
+2	European Cup qualifier
+in Denmark	-36
++36	1781
+1558	-3
++8	19
+59
+October 14
+1998	Wales
+Belarus	3
+2	European Cup qualifier
+in Wales	+7
+-7	1565
+1386	+2
+-4	57
+111
+March 31
+1999	Switzerland
+Wales	2
+0	European Cup qualifier
+in Switzerland	+16
+-16	1660
+1549	+5
+-3	42
+60
+June 05
+1999	Italy
+Wales	4
+0	European Cup qualifier
+in Italy	+3
+-3	1979
+1546	0
+0	3
+60
+June 09
+1999	Wales
+Denmark	0
+2	European Cup qualifier
+in England	-13
++13	1533
+1789	-6
++1	66
+17
+September 04
+1999	Belarus
+Wales	1
+2	European Cup qualifier
+in Belarus	-18
++18	1375
+1551	-5
++3	110
+62
+October 09
+1999	Wales
+Switzerland	0
+2	European Cup qualifier
+in Wales	-29
++29	1522
+1695	-5
++4	67
+34
+February 23
+2000	Qatar
+Wales	0
+1	Friendly
+in Qatar	-12
++12	1497
+1534	-7
++2	76
+66
+March 29
+2000	Wales
+Finland	1
+2	Friendly
+in Wales	-13
++13	1521
+1543	-3
++4	67
+62
+May 23
+2000	Wales
+Brazil	0
+3	Friendly
+in Wales	-3
++3	1518
+2069	-1
+0	67
+1
+June 02
+2000	Portugal
+Wales	3
+0	Friendly
+in Portugal	+2
+-2	1872
+1516	0
+-1	12
+67
+September 02
+2000	Belarus
+Wales	2
+1	World Cup qualifier
+in Belarus	+23
+-23	1383
+1493	+8
+-4	108
+75
+October 07
+2000	Wales
+Norway	1
+1	World Cup qualifier
+in Wales	+11
+-11	1504
+1804	+3
+-1	73
+15
+October 11
+2000	Poland
+Wales	0
+0	World Cup qualifier
+in Poland	-15
++15	1716
+1519	-4
++7	31
+67
+March 24
+2001	Armenia
+Wales	2
+2	World Cup qualifier
+in Armenia	+1
+-1	1408
+1518	+2
+-1	98
+68
+March 28
+2001	Wales
+Ukraine	1
+1	World Cup qualifier
+in Wales	+2
+-2	1520
+1645	+1
++1	68
+46
+June 02
+2001	Wales
+Poland	1
+2	World Cup qualifier
+in Wales	-12
++12	1508
+1778	-5
+0	72
+22
+June 06
+2001	Ukraine
+Wales	1
+1	World Cup qualifier
+in Ukraine	-12
++12	1633
+1520	-1
++4	48
+68
+September 01
+2001	Wales
+Armenia	0
+0	World Cup qualifier
+in Wales	-11
++11	1509
+1421	-4
++3	73
+97
+September 05
+2001	Norway
+Wales	3
+2	World Cup qualifier
+in Norway	+6
+-6	1703
+1503	+2
+-2	34
+75
+October 06
+2001	Wales
+Belarus	1
+0	World Cup qualifier
+in Wales	+12
+-12	1515
+1451	+3
+-3	70
+89
+February 13
+2002	Wales
+Argentina	1
+1	Friendly
+in Wales	+8
+-8	1523
+1984	+2
+-1	70
+3
+March 27
+2002	Wales
+Czechia	0
+0	Friendly
+in Wales	+5
+-5	1528
+1796	+1
+0	69
+20
+May 14
+2002	Wales
+Germany	1
+0	Friendly
+in Wales	+16
+-16	1544
+1827	+7
+0	61
+13
+August 21
+2002	Croatia
+Wales	1
+1	Friendly
+in Croatia	-8
++8	1806
+1552	-2
+-1	17
+63
+September 07
+2002	Finland
+Wales	0
+2	European Cup qualifier
+in Finland	-48
++48	1649
+1600	-2
++9	39
+54
+October 16
+2002	Wales
+Italy	2
+1	European Cup qualifier
+in Wales	+29
+-29	1629
+1850	+7
+-2	46
+11
+November 20
+2002	Azerbaijan
+Wales	0
+2	European Cup qualifier
+in Azerbaijan	-12
++12	1267
+1641	-4
++2	140
+44
+February 12
+2003	Wales
+Bosnia and Herzegovina	2
+2	Friendly
+in Wales	-6
++6	1635
+1496	-1
+0	46
+75
+March 29
+2003	Wales
+Azerbaijan	4
+0	European Cup qualifier
+in Wales	+5
+-5	1640
+1281	0
+-2	46
+138
+May 26
+2003	United States
+Wales	2
+0	Friendly
+in the United States	+5
+-5	1808
+1635	0
+-2	17
+47
+August 20
+2003	Serbia and Montenegro
+Wales	1
+0	European Cup qualifier
+in Serbia and Montenegro	+13
+-13	1682
+1622	+1
+-4	36
+50
+September 06
+2003	Italy
+Wales	4
+0	European Cup qualifier
+in Italy	+7
+-7	1916
+1615	0
+-3	7
+53
+September 10
+2003	Wales
+Finland	1
+1	European Cup qualifier
+in Wales	-3
++3	1612
+1673	+2
++2	52
+37
+October 11
+2003	Wales
+Serbia and Montenegro	2
+3	European Cup qualifier
+in Wales	-21
++21	1591
+1710	-3
++4	56
+31
+November 15
+2003	Russia
+Wales	0
+0	European Cup qualifier
+in Russia	-13
++13	1747
+1604	-4
+0	26
+56
+November 19
+2003	Wales
+Russia	0
+1	European Cup qualifier
+in Wales	-18
++18	1586
+1765	-1
++3	57
+23
+February 18
+2004	Wales
+Scotland	4
+0	Friendly
+in Wales	+17
+-17	1603
+1633	0
+-1	57
+46
+March 31
+2004	Hungary
+Wales	1
+2	Friendly
+in Hungary	-10
++10	1507
+1613	-1
++4	73
+53
+May 27
+2004	Norway
+Wales	0
+0	Friendly
+in Norway	-6
++6	1756
+1619	-2
++1	25
+52
+May 30
+2004	Wales
+Canada	1
+0	Friendly
+in Wales	+6
+-6	1625
+1577	+2
+-2	50
+61
+August 18
+2004	Latvia
+Wales	0
+2	Friendly
+in Latvia	-14
++14	1484
+1639	-2
++4	79
+45
+September 04
+2004	Azerbaijan
+Wales	1
+1	World Cup qualifier
+in Azerbaijan	+10
+-10	1356
+1629	+4
+-4	118
+48
+September 08
+2004	Wales
+Northern Ireland	2
+2	World Cup qualifier
+in Wales	-13
++13	1616
+1471	-3
++2	51
+88
+October 09
+2004	England
+Wales	2
+0	World Cup qualifier
+in England	+5
+-5	1952
+1611	0
+-3	4
+54
+October 13
+2004	Wales
+Poland	2
+3	World Cup qualifier
+in Wales	-18
++18	1593
+1760	-4
++1	58
+28
+February 09
+2005	Wales
+Hungary	2
+0	Friendly
+in Wales	+10
+-10	1603
+1564	+6
+-4	53
+66
+March 26
+2005	Wales
+Austria	0
+2	World Cup qualifier
+in Wales	-39
++39	1564
+1640	-9
++8	64
+49
+March 30
+2005	Austria
+Wales	1
+0	World Cup qualifier
+in Austria	+11
+-11	1651
+1553	+4
+-3	45
+68
+August 17
+2005	Wales
+Slovenia	0
+0	Friendly
+in Wales	-1
++1	1552
+1617	-1
+0	66
+55
+September 03
+2005	Wales
+England	0
+1	World Cup qualifier
+in Wales	-6
++6	1546
+1946	+3
++2	63
+3
+September 07
+2005	Poland
+Wales	1
+0	World Cup qualifier
+in Poland	+5
+-5	1803
+1541	+2
+-1	18
+65
+October 08
+2005	Northern Ireland
+Wales	2
+3	World Cup qualifier
+in Northern Ireland	-23
++23	1472
+1564	-3
++3	85
+61
+October 12
+2005	Wales
+Azerbaijan	2
+0	World Cup qualifier
+in Wales	+7
+-7	1571
+1313	+1
+-5	60
+128
+November 16
+2005	Cyprus
+Wales	1
+0	Friendly
+in Cyprus	+12
+-12	1427
+1559	+1
+-5	95
+65
+March 01
+2006	Wales
+Paraguay	0
+0	Friendly
+in Wales	+3
+-3	1562
+1753	0
+-1	63
+29
+May 27
+2006	Wales
+Trinidad and Tobago	2
+1	Friendly
+in Austria	+10
+-10	1572
+1561	+3
+-3	61
+64
+August 15
+2006	Wales
+Bulgaria	0
+0	Friendly
+in Wales	0
+0	1572
+1680	0
+0	60
+42
+September 02
+2006	Czechia
+Wales	2
+1	European Cup qualifier
+in Czechia	+5
+-5	1831
+1567	0
+0	13
+62
+September 05
+2006	Brazil
+Wales	2
+0	Friendly
+in England	+2
+-2	2047
+1565	0
+-1	2
+63
+October 07
+2006	Wales
+Slovakia	1
+5	European Cup qualifier
+in Wales	-40
++40	1525
+1686	-10
++4	73
+44
+October 11
+2006	Wales
+Cyprus	3
+1	European Cup qualifier
+in Wales	+18
+-18	1543
+1456	+8
+-4	64
+92
+November 14
+2006	Wales
+Liechtenstein	4
+0	Friendly
+in Wales	+2
+-2	1545
+1091	0
+0	66
+175
+February 06
+2007	Northern Ireland
+Wales	0
+0	Friendly
+in Northern Ireland	-2
++2	1502
+1547	0
++2	79
+63
+March 24
+2007	Ireland
+Wales	1
+0	European Cup qualifier
+in Ireland	+7
+-7	1726
+1540	+2
+-6	35
+70
+March 28
+2007	Wales
+San Marino	3
+0	European Cup qualifier
+in Wales	+1
+-1	1541
+912	0
+0	70
+197
+May 26
+2007	Wales
+New Zealand	2
+2	Friendly
+in Wales	-4
++4	1537
+1513	-2
++2	71
+79
+June 02
+2007	Wales
+Czechia	0
+0	European Cup qualifier
+in Wales	+11
+-11	1548
+1836	+3
+-1	68
+14
+August 22
+2007	Bulgaria
+Wales	0
+1	Friendly
+in Bulgaria	-17
++17	1726
+1565	-5
++1	33
+63
+September 08
+2007	Wales
+Germany	0
+2	European Cup qualifier
+in Wales	-9
++9	1556
+1985	-1
++1	64
+4
+September 12
+2007	Slovakia
+Wales	2
+5	European Cup qualifier
+in Slovakia	-55
++55	1631
+1611	-8
++9	50
+56
+October 13
+2007	Cyprus
+Wales	3
+1	European Cup qualifier
+in Cyprus	+34
+-34	1497
+1577	+13
+-3	76
+59
+October 17
+2007	San Marino
+Wales	1
+2	European Cup qualifier
+in San Marino	-1
++1	904
+1578	0
+-2	196
+61
+November 17
+2007	Wales
+Ireland	2
+2	European Cup qualifier
+in Wales	+4
+-4	1582
+1741	+2
+-1	59
+29
+November 21
+2007	Germany
+Wales	0
+0	European Cup qualifier
+in Germany	-17
++17	1915
+1599	0
++2	7
+56
+February 06
+2008	Wales
+Norway	3
+0	Friendly
+in Wales	+20
+-20	1619
+1723	+6
+-4	50
+35
+March 26
+2008	Luxembourg
+Wales	0
+2	Friendly
+in Luxembourg	-1
++1	1005
+1620	0
++1	185
+49
+May 28
+2008	Iceland
+Wales	0
+1	Friendly
+in Iceland	-7
++7	1389
+1627	-2
+0	106
+49
+June 01
+2008	Netherlands
+Wales	2
+0	Friendly
+in the Netherlands	+3
+-3	1942
+1624	0
++1	6
+48
+August 20
+2008	Wales
+Georgia	1
+2	Friendly
+in Wales	-16
++16	1608
+1489	-1
++6	49
+84
+September 06
+2008	Wales
+Azerbaijan	1
+0	World Cup qualifier
+in Wales	+4
+-4	1612
+1337	-1
+-2	50
+124
+September 10
+2008	Russia
+Wales	2
+1	World Cup qualifier
+in Russia	+5
+-5	1852
+1607	0
+-4	11
+54
+October 11
+2008	Wales
+Liechtenstein	2
+0	World Cup qualifier
+in Wales	+3
+-3	1610
+1162	+2
+0	52
+164
+October 15
+2008	Germany
+Wales	1
+0	World Cup qualifier
+in Germany	+3
+-3	1951
+1607	+1
+-1	5
+52
+November 19
+2008	Denmark
+Wales	0
+1	Friendly
+in Denmark	-17
++17	1786
+1624	-4
++3	19
+49
+February 11
+2009	Poland
+Wales	1
+0	Friendly
+in Portugal	+7
+-7	1727
+1617	-1
+-2	36
+51
+March 28
+2009	Wales
+Finland	0
+2	World Cup qualifier
+in Wales	-37
++37	1580
+1667	-5
++2	56
+46
+April 01
+2009	Wales
+Germany	0
+2	World Cup qualifier
+in Wales	-12
++12	1568
+1933	-4
++1	60
+6
+May 29
+2009	Wales
+Estonia	1
+0	Friendly
+in Wales	+3
+-3	1571
+1384	0
+0	59
+113
+June 06
+2009	Azerbaijan
+Wales	0
+1	World Cup qualifier
+in Azerbaijan	-13
++13	1333
+1584	-1
++1	125
+58
+August 12
+2009	Montenegro
+Wales	2
+1	Friendly
+in Montenegro	+7
+-7	1605
+1577	+3
+-1	52
+59
+September 09
+2009	Wales
+Russia	1
+3	World Cup qualifier
+in Wales	-15
++15	1562
+1885	-1
++1	60
+8
+October 10
+2009	Finland
+Wales	2
+1	World Cup qualifier
+in Finland	+11
+-11	1635
+1551	+3
+-7	48
+67
+October 14
+2009	Liechtenstein
+Wales	0
+2	World Cup qualifier
+in Liechtenstein	-9
++9	1131
+1560	0
++4	169
+63
+November 14
+2009	Wales
+Scotland	3
+0	Friendly
+in Wales	+17
+-17	1577
+1642	+4
+-2	59
+47
+March 03
+2010	Wales
+Sweden	0
+1	Friendly
+in Wales	-8
++8	1569
+1757	-2
++4	60
+21
+May 23
+2010	Croatia
+Wales	2
+0	Friendly
+in Croatia	+3
+-3	1874
+1566	0
+-4	9
+63
+August 11
+2010	Wales
+Luxembourg	5
+1	Friendly
+in Wales	+1
+-1	1567
+1067	+2
+0	65
+179
+September 03
+2010	Montenegro
+Wales	1
+0	European Cup qualifier
+in Montenegro	+13
+-13	1600
+1554	+2
+-4	54
+69
+October 08
+2010	Wales
+Bulgaria	0
+1	European Cup qualifier
+in Wales	-20
++20	1534
+1670	-6
++6	74
+40
+October 12
+2010	Switzerland
+Wales	4
+1	European Cup qualifier
+in Switzerland	+12
+-12	1728
+1522	+2
+-3	27
+77
+February 08
+2011	Ireland
+Wales	3
+0	Friendly tournament
+in Ireland	+8
+-8	1719
+1514	+2
+-2	30
+79
+March 26
+2011	Wales
+England	0
+2	European Cup qualifier
+in Wales	-10
++10	1504
+1914	-9
+0	87
+6
+May 25
+2011	Scotland
+Wales	3
+1	Friendly tournament
+in Ireland	+14
+-14	1660
+1490	+4
+-3	42
+89
+May 27
+2011	Wales
+Northern Ireland	2
+0	Friendly tournament
+in Ireland	+24
+-24	1514
+1488	+10
+-8	79
+89
+August 10
+2011	Wales
+Australia	1
+2	Friendly
+in Wales	-5
++5	1509
+1803	-1
++1	77
+16
+September 02
+2011	Wales
+Montenegro	2
+1	European Cup qualifier
+in Wales	+23
+-23	1532
+1634	+5
+-7	72
+51
+September 06
+2011	England
+Wales	1
+0	European Cup qualifier
+in England	+2
+-2	1919
+1530	0
+-1	6
+73
+October 07
+2011	Wales
+Switzerland	2
+0	European Cup qualifier
+in Wales	+40
+-40	1570
+1712	+10
+-10	63
+34
+October 11
+2011	Bulgaria
+Wales	0
+1	European Cup qualifier
+in Bulgaria	-28
++28	1595
+1598	-5
++7	57
+56
+November 12
+2011	Wales
+Norway	4
+1	Friendly
+in Wales	+20
+-20	1618
+1727	+4
+-4	52
+31
+February 29
+2012	Wales
+Costa Rica	0
+1	Friendly
+in Wales	-12
++12	1606
+1656	-2
++3	55
+43
+May 27
+2012	Mexico
+Wales	2
+0	Friendly
+in the United States	+6
+-6	1840
+1600	0
+-1	13
+57
+August 15
+2012	Wales
+Bosnia and Herzegovina	0
+2	Friendly
+in Wales	-17
++17	1583
+1673	-4
++2	63
+41
+September 07
+2012	Wales
+Belgium	0
+2	World Cup qualifier
+in Wales	-31
++31	1552
+1708	-6
++7	69
+33
+September 11
+2012	Serbia
+Wales	6
+1	World Cup qualifier
+in Serbia	+16
+-16	1704
+1536	+1
+-8	35
+76
+October 12
+2012	Wales
+Scotland	2
+1	World Cup qualifier
+in Wales	+21
+-21	1557
+1640	+7
+-2	69
+44
+October 16
+2012	Croatia
+Wales	2
+0	World Cup qualifier
+in Croatia	+6
+-6	1855
+1551	+1
+-2	13
+72
+February 06
+2013	Wales
+Austria	2
+1	Friendly
+in Wales	+8
+-8	1559
+1571	+4
+-1	67
+62
+March 22
+2013	Scotland
+Wales	1
+2	World Cup qualifier
+in Scotland	-29
++29	1603
+1588	-5
++10	53
+58
+March 26
+2013	Wales
+Croatia	1
+2	World Cup qualifier
+in Wales	-10
++10	1578
+1887	-5
++1	63
+8
+August 14
+2013	Wales
+Ireland	0
+0	Friendly
+in Wales	+1
+-1	1579
+1723	+1
+0	60
+29
+September 06
+2013	Macedonia
+Wales	2
+1	World Cup qualifier
+in Macedonia	+18
+-18	1535
+1561	+4
+-7	75
+67
+September 10
+2013	Wales
+Serbia	0
+3	World Cup qualifier
+in Wales	-34
++34	1527
+1701	-9
++9	77
+33
+October 11
+2013	Wales
+Macedonia	1
+0	World Cup qualifier
+in Wales	+14
+-14	1541
+1499	+6
+-3	71
+83
+October 15
+2013	Belgium
+Wales	1
+1	World Cup qualifier
+in Belgium	-17
++17	1840
+1558	-1
++5	14
+66
+November 16
+2013	Wales
+Finland	1
+1	Friendly
+in Wales	0
+0	1558
+1645	-1
+0	67
+46
+March 05
+2014	Wales
+Iceland	3
+1	Friendly
+in Wales	+9
+-9	1567
+1498	+4
+-3	63
+84

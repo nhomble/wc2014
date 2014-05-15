@@ -1,0 +1,3015 @@
+March 16
+1930	Cuba
+Jamaica	3
+1	Central American Games
+in Cuba	+20
+-20	1520
+1462	-
+-6	35
+45
+March 20
+1930	Cuba
+Honduras	7
+0	Central American Games
+in Cuba	+31
+-31	1551
+1478	+4
+-2	31
+39
+March 23
+1930	Cuba
+Honduras	5
+0	Central American Games
+in Cuba	+22
+-22	1573
+1456	+1
+-4	30
+43
+March 30
+1930	Cuba
+Costa Rica	2
+1	Central American Games
+in Cuba	+26
+-26	1599
+1750	+5
+-3	25
+13
+April 01
+1930	Cuba
+El Salvador	5
+2	Central American Games
+in Cuba	+10
+-10	1609
+1380	+2
+-1	23
+50
+January 28
+1934	Haiti
+Cuba	1
+3	World Cup qualifier
+in Haiti	-15
++15	1310
+1624	0
++2	59
+24
+February 01
+1934	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	+11
+-11	1321
+1613	0
+0	59
+24
+February 04
+1934	Haiti
+Cuba	0
+6	World Cup qualifier
+in Haiti	-21
++21	1300
+1634	0
++2	59
+22
+March 04
+1934	Mexico
+Cuba	3
+2	World Cup qualifier
+in Mexico	+23
+-23	1511
+1611	+3
+-2	37
+24
+March 11
+1934	Mexico
+Cuba	5
+0	World Cup qualifier
+in Mexico	+40
+-40	1551
+1571	+3
+-6	34
+30
+March 18
+1934	Mexico
+Cuba	4
+1	World Cup qualifier
+in Mexico	+27
+-27	1578
+1544	+4
+-4	30
+34
+March 24
+1935	El Salvador
+Cuba	4
+1	Central American Games
+in El Salvador	+41
+-41	1421
+1503	+3
+0	50
+36
+March 25
+1935	Cuba
+Honduras	3
+0	Central American Games
+in El Salvador	+32
+-32	1535
+1438	0
+-3	36
+44
+March 27
+1935	Cuba
+Guatemala	2
+1	Central American Games
+in El Salvador	+14
+-14	1549
+1410	+2
+-2	34
+50
+March 30
+1935	Mexico
+Cuba	6
+1	Central American Games
+in El Salvador	+32
+-32	1649
+1517	+6
+-2	18
+36
+March 31
+1935	Costa Rica
+Cuba	2
+1	Central American Games
+in El Salvador	+7
+-7	1790
+1510	0
+0	10
+36
+June 05
+1938	Cuba
+Romania	3
+3	World Cup
+in France	+5
+-5	1515
+1561	0
+-1	39
+37
+June 09
+1938	Cuba
+Romania	2
+1	World Cup
+in France	+34
+-34	1549
+1527	+2
+-1	37
+38
+June 12
+1938	Sweden
+Cuba	8
+0	World Cup
+in France	+60
+-60	1663
+1489	+10
+-5	19
+42
+August 06
+1939	Panama
+Cuba	0
+4	Friendly
+in Panama	-16
++16	1322
+1505	0
++2	63
+39
+May 17
+1944	Trinidad and Tobago
+Cuba	0
+0	Friendly
+in Trinidad and Tobago	-3
++3	1510
+1508	0
+0	40
+41
+May 19
+1944	Trinidad and Tobago
+Cuba	1
+0	Friendly
+in Trinidad and Tobago	+7
+-7	1517
+1501	0
+0	40
+41
+July 17
+1947	Cuba
+Mexico	1
+3	North American Championship
+in Cuba	-17
++17	1484
+1828	-2
++2	46
+7
+July 20
+1947	Cuba
+United States	5
+2	North American Championship
+in Cuba	+48
+-48	1532
+1570	+6
+-8	40
+34
+June 09
+1948	Jamaica
+Cuba	3
+0	Friendly tournament
+in Jamaica	+36
+-36	1337
+1496	+5
+-1	68
+41
+June 12
+1948	Jamaica
+Cuba	1
+1	Friendly tournament
+in Jamaica	+3
+-3	1340
+1493	0
+-2	68
+43
+May 12
+1949	Dutch Guiana
+Cuba	0
+1	Friendly tournament
+in Dutch Guiana	-11
++11	1288
+1504	0
++1	76
+44
+September 11
+1949	Mexico
+Cuba	2
+0	World Cup qualifier
+in Mexico	+6
+-6	1785
+1498	0
+-1	12
+45
+September 14
+1949	Cuba
+United States	1
+1	World Cup qualifier
+in Mexico	+2
+-2	1500
+1535	+1
+0	44
+38
+September 21
+1949	United States
+Cuba	5
+2	World Cup qualifier
+in Mexico	+32
+-32	1558
+1468	+7
+-6	36
+50
+September 25
+1949	Mexico
+Cuba	3
+0	World Cup qualifier
+in Mexico	+6
+-6	1800
+1462	+1
+0	11
+50
+December 18
+1949	Jamaica
+Cuba	5
+2	Friendly tournament
+in Haiti	+32
+-32	1410
+1430	+7
+-6	62
+56
+March
+1954	Colombia
+Cuba	2
+1	Central American and Caribbean Games
+in Mexico	+26
+-26	1353
+1404	+8
+-23	78
+86
+March
+1954	El Salvador
+Cuba	3
+1	Central American and Caribbean Games
+in Mexico	+31
+-31	1425
+1373	+12
+-23	65
+86
+March
+1954	Panama
+Cuba	4
+0	Central American and Caribbean Games
+in Mexico	+50
+-50	1301
+1323	+2
+-23	91
+86
+August 14
+1955	Honduras
+Cuba	3
+0	CCCF Championship
+in Honduras	+12
+-12	1549
+1311	+1
+-1	41
+90
+August 16
+1955	Costa Rica
+Cuba	6
+0	CCCF Championship
+in Honduras	+16
+-16	1634
+1295	+2
+-4	27
+94
+August 19
+1955	Aruba
+Cuba	4
+1	CCCF Championship
+in Honduras	+71
+-71	1112
+1224	+2
+-11	113
+105
+August 20
+1955	El Salvador
+Cuba	2
+1	CCCF Championship
+in Honduras	+13
+-13	1422
+1211	+1
+0	66
+105
+August 28
+1955	Netherlands Antilles
+Cuba	2
+0	CCCF Championship
+in Honduras	+12
+-12	1518
+1199	+1
+-2	44
+107
+August 12
+1957	Panama
+Cuba	1
+0	CCCF Championship
+in Curacao	+20
+-20	1286
+1179	+3
+-4	100
+116
+August 17
+1957	Honduras
+Cuba	2
+0	CCCF Championship
+in Curacao	+13
+-13	1457
+1166	+4
+-1	61
+117
+August 21
+1957	Curacao
+Cuba	2
+0	CCCF Championship
+in Curacao	+7
+-7	1475
+1159	+1
+0	58
+117
+August 25
+1957	Haiti
+Cuba	6
+1	CCCF Championship
+in Curacao	+14
+-14	1487
+1145	+4
+-1	55
+118
+February 14
+1960	Cuba
+Netherlands Antilles	3
+4	CCCF Championship
+in Cuba	-13
++13	1132
+1437	0
++1	123
+69
+February 18
+1960	Cuba
+Dutch Guiana	0
+2	CCCF Championship
+in Cuba	-20
++20	1112
+1423	-2
++8	125
+71
+February 23
+1960	Cuba
+Honduras	2
+1	CCCF Championship
+in Cuba	+41
+-41	1153
+1428	+2
+-8	123
+69
+February 28
+1960	Cuba
+Costa Rica	0
+5	CCCF Championship
+in Cuba	-7
++7	1146
+1716	0
++1	123
+21
+March 02
+1961	Haiti
+Cuba	2
+1	CCCF Championship
+in Costa Rica	+6
+-6	1493
+1140	0
+0	59
+129
+March 05
+1961	Costa Rica
+Cuba	4
+1	CCCF Championship
+in Costa Rica	+2
+-2	1666
+1138	0
+0	28
+129
+March 08
+1961	Guatemala
+Cuba	2
+0	CCCF Championship
+in Costa Rica	+12
+-12	1433
+1126	+4
+-2	71
+131
+March 11
+1961	Panama
+Cuba	1
+0	CCCF Championship
+in Costa Rica	+19
+-19	1234
+1107	+3
+0	115
+131
+August
+1962	Cuba
+Puerto Rico	2
+0	Central American and Caribbean Games
+in Jamaica	+16
+-16	1123
+914	0
+0	134
+142
+August
+1962	Netherlands Antilles
+Cuba	2
+1	Central American and Caribbean Games
+in Jamaica	+5
+-5	1467
+1118	+3
+0	63
+134
+August
+1962	Venezuela
+Cuba	2
+0	Central American and Caribbean Games
+in Jamaica	+15
+-15	1328
+1103	+1
+0	100
+134
+August 13
+1962	Jamaica
+Cuba	6
+1	Central American and Caribbean Games
+in Jamaica	+14
+-14	1286
+1089	+2
+-1	112
+135
+January 16
+1965	Jamaica
+Cuba	2
+0	World Cup qualifier
+in Jamaica	+12
+-12	1250
+1077	+1
+-1	125
+147
+January 20
+1965	Cuba
+Netherlands Antilles	1
+1	World Cup qualifier
+in Jamaica	+17
+-17	1094
+1514	+1
+-6	146
+59
+January 30
+1965	Cuba
+Netherlands Antilles	0
+1	World Cup qualifier
+in Cuba	-7
++7	1087
+1478	0
++3	146
+70
+February 08
+1965	Cuba
+Jamaica	2
+1	World Cup qualifier
+in Cuba	+26
+-26	1113
+1277	+1
+-8	145
+122
+June 12
+1966	Cuba
+Jamaica	7
+0	Central American and Caribbean Games
+in Puerto Rico	+65
+-65	1178
+1217	+8
+-10	139
+131
+June 18
+1966	Puerto Rico
+Cuba	1
+1	Central American and Caribbean Games
+in Puerto Rico	+9
+-9	909
+1169	0
+-3	158
+142
+June 20
+1966	Cuba
+El Salvador	0
+0	Central American and Caribbean Games
+in Puerto Rico	+13
+-13	1182
+1423	+4
+-4	138
+82
+June 22
+1966	Netherlands Antilles
+Cuba	4
+2	Central American and Caribbean Games
+in Puerto Rico	+10
+-10	1481
+1172	+2
+-4	71
+142
+June 21
+1967	Canada
+Cuba	1
+1	Olympic Games qualifier
+in Canada	-18
++18	1594
+1190	-2
++3	41
+137
+June 24
+1967	Canada
+Cuba	1
+2	Olympic Games qualifier
+in Canada	-38
++38	1556
+1228	-7
++7	48
+130
+March 05
+1968	El Salvador
+Cuba	3
+0	Olympic Games qualifier
+in El Salvador	+9
+-9	1465
+1219	+2
+-1	73
+129
+March 07
+1968	Cuba
+El Salvador	1
+2	Olympic Games qualifier
+in Cuba	-12
++12	1207
+1477	-1
++4	130
+69
+November 20
+1971	Trinidad and Tobago
+Cuba	2
+2	Concacaf Championship
+in Trinidad and Tobago	-15
++15	1328
+1222	-3
++5	106
+128
+November 24
+1971	Cuba
+Honduras	3
+1	Concacaf Championship
+in Trinidad and Tobago	+57
+-57	1279
+1361	+10
+-10	118
+95
+November 28
+1971	Mexico
+Cuba	1
+0	Concacaf Championship
+in Trinidad and Tobago	+4
+-4	1694
+1275	+1
+0	30
+118
+November 30
+1971	Cuba
+Haiti	0
+0	Concacaf Championship
+in Trinidad and Tobago	+16
+-16	1291
+1524	+3
+-2	115
+57
+December 03
+1971	Costa Rica
+Cuba	3
+0	Concacaf Championship
+in Trinidad and Tobago	+13
+-13	1600
+1278	+1
+-3	43
+118
+February 28
+1974	Cuba
+Barbados	2
+0	Central American and Caribbean Games
+in Dominican Republic	+19
+-19	1297
+1129	+5
+0	117
+150
+March 02
+1974	Cuba
+Puerto Rico	8
+0	Central American and Caribbean Games
+in Dominican Republic	+9
+-9	1306
+896	+2
+-1	115
+171
+March 04
+1974	Cuba
+Trinidad and Tobago	1
+0	Central American and Caribbean Games
+in Dominican Republic	+30
+-30	1336
+1461	+8
+-3	107
+71
+March 06
+1974	Cuba
+Nicaragua	5
+0	Central American and Caribbean Games
+in Dominican Republic	+11
+-11	1347
+998	0
+-2	107
+166
+March 10
+1974	Cuba
+Bermuda	2
+0	Central American and Caribbean Games
+in Dominican Republic	+28
+-28	1375
+1293	+11
+-5	95
+117
+March 12
+1974	Cuba
+Trinidad and Tobago	1
+1	Central American and Caribbean Games
+in Dominican Republic	+5
+-5	1380
+1463	+2
+-1	93
+70
+May 29
+1974	Algeria
+Cuba	0
+1	Friendly
+in Algeria	-16
++16	1528
+1396	-3
++4	58
+90
+January 05
+1975	Cuba
+Canada	4
+0	Friendly
+in Cuba	+19
+-19	1415
+1485	+4
+-5	85
+69
+April 20
+1975	Cuba
+Jamaica	1
+0	Olympic Games qualifier
+in Cuba	+8
+-8	1423
+1261	+4
+-1	81
+126
+April 27
+1975	Jamaica
+Cuba	1
+0	Olympic Games qualifier
+in Jamaica	+24
+-24	1285
+1399	+5
+-6	121
+87
+May 05
+1975	Cuba
+Jamaica	4
+1	Olympic Games qualifier
+in Trinidad and Tobago	+24
+-24	1423
+1261	+6
+-5	81
+126
+August 25
+1975	Surinam
+Cuba	0
+1	Olympic Games qualifier
+in Surinam	-28
++28	1438
+1451	-7
++7	77
+73
+August 28
+1975	Cuba
+Surinam	6
+1	Olympic Games qualifier
+in Cuba	+27
+-27	1478
+1411	+5
+-6	69
+83
+September 05
+1975	Panama
+Cuba	0
+1	Friendly
+in Panama	-7
++7	1273
+1485	-2
+0	123
+69
+September 07
+1975	Panama
+Cuba	2
+2	Friendly
+in Panama	+3
+-3	1276
+1482	0
+0	123
+69
+September 16
+1975	Panama
+Cuba	2
+3	Friendly
+in Panama	-7
++7	1269
+1489	-2
+0	125
+69
+March 07
+1976	Guatemala
+Cuba	1
+1	Olympic Games qualifier
+in Guatemala	-9
++9	1541
+1498	0
++2	58
+67
+March 11
+1976	Cuba
+Guatemala	1
+1	Olympic Games qualifier
+in Cuba	-3
++3	1495
+1544	-1
+0	68
+58
+July 18
+1976	Cuba
+Poland	0
+0	Olympic Games
+in Canada	+25
+-25	1520
+1878	+8
+-2	61
+8
+July 20
+1976	Iran
+Cuba	1
+0	Olympic Games
+in Canada	+15
+-15	1720
+1505	+1
+-3	27
+64
+August 15
+1976	Jamaica
+Cuba	1
+3	World Cup qualifier
+in Jamaica	-18
++18	1243
+1523	-3
++2	130
+62
+August 29
+1976	Cuba
+Jamaica	2
+0	World Cup qualifier
+in Cuba	+6
+-6	1529
+1237	+2
+-2	60
+130
+November 28
+1976	Cuba
+Haiti	1
+1	World Cup qualifier
+in Cuba	-6
++6	1523
+1531	-2
++2	60
+57
+December 11
+1976	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	-6
++6	1525
+1529	-2
++1	59
+58
+December 23
+1976	Panama
+Cuba	0
+5	Friendly
+in Panama	-10
++10	1236
+1539	-2
++1	130
+57
+December 29
+1976	Haiti
+Cuba	2
+0	World Cup qualifier
+in Panama	+31
+-31	1556
+1508	+5
+-7	54
+64
+June
+1977	Angola
+Cuba	1
+0	Friendly
+in Angola	+7
+-7	1507
+1501	-
+-2	63
+65
+April 01
+1979	Jamaica
+Cuba	0
+3	Olympic Games qualifier
+in Jamaica	-17
++17	1181
+1518	-1
++3	142
+62
+May 27
+1979	Cuba
+Jamaica	2
+0	Olympic Games qualifier
+in Cuba	+4
+-4	1522
+1177	0
+0	62
+142
+June 24
+1980	Costa Rica
+Cuba	3
+0	Friendly
+in Costa Rica	+10
+-10	1595
+1512	+2
+-1	49
+64
+August 17
+1980	Cuba
+Surinam	3
+0	World Cup qualifier
+in Cuba	+14
+-14	1526
+1359	0
+-2	63
+99
+September 07
+1980	Surinam
+Cuba	0
+0	World Cup qualifier
+in Surinam	+4
+-4	1363
+1522	+1
+0	97
+63
+November 09
+1980	Cuba
+Guyana	1
+0	World Cup qualifier
+in Cuba	+6
+-6	1528
+1323	0
+-1	61
+111
+November 30
+1980	Guyana
+Cuba	0
+3	World Cup qualifier
+in Guyana	-25
++25	1298
+1553	-7
++5	118
+55
+May 19
+1981	East Germany
+Cuba	5
+0	Friendly
+in East Germany	+3
+-3	1884
+1550	0
+-1	10
+58
+November 01
+1981	Mexico
+Cuba	4
+0	World Cup qualifier
+in Honduras	+30
+-30	1646
+1520	+3
+-4	39
+62
+November 08
+1981	Honduras
+Cuba	2
+0	World Cup qualifier
+in Honduras	+20
+-20	1561
+1500	+6
+-3	55
+66
+November 11
+1981	Cuba
+El Salvador	0
+0	World Cup qualifier
+in Honduras	-1
++1	1499
+1475	-1
+0	67
+74
+November 15
+1981	Cuba
+Haiti	2
+0	World Cup qualifier
+in Honduras	+35
+-35	1534
+1523	+4
+-6	62
+63
+November 21
+1981	Canada
+Cuba	2
+2	World Cup qualifier
+in Honduras	+2
+-2	1503
+1532	0
+0	66
+62
+August
+1982	Cuba
+Puerto Rico	2
+0	Central American and Caribbean Games
+in Cuba	+1
+-1	1533
+883	-8
+-1	67
+185
+August
+1982	Cuba
+Venezuela	0
+1	Central American and Caribbean Games
+in Cuba	-33
++33	1500
+1384	-8
++11	67
+91
+August 02
+1982	Cuba
+Bermuda	4
+1	Central American and Caribbean Games
+in Cuba	+14
+-14	1514
+1345	+4
+-5	63
+103
+August 10
+1982	Cuba
+Bahamas	1
+0	Central American and Caribbean Games
+in Cuba	+1
+-1	1515
+870	0
+0	63
+185
+August 16
+1982	Cuba
+Bermuda	2
+1	Central American and Caribbean Games
+in Cuba	+7
+-7	1522
+1347	+2
+-2	61
+103
+March 01
+1983	Jamaica
+Cuba	0
+1	Olympic Games qualifier
+in Jamaica	-9
++9	1186
+1531	-1
++3	145
+59
+March 08
+1983	Cuba
+Jamaica	4
+1	Olympic Games qualifier
+in Cuba	+5
+-5	1536
+1181	0
+0	59
+145
+March 22
+1983	Cuba
+Barbados	2
+0	Olympic Games qualifier
+in Cuba	+4
+-4	1540
+1177	0
+-2	59
+147
+March 29
+1983	Barbados
+Cuba	0
+0	Olympic Games qualifier
+in Barbados	+13
+-13	1190
+1527	+3
+-1	144
+61
+May 04
+1983	Bulgaria
+Cuba	5
+2	Friendly
+in Bulgaria	+8
+-8	1637
+1519	+1
+-2	38
+62
+August 02
+1983	Costa Rica
+Cuba	3
+0	Friendly
+in Costa Rica	+13
+-13	1526
+1506	+3
+-4	61
+66
+August 04
+1983	Costa Rica
+Cuba	2
+0	Friendly
+in Costa Rica	+10
+-10	1536
+1496	+3
+-1	58
+68
+March 02
+1984	Costa Rica
+Cuba	1
+0	Olympic Games qualifier
+in Costa Rica	+12
+-12	1560
+1484	+2
+-4	56
+75
+March 16
+1984	Cuba
+Costa Rica	0
+0	Olympic Games qualifier
+in Cuba	-1
++1	1483
+1561	0
+0	73
+56
+January 20
+1985	Guyana
+Cuba	1
+0	Friendly
+in Guyana	+13
+-13	1304
+1470	+7
+-3	113
+77
+January 27
+1985	Guyana
+Cuba	2
+2	Friendly
+in Guyana	+2
+-2	1306
+1468	0
+0	113
+77
+June 25
+1986	Cuba
+Puerto Rico	4
+0	Friendly tournament
+in Dominican Republic	+2
+-2	1470
+907	0
+0	79
+180
+June 30
+1986	Cuba
+Bahamas	1
+0	Friendly tournament
+in Dominican Republic	+1
+-1	1471
+869	0
+0	79
+186
+July 04
+1986	Cuba
+Honduras	1
+1	Friendly tournament
+in Dominican Republic	+5
+-5	1476
+1589	+1
+-1	78
+48
+February 27
+1987	Cuba
+Ecuador	2
+1	Friendly
+in Cuba	+8
+-8	1484
+1489	+5
+-1	72
+71
+March 02
+1987	Cuba
+Ecuador	0
+0	Friendly
+in Cuba	-3
++3	1481
+1492	0
+0	72
+71
+April 12
+1987	Cuba
+Jamaica	2
+2	Friendly
+in Cuba	-8
++8	1473
+1198	-4
+0	78
+145
+April 29
+1987	Jamaica
+Cuba	2
+0	Friendly
+in Jamaica	+22
+-22	1220
+1451	+5
+-2	140
+80
+December 08
+1987	Angola
+Cuba	3
+2	Friendly
+in Angola	+6
+-6	1486
+1445	0
+-1	76
+80
+December 10
+1987	Ghana
+Cuba	1
+1	Friendly
+in Ghana	-7
++7	1617
+1452	-1
++1	47
+79
+April 30
+1988	Cuba
+Guatemala	0
+1	World Cup qualifier
+in Cuba	-23
++23	1429
+1529	-1
++6	81
+63
+May 15
+1988	Guatemala
+Cuba	1
+1	World Cup qualifier
+in Guatemala	-10
++10	1519
+1439	-2
++1	65
+81
+August 06
+1988	Albania
+Cuba	0
+0	Friendly
+in Albania	-1
++1	1386
+1440	0
+0	95
+80
+May 02
+1992	Anguilla
+Cuba	0
+3	Caribbean Cup qualifier
+in Anguilla	-2
++2	700
+1442	0
+0	200
+81
+May 09
+1992	Cuba
+Anguilla	5
+0	Caribbean Cup qualifier
+in Cuba	+1
+-1	1443
+699	0
+0	81
+200
+June 17
+1992	Cuba
+Jamaica	0
+0	Caribbean Cup
+in Trinidad and Tobago	-8
++8	1435
+1296	-1
++2	83
+121
+June 19
+1992	Cuba
+St. Vincent & Grenadines	1
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1448
+1291	+4
+-6	79
+122
+June 21
+1992	Cuba
+Guadeloupe	2
+0	Caribbean Cup
+in Trinidad and Tobago	+29
+-29	1477
+1403	+2
+-11	77
+94
+June 24
+1992	Trinidad and Tobago
+Cuba	1
+0	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1496
+1463	+5
+0	69
+77
+June 27
+1992	Martinique
+Cuba	1
+1	Caribbean Cup
+in Trinidad and Tobago	0
+0	1463
+1463	0
+0	77
+77
+March 12
+1995	Jamaica
+Cuba	0
+0	Friendly
+in Jamaica	-1
++1	1412
+1464	-1
+0	103
+83
+May 23
+1995	Cuba
+Netherlands Antilles	3
+0	Caribbean Cup qualifier
+in Dominican Republic	+16
+-16	1480
+1230	+4
+-3	81
+148
+May 25
+1995	Dominican Republic
+Cuba	0
+3	Caribbean Cup qualifier
+in Dominican Republic	-10
++10	1063
+1490	-4
++2	182
+79
+May 27
+1995	Cuba
+Puerto Rico	9
+0	Caribbean Cup qualifier
+in Dominican Republic	+8
+-8	1498
+1062	+1
+-1	78
+181
+July 19
+1995	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Jamaica	+29
+-29	1538
+1469	+8
+-6	64
+83
+July 21
+1995	Jamaica
+Cuba	1
+2	Caribbean Cup
+in Jamaica	-23
++23	1398
+1492	-7
++4	104
+79
+July 23
+1995	Cuba
+Saint Lucia	2
+0	Caribbean Cup
+in Jamaica	+13
+-13	1505
+1262	+6
+-2	73
+139
+July 27
+1995	St. Vincent & Grenadines
+Cuba	3
+2	Caribbean Cup
+in Cayman Islands	+31
+-31	1333
+1474	+8
+-9	122
+82
+July 30
+1995	Cayman Islands
+Cuba	0
+3	Caribbean Cup
+in Cayman Islands	-16
++16	1142
+1490	-1
++3	165
+79
+January 14
+1996	Jamaica
+Cuba	1
+1	Friendly
+in Jamaica	-3
++3	1511
+1493	0
+0	71
+76
+April 26
+1996	Cuba
+Cayman Islands	4
+0	Caribbean Cup qualifier
+in Cuba	+5
+-5	1498
+1125	+3
+-1	72
+169
+May 12
+1996	Cayman Islands
+Cuba	0
+1	World Cup qualifier
+in Cayman Islands	-7
++7	1118
+1505	0
++1	170
+71
+May 14
+1996	Cayman Islands
+Cuba	0
+5	World Cup qualifier
+in Cayman Islands	-13
++13	1105
+1518	-1
++4	171
+67
+May 25
+1996	Cuba
+St. Vincent & Grenadines	2
+0	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1533
+1312	+3
+-5	64
+129
+May 27
+1996	Cuba
+Martinique	1
+0	Caribbean Cup
+in Trinidad and Tobago	+18
+-18	1551
+1488	+4
+-7	60
+79
+May 29
+1996	Cuba
+Haiti	0
+0	Caribbean Cup
+in Trinidad and Tobago	-10
++10	1541
+1364	-3
++1	63
+115
+June 02
+1996	Cuba
+Surinam	4
+0	Caribbean Cup
+in Trinidad and Tobago	+15
+-15	1556
+1280	+6
+-2	57
+135
+June 07
+1996	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Trinidad and Tobago	+23
+-23	1561
+1533	+10
+-9	55
+66
+June 10
+1996	Cuba
+Haiti	6
+1	World Cup qualifier
+in Trinidad and Tobago	+22
+-22	1555
+1342	+7
+-5	59
+119
+June 30
+1996	Haiti
+Cuba	1
+1	World Cup qualifier
+in Haiti	+6
+-6	1348
+1549	+2
+-2	117
+61
+August 25
+1996	Honduras
+Cuba	4
+0	Friendly
+in Honduras	+15
+-15	1530
+1534	+4
+-5	68
+66
+August 28
+1996	Honduras
+Cuba	2
+2	Friendly
+in Honduras	-3
++3	1527
+1537	-1
++1	69
+65
+August 30
+1996	Guatemala
+Cuba	1
+1	Friendly
+in Guatemala	0
+0	1447
+1537	0
+0	89
+65
+September 08
+1996	El Salvador
+Cuba	5
+0	World Cup qualifier
+in El Salvador	+36
+-36	1510
+1501	+10
+-9	72
+75
+September 22
+1996	Panama
+Cuba	1
+3	World Cup qualifier
+in Panama	-22
++22	1282
+1523	-6
++6	136
+69
+October 10
+1996	Canada
+Cuba	2
+0	World Cup qualifier
+in Canada	+18
+-18	1594
+1505	+1
+-6	53
+74
+October 13
+1996	Canada
+Cuba	2
+0	World Cup qualifier
+in Canada	+15
+-15	1609
+1490	+9
+-2	44
+76
+December 01
+1996	El Salvador
+Cuba	3
+0	World Cup qualifier
+in El Salvador	+25
+-25	1515
+1465	+6
+-8	72
+86
+December 15
+1996	Panama
+Cuba	3
+1	World Cup qualifier
+in Panama	+36
+-36	1326
+1429	+6
+-8	126
+93
+June 29
+1997	Jamaica
+Cuba	3
+0	Friendly
+in Jamaica	+8
+-8	1557
+1421	+2
+0	61
+95
+October 04
+1997	Saint Kitts and Nevis
+Cuba	0
+2	Concacaf Gold Cup qualifier
+in Saint Kitts and Nevis	-25
++25	1234
+1446	-2
++8	143
+90
+October 20
+1997	Haiti
+Cuba	2
+2	Friendly tournament
+in Haiti	0
+0	1342
+1446	0
+0	118
+91
+October 22
+1997	Cuba
+Cameroon	1
+1	Friendly tournament
+in Haiti	+5
+-5	1451
+1557	+4
+-2	87
+61
+February 01
+1998	United States
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+10
+-10	1708
+1441	0
+-9	32
+95
+February 04
+1998	Costa Rica
+Cuba	7
+2	Concacaf Gold Cup
+in the United States	+32
+-32	1606
+1409	+4
+-5	50
+100
+May 06
+1998	Cayman Islands
+Cuba	2
+2	Caribbean Cup qualifier
+in Cayman Islands	+11
+-11	1116
+1398	0
+-3	172
+103
+May 08
+1998	Cuba
+Bermuda	2
+1	Caribbean Cup qualifier
+in Cayman Islands	+16
+-16	1414
+1319	+4
+-5	99
+126
+May 05
+1999	Cuba
+Cayman Islands	4
+1	Caribbean Cup qualifier
+in Bermuda	+14
+-14	1428
+1164	+4
+-2	92
+162
+May 07
+1999	Cuba
+Bahamas	7
+0	Caribbean Cup qualifier
+in Bermuda	+3
+-3	1431
+855	0
+0	92
+207
+May 09
+1999	Bermuda
+Cuba	1
+2	Caribbean Cup qualifier
+in Bermuda	-18
++18	1274
+1449	-6
++6	135
+86
+June 04
+1999	Cuba
+Haiti	3
+1	Caribbean Cup
+in Trinidad and Tobago	+26
+-26	1475
+1377	+5
+-6	81
+108
+June 08
+1999	Cuba
+Saint Kitts and Nevis	2
+0	Caribbean Cup
+in Trinidad and Tobago	+14
+-14	1489
+1250	+1
+-3	78
+141
+June 10
+1999	Cuba
+Jamaica	2
+0	Caribbean Cup
+in Trinidad and Tobago	+41
+-41	1530
+1587	+11
+-3	67
+55
+June 13
+1999	Trinidad and Tobago
+Cuba	2
+1	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1570
+1517	+2
+-2	58
+69
+October 06
+1999	Canada
+Cuba	0
+0	Concacaf Gold Cup qualifier
+in the United States	0
+0	1511
+1517	0
+0	70
+67
+October 08
+1999	Haiti
+Cuba	1
+0	Concacaf Gold Cup qualifier
+in the United States	+27
+-27	1417
+1490	+4
+-10	101
+77
+October 10
+1999	Cuba
+El Salvador	3
+1	Concacaf Gold Cup qualifier
+in the United States	+21
+-21	1511
+1362	+5
+-6	71
+114
+December 05
+1999	Panama
+Cuba	1
+0	Friendly
+in Panama	+13
+-13	1301
+1498	+4
+-4	129
+76
+March 05
+2000	Cuba
+Cayman Islands	4
+0	World Cup qualifier
+in Cuba	+5
+-5	1503
+1148	+4
+0	70
+164
+March 09
+2000	Cuba
+Nicaragua	4
+0	Friendly tournament
+in Cuba	+1
+-1	1504
+970	0
+0	70
+192
+March 19
+2000	Cayman Islands
+Cuba	0
+0	World Cup qualifier
+in Cayman Islands	+13
+-13	1161
+1491	0
+-8	163
+78
+April 02
+2000	Cuba
+Surinam	1
+0	World Cup qualifier
+in Cuba	+5
+-5	1496
+1264	+4
+-2	74
+143
+April 16
+2000	Surinam
+Cuba	0
+0	World Cup qualifier
+in Surinam	+7
+-7	1271
+1489	0
+-5	138
+81
+May 07
+2000	Cuba
+Barbados	1
+1	World Cup qualifier
+in Cuba	-12
++12	1477
+1372	-1
++3	82
+111
+May 21
+2000	Barbados
+Cuba	1
+1	World Cup qualifier
+in Barbados	0
+0	1372
+1477	0
+0	112
+82
+May 27
+2000	Cuba
+Haiti	0
+1	Friendly
+in Cuba	-14
++14	1463
+1434	-2
++4	85
+90
+May 29
+2000	Cuba
+Haiti	1
+1	Friendly
+in Cuba	-4
++4	1459
+1438	0
+0	85
+90
+June 04
+2000	Cuba
+Canada	0
+1	World Cup qualifier
+in Cuba	-12
++12	1447
+1708	-3
+0	88
+32
+June 11
+2000	Canada
+Cuba	0
+0	World Cup qualifier
+in Canada	-16
++16	1692
+1463	0
++2	33
+86
+July 02
+2000	Jamaica
+Cuba	1
+1	Friendly
+in Jamaica	-3
++3	1485
+1466	0
+0	77
+84
+July 04
+2000	Trinidad and Tobago
+Cuba	4
+1	Friendly
+in Trinidad and Tobago	+9
+-9	1568
+1457	0
+0	58
+84
+April 04
+2001	Cuba
+Dominica	3
+1	Caribbean Cup qualifier
+in Guyana	+7
+-7	1464
+1099	+2
+-2	81
+173
+April 06
+2001	Cuba
+Saint Martin	1
+0	Caribbean Cup qualifier
+in Guyana	+4
+-4	1468
+1070	+1
+-1	80
+177
+April 08
+2001	Guyana
+Cuba	0
+3	Caribbean Cup qualifier
+in Guyana	-13
++13	1106
+1481	0
++3	171
+77
+May 16
+2001	Cuba
+Surinam	4
+3	Caribbean Cup
+in Trinidad and Tobago	+10
+-10	1491
+1291	+3
+-2	75
+134
+May 18
+2001	Cuba
+Saint Kitts and Nevis	1
+1	Caribbean Cup
+in Trinidad and Tobago	-13
++13	1478
+1225	-5
++1	80
+149
+May 20
+2001	Cuba
+Haiti	0
+0	Caribbean Cup
+in Trinidad and Tobago	-4
++4	1474
+1414	-1
++2	81
+96
+May 22
+2001	Trinidad and Tobago
+Cuba	2
+0	Caribbean Cup
+in Trinidad and Tobago	+13
+-13	1616
+1461	+1
+-1	54
+82
+May 24
+2001	Martinique
+Cuba	1
+0	Caribbean Cup
+in Trinidad and Tobago	+24
+-24	1411
+1437	+9
+-8	98
+90
+June 10
+2001	Jamaica
+Cuba	4
+1	Friendly
+in Jamaica	+7
+-7	1577
+1430	+2
+0	60
+92
+June 24
+2001	Belize
+Cuba	3
+2	Friendly
+in Belize	+17
+-17	1032
+1413	+1
+-2	186
+97
+July 20
+2001	Cuba
+Jamaica	0
+0	Friendly
+in Cuba	+2
+-2	1415
+1595	0
+0	97
+56
+July 29
+2001	Panama
+Cuba	0
+0	Concacaf Gold Cup qualifier
+in Panama	-4
++4	1387
+1419	-3
+0	107
+97
+August 05
+2001	Panama
+Cuba	0
+1	Concacaf Gold Cup qualifier
+in Panama	-24
++24	1363
+1443	-9
++6	116
+91
+January 06
+2002	Cuba
+Guatemala	0
+1	Friendly
+in Cuba	-10
++10	1433
+1564	-3
++4	95
+58
+January 09
+2002	Cuba
+Guatemala	0
+0	Friendly
+in Cuba	+1
+-1	1434
+1563	0
+0	96
+58
+January 21
+2002	United States
+Cuba	1
+0	Concacaf Gold Cup
+in the United States	+4
+-4	1748
+1430	0
+0	26
+96
+January 23
+2002	Cuba
+South Korea	0
+0	Concacaf Gold Cup
+in the United States	+19
+-19	1449
+1742	+6
+-3	90
+27
+November 27
+2002	Cayman Islands
+Cuba	0
+5	Concacaf Gold Cup qualifier
+in Cayman Islands	-19
++19	1127
+1468	-3
++7	169
+83
+November 29
+2002	Cuba
+Martinique	2
+1	Concacaf Gold Cup qualifier
+in Cayman Islands	+18
+-18	1486
+1422	+6
+-5	77
+98
+December 01
+2002	Cuba
+Dominican Republic	2
+1	Concacaf Gold Cup qualifier
+in Cayman Islands	+4
+-4	1490
+1121	+3
+-1	74
+171
+March 11
+2003	Cuba
+Jamaica	0
+0	Friendly
+in Cuba	-1
++1	1489
+1543	0
+0	77
+64
+March 13
+2003	Cuba
+Jamaica	1
+0	Friendly
+in Cuba	+9
+-9	1498
+1534	+3
+0	74
+64
+March 26
+2003	Cuba
+Guadeloupe	3
+2	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+12
+-12	1510
+1342	+4
+-6	70
+123
+March 28
+2003	Cuba
+Antigua and Barbuda	2
+0	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	+6
+-6	1516
+1133	+2
+-1	68
+167
+March 30
+2003	Trinidad and Tobago
+Cuba	1
+3	Concacaf Gold Cup qualifier
+in Trinidad and Tobago	-34
++34	1428
+1550	-8
++5	95
+63
+June 27
+2003	Panama
+Cuba	2
+0	Friendly
+in Panama	+19
+-19	1366
+1531	+9
+-5	116
+67
+June 29
+2003	Panama
+Cuba	1
+0	Friendly
+in Panama	+12
+-12	1378
+1519	+4
+-2	112
+69
+July 06
+2003	Jamaica
+Cuba	1
+2	Friendly
+in Jamaica	-14
++14	1549
+1533	0
++2	61
+67
+July 14
+2003	Cuba
+Canada	2
+0	Concacaf Gold Cup
+in the United States	+48
+-48	1581
+1588	+8
+-13	60
+59
+July 16
+2003	Costa Rica
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+28
+-28	1740
+1553	+7
+-1	25
+62
+July 19
+2003	United States
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1813
+1541	+2
+-3	17
+65
+November 19
+2003	Trinidad and Tobago
+Cuba	2
+1	Friendly
+in Trinidad and Tobago	+11
+-11	1404
+1530	+2
+-3	104
+69
+January 08
+2004	Cuba
+Martinique	0
+0	Friendly
+in Cuba	-6
++6	1524
+1418	-2
++2	70
+100
+February 22
+2004	Cayman Islands
+Cuba	1
+2	World Cup qualifier
+in Cayman Islands	-6
++6	1118
+1530	-2
++1	172
+69
+March 16
+2004	Cuba
+Panama	1
+1	Friendly
+in Cuba	-6
++6	1524
+1379	-1
++1	70
+108
+March 18
+2004	Cuba
+Panama	3
+0	Friendly
+in Cuba	+7
+-7	1531
+1372	+1
+-2	69
+110
+March 27
+2004	Cuba
+Cayman Islands	3
+0	World Cup qualifier
+in Cuba	+3
+-3	1534
+1115	+2
+0	67
+170
+May 20
+2004	Cuba
+Grenada	2
+2	Friendly
+in Cuba	-8
++8	1526
+1279	-3
++2	70
+139
+June 12
+2004	Cuba
+Costa Rica	2
+2	World Cup qualifier
+in Cuba	+5
+-5	1531
+1701	+1
+0	70
+33
+June 20
+2004	Costa Rica
+Cuba	1
+1	World Cup qualifier
+in Costa Rica	-13
++13	1688
+1544	-1
++3	33
+67
+December 12
+2004	Cuba
+Martinique	2
+0	Caribbean Cup qualifier
+in Cuba	+11
+-11	1555
+1372	0
+-3	67
+109
+December 21
+2004	Martinique
+Cuba	0
+2	Caribbean Cup qualifier
+in Martinique	-23
++23	1349
+1578	-10
++6	119
+60
+January 09
+2005	Haiti
+Cuba	0
+1	Caribbean Cup qualifier
+in Haiti	-20
++20	1452
+1598	-2
++3	91
+58
+January 16
+2005	Cuba
+Haiti	1
+1	Caribbean Cup qualifier
+in Cuba	-12
++12	1586
+1471	-3
++3	60
+88
+February 20
+2005	Barbados
+Cuba	0
+3	Caribbean Cup
+in Barbados	-19
++19	1301
+1605	-7
++8	133
+53
+February 22
+2005	Cuba
+Trinidad and Tobago	2
+1	Caribbean Cup
+in Barbados	+12
+-12	1617
+1444	+2
+-1	51
+91
+February 24
+2005	Jamaica
+Cuba	1
+0	Caribbean Cup
+in Barbados	+20
+-20	1640
+1597	+3
+-8	47
+59
+July 07
+2005	United States
+Cuba	4
+1	Concacaf Gold Cup
+in the United States	+11
+-11	1852
+1586	0
+-2	13
+58
+July 09
+2005	Costa Rica
+Cuba	3
+1	Concacaf Gold Cup
+in the United States	+27
+-27	1708
+1559	+7
+-5	34
+64
+July 12
+2005	Canada
+Cuba	2
+1	Concacaf Gold Cup
+in the United States	+28
+-28	1546
+1531	+9
+-9	66
+73
+September 02
+2006	Cuba
+Turks and Caicos	6
+0	Caribbean Cup qualifier
+in Cuba	0
+0	1531
+686	+1
+0	72
+218
+September 04
+2006	Cuba
+Bahamas	6
+0	Caribbean Cup qualifier
+in Cuba	+1
+-1	1532
+888	0
+0	72
+200
+September 06
+2006	Cuba
+Cayman Islands	7
+0	Caribbean Cup qualifier
+in Cuba	+2
+-2	1534
+993	+2
+0	70
+188
+October 17
+2006	Haiti
+Cuba	0
+0	Friendly
+in Haiti	-2
++2	1489
+1536	-1
++2	82
+69
+October 19
+2006	Haiti
+Cuba	0
+1	Friendly
+in Haiti	-12
++12	1477
+1548	-2
++6	84
+63
+November 08
+2006	Cuba
+Haiti	2
+1	Caribbean Cup qualifier
+in Martinique	+16
+-16	1564
+1461	+2
+-5	62
+89
+November 10
+2006	Cuba
+Surinam	3
+1	Caribbean Cup qualifier
+in Martinique	+7
+-7	1571
+1212	+1
+-3	61
+152
+November 12
+2006	Martinique
+Cuba	0
+0	Caribbean Cup qualifier
+in Martinique	+6
+-6	1377
+1565	+2
+-1	105
+62
+January 14
+2007	Guadeloupe
+Cuba	2
+1	Caribbean Cup
+in Trinidad and Tobago	+30
+-30	1408
+1535	+5
+-10	99
+70
+January 16
+2007	Cuba
+St. Vincent & Grenadines	3
+0	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1556
+1361	+8
+-8	62
+112
+January 18
+2007	Cuba
+Guyana	0
+0	Caribbean Cup
+in Trinidad and Tobago	-12
++12	1544
+1336	-5
++1	68
+119
+January 20
+2007	Trinidad and Tobago
+Cuba	3
+1	Caribbean Cup
+in Trinidad and Tobago	+21
+-21	1570
+1523	+5
+-7	60
+75
+January 23
+2007	Cuba
+Guadeloupe	2
+1	Caribbean Cup
+in Trinidad and Tobago	+12
+-12	1535
+1365	+6
+-6	70
+111
+March 24
+2007	Venezuela
+Cuba	3
+1	Friendly
+in Venezuela	+8
+-8	1614
+1527	+2
+-6	51
+75
+May 09
+2007	Chile
+Cuba	3
+0	Friendly
+in Chile	+6
+-6	1722
+1521	0
+0	36
+75
+May 16
+2007	Chile
+Cuba	2
+0	Friendly
+in Chile	+5
+-5	1727
+1516	+3
+-3	33
+78
+June 08
+2007	Mexico
+Cuba	2
+1	Concacaf Gold Cup
+in the United States	+8
+-8	1815
+1508	+1
+-4	15
+79
+June 10
+2007	Cuba
+Panama	2
+2	Concacaf Gold Cup
+in the United States	+4
+-4	1512
+1565	+2
+-1	77
+63
+June 13
+2007	Honduras
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+30
+-30	1691
+1482	+2
+-9	42
+86
+May 23
+2008	Austria
+Cuba	4
+1	Friendly
+in Austria	+9
+-9	1570
+1473	+3
+-3	59
+90
+June 07
+2008	Cuba
+St. Vincent & Grenadines	1
+0	Friendly
+in Cuba	+3
+-3	1476
+1278	+1
+-2	88
+139
+June 17
+2008	Antigua and Barbuda
+Cuba	3
+4	World Cup qualifier
+in Antigua and Barbuda	-9
++9	1142
+1485	0
++2	171
+85
+June 22
+2008	Cuba
+Antigua and Barbuda	4
+0	World Cup qualifier
+in Cuba	+5
+-5	1490
+1137	0
+0	85
+171
+August 20
+2008	Cuba
+Trinidad and Tobago	1
+3	World Cup qualifier
+in Cuba	-38
++38	1452
+1533	-10
++10	95
+73
+September 06
+2008	Cuba
+United States	0
+1	World Cup qualifier
+in Cuba	-8
++8	1444
+1803	+1
++1	94
+16
+September 10
+2008	Guatemala
+Cuba	4
+1	World Cup qualifier
+in Guatemala	+19
+-19	1529
+1425	+8
+-3	75
+97
+October 11
+2008	United States
+Cuba	6
+1	World Cup qualifier
+in the United States	+5
+-5	1815
+1420	+1
+0	14
+97
+October 15
+2008	Cuba
+Guatemala	2
+1	World Cup qualifier
+in Cuba	+20
+-20	1440
+1503	+4
+-7	93
+85
+October 23
+2008	Cuba
+Netherlands Antilles	7
+1	Caribbean Cup qualifier
+in Cuba	+9
+-9	1449
+1150	0
+-1	93
+167
+October 25
+2008	Cuba
+Barbados	1
+1	Caribbean Cup qualifier
+in Cuba	-12
++12	1437
+1327	0
++4	93
+125
+October 27
+2008	Cuba
+Surinam	6
+0	Caribbean Cup qualifier
+in Cuba	+14
+-14	1451
+1235	0
+-6	93
+148
+November 19
+2008	Trinidad and Tobago
+Cuba	3
+0	World Cup qualifier
+in Trinidad and Tobago	+17
+-17	1567
+1434	+3
+-2	61
+95
+December 04
+2008	Cuba
+Guadeloupe	2
+1	Caribbean Cup
+in Jamaica	+23
+-23	1457
+1470	+2
+-4	93
+92
+December 06
+2008	Cuba
+Antigua and Barbuda	3
+0	Caribbean Cup
+in Jamaica	+16
+-16	1473
+1226	+2
+-7	91
+152
+December 08
+2008	Haiti
+Cuba	1
+0	Caribbean Cup
+in Jamaica	+25
+-25	1401
+1448	+6
+-2	110
+93
+December 11
+2008	Grenada
+Cuba	2
+2	Caribbean Cup
+in Jamaica	+8
+-8	1303
+1440	0
+0	131
+93
+December 14
+2008	Guadeloupe
+Cuba	0
+0	Caribbean Cup
+in Jamaica	-1
++1	1460
+1441	0
+0	92
+93
+October 26
+2010	Panama
+Cuba	0
+3	Friendly
+in Panama	-28
++28	1564
+1469	-8
++5	65
+93
+November 10
+2010	Cuba
+Dominica	4
+2	Caribbean Cup qualifier
+in Antigua and Barbuda	+6
+-6	1475
+1096	+1
+-1	92
+175
+November 12
+2010	Surinam
+Cuba	3
+3	Caribbean Cup qualifier
+in Antigua and Barbuda	+13
+-13	1225
+1462	+3
+-4	148
+96
+November 14
+2010	Antigua and Barbuda
+Cuba	0
+0	Caribbean Cup qualifier
+in Antigua and Barbuda	+7
+-7	1248
+1455	-1
+-1	147
+97
+November 26
+2010	Cuba
+Trinidad and Tobago	2
+0	Caribbean Cup
+in Martinique	+36
+-36	1491
+1493	+8
+-13	89
+87
+November 28
+2010	Martinique
+Cuba	0
+1	Caribbean Cup
+in Martinique	-19
++19	1361
+1510	-6
++8	119
+80
+November 30
+2010	Cuba
+Grenada	0
+0	Caribbean Cup
+in Martinique	-11
++11	1499
+1309	-5
++5	85
+130
+December 03
+2010	Guadeloupe
+Cuba	2
+1	Caribbean Cup
+in Martinique	+21
+-21	1495
+1478	+5
+-6	86
+91
+December 05
+2010	Cuba
+Grenada	1
+0	Caribbean Cup
+in Martinique	+11
+-11	1489
+1293	+2
+-4	89
+135
+March 24
+2011	Cuba
+El Salvador	0
+1	Friendly
+in Cuba	-13
++13	1476
+1478	-6
++1	94
+93
+March 29
+2011	Cuba
+Panama	0
+2	Friendly
+in Cuba	-15
++15	1461
+1597	0
++2	95
+57
+May 26
+2011	Cuba
+Nicaragua	1
+1	Friendly
+in Cuba	-9
++9	1452
+1067	-1
++2	96
+178
+May 28
+2011	Cuba
+Nicaragua	2
+1	Friendly
+in Cuba	+1
+-1	1453
+1066	0
+0	96
+178
+June 05
+2011	Costa Rica
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+24
+-24	1677
+1429	+4
+-4	40
+100
+June 09
+2011	Mexico
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+8
+-8	1863
+1421	+1
+0	9
+101
+June 12
+2011	El Salvador
+Cuba	6
+1	Concacaf Gold Cup
+in the United States	+42
+-42	1519
+1379	+17
+-14	74
+114
+December 11
+2011	Cuba
+Costa Rica	1
+1	Friendly
+in Cuba	+4
+-4	1383
+1621	+3
+-4	109
+53
+February 22
+2012	Jamaica
+Cuba	1
+0	Friendly
+in Jamaica	+2
+-2	1627
+1381	0
+0	51
+109
+February 24
+2012	Jamaica
+Cuba	3
+0	Friendly
+in Jamaica	+4
+-4	1631
+1377	0
+-1	51
+110
+February 29
+2012	Bolivia
+Cuba	1
+0	Friendly
+in Bolivia	+4
+-4	1513
+1373	-1
++1	82
+110
+June 08
+2012	Cuba
+Canada	0
+1	World Cup qualifier
+in Cuba	-15
++15	1358
+1578	-5
++5	115
+61
+June 12
+2012	Panama
+Cuba	1
+0	World Cup qualifier
+in Panama	+3
+-3	1698
+1355	-1
+-1	36
+116
+September 07
+2012	Cuba
+Honduras	0
+3	World Cup qualifier
+in Cuba	-21
++21	1334
+1624	-8
++7	126
+50
+September 11
+2012	Honduras
+Cuba	1
+0	World Cup qualifier
+in Honduras	+4
+-4	1628
+1330	+1
++2	46
+123
+October 12
+2012	Canada
+Cuba	3
+0	World Cup qualifier
+in Canada	+8
+-8	1597
+1322	+5
+-6	55
+128
+October 16
+2012	Cuba
+Panama	1
+1	World Cup qualifier
+in Cuba	+13
+-13	1335
+1668	+4
+-4	124
+41
+November 14
+2012	Cuba
+Surinam	5
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+25
+-25	1360
+1174	+4
+-4	120
+161
+November 16
+2012	Cuba
+St. Vincent & Grenadines	1
+1	Caribbean Cup qualifier
+in Trinidad and Tobago	-9
++9	1351
+1201	-4
+0	124
+157
+November 18
+2012	Trinidad and Tobago
+Cuba	1
+0	Caribbean Cup qualifier
+in Trinidad and Tobago	+8
+-8	1490
+1343	+3
+0	84
+124
+December 08
+2012	Martinique
+Cuba	1
+0	Caribbean Cup
+in Antigua and Barbuda	+18
+-18	1389
+1325	+7
+-4	108
+128
+December 10
+2012	Cuba
+French Guiana	2
+1	Caribbean Cup
+in Antigua and Barbuda	+17
+-17	1342
+1258	+4
+-4	124
+144
+December 12
+2012	Cuba
+Jamaica	1
+0	Caribbean Cup
+in Antigua and Barbuda	+32
+-32	1374
+1546	+10
+-10	114
+72
+December 14
+2012	Cuba
+Haiti	1
+0	Caribbean Cup
+in Antigua and Barbuda	+25
+-25	1399
+1435	+8
+-6	106
+98
+December 16
+2012	Cuba
+Trinidad and Tobago	1
+0	Caribbean Cup
+in Antigua and Barbuda	+23
+-23	1422
+1430	+5
+-3	101
+99
+July 09
+2013	Costa Rica
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+13
+-13	1740
+1409	0
+-3	28
+104
+July 13
+2013	United States
+Cuba	4
+1	Concacaf Gold Cup
+in the United States	+5
+-5	1793
+1404	+1
+0	20
+103
+July 16
+2013	Cuba
+Belize	4
+0	Concacaf Gold Cup
+in the United States	+17
+-17	1421
+1127	+2
+-4	102
+173
+July 20
+2013	Panama
+Cuba	6
+1	Concacaf Gold Cup
+in the United States	+18
+-18	1705
+1403	+4
+-2	32
+104
+March 29
+2014	Cuba
+Indonesia	1
+0	Friendly
+in Spain	+5
+-5	1408
+1218	+1
+-3	107
+151

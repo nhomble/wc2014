@@ -1,0 +1,6318 @@
+May 01
+1904	Belgium
+France	3
+3	Friendly
+in Belgium	-3
++3	1697
+1703	-
+-	6
+5
+April 30
+1905	Belgium
+Netherlands	1
+4	Friendly
+in Belgium	-17
++17	1680
+1817	-2
+-	8
+2
+May 07
+1905	Belgium
+France	7
+0	Friendly
+in Belgium	+18
+-18	1698
+1690	+2
+-1	6
+7
+May 14
+1905	Netherlands
+Belgium	4
+0	Friendly
+in the Netherlands	+8
+-8	1825
+1690	0
+0	2
+6
+April 22
+1906	France
+Belgium	0
+5	Friendly
+in France	-26
++26	1664
+1716	-1
++1	8
+6
+April 29
+1906	Belgium
+Netherlands	5
+0	Friendly
+in Belgium	+21
+-21	1737
+1804	+1
+-1	5
+3
+May 13
+1906	Netherlands
+Belgium	2
+3	Friendly
+in the Netherlands	-14
++14	1790
+1751	0
+0	3
+5
+April 14
+1907	Belgium
+Netherlands	1
+3	Friendly
+in Belgium	-18
++18	1733
+1808	0
+0	5
+3
+April 21
+1907	Belgium
+France	1
+2	Friendly
+in Belgium	-15
++15	1718
+1679	-1
++1	6
+8
+May 09
+1907	Netherlands
+Belgium	1
+2	Friendly
+in the Netherlands	-15
++15	1793
+1733	0
++1	3
+5
+March 29
+1908	Belgium
+Netherlands	1
+4	Friendly
+in Belgium	-20
++20	1713
+1813	-1
+0	7
+3
+April 12
+1908	France
+Belgium	1
+2	Friendly
+in France	-12
++12	1677
+1725	-1
++1	9
+6
+April 26
+1908	Netherlands
+Belgium	3
+1	Friendly
+in the Netherlands	+8
+-8	1821
+1717	0
+0	3
+6
+October 26
+1908	Belgium
+Sweden	2
+1	Friendly
+in Belgium	+6
+-6	1723
+1645	0
+0	7
+11
+March 21
+1909	Belgium
+Netherlands	1
+4	Friendly
+in Belgium	-17
++17	1706
+1855	-2
++1	8
+2
+April 25
+1909	Netherlands
+Belgium	4
+1	Friendly
+in the Netherlands	+7
+-7	1862
+1699	0
+0	2
+8
+May 09
+1909	Belgium
+France	5
+2	Friendly
+in Belgium	+9
+-9	1708
+1596	0
+-1	8
+14
+March 13
+1910	Belgium
+Netherlands	3
+2	Friendly
+in Belgium	+12
+-12	1720
+1850	+1
+0	7
+2
+April 03
+1910	France
+Belgium	0
+4	Friendly
+in France	-17
++17	1579
+1737	-4
++2	18
+5
+April 10
+1910	Netherlands
+Belgium	7
+0	Friendly
+in the Netherlands	+10
+-10	1860
+1727	0
+-2	2
+7
+May 16
+1910	Germany
+Belgium	0
+3	Friendly
+in Germany	-20
++20	1667
+1747	0
++2	10
+5
+March 19
+1911	Belgium
+Netherlands	1
+5	Friendly
+in Belgium	-17
++17	1730
+1889	-1
+0	7
+2
+April 02
+1911	Netherlands
+Belgium	3
+1	Friendly
+in the Netherlands	+6
+-6	1895
+1724	0
+-1	2
+8
+April 23
+1911	Belgium
+Germany	2
+1	Friendly
+in Belgium	+6
+-6	1730
+1665	+1
+-1	7
+12
+April 30
+1911	Belgium
+France	7
+1	Friendly
+in Belgium	+7
+-7	1737
+1535	+1
+0	6
+20
+January 28
+1912	France
+Belgium	1
+1	Friendly
+in France	+3
+-3	1545
+1734	0
+0	20
+7
+February 20
+1912	Belgium
+Switzerland	9
+2	Friendly
+in Belgium	+9
+-9	1743
+1581	0
+0	7
+17
+March 10
+1912	Belgium
+Netherlands	1
+2	Friendly
+in Belgium	-9
++9	1734
+1904	0
+0	7
+2
+April 28
+1912	Netherlands
+Belgium	4
+3	Friendly
+in the Netherlands	+4
+-4	1900
+1730	0
+0	2
+7
+February 16
+1913	Belgium
+France	3
+0	Friendly
+in Belgium	+7
+-7	1737
+1576	0
+0	8
+16
+March 09
+1913	Belgium
+Netherlands	3
+3	Friendly
+in Belgium	+2
+-2	1739
+1896	0
+0	8
+2
+April 20
+1913	Netherlands
+Belgium	2
+4	Friendly
+in the Netherlands	-24
++24	1872
+1763	-1
++1	3
+7
+May 01
+1913	Italy
+Belgium	1
+0	Friendly
+in Italy	+13
+-13	1580
+1750	0
+-1	17
+8
+May 04
+1913	Switzerland
+Belgium	1
+2	Friendly
+in Switzerland	-7
++7	1541
+1757	0
++1	18
+7
+November 02
+1913	Belgium
+Switzerland	2
+0	Friendly
+in Belgium	+4
+-4	1761
+1551	0
+0	7
+18
+November 23
+1913	Belgium
+Germany	6
+2	Friendly
+in Belgium	+6
+-6	1767
+1572	0
+0	7
+16
+January 25
+1914	France
+Belgium	4
+3	Friendly
+in France	+12
+-12	1612
+1755	+1
+0	13
+7
+March 15
+1914	Belgium
+Netherlands	2
+4	Friendly
+in Belgium	-14
++14	1741
+1886	-2
+0	8
+3
+April 26
+1914	Netherlands
+Belgium	4
+2	Friendly
+in the Netherlands	+6
+-6	1884
+1735	0
+0	3
+8
+March 09
+1919	Belgium
+France	2
+2	Friendly
+in Belgium	-6
++6	1729
+1579	0
+0	8
+18
+March 28
+1920	France
+Belgium	2
+1	Friendly
+in France	+11
+-11	1595
+1718	0
+-1	18
+10
+August 29
+1920	Belgium
+Spain	3
+1	Olympic Games
+in Belgium	+47
+-47	1765
+1788	0
+-3	11
+6
+August 31
+1920	Belgium
+Netherlands	3
+0	Olympic Games
+in Belgium	+53
+-53	1818
+1813	+7
+-5	4
+6
+September 02
+1920	Belgium
+Czechoslovakia	2
+0	Olympic Games
+in Belgium	+34
+-34	1852
+1801	+2
+-5	2
+7
+March 06
+1921	Belgium
+France	3
+1	Friendly
+in Belgium	+4
+-4	1856
+1597	0
+-1	3
+20
+May 05
+1921	Belgium
+Italy	2
+3	Friendly
+in Belgium	-18
++18	1838
+1626	0
+0	3
+16
+May 15
+1921	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	-5
++5	1833
+1774	0
+0	3
+8
+May 21
+1921	Belgium
+England	0
+2	Friendly
+in Belgium	-22
++22	1811
+1784	-2
++1	5
+8
+October 09
+1921	Spain
+Belgium	2
+0	Friendly
+in Spain	+8
+-8	1883
+1803	+1
+-1	1
+6
+January 15
+1922	France
+Belgium	2
+1	Friendly
+in France	+13
+-13	1595
+1790	+1
+-2	22
+8
+March 26
+1922	Belgium
+Netherlands	4
+0	Friendly
+in Belgium	+14
+-14	1804
+1779	+3
+-2	5
+9
+April 15
+1922	Belgium
+Denmark	0
+0	Friendly
+in Belgium	-2
++2	1802
+1829	0
+0	6
+3
+May 07
+1922	Netherlands
+Belgium	1
+2	Friendly
+in the Netherlands	-13
++13	1779
+1815	0
+0	8
+6
+May 21
+1922	Italy
+Belgium	4
+2	Friendly
+in Italy	+18
+-18	1653
+1797	+1
+0	16
+6
+February 04
+1923	Belgium
+Spain	1
+0	Friendly
+in Belgium	+10
+-10	1807
+1897	+1
+0	4
+1
+February 25
+1923	Belgium
+France	4
+1	Friendly
+in Belgium	+5
+-5	1812
+1578	0
+0	4
+29
+March 19
+1923	England
+Belgium	6
+1	Friendly
+in England	+17
+-17	1776
+1795	0
+-2	10
+6
+April 29
+1923	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-2
++2	1759
+1797	0
++1	11
+5
+November 01
+1923	Belgium
+England	2
+2	Friendly
+in Belgium	-3
++3	1794
+1785	0
+0	6
+9
+January 13
+1924	France
+Belgium	2
+0	Friendly
+in France	+21
+-21	1558
+1773	+3
+-4	32
+9
+March 23
+1924	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-3
++3	1760
+1776	0
+0	9
+8
+April 27
+1924	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	-4
++4	1772
+1748	0
++2	7
+9
+May 29
+1924	Sweden
+Belgium	8
+1	Olympic Games
+in France	+95
+-95	1716
+1677	+8
+-11	13
+19
+October 05
+1924	Denmark
+Belgium	2
+1	Friendly
+in Denmark	+5
+-5	1775
+1672	0
+0	7
+18
+November 11
+1924	Belgium
+France	3
+0	Friendly
+in Belgium	+7
+-7	1679
+1525	0
+-1	19
+35
+December 08
+1924	England
+Belgium	4
+0	Friendly
+in England	+9
+-9	1779
+1670	+1
+0	7
+19
+March 15
+1925	Belgium
+Netherlands	0
+1	Friendly
+in Belgium	-11
++11	1659
+1752	0
++3	19
+9
+May 03
+1925	Netherlands
+Belgium	5
+0	Friendly
+in the Netherlands	+10
+-10	1751
+1649	+1
+0	11
+20
+May 21
+1925	Hungary
+Belgium	1
+3	Friendly
+in Hungary	-23
++23	1728
+1672	-4
++2	14
+18
+May 24
+1925	Switzerland
+Belgium	0
+0	Friendly
+in Switzerland	-4
++4	1725
+1676	-1
+0	14
+18
+December 13
+1925	Belgium
+Austria	3
+4	Friendly
+in Belgium	-10
++10	1666
+1780	0
++3	19
+7
+February 14
+1926	Belgium
+Hungary	0
+2	Friendly
+in Belgium	-17
++17	1649
+1727	0
+0	19
+13
+March 14
+1926	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	0
+0	1649
+1764	0
+0	19
+10
+April 11
+1926	France
+Belgium	4
+3	Friendly
+in France	+11
+-11	1511
+1638	+2
+-1	36
+20
+May 02
+1926	Netherlands
+Belgium	1
+5	Friendly
+in the Netherlands	-29
++29	1729
+1667	-1
++3	11
+18
+May 24
+1926	Belgium
+England	3
+5	Friendly
+in Belgium	-18
++18	1649
+1725	-3
++2	20
+12
+June 20
+1926	Belgium
+France	2
+2	Friendly
+in Belgium	-5
++5	1644
+1553	0
++1	20
+30
+January 02
+1927	Belgium
+Czechoslovakia	2
+3	Friendly
+in Belgium	-8
++8	1636
+1816	-1
+0	21
+6
+March 13
+1927	Belgium
+Netherlands	2
+0	Friendly
+in Belgium	+14
+-14	1650
+1691	+2
+-1	19
+16
+April 03
+1927	Belgium
+Sweden	2
+1	Friendly
+in Belgium	+10
+-10	1660
+1756	+1
+0	18
+9
+May 01
+1927	Netherlands
+Belgium	3
+2	Friendly
+in the Netherlands	+6
+-6	1697
+1654	0
+-2	16
+19
+May 11
+1927	Belgium
+England	1
+9	Friendly
+in Belgium	-24
++24	1630
+1770	-1
++1	20
+9
+May 22
+1927	Austria
+Belgium	4
+1	Friendly
+in Austria	+5
+-5	1834
+1625	0
+-1	6
+21
+May 26
+1927	Czechoslovakia
+Belgium	4
+0	Friendly
+in Czechoslovakia	+5
+-5	1843
+1620	0
+0	5
+21
+September 04
+1927	Sweden
+Belgium	7
+0	Friendly
+in Sweden	+9
+-9	1781
+1611	0
+-1	10
+22
+January 08
+1928	Belgium
+Austria	1
+2	Friendly
+in Belgium	-7
++7	1604
+1826	-2
+0	26
+6
+February 12
+1928	Belgium
+Ireland	2
+4	Friendly
+in Belgium	-22
++22	1582
+1563	-1
++1	27
+30
+March 11
+1928	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-6
++6	1706
+1588	-1
+0	15
+27
+April 01
+1928	Belgium
+Netherlands	1
+0	Friendly
+in Belgium	+11
+-11	1599
+1695	+1
+-1	26
+15
+April 15
+1928	France
+Belgium	2
+3	Friendly
+in France	-10
++10	1502
+1609	-1
+0	37
+26
+May 19
+1928	Belgium
+England	1
+3	Friendly
+in Belgium	-16
++16	1593
+1711	-2
++3	27
+13
+May 27
+1928	Belgium
+Luxembourg	5
+3	Olympic Games
+in the Netherlands	+8
+-8	1601
+1189	+1
+0	26
+61
+June 02
+1928	Argentina
+Belgium	6
+3	Olympic Games
+in the Netherlands	+12
+-12	1961
+1589	0
+-1	2
+26
+June 05
+1928	Netherlands
+Belgium	3
+1	Olympic Games Consolation Tournament
+in the Netherlands	+15
+-15	1688
+1574	+1
+-1	17
+27
+November 04
+1928	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-5
++5	1656
+1579	0
+0	17
+28
+April 20
+1929	Ireland
+Belgium	4
+0	Friendly
+in Ireland	+14
+-14	1577
+1565	+2
+-2	28
+30
+May 05
+1929	Belgium
+Netherlands	3
+1	Friendly
+in Belgium	+15
+-15	1580
+1643	+2
+0	28
+17
+May 11
+1929	Belgium
+England	1
+5	Friendly
+in Belgium	-15
++15	1565
+1764	-2
++1	30
+10
+May 26
+1929	Belgium
+France	4
+1	Friendly
+in Belgium	+9
+-9	1574
+1474	+1
+-3	29
+42
+April 13
+1930	France
+Belgium	1
+6	Friendly
+in France	-20
++20	1447
+1594	0
++3	43
+27
+May 04
+1930	Netherlands
+Belgium	2
+2	Friendly
+in the Netherlands	-3
++3	1603
+1597	0
++1	25
+26
+May 11
+1930	Belgium
+Ireland	1
+3	Friendly
+in Belgium	-20
++20	1577
+1597	-4
++4	30
+26
+May 18
+1930	Belgium
+Netherlands	3
+1	Friendly
+in Belgium	+12
+-12	1589
+1591	+2
+-2	28
+27
+May 25
+1930	Belgium
+France	1
+2	Friendly
+in Belgium	-16
++16	1573
+1457	-2
+0	30
+43
+June 08
+1930	Belgium
+Portugal	2
+1	Friendly
+in Belgium	+10
+-10	1583
+1660	+1
+0	29
+17
+July 13
+1930	United States
+Belgium	3
+0	World Cup
+in Uruguay	+49
+-49	1658
+1534	+5
+-4	18
+33
+July 20
+1930	Paraguay
+Belgium	1
+0	World Cup
+in Uruguay	+21
+-21	1663
+1513	+2
+-1	17
+34
+September 21
+1930	Belgium
+Czechoslovakia	2
+3	Friendly
+in Belgium	-4
++4	1509
+1842	0
+0	34
+8
+September 28
+1930	Belgium
+Sweden	2
+2	Friendly
+in Belgium	+4
+-4	1513
+1759	0
+-2	34
+14
+December 07
+1930	France
+Belgium	2
+2	Friendly
+in France	-3
++3	1499
+1516	0
+0	36
+34
+March 29
+1931	Netherlands
+Belgium	3
+2	Friendly
+in the Netherlands	+6
+-6	1572
+1510	0
+0	30
+34
+May 03
+1931	Belgium
+Netherlands	4
+2	Friendly
+in Belgium	+13
+-13	1523
+1561	0
+0	34
+31
+May 16
+1931	Belgium
+England	1
+4	Friendly
+in Belgium	-8
++8	1515
+1835	0
+0	35
+7
+May 31
+1931	Portugal
+Belgium	3
+2	Friendly
+in Portugal	+4
+-4	1647
+1511	0
+0	19
+35
+October 11
+1931	Belgium
+Poland	2
+1	Friendly
+in Belgium	+10
+-10	1521
+1595	+1
+-2	35
+25
+December 06
+1931	Belgium
+Switzerland	2
+1	Friendly
+in Belgium	+6
+-6	1527
+1467	+1
+-1	34
+43
+March 20
+1932	Belgium
+Netherlands	1
+4	Friendly
+in Belgium	-19
++19	1508
+1617	-2
++4	36
+21
+April 17
+1932	Netherlands
+Belgium	2
+1	Friendly
+in the Netherlands	+5
+-5	1622
+1503	0
+-1	21
+37
+May 01
+1932	Belgium
+France	5
+2	Friendly
+in Belgium	+13
+-13	1516
+1509	+2
+-3	35
+37
+June 05
+1932	Denmark
+Belgium	3
+4	Friendly
+in Denmark	-17
++17	1692
+1533	-2
++2	16
+33
+June 12
+1932	Sweden
+Belgium	3
+1	Friendly
+in Sweden	+5
+-5	1729
+1528	0
+-1	12
+34
+December 11
+1932	Belgium
+Austria	1
+6	Friendly
+in Belgium	-6
++6	1522
+1941	-1
+0	37
+2
+February 12
+1933	Belgium
+Italy	2
+3	Friendly
+in Belgium	-3
++3	1519
+1899	0
+0	37
+5
+March 12
+1933	Switzerland
+Belgium	3
+3	Friendly
+in Switzerland	-5
++5	1586
+1524	-2
+0	30
+37
+March 26
+1933	France
+Belgium	3
+0	Friendly
+in France	+13
+-13	1523
+1511	+1
+-1	37
+38
+April 09
+1933	Belgium
+Netherlands	1
+3	Friendly
+in Belgium	-16
++16	1495
+1604	-1
++3	39
+26
+May 07
+1933	Netherlands
+Belgium	1
+2	Friendly
+in the Netherlands	-15
++15	1589
+1510	-3
++1	29
+38
+June 04
+1933	Poland
+Belgium	0
+1	Friendly
+in Poland	-16
++16	1653
+1526	-2
++1	19
+37
+June 11
+1933	Austria
+Belgium	4
+1	Friendly
+in Austria	+2
+-2	1929
+1524	0
+0	2
+36
+October 22
+1933	Germany
+Belgium	8
+1	Friendly
+in Germany	+8
+-8	1700
+1516	+1
+0	14
+36
+November 26
+1933	Belgium
+Denmark	2
+2	Friendly
+in Belgium	+2
+-2	1518
+1700	0
+0	36
+14
+January 21
+1934	Belgium
+France	2
+3	Friendly
+in Belgium	-12
++12	1506
+1543	0
++1	36
+34
+February 25
+1934	Ireland
+Belgium	4
+4	World Cup qualifier
+in Ireland	-11
++11	1601
+1517	-2
+0	27
+36
+March 11
+1934	Netherlands
+Belgium	9
+3	Friendly
+in the Netherlands	+12
+-12	1597
+1505	+2
+-1	27
+37
+April 29
+1934	Belgium
+Netherlands	2
+4	World Cup qualifier
+in Belgium	-28
++28	1477
+1651	-4
++3	41
+21
+May 27
+1934	Germany
+Belgium	5
+2	World Cup
+in Italy	+20
+-20	1753
+1457	0
+-1	12
+42
+March 31
+1935	Netherlands
+Belgium	4
+2	Friendly
+in the Netherlands	+6
+-6	1617
+1451	0
+-1	25
+43
+April 14
+1935	Belgium
+France	1
+1	Friendly
+in Belgium	0
+0	1451
+1549	0
+0	42
+34
+April 28
+1935	Belgium
+Germany	1
+6	Friendly
+in Belgium	-6
++6	1445
+1843	-1
+0	43
+8
+May 12
+1935	Belgium
+Netherlands	0
+2	Friendly
+in Belgium	-12
++12	1433
+1629	0
++2	43
+23
+May 30
+1935	Belgium
+Switzerland	2
+2	Friendly
+in Belgium	+2
+-2	1435
+1613	0
+0	43
+26
+November 17
+1935	Belgium
+Sweden	5
+1	Friendly
+in Belgium	+29
+-29	1464
+1713	+1
+0	42
+13
+February 16
+1936	Belgium
+Poland	0
+2	Friendly
+in Belgium	-15
++15	1449
+1583	0
++2	43
+28
+March 08
+1936	France
+Belgium	3
+0	Friendly
+in France	+8
+-8	1560
+1441	+2
+-1	31
+44
+March 29
+1936	Netherlands
+Belgium	8
+0	Friendly
+in the Netherlands	+6
+-6	1681
+1435	0
+0	18
+44
+May 03
+1936	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	+4
+-4	1439
+1677	0
+0	44
+18
+May 09
+1936	Belgium
+England	3
+2	Friendly
+in Belgium	+17
+-17	1456
+1842	+1
+-1	43
+7
+May 24
+1936	Switzerland
+Belgium	1
+1	Friendly
+in Switzerland	-6
++6	1595
+1462	0
+0	27
+43
+February 21
+1937	Belgium
+France	3
+1	Friendly
+in Belgium	+15
+-15	1477
+1549	0
+-1	42
+36
+April 04
+1937	Belgium
+Netherlands	2
+1	Friendly
+in Belgium	+13
+-13	1490
+1672	0
+-1	42
+18
+April 18
+1937	Belgium
+Switzerland	1
+2	Friendly
+in Belgium	-12
++12	1478
+1546	0
++2	42
+34
+April 25
+1937	Germany
+Belgium	1
+0	Friendly
+in Germany	+2
+-2	1764
+1476	0
+0	11
+42
+May 02
+1937	Netherlands
+Belgium	1
+0	Friendly
+in the Netherlands	+3
+-3	1675
+1473	0
+0	18
+42
+June 06
+1937	Yugoslavia
+Belgium	1
+1	Friendly
+in Yugoslavia	-7
++7	1659
+1480	0
+0	20
+42
+June 10
+1937	Romania
+Belgium	2
+1	Friendly
+in Romania	+5
+-5	1579
+1475	0
+0	32
+42
+January 30
+1938	France
+Belgium	5
+3	Friendly
+in France	+8
+-8	1566
+1467	0
+-1	34
+43
+February 27
+1938	Netherlands
+Belgium	7
+2	Friendly
+in the Netherlands	+6
+-6	1667
+1461	0
+0	19
+44
+March 13
+1938	Luxembourg
+Belgium	2
+3	World Cup qualifier
+in Luxembourg	-9
++9	1149
+1470	0
++1	74
+43
+April 03
+1938	Belgium
+Netherlands	1
+1	World Cup qualifier
+in Belgium	+5
+-5	1475
+1662	0
+0	43
+19
+May 08
+1938	Switzerland
+Belgium	0
+3	Friendly
+in Switzerland	-28
++28	1583
+1503	-5
++2	32
+41
+May 15
+1938	Italy
+Belgium	6
+1	Friendly
+in Italy	+1
+-1	2006
+1502	0
+0	1
+41
+May 29
+1938	Belgium
+Yugoslavia	2
+2	Friendly
+in Belgium	+1
+-1	1503
+1639	0
+0	41
+22
+June 05
+1938	France
+Belgium	3
+1	World Cup
+in France	+25
+-25	1596
+1478	+2
+-2	31
+43
+January 29
+1939	Belgium
+Germany	1
+4	Friendly
+in Belgium	-10
++10	1468
+1736	-1
+-1	44
+15
+March 19
+1939	Belgium
+Netherlands	5
+4	Friendly
+in Belgium	+12
+-12	1480
+1622	+2
+0	42
+22
+April 23
+1939	Netherlands
+Belgium	3
+2	Friendly
+in the Netherlands	+4
+-4	1626
+1476	0
+-1	22
+43
+May 14
+1939	Belgium
+Switzerland	1
+2	Friendly
+in Belgium	-7
++7	1469
+1688	-1
++1	44
+17
+May 18
+1939	Belgium
+France	1
+3	Friendly
+in Belgium	-14
++14	1455
+1616	0
++3	44
+25
+May 27
+1939	Poland
+Belgium	3
+3	Friendly
+in Poland	-6
++6	1583
+1461	0
+0	32
+44
+March 17
+1940	Belgium
+Netherlands	7
+1	Friendly
+in Belgium	+25
+-25	1486
+1595	+1
+-6	44
+31
+April 21
+1940	Netherlands
+Belgium	4
+2	Friendly
+in the Netherlands	+8
+-8	1584
+1478	0
+-1	34
+46
+December 24
+1944	France
+Belgium	3
+1	Friendly
+in France	+6
+-6	1618
+1472	0
+-2	26
+47
+May 13
+1945	Luxembourg
+Belgium	4
+1	Friendly
+in Luxembourg	+26
+-26	1213
+1446	+1
+-4	78
+50
+December 15
+1945	Belgium
+France	2
+1	Friendly
+in Belgium	+12
+-12	1458
+1593	+1
+-2	49
+32
+February 23
+1946	Belgium
+Luxembourg	7
+0	Friendly
+in Belgium	+5
+-5	1463
+1208	+1
+0	48
+78
+May 12
+1946	Netherlands
+Belgium	6
+3	Friendly
+in the Netherlands	+7
+-7	1597
+1456	+1
+0	33
+48
+May 30
+1946	Belgium
+Netherlands	2
+2	Friendly
+in Belgium	+1
+-1	1457
+1596	0
+0	48
+33
+April 07
+1947	Netherlands
+Belgium	2
+1	Friendly
+in the Netherlands	+4
+-4	1596
+1453	0
+0	32
+48
+May 04
+1947	Belgium
+Netherlands	1
+2	Friendly
+in Belgium	-9
++9	1444
+1605	0
++2	48
+30
+May 18
+1947	Belgium
+Scotland	2
+1	Friendly
+in Belgium	+17
+-17	1461
+1814	0
+-2	48
+8
+June 01
+1947	France
+Belgium	4
+2	Friendly
+in France	+5
+-5	1647
+1456	+1
+0	23
+48
+September 21
+1947	Belgium
+England	2
+5	Friendly
+in Belgium	-4
++4	1452
+1913	0
+0	48
+4
+November 02
+1947	Switzerland
+Belgium	4
+0	Friendly
+in Switzerland	+5
+-5	1679
+1447	+1
+0	19
+48
+March 14
+1948	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	+2
+-2	1449
+1610	+1
+-2	46
+29
+April 18
+1948	Netherlands
+Belgium	2
+2	Friendly
+in the Netherlands	-6
++6	1604
+1455	-2
++1	30
+47
+April 28
+1948	Scotland
+Belgium	2
+0	Friendly
+in Scotland	+3
+-3	1724
+1452	0
+-1	17
+48
+June 06
+1948	Belgium
+France	4
+2	Friendly
+in Belgium	+21
+-21	1473
+1667	+3
+-2	45
+22
+October 17
+1948	France
+Belgium	3
+3	Friendly
+in France	-7
++7	1687
+1480	-2
++1	21
+46
+November 21
+1948	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	+1
+-1	1481
+1626	0
+0	46
+27
+January 02
+1949	Spain
+Belgium	1
+1	Friendly
+in Spain	-9
++9	1816
+1490	0
+0	9
+46
+March 13
+1949	Netherlands
+Belgium	3
+3	Friendly
+in the Netherlands	-6
++6	1620
+1496	0
++3	27
+43
+April 24
+1949	Ireland
+Belgium	0
+2	Friendly
+in Ireland	-23
++23	1576
+1519	0
++1	29
+42
+May 22
+1949	Belgium
+Wales	3
+1	Friendly
+in Belgium	+19
+-19	1538
+1707	+3
+-3	40
+18
+October 02
+1949	Belgium
+Switzerland	3
+0	Friendly
+in Belgium	+19
+-19	1557
+1645	+1
+-3	36
+25
+November 06
+1949	Netherlands
+Belgium	0
+1	Friendly
+in the Netherlands	-15
++15	1641
+1572	-2
++6	25
+30
+November 23
+1949	Wales
+Belgium	5
+1	Friendly
+in Wales	+10
+-10	1667
+1562	0
+-4	22
+34
+March 05
+1950	Italy
+Belgium	3
+1	Friendly
+in Italy	+1
+-1	1988
+1561	0
+0	2
+35
+April 16
+1950	Belgium
+Netherlands	2
+0	Friendly
+in Belgium	+14
+-14	1575
+1616	+4
+-1	31
+26
+May 10
+1950	Belgium
+Ireland	5
+1	Friendly
+in Belgium	+14
+-14	1589
+1565	+1
+-4	30
+34
+May 18
+1950	Belgium
+England	1
+4	Friendly
+in Belgium	-5
++5	1584
+1988	0
+0	30
+2
+June 04
+1950	Belgium
+France	4
+1	Friendly
+in Belgium	+16
+-16	1600
+1630	0
+0	31
+25
+November 01
+1950	France
+Belgium	3
+3	Friendly
+in France	-4
++4	1626
+1604	0
++1	26
+29
+November 12
+1950	Belgium
+Netherlands	7
+2	Friendly
+in Belgium	+13
+-13	1617
+1565	+1
+-3	28
+34
+April 15
+1951	Netherlands
+Belgium	5
+4	Friendly
+in the Netherlands	+9
+-9	1564
+1608	+3
+-3	33
+30
+May 20
+1951	Belgium
+Scotland	0
+5	Friendly
+in Belgium	-10
++10	1598
+1898	-1
+0	30
+5
+June 10
+1951	Belgium
+Spain	3
+3	Friendly
+in Belgium	+4
+-4	1602
+1829	0
+-1	30
+11
+June 17
+1951	Portugal
+Belgium	1
+1	Friendly
+in Portugal	-3
++3	1605
+1605	0
++1	29
+29
+October 14
+1951	Belgium
+Austria	1
+8	Friendly
+in Belgium	-16
++16	1589
+1825	-2
++1	31
+12
+November 25
+1951	Netherlands
+Belgium	6
+7	Friendly
+in the Netherlands	-12
++12	1531
+1601	-2
+0	41
+30
+February 24
+1952	Belgium
+Italy	2
+0	Friendly
+in Belgium	+24
+-24	1625
+1925	+3
+0	27
+3
+March 23
+1952	Austria
+Belgium	2
+0	Friendly
+in Austria	+4
+-4	1832
+1621	0
+0	11
+27
+April 06
+1952	Belgium
+Netherlands	4
+2	Friendly
+in Belgium	+8
+-8	1629
+1523	+1
+-2	26
+43
+May 22
+1952	Belgium
+France	1
+2	Friendly
+in Belgium	-12
++12	1617
+1678	0
++1	26
+21
+October 19
+1952	Belgium
+Netherlands	2
+1	Friendly
+in Belgium	+5
+-5	1622
+1519	+1
+0	27
+43
+November 26
+1952	England
+Belgium	5
+0	Friendly
+in England	+4
+-4	1933
+1618	0
+-1	4
+28
+December 25
+1952	France
+Belgium	0
+1	Friendly
+in France	-15
++15	1701
+1633	-2
++2	20
+25
+March 19
+1953	Spain
+Belgium	3
+1	Friendly
+in Spain	+5
+-5	1829
+1628	0
+0	10
+26
+April 19
+1953	Netherlands
+Belgium	0
+2	Friendly
+in the Netherlands	-14
++14	1486
+1642	-6
++3	52
+24
+May 14
+1953	Belgium
+Yugoslavia	1
+3	Friendly
+in Belgium	-10
++10	1632
+1879	-2
+0	27
+7
+May 25
+1953	Finland
+Belgium	2
+4	World Cup qualifier
+in Finland	-18
++18	1360
+1650	-3
++4	78
+23
+May 28
+1953	Sweden
+Belgium	2
+3	World Cup qualifier
+in Sweden	-32
++32	1772
+1682	-2
++3	14
+20
+September 23
+1953	Belgium
+Finland	2
+2	World Cup qualifier
+in Belgium	-17
++17	1665
+1374	-2
++1	23
+79
+October 08
+1953	Belgium
+Sweden	2
+0	World Cup qualifier
+in Belgium	+30
+-30	1695
+1740	+2
+-1	21
+15
+October 25
+1953	Netherlands
+Belgium	1
+0	Friendly
+in the Netherlands	+13
+-13	1488
+1682	+2
+0	52
+21
+November 22
+1953	Switzerland
+Belgium	2
+2	Friendly
+in Switzerland	-1
++1	1614
+1683	0
+0	30
+21
+March 14
+1954	Belgium
+Portugal	0
+0	Friendly
+in Belgium	-5
++5	1678
+1606	0
++1	20
+32
+April 04
+1954	Belgium
+Netherlands	4
+0	Friendly
+in Belgium	+6
+-6	1684
+1482	0
+-2	20
+54
+May 09
+1954	Yugoslavia
+Belgium	0
+2	Friendly
+in Yugoslavia	-26
++26	1871
+1710	-2
++4	8
+16
+May 30
+1954	Belgium
+France	3
+3	Friendly
+in Belgium	-3
++3	1707
+1718	-1
+0	17
+15
+June 17
+1954	Belgium
+England	4
+4	World Cup
+in Switzerland	+18
+-18	1725
+1922	+1
+0	15
+4
+June 20
+1954	Italy
+Belgium	4
+1	World Cup
+in Switzerland	+35
+-35	1882
+1690	+2
+-4	8
+19
+September 26
+1954	Belgium
+West Germany	2
+0	Friendly
+in Belgium	+24
+-24	1714
+2015	+2
+0	17
+3
+October 24
+1954	Belgium
+Netherlands	4
+3	Friendly
+in Belgium	+2
+-2	1716
+1470	0
+-2	17
+57
+November 11
+1954	France
+Belgium	2
+2	Friendly
+in France	-4
++4	1750
+1720	0
++1	14
+16
+January 16
+1955	Italy
+Belgium	1
+0	Friendly
+in Italy	+5
+-5	1835
+1715	0
+-1	10
+17
+April 03
+1955	Netherlands
+Belgium	1
+0	Friendly
+in the Netherlands	+14
+-14	1486
+1701	0
+-2	54
+19
+June 05
+1955	Belgium
+Czechoslovakia	1
+3	Friendly
+in Belgium	-21
++21	1680
+1678	-2
+0	21
+22
+September 25
+1955	Czechoslovakia
+Belgium	5
+2	Friendly
+in Czechoslovakia	+13
+-13	1691
+1667	+2
+-1	20
+22
+September 28
+1955	Romania
+Belgium	1
+0	Friendly
+in Romania	+10
+-10	1580
+1657	0
+0	35
+22
+October 16
+1955	Netherlands
+Belgium	2
+2	Friendly
+in the Netherlands	+2
+-2	1504
+1655	0
+0	48
+22
+December 25
+1955	Belgium
+France	2
+1	Friendly
+in Belgium	+11
+-11	1666
+1786	+2
+-2	21
+13
+March 11
+1956	Belgium
+Switzerland	1
+3	Friendly
+in Belgium	-21
++21	1645
+1644	-3
++3	24
+25
+April 08
+1956	Belgium
+Netherlands	0
+1	Friendly
+in Belgium	-15
++15	1630
+1567	-4
++2	27
+36
+June 03
+1956	Belgium
+Hungary	5
+4	Friendly
+in Belgium	+17
+-17	1647
+2034	+3
+0	23
+1
+October 14
+1956	Belgium
+Netherlands	2
+3	Friendly
+in Belgium	-15
++15	1632
+1582	-5
++2	28
+36
+November 11
+1956	France
+Belgium	6
+3	World Cup qualifier
+in France	+13
+-13	1806
+1619	+3
+-2	10
+29
+December 23
+1956	West Germany
+Belgium	4
+1	Friendly
+in West Germany	+5
+-5	1837
+1614	0
+0	7
+30
+March 31
+1957	Belgium
+Spain	0
+5	Friendly
+in Belgium	-17
++17	1597
+1781	-2
++1	33
+15
+April 28
+1957	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-2
++2	1576
+1599	0
+0	35
+32
+May 26
+1957	Belgium
+Romania	1
+0	Friendly
+in Belgium	+7
+-7	1606
+1568	0
+-4	31
+40
+June 05
+1957	Belgium
+Iceland	8
+3	World Cup qualifier
+in Belgium	+11
+-11	1617
+1377	+2
+-4	30
+82
+September 04
+1957	Iceland
+Belgium	2
+5	World Cup qualifier
+in Iceland	-19
++19	1321
+1636	-2
++4	93
+26
+October 27
+1957	Belgium
+France	0
+0	World Cup qualifier
+in Belgium	+5
+-5	1641
+1817	0
+-1	27
+10
+November 17
+1957	Netherlands
+Belgium	5
+2	Friendly
+in the Netherlands	+15
+-15	1600
+1626	+2
+-3	38
+30
+December 08
+1957	Turkey
+Belgium	1
+1	Friendly
+in Turkey	-4
++4	1678
+1630	0
++1	24
+29
+March 02
+1958	Belgium
+West Germany	0
+2	Friendly
+in Belgium	-10
++10	1620
+1863	-1
+0	31
+6
+April 13
+1958	Belgium
+Netherlands	2
+7	Friendly
+in Belgium	-27
++27	1593
+1627	-7
++8	38
+30
+May 26
+1958	Switzerland
+Belgium	0
+2	Friendly
+in Switzerland	-19
++19	1558
+1612	-4
++5	45
+33
+September 28
+1958	Belgium
+Netherlands	2
+3	Friendly
+in Belgium	-13
++13	1599
+1636	-4
++3	39
+29
+October 26
+1958	Belgium
+Turkey	1
+1	Friendly
+in Belgium	0
+0	1599
+1690	0
+0	39
+24
+November 23
+1958	Hungary
+Belgium	3
+1	Friendly
+in Hungary	+3
+-3	1914
+1596	0
+0	2
+40
+March 01
+1959	France
+Belgium	2
+2	Friendly
+in France	-8
++8	1880
+1604	-2
+0	5
+40
+April 19
+1959	Netherlands
+Belgium	2
+2	Friendly
+in the Netherlands	-4
++4	1649
+1608	0
+0	28
+39
+May 24
+1959	Belgium
+Austria	0
+2	Friendly
+in Belgium	-12
++12	1596
+1790	-1
+0	39
+14
+June 14
+1959	Austria
+Belgium	4
+2	Friendly
+in Austria	+5
+-5	1795
+1591	+2
+0	12
+40
+October 04
+1959	Netherlands
+Belgium	9
+1	Friendly
+in the Netherlands	+14
+-14	1649
+1577	0
+-2	30
+42
+February 28
+1960	Belgium
+France	1
+0	Friendly
+in Belgium	+16
+-16	1593
+1879	+2
+0	40
+5
+March 27
+1960	Belgium
+Switzerland	3
+1	Friendly
+in Belgium	+8
+-8	1601
+1504	+1
+-2	39
+50
+April 13
+1960	Belgium
+Chile	1
+1	Friendly
+in Belgium	-1
++1	1600
+1670	-3
+-1	42
+27
+April 24
+1960	Belgium
+Netherlands	2
+1	Friendly
+in Belgium	+9
+-9	1609
+1651	+3
+-1	39
+31
+May 22
+1960	Bulgaria
+Belgium	4
+1	Friendly
+in Bulgaria	+10
+-10	1681
+1599	+2
+-3	24
+42
+October 02
+1960	Belgium
+Netherlands	1
+4	Friendly
+in Belgium	-21
++21	1578
+1654	-5
++4	45
+29
+October 19
+1960	Sweden
+Belgium	2
+0	World Cup qualifier
+in Sweden	+6
+-6	1851
+1572	0
+0	10
+45
+October 30
+1960	Belgium
+Hungary	2
+1	Friendly
+in Belgium	+16
+-16	1588
+1891	+3
+0	43
+5
+November 20
+1960	Belgium
+Switzerland	2
+4	World Cup qualifier
+in Belgium	-40
++40	1548
+1607	-6
++8	48
+38
+March 08
+1961	West Germany
+Belgium	1
+0	Friendly
+in West Germany	+2
+-2	1824
+1546	0
+0	11
+47
+March 15
+1961	France
+Belgium	1
+1	Friendly
+in France	-8
++8	1801
+1554	-1
+0	13
+47
+March 22
+1961	Netherlands
+Belgium	6
+2	Friendly
+in the Netherlands	+9
+-9	1658
+1545	+4
+0	29
+47
+May 20
+1961	Switzerland
+Belgium	2
+1	World Cup qualifier
+in Switzerland	+11
+-11	1618
+1534	+3
+-1	36
+48
+October 04
+1961	Belgium
+Sweden	0
+2	World Cup qualifier
+in Belgium	-12
++12	1522
+1884	-1
++1	50
+8
+October 18
+1961	Belgium
+France	3
+0	Friendly
+in Belgium	+26
+-26	1548
+1769	+3
+-3	47
+18
+November 12
+1961	Netherlands
+Belgium	0
+4	Friendly
+in the Netherlands	-28
++28	1616
+1576	-10
++2	38
+45
+December 24
+1961	Belgium
+Bulgaria	4
+0	Friendly
+in Belgium	+23
+-23	1599
+1738	+3
+0	42
+19
+April 01
+1962	Belgium
+Netherlands	3
+1	Friendly
+in Belgium	+11
+-11	1610
+1605	+2
+-5	40
+42
+May 13
+1962	Belgium
+Italy	1
+3	Friendly
+in Belgium	-11
++11	1599
+1809	-1
++1	41
+14
+May 17
+1962	Portugal
+Belgium	1
+2	Friendly
+in Portugal	-13
++13	1584
+1612	-2
++3	44
+38
+May 23
+1962	Poland
+Belgium	2
+0	Friendly
+in Poland	+9
+-9	1681
+1603	+3
+-2	23
+40
+October 14
+1962	Belgium
+Netherlands	2
+0	Friendly
+in Belgium	+11
+-11	1614
+1591	+3
+-1	34
+39
+November 04
+1962	Yugoslavia
+Belgium	3
+2	European Cup qualifier
+in Yugoslavia	+4
+-4	1877
+1610	+1
+-2	8
+36
+December 02
+1962	Belgium
+Spain	1
+1	Friendly
+in Belgium	+4
+-4	1614
+1849	+2
+0	34
+9
+March 03
+1963	Netherlands
+Belgium	0
+1	Friendly
+in the Netherlands	-13
++13	1600
+1627	-3
++2	38
+32
+March 31
+1963	Belgium
+Yugoslavia	0
+1	European Cup qualifier
+in Belgium	-12
++12	1615
+1889	-2
++1	34
+6
+April 24
+1963	Belgium
+Brazil	5
+1	Friendly
+in Belgium	+29
+-29	1644
+1901	+4
+-2	30
+4
+October 20
+1963	Netherlands
+Belgium	1
+1	Friendly
+in the Netherlands	-2
++2	1611
+1646	-1
++1	38
+30
+December 01
+1963	Spain
+Belgium	1
+2	Friendly
+in Spain	-17
++17	1801
+1663	-2
++1	14
+29
+December 25
+1963	France
+Belgium	1
+2	Friendly
+in France	-15
++15	1728
+1678	-2
+0	22
+29
+March 22
+1964	Belgium
+Netherlands	0
+0	Friendly
+in Belgium	-5
++5	1673
+1584	0
++2	29
+43
+April 15
+1964	Switzerland
+Belgium	2
+0	Friendly
+in Switzerland	+17
+-17	1547
+1656	+3
+0	50
+29
+May 03
+1964	Belgium
+Portugal	1
+2	Friendly
+in Belgium	-14
++14	1642
+1630	-1
++2	30
+32
+September 30
+1964	Belgium
+Netherlands	1
+0	Friendly
+in Belgium	+6
+-6	1648
+1586	0
+0	30
+42
+October 21
+1964	England
+Belgium	2
+2	Friendly
+in England	-7
++7	1872
+1655	0
+0	5
+29
+December 02
+1964	Belgium
+France	3
+0	Friendly
+in Belgium	+15
+-15	1670
+1700	+1
+0	28
+25
+March 24
+1965	Ireland
+Belgium	0
+2	Friendly
+in Ireland	-17
++17	1603
+1687	-8
++1	42
+27
+April 07
+1965	Belgium
+Poland	0
+0	Friendly
+in Belgium	-4
++4	1683
+1638	0
++1	28
+32
+May 09
+1965	Belgium
+Israel	1
+0	World Cup qualifier
+in Belgium	+9
+-9	1692
+1551	+1
+0	26
+49
+June 02
+1965	Brazil
+Belgium	5
+0	Friendly
+in Brazil	+6
+-6	1904
+1686	+1
+-1	3
+28
+September 26
+1965	Bulgaria
+Belgium	3
+0	World Cup qualifier
+in Bulgaria	+22
+-22	1741
+1664	+4
+-3	21
+31
+October 27
+1965	Belgium
+Bulgaria	5
+0	World Cup qualifier
+in Belgium	+37
+-37	1701
+1704	+2
+-6	29
+27
+November 10
+1965	Israel
+Belgium	0
+5	World Cup qualifier
+in Israel	-33
++33	1503
+1734	-7
++5	62
+23
+December 29
+1965	Bulgaria
+Belgium	2
+1	World Cup qualifier
+in Italy	+21
+-21	1739
+1713	+6
+-5	21
+28
+April 17
+1966	Netherlands
+Belgium	3
+1	Friendly
+in the Netherlands	+17
+-17	1589
+1696	+4
+0	42
+28
+April 20
+1966	France
+Belgium	0
+3	Friendly
+in France	-24
++24	1697
+1720	-3
++2	28
+26
+May 22
+1966	Belgium
+Soviet Union	0
+1	Friendly
+in Belgium	-8
++8	1712
+1916	0
+0	27
+5
+May 25
+1966	Belgium
+Ireland	2
+3	Friendly
+in Belgium	-15
++15	1697
+1614	0
++2	27
+38
+October 22
+1966	Belgium
+Switzerland	1
+0	Friendly
+in Belgium	+4
+-4	1701
+1548	0
+-1	25
+50
+November 11
+1966	Belgium
+France	2
+1	European Cup qualifier
+in Belgium	+14
+-14	1715
+1677	+2
+-3	23
+30
+March 19
+1967	Luxembourg
+Belgium	0
+5	European Cup qualifier
+in Luxembourg	-9
++9	1250
+1724	-1
+0	126
+23
+April 16
+1967	Belgium
+Netherlands	1
+0	Friendly
+in Belgium	+5
+-5	1729
+1621	+1
++1	22
+34
+May 21
+1967	Poland
+Belgium	3
+1	European Cup qualifier
+in Poland	+31
+-31	1649
+1698	+3
+-4	32
+27
+October 08
+1967	Belgium
+Poland	2
+4	European Cup qualifier
+in Belgium	-46
++46	1652
+1640	-3
++6	30
+33
+October 28
+1967	France
+Belgium	1
+1	European Cup qualifier
+in France	-8
++8	1698
+1660	0
+0	26
+32
+November 22
+1967	Belgium
+Luxembourg	3
+0	European Cup qualifier
+in Belgium	+4
+-4	1664
+1259	+1
+0	31
+121
+January 10
+1968	Israel
+Belgium	0
+2	Friendly
+in Israel	-11
++11	1463
+1675	-2
++2	73
+29
+March 06
+1968	Belgium
+West Germany	1
+3	Friendly
+in Belgium	-8
++8	1667
+1950	0
+0	30
+2
+April 07
+1968	Netherlands
+Belgium	1
+2	Friendly
+in the Netherlands	-12
++12	1627
+1679	-2
++2	37
+28
+April 24
+1968	Soviet Union
+Belgium	1
+0	Friendly
+in the Soviet Union	+2
+-2	1925
+1677	0
+0	4
+28
+June 19
+1968	Finland
+Belgium	1
+2	World Cup qualifier
+in Finland	-8
++8	1337
+1685	-1
++1	105
+26
+October 09
+1968	Belgium
+Finland	6
+1	World Cup qualifier
+in Belgium	+5
+-5	1690
+1316	0
+-3	26
+110
+October 16
+1968	Belgium
+Yugoslavia	3
+0	World Cup qualifier
+in Belgium	+35
+-35	1725
+1755	+5
+-2	20
+18
+December 11
+1968	Spain
+Belgium	1
+1	World Cup qualifier
+in Spain	-10
++10	1812
+1735	-1
++1	13
+20
+February 23
+1969	Belgium
+Spain	2
+1	World Cup qualifier
+in Belgium	+19
+-19	1754
+1793	0
+-4	20
+17
+April 16
+1969	Belgium
+Mexico	2
+0	Friendly
+in Belgium	+12
+-12	1766
+1777	+1
+0	19
+17
+October 19
+1969	Yugoslavia
+Belgium	4
+0	World Cup qualifier
+in Yugoslavia	+29
+-29	1777
+1737	+4
+-5	16
+21
+November 05
+1969	Mexico
+Belgium	1
+0	Friendly
+in Mexico	+7
+-7	1736
+1730	+2
+-2	20
+22
+February 25
+1970	Belgium
+England	1
+3	Friendly
+in Belgium	-7
++7	1723
+2033	0
+0	23
+1
+June 03
+1970	Belgium
+El Salvador	3
+0	World Cup
+in Mexico	+22
+-22	1745
+1468	+3
+-5	20
+74
+June 06
+1970	Soviet Union
+Belgium	4
+1	World Cup
+in Mexico	+26
+-26	1960
+1719	+1
+-4	4
+24
+June 11
+1970	Mexico
+Belgium	1
+0	World Cup
+in Mexico	+23
+-23	1723
+1696	+3
+-4	23
+27
+November 15
+1970	Belgium
+France	1
+2	Friendly
+in Belgium	-12
++12	1684
+1728	-2
++1	28
+22
+November 25
+1970	Belgium
+Denmark	2
+0	European Cup qualifier
+in Belgium	+12
+-12	1696
+1532	+3
+-2	25
+57
+February 03
+1971	Belgium
+Scotland	3
+0	European Cup qualifier
+in Belgium	+34
+-34	1730
+1749	+4
+-4	22
+19
+February 17
+1971	Belgium
+Portugal	3
+0	European Cup qualifier
+in Belgium	+28
+-28	1758
+1735	+5
+-4	18
+22
+May 20
+1971	Luxembourg
+Belgium	0
+4	Friendly
+in Luxembourg	-3
++3	1231
+1761	0
+0	126
+18
+May 26
+1971	Denmark
+Belgium	1
+2	European Cup qualifier
+in Denmark	-12
++12	1509
+1773	-1
++2	60
+16
+November 07
+1971	Belgium
+Luxembourg	1
+0	Friendly
+in Belgium	+1
+-1	1774
+1249	0
+-1	15
+124
+November 10
+1971	Scotland
+Belgium	1
+0	European Cup qualifier
+in Scotland	+19
+-19	1702
+1755	+4
+-2	27
+17
+November 21
+1971	Portugal
+Belgium	1
+1	European Cup qualifier
+in Portugal	-5
++5	1744
+1760	-1
+0	21
+17
+April 29
+1972	Italy
+Belgium	0
+0	European Cup qualifier
+in Italy	-14
++14	1932
+1774	-1
++2	5
+16
+May 13
+1972	Belgium
+Italy	2
+1	European Cup qualifier
+in Belgium	+23
+-23	1797
+1909	+2
+-1	14
+5
+May 18
+1972	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+2
+-2	1799
+1268	+1
+0	12
+122
+May 22
+1972	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+2
+-2	1801
+1266	0
+-1	12
+124
+June 14
+1972	Belgium
+West Germany	1
+2	European Cup
+in Belgium	-15
++15	1786
+2063	-3
+0	15
+2
+June 17
+1972	Belgium
+Hungary	2
+1	European Cup
+in Belgium	+23
+-23	1809
+1836	+4
+-2	11
+8
+October 04
+1972	Norway
+Belgium	0
+2	World Cup qualifier
+in Norway	-10
++10	1415
+1819	-3
+0	82
+12
+November 19
+1972	Belgium
+Netherlands	0
+0	World Cup qualifier
+in Belgium	-8
++8	1811
+1777	0
++2	13
+16
+April 18
+1973	Belgium
+East Germany	3
+0	Friendly
+in Belgium	+13
+-13	1824
+1817	+2
+-1	12
+13
+October 31
+1973	Belgium
+Norway	2
+0	World Cup qualifier
+in Belgium	+3
+-3	1827
+1436	0
+0	13
+76
+November 18
+1973	Netherlands
+Belgium	0
+0	World Cup qualifier
+in the Netherlands	-4
++4	1789
+1831	0
++1	17
+11
+March 13
+1974	East Germany
+Belgium	1
+0	Friendly
+in East Germany	+6
+-6	1892
+1825	0
+-2	7
+13
+April 17
+1974	Belgium
+Poland	1
+1	Friendly
+in Belgium	0
+0	1825
+1927	0
+0	13
+5
+May 01
+1974	Switzerland
+Belgium	0
+1	Friendly
+in Switzerland	-8
++8	1634
+1833	-1
++1	36
+12
+June 01
+1974	Belgium
+Scotland	2
+1	Friendly
+in Belgium	+6
+-6	1839
+1764	+1
+0	10
+20
+September 08
+1974	Iceland
+Belgium	0
+2	European Cup qualifier
+in Iceland	-3
++3	1245
+1842	-1
++1	128
+11
+October 12
+1974	Belgium
+France	2
+1	European Cup qualifier
+in Belgium	+10
+-10	1852
+1738	+2
+-2	9
+24
+December 07
+1974	East Germany
+Belgium	0
+0	European Cup qualifier
+in East Germany	-6
++6	1848
+1858	-1
++1	10
+9
+April 30
+1975	Belgium
+Netherlands	1
+0	Friendly
+in Belgium	+13
+-13	1871
+2036	0
+0	7
+2
+September 06
+1975	Belgium
+Iceland	1
+0	European Cup qualifier
+in Belgium	+1
+-1	1872
+1303	0
+0	8
+113
+September 27
+1975	Belgium
+East Germany	1
+2	European Cup qualifier
+in Belgium	-29
++29	1843
+1843	-2
++4	10
+10
+November 15
+1975	France
+Belgium	0
+0	European Cup qualifier
+in France	+2
+-2	1716
+1841	0
+0	25
+13
+April 25
+1976	Netherlands
+Belgium	5
+0	European Cup qualifier
+in the Netherlands	+15
+-15	2015
+1826	0
+0	2
+13
+May 22
+1976	Belgium
+Netherlands	1
+2	European Cup qualifier
+in Belgium	-15
++15	1811
+2030	-2
+0	15
+2
+September 05
+1976	Iceland
+Belgium	0
+1	World Cup qualifier
+in Iceland	-4
++4	1331
+1815	-3
+0	105
+15
+November 10
+1976	Belgium
+Northern Ireland	2
+0	World Cup qualifier
+in Belgium	+14
+-14	1829
+1695	+1
+-1	14
+28
+January 26
+1977	Italy
+Belgium	2
+1	Friendly
+in Italy	+5
+-5	1929
+1824	0
+0	5
+14
+March 26
+1977	Belgium
+Netherlands	0
+2	World Cup qualifier
+in Belgium	-23
++23	1801
+2025	-1
++1	15
+2
+September 03
+1977	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+3
+-3	1804
+1363	+1
+-1	15
+98
+October 26
+1977	Netherlands
+Belgium	1
+0	World Cup qualifier
+in the Netherlands	+5
+-5	2032
+1799	0
+-1	2
+18
+November 16
+1977	Northern Ireland
+Belgium	3
+0	World Cup qualifier
+in Northern Ireland	+41
+-41	1677
+1758	+3
+-4	35
+21
+December 21
+1977	Belgium
+Italy	0
+1	Friendly
+in Belgium	-9
++9	1749
+1916	0
++1	22
+5
+March 22
+1978	Belgium
+Austria	1
+0	Friendly
+in Belgium	+9
+-9	1758
+1807	0
+-1	22
+15
+April 19
+1978	East Germany
+Belgium	0
+0	Friendly
+in East Germany	-6
++6	1894
+1764	0
++1	9
+22
+September 20
+1978	Belgium
+Norway	1
+1	European Cup qualifier
+in Belgium	-17
++17	1747
+1428	-1
++3	23
+80
+October 11
+1978	Portugal
+Belgium	1
+1	European Cup qualifier
+in Portugal	-9
++9	1799
+1756	-1
+0	16
+23
+November 15
+1978	Israel
+Belgium	1
+0	Friendly
+in Israel	+9
+-9	1695
+1747	+2
+-1	29
+23
+March 28
+1979	Belgium
+Austria	1
+1	European Cup qualifier
+in Belgium	0
+0	1747
+1852	-1
+0	25
+11
+May 02
+1979	Austria
+Belgium	0
+0	European Cup qualifier
+in Austria	-11
++11	1841
+1758	-3
++2	14
+23
+September 12
+1979	Norway
+Belgium	1
+2	European Cup qualifier
+in Norway	-9
++9	1442
+1767	-1
++1	76
+22
+September 26
+1979	Netherlands
+Belgium	1
+0	Friendly
+in the Netherlands	+3
+-3	1987
+1764	0
+0	3
+22
+October 17
+1979	Belgium
+Portugal	2
+0	European Cup qualifier
+in Belgium	+29
+-29	1793
+1825	+3
+-1	19
+15
+November 21
+1979	Belgium
+Scotland	2
+0	European Cup qualifier
+in Belgium	+22
+-22	1815
+1779	+4
+-3	15
+20
+December 19
+1979	Scotland
+Belgium	1
+3	European Cup qualifier
+in Scotland	-35
++35	1744
+1850	-2
++1	22
+14
+February 27
+1980	Belgium
+Luxembourg	5
+0	Friendly
+in Belgium	+1
+-1	1851
+1201	0
+0	14
+143
+March 18
+1980	Belgium
+Uruguay	2
+0	Friendly
+in Belgium	+4
+-4	1855
+1622	+2
+-2	12
+46
+April 02
+1980	Belgium
+Poland	2
+1	Friendly
+in Belgium	+9
+-9	1864
+1912	+1
+0	12
+7
+June 06
+1980	Belgium
+Romania	2
+1	Friendly
+in Belgium	+4
+-4	1868
+1720	+1
+0	12
+26
+June 12
+1980	Belgium
+England	1
+1	European Cup
+in Italy	+8
+-8	1876
+1980	+1
+0	11
+4
+June 15
+1980	Belgium
+Spain	2
+1	European Cup
+in Italy	+23
+-23	1899
+1820	+2
+0	9
+15
+June 18
+1980	Italy
+Belgium	0
+0	European Cup
+in Italy	-11
++11	1948
+1910	-2
++2	6
+7
+June 22
+1980	West Germany
+Belgium	2
+1	European Cup
+in Italy	+15
+-15	2065
+1895	0
+-2	1
+9
+October 15
+1980	Ireland
+Belgium	1
+1	World Cup qualifier
+in Ireland	+5
+-5	1708
+1890	0
+0	27
+9
+November 19
+1980	Belgium
+Netherlands	1
+0	World Cup qualifier
+in Belgium	+17
+-17	1907
+1919	+1
+-2	9
+8
+December 21
+1980	Cyprus
+Belgium	0
+2	World Cup qualifier
+in Cyprus	-2
++2	1236
+1909	0
+0	136
+9
+February 18
+1981	Belgium
+Cyprus	3
+2	World Cup qualifier
+in Belgium	0
+0	1909
+1236	0
+0	8
+136
+March 25
+1981	Belgium
+Ireland	1
+0	World Cup qualifier
+in Belgium	+5
+-5	1914
+1681	+1
+-1	7
+31
+April 29
+1981	France
+Belgium	3
+2	World Cup qualifier
+in France	+17
+-17	1878
+1897	+2
+-1	11
+8
+September 09
+1981	Belgium
+France	2
+0	World Cup qualifier
+in Belgium	+19
+-19	1916
+1846	+1
+-1	5
+13
+October 14
+1981	Netherlands
+Belgium	3
+0	World Cup qualifier
+in the Netherlands	+30
+-30	1897
+1886	+3
+-1	6
+7
+December 16
+1981	Spain
+Belgium	2
+0	Friendly
+in Spain	+13
+-13	1835
+1873	0
+0	15
+6
+March 24
+1982	Belgium
+Romania	4
+1	Friendly
+in Belgium	+7
+-7	1880
+1716	0
++1	6
+25
+April 28
+1982	Belgium
+Bulgaria	2
+1	Friendly
+in Belgium	+3
+-3	1883
+1683	0
+0	7
+32
+May 27
+1982	Denmark
+Belgium	1
+0	Friendly
+in Denmark	+13
+-13	1698
+1870	+4
+-1	28
+8
+June 13
+1982	Belgium
+Argentina	1
+0	World Cup
+in Spain	+38
+-38	1908
+1926	+1
+0	7
+4
+June 19
+1982	Belgium
+El Salvador	1
+0	World Cup
+in Spain	+5
+-5	1913
+1473	+1
+-1	6
+75
+June 22
+1982	Belgium
+Hungary	1
+1	World Cup
+in Spain	-13
++13	1900
+1766	-2
+0	8
+21
+June 28
+1982	Poland
+Belgium	3
+0	World Cup
+in Spain	+48
+-48	1977
+1852	+2
+-3	4
+10
+July 01
+1982	Soviet Union
+Belgium	1
+0	World Cup
+in Spain	+22
+-22	1974
+1830	0
+-2	5
+13
+September 22
+1982	West Germany
+Belgium	0
+0	Friendly
+in West Germany	-6
++6	1986
+1836	0
+0	3
+13
+October 06
+1982	Belgium
+Switzerland	3
+0	European Cup qualifier
+in Belgium	+11
+-11	1847
+1633	+2
+0	11
+39
+December 15
+1982	Belgium
+Scotland	3
+2	European Cup qualifier
+in Belgium	+12
+-12	1859
+1789	0
+-2	10
+19
+March 30
+1983	East Germany
+Belgium	1
+2	European Cup qualifier
+in East Germany	-23
++23	1794
+1882	-6
++1	18
+9
+April 27
+1983	Belgium
+East Germany	2
+1	European Cup qualifier
+in Belgium	+10
+-10	1892
+1791	0
+-1	9
+18
+May 31
+1983	Belgium
+France	1
+1	Friendly
+in Luxembourg	0
+0	1892
+1904	0
+0	8
+6
+September 21
+1983	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	-5
++5	1887
+1806	-1
++2	7
+15
+October 12
+1983	Scotland
+Belgium	1
+1	European Cup qualifier
+in Scotland	-3
++3	1829
+1890	0
+0	11
+7
+November 09
+1983	Switzerland
+Belgium	3
+1	European Cup qualifier
+in Switzerland	+37
+-37	1740
+1853	+7
+-3	25
+8
+February 29
+1984	Belgium
+West Germany	0
+1	Friendly
+in Belgium	-10
++10	1843
+1966	-1
+0	8
+2
+April 17
+1984	Poland
+Belgium	1
+0	Friendly
+in Poland	+6
+-6	1892
+1837	0
+0	6
+9
+June 06
+1984	Belgium
+Hungary	2
+2	Friendly
+in Belgium	-5
++5	1832
+1729	-2
++1	11
+28
+June 13
+1984	Belgium
+Yugoslavia	2
+0	European Cup
+in France	+39
+-39	1871
+1808	+3
+-6	7
+15
+June 16
+1984	France
+Belgium	5
+0	European Cup
+in France	+29
+-29	1954
+1842	0
+-3	3
+10
+June 19
+1984	Denmark
+Belgium	3
+2	European Cup
+in France	+27
+-27	1839
+1815	+5
+-4	10
+14
+September 05
+1984	Belgium
+Argentina	0
+2	Friendly
+in Belgium	-18
++18	1797
+1861	-3
++2	17
+7
+October 17
+1984	Belgium
+Albania	3
+1	World Cup qualifier
+in Belgium	+3
+-3	1800
+1363	0
+-1	18
+98
+December 19
+1984	Greece
+Belgium	0
+0	World Cup qualifier
+in Greece	+8
+-8	1566
+1792	+1
+-3	55
+20
+December 22
+1984	Albania
+Belgium	2
+0	World Cup qualifier
+in Albania	+51
+-51	1433
+1741	+10
+-5	85
+25
+March 27
+1985	Belgium
+Greece	2
+0	World Cup qualifier
+in Belgium	+12
+-12	1753
+1592	+1
+-3	26
+49
+May 01
+1985	Belgium
+Poland	2
+0	World Cup qualifier
+in Belgium	+27
+-27	1780
+1792	+5
+-6	20
+16
+September 11
+1985	Poland
+Belgium	0
+0	World Cup qualifier
+in Poland	-7
++7	1795
+1787	0
++1	17
+20
+October 16
+1985	Belgium
+Netherlands	1
+0	World Cup qualifier
+in Belgium	+17
+-17	1804
+1817	+4
+-2	16
+12
+November 20
+1985	Netherlands
+Belgium	2
+1	World Cup qualifier
+in the Netherlands	+14
+-14	1831
+1790	+4
+-4	9
+20
+February 19
+1986	Spain
+Belgium	3
+0	Friendly
+in Spain	+11
+-11	1847
+1779	+1
+-2	9
+22
+April 23
+1986	Belgium
+Bulgaria	2
+0	Friendly
+in Belgium	+11
+-11	1790
+1770	+1
+-3	21
+24
+May 19
+1986	Belgium
+Yugoslavia	1
+3	Friendly
+in Belgium	-20
++20	1770
+1790	-3
++3	24
+21
+June 03
+1986	Mexico
+Belgium	2
+1	World Cup
+in Mexico	+18
+-18	1829
+1752	+2
+-6	11
+29
+June 08
+1986	Belgium
+Iraq	2
+1	World Cup
+in Mexico	+18
+-18	1770
+1581	+5
+-6	24
+52
+June 11
+1986	Belgium
+Paraguay	2
+2	World Cup
+in Mexico	+2
+-2	1772
+1796	+2
+0	22
+15
+June 15
+1986	Belgium
+Soviet Union	4
+3	World Cup
+in Mexico	+45
+-45	1817
+1920	+10
+-3	12
+5
+June 22
+1986	Belgium
+Spain	1
+1	World Cup
+in Mexico	+11
+-11	1828
+1937	+1
+0	11
+4
+June 25
+1986	Argentina
+Belgium	2
+0	World Cup
+in Mexico	+30
+-30	1975
+1798	+1
+-4	2
+15
+June 28
+1986	France
+Belgium	4
+2	World Cup
+in Mexico	+26
+-26	1976
+1772	+1
+-6	2
+21
+September 10
+1986	Belgium
+Ireland	2
+2	European Cup qualifier
+in Belgium	-10
++10	1762
+1697	0
++2	21
+31
+October 14
+1986	Luxembourg
+Belgium	0
+6	European Cup qualifier
+in Luxembourg	-4
++4	1130
+1766	0
++1	154
+20
+November 19
+1986	Belgium
+Bulgaria	1
+1	European Cup qualifier
+in Belgium	-7
++7	1759
+1738	-1
++1	21
+26
+February 04
+1987	Portugal
+Belgium	1
+0	Friendly
+in Portugal	+8
+-8	1722
+1751	+2
+-2	28
+23
+April 01
+1987	Belgium
+Scotland	4
+1	European Cup qualifier
+in Belgium	+25
+-25	1776
+1721	+4
+-2	18
+27
+April 29
+1987	Ireland
+Belgium	0
+0	European Cup qualifier
+in Ireland	-2
++2	1705
+1778	0
+0	29
+18
+September 09
+1987	Netherlands
+Belgium	0
+0	Friendly
+in the Netherlands	-4
++4	1841
+1782	0
+0	12
+20
+September 23
+1987	Bulgaria
+Belgium	2
+0	European Cup qualifier
+in Bulgaria	+23
+-23	1785
+1759	+3
+-2	19
+22
+October 14
+1987	Scotland
+Belgium	2
+0	European Cup qualifier
+in Scotland	+24
+-24	1749
+1735	+2
+-3	24
+26
+November 11
+1987	Belgium
+Luxembourg	3
+0	European Cup qualifier
+in Belgium	+1
+-1	1736
+1120	+1
+0	25
+157
+January 19
+1988	Israel
+Belgium	2
+3	Friendly
+in Israel	-8
++8	1542
+1744	0
+0	60
+25
+March 26
+1988	Belgium
+Hungary	3
+0	Friendly
+in Belgium	+13
+-13	1757
+1735	+3
+-3	22
+26
+June 04
+1988	Denmark
+Belgium	3
+1	Friendly
+in Denmark	+8
+-8	1852
+1749	+1
+-1	9
+25
+October 12
+1988	Belgium
+Brazil	1
+2	Friendly
+in Belgium	-7
++7	1742
+1958	-1
+0	28
+2
+October 19
+1988	Belgium
+Switzerland	1
+0	World Cup qualifier
+in Belgium	+12
+-12	1754
+1677	+2
+-1	26
+34
+November 16
+1988	Czechoslovakia
+Belgium	0
+0	World Cup qualifier
+in Czechoslovakia	-9
++9	1810
+1763	-2
++3	15
+22
+February 15
+1989	Portugal
+Belgium	1
+1	World Cup qualifier
+in Portugal	-4
++4	1722
+1767	-2
+0	30
+23
+April 29
+1989	Belgium
+Czechoslovakia	2
+1	World Cup qualifier
+in Belgium	+17
+-17	1784
+1802	+3
+-5	21
+18
+May 27
+1989	Belgium
+Yugoslavia	1
+0	Friendly
+in Belgium	+9
+-9	1793
+1849	+1
+-1	20
+11
+June 01
+1989	Luxembourg
+Belgium	0
+5	World Cup qualifier
+in Luxembourg	-3
++3	1125
+1796	-1
++1	156
+19
+June 08
+1989	Canada
+Belgium	0
+2	Friendly
+in Canada	-8
++8	1508
+1804	-3
++1	67
+18
+August 24
+1989	Belgium
+Denmark	3
+0	Friendly
+in Belgium	+16
+-16	1820
+1867	0
+-2	16
+10
+September 06
+1989	Belgium
+Portugal	3
+0	World Cup qualifier
+in Belgium	+18
+-18	1838
+1724	+3
+-1	13
+27
+October 11
+1989	Switzerland
+Belgium	2
+2	World Cup qualifier
+in Switzerland	+5
+-5	1646
+1833	+1
+0	37
+15
+October 25
+1989	Belgium
+Luxembourg	1
+1	World Cup qualifier
+in Belgium	-20
++20	1813
+1141	-2
++2	17
+156
+January 17
+1990	Greece
+Belgium	2
+0	Friendly
+in Greece	+19
+-19	1638
+1794	+2
+-3	38
+20
+February 21
+1990	Belgium
+Sweden	0
+0	Friendly
+in Belgium	0
+0	1794
+1907	0
+0	19
+5
+May 26
+1990	Belgium
+Romania	2
+2	Friendly
+in Belgium	-1
++1	1793
+1858	0
++1	19
+12
+June 02
+1990	Belgium
+Mexico	3
+0	Friendly
+in Belgium	+16
+-16	1809
+1842	+2
+-3	17
+15
+June 06
+1990	Belgium
+Poland	1
+1	Friendly
+in Belgium	-4
++4	1805
+1751	0
++1	17
+23
+June 12
+1990	Belgium
+South Korea	2
+0	World Cup
+in Italy	+37
+-37	1842
+1703	+3
+-4	14
+29
+June 17
+1990	Belgium
+Uruguay	3
+1	World Cup
+in Italy	+48
+-48	1890
+1821	+6
+-9	7
+16
+June 21
+1990	Belgium
+Spain	1
+2	World Cup
+in Italy	-28
++28	1862
+1936	-1
+0	8
+5
+June 26
+1990	Belgium
+England	0
+1	World Cup
+in Italy	-25
++25	1837
+1941	-6
++2	14
+4
+September 12
+1990	Belgium
+East Germany	0
+2	Friendly
+in Belgium	-23
++23	1814
+1748	-4
++2	17
+24
+October 17
+1990	Wales
+Belgium	3
+1	European Cup qualifier
+in Wales	+33
+-33	1717
+1781	+4
+-3	27
+20
+February 13
+1991	Italy
+Belgium	0
+0	Friendly
+in Italy	-7
++7	1970
+1788	0
++1	2
+18
+February 27
+1991	Belgium
+Luxembourg	3
+0	European Cup qualifier
+in Belgium	+1
+-1	1789
+1133	0
+0	18
+155
+March 27
+1991	Belgium
+Wales	1
+1	European Cup qualifier
+in Belgium	-10
++10	1779
+1713	-1
++2	19
+30
+May 01
+1991	Germany
+Belgium	1
+0	European Cup qualifier
+in Germany	+4
+-4	2049
+1775	0
+0	1
+20
+September 11
+1991	Luxembourg
+Belgium	0
+2	European Cup qualifier
+in Luxembourg	-3
++3	1130
+1778	0
+0	158
+19
+October 09
+1991	Hungary
+Belgium	0
+2	Friendly
+in Hungary	-17
++17	1703
+1795	0
++3	29
+16
+November 20
+1991	Belgium
+Germany	0
+1	European Cup qualifier
+in Belgium	-12
++12	1783
+2048	-4
+0	20
+1
+February 26
+1992	Tunisia
+Belgium	2
+1	Friendly
+in Tunisia	+15
+-15	1519
+1768	+2
+-2	64
+20
+March 25
+1992	France
+Belgium	3
+3	Friendly
+in France	-7
++7	1947
+1775	-1
++2	4
+18
+April 22
+1992	Belgium
+Cyprus	1
+0	World Cup qualifier
+in Belgium	+1
+-1	1776
+1214	0
+-1	18
+143
+June 03
+1992	Faroe Islands
+Belgium	0
+3	World Cup qualifier
+in Faroe Islands	-4
++4	1189
+1780	-1
++1	152
+20
+September 02
+1992	Czechoslovakia
+Belgium	1
+2	World Cup qualifier
+in Czechoslovakia	-27
++27	1779
+1807	-4
++4	18
+14
+October 14
+1992	Belgium
+Romania	1
+0	World Cup qualifier
+in Belgium	+14
+-14	1821
+1789	0
+-1	14
+16
+November 18
+1992	Belgium
+Wales	2
+0	World Cup qualifier
+in Belgium	+16
+-16	1837
+1727	+2
+-4	12
+28
+February 13
+1993	Cyprus
+Belgium	0
+3	World Cup qualifier
+in Cyprus	-5
++5	1296
+1842	-1
+0	123
+12
+March 31
+1993	Wales
+Belgium	2
+0	World Cup qualifier
+in Wales	+32
+-32	1755
+1810	+6
+-1	21
+13
+May 22
+1993	Belgium
+Faroe Islands	3
+0	World Cup qualifier
+in Belgium	+1
+-1	1811
+1146	0
+0	15
+158
+October 06
+1993	Belgium
+Gabon	2
+1	Friendly
+in Belgium	+2
+-2	1813
+1476	+1
+0	16
+81
+October 13
+1993	Romania
+Belgium	2
+1	World Cup qualifier
+in Romania	+19
+-19	1747
+1794	+1
+-4	24
+20
+November 17
+1993	Belgium
+Czechoslovakia	0
+0	World Cup qualifier
+in Belgium	-5
++5	1789
+1802	+1
++2	20
+18
+February 16
+1994	Malta
+Belgium	1
+0	Friendly
+in Malta	+18
+-18	1351
+1771	+5
+-1	116
+22
+June 04
+1994	Belgium
+Zambia	9
+0	Friendly
+in Belgium	+13
+-13	1784
+1671	+1
+-2	21
+31
+June 08
+1994	Belgium
+Hungary	3
+1	Friendly
+in Belgium	+4
+-4	1788
+1576	0
+0	21
+53
+June 19
+1994	Belgium
+Morocco	1
+0	World Cup
+in the United States	+19
+-19	1807
+1641	+3
+-3	19
+39
+June 25
+1994	Belgium
+Netherlands	1
+0	World Cup
+in the United States	+42
+-42	1849
+1918	+6
+-2	12
+5
+June 29
+1994	Saudi Arabia
+Belgium	1
+0	World Cup
+in the United States	+44
+-44	1711
+1805	+4
+-7	28
+19
+July 02
+1994	Germany
+Belgium	3
+2	World Cup
+in the United States	+16
+-16	1993
+1789	0
+-4	1
+23
+September 07
+1994	Belgium
+Armenia	2
+0	European Cup qualifier
+in Belgium	+3
+-3	1792
+1354	0
+-2	21
+117
+October 12
+1994	Denmark
+Belgium	3
+1	European Cup qualifier
+in Denmark	+16
+-16	1890
+1776	0
+-2	8
+23
+November 16
+1994	Belgium
+Macedonia	1
+1	European Cup qualifier
+in Belgium	-15
++15	1761
+1538	-1
++4	24
+61
+December 17
+1994	Belgium
+Spain	1
+4	European Cup qualifier
+in Belgium	-28
++28	1733
+1956	-2
++1	26
+3
+March 29
+1995	Spain
+Belgium	1
+1	European Cup qualifier
+in Spain	-14
++14	1932
+1747	0
+0	4
+25
+April 22
+1995	Belgium
+United States	1
+0	Friendly
+in Belgium	+4
+-4	1751
+1595	0
+-1	25
+47
+April 26
+1995	Belgium
+Cyprus	2
+0	European Cup qualifier
+in Belgium	+3
+-3	1754
+1354	0
+0	25
+115
+June 07
+1995	Macedonia
+Belgium	0
+5	European Cup qualifier
+in Macedonia	-28
++28	1516
+1782	-13
++1	71
+24
+August 23
+1995	Belgium
+Germany	1
+2	Friendly
+in Belgium	-8
++8	1774
+1975	0
+0	23
+2
+September 06
+1995	Belgium
+Denmark	1
+3	European Cup qualifier
+in Belgium	-27
++27	1747
+1931	-1
+0	24
+5
+October 07
+1995	Armenia
+Belgium	0
+2	European Cup qualifier
+in Armenia	-9
++9	1347
+1756	-3
+0	119
+24
+November 15
+1995	Cyprus
+Belgium	1
+1	European Cup qualifier
+in Cyprus	+14
+-14	1366
+1742	+1
+-1	116
+25
+March 27
+1996	Belgium
+France	0
+2	Friendly
+in Belgium	-12
++12	1730
+1930	0
++1	26
+5
+April 24
+1996	Belgium
+Russia	0
+0	Friendly
+in Belgium	+1
+-1	1731
+1870	0
+0	26
+9
+May 29
+1996	Italy
+Belgium	2
+2	Friendly
+in Italy	-7
++7	1946
+1738	-1
++2	4
+24
+August 31
+1996	Belgium
+Turkey	2
+1	World Cup qualifier
+in Belgium	+11
+-11	1749
+1658	0
+-1	25
+34
+October 09
+1996	San Marino
+Belgium	0
+3	World Cup qualifier
+in San Marino	-1
++1	933
+1750	0
++1	196
+24
+December 14
+1996	Belgium
+Netherlands	0
+3	World Cup qualifier
+in Belgium	-31
++31	1719
+1925	-3
++2	28
+7
+February 11
+1997	Northern Ireland
+Belgium	3
+0	Friendly
+in Northern Ireland	+19
+-19	1610
+1700	+6
+-3	47
+29
+March 29
+1997	Wales
+Belgium	1
+2	World Cup qualifier
+in Wales	-17
++17	1536
+1717	-4
++2	65
+25
+April 30
+1997	Turkey
+Belgium	1
+3	World Cup qualifier
+in Turkey	-35
++35	1643
+1752	-7
++2	40
+24
+June 07
+1997	Belgium
+San Marino	6
+0	World Cup qualifier
+in Belgium	0
+0	1752
+931	0
+0	23
+198
+September 06
+1997	Netherlands
+Belgium	3
+1	World Cup qualifier
+in the Netherlands	+11
+-11	1920
+1741	+1
+0	7
+23
+October 11
+1997	Belgium
+Wales	3
+2	World Cup qualifier
+in Belgium	+6
+-6	1747
+1532	0
+-2	23
+67
+October 29
+1997	Ireland
+Belgium	1
+1	World Cup qualifier
+in Ireland	-2
++2	1686
+1749	-1
++1	33
+23
+November 15
+1997	Belgium
+Ireland	2
+1	World Cup qualifier
+in Belgium	+11
+-11	1760
+1675	+2
+-4	21
+37
+February 25
+1998	Belgium
+United States	2
+0	Friendly
+in Belgium	+9
+-9	1769
+1713	+1
+-1	21
+32
+March 25
+1998	Belgium
+Norway	2
+2	Friendly
+in Belgium	-1
++1	1768
+1841	+1
+0	20
+12
+April 22
+1998	Belgium
+Romania	1
+1	Friendly
+in Belgium	-1
++1	1767
+1820	0
+0	20
+17
+May 27
+1998	France
+Belgium	1
+0	King Hassan Cup
+in Morocco	+7
+-7	1967
+1760	0
+-1	4
+21
+May 29
+1998	England
+Belgium	0
+0	King Hassan Cup
+in Morocco	-7
++7	1938
+1767	-1
++1	6
+20
+June 03
+1998	Belgium
+Colombia	2
+0	Friendly
+in Belgium	+10
+-10	1777
+1741	0
+-2	20
+25
+June 06
+1998	Belgium
+Paraguay	1
+0	Friendly
+in Belgium	+6
+-6	1783
+1708	+1
+-1	19
+31
+June 13
+1998	Netherlands
+Belgium	0
+0	World Cup
+in France	-12
++12	1914
+1795	-1
+0	8
+19
+June 20
+1998	Mexico
+Belgium	2
+2	World Cup
+in France	-6
++6	1854
+1801	-1
+0	11
+19
+June 25
+1998	Belgium
+South Korea	1
+1	World Cup
+in France	-10
++10	1791
+1687	0
++2	19
+32
+November 18
+1998	Luxembourg
+Belgium	0
+0	Friendly
+in Luxembourg	+9
+-9	1171
+1782	+4
+-1	160
+18
+February 03
+1999	Cyprus
+Belgium	0
+1	Friendly tournament
+in Cyprus	-6
++6	1450
+1788	-5
+0	88
+17
+February 05
+1999	Greece
+Belgium	1
+0	Friendly tournament
+in Cyprus	+19
+-19	1701
+1769	+5
+-3	30
+20
+February 09
+1999	Belgium
+Czechia	0
+1	Friendly
+in Belgium	-10
++10	1759
+1874	0
++1	20
+11
+March 27
+1999	Belgium
+Bulgaria	0
+1	Friendly
+in Belgium	-16
++16	1743
+1646	-2
++5	22
+45
+March 30
+1999	Belgium
+Egypt	0
+1	Friendly
+in Belgium	-14
++14	1729
+1691	-2
++4	24
+35
+April 28
+1999	Romania
+Belgium	1
+0	Friendly
+in Romania	+5
+-5	1823
+1724	0
+-2	16
+27
+May 30
+1999	Belgium
+Peru	1
+1	Kirin Cup
+in Japan	-1
++1	1723
+1692	0
+0	25
+35
+June 03
+1999	Japan
+Belgium	0
+0	Kirin Cup
+in Japan	-1
++1	1640
+1724	0
+0	45
+25
+June 05
+1999	South Korea
+Belgium	1
+2	Friendly
+in South Korea	-12
++12	1686
+1736	-6
++2	37
+23
+August 18
+1999	Belgium
+Finland	3
+4	Friendly
+in Belgium	-17
++17	1719
+1517	-4
++9	28
+68
+September 04
+1999	Netherlands
+Belgium	5
+5	Friendly
+in the Netherlands	-7
++7	1926
+1726	0
++1	5
+27
+September 07
+1999	Belgium
+Morocco	4
+0	Friendly
+in Belgium	+17
+-17	1743
+1771	+3
+-1	24
+21
+October 10
+1999	England
+Belgium	2
+1	Friendly
+in England	+4
+-4	1886
+1739	+1
+0	10
+24
+November 13
+1999	Italy
+Belgium	1
+3	Friendly
+in Italy	-25
++25	1893
+1764	-3
++1	8
+23
+February 23
+2000	Belgium
+Portugal	1
+1	Friendly
+in Belgium	0
+0	1764
+1875	0
+0	21
+11
+March 29
+2000	Belgium
+Netherlands	2
+2	Friendly
+in Belgium	+2
+-2	1766
+1927	+1
+0	19
+4
+April 26
+2000	Norway
+Belgium	0
+2	Friendly
+in Norway	-24
++24	1869
+1790	-5
++2	13
+17
+June 03
+2000	Denmark
+Belgium	2
+2	Friendly
+in Denmark	-3
++3	1787
+1793	-2
+0	19
+17
+June 10
+2000	Belgium
+Sweden	2
+1	European Cup
+in Belgium	+24
+-24	1817
+1851	+1
+-3	16
+14
+June 14
+2000	Belgium
+Italy	0
+2	European Cup
+in Belgium	-39
++39	1778
+1945	-3
++2	19
+5
+June 19
+2000	Belgium
+Turkey	0
+2	European Cup
+in Belgium	-56
++56	1722
+1746	-11
++14	29
+21
+August 16
+2000	Bulgaria
+Belgium	1
+3	Friendly
+in Bulgaria	-15
++15	1616
+1737	-5
++6	55
+23
+September 02
+2000	Belgium
+Croatia	0
+0	World Cup qualifier
+in Belgium	+2
+-2	1739
+1863	-1
+0	24
+10
+October 07
+2000	Latvia
+Belgium	0
+4	World Cup qualifier
+in Latvia	-15
++15	1383
+1754	-4
++3	107
+22
+February 28
+2001	Belgium
+San Marino	10
+1	World Cup qualifier
+in Belgium	0
+0	1754
+912	0
+0	24
+201
+March 24
+2001	Scotland
+Belgium	2
+2	World Cup qualifier
+in Scotland	-3
++3	1711
+1757	-1
+-1	33
+25
+April 25
+2001	Czechia
+Belgium	1
+1	Friendly
+in Czechia	-5
++5	1865
+1762	-1
+0	9
+26
+June 02
+2001	Belgium
+Latvia	3
+1	World Cup qualifier
+in Belgium	+3
+-3	1765
+1368	+1
+-1	24
+115
+June 06
+2001	San Marino
+Belgium	1
+4	World Cup qualifier
+in San Marino	-1
++1	930
+1766	-1
++1	194
+23
+August 15
+2001	Finland
+Belgium	4
+1	Friendly
+in Finland	+20
+-20	1630
+1746	+2
+-1	51
+25
+September 05
+2001	Belgium
+Scotland	2
+0	World Cup qualifier
+in Belgium	+19
+-19	1765
+1698	+3
+-5	24
+36
+October 06
+2001	Croatia
+Belgium	1
+0	World Cup qualifier
+in Croatia	+10
+-10	1866
+1755	0
+-1	8
+25
+November 10
+2001	Belgium
+Czechia	1
+0	World Cup qualifier
+in Belgium	+19
+-19	1774
+1813	+1
+-1	22
+14
+November 14
+2001	Czechia
+Belgium	0
+1	World Cup qualifier
+in Czechia	-28
++28	1785
+1802	-7
++6	21
+17
+February 13
+2002	Belgium
+Norway	1
+0	Friendly
+in Belgium	+5
+-5	1807
+1715	+2
+-1	17
+32
+March 27
+2002	Greece
+Belgium	3
+2	Friendly
+in Greece	+12
+-12	1633
+1795	+4
+-4	46
+21
+April 17
+2002	Belgium
+Slovakia	1
+1	Friendly
+in Belgium	-6
++6	1789
+1633	-1
++3	21
+46
+May 14
+2002	Belgium
+Algeria	0
+0	Friendly
+in Belgium	-8
++8	1781
+1486	-3
++4	23
+78
+May 18
+2002	France
+Belgium	1
+2	Friendly
+in France	-18
++18	2062
+1799	0
++2	1
+20
+May 26
+2002	Belgium
+Costa Rica	1
+0	Friendly
+in Japan	+8
+-8	1807
+1731	+2
+-1	18
+28
+June 04
+2002	Japan
+Belgium	2
+2	World Cup
+in Japan	-10
++10	1813
+1817	-3
++2	18
+16
+June 10
+2002	Tunisia
+Belgium	1
+1	World Cup
+in Japan	+17
+-17	1609
+1800	+1
+-1	53
+21
+June 14
+2002	Belgium
+Russia	3
+2	World Cup
+in Japan	+27
+-27	1827
+1743	+4
+-4	16
+28
+June 17
+2002	Brazil
+Belgium	2
+0	World Cup
+in Japan	+33
+-33	1956
+1794	+4
+-5	4
+21
+August 21
+2002	Poland
+Belgium	1
+1	Friendly
+in Poland	-1
++1	1711
+1795	-1
+0	36
+21
+September 07
+2002	Belgium
+Bulgaria	0
+2	European Cup qualifier
+in Belgium	-49
++49	1746
+1686	-6
++6	27
+37
+October 12
+2002	Andorra
+Belgium	0
+1	European Cup qualifier
+in Andorra	-1
++1	1064
+1747	0
+-1	177
+28
+October 16
+2002	Estonia
+Belgium	0
+1	European Cup qualifier
+in Estonia	-8
++8	1393
+1755	-2
+0	111
+28
+February 12
+2003	Algeria
+Belgium	1
+3	Friendly
+in Algeria	-9
++9	1499
+1764	-5
++6	74
+21
+March 29
+2003	Croatia
+Belgium	4
+0	European Cup qualifier
+in Croatia	+28
+-28	1785
+1736	+5
+-8	19
+30
+April 30
+2003	Belgium
+Poland	3
+1	Friendly
+in Belgium	+9
+-9	1745
+1670	+5
+-2	24
+40
+June 07
+2003	Bulgaria
+Belgium	2
+2	European Cup qualifier
+in Bulgaria	-4
++4	1718
+1749	0
++2	32
+23
+June 11
+2003	Belgium
+Andorra	3
+0	European Cup qualifier
+in Belgium	+1
+-1	1750
+1047	0
+-1	23
+184
+August 20
+2003	Belgium
+Netherlands	1
+1	Friendly
+in Belgium	+4
+-4	1754
+2006	-1
+0	23
+1
+September 10
+2003	Belgium
+Croatia	2
+1	European Cup qualifier
+in Belgium	+17
+-17	1771
+1784	+1
+-1	21
+19
+October 11
+2003	Belgium
+Estonia	2
+0	European Cup qualifier
+in Belgium	+3
+-3	1774
+1377	0
+-1	21
+112
+February 18
+2004	Belgium
+France	0
+2	Friendly
+in Belgium	-9
++9	1765
+2032	-3
+0	22
+1
+March 31
+2004	Germany
+Belgium	3
+0	Friendly
+in Germany	+8
+-8	1871
+1757	+1
+-1	10
+24
+April 28
+2004	Belgium
+Turkey	2
+3	Friendly
+in Belgium	-12
++12	1745
+1814	-4
++1	27
+15
+May 29
+2004	Netherlands
+Belgium	0
+1	Friendly
+in the Netherlands	-17
++17	1947
+1762	0
++4	5
+23
+August 18
+2004	Norway
+Belgium	2
+2	Friendly
+in Norway	-3
++3	1753
+1765	0
+0	29
+25
+September 04
+2004	Belgium
+Lithuania	1
+1	World Cup qualifier
+in Belgium	-18
++18	1747
+1400	-2
++1	27
+106
+October 09
+2004	Spain
+Belgium	2
+0	World Cup qualifier
+in Spain	+10
+-10	1944
+1737	0
+-3	5
+30
+November 17
+2004	Belgium
+Serbia and Montenegro	0
+2	World Cup qualifier
+in Belgium	-41
++41	1696
+1740	-3
++4	32
+29
+February 09
+2005	Egypt
+Belgium	4
+0	Friendly
+in Egypt	+15
+-15	1674
+1681	+3
+-4	39
+36
+March 26
+2005	Belgium
+Bosnia and Herzegovina	4
+1	World Cup qualifier
+in Belgium	+18
+-18	1699
+1584	+4
+-5	34
+61
+March 30
+2005	San Marino
+Belgium	1
+2	World Cup qualifier
+in San Marino	-1
++1	921
+1700	0
+0	194
+34
+June 04
+2005	Serbia and Montenegro
+Belgium	0
+0	World Cup qualifier
+in Serbia and Montenegro	-8
++8	1739
+1708	-2
++2	30
+34
+August 17
+2005	Belgium
+Greece	2
+0	Friendly
+in Belgium	+14
+-14	1722
+1781	+2
+-2	32
+21
+September 03
+2005	Bosnia and Herzegovina
+Belgium	1
+0	World Cup qualifier
+in Bosnia and Herzegovina	+23
+-23	1599
+1699	+4
+-6	56
+38
+September 07
+2005	Belgium
+San Marino	8
+0	World Cup qualifier
+in Belgium	+1
+-1	1700
+918	0
+0	38
+194
+October 08
+2005	Belgium
+Spain	0
+2	World Cup qualifier
+in Belgium	-21
++21	1679
+1931	-5
++2	43
+4
+October 12
+2005	Lithuania
+Belgium	1
+1	World Cup qualifier
+in Lithuania	+9
+-9	1430
+1670	+1
+0	93
+43
+March 01
+2006	Luxembourg
+Belgium	0
+2	Friendly
+in Luxembourg	-1
++1	947
+1671	0
+0	190
+43
+May 11
+2006	Belgium
+Saudi Arabia	2
+1	Friendly
+in the Netherlands	+8
+-8	1679
+1597	+1
+-1	42
+55
+May 20
+2006	Slovakia
+Belgium	1
+1	Friendly
+in Slovakia	-3
++3	1665
+1682	-1
++1	47
+41
+May 24
+2006	Belgium
+Turkey	3
+3	Friendly
+in Belgium	+1
+-1	1683
+1803	-1
++1	42
+19
+August 16
+2006	Belgium
+Kazakhstan	0
+0	European Cup qualifier
+in Belgium	-17
++17	1666
+1334	-4
++4	45
+121
+September 06
+2006	Armenia
+Belgium	0
+1	European Cup qualifier
+in Armenia	-10
++10	1360
+1676	-7
++1	112
+45
+October 07
+2006	Serbia
+Belgium	1
+0	European Cup qualifier
+in Serbia	+12
+-12	1733
+1664	+4
+0	31
+45
+October 11
+2006	Belgium
+Azerbaijan	3
+0	European Cup qualifier
+in Belgium	+5
+-5	1669
+1317	+2
+0	43
+122
+November 15
+2006	Belgium
+Poland	0
+1	European Cup qualifier
+in Belgium	-23
++23	1646
+1741	-4
++4	47
+30
+February 07
+2007	Belgium
+Czechia	0
+2	Friendly
+in Belgium	-10
++10	1636
+1866	-1
+0	49
+11
+March 24
+2007	Portugal
+Belgium	4
+0	European Cup qualifier
+in Portugal	+9
+-9	1900
+1627	0
+0	8
+50
+June 02
+2007	Belgium
+Portugal	1
+2	European Cup qualifier
+in Belgium	-11
++11	1616
+1905	+1
+0	50
+8
+June 06
+2007	Finland
+Belgium	2
+0	European Cup qualifier
+in Finland	+23
+-23	1619
+1593	+4
+-4	50
+55
+August 22
+2007	Belgium
+Serbia	3
+2	European Cup qualifier
+in Belgium	+23
+-23	1616
+1716	+2
+-6	55
+37
+September 12
+2007	Kazakhstan
+Belgium	2
+2	European Cup qualifier
+in Kazakhstan	+10
+-10	1332
+1606	+3
+-2	126
+57
+October 13
+2007	Belgium
+Finland	0
+0	European Cup qualifier
+in Belgium	-4
++4	1602
+1638	+1
+0	56
+49
+October 17
+2007	Belgium
+Armenia	3
+0	European Cup qualifier
+in Belgium	+13
+-13	1615
+1428	0
+-3	55
+98
+November 17
+2007	Poland
+Belgium	2
+0	European Cup qualifier
+in Poland	+13
+-13	1749
+1602	+8
+-2	26
+55
+November 21
+2007	Azerbaijan
+Belgium	0
+1	European Cup qualifier
+in Azerbaijan	-12
++12	1340
+1614	-6
++4	125
+52
+March 26
+2008	Belgium
+Morocco	1
+4	Friendly
+in Belgium	-20
++20	1594
+1675	-3
++1	56
+42
+May 30
+2008	Italy
+Belgium	3
+1	Friendly
+in Italy	+2
+-2	2006
+1592	0
+-2	2
+57
+August 20
+2008	Germany
+Belgium	2
+0	Friendly
+in Germany	+2
+-2	1947
+1590	0
++1	6
+55
+September 06
+2008	Belgium
+Estonia	3
+2	World Cup qualifier
+in Belgium	+6
+-6	1596
+1375	-1
+0	55
+115
+September 10
+2008	Turkey
+Belgium	1
+1	World Cup qualifier
+in Turkey	-15
++15	1804
+1611	-2
++4	17
+51
+October 11
+2008	Belgium
+Armenia	2
+0	World Cup qualifier
+in Belgium	+9
+-9	1620
+1400	+2
+-5	49
+109
+October 15
+2008	Belgium
+Spain	1
+2	World Cup qualifier
+in Belgium	-5
++5	1615
+2068	-1
+0	49
+1
+November 19
+2008	Luxembourg
+Belgium	1
+1	Friendly
+in Luxembourg	+9
+-9	1065
+1606	+1
+-4	180
+53
+February 11
+2009	Belgium
+Slovenia	2
+0	Friendly
+in Belgium	+9
+-9	1615
+1538	+2
+-2	52
+69
+March 28
+2009	Belgium
+Bosnia and Herzegovina	2
+4	World Cup qualifier
+in Belgium	-43
++43	1572
+1590	-6
++13	58
+55
+April 01
+2009	Bosnia and Herzegovina
+Belgium	2
+1	World Cup qualifier
+in Bosnia and Herzegovina	+13
+-13	1603
+1559	+1
+-5	54
+63
+May 29
+2009	Belgium
+Chile	1
+1	Kirin Cup
+in Japan	+8
+-8	1567
+1756	+3
+0	60
+25
+May 31
+2009	Japan
+Belgium	4
+0	Kirin Cup
+in Japan	+8
+-8	1776
+1559	+4
+-4	18
+64
+August 12
+2009	Czechia
+Belgium	3
+1	Friendly
+in Czechia	+4
+-4	1775
+1555	+1
+-1	20
+64
+September 05
+2009	Spain
+Belgium	5
+0	World Cup qualifier
+in Spain	+3
+-3	2049
+1552	0
+0	2
+64
+September 09
+2009	Armenia
+Belgium	2
+1	World Cup qualifier
+in Armenia	+27
+-27	1355
+1525	+6
+-8	120
+73
+October 10
+2009	Belgium
+Turkey	2
+0	World Cup qualifier
+in Belgium	+44
+-44	1569
+1754	+14
+-10	59
+24
+October 14
+2009	Estonia
+Belgium	2
+0	World Cup qualifier
+in Estonia	+38
+-38	1411
+1531	+11
+-12	104
+72
+November 14
+2009	Belgium
+Hungary	3
+0	Friendly
+in Belgium	+16
+-16	1547
+1578	+4
+-1	68
+57
+November 17
+2009	Belgium
+Qatar	2
+0	Friendly
+in France	+14
+-14	1561
+1514	+4
+-5	64
+82
+March 03
+2010	Belgium
+Croatia	0
+1	Friendly
+in Belgium	-5
++5	1556
+1866	-4
++1	67
+9
+May 19
+2010	Belgium
+Bulgaria	2
+1	Friendly
+in Belgium	+11
+-11	1567
+1696	+4
+-2	63
+39
+August 11
+2010	Finland
+Belgium	1
+0	Friendly
+in Finland	+6
+-6	1631
+1561	+2
+0	48
+66
+September 03
+2010	Belgium
+Germany	0
+1	European Cup qualifier
+in Belgium	-4
++4	1557
+2035	-1
+0	67
+4
+September 07
+2010	Turkey
+Belgium	3
+2	European Cup qualifier
+in Turkey	+5
+-5	1796
+1552	+1
+-3	14
+71
+October 08
+2010	Kazakhstan
+Belgium	0
+2	European Cup qualifier
+in Kazakhstan	-19
++19	1295
+1571	-3
++5	134
+65
+October 12
+2010	Belgium
+Austria	4
+4	European Cup qualifier
+in Belgium	-5
++5	1566
+1586	0
++1	65
+59
+November 17
+2010	Russia
+Belgium	0
+2	Friendly
+in Russia	-27
++27	1797
+1593	-1
++7	13
+57
+February 09
+2011	Belgium
+Finland	1
+1	Friendly
+in Belgium	-4
++4	1589
+1568	-1
++1	57
+64
+March 25
+2011	Austria
+Belgium	0
+2	European Cup qualifier
+in Austria	-37
++37	1539
+1626	-9
++8	69
+49
+March 29
+2011	Belgium
+Azerbaijan	4
+1	European Cup qualifier
+in Belgium	+10
+-10	1636
+1414	+2
+-4	47
+108
+June 03
+2011	Belgium
+Turkey	1
+1	European Cup qualifier
+in Belgium	+1
+-1	1637
+1757	0
+-1	47
+24
+August 10
+2011	Slovenia
+Belgium	0
+0	Friendly
+in Slovenia	-3
++3	1656
+1640	-1
+-1	45
+51
+September 02
+2011	Azerbaijan
+Belgium	1
+1	European Cup qualifier
+in Azerbaijan	+9
+-9	1389
+1631	+3
+-1	110
+52
+September 06
+2011	Belgium
+United States	1
+0	Friendly
+in Belgium	+9
+-9	1640
+1692	+6
+-1	45
+37
+October 07
+2011	Belgium
+Kazakhstan	4
+1	European Cup qualifier
+in Belgium	+5
+-5	1645
+1307	+1
+-1	44
+131
+October 11
+2011	Germany
+Belgium	3
+1	European Cup qualifier
+in Germany	+3
+-3	2050
+1642	0
+-1	3
+45
+November 11
+2011	Belgium
+Romania	2
+1	Friendly
+in Belgium	+8
+-8	1650
+1659	+1
+0	44
+41
+November 15
+2011	France
+Belgium	0
+0	Friendly
+in France	-6
++6	1813
+1656	+1
++1	14
+42
+February 29
+2012	Greece
+Belgium	1
+1	Friendly
+in Greece	-5
++5	1755
+1661	-2
+0	26
+42
+May 25
+2012	Belgium
+Montenegro	2
+2	Friendly
+in Belgium	-4
++4	1657
+1602	-1
++1	43
+56
+June 02
+2012	England
+Belgium	1
+0	Friendly
+in England	+2
+-2	1927
+1655	0
+-1	6
+44
+August 15
+2012	Belgium
+Netherlands	4
+2	Friendly
+in Belgium	+22
+-22	1677
+1918	+4
+-2	40
+8
+September 07
+2012	Wales
+Belgium	0
+2	World Cup qualifier
+in Wales	-31
++31	1552
+1708	-6
++7	69
+33
+September 11
+2012	Belgium
+Croatia	1
+1	World Cup qualifier
+in Belgium	+2
+-2	1710
+1841	+1
+-2	32
+15
+October 12
+2012	Serbia
+Belgium	0
+3	World Cup qualifier
+in Serbia	-44
++44	1660
+1754	-6
++8	41
+24
+October 16
+2012	Belgium
+Scotland	2
+0	World Cup qualifier
+in Belgium	+14
+-14	1768
+1626	+2
+-4	22
+48
+November 14
+2012	Romania
+Belgium	2
+1	Friendly
+in Romania	+9
+-9	1727
+1759	-1
+-1	29
+23
+February 06
+2013	Belgium
+Slovakia	2
+1	Friendly
+in Belgium	+3
+-3	1762
+1572	0
++2	23
+61
+March 22
+2013	Macedonia
+Belgium	0
+2	World Cup qualifier
+in Macedonia	-19
++19	1509
+1781	-5
++2	80
+21
+March 26
+2013	Belgium
+Macedonia	1
+0	World Cup qualifier
+in Belgium	+4
+-4	1785
+1505	+1
+-5	20
+83
+May 29
+2013	United States
+Belgium	2
+4	Friendly
+in the United States	-18
++18	1728
+1803	-5
++3	30
+17
+June 07
+2013	Belgium
+Serbia	2
+1	World Cup qualifier
+in Belgium	+8
+-8	1811
+1666	-1
+-3	18
+42
+August 14
+2013	Belgium
+France	0
+0	Friendly
+in Belgium	-2
++2	1809
+1834	+1
++2	18
+13
+September 06
+2013	Scotland
+Belgium	0
+2	World Cup qualifier
+in Scotland	-22
++22	1597
+1831	-3
++4	55
+14
+October 11
+2013	Croatia
+Belgium	1
+2	World Cup qualifier
+in Croatia	-26
++26	1820
+1857	-6
++3	19
+13
+October 15
+2013	Belgium
+Wales	1
+1	World Cup qualifier
+in Belgium	-17
++17	1840
+1558	-1
++5	14
+66
+November 14
+2013	Belgium
+Colombia	0
+2	Friendly
+in Belgium	-17
++17	1823
+1907	-2
++1	16
+8
+November 19
+2013	Belgium
+Japan	2
+3	Friendly
+in Belgium	-15
++15	1808
+1747	-4
++1	18
+25
+March 05
+2014	Belgium
+Ivory Coast	2
+2	Friendly
+in Belgium	-3
++3	1805
+1789	0
+0	18
+22

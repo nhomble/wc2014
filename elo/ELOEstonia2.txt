@@ -1,0 +1,3546 @@
+October 17
+1920	Finland
+Estonia	6
+0	Friendly
+in Finland	+6
+-6	1526
+1294	+2
+-	26
+33
+July 22
+1921	Estonia
+Sweden	0
+0	Friendly
+in Estonia	+5
+-5	1299
+1596	0
+-2	33
+20
+August 28
+1921	Estonia
+Finland	0
+3	Friendly
+in Estonia	-11
++11	1288
+1550	0
+0	33
+25
+August 11
+1922	Finland
+Estonia	10
+2	Friendly
+in Finland	+6
+-6	1521
+1282	0
+0	33
+42
+September 24
+1922	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-6
++6	1394
+1288	-
+-1	39
+43
+June 24
+1923	Lithuania
+Estonia	0
+5	Friendly
+in Lithuania	-26
++26	1274
+1314	-
+0	46
+45
+July 24
+1923	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-1
++1	1313
+1395	0
+0	45
+41
+September 18
+1923	Estonia
+Russia	2
+4	Friendly
+in Estonia	-14
++14	1299
+1442	0
+0	45
+40
+September 25
+1923	Estonia
+Poland	1
+4	Friendly
+in Estonia	-9
++9	1290
+1590	0
++1	45
+24
+September 30
+1923	Estonia
+Finland	2
+1	Friendly
+in Estonia	+13
+-13	1303
+1503	0
+0	45
+35
+May 25
+1924	United States
+Estonia	1
+0	Olympic Games
+in France	+9
+-9	1617
+1294	+1
+0	23
+48
+June 19
+1924	Estonia
+Turkey	1
+4	Friendly
+in Estonia	-8
++8	1286
+1601	0
+0	48
+27
+July 25
+1924	Sweden
+Estonia	5
+2	Friendly
+in Sweden	+1
+-1	1812
+1285	0
+0	3
+48
+August 24
+1924	Estonia
+Lithuania	1
+2	Friendly
+in Estonia	-14
++14	1271
+1252	0
+0	48
+49
+September 14
+1924	Finland
+Estonia	4
+0	Friendly
+in Finland	+5
+-5	1509
+1266	0
+0	37
+48
+October 18
+1924	Latvia
+Estonia	2
+0	Friendly
+in Latvia	+7
+-7	1365
+1259	0
+0	46
+48
+June 28
+1925	Lithuania
+Estonia	0
+1	Friendly
+in Lithuania	-13
++13	1239
+1272	0
+0	51
+50
+July 05
+1925	Estonia
+Finland	2
+0	Friendly
+in Estonia	+20
+-20	1292
+1464	0
+-3	50
+42
+August 26
+1925	Estonia
+Latvia	2
+2	Friendly
+in Estonia	-1
++1	1291
+1359	0
+0	50
+47
+September 01
+1925	Estonia
+Poland	0
+0	Friendly
+in Estonia	+4
+-4	1295
+1534	0
+0	50
+33
+June 13
+1926	Estonia
+Lithuania	3
+1	Friendly
+in Estonia	+9
+-9	1304
+1236	+1
+0	54
+56
+July 04
+1926	Poland
+Estonia	2
+0	Friendly
+in Poland	+4
+-4	1542
+1300	+3
+0	32
+54
+July 23
+1926	Estonia
+Sweden	1
+7	Friendly
+in Estonia	-4
++4	1296
+1791	-1
+0	55
+8
+September 05
+1926	Finland
+Estonia	1
+1	Friendly
+in Finland	-7
++7	1467
+1303	-2
++1	43
+54
+September 19
+1926	Latvia
+Estonia	0
+1	Friendly
+in Latvia	-15
++15	1359
+1318	-1
+0	51
+54
+June 16
+1927	Estonia
+Latvia	4
+1	Friendly
+in Estonia	+14
+-14	1332
+1342	0
+-2	55
+53
+July 01
+1927	Sweden
+Estonia	3
+1	Friendly
+in Sweden	+1
+-1	1772
+1331	0
+0	10
+55
+August 10
+1927	Estonia
+Finland	2
+1	Friendly
+in Estonia	+11
+-11	1342
+1444	+1
+0	54
+45
+August 13
+1927	Lithuania
+Estonia	0
+5	Friendly
+in Lithuania	-19
++19	1200
+1361	-1
++3	59
+51
+September 25
+1927	Latvia
+Estonia	4
+1	Friendly
+in Latvia	+13
+-13	1356
+1348	+3
+-3	51
+54
+July 09
+1928	Estonia
+Sweden	0
+1	Friendly
+in Estonia	-3
++3	1345
+1771	0
+0	55
+11
+July 26
+1928	Estonia
+Lithuania	6
+0	Baltic Cup
+in Estonia	+12
+-12	1357
+1172	+2
+0	53
+61
+July 27
+1928	Estonia
+Latvia	0
+1	Baltic Cup
+in Estonia	-19
++19	1338
+1386	-2
++2	55
+50
+August 12
+1928	Finland
+Estonia	2
+2	Friendly
+in Finland	-5
++5	1422
+1343	0
+0	46
+55
+September 23
+1928	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-4
++4	1387
+1347	-1
+0	50
+55
+July 07
+1929	Sweden
+Estonia	4
+1	Friendly
+in Sweden	+2
+-2	1766
+1345	0
+-1	9
+57
+July 25
+1929	Estonia
+Finland	1
+1	Friendly
+in Estonia	-1
++1	1344
+1400	0
+0	57
+47
+August 15
+1929	Estonia
+Lithuania	5
+2	Baltic Cup
+in Latvia	+14
+-14	1358
+1154	+5
+0	52
+62
+August 16
+1929	Latvia
+Estonia	2
+2	Baltic Cup
+in Latvia	-5
++5	1386
+1363	-1
+0	49
+52
+August 27
+1929	Finland
+Estonia	2
+1	Friendly
+in Finland	+6
+-6	1406
+1357	+2
+0	45
+52
+September 18
+1929	Estonia
+Latvia	4
+1	Friendly
+in Estonia	+13
+-13	1370
+1363	+1
+-1	51
+52
+June 27
+1930	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-3
++3	1367
+1366	0
+0	53
+54
+July 18
+1930	Estonia
+Sweden	1
+5	Friendly
+in Estonia	-6
++6	1361
+1757	-1
++1	53
+12
+August 06
+1930	Estonia
+Finland	4
+0	Friendly
+in Estonia	+15
+-15	1376
+1366	+3
+-5	51
+54
+August 15
+1930	Lithuania
+Estonia	2
+1	Baltic Cup
+in Lithuania	+20
+-20	1174
+1356	+1
+-3	65
+54
+August 16
+1930	Latvia
+Estonia	3
+2	Baltic Cup
+in Lithuania	+14
+-14	1388
+1342	+2
+-4	49
+58
+September 13
+1930	Lithuania
+Estonia	4
+0	Friendly
+in Lithuania	+22
+-22	1201
+1320	+2
+-1	63
+59
+May 28
+1931	Latvia
+Estonia	0
+1	Friendly
+in Latvia	-14
++14	1363
+1334	-2
+0	54
+59
+June 09
+1931	Estonia
+Lithuania	4
+1	Friendly
+in Estonia	+7
+-7	1341
+1194	0
+-1	59
+65
+June 17
+1931	Finland
+Estonia	3
+1	Friendly
+in Finland	+10
+-10	1383
+1331	+1
+0	51
+59
+July 08
+1931	Sweden
+Estonia	3
+1	Friendly
+in Sweden	+2
+-2	1730
+1329	0
+0	13
+59
+August 30
+1931	Estonia
+Lithuania	2
+0	Baltic Cup
+in Estonia	+9
+-9	1338
+1176	0
+0	59
+66
+September 01
+1931	Estonia
+Latvia	3
+1	Baltic Cup
+in Estonia	+17
+-17	1355
+1337	+5
+-4	54
+59
+September 27
+1931	Latvia
+Estonia	2
+1	Friendly
+in Latvia	+8
+-8	1345
+1347	0
+-3	59
+57
+June 01
+1932	Estonia
+Latvia	3
+0	Friendly
+in Estonia	+13
+-13	1360
+1332	+3
+0	55
+59
+June 05
+1932	Norway
+Estonia	3
+0	Friendly
+in Norway	+5
+-5	1595
+1355	+3
+0	26
+55
+July 15
+1932	Estonia
+Sweden	1
+3	Friendly
+in Estonia	-7
++7	1348
+1678	-2
++1	57
+16
+August 06
+1932	Lithuania
+Estonia	1
+0	Friendly
+in Lithuania	+13
+-13	1166
+1335	0
+-1	67
+59
+August 17
+1932	Estonia
+Finland	0
+3	Friendly
+in Estonia	-20
++20	1315
+1411	-1
++3	60
+48
+August 29
+1932	Lithuania
+Estonia	2
+1	Baltic Cup
+in Latvia	+21
+-21	1178
+1294	+1
+0	66
+60
+August 30
+1932	Latvia
+Estonia	1
+0	Baltic Cup
+in Latvia	+8
+-8	1366
+1286	+2
+-1	53
+61
+May 28
+1933	Latvia
+Estonia	2
+0	Friendly
+in Latvia	+8
+-8	1360
+1278	+1
+0	55
+61
+June 11
+1933	Sweden
+Estonia	6
+2	World Cup qualifier
+in Sweden	+4
+-4	1662
+1274	0
+0	17
+61
+July 20
+1933	Estonia
+Lithuania	2
+1	Friendly
+in Estonia	+5
+-5	1279
+1171	0
+0	61
+66
+August 09
+1933	Estonia
+Latvia	2
+1	Friendly
+in Estonia	+10
+-10	1289
+1361	+1
+-1	60
+54
+August 16
+1933	Finland
+Estonia	2
+1	Friendly
+in Finland	+4
+-4	1439
+1285	+1
+-1	44
+61
+September 02
+1933	Lithuania
+Estonia	1
+1	Baltic Cup
+in Lithuania	+1
+-1	1167
+1284	0
+0	67
+61
+September 03
+1933	Latvia
+Estonia	1
+0	Baltic Cup
+in Lithuania	+12
+-12	1373
+1272	+1
+0	53
+61
+September 05
+1933	Lithuania
+Estonia	0
+5	Friendly
+in Lithuania	-20
++20	1151
+1292	-1
++1	67
+60
+June 29
+1934	Lithuania
+Estonia	1
+1	Friendly
+in Lithuania	+1
+-1	1172
+1291	0
+0	69
+61
+August 08
+1934	Estonia
+Finland	1
+1	Friendly
+in Estonia	+1
+-1	1292
+1434	0
+0	62
+45
+August 10
+1934	Estonia
+Hungary	2
+2	Friendly
+in Estonia	+8
+-8	1300
+1785	+1
+-1	61
+9
+June 12
+1935	Latvia
+Estonia	1
+1	Friendly
+in Latvia	-3
++3	1311
+1303	0
+0	60
+61
+June 19
+1935	Estonia
+Lithuania	2
+2	Friendly
+in Estonia	-5
++5	1298
+1206	-1
+0	62
+66
+July 09
+1935	Estonia
+Sweden	1
+2	Friendly
+in Estonia	-2
++2	1296
+1740	0
+0	62
+13
+August 07
+1935	Finland
+Estonia	2
+2	Friendly
+in Finland	-6
++6	1441
+1302	-1
++1	43
+61
+August 20
+1935	Estonia
+Lithuania	1
+2	Baltic Cup
+in Estonia	-23
++23	1279
+1229	-2
++1	63
+65
+August 22
+1935	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	-3
++3	1276
+1306	0
+0	63
+60
+September 15
+1935	Germany
+Estonia	5
+0	Friendly
+in Poland	+2
+-2	1832
+1274	0
+-1	8
+64
+September 18
+1935	Lithuania
+Estonia	2
+2	Friendly
+in Lithuania	-2
++2	1229
+1276	0
++1	65
+63
+May 28
+1936	Estonia
+Latvia	3
+4	Friendly
+in Estonia	-12
++12	1264
+1324	0
++1	64
+59
+June 30
+1936	Lithuania
+Estonia	2
+0	Friendly
+in Lithuania	+13
+-13	1223
+1251	0
+-1	67
+65
+August 20
+1936	Estonia
+Finland	2
+2	Friendly
+in Estonia	0
+0	1251
+1367	0
+0	65
+53
+August 30
+1936	Lithuania
+Estonia	1
+2	Baltic Cup
+in Lithuania	-18
++18	1198
+1269	0
++1	68
+64
+August 31
+1936	Latvia
+Estonia	2
+1	Baltic Cup
+in Latvia	+8
+-8	1358
+1261	+1
+0	56
+64
+June 03
+1937	Lithuania
+Estonia	1
+2	Friendly
+in Lithuania	-11
++11	1187
+1272	-1
+0	70
+65
+June 20
+1937	Sweden
+Estonia	7
+2	World Cup qualifier
+in Sweden	+5
+-5	1652
+1267	0
+0	22
+65
+July 14
+1937	Estonia
+Romania	2
+1	Friendly
+in Estonia	+16
+-16	1283
+1583	+1
+-1	64
+32
+August 19
+1937	Finland
+Estonia	0
+1	World Cup qualifier
+in Finland	-30
++30	1335
+1313	-5
++4	60
+61
+August 29
+1937	Germany
+Estonia	4
+1	World Cup qualifier
+in Germany	+2
+-2	1797
+1311	0
+-1	10
+62
+September 04
+1937	Estonia
+Latvia	1
+1	Baltic Cup
+in Lithuania	+4
+-4	1315
+1396	+1
+0	61
+49
+September 05
+1937	Lithuania
+Estonia	0
+4	Baltic Cup
+in Lithuania	-23
++23	1123
+1338	0
++1	73
+60
+September 07
+1937	Latvia
+Estonia	2
+0	Baltic Cup
+in Lithuania	+19
+-19	1415
+1319	+3
+-1	46
+61
+September 19
+1937	Latvia
+Estonia	3
+1	Friendly
+in Latvia	+7
+-7	1422
+1312	0
+0	46
+61
+May 31
+1938	Norway
+Estonia	1
+0	Friendly
+in Norway	+1
+-1	1685
+1311	0
+0	16
+63
+June 11
+1938	Lithuania
+Estonia	0
+2	Friendly
+in Lithuania	-11
++11	1109
+1322	0
+0	75
+63
+July 20
+1938	Estonia
+Latvia	0
+2	Friendly
+in Estonia	-15
++15	1307
+1440	-3
++1	65
+46
+August 17
+1938	Estonia
+Finland	1
+3	Friendly
+in Estonia	-19
++19	1288
+1335	0
+0	66
+63
+September 03
+1938	Estonia
+Lithuania	3
+1	Baltic Cup
+in Estonia	+8
+-8	1296
+1101	-1
+-1	68
+77
+September 05
+1938	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	+1
+-1	1297
+1428	0
+0	68
+47
+June 29
+1939	Estonia
+Germany	0
+2	Friendly
+in Estonia	-3
++3	1294
+1756	0
+0	68
+14
+July 27
+1939	Latvia
+Estonia	3
+3	Friendly
+in Latvia	-6
++6	1416
+1300	0
++1	49
+67
+August 04
+1939	Finland
+Estonia	4
+2	Friendly
+in Finland	+9
+-9	1355
+1291	+5
+-1	57
+68
+August 27
+1939	Estonia
+Lithuania	0
+1	Friendly
+in Estonia	-17
++17	1274
+1124	-2
+-1	70
+78
+July 18
+1940	Estonia
+Latvia	2
+1	Friendly
+in Estonia	+12
+-12	1286
+1423	0
+-1	72
+51
+August 11
+1940	Lithuania
+Estonia	2
+0	Friendly
+in Lithuania	+18
+-18	1142
+1268	0
+0	80
+72
+September 07
+1940	Lithuania
+Estonia	1
+1	Baltic Cup
+in Lithuania	+1
+-1	1140
+1267	0
+0	80
+72
+September 08
+1940	Latvia
+Estonia	2
+2	Baltic Cup
+in Latvia	-9
++9	1417
+1276	-2
+0	52
+72
+August 03
+1942	Latvia
+Estonia	4
+0	Friendly
+in Latvia	+8
+-8	1410
+1268	+1
+0	55
+72
+August 18
+1942	Estonia
+Latvia	1
+6	Friendly
+in Estonia	-18
++18	1250
+1428	-2
++3	74
+52
+November 15
+1991	Lithuania
+Estonia	4
+1	Baltic Cup
+in Lithuania	+25
+-25	1189
+1225	+3
+-5	150
+138
+November 16
+1991	Latvia
+Estonia	2
+0	Baltic Cup
+in Latvia	+7
+-7	1435
+1218	+1
+-2	83
+140
+June 03
+1992	Estonia
+Slovenia	1
+1	Friendly
+in Estonia	+5
+-5	1223
+1490	+2
+0	138
+69
+July 15
+1992	Latvia
+Estonia	2
+1	Baltic Cup
+in Latvia	+5
+-5	1424
+1218	0
+-1	86
+140
+July 16
+1992	Estonia
+Lithuania	1
+1	Baltic Cup
+in Latvia	0
+0	1218
+1210	-2
+-2	142
+146
+August 16
+1992	Estonia
+Switzerland	0
+6	World Cup qualifier
+in Estonia	-7
++7	1211
+1739	-4
++3	148
+25
+October 25
+1992	Malta
+Estonia	0
+0	World Cup qualifier
+in Malta	-13
++13	1362
+1224	-1
++3	106
+144
+February 20
+1993	Finland
+Estonia	0
+0	Baltic Tournament
+in Finland	-12
++12	1486
+1236	-3
++2	77
+143
+February 21
+1993	Latvia
+Estonia	2
+0	Baltic Tournament
+in Finland	+14
+-14	1390
+1222	+7
+-3	98
+146
+April 07
+1993	Slovenia
+Estonia	2
+0	Friendly
+in Slovenia	+3
+-3	1490
+1219	+2
+0	75
+148
+April 14
+1993	Italy
+Estonia	2
+0	World Cup qualifier
+in Italy	0
+0	1968
+1219	0
+0	2
+148
+May 12
+1993	Estonia
+Malta	0
+1	World Cup qualifier
+in Estonia	-19
++19	1200
+1357	-3
++10	150
+107
+May 19
+1993	Estonia
+Scotland	0
+3	World Cup qualifier
+in Estonia	-6
++6	1194
+1724	-2
+0	152
+27
+June 02
+1993	Scotland
+Estonia	3
+1	World Cup qualifier
+in Scotland	+2
+-2	1726
+1192	+1
+-1	26
+153
+July 02
+1993	Estonia
+Latvia	0
+2	Baltic Cup
+in Estonia	-18
++18	1174
+1380	-2
++2	158
+107
+July 04
+1993	Estonia
+Lithuania	2
+1	Baltic Cup
+in Estonia	+17
+-17	1191
+1305	+1
+-3	157
+126
+September 05
+1993	Estonia
+Portugal	0
+2	World Cup qualifier
+in Estonia	-3
++3	1188
+1780	-1
+0	158
+21
+September 22
+1993	Estonia
+Italy	0
+3	World Cup qualifier
+in Estonia	-2
++2	1186
+1945	0
+0	158
+2
+October 26
+1993	Liechtenstein
+Estonia	0
+2	Friendly
+in Liechtenstein	-18
++18	1135
+1204	-2
++6	166
+153
+November 10
+1993	Portugal
+Estonia	3
+0	World Cup qualifier
+in Portugal	+1
+-1	1798
+1203	0
+0	19
+153
+November 17
+1993	Switzerland
+Estonia	4
+0	World Cup qualifier
+in Switzerland	+1
+-1	1803
+1202	+2
+-1	15
+153
+March 09
+1994	Cyprus
+Estonia	2
+0	Friendly
+in Cyprus	+7
+-7	1326
+1195	+1
+-3	124
+157
+May 07
+1994	United States
+Estonia	4
+0	Friendly
+in the United States	+2
+-2	1577
+1193	+1
+0	53
+156
+May 23
+1994	Estonia
+Wales	1
+2	Friendly
+in Estonia	-2
++2	1191
+1709	-1
+0	157
+28
+June 01
+1994	Macedonia
+Estonia	2
+0	Friendly
+in Macedonia	+2
+-2	1540
+1189	0
+0	61
+157
+July 29
+1994	Lithuania
+Estonia	3
+0	Baltic Cup
+in Lithuania	+12
+-12	1318
+1177	+2
+-3	126
+160
+July 30
+1994	Latvia
+Estonia	2
+0	Baltic Cup
+in Lithuania	+11
+-11	1376
+1166	+1
+0	109
+160
+August 16
+1994	Iceland
+Estonia	4
+0	Friendly
+in Iceland	+2
+-2	1554
+1164	0
+0	57
+160
+September 04
+1994	Estonia
+Croatia	0
+2	European Cup qualifier
+in Estonia	-3
++3	1161
+1810	0
+0	160
+17
+October 08
+1994	Estonia
+Italy	0
+2	European Cup qualifier
+in Estonia	-1
++1	1160
+1978	0
+0	161
+2
+October 26
+1994	Estonia
+Finland	0
+7	Friendly
+in Estonia	-10
++10	1150
+1489	-2
++5	162
+73
+November 06
+1994	Latvia
+Estonia	0
+0	Friendly
+in Latvia	-7
++7	1340
+1157	-3
++2	120
+161
+November 13
+1994	Ukraine
+Estonia	3
+0	European Cup qualifier
+in Ukraine	+4
+-4	1534
+1153	0
+-1	63
+162
+January 04
+1995	Vietnam
+Estonia	1
+0	Friendly tournament
+in Vietnam	+13
+-13	1102
+1140	+2
+-2	176
+166
+February 06
+1995	Norway
+Estonia	7
+0	Friendly
+in Cyprus	+1
+-1	1844
+1139	0
+0	14
+166
+February 15
+1995	Cyprus
+Estonia	3
+1	Friendly
+in Cyprus	+5
+-5	1331
+1134	0
+0	124
+166
+March 25
+1995	Italy
+Estonia	4
+1	European Cup qualifier
+in Italy	0
+0	1947
+1134	0
+0	3
+166
+March 29
+1995	Slovenia
+Estonia	3
+0	European Cup qualifier
+in Slovenia	+4
+-4	1508
+1130	0
+-1	72
+168
+April 26
+1995	Estonia
+Ukraine	0
+1	European Cup qualifier
+in Estonia	-6
++6	1124
+1526	-1
++4	169
+65
+May 19
+1995	Latvia
+Estonia	2
+0	Baltic Cup
+in Latvia	+7
+-7	1336
+1117	+1
+-1	124
+170
+May 20
+1995	Lithuania
+Estonia	7
+0	Baltic Cup
+in Latvia	+9
+-9	1443
+1108	+4
+-1	91
+171
+June 11
+1995	Estonia
+Slovenia	1
+3	European Cup qualifier
+in Estonia	-10
++10	1098
+1494	-1
++2	174
+79
+August 16
+1995	Estonia
+Lithuania	0
+1	European Cup qualifier
+in Estonia	-8
++8	1090
+1444	-2
++3	176
+90
+September 03
+1995	Croatia
+Estonia	7
+1	European Cup qualifier
+in Croatia	+1
+-1	1812
+1089	0
+0	20
+176
+October 11
+1995	Lithuania
+Estonia	5
+0	European Cup qualifier
+in Lithuania	+6
+-6	1421
+1083	+2
+0	97
+176
+February 16
+1996	Estonia
+Azerbaijan	0
+0	Friendly
+in Cyprus	+6
+-6	1089
+1327	0
+-1	176
+121
+February 20
+1996	Cyprus
+Estonia	1
+0	Friendly
+in Cyprus	+2
+-2	1359
+1087	0
+0	114
+176
+February 24
+1996	Estonia
+Faroe Islands	2
+2	Friendly
+in Cyprus	+1
+-1	1088
+1135	0
+0	176
+166
+April 24
+1996	Estonia
+Iceland	0
+3	Friendly
+in Estonia	-5
++5	1083
+1524	0
++1	176
+67
+May 29
+1996	Estonia
+Turkey	0
+0	Friendly
+in Estonia	+9
+-9	1092
+1715	+1
+0	175
+27
+July 07
+1996	Estonia
+Latvia	1
+1	Baltic Cup
+in Estonia	+8
+-8	1100
+1404	+1
+-3	174
+105
+July 09
+1996	Estonia
+Lithuania	1
+1	Baltic Cup
+in Estonia	+9
+-9	1109
+1420	+4
+-4	170
+101
+August 31
+1996	Belarus
+Estonia	1
+0	World Cup qualifier
+in Belarus	+3
+-3	1423
+1106	+1
+0	97
+170
+October 05
+1996	Estonia
+Belarus	1
+0	World Cup qualifier
+in Estonia	+31
+-31	1137
+1392	+4
+-7	166
+105
+October 30
+1996	Finland
+Estonia	2
+2	Friendly
+in Finland	-8
++8	1438
+1145	-3
+0	93
+166
+November 13
+1996	Andorra
+Estonia	1
+6	Friendly
+in Andorra	-23
++23	1077
+1168	-
++5	179
+161
+November 16
+1996	Estonia
+Indonesia	3
+0	Friendly
+in Italy	+22
+-22	1190
+1248	+7
+-4	154
+143
+January 26
+1997	Lebanon
+Estonia	2
+0	Friendly
+in Lebanon	+4
+-4	1400
+1186	0
+-3	103
+158
+February 11
+1997	Estonia
+Scotland	0
+0	World Cup qualifier
+in France	+19
+-19	1205
+1761	+5
+-1	153
+23
+March 01
+1997	Estonia
+Azerbaijan	2
+0	Friendly
+in Cyprus	+20
+-20	1225
+1309	+6
+-5	148
+129
+March 29
+1997	Scotland
+Estonia	2
+0	World Cup qualifier
+in Scotland	+2
+-2	1763
+1223	0
+0	23
+146
+April 30
+1997	Austria
+Estonia	2
+0	World Cup qualifier
+in Austria	+3
+-3	1660
+1220	+3
++1	36
+147
+May 18
+1997	Estonia
+Latvia	1
+3	World Cup qualifier
+in Estonia	-24
++24	1196
+1419	-9
++7	156
+98
+June 04
+1997	Estonia
+Azerbaijan	1
+0	Friendly
+in Estonia	+10
+-10	1206
+1287	+4
+-2	151
+132
+June 08
+1997	Estonia
+Sweden	2
+3	World Cup qualifier
+in Estonia	-2
++2	1204
+1808	0
+0	151
+17
+June 22
+1997	Estonia
+Andorra	4
+1	Friendly
+in Estonia	+7
+-7	1211
+1070	+5
+0	147
+178
+July 09
+1997	Lithuania
+Estonia	2
+1	Baltic Cup
+in Lithuania	+4
+-4	1443
+1207	+3
+-2	91
+149
+July 10
+1997	Latvia
+Estonia	2
+1	Baltic Cup
+in Lithuania	+7
+-7	1411
+1200	+1
+-1	98
+150
+August 06
+1997	Estonia
+Faroe Islands	0
+2	Friendly
+in Estonia	-21
++21	1179
+1184	-10
++3	161
+158
+August 20
+1997	Estonia
+Austria	0
+3	World Cup qualifier
+in Estonia	-6
++6	1173
+1684	0
++1	161
+33
+September 06
+1997	Latvia
+Estonia	1
+0	World Cup qualifier
+in Latvia	+5
+-5	1400
+1168	0
+0	102
+161
+October 11
+1997	Sweden
+Estonia	1
+0	World Cup qualifier
+in Sweden	+1
+-1	1794
+1167	+1
+0	19
+161
+November 27
+1997	Philippines
+Estonia	0
+1	Friendly
+in the Philippines	-3
++3	739
+1170	0
++1	213
+161
+May 09
+1998	Mexico
+Estonia	6
+0	Friendly
+in Italy	+1
+-1	1837
+1169	0
+-1	15
+164
+May 16
+1998	Estonia
+Azerbaijan	0
+0	Friendly
+in Estonia	+1
+-1	1170
+1289	+1
+-1	163
+130
+June 04
+1998	Estonia
+Faroe Islands	5
+0	European Cup qualifier
+in Estonia	+30
+-30	1200
+1151	+10
+-8	153
+167
+June 22
+1998	Estonia
+Andorra	2
+1	Friendly
+in Estonia	+4
+-4	1204
+1063	+1
+0	152
+179
+June 25
+1998	Estonia
+Latvia	0
+2	Baltic Cup
+in Estonia	-20
++20	1184
+1364	-6
++6	158
+113
+June 28
+1998	Estonia
+Lithuania	0
+0	Baltic Cup
+in Estonia	+7
+-7	1191
+1459	+2
+-2	156
+83
+August 20
+1998	Estonia
+Moldova	0
+1	Friendly
+in Estonia	-9
++9	1182
+1338	-3
++1	158
+118
+September 05
+1998	Bosnia and Herzegovina
+Estonia	1
+1	European Cup qualifier
+in Bosnia and Herzegovina	-18
++18	1540
+1200	-2
++4	62
+154
+September 23
+1998	Estonia
+Egypt	2
+2	Friendly
+in Estonia	+8
+-8	1208
+1692	+2
+-1	151
+29
+October 10
+1998	Scotland
+Estonia	3
+2	European Cup qualifier
+in Scotland	+1
+-1	1684
+1207	-1
+0	34
+151
+October 14
+1998	Czechia
+Estonia	4
+1	European Cup qualifier
+in Czechia	+1
+-1	1874
+1206	0
+0	11
+151
+November 18
+1998	Georgia
+Estonia	3
+1	Friendly
+in Georgia	+2
+-2	1558
+1204	+2
+0	58
+151
+November 21
+1998	Armenia
+Estonia	2
+1	Friendly
+in Armenia	+3
+-3	1398
+1201	+1
+-1	104
+152
+November 28
+1998	Azerbaijan
+Estonia	2
+1	Friendly
+in Azerbaijan	+6
+-6	1267
+1195	+1
+-1	135
+153
+January 18
+1999	Israel
+Estonia	7
+0	Friendly tournament
+in Israel	+3
+-3	1651
+1192	0
+0	45
+152
+January 22
+1999	Estonia
+Norway	3
+3	Friendly tournament
+in Palestine	+14
+-14	1206
+1801	+2
+0	150
+16
+March 03
+1999	Romania
+Estonia	2
+0	Friendly
+in Romania	0
+0	1855
+1206	0
+0	14
+151
+March 06
+1999	Estonia
+Azerbaijan	2
+2	Friendly
+in Cyprus	+2
+-2	1208
+1265	0
+0	151
+137
+March 16
+1999	Cyprus
+Estonia	1
+2	Friendly
+in Cyprus	-18
++18	1449
+1226	-6
++5	87
+146
+March 31
+1999	Lithuania
+Estonia	1
+2	European Cup qualifier
+in Lithuania	-35
++35	1414
+1261	-10
++9	95
+137
+June 05
+1999	Estonia
+Czechia	0
+2	European Cup qualifier
+in Estonia	-3
++3	1258
+1882	-2
++1	140
+10
+June 09
+1999	Estonia
+Lithuania	1
+2	European Cup qualifier
+in Estonia	-18
++18	1240
+1416	-4
++6	143
+97
+August 18
+1999	Estonia
+Armenia	2
+0	Friendly
+in Estonia	+17
+-17	1257
+1364	+8
+-6	139
+114
+September 04
+1999	Faroe Islands
+Estonia	0
+2	European Cup qualifier
+in Faroe Islands	-32
++32	1152
+1289	-9
++9	165
+132
+September 08
+1999	Estonia
+Scotland	0
+0	European Cup qualifier
+in Estonia	+14
+-14	1303
+1666	+3
+-4	129
+38
+October 09
+1999	Estonia
+Bosnia and Herzegovina	1
+4	European Cup qualifier
+in Estonia	-29
++29	1274
+1490	-7
++11	136
+76
+October 30
+1999	Estonia
+Iraq	1
+1	Friendly tournament
+in United Arab Emirates	+12
+-12	1286
+1617	+3
+0	133
+49
+November 01
+1999	United Arab Emirates
+Estonia	2
+2	Friendly tournament
+in United Arab Emirates	-10
++10	1469
+1296	-3
++4	83
+129
+November 03
+1999	Estonia
+Turkmenistan	1
+1	Friendly tournament
+in United Arab Emirates	+4
+-4	1300
+1385	0
+-2	129
+107
+December 18
+1999	Greece
+Estonia	2
+2	Friendly
+in Greece	-9
++9	1698
+1309	-3
++1	32
+129
+February 23
+2000	Finland
+Estonia	4
+2	King's Cup
+in Thailand	+9
+-9	1557
+1300	+2
++1	60
+129
+February 25
+2000	Thailand
+Estonia	2
+1	King's Cup
+in Thailand	+5
+-5	1469
+1295	0
+-1	84
+130
+April 26
+2000	Luxembourg
+Estonia	1
+1	Friendly
+in Luxembourg	+1
+-1	1148
+1294	0
+0	166
+130
+June 04
+2000	Estonia
+Belarus	2
+0	Friendly
+in Estonia	+13
+-13	1307
+1345	+2
+-5	130
+121
+June 11
+2000	Estonia
+Georgia	1
+0	Friendly
+in Estonia	+12
+-12	1319
+1476	+3
+-4	127
+81
+August 16
+2000	Estonia
+Andorra	1
+0	World Cup qualifier
+in Estonia	+5
+-5	1324
+1061	+1
+-2	126
+180
+September 03
+2000	Estonia
+Portugal	1
+3	World Cup qualifier
+in Estonia	-3
++3	1321
+1953	-1
+0	127
+5
+October 07
+2000	Andorra
+Estonia	1
+2	World Cup qualifier
+in Andorra	-11
++11	1045
+1332	-3
++4	183
+122
+October 11
+2000	Ireland
+Estonia	2
+0	World Cup qualifier
+in Ireland	+3
+-3	1769
+1329	0
+-3	19
+123
+November 15
+2000	Estonia
+Kyrgyzstan	1
+0	Friendly
+in Estonia	+4
+-4	1333
+1166	+3
+0	121
+162
+December 10
+2000	Hong Kong
+Estonia	1
+2	Friendly
+in Hong Kong	-10
++10	1214
+1343	0
++3	149
+119
+March 19
+2001	Egypt
+Estonia	3
+3	Friendly
+in Egypt	-9
++9	1688
+1352	-3
++2	37
+120
+March 28
+2001	Cyprus
+Estonia	2
+2	World Cup qualifier
+in Cyprus	-12
++12	1468
+1364	-1
++4	80
+117
+April 25
+2001	Moldova
+Estonia	0
+0	Friendly
+in Moldova	-3
++3	1355
+1367	0
++1	121
+117
+May 09
+2001	Estonia
+Finland	1
+1	Friendly
+in Estonia	+4
+-4	1371
+1601	+3
+0	114
+56
+June 02
+2001	Estonia
+Netherlands	2
+4	World Cup qualifier
+in Estonia	-3
++3	1368
+1968	-1
++2	115
+4
+June 06
+2001	Estonia
+Ireland	0
+2	World Cup qualifier
+in Estonia	-8
++8	1360
+1808	-4
++2	118
+18
+July 03
+2001	Latvia
+Estonia	3
+1	Baltic Cup
+in Latvia	+16
+-16	1380
+1344	+6
+-4	110
+123
+July 04
+2001	Lithuania
+Estonia	5
+2	Baltic Cup
+in Latvia	+24
+-24	1400
+1320	+9
+-2	102
+125
+August 15
+2001	Estonia
+Cyprus	2
+2	World Cup qualifier
+in Estonia	+2
+-2	1322
+1461	0
+0	126
+83
+September 05
+2001	Netherlands
+Estonia	5
+0	World Cup qualifier
+in the Netherlands	+1
+-1	1961
+1321	0
+0	5
+126
+October 06
+2001	Portugal
+Estonia	5
+0	World Cup qualifier
+in Portugal	+1
+-1	1973
+1320	0
+0	4
+126
+November 10
+2001	Greece
+Estonia	4
+2	Friendly
+in Greece	+3
+-3	1634
+1317	+1
+0	48
+126
+November 14
+2001	Estonia
+Kazakhstan	0
+0	Friendly
+in Estonia	+1
+-1	1318
+1441	0
+0	126
+94
+March 14
+2002	Estonia
+Saudi Arabia	2
+0	Friendly
+in Italy	+27
+-27	1345
+1683	+7
+-6	121
+40
+March 27
+2002	Estonia
+Russia	2
+1	Friendly
+in Estonia	+18
+-18	1363
+1771	+7
+-2	115
+24
+May 18
+2002	Poland
+Estonia	1
+0	Friendly
+in Poland	+2
+-2	1700
+1361	0
+-1	39
+116
+May 21
+2002	San Marino
+Estonia	0
+1	Friendly
+in San Marino	-3
++3	926
+1364	-2
++2	196
+114
+July 03
+2002	Estonia
+Azerbaijan	0
+0	Friendly
+in Estonia	-5
++5	1359
+1261	-2
++3	116
+141
+July 07
+2002	Kazakhstan
+Estonia	1
+1	Friendly
+in Kazakhstan	-5
++5	1428
+1364	-1
++1	96
+114
+August 21
+2002	Estonia
+Moldova	1
+0	Friendly
+in Estonia	+6
+-6	1370
+1315	+2
+0	113
+129
+September 07
+2002	Croatia
+Estonia	0
+0	European Cup qualifier
+in Croatia	-18
++18	1788
+1388	-4
++5	21
+110
+October 12
+2002	Estonia
+New Zealand	3
+2	Friendly
+in Estonia	+13
+-13	1401
+1595	+3
+-3	108
+55
+October 16
+2002	Estonia
+Belgium	0
+1	European Cup qualifier
+in Estonia	-8
++8	1393
+1755	-2
+0	111
+28
+November 20
+2002	Estonia
+Iceland	2
+0	Friendly
+in Estonia	+16
+-16	1409
+1507	+10
+-4	102
+69
+February 09
+2003	Ecuador
+Estonia	1
+0	Friendly
+in Ecuador	+2
+-2	1700
+1407	0
+0	36
+102
+February 12
+2003	Ecuador
+Estonia	2
+1	Friendly
+in Ecuador	+2
+-2	1702
+1405	0
+-2	36
+104
+February 16
+2003	China
+Estonia	1
+0	Friendly
+in China	+3
+-3	1604
+1402	0
+-1	54
+105
+March 29
+2003	Estonia
+Canada	2
+1	Friendly
+in Estonia	+13
+-13	1415
+1604	+4
+-5	100
+55
+April 02
+2003	Estonia
+Bulgaria	0
+0	European Cup qualifier
+in Estonia	+11
+-11	1426
+1718	+5
+0	95
+32
+April 30
+2003	Andorra
+Estonia	0
+2	European Cup qualifier
+in Andorra	-11
++11	1051
+1437	-3
++1	180
+93
+June 07
+2003	Estonia
+Andorra	2
+0	European Cup qualifier
+in Estonia	+3
+-3	1440
+1048	+2
+-3	91
+183
+June 11
+2003	Estonia
+Croatia	0
+1	European Cup qualifier
+in Estonia	-7
++7	1433
+1806	-2
+0	94
+19
+July 03
+2003	Estonia
+Lithuania	1
+5	Baltic Cup
+in Estonia	-42
++42	1391
+1392	-14
++16	107
+106
+July 05
+2003	Estonia
+Latvia	0
+0	Baltic Cup
+in Estonia	-2
++2	1389
+1442	+1
+0	105
+92
+August 20
+2003	Estonia
+Poland	1
+2	Friendly
+in Estonia	-5
++5	1384
+1664	-3
++1	109
+39
+September 06
+2003	Bulgaria
+Estonia	2
+0	European Cup qualifier
+in Bulgaria	+4
+-4	1725
+1380	+1
+0	28
+109
+October 11
+2003	Belgium
+Estonia	2
+0	European Cup qualifier
+in Belgium	+3
+-3	1774
+1377	0
+-1	21
+112
+November 15
+2003	Albania
+Estonia	2
+0	Friendly
+in Albania	+8
+-8	1472
+1369	+3
+-4	82
+115
+November 19
+2003	Hungary
+Estonia	0
+1	Friendly
+in Hungary	-16
++16	1493
+1385	-5
++7	80
+107
+December 17
+2003	Saudi Arabia
+Estonia	1
+1	Friendly
+in Saudi Arabia	-7
++7	1615
+1392	-1
++1	52
+107
+December 20
+2003	Oman
+Estonia	3
+1	Friendly
+in Oman	+6
+-6	1536
+1386	+1
+-1	67
+108
+February 16
+2004	Malta
+Estonia	5
+2	Friendly tournament
+in Malta	+33
+-33	1232
+1353	+6
+-11	149
+120
+February 18
+2004	Estonia
+Moldova	1
+0	Friendly tournament
+in Malta	+16
+-16	1369
+1357	+8
+-6	112
+116
+March 31
+2004	Estonia
+Northern Ireland	0
+1	Friendly
+in Estonia	-11
++11	1358
+1435	-4
++6	116
+94
+April 28
+2004	Estonia
+Albania	1
+1	Friendly
+in Estonia	+1
+-1	1359
+1495	+1
++1	116
+76
+May 27
+2004	Estonia
+Scotland	0
+1	Friendly
+in Estonia	-6
++6	1353
+1627	-5
++1	121
+49
+May 30
+2004	Estonia
+Denmark	2
+2	Friendly
+in Estonia	+8
+-8	1361
+1853	+7
+-1	113
+11
+June 06
+2004	Czechia
+Estonia	2
+0	Friendly
+in Czechia	+1
+-1	1923
+1360	0
+0	6
+115
+June 11
+2004	Estonia
+Macedonia	2
+4	Friendly
+in Estonia	-15
++15	1345
+1476	-9
++2	124
+81
+August 18
+2004	Liechtenstein
+Estonia	1
+2	World Cup qualifier
+in Liechtenstein	-10
++10	1034
+1355	-2
++3	186
+118
+September 04
+2004	Estonia
+Luxembourg	4
+0	World Cup qualifier
+in Estonia	+6
+-6	1361
+1034	+6
+-1	112
+185
+September 08
+2004	Portugal
+Estonia	4
+0	World Cup qualifier
+in Portugal	+2
+-2	1871
+1359	0
+-1	9
+114
+October 13
+2004	Latvia
+Estonia	2
+2	World Cup qualifier
+in Latvia	-11
++11	1454
+1370	-1
++3	90
+111
+November 17
+2004	Russia
+Estonia	4
+0	World Cup qualifier
+in Russia	+5
+-5	1734
+1365	0
++1	30
+111
+November 30
+2004	Thailand
+Estonia	0
+0	King's Cup
+in Thailand	-3
++3	1344
+1368	0
++1	119
+110
+December 02
+2004	Hungary
+Estonia	5
+0	King's Cup
+in Thailand	+15
+-15	1575
+1353	+5
+-6	61
+116
+February 09
+2005	Venezuela
+Estonia	3
+0	Friendly
+in Venezuela	+4
+-4	1604
+1349	+3
+0	52
+116
+March 26
+2005	Estonia
+Slovakia	1
+2	World Cup qualifier
+in Estonia	-10
++10	1339
+1643	-4
++1	120
+48
+March 30
+2005	Estonia
+Russia	1
+1	World Cup qualifier
+in Estonia	+14
+-14	1353
+1716	+4
+-2	115
+31
+April 20
+2005	Estonia
+Norway	1
+2	Friendly
+in Estonia	-3
++3	1350
+1759	0
++1	114
+25
+June 04
+2005	Estonia
+Liechtenstein	2
+0	World Cup qualifier
+in Estonia	+7
+-7	1357
+1077	+2
+-2	112
+177
+June 08
+2005	Estonia
+Portugal	0
+1	World Cup qualifier
+in Estonia	-3
++3	1354
+1873	-1
++2	112
+10
+August 17
+2005	Estonia
+Bosnia and Herzegovina	1
+0	Friendly
+in Estonia	+14
+-14	1368
+1576	+5
+-4	107
+60
+September 03
+2005	Estonia
+Latvia	2
+1	World Cup qualifier
+in Estonia	+19
+-19	1387
+1434	+3
+-4	104
+93
+October 08
+2005	Slovakia
+Estonia	1
+0	World Cup qualifier
+in Slovakia	+5
+-5	1648
+1382	+2
++2	48
+102
+October 12
+2005	Luxembourg
+Estonia	0
+2	World Cup qualifier
+in Luxembourg	-8
++8	949
+1390	0
++1	191
+101
+November 12
+2005	Finland
+Estonia	2
+2	Friendly
+in Finland	-8
++8	1630
+1398	-2
++2	54
+99
+November 16
+2005	Poland
+Estonia	3
+1	Friendly
+in Poland	+1
+-1	1812
+1397	+1
+0	16
+99
+March 01
+2006	Northern Ireland
+Estonia	1
+0	Friendly
+in Northern Ireland	+5
+-5	1473
+1392	-2
+-1	86
+101
+May 28
+2006	Estonia
+Turkey	1
+1	Friendly
+in Germany	+8
+-8	1400
+1789	0
+-2	100
+21
+May 31
+2006	Estonia
+New Zealand	1
+1	Friendly
+in Estonia	+1
+-1	1401
+1530	0
+-1	101
+73
+August 16
+2006	Estonia
+Macedonia	0
+1	European Cup qualifier
+in Estonia	-21
++21	1380
+1498	-4
++3	103
+78
+September 02
+2006	Estonia
+Israel	0
+1	European Cup qualifier
+in Estonia	-10
++10	1370
+1689	-2
++2	105
+40
+October 11
+2006	Russia
+Estonia	2
+0	European Cup qualifier
+in Russia	+4
+-4	1724
+1366	+1
+0	33
+107
+November 15
+2006	Estonia
+Belarus	2
+1	Friendly
+in Estonia	+12
+-12	1378
+1528	+4
+-6	104
+74
+February 03
+2007	Poland
+Estonia	4
+0	Friendly
+in Spain	+4
+-4	1755
+1374	+1
+0	27
+104
+February 07
+2007	Slovenia
+Estonia	1
+0	Friendly
+in Slovenia	+4
+-4	1535
+1370	+2
+-2	69
+106
+March 24
+2007	Estonia
+Russia	0
+2	European Cup qualifier
+in Estonia	-10
++10	1360
+1750	-6
++3	112
+28
+March 28
+2007	Israel
+Estonia	4
+0	European Cup qualifier
+in Israel	+6
+-6	1694
+1354	0
+-4	42
+116
+June 02
+2007	Estonia
+Croatia	0
+1	European Cup qualifier
+in Estonia	-3
++3	1351
+1880	+1
+0	115
+10
+June 06
+2007	Estonia
+England	0
+3	European Cup qualifier
+in Estonia	-5
++5	1346
+1917	-1
+0	116
+7
+August 22
+2007	Estonia
+Andorra	2
+1	European Cup qualifier
+in Estonia	+4
+-4	1350
+1070	+2
+-2	116
+180
+September 08
+2007	Croatia
+Estonia	2
+0	European Cup qualifier
+in Croatia	+2
+-2	1878
+1348	0
++1	11
+114
+September 12
+2007	Macedonia
+Estonia	1
+1	European Cup qualifier
+in Macedonia	-12
++12	1479
+1360	-5
++1	83
+114
+October 13
+2007	England
+Estonia	3
+0	European Cup qualifier
+in England	+1
+-1	1930
+1359	0
+0	7
+114
+October 17
+2007	Estonia
+Montenegro	0
+1	Friendly
+in Estonia	-7
++7	1352
+1584	-2
+0	116
+59
+November 09
+2007	Saudi Arabia
+Estonia	2
+0	Friendly
+in Saudi Arabia	+2
+-2	1696
+1350	0
+0	39
+117
+November 17
+2007	Andorra
+Estonia	0
+2	European Cup qualifier
+in Andorra	-15
++15	1050
+1365	-1
++6	182
+111
+November 21
+2007	Uzbekistan
+Estonia	0
+0	Friendly
+in Uzbekistan	-7
++7	1568
+1372	0
++1	61
+110
+February 27
+2008	Poland
+Estonia	2
+0	Friendly
+in Poland	+1
+-1	1786
+1371	0
+0	19
+111
+March 26
+2008	Estonia
+Canada	2
+0	Friendly
+in Estonia	+21
+-21	1392
+1594	+5
+-4	106
+56
+May 27
+2008	Estonia
+Georgia	1
+1	Friendly
+in Estonia	-1
++1	1391
+1475	0
+0	106
+88
+May 30
+2008	Latvia
+Estonia	1
+0	Baltic Cup
+in Latvia	+8
+-8	1485
+1383	0
+-2	87
+107
+May 31
+2008	Lithuania
+Estonia	1
+0	Baltic Cup
+in Latvia	+8
+-8	1559
+1375	+4
+-2	63
+109
+June 04
+2008	Estonia
+Faroe Islands	4
+3	Friendly
+in Estonia	+2
+-2	1377
+1121	0
+0	110
+173
+August 20
+2008	Estonia
+Malta	2
+1	Friendly
+in Estonia	+4
+-4	1381
+1216	-1
+0	115
+153
+September 06
+2008	Belgium
+Estonia	3
+2	World Cup qualifier
+in Belgium	+6
+-6	1596
+1375	-1
+0	55
+115
+September 10
+2008	Bosnia and Herzegovina
+Estonia	7
+0	World Cup qualifier
+in Bosnia and Herzegovina	+19
+-19	1521
+1356	+5
+-3	79
+118
+October 11
+2008	Estonia
+Spain	0
+3	World Cup qualifier
+in Estonia	-2
++2	1354
+2063	-2
+0	119
+1
+October 15
+2008	Estonia
+Turkey	0
+0	World Cup qualifier
+in Estonia	+15
+-15	1369
+1793	+2
+-2	117
+18
+November 12
+2008	Estonia
+Latvia	1
+1	Friendly
+in Estonia	+1
+-1	1370
+1504	0
+-1	117
+82
+November 18
+2008	Estonia
+Moldova	1
+0	Friendly
+in Estonia	+8
+-8	1378
+1399	+1
+-5	116
+109
+November 22
+2008	Estonia
+Lithuania	1
+1	Friendly
+in Estonia	+4
+-4	1382
+1604	+1
+-2	115
+54
+February 11
+2009	Kazakhstan
+Estonia	2
+0	Friendly
+in Turkey	+17
+-17	1344
+1365	+3
+-5	123
+120
+March 28
+2009	Armenia
+Estonia	2
+2	World Cup qualifier
+in Armenia	-7
++7	1380
+1372	-3
++3	116
+117
+April 01
+2009	Estonia
+Armenia	1
+0	World Cup qualifier
+in Estonia	+15
+-15	1387
+1365	+5
+-4	112
+120
+May 29
+2009	Wales
+Estonia	1
+0	Friendly
+in Wales	+3
+-3	1571
+1384	0
+0	59
+113
+June 06
+2009	Estonia
+Equatorial Guinea	3
+0	Friendly
+in Estonia	+6
+-6	1390
+1211	+3
+0	110
+153
+June 10
+2009	Estonia
+Portugal	0
+0	Friendly
+in Estonia	+7
+-7	1397
+1794	+4
+-2	106
+15
+August 12
+2009	Estonia
+Brazil	0
+1	Friendly
+in Estonia	-1
++1	1396
+2102	-1
+0	107
+1
+September 05
+2009	Turkey
+Estonia	4
+2	World Cup qualifier
+in Turkey	+3
+-3	1803
+1393	+1
+-1	13
+108
+September 09
+2009	Spain
+Estonia	3
+0	World Cup qualifier
+in Spain	+1
+-1	2050
+1392	0
+0	2
+107
+October 10
+2009	Estonia
+Bosnia and Herzegovina	0
+2	World Cup qualifier
+in Estonia	-19
++19	1373
+1645	-8
++3	115
+47
+October 14
+2009	Estonia
+Belgium	2
+0	World Cup qualifier
+in Estonia	+38
+-38	1411
+1531	+11
+-12	104
+72
+November 14
+2009	Estonia
+Albania	0
+0	Friendly
+in Estonia	-2
++2	1409
+1454	-3
+0	107
+93
+December 30
+2009	Estonia
+Angola	1
+0	Friendly
+in Portugal	+13
+-13	1422
+1487	+4
+-3	100
+87
+March 03
+2010	Georgia
+Estonia	2
+1	Friendly
+in Georgia	+8
+-8	1408
+1414	-1
+-6	108
+106
+May 21
+2010	Estonia
+Finland	2
+0	Friendly
+in Estonia	+20
+-20	1434
+1621	+8
+-2	98
+50
+May 26
+2010	Estonia
+Croatia	0
+0	Friendly
+in Estonia	+8
+-8	1442
+1866	+4
+0	94
+9
+June 19
+2010	Estonia
+Latvia	0
+0	Baltic Cup
+in Lithuania	+4
+-4	1446
+1537	+1
+-1	93
+77
+June 20
+2010	Lithuania
+Estonia	2
+0	Baltic Cup
+in Lithuania	+11
+-11	1558
+1435	+2
+-5	69
+98
+August 11
+2010	Estonia
+Faroe Islands	2
+1	European Cup qualifier
+in Estonia	+4
+-4	1439
+1170	+2
+-2	96
+164
+September 03
+2010	Estonia
+Italy	1
+2	European Cup qualifier
+in Estonia	-7
++7	1432
+1820	-3
+0	99
+14
+September 07
+2010	Estonia
+Uzbekistan	3
+3	Friendly
+in Estonia	-2
++2	1430
+1481	-2
++1	101
+90
+October 08
+2010	Serbia
+Estonia	1
+3	European Cup qualifier
+in Serbia	-55
++55	1704
+1485	-11
++12	32
+89
+October 12
+2010	Estonia
+Slovenia	0
+1	European Cup qualifier
+in Estonia	-15
++15	1470
+1682	-3
++3	91
+38
+November 17
+2010	Estonia
+Liechtenstein	1
+1	Friendly
+in Estonia	-8
++8	1462
+1142	-3
++1	95
+170
+December 18
+2010	China
+Estonia	3
+0	Friendly
+in China	+7
+-7	1617
+1455	0
+-2	52
+98
+December 22
+2010	Qatar
+Estonia	2
+0	Friendly
+in Qatar	+9
+-9	1514
+1446	+4
+0	79
+98
+February 09
+2011	Estonia
+Bulgaria	2
+2	Friendly
+in Turkey	+6
+-6	1452
+1668	+2
+-2	96
+41
+March 25
+2011	Estonia
+Uruguay	2
+0	Friendly
+in Estonia	+26
+-26	1478
+1839	+3
+-1	93
+10
+March 29
+2011	Estonia
+Serbia	1
+1	European Cup qualifier
+in Estonia	+9
+-9	1487
+1730	+2
+0	90
+28
+June 03
+2011	Italy
+Estonia	3
+0	European Cup qualifier
+in Italy	+5
+-5	1855
+1482	0
+-1	10
+91
+June 07
+2011	Faroe Islands
+Estonia	2
+0	European Cup qualifier
+in Faroe Islands	+47
+-47	1200
+1435	+9
+-7	157
+98
+June 19
+2011	Chile
+Estonia	4
+0	Friendly
+in Chile	+2
+-2	1884
+1433	0
+-1	8
+99
+June 23
+2011	Uruguay
+Estonia	3
+0	Friendly
+in Uruguay	+2
+-2	1852
+1431	0
+0	11
+99
+August 10
+2011	Turkey
+Estonia	3
+0	Friendly
+in Turkey	+3
+-3	1760
+1428	0
+0	23
+99
+September 02
+2011	Slovenia
+Estonia	1
+2	European Cup qualifier
+in Slovenia	-35
++35	1621
+1463	-11
++6	56
+92
+September 06
+2011	Estonia
+Northern Ireland	4
+1	European Cup qualifier
+in Estonia	+27
+-27	1490
+1455	+8
+-8	85
+97
+October 07
+2011	Northern Ireland
+Estonia	1
+2	European Cup qualifier
+in Northern Ireland	-24
++24	1431
+1514	-2
++8	99
+77
+October 11
+2011	Estonia
+Ukraine	0
+2	Friendly
+in Estonia	-11
++11	1503
+1732	-3
++1	81
+31
+November 11
+2011	Estonia
+Ireland	0
+4	European Cup qualifier
+in Estonia	-21
++21	1482
+1793	-6
++4	87
+19
+November 15
+2011	Ireland
+Estonia	1
+1	European Cup qualifier
+in Ireland	-17
++17	1776
+1499	-1
++2	20
+85
+February 29
+2012	Estonia
+El Salvador	2
+0	Friendly
+in the United States	+18
+-18	1517
+1553	+6
+-7	78
+70
+May 25
+2012	Croatia
+Estonia	3
+1	Friendly
+in Croatia	+2
+-2	1848
+1515	0
+-1	11
+80
+May 28
+2012	Ukraine
+Estonia	4
+0	Friendly
+in Austria	+8
+-8	1759
+1507	+1
+-4	25
+84
+June 01
+2012	Estonia
+Finland	1
+2	Baltic Cup
+in Estonia	-16
++16	1491
+1602	-4
++2	88
+56
+June 03
+2012	Estonia
+Lithuania	1
+0	Baltic Cup
+in Estonia	+9
+-9	1500
+1445	-1
+0	89
+95
+June 05
+2012	France
+Estonia	4
+0	Friendly
+in France	+3
+-3	1841
+1497	0
+0	12
+89
+August 15
+2012	Estonia
+Poland	1
+0	Friendly
+in Estonia	+12
+-12	1509
+1658	+4
+-4	83
+43
+September 07
+2012	Estonia
+Romania	0
+2	World Cup qualifier
+in Estonia	-23
++23	1486
+1716	-6
++6	88
+30
+September 11
+2012	Turkey
+Estonia	3
+0	World Cup qualifier
+in Turkey	+9
+-9	1728
+1477	0
+-2	27
+89
+October 12
+2012	Estonia
+Hungary	0
+1	World Cup qualifier
+in Estonia	-16
++16	1461
+1655	-4
++3	94
+42
+October 16
+2012	Andorra
+Estonia	0
+1	World Cup qualifier
+in Andorra	-4
++4	973
+1465	0
++1	188
+91
+November 08
+2012	Oman
+Estonia	1
+2	Friendly
+in Oman	-15
++15	1532
+1480	-2
++3	75
+89
+November 14
+2012	United Arab Emirates
+Estonia	2
+1	Friendly
+in United Arab Emirates	+8
+-8	1455
+1472	+2
+-3	93
+92
+February 06
+2013	Scotland
+Estonia	1
+0	Friendly
+in Scotland	+4
+-4	1632
+1468	+2
+0	48
+90
+March 22
+2013	Netherlands
+Estonia	3
+0	World Cup qualifier
+in the Netherlands	+2
+-2	1968
+1466	0
+-1	5
+92
+March 26
+2013	Estonia
+Andorra	2
+0	World Cup qualifier
+in Estonia	+2
+-2	1468
+966	0
+0	92
+191
+June 03
+2013	Estonia
+Belarus	0
+2	Friendly
+in Estonia	-15
++15	1453
+1591	-4
++6	96
+57
+June 07
+2013	Estonia
+Trinidad and Tobago	1
+0	Friendly
+in Estonia	+6
+-6	1459
+1405	+5
+0	91
+103
+June 11
+2013	Estonia
+Kyrgyzstan	1
+1	Friendly
+in Estonia	-8
++8	1451
+1147	-3
++2	95
+168
+August 14
+2013	Estonia
+Latvia	1
+1	Friendly
+in Estonia	-3
++3	1448
+1450	-2
++1	96
+95
+September 06
+2013	Estonia
+Netherlands	2
+2	World Cup qualifier
+in Estonia	+17
+-17	1465
+1966	+6
+0	90
+5
+September 10
+2013	Hungary
+Estonia	5
+1	World Cup qualifier
+in Hungary	+12
+-12	1657
+1453	+2
+-3	43
+95
+October 11
+2013	Estonia
+Turkey	0
+2	World Cup qualifier
+in Estonia	-20
++20	1433
+1696	-4
++6	99
+35
+October 15
+2013	Romania
+Estonia	2
+0	World Cup qualifier
+in Romania	+7
+-7	1693
+1426	+5
+-1	34
+101
+November 15
+2013	Estonia
+Azerbaijan	2
+1	Friendly
+in Estonia	+7
+-7	1433
+1423	+3
+-1	98
+101
+November 19
+2013	Liechtenstein
+Estonia	0
+3	Friendly
+in Liechtenstein	-10
++10	1152
+1443	0
++1	165
+97
+March 05
+2014	Gibraltar
+Estonia	0
+2	Friendly
+in Gibraltar	-6
++6	1091
+1449	-1
++1	177
+96

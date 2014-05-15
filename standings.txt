@@ -1,0 +1,213 @@
+1	 Spain	1460	0		
+2	 Germany	1340	0		
+3	 Portugal	1245	0		
+4	 Brazil	1210	2		
+5	 Colombia	1186	-1		
+6	 Uruguay	1181	-1		
+7	 Argentina	1178	-1		
+8	 Switzerland	1161	0		
+9	 Italy	1115	0		
+10	 Greece	1082	0		
+11	 England	1043	0		
+12	 Belgium	1039	0		
+13	 Chile	1037	1		
+14	 USA	1015	-1		
+15	 Netherlands	967	0		
+16	 France	935	0		
+17	 Ukraine	913	0		
+18	 Russia	903	0		
+19	 Mexico	877	0		
+20	 Croatia	871	0		
+21	 Côte d'Ivoire	830	0		
+22	 Scotland	825	0		
+23	 Denmark	819	0		
+24	 Egypt	798	0		
+25	 Bosnia and Herzegovina	795	0		
+25	 Sweden	795	0		
+25	 Algeria	795	0		
+28	 Ecuador	794	0		
+29	 Slovenia	787	0		
+30	 Serbia	759	0		
+30	 Honduras	759	2		
+32	 Romania	756	-1		
+33	 Armenia	750	0		
+34	 Costa Rica	748	0		
+35	 Panama	739	0		
+36	 Czech Republic	731	0		
+37	 Iran	715	0		
+38	 Ghana	713	0		
+39	 Turkey	711	0		
+40	 Austria	673	0		
+41	 Venezuela	666	0		
+42	 Peru	665	1		
+42	 Cape Verde Islands	665	0		
+44	 Nigeria	631	1		
+45	 Hungary	623	-1		
+46	 Slovakia	616	0		
+47	 Japan	613	0		
+47	 Wales	613	0		
+49	 Tunisia	597	0		
+50	 Cameroon	583	0		
+51	 Guinea	580	0		
+52	 Finland	578	0		
+53	 Uzbekistan	577	0		
+54	 Montenegro	555	0		
+55	 Korea Republic	551	1		
+55	 Norway	551	1		
+55	 Paraguay	551	-1		
+58	 Iceland	546	0		
+59	 Mali	545	0		
+59	 Australia	545	0		
+61	 Burkina Faso	528
+61	 Burkina Faso	528	0		
+62	 Libya	522	0		
+63	 Senegal	511	0		
+64	 Jordan	510	0		
+65	 South Africa	507	1		
+66	 Republic of Ireland	504	-1		
+67	 United Arab Emirates	499	0		
+68	 Bolivia	497	0		
+69	 El Salvador	488	0		
+70	 Albania	486	0		
+71	 Sierra Leone	484	0		
+72	 Poland	479	0		
+73	 Bulgaria	460	0		
+74	 Trinidad and Tobago	457	2		
+75	 Saudi Arabia	455	0		
+76	 Morocco	454	0		
+77	 Haiti	452	2		
+78	 Israel	450	0		
+79	 Zambia	448	-5		
+80	 FYR Macedonia	443	0		
+81	 Jamaica	420	1		
+82	 Oman	418	-1		
+83	 Belarus	404	0		
+84	 Northern Ireland	400	0		
+85	 Azerbaijan	398	0		
+86	 Uganda	395	0		
+87	 Gabon	386	0		
+88	 Congo DR	380	0		
+89	 Togo	374	0		
+90	 Cuba	371	0		
+91	 Botswana	369	0		
+91	 Botswana	369	0		
+92	 Congo	367	0		
+93	 Estonia	366	0		
+94	 Angola	347	0		
+95	 Qatar	338	0		
+96	 China PR	333	0		
+97	 Benin	332	0		
+98	 Zimbabwe	327	0		
+99	 Moldova	325	0		
+100	 Iraq	321	0		
+101	 Ethiopia	319	0		
+102	 Niger	315	0		
+103	 Georgia	303	0		
+104	 Lithuania	293	0		
+105	 Bahrain	289	0		
+106	 Kenya	284	0		
+106	 Central African Republic	284	0		
+108	 Kuwait	283	0		
+109	 Latvia	273	0		
+110	 Canada	272	0		
+111	 New Zealand	271	0		
+112	 Luxembourg	266	0		
+113	 Equatorial Guinea	261	0		
+114	 Mozambique	251	0		
+114	 Lebanon	251	1		
+116	 Vietnam	242	0		
+117	 Sudan	241	0		
+118	 Kazakhstan	235	0		
+119	 Liberia	234	0		
+120	 Namibia	233	0		
+121	 Tajikistan	229	12		
+121	 Tajikistan	229	12		
+122	 Malawi	227	-1		
+122	 Tanzania	227	0		
+124	 Guatemala	223	0		
+125	 Burundi	215	0		
+126	 Dominican Republic	212	0		
+126	 St. Vincent and the Grenadines	212	9		
+128	 Malta	204	-1		
+128	 Afghanistan	204	-6		
+130	 Cyprus	201	-2		
+131	 Suriname	197	-2		
+131	 Rwanda	197	-2		
+133	 St. Lucia	191	8		
+134	 Gambia	190	-3		
+134	 Syria	190	-3		
+136	 Grenada	188	-2		
+137	 Korea DPR	175	0		
+138	 New Caledonia	174	-2		
+139	 Mauritania	165	13		
+140	 Philippines	161	3		
+141	 Lesotho	159	-3		
+142	 Antigua and Barbuda	158	-3		
+143	 Thailand	156	-3		
+144	 Belize	152	-1		
+145	 Malaysia	149	-3		
+146	 Kyrgyzstan	148	1		
+147	 Singapore	144	-2		
+147	 India	144	-2		
+149	 Puerto Rico	143	-2		
+150	 Liechtenstein	139	-1		
+151	 Guyana	137	-1		
+151	 Guyana	137	-1		
+152	 Indonesia	135	-1		
+153	 Maldives	124	0		
+153	 St. Kitts and Nevis	124	0		
+155	 Aruba	122	0		
+156	 Turkmenistan	119	0		
+157	 Tahiti	116	0		
+158	 Hong Kong	111	0		
+159	 Pakistan	102	2		
+159	 Nepal	102	0		
+161	 Barbados	101	1		
+162	 Bangladesh	98	1		
+163	 Dominica	93	-3		
+164	 Faroe Islands	91	0		
+165	 Chad	88	4		
+165	 Palestine	88	-1		
+167	 São Tomé e Príncipe	86	-1		
+168	 Nicaragua	84	-1		
+169	 Bermuda	83	-1		
+170	 Chinese Taipei	78	0		
+171	 Guam	77	0		
+172	 Solomon Islands	75	0		
+173	 Sri Lanka	73	0		
+173	 Laos	73	1		
+173	 Myanmar	73	1		
+176	 Seychelles	66	1		
+177	 Curaçao	65	1		
+178	 Swaziland	64	1		
+179	 Yemen	63	1		
+180	 Mauritius	55	-4		
+180	 Vanuatu	55	1		
+182	 Fiji	47	0		
+183	 Samoa	45	0		
+184	 Comoros	43	0		
+184	 Guinea-Bissau	43	0		
+186	 Bahamas	40	0		
+187	 Mongolia	35	0		
+188	 Montserrat	33	0		
+189	 Madagascar	32	0		
+190	 Cambodia	28	0		
+191	 Brunei Darussalam	26	0		
+191	 Timor-Leste	26	0		
+191	 Tonga	26	0		
+194	 US Virgin Islands	23	0		
+195	 Cayman Islands	21	0		
+195	 Papua New Guinea	21	0		
+197	 British Virgin Islands	18	0		
+197	 American Samoa	18	0		
+199	 Andorra	16	0		
+200	 Eritrea	11	0		
+201	 South Sudan	10	0		
+202	 Somalia	8	0		
+202	 Macau	8	0		
+204	 Djibouti	6	0		
+205	 Cook Islands	5	0		
+206	 Anguilla	3	0		
+207	 Bhutan	0	0		
+207	 San Marino	0	0		
+207	 Turks and Caicos Islands	0	0

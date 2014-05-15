@@ -1,0 +1,1782 @@
+June 19
+1991	Slovenia
+Croatia	0
+1	Friendly
+in Slovenia	-5
++5	1495
+1812	-
+0	66
+15
+June 03
+1992	Estonia
+Slovenia	1
+1	Friendly
+in Estonia	+5
+-5	1223
+1490	+2
+0	138
+69
+November 18
+1992	Cyprus
+Slovenia	1
+1	Friendly
+in Cyprus	+3
+-3	1286
+1487	+2
+-1	125
+73
+April 07
+1993	Slovenia
+Estonia	2
+0	Friendly
+in Slovenia	+3
+-3	1490
+1219	+2
+0	75
+148
+October 13
+1993	Slovenia
+Macedonia	1
+4	Friendly
+in Slovenia	-22
++22	1468
+1522	-9
+-	85
+64
+November 16
+1993	Slovakia
+Slovenia	2
+0	Friendly
+in Slovakia	+7
+-7	1569
+1461	+2
+-3	54
+87
+February 08
+1994	Slovenia
+Georgia	1
+0	Rothmans Tournament
+in Malta	+15
+-15	1476
+1457	+5
+-5	79
+84
+February 10
+1994	Slovenia
+Tunisia	2
+2	Rothmans Tournament
+in Malta	+6
+-6	1482
+1614	0
+-2	79
+47
+February 12
+1994	Malta
+Slovenia	0
+1	Rothmans Tournament
+in Malta	-13
++13	1333
+1495	-3
++2	121
+77
+March 23
+1994	Macedonia
+Slovenia	2
+0	Friendly
+in Macedonia	+10
+-10	1532
+1485	+2
+-4	65
+79
+April 06
+1994	Hungary
+Slovenia	0
+1	Friendly
+in Hungary	-16
++16	1588
+1501	-2
++7	51
+74
+April 27
+1994	Slovenia
+Cyprus	3
+0	Friendly
+in Slovenia	+6
+-6	1507
+1320	+1
+-2	72
+125
+June 01
+1994	Romania
+Slovenia	0
+0	Friendly
+in Romania	-8
++8	1782
+1515	0
+0	21
+70
+September 07
+1994	Slovenia
+Italy	1
+1	European Cup qualifier
+in Slovenia	+16
+-16	1531
+1977	+6
+0	65
+2
+October 12
+1994	Ukraine
+Slovenia	0
+0	European Cup qualifier
+in Ukraine	-6
++6	1530
+1537	0
++3	64
+63
+November 16
+1994	Slovenia
+Lithuania	1
+2	European Cup qualifier
+in Slovenia	-33
++33	1504
+1414	-9
++6	71
+102
+March 29
+1995	Slovenia
+Estonia	3
+0	European Cup qualifier
+in Slovenia	+4
+-4	1508
+1130	0
+-1	72
+168
+April 26
+1995	Croatia
+Slovenia	2
+0	European Cup qualifier
+in Croatia	+5
+-5	1842
+1503	+1
+-2	16
+75
+June 07
+1995	Lithuania
+Slovenia	2
+1	European Cup qualifier
+in Lithuania	+19
+-19	1439
+1484	+5
+-5	92
+81
+June 11
+1995	Estonia
+Slovenia	1
+3	European Cup qualifier
+in Estonia	-10
++10	1098
+1494	-1
++2	174
+79
+September 06
+1995	Italy
+Slovenia	1
+0	European Cup qualifier
+in Italy	+2
+-2	1947
+1492	0
++1	3
+76
+October 11
+1995	Slovenia
+Ukraine	3
+2	European Cup qualifier
+in Slovenia	+20
+-20	1512
+1566	+5
+-3	71
+52
+November 15
+1995	Slovenia
+Croatia	1
+2	European Cup qualifier
+in Slovenia	-10
++10	1502
+1824	0
++4	70
+14
+December 06
+1995	Mexico
+Slovenia	1
+2	Friendly
+in Mexico	-18
++18	1771
+1520	-2
++1	23
+71
+February 07
+1996	Slovenia
+Iceland	7
+1	Rothmans Tournament
+in Malta	+34
+-34	1554
+1508	+5
+-8	62
+71
+February 09
+1996	Malta
+Slovenia	0
+0	Rothmans Tournament
+in Malta	+7
+-7	1290
+1547	0
+0	132
+62
+February 11
+1996	Russia
+Slovenia	3
+1	Rothmans Tournament
+in Malta	+7
+-7	1859
+1540	+1
+-1	9
+63
+March 27
+1996	Poland
+Slovenia	0
+0	Friendly
+in Poland	-5
++5	1627
+1545	-2
++1	41
+62
+April 24
+1996	Greece
+Slovenia	2
+0	World Cup qualifier
+in Greece	+20
+-20	1585
+1525	+5
+-4	51
+66
+May 21
+1996	Slovenia
+United Arab Emirates	2
+2	Friendly
+in Slovenia	-2
++2	1523
+1551	-1
+0	66
+60
+September 01
+1996	Slovenia
+Denmark	0
+2	World Cup qualifier
+in Slovenia	-10
++10	1513
+1913	-3
+0	72
+6
+November 10
+1996	Slovenia
+Bosnia and Herzegovina	1
+2	World Cup qualifier
+in Slovenia	-27
++27	1486
+1516	-10
++7	81
+71
+March 18
+1997	Austria
+Slovenia	0
+2	Friendly
+in Austria	-26
++26	1672
+1512	-4
++6	32
+71
+April 02
+1997	Croatia
+Slovenia	3
+3	World Cup qualifier
+in Croatia	-17
++17	1819
+1529	-1
++5	13
+66
+April 30
+1997	Denmark
+Slovenia	4
+0	World Cup qualifier
+in Denmark	+4
+-4	1919
+1525	+1
+-1	6
+65
+September 06
+1997	Slovenia
+Greece	0
+3	World Cup qualifier
+in Slovenia	-33
++33	1492
+1677	-5
++5	73
+37
+September 10
+1997	Bosnia and Herzegovina
+Slovenia	1
+0	World Cup qualifier
+in Bosnia and Herzegovina	+11
+-11	1564
+1481	+3
+-3	60
+76
+October 11
+1997	Slovenia
+Croatia	1
+3	World Cup qualifier
+in Slovenia	-13
++13	1468
+1812	-3
++1	79
+17
+February 05
+1998	Slovenia
+Iceland	3
+2	Friendly tournament
+in Cyprus	+14
+-14	1482
+1439	+5
+-11	77
+96
+February 06
+1998	Slovenia
+Slovakia	1
+1	Friendly tournament
+in Cyprus	+7
+-7	1489
+1644	+1
+0	76
+42
+February 09
+1998	Cyprus
+Slovenia	1
+0	Friendly tournament
+in Cyprus	+14
+-14	1436
+1475	+2
+-2	96
+78
+March 25
+1998	Poland
+Slovenia	2
+0	Friendly
+in Poland	+6
+-6	1608
+1469	0
+-4	54
+81
+April 22
+1998	Slovenia
+Czechia	1
+3	Friendly
+in Slovenia	-5
++5	1464
+1843	-2
++1	84
+12
+August 19
+1998	Hungary
+Slovenia	2
+1	Friendly
+in Hungary	+4
+-4	1607
+1460	+2
+0	54
+84
+September 06
+1998	Greece
+Slovenia	2
+2	European Cup qualifier
+in Greece	-15
++15	1665
+1475	-5
++6	38
+80
+October 10
+1998	Slovenia
+Norway	1
+2	European Cup qualifier
+in Slovenia	-8
++8	1467
+1821	-2
++1	81
+16
+October 14
+1998	Slovenia
+Latvia	1
+0	European Cup qualifier
+in Slovenia	+13
+-13	1480
+1430	+2
+-4	79
+96
+February 06
+1999	Switzerland
+Slovenia	2
+0	Friendly tournament
+in Oman	+13
+-13	1641
+1467	+4
+-2	47
+80
+February 08
+1999	Oman
+Slovenia	0
+7	Friendly tournament
+in Oman	-36
++36	1359
+1503	-7
++10	115
+70
+March 27
+1999	Georgia
+Slovenia	1
+1	European Cup qualifier
+in Georgia	-8
++8	1541
+1511	-2
++1	62
+70
+April 28
+1999	Slovenia
+Finland	1
+1	Friendly
+in Slovenia	-2
++2	1509
+1533	0
++1	72
+63
+June 05
+1999	Latvia
+Slovenia	1
+2	European Cup qualifier
+in Latvia	-21
++21	1402
+1530	-6
++9	100
+65
+June 09
+1999	Albania
+Slovenia	0
+1	European Cup qualifier
+in Albania	-19
++19	1396
+1549	-8
++6	104
+60
+August 18
+1999	Slovenia
+Albania	2
+0	European Cup qualifier
+in Slovenia	+11
+-11	1560
+1385	0
+-1	61
+106
+September 04
+1999	Slovenia
+Georgia	2
+1	European Cup qualifier
+in Slovenia	+12
+-12	1572
+1492	+3
+-2	58
+78
+September 08
+1999	Norway
+Slovenia	4
+0	European Cup qualifier
+in Norway	+7
+-7	1884
+1565	+2
+-2	10
+60
+October 09
+1999	Slovenia
+Greece	0
+3	European Cup qualifier
+in Slovenia	-36
++36	1529
+1696	-3
++7	63
+33
+November 13
+1999	Slovenia
+Ukraine	2
+1	European Cup qualifier
+in Slovenia	+25
+-25	1554
+1695	+3
+-5	61
+33
+November 17
+1999	Ukraine
+Slovenia	1
+1	European Cup qualifier
+in Ukraine	-12
++12	1683
+1566	-3
+0	36
+61
+February 19
+2000	Slovenia
+United Arab Emirates	1
+1	Friendly tournament
+in Oman	-4
++4	1562
+1463	-1
++2	59
+84
+February 23
+2000	Oman
+Slovenia	0
+4	Friendly tournament
+in Oman	-17
++17	1298
+1579	-4
++1	130
+58
+April 26
+2000	France
+Slovenia	3
+2	Friendly
+in France	+1
+-1	2016
+1578	0
+0	2
+57
+June 03
+2000	Slovenia
+Saudi Arabia	2
+0	Friendly
+in Slovenia	+14
+-14	1592
+1631	+3
+-2	55
+50
+June 13
+2000	Yugoslavia
+Slovenia	3
+3	European Cup
+in Belgium	-18
++18	1890
+1610	-4
+0	10
+55
+June 18
+2000	Spain
+Slovenia	2
+1	European Cup
+in the Netherlands	+6
+-6	1954
+1604	0
+0	4
+54
+June 21
+2000	Slovenia
+Norway	0
+0	European Cup
+in the Netherlands	+17
+-17	1621
+1869	0
+-1	54
+10
+August 16
+2000	Czechia
+Slovenia	0
+1	Friendly
+in Czechia	-18
++18	1885
+1639	0
++4	8
+50
+September 03
+2000	Faroe Islands
+Slovenia	2
+2	World Cup qualifier
+in Faroe Islands	+16
+-16	1159
+1623	+2
+-3	165
+53
+October 07
+2000	Luxembourg
+Slovenia	1
+2	World Cup qualifier
+in Luxembourg	-4
++4	1142
+1627	0
++2	167
+51
+October 11
+2000	Slovenia
+Switzerland	2
+2	World Cup qualifier
+in Slovenia	-3
++3	1624
+1672	-1
+0	52
+42
+February 28
+2001	Slovenia
+Uruguay	0
+2	Friendly
+in Slovenia	-15
++15	1609
+1748	-3
++3	56
+26
+March 24
+2001	Russia
+Slovenia	1
+1	World Cup qualifier
+in Russia	-14
++14	1780
+1623	-2
++3	18
+53
+March 28
+2001	Slovenia
+Yugoslavia	1
+1	World Cup qualifier
+in Slovenia	+7
+-7	1630
+1836	+2
+-2	51
+13
+April 25
+2001	Denmark
+Slovenia	3
+0	Friendly
+in Denmark	+7
+-7	1765
+1623	+2
+-2	23
+51
+June 02
+2001	Slovenia
+Luxembourg	2
+0	World Cup qualifier
+in Slovenia	+2
+-2	1625
+1099	+1
+-1	51
+173
+June 06
+2001	Switzerland
+Slovenia	0
+1	World Cup qualifier
+in Switzerland	-28
++28	1637
+1653	-4
++7	46
+44
+August 15
+2001	Slovenia
+Romania	2
+2	Friendly
+in Slovenia	+2
+-2	1655
+1808	0
+0	44
+16
+September 01
+2001	Slovenia
+Russia	2
+1	World Cup qualifier
+in Slovenia	+22
+-22	1677
+1776	+5
+-3	39
+21
+September 05
+2001	Yugoslavia
+Slovenia	1
+1	World Cup qualifier
+in Yugoslavia	-12
++12	1795
+1689	-1
++1	19
+37
+October 06
+2001	Slovenia
+Faroe Islands	3
+0	World Cup qualifier
+in Slovenia	+2
+-2	1691
+1200	-2
+-1	40
+154
+November 10
+2001	Slovenia
+Romania	2
+1	World Cup qualifier
+in Slovenia	+21
+-21	1712
+1790	+5
+-4	35
+20
+November 14
+2001	Romania
+Slovenia	1
+1	World Cup qualifier
+in Romania	-9
++9	1781
+1721	-1
++6	22
+28
+February 12
+2002	Honduras
+Slovenia	5
+1	Carlsberg Cup
+in Hong Kong	+29
+-29	1739
+1692	+7
+-11	28
+40
+February 15
+2002	Slovenia
+China	0
+0	Carlsberg Cup
+in Hong Kong	+1
+-1	1693
+1712	+2
+0	38
+33
+March 27
+2002	Croatia
+Slovenia	0
+0	Friendly
+in Croatia	-6
++6	1839
+1699	-3
+-1	13
+38
+April 17
+2002	Slovenia
+Tunisia	1
+0	Friendly
+in Slovenia	+5
+-5	1704
+1625	+4
+-2	34
+49
+May 17
+2002	Slovenia
+Ghana	2
+0	Friendly
+in Slovenia	+5
+-5	1709
+1527	+2
+-3	34
+68
+June 02
+2002	Spain
+Slovenia	3
+1	World Cup
+in South Korea	+20
+-20	1947
+1689	+1
+-4	5
+39
+June 08
+2002	South Africa
+Slovenia	1
+0	World Cup
+in South Korea	+34
+-34	1677
+1655	+6
+-4	37
+39
+June 12
+2002	Paraguay
+Slovenia	3
+1	World Cup
+in South Korea	+42
+-42	1723
+1613	+2
+-13	33
+51
+August 21
+2002	Italy
+Slovenia	0
+1	Friendly
+in Italy	-18
++18	1888
+1631	-2
++4	10
+46
+September 07
+2002	Slovenia
+Malta	3
+0	European Cup qualifier
+in Slovenia	+4
+-4	1635
+1219	+2
+-1	43
+152
+October 12
+2002	France
+Slovenia	5
+0	European Cup qualifier
+in France	+8
+-8	1937
+1627	0
+-2	5
+46
+February 12
+2003	Slovenia
+Switzerland	1
+5	Friendly
+in Slovenia	-22
++22	1605
+1694	-4
++1	51
+37
+April 02
+2003	Slovenia
+Cyprus	4
+1	European Cup qualifier
+in Slovenia	+12
+-12	1617
+1425	+3
+-2	50
+96
+April 30
+2003	Malta
+Slovenia	1
+3	European Cup qualifier
+in Malta	-9
++9	1197
+1626	0
++2	153
+48
+June 07
+2003	Israel
+Slovenia	0
+0	European Cup qualifier
+in Turkey	-1
++1	1646
+1627	0
++2	43
+46
+August 20
+2003	Slovenia
+Hungary	2
+1	Friendly
+in Slovenia	+6
+-6	1633
+1563	+2
+0	45
+61
+September 06
+2003	Slovenia
+Israel	3
+1	European Cup qualifier
+in Slovenia	+24
+-24	1657
+1637	+3
+-4	42
+45
+September 10
+2003	Slovenia
+France	0
+2	European Cup qualifier
+in Slovenia	-12
++12	1645
+2003	-2
++2	43
+1
+October 11
+2003	Cyprus
+Slovenia	2
+2	European Cup qualifier
+in Cyprus	+7
+-7	1430
+1638	+2
+0	96
+44
+November 15
+2003	Croatia
+Slovenia	1
+1	European Cup qualifier
+in Croatia	-13
++13	1783
+1651	-1
++2	19
+42
+November 19
+2003	Slovenia
+Croatia	0
+1	European Cup qualifier
+in Slovenia	-18
++18	1633
+1801	-5
+0	47
+18
+February 18
+2004	Poland
+Slovenia	2
+0	Friendly
+in Spain	+12
+-12	1721
+1621	+4
+-2	29
+49
+March 31
+2004	Slovenia
+Latvia	0
+1	Friendly
+in Slovenia	-16
++16	1605
+1499	-5
++3	56
+76
+April 28
+2004	Switzerland
+Slovenia	2
+1	Friendly
+in Switzerland	+5
+-5	1687
+1600	+3
+-1	36
+57
+August 18
+2004	Slovenia
+Serbia and Montenegro	1
+1	Friendly
+in Slovenia	0
+0	1600
+1697	-1
+0	56
+32
+September 04
+2004	Slovenia
+Moldova	3
+0	World Cup qualifier
+in Slovenia	+10
+-10	1610
+1371	+3
+-2	53
+110
+September 08
+2004	Scotland
+Slovenia	0
+0	World Cup qualifier
+in Scotland	-6
++6	1609
+1616	-4
++3	55
+51
+October 09
+2004	Slovenia
+Italy	1
+0	World Cup qualifier
+in Slovenia	+30
+-30	1646
+1870	+9
+0	42
+8
+October 13
+2004	Norway
+Slovenia	3
+0	World Cup qualifier
+in Norway	+17
+-17	1767
+1629	+1
+-6	26
+48
+November 17
+2004	Slovakia
+Slovenia	0
+0	Friendly
+in Slovakia	-3
++3	1624
+1632	-1
+0	48
+46
+February 09
+2005	Slovenia
+Czechia	0
+3	Friendly
+in Slovenia	-8
++8	1624
+1957	-2
++1	48
+2
+March 26
+2005	Slovenia
+Germany	0
+1	Friendly
+in Slovenia	-6
++6	1618
+1863	-2
+-1	52
+13
+March 30
+2005	Slovenia
+Belarus	1
+1	World Cup qualifier
+in Slovenia	-7
++7	1611
+1601	-1
++3	53
+54
+June 04
+2005	Belarus
+Slovenia	1
+1	World Cup qualifier
+in Belarus	-5
++5	1596
+1616	-2
+0	57
+53
+August 17
+2005	Wales
+Slovenia	0
+0	Friendly
+in Wales	-1
++1	1552
+1617	-1
+0	66
+55
+September 03
+2005	Slovenia
+Norway	2
+3	World Cup qualifier
+in Slovenia	-18
++18	1599
+1777	-1
++2	56
+23
+September 07
+2005	Moldova
+Slovenia	1
+2	World Cup qualifier
+in Moldova	-15
++15	1392
+1614	-4
+-1	103
+57
+October 08
+2005	Italy
+Slovenia	1
+0	World Cup qualifier
+in Italy	+4
+-4	1891
+1610	+2
++1	7
+56
+October 12
+2005	Slovenia
+Scotland	0
+3	World Cup qualifier
+in Slovenia	-46
++46	1564
+1646	-7
++9	63
+49
+February 28
+2006	Cyprus
+Slovenia	0
+1	Friendly tournament
+in Cyprus	-13
++13	1414
+1577	0
++2	97
+58
+March 01
+2006	Romania
+Slovenia	2
+0	Friendly tournament
+in Cyprus	+9
+-9	1830
+1568	0
+-2	14
+60
+May 31
+2006	Slovenia
+Trinidad and Tobago	3
+1	Friendly
+in Slovenia	+11
+-11	1579
+1550	+5
+-4	58
+68
+June 04
+2006	Ivory Coast
+Slovenia	3
+0	Friendly
+in France	+9
+-9	1763
+1570	+1
+-4	29
+62
+August 15
+2006	Slovenia
+Israel	1
+1	Friendly
+in Slovenia	0
+0	1570
+1679	0
+0	62
+43
+September 06
+2006	Bulgaria
+Slovenia	3
+0	European Cup qualifier
+in Bulgaria	+15
+-15	1707
+1555	+1
+-4	37
+65
+October 07
+2006	Slovenia
+Luxembourg	2
+0	European Cup qualifier
+in Slovenia	+1
+-1	1556
+953	+1
+0	64
+190
+October 11
+2006	Belarus
+Slovenia	4
+2	European Cup qualifier
+in Belarus	+25
+-25	1540
+1531	+9
+-7	66
+72
+February 07
+2007	Slovenia
+Estonia	1
+0	Friendly
+in Slovenia	+4
+-4	1535
+1370	+2
+-2	69
+106
+March 24
+2007	Albania
+Slovenia	0
+0	European Cup qualifier
+in Albania	-1
++1	1460
+1536	0
+-3	89
+72
+March 28
+2007	Slovenia
+Netherlands	0
+1	European Cup qualifier
+in Slovenia	-6
++6	1530
+1960	-2
+0	74
+6
+June 02
+2007	Slovenia
+Romania	1
+2	European Cup qualifier
+in Slovenia	-9
++9	1521
+1860	+1
++1	74
+11
+June 06
+2007	Romania
+Slovenia	2
+0	European Cup qualifier
+in Romania	+4
+-4	1864
+1517	0
+-2	11
+76
+August 22
+2007	Montenegro
+Slovenia	1
+1	Friendly
+in Montenegro	-5
++5	1584
+1522	-1
+0	59
+73
+September 08
+2007	Luxembourg
+Slovenia	0
+3	European Cup qualifier
+in Luxembourg	-5
++5	969
+1527	0
++2	191
+71
+September 12
+2007	Slovenia
+Belarus	1
+0	European Cup qualifier
+in Slovenia	+14
+-14	1541
+1497	+3
+0	69
+76
+October 13
+2007	Slovenia
+Albania	0
+0	European Cup qualifier
+in Slovenia	-8
++8	1533
+1492	-1
++3	70
+77
+October 17
+2007	Netherlands
+Slovenia	2
+0	European Cup qualifier
+in the Netherlands	+3
+-3	1952
+1530	+1
+-2	5
+72
+November 21
+2007	Slovenia
+Bulgaria	0
+2	European Cup qualifier
+in Slovenia	-21
++21	1509
+1758	-2
++6	77
+26
+February 06
+2008	Slovenia
+Denmark	1
+2	Friendly
+in Slovenia	-6
++6	1503
+1782	0
++1	77
+20
+March 26
+2008	Hungary
+Slovenia	0
+1	Friendly
+in Hungary	-14
++14	1528
+1517	-4
++2	73
+75
+May 26
+2008	Sweden
+Slovenia	1
+0	Friendly
+in Sweden	+2
+-2	1770
+1515	+1
+-1	23
+76
+August 20
+2008	Slovenia
+Croatia	2
+3	Friendly
+in Slovenia	-3
++3	1512
+1900	-1
+-1	79
+8
+September 06
+2008	Poland
+Slovenia	1
+1	World Cup qualifier
+in Poland	-14
++14	1697
+1526	-2
++2	38
+78
+September 10
+2008	Slovenia
+Slovakia	2
+1	World Cup qualifier
+in Slovenia	+18
+-18	1544
+1576	+10
+-2	67
+58
+October 11
+2008	Slovenia
+Northern Ireland	2
+0	World Cup qualifier
+in Slovenia	+22
+-22	1566
+1533	+6
+-10	61
+73
+October 15
+2008	Czechia
+Slovenia	1
+0	World Cup qualifier
+in Czechia	+5
+-5	1816
+1561	+2
+-2	13
+63
+November 19
+2008	Slovenia
+Bosnia and Herzegovina	3
+4	Friendly
+in Slovenia	-14
++14	1547
+1547	-1
++9	64
+64
+February 11
+2009	Belgium
+Slovenia	2
+0	Friendly
+in Belgium	+9
+-9	1615
+1538	+2
+-2	52
+69
+March 28
+2009	Slovenia
+Czechia	0
+0	World Cup qualifier
+in Slovenia	+9
+-9	1547
+1806	+1
+-1	68
+14
+April 01
+2009	Northern Ireland
+Slovenia	1
+0	World Cup qualifier
+in Northern Ireland	+15
+-15	1560
+1532	+7
+-6	62
+74
+August 12
+2009	Slovenia
+San Marino	5
+0	World Cup qualifier
+in Slovenia	+1
+-1	1533
+891	-2
+0	74
+200
+September 05
+2009	England
+Slovenia	2
+1	Friendly
+in England	+1
+-1	1969
+1532	0
++1	4
+72
+September 09
+2009	Slovenia
+Poland	3
+0	World Cup qualifier
+in Slovenia	+40
+-40	1572
+1646	+14
+-5	58
+48
+October 10
+2009	Slovakia
+Slovenia	0
+2	World Cup qualifier
+in Slovakia	-44
++44	1604
+1616	-7
++8	54
+50
+October 14
+2009	San Marino
+Slovenia	0
+3	World Cup qualifier
+in San Marino	-2
++2	889
+1618	0
+0	200
+50
+November 14
+2009	Russia
+Slovenia	2
+1	World Cup qualifier
+in Russia	+5
+-5	1850
+1613	0
++1	12
+50
+November 18
+2009	Slovenia
+Russia	1
+0	World Cup qualifier
+in Slovenia	+28
+-28	1641
+1822	+3
+-1	47
+13
+March 03
+2010	Slovenia
+Qatar	4
+1	Friendly
+in Slovenia	+7
+-7	1648
+1503	-1
+-1	47
+85
+June 04
+2010	Slovenia
+New Zealand	3
+1	Friendly
+in Slovenia	+7
+-7	1655
+1542	+2
+-1	45
+73
+June 13
+2010	Slovenia
+Algeria	1
+0	World Cup
+in South Africa	+20
+-20	1675
+1519	+3
+-7	42
+82
+June 18
+2010	Slovenia
+United States	2
+2	World Cup
+in South Africa	+9
+-9	1684
+1772	+3
+-3	39
+20
+June 23
+2010	England
+Slovenia	1
+0	World Cup
+in South Africa	+12
+-12	1945
+1672	0
+-2	5
+41
+August 11
+2010	Slovenia
+Australia	2
+0	Friendly
+in Slovenia	+15
+-15	1687
+1752	+4
+-2	38
+22
+September 03
+2010	Slovenia
+Northern Ireland	0
+1	European Cup qualifier
+in Slovenia	-33
++33	1654
+1552	-7
++10	45
+70
+September 07
+2010	Serbia
+Slovenia	1
+1	European Cup qualifier
+in Serbia	-11
++11	1759
+1665	-2
++4	21
+41
+October 08
+2010	Slovenia
+Faroe Islands	5
+1	European Cup qualifier
+in Slovenia	+2
+-2	1667
+1163	0
+-2	41
+166
+October 12
+2010	Estonia
+Slovenia	0
+1	European Cup qualifier
+in Estonia	-15
++15	1470
+1682	-3
++3	91
+38
+November 17
+2010	Slovenia
+Georgia	1
+2	Friendly
+in Slovenia	-17
++17	1665
+1473	-3
++4	41
+92
+February 09
+2011	Albania
+Slovenia	1
+2	Friendly
+in Albania	-8
++8	1487
+1673	-2
++2	90
+39
+March 25
+2011	Slovenia
+Italy	0
+1	European Cup qualifier
+in Slovenia	-18
++18	1655
+1833	-2
++1	41
+12
+March 29
+2011	Northern Ireland
+Slovenia	0
+0	European Cup qualifier
+in Northern Ireland	+2
+-2	1521
+1653	0
+-1	77
+42
+June 03
+2011	Faroe Islands
+Slovenia	0
+2	European Cup qualifier
+in Faroe Islands	-6
++6	1153
+1659	-1
+0	166
+43
+August 10
+2011	Slovenia
+Belgium	0
+0	Friendly
+in Slovenia	-3
++3	1656
+1640	-1
+-1	45
+51
+September 02
+2011	Slovenia
+Estonia	1
+2	European Cup qualifier
+in Slovenia	-35
++35	1621
+1463	-11
++6	56
+92
+September 06
+2011	Italy
+Slovenia	1
+0	European Cup qualifier
+in Italy	+5
+-5	1858
+1616	0
+0	11
+55
+October 11
+2011	Slovenia
+Serbia	1
+0	European Cup qualifier
+in Slovenia	+21
+-21	1637
+1717	+6
+-7	47
+35
+November 15
+2011	Slovenia
+United States	2
+3	Friendly
+in Slovenia	-12
++12	1625
+1693	-1
+0	49
+37
+February 29
+2012	Slovenia
+Scotland	1
+1	Friendly
+in Slovenia	-1
++1	1624
+1675	-1
+0	53
+40
+May 26
+2012	Greece
+Slovenia	1
+1	Friendly
+in Austria	-4
++4	1751
+1628	0
++2	26
+51
+August 15
+2012	Slovenia
+Romania	4
+3	Friendly
+in Slovenia	+9
+-9	1637
+1693	+3
+-3	46
+36
+September 07
+2012	Slovenia
+Switzerland	0
+2	World Cup qualifier
+in Slovenia	-28
++28	1609
+1786	-8
++5	54
+20
+September 11
+2012	Norway
+Slovenia	2
+1	World Cup qualifier
+in Norway	+11
+-11	1686
+1598	0
+-1	39
+54
+October 12
+2012	Slovenia
+Cyprus	2
+1	World Cup qualifier
+in Slovenia	+7
+-7	1605
+1425	0
+-3	54
+103
+October 16
+2012	Albania
+Slovenia	1
+0	World Cup qualifier
+in Albania	+23
+-23	1477
+1582	+5
+-8	89
+62
+November 14
+2012	Macedonia
+Slovenia	3
+2	Friendly
+in Macedonia	+9
+-9	1513
+1573	0
+-1	81
+63
+February 06
+2013	Slovenia
+Bosnia and Herzegovina	0
+3	Friendly
+in Slovenia	-15
++15	1558
+1737	-4
++5	68
+25
+March 22
+2013	Slovenia
+Iceland	1
+2	World Cup qualifier
+in Slovenia	-31
++31	1527
+1483	-6
++7	75
+89
+May 31
+2013	Slovenia
+Turkey	2
+0	Friendly
+in Germany	+20
+-20	1547
+1631	+7
+-4	68
+49
+June 07
+2013	Iceland
+Slovenia	2
+4	World Cup qualifier
+in Iceland	-33
++33	1450
+1580	-7
++6	94
+62
+August 14
+2013	Finland
+Slovenia	2
+0	Friendly
+in Finland	+9
+-9	1646
+1571	+1
+-3	46
+63
+September 06
+2013	Slovenia
+Albania	1
+0	World Cup qualifier
+in Slovenia	+12
+-12	1583
+1514	+4
+-4	59
+82
+September 10
+2013	Cyprus
+Slovenia	0
+2	World Cup qualifier
+in Cyprus	-22
++22	1371
+1605	-3
++4	113
+55
+October 11
+2013	Slovenia
+Norway	3
+0	World Cup qualifier
+in Slovenia	+30
+-30	1635
+1626	+8
+-6	47
+50
+October 15
+2013	Switzerland
+Slovenia	1
+0	World Cup qualifier
+in Switzerland	+6
+-6	1834
+1629	+2
+-2	15
+49
+November 19
+2013	Slovenia
+Canada	1
+0	Friendly
+in Slovenia	+4
+-4	1633
+1465	-1
++1	50
+90
+March 05
+2014	Algeria
+Slovenia	2
+0	Friendly
+in Algeria	+13
+-13	1595
+1620	+2
+0	56
+50

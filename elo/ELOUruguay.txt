@@ -1,0 +1,7875 @@
+May 16
+1901	Uruguay
+Argentina	2
+3	Friendly
+in Uruguay	-10
++10	1690
+1810	-
+-	4
+3
+July 20
+1902	Uruguay
+Argentina	0
+6	Friendly
+in Uruguay	-20
++20	1670
+1830	0
+0	4
+3
+September 13
+1903	Argentina
+Uruguay	2
+3	Friendly
+in Argentina	-16
++16	1814
+1686	0
+0	3
+5
+August 15
+1905	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	-9
++9	1805
+1695	0
++2	3
+6
+August 15
+1906	Argentina
+Uruguay	2
+0	Lipton Cup
+in Argentina	+11
+-11	1801
+1684	0
+0	2
+8
+October 21
+1906	Uruguay
+Argentina	1
+2	Newton Cup
+in Uruguay	-14
++14	1670
+1815	0
+0	8
+2
+August 15
+1907	Uruguay
+Argentina	1
+2	Lipton Cup
+in Uruguay	-13
++13	1657
+1828	0
+0	9
+2
+October 06
+1907	Argentina
+Uruguay	2
+1	Newton Cup
+in Argentina	+5
+-5	1833
+1652	0
+0	2
+9
+August 15
+1908	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	+3
+-3	1655
+1830	0
+0	11
+2
+September 13
+1908	Argentina
+Uruguay	2
+1	Newton Cup
+in Argentina	+5
+-5	1835
+1650	0
+0	2
+11
+October 04
+1908	Argentina
+Uruguay	0
+1	Argentine Ministry of Education Cup
+in Argentina	-25
++25	1810
+1675	-1
++2	3
+9
+August 15
+1909	Argentina
+Uruguay	2
+1	Lipton Cup
+in Argentina	+6
+-6	1816
+1669	0
+0	4
+10
+September 19
+1909	Uruguay
+Argentina	2
+2	Newton Cup
+in Uruguay	+2
+-2	1671
+1814	0
+0	10
+4
+October 10
+1909	Argentina
+Uruguay	3
+1	Argentine Ministry of Education Cup
+in Argentina	+9
+-9	1823
+1662	0
+0	4
+10
+May 29
+1910	Uruguay
+Chile	3
+0	Copa América
+in Argentina	+25
+-25	1687
+1473	+1
+0	10
+21
+June 12
+1910	Argentina
+Uruguay	4
+1	Copa América
+in Argentina	+17
+-17	1848
+1670	+1
+0	3
+10
+August 15
+1910	Uruguay
+Argentina	3
+1	Lipton Cup
+in Uruguay	+27
+-27	1697
+1821	+1
+-1	9
+4
+November 13
+1910	Argentina
+Uruguay	1
+1	Argentine Ministry of Education Cup
+in Argentina	-9
++9	1819
+1706	0
+0	4
+9
+November 27
+1910	Argentina
+Uruguay	2
+6	Argentine Ministry of Education Cup
+in Argentina	-43
++43	1776
+1749	0
++4	4
+5
+April 30
+1911	Uruguay
+Argentina	1
+2	Friendly
+in Uruguay	-12
++12	1737
+1788	0
+0	6
+4
+August 15
+1911	Argentina
+Uruguay	0
+2	Lipton Cup
+in Argentina	-32
++32	1756
+1769	-1
++2	5
+4
+September 17
+1911	Uruguay
+Argentina	2
+3	Newton Cup
+in Uruguay	-20
++20	1749
+1776	-2
++1	6
+4
+October 08
+1911	Uruguay
+Argentina	1
+1	Uruguay Ministry of Education Cup
+in Uruguay	-3
++3	1746
+1779	0
+0	6
+4
+October 22
+1911	Argentina
+Uruguay	2
+0	Argentine Ministry of Education Cup
+in Argentina	+14
+-14	1793
+1732	0
+-1	4
+7
+October 29
+1911	Uruguay
+Argentina	3
+0	Uruguay Ministry of Education Cup
+in Uruguay	+23
+-23	1755
+1770	+2
+0	5
+4
+February 25
+1912	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+10
+-10	1780
+1745	0
+-1	4
+6
+August 15
+1912	Uruguay
+Argentina	2
+0	Lipton Cup
+in Uruguay	+18
+-18	1763
+1762	+1
+-3	6
+7
+August 25
+1912	Uruguay
+Argentina	3
+0	Uruguay Ministry of Education Cup
+in Uruguay	+19
+-19	1782
+1743	+2
+0	4
+7
+September 22
+1912	Argentina
+Uruguay	0
+1	Argentine Ministry of Education Cup
+in Argentina	-18
++18	1725
+1800	-2
+0	9
+4
+October 06
+1912	Argentina
+Uruguay	3
+3	Newton Cup
+in Argentina	-1
++1	1724
+1801	0
+0	9
+4
+December 01
+1912	Uruguay
+Argentina	1
+3	Montevideo Cup
+in Uruguay	-33
++33	1768
+1757	-2
++2	6
+7
+April 27
+1913	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-3
++3	1754
+1771	0
++1	8
+5
+June 15
+1913	Argentina
+Uruguay	1
+1	Saenz Pena Cup
+in Argentina	-4
++4	1750
+1775	0
+0	8
+5
+July 09
+1913	Argentina
+Uruguay	2
+1	Saenz Pena Cup
+in Argentina	+12
+-12	1762
+1763	+1
+-1	7
+6
+July 13
+1913	Uruguay
+Argentina	5
+4	Friendly
+in Uruguay	+7
+-7	1770
+1755	+1
+-1	5
+8
+August 15
+1913	Argentina
+Uruguay	4
+0	Lipton Cup
+in Argentina	+21
+-21	1776
+1749	+3
+-3	5
+8
+August 31
+1913	Argentina
+Uruguay	2
+0	Argentine Ministry of Education Cup
+in Argentina	+15
+-15	1791
+1734	+1
+0	4
+8
+September 28
+1913	Argentina
+Uruguay	4
+0	Friendly
+in Argentina	+11
+-11	1808
+1723	0
+-1	4
+9
+October 05
+1913	Uruguay
+Argentina	1
+0	Uruguay Ministry of Education Cup
+in Uruguay	+14
+-14	1737
+1794	+1
+0	8
+4
+October 26
+1913	Uruguay
+Argentina	1
+0	Newton Cup
+in Uruguay	+13
+-13	1750
+1781	0
+-1	8
+5
+August 30
+1914	Uruguay
+Argentina	3
+2	Uruguay Ministry of Education Cup
+in Uruguay	+12
+-12	1762
+1769	0
+0	7
+6
+September 13
+1914	Argentina
+Uruguay	2
+1	Argentine Ministry of Education Cup
+in Argentina	+11
+-11	1780
+1751	0
+0	6
+7
+July 18
+1915	Uruguay
+Argentina	2
+3	Uruguay Ministry of Education Cup
+in Uruguay	-18
++18	1733
+1792	-1
++1	9
+5
+August 15
+1915	Argentina
+Uruguay	2
+1	Lipton Cup
+in Argentina	+9
+-9	1801
+1724	0
+-1	5
+10
+September 12
+1915	Uruguay
+Argentina	2
+0	Newton Cup
+in Uruguay	+21
+-21	1745
+1780	+2
+-1	8
+6
+July 02
+1916	Uruguay
+Chile	2
+0	Copa América
+in Argentina	+12
+-12	1757
+1442	0
+0	8
+25
+July 12
+1916	Uruguay
+Brazil	2
+1	Copa América
+in Argentina	+28
+-28	1785
+1765	+4
+-3	4
+7
+July 14
+1916	Uruguay
+Chile	4
+1	Friendly
+in Uruguay	+3
+-3	1788
+1450	0
+0	4
+25
+July 17
+1916	Argentina
+Uruguay	0
+0	Copa América
+in Argentina	-7
++7	1775
+1795	0
+0	6
+4
+July 18
+1916	Uruguay
+Brazil	0
+1	Friendly
+in Uruguay	-14
++14	1781
+1779	-1
++1	5
+6
+August 15
+1916	Argentina
+Uruguay	3
+1	Newton Cup
+in Argentina	+17
+-17	1792
+1764	+3
+-3	4
+8
+August 15
+1916	Uruguay
+Argentina	1
+2	Lipton Cup
+in Uruguay	-18
++18	1746
+1810	-3
++3	8
+4
+October 01
+1916	Argentina
+Uruguay	7
+2	Argentine Ministry of Education Cup
+in Argentina	+17
+-17	1827
+1729	0
+-4	4
+12
+October 01
+1916	Uruguay
+Argentina	0
+1	Uruguay Ministry of Education Cup
+in Uruguay	-15
++15	1714
+1842	-4
+0	12
+4
+October 29
+1916	Uruguay
+Argentina	3
+1	Friendly
+in Uruguay	+16
+-16	1730
+1826	+3
+0	9
+4
+July 18
+1917	Uruguay
+Argentina	0
+2	Uruguay Ministry of Education Cup
+in Uruguay	-23
++23	1707
+1849	-2
+0	11
+4
+August 15
+1917	Argentina
+Uruguay	1
+0	Lipton Cup
+in Argentina	+6
+-6	1855
+1701	0
+0	4
+11
+September 02
+1917	Uruguay
+Argentina	1
+0	Newton Cup
+in Uruguay	+17
+-17	1718
+1838	+1
+0	10
+4
+September 30
+1917	Uruguay
+Chile	4
+0	Copa América
+in Uruguay	+10
+-10	1728
+1440	0
+0	10
+25
+October 07
+1917	Uruguay
+Brazil	4
+0	Copa América
+in Uruguay	+36
+-36	1764
+1712	+3
+-4	7
+11
+October 14
+1917	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+26
+-26	1790
+1847	+2
+0	5
+4
+October 16
+1917	Uruguay
+Brazil	3
+1	Friendly
+in Uruguay	+9
+-9	1799
+1720	0
+-1	5
+10
+July 18
+1918	Uruguay
+Argentina	1
+1	Uruguay Ministry of Education Cup
+in Uruguay	-3
++3	1796
+1841	0
+0	6
+4
+July 28
+1918	Uruguay
+Argentina	3
+1	Uruguay Ministry of Education Cup
+in Uruguay	+19
+-19	1815
+1822	0
+0	6
+4
+August 15
+1918	Argentina
+Uruguay	0
+0	Argentine Ministry of Education Cup
+in Argentina	-4
++4	1818
+1819	-1
++2	5
+4
+August 25
+1918	Argentina
+Uruguay	2
+1	Argentine Ministry of Education Cup
+in Argentina	+11
+-11	1829
+1808	+1
+-2	4
+6
+September 20
+1918	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	-3
++3	1805
+1832	0
+0	6
+4
+September 29
+1918	Argentina
+Uruguay	2
+0	Newton Cup
+in Argentina	+15
+-15	1847
+1790	0
+0	4
+6
+May 13
+1919	Uruguay
+Argentina	3
+2	Copa América
+in Brazil	+30
+-30	1820
+1833	0
+-1	6
+5
+May 17
+1919	Uruguay
+Chile	2
+0	Copa América
+in Brazil	+7
+-7	1827
+1411	0
+0	6
+26
+May 26
+1919	Brazil
+Uruguay	2
+2	Copa América
+in Brazil	-3
++3	1766
+1830	0
+0	8
+6
+May 29
+1919	Brazil
+Uruguay	1
+0	Copa América
+in Brazil	+22
+-22	1788
+1808	+1
+0	7
+6
+July 18
+1919	Uruguay
+Argentina	4
+1	Uruguay Ministry of Education Cup
+in Uruguay	+21
+-21	1829
+1815	+1
+-2	5
+6
+August 24
+1919	Uruguay
+Argentina	2
+1	Newton Cup
+in Uruguay	+10
+-10	1839
+1805	+1
+0	4
+6
+September 07
+1919	Argentina
+Uruguay	1
+2	Lipton Cup
+in Argentina	-18
++18	1787
+1857	0
++1	6
+3
+October 19
+1919	Argentina
+Uruguay	6
+1	Argentine Ministry of Education Cup
+in Argentina	+27
+-27	1814
+1830	0
+-1	6
+4
+December 07
+1919	Uruguay
+Argentina	4
+2	Friendly
+in Uruguay	+10
+-10	1840
+1804	0
+0	4
+6
+July 18
+1920	Uruguay
+Argentina	2
+0	Uruguay Ministry of Education Cup
+in Uruguay	+14
+-14	1854
+1790	+1
+0	3
+6
+July 25
+1920	Argentina
+Uruguay	1
+3	Newton Cup
+in Argentina	-25
++25	1765
+1879	-2
++2	8
+1
+August 08
+1920	Argentina
+Uruguay	1
+0	Argentine Ministry of Education Cup
+in Argentina	+16
+-16	1781
+1863	+1
+-1	7
+2
+September 12
+1920	Argentina
+Uruguay	1
+1	Copa América
+in Chile	+6
+-6	1787
+1857	+1
+0	8
+2
+September 18
+1920	Uruguay
+Brazil	6
+0	Copa América
+in Chile	+44
+-44	1901
+1750	+1
+-4	1
+11
+September 26
+1920	Chile
+Uruguay	1
+2	Copa América
+in Chile	-5
++5	1407
+1906	0
+0	30
+1
+October 09
+1921	Paraguay
+Uruguay	2
+1	Copa América
+in Argentina	+40
+-40	1711
+1866	+1
+-1	14
+2
+October 23
+1921	Uruguay
+Brazil	2
+1	Copa América
+in Argentina	+16
+-16	1882
+1725	0
+-1	2
+12
+October 30
+1921	Argentina
+Uruguay	1
+0	Copa América
+in Argentina	+22
+-22	1845
+1860	+1
+0	3
+2
+November 02
+1921	Uruguay
+Paraguay	4
+2	Friendly
+in Uruguay	+4
+-4	1864
+1643	0
+0	2
+15
+January 22
+1922	Argentina
+Uruguay	1
+3	Friendly
+in Argentina	-18
++18	1827
+1882	0
+0	3
+2
+July 22
+1922	Uruguay
+Argentina	2
+2	Friendly
+in Uruguay	-4
++4	1878
+1831	0
+0	2
+3
+September 23
+1922	Uruguay
+Chile	2
+0	Copa América
+in Brazil	+5
+-5	1883
+1424	0
+0	2
+38
+October 01
+1922	Brazil
+Uruguay	0
+0	Copa América
+in Brazil	+6
+-6	1700
+1877	+1
+0	15
+2
+October 08
+1922	Uruguay
+Argentina	1
+0	Copa América
+in Brazil	+22
+-22	1899
+1811	+1
+-1	1
+4
+October 12
+1922	Paraguay
+Uruguay	1
+0	Copa América
+in Brazil	+39
+-39	1716
+1860	+5
+-1	12
+2
+October 22
+1922	Argentina
+Uruguay	3
+2	Friendly
+in Argentina	+9
+-9	1813
+1851	-1
+0	5
+2
+November 11
+1922	Argentina
+Uruguay	4
+0	Friendly
+in Argentina	+16
+-16	1817
+1835	+1
+0	4
+2
+November 12
+1922	Uruguay
+Argentina	1
+0	Lipton Cup
+in Uruguay	+10
+-10	1845
+1807	0
+0	2
+4
+December 10
+1922	Uruguay
+Argentina	1
+0	Uruguay Ministry of Education Cup
+in Uruguay	+9
+-9	1854
+1798	0
+-1	2
+5
+December 17
+1922	Argentina
+Uruguay	2
+2	Newton Cup
+in Argentina	-2
++2	1796
+1856	-1
+0	6
+2
+May 25
+1923	Uruguay
+Argentina	2
+0	Friendly
+in Uruguay	+8
+-8	1864
+1760	0
+0	2
+10
+June 24
+1923	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	0
+0	1760
+1864	0
+0	10
+2
+July 15
+1923	Argentina
+Uruguay	2
+2	Argentine Ministry of Education Cup
+in Argentina	0
+0	1760
+1864	0
+0	10
+2
+July 22
+1923	Uruguay
+Argentina	2
+2	Uruguay Ministry of Education Cup
+in Uruguay	-8
++8	1856
+1768	0
+0	2
+10
+August 25
+1923	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-5
++5	1851
+1773	0
+0	2
+10
+September 30
+1923	Uruguay
+Argentina	0
+2	Uruguay Ministry of Education Cup
+in Uruguay	-33
++33	1818
+1806	-2
++4	4
+6
+November 04
+1923	Uruguay
+Paraguay	2
+0	Copa América
+in Uruguay	+14
+-14	1832
+1652	+3
+-1	2
+19
+November 25
+1923	Uruguay
+Brazil	2
+1	Copa América
+in Uruguay	+12
+-12	1844
+1728	+1
+-1	2
+12
+November 25
+1923	Uruguay
+Chile	2
+1	Friendly
+in Uruguay	+1
+-1	1845
+1396	+1
+0	2
+43
+December 02
+1923	Uruguay
+Argentina	2
+0	Copa América
+in Uruguay	+23
+-23	1868
+1785	0
+-5	2
+8
+December 08
+1923	Argentina
+Uruguay	2
+3	Friendly
+in Argentina	-11
++11	1776
+1879	-1
+0	9
+2
+May 25
+1924	Argentina
+Uruguay	4
+0	Newton Cup
+in Argentina	+27
+-27	1821
+1852	+1
++1	4
+1
+May 25
+1924	Uruguay
+Argentina	2
+0	Lipton Cup
+in Uruguay	+14
+-14	1866
+1807	+1
++1	1
+4
+May 26
+1924	Uruguay
+Yugoslavia	7
+0	Olympic Games
+in France	+18
+-18	1884
+1520	0
+-2	1
+36
+May 29
+1924	Uruguay
+United States	3
+0	Olympic Games
+in France	+19
+-19	1903
+1598	0
+-4	1
+26
+June 01
+1924	France
+Uruguay	1
+5	Olympic Games
+in France	-22
++22	1540
+1925	-4
+0	34
+1
+June 06
+1924	Uruguay
+Netherlands	2
+1	Olympic Games
+in France	+20
+-20	1945
+1789	0
+-3	1
+6
+June 09
+1924	Uruguay
+Switzerland	3
+0	Olympic Games
+in France	+27
+-27	1972
+1738	0
+-3	1
+11
+August 10
+1924	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	+2
+-2	1809
+1970	0
+0	4
+1
+August 31
+1924	Uruguay
+Argentina	2
+3	Uruguay Ministry of Education Cup
+in Uruguay	-25
++25	1945
+1834	0
++1	1
+3
+September 21
+1924	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-5
++5	1940
+1839	0
+0	1
+3
+October 02
+1924	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+10
+-10	1849
+1930	+1
+0	2
+1
+October 12
+1924	Chile
+Uruguay	0
+1	Friendly
+in Chile	-2
++2	1392
+1932	0
+0	44
+1
+October 19
+1924	Uruguay
+Chile	5
+0	Copa América
+in Uruguay	+2
+-2	1934
+1390	0
+0	1
+44
+October 26
+1924	Uruguay
+Paraguay	3
+1	Copa América
+in Uruguay	+9
+-9	1943
+1673	0
+0	1
+18
+November 02
+1924	Uruguay
+Argentina	0
+0	Copa América
+in Uruguay	-13
++13	1930
+1855	0
++1	1
+2
+November 16
+1924	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+5
+-5	1935
+1850	0
+0	1
+2
+January 05
+1925	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+10
+-10	1860
+1925	+1
+0	2
+1
+July 14
+1925	Uruguay
+Paraguay	0
+1	Friendly
+in Uruguay	-17
++17	1908
+1721	0
++3	1
+13
+July 18
+1925	Uruguay
+Paraguay	0
+1	Friendly
+in Uruguay	-17
++17	1891
+1738	0
++1	1
+12
+August 15
+1925	Paraguay
+Uruguay	1
+0	Friendly
+in Paraguay	+12
+-12	1750
+1879	+1
+-1	11
+2
+August 19
+1925	Paraguay
+Uruguay	0
+1	Friendly
+in Paraguay	-9
++9	1741
+1888	-1
++1	12
+1
+August 23
+1925	Paraguay
+Uruguay	0
+0	Friendly
+in Paraguay	+1
+-1	1742
+1887	0
+0	12
+1
+October 17
+1926	Chile
+Uruguay	1
+3	Copa América
+in Chile	-9
++9	1421
+1896	0
++1	47
+3
+October 24
+1926	Uruguay
+Argentina	2
+0	Copa América
+in Chile	+41
+-41	1937
+1884	+2
+-3	1
+4
+October 28
+1926	Uruguay
+Bolivia	6
+0	Copa América
+in Chile	+5
+-5	1942
+1404	0
+0	1
+47
+November 01
+1926	Uruguay
+Paraguay	6
+1	Copa América
+in Chile	+14
+-14	1956
+1619	0
+0	1
+22
+July 14
+1927	Uruguay
+Argentina	0
+1	Newton Cup
+in Uruguay	-23
++23	1933
+1888	0
++1	1
+3
+August 30
+1927	Argentina
+Uruguay	0
+1	Lipton Cup
+in Argentina	-17
++17	1871
+1950	-1
+0	4
+1
+November 01
+1927	Peru
+Uruguay	0
+4	Copa América
+in Peru	-18
++18	1582
+1968	-
+0	28
+1
+November 06
+1927	Uruguay
+Bolivia	9
+0	Copa América
+in Peru	+5
+-5	1973
+1392	0
+0	1
+50
+November 20
+1927	Argentina
+Uruguay	3
+2	Copa América
+in Peru	+32
+-32	1910
+1941	+1
+0	2
+1
+December 10
+1927	Chile
+Uruguay	2
+3	Friendly
+in Chile	-2
++2	1495
+1943	-1
+0	40
+1
+May 30
+1928	Netherlands
+Uruguay	0
+2	Olympic Games
+in the Netherlands	-27
++27	1673
+1970	+1
+0	17
+1
+June 03
+1928	Uruguay
+Germany	4
+1	Olympic Games
+in the Netherlands	+20
+-20	1990
+1699	0
+-1	1
+15
+June 07
+1928	Uruguay
+Italy	3
+2	Olympic Games
+in the Netherlands	+19
+-19	2009
+1834	0
+0	1
+5
+June 10
+1928	Argentina
+Uruguay	1
+1	Olympic Games
+in the Netherlands	+2
+-2	1986
+2007	0
+0	2
+1
+June 13
+1928	Uruguay
+Argentina	2
+1	Olympic Games
+in the Netherlands	+28
+-28	2035
+1958	0
+0	1
+2
+August 15
+1928	Paraguay
+Uruguay	3
+1	Friendly
+in Paraguay	+27
+-27	1589
+2008	+5
+0	26
+1
+August 19
+1928	Paraguay
+Uruguay	1
+1	Friendly
+in Paraguay	+7
+-7	1596
+2001	0
+0	26
+1
+August 30
+1928	Argentina
+Uruguay	1
+0	Newton Cup
+in Argentina	+13
+-13	1971
+1988	0
+0	2
+1
+September 21
+1928	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	-5
++5	1983
+1976	0
+0	1
+2
+June 16
+1929	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+11
+-11	1987
+1972	+1
+-1	1
+2
+June 16
+1929	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-2
++2	1970
+1989	-1
++1	2
+1
+September 20
+1929	Uruguay
+Argentina	2
+1	Newton Cup
+in Uruguay	+12
+-12	1982
+1977	+1
+-1	1
+2
+September 28
+1929	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	-4
++4	1973
+1986	0
+0	2
+1
+November 01
+1929	Paraguay
+Uruguay	3
+0	Copa América
+in Argentina	+79
+-79	1675
+1907	+9
+-2	16
+3
+November 11
+1929	Uruguay
+Peru	4
+1	Copa América
+in Argentina	+11
+-11	1918
+1553	0
+0	3
+31
+November 17
+1929	Argentina
+Uruguay	2
+0	Copa América
+in Argentina	+21
+-21	2007
+1897	0
+0	1
+3
+May 25
+1930	Argentina
+Uruguay	1
+1	Newton Cup
+in Argentina	-8
++8	1999
+1905	0
+0	1
+4
+July 18
+1930	Uruguay
+Peru	1
+0	World Cup
+in Uruguay	+3
+-3	1908
+1484	+1
+0	2
+38
+July 21
+1930	Uruguay
+Romania	4
+0	World Cup
+in Uruguay	+13
+-13	1921
+1643	0
+0	2
+19
+July 27
+1930	Uruguay
+Yugoslavia	6
+1	World Cup
+in Uruguay	+11
+-11	1932
+1610	0
+-2	2
+23
+July 30
+1930	Uruguay
+Argentina	4
+2	World Cup
+in Uruguay	+45
+-45	1977
+1989	0
+0	2
+1
+September 06
+1931	Brazil
+Uruguay	2
+0	Rio Branco Cup
+in Brazil	+29
+-29	1810
+1948	0
+0	9
+2
+May 15
+1932	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+10
+-10	1990
+1938	0
+0	1
+2
+May 18
+1932	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+9
+-9	1947
+1981	0
+0	2
+1
+December 04
+1932	Uruguay
+Brazil	1
+2	Rio Branco Cup
+in Uruguay	-24
++24	1923
+1834	-1
++1	3
+7
+January 21
+1933	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+9
+-9	1932
+1972	0
+0	3
+1
+February 05
+1933	Argentina
+Uruguay	4
+1	Friendly
+in Argentina	+11
+-11	1983
+1921	0
+0	1
+3
+December 14
+1933	Uruguay
+Argentina	0
+1	Friendly
+in Uruguay	-11
++11	1910
+1994	0
+0	4
+1
+July 18
+1934	Uruguay
+Argentina	2
+2	Friendly
+in Uruguay	-2
++2	1908
+1945	0
+0	4
+2
+August 15
+1934	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+6
+-6	1951
+1902	0
+0	2
+4
+January 13
+1935	Peru
+Uruguay	0
+1	Copa América
+in Peru	-7
++7	1477
+1909	0
+0	40
+4
+January 18
+1935	Uruguay
+Chile	2
+1	Copa América
+in Peru	+7
+-7	1916
+1585	+1
+0	3
+29
+January 20
+1935	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-4
++4	1957
+1920	0
+0	2
+3
+January 27
+1935	Uruguay
+Argentina	3
+0	Copa América
+in Peru	+50
+-50	1970
+1916	+1
+-1	2
+3
+July 18
+1935	Uruguay
+Argentina	1
+1	Hector Gomez Cup
+in Uruguay	-6
++6	1964
+1922	0
+0	2
+3
+August 15
+1935	Argentina
+Uruguay	3
+0	Juan Mignaburu Cup
+in Argentina	+22
+-22	1944
+1942	+1
+-1	2
+3
+August 09
+1936	Argentina
+Uruguay	1
+0	Juan Mignaburu Cup
+in Argentina	+11
+-11	1955
+1931	0
+0	2
+3
+September 20
+1936	Uruguay
+Argentina	2
+1	Hector Gomez Cup
+in Uruguay	+12
+-12	1943
+1943	+1
+0	2
+2
+January 02
+1937	Paraguay
+Uruguay	4
+2	Copa América
+in Argentina	+62
+-62	1736
+1881	+5
+0	14
+3
+January 06
+1937	Uruguay
+Peru	4
+2	Copa América
+in Argentina	+12
+-12	1893
+1588	0
+-1	3
+29
+January 10
+1937	Chile
+Uruguay	3
+0	Copa América
+in Argentina	+77
+-77	1617
+1816	+11
+-2	25
+5
+January 19
+1937	Brazil
+Uruguay	3
+2	Copa América
+in Argentina	+23
+-23	1862
+1793	0
+-3	5
+9
+January 23
+1937	Argentina
+Uruguay	2
+3	Copa América
+in Argentina	-41
++41	1922
+1834	0
++3	2
+6
+October 10
+1937	Uruguay
+Argentina	0
+3	Newton Cup
+in Uruguay	-25
++25	1809
+1980	-2
+0	8
+2
+November 11
+1937	Argentina
+Uruguay	5
+1	Lipton Cup
+in Argentina	+10
+-10	1990
+1799	0
+-2	2
+10
+June 18
+1938	Argentina
+Uruguay	1
+0	Juan Mignaburu Cup
+in Argentina	+5
+-5	1995
+1794	0
+0	2
+8
+October 12
+1938	Uruguay
+Argentina	2
+3	Hector Gomez Cup
+in Uruguay	-11
++11	1783
+2006	-2
+0	10
+2
+January 22
+1939	Uruguay
+Ecuador	6
+0	Copa América
+in Peru	+7
+-7	1790
+1328	+1
+0	9
+64
+January 29
+1939	Uruguay
+Chile	3
+2	Copa América
+in Peru	+10
+-10	1800
+1534	+1
+-1	8
+35
+February 05
+1939	Uruguay
+Paraguay	3
+1	Copa América
+in Peru	+25
+-25	1825
+1651	0
+0	8
+18
+February 12
+1939	Peru
+Uruguay	2
+1	Copa América
+in Peru	+24
+-24	1764
+1801	+1
+0	13
+8
+March 12
+1940	Uruguay
+Chile	3
+2	Friendly
+in Uruguay	+3
+-3	1804
+1564	0
+0	7
+35
+March 24
+1940	Brazil
+Uruguay	3
+4	Rio Branco Cup
+in Brazil	-21
++21	1827
+1825	0
+0	6
+7
+March 31
+1940	Brazil
+Uruguay	1
+1	Rio Branco Cup
+in Brazil	-4
++4	1823
+1829	-1
++1	7
+6
+July 18
+1940	Uruguay
+Argentina	3
+0	Hector Gomez Cup
+in Uruguay	+34
+-34	1863
+1996	0
+-1	6
+2
+August 15
+1940	Argentina
+Uruguay	5
+0	Juan Mignaburu Cup
+in Argentina	+12
+-12	2008
+1851	0
+0	2
+6
+February 09
+1941	Uruguay
+Ecuador	6
+0	Copa América
+in Chile	+4
+-4	1855
+1284	0
+-1	6
+71
+February 16
+1941	Chile
+Uruguay	0
+2	Copa América
+in Chile	-22
++22	1578
+1877	-3
++3	35
+3
+February 23
+1941	Argentina
+Uruguay	1
+0	Copa América
+in Chile	+15
+-15	2043
+1862	0
+-3	1
+6
+February 26
+1941	Uruguay
+Peru	2
+0	Copa América
+in Chile	+24
+-24	1886
+1703	+3
+-1	3
+17
+January 10
+1942	Uruguay
+Chile	6
+1	Copa América
+in Uruguay	+8
+-8	1894
+1565	0
+-1	3
+37
+January 18
+1942	Uruguay
+Ecuador	7
+0	Copa América
+in Uruguay	+2
+-2	1896
+1274	0
+-1	3
+73
+January 24
+1942	Uruguay
+Brazil	1
+0	Copa América
+in Uruguay	+15
+-15	1911
+1831	0
+0	3
+7
+January 28
+1942	Uruguay
+Paraguay	3
+1	Copa América
+in Uruguay	+10
+-10	1921
+1668	0
+-1	3
+18
+February 01
+1942	Uruguay
+Peru	3
+0	Copa América
+in Uruguay	+11
+-11	1932
+1668	0
+-1	3
+18
+February 07
+1942	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+26
+-26	1958
+2023	0
+0	3
+1
+May 25
+1942	Argentina
+Uruguay	4
+1	Newton Cup
+in Argentina	+15
+-15	2038
+1943	+1
+0	1
+3
+August 25
+1942	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	0
+0	1943
+2038	0
+0	3
+1
+January 06
+1943	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+5
+-5	2043
+1938	0
+0	1
+3
+January 09
+1943	Uruguay
+Argentina	6
+2	Friendly
+in Uruguay	+19
+-19	1957
+2024	0
+-1	3
+2
+March 28
+1943	Argentina
+Uruguay	3
+3	Juan Mignaburu Cup
+in Argentina	-7
++7	2017
+1964	0
+0	2
+3
+April 04
+1943	Uruguay
+Argentina	0
+1	Hector Gomez Cup
+in Uruguay	-17
++17	1947
+2034	0
++1	3
+1
+January 05
+1944	Uruguay
+Argentina	1
+3	Friendly
+in Uruguay	-16
++16	1931
+2035	0
++1	3
+1
+January 08
+1944	Argentina
+Uruguay	3
+3	Friendly
+in Argentina	-5
++5	2030
+1936	0
+0	1
+3
+January 29
+1944	Argentina
+Uruguay	6
+2	Friendly
+in Argentina	+9
+-9	2039
+1927	0
+0	1
+3
+January 29
+1944	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+10
+-10	1937
+2029	0
+0	3
+1
+May 14
+1944	Brazil
+Uruguay	6
+1	Friendly
+in Brazil	+21
+-21	1844
+1916	0
+0	8
+3
+May 17
+1944	Brazil
+Uruguay	4
+0	Friendly
+in Brazil	+17
+-17	1861
+1899	+1
+0	7
+3
+January 24
+1945	Uruguay
+Ecuador	5
+1	Copa América
+in Chile	+2
+-2	1901
+1240	0
+0	3
+75
+January 28
+1945	Uruguay
+Colombia	7
+0	Copa América
+in Chile	+9
+-9	1910
+1462	0
+-2	3
+50
+February 07
+1945	Brazil
+Uruguay	3
+0	Copa América
+in Chile	+48
+-48	1923
+1862	+1
+-4	3
+7
+February 15
+1945	Uruguay
+Bolivia	2
+0	Copa América
+in Chile	+4
+-4	1866
+1375	0
+0	7
+59
+February 18
+1945	Chile
+Uruguay	1
+0	Copa América
+in Chile	+35
+-35	1656
+1831	+6
+-1	20
+8
+February 25
+1945	Argentina
+Uruguay	1
+0	Copa América
+in Chile	+11
+-11	2063
+1820	0
+0	1
+8
+July 18
+1945	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	+5
+-5	1825
+2023	0
+-1	8
+2
+August 15
+1945	Argentina
+Uruguay	6
+2	Newton Cup
+in Argentina	+9
+-9	2032
+1816	+1
+0	1
+8
+December 29
+1945	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	+2
+-2	1818
+1991	0
+0	8
+2
+January 05
+1946	Uruguay
+Brazil	4
+3	Rio Branco Cup
+in Uruguay	+16
+-16	1834
+1936	0
+0	8
+3
+January 09
+1946	Uruguay
+Brazil	1
+1	Rio Branco Cup
+in Uruguay	0
+0	1834
+1936	0
+0	8
+3
+January 16
+1946	Uruguay
+Chile	1
+0	Copa América
+in Argentina	+12
+-12	1846
+1629	0
+0	8
+23
+January 23
+1946	Brazil
+Uruguay	4
+3	Copa América
+in Argentina	+18
+-18	1957
+1828	0
+0	3
+8
+January 29
+1946	Uruguay
+Bolivia	5
+0	Copa América
+in Argentina	+7
+-7	1835
+1358	0
+-2	8
+61
+February 02
+1946	Argentina
+Uruguay	3
+1	Copa América
+in Argentina	+13
+-13	2019
+1822	0
+0	2
+8
+February 08
+1946	Paraguay
+Uruguay	2
+1	Copa América
+in Argentina	+33
+-33	1743
+1789	+1
+-3	15
+11
+March 02
+1947	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+2
+-2	2042
+1787	0
+0	1
+10
+March 09
+1947	Uruguay
+Argentina	4
+4	Friendly
+in Uruguay	+4
+-4	1791
+2038	0
+0	10
+1
+March 29
+1947	Brazil
+Uruguay	0
+0	Rio Branco Cup
+in Brazil	-9
++9	1926
+1800	0
++1	3
+9
+April 01
+1947	Brazil
+Uruguay	3
+2	Rio Branco Cup
+in Brazil	+6
+-6	1932
+1794	0
+-1	3
+10
+April 04
+1947	Brazil
+Uruguay	1
+1	Friendly
+in Brazil	-6
++6	1926
+1800	0
++1	3
+9
+December 02
+1947	Uruguay
+Colombia	2
+0	Copa América
+in Ecuador	+15
+-15	1815
+1543	0
+-2	9
+39
+December 06
+1947	Uruguay
+Chile	6
+0	Copa América
+in Ecuador	+30
+-30	1845
+1624	+2
+0	7
+23
+December 09
+1947	Uruguay
+Bolivia	3
+0	Copa América
+in Ecuador	+5
+-5	1850
+1336	+1
+0	6
+69
+December 13
+1947	Paraguay
+Uruguay	4
+2	Copa América
+in Ecuador	+51
+-51	1773
+1799	+4
+-3	13
+9
+December 16
+1947	Ecuador
+Uruguay	1
+6	Copa América
+in Ecuador	-6
++6	1224
+1805	-1
+0	83
+9
+December 26
+1947	Uruguay
+Peru	1
+0	Copa América
+in Ecuador	+14
+-14	1819
+1633	+2
+0	8
+23
+December 28
+1947	Argentina
+Uruguay	3
+1	Copa América
+in Ecuador	+16
+-16	2062
+1803	0
+-2	1
+10
+April 04
+1948	Uruguay
+Brazil	1
+1	Rio Branco Cup
+in Uruguay	+1
+-1	1804
+1925	0
+0	10
+4
+April 11
+1948	Uruguay
+Brazil	4
+2	Rio Branco Cup
+in Uruguay	+24
+-24	1828
+1901	+3
+0	7
+4
+May 18
+1948	Uruguay
+Argentina	0
+1	Friendly
+in Uruguay	-6
++6	1822
+2068	-2
+0	9
+1
+May 25
+1948	Argentina
+Uruguay	0
+2	Friendly
+in Argentina	-26
++26	2042
+1848	0
++4	1
+5
+April 13
+1949	Uruguay
+Ecuador	3
+2	Copa América
+in Brazil	+1
+-1	1849
+1231	0
+0	6
+85
+April 17
+1949	Bolivia
+Uruguay	3
+2	Copa América
+in Brazil	+47
+-47	1413
+1802	+7
+-4	59
+10
+April 20
+1949	Uruguay
+Paraguay	2
+1	Copa América
+in Brazil	+28
+-28	1830
+1820	+3
+-2	7
+8
+April 24
+1949	Colombia
+Uruguay	2
+2	Copa América
+in Brazil	+21
+-21	1447
+1809	+4
+-2	53
+9
+April 30
+1949	Brazil
+Uruguay	5
+1	Copa América
+in Brazil	+21
+-21	1947
+1788	+2
+-2	3
+12
+May 04
+1949	Peru
+Uruguay	4
+3	Copa América
+in Brazil	+31
+-31	1731
+1757	+2
+-1	17
+13
+May 08
+1949	Chile
+Uruguay	3
+1	Copa América
+in Brazil	+56
+-56	1631
+1701	+3
+-6	26
+19
+April 07
+1950	Chile
+Uruguay	1
+5	Friendly
+in Chile	-19
++19	1594
+1720	-2
++1	29
+17
+April 09
+1950	Chile
+Uruguay	2
+1	Friendly
+in Chile	+11
+-11	1605
+1709	+1
+0	28
+17
+April 30
+1950	Paraguay
+Uruguay	3
+2	Friendly
+in Brazil	+6
+-6	1855
+1703	0
+-1	7
+19
+May 06
+1950	Brazil
+Uruguay	3
+4	Rio Branco Cup
+in Brazil	-26
++26	1920
+1729	0
++2	4
+17
+May 14
+1950	Brazil
+Uruguay	3
+2	Rio Branco Cup
+in Brazil	+5
+-5	1930
+1724	0
+0	4
+17
+May 18
+1950	Brazil
+Uruguay	1
+0	Rio Branco Cup
+in Brazil	+4
+-4	1934
+1720	0
+0	4
+17
+July 02
+1950	Uruguay
+Bolivia	8
+0	World Cup
+in Brazil	+27
+-27	1747
+1441	+1
+-3	15
+57
+July 09
+1950	Spain
+Uruguay	2
+2	World Cup
+in Brazil	-14
++14	1903
+1761	0
+0	5
+14
+July 13
+1950	Uruguay
+Sweden	3
+2	World Cup
+in Brazil	+41
+-41	1802
+1857	+2
+-1	12
+7
+July 16
+1950	Brazil
+Uruguay	1
+2	World Cup
+in Brazil	-52
++52	1975
+1854	0
++5	2
+7
+March 23
+1952	Uruguay
+Mexico	3
+1	Pan American Championship
+in Chile	+20
+-20	1874
+1657	+2
+-4	6
+24
+March 30
+1952	Uruguay
+Peru	5
+2	Pan American Championship
+in Chile	+29
+-29	1903
+1723	+2
+-1	4
+16
+April 06
+1952	Uruguay
+Panama	6
+1	Pan American Championship
+in Chile	+8
+-8	1911
+1460	+1
+0	4
+55
+April 13
+1952	Chile
+Uruguay	2
+0	Pan American Championship
+in Chile	+48
+-48	1759
+1863	+4
+-2	15
+6
+April 16
+1952	Brazil
+Uruguay	4
+2	Pan American Championship
+in Chile	+26
+-26	1998
+1837	0
+-2	2
+8
+February 25
+1953	Uruguay
+Bolivia	2
+0	Copa América
+in Peru	+9
+-9	1846
+1478	-1
+-3	9
+54
+March 01
+1953	Chile
+Uruguay	3
+2	Copa América
+in Peru	+35
+-35	1734
+1811	+5
+-2	15
+11
+March 12
+1953	Paraguay
+Uruguay	2
+2	Copa América
+in Peru	-1
++1	1828
+1812	0
+0	9
+11
+March 15
+1953	Brazil
+Uruguay	1
+0	Copa América
+in Peru	+11
+-11	2042
+1801	0
+0	2
+11
+March 23
+1953	Uruguay
+Ecuador	6
+0	Copa América
+in Peru	+5
+-5	1806
+1265	0
+0	11
+93
+March 28
+1953	Peru
+Uruguay	0
+3	Copa América
+in Peru	-49
++49	1697
+1855	-5
++3	20
+8
+May 31
+1953	Uruguay
+England	2
+1	Friendly
+in Uruguay	+9
+-9	1864
+1920	0
+0	7
+4
+April 10
+1954	Uruguay
+Paraguay	1
+4	Friendly
+in Uruguay	-21
++21	1843
+1910	0
++1	9
+5
+April 18
+1954	Paraguay
+Uruguay	1
+1	Friendly
+in Paraguay	-4
++4	1906
+1847	0
+0	5
+9
+May 23
+1954	Switzerland
+Uruguay	3
+3	Friendly
+in Switzerland	+4
+-4	1610
+1843	0
+0	30
+9
+June 05
+1954	Saar
+Uruguay	1
+7	Friendly
+in Saar	-12
++12	1576
+1855	-2
+0	36
+9
+June 16
+1954	Uruguay
+Czechoslovakia	2
+0	World Cup
+in Switzerland	+25
+-25	1880
+1665	0
+-1	9
+21
+June 19
+1954	Uruguay
+Scotland	7
+0	World Cup
+in Switzerland	+47
+-47	1927
+1724	+4
+-3	4
+16
+June 26
+1954	Uruguay
+England	4
+2	World Cup
+in Switzerland	+48
+-48	1975
+1899	+1
+-3	4
+7
+June 30
+1954	Hungary
+Uruguay	4
+2	World Cup
+in Switzerland	+25
+-25	2166
+1950	0
+-1	1
+5
+July 03
+1954	Austria
+Uruguay	3
+1	World Cup
+in Switzerland	+58
+-58	1902
+1892	+3
+-3	6
+8
+March 09
+1955	Uruguay
+Paraguay	3
+1	Copa América
+in Chile	+36
+-36	1928
+1845	+1
+0	5
+9
+March 13
+1955	Chile
+Uruguay	2
+2	Copa América
+in Chile	+11
+-11	1674
+1917	+1
+-1	21
+6
+March 23
+1955	Uruguay
+Ecuador	5
+1	Copa América
+in Chile	+2
+-2	1919
+1247	0
+0	6
+101
+March 27
+1955	Argentina
+Uruguay	6
+1	Copa América
+in Chile	+34
+-34	2072
+1885	0
+-1	2
+7
+March 30
+1955	Peru
+Uruguay	2
+1	Copa América
+in Chile	+36
+-36	1760
+1849	+2
+-2	14
+9
+January 21
+1956	Uruguay
+Paraguay	4
+2	Copa América
+in Uruguay	+21
+-21	1870
+1764	+1
+0	7
+14
+January 28
+1956	Uruguay
+Peru	2
+0	Copa América
+in Uruguay	+17
+-17	1887
+1736	0
+-2	7
+18
+February 06
+1956	Uruguay
+Chile	2
+1	Copa América
+in Uruguay	+12
+-12	1899
+1777	+1
+-2	6
+14
+February 10
+1956	Uruguay
+Brazil	0
+0	Copa América
+in Uruguay	-4
++4	1895
+1945	-1
+0	7
+3
+February 15
+1956	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+30
+-30	1925
+2040	+2
+0	5
+2
+June 24
+1956	Brazil
+Uruguay	2
+0	Atlantic Cup
+in Brazil	+12
+-12	2011
+1913	0
+0	3
+5
+July 01
+1956	Uruguay
+Argentina	1
+2	Atlantic Cup
+in Uruguay	-14
++14	1899
+2041	0
+0	5
+1
+July 15
+1956	Paraguay
+Uruguay	2
+2	Friendly
+in Paraguay	+3
+-3	1704
+1896	0
+-2	21
+7
+August 12
+1956	Uruguay
+Czechoslovakia	2
+1	Friendly
+in Uruguay	+5
+-5	1901
+1781	+2
+-1	5
+14
+October 10
+1956	Uruguay
+Argentina	1
+2	Friendly
+in Uruguay	-9
++9	1892
+2053	0
+0	5
+2
+November 14
+1956	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-6
++6	2047
+1898	0
+0	2
+5
+March 07
+1957	Uruguay
+Ecuador	5
+2	Copa América
+in Peru	+2
+-2	1900
+1245	0
+0	5
+104
+March 17
+1957	Colombia
+Uruguay	1
+0	Copa América
+in Peru	+48
+-48	1416
+1852	+16
+0	65
+5
+March 20
+1957	Argentina
+Uruguay	4
+0	Copa América
+in Peru	+23
+-23	2073
+1829	0
+-2	2
+7
+March 23
+1957	Peru
+Uruguay	3
+5	Copa América
+in Peru	-37
++37	1691
+1866	-3
++2	21
+5
+March 28
+1957	Uruguay
+Brazil	3
+2	Copa América
+in Peru	+36
+-36	1902
+1991	0
+0	5
+3
+April 01
+1957	Uruguay
+Chile	2
+0	Copa América
+in Peru	+17
+-17	1919
+1674	0
+-1	5
+21
+May 23
+1957	Uruguay
+Argentina	0
+0	Newton Cup
+in Uruguay	+3
+-3	1922
+2078	0
+0	5
+1
+June 05
+1957	Argentina
+Uruguay	1
+1	Lipton Cup
+in Argentina	-9
++9	2069
+1931	-1
+0	2
+5
+June 16
+1957	Colombia
+Uruguay	1
+1	World Cup qualifier
+in Colombia	+17
+-17	1440
+1914	+1
+0	66
+5
+June 30
+1957	Uruguay
+Colombia	1
+0	World Cup qualifier
+in Uruguay	+1
+-1	1915
+1421	0
+0	5
+67
+July 14
+1957	Paraguay
+Uruguay	5
+0	World Cup qualifier
+in Paraguay	+52
+-52	1756
+1863	+4
+0	18
+5
+July 28
+1957	Uruguay
+Paraguay	2
+0	World Cup qualifier
+in Uruguay	+14
+-14	1877
+1742	0
+0	5
+18
+April 06
+1958	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+11
+-11	1888
+2015	0
+-1	5
+2
+April 30
+1958	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+7
+-7	2010
+1881	0
+0	2
+5
+March 08
+1959	Uruguay
+Bolivia	7
+0	Copa América
+in Argentina	+19
+-19	1900
+1588	+2
+-2	3
+41
+March 14
+1959	Peru
+Uruguay	5
+3	Copa América
+in Argentina	+53
+-53	1800
+1847	+5
+-5	14
+8
+March 18
+1959	Uruguay
+Paraguay	3
+1	Copa América
+in Argentina	+30
+-30	1877
+1747	+2
+-3	6
+19
+March 26
+1959	Brazil
+Uruguay	3
+1	Copa América
+in Argentina	+17
+-17	2106
+1860	0
+-1	1
+7
+March 30
+1959	Argentina
+Uruguay	4
+1	Copa América
+in Argentina	+24
+-24	1954
+1836	0
+-1	2
+8
+April 02
+1959	Chile
+Uruguay	1
+0	Copa América
+in Argentina	+37
+-37	1693
+1799	+2
+-5	25
+13
+May 01
+1959	Uruguay
+Paraguay	1
+3	Friendly
+in Uruguay	-21
++21	1778
+1773	-2
++2	14
+15
+December 06
+1959	Ecuador
+Uruguay	0
+4	Copa América
+in Ecuador	-7
++7	1228
+1785	-1
++1	110
+15
+December 12
+1959	Uruguay
+Brazil	3
+0	Copa América
+in Ecuador	+77
+-77	1862
+2048	+9
+0	6
+1
+December 16
+1959	Uruguay
+Argentina	5
+0	Copa América
+in Ecuador	+60
+-60	1922
+1873	+3
+-3	3
+5
+December 22
+1959	Paraguay
+Uruguay	1
+1	Copa América
+in Ecuador	+12
+-12	1758
+1910	+2
+-1	18
+4
+June 01
+1960	Chile
+Uruguay	2
+3	Friendly
+in Chile	-6
++6	1664
+1916	0
++1	27
+4
+June 05
+1960	Uruguay
+Chile	2
+2	Friendly
+in Uruguay	-8
++8	1908
+1672	-1
+0	5
+27
+July 09
+1960	Uruguay
+Brazil	1
+0	Atlantic Cup
+in Uruguay	+16
+-16	1924
+2010	+1
+0	4
+1
+July 13
+1960	Uruguay
+Paraguay	2
+1	Atlantic Cup
+in Uruguay	+4
+-4	1928
+1677	+1
+-1	4
+25
+August 17
+1960	Argentina
+Uruguay	4
+0	Atlantic Cup
+in Argentina	+18
+-18	1974
+1910	0
+-1	2
+5
+July 15
+1961	Bolivia
+Uruguay	1
+1	World Cup qualifier
+in Bolivia	+13
+-13	1545
+1897	+2
+-2	47
+7
+July 30
+1961	Uruguay
+Bolivia	2
+1	World Cup qualifier
+in Uruguay	+3
+-3	1900
+1542	+1
+0	6
+47
+October 12
+1961	Chile
+Uruguay	2
+3	Friendly
+in Chile	-7
++7	1684
+1907	0
++2	22
+4
+November 29
+1961	Uruguay
+Soviet Union	1
+2	Friendly
+in Uruguay	-12
++12	1895
+1948	-2
+0	8
+2
+December 23
+1961	Uruguay
+Hungary	1
+1	Friendly
+in Uruguay	-3
++3	1892
+1889	0
+0	7
+8
+March 13
+1962	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-2
++2	1890
+1935	0
+0	7
+3
+April 11
+1962	West Germany
+Uruguay	3
+0	Friendly
+in West Germany	+15
+-15	1846
+1875	+1
+-1	10
+9
+April 18
+1962	Hungary
+Uruguay	1
+1	Friendly
+in Hungary	-3
++3	1886
+1878	0
+0	7
+8
+April 22
+1962	Czechoslovakia
+Uruguay	3
+1	Friendly
+in Czechoslovakia	+9
+-9	1921
+1869	+2
+0	4
+8
+April 27
+1962	Soviet Union
+Uruguay	5
+0	Friendly
+in the Soviet Union	+10
+-10	1974
+1859	0
+-1	2
+9
+May 02
+1962	Scotland
+Uruguay	2
+3	Friendly
+in Scotland	-12
++12	1820
+1871	-2
++1	13
+8
+May 30
+1962	Uruguay
+Colombia	2
+1	World Cup
+in Chile	+5
+-5	1876
+1453	0
+-1	9
+68
+June 02
+1962	Yugoslavia
+Uruguay	3
+1	World Cup
+in Chile	+45
+-45	1924
+1831	+3
+-3	4
+11
+June 06
+1962	Soviet Union
+Uruguay	2
+1	World Cup
+in Chile	+18
+-18	2003
+1813	0
+-2	2
+13
+August 15
+1962	Argentina
+Uruguay	3
+1	Lipton Cup
+in Argentina	+11
+-11	1911
+1802	0
+-2	5
+15
+March 23
+1963	Uruguay
+Chile	3
+2	Pinto Duran Cup
+in Uruguay	+10
+-10	1812
+1774	+2
+0	13
+19
+July 24
+1963	Chile
+Uruguay	0
+0	Pinto Duran Cup
+in Chile	-3
++3	1771
+1815	0
+0	18
+12
+April 25
+1964	Morocco
+Uruguay	0
+1	Friendly
+in Morocco	-7
++7	1611
+1822	-4
+0	36
+13
+April 29
+1964	Northern Ireland
+Uruguay	3
+0	Friendly
+in Northern Ireland	+23
+-23	1626
+1799	+6
+-1	32
+14
+May 06
+1964	England
+Uruguay	2
+1	Friendly
+in England	+5
+-5	1890
+1794	0
+-1	5
+15
+May 14
+1964	Austria
+Uruguay	0
+2	Friendly
+in Austria	-17
++17	1734
+1811	-1
++2	21
+13
+May 20
+1964	Soviet Union
+Uruguay	1
+0	Friendly
+in the Soviet Union	+4
+-4	1957
+1807	0
+0	1
+13
+January 03
+1965	Uruguay
+East Germany	0
+2	Friendly
+in Uruguay	-19
++19	1788
+1837	-2
++1	16
+11
+April 25
+1965	Paraguay
+Uruguay	2
+1	Artigas Cup
+in Paraguay	+11
+-11	1787
+1777	+2
+-2	17
+19
+May 01
+1965	Uruguay
+Paraguay	4
+0	Artigas Cup
+in Uruguay	+21
+-21	1798
+1766	+4
+-4	16
+21
+May 09
+1965	Chile
+Uruguay	0
+0	Pinto Duran Cup
+in Chile	-4
++4	1783
+1802	-1
+0	19
+16
+May 16
+1965	Uruguay
+Chile	1
+1	Pinto Duran Cup
+in Uruguay	-5
++5	1797
+1788	0
++1	16
+18
+May 23
+1965	Uruguay
+Venezuela	5
+0	World Cup qualifier
+in Uruguay	+4
+-4	1801
+1360	0
+-2	16
+101
+May 30
+1965	Venezuela
+Uruguay	1
+3	World Cup qualifier
+in Venezuela	-7
++7	1353
+1808	-1
++2	102
+14
+June 06
+1965	Peru
+Uruguay	0
+1	World Cup qualifier
+in Peru	-15
++15	1598
+1823	-5
++1	41
+13
+June 13
+1965	Uruguay
+Peru	2
+1	World Cup qualifier
+in Uruguay	+5
+-5	1828
+1593	+1
+0	12
+41
+September 07
+1965	Brazil
+Uruguay	3
+0	Friendly
+in Brazil	+8
+-8	1959
+1820	0
+-1	2
+12
+December 04
+1965	Uruguay
+Soviet Union	1
+3	Friendly
+in Uruguay	-18
++18	1802
+1879	-1
++3	14
+5
+May 15
+1966	Paraguay
+Uruguay	2
+2	Artigas Cup
+in Paraguay	-2
++2	1742
+1804	0
+0	20
+13
+May 18
+1966	Uruguay
+Paraguay	3
+1	Artigas Cup
+in Uruguay	+13
+-13	1817
+1729	+1
+-3	12
+23
+June 15
+1966	Israel
+Uruguay	1
+2	Friendly
+in Israel	-5
++5	1500
+1822	0
+0	61
+12
+June 19
+1966	Romania
+Uruguay	1
+0	Friendly
+in Romania	+8
+-8	1790
+1814	+1
+0	15
+12
+June 23
+1966	Spain
+Uruguay	1
+1	Friendly
+in Spain	-4
++4	1843
+1818	0
+0	9
+12
+June 26
+1966	Portugal
+Uruguay	3
+0	Friendly
+in Portugal	+16
+-16	1769
+1802	+1
+-1	17
+13
+July 11
+1966	England
+Uruguay	0
+0	World Cup
+in England	-18
++18	1921
+1820	-1
++1	4
+12
+July 15
+1966	Uruguay
+France	2
+1	World Cup
+in England	+21
+-21	1841
+1693	+2
+-2	10
+27
+July 19
+1966	Mexico
+Uruguay	0
+0	World Cup
+in England	+4
+-4	1800
+1837	+1
+0	14
+11
+July 23
+1966	West Germany
+Uruguay	4
+0	World Cup
+in England	+39
+-39	1985
+1798	+2
+-3	2
+14
+January 04
+1967	Uruguay
+Romania	1
+1	Friendly
+in Uruguay	-3
++3	1795
+1791	-1
+0	15
+17
+January 17
+1967	Uruguay
+Bolivia	4
+0	Copa América
+in Uruguay	+21
+-21	1816
+1655	+2
+-1	11
+32
+January 21
+1967	Uruguay
+Venezuela	4
+0	Copa América
+in Uruguay	+3
+-3	1819
+1319	0
+-1	11
+109
+January 26
+1967	Uruguay
+Chile	2
+2	Copa América
+in Uruguay	-12
++12	1807
+1741	-1
+0	12
+21
+January 29
+1967	Uruguay
+Paraguay	2
+0	Copa América
+in Uruguay	+17
+-17	1824
+1673	+1
+-4	11
+31
+February 02
+1967	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+29
+-29	1853
+1958	+1
+-1	10
+3
+June 25
+1967	Uruguay
+Brazil	0
+0	Rio Branco Cup
+in Uruguay	-4
++4	1849
+1873	0
+0	11
+10
+June 28
+1967	Uruguay
+Brazil	2
+2	Rio Branco Cup
+in Uruguay	-3
++3	1846
+1876	0
+0	11
+10
+July 01
+1967	Uruguay
+Brazil	1
+1	Rio Branco Cup
+in Uruguay	-3
++3	1843
+1879	0
++1	11
+9
+July 28
+1967	Peru
+Uruguay	0
+1	Friendly
+in Peru	-6
++6	1582
+1849	-1
+0	43
+11
+July 30
+1967	Peru
+Uruguay	1
+2	Friendly
+in Peru	-6
++6	1576
+1855	-1
+0	44
+11
+May 21
+1968	Mexico
+Uruguay	3
+3	Friendly
+in Mexico	-1
++1	1778
+1856	0
+0	16
+10
+May 28
+1968	Mexico
+Uruguay	2
+2	Friendly
+in Mexico	-1
++1	1777
+1857	0
+0	16
+10
+June 02
+1968	Paraguay
+Uruguay	0
+0	Artigas Cup
+in Paraguay	+2
+-2	1711
+1855	0
+0	23
+10
+June 05
+1968	Argentina
+Uruguay	2
+0	Newton Cup
+in Argentina	+14
+-14	1902
+1841	+2
+0	5
+10
+June 09
+1968	Brazil
+Uruguay	2
+0	Friendly
+in Brazil	+9
+-9	1897
+1832	+1
+-1	6
+11
+June 12
+1968	Brazil
+Uruguay	4
+0	Friendly
+in Brazil	+10
+-10	1907
+1822	+2
+0	5
+11
+June 20
+1968	Uruguay
+Argentina	2
+1	Lipton Cup
+in Uruguay	+14
+-14	1836
+1888	0
+-2	11
+8
+October 26
+1968	Uruguay
+Mexico	0
+2	Friendly
+in Uruguay	-22
++22	1814
+1795	-2
++2	13
+15
+June 08
+1969	Uruguay
+England	1
+2	Friendly
+in Uruguay	-7
++7	1807
+2039	0
+0	11
+1
+June 27
+1969	Peru
+Uruguay	1
+0	Friendly
+in Peru	+13
+-13	1615
+1794	+3
+-3	39
+14
+July 02
+1969	Colombia
+Uruguay	0
+1	Friendly
+in Colombia	-3
++3	1407
+1797	0
++1	86
+13
+July 06
+1969	Ecuador
+Uruguay	0
+2	World Cup qualifier
+in Ecuador	-11
++11	1426
+1808	-3
++2	84
+11
+July 13
+1969	Chile
+Uruguay	0
+0	World Cup qualifier
+in Chile	-3
++3	1764
+1811	-1
+0	17
+11
+July 20
+1969	Uruguay
+Ecuador	1
+0	World Cup qualifier
+in Uruguay	+2
+-2	1813
+1424	0
+-1	11
+85
+August 10
+1969	Uruguay
+Chile	2
+0	World Cup qualifier
+in Uruguay	+17
+-17	1830
+1734	0
+-3	10
+22
+March 31
+1970	Uruguay
+Peru	2
+0	Friendly
+in Uruguay	+5
+-5	1835
+1664	0
+-1	9
+33
+April 08
+1970	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+8
+-8	1809
+1827	+1
+0	10
+9
+April 15
+1970	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+7
+-7	1834
+1802	0
+-1	9
+11
+April 18
+1970	Peru
+Uruguay	4
+2	Friendly
+in Peru	+18
+-18	1682
+1816	+6
+0	27
+9
+June 02
+1970	Uruguay
+Israel	2
+0	World Cup
+in Mexico	+24
+-24	1840
+1612	0
+-2	9
+40
+June 06
+1970	Italy
+Uruguay	0
+0	World Cup
+in Mexico	-11
++11	1963
+1851	0
++1	3
+8
+June 10
+1970	Sweden
+Uruguay	1
+0	World Cup
+in Mexico	+37
+-37	1804
+1814	+5
+-1	11
+9
+June 14
+1970	Uruguay
+Soviet Union	1
+0	World Cup
+in Mexico	+42
+-42	1856
+1923	0
+-1	8
+5
+June 17
+1970	Brazil
+Uruguay	3
+1	World Cup
+in Mexico	+21
+-21	2086
+1835	0
+0	1
+8
+June 20
+1970	West Germany
+Uruguay	1
+0	World Cup
+in Mexico	+17
+-17	2009
+1818	0
+0	3
+8
+February 08
+1971	Uruguay
+East Germany	0
+3	Friendly
+in Uruguay	-19
++19	1799
+1908	-3
+0	11
+6
+February 10
+1971	Uruguay
+East Germany	1
+1	Friendly
+in Uruguay	0
+0	1799
+1908	0
+0	11
+6
+July 14
+1971	Argentina
+Uruguay	1
+0	Newton Cup
+in Argentina	+11
+-11	1815
+1788	+3
+-1	10
+15
+July 18
+1971	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	-3
++3	1785
+1818	0
+0	15
+10
+October 27
+1971	Uruguay
+Chile	3
+0	Pinto Duran Cup
+in Uruguay	+14
+-14	1799
+1699	+2
+-1	13
+27
+November 03
+1971	Chile
+Uruguay	5
+0	Pinto Duran Cup
+in Chile	+30
+-30	1729
+1769	+4
+-3	23
+16
+May 23
+1972	Spain
+Uruguay	2
+0	Friendly
+in Spain	+9
+-9	1828
+1760	+1
+0	9
+16
+May 27
+1972	East Germany
+Uruguay	1
+0	Friendly
+in East Germany	+5
+-5	1858
+1755	0
+0	7
+16
+May 31
+1972	East Germany
+Uruguay	0
+0	Friendly
+in East Germany	-5
++5	1853
+1760	0
+0	7
+16
+June 14
+1972	Norway
+Uruguay	0
+1	Friendly
+in Norway	-4
++4	1418
+1764	-1
++1	82
+16
+June 29
+1972	Soviet Union
+Uruguay	1
+0	Independence Cup
+in Brazil	+11
+-11	1942
+1753	0
+-2	4
+18
+July 02
+1972	Portugal
+Uruguay	1
+1	Independence Cup
+in Brazil	-6
++6	1847
+1759	-1
+0	7
+18
+July 06
+1972	Argentina
+Uruguay	1
+0	Independence Cup
+in Brazil	+16
+-16	1850
+1743	+2
+-4	8
+22
+May 17
+1973	Argentina
+Uruguay	1
+1	Lipton Cup
+in Argentina	-8
++8	1834
+1751	-1
++1	11
+23
+May 23
+1973	Uruguay
+Argentina	1
+1	Newton Cup
+in Uruguay	-1
++1	1750
+1835	-1
+0	23
+11
+June 06
+1973	Haiti
+Uruguay	0
+0	Friendly
+in Haiti	+3
+-3	1546
+1747	0
+0	57
+24
+June 24
+1973	Colombia
+Uruguay	0
+0	World Cup qualifier
+in Colombia	+12
+-12	1421
+1735	+3
+-2	81
+25
+July 01
+1973	Ecuador
+Uruguay	1
+2	World Cup qualifier
+in Ecuador	-9
++9	1423
+1744	-4
++2	80
+23
+July 05
+1973	Uruguay
+Colombia	0
+1	World Cup qualifier
+in Uruguay	-37
++37	1707
+1462	-3
++9	26
+69
+July 08
+1973	Uruguay
+Ecuador	4
+0	World Cup qualifier
+in Uruguay	+7
+-7	1714
+1416	+1
+-1	25
+81
+July 19
+1973	Israel
+Uruguay	1
+2	Friendly
+in Israel	-12
++12	1665
+1726	-2
+0	32
+25
+March 23
+1974	Haiti
+Uruguay	0
+1	Friendly
+in Haiti	-8
++8	1563
+1734	-4
+0	51
+26
+March 25
+1974	Haiti
+Uruguay	0
+0	Friendly
+in Haiti	+2
+-2	1565
+1732	+2
+0	49
+26
+March 28
+1974	Jamaica
+Uruguay	0
+3	Friendly
+in Jamaica	-3
++3	1222
+1735	-1
+0	134
+26
+April 21
+1974	Indonesia
+Uruguay	2
+3	Friendly
+in Indonesia	-4
++4	1372
+1739	-1
+0	97
+26
+April 26
+1974	Australia
+Uruguay	0
+0	Friendly
+in Australia	0
+0	1650
+1739	0
+0	33
+25
+April 28
+1974	Australia
+Uruguay	2
+0	Friendly
+in Australia	+15
+-15	1665
+1724	+1
+-2	32
+27
+May 08
+1974	Uruguay
+Ireland	2
+0	Friendly
+in Uruguay	+6
+-6	1730
+1559	+1
+-3	26
+51
+June 15
+1974	Netherlands
+Uruguay	2
+0	World Cup
+in West Germany	+36
+-36	1834
+1694	+6
+-3	11
+28
+June 19
+1974	Bulgaria
+Uruguay	1
+1	World Cup
+in West Germany	-8
++8	1780
+1702	0
+0	20
+27
+June 23
+1974	Sweden
+Uruguay	3
+0	World Cup
+in West Germany	+35
+-35	1857
+1667	+6
+-3	10
+30
+June 04
+1975	Uruguay
+Chile	1
+0	Pinto Duran Cup
+in Uruguay	+14
+-14	1681
+1720	+2
+-2	30
+25
+June 12
+1975	Paraguay
+Uruguay	0
+1	Artigas Cup
+in Paraguay	-21
++21	1713
+1702	-3
++2	26
+28
+June 19
+1975	Uruguay
+Paraguay	0
+1	Artigas Cup
+in Uruguay	-19
++19	1683
+1732	-2
++3	30
+23
+June 25
+1975	Chile
+Uruguay	1
+3	Pinto Duran Cup
+in Chile	-31
++31	1689
+1714	-3
++4	28
+26
+July 18
+1975	Uruguay
+Argentina	2
+3	Newton Cup
+in Uruguay	-15
++15	1699
+1837	-1
+0	27
+12
+September 21
+1975	Colombia
+Uruguay	3
+0	Copa América
+in Colombia	+44
+-44	1639
+1655	+9
+-2	37
+31
+October 01
+1975	Uruguay
+Colombia	1
+0	Copa América
+in Uruguay	+17
+-17	1672
+1622	0
+-5	31
+42
+February 25
+1976	Uruguay
+Brazil	1
+2	Atlantic Cup
+in Uruguay	-7
++7	1665
+1995	0
+0	30
+4
+March 10
+1976	Uruguay
+Paraguay	2
+2	Atlantic Cup
+in Uruguay	-5
++5	1660
+1639	0
++1	32
+38
+April 08
+1976	Argentina
+Uruguay	4
+1	Atlantic Cup
+in Argentina	+8
+-8	1855
+1652	+3
+-1	9
+33
+April 28
+1976	Brazil
+Uruguay	2
+1	Atlantic Cup
+in Brazil	+2
+-2	2000
+1650	0
+-3	3
+36
+May 19
+1976	Paraguay
+Uruguay	1
+0	Atlantic Cup
+in Paraguay	+10
+-10	1670
+1640	0
+-2	32
+38
+June 09
+1976	Uruguay
+Argentina	0
+3	Atlantic Cup
+in Uruguay	-19
++19	1621
+1855	-2
+0	41
+12
+October 06
+1976	Chile
+Uruguay	0
+0	Pinto Duran Cup
+in Chile	-5
++5	1634
+1626	-1
+0	39
+42
+October 12
+1976	Peru
+Uruguay	0
+0	Friendly
+in Peru	-6
++6	1750
+1632	-1
++1	21
+41
+October 15
+1976	Colombia
+Uruguay	1
+2	Friendly
+in Colombia	-12
++12	1599
+1644	-1
++1	44
+39
+October 20
+1976	Ecuador
+Uruguay	2
+2	Friendly
+in Ecuador	+4
+-4	1393
+1640	+2
+0	88
+39
+November 24
+1976	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-1
++1	1639
+1723	-1
+0	39
+25
+January 04
+1977	Uruguay
+Ecuador	1
+1	Friendly
+in Uruguay	-8
++8	1631
+1401	-1
++4	39
+86
+January 12
+1977	Paraguay
+Uruguay	1
+1	Artigas Cup
+in Paraguay	-6
++6	1664
+1637	0
++2	33
+38
+January 23
+1977	Uruguay
+Paraguay	2
+1	Artigas Cup
+in Uruguay	+12
+-12	1649
+1652	0
+-2	37
+35
+January 30
+1977	Uruguay
+Chile	3
+0	Pinto Duran Cup
+in Uruguay	+18
+-18	1667
+1625	+3
+-4	33
+41
+February 09
+1977	Venezuela
+Uruguay	1
+1	World Cup qualifier
+in Venezuela	+11
+-11	1352
+1656	+1
+-3	101
+36
+February 27
+1977	Bolivia
+Uruguay	1
+0	World Cup qualifier
+in Bolivia	+25
+-25	1489
+1631	+7
+-3	68
+40
+March 17
+1977	Uruguay
+Venezuela	2
+0	World Cup qualifier
+in Uruguay	+5
+-5	1636
+1311	0
+-2	40
+110
+March 27
+1977	Uruguay
+Bolivia	2
+2	World Cup qualifier
+in Uruguay	-11
++11	1625
+1536	-2
++2	41
+56
+June 08
+1977	Uruguay
+West Germany	0
+2	Friendly
+in Uruguay	-3
++3	1622
+2093	-1
+0	40
+1
+June 15
+1977	Uruguay
+England	0
+0	Friendly
+in Uruguay	+4
+-4	1626
+1860	+2
+0	38
+11
+March 04
+1978	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-8
++8	1870
+1634	-2
+0	12
+39
+April 25
+1978	Uruguay
+Argentina	2
+0	Friendly
+in Uruguay	+22
+-22	1656
+1885	+1
+-4	38
+10
+May 03
+1978	Argentina
+Uruguay	3
+0	Friendly
+in Argentina	+5
+-5	1890
+1651	+1
+0	9
+38
+May 24
+1978	Uruguay
+Spain	0
+0	Friendly
+in Uruguay	+4
+-4	1655
+1911	+1
+0	37
+5
+May 31
+1979	Brazil
+Uruguay	5
+1	Friendly
+in Brazil	+2
+-2	2102
+1653	0
+0	1
+35
+July 11
+1979	Chile
+Uruguay	1
+0	Pinto Duran Cup
+in Chile	+13
+-13	1613
+1640	+3
+0	44
+35
+July 18
+1979	Uruguay
+Chile	2
+1	Pinto Duran Cup
+in Uruguay	+10
+-10	1650
+1603	0
+-2	35
+46
+August 30
+1979	Peru
+Uruguay	2
+0	Friendly
+in Peru	+7
+-7	1759
+1643	+2
+0	22
+35
+September 05
+1979	Ecuador
+Uruguay	2
+1	Copa América
+in Ecuador	+33
+-33	1467
+1610	+6
+-10	73
+45
+September 16
+1979	Uruguay
+Ecuador	2
+1	Copa América
+in Uruguay	+9
+-9	1619
+1448	+2
+0	43
+74
+September 20
+1979	Paraguay
+Uruguay	0
+0	Copa América
+in Paraguay	-12
++12	1683
+1631	-1
++4	29
+39
+September 26
+1979	Uruguay
+Paraguay	2
+2	Copa América
+in Uruguay	-3
++3	1628
+1686	0
++1	39
+28
+March 15
+1980	Italy
+Uruguay	1
+0	Friendly
+in Italy	+2
+-2	1956
+1626	0
+-1	5
+42
+March 18
+1980	Belgium
+Uruguay	2
+0	Friendly
+in Belgium	+4
+-4	1855
+1622	+2
+-2	12
+46
+March 22
+1980	Yugoslavia
+Uruguay	2
+1	Friendly
+in Yugoslavia	+3
+-3	1855
+1619	+2
++1	12
+45
+March 26
+1980	Luxembourg
+Uruguay	0
+1	Friendly
+in Luxembourg	-3
++3	1198
+1622	-2
+0	145
+45
+July 18
+1980	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-1
++1	1621
+1702	0
+0	44
+27
+August 21
+1980	Uruguay
+Chile	0
+0	Pinto Duran Cup
+in Uruguay	-3
++3	1618
+1665	-1
+0	43
+35
+August 27
+1980	Brazil
+Uruguay	1
+0	Friendly
+in Brazil	+1
+-1	1993
+1617	0
+-1	2
+44
+November 09
+1980	Bolivia
+Uruguay	1
+3	Friendly
+in Bolivia	-17
++17	1555
+1634	-3
++2	53
+39
+November 12
+1980	Peru
+Uruguay	1
+1	Friendly
+in Peru	-4
++4	1698
+1638	0
+0	27
+39
+December 08
+1980	Uruguay
+Finland	6
+0	Friendly
+in Uruguay	+5
+-5	1643
+1389	+1
+0	36
+90
+December 11
+1980	Uruguay
+Bolivia	5
+0	Friendly
+in Uruguay	+10
+-10	1653
+1544	+1
+-2	35
+55
+December 18
+1980	Uruguay
+Switzerland	4
+0	Friendly
+in Uruguay	+8
+-8	1661
+1527	+1
+-2	33
+60
+December 30
+1980	Uruguay
+Netherlands	2
+0	Mundialito
+in Uruguay	+43
+-43	1704
+1876	+6
+-4	27
+12
+January 03
+1981	Uruguay
+Italy	2
+0	Mundialito
+in Uruguay	+44
+-44	1748
+1930	+2
+-1	25
+5
+January 10
+1981	Uruguay
+Brazil	2
+1	Mundialito
+in Uruguay	+30
+-30	1778
+2014	+4
+0	21
+1
+April 29
+1981	Chile
+Uruguay	1
+2	Pinto Duran Cup
+in Chile	-16
++16	1682
+1794	-1
++1	31
+19
+July 15
+1981	Uruguay
+Chile	0
+0	Pinto Duran Cup
+in Uruguay	-7
++7	1787
+1737	0
+0	20
+25
+August 09
+1981	Uruguay
+Colombia	3
+2	World Cup qualifier
+in Uruguay	+6
+-6	1793
+1570	0
+-3	20
+55
+August 23
+1981	Uruguay
+Peru	1
+2	World Cup qualifier
+in Uruguay	-32
++32	1761
+1697	-1
++4	21
+29
+September 06
+1981	Peru
+Uruguay	0
+0	World Cup qualifier
+in Peru	-2
++2	1695
+1763	0
+0	28
+21
+September 13
+1981	Colombia
+Uruguay	1
+1	World Cup qualifier
+in Colombia	+6
+-6	1560
+1757	0
+-1	56
+21
+February 20
+1982	Uruguay
+South Korea	2
+2	Nehru Gold Cup
+in India	-5
++5	1752
+1673	-1
+0	22
+34
+February 22
+1982	China
+Uruguay	0
+0	Nehru Gold Cup
+in India	+9
+-9	1587
+1743	+2
+-1	50
+23
+February 25
+1982	India
+Uruguay	1
+3	Nehru Gold Cup
+in India	-8
++8	1308
+1751	-4
++1	114
+22
+March 04
+1982	Uruguay
+China	2
+0	Nehru Gold Cup
+in India	+17
+-17	1768
+1575	+1
+-7	21
+52
+June 02
+1983	Paraguay
+Uruguay	0
+0	Artigas Cup
+in Paraguay	+1
+-1	1655
+1767	0
+0	37
+20
+June 09
+1983	Uruguay
+Paraguay	3
+0	Artigas Cup
+in Uruguay	+12
+-12	1779
+1643	0
+0	20
+37
+July 18
+1983	Uruguay
+Peru	1
+1	Friendly
+in Uruguay	-5
++5	1774
+1713	-1
+0	21
+27
+August 11
+1983	Peru
+Uruguay	1
+1	Friendly
+in Peru	0
+0	1688
+1774	0
+0	31
+20
+August 25
+1983	Uruguay
+Paraguay	0
+0	Friendly
+in Uruguay	-5
++5	1769
+1674	-1
+0	21
+35
+September 01
+1983	Uruguay
+Chile	2
+1	Copa América
+in Uruguay	+15
+-15	1784
+1699	+2
+-3	19
+30
+September 04
+1983	Uruguay
+Venezuela	3
+0	Copa América
+in Uruguay	+5
+-5	1789
+1398	0
+-1	19
+92
+September 11
+1983	Chile
+Uruguay	2
+0	Copa América
+in Chile	+35
+-35	1743
+1754	+5
+-2	22
+21
+September 18
+1983	Venezuela
+Uruguay	1
+2	Copa América
+in Venezuela	-9
++9	1380
+1763	-1
+0	93
+21
+September 21
+1983	Scotland
+Uruguay	2
+0	Friendly
+in Scotland	+9
+-9	1832
+1754	+1
+-3	12
+24
+September 26
+1983	Israel
+Uruguay	2
+2	Friendly
+in Israel	0
+0	1656
+1754	0
+0	38
+24
+October 13
+1983	Peru
+Uruguay	0
+1	Copa América
+in Peru	-26
++26	1640
+1780	-2
++3	38
+20
+October 20
+1983	Uruguay
+Peru	1
+1	Copa América
+in Uruguay	-15
++15	1765
+1655	-2
+0	23
+38
+October 27
+1983	Uruguay
+Brazil	2
+0	Copa América
+in Uruguay	+51
+-51	1816
+1941	+7
+-2	15
+4
+November 04
+1983	Brazil
+Uruguay	1
+1	Copa América
+in Brazil	-14
++14	1927
+1830	0
++4	4
+11
+June 13
+1984	Uruguay
+England	2
+0	Friendly
+in Uruguay	+15
+-15	1845
+1911	+1
+-1	10
+4
+June 21
+1984	Brazil
+Uruguay	1
+0	Friendly
+in Brazil	+6
+-6	1909
+1839	+1
+0	4
+10
+July 18
+1984	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+8
+-8	1847
+1848	+1
+-1	9
+8
+August 02
+1984	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-3
++3	1845
+1850	-1
++1	9
+8
+September 19
+1984	Uruguay
+Peru	2
+0	Friendly
+in Uruguay	+4
+-4	1854
+1625	0
+-1	9
+40
+October 03
+1984	Peru
+Uruguay	1
+3	Friendly
+in Peru	-10
++10	1615
+1864	-1
++1	41
+8
+October 31
+1984	Uruguay
+Mexico	1
+1	Friendly
+in Uruguay	-6
++6	1858
+1735	0
++1	8
+27
+January 29
+1985	Uruguay
+East Germany	3
+0	Friendly
+in Uruguay	+10
+-10	1868
+1784	+1
+-2	7
+21
+February 03
+1985	Uruguay
+Paraguay	1
+0	Artigas Cup
+in Uruguay	+6
+-6	1874
+1734	0
+0	7
+27
+February 06
+1985	Bolivia
+Uruguay	0
+1	Friendly
+in Bolivia	-3
++3	1497
+1877	0
++1	68
+6
+February 10
+1985	Paraguay
+Uruguay	1
+3	Artigas Cup
+in Paraguay	-19
++19	1708
+1896	-4
+0	32
+6
+February 14
+1985	Uruguay
+Finland	2
+1	Friendly
+in Uruguay	+1
+-1	1897
+1446	0
+0	6
+80
+February 24
+1985	Uruguay
+Colombia	3
+0	Friendly
+in Uruguay	+3
+-3	1900
+1583	0
+-2	6
+53
+February 27
+1985	Uruguay
+Peru	2
+2	Friendly
+in Uruguay	-8
++8	1892
+1646	0
++1	6
+37
+March 10
+1985	Uruguay
+Ecuador	2
+1	World Cup qualifier
+in Uruguay	+3
+-3	1895
+1524	0
+0	6
+64
+March 24
+1985	Chile
+Uruguay	2
+0	World Cup qualifier
+in Chile	+36
+-36	1765
+1859	+6
+-1	21
+7
+March 31
+1985	Ecuador
+Uruguay	0
+2	World Cup qualifier
+in Ecuador	-11
++11	1497
+1870	-1
+0	66
+7
+April 07
+1985	Uruguay
+Chile	2
+1	World Cup qualifier
+in Uruguay	+9
+-9	1879
+1756	+1
+-1	6
+23
+April 23
+1985	Peru
+Uruguay	2
+1	Friendly
+in Peru	+14
+-14	1663
+1865	+2
+-1	36
+7
+April 28
+1985	Colombia
+Uruguay	2
+1	Friendly
+in Colombia	+14
+-14	1630
+1851	+1
+0	41
+7
+May 02
+1985	Brazil
+Uruguay	2
+0	Friendly
+in Brazil	+9
+-9	1902
+1842	0
+-1	5
+8
+May 25
+1985	Japan
+Uruguay	1
+4	Friendly
+in Japan	-10
++10	1568
+1852	-2
++1	54
+7
+June 01
+1985	Malaysia
+Uruguay	0
+6	Friendly
+in Malaysia	-4
++4	1333
+1856	0
+0	107
+7
+August 21
+1985	France
+Uruguay	2
+0	Artemio Franchi Trophy
+in France	+18
+-18	1971
+1838	0
+-2	1
+9
+October 17
+1985	Chile
+Uruguay	1
+0	Friendly
+in Chile	+10
+-10	1756
+1828	0
+-1	26
+10
+February 02
+1986	Uruguay
+Canada	3
+1	Friendly
+in the United States	+6
+-6	1834
+1597	+3
+0	11
+44
+February 07
+1986	United States
+Uruguay	1
+1	Friendly
+in the United States	+6
+-6	1477
+1828	+1
+-4	77
+14
+February 16
+1986	Uruguay
+Poland	2
+2	Friendly
+in Uruguay	-4
++4	1824
+1789	-1
++1	15
+21
+April 13
+1986	Mexico
+Uruguay	1
+0	Friendly
+in the United States	+10
+-10	1818
+1814	+2
+-2	14
+16
+April 21
+1986	Wales
+Uruguay	0
+0	Friendly
+in Wales	-1
++1	1761
+1815	0
++1	26
+15
+April 23
+1986	Ireland
+Uruguay	1
+1	Friendly
+in Ireland	+2
+-2	1656
+1813	0
+0	35
+15
+June 04
+1986	Uruguay
+West Germany	1
+1	World Cup
+in Mexico	+7
+-7	1820
+1889	+1
+0	12
+5
+June 08
+1986	Denmark
+Uruguay	6
+1	World Cup
+in Mexico	+53
+-53	1916
+1767	+2
+-15	4
+26
+June 13
+1986	Scotland
+Uruguay	0
+0	World Cup
+in Mexico	-1
++1	1783
+1768	-1
+0	20
+23
+June 16
+1986	Argentina
+Uruguay	1
+0	World Cup
+in Mexico	+20
+-20	1911
+1748	0
+-2	6
+25
+June 19
+1987	Uruguay
+Ecuador	2
+1	Friendly
+in Uruguay	+2
+-2	1750
+1506	0
+-2	24
+72
+June 23
+1987	Uruguay
+Bolivia	2
+1	Friendly
+in Uruguay	+2
+-2	1752
+1468	+1
+0	23
+76
+July 09
+1987	Argentina
+Uruguay	0
+1	Copa América
+in Argentina	-42
++42	1906
+1794	-4
++4	6
+19
+July 12
+1987	Uruguay
+Chile	1
+0	Copa América
+in Argentina	+29
+-29	1823
+1824	+3
+-4	16
+15
+March 16
+1988	Guatemala
+Uruguay	1
+0	Friendly
+in Guatemala	+16
+-16	1517
+1807	+7
+-2	65
+15
+August 07
+1988	Colombia
+Uruguay	2
+1	Friendly tournament
+in Colombia	+12
+-12	1785
+1795	+1
+-3	20
+17
+September 27
+1988	Ecuador
+Uruguay	1
+2	Friendly tournament
+in Paraguay	-6
++6	1532
+1801	0
+0	60
+17
+September 29
+1988	Paraguay
+Uruguay	3
+1	Friendly tournament
+in Paraguay	+18
+-18	1787
+1783	+3
+-4	19
+21
+October 12
+1988	Uruguay
+Paraguay	2
+0	Friendly
+in Uruguay	+11
+-11	1794
+1776	+2
+-2	19
+21
+November 01
+1988	Chile
+Uruguay	1
+1	Friendly tournament
+in Chile	-3
++3	1766
+1797	0
++1	22
+17
+November 09
+1988	Uruguay
+Chile	3
+1	Friendly tournament
+in Uruguay	+14
+-14	1811
+1752	+1
+-4	16
+26
+December 14
+1988	Uruguay
+Peru	3
+0	Friendly
+in Uruguay	+5
+-5	1816
+1611	0
++1	13
+43
+April 22
+1989	Italy
+Uruguay	1
+1	Friendly
+in Italy	-6
++6	1926
+1822	0
++1	5
+12
+May 03
+1989	Uruguay
+Ecuador	3
+1	Friendly
+in Uruguay	+3
+-3	1825
+1554	0
+0	12
+57
+May 23
+1989	Ecuador
+Uruguay	1
+1	Friendly
+in Ecuador	+5
+-5	1559
+1820	+1
+-1	56
+13
+June 08
+1989	Bolivia
+Uruguay	0
+0	Friendly
+in Bolivia	+6
+-6	1481
+1814	0
+-1	74
+16
+June 14
+1989	Uruguay
+Bolivia	1
+0	Friendly
+in Uruguay	+2
+-2	1816
+1479	+1
+0	15
+74
+June 19
+1989	Uruguay
+Chile	2
+2	Friendly
+in Uruguay	-5
++5	1811
+1729	-1
++1	16
+27
+July 02
+1989	Ecuador
+Uruguay	1
+0	Copa América
+in Brazil	+41
+-41	1591
+1770	+6
+-6	48
+23
+July 04
+1989	Bolivia
+Uruguay	0
+3	Copa América
+in Brazil	-13
++13	1458
+1783	-4
++3	78
+20
+July 06
+1989	Chile
+Uruguay	0
+3	Copa América
+in Brazil	-36
++36	1682
+1819	-2
++6	30
+15
+July 08
+1989	Argentina
+Uruguay	1
+0	Copa América
+in Brazil	+25
+-25	1844
+1794	+2
+-6	13
+21
+July 12
+1989	Paraguay
+Uruguay	0
+3	Copa América
+in Brazil	-44
++44	1751
+1838	-6
++7	24
+13
+July 14
+1989	Argentina
+Uruguay	0
+2	Copa América
+in Brazil	-34
++34	1770
+1872	-6
++4	22
+9
+July 16
+1989	Brazil
+Uruguay	1
+0	Copa América
+in Brazil	+14
+-14	1944
+1858	+1
+-4	4
+13
+August 06
+1989	Uruguay
+Colombia	0
+0	Friendly
+in Uruguay	-4
++4	1854
+1795	0
++1	13
+18
+August 27
+1989	Peru
+Uruguay	0
+2	World Cup qualifier
+in Peru	-14
++14	1534
+1868	-3
++4	61
+9
+September 03
+1989	Bolivia
+Uruguay	2
+1	World Cup qualifier
+in Bolivia	+33
+-33	1518
+1835	+7
+-4	63
+13
+September 17
+1989	Uruguay
+Bolivia	2
+0	World Cup qualifier
+in Uruguay	+6
+-6	1841
+1538	+1
+0	13
+60
+September 24
+1989	Uruguay
+Peru	2
+0	World Cup qualifier
+in Uruguay	+5
+-5	1846
+1503	0
+-3	13
+68
+February 02
+1990	Uruguay
+Colombia	2
+0	Friendly tournament
+in the United States	+19
+-19	1865
+1776	+3
+-2	11
+20
+February 04
+1990	Uruguay
+Costa Rica	2
+0	Friendly tournament
+in the United States	+7
+-7	1872
+1574	0
+-1	11
+49
+March 20
+1990	Mexico
+Uruguay	2
+1	Friendly
+in the United States	+10
+-10	1890
+1862	+1
+0	9
+11
+April 25
+1990	West Germany
+Uruguay	3
+3	Friendly
+in West Germany	-5
++5	1944
+1867	0
++1	3
+11
+May 18
+1990	Northern Ireland
+Uruguay	1
+0	Friendly
+in Northern Ireland	+15
+-15	1606
+1852	+2
+-3	44
+13
+May 22
+1990	England
+Uruguay	1
+2	Friendly
+in England	-15
++15	1911
+1867	0
++3	5
+10
+June 13
+1990	Spain
+Uruguay	0
+0	World Cup
+in Italy	-2
++2	1885
+1869	-1
+0	8
+9
+June 17
+1990	Belgium
+Uruguay	3
+1	World Cup
+in Italy	+48
+-48	1890
+1821	+6
+-9	7
+16
+June 21
+1990	South Korea
+Uruguay	0
+1	World Cup
+in Italy	-18
++18	1662
+1839	0
++2	33
+14
+June 25
+1990	Italy
+Uruguay	2
+0	World Cup
+in Italy	+20
+-20	1979
+1819	0
+-2	2
+17
+May 05
+1991	United States
+Uruguay	1
+0	Friendly
+in the United States	+15
+-15	1560
+1804	+4
+-1	53
+16
+May 07
+1991	Uruguay
+Mexico	2
+0	Friendly
+in the United States	+17
+-17	1821
+1826	+1
+-1	15
+13
+May 13
+1991	Costa Rica
+Uruguay	0
+1	Friendly
+in Costa Rica	-7
++7	1609
+1828	-1
++2	43
+13
+May 30
+1991	Chile
+Uruguay	2
+1	Friendly
+in Chile	+9
+-9	1767
+1819	+1
+-2	21
+15
+June 12
+1991	Peru
+Uruguay	1
+0	Friendly
+in Peru	+16
+-16	1509
+1803	+2
+-1	63
+16
+June 20
+1991	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-8
++8	1795
+1517	-2
++2	18
+61
+June 26
+1991	Uruguay
+Chile	2
+1	Friendly
+in Uruguay	+6
+-6	1801
+1750	+1
+-1	17
+23
+July 07
+1991	Bolivia
+Uruguay	1
+1	Copa América
+in Chile	+16
+-16	1553
+1785	+1
+-3	57
+19
+July 09
+1991	Uruguay
+Ecuador	1
+1	Copa América
+in Chile	-12
++12	1773
+1612	-1
++2	20
+45
+July 11
+1991	Brazil
+Uruguay	1
+1	Copa América
+in Chile	-10
++10	1914
+1783	0
++1	4
+19
+July 15
+1991	Uruguay
+Colombia	1
+0	Copa América
+in Chile	+26
+-26	1809
+1768	+5
+-5	15
+22
+September 04
+1991	Spain
+Uruguay	2
+1	Friendly
+in Spain	+7
+-7	1831
+1802	0
+-2	12
+17
+November 20
+1991	Mexico
+Uruguay	1
+1	Friendly
+in Mexico	-2
++2	1787
+1804	-1
++1	19
+14
+April 30
+1992	Uruguay
+Brazil	1
+0	Friendly
+in Uruguay	+11
+-11	1815
+1916	+2
+0	13
+6
+June 21
+1992	Uruguay
+Australia	2
+0	Friendly
+in Uruguay	+6
+-6	1821
+1680	+2
+0	11
+32
+July 04
+1992	Uruguay
+Ecuador	3
+1	Friendly
+in Uruguay	+5
+-5	1826
+1618	0
+-1	11
+43
+July 25
+1992	Uruguay
+Guatemala	2
+1	Friendly
+in Uruguay	+1
+-1	1827
+1457	0
+-1	11
+82
+August 02
+1992	Uruguay
+Costa Rica	2
+1	Friendly
+in Uruguay	+2
+-2	1829
+1558	0
+-1	11
+57
+September 23
+1992	Uruguay
+Argentina	0
+0	Friendly
+in Uruguay	+1
+-1	1830
+1960	0
+0	12
+3
+November 25
+1992	Brazil
+Uruguay	1
+2	Friendly
+in Brazil	-16
++16	1950
+1846	0
++2	2
+12
+November 29
+1992	Uruguay
+Poland	0
+1	Friendly
+in Uruguay	-15
++15	1831
+1770	-2
++2	14
+20
+December 20
+1992	Uruguay
+Germany	1
+4	Friendly
+in Uruguay	-17
++17	1814
+1952	0
++1	14
+3
+June 16
+1993	Uruguay
+United States	1
+0	Copa América
+in Ecuador	+12
+-12	1826
+1611	+1
+-2	12
+46
+June 19
+1993	Uruguay
+Venezuela	2
+2	Copa América
+in Ecuador	-22
++22	1804
+1343	-1
++3	13
+118
+June 22
+1993	Ecuador
+Uruguay	2
+1	Copa América
+in Ecuador	+28
+-28	1685
+1776	+3
+-8	31
+21
+June 26
+1993	Colombia
+Uruguay	1
+1	Copa América
+in Ecuador	0
+0	1778
+1776	0
+0	20
+22
+July 13
+1993	Peru
+Uruguay	1
+2	Friendly
+in Peru	-7
++7	1565
+1783	0
++2	54
+20
+July 14
+1993	Peru
+Uruguay	1
+2	Friendly
+in Peru	-7
++7	1558
+1790	-3
++1	57
+19
+July 17
+1993	Uruguay
+Peru	3
+0	Friendly
+in Uruguay	+5
+-5	1795
+1553	0
+-1	19
+59
+July 25
+1993	Venezuela
+Uruguay	0
+1	World Cup qualifier
+in Venezuela	-4
++4	1322
+1799	-2
++2	121
+17
+August 01
+1993	Uruguay
+Ecuador	0
+0	World Cup qualifier
+in Uruguay	-12
++12	1787
+1673	-3
++1	20
+31
+August 08
+1993	Bolivia
+Uruguay	3
+1	World Cup qualifier
+in Bolivia	+35
+-35	1659
+1752	+12
+-4	33
+24
+August 15
+1993	Uruguay
+Brazil	1
+1	World Cup qualifier
+in Uruguay	+1
+-1	1753
+1871	0
+0	24
+8
+August 29
+1993	Uruguay
+Venezuela	4
+0	World Cup qualifier
+in Uruguay	+3
+-3	1756
+1303	0
+-2	24
+127
+September 05
+1993	Ecuador
+Uruguay	0
+1	World Cup qualifier
+in Ecuador	-20
++20	1634
+1776	-8
++2	42
+22
+September 12
+1993	Uruguay
+Bolivia	2
+1	World Cup qualifier
+in Uruguay	+9
+-9	1785
+1658	+2
+-1	20
+33
+September 19
+1993	Brazil
+Uruguay	2
+0	World Cup qualifier
+in Brazil	+14
+-14	1908
+1771	+2
+-2	5
+22
+October 13
+1993	Germany
+Uruguay	5
+0	Friendly
+in Germany	+6
+-6	1977
+1765	0
+0	1
+22
+October 19
+1994	Peru
+Uruguay	0
+1	Friendly
+in Peru	-6
++6	1519
+1771	-5
+0	69
+24
+January 18
+1995	Spain
+Uruguay	2
+2	Friendly
+in Spain	-7
++7	1949
+1778	0
+0	3
+24
+February 01
+1995	Mexico
+Uruguay	1
+0	Friendly
+in the United States	+8
+-8	1872
+1770	0
+0	10
+24
+March 22
+1995	Colombia
+Uruguay	2
+1	Friendly
+in Colombia	+5
+-5	1852
+1765	0
+0	13
+24
+March 25
+1995	United States
+Uruguay	2
+2	Friendly
+in the United States	+2
+-2	1599
+1763	0
+0	47
+24
+March 29
+1995	England
+Uruguay	0
+0	Friendly
+in England	-5
++5	1850
+1768	-2
+0	13
+24
+March 31
+1995	Yugoslavia
+Uruguay	1
+0	Friendly
+in Yugoslavia	+4
+-4	1889
+1764	0
+0	7
+24
+April 05
+1995	Uruguay
+Peru	1
+0	Friendly
+in Uruguay	+2
+-2	1766
+1517	0
+0	24
+69
+June 25
+1995	Uruguay
+New Zealand	7
+0	Friendly
+in Uruguay	+5
+-5	1771
+1491	0
+-2	22
+79
+June 28
+1995	Uruguay
+New Zealand	2
+2	Friendly
+in Uruguay	-8
++8	1763
+1499	-1
++4	23
+75
+July 05
+1995	Uruguay
+Venezuela	4
+1	Copa América
+in Uruguay	+4
+-4	1767
+1329	+1
+-1	22
+124
+July 09
+1995	Uruguay
+Paraguay	1
+0	Copa América
+in Uruguay	+16
+-16	1783
+1713	+1
+0	21
+27
+July 13
+1995	Uruguay
+Mexico	1
+1	Copa América
+in Uruguay	-6
++6	1777
+1809	-1
+0	22
+20
+July 16
+1995	Uruguay
+Bolivia	2
+1	Copa América
+in Uruguay	+10
+-10	1787
+1628	+1
+-3	21
+41
+July 19
+1995	Uruguay
+Colombia	2
+0	Copa América
+in Uruguay	+31
+-31	1818
+1792	+4
+-6	17
+21
+July 23
+1995	Uruguay
+Brazil	1
+1	Copa América
+in Uruguay	+11
+-11	1829
+2064	+3
+0	15
+1
+September 20
+1995	Israel
+Uruguay	3
+1	Friendly
+in Israel	+21
+-21	1593
+1808	+4
+-6	47
+20
+October 11
+1995	Brazil
+Uruguay	2
+0	Friendly
+in Brazil	+3
+-3	2068
+1805	0
+0	1
+20
+April 24
+1996	Venezuela
+Uruguay	0
+2	World Cup qualifier
+in Venezuela	-6
++6	1313
+1811	0
+0	126
+19
+June 02
+1996	Uruguay
+Paraguay	0
+2	World Cup qualifier
+in Uruguay	-45
++45	1766
+1759	-3
++5	22
+24
+July 07
+1996	Colombia
+Uruguay	3
+1	World Cup qualifier
+in Colombia	+17
+-17	1848
+1749	+3
+-3	12
+24
+July 17
+1996	China
+Uruguay	1
+1	Friendly
+in China	+3
+-3	1556
+1746	+2
+0	58
+24
+August 25
+1996	Japan
+Uruguay	5
+3	Friendly
+in Japan	+12
+-12	1725
+1734	+2
+-1	27
+26
+October 08
+1996	Uruguay
+Bolivia	1
+0	World Cup qualifier
+in Uruguay	+10
+-10	1744
+1622	0
+-3	26
+41
+November 12
+1996	Chile
+Uruguay	1
+0	World Cup qualifier
+in Chile	+17
+-17	1708
+1727	+3
+-2	29
+28
+December 15
+1996	Uruguay
+Peru	2
+0	World Cup qualifier
+in Uruguay	+12
+-12	1739
+1579	+1
+-2	25
+55
+January 12
+1997	Uruguay
+Argentina	0
+0	World Cup qualifier
+in Uruguay	-4
++4	1735
+1781	0
++1	25
+20
+February 12
+1997	Ecuador
+Uruguay	4
+0	World Cup qualifier
+in Ecuador	+37
+-37	1677
+1698	+6
+-4	32
+29
+April 02
+1997	Uruguay
+Venezuela	3
+1	World Cup qualifier
+in Uruguay	+4
+-4	1702
+1334	+1
+0	27
+120
+April 30
+1997	Paraguay
+Uruguay	3
+1	World Cup qualifier
+in Paraguay	+14
+-14	1827
+1688	+1
+-3	14
+31
+June 08
+1997	Uruguay
+Colombia	1
+1	World Cup qualifier
+in Uruguay	-1
++1	1687
+1776	-1
+0	31
+22
+June 12
+1997	Peru
+Uruguay	1
+0	Copa América
+in Bolivia	+29
+-29	1667
+1658	+6
+-6	35
+37
+June 15
+1997	Uruguay
+Venezuela	2
+0	Copa América
+in Bolivia	+10
+-10	1668
+1327	+3
+-6	34
+124
+June 18
+1997	Bolivia
+Uruguay	1
+0	Copa América
+in Bolivia	+16
+-16	1712
+1652	+1
+-3	29
+37
+July 20
+1997	Bolivia
+Uruguay	1
+0	World Cup qualifier
+in Bolivia	+10
+-10	1742
+1642	+2
+0	23
+38
+August 20
+1997	Uruguay
+Chile	1
+0	World Cup qualifier
+in Uruguay	+18
+-18	1660
+1683	+2
+-4	38
+34
+September 10
+1997	Peru
+Uruguay	2
+1	World Cup qualifier
+in Peru	+12
+-12	1712
+1648	+2
+-1	29
+41
+October 12
+1997	Argentina
+Uruguay	0
+0	World Cup qualifier
+in Argentina	-13
++13	1818
+1661	0
++1	16
+41
+November 16
+1997	Uruguay
+Ecuador	5
+3	World Cup qualifier
+in Uruguay	+30
+-30	1691
+1735	+9
+-5	33
+25
+December 13
+1997	Uruguay
+United Arab Emirates	2
+0	Confederations Cup
+in Saudi Arabia	+25
+-25	1716
+1542	+1
+-8	32
+64
+December 15
+1997	Uruguay
+Czechia	2
+1	Confederations Cup
+in Saudi Arabia	+33
+-33	1749
+1803	+9
+-4	23
+17
+December 17
+1997	Uruguay
+South Africa	4
+3	Confederations Cup
+in Saudi Arabia	+21
+-21	1770
+1670	+2
+-6	21
+39
+December 19
+1997	Australia
+Uruguay	1
+0	Confederations Cup
+in Saudi Arabia	+21
+-21	1851
+1749	+2
+-2	11
+23
+December 21
+1997	Czechia
+Uruguay	1
+0	Confederations Cup
+in Saudi Arabia	+20
+-20	1834
+1729	+4
+-5	12
+28
+May 24
+1998	Chile
+Uruguay	2
+2	Friendly
+in Chile	-3
++3	1752
+1732	-1
+-1	23
+28
+June 17
+1999	Paraguay
+Uruguay	2
+3	Friendly
+in Paraguay	-14
++14	1754
+1746	0
++2	20
+22
+July 01
+1999	Colombia
+Uruguay	1
+0	Copa América
+in Paraguay	+28
+-28	1731
+1718	+7
+-5	24
+26
+July 04
+1999	Uruguay
+Ecuador	2
+1	Copa América
+in Paraguay	+23
+-23	1741
+1670	+4
+-8	23
+40
+July 07
+1999	Argentina
+Uruguay	2
+0	Copa América
+in Paraguay	+26
+-26	1878
+1715	+4
+-4	11
+27
+July 10
+1999	Paraguay
+Uruguay	1
+1	Copa América
+in Paraguay	-11
++11	1770
+1726	-1
++2	21
+25
+July 13
+1999	Uruguay
+Chile	1
+1	Copa América
+in Paraguay	+2
+-2	1728
+1749	0
+-1	26
+23
+July 18
+1999	Brazil
+Uruguay	3
+0	Copa América
+in Paraguay	+11
+-11	2083
+1717	0
+-1	1
+27
+August 18
+1999	Uruguay
+Costa Rica	5
+4	Friendly
+in Uruguay	+4
+-4	1721
+1589	+1
+0	27
+55
+September 08
+1999	Uruguay
+Venezuela	2
+0	Friendly
+in Uruguay	+2
+-2	1723
+1379	0
+-1	28
+109
+October 12
+1999	Uruguay
+Ecuador	0
+0	Friendly
+in Uruguay	-5
++5	1718
+1659	-1
++1	29
+41
+November 17
+1999	Uruguay
+Paraguay	0
+1	Friendly
+in Uruguay	-11
++11	1707
+1784	-2
++2	30
+18
+February 17
+2000	Uruguay
+Hungary	2
+0	Friendly
+in Uruguay	+6
+-6	1713
+1576	0
+-1	28
+57
+March 29
+2000	Uruguay
+Bolivia	1
+0	World Cup qualifier
+in Uruguay	+10
+-10	1723
+1615	-2
+0	30
+53
+April 26
+2000	Paraguay
+Uruguay	1
+0	World Cup qualifier
+in Paraguay	+13
+-13	1762
+1710	0
+-1	21
+29
+June 03
+2000	Uruguay
+Chile	2
+1	World Cup qualifier
+in Uruguay	+13
+-13	1723
+1668	+2
+-2	28
+41
+June 28
+2000	Brazil
+Uruguay	1
+1	World Cup qualifier
+in Brazil	-17
++17	2057
+1740	-1
++7	2
+21
+July 18
+2000	Uruguay
+Venezuela	3
+1	World Cup qualifier
+in Uruguay	+4
+-4	1744
+1396	0
+0	21
+100
+July 26
+2000	Uruguay
+Peru	0
+0	World Cup qualifier
+in Uruguay	-9
++9	1735
+1684	-2
++3	23
+37
+August 15
+2000	Colombia
+Uruguay	1
+0	World Cup qualifier
+in Colombia	+14
+-14	1756
+1721	+1
+-8	20
+31
+September 03
+2000	Uruguay
+Ecuador	4
+0	World Cup qualifier
+in Uruguay	+22
+-22	1743
+1642	+4
+-5	24
+49
+October 08
+2000	Argentina
+Uruguay	2
+1	World Cup qualifier
+in Argentina	+6
+-6	1945
+1737	0
+-2	6
+26
+November 15
+2000	Bolivia
+Uruguay	0
+0	World Cup qualifier
+in Bolivia	+4
+-4	1571
+1733	+1
+-1	60
+27
+February 28
+2001	Slovenia
+Uruguay	0
+2	Friendly
+in Slovenia	-15
++15	1609
+1748	-3
++3	56
+26
+March 28
+2001	Uruguay
+Paraguay	0
+1	World Cup qualifier
+in Uruguay	-21
++21	1727
+1853	-4
++2	31
+11
+April 24
+2001	Chile
+Uruguay	0
+1	World Cup qualifier
+in Chile	-21
++21	1624
+1748	-7
++4	52
+27
+July 01
+2001	Uruguay
+Brazil	1
+0	World Cup qualifier
+in Uruguay	+23
+-23	1771
+1874	+3
+-2	23
+9
+July 13
+2001	Uruguay
+Bolivia	1
+0	Copa América
+in Colombia	+12
+-12	1783
+1562	+1
+-2	22
+62
+July 16
+2001	Costa Rica
+Uruguay	1
+1	Copa América
+in Colombia	+7
+-7	1684
+1776	+1
+-1	38
+23
+July 19
+2001	Honduras
+Uruguay	1
+0	Copa América
+in Colombia	+33
+-33	1700
+1743	+10
+-2	33
+26
+July 22
+2001	Uruguay
+Costa Rica	2
+1	Copa América
+in Colombia	+23
+-23	1766
+1689	+2
+-9	24
+38
+July 25
+2001	Mexico
+Uruguay	2
+1	Copa América
+in Colombia	+28
+-28	1749
+1738	+1
+-4	27
+28
+July 29
+2001	Honduras
+Uruguay	2
+2	Copa América
+in Colombia	0
+0	1734
+1738	0
++1	28
+26
+August 14
+2001	Venezuela
+Uruguay	2
+0	World Cup qualifier
+in Venezuela	+50
+-50	1415
+1688	+17
+-12	98
+38
+September 04
+2001	Peru
+Uruguay	0
+2	World Cup qualifier
+in Peru	-39
++39	1654
+1727	-8
++9	45
+29
+October 07
+2001	Uruguay
+Colombia	1
+1	World Cup qualifier
+in Uruguay	-1
++1	1726
+1805	-2
+0	30
+18
+November 07
+2001	Ecuador
+Uruguay	1
+1	World Cup qualifier
+in Ecuador	-5
++5	1711
+1731	-2
++1	35
+28
+November 14
+2001	Uruguay
+Argentina	1
+1	World Cup qualifier
+in Uruguay	+9
+-9	1740
+1992	+1
+0	26
+2
+November 20
+2001	Australia
+Uruguay	1
+0	World Cup qualifier
+in Australia	+9
+-9	1856
+1731	+2
+-1	9
+27
+November 25
+2001	Uruguay
+Australia	3
+0	World Cup qualifier
+in Uruguay	+38
+-38	1769
+1818	+3
+-5	24
+14
+February 13
+2002	Uruguay
+South Korea	2
+1	Friendly
+in Uruguay	+5
+-5	1774
+1670	+1
+0	23
+41
+March 27
+2002	Saudi Arabia
+Uruguay	3
+2	Friendly
+in Saudi Arabia	+10
+-10	1701
+1764	+3
+-1	36
+25
+April 17
+2002	Italy
+Uruguay	1
+1	Friendly
+in Italy	-7
++7	1991
+1771	0
+0	2
+25
+May 12
+2002	United States
+Uruguay	2
+1	Friendly
+in the United States	+7
+-7	1787
+1764	+1
+0	22
+25
+May 16
+2002	China
+Uruguay	0
+2	Friendly
+in China	-17
++17	1702
+1781	-5
++2	37
+23
+May 21
+2002	Singapore
+Uruguay	1
+2	Friendly
+in Singapore	-1
++1	1213
+1782	0
+0	152
+22
+June 01
+2002	Denmark
+Uruguay	2
+1	World Cup
+in South Korea	+26
+-26	1852
+1756	+5
+-3	9
+25
+June 06
+2002	Uruguay
+France	0
+0	World Cup
+in South Korea	+19
+-19	1775
+1994	+2
+-1	24
+2
+June 11
+2002	Senegal
+Uruguay	3
+3	World Cup
+in South Korea	+1
+-1	1764
+1774	0
+0	26
+23
+November 20
+2002	Venezuela
+Uruguay	1
+0	Friendly
+in Venezuela	+13
+-13	1585
+1761	+2
+-3	58
+26
+February 04
+2003	Uruguay
+Iran	1
+1	Carlsberg Cup
+in Hong Kong	-3
++3	1758
+1703	0
+0	26
+35
+March 28
+2003	Japan
+Uruguay	2
+2	Friendly
+in Japan	-3
++3	1777
+1761	0
+0	20
+23
+June 08
+2003	South Korea
+Uruguay	0
+2	Friendly
+in South Korea	-18
++18	1724
+1779	-3
++1	30
+20
+July 16
+2003	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-7
++7	1999
+1786	0
+0	2
+21
+July 24
+2003	Peru
+Uruguay	3
+4	Friendly
+in Peru	-8
++8	1610
+1794	-3
++1	53
+19
+July 30
+2003	Uruguay
+Peru	1
+0	Friendly
+in Uruguay	+3
+-3	1797
+1607	0
+0	20
+53
+August 13
+2003	Uruguay
+Cameroon	4
+0	Friendly tournament
+in Iran	+31
+-31	1828
+1807	+5
+-4	15
+19
+August 15
+2003	Uruguay
+Iraq	5
+2	Friendly tournament
+in Iran	+13
+-13	1841
+1615	0
+-5	15
+52
+August 20
+2003	Argentina
+Uruguay	3
+2	Friendly
+in Italy	+6
+-6	2005
+1835	0
+0	2
+15
+September 07
+2003	Uruguay
+Bolivia	5
+0	World Cup qualifier
+in Uruguay	+7
+-7	1842
+1515	+1
+0	14
+70
+September 10
+2003	Paraguay
+Uruguay	4
+1	World Cup qualifier
+in Paraguay	+40
+-40	1736
+1802	+8
+-4	27
+18
+October 15
+2003	Uruguay
+Mexico	2
+0	Friendly
+in the United States	+17
+-17	1819
+1831	+1
+-1	15
+13
+November 15
+2003	Uruguay
+Chile	2
+1	World Cup qualifier
+in Uruguay	+6
+-6	1825
+1621	+1
+-5	14
+51
+November 19
+2003	Brazil
+Uruguay	3
+3	World Cup qualifier
+in Brazil	-12
++12	1966
+1837	-1
++2	4
+12
+February 18
+2004	Jamaica
+Uruguay	2
+0	Friendly
+in Jamaica	+21
+-21	1604
+1816	+2
+-2	56
+14
+March 31
+2004	Uruguay
+Venezuela	0
+3	World Cup qualifier
+in Uruguay	-59
++59	1757
+1684	-10
++11	24
+38
+June 01
+2004	Uruguay
+Peru	1
+3	World Cup qualifier
+in Uruguay	-47
++47	1710
+1677	-6
++10	32
+39
+June 06
+2004	Colombia
+Uruguay	5
+0	World Cup qualifier
+in Colombia	+29
+-29	1738
+1681	+6
+-6	27
+38
+July 07
+2004	Mexico
+Uruguay	2
+2	Copa América
+in Peru	-10
++10	1818
+1691	-1
++3	15
+32
+July 10
+2004	Uruguay
+Ecuador	2
+1	Copa América
+in Peru	+25
+-25	1716
+1662	+2
+-7	30
+40
+July 13
+2004	Argentina
+Uruguay	4
+2	Copa América
+in Peru	+17
+-17	1942
+1699	+1
+0	5
+31
+July 18
+2004	Uruguay
+Paraguay	3
+1	Copa América
+in Peru	+49
+-49	1748
+1762	+3
+-6	28
+24
+July 21
+2004	Brazil
+Uruguay	1
+1	Copa América
+in Peru	-15
++15	1980
+1763	-1
++4	3
+24
+July 24
+2004	Uruguay
+Colombia	2
+1	Copa América
+in Peru	+27
+-27	1790
+1761	+4
+-6	20
+26
+September 05
+2004	Uruguay
+Ecuador	1
+0	World Cup qualifier
+in Uruguay	+8
+-8	1798
+1642	-1
+-1	22
+43
+October 09
+2004	Argentina
+Uruguay	4
+2	World Cup qualifier
+in Argentina	+9
+-9	2014
+1789	0
+-1	1
+23
+October 12
+2004	Bolivia
+Uruguay	0
+0	World Cup qualifier
+in Bolivia	+6
+-6	1579
+1783	0
+0	63
+23
+November 17
+2004	Uruguay
+Paraguay	1
+0	World Cup qualifier
+in Uruguay	+13
+-13	1796
+1749	+3
+-1	20
+28
+March 26
+2005	Chile
+Uruguay	1
+1	World Cup qualifier
+in Chile	+3
+-3	1647
+1793	+1
+0	46
+21
+March 30
+2005	Uruguay
+Brazil	1
+1	World Cup qualifier
+in Uruguay	+3
+-3	1796
+1950	+1
+0	20
+3
+June 04
+2005	Venezuela
+Uruguay	1
+1	World Cup qualifier
+in Venezuela	+7
+-7	1583
+1789	0
+0	61
+20
+June 07
+2005	Peru
+Uruguay	0
+0	World Cup qualifier
+in Peru	+3
+-3	1648
+1786	+1
+-2	46
+22
+August 17
+2005	Spain
+Uruguay	2
+0	Friendly
+in Spain	+6
+-6	1923
+1780	0
+-1	7
+22
+September 04
+2005	Uruguay
+Colombia	3
+2	World Cup qualifier
+in Uruguay	+12
+-12	1792
+1720	+1
+-2	21
+32
+October 08
+2005	Ecuador
+Uruguay	0
+0	World Cup qualifier
+in Ecuador	-3
++3	1749
+1795	-3
+0	28
+22
+October 12
+2005	Uruguay
+Argentina	1
+0	World Cup qualifier
+in Uruguay	+22
+-22	1817
+1913	+4
+-2	18
+6
+October 26
+2005	Mexico
+Uruguay	3
+1	Friendly
+in Mexico	+11
+-11	1832
+1806	+1
+0	14
+18
+November 12
+2005	Uruguay
+Australia	1
+0	World Cup qualifier
+in Uruguay	+12
+-12	1818
+1744	+2
+-3	16
+30
+November 16
+2005	Australia
+Uruguay	1
+0	World Cup qualifier
+in Australia	+19
+-19	1763
+1799	+5
+-4	24
+20
+March 01
+2006	England
+Uruguay	2
+1	Friendly
+in England	+4
+-4	1937
+1795	+1
+-1	3
+21
+May 21
+2006	Uruguay
+Northern Ireland	1
+0	Friendly
+in the United States	+3
+-3	1798
+1470	0
+0	20
+86
+May 23
+2006	Uruguay
+Romania	2
+0	Friendly
+in the United States	+16
+-16	1814
+1814	+5
+-2	15
+15
+May 27
+2006	Serbia and Montenegro
+Uruguay	1
+1	Friendly
+in Serbia and Montenegro	-2
++2	1770
+1816	0
++1	26
+15
+May 30
+2006	Uruguay
+Libya	2
+1	Friendly tournament
+in Tunisia	+3
+-3	1819
+1459	+1
+0	14
+90
+June 02
+2006	Tunisia
+Uruguay	0
+0	Friendly tournament
+in Tunisia	+1
+-1	1698
+1818	0
+0	39
+14
+August 16
+2006	Egypt
+Uruguay	0
+2	Friendly
+in Egypt	-16
++16	1726
+1834	-3
++3	33
+11
+September 27
+2006	Venezuela
+Uruguay	1
+0	Friendly
+in Venezuela	+14
+-14	1602
+1820	+1
+-1	56
+14
+October 18
+2006	Uruguay
+Venezuela	4
+0	Friendly
+in Uruguay	+5
+-5	1825
+1597	+2
+-2	14
+55
+November 15
+2006	Georgia
+Uruguay	2
+0	Friendly
+in Georgia	+24
+-24	1494
+1801	+8
+-4	79
+18
+February 07
+2007	Colombia
+Uruguay	1
+3	Friendly
+in Colombia	-18
++18	1750
+1819	-4
++3	28
+14
+March 24
+2007	South Korea
+Uruguay	0
+2	Friendly
+in South Korea	-12
++12	1646
+1831	-2
+-1	48
+15
+June 02
+2007	Australia
+Uruguay	1
+2	Friendly
+in Australia	-11
++11	1743
+1842	-1
++2	29
+13
+June 26
+2007	Peru
+Uruguay	3
+0	Copa América
+in Venezuela	+69
+-69	1679
+1773	+9
+-10	43
+23
+June 30
+2007	Uruguay
+Bolivia	1
+0	Copa América
+in Venezuela	+12
+-12	1785
+1559	+3
+-3	20
+64
+July 03
+2007	Venezuela
+Uruguay	0
+0	Copa América
+in Venezuela	+3
+-3	1653
+1782	0
+0	44
+19
+July 07
+2007	Venezuela
+Uruguay	1
+4	Copa América
+in Venezuela	-40
++40	1613
+1822	-7
++4	52
+15
+July 10
+2007	Uruguay
+Brazil	2
+2	Copa América
+in Venezuela	+13
+-13	1835
+2006	0
+0	15
+3
+July 14
+2007	Mexico
+Uruguay	3
+1	Copa América
+in Venezuela	+33
+-33	1908
+1802	+2
+-1	8
+16
+September 12
+2007	South Africa
+Uruguay	0
+0	Friendly
+in South Africa	+6
+-6	1467
+1796	+1
+0	86
+16
+October 13
+2007	Uruguay
+Bolivia	5
+0	World Cup qualifier
+in Uruguay	+10
+-10	1806
+1542	+1
+-2	15
+67
+October 17
+2007	Paraguay
+Uruguay	1
+0	World Cup qualifier
+in Paraguay	+18
+-18	1766
+1788	+6
+-2	21
+17
+November 18
+2007	Uruguay
+Chile	2
+2	World Cup qualifier
+in Uruguay	-8
++8	1780
+1747	-1
++1	18
+29
+November 21
+2007	Brazil
+Uruguay	2
+1	World Cup qualifier
+in Brazil	+4
+-4	2055
+1776	0
+-2	1
+20
+February 06
+2008	Uruguay
+Colombia	2
+2	Friendly
+in Uruguay	-2
++2	1774
+1818	-2
++1	23
+16
+May 25
+2008	Uruguay
+Turkey	3
+2	Friendly
+in Germany	+10
+-10	1784
+1772	+5
+-4	17
+22
+May 28
+2008	Norway
+Uruguay	2
+2	Friendly
+in Norway	-1
++1	1705
+1785	+1
+0	39
+17
+June 14
+2008	Uruguay
+Venezuela	1
+1	World Cup qualifier
+in Uruguay	-11
++11	1774
+1670	-2
++2	21
+41
+June 17
+2008	Uruguay
+Peru	6
+0	World Cup qualifier
+in Uruguay	+15
+-15	1789
+1597	+3
+-3	18
+54
+August 20
+2008	Japan
+Uruguay	1
+3	Friendly
+in Japan	-18
++18	1745
+1807	-4
++1	28
+16
+September 06
+2008	Colombia
+Uruguay	0
+1	World Cup qualifier
+in Colombia	-24
++24	1752
+1831	-7
++2	27
+14
+September 10
+2008	Uruguay
+Ecuador	0
+0	World Cup qualifier
+in Uruguay	-12
++12	1819
+1708	+1
++4	13
+35
+October 11
+2008	Argentina
+Uruguay	2
+1	World Cup qualifier
+in Argentina	+8
+-8	1972
+1811	0
+-2	5
+15
+October 14
+2008	Bolivia
+Uruguay	2
+2	World Cup qualifier
+in Bolivia	+6
+-6	1603
+1805	0
+-2	54
+17
+November 19
+2008	France
+Uruguay	0
+0	Friendly
+in France	-4
++4	1865
+1809	0
+0	8
+14
+February 11
+2009	Libya
+Uruguay	2
+3	Friendly
+in Libya	-5
++5	1500
+1814	-2
+-1	83
+14
+March 28
+2009	Uruguay
+Paraguay	2
+0	World Cup qualifier
+in Uruguay	+24
+-24	1838
+1818	+3
+-1	11
+12
+April 01
+2009	Chile
+Uruguay	0
+0	World Cup qualifier
+in Chile	-3
++3	1788
+1841	+3
+0	16
+11
+June 06
+2009	Uruguay
+Brazil	0
+4	World Cup qualifier
+in Uruguay	-31
++31	1810
+2031	-1
++1	12
+2
+June 10
+2009	Venezuela
+Uruguay	2
+2	World Cup qualifier
+in Venezuela	+1
+-1	1690
+1809	-1
+-1	42
+13
+August 12
+2009	Algeria
+Uruguay	1
+0	Friendly
+in Algeria	+15
+-15	1545
+1794	+6
+-3	67
+17
+September 05
+2009	Peru
+Uruguay	1
+0	World Cup qualifier
+in Peru	+29
+-29	1550
+1765	+11
+-6	65
+23
+September 09
+2009	Uruguay
+Colombia	3
+1	World Cup qualifier
+in Uruguay	+19
+-19	1784
+1708	+3
+-1	20
+37
+October 10
+2009	Ecuador
+Uruguay	1
+2	World Cup qualifier
+in Ecuador	-23
++23	1707
+1807	-3
++4	37
+16
+October 14
+2009	Uruguay
+Argentina	0
+1	World Cup qualifier
+in Uruguay	-23
++23	1784
+1879	0
++3	16
+7
+November 14
+2009	Costa Rica
+Uruguay	0
+1	World Cup qualifier
+in Costa Rica	-21
++21	1674
+1805	-2
++2	43
+14
+November 18
+2009	Uruguay
+Costa Rica	1
+1	World Cup qualifier
+in Uruguay	-12
++12	1793
+1686	-1
++1	15
+42
+March 03
+2010	Switzerland
+Uruguay	1
+3	Friendly
+in Switzerland	-18
++18	1747
+1811	-5
+0	23
+16
+May 26
+2010	Uruguay
+Israel	4
+1	Friendly
+in Uruguay	+8
+-8	1819
+1702	+1
+-1	15
+35
+June 11
+2010	Uruguay
+France	0
+0	World Cup
+in South Africa	+1
+-1	1820
+1835	0
+0	14
+12
+June 16
+2010	South Africa
+Uruguay	0
+3	World Cup
+in South Africa	-35
++35	1563
+1855	-13
++3	66
+11
+June 22
+2010	Uruguay
+Mexico	1
+0	World Cup
+in South Africa	+35
+-35	1890
+1873	+4
+-3	8
+10
+June 26
+2010	Uruguay
+South Korea	2
+1	World Cup
+in South Africa	+18
+-18	1908
+1729	0
+-3	7
+28
+July 02
+2010	Uruguay
+Ghana	1
+1	World Cup
+in South Africa	-13
++13	1895
+1761	0
++4	6
+21
+July 06
+2010	Netherlands
+Uruguay	3
+2	World Cup
+in South Africa	+15
+-15	2101
+1880	0
+-1	1
+7
+July 10
+2010	Germany
+Uruguay	3
+2	World Cup
+in South Africa	+19
+-19	2037
+1861	0
+-1	4
+8
+August 11
+2010	Uruguay
+Angola	2
+0	Friendly
+in Portugal	+3
+-3	1864
+1474	+1
+-1	7
+92
+October 08
+2010	Indonesia
+Uruguay	1
+7	Friendly
+in Indonesia	-2
++2	1260
+1866	-2
+0	142
+7
+October 12
+2010	China
+Uruguay	0
+4	Friendly
+in China	-11
++11	1605
+1877	-3
+0	53
+8
+November 17
+2010	Chile
+Uruguay	2
+0	Friendly
+in Chile	+12
+-12	1870
+1865	0
+-2	9
+10
+March 25
+2011	Estonia
+Uruguay	2
+0	Friendly
+in Estonia	+26
+-26	1478
+1839	+3
+-1	93
+10
+March 29
+2011	Ireland
+Uruguay	2
+3	Friendly
+in Ireland	-10
++10	1715
+1849	-2
+0	32
+11
+May 29
+2011	Germany
+Uruguay	2
+1	Friendly
+in Germany	+3
+-3	2022
+1846	0
+0	4
+11
+June 08
+2011	Uruguay
+Netherlands	1
+1	Friendly
+in Uruguay	+4
+-4	1850
+2088	0
+0	11
+2
+June 23
+2011	Uruguay
+Estonia	3
+0	Friendly
+in Uruguay	+2
+-2	1852
+1431	0
+0	11
+99
+July 04
+2011	Peru
+Uruguay	1
+1	Copa América
+in Argentina	+14
+-14	1646
+1838	+3
+0	46
+11
+July 08
+2011	Chile
+Uruguay	1
+1	Copa América
+in Argentina	-5
++5	1908
+1843	0
+0	5
+11
+July 12
+2011	Uruguay
+Mexico	1
+0	Copa América
+in Argentina	+27
+-27	1870
+1837	+2
+-2	9
+11
+July 16
+2011	Argentina
+Uruguay	1
+1	Copa América
+in Argentina	-9
++9	1892
+1879	-1
++1	7
+8
+July 19
+2011	Uruguay
+Peru	2
+0	Copa América
+in Argentina	+22
+-22	1901
+1704	+3
+-3	5
+36
+July 24
+2011	Uruguay
+Paraguay	3
+0	Copa América
+in Argentina	+31
+-31	1932
+1765	0
+-3	5
+21
+September 02
+2011	Ukraine
+Uruguay	2
+3	Friendly
+in Ukraine	-7
++7	1727
+1939	-3
+0	32
+5
+October 07
+2011	Uruguay
+Bolivia	4
+2	World Cup qualifier
+in Uruguay	+3
+-3	1942
+1509	0
+-1	5
+78
+October 11
+2011	Paraguay
+Uruguay	1
+1	World Cup qualifier
+in Paraguay	+4
+-4	1772
+1938	-1
+0	23
+5
+November 11
+2011	Uruguay
+Chile	4
+0	World Cup qualifier
+in Uruguay	+20
+-20	1958
+1841	0
+-3	5
+12
+November 15
+2011	Italy
+Uruguay	0
+1	Friendly
+in Italy	-10
++10	1862
+1968	-1
+0	10
+5
+February 29
+2012	Romania
+Uruguay	1
+1	Friendly
+in Romania	+5
+-5	1689
+1963	0
+0	36
+5
+May 25
+2012	Russia
+Uruguay	1
+1	Friendly
+in Russia	+2
+-2	1810
+1961	+1
+0	16
+5
+June 02
+2012	Uruguay
+Venezuela	1
+1	World Cup qualifier
+in Uruguay	-16
++16	1945
+1697	0
++3	5
+36
+June 10
+2012	Uruguay
+Peru	4
+2	World Cup qualifier
+in Uruguay	+7
+-7	1952
+1683	0
+-1	5
+38
+August 15
+2012	France
+Uruguay	0
+0	Friendly
+in France	+1
+-1	1829
+1951	0
+-2	14
+6
+September 07
+2012	Colombia
+Uruguay	4
+0	World Cup qualifier
+in Colombia	+46
+-46	1820
+1905	+4
+-2	16
+8
+September 11
+2012	Uruguay
+Ecuador	1
+1	World Cup qualifier
+in Uruguay	-11
++11	1894
+1807	0
+0	8
+18
+October 12
+2012	Argentina
+Uruguay	3
+0	World Cup qualifier
+in Argentina	+20
+-20	1972
+1874	0
+-2	4
+10
+October 16
+2012	Bolivia
+Uruguay	4
+1	World Cup qualifier
+in Bolivia	+55
+-55	1605
+1819	+16
+-7	55
+17
+November 14
+2012	Poland
+Uruguay	1
+3	Friendly
+in Poland	-13
++13	1668
+1832	-2
++1	39
+16
+February 06
+2013	Spain
+Uruguay	3
+1	Friendly
+in Qatar	+5
+-5	2132
+1827	0
+-1	1
+16
+March 22
+2013	Uruguay
+Paraguay	1
+1	World Cup qualifier
+in Uruguay	-11
++11	1816
+1716	-1
+0	17
+33
+March 26
+2013	Chile
+Uruguay	2
+0	World Cup qualifier
+in Chile	+26
+-26	1790
+1790	+6
+0	17
+17
+June 05
+2013	Uruguay
+France	1
+0	Friendly
+in Uruguay	+9
+-9	1799
+1838	+1
+0	18
+15
+June 11
+2013	Venezuela
+Uruguay	0
+1	World Cup qualifier
+in Venezuela	-21
++21	1692
+1820	-1
++1	35
+18
+June 16
+2013	Spain
+Uruguay	2
+1	Confederations Cup
+in Brazil	+7
+-7	2135
+1813	0
+-1	1
+18
+June 20
+2013	Uruguay
+Nigeria	2
+1	Confederations Cup
+in Brazil	+18
+-18	1831
+1692	+3
+-3	14
+35
+June 23
+2013	Uruguay
+Tahiti	8
+0	Confederations Cup
+in Brazil	+4
+-4	1835
+1260	+1
+0	13
+142
+June 26
+2013	Brazil
+Uruguay	2
+1	Confederations Cup
+in Brazil	+7
+-7	2063
+1828	0
+-1	2
+14
+June 30
+2013	Italy
+Uruguay	2
+2	Confederations Cup
+in Brazil	-6
++6	1913
+1834	0
++1	7
+13
+August 14
+2013	Japan
+Uruguay	2
+4	Friendly
+in Japan	-16
++16	1738
+1850	-2
++3	27
+11
+September 06
+2013	Peru
+Uruguay	1
+2	World Cup qualifier
+in Peru	-20
++20	1731
+1870	-2
++1	27
+10
+September 10
+2013	Uruguay
+Colombia	2
+0	World Cup qualifier
+in Uruguay	+25
+-25	1895
+1881	+2
+-2	8
+10
+October 11
+2013	Ecuador
+Uruguay	1
+0	World Cup qualifier
+in Ecuador	+19
+-19	1828
+1876	+2
+0	17
+8
+October 15
+2013	Uruguay
+Argentina	3
+2	World Cup qualifier
+in Uruguay	+22
+-22	1898
+1993	+1
+0	7
+4
+November 13
+2013	Jordan
+Uruguay	0
+5	World Cup qualifier
+in Jordan	-17
++17	1555
+1915	-10
+0	69
+7
+November 20
+2013	Uruguay
+Jordan	0
+0	World Cup qualifier
+in Uruguay	-17
++17	1898
+1572	-3
++7	9
+62
+March 05
+2014	Austria
+Uruguay	1
+1	Friendly
+in Austria	+4
+-4	1643
+1894	+1
+0	47
+9

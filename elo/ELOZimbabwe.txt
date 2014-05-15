@@ -1,0 +1,3418 @@
+July 15
+1950	Rhodesia
+Australia	0
+5	Friendly
+in Rhodesia	-17
++17	1483
+1672	-
++2	50
+21
+July 29
+1950	Rhodesia
+Australia	1
+4	Friendly
+in Rhodesia	-12
++12	1471
+1706	-4
++2	54
+18
+November 12
+1967	Rhodesia
+Malawi	1
+0	Friendly
+in Rhodesia	+3
+-3	1474
+1259	+2
+0	70
+123
+November 25
+1967	Rhodesia
+Mauritius	1
+2	Friendly
+in Rhodesia	-11
++11	1463
+1544	-4
++1	73
+58
+November 26
+1967	Rhodesia
+Mauritius	2
+3	Friendly
+in Rhodesia	-11
++11	1452
+1555	-2
++4	75
+54
+February 01
+1969	Malawi
+Rhodesia	2
+2	Friendly
+in Malawi	+3
+-3	1245
+1449	0
+0	127
+78
+February 02
+1969	Malawi
+Rhodesia	0
+1	Friendly
+in Malawi	-7
++7	1238
+1456	0
++1	127
+77
+February 08
+1969	Rhodesia
+Malawi	4
+0	Friendly
+in Rhodesia	+5
+-5	1461
+1233	0
+0	77
+127
+February 09
+1969	Rhodesia
+Malawi	1
+1	Friendly
+in Rhodesia	-7
++7	1454
+1240	0
+0	77
+127
+November 23
+1969	Australia
+Rhodesia	1
+1	World Cup qualifier
+in Mozambique	-9
++9	1614
+1463	-3
++2	39
+76
+November 27
+1969	Australia
+Rhodesia	0
+0	World Cup qualifier
+in Mozambique	-8
++8	1606
+1471	-2
++2	41
+74
+November 29
+1969	Australia
+Rhodesia	3
+1	World Cup qualifier
+in Mozambique	+19
+-19	1625
+1452	+4
+-5	36
+79
+December 01
+1969	Malawi
+Rhodesia	2
+2	Friendly
+in Malawi	+3
+-3	1246
+1449	0
+0	126
+79
+1977	Rhodesia
+South Africa	1
+1	Friendly
+in Rhodesia	+6
+-6	1455
+1800	+1
+0	75
+16
+1977	South Africa
+Rhodesia	7
+0	Friendly
+in South Africa	+3
+-3	1803
+1452	0
++1	16
+75
+May
+1979	Zimbabwe
+Mozambique	6
+0	Friendly
+in Zimbabwe	+12
+-12	1464
+1374	0
+-8	74
+98
+April 20
+1980	Zimbabwe
+Mozambique	6
+0	Friendly tournament
+in Zimbabwe	+16
+-16	1480
+1358	+2
+-4	70
+101
+April 21
+1980	Zimbabwe
+Zambia	2
+1	Friendly tournament
+in Zimbabwe	+13
+-13	1493
+1531	+2
+-1	68
+62
+June 07
+1980	Zambia
+Zimbabwe	2
+1	Friendly
+in Zambia	+6
+-6	1543
+1487	+1
+-1	61
+69
+July 06
+1980	Malawi
+Zimbabwe	0
+1	Friendly
+in Malawi	-13
++13	1483
+1500	-2
++3	70
+67
+July 08
+1980	Malawi
+Zimbabwe	1
+1	Friendly
+in Malawi	-2
++2	1481
+1502	0
++1	70
+66
+August 30
+1980	Zimbabwe
+Zambia	1
+1	Friendly
+in Zimbabwe	-2
++2	1500
+1542	-1
+0	67
+60
+August 31
+1980	Zimbabwe
+Zambia	1
+2	Friendly
+in Zimbabwe	-12
++12	1488
+1554	-2
+0	69
+60
+October 12
+1980	Cameroon
+Zimbabwe	2
+0	World Cup qualifier
+in Cameroon	+14
+-14	1613
+1474	+4
+-2	44
+71
+October 26
+1980	Malawi
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Malawi	-26
++26	1456
+1500	-4
++5	74
+67
+November 09
+1980	Zimbabwe
+Malawi	1
+1	African Nations Cup qualifier
+in Zimbabwe	-8
++8	1492
+1464	-2
++2	70
+72
+November 16
+1980	Zimbabwe
+Cameroon	1
+0	World Cup qualifier
+in Zimbabwe	+21
+-21	1513
+1592	+6
+-4	63
+46
+April 11
+1981	Zimbabwe
+Zambia	0
+1	African Nations Cup qualifier
+in Zimbabwe	-24
++24	1489
+1567	-8
++3	70
+54
+April 19
+1981	Zimbabwe
+Mozambique	6
+1	Independence Tournament
+in Zimbabwe	+12
+-12	1501
+1339	+5
+0	65
+107
+April 20
+1981	Zimbabwe
+Malawi	4
+0	Independence Tournament
+in Zimbabwe	+20
+-20	1521
+1472	+3
+-4	62
+73
+April 25
+1981	Zambia
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Zambia	+19
+-19	1574
+1502	+5
+-3	50
+65
+June 16
+1981	Zimbabwe
+Mozambique	6
+1	Friendly
+in Zimbabwe	+7
+-7	1509
+1339	+1
+-1	65
+107
+July 08
+1981	Zimbabwe
+Mozambique	4
+2	Friendly tournament
+in Malawi	+12
+-12	1521
+1318	+2
+-2	63
+109
+July 10
+1981	Malawi
+Zimbabwe	2
+0	Friendly tournament
+in Malawi	+18
+-18	1512
+1503	+5
+-4	64
+67
+August 01
+1981	Zimbabwe
+Nigeria	2
+0	Friendly
+in Zimbabwe	+18
+-18	1521
+1664	+4
+-2	63
+33
+September 04
+1981	Zimbabwe
+Malawi	2
+1	Friendly tournament
+in Swaziland	+15
+-15	1536
+1497	+1
+-2	62
+68
+September 05
+1981	Swaziland
+Zimbabwe	0
+2	Friendly tournament
+in Swaziland	-9
++9	1188
+1545	-1
+0	142
+62
+September 06
+1981	Zimbabwe
+Lesotho	5
+2	Friendly tournament
+in Swaziland	+5
+-5	1550
+1165	+3
+0	59
+147
+September 30
+1981	Botswana
+Zimbabwe	0
+1	Friendly
+in Botswana	-2
++2	1079
+1552	0
+0	162
+58
+November 17
+1981	Sudan
+Zimbabwe	0
+0	Cecafa Cup
+in Tanzania	+7
+-7	1433
+1545	+2
+-2	82
+60
+November 19
+1981	Zambia
+Zimbabwe	1
+1	Cecafa Cup
+in Tanzania	-2
++2	1572
+1547	0
+0	50
+60
+November 21
+1981	Uganda
+Zimbabwe	0
+0	Cecafa Cup
+in Tanzania	+5
+-5	1472
+1542	+2
+0	74
+60
+June 06
+1982	Zimbabwe
+Uganda	2
+1	Friendly
+in Zimbabwe	+4
+-4	1546
+1417	0
+0	58
+87
+June 13
+1982	Zimbabwe
+Uganda	1
+1	Friendly
+in Zimbabwe	-6
++6	1540
+1423	0
+0	58
+86
+June 27
+1982	Mozambique
+Zimbabwe	1
+1	Friendly
+in Mozambique	+3
+-3	1339
+1537	+2
+0	106
+58
+July 18
+1982	Zimbabwe
+Reunion	3
+2	Friendly
+in Zimbabwe	+1
+-1	1538
+1152	0
+0	58
+152
+July 25
+1982	Zimbabwe
+Reunion	1
+1	Friendly
+in Zimbabwe	-9
++9	1529
+1161	-2
++1	60
+151
+August 29
+1982	Mauritius
+Zimbabwe	2
+0	Indian Ocean Games
+in Reunion	+35
+-35	1338
+1494	+7
+-11	107
+70
+September 01
+1982	Reunion
+Zimbabwe	0
+1	Indian Ocean Games
+in Reunion	-6
++6	1155
+1500	0
++2	151
+68
+September 12
+1982	Malawi
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Malawi	+25
+-25	1489
+1475	+7
+-8	71
+76
+October 03
+1982	Zimbabwe
+Malawi	0
+2	African Nations Cup qualifier
+in Zimbabwe	-37
++37	1438
+1526	-8
++11	83
+60
+November 14
+1982	Zimbabwe
+Tanzania	3
+0	Cecafa Cup
+in Uganda	+34
+-34	1472
+1390	+9
+-6	75
+93
+November 16
+1982	Malawi
+Zimbabwe	1
+1	Cecafa Cup
+in Uganda	-2
++2	1505
+1474	0
+0	66
+75
+November 20
+1982	Uganda
+Zimbabwe	1
+1	Cecafa Cup
+in Uganda	-6
++6	1469
+1480	-1
++4	77
+73
+November 24
+1982	Kenya
+Zimbabwe	2
+1	Cecafa Cup
+in Uganda	+22
+-22	1466
+1458	+6
+-8	79
+81
+November 26
+1982	Zimbabwe
+Zanzibar	3
+0	Cecafa Cup
+in Uganda	+7
+-7	1465
+1072	+2
+-1	79
+163
+November 13
+1983	Zimbabwe
+Malawi	1
+0	Cecafa Cup
+in Kenya	+23
+-23	1488
+1499	+7
+-5	73
+65
+November 16
+1983	Zimbabwe
+Zanzibar	2
+1	Cecafa Cup
+in Kenya	+3
+-3	1491
+1067	+2
+0	71
+164
+November 19
+1983	Zimbabwe
+Somalia	2
+1	Cecafa Cup
+in Kenya	+3
+-3	1494
+1035	0
+0	71
+166
+November 23
+1983	Zimbabwe
+Uganda	1
+0	Cecafa Cup
+in Kenya	+19
+-19	1513
+1451	+8
+-2	63
+82
+November 26
+1983	Kenya
+Zimbabwe	1
+0	Cecafa Cup
+in Kenya	+15
+-15	1524
+1498	+7
+-4	60
+67
+December 04
+1983	Zimbabwe
+Switzerland	3
+2	Friendly
+in Zimbabwe	+14
+-14	1512
+1723	+1
+-1	66
+28
+June 07
+1984	Zimbabwe
+Djibouti	3
+1	Friendly tournament
+in Ethiopia	+1
+-1	1513
+888	+2
+0	64
+183
+June 10
+1984	Zambia
+Zimbabwe	1
+1	Friendly
+in Zambia	-5
++5	1591
+1518	-3
++1	46
+63
+June 11
+1984	Ethiopia
+Zimbabwe	2
+0	Friendly tournament
+in Ethiopia	+28
+-28	1364
+1490	+10
+-8	98
+71
+July 22
+1984	Uganda
+Zimbabwe	0
+1	Friendly
+in Uganda	-12
++12	1461
+1502	-2
++3	81
+67
+August 28
+1984	Egypt
+Zimbabwe	1
+0	World Cup qualifier
+in Egypt	+9
+-9	1625
+1493	0
+-4	41
+71
+September 30
+1984	Zimbabwe
+Egypt	1
+1	World Cup qualifier
+in Zimbabwe	+2
+-2	1495
+1623	+1
+-1	69
+41
+October 14
+1984	Zimbabwe
+Swaziland	3
+0	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1501
+1190	+4
+0	67
+145
+November 04
+1984	Swaziland
+Zimbabwe	1
+5	African Nations Cup qualifier
+in Swaziland	-17
++17	1173
+1518	-2
++5	147
+61
+November 17
+1984	Malawi
+Zimbabwe	3
+0	Friendly
+in Malawi	+14
+-14	1509
+1504	+4
+-3	63
+64
+December 02
+1984	Zambia
+Zimbabwe	2
+0	Cecafa Cup
+in Uganda	+23
+-23	1609
+1481	+6
+-13	43
+77
+December 04
+1984	Uganda
+Zimbabwe	4
+1	Cecafa Cup
+in Uganda	+29
+-29	1467
+1452	+6
+-2	78
+79
+December 08
+1984	Tanzania
+Zimbabwe	2
+2	Cecafa Cup
+in Uganda	+3
+-3	1397
+1449	0
+-2	93
+81
+February 02
+1985	Zimbabwe
+Zambia	1
+1	Friendly
+in Zimbabwe	+2
+-2	1451
+1626	+1
+0	79
+40
+February 03
+1985	Zimbabwe
+Zambia	2
+3	Friendly
+in Zimbabwe	-8
++8	1443
+1634	-3
++1	82
+39
+March 03
+1985	Madagascar
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Madagascar	-25
++25	1401
+1468	-5
++4	91
+77
+March 23
+1985	Zimbabwe
+Madagascar	5
+2	African Nations Cup qualifier
+in Zimbabwe	+19
+-19	1487
+1382	+3
+-4	74
+95
+May 02
+1985	Zimbabwe
+Malawi	1
+3	Friendly
+in Zimbabwe	-17
++17	1470
+1561	-7
++3	79
+59
+August 18
+1985	Zimbabwe
+Senegal	1
+0	African Nations Cup qualifier
+in Zimbabwe	+19
+-19	1489
+1542	+4
+-4	74
+63
+September 01
+1985	Senegal
+Zimbabwe	3
+0	African Nations Cup qualifier
+in Senegal	+21
+-21	1563
+1468	+5
+-5	58
+79
+October 04
+1985	Zimbabwe
+Tanzania	1
+0	Cecafa Cup
+in Zimbabwe	+11
+-11	1479
+1392	+5
+-3	75
+91
+October 06
+1985	Zimbabwe
+Kenya	1
+1	Cecafa Cup
+in Zimbabwe	-11
++11	1468
+1371	-5
++2	80
+97
+October 11
+1985	Zimbabwe
+Malawi	1
+0	Cecafa Cup
+in Zimbabwe	+20
+-20	1488
+1554	+6
+-8	75
+60
+October 13
+1985	Zimbabwe
+Kenya	2
+0	Cecafa Cup
+in Zimbabwe	+15
+-15	1503
+1383	+6
+-2	68
+93
+November 10
+1985	Angola
+Zimbabwe	2
+3	Friendly
+in Angola	-13
++13	1479
+1516	-2
++3	75
+65
+November 11
+1985	Mozambique
+Zimbabwe	1
+2	Friendly
+in Mozambique	-10
++10	1416
+1526	-1
+0	86
+65
+July 19
+1986	Malawi
+Zimbabwe	1
+1	African Games qualifier
+in Malawi	-6
++6	1536
+1532	-1
++1	63
+65
+August 03
+1986	Zimbabwe
+Malawi	1
+1	African Games qualifier
+in Zimbabwe	-5
++5	1527
+1541	-1
++2	66
+61
+March 29
+1987	Mozambique
+Zimbabwe	1
+1	African Nations Cup qualifier
+in Mozambique	+4
+-4	1369
+1523	+1
+0	98
+63
+April 11
+1987	Zimbabwe
+Mozambique	3
+2	African Nations Cup qualifier
+in Zimbabwe	+8
+-8	1531
+1361	+1
+-1	61
+100
+April 26
+1987	Zimbabwe
+Zambia	0
+1	Friendly
+in Zimbabwe	-12
++12	1519
+1581	-2
+0	64
+54
+June 13
+1987	Malawi
+Zimbabwe	1
+4	Friendly
+in Malawi	-23
++23	1519
+1542	-5
++5	64
+59
+June 14
+1987	Malawi
+Zimbabwe	2
+1	Friendly
+in Malawi	+8
+-8	1527
+1534	0
+-3	64
+62
+July 05
+1987	Zimbabwe
+Kenya	1
+1	African Nations Cup qualifier
+in Zimbabwe	-13
++13	1521
+1384	-1
++3	64
+94
+July 18
+1987	Kenya
+Zimbabwe	0
+0	African Nations Cup qualifier
+in Kenya	+2
+-2	1386
+1519	+1
++1	93
+63
+December 13
+1987	Malawi
+Zimbabwe	1
+1	Cecafa Cup
+in Ethiopia	-4
++4	1591
+1523	0
+0	50
+65
+December 16
+1987	Uganda
+Zimbabwe	0
+0	Cecafa Cup
+in Ethiopia	-1
++1	1547
+1524	0
+0	60
+66
+December 19
+1987	Zambia
+Zimbabwe	2
+2	Cecafa Cup
+in Ethiopia	-2
++2	1561
+1526	+1
++2	54
+64
+December 23
+1987	Zimbabwe
+Zanzibar	1
+0	Cecafa Cup
+in Ethiopia	+3
+-3	1529
+1114	+1
+0	63
+159
+December 27
+1987	Ethiopia
+Zimbabwe	1
+1	Cecafa Cup
+in Ethiopia	+1
+-1	1415
+1528	0
+0	88
+62
+June 04
+1988	Zambia
+Zimbabwe	3
+2	Friendly
+in Zambia	+6
+-6	1567
+1522	+2
+-1	52
+63
+November 08
+1988	Uganda
+Zimbabwe	0
+0	Cecafa Cup
+in Malawi	+1
+-1	1510
+1521	0
+0	67
+65
+November 11
+1988	Zambia
+Zimbabwe	1
+1	Cecafa Cup
+in Malawi	-3
++3	1570
+1524	-1
++1	49
+64
+November 13
+1988	Ethiopia
+Zimbabwe	1
+2	Cecafa Cup
+in Malawi	-16
++16	1433
+1540	-2
++4	83
+60
+November 16
+1988	Malawi
+Zimbabwe	2
+0	Cecafa Cup
+in Malawi	+21
+-21	1571
+1519	+4
+-5	49
+65
+November 19
+1988	Kenya
+Zimbabwe	0
+0	Cecafa Cup
+in Malawi	+8
+-8	1389
+1511	0
+-1	97
+66
+January 06
+1989	Algeria
+Zimbabwe	3
+0	World Cup qualifier
+in Algeria	+18
+-18	1615
+1493	+5
+-2	42
+69
+January 22
+1989	Zimbabwe
+Ivory Coast	0
+0	World Cup qualifier
+in Zimbabwe	+4
+-4	1497
+1651	+3
+0	68
+38
+April 09
+1989	Mauritius
+Zimbabwe	1
+4	African Nations Cup qualifier
+in Mauritius	-24
++24	1264
+1521	-2
++3	120
+65
+April 23
+1989	Zimbabwe
+Mauritius	1
+0	African Nations Cup qualifier
+in Zimbabwe	+5
+-5	1526
+1259	0
+-3	64
+123
+June 16
+1989	Zimbabwe
+Zambia	0
+0	Friendly
+in Zimbabwe	0
+0	1526
+1625	0
+0	63
+41
+June 25
+1989	Zimbabwe
+Algeria	1
+2	World Cup qualifier
+in Zimbabwe	-19
++19	1507
+1668	-6
++3	68
+32
+July 16
+1989	Nigeria
+Zimbabwe	3
+0	African Nations Cup qualifier
+in Nigeria	+19
+-19	1600
+1488	+3
+-3	46
+71
+July 30
+1989	Zimbabwe
+Nigeria	1
+1	African Nations Cup qualifier
+in Zimbabwe	+1
+-1	1489
+1599	0
+0	71
+46
+August 13
+1989	Ivory Coast
+Zimbabwe	5
+0	World Cup qualifier
+in Ivory Coast	+13
+-13	1688
+1476	+2
+-1	29
+72
+December 03
+1989	Zimbabwe
+Tanzania	3
+0	Cecafa Cup
+in Kenya	+13
+-13	1489
+1198	0
+-2	72
+142
+December 06
+1989	Uganda
+Zimbabwe	1
+1	Cecafa Cup
+in Kenya	+1
+-1	1468
+1488	+3
+0	74
+72
+December 09
+1989	Kenya
+Zimbabwe	2
+1	Cecafa Cup
+in Kenya	+17
+-17	1466
+1471	+4
+-1	76
+73
+March 07
+1990	Zimbabwe
+Lesotho	4
+1	SADCC Tournament
+in Mozambique	+8
+-8	1479
+1157	0
+-3	73
+151
+March 08
+1990	Zimbabwe
+Angola	2
+0	SADCC Tournament
+in Mozambique	+19
+-19	1498
+1407	+2
+-4	71
+93
+March 10
+1990	Mozambique
+Zimbabwe	3
+1	SADCC Tournament
+in Mozambique	+23
+-23	1417
+1475	+7
+-3	91
+73
+March 23
+1990	Namibia
+Zimbabwe	1
+5	Friendly
+in Namibia	-14
++14	1277
+1489	-3
++2	123
+71
+April 01
+1990	Zimbabwe
+Swaziland	4
+4	SADCC Tournament
+in Zambia	-11
++11	1478
+1176	-2
++3	73
+145
+August 13
+1990	Zimbabwe
+Mozambique	3
+2	Friendly
+in Zimbabwe	+6
+-6	1484
+1413	+1
+-6	71
+94
+August 25
+1990	Zambia
+Zimbabwe	3
+1	SADCC Tournament
+in Zambia	+11
+-11	1585
+1473	0
+-3	49
+74
+August 26
+1990	Botswana
+Zimbabwe	0
+7	Friendly
+in Botswana	-7
++7	1086
+1480	-1
++2	167
+72
+September 02
+1990	Congo
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Congo	+24
+-24	1472
+1456	+5
+-5	74
+79
+December 09
+1990	Malawi
+Zimbabwe	0
+0	Cecafa Cup
+in Zanzibar	+2
+-2	1430
+1454	0
++1	86
+77
+December 12
+1990	Zanzibar
+Zimbabwe	0
+1	Cecafa Cup
+in Zanzibar	-9
++9	1125
+1463	-3
++2	158
+76
+December 14
+1990	Tanzania
+Zimbabwe	2
+0	Cecafa Cup
+in Zanzibar	+49
+-49	1258
+1414	+12
+-11	127
+87
+April 14
+1991	Zimbabwe
+Malawi	4
+0	African Nations Cup qualifier
+in Zimbabwe	+26
+-26	1440
+1382	+9
+-7	79
+96
+July 14
+1991	Zimbabwe
+Congo	2
+2	African Nations Cup qualifier
+in Zimbabwe	-2
++2	1438
+1511	-2
+-1	81
+64
+July 27
+1991	Malawi
+Zimbabwe	2
+2	African Nations Cup qualifier
+in Malawi	-1
++1	1349
+1439	0
++1	109
+80
+July 06
+1992	Malawi
+Zimbabwe	0
+0	Friendly
+in Malawi	-1
++1	1361
+1440	0
+0	109
+82
+July 08
+1992	Malawi
+Zimbabwe	0
+0	Friendly
+in Malawi	-1
++1	1360
+1441	-1
+0	110
+82
+July 11
+1992	Malawi
+Zimbabwe	1
+0	Friendly
+in Malawi	+9
+-9	1369
+1432	+3
+0	107
+82
+August 16
+1992	Zimbabwe
+South Africa	4
+1	African Nations Cup qualifier
+in Zimbabwe	+57
+-57	1489
+1728	+12
+-9	73
+28
+August 30
+1992	Mauritius
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Mauritius	-13
++13	1256
+1502	-6
++3	134
+69
+October 11
+1992	Zimbabwe
+Togo	1
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1511
+1378	+2
+0	67
+103
+November 07
+1992	Zimbabwe
+Malawi	0
+1	Friendly
+in Zimbabwe	-16
++16	1495
+1410	-2
++6	69
+92
+November 09
+1992	Zimbabwe
+Malawi	4
+1	Friendly
+in Zimbabwe	+9
+-9	1504
+1401	+1
+-4	69
+96
+December 20
+1992	Zimbabwe
+Egypt	2
+1	World Cup qualifier
+in Zimbabwe	+22
+-22	1526
+1613	+8
+-5	62
+44
+January 10
+1993	Angola
+Zimbabwe	1
+1	World Cup qualifier
+in Angola	+2
+-2	1400
+1524	0
+0	97
+62
+January 17
+1993	Togo
+Zimbabwe	1
+2	World Cup qualifier
+in Togo	-16
++16	1345
+1540	-5
++3	111
+59
+January 31
+1993	Zimbabwe
+Angola	2
+1	World Cup qualifier
+in Zimbabwe	+8
+-8	1548
+1398	+1
+-2	59
+97
+February 28
+1993	Egypt
+Zimbabwe	2
+1	World Cup qualifier
+in Egypt	+11
+-11	1626
+1537	+2
+0	41
+59
+April 11
+1993	Zambia
+Zimbabwe	0
+0	African Nations Cup qualifier
+in Zambia	-10
++10	1619
+1547	-3
+0	42
+60
+April 15
+1993	Egypt
+Zimbabwe	0
+0	World Cup qualifier
+in France	-5
++5	1628
+1552	-2
++1	39
+59
+April 24
+1993	South Africa
+Zimbabwe	1
+1	African Nations Cup qualifier
+in South Africa	-11
++11	1656
+1563	-1
++2	33
+56
+May 02
+1993	Guinea
+Zimbabwe	3
+0	World Cup qualifier
+in Guinea	+40
+-40	1452
+1523	+9
+-9	87
+64
+July 04
+1993	Zimbabwe
+Cameroon	1
+0	World Cup qualifier
+in Zimbabwe	+18
+-18	1541
+1574	+4
+-2	64
+50
+July 11
+1993	Zimbabwe
+Mauritius	2
+0	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1547
+1254	+2
+-1	62
+139
+July 25
+1993	Zimbabwe
+Zambia	1
+1	African Nations Cup qualifier
+in Zimbabwe	+1
+-1	1548
+1657	0
++1	61
+33
+August 08
+1993	Zimbabwe
+Swaziland	2
+0	Friendly
+in Zimbabwe	+3
+-3	1551
+1268	+1
+0	60
+136
+September 06
+1993	Swaziland
+Zimbabwe	0
+1	Friendly
+in Swaziland	-5
++5	1263
+1556	-2
+0	138
+59
+September 19
+1993	Zimbabwe
+Senegal	2
+0	Friendly
+in Zimbabwe	+9
+-9	1565
+1490	+4
+-3	55
+76
+September 26
+1993	Zimbabwe
+Guinea	1
+0	World Cup qualifier
+in Zimbabwe	+10
+-10	1575
+1462	+1
+-5	55
+88
+October 10
+1993	Cameroon
+Zimbabwe	3
+1	World Cup qualifier
+in Cameroon	+19
+-19	1624
+1556	+7
+-4	43
+59
+February 26
+1994	Zimbabwe
+Zambia	2
+2	Friendly
+in Zimbabwe	0
+0	1556
+1673	0
+0	58
+32
+March 12
+1994	Zambia
+Zimbabwe	2
+1	Friendly
+in Zambia	+4
+-4	1677
+1552	0
+-1	32
+59
+April 24
+1994	South Africa
+Zimbabwe	1
+0	Friendly
+in Zambia	+8
+-8	1638
+1544	+2
+-1	41
+59
+September 04
+1994	Zimbabwe
+Lesotho	5
+0	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1550
+1186	0
+0	60
+155
+October 15
+1994	Malawi
+Zimbabwe	3
+1	African Nations Cup qualifier
+in Malawi	+33
+-33	1453
+1517	+14
+-13	86
+70
+November 13
+1994	Zimbabwe
+Zaire	2
+1	African Nations Cup qualifier
+in Zimbabwe	+12
+-12	1529
+1460	+5
+-3	64
+84
+January 22
+1995	Zimbabwe
+Cameroon	4
+1	African Nations Cup qualifier
+in Zimbabwe	+26
+-26	1555
+1514	+9
+-10	56
+70
+April 09
+1995	Lesotho
+Zimbabwe	0
+2	African Nations Cup qualifier
+in Lesotho	-12
++12	1198
+1567	-5
+0	157
+55
+April 23
+1995	Zimbabwe
+Malawi	1
+1	African Nations Cup qualifier
+in Zimbabwe	-11
++11	1556
+1467	0
++1	55
+84
+June 04
+1995	Zaire
+Zimbabwe	5
+0	African Nations Cup qualifier
+in Zaire	+34
+-34	1545
+1522	+15
+-13	56
+69
+June 25
+1995	Mozambique
+Zimbabwe	3
+1	Friendly
+in Mozambique	+17
+-17	1402
+1505	+9
+-4	102
+72
+July 30
+1995	Cameroon
+Zimbabwe	1
+0	African Nations Cup qualifier
+in Cameroon	+13
+-13	1553
+1492	+2
+-5	61
+78
+November 22
+1995	Egypt
+Zimbabwe	2
+2	Simba Cup
+in South Africa	-6
++6	1631
+1498	-3
++2	39
+73
+November 24
+1995	Zambia
+Zimbabwe	1
+1	Simba Cup
+in South Africa	-6
++6	1629
+1504	-3
++2	39
+71
+November 26
+1995	South Africa
+Zimbabwe	2
+0	Simba Cup
+in South Africa	+8
+-8	1688
+1496	+2
+-2	29
+73
+January 07
+1996	Zimbabwe
+Gabon	1
+2	Friendly
+in Zimbabwe	-13
++13	1483
+1503	-7
++2	81
+74
+January 09
+1996	Zimbabwe
+Ghana	1
+1	Friendly
+in Zimbabwe	+2
+-2	1485
+1659	0
+0	81
+34
+June 02
+1996	Madagascar
+Zimbabwe	1
+2	World Cup qualifier
+in Madagascar	-25
++25	1457
+1510	-5
++8	88
+73
+June 16
+1996	Zimbabwe
+Madagascar	2
+2	World Cup qualifier
+in Zimbabwe	-8
++8	1502
+1465	0
+0	74
+87
+September 25
+1996	Zimbabwe
+Tanzania	1
+0	Friendly
+in Zimbabwe	+5
+-5	1507
+1404	+1
+-2	75
+103
+October 06
+1996	Sudan
+Zimbabwe	0
+3	African Nations Cup qualifier
+in Sudan	-39
++39	1410
+1546	-12
++10	100
+63
+November 10
+1996	Angola
+Zimbabwe	2
+1	World Cup qualifier
+in Angola	+18
+-18	1499
+1528	+7
+-4	76
+65
+December 21
+1996	Zimbabwe
+Zambia	2
+2	Friendly
+in Zimbabwe	0
+0	1528
+1620	0
+0	65
+45
+January 12
+1997	Zimbabwe
+Togo	3
+0	World Cup qualifier
+in Zimbabwe	+15
+-15	1543
+1387	+2
+-9	63
+108
+January 19
+1997	Mozambique
+Zimbabwe	1
+2	Friendly
+in Mozambique	-8
++8	1370
+1551	-2
++2	116
+61
+January 26
+1997	Zimbabwe
+Ghana	0
+0	African Nations Cup qualifier
+in Zimbabwe	-5
++5	1546
+1564	-2
+0	63
+58
+February 23
+1997	Zimbabwe
+Angola	1
+0	African Nations Cup qualifier
+in Zimbabwe	+12
+-12	1558
+1496	+4
+-1	59
+73
+March 16
+1997	Namibia
+Zimbabwe	2
+1	Cosafa Cup
+in Namibia	+30
+-30	1306
+1528	+5
+-7	130
+67
+April 06
+1997	Cameroon
+Zimbabwe	1
+0	World Cup qualifier
+in Cameroon	+13
+-13	1566
+1515	+4
+-3	56
+70
+April 27
+1997	Zimbabwe
+Angola	0
+0	World Cup qualifier
+in Zimbabwe	-5
++5	1510
+1525	+1
++3	71
+66
+June 08
+1997	Togo
+Zimbabwe	2
+1	World Cup qualifier
+in Togo	+22
+-22	1393
+1488	+4
+-5	107
+78
+July 13
+1997	Ghana
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Ghana	+13
+-13	1526
+1475	+6
+-4	66
+80
+July 27
+1997	Angola
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Angola	+11
+-11	1548
+1464	0
+-2	64
+82
+August 17
+1997	Zimbabwe
+Cameroon	1
+2	World Cup qualifier
+in Zimbabwe	-20
++20	1444
+1581	-9
++5	91
+56
+January 03
+1998	Malawi
+Zimbabwe	1
+0	Friendly
+in Malawi	+9
+-9	1373
+1435	+5
+-3	112
+97
+January 04
+1998	Malawi
+Zimbabwe	0
+2	Friendly
+in Malawi	-17
++17	1356
+1452	-5
++12	117
+85
+January 18
+1998	Lesotho
+Zimbabwe	0
+2	Cosafa Cup
+in Lesotho	-17
++17	1174
+1469	-6
++6	160
+80
+April 19
+1998	Zimbabwe
+Namibia	5
+2	Cosafa Cup
+in Zimbabwe	+16
+-16	1485
+1348	+5
+-4	76
+118
+May 24
+1998	Mozambique
+Zimbabwe	0
+2	Cosafa Cup
+in Mozambique	-28
++28	1328
+1513	-8
++10	121
+67
+July 18
+1998	Malawi
+Zimbabwe	1
+0	Friendly
+in Malawi	+12
+-12	1357
+1501	+5
+-4	114
+71
+July 19
+1998	Malawi
+Zimbabwe	0
+0	Friendly
+in Malawi	+1
+-1	1358
+1500	0
+0	114
+71
+August 30
+1998	Angola
+Zimbabwe	2
+1	Cosafa Cup
+in Angola	+16
+-16	1488
+1484	+4
+-4	74
+77
+September 27
+1998	Zimbabwe
+Zambia	0
+1	Cosafa Cup
+in Zimbabwe	-20
++20	1464
+1604	-9
++4	85
+54
+November 07
+1998	Tunisia
+Zimbabwe	1
+1	Friendly
+in Tunisia	-6
++6	1615
+1470	-1
++3	54
+81
+January 23
+1999	Zimbabwe
+Malawi	3
+0	Friendly
+in Zimbabwe	+7
+-7	1477
+1312	+1
+-1	79
+127
+January 24
+1999	Zimbabwe
+Malawi	1
+0	Friendly
+in Zimbabwe	+4
+-4	1481
+1308	+2
+-1	77
+128
+February 20
+1999	Zimbabwe
+Zambia	1
+1	Friendly
+in Zimbabwe	+1
+-1	1482
+1612	0
+0	77
+55
+June 16
+1999	South Africa
+Zimbabwe	0
+1	Friendly
+in South Africa	-16
++16	1610
+1498	-1
++1	53
+78
+June 29
+1999	Zimbabwe
+Egypt	1
+1	Friendly
+in Zimbabwe	+3
+-3	1501
+1685	+1
+-2	77
+35
+July 04
+1999	Eritrea
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Eritrea	-10
++10	1206
+1511	0
++4	152
+73
+July 18
+1999	Swaziland
+Zimbabwe	1
+1	Cosafa Cup
+in Swaziland	+10
+-10	1240
+1501	+4
+-4	144
+77
+August 01
+1999	Zimbabwe
+Senegal	2
+1	African Nations Cup qualifier
+in Zimbabwe	+13
+-13	1514
+1466	+6
+-3	71
+83
+August 08
+1999	Senegal
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Senegal	+26
+-26	1492
+1488	+5
+-9	78
+80
+August 15
+1999	Zimbabwe
+Eritrea	4
+0	African Nations Cup qualifier
+in Zimbabwe	+7
+-7	1495
+1181	+2
+-1	78
+157
+November 27
+1999	Zimbabwe
+Libya	2
+1	Friendly
+in Zimbabwe	+6
+-6	1501
+1422	0
+-3	76
+99
+March 05
+2000	Zimbabwe
+Lesotho	2
+1	Cosafa Cup
+in Zimbabwe	+2
+-2	1503
+1118	+1
+0	70
+169
+March 21
+2000	Namibia
+Zimbabwe	2
+1	Friendly
+in Namibia	+12
+-12	1342
+1491	+3
+-7	119
+77
+April 09
+2000	Central African Republic
+Zimbabwe	0
+1	World Cup qualifier
+in Central African Republic	-12
++12	1233
+1503	-4
++7	147
+71
+April 23
+2000	Zimbabwe
+Central African Republic	3
+1	World Cup qualifier
+in Zimbabwe	+6
+-6	1509
+1227	+2
+-1	69
+147
+May 14
+2000	Zimbabwe
+Namibia	3
+2	Cosafa Cup
+in Zimbabwe	+7
+-7	1516
+1329	0
+-1	68
+124
+June 18
+2000	Guinea
+Zimbabwe	3
+0	World Cup qualifier
+in Guinea	+29
+-29	1508
+1487	+11
+-10	68
+77
+July 01
+2000	Seychelles
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Seychelles	-4
++4	1006
+1491	-1
++1	189
+76
+July 09
+2000	Zimbabwe
+South Africa	0
+2	World Cup qualifier
+in Zimbabwe	-25
++25	1466
+1680	-6
++5	84
+41
+July 16
+2000	Zimbabwe
+Seychelles	5
+0	African Nations Cup qualifier
+in Zimbabwe	+3
+-3	1469
+1003	0
+0	84
+189
+July 29
+2000	South Africa
+Zimbabwe	0
+1	Cosafa Cup
+in South Africa	-34
++34	1646
+1503	-9
++11	48
+73
+August 13
+2000	Lesotho
+Zimbabwe	0
+3	Cosafa Cup
+in Lesotho	-16
++16	1175
+1519	-4
++4	162
+70
+August 27
+2000	Zimbabwe
+Lesotho	3
+0	Cosafa Cup
+in Zimbabwe	+5
+-5	1524
+1170	+1
+-1	69
+163
+September 03
+2000	Zimbabwe
+Dem. Rep. of Congo	3
+2	African Nations Cup qualifier
+in Zimbabwe	+12
+-12	1536
+1470	+3
+-5	64
+84
+October 08
+2000	Ghana
+Zimbabwe	4
+1	African Nations Cup qualifier
+in Ghana	+25
+-25	1559
+1511	+3
+-8	62
+72
+October 30
+2000	Rwanda
+Zimbabwe	1
+0	Comesa Cup
+in Zambia	+22
+-22	1367
+1489	+5
+-7	112
+77
+January 14
+2001	Zimbabwe
+Lesotho	1
+2	African Nations Cup qualifier
+in Zimbabwe	-36
++36	1453
+1228	-8
++12	85
+147
+February 24
+2001	Burkina Faso
+Zimbabwe	1
+2	World Cup qualifier
+in Burkina Faso	-24
++24	1391
+1477	-5
++4	101
+80
+March 11
+2001	Zimbabwe
+Malawi	2
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1486
+1270	+1
+-1	78
+137
+March 24
+2001	Lesotho
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Lesotho	-12
++12	1230
+1498	-2
++5	147
+73
+May 05
+2001	South Africa
+Zimbabwe	2
+1	World Cup qualifier
+in South Africa	+7
+-7	1678
+1491	+1
+-2	40
+73
+June 03
+2001	Zimbabwe
+Ghana	1
+2	African Nations Cup qualifier
+in Zimbabwe	-27
++27	1464
+1488	-9
++8	83
+75
+June 17
+2001	Dem. Rep. of Congo
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Dem. Rep. of Congo	+16
+-16	1443
+1448	+6
+-3	89
+84
+July 08
+2001	Zimbabwe
+Swaziland	2
+1	Cosafa Cup
+in Zimbabwe	+5
+-5	1453
+1198	+1
+-1	84
+154
+July 15
+2001	Zimbabwe
+Burkina Faso	1
+0	World Cup qualifier
+in Zimbabwe	+12
+-12	1465
+1390	+3
+-4	81
+105
+July 28
+2001	Malawi
+Zimbabwe	0
+1	World Cup qualifier
+in Malawi	-16
++16	1281
+1481	-4
++3	134
+79
+August 25
+2001	Malawi
+Zimbabwe	0
+2	Cosafa Cup
+in Malawi	-22
++22	1259
+1503	-5
++8	140
+73
+September 16
+2001	Angola
+Zimbabwe	0
+0	Cosafa Cup
+in Angola	-7
++7	1514
+1510	-3
++2	71
+72
+September 30
+2001	Zimbabwe
+Angola	0
+1	Cosafa Cup
+in Zimbabwe	-25
++25	1485
+1539	-10
++7	81
+63
+December 30
+2001	Saudi Arabia
+Zimbabwe	0
+2	Friendly
+in Saudi Arabia	-26
++26	1692
+1511	-9
++8	40
+74
+January 05
+2002	Kuwait
+Zimbabwe	3
+0	Friendly
+in Kuwait	+10
+-10	1579
+1501	+1
+-2	55
+76
+January 08
+2002	Qatar
+Zimbabwe	0
+2	Friendly
+in Qatar	-21
++21	1538
+1522	-4
++6	64
+70
+May 05
+2002	Zimbabwe
+Swaziland	0
+2	Cosafa Cup
+in Zimbabwe	-55
++55	1467
+1249	-17
++10	86
+146
+July 07
+2002	Malawi
+Zimbabwe	3
+2	Friendly
+in Malawi	+12
+-12	1320
+1455	+1
+-4	127
+90
+July 08
+2002	Malawi
+Zimbabwe	2
+2	Friendly
+in Malawi	+1
+-1	1321
+1454	+2
++1	125
+89
+August 30
+2002	Zimbabwe
+Lesotho	2
+0	Friendly
+in Zimbabwe	+3
+-3	1457
+1169	0
+-1	89
+159
+September 08
+2002	Zimbabwe
+Mali	1
+0	African Nations Cup qualifier
+in Zimbabwe	+16
+-16	1473
+1477	+4
+-7	83
+81
+September 28
+2002	Zimbabwe
+Zambia	0
+0	Friendly
+in Zimbabwe	-3
++3	1470
+1483	0
++1	83
+77
+October 12
+2002	Eritrea
+Zimbabwe	0
+1	African Nations Cup qualifier
+in Eritrea	-8
++8	1134
+1478	-1
++3	169
+80
+March 16
+2003	Zimbabwe
+Malawi	0
+0	Friendly
+in Zimbabwe	-6
++6	1472
+1348	-3
++2	84
+121
+March 30
+2003	Zimbabwe
+Seychelles	3
+1	African Nations Cup qualifier
+in Zimbabwe	+2
+-2	1474
+1019	+1
+0	82
+187
+April 20
+2003	Zimbabwe
+Angola	1
+0	Cosafa Cup
+in Zimbabwe	+15
+-15	1489
+1470	+5
+-5	78
+85
+June 07
+2003	Seychelles
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Seychelles	+36
+-36	1055
+1453	+9
+-9	178
+87
+June 22
+2003	Mali
+Zimbabwe	0
+0	African Nations Cup qualifier
+in Mali	-10
++10	1528
+1463	-2
++3	69
+84
+July 05
+2003	Zimbabwe
+Eritrea	2
+0	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1469
+1165	+2
+0	82
+163
+July 17
+2003	South Africa
+Zimbabwe	0
+1	Cosafa Cup
+in South Africa	-34
++34	1641
+1503	-6
++7	43
+74
+August 30
+2003	Zimbabwe
+Swaziland	2
+0	Cosafa Cup
+in Zimbabwe	+8
+-8	1511
+1260	+2
+0	72
+144
+September 27
+2003	Malawi
+Zimbabwe	1
+2	Cosafa Cup
+in Malawi	-15
++15	1300
+1526	-2
++2	131
+70
+October 05
+2003	Zimbabwe
+Malawi	2
+0	Cosafa Cup
+in Zimbabwe	+8
+-8	1534
+1292	+4
+-1	66
+132
+October 12
+2003	Zimbabwe
+Mauritania	3
+0	World Cup qualifier
+in Zimbabwe	+3
+-3	1537
+1117	+1
+-1	67
+171
+October 23
+2003	Zimbabwe
+Burkina Faso	4
+1	Afro-Asian Games
+in India	+28
+-28	1565
+1442	+4
+-7	63
+92
+October 29
+2003	India
+Zimbabwe	5
+3	Afro-Asian Games
+in India	+50
+-50	1229
+1515	+7
+-9	152
+72
+October 31
+2003	Rwanda
+Zimbabwe	2
+2	Afro-Asian Games
+in India	+9
+-9	1362
+1506	0
+-3	118
+75
+November 14
+2003	Mauritania
+Zimbabwe	2
+1	World Cup qualifier
+in Mauritania	+34
+-34	1151
+1472	+4
+-7	167
+82
+December 13
+2003	Botswana
+Zimbabwe	0
+2	Friendly
+in Botswana	-10
++10	1233
+1482	0
+0	149
+82
+January 25
+2004	Egypt
+Zimbabwe	2
+1	African Nations Cup
+in Tunisia	+12
+-12	1696
+1470	+2
+-2	35
+82
+January 29
+2004	Cameroon
+Zimbabwe	5
+3	African Nations Cup
+in Tunisia	+12
+-12	1776
+1458	+3
+-4	19
+85
+February 03
+2004	Zimbabwe
+Algeria	2
+1	African Nations Cup
+in Tunisia	+32
+-32	1490
+1527	+4
+-5	78
+70
+May 01
+2004	Zambia
+Zimbabwe	1
+1	Friendly
+in Zambia	-2
++2	1448
+1492	-1
+0	91
+79
+May 16
+2004	Zimbabwe
+Zambia	0
+0	Friendly
+in Zimbabwe	-4
++4	1488
+1452	0
++3	79
+88
+May 24
+2004	Egypt
+Zimbabwe	2
+0	Friendly
+in Egypt	+5
+-5	1674
+1483	0
+0	41
+79
+June 05
+2004	Gabon
+Zimbabwe	1
+1	World Cup qualifier
+in Gabon	+2
+-2	1354
+1481	0
+-1	122
+80
+June 20
+2004	Zimbabwe
+Algeria	1
+1	World Cup qualifier
+in Zimbabwe	-5
++5	1476
+1493	0
+-1	80
+79
+June 27
+2004	Swaziland
+Zimbabwe	0
+5	Cosafa Cup
+in Swaziland	-21
++21	1172
+1497	-2
++3	160
+77
+July 03
+2004	Rwanda
+Zimbabwe	0
+2	World Cup qualifier
+in Rwanda	-28
++28	1340
+1525	-9
++5	122
+72
+August 18
+2004	Zimbabwe
+Botswana	2
+0	Friendly
+in Zimbabwe	+4
+-4	1529
+1273	-1
++1	74
+140
+August 22
+2004	Zimbabwe
+Uganda	2
+0	Friendly
+in Zimbabwe	+6
+-6	1535
+1373	0
+-1	74
+110
+September 05
+2004	Zimbabwe
+Nigeria	0
+3	World Cup qualifier
+in Zimbabwe	-21
++21	1514
+1809	-3
++3	76
+19
+October 10
+2004	Angola
+Zimbabwe	1
+0	World Cup qualifier
+in Angola	+14
+-14	1536
+1500	+2
+-4	72
+79
+October 24
+2004	Zimbabwe
+Zambia	0
+0	Cosafa Cup
+in Zimbabwe	-6
++6	1494
+1507	-1
++2	80
+76
+February 27
+2005	Malawi
+Zimbabwe	2
+1	Friendly
+in Malawi	+13
+-13	1307
+1481	+3
+-3	131
+82
+March 16
+2005	Zimbabwe
+Botswana	1
+1	Friendly
+in Zimbabwe	-7
++7	1474
+1313	-2
++2	85
+130
+March 27
+2005	Zimbabwe
+Angola	2
+0	World Cup qualifier
+in Zimbabwe	+28
+-28	1502
+1524	+5
+-3	78
+72
+April 16
+2005	Zimbabwe
+Mozambique	3
+0	Cosafa Cup
+in Namibia	+15
+-15	1517
+1265	+2
+-2	76
+140
+April 17
+2005	Zimbabwe
+Botswana	2
+0	Cosafa Cup
+in Namibia	+13
+-13	1530
+1288	+4
+-4	72
+136
+June 05
+2005	Zimbabwe
+Gabon	1
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1539
+1397	+1
+0	71
+99
+June 19
+2005	Algeria
+Zimbabwe	2
+2	World Cup qualifier
+in Algeria	+1
+-1	1422
+1538	+2
+0	94
+73
+August 13
+2005	Zimbabwe
+Angola	2
+1	Cosafa Cup
+in South Africa	+20
+-20	1558
+1510	+7
+-6	64
+80
+August 14
+2005	Zimbabwe
+Zambia	1
+0	Cosafa Cup
+in South Africa	+18
+-18	1576
+1509	+2
+-6	62
+80
+August 28
+2005	Zimbabwe
+Mozambique	0
+0	Friendly
+in Zimbabwe	-8
++8	1568
+1273	-1
++1	61
+138
+September 04
+2005	Zimbabwe
+Rwanda	3
+1	World Cup qualifier
+in Zimbabwe	+8
+-8	1576
+1323	0
+-3	61
+124
+September 24
+2005	Malawi
+Zimbabwe	2
+0	Friendly tournament
+in Mozambique	+39
+-39	1297
+1537	+10
+-6	131
+66
+September 25
+2005	Mozambique
+Zimbabwe	3
+2	Friendly tournament
+in Mozambique	+22
+-22	1295
+1515	+6
+-10	133
+76
+October 08
+2005	Nigeria
+Zimbabwe	5
+1	World Cup qualifier
+in Nigeria	+9
+-9	1760
+1506	+1
+-2	25
+79
+December 31
+2005	Zimbabwe
+Zambia	1
+1	Friendly
+in Zimbabwe	-2
++2	1504
+1532	0
++1	80
+71
+January 05
+2006	Egypt
+Zimbabwe	2
+0	Friendly
+in Egypt	+4
+-4	1712
+1500	+2
+0	34
+80
+January 14
+2006	Morocco
+Zimbabwe	1
+0	Friendly
+in Morocco	+3
+-3	1702
+1497	+3
+0	37
+80
+January 23
+2006	Senegal
+Zimbabwe	2
+0	African Nations Cup
+in Egypt	+18
+-18	1712
+1479	+3
+-3	36
+83
+January 27
+2006	Nigeria
+Zimbabwe	2
+0	African Nations Cup
+in Egypt	+12
+-12	1775
+1467	+2
+-4	23
+86
+January 31
+2006	Zimbabwe
+Ghana	2
+1	African Nations Cup
+in Egypt	+34
+-34	1501
+1569	+7
+-1	78
+58
+June 24
+2006	Malawi
+Zimbabwe	1
+1	Friendly tournament
+in Mozambique	+7
+-7	1340
+1494	+3
+-1	118
+76
+June 25
+2006	Zimbabwe
+Swaziland	2
+1	Friendly tournament
+in Mozambique	+5
+-5	1499
+1191	+1
+-1	75
+158
+July 15
+2006	Zambia
+Zimbabwe	0
+0	Friendly
+in Zambia	-3
++3	1506
+1502	-1
+-1	75
+76
+September 17
+2006	Zimbabwe
+Angola	1
+2	Cosafa Cup
+in Zimbabwe	-20
++20	1482
+1620	-6
++5	83
+50
+October 07
+2006	Malawi
+Zimbabwe	1
+0	African Nations Cup qualifier
+in Malawi	+24
+-24	1338
+1458	+4
+-7	119
+91
+November 15
+2006	Zimbabwe
+Namibia	3
+2	Friendly
+in Zimbabwe	+2
+-2	1460
+1205	-2
+-1	92
+155
+March 25
+2007	Zimbabwe
+Morocco	1
+1	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1466
+1657	0
+-1	89
+45
+April 28
+2007	Zimbabwe
+Madagascar	1
+0	Cosafa Cup
+in Mozambique	+6
+-6	1472
+1169	+1
+-2	88
+166
+April 29
+2007	Mozambique
+Zimbabwe	0
+0	Cosafa Cup
+in Mozambique	+4
+-4	1306
+1468	+1
+-1	129
+89
+May 25
+2007	Zimbabwe
+Lesotho	1
+1	Friendly
+in Zimbabwe	-8
++8	1460
+1180	-1
++4	90
+162
+May 28
+2007	Zimbabwe
+Burkina Faso	1
+1	Friendly
+in Zimbabwe	-4
++4	1456
+1415	0
++1	90
+99
+June 02
+2007	Morocco
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Morocco	+9
+-9	1666
+1447	-1
+-4	44
+93
+August 20
+2007	Mozambique
+Zimbabwe	0
+0	Friendly
+in Mozambique	0
+0	1348
+1447	0
+0	116
+90
+September 09
+2007	Zimbabwe
+Malawi	3
+1	African Nations Cup qualifier
+in Zimbabwe	+10
+-10	1457
+1266	+2
+-3	90
+141
+March 11
+2008	South Africa
+Zimbabwe	2
+1	Friendly
+in South Africa	+7
+-7	1486
+1450	+4
+-3	82
+94
+March 26
+2008	Botswana
+Zimbabwe	0
+1	Friendly
+in Botswana	-10
++10	1330
+1460	-5
++3	125
+92
+June 01
+2008	Guinea
+Zimbabwe	0
+0	World Cup qualifier
+in Guinea	-12
++12	1599
+1472	-3
++2	54
+90
+June 08
+2008	Zimbabwe
+Namibia	2
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1481
+1270	+3
+-2	87
+139
+June 14
+2008	Kenya
+Zimbabwe	2
+0	World Cup qualifier
+in Kenya	+33
+-33	1383
+1448	+6
+-10	110
+97
+June 22
+2008	Zimbabwe
+Kenya	0
+0	World Cup qualifier
+in Zimbabwe	-9
++9	1439
+1392	0
++3	97
+108
+July 27
+2008	Zambia
+Zimbabwe	0
+0	Cosafa Cup
+in South Africa	-5
++5	1522
+1444	-1
+0	75
+97
+August 20
+2008	Zimbabwe
+Botswana	1
+0	Friendly
+in Zimbabwe	+4
+-4	1448
+1318	+1
+-2	96
+127
+September 07
+2008	Zimbabwe
+Guinea	0
+0	World Cup qualifier
+in Zimbabwe	+1
+-1	1449
+1564	0
+-1	93
+61
+September 10
+2008	Oman
+Zimbabwe	3
+2	Friendly
+in Oman	+6
+-6	1490
+1443	+1
+-1	86
+94
+October 11
+2008	Namibia
+Zimbabwe	4
+2	World Cup qualifier
+in Namibia	+36
+-36	1305
+1407	+8
+-12	131
+106
+December 28
+2008	Yemen
+Zimbabwe	1
+0	Friendly
+in Yemen	+12
+-12	1246
+1395	+8
+-5	143
+110
+December 30
+2008	Yemen
+Zimbabwe	0
+1	Friendly
+in Yemen	-9
++9	1237
+1404	-7
++2	150
+108
+February 11
+2009	Tanzania
+Zimbabwe	0
+0	Friendly
+in Tanzania	-2
++2	1368
+1406	+1
+0	119
+108
+March 23
+2009	Bahrain
+Zimbabwe	5
+2	Friendly
+in Bahrain	+6
+-6	1579
+1400	+2
+0	57
+107
+May 13
+2009	Jordan
+Zimbabwe	2
+0	Friendly
+in Jordan	+8
+-8	1479
+1392	+1
+-3	87
+108
+August 12
+2009	Zimbabwe
+Lesotho	1
+1	Friendly
+in Zimbabwe	-8
++8	1384
+1155	-3
++5	111
+163
+October 17
+2009	Zimbabwe
+Mauritius	3
+0	Cosafa Cup
+in Zimbabwe	+6
+-6	1390
+1061	+3
+-2	109
+182
+October 19
+2009	Zimbabwe
+Lesotho	2
+2	Cosafa Cup
+in Zimbabwe	-15
++15	1375
+1156	-6
++2	115
+166
+October 26
+2009	Zimbabwe
+Botswana	1
+0	Cosafa Cup
+in Zimbabwe	+11
+-11	1386
+1288	+4
+0	111
+133
+November 01
+2009	Zimbabwe
+Zambia	3
+1	Cosafa Cup
+in Zimbabwe	+28
+-28	1414
+1439	+8
+-5	103
+95
+December 29
+2009	Thailand
+Zimbabwe	3
+0	Friendly
+in Thailand	+11
+-11	1471
+1403	+2
+-5	90
+107
+January 02
+2010	Syria
+Zimbabwe	6
+0	Friendly
+in Malaysia	+14
+-14	1547
+1389	+9
+-4	69
+110
+January 27
+2010	South Africa
+Zimbabwe	3
+0	Friendly
+in South Africa	+8
+-8	1520
+1381	0
+-3	83
+112
+March 03
+2010	Zimbabwe
+Malawi	2
+1	Friendly
+in Zimbabwe	+7
+-7	1388
+1381	+1
+-1	110
+111
+June 02
+2010	Zimbabwe
+Brazil	0
+3	Friendly
+in Zimbabwe	-1
++1	1387
+2087	0
+0	110
+1
+June 10
+2010	Japan
+Zimbabwe	0
+0	Friendly
+in South Africa	-7
++7	1668
+1394	0
++1	43
+109
+August 04
+2010	Botswana
+Zimbabwe	2
+0	Friendly
+in Botswana	+12
+-12	1368
+1382	+2
+-1	117
+110
+September 05
+2010	Liberia
+Zimbabwe	1
+1	African Nations Cup qualifier
+in Liberia	+3
+-3	1228
+1379	0
+0	150
+113
+October 10
+2010	Zimbabwe
+Cape Verde	0
+0	African Nations Cup qualifier
+in Zimbabwe	-5
++5	1374
+1401	0
++1	115
+109
+March 26
+2011	Mali
+Zimbabwe	1
+0	African Nations Cup qualifier
+in Mali	+8
+-8	1530
+1366	+3
+-3	71
+116
+June 05
+2011	Zimbabwe
+Mali	2
+1	African Nations Cup qualifier
+in Zimbabwe	+24
+-24	1390
+1506	+6
+-9	111
+80
+August 10
+2011	Zimbabwe
+Zambia	2
+0	Friendly
+in Zimbabwe	+17
+-17	1407
+1527	+5
+-3	104
+72
+September 04
+2011	Zimbabwe
+Liberia	3
+0	African Nations Cup qualifier
+in Zimbabwe	+13
+-13	1420
+1241	+4
+-1	100
+145
+October 08
+2011	Cape Verde
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Cape Verde	+16
+-16	1402
+1404	+4
+-3	106
+105
+November 15
+2011	Zimbabwe
+South Africa	2
+1	Friendly
+in Zimbabwe	+13
+-13	1417
+1595	+2
+-2	101
+57
+November 27
+2011	Zimbabwe
+Djibouti	2
+0	Cecafa Cup
+in Tanzania	+2
+-2	1419
+792	0
+-2	101
+214
+November 29
+2011	Rwanda
+Zimbabwe	2
+0	Cecafa Cup
+in Tanzania	+37
+-37	1371
+1382	+11
+-7	116
+108
+December 03
+2011	Tanzania
+Zimbabwe	1
+2	Cecafa Cup
+in Tanzania	-20
++20	1259
+1402	-2
++3	142
+105
+December 06
+2011	Uganda
+Zimbabwe	1
+0	Cecafa Cup
+in Tanzania	+14
+-14	1528
+1388	+3
+-3	74
+108
+January 07
+2012	Botswana
+Zimbabwe	0
+0	Friendly
+in Botswana	-4
++4	1418
+1392	-2
++1	102
+107
+February 29
+2012	Burundi
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Burundi	+23
+-23	1262
+1369	+4
+-5	143
+112
+June 03
+2012	Zimbabwe
+Guinea	0
+1	World Cup qualifier
+in Zimbabwe	-16
++16	1353
+1558	-4
++5	118
+69
+June 10
+2012	Mozambique
+Zimbabwe	0
+0	World Cup qualifier
+in Mozambique	-4
++4	1313
+1357	-1
++3	131
+116
+June 17
+2012	Zimbabwe
+Burundi	1
+0	African Nations Cup qualifier
+in Zimbabwe	+10
+-10	1367
+1252	0
+-2	115
+145
+July 16
+2012	Botswana
+Zimbabwe	1
+0	Friendly tournament
+in Botswana	+12
+-12	1348
+1355	+3
+-1	121
+116
+July 17
+2012	Zimbabwe
+Lesotho	5
+3	Friendly tournament
+in Botswana	+11
+-11	1366
+1144	+1
+-5	115
+167
+August 08
+2012	Zambia
+Zimbabwe	2
+1	Friendly
+in Zambia	+2
+-2	1609
+1364	+1
+0	52
+115
+September 09
+2012	Zimbabwe
+Angola	3
+1	African Nations Cup qualifier
+in Zimbabwe	+33
+-33	1397
+1471	+7
+-11	108
+92
+October 14
+2012	Angola
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Angola	+16
+-16	1487
+1381	+6
+-1	85
+108
+February 06
+2013	Zimbabwe
+Botswana	2
+1	Friendly
+in Zimbabwe	+5
+-5	1386
+1294	+1
+-2	111
+138
+March 26
+2013	Egypt
+Zimbabwe	2
+1	World Cup qualifier
+in Egypt	+4
+-4	1658
+1382	+1
+0	43
+113
+April 28
+2013	Zambia
+Zimbabwe	2
+0	Friendly
+in Zambia	+6
+-6	1544
+1376	+2
+-2	70
+115
+May 25
+2013	Malawi
+Zimbabwe	1
+1	Friendly
+in Malawi	-3
++3	1379
+1379	-1
++1	114
+114
+June 09
+2013	Zimbabwe
+Egypt	2
+4	World Cup qualifier
+in Zimbabwe	-16
++16	1363
+1665	-4
++1	117
+43
+June 16
+2013	Guinea
+Zimbabwe	2
+0	World Cup qualifier
+in Guinea	+11
+-11	1525
+1352	+2
+-2	79
+120
+July 13
+2013	Malawi
+Zimbabwe	1
+1	Cosafa Cup
+in Zambia	0
+0	1351
+1352	0
+0	121
+119
+July 17
+2013	Zimbabwe
+Lesotho	2
+1	Cosafa Cup
+in Zambia	+12
+-12	1364
+1196	+2
+-1	117
+156
+July 20
+2013	Zambia
+Zimbabwe	2
+0	Cosafa Cup
+in Zambia	+10
+-10	1544
+1354	+3
+-3	71
+120
+September 08
+2013	Zimbabwe
+Mozambique	1
+1	World Cup qualifier
+in Zimbabwe	-5
++5	1349
+1362	0
++1	120
+117
+September 10
+2013	South Africa
+Zimbabwe	1
+2	Friendly
+in South Africa	-17
++17	1561
+1366	-5
++3	66
+117
+November 19
+2013	Tanzania
+Zimbabwe	0
+0	Friendly
+in Tanzania	-2
++2	1347
+1368	0
++1	121
+116
+March 05
+2014	Malawi
+Zimbabwe	1
+4	Friendly
+in Malawi	-21
++21	1315
+1389	-4
++8	128
+111

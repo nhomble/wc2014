@@ -1,0 +1,168 @@
+1931 40 away Martinique Barbados 1 2
+1931 42 away Martinique Barbados 3 2
+1931 43 away Martinique Barbados 0 0
+1948 359 home Martinique DutchGuiana 3 2
+1983 209 home Martinique Antigua and Barbuda 2 0
+1983 211 home Martinique TrinidadTobago 3 1
+1983 213 away Martinique FrenchGuiana 0 0
+1983 339 home Martinique Mexico 4 4
+1989 77 home Martinique Paraguay 0 2
+1990 94 home Martinique FrenchGuiana 4 0
+1991 67 home Martinique FrenchGuiana 1 2
+1991 71 home Martinique Guadeloupe 3 1
+1991 147 home Martinique DominicanRepublic 4 1
+1991 149 away Martinique TrinidadTobago 1 0
+1991 151 away Martinique SaintLucia 0 0
+1992 94 home Martinique CaymanIslands 7 0
+1992 98 away Martinique SintMaarten 1 1
+1992 172 away Martinique TrinidadTobago 2 1
+1992 174 away Martinique Antigua and Barbuda 1 4
+1992 176 home Martinique Surinam 4 1
+1992 179 away Martinique Jamaica 1 0
+1992 182 home Martinique Cuba 1 1
+1993 65 home Martinique FrenchGuiana 2 1
+1993 107 away Martinique Guadeloupe 1 4
+1993 145 home Martinique TrinidadTobago 3 2
+1993 147 home Martinique St. Vincent & Grenadines 3 0
+1993 149 home Martinique SaintLucia 2 0
+1993 152 home Martinique SaintKitts 1 1
+1993 154 away Martinique Jamaica 0 0
+1993 197 away Martinique Mexico 9 0
+1993 201 away Martinique Canada 2 2
+1993 204 away Martinique CostaRica 3 1
+1994 100 home Martinique Surinam 2 0
+1994 102 home Martinique Haiti 3 0
+1994 104 away Martinique CaymanIslands 1 1
+1994 107 away Martinique Guadeloupe 2 4
+1994 110 away Martinique TrinidadTobago 7 2
+1995 133 away Martinique FrenchGuiana 1 3
+1995 135 home Martinique Surinam 1 1
+1995 137 away Martinique Guadeloupe 2 1
+1996 117 home Martinique SaintLucia 1 0
+1996 121 away Martinique SaintLucia 0 1
+1996 149 home Martinique Haiti 1 0
+1996 151 away Martinique Cuba 1 0
+1996 153 home Martinique St. Vincent & Grenadines 3 0
+1996 157 away Martinique TrinidadTobago 2 1
+1996 160 home Martinique Surinam 1 1
+1997 74 home Martinique SaintLucia 2 1
+1997 78 home Martinique St. Vincent & Grenadines 7 1
+1997 120 away Martinique Dominica 1 2
+1997 128 home Martinique Dominica 7 0
+1997 190 home Martinique TrinidadTobago 2 1
+1997 192 away Martinique SaintKitts 2 0
+1997 299 home Martinique Cameroon 2 1
+1997 301 away Martinique Haiti 3 0
+1997 358 home Martinique TrinidadTobago 3 0
+1997 359 home Martinique TrinidadTobago 3 2
+1998 80 away Martinique St. Vincent & Grenadines 4 1
+1998 82 home Martinique Barbados 4 1
+1998 84 away Martinique SaintLucia 1 2
+1998 208 away Martinique Dominica 1 5
+1998 210 away Martinique TrinidadTobago 2 1
+1998 212 away Martinique Antigua and Barbuda 5 1
+1999 34 home Martinique FrenchGuiana 3 1
+1999 110 away Martinique SaintLucia 3 1
+1999 111 home Martinique SaintKitts 2 1
+1999 114 away Martinique St. Vincent & Grenadines 2 1
+2001 52 home Martinique SaintLucia 4 2
+2001 83 away Martinique SaintLucia 1 1
+2001 90 home Martinique Guadeloupe 4 1
+2001 97 home Martinique St. Vincent & Grenadines 3 0
+2001 99 home Martinique BritishVirgin 6 0
+2001 101 home Martinique CaymanIslands 1 1
+2001 139 away Martinique Jamaica 1 0
+2001 141 home Martinique Barbados 3 1
+2001 143 away Martinique TrinidadTobago 1 2
+2001 146 away Martinique Haiti 5 0
+2001 148 home Martinique Cuba 1 0
+2001 213 away Martinique Jamaica 0 0
+2001 214 away Martinique SaintKitts 4 2
+2002 4 home Martinique Guadeloupe 1 3
+2002 6 home Martinique Haiti 3 3
+2002 18 away Martinique CostaRica 2 0
+2002 22 home Martinique TrinidadTobago 1 0
+2002 26 home Martinique Canada 1 1
+2002 288 home Martinique SaintLucia 4 0
+2002 313 home Martinique SaintKitts 2 1
+2002 316 away Martinique SaintLucia 0 2
+2002 337 home Martinique DominicanRepublic 4 0
+2002 339 away Martinique Cuba 2 1
+2002 342 away Martinique CaymanIslands 0 3
+2003 43 away Martinique Barbados 3 3
+2003 76 home Martinique FrenchGuiana 2 1
+2003 88 away Martinique Haiti 2 1
+2003 90 away Martinique Jamaica 2 2
+2003 92 home Martinique SaintLucia 5 4
+2003 116 home Martinique TrinidadTobago 3 2
+2003 120 home Martinique Honduras 2 4
+2003 200 away Martinique UnitedStates 2 0
+2003 202 away Martinique ElSalvador 1 0
+2004 8 away Martinique Cuba 0 0
+2004 154 away Martinique St. Vincent & Grenadines 2 0
+2004 320 home Martinique Dominica 5 1
+2004 322 home Martinique FrenchGuiana 0 0
+2004 324 home Martinique Guadeloupe 0 0
+2004 353 away Martinique Cuba 2 0
+2004 362 home Martinique Cuba 0 2
+2006 268 home Martinique Dominica 4 0
+2006 270 home Martinique SaintMartin 1 0
+2006 272 away Martinique Guadeloupe 4 0
+2006 301 away Martinique St. Vincent & Grenadines 1 1
+2006 318 home Martinique Surinam 1 0
+2006 320 home Martinique Haiti 1 0
+2006 322 home Martinique Cuba 0 0
+2006 369 home Martinique St. Vincent & Grenadines 2 2
+2006 371 home Martinique St. Vincent & Grenadines 1 1
+2007 6 home Martinique Guadeloupe 3 0
+2007 12 away Martinique Haiti 1 0
+2007 15 away Martinique TrinidadTobago 5 1
+2007 17 home Martinique Barbados 3 2
+2008 30 home Martinique Canada 0 1
+2008 254 home Martinique FrenchGuiana 2 1
+2008 263 home Martinique St. Vincent & Grenadines 3 0
+2008 267 home Martinique Anguilla 3 1
+2008 272 home Martinique Guadeloupe 1 0
+2008 275 home Martinique Tahiti 1 0
+2008 278 home Martinique NewCaledonia 1 1
+2008 283 away Martinique Reunion 1 0
+2008 290 away Martinique Grenada 2 2
+2008 292 home Martinique CaymanIslands 1 0
+2008 294 away Martinique Guadeloupe 3 1
+2009 178 away Martinique Haiti 0 0
+2010 86 home Martinique Haiti 0 0
+2010 155 away Martinique Grenada 2 2
+2010 243 away Martinique SaintLucia 1 3
+2010 245 away Martinique SaintLucia 1 1
+2010 271 home Martinique Tahiti 4 1
+2010 274 home Martinique NewCaledonia 4 0
+2010 277 away Martinique Guadeloupe 2 0
+2010 281 home Martinique Reunion 0 0
+2010 336 home Martinique Grenada 1 1
+2010 338 home Martinique Cuba 0 1
+2010 340 home Martinique TrinidadTobago 0 1
+2011 278 away Martinique Antigua and Barbuda 1 0
+2011 281 away Martinique Antigua and Barbuda 1 2
+2012 65 home Martinique Guadeloupe 1 2
+2012 100 away Martinique Guadeloupe 0 1
+2012 126 home Martinique Guyana 2 2
+2012 253 home Martinique BritishVirgin 16 0
+2012 255 home Martinique Montserrat 5 0
+2012 257 home Martinique Surinam 2 2
+2012 270 home Martinique NewCaledonia 2 0
+2012 272 away Martinique Tahiti 3 2
+2012 274 home Martinique Mayotte 3 0
+2012 277 away Martinique Reunion 2 2
+2012 302 home Martinique PuertoRico 2 1
+2012 304 away Martinique DominicanRepublic 1 1
+2012 306 away Martinique Guadeloupe 3 3
+2012 349 home Martinique Cuba 1 0
+2012 351 home Martinique Jamaica 0 0
+2012 353 home Martinique FrenchGuiana 3 1
+2012 355 home Martinique TrinidadTobago 1 1
+2012 357 away Martinique Haiti 1 0
+2013 193 home Martinique Canada 1 0
+2013 197 away Martinique Panama 1 0
+2013 200 away Martinique Mexico 3 1
+2014 81 away Martinique SaintLucia 0 0
+2014 112 away Martinique Guadeloupe 0 1

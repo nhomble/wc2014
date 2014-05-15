@@ -1,0 +1,3168 @@
+October 13
+1956	Togo
+Gold Coast	1
+1	Friendly
+in Togo	+4
+-4	1404
+1658	-
+0	70
+22
+December 07
+1964	Togo
+Nigeria	2
+1	Friendly
+in Togo	+8
+-8	1412
+1432	+3
+-3	85
+80
+December 27
+1964	Nigeria
+Togo	1
+2	African Games qualifier
+in Nigeria	-27
++27	1405
+1439	-8
++8	88
+77
+July 18
+1965	Togo
+Uganda	1
+1	African Games
+in Congo	-7
++7	1432
+1315	-2
++1	79
+109
+July 19
+1965	Togo
+Mali	2
+1	African Games
+in Congo	+26
+-26	1458
+1513	+4
+-6	75
+59
+July 21
+1965	Congo
+Togo	7
+2	African Games
+in Congo	+25
+-25	1521
+1433	+3
+-2	59
+77
+July 23
+1965	Congo (Kinshasa)
+Togo	5
+1	African Games
+in Congo	+20
+-20	1634
+1413	+2
+-5	34
+82
+July 25
+1965	Togo
+Madagascar	1
+0	African Games
+in Congo	+17
+-17	1430
+1345	+5
+-4	77
+103
+August 02
+1967	Nigeria
+Togo	4
+2	African Nations Cup qualifier
+in Nigeria	+20
+-20	1469
+1410	0
+-6	74
+85
+August 16
+1967	Togo
+Ivory Coast	0
+2	African Nations Cup qualifier
+in Togo	-16
++16	1394
+1706	-1
++2	87
+26
+October 11
+1967	Togo
+Nigeria	1
+0	African Nations Cup qualifier
+in Togo	+19
+-19	1413
+1450	0
+-2	86
+75
+November 15
+1967	Ivory Coast
+Togo	3
+0	African Nations Cup qualifier
+in Ivory Coast	+7
+-7	1712
+1406	+1
+0	24
+86
+April 07
+1968	Togo
+Guinea	1
+1	Friendly
+in Togo	-1
++1	1405
+1462	0
+0	87
+74
+August 10
+1969	Guinea
+Togo	4
+0	African Nations Cup qualifier
+in Guinea	+17
+-17	1531
+1388	+3
+-1	59
+90
+August 24
+1969	Togo
+Guinea	1
+1	African Nations Cup qualifier
+in Togo	+2
+-2	1390
+1529	+1
+0	89
+59
+October 25
+1970	Togo
+Senegal	3
+0	Friendly
+in Togo	+17
+-17	1407
+1467	+1
+-4	88
+73
+November 08
+1970	Togo
+Dahomey	2
+1	African Nations Cup qualifier
+in Togo	+12
+-12	1419
+1348	+1
+-4	87
+102
+November 22
+1970	Dahomey
+Togo	0
+0	African Nations Cup qualifier
+in Dahomey	-2
++2	1346
+1421	0
+0	102
+87
+February 07
+1971	Togo
+Guinea	1
+1	Olympic Games qualifier
+in Togo	+3
+-3	1424
+1576	+1
+-2	86
+49
+March 24
+1971	Togo
+Liberia	0
+2	Friendly
+in Togo	-22
++22	1402
+1373	-2
++6	88
+93
+March 28
+1971	Guinea
+Togo	4
+5	Olympic Games qualifier
+in Guinea	-33
++33	1543
+1435	-9
++5	57
+83
+October 13
+1971	Togo
+Ghana	0
+0	African Nations Cup qualifier
+in Togo	+9
+-9	1444
+1694	+3
+-2	76
+29
+October 27
+1971	Ghana
+Togo	0
+1	African Nations Cup qualifier
+in Ghana	-35
++35	1659
+1479	-7
++7	36
+69
+November 30
+1971	Togo
+Upper Volta	1
+0	Friendly
+in Togo	+4
+-4	1483
+1343	+1
+-2	69
+102
+December 12
+1971	Upper Volta
+Togo	1
+2	Friendly
+in Upper Volta	-9
++9	1334
+1492	-3
++2	105
+67
+January 20
+1972	Togo
+Dahomey	4
+0	Friendly
+in Togo	+7
+-7	1499
+1339	+3
+-3	64
+104
+February 24
+1972	Mali
+Togo	3
+3	African Nations Cup
+in Cameroon	-2
++2	1526
+1501	0
++1	61
+63
+February 26
+1972	Cameroon
+Togo	2
+0	African Nations Cup
+in Cameroon	+20
+-20	1596
+1481	+6
+-5	44
+68
+February 28
+1972	Kenya
+Togo	1
+1	African Nations Cup
+in Cameroon	+11
+-11	1336
+1470	+3
+-2	105
+70
+April 23
+1972	Ghana
+Togo	1
+1	Olympic Games qualifier
+in Ghana	-14
++14	1645
+1484	-2
++2	37
+68
+April 30
+1972	Togo
+Senegal	0
+2	Olympic Games qualifier
+in Togo	-39
++39	1445
+1517	-6
++7	75
+63
+May 07
+1972	Togo
+Cameroon	1
+2	Olympic Games qualifier
+in Togo	-19
++19	1426
+1573	-3
++3	78
+52
+May 14
+1972	Togo
+Ghana	0
+2	Olympic Games qualifier
+in Togo	-17
++17	1409
+1709	-10
++4	88
+26
+May 21
+1972	Senegal
+Togo	0
+1	Olympic Games qualifier
+in Senegal	-30
++30	1469
+1439	-5
++13	69
+75
+May 28
+1972	Cameroon
+Togo	1
+0	Olympic Games qualifier
+in Cameroon	+7
+-7	1602
+1432	+1
+-1	45
+76
+June 06
+1972	Togo
+Zaire	0
+0	World Cup qualifier
+in Togo	+4
+-4	1436
+1605	+1
+0	75
+41
+June 20
+1972	Zaire
+Togo	4
+0	World Cup qualifier
+in Zaire	+13
+-13	1618
+1423	+2
+-5	40
+80
+March 06
+1974	Togo
+Denmark	0
+2	Friendly
+in Togo	-13
++13	1410
+1576	-1
++7	84
+46
+May 01
+1975	Senegal
+Togo	1
+0	Olympic Games qualifier
+in Senegal	+9
+-9	1523
+1401	-1
+-2	60
+86
+May 18
+1975	Togo
+Senegal	1
+1	Olympic Games qualifier
+in Togo	+1
+-1	1402
+1522	0
+0	86
+61
+August 10
+1975	Togo
+Liberia	1
+0	African Nations Cup qualifier
+in Togo	+10
+-10	1412
+1310	+2
+-1	84
+109
+August 24
+1975	Liberia
+Togo	0
+2	African Nations Cup qualifier
+in Liberia	-30
++30	1280
+1442	-11
++7	121
+77
+September 14
+1975	Cameroon
+Togo	3
+0	African Nations Cup qualifier
+in Cameroon	+14
+-14	1602
+1428	+1
+-2	44
+78
+September 28
+1975	Togo
+Cameroon	4
+0	African Nations Cup qualifier
+in Togo	+45
+-45	1473
+1557	+8
+-9	70
+54
+October 26
+1975	Togo
+Guinea	2
+2	African Nations Cup qualifier
+in Togo	+4
+-4	1477
+1645	0
+-1	70
+35
+November 09
+1975	Guinea
+Togo	2
+0	African Nations Cup qualifier
+in Guinea	+11
+-11	1656
+1466	+3
+-2	33
+72
+October 17
+1976	Togo
+Senegal	1
+0	World Cup qualifier
+in Togo	+18
+-18	1484
+1521	+4
+-6	70
+62
+October 31
+1976	Senegal
+Togo	1
+1	World Cup qualifier
+in Senegal	-8
++8	1513
+1492	-1
++2	63
+68
+February 13
+1977	Togo
+Guinea	0
+2	World Cup qualifier
+in Togo	-19
++19	1473
+1745	-2
++2	70
+23
+February 27
+1977	Guinea
+Togo	2
+1	World Cup qualifier
+in Guinea	+4
+-4	1749
+1469	0
+-1	23
+71
+September 18
+1977	Senegal
+Togo	2
+1	African Nations Cup qualifier
+in Senegal	+13
+-13	1505
+1456	+5
+-2	64
+74
+October 02
+1977	Togo
+Senegal	0
+1	African Nations Cup qualifier
+in Togo	-23
++23	1433
+1528	-3
++5	77
+59
+September 16
+1979	Togo
+Gambia	2
+0	African Nations Cup qualifier
+in Togo	+12
+-12	1445
+1275	+5
+-1	75
+122
+September 30
+1979	Gambia
+Togo	1
+0	African Nations Cup qualifier
+in Gambia	+24
+-24	1299
+1421	+3
+-6	119
+81
+October 28
+1979	Morocco
+Togo	7
+0	African Nations Cup qualifier
+in Morocco	+12
+-12	1655
+1409	+2
+-1	33
+82
+November 11
+1979	Togo
+Morocco	2
+1	African Nations Cup qualifier
+in Togo	+28
+-28	1437
+1627	+6
+-8	79
+41
+December 07
+1980	Mali
+Togo	1
+2	Friendly
+in Mali	-15
++15	1504
+1452	-1
++4	63
+77
+December 09
+1980	Mali
+Togo	4
+0	Friendly
+in Mali	+11
+-11	1515
+1441	+2
+-4	61
+81
+December 14
+1980	Niger
+Togo	0
+1	World Cup qualifier
+in Niger	-12
++12	1176
+1453	-1
++4	146
+77
+December 28
+1980	Togo
+Niger	1
+2	World Cup qualifier
+in Togo	-36
++36	1417
+1212	-6
++6	84
+140
+March 08
+1981	Liberia
+Togo	2
+0	Friendly
+in Liberia	+16
+-16	1304
+1401	+3
+-5	116
+89
+April 05
+1981	Cameroon
+Togo	4
+0	African Nations Cup qualifier
+in Cameroon	+12
+-12	1606
+1389	+3
+-1	42
+90
+April 14
+1981	Togo
+Congo	2
+1	Friendly
+in Togo	+11
+-11	1400
+1497	+1
+-2	89
+66
+April 19
+1981	Togo
+Cameroon	2
+2	African Nations Cup qualifier
+in Togo	+5
+-5	1405
+1585	+1
+0	88
+49
+February 13
+1982	Togo
+Liberia	1
+0	West African Nations Cup
+in Benin	+14
+-14	1419
+1278	+3
+0	86
+121
+February 17
+1982	Togo
+Upper Volta	2
+1	West African Nations Cup
+in Benin	+13
+-13	1432
+1272	+3
+0	83
+122
+February 21
+1982	Ivory Coast
+Togo	1
+1	West African Nations Cup
+in Benin	-7
++7	1548
+1439	0
++1	59
+82
+February 23
+1982	Ghana
+Togo	2
+1	West African Nations Cup
+in Benin	+9
+-9	1671
+1430	+1
+-2	34
+84
+October 27
+1982	Senegal
+Togo	1
+2	Friendly
+in Senegal	-16
++16	1574
+1446	-3
++3	50
+82
+November 07
+1982	Togo
+Benin	2
+2	Friendly
+in Togo	-5
++5	1441
+1349	-1
++3	83
+101
+November 14
+1982	Togo
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Togo	+17
+-17	1458
+1331	+3
+-6	80
+109
+November 28
+1982	Sierra Leone
+Togo	0
+1	African Nations Cup qualifier
+in Sierra Leone	-18
++18	1313
+1476	-1
++4	109
+78
+March 24
+1983	Togo
+Congo	0
+2	Friendly
+in Togo	-17
++17	1459
+1549	-6
++2	82
+58
+March 30
+1983	Benin
+Togo	0
+2	Friendly
+in Benin	-12
++12	1277
+1471	-3
++6	122
+76
+April 10
+1983	Guinea
+Togo	0
+1	African Nations Cup qualifier
+in Guinea	-31
++31	1543
+1502	-9
++8	58
+68
+April 17
+1983	Guinea-Bissau
+Togo	2
+0	Cedeao Tournament
+in Guinea-Bissau	+42
+-42	1302
+1460	+15
+-12	116
+80
+April 24
+1983	Togo
+Guinea	2
+0	African Nations Cup qualifier
+in Togo	+29
+-29	1489
+1514	+8
+-5	72
+63
+May 08
+1983	Togo
+Guinea-Bissau	3
+0	Cedeao Tournament
+in Togo	+11
+-11	1500
+1286	+3
+-2	69
+120
+July 03
+1983	Ethiopia
+Togo	2
+1	African Nations Cup qualifier
+in Ethiopia	+23
+-23	1373
+1477	+7
+-6	95
+75
+August 12
+1983	Mauritania
+Togo	0
+4	Cedeao Tournament
+in Mauritania	-19
++19	1169
+1496	-3
++7	148
+68
+August 28
+1983	Togo
+Ethiopia	3
+0	African Nations Cup qualifier
+in Togo	+15
+-15	1511
+1358	+1
+-6	66
+101
+September 27
+1983	Ghana
+Togo	1
+1	West African Nations Cup
+in Ivory Coast	-9
++9	1676
+1520	-1
++4	34
+61
+September 28
+1983	Ivory Coast
+Togo	3
+0	West African Nations Cup
+in Ivory Coast	+25
+-25	1544
+1495	+5
+-8	57
+69
+September 30
+1983	Togo
+Liberia	4
+0	West African Nations Cup
+in Ivory Coast	+17
+-17	1512
+1262	+6
+-7	63
+131
+October 02
+1983	Ghana
+Togo	3
+1	West African Nations Cup
+in Ivory Coast	+15
+-15	1722
+1497	+2
+-3	27
+66
+December 16
+1983	Togo
+Nigeria	5
+2	Cedeao Tournament
+in Ivory Coast	+43
+-43	1540
+1535	+11
+-10	58
+60
+December 18
+1983	Ivory Coast
+Togo	2
+1	Cedeao Tournament
+in Ivory Coast	+15
+-15	1543
+1525	+5
+-4	57
+62
+December 20
+1983	Ivory Coast
+Togo	1
+0	Cedeao Tournament
+in Ivory Coast	+13
+-13	1556
+1512	+4
+-3	53
+65
+February 13
+1984	Congo
+Togo	2
+0	Friendly
+in Congo	+10
+-10	1554
+1502	+3
+-3	55
+67
+February 15
+1984	Togo
+Ghana	2
+1	Friendly
+in Togo	+14
+-14	1516
+1717	+5
+-3	62
+30
+February 19
+1984	Gabon
+Togo	1
+1	Friendly
+in Gabon	+1
+-1	1368
+1515	0
+0	95
+62
+March 04
+1984	Ivory Coast
+Togo	3
+0	African Nations Cup
+in Ivory Coast	+21
+-21	1632
+1494	+2
+-9	39
+71
+March 07
+1984	Cameroon
+Togo	4
+1	African Nations Cup
+in Ivory Coast	+36
+-36	1592
+1458	+9
+-9	48
+80
+March 10
+1984	Egypt
+Togo	0
+0	African Nations Cup
+in Ivory Coast	-13
++13	1643
+1471	0
++3	37
+78
+November 17
+1984	Burkina Faso
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	+4
+-4	1304
+1467	+3
+0	112
+78
+November 21
+1984	Ghana
+Togo	2
+2	West African Nations Cup
+in Burkina Faso	-11
++11	1679
+1478	0
++1	35
+77
+November 23
+1984	Ivory Coast
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	-2
++2	1515
+1480	0
+0	60
+77
+November 25
+1984	Togo
+Benin	2
+0	West African Nations Cup
+in Burkina Faso	+14
+-14	1494
+1265	+9
+-5	68
+130
+November 28
+1984	Ghana
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	-9
++9	1663
+1503	-1
++3	37
+65
+March 31
+1985	Togo
+Senegal	0
+1	African Nations Cup qualifier
+in Togo	-23
++23	1480
+1579	-7
++5	75
+55
+April 07
+1985	Mali
+Togo	4
+0	Cedeao Tournament
+in Mali	+27
+-27	1509
+1453	+9
+-6	65
+81
+April 14
+1985	Senegal
+Togo	1
+1	African Nations Cup qualifier
+in Senegal	-11
++11	1568
+1464	-1
++2	55
+79
+April 21
+1985	Togo
+Mali	3
+0	Cedeao Tournament
+in Togo	+30
+-30	1494
+1479	+9
+-10	70
+75
+February 24
+1986	Togo
+Burkina Faso	1
+0	West African Nations Cup
+in Ghana	+11
+-11	1505
+1318	+2
+0	69
+108
+February 25
+1986	Ghana
+Togo	2
+2	West African Nations Cup
+in Ghana	-8
++8	1546
+1513	0
++2	62
+67
+February 27
+1986	Togo
+Liberia	1
+0	West African Nations Cup
+in Ghana	+7
+-7	1520
+1236	0
+-2	67
+136
+February 28
+1986	Niger
+Togo	3
+1	West African Nations Cup
+in Ghana	+49
+-49	1304
+1471	+15
+-11	115
+78
+March 01
+1986	Togo
+Niger	3
+1	West African Nations Cup
+in Ghana	+17
+-17	1488
+1287	+6
+-6	72
+121
+March 02
+1986	Ghana
+Togo	1
+0	West African Nations Cup
+in Ghana	+11
+-11	1578
+1477	+2
+-4	54
+76
+July 27
+1986	Nigeria
+Togo	2
+2	Friendly tournament
+in Liberia	-4
++4	1562
+1481	-1
++5	58
+72
+July 31
+1986	Ghana
+Togo	1
+1	Friendly tournament
+in Liberia	-5
++5	1594
+1486	-2
+0	47
+72
+August 02
+1986	Liberia
+Togo	1
+0	Friendly tournament
+in Liberia	+21
+-21	1267
+1465	+9
+-7	124
+79
+January 06
+1987	Ghana
+Togo	3
+0	African Games qualifier
+in Ghana	+16
+-16	1597
+1449	+5
+-4	49
+83
+January 18
+1987	Togo
+Ghana	1
+1	African Games qualifier
+in Togo	+3
+-3	1452
+1594	0
+-1	83
+50
+January 31
+1987	Togo
+Niger	1
+0	West African Nations Cup
+in Liberia	+13
+-13	1465
+1306	+3
+-6	79
+113
+February 02
+1987	Togo
+Ivory Coast	1
+0	West African Nations Cup
+in Liberia	+28
+-28	1493
+1586	+8
+-5	71
+52
+February 04
+1987	Ghana
+Togo	3
+0	West African Nations Cup
+in Liberia	+21
+-21	1660
+1472	+3
+-7	38
+78
+February 06
+1987	Liberia
+Togo	3
+0	West African Nations Cup
+in Liberia	+41
+-41	1351
+1431	+9
+-6	103
+84
+February 08
+1987	Nigeria
+Togo	3
+1	West African Nations Cup
+in Liberia	+26
+-26	1501
+1405	+8
+-4	69
+88
+March 28
+1987	Nigeria
+Togo	2
+0	African Nations Cup qualifier
+in Nigeria	+15
+-15	1516
+1390	+3
+-4	66
+92
+April 12
+1987	Togo
+Nigeria	1
+1	African Nations Cup qualifier
+in Togo	+1
+-1	1391
+1515	-1
+0	93
+64
+November 18
+1987	Togo
+Central African Republic	1
+0	Friendly
+in Togo	+3
+-3	1394
+1203	0
+0	93
+143
+November 22
+1987	Ivory Coast
+Togo	3
+0	Cedeao Tournament
+in Ivory Coast	+9
+-9	1646
+1385	+1
+-1	40
+94
+December 13
+1987	Togo
+Ivory Coast	1
+0	Cedeao Tournament
+in Togo	+29
+-29	1414
+1617	+4
+-7	90
+46
+May 13
+1988	Reunion
+Togo	1
+0	Friendly
+in Reunion	+13
+-13	1210
+1401	+1
+-1	141
+89
+February 11
+1990	Togo
+Cameroon	1
+1	Friendly
+in Togo	+4
+-4	1405
+1642	0
+-1	94
+37
+July 29
+1990	Togo
+Mali	0
+0	Friendly
+in Togo	-1
++1	1404
+1461	0
+0	95
+75
+August 18
+1990	Nigeria
+Togo	3
+0	African Nations Cup qualifier
+in Nigeria	+8
+-8	1668
+1396	0
+-4	35
+98
+September 02
+1990	Burkina Faso
+Togo	2
+0	African Nations Cup qualifier
+in Burkina Faso	+21
+-21	1424
+1375	+5
+-3	89
+100
+September 30
+1990	Togo
+Ghana	0
+1	African Nations Cup qualifier
+in Togo	-19
++19	1356
+1505	-3
++4	103
+67
+October 14
+1990	Benin
+Togo	1
+1	African Nations Cup qualifier
+in Benin	+2
+-2	1221
+1354	+1
+-2	139
+105
+January 27
+1991	Togo
+Nigeria	0
+0	African Nations Cup qualifier
+in Togo	+10
+-10	1364
+1631	+4
+-2	101
+37
+April 21
+1991	Togo
+Burkina Faso	1
+0	African Nations Cup qualifier
+in Togo	+18
+-18	1382
+1407	+6
+-3	96
+89
+April 29
+1991	Ghana
+Togo	2
+0	African Nations Cup qualifier
+in Ghana	+11
+-11	1550
+1371	+1
+-5	56
+102
+July 14
+1991	Togo
+Benin	2
+0	African Nations Cup qualifier
+in Togo	+11
+-11	1382
+1203	+4
+-4	98
+144
+April 05
+1992	Togo
+Ghana	1
+0	Friendly
+in Togo	+14
+-14	1396
+1633	+4
+-1	97
+39
+June 14
+1992	Gabon
+Togo	1
+0	Friendly
+in Gabon	+6
+-6	1429
+1390	+1
+-3	85
+100
+August 17
+1992	Senegal
+Togo	2
+0	African Nations Cup qualifier
+in Senegal	+12
+-12	1552
+1378	+4
+-2	56
+105
+October 03
+1992	Togo
+Algeria	0
+0	African Nations Cup qualifier
+in Togo	+9
+-9	1387
+1632	0
+-3	104
+40
+October 11
+1992	Zimbabwe
+Togo	1
+0	World Cup qualifier
+in Zimbabwe	+9
+-9	1511
+1378	+2
+0	67
+103
+October 25
+1992	Togo
+Egypt	1
+4	World Cup qualifier
+in Togo	-22
++22	1356
+1638	-4
++8	108
+40
+November 08
+1992	Togo
+Guinea-Bissau	0
+0	African Nations Cup qualifier
+in Togo	-8
++8	1348
+1327	-2
++1	111
+117
+January 09
+1993	Sierra Leone
+Togo	0
+0	African Nations Cup qualifier
+in Sierra Leone	-13
++13	1504
+1361	-3
++5	70
+106
+January 17
+1993	Togo
+Zimbabwe	1
+2	World Cup qualifier
+in Togo	-16
++16	1345
+1540	-5
++3	111
+59
+January 24
+1993	Togo
+Senegal	1
+1	African Nations Cup qualifier
+in Togo	+4
+-4	1349
+1506	0
+-2	111
+68
+January 31
+1993	Egypt
+Togo	3
+0	World Cup qualifier
+in Egypt	+8
+-8	1615
+1341	+3
+-3	43
+114
+February 28
+1993	Togo
+Angola	0
+1	World Cup qualifier
+in Togo	-22
++22	1319
+1420	-4
++6	120
+92
+April 23
+1993	Algeria
+Togo	4
+0	African Nations Cup qualifier
+in Algeria	+6
+-6	1640
+1313	0
+-1	36
+122
+August 04
+1994	Niger
+Togo	0
+0	Friendly
+in Niger	-4
++4	1344
+1317	0
+0	118
+127
+August 16
+1994	Niger
+Togo	3
+2	Friendly
+in Niger	+6
+-6	1350
+1311	+1
+0	117
+127
+September 04
+1994	Liberia
+Togo	1
+0	African Nations Cup qualifier
+in Liberia	+12
+-12	1369
+1299	+2
+-1	113
+129
+September 06
+1994	Liberia
+Togo	1
+1	Friendly
+in Liberia	-5
++5	1364
+1304	0
++1	113
+128
+October 16
+1994	Togo
+Senegal	2
+0	African Nations Cup qualifier
+in Togo	+34
+-34	1338
+1417	+8
+-12	121
+100
+November 13
+1994	Tunisia
+Togo	1
+1	African Nations Cup qualifier
+in Tunisia	-14
++14	1541
+1352	-3
++3	59
+117
+December 04
+1994	Togo
+Burkina Faso	2
+0	Friendly
+in Togo	+15
+-15	1367
+1429	+5
+-8	112
+97
+December 18
+1994	Cameroon
+Togo	1
+1	Friendly
+in Cameroon	-7
++7	1550
+1374	-1
++3	57
+109
+January 08
+1995	Togo
+Mauritania	0
+0	African Nations Cup qualifier
+in Togo	-15
++15	1359
+1170	-3
++2	113
+160
+January 15
+1995	Ivory Coast
+Togo	0
+0	Friendly
+in Ivory Coast	-8
++8	1638
+1367	-1
+0	35
+113
+April 09
+1995	Togo
+Liberia	0
+0	African Nations Cup qualifier
+in Togo	-6
++6	1361
+1373	-2
++1	113
+110
+April 22
+1995	Senegal
+Togo	5
+1	African Nations Cup qualifier
+in Senegal	+19
+-19	1468
+1342	+6
+-7	82
+120
+May 13
+1995	Togo
+Benin	3
+0	Friendly
+in Togo	+5
+-5	1347
+1134	+1
+0	118
+166
+June 04
+1995	Togo
+Tunisia	0
+1	African Nations Cup qualifier
+in Togo	-16
++16	1331
+1537	-5
++8	124
+61
+July 14
+1995	Mauritania
+Togo	2
+1	African Nations Cup qualifier
+in Mauritania	+25
+-25	1175
+1306	+5
+-6	160
+129
+June 02
+1996	Togo
+Senegal	2
+1	World Cup qualifier
+in Togo	+24
+-24	1330
+1447	+6
+-3	123
+91
+June 09
+1996	Nigeria
+Togo	1
+3	Friendly
+in Nigeria	-29
++29	1750
+1359	-3
++7	24
+116
+June 15
+1996	Senegal
+Togo	1
+1	World Cup qualifier
+in Senegal	-10
++10	1437
+1369	-2
++3	93
+112
+August 11
+1996	Congo
+Togo	0
+0	African Nations Cup qualifier
+in Congo	-9
++9	1427
+1378	-1
++2	95
+110
+August 20
+1996	Togo
+Benin	2
+0	Friendly
+in Togo	+4
+-4	1382
+1167	0
+-1	110
+162
+August 25
+1996	Togo
+Congo	1
+0	African Nations Cup qualifier
+in Togo	+17
+-17	1399
+1410	+5
+-5	105
+100
+October 05
+1996	Togo
+Tanzania	2
+1	African Nations Cup qualifier
+in Togo	+15
+-15	1414
+1389	+6
+-4	99
+107
+November 03
+1996	Togo
+Gabon	0
+1	Friendly
+in Togo	-10
++10	1404
+1532	-3
++2	101
+66
+November 10
+1996	Togo
+Cameroon	2
+4	World Cup qualifier
+in Togo	-26
++26	1378
+1574	-10
++4	111
+56
+January 06
+1997	Togo
+Ghana	4
+0	Friendly
+in Togo	+24
+-24	1402
+1559	+12
+-5	100
+58
+January 12
+1997	Zimbabwe
+Togo	3
+0	World Cup qualifier
+in Zimbabwe	+15
+-15	1543
+1387	+2
+-9	63
+108
+January 19
+1997	Benin
+Togo	1
+1	Friendly
+in Benin	+3
+-3	1198
+1384	0
+-1	154
+109
+January 26
+1997	Togo
+Liberia	2
+1	African Nations Cup qualifier
+in Ghana	+21
+-21	1405
+1380	+8
+-12	101
+113
+February 23
+1997	Togo
+Zaire	1
+1	African Nations Cup qualifier
+in Togo	0
+0	1405
+1510	0
+0	102
+71
+March 30
+1997	Gabon
+Togo	2
+1	Friendly
+in Gabon	+6
+-6	1478
+1399	0
+-3	81
+104
+April 06
+1997	Angola
+Togo	3
+1	World Cup qualifier
+in Angola	+14
+-14	1520
+1385	+4
+-5	68
+109
+April 27
+1997	Cameroon
+Togo	2
+0	World Cup qualifier
+in Cameroon	+10
+-10	1584
+1375	+1
+-4	53
+112
+June 04
+1997	Togo
+Burkina Faso	0
+0	Friendly
+in Togo	-4
++4	1371
+1352	-1
+0	112
+116
+June 08
+1997	Togo
+Zimbabwe	2
+1	World Cup qualifier
+in Togo	+22
+-22	1393
+1488	+4
+-5	107
+78
+June 21
+1997	Tanzania
+Togo	1
+0	African Nations Cup qualifier
+in Tanzania	+19
+-19	1325
+1374	+5
+-4	125
+110
+July 13
+1997	Togo
+Liberia	4
+0	African Nations Cup qualifier
+in Togo	+29
+-29	1403
+1366	+12
+-11	99
+115
+July 27
+1997	Zaire
+Togo	1
+0	African Nations Cup qualifier
+in Zaire	+12
+-12	1465
+1391	+8
+-7	80
+106
+August 17
+1997	Togo
+Angola	1
+1	World Cup qualifier
+in Togo	+3
+-3	1394
+1545	0
+0	106
+64
+October 10
+1997	United Arab Emirates
+Togo	3
+0	Friendly
+in United Arab Emirates	+4
+-4	1639
+1390	+2
+-1	44
+107
+November 26
+1997	Morocco
+Togo	3
+0	Friendly
+in Morocco	+2
+-2	1739
+1388	0
+-2	24
+108
+December 18
+1997	Egypt
+Togo	7
+2	Friendly
+in Egypt	+5
+-5	1618
+1383	0
+0	50
+109
+December 22
+1997	Togo
+Algeria	1
+0	Friendly tournament
+in Egypt	+22
+-22	1405
+1551	+6
+-6	103
+61
+December 24
+1997	Cameroon
+Togo	3
+1	Friendly tournament
+in Egypt	+14
+-14	1556
+1391	+5
+-4	59
+107
+January 04
+1998	Guinea
+Togo	1
+0	Friendly
+in Guinea	+5
+-5	1488
+1386	0
+-2	75
+109
+January 11
+1998	Togo
+Mozambique	1
+2	Friendly
+in Togo	-12
++12	1374
+1412	-2
++3	111
+100
+January 29
+1998	Togo
+Mali	2
+1	Friendly
+in Togo	+9
+-9	1383
+1436	+1
+-4	111
+96
+February 01
+1998	Togo
+Mali	0
+4	Friendly
+in Togo	-21
++21	1362
+1457	-5
++11	116
+85
+February 09
+1998	Dem. Rep. of Congo
+Togo	2
+1	African Nations Cup
+in Burkina Faso	+19
+-19	1472
+1343	+5
+-4	80
+119
+February 12
+1998	Togo
+Ghana	2
+1	African Nations Cup
+in Burkina Faso	+38
+-38	1381
+1499	+9
+-6	110
+71
+February 16
+1998	Tunisia
+Togo	3
+1	African Nations Cup
+in Burkina Faso	+14
+-14	1645
+1367	+2
+-5	43
+114
+August 02
+1998	Sao Tome e Principe
+Togo	0
+4	African Nations Cup qualifier
+in Gabon	-7
++7	971
+1374	-2
++2	194
+110
+August 18
+1998	Togo
+Sao Tome e Principe	2
+0	African Nations Cup qualifier
+in Togo	+3
+-3	1377
+968	0
+0	111
+195
+August 23
+1998	Burkina Faso
+Togo	1
+1	Friendly
+in Burkina Faso	-4
++4	1402
+1381	-1
++2	101
+109
+September 06
+1998	Togo
+Benin	0
+1	Friendly
+in Togo	-16
++16	1365
+1239	-3
++4	114
+142
+September 20
+1998	Togo
+Mali	0
+1	Friendly
+in Togo	-11
++11	1354
+1454	-3
++1	116
+91
+October 04
+1998	Togo
+Guinea	2
+0	African Nations Cup qualifier
+in Togo	+33
+-33	1387
+1457	+6
+-16	110
+89
+January 03
+1999	Ivory Coast
+Togo	3
+1	Friendly
+in Ivory Coast	+4
+-4	1634
+1383	+1
+-1	48
+112
+January 18
+1999	Togo
+Burkina Faso	1
+2	Friendly
+in Togo	-12
++12	1371
+1434	-2
++2	114
+95
+February 28
+1999	Togo
+Morocco	2
+3	African Nations Cup qualifier
+in Togo	-6
++6	1365
+1786	0
+0	113
+18
+April 10
+1999	Morocco
+Togo	1
+1	African Nations Cup qualifier
+in Morocco	-18
++18	1768
+1383	-2
++6	19
+108
+June 20
+1999	Guinea
+Togo	2
+1	African Nations Cup qualifier
+in Guinea	+11
+-11	1462
+1372	+2
+-6	84
+113
+November 07
+1999	Burkina Faso
+Togo	1
+0	Friendly
+in Burkina Faso	+5
+-5	1474
+1367	+1
+-1	83
+113
+November 10
+1999	Burkina Faso
+Togo	1
+1	Friendly
+in Burkina Faso	-5
++5	1469
+1372	-1
++1	84
+112
+November 19
+1999	Libya
+Togo	2
+1	Friendly
+in Libya	+6
+-6	1428
+1366	+3
+-1	96
+113
+November 26
+1999	Gabon
+Togo	0
+0	Friendly tournament
+in Gabon	-8
++8	1466
+1374	-2
++2	84
+111
+November 28
+1999	Congo
+Togo	2
+1	Friendly tournament
+in Gabon	+13
+-13	1428
+1361	+4
+-3	96
+114
+December 27
+1999	Gabon
+Togo	3
+2	Artificial River Tournament
+in Libya	+11
+-11	1468
+1350	+5
+-3	81
+117
+December 28
+1999	Libya
+Togo	2
+0	Artificial River Tournament
+in Libya	+11
+-11	1461
+1339	+2
+-1	86
+118
+January 04
+2000	Egypt
+Togo	2
+1	Friendly
+in Egypt	+2
+-2	1636
+1337	0
+-2	45
+120
+January 07
+2000	Tunisia
+Togo	7
+0	Friendly
+in Tunisia	+4
+-4	1653
+1333	+1
+0	42
+120
+January 18
+2000	Togo
+Egypt	1
+0	Friendly
+in Togo	+15
+-15	1348
+1615	+3
+-5	117
+50
+January 24
+2000	Togo
+Ivory Coast	1
+1	African Nations Cup
+in Ghana	+15
+-15	1363
+1580	+4
+-3	113
+57
+January 27
+2000	Ghana
+Togo	2
+0	African Nations Cup
+in Ghana	+10
+-10	1602
+1353	+2
+-3	52
+116
+January 31
+2000	Togo
+Cameroon	1
+0	African Nations Cup
+in Ghana	+42
+-42	1395
+1587	+11
+-11	105
+56
+April 08
+2000	Guinea-Bissau
+Togo	0
+0	World Cup qualifier
+in Guinea-Bissau	+5
+-5	1209
+1390	-1
+0	154
+106
+April 23
+2000	Togo
+Guinea-Bissau	3
+0	World Cup qualifier
+in Togo	+12
+-12	1402
+1197	+2
+-6	102
+158
+June 04
+2000	Benin
+Togo	1
+2	Friendly
+in Benin	-8
++8	1237
+1410	-1
++3	144
+99
+July 08
+2000	Zambia
+Togo	2
+0	World Cup qualifier
+in Zambia	+17
+-17	1495
+1393	+4
+-6	77
+102
+August 20
+2000	Sierra Leone
+Togo	2
+0	African Nations Cup qualifier
+in Sierra Leone	+26
+-26	1364
+1367	+6
+-11	114
+112
+September 03
+2000	Togo
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Togo	+21
+-21	1388
+1343	+6
+-4	107
+120
+September 24
+2000	Senegal
+Togo	0
+0	African Nations Cup qualifier
+in Senegal	-10
++10	1474
+1398	-4
++4	81
+103
+October 08
+2000	Togo
+Uganda	3
+0	African Nations Cup qualifier
+in Togo	+27
+-27	1425
+1394	+8
+-10	93
+103
+January 07
+2001	Togo
+Burkina Faso	1
+1	Friendly
+in Togo	-3
++3	1422
+1424	-2
++1	97
+96
+January 14
+2001	Guinea
+Togo	0
+0	African Nations Cup qualifier
+in Guinea	-10
++10	1501
+1432	-3
++3	74
+94
+January 28
+2001	Togo
+Cameroon	0
+2	World Cup qualifier
+in Togo	-15
++15	1417
+1738	-1
++3	95
+26
+February 23
+2001	Libya
+Togo	3
+3	World Cup qualifier
+in Libya	-5
++5	1397
+1422	-1
+0	100
+95
+March 11
+2001	Togo
+Angola	1
+1	World Cup qualifier
+in Togo	-3
++3	1419
+1468	0
+0	95
+81
+May 06
+2001	Togo
+Zambia	3
+2	World Cup qualifier
+in Togo	+16
+-16	1435
+1431	+4
+-5	90
+92
+June 02
+2001	Uganda
+Togo	0
+3	African Nations Cup qualifier
+in Uganda	-43
++43	1368
+1478	-18
++14	115
+78
+June 17
+2001	Togo
+Senegal	1
+0	African Nations Cup qualifier
+in Togo	+17
+-17	1495
+1516	+6
+-2	73
+69
+July 01
+2001	Cameroon
+Togo	2
+0	World Cup qualifier
+in Cameroon	+9
+-9	1714
+1486	0
+-1	30
+76
+July 15
+2001	Togo
+Libya	2
+0	World Cup qualifier
+in Togo	+14
+-14	1500
+1370	+2
+-7	75
+114
+July 29
+2001	Angola
+Togo	1
+1	World Cup qualifier
+in Angola	-7
++7	1517
+1507	-1
++2	70
+73
+November 28
+2001	Tunisia
+Togo	1
+0	Friendly
+in Tunisia	+4
+-4	1679
+1503	0
+-2	41
+76
+December 16
+2001	Burkina Faso
+Togo	1
+2	Friendly
+in Burkina Faso	-9
++9	1375
+1512	-4
++1	111
+74
+December 22
+2001	Togo
+Burkina Faso	1
+0	Friendly
+in Togo	+4
+-4	1516
+1371	+1
+-3	73
+114
+December 30
+2001	Benin
+Togo	1
+1	Friendly
+in Benin	+5
+-5	1244
+1511	+3
+-1	146
+74
+January 21
+2002	Togo
+Ivory Coast	0
+0	African Nations Cup
+in Mali	+9
+-9	1520
+1636	+3
+-1	72
+46
+January 26
+2002	Togo
+Dem. Rep. of Congo	0
+0	African Nations Cup
+in Mali	-7
++7	1513
+1430	-2
++2	73
+96
+January 29
+2002	Cameroon
+Togo	3
+0	African Nations Cup
+in Mali	+18
+-18	1771
+1495	+4
+-2	22
+75
+September 02
+2002	Libya
+Togo	4
+0	Friendly
+in Libya	+21
+-21	1378
+1474	+10
+-9	110
+83
+September 07
+2002	Kenya
+Togo	3
+0	African Nations Cup qualifier
+in Kenya	+32
+-32	1434
+1442	+7
+-8	94
+91
+October 13
+2002	Togo
+Mauritania	1
+0	African Nations Cup qualifier
+in Togo	+3
+-3	1445
+1110	+1
+0	91
+172
+March 29
+2003	Cape Verde
+Togo	2
+1	African Nations Cup qualifier
+in Cape Verde	+20
+-20	1362
+1425	+6
+-5	117
+96
+June 08
+2003	Togo
+Cape Verde	5
+2	African Nations Cup qualifier
+in Togo	+20
+-20	1445
+1341	+6
+-7	89
+125
+June 22
+2003	Togo
+Kenya	2
+0	African Nations Cup qualifier
+in Togo	+27
+-27	1472
+1480	+7
+-7	82
+80
+July 05
+2003	Mauritania
+Togo	0
+0	African Nations Cup qualifier
+in Mauritania	+13
+-13	1120
+1459	+1
+-5	170
+87
+October 11
+2003	Equatorial Guinea
+Togo	1
+0	World Cup qualifier
+in Equatorial Guinea	+34
+-34	1075
+1425	+10
+-10	175
+97
+November 16
+2003	Togo
+Equatorial Guinea	2
+0	World Cup qualifier
+in Togo	+4
+-4	1429
+1080	+1
+0	98
+175
+May 20
+2004	Benin
+Togo	0
+1	Friendly
+in Benin	-9
++9	1293
+1438	-2
++2	133
+96
+May 23
+2004	Togo
+Benin	1
+1	Friendly
+in Togo	-6
++6	1432
+1299	-1
++1	96
+132
+June 05
+2004	Zambia
+Togo	1
+0	World Cup qualifier
+in Zambia	+14
+-14	1458
+1418	+8
+-3	82
+99
+June 14
+2004	Ghana
+Togo	0
+0	Friendly
+in Ghana	-3
++3	1427
+1421	-1
++1	97
+99
+June 20
+2004	Togo
+Senegal	3
+1	World Cup qualifier
+in Togo	+45
+-45	1466
+1673	+14
+-11	85
+39
+July 04
+2004	Liberia
+Togo	0
+0	World Cup qualifier
+in Liberia	-2
++2	1404
+1468	-1
+0	105
+85
+September 05
+2004	Togo
+Congo	2
+0	World Cup qualifier
+in Togo	+20
+-20	1488
+1429	+6
+-3	81
+95
+October 10
+2004	Togo
+Mali	1
+0	World Cup qualifier
+in Togo	+18
+-18	1506
+1527	+4
+-6	77
+73
+March 27
+2005	Mali
+Togo	1
+2	World Cup qualifier
+in Mali	-27
++27	1500
+1533	-6
++6	79
+71
+May 29
+2005	Togo
+Burkina Faso	1
+0	Friendly
+in Togo	+3
+-3	1536
+1346	0
+-2	71
+117
+June 05
+2005	Togo
+Zambia	4
+1	World Cup qualifier
+in Togo	+23
+-23	1559
+1488	+5
+-3	66
+80
+June 18
+2005	Senegal
+Togo	2
+2	World Cup qualifier
+in Senegal	-11
++11	1665
+1570	-1
++1	42
+63
+August 17
+2005	Togo
+Morocco	1
+0	Friendly
+in France	+14
+-14	1584
+1684	+7
+-4	57
+41
+September 04
+2005	Togo
+Liberia	3
+0	World Cup qualifier
+in Togo	+7
+-7	1591
+1292	+1
+-1	59
+132
+October 08
+2005	Congo
+Togo	2
+3	World Cup qualifier
+in Congo	-15
++15	1382
+1606	0
++2	102
+57
+November 11
+2005	Paraguay
+Togo	4
+2	Friendly tournament
+in Iran	+14
+-14	1756
+1592	+2
+0	27
+57
+November 13
+2005	Iran
+Togo	2
+0	Friendly tournament
+in Iran	+7
+-7	1800
+1585	+2
+0	19
+57
+January 07
+2006	Guinea
+Togo	1
+0	Friendly
+in France	+12
+-12	1519
+1573	+2
+-1	76
+58
+January 11
+2006	Togo
+Ghana	1
+0	Friendly
+in Tunisia	+11
+-11	1584
+1588	+1
+0	57
+56
+January 21
+2006	Dem. Rep. of Congo
+Togo	2
+0	African Nations Cup
+in Egypt	+51
+-51	1504
+1533	+12
+-13	80
+69
+January 25
+2006	Cameroon
+Togo	2
+0	African Nations Cup
+in Egypt	+16
+-16	1773
+1517	+4
+-7	23
+77
+January 29
+2006	Angola
+Togo	3
+2	African Nations Cup
+in Egypt	+24
+-24	1554
+1493	+6
+-1	65
+78
+May 14
+2006	Saudi Arabia
+Togo	1
+0	Friendly
+in the Netherlands	+7
+-7	1604
+1486	+1
+-2	54
+80
+June 02
+2006	Liechtenstein
+Togo	0
+1	Friendly
+in Liechtenstein	-3
++3	1099
+1489	0
+0	173
+80
+June 13
+2006	South Korea
+Togo	2
+1	World Cup
+in Germany	+14
+-14	1716
+1475	+2
+-4	36
+84
+June 19
+2006	Switzerland
+Togo	2
+0	World Cup
+in Germany	+13
+-13	1795
+1462	+3
+-6	17
+90
+June 23
+2006	France
+Togo	2
+0	World Cup
+in Germany	+6
+-6	1920
+1456	0
+-1	9
+91
+August 15
+2006	Ghana
+Togo	2
+0	Friendly
+in England	+6
+-6	1712
+1450	0
+-1	35
+91
+August 29
+2006	Togo
+Niger	1
+1	Friendly
+in Togo	-6
++6	1444
+1308	-2
++2	95
+127
+September 03
+2006	Togo
+Benin	2
+1	African Nations Cup qualifier
+in Togo	+6
+-6	1450
+1252	+1
+0	91
+139
+October 08
+2006	Mali
+Togo	1
+0	African Nations Cup qualifier
+in Mali	+10
+-10	1557
+1440	+2
+-2	64
+95
+November 15
+2006	Luxembourg
+Togo	0
+0	Friendly
+in Luxembourg	+8
+-8	960
+1432	0
+-2	190
+96
+February 07
+2007	Togo
+Cameroon	2
+2	Friendly
+in Togo	+6
+-6	1438
+1774	+3
+-2	93
+22
+March 24
+2007	Togo
+Sierra Leone	3
+1	African Nations Cup qualifier
+in Togo	+13
+-13	1451
+1300	+1
+-5	92
+131
+June 03
+2007	Sierra Leone
+Togo	0
+1	African Nations Cup qualifier
+in Sierra Leone	-17
++17	1283
+1468	-6
++1	137
+89
+June 17
+2007	Benin
+Togo	4
+1	African Nations Cup qualifier
+in Benin	+43
+-43	1334
+1425	+11
+-8	121
+96
+August 22
+2007	Togo
+Zambia	3
+1	Friendly
+in Togo	+16
+-16	1441
+1525	+1
+-3	95
+72
+October 12
+2007	Togo
+Mali	0
+2	African Nations Cup qualifier
+in Togo	-28
++28	1413
+1597	-7
++3	101
+58
+October 28
+2007	Senegal
+Togo	0
+0	UEMOA Tournament
+in Burkina Faso	-12
++12	1649
+1425	0
++1	43
+100
+October 30
+2007	Niger
+Togo	2
+1	UEMOA Tournament
+in Burkina Faso	+28
+-28	1300
+1397	+4
+-3	135
+103
+November 01
+2007	Burkina Faso
+Togo	2
+1	UEMOA Tournament
+in Burkina Faso	+18
+-18	1357
+1379	+10
+-5	112
+108
+November 18
+2007	Ghana
+Togo	2
+0	Friendly tournament
+in Ghana	+3
+-3	1749
+1376	+2
+0	26
+108
+November 21
+2007	Togo
+United Arab Emirates	5
+0	Friendly tournament
+in Ghana	+38
+-38	1414
+1432	+7
+-10	101
+98
+March 25
+2008	Guinea
+Togo	2
+0	Friendly
+in France	+8
+-8	1611
+1406	+1
+0	55
+100
+May 31
+2008	Togo
+Zambia	1
+0	World Cup qualifier
+in Ghana	+29
+-29	1435
+1537	+5
+-13	97
+73
+June 08
+2008	Swaziland
+Togo	2
+1	World Cup qualifier
+in Swaziland	+30
+-30	1165
+1405	+6
+-6	165
+103
+August 20
+2008	Dem. Rep. of Congo
+Togo	2
+1	Friendly
+in France	+8
+-8	1467
+1397	+2
+-1	91
+107
+September 10
+2008	Zambia
+Togo	1
+0	World Cup qualifier
+in Zambia	+8
+-8	1539
+1389	+4
+-1	68
+109
+October 11
+2008	Togo
+Swaziland	6
+0	World Cup qualifier
+in Ghana	+20
+-20	1409
+1167	+6
+-4	104
+163
+November 19
+2008	Togo
+Rwanda	1
+0	Friendly
+in Togo	+8
+-8	1417
+1415	+4
+-2	98
+99
+February 11
+2009	Burkina Faso
+Togo	1
+1	Friendly
+in France	-1
++1	1435
+1418	0
+0	96
+101
+March 28
+2009	Togo
+Cameroon	1
+0	World Cup qualifier
+in Ghana	+35
+-35	1453
+1719	+5
+-9	94
+33
+June 06
+2009	Gabon
+Togo	3
+0	World Cup qualifier
+in Gabon	+18
+-18	1557
+1435	+5
+-2	66
+96
+June 20
+2009	Morocco
+Togo	0
+0	World Cup qualifier
+in Morocco	-14
++14	1635
+1449	-1
++1	48
+95
+August 12
+2009	Angola
+Togo	2
+0	Friendly
+in Portugal	+13
+-13	1497
+1436	+3
+-1	84
+96
+September 06
+2009	Togo
+Morocco	1
+1	World Cup qualifier
+in Togo	+5
+-5	1441
+1623	+2
+0	94
+49
+October 10
+2009	Cameroon
+Togo	3
+0	World Cup qualifier
+in Cameroon	+6
+-6	1753
+1435	+5
+-2	25
+95
+October 14
+2009	Japan
+Togo	5
+0	Friendly
+in Japan	+3
+-3	1773
+1432	+3
+0	19
+95
+November 06
+2009	Bahrain
+Togo	5
+1	Friendly
+in Bahrain	+6
+-6	1622
+1426	+1
+-1	50
+97
+November 14
+2009	Togo
+Gabon	1
+0	World Cup qualifier
+in Togo	+21
+-21	1447
+1531	+2
+-8	95
+75
+May 19
+2010	Gabon
+Togo	3
+0	Friendly tournament
+in France	+23
+-23	1510
+1424	+4
+-6	83
+99
+July 01
+2010	Chad
+Togo	2
+2	African Nations Cup qualifier
+in Chad	+1
+-1	1311
+1423	-1
+0	131
+100
+July 09
+2010	Togo
+Malawi	1
+1	African Nations Cup qualifier
+in Togo	-8
++8	1415
+1379	-3
++1	103
+111
+August 11
+2010	Saudi Arabia
+Togo	1
+0	Friendly
+in Saudi Arabia	+2
+-2	1679
+1413	-1
+-1	40
+104
+September 04
+2010	Botswana
+Togo	2
+1	African Nations Cup qualifier
+in Botswana	+17
+-17	1391
+1396	+2
+-3	110
+108
+October 10
+2010	Togo
+Tunisia	1
+2	African Nations Cup qualifier
+in Togo	-15
++15	1381
+1593	-4
++6	114
+55
+November 17
+2010	Togo
+Chad	0
+0	African Nations Cup qualifier
+in Togo	-11
++11	1370
+1269	-3
++2	117
+140
+February 08
+2011	Ghana
+Togo	4
+1	Friendly
+in Belgium	+4
+-4	1737
+1366	0
+0	27
+116
+March 26
+2011	Malawi
+Togo	1
+0	African Nations Cup qualifier
+in Malawi	+11
+-11	1445
+1355	0
+-1	99
+118
+August 10
+2011	Niger
+Togo	3
+3	Friendly
+in Niger	-2
++2	1336
+1357	0
+0	122
+117
+September 04
+2011	Togo
+Botswana	1
+0	African Nations Cup qualifier
+in Togo	+18
+-18	1375
+1405	+2
+-4	115
+104
+October 08
+2011	Tunisia
+Togo	2
+0	African Nations Cup qualifier
+in Tunisia	+9
+-9	1583
+1366	0
+-3	60
+116
+November 11
+2011	Guinea-Bissau
+Togo	1
+1	World Cup qualifier
+in Guinea-Bissau	+2
+-2	1225
+1364	+2
+-2	147
+117
+November 15
+2011	Togo
+Guinea-Bissau	1
+0	World Cup qualifier
+in Togo	+8
+-8	1372
+1217	+2
+-2	115
+149
+February 29
+2012	Kenya
+Togo	2
+1	African Nations Cup qualifier
+in Kenya	+17
+-17	1339
+1355	+5
+-3	123
+118
+May 22
+2012	Egypt
+Togo	3
+0	Friendly
+in Sudan	+3
+-3	1745
+1352	0
+0	28
+119
+June 03
+2012	Togo
+Libya	1
+1	World Cup qualifier
+in Togo	+3
+-3	1355
+1510	+3
+-1	116
+84
+June 10
+2012	Dem. Rep. of Congo
+Togo	2
+0	World Cup qualifier
+in Dem. Rep. of Congo	+16
+-16	1453
+1339	+4
+-7	94
+123
+June 17
+2012	Togo
+Kenya	1
+0	African Nations Cup qualifier
+in Togo	+13
+-13	1352
+1307	+4
+-2	118
+131
+August 14
+2012	Burkina Faso
+Togo	3
+0	Friendly
+in France	+14
+-14	1446
+1338	+2
+-3	97
+122
+September 08
+2012	Gabon
+Togo	1
+1	African Nations Cup qualifier
+in Gabon	-14
++14	1523
+1352	-3
++5	77
+117
+October 14
+2012	Togo
+Gabon	2
+1	African Nations Cup qualifier
+in Togo	+25
+-25	1377
+1507	+10
+-4	110
+80
+November 14
+2012	Morocco
+Togo	0
+1	Friendly
+in Morocco	-17
++17	1543
+1394	-3
++6	71
+106
+December 29
+2012	Oman
+Togo	0
+1	Friendly
+in Oman	-16
++16	1513
+1410	-3
++3	79
+104
+January 05
+2013	Niger
+Togo	3
+1	Friendly
+in Niger	+13
+-13	1364
+1397	+3
+-2	120
+106
+January 13
+2013	Togo
+Niger	2
+1	Friendly
+in Togo	+6
+-6	1403
+1361	+2
+-1	104
+121
+January 22
+2013	Ivory Coast
+Togo	2
+1	African Nations Cup
+in South Africa	+3
+-3	1865
+1400	+1
+-1	12
+105
+January 26
+2013	Togo
+Algeria	2
+0	African Nations Cup
+in South Africa	+52
+-52	1452
+1487	+10
+-10	95
+83
+January 30
+2013	Togo
+Tunisia	1
+1	African Nations Cup
+in South Africa	+9
+-9	1461
+1579	+4
+-2	92
+60
+February 03
+2013	Burkina Faso
+Togo	1
+0	African Nations Cup
+in South Africa	+22
+-22	1529
+1439	+3
+-7	76
+99
+March 23
+2013	Cameroon
+Togo	2
+1	World Cup qualifier
+in Cameroon	+8
+-8	1581
+1431	+2
+-1	61
+100
+June 05
+2013	Equatorial Guinea
+Togo	0
+1	Friendly
+in Equatorial Guinea	-10
++10	1318
+1441	-3
+0	131
+99
+June 09
+2013	Togo
+Cameroon	2
+0	World Cup qualifier
+in Togo	+34
+-34	1475
+1553	+8
+-8	89
+66
+June 14
+2013	Libya
+Togo	2
+0	World Cup qualifier
+in Libya	+17
+-17	1560
+1458	+5
+-3	65
+92
+September 08
+2013	Togo
+Dem. Rep. of Congo	2
+1	World Cup qualifier
+in Togo	+15
+-15	1473
+1448	+5
+-4	90
+96

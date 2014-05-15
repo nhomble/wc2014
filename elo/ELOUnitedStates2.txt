@@ -1,0 +1,5661 @@
+November 28
+1885	United States
+Canada	0
+1	Friendly
+in the United States	-13
++13	1587
+1613	-
+-	4
+3
+November 25
+1886	United States
+Canada	3
+2	Friendly
+in the United States	+8
+-8	1595
+1605	0
+0	4
+3
+August 20
+1916	Sweden
+United States	2
+3	Friendly
+in Sweden	-14
++14	1640
+1609	0
++2	13
+14
+September 03
+1916	Norway
+United States	1
+1	Friendly
+in Norway	+1
+-1	1458
+1608	0
+0	24
+14
+May 25
+1924	United States
+Estonia	1
+0	Olympic Games
+in France	+9
+-9	1617
+1294	+1
+0	23
+48
+May 29
+1924	Uruguay
+United States	3
+0	Olympic Games
+in France	+19
+-19	1903
+1598	0
+-4	1
+26
+June 10
+1924	Poland
+United States	2
+3	Friendly
+in Poland	-11
++11	1536
+1609	0
+0	34
+25
+June 27
+1925	Canada
+United States	1
+0	Friendly
+in Canada	+7
+-7	1613
+1602	+3
+-4	22
+26
+November 08
+1925	United States
+Canada	6
+1	Friendly
+in the United States	+15
+-15	1617
+1598	+3
+-2	22
+25
+November 06
+1926	United States
+Canada	6
+2	Friendly
+in the United States	+13
+-13	1630
+1585	0
+-1	22
+27
+May 30
+1928	Argentina
+United States	11
+2	Olympic Games
+in the Netherlands	+23
+-23	1949
+1607	0
+-1	2
+23
+June 10
+1928	Poland
+United States	3
+3	Friendly
+in Poland	-2
++2	1572
+1609	-1
+0	28
+23
+July 13
+1930	United States
+Belgium	3
+0	World Cup
+in Uruguay	+49
+-49	1658
+1534	+5
+-4	18
+33
+July 17
+1930	United States
+Paraguay	3
+0	World Cup
+in Uruguay	+59
+-59	1717
+1642	+3
+-3	15
+19
+July 26
+1930	Argentina
+United States	6
+1	World Cup
+in Uruguay	+18
+-18	2034
+1699	0
+-1	1
+16
+August 17
+1930	Brazil
+United States	4
+3	Friendly
+in Brazil	+5
+-5	1781
+1694	0
+0	9
+16
+May 24
+1934	United States
+Mexico	4
+2	World Cup qualifier
+in Italy	+20
+-20	1714
+1558	+2
+-4	13
+32
+May 27
+1934	Italy
+United States	7
+1	World Cup
+in Italy	+20
+-20	1926
+1694	+1
+-3	3
+16
+August 03
+1936	Italy
+United States	1
+0	Olympic Games
+in Germany	+10
+-10	1987
+1684	0
+0	1
+16
+September 12
+1937	Mexico
+United States	7
+2	Friendly
+in Mexico	+13
+-13	1719
+1671	+1
+-2	14
+18
+September 19
+1937	Mexico
+United States	7
+3	Friendly
+in Mexico	+11
+-11	1730
+1660	0
+-1	14
+19
+September 25
+1937	Mexico
+United States	5
+1	Friendly
+in Mexico	+10
+-10	1740
+1650	0
+-1	14
+20
+July 13
+1947	Mexico
+United States	5
+0	North American Championship
+in Cuba	+32
+-32	1811
+1618	+3
+-2	9
+26
+July 20
+1947	Cuba
+United States	5
+2	North American Championship
+in Cuba	+48
+-48	1532
+1570	+6
+-8	40
+34
+August 06
+1948	Norway
+United States	11
+0	Friendly
+in Norway	+21
+-21	1571
+1549	+4
+-4	33
+37
+September 04
+1949	Mexico
+United States	6
+0	World Cup qualifier
+in Mexico	+12
+-12	1779
+1537	0
+-3	12
+39
+September 14
+1949	Cuba
+United States	1
+1	World Cup qualifier
+in Mexico	+2
+-2	1500
+1535	+1
+0	44
+38
+September 18
+1949	Mexico
+United States	6
+2	World Cup qualifier
+in Mexico	+9
+-9	1794
+1526	0
+-5	12
+43
+September 21
+1949	United States
+Cuba	5
+2	World Cup qualifier
+in Mexico	+32
+-32	1558
+1468	+7
+-6	36
+50
+June 25
+1950	Spain
+United States	3
+1	World Cup
+in Brazil	+14
+-14	1866
+1544	0
+-2	7
+40
+June 29
+1950	United States
+England	1
+0	World Cup
+in Brazil	+56
+-56	1600
+1941	+11
+-1	29
+3
+July 02
+1950	Chile
+United States	5
+2	World Cup
+in Brazil	+56
+-56	1636
+1544	+7
+-11	25
+40
+April 30
+1952	Scotland
+United States	6
+0	Friendly
+in Scotland	+4
+-4	1837
+1540	+1
+-1	8
+38
+June 08
+1953	United States
+England	3
+6	Friendly
+in the United States	-6
++6	1534
+1926	-2
+0	41
+4
+January 10
+1954	Mexico
+United States	4
+0	World Cup qualifier
+in Mexico	+17
+-17	1664
+1517	+1
+-2	25
+44
+January 14
+1954	Mexico
+United States	3
+1	World Cup qualifier
+in Mexico	+12
+-12	1676
+1505	+3
+-1	22
+45
+April 03
+1954	Haiti
+United States	2
+3	World Cup qualifier
+in Haiti	-20
++20	1377
+1525	-4
++2	76
+44
+April 04
+1954	Haiti
+United States	0
+3	World Cup qualifier
+in Haiti	-30
++30	1347
+1555	-7
++4	83
+40
+August 25
+1955	Iceland
+United States	3
+2	Friendly
+in Iceland	+12
+-12	1402
+1543	+4
+-1	71
+41
+April 07
+1957	Mexico
+United States	6
+0	World Cup qualifier
+in Mexico	+21
+-21	1654
+1522	+2
+-4	24
+47
+April 28
+1957	United States
+Mexico	2
+7	World Cup qualifier
+in the United States	-36
++36	1486
+1690	-9
++3	56
+21
+June 22
+1957	Canada
+United States	5
+1	World Cup qualifier
+in Canada	+16
+-16	1627
+1470	+2
+-3	29
+60
+July 06
+1957	United States
+Canada	2
+3	World Cup qualifier
+in the United States	-19
++19	1451
+1612	-3
++4	63
+31
+May 28
+1959	United States
+England	1
+8	Friendly
+in the United States	-7
++7	1444
+1861	-1
+0	67
+6
+September 03
+1959	United States
+Costa Rica	3
+4	Friendly
+in the United States	-5
++5	1439
+1719	-1
+0	68
+23
+November 06
+1960	United States
+Mexico	3
+3	World Cup qualifier
+in the United States	+12
+-12	1451
+1774	+2
+0	68
+17
+November 13
+1960	Mexico
+United States	3
+0	World Cup qualifier
+in Mexico	+6
+-6	1780
+1445	0
+-1	17
+69
+March 16
+1964	Dutch Guiana
+United States	1
+0	Olympic Games qualifier
+in Mexico	+23
+-23	1417
+1422	+5
+-7	84
+83
+March 18
+1964	United States
+Panama	4
+2	Olympic Games qualifier
+in Mexico	+16
+-16	1438
+1229	+5
+-4	78
+127
+May 27
+1964	United States
+England	0
+10	Friendly
+in the United States	-6
++6	1432
+1910	-4
++1	80
+3
+March 07
+1965	United States
+Mexico	2
+2	World Cup qualifier
+in the United States	+12
+-12	1444
+1768	+5
+-3	76
+20
+March 12
+1965	Mexico
+United States	2
+0	World Cup qualifier
+in Mexico	+5
+-5	1773
+1439	0
+-2	20
+78
+March 17
+1965	Honduras
+United States	0
+1	World Cup qualifier
+in Honduras	-23
++23	1373
+1462	-5
++2	95
+76
+March 21
+1965	Honduras
+United States	1
+1	World Cup qualifier
+in Honduras	-1
++1	1372
+1463	0
++1	95
+75
+May 21
+1967	Bermuda
+United States	1
+1	Olympic Games qualifier
+in Bermuda	+4
+-4	1297
+1459	0
+0	113
+74
+May 27
+1967	United States
+Bermuda	0
+1	Olympic Games qualifier
+in the United States	-33
++33	1426
+1330	-10
++6	84
+107
+October 17
+1968	Canada
+United States	4
+2	World Cup qualifier
+in Canada	+12
+-12	1578
+1414	+1
+-3	47
+85
+October 20
+1968	Haiti
+United States	3
+6	Friendly tournament
+in Haiti	-32
++32	1358
+1446	-11
++8	100
+77
+October 21
+1968	Haiti
+United States	5
+2	Friendly tournament
+in Haiti	+25
+-25	1383
+1421	+8
+-7	92
+84
+October 23
+1968	Haiti
+United States	0
+1	Friendly tournament
+in Haiti	-18
++18	1365
+1439	-5
++7	97
+77
+October 26
+1968	United States
+Canada	1
+0	World Cup qualifier
+in the United States	+22
+-22	1461
+1548	+2
+-8	75
+56
+November 02
+1968	United States
+Bermuda	6
+2	World Cup qualifier
+in the United States	+16
+-16	1477
+1313	+3
+-5	72
+110
+November 10
+1968	Bermuda
+United States	0
+2	World Cup qualifier
+in Bermuda	-25
++25	1288
+1502	-6
++6	116
+66
+April 20
+1969	Haiti
+United States	2
+0	World Cup qualifier
+in Haiti	+30
+-30	1434
+1472	+7
+-8	81
+72
+May 11
+1969	United States
+Haiti	0
+1	World Cup qualifier
+in the United States	-28
++28	1444
+1462	-8
++6	80
+75
+July 18
+1971	United States
+El Salvador	1
+1	Olympic Games qualifier
+in the United States	-6
++6	1438
+1451	-1
++1	77
+74
+July 25
+1971	United States
+Barbados	3
+0	Olympic Games qualifier
+in the United States	+9
+-9	1447
+1187	+1
+-5	76
+138
+August 15
+1971	El Salvador
+United States	1
+1	Olympic Games qualifier
+in El Salvador	-7
++7	1469
+1454	-1
++1	70
+74
+August 22
+1971	Barbados
+United States	1
+3	Olympic Games qualifier
+in Barbados	-15
++15	1147
+1469	-1
++5	146
+70
+September 18
+1971	United States
+El Salvador	1
+0	Olympic Games qualifier
+in Jamaica	+20
+-20	1489
+1449	+3
+-4	67
+74
+January 16
+1972	Jamaica
+United States	1
+1	Olympic Games qualifier
+in Jamaica	+9
+-9	1227
+1480	0
+0	131
+69
+April 16
+1972	Guatemala
+United States	3
+2	Olympic Games qualifier
+in Guatemala	+9
+-9	1616
+1471	+1
+-1	40
+69
+April 25
+1972	United States
+Guatemala	2
+1	Olympic Games qualifier
+in the United States	+23
+-23	1494
+1593	+5
+-6	65
+46
+May 14
+1972	United States
+Jamaica	2
+1	Olympic Games qualifier
+in the United States	+5
+-5	1499
+1233	+3
+-3	64
+130
+August 20
+1972	Canada
+United States	3
+2	World Cup qualifier
+in Canada	+12
+-12	1564
+1487	+1
+-2	53
+68
+August 29
+1972	United States
+Canada	2
+2	World Cup qualifier
+in the United States	-2
++2	1485
+1550	-1
++1	69
+54
+September 03
+1972	Mexico
+United States	3
+1	World Cup qualifier
+in Mexico	+7
+-7	1754
+1478	+3
+0	20
+68
+September 10
+1972	United States
+Mexico	1
+2	World Cup qualifier
+in the United States	-10
++10	1468
+1770	-1
++3	69
+17
+March 17
+1973	Bermuda
+United States	4
+0	Friendly
+in Bermuda	+24
+-24	1291
+1444	+6
+-3	119
+72
+March 20
+1973	Poland
+United States	4
+0	Friendly
+in Poland	+1
+-1	1933
+1443	0
+-1	4
+73
+August 03
+1973	United States
+Poland	0
+1	Friendly
+in the United States	-2
++2	1441
+1921	-3
+0	76
+5
+August 05
+1973	Canada
+United States	0
+2	Friendly
+in Canada	-23
++23	1520
+1464	-4
++7	61
+69
+August 10
+1973	United States
+Poland	0
+4	Friendly
+in the United States	-4
++4	1460
+1939	-1
++1	70
+3
+August 12
+1973	United States
+Poland	1
+0	Friendly
+in the United States	+18
+-18	1478
+1921	+1
+-2	69
+5
+September 09
+1973	United States
+Bermuda	1
+0	Friendly
+in the United States	+3
+-3	1481
+1288	0
+-2	69
+119
+October 16
+1973	Mexico
+United States	2
+0	Friendly
+in Mexico	+3
+-3	1737
+1478	0
+0	25
+69
+November 03
+1973	Haiti
+United States	1
+0	Friendly
+in Haiti	+6
+-6	1552
+1472	+1
+-1	56
+70
+November 05
+1973	Haiti
+United States	1
+0	Friendly
+in Haiti	+5
+-5	1557
+1467	+3
+0	53
+69
+November 13
+1973	Israel
+United States	3
+1	Friendly
+in Israel	+5
+-5	1670
+1462	+1
+0	31
+69
+November 15
+1973	Israel
+United States	2
+0	Friendly
+in Israel	+4
+-4	1674
+1458	0
+-1	31
+70
+September 05
+1974	Mexico
+United States	3
+1	Friendly
+in Mexico	+4
+-4	1697
+1454	0
+0	27
+73
+September 08
+1974	United States
+Mexico	0
+1	Friendly
+in the United States	-6
++6	1448
+1703	-1
+0	74
+27
+March 26
+1975	Poland
+United States	7
+0	Friendly
+in Poland	+1
+-1	1995
+1447	0
+0	3
+73
+June 24
+1975	United States
+Poland	0
+4	Friendly
+in the United States	-3
++3	1444
+2006	-1
+0	74
+3
+August 19
+1975	Costa Rica
+United States	3
+1	Copa Ciudad de Mexico
+in Mexico	+15
+-15	1585
+1429	+3
+-1	48
+77
+August 21
+1975	Argentina
+United States	6
+0	Copa Ciudad de Mexico
+in Mexico	+6
+-6	1827
+1423	0
+-1	12
+78
+August 24
+1975	Mexico
+United States	2
+0	Copa Ciudad de Mexico
+in Mexico	+5
+-5	1698
+1418	-1
+-4	29
+83
+May 28
+1976	United States
+Brazil	0
+2	Friendly
+in the United States	-2
++2	1416
+2018	-1
+0	78
+3
+September 24
+1976	Canada
+United States	1
+1	World Cup qualifier
+in Canada	-5
++5	1406
+1421	-2
++3	83
+77
+October 03
+1976	United States
+Mexico	0
+0	World Cup qualifier
+in the United States	+9
+-9	1430
+1671	+1
+-1	76
+33
+October 15
+1976	Mexico
+United States	3
+0	World Cup qualifier
+in Mexico	+10
+-10	1652
+1420	+3
+-2	35
+79
+October 20
+1976	United States
+Canada	2
+0	World Cup qualifier
+in the United States	+23
+-23	1443
+1412	+3
+-5	76
+81
+November 10
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1535
+1448	-2
+0	58
+75
+November 12
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1530
+1453	-1
++1	59
+74
+November 14
+1976	Haiti
+United States	0
+0	Friendly
+in Haiti	-5
++5	1525
+1458	0
+0	59
+74
+December 22
+1976	Canada
+United States	3
+0	World Cup qualifier
+in Haiti	+38
+-38	1465
+1420	+5
+-7	74
+81
+September 15
+1977	El Salvador
+United States	1
+2	Friendly
+in El Salvador	-13
++13	1413
+1433	-4
++5	85
+78
+September 18
+1977	Guatemala
+United States	3
+1	Friendly
+in Guatemala	+7
+-7	1558
+1426	+2
+-3	52
+81
+September 22
+1977	El Salvador
+United States	0
+1	Friendly
+in El Salvador	-12
++12	1401
+1438	-3
++3	88
+78
+September 25
+1977	Guatemala
+United States	2
+0	Friendly
+in Guatemala	+7
+-7	1565
+1431	+1
+0	51
+78
+September 27
+1977	Mexico
+United States	3
+0	Friendly
+in Mexico	+4
+-4	1675
+1427	+1
+-3	34
+81
+September 30
+1977	United States
+El Salvador	0
+0	Friendly
+in the United States	-3
++3	1424
+1404	0
++1	81
+87
+October 06
+1977	United States
+China	1
+1	Friendly
+in the United States	-1
++1	1423
+1494	0
+0	81
+69
+October 10
+1977	United States
+China	1
+0	Friendly
+in the United States	+9
+-9	1432
+1485	+3
+-2	78
+71
+October 16
+1977	United States
+China	2
+1	Friendly
+in the United States	+9
+-9	1441
+1476	+1
+-1	77
+72
+September 03
+1978	Iceland
+United States	0
+0	Friendly
+in Iceland	-1
++1	1360
+1442	0
+0	96
+78
+September 06
+1978	Switzerland
+United States	2
+0	Friendly
+in Switzerland	+7
+-7	1564
+1435	+3
+0	53
+78
+September 20
+1978	Portugal
+United States	1
+0	Friendly
+in Portugal	+1
+-1	1808
+1434	0
+0	15
+78
+May 02
+1979	United States
+France	0
+6	Friendly
+in the United States	-7
++7	1427
+1835	-2
+0	81
+15
+October 07
+1979	Bermuda
+United States	1
+3	Friendly
+in Bermuda	-18
++18	1375
+1445	-7
++5	96
+75
+October 10
+1979	France
+United States	3
+0	Friendly
+in France	+2
+-2	1863
+1443	0
+-1	13
+76
+October 26
+1979	Hungary
+United States	0
+2	Friendly
+in Hungary	-28
++28	1743
+1471	-1
++3	23
+73
+October 29
+1979	Ireland
+United States	3
+2	Friendly
+in Ireland	+3
+-3	1688
+1468	+1
+0	29
+73
+October 04
+1980	Luxembourg
+United States	0
+2	Friendly
+in Luxembourg	-9
++9	1201
+1477	-1
++1	141
+71
+October 07
+1980	Portugal
+United States	1
+1	Friendly
+in Portugal	-8
++8	1760
+1485	0
++1	19
+70
+October 25
+1980	United States
+Canada	0
+0	World Cup qualifier
+in the United States	-9
++9	1476
+1435	-1
++3	71
+79
+November 01
+1980	Canada
+United States	2
+1	World Cup qualifier
+in Canada	+17
+-17	1452
+1459	+4
+-2	76
+73
+November 09
+1980	Mexico
+United States	5
+1	World Cup qualifier
+in Mexico	+13
+-13	1651
+1446	+2
+-5	36
+78
+November 23
+1980	United States
+Mexico	2
+1	World Cup qualifier
+in the United States	+25
+-25	1471
+1612	+8
+-3	71
+42
+March 21
+1982	Trinidad and Tobago
+United States	1
+2	Friendly
+in Trinidad and Tobago	-9
++9	1336
+1480	-3
++2	106
+73
+April 08
+1983	Haiti
+United States	0
+2	Friendly
+in Haiti	-20
++20	1481
+1500	-3
++3	72
+69
+June 07
+1983	United States
+Nigeria	1
+1	Friendly
+in the United States	-2
++2	1498
+1524	-2
+0	72
+61
+September 15
+1983	United States
+Ghana	0
+1	Friendly
+in the United States	-8
++8	1490
+1685	-4
++1	71
+32
+May 30
+1984	United States
+Italy	0
+0	Friendly
+in the United States	+6
+-6	1496
+1819	+1
+-1	70
+14
+June 23
+1984	Congo
+United States	2
+0	Friendly tournament
+in China	+19
+-19	1573
+1477	+3
+-7	51
+76
+September 29
+1984	Netherlands Antilles
+United States	0
+0	World Cup qualifier
+in the Netherlands Antilles	+4
+-4	1311
+1473	+3
+-1	109
+77
+October 06
+1984	United States
+Netherlands Antilles	4
+0	World Cup qualifier
+in the United States	+14
+-14	1487
+1297	+5
+-9	72
+118
+October 09
+1984	United States
+El Salvador	3
+1	Friendly
+in the United States	+10
+-10	1497
+1444	+4
+-2	68
+82
+October 11
+1984	United States
+Colombia	1
+0	Friendly
+in the United States	+10
+-10	1507
+1571	+3
+-1	65
+51
+October 14
+1984	Guatemala
+United States	4
+0	Friendly
+in Guatemala	+15
+-15	1488
+1492	+5
+-7	73
+72
+October 17
+1984	Mexico
+United States	2
+1	Friendly
+in Mexico	+3
+-3	1730
+1489	+1
+0	26
+71
+November 30
+1984	United States
+Ecuador	0
+0	Friendly
+in the United States	-3
++3	1486
+1491	-2
++3	74
+70
+December 02
+1984	United States
+Ecuador	2
+2	Friendly
+in the United States	-3
++3	1483
+1494	-1
++1	75
+69
+February 08
+1985	United States
+Switzerland	1
+1	Friendly
+in the United States	+4
+-4	1487
+1723	+2
+-2	72
+30
+April 02
+1985	Canada
+United States	2
+0	Friendly
+in Canada	+10
+-10	1507
+1477	+1
+-4	65
+75
+April 04
+1985	United States
+Canada	1
+1	Friendly
+in the United States	-2
++2	1475
+1509	0
++1	75
+64
+May 15
+1985	United States
+Trinidad and Tobago	2
+1	World Cup qualifier
+in the United States	+8
+-8	1483
+1325	+4
+-1	72
+109
+May 19
+1985	United States
+Trinidad and Tobago	1
+0	World Cup qualifier
+in the United States	+7
+-7	1490
+1318	0
+0	72
+109
+May 26
+1985	Costa Rica
+United States	1
+1	World Cup qualifier
+in Costa Rica	-8
++8	1538
+1498	-1
++4	63
+68
+May 31
+1985	United States
+Costa Rica	0
+1	World Cup qualifier
+in the United States	-23
++23	1475
+1561	-10
++5	78
+58
+June 16
+1985	United States
+England	0
+5	Friendly
+in the United States	-5
++5	1470
+1914	0
+-1	77
+4
+February 05
+1986	United States
+Canada	0
+0	Friendly
+in the United States	+1
+-1	1471
+1596	0
+0	78
+44
+February 07
+1986	United States
+Uruguay	1
+1	Friendly
+in the United States	+6
+-6	1477
+1828	+1
+-4	77
+14
+June 08
+1987	Egypt
+United States	3
+1	Presidents Cup
+in South Korea	+18
+-18	1638
+1459	+6
+-1	40
+78
+June 12
+1987	South Korea
+United States	1
+0	Presidents Cup
+in South Korea	+7
+-7	1623
+1452	+2
+0	45
+78
+June 16
+1987	United States
+Thailand	1
+0	Presidents Cup
+in South Korea	+14
+-14	1466
+1339	+1
+-2	77
+105
+August 10
+1987	United States
+Trinidad and Tobago	3
+1	Friendly
+in the United States	+6
+-6	1472
+1308	0
+-4	75
+112
+August 12
+1987	United States
+El Salvador	0
+0	Friendly
+in the United States	-4
++4	1468
+1445	0
++1	75
+79
+September 05
+1987	United States
+Trinidad and Tobago	4
+1	Friendly
+in the United States	+6
+-6	1474
+1302	0
+-2	75
+114
+September 20
+1987	Trinidad and Tobago
+United States	0
+1	Friendly
+in Trinidad and Tobago	-8
++8	1307
+1482	-5
+0	112
+75
+October 18
+1987	El Salvador
+United States	2
+4	Friendly
+in El Salvador	-19
++19	1449
+1501	-3
++2	80
+74
+January 10
+1988	Guatemala
+United States	1
+0	Friendly
+in Guatemala	+7
+-7	1521
+1494	0
+-1	65
+74
+January 13
+1988	Guatemala
+United States	0
+1	Friendly
+in Guatemala	-14
++14	1507
+1508	-5
++5	70
+68
+May 14
+1988	United States
+Colombia	0
+2	Friendly
+in the United States	-10
++10	1498
+1747	0
++1	69
+25
+June 01
+1988	United States
+Chile	1
+1	Friendly
+in the United States	+5
+-5	1503
+1770	0
+-1	69
+21
+June 03
+1988	United States
+Chile	1
+3	Friendly
+in the United States	-8
++8	1495
+1778	-2
++1	71
+20
+June 05
+1988	United States
+Chile	0
+3	Friendly
+in the United States	-9
++9	1486
+1787	-2
+0	73
+20
+June 07
+1988	United States
+Ecuador	0
+1	Friendly
+in the United States	-12
++12	1474
+1531	-3
++2	76
+62
+June 10
+1988	United States
+Ecuador	0
+2	Friendly
+in the United States	-17
++17	1457
+1548	-3
++2	79
+60
+June 12
+1988	United States
+Ecuador	0
+0	Friendly
+in the United States	0
+0	1457
+1548	0
+0	79
+60
+June 14
+1988	United States
+Costa Rica	1
+0	Friendly
+in the United States	+10
+-10	1467
+1549	+2
+-3	77
+58
+July 13
+1988	United States
+Poland	0
+2	Friendly
+in the United States	-9
++9	1458
+1730	0
+0	78
+27
+July 24
+1988	Jamaica
+United States	0
+0	World Cup qualifier
+in Jamaica	+7
+-7	1233
+1451	0
+-2	138
+80
+August 13
+1988	United States
+Jamaica	5
+1	World Cup qualifier
+in the United States	+10
+-10	1461
+1223	+1
+-1	77
+139
+April 16
+1989	Costa Rica
+United States	1
+0	World Cup qualifier
+in Costa Rica	+12
+-12	1520
+1449	+2
+-5	65
+82
+April 30
+1989	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+18
+-18	1467
+1502	+6
+-3	75
+68
+May 13
+1989	United States
+Trinidad and Tobago	1
+1	World Cup qualifier
+in the United States	-10
++10	1457
+1383	-4
++1	78
+99
+June 04
+1989	United States
+Peru	3
+0	Friendly tournament
+in the United States	+31
+-31	1488
+1593	+8
+-6	72
+47
+June 17
+1989	United States
+Guatemala	2
+1	World Cup qualifier
+in the United States	+17
+-17	1505
+1511	+3
+-3	69
+65
+June 24
+1989	United States
+Colombia	0
+1	Friendly
+in the United States	-5
++5	1500
+1812	-1
++1	70
+16
+August 13
+1989	United States
+South Korea	1
+2	Friendly
+in the United States	-6
++6	1494
+1739	-1
++1	69
+26
+September 17
+1989	El Salvador
+United States	0
+1	World Cup qualifier
+in Honduras	-14
++14	1380
+1508	-4
++4	101
+64
+October 08
+1989	Guatemala
+United States	0
+0	World Cup qualifier
+in Guatemala	-3
++3	1464
+1511	-2
++1	77
+64
+November 05
+1989	United States
+El Salvador	0
+0	World Cup qualifier
+in the United States	-12
++12	1499
+1392	-6
++3	70
+98
+November 14
+1989	United States
+Bermuda	2
+1	Friendly
+in the United States	+4
+-4	1503
+1350	+3
+0	67
+107
+November 18
+1989	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-25
++25	1458
+1528	-6
++3	79
+64
+February 02
+1990	United States
+Costa Rica	0
+2	Friendly tournament
+in the United States	-27
++27	1501
+1581	-7
++6	69
+48
+February 04
+1990	United States
+Colombia	1
+1	Friendly tournament
+in the United States	+7
+-7	1508
+1769	+4
+0	65
+20
+February 13
+1990	Bermuda
+United States	0
+1	Friendly
+in Bermuda	-8
++8	1342
+1516	-1
++1	108
+64
+February 24
+1990	United States
+Soviet Union	1
+3	Friendly
+in the United States	-5
++5	1511
+1915	-1
+0	65
+5
+March 10
+1990	United States
+Finland	2
+1	Friendly
+in the United States	+9
+-9	1520
+1565	+1
+-3	64
+52
+March 20
+1990	Hungary
+United States	2
+0	Friendly
+in Hungary	+5
+-5	1698
+1515	0
+-1	29
+65
+March 28
+1990	East Germany
+United States	3
+2	Friendly
+in East Germany	+3
+-3	1689
+1512	+1
+0	30
+65
+April 08
+1990	United States
+Iceland	4
+1	Friendly
+in the United States	+13
+-13	1525
+1506	+3
+-3	63
+68
+April 22
+1990	United States
+Colombia	0
+1	Friendly
+in the United States	-6
++6	1519
+1771	-2
+0	65
+20
+May 05
+1990	United States
+Malta	1
+0	Friendly
+in the United States	+3
+-3	1522
+1334	+2
+0	63
+111
+May 09
+1990	United States
+Poland	3
+1	Friendly
+in the United States	+21
+-21	1543
+1738	+4
+-4	59
+26
+May 30
+1990	Liechtenstein
+United States	1
+4	Friendly
+in Liechtenstein	-6
++6	1156
+1549	-1
++2	152
+58
+June 02
+1990	Switzerland
+United States	2
+1	Friendly
+in Switzerland	+5
+-5	1648
+1544	+1
+-2	36
+60
+June 10
+1990	Czechoslovakia
+United States	5
+1	World Cup
+in Italy	+19
+-19	1836
+1525	+1
+-4	15
+64
+June 14
+1990	Italy
+United States	1
+0	World Cup
+in Italy	+3
+-3	1935
+1522	0
+0	4
+64
+June 19
+1990	Austria
+United States	2
+1	World Cup
+in Italy	+16
+-16	1708
+1506	+2
+-4	28
+68
+July 28
+1990	United States
+East Germany	1
+2	Friendly
+in the United States	-7
++7	1499
+1725	-1
+0	69
+26
+September 15
+1990	United States
+Trinidad and Tobago	3
+0	Friendly
+in the United States	+11
+-11	1510
+1447	+1
+-2	68
+80
+October 10
+1990	Poland
+United States	2
+3	Friendly
+in Poland	-18
++18	1733
+1528	-2
++5	24
+60
+October 17
+1990	Croatia
+United States	2
+1	Friendly
+in Croatia	+2
+-2	1797
+1526	+2
+0	17
+61
+November 18
+1990	Trinidad and Tobago
+United States	0
+0	Friendly tournament
+in Trinidad and Tobago	-1
++1	1446
+1527	-1
+0	80
+61
+November 21
+1990	Soviet Union
+United States	0
+0	Friendly tournament
+in Trinidad and Tobago	-11
++11	1832
+1538	-2
++4	13
+57
+December 19
+1990	Portugal
+United States	1
+0	Friendly
+in Portugal	+3
+-3	1769
+1535	+1
+-3	21
+60
+February 02
+1991	United States
+Switzerland	0
+1	Friendly tournament
+in the United States	-13
++13	1522
+1692	-4
+0	64
+32
+February 21
+1991	Bermuda
+United States	1
+0	Friendly
+in Bermuda	+12
+-12	1376
+1510	+3
+-2	98
+66
+March 12
+1991	United States
+Mexico	2
+2	Concacaf Gold Cup qualifier
+in the United States	+12
+-12	1522
+1827	+1
+0	63
+13
+March 16
+1991	United States
+Canada	2
+0	Concacaf Gold Cup qualifier
+in the United States	+23
+-23	1545
+1515	+7
+-8	56
+64
+May 05
+1991	United States
+Uruguay	1
+0	Friendly
+in the United States	+15
+-15	1560
+1804	+4
+-1	53
+16
+May 19
+1991	United States
+Argentina	0
+1	Friendly
+in the United States	-5
++5	1555
+1846	-1
+0	54
+12
+June 01
+1991	United States
+Ireland	1
+1	Friendly
+in the United States	+5
+-5	1560
+1852	+1
+-1	53
+11
+June 29
+1991	United States
+Trinidad and Tobago	2
+1	Concacaf Gold Cup
+in the United States	+10
+-10	1570
+1412	+3
+-1	50
+88
+July 01
+1991	United States
+Guatemala	3
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1588
+1416	0
+-6	50
+88
+July 03
+1991	United States
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+20
+-20	1608
+1591	+6
+-5	44
+49
+July 05
+1991	United States
+Mexico	2
+0	Concacaf Gold Cup
+in the United States	+49
+-49	1657
+1773	+9
+-7	35
+20
+July 07
+1991	United States
+Honduras	0
+0	Concacaf Gold Cup
+in the United States	-10
++10	1647
+1619	-1
++3	36
+42
+August 28
+1991	Romania
+United States	0
+2	Friendly
+in Romania	-24
++24	1766
+1671	-2
++4	20
+34
+September 04
+1991	Turkey
+United States	1
+1	Friendly
+in Turkey	+1
+-1	1539
+1670	0
+0	55
+34
+September 14
+1991	United States
+Jamaica	1
+0	Friendly
+in the United States	+1
+-1	1671
+1280	0
+-1	34
+126
+October 19
+1991	United States
+North Korea	1
+2	Friendly
+in the United States	-16
++16	1655
+1552	-2
++3	35
+54
+November 24
+1991	United States
+Costa Rica	1
+1	Friendly
+in the United States	-6
++6	1649
+1541	-2
++1	38
+56
+January 25
+1992	United States
+Commonwealth of Independent States	0
+1	Friendly
+in the United States	-6
++6	1643
+1887	-1
+0	38
+9
+February 02
+1992	United States
+Commonwealth of Independent States	2
+1	Friendly
+in the United States	+14
+-14	1657
+1876	+1
+0	38
+9
+February 12
+1992	Costa Rica
+United States	0
+0	Friendly
+in Costa Rica	0
+0	1547
+1657	0
+0	55
+38
+February 19
+1992	El Salvador
+United States	2
+0	Friendly
+in El Salvador	+22
+-22	1404
+1635	+11
+-1	89
+39
+February 26
+1992	Brazil
+United States	3
+0	Friendly
+in Brazil	+3
+-3	1925
+1632	0
+-1	6
+40
+March 11
+1992	Spain
+United States	2
+0	Friendly
+in Spain	+6
+-6	1796
+1626	0
+-1	17
+41
+March 18
+1992	Morocco
+United States	3
+1	Friendly
+in Morocco	+13
+-13	1583
+1613	+2
+-4	50
+45
+April 04
+1992	United States
+China	5
+0	Friendly
+in the United States	+9
+-9	1622
+1497	+3
+-1	42
+67
+April 29
+1992	Ireland
+United States	4
+1	Friendly
+in Ireland	+4
+-4	1866
+1618	+1
+-1	9
+43
+May 17
+1992	United States
+Scotland	0
+1	Friendly
+in the United States	-10
++10	1608
+1726	-2
++1	45
+27
+May 30
+1992	United States
+Ireland	3
+1	US Cup
+in the United States	+32
+-32	1640
+1836	+7
+-1	38
+10
+June 03
+1992	United States
+Portugal	1
+0	US Cup
+in the United States	+17
+-17	1657
+1762	+1
+-1	37
+21
+June 06
+1992	United States
+Italy	1
+1	US Cup
+in the United States	+8
+-8	1665
+1942	+3
+0	34
+4
+June 14
+1992	United States
+Australia	0
+1	Friendly
+in the United States	-12
++12	1653
+1689	-4
++1	38
+32
+June 27
+1992	United States
+Ukraine	0
+0	Friendly
+in the United States	-5
++5	1648
+1589	0
++1	38
+49
+July 31
+1992	United States
+Colombia	0
+1	Friendship Cup
+in the United States	-16
++16	1632
+1740	-5
++3	43
+25
+August 02
+1992	United States
+Brazil	0
+1	Friendship Cup
+in the United States	-7
++7	1625
+1948	0
++1	43
+4
+September 03
+1992	Canada
+United States	0
+2	Friendly
+in Canada	-13
++13	1475
+1638	-4
++2	78
+40
+October 09
+1992	United States
+Canada	0
+0	Friendly
+in the United States	-6
++6	1632
+1481	-3
++1	41
+77
+October 15
+1992	Saudi Arabia
+United States	3
+0	Intercontinental Cup
+in Saudi Arabia	+33
+-33	1656
+1599	+8
+-8	36
+49
+October 19
+1992	United States
+Ivory Coast	5
+2	Intercontinental Cup
+in Saudi Arabia	+55
+-55	1654
+1637	+13
+-11	36
+41
+January 30
+1993	United States
+Denmark	2
+2	Friendly
+in the United States	+3
+-3	1657
+1867	0
+0	35
+8
+February 06
+1993	United States
+Romania	1
+1	Friendly
+in the United States	0
+0	1657
+1753	0
+0	35
+22
+February 13
+1993	United States
+Russia	0
+1	Friendly
+in the United States	-9
++9	1648
+1810	0
+0	35
+14
+February 21
+1993	United States
+Russia	0
+0	Friendly
+in the United States	+2
+-2	1650
+1811	0
+0	34
+14
+March 03
+1993	United States
+Canada	2
+2	Friendly
+in the United States	-7
++7	1643
+1485	-1
++1	36
+78
+March 10
+1993	United States
+Hungary	0
+0	Kirin Cup
+in Japan	+2
+-2	1645
+1693	0
+0	37
+31
+March 14
+1993	Japan
+United States	3
+1	Kirin Cup
+in Japan	+23
+-23	1562
+1622	+1
+-5	57
+41
+March 23
+1993	El Salvador
+United States	2
+2	Friendly
+in El Salvador	+2
+-2	1461
+1620	+1
+0	84
+41
+March 25
+1993	Honduras
+United States	4
+1	Friendly
+in Honduras	+11
+-11	1674
+1609	0
+-7	34
+48
+April 09
+1993	Saudi Arabia
+United States	0
+2	Friendly
+in Saudi Arabia	-19
++19	1594
+1628	-6
++7	50
+40
+April 17
+1993	United States
+Iceland	1
+1	Friendly
+in the United States	-5
++5	1623
+1528	-3
++1	42
+63
+May 08
+1993	United States
+Colombia	1
+2	Friendly
+in the United States	-9
++9	1614
+1750	-2
++1	46
+23
+May 23
+1993	United States
+Bolivia	0
+0	Friendly
+in the United States	-5
++5	1609
+1514	-1
++2	46
+70
+May 26
+1993	United States
+Peru	0
+0	Friendly
+in the United States	-5
++5	1604
+1511	0
+0	47
+73
+June 06
+1993	United States
+Brazil	0
+2	US Cup
+in the United States	-8
++8	1596
+1966	0
++1	47
+2
+June 09
+1993	United States
+England	2
+0	US Cup
+in the United States	+33
+-33	1629
+1838	+6
+-1	42
+11
+June 13
+1993	United States
+Germany	3
+4	US Cup
+in the United States	-6
++6	1623
+1968	-1
++1	43
+2
+June 16
+1993	Uruguay
+United States	1
+0	Copa América
+in Ecuador	+12
+-12	1826
+1611	+1
+-2	12
+46
+June 19
+1993	Ecuador
+United States	2
+0	Copa América
+in Ecuador	+25
+-25	1657
+1586	+7
+-4	34
+50
+June 22
+1993	United States
+Venezuela	3
+3	Copa América
+in Ecuador	-15
++15	1571
+1358	-2
++6	52
+112
+July 10
+1993	United States
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+9
+-9	1580
+1410	+2
+-1	50
+100
+July 14
+1993	United States
+Panama	2
+1	Concacaf Gold Cup
+in the United States	+3
+-3	1583
+1216	+1
+0	50
+149
+July 17
+1993	United States
+Honduras	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1598
+1513	+2
+-5	48
+71
+July 21
+1993	United States
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1616
+1579	+4
+-3	44
+53
+July 25
+1993	Mexico
+United States	4
+0	Concacaf Gold Cup
+in Mexico	+12
+-12	1855
+1604	+1
+-5	10
+49
+August 31
+1993	Iceland
+United States	0
+1	Friendly
+in Iceland	-12
++12	1546
+1616	-2
++3	61
+47
+September 08
+1993	Norway
+United States	1
+0	Friendly
+in Norway	+4
+-4	1785
+1612	0
+0	20
+47
+October 13
+1993	United States
+Mexico	1
+1	Friendly
+in the United States	+4
+-4	1616
+1866	+2
+0	46
+10
+October 16
+1993	United States
+Ukraine	1
+2	Friendly
+in the United States	-14
++14	1602
+1594	-4
++2	49
+52
+October 23
+1993	United States
+Ukraine	0
+1	Friendly
+in the United States	-13
++13	1589
+1604	-3
++3	52
+49
+November 07
+1993	United States
+Jamaica	1
+0	Friendly
+in the United States	+4
+-4	1593
+1449	0
+0	52
+92
+November 14
+1993	United States
+Cayman Islands	8
+1	Friendly
+in the United States	+1
+-1	1594
+1044	0
+0	52
+183
+December 05
+1993	United States
+El Salvador	7
+0	Friendly
+in the United States	+9
+-9	1603
+1448	+1
+-2	51
+90
+December 18
+1993	United States
+Germany	0
+3	Friendly
+in the United States	-6
++6	1597
+1975	-1
+0	52
+1
+January 15
+1994	United States
+Norway	2
+1	Friendly
+in the United States	+13
+-13	1610
+1792	+5
+-4	47
+18
+January 22
+1994	United States
+Switzerland	1
+1	Friendly
+in the United States	+3
+-3	1613
+1800	0
+-3	46
+17
+January 29
+1994	United States
+Russia	1
+1	Friendly
+in the United States	+2
+-2	1615
+1776	0
+0	46
+21
+February 10
+1994	Denmark
+United States	0
+0	Carlsberg Cup
+in Hong Kong	-10
++10	1894
+1625	-1
++4	7
+43
+February 13
+1994	Romania
+United States	2
+1	Carlsberg Cup
+in Hong Kong	+9
+-9	1782
+1616	0
+-3	22
+46
+February 18
+1994	United States
+Bolivia	1
+1	Friendly tournament
+in the United States	-2
++2	1614
+1663	0
+0	46
+35
+February 20
+1994	United States
+Sweden	1
+3	Friendly tournament
+in the United States	-14
++14	1600
+1863	-4
++2	50
+9
+March 05
+1994	United States
+South Korea	1
+0	Friendly
+in the United States	+9
+-9	1609
+1649	+4
+-1	46
+38
+March 12
+1994	United States
+South Korea	1
+1	Friendly
+in the United States	-2
++2	1607
+1651	-1
+0	48
+38
+March 26
+1994	United States
+Bolivia	2
+2	Friendly
+in the United States	-2
++2	1605
+1656	-1
++1	48
+36
+April 16
+1994	United States
+Moldova	1
+1	Friendly
+in the United States	-7
++7	1598
+1400	-1
++2	49
+102
+April 20
+1994	United States
+Moldova	3
+0	Friendly
+in the United States	+5
+-5	1603
+1395	+2
+-1	47
+103
+April 24
+1994	United States
+Iceland	1
+2	Friendly
+in the United States	-15
++15	1588
+1543	-4
++5	51
+60
+April 30
+1994	United States
+Chile	0
+2	Friendly
+in the United States	-13
++13	1575
+1744	-3
++2	54
+25
+May 07
+1994	United States
+Estonia	4
+0	Friendly
+in the United States	+2
+-2	1577
+1193	+1
+0	53
+156
+May 15
+1994	United States
+Armenia	1
+0	Friendly
+in the United States	+3
+-3	1580
+1350	+1
+-1	52
+116
+May 25
+1994	United States
+Saudi Arabia	0
+0	Friendly
+in the United States	-1
++1	1579
+1640	0
+0	53
+42
+May 28
+1994	United States
+Greece	1
+1	Friendly
+in the United States	-1
++1	1578
+1656	0
+0	53
+37
+June 04
+1994	United States
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1592
+1812	+3
+0	50
+16
+June 18
+1994	United States
+Switzerland	1
+1	World Cup
+in the United States	+11
+-11	1603
+1820	0
+-5	50
+18
+June 22
+1994	United States
+Colombia	2
+1	World Cup
+in the United States	+42
+-42	1645
+1809	+13
+-4	37
+16
+June 26
+1994	United States
+Romania	0
+1	World Cup
+in the United States	-26
++26	1619
+1816	-7
++2	45
+19
+July 04
+1994	United States
+Brazil	0
+1	World Cup
+in the United States	-12
++12	1607
+1980	-2
+0	46
+2
+September 07
+1994	England
+United States	2
+0	Friendly
+in England	+4
+-4	1853
+1603	0
+0	12
+45
+October 19
+1994	Saudi Arabia
+United States	2
+1	Friendly
+in Saudi Arabia	+5
+-5	1693
+1598	+1
+0	29
+45
+November 19
+1994	Trinidad and Tobago
+United States	1
+0	Friendly
+in Trinidad and Tobago	+10
+-10	1505
+1588	+3
+-4	71
+48
+November 22
+1994	Jamaica
+United States	0
+3	Friendly
+in Jamaica	-15
++15	1413
+1603	-5
++4	102
+44
+December 11
+1994	United States
+Honduras	1
+1	Friendly
+in the United States	-6
++6	1597
+1494	0
++2	44
+75
+March 25
+1995	United States
+Uruguay	2
+2	Friendly
+in the United States	+2
+-2	1599
+1763	0
+0	47
+24
+April 22
+1995	Belgium
+United States	1
+0	Friendly
+in Belgium	+4
+-4	1751
+1595	0
+-1	25
+47
+May 28
+1995	United States
+Costa Rica	1
+2	Friendly
+in the United States	-13
++13	1582
+1618	-4
++6	51
+38
+June 11
+1995	United States
+Nigeria	3
+2	US Cup
+in the United States	+19
+-19	1601
+1764	+5
+-2	44
+25
+June 18
+1995	United States
+Mexico	4
+0	US Cup
+in the United States	+40
+-40	1641
+1818	+10
+-9	34
+18
+June 25
+1995	United States
+Colombia	0
+0	US Cup
+in the United States	+5
+-5	1646
+1856	0
+0	34
+8
+July 08
+1995	United States
+Chile	2
+1	Copa América
+in Uruguay	+30
+-30	1676
+1684	+2
+-2	32
+30
+July 11
+1995	Bolivia
+United States	1
+0	Copa América
+in Uruguay	+30
+-30	1636
+1646	+7
+-2	37
+34
+July 14
+1995	United States
+Argentina	3
+0	Copa América
+in Uruguay	+70
+-70	1716
+1819	+6
+-10	28
+16
+July 17
+1995	United States
+Mexico	0
+0	Copa América
+in Uruguay	+7
+-7	1723
+1802	0
+0	28
+20
+July 20
+1995	Brazil
+United States	1
+0	Copa América
+in Uruguay	+6
+-6	2075
+1717	0
+0	1
+28
+July 22
+1995	Colombia
+United States	4
+1	Copa América
+in Uruguay	+34
+-34	1826
+1683	+6
+-2	15
+30
+August 16
+1995	Sweden
+United States	1
+0	Friendly
+in Sweden	+4
+-4	1823
+1679	-1
+0	18
+30
+October 08
+1995	United States
+Saudi Arabia	4
+3	Friendly
+in the United States	+5
+-5	1684
+1603	0
+0	30
+45
+January 13
+1996	United States
+Trinidad and Tobago	3
+2	Concacaf Gold Cup
+in the United States	+8
+-8	1692
+1490	+1
+-2	30
+76
+January 16
+1996	United States
+El Salvador	2
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1704
+1494	+2
+-2	29
+74
+January 18
+1996	United States
+Brazil	0
+1	Concacaf Gold Cup
+in the United States	-8
++8	1696
+2094	-1
+0	30
+1
+January 21
+1996	United States
+Guatemala	3
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1707
+1440	+1
+-1	30
+88
+May 26
+1996	United States
+Scotland	2
+1	Friendly
+in the United States	+8
+-8	1715
+1740	+1
+0	28
+24
+June 09
+1996	United States
+Ireland	2
+1	US Cup
+in the United States	+9
+-9	1724
+1661	+1
+-1	28
+34
+June 12
+1996	United States
+Bolivia	0
+2	US Cup
+in the United States	-34
++34	1690
+1668	-4
++3	32
+33
+June 16
+1996	United States
+Mexico	2
+2	US Cup
+in the United States	+1
+-1	1691
+1823	0
+0	32
+17
+August 30
+1996	United States
+El Salvador	3
+1	Friendly
+in the United States	+4
+-4	1695
+1474	+1
+0	30
+82
+October 16
+1996	Peru
+United States	4
+1	Friendly
+in Peru	+19
+-19	1582
+1676	+1
+-2	55
+32
+November 03
+1996	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+8
+-8	1684
+1441	+1
+-2	33
+91
+November 10
+1996	United States
+Trinidad and Tobago	2
+0	World Cup qualifier
+in the United States	+11
+-11	1695
+1521	+3
+-4	30
+69
+November 24
+1996	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-16
++16	1505
+1711	-3
++2	72
+29
+December 01
+1996	Costa Rica
+United States	2
+1	World Cup qualifier
+in Costa Rica	+25
+-25	1544
+1686	+5
+-3	63
+32
+December 14
+1996	United States
+Costa Rica	2
+1	World Cup qualifier
+in the United States	+8
+-8	1694
+1536	+1
+-1	31
+63
+December 21
+1996	Guatemala
+United States	2
+2	World Cup qualifier
+in El Salvador	+11
+-11	1484
+1683	+3
+-1	80
+32
+January 17
+1997	United States
+Peru	0
+1	US Cup
+in the United States	-22
++22	1661
+1623	-3
++8	35
+43
+January 19
+1997	United States
+Mexico	0
+2	US Cup
+in the United States	-20
++20	1641
+1819	-4
++1	39
+15
+January 22
+1997	United States
+Denmark	1
+4	US Cup
+in the United States	-15
++15	1626
+1914	-3
+0	42
+8
+January 29
+1997	China
+United States	2
+1	Friendly
+in China	+11
+-11	1517
+1615	+5
+-3	67
+45
+February 01
+1997	China
+United States	1
+1	Friendly
+in China	0
+0	1517
+1615	0
+0	67
+45
+March 02
+1997	Jamaica
+United States	0
+0	World Cup qualifier
+in Jamaica	-3
++3	1561
+1618	-3
++1	60
+47
+March 16
+1997	United States
+Canada	3
+0	World Cup qualifier
+in the United States	+26
+-26	1644
+1600	+11
+-9	37
+52
+March 23
+1997	Costa Rica
+United States	3
+2	World Cup qualifier
+in Costa Rica	+18
+-18	1593
+1626	+3
+-5	53
+42
+April 20
+1997	United States
+Mexico	2
+2	World Cup qualifier
+in the United States	+5
+-5	1631
+1811	+3
+-1	44
+16
+June 04
+1997	United States
+Paraguay	0
+0	Friendly
+in the United States	+3
+-3	1634
+1824	+1
+-1	43
+15
+June 17
+1997	United States
+Israel	2
+1	Friendly
+in the United States	+6
+-6	1640
+1570	+2
+-1	41
+59
+June 29
+1997	El Salvador
+United States	1
+1	World Cup qualifier
+in El Salvador	+5
+-5	1459
+1635	0
+0	85
+43
+August 07
+1997	United States
+Ecuador	0
+1	Friendly
+in the United States	-10
++10	1625
+1741	-3
++2	47
+24
+September 07
+1997	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+12
+-12	1637
+1573	+2
+-2	45
+57
+October 03
+1997	United States
+Jamaica	1
+1	World Cup qualifier
+in the United States	-7
++7	1630
+1615	0
++1	47
+51
+November 02
+1997	Mexico
+United States	0
+0	World Cup qualifier
+in Mexico	-13
++13	1774
+1643	-1
++1	20
+44
+November 09
+1997	Canada
+United States	0
+3	World Cup qualifier
+in Canada	-35
++35	1512
+1678	-6
++6	71
+37
+November 16
+1997	United States
+El Salvador	4
+2	World Cup qualifier
+in the United States	+10
+-10	1688
+1481	+2
+-1	34
+75
+January 24
+1998	United States
+Sweden	1
+0	Friendly
+in the United States	+10
+-10	1698
+1784	+1
+0	32
+18
+February 01
+1998	United States
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+10
+-10	1708
+1441	0
+-9	32
+95
+February 07
+1998	United States
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1720
+1594	+2
+-1	30
+51
+February 10
+1998	United States
+Brazil	1
+0	Concacaf Gold Cup
+in the United States	+42
+-42	1762
+2066	+10
+0	21
+1
+February 15
+1998	United States
+Mexico	0
+1	Concacaf Gold Cup
+in the United States	-28
++28	1734
+1843	-8
++6	29
+11
+February 21
+1998	United States
+Netherlands	0
+2	Friendly
+in the United States	-12
++12	1722
+1916	-2
+0	31
+8
+February 25
+1998	Belgium
+United States	2
+0	Friendly
+in Belgium	+9
+-9	1769
+1713	+1
+-1	21
+32
+March 14
+1998	United States
+Paraguay	2
+2	Friendly
+in the United States	-2
++2	1711
+1731	0
++1	32
+28
+April 22
+1998	Austria
+United States	0
+3	Friendly
+in Austria	-22
++22	1679
+1733	-3
++4	36
+27
+May 16
+1998	United States
+Macedonia	0
+0	Friendly
+in the United States	-7
++7	1726
+1515	-3
++2	30
+66
+May 24
+1998	United States
+Kuwait	2
+0	Friendly
+in the United States	+7
+-7	1733
+1599	+2
+-1	27
+55
+May 30
+1998	United States
+Scotland	0
+0	Friendly
+in the United States	-3
++3	1730
+1745	-1
++1	28
+24
+June 15
+1998	Germany
+United States	2
+0	World Cup
+in France	+14
+-14	2036
+1716	0
+0	2
+29
+June 21
+1998	Iran
+United States	2
+1	World Cup
+in France	+38
+-38	1656
+1678	+10
+-4	40
+34
+June 25
+1998	Yugoslavia
+United States	1
+0	World Cup
+in France	+10
+-10	1961
+1668	+1
+-4	4
+37
+November 06
+1998	United States
+Australia	0
+0	Friendly
+in the United States	-1
++1	1667
+1751	-1
+0	39
+21
+January 24
+1999	Bolivia
+United States	0
+0	Friendly
+in Bolivia	-3
++3	1661
+1670	0
++1	42
+40
+February 06
+1999	United States
+Germany	3
+0	Friendly
+in the United States	+25
+-25	1695
+1915	+7
+-2	33
+7
+February 21
+1999	United States
+Chile	2
+1	Friendly
+in the United States	+8
+-8	1703
+1723	+3
+-1	30
+26
+March 11
+1999	United States
+Guatemala	3
+1	US Cup
+in the United States	+7
+-7	1710
+1487	0
+0	32
+76
+March 13
+1999	United States
+Mexico	1
+2	US Cup
+in the United States	-13
++13	1697
+1868	-1
++1	33
+13
+June 13
+1999	United States
+Argentina	1
+0	Friendly
+in the United States	+13
+-13	1710
+1907	+1
+-2	31
+8
+July 24
+1999	United States
+New Zealand	2
+1	Confederations Cup
+in Mexico	+13
+-13	1723
+1521	+5
+-2	26
+66
+July 28
+1999	Brazil
+United States	1
+0	Confederations Cup
+in Mexico	+5
+-5	2113
+1718	0
+-1	1
+27
+July 30
+1999	United States
+Germany	2
+0	Confederations Cup
+in Mexico	+55
+-55	1773
+1838	+6
+-8	21
+15
+August 01
+1999	Mexico
+United States	1
+0	Confederations Cup
+in Mexico	+13
+-13	1869
+1760	+2
+-1	12
+22
+August 03
+1999	United States
+Saudi Arabia	2
+0	Confederations Cup
+in Mexico	+32
+-32	1792
+1672	+5
+-5	17
+37
+September 08
+1999	Jamaica
+United States	2
+2	Friendly
+in Jamaica	+3
+-3	1571
+1789	+1
+-1	59
+19
+November 17
+1999	Morocco
+United States	2
+1	Friendly
+in Morocco	+8
+-8	1779
+1781	0
+-1	21
+19
+January 16
+2000	United States
+Iran	1
+1	Friendly
+in the United States	-4
++4	1777
+1737	-1
+0	20
+25
+January 29
+2000	Chile
+United States	1
+2	Friendly
+in Chile	-12
++12	1718
+1789	-1
++3	27
+18
+February 12
+2000	United States
+Haiti	3
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1794
+1398	0
+-3	18
+104
+February 16
+2000	United States
+Peru	1
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1806
+1681	+1
+-5	17
+39
+February 19
+2000	United States
+Colombia	2
+2	Concacaf Gold Cup
+in the United States	-12
++12	1794
+1742	-1
++3	18
+22
+March 12
+2000	United States
+Tunisia	1
+1	Friendly
+in the United States	-7
++7	1787
+1626	0
++1	18
+52
+April 26
+2000	Russia
+United States	2
+0	Friendly
+in Russia	+12
+-12	1772
+1775	0
+-1	20
+19
+June 03
+2000	United States
+South Africa	4
+0	US Cup
+in the United States	+14
+-14	1789
+1666	+1
+-2	18
+42
+June 06
+2000	United States
+Ireland	1
+1	US Cup
+in the United States	-7
++7	1782
+1723	-1
++3	19
+27
+July 16
+2000	Guatemala
+United States	1
+1	World Cup qualifier
+in Guatemala	+9
+-9	1512
+1773	+3
+-1	70
+18
+July 23
+2000	Costa Rica
+United States	2
+1	World Cup qualifier
+in Costa Rica	+26
+-26	1594
+1747	+1
+-1	57
+20
+August 16
+2000	United States
+Barbados	7
+0	World Cup qualifier
+in the United States	+5
+-5	1752
+1367	+1
+0	21
+113
+September 03
+2000	United States
+Guatemala	1
+0	World Cup qualifier
+in the United States	+5
+-5	1757
+1508	0
+-1	21
+72
+October 11
+2000	United States
+Costa Rica	0
+0	World Cup qualifier
+in the United States	-13
++13	1744
+1597	-2
++1	23
+57
+October 25
+2000	United States
+Mexico	2
+0	Friendly
+in the United States	+15
+-15	1759
+1833	+4
+0	20
+12
+November 15
+2000	Barbados
+United States	0
+4	World Cup qualifier
+in Barbados	-10
++10	1321
+1769	-6
+-1	127
+22
+January 27
+2001	United States
+China	2
+1	Friendly
+in the United States	+4
+-4	1773
+1648	0
+0	22
+47
+February 03
+2001	United States
+Colombia	0
+1	Friendly
+in the United States	-13
++13	1760
+1763	-1
++3	22
+21
+February 28
+2001	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+23
+-23	1783
+1757	+5
+-5	18
+23
+March 03
+2001	United States
+Brazil	1
+2	Friendly
+in the United States	-7
++7	1776
+2006	-1
+0	19
+2
+March 28
+2001	Honduras
+United States	1
+2	World Cup qualifier
+in Honduras	-21
++21	1680
+1797	-5
++5	39
+15
+April 25
+2001	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+7
+-7	1804
+1623	-1
+-2	16
+51
+June 07
+2001	United States
+Ecuador	0
+0	Friendly
+in the United States	-4
++4	1800
+1748	-1
++1	20
+26
+June 16
+2001	Jamaica
+United States	0
+0	World Cup qualifier
+in Jamaica	+7
+-7	1584
+1793	0
+0	60
+20
+June 20
+2001	United States
+Trinidad and Tobago	2
+0	World Cup qualifier
+in the United States	+9
+-9	1802
+1578	0
+-2	20
+59
+July 01
+2001	Mexico
+United States	1
+0	World Cup qualifier
+in Mexico	+23
+-23	1670
+1779	+4
+-3	40
+22
+September 01
+2001	United States
+Honduras	2
+3	World Cup qualifier
+in the United States	-28
++28	1751
+1762	-4
++4	25
+24
+September 05
+2001	Costa Rica
+United States	2
+0	World Cup qualifier
+in Costa Rica	+24
+-24	1740
+1727	+6
+-2	26
+28
+October 07
+2001	United States
+Jamaica	2
+1	World Cup qualifier
+in the United States	+6
+-6	1733
+1531	+1
+-1	27
+66
+November 11
+2001	Trinidad and Tobago
+United States	0
+0	World Cup qualifier
+in Trinidad and Tobago	+5
+-5	1555
+1728	+3
+-1	60
+28
+December 09
+2001	South Korea
+United States	1
+0	Friendly
+in South Korea	+6
+-6	1783
+1722	+1
+0	22
+28
+January 19
+2002	United States
+South Korea	2
+1	Concacaf Gold Cup
+in the United States	+22
+-22	1744
+1761	+2
+-2	27
+24
+January 21
+2002	United States
+Cuba	1
+0	Concacaf Gold Cup
+in the United States	+4
+-4	1748
+1430	0
+0	26
+96
+January 27
+2002	United States
+El Salvador	4
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1759
+1479	+3
+-3	24
+83
+January 30
+2002	United States
+Canada	0
+0	Concacaf Gold Cup
+in the United States	-18
++18	1741
+1568	-2
++5	27
+56
+February 02
+2002	United States
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+32
+-32	1773
+1758	+5
+-6	22
+27
+February 13
+2002	Italy
+United States	1
+0	Friendly
+in Italy	+3
+-3	1988
+1770	+1
+-1	2
+24
+March 02
+2002	United States
+Honduras	4
+0	Friendly
+in the United States	+12
+-12	1782
+1727	+1
+-1	23
+29
+March 10
+2002	United States
+Ecuador	1
+0	Friendly
+in the United States	+5
+-5	1787
+1688	0
+-2	23
+40
+March 27
+2002	Germany
+United States	4
+2	Friendly
+in Germany	+9
+-9	1848
+1778	0
++1	12
+22
+April 03
+2002	United States
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1786
+1791	0
+-3	22
+21
+April 17
+2002	Ireland
+United States	2
+1	Friendly
+in Ireland	+6
+-6	1855
+1780	+2
+-1	8
+23
+May 12
+2002	United States
+Uruguay	2
+1	Friendly
+in the United States	+7
+-7	1787
+1764	+1
+0	22
+25
+May 16
+2002	United States
+Jamaica	5
+0	Friendly
+in the United States	+4
+-4	1791
+1513	+1
+0	20
+70
+May 19
+2002	United States
+Netherlands	0
+2	Friendly
+in the United States	-12
++12	1779
+1974	-2
+0	23
+4
+June 05
+2002	United States
+Portugal	3
+2	World Cup
+in South Korea	+43
+-43	1822
+1903	+7
+0	15
+6
+June 10
+2002	South Korea
+United States	1
+1	World Cup
+in South Korea	-2
++2	1741
+1824	0
++1	28
+17
+June 14
+2002	Poland
+United States	3
+1	World Cup
+in South Korea	+66
+-66	1712
+1758	+5
+-10	36
+26
+June 17
+2002	United States
+Mexico	2
+0	World Cup
+in South Korea	+59
+-59	1817
+1808	+10
+-7	16
+18
+June 21
+2002	Germany
+United States	1
+0	World Cup
+in South Korea	+21
+-21	1950
+1796	+2
+-6	5
+21
+November 17
+2002	United States
+El Salvador	2
+0	Friendly
+in the United States	+2
+-2	1798
+1477	0
+0	17
+80
+January 18
+2003	United States
+Canada	4
+0	Friendly
+in the United States	+6
+-6	1804
+1608	+1
+-2	16
+51
+February 08
+2003	United States
+Argentina	0
+1	Friendly
+in the United States	-8
++8	1796
+1988	-2
+0	17
+3
+February 12
+2003	Jamaica
+United States	1
+2	Friendly
+in Jamaica	-6
++6	1542
+1802	0
+0	63
+17
+March 29
+2003	United States
+Venezuela	2
+0	Friendly
+in the United States	+4
+-4	1806
+1581	+2
+0	16
+59
+May 08
+2003	United States
+Mexico	0
+0	Friendly
+in the United States	-3
++3	1803
+1812	0
+0	17
+16
+May 26
+2003	United States
+Wales	2
+0	Friendly
+in the United States	+5
+-5	1808
+1635	0
+-2	17
+47
+June 08
+2003	United States
+New Zealand	2
+1	Friendly
+in the United States	+3
+-3	1811
+1587	0
+0	17
+59
+June 19
+2003	Turkey
+United States	2
+1	Confederations Cup
+in France	+23
+-23	1867
+1788	+1
+-2	11
+20
+June 21
+2003	Brazil
+United States	1
+0	Confederations Cup
+in France	+13
+-13	1991
+1775	0
+-1	3
+21
+June 23
+2003	Cameroon
+United States	0
+0	Confederations Cup
+in France	-4
++4	1822
+1779	-1
++1	16
+20
+July 06
+2003	United States
+Paraguay	2
+0	Friendly
+in the United States	+10
+-10	1789
+1747	0
+-1	20
+23
+July 12
+2003	United States
+El Salvador	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1796
+1496	+1
+-1	19
+74
+July 14
+2003	United States
+Martinique	2
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1801
+1433	0
+0	20
+94
+July 19
+2003	United States
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1813
+1541	+2
+-3	17
+65
+July 23
+2003	United States
+Brazil	1
+2	Concacaf Gold Cup
+in the United States	-20
++20	1793
+1999	-1
++2	19
+2
+July 26
+2003	United States
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+15
+-15	1808
+1723	+2
+-4	18
+30
+January 18
+2004	United States
+Denmark	1
+1	Friendly
+in the United States	-2
++2	1806
+1853	0
++1	16
+10
+February 18
+2004	Netherlands
+United States	1
+0	Friendly
+in the Netherlands	+4
+-4	1959
+1802	0
+0	5
+16
+March 13
+2004	United States
+Haiti	1
+1	Friendly
+in the United States	-9
++9	1793
+1454	-1
++5	17
+84
+March 31
+2004	Poland
+United States	0
+1	Friendly
+in Poland	-11
++11	1712
+1804	-4
++2	33
+15
+April 28
+2004	United States
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1812
+1825	-1
+0	16
+12
+June 02
+2004	United States
+Honduras	4
+0	Friendly
+in the United States	+6
+-6	1818
+1609	+1
+0	14
+53
+June 13
+2004	United States
+Grenada	3
+0	World Cup qualifier
+in the United States	+2
+-2	1820
+1288	0
+-2	14
+136
+June 20
+2004	Grenada
+United States	2
+3	World Cup qualifier
+in Grenada	-3
++3	1285
+1823	-1
++1	138
+14
+July 11
+2004	United States
+Poland	1
+1	Friendly
+in the United States	-5
++5	1818
+1717	0
++1	15
+30
+August 18
+2004	Jamaica
+United States	1
+1	World Cup qualifier
+in Jamaica	+7
+-7	1607
+1811	+3
+-1	52
+17
+September 04
+2004	United States
+El Salvador	2
+0	World Cup qualifier
+in the United States	+4
+-4	1815
+1432	+1
+0	16
+96
+September 08
+2004	Panama
+United States	1
+1	World Cup qualifier
+in Panama	+12
+-12	1482
+1803	+2
+-5	84
+21
+October 09
+2004	El Salvador
+United States	0
+2	World Cup qualifier
+in El Salvador	-9
++9	1392
+1812	-3
++2	105
+19
+October 13
+2004	United States
+Panama	6
+0	World Cup qualifier
+in the United States	+7
+-7	1819
+1476	+1
+-1	18
+84
+November 17
+2004	United States
+Jamaica	1
+1	World Cup qualifier
+in the United States	-15
++15	1804
+1605	-1
++6	19
+54
+February 09
+2005	Trinidad and Tobago
+United States	1
+2	World Cup qualifier
+in Trinidad and Tobago	-9
++9	1469
+1813	-2
++3	88
+16
+March 09
+2005	United States
+Colombia	3
+0	Friendly
+in the United States	+11
+-11	1824
+1773	0
+0	16
+23
+March 19
+2005	United States
+Honduras	1
+0	Friendly
+in the United States	+3
+-3	1827
+1645	0
+0	16
+46
+March 27
+2005	Mexico
+United States	2
+1	World Cup qualifier
+in Mexico	+12
+-12	1888
+1815	+2
+-1	8
+16
+March 30
+2005	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+8
+-8	1823
+1584	0
+-1	16
+60
+May 28
+2005	United States
+England	1
+2	Friendly
+in the United States	-9
++9	1814
+1955	-1
++1	16
+3
+June 04
+2005	United States
+Costa Rica	3
+0	World Cup qualifier
+in the United States	+15
+-15	1829
+1670	+1
+-3	15
+42
+June 08
+2005	Panama
+United States	0
+3	World Cup qualifier
+in Panama	-12
++12	1437
+1841	-2
++1	93
+14
+July 07
+2005	United States
+Cuba	4
+1	Concacaf Gold Cup
+in the United States	+11
+-11	1852
+1586	0
+-2	13
+58
+July 09
+2005	United States
+Canada	2
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1858
+1518	0
+-1	13
+75
+July 12
+2005	United States
+Costa Rica	0
+0	Concacaf Gold Cup
+in the United States	-15
++15	1843
+1723	0
++2	13
+32
+July 16
+2005	United States
+Jamaica	3
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1855
+1639	0
+-3	13
+50
+July 21
+2005	United States
+Honduras	2
+1	Concacaf Gold Cup
+in the United States	+10
+-10	1865
+1706	+1
+-1	11
+35
+July 24
+2005	United States
+Panama	0
+0	Concacaf Gold Cup
+in the United States	-21
++21	1844
+1543	-2
++7	13
+68
+August 17
+2005	United States
+Trinidad and Tobago	1
+0	World Cup qualifier
+in the United States	+3
+-3	1847
+1471	0
+-1	13
+85
+September 03
+2005	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+23
+-23	1870
+1841	+2
+-2	11
+14
+September 07
+2005	Guatemala
+United States	0
+0	World Cup qualifier
+in Guatemala	+12
+-12	1535
+1858	+6
+-1	69
+12
+October 08
+2005	Costa Rica
+United States	3
+0	World Cup qualifier
+in Costa Rica	+39
+-39	1756
+1819	+9
+-4	26
+16
+October 12
+2005	United States
+Panama	2
+0	World Cup qualifier
+in the United States	+4
+-4	1823
+1467	+2
++1	14
+84
+November 12
+2005	Scotland
+United States	1
+1	Friendly
+in Scotland	+2
+-2	1648
+1821	+1
+0	48
+15
+January 22
+2006	United States
+Canada	0
+0	Friendly
+in the United States	-8
++8	1813
+1554	-1
+0	15
+65
+January 29
+2006	United States
+Norway	5
+0	Friendly
+in the United States	+10
+-10	1823
+1720	+3
+-2	13
+35
+February 10
+2006	United States
+Japan	3
+2	Friendly
+in the United States	+6
+-6	1829
+1790	0
+-1	13
+22
+February 19
+2006	United States
+Guatemala	4
+0	Friendly
+in the United States	+4
+-4	1833
+1559	0
+-1	13
+63
+March 01
+2006	United States
+Poland	1
+0	Friendly
+in Germany	+9
+-9	1842
+1803	0
+-5	13
+20
+March 22
+2006	Germany
+United States	4
+1	Friendly
+in Germany	+12
+-12	1869
+1830	0
+0	11
+13
+April 11
+2006	United States
+Jamaica	1
+1	Friendly
+in the United States	-7
++7	1823
+1638	-1
++1	14
+49
+May 23
+2006	United States
+Morocco	0
+1	Friendly
+in the United States	-16
++16	1807
+1682	-4
++5	18
+41
+May 26
+2006	United States
+Venezuela	2
+0	Friendly
+in the United States	+4
+-4	1811
+1574	0
+-2	17
+59
+May 28
+2006	United States
+Latvia	1
+0	Friendly
+in the United States	+2
+-2	1813
+1473	0
+0	17
+84
+June 05
+2006	United States
+Angola	1
+0	Friendly
+in Germany	+4
+-4	1817
+1564	+3
+0	14
+63
+June 12
+2006	Czechia
+United States	3
+0	World Cup
+in Germany	+35
+-35	1974
+1782	+2
+-5	3
+19
+June 17
+2006	Italy
+United States	1
+1	World Cup
+in Germany	-12
++12	1915
+1794	0
++1	8
+18
+June 22
+2006	Ghana
+United States	2
+1	World Cup
+in Germany	+40
+-40	1719
+1754	+6
+-9	36
+28
+January 20
+2007	United States
+Denmark	3
+1	Friendly
+in the United States	+16
+-16	1770
+1864	+3
+-2	23
+10
+February 07
+2007	United States
+Mexico	2
+0	Friendly
+in the United States	+12
+-12	1782
+1785	+3
+-1	20
+19
+March 25
+2007	United States
+Ecuador	3
+1	Friendly
+in the United States	+9
+-9	1791
+1736	+1
+0	19
+31
+March 28
+2007	United States
+Guatemala	0
+0	Friendly
+in the United States	-8
++8	1783
+1518	0
++2	19
+78
+June 02
+2007	United States
+China	4
+1	Friendly
+in the United States	+5
+-5	1788
+1567	+1
+-1	19
+63
+June 07
+2007	United States
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1793
+1513	0
+-1	19
+76
+June 09
+2007	United States
+Trinidad and Tobago	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1800
+1481	+1
+-1	18
+86
+June 12
+2007	United States
+El Salvador	4
+0	Concacaf Gold Cup
+in the United States	+4
+-4	1804
+1345	+1
+-2	16
+117
+June 16
+2007	United States
+Panama	2
+1	Concacaf Gold Cup
+in the United States	+6
+-6	1810
+1548	+1
+0	15
+66
+June 21
+2007	United States
+Canada	2
+1	Concacaf Gold Cup
+in the United States	+9
+-9	1819
+1632	0
+-2	15
+48
+June 24
+2007	United States
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+17
+-17	1836
+1792	+1
+-3	14
+19
+June 28
+2007	Argentina
+United States	4
+1	Copa América
+in Venezuela	+28
+-28	1991
+1808	+3
+-2	3
+16
+July 02
+2007	Paraguay
+United States	3
+1	Copa América
+in Venezuela	+39
+-39	1834
+1769	+3
+-8	15
+24
+July 05
+2007	Colombia
+United States	1
+0	Copa América
+in Venezuela	+28
+-28	1759
+1741	+10
+-6	26
+30
+August 22
+2007	Sweden
+United States	1
+0	Friendly
+in Sweden	+6
+-6	1792
+1735	0
+-3	18
+32
+September 09
+2007	United States
+Brazil	2
+4	Friendly
+in the United States	-7
++7	1728
+2064	-1
+0	33
+1
+October 17
+2007	Switzerland
+United States	0
+1	Friendly
+in Switzerland	-15
++15	1795
+1743	-1
++5	15
+29
+November 17
+2007	South Africa
+United States	0
+1	Friendly
+in South Africa	-5
++5	1469
+1748	-3
++2	88
+27
+January 19
+2008	United States
+Sweden	2
+0	Friendly
+in the United States	+12
+-12	1760
+1768	+6
+-2	24
+22
+February 06
+2008	United States
+Mexico	2
+2	Friendly
+in the United States	0
+0	1760
+1863	-1
++1	27
+11
+March 26
+2008	Poland
+United States	0
+3	Friendly
+in Poland	-24
++24	1762
+1784	-6
++11	25
+18
+May 28
+2008	England
+United States	2
+0	Friendly
+in England	+7
+-7	1888
+1777	+1
+-3	8
+20
+June 04
+2008	Spain
+United States	1
+0	Friendly
+in Spain	+3
+-3	1957
+1774	0
+0	5
+22
+June 08
+2008	United States
+Argentina	0
+0	Friendly
+in the United States	+4
+-4	1778
+2010	0
+0	21
+2
+June 15
+2008	United States
+Barbados	8
+0	World Cup qualifier
+in the United States	+3
+-3	1781
+1268	0
++1	19
+138
+June 22
+2008	Barbados
+United States	0
+1	World Cup qualifier
+in Barbados	-3
++3	1265
+1784	-2
++1	139
+19
+August 20
+2008	Guatemala
+United States	0
+1	World Cup qualifier
+in Guatemala	-11
++11	1503
+1795	-1
++2	80
+17
+September 06
+2008	Cuba
+United States	0
+1	World Cup qualifier
+in Cuba	-8
++8	1444
+1803	+1
++1	94
+16
+September 10
+2008	United States
+Trinidad and Tobago	3
+0	World Cup qualifier
+in the United States	+7
+-7	1810
+1523	+2
+-5	15
+78
+October 11
+2008	United States
+Cuba	6
+1	World Cup qualifier
+in the United States	+5
+-5	1815
+1420	+1
+0	14
+97
+October 15
+2008	Trinidad and Tobago
+United States	2
+1	World Cup qualifier
+in Trinidad and Tobago	+30
+-30	1561
+1785	+11
+-5	63
+19
+November 19
+2008	United States
+Guatemala	2
+0	World Cup qualifier
+in the United States	+6
+-6	1791
+1497	+1
+-2	18
+87
+January 24
+2009	United States
+Sweden	3
+2	Friendly
+in the United States	+6
+-6	1797
+1726	+1
+0	17
+33
+February 11
+2009	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+22
+-22	1819
+1780	+5
+-4	12
+19
+March 28
+2009	El Salvador
+United States	2
+2	World Cup qualifier
+in El Salvador	+13
+-13	1469
+1806	+4
+-2	88
+14
+April 01
+2009	United States
+Trinidad and Tobago	3
+0	World Cup qualifier
+in the United States	+8
+-8	1814
+1552	+1
+-5	13
+67
+June 03
+2009	Costa Rica
+United States	3
+1	World Cup qualifier
+in Costa Rica	+29
+-29	1753
+1785	+4
+-2	27
+15
+June 06
+2009	United States
+Honduras	2
+1	World Cup qualifier
+in the United States	+11
+-11	1796
+1702	0
+-2	15
+37
+June 15
+2009	Italy
+United States	3
+1	Confederations Cup
+in South Africa	+21
+-21	1983
+1775	+1
+-5	4
+19
+June 18
+2009	Brazil
+United States	3
+0	Confederations Cup
+in South Africa	+15
+-15	2057
+1760	0
+-5	2
+24
+June 21
+2009	United States
+Egypt	3
+0	Confederations Cup
+in South Africa	+41
+-41	1801
+1696	+10
+-10	14
+41
+June 24
+2009	United States
+Spain	2
+0	Confederations Cup
+in South Africa	+64
+-64	1865
+2040	+5
+-1	9
+2
+June 28
+2009	Brazil
+United States	3
+2	Confederations Cup
+in South Africa	+11
+-11	2101
+1854	0
+-2	1
+11
+July 04
+2009	United States
+Grenada	4
+0	Concacaf Gold Cup
+in the United States	+2
+-2	1856
+1277	+1
+-1	10
+137
+July 08
+2009	United States
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1872
+1708	+1
+-2	9
+37
+July 11
+2009	United States
+Haiti	2
+2	Concacaf Gold Cup
+in the United States	-23
++23	1849
+1429	-2
++6	11
+98
+July 18
+2009	United States
+Panama	2
+1	Concacaf Gold Cup
+in the United States	+4
+-4	1853
+1537	0
+-1	11
+70
+July 23
+2009	United States
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1869
+1717	+2
+-3	9
+35
+July 26
+2009	United States
+Mexico	0
+5	Concacaf Gold Cup
+in the United States	-76
++76	1793
+1847	-7
++9	16
+11
+August 12
+2009	Mexico
+United States	2
+1	World Cup qualifier
+in Mexico	+12
+-12	1859
+1781	+1
+-2	10
+18
+September 05
+2009	United States
+El Salvador	2
+1	World Cup qualifier
+in the United States	+4
+-4	1785
+1490	0
+0	18
+85
+September 09
+2009	Trinidad and Tobago
+United States	0
+1	World Cup qualifier
+in Trinidad and Tobago	-12
++12	1525
+1797	-3
++3	73
+15
+October 10
+2009	Honduras
+United States	2
+3	World Cup qualifier
+in Honduras	-23
++23	1728
+1820	-6
+0	34
+15
+October 14
+2009	United States
+Costa Rica	2
+2	World Cup qualifier
+in the United States	-12
++12	1808
+1695	+1
++1	14
+41
+November 14
+2009	Slovakia
+United States	1
+0	Friendly
+in Slovakia	+12
+-12	1643
+1796	+3
+-2	46
+16
+November 18
+2009	Denmark
+United States	3
+1	Friendly
+in Denmark	+12
+-12	1774
+1784	+4
+0	18
+16
+January 23
+2010	United States
+Honduras	1
+3	Friendly
+in the United States	-21
++21	1763
+1751	-4
++6	20
+26
+February 24
+2010	United States
+El Salvador	2
+1	Friendly
+in the United States	+2
+-2	1765
+1496	+1
+0	18
+85
+March 03
+2010	Netherlands
+United States	2
+1	Friendly
+in the Netherlands	+3
+-3	2006
+1762	0
+-1	3
+19
+May 25
+2010	United States
+Czechia	2
+4	Friendly
+in the United States	-21
++21	1741
+1722	-4
++4	24
+32
+May 29
+2010	United States
+Turkey	2
+1	Friendly
+in the United States	+8
+-8	1749
+1774	+2
+0	23
+17
+June 05
+2010	United States
+Australia	3
+1	Friendly
+in South Africa	+16
+-16	1765
+1760	+2
+-3	20
+21
+June 12
+2010	United States
+England	1
+1	World Cup
+in South Africa	+16
+-16	1781
+1959	+2
+0	18
+4
+June 18
+2010	Slovenia
+United States	2
+2	World Cup
+in South Africa	+9
+-9	1684
+1772	+3
+-3	39
+20
+June 23
+2010	United States
+Algeria	1
+0	World Cup
+in South Africa	+13
+-13	1785
+1532	+3
+-3	16
+77
+June 26
+2010	Ghana
+United States	2
+1	World Cup
+in South Africa	+36
+-36	1748
+1749	+7
+-9	25
+24
+August 10
+2010	United States
+Brazil	0
+2	Friendly
+in the United States	-6
++6	1743
+2079	-1
+0	26
+2
+October 09
+2010	United States
+Poland	2
+2	Friendly
+in the United States	-6
++6	1737
+1624	-1
++1	26
+49
+October 12
+2010	United States
+Colombia	0
+0	Friendly
+in the United States	-3
++3	1734
+1749	-1
+0	26
+24
+November 17
+2010	South Africa
+United States	0
+1	Friendly
+in South Africa	-9
++9	1600
+1743	-4
++2	56
+24
+January 22
+2011	United States
+Chile	1
+1	Friendly
+in the United States	+1
+-1	1744
+1869	-1
+0	25
+9
+March 26
+2011	United States
+Argentina	1
+1	Friendly
+in the United States	+4
+-4	1748
+1976	-1
+0	26
+5
+March 29
+2011	United States
+Paraguay	0
+1	Friendly
+in the United States	-13
++13	1735
+1768	-1
++6	27
+18
+June 04
+2011	United States
+Spain	0
+4	Friendly
+in the United States	-7
++7	1728
+2106	-4
+0	31
+1
+June 07
+2011	United States
+Canada	2
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1743
+1573	+3
+-1	28
+60
+June 11
+2011	United States
+Panama	1
+2	Concacaf Gold Cup
+in the United States	-39
++39	1704
+1656	-7
++6	35
+47
+June 14
+2011	United States
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1710
+1461	+1
+-1	34
+93
+June 19
+2011	United States
+Jamaica	2
+0	Concacaf Gold Cup
+in the United States	+25
+-25	1735
+1662	+6
+-5	28
+42
+June 22
+2011	United States
+Panama	1
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1747
+1630	+2
+-3	26
+51
+June 25
+2011	United States
+Mexico	2
+4	Concacaf Gold Cup
+in the United States	-32
++32	1715
+1934	-7
++1	33
+5
+August 10
+2011	United States
+Mexico	1
+1	Friendly
+in the United States	+1
+-1	1716
+1836	+1
+-1	34
+12
+September 02
+2011	United States
+Costa Rica	0
+1	Friendly
+in the United States	-15
++15	1701
+1640	-1
++3	35
+50
+September 06
+2011	Belgium
+United States	1
+0	Friendly
+in Belgium	+9
+-9	1640
+1692	+6
+-1	45
+37
+October 08
+2011	United States
+Honduras	1
+0	Friendly
+in the United States	+5
+-5	1697
+1613	0
+0	36
+54
+October 11
+2011	United States
+Ecuador	0
+1	Friendly
+in the United States	-12
++12	1685
+1748	-2
++3	38
+27
+November 11
+2011	France
+United States	1
+0	Friendly
+in France	+4
+-4	1819
+1681	+1
++1	15
+37
+November 15
+2011	Slovenia
+United States	2
+3	Friendly
+in Slovenia	-12
++12	1625
+1693	-1
+0	49
+37
+January 21
+2012	United States
+Venezuela	1
+0	Friendly
+in the United States	+7
+-7	1700
+1689	+2
+-2	35
+37
+January 25
+2012	Panama
+United States	0
+1	Friendly
+in Panama	-11
++11	1639
+1711	-5
+0	48
+35
+February 29
+2012	Italy
+United States	0
+1	Friendly
+in Italy	-16
++16	1846
+1727	0
++4	10
+30
+May 26
+2012	United States
+Scotland	5
+1	Friendly
+in the United States	+11
+-11	1738
+1664	0
+0	30
+40
+May 30
+2012	United States
+Brazil	1
+4	Friendly
+in the United States	-8
++8	1730
+2054	-1
+0	31
+2
+June 03
+2012	Canada
+United States	0
+0	Friendly
+in Canada	+2
+-2	1563
+1728	+1
+0	66
+32
+June 08
+2012	United States
+Antigua and Barbuda	3
+1	World Cup qualifier
+in the United States	+2
+-2	1730
+1276	+2
+0	30
+140
+June 12
+2012	Guatemala
+United States	1
+1	World Cup qualifier
+in Guatemala	+7
+-7	1509
+1723	+1
+-1	84
+32
+August 15
+2012	Mexico
+United States	0
+1	Friendly
+in Mexico	-16
++16	1863
+1739	0
++3	11
+26
+September 07
+2012	Jamaica
+United States	2
+1	World Cup qualifier
+in Jamaica	+21
+-21	1651
+1718	+3
+-2	45
+28
+September 11
+2012	United States
+Jamaica	1
+0	World Cup qualifier
+in the United States	+11
+-11	1729
+1640	+2
++1	26
+44
+October 12
+2012	Antigua and Barbuda
+United States	1
+2	World Cup qualifier
+in Antigua and Barbuda	-4
++4	1264
+1733	0
+-2	143
+28
+October 16
+2012	United States
+Guatemala	3
+1	World Cup qualifier
+in the United States	+10
+-10	1743
+1538	+2
+-3	26
+75
+November 14
+2012	Russia
+United States	2
+2	Friendly
+in Russia	-6
++6	1861
+1749	-2
++1	13
+25
+January 29
+2013	United States
+Canada	0
+0	Friendly
+in the United States	-7
++7	1742
+1566	-1
++1	27
+67
+February 06
+2013	Honduras
+United States	2
+1	World Cup qualifier
+in Honduras	+20
+-20	1666
+1722	+3
+-1	42
+28
+March 22
+2013	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+12
+-12	1734
+1659	0
+-2	28
+41
+March 26
+2013	Mexico
+United States	0
+0	World Cup qualifier
+in Mexico	-12
++12	1855
+1746	-2
++3	13
+25
+May 29
+2013	United States
+Belgium	2
+4	Friendly
+in the United States	-18
++18	1728
+1803	-5
++3	30
+17
+June 02
+2013	United States
+Germany	4
+3	Friendly
+in the United States	+16
+-16	1744
+2029	+5
+0	25
+2
+June 07
+2013	Jamaica
+United States	1
+2	World Cup qualifier
+in Jamaica	-14
++14	1525
+1758	-3
+-1	76
+26
+June 11
+2013	United States
+Panama	2
+0	World Cup qualifier
+in the United States	+17
+-17	1775
+1673	+2
+-3	24
+39
+June 18
+2013	United States
+Honduras	1
+0	World Cup qualifier
+in the United States	+8
+-8	1783
+1622	+3
+-1	21
+50
+July 05
+2013	United States
+Guatemala	6
+0	Friendly
+in the United States	+4
+-4	1787
+1464	0
+0	21
+89
+July 09
+2013	United States
+Belize	6
+1	Concacaf Gold Cup
+in the United States	+1
+-1	1788
+1146	0
+-1	21
+169
+July 13
+2013	United States
+Cuba	4
+1	Concacaf Gold Cup
+in the United States	+5
+-5	1793
+1404	+1
+0	20
+103
+July 16
+2013	United States
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1808
+1727	0
+-1	20
+28
+July 21
+2013	United States
+El Salvador	5
+1	Concacaf Gold Cup
+in the United States	+9
+-9	1817
+1508	+2
+-2	18
+81
+July 24
+2013	United States
+Honduras	3
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1829
+1615	+3
+-4	15
+53
+July 28
+2013	United States
+Panama	1
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1841
+1726	+3
+-1	12
+28
+August 14
+2013	Bosnia and Herzegovina
+United States	3
+4	Friendly
+in Bosnia and Herzegovina	-11
++11	1771
+1852	-3
++2	24
+10
+September 06
+2013	Costa Rica
+United States	3
+1	World Cup qualifier
+in Costa Rica	+35
+-35	1733
+1817	+7
+-7	26
+17
+September 10
+2013	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+18
+-18	1835
+1750	+2
+-2	15
+25
+October 11
+2013	United States
+Jamaica	2
+0	World Cup qualifier
+in the United States	+5
+-5	1840
+1525	0
+-4	15
+78
+October 15
+2013	Panama
+United States	2
+3	World Cup qualifier
+in Panama	-18
++18	1683
+1858	-4
++2	37
+13
+November 15
+2013	Scotland
+United States	0
+0	Friendly
+in Scotland	+3
+-3	1660
+1855	0
++1	44
+12
+November 19
+2013	Austria
+United States	1
+0	Friendly
+in Austria	+14
+-14	1639
+1841	+2
+-1	48
+13
+February 01
+2014	United States
+South Korea	2
+0	Friendly
+in the United States	+5
+-5	1846
+1666	0
+-1	13
+43
+March 05
+2014	Ukraine
+United States	2
+0	Friendly
+in Cyprus	+17
+-17	1814
+1829	+3
+0	17
+13
+April 02
+2014	United States
+Mexico	2
+2	Friendly
+in the United States	-4
++4	1825
+1799	0
+0	13
+19

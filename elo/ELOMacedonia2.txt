@@ -1,0 +1,1656 @@
+October 13
+1993	Slovenia
+Macedonia	1
+4	Friendly
+in Slovenia	-22
++22	1468
+1522	-9
+-	85
+64
+March 23
+1994	Macedonia
+Slovenia	2
+0	Friendly
+in Macedonia	+10
+-10	1532
+1485	+2
+-4	65
+79
+May 14
+1994	Macedonia
+Albania	5
+1	Friendly
+in Macedonia	+6
+-6	1538
+1341	+3
+0	61
+119
+June 01
+1994	Macedonia
+Estonia	2
+0	Friendly
+in Macedonia	+2
+-2	1540
+1189	0
+0	61
+157
+August 31
+1994	Macedonia
+Turkey	0
+2	Friendly
+in Macedonia	-19
++19	1521
+1562	-3
++5	64
+55
+September 07
+1994	Macedonia
+Denmark	1
+1	European Cup qualifier
+in Macedonia	+13
+-13	1534
+1874	+1
+0	64
+8
+October 12
+1994	Macedonia
+Spain	0
+2	European Cup qualifier
+in Macedonia	-11
++11	1523
+1903	-2
+0	67
+6
+November 16
+1994	Belgium
+Macedonia	1
+1	European Cup qualifier
+in Belgium	-15
++15	1761
+1538	-1
++4	24
+61
+December 17
+1994	Macedonia
+Cyprus	3
+0	European Cup qualifier
+in Macedonia	+11
+-11	1549
+1334	+2
+-3	59
+122
+April 12
+1995	Macedonia
+Bulgaria	0
+0	Friendly
+in Macedonia	+5
+-5	1554
+1814	+2
+0	57
+21
+April 26
+1995	Denmark
+Macedonia	1
+0	European Cup qualifier
+in Denmark	+3
+-3	1895
+1551	+1
+0	5
+56
+May 10
+1995	Armenia
+Macedonia	2
+2	European Cup qualifier
+in Armenia	+7
+-7	1327
+1544	+2
+-2	126
+58
+June 07
+1995	Macedonia
+Belgium	0
+5	European Cup qualifier
+in Macedonia	-28
++28	1516
+1782	-13
++1	71
+24
+August 30
+1995	Turkey
+Macedonia	2
+1	Friendly
+in Turkey	+3
+-3	1706
+1513	0
+0	29
+71
+September 06
+1995	Macedonia
+Armenia	1
+2	European Cup qualifier
+in Macedonia	-34
++34	1479
+1356	-10
++8	81
+116
+October 11
+1995	Cyprus
+Macedonia	1
+1	European Cup qualifier
+in Cyprus	+2
+-2	1352
+1477	0
+0	117
+81
+November 15
+1995	Spain
+Macedonia	3
+0	European Cup qualifier
+in Spain	+3
+-3	1951
+1474	+1
+-1	3
+83
+March 27
+1996	Macedonia
+Malta	1
+0	Friendly
+in Macedonia	+3
+-3	1477
+1269	+1
+0	83
+138
+April 24
+1996	Macedonia
+Liechtenstein	3
+0	World Cup qualifier
+in Macedonia	+4
+-4	1481
+1106	+2
+0	82
+170
+May 28
+1996	Bulgaria
+Macedonia	3
+0	Friendly
+in Bulgaria	+3
+-3	1788
+1478	+1
+0	20
+84
+June 01
+1996	Iceland
+Macedonia	1
+1	World Cup qualifier
+in Iceland	-8
++8	1516
+1486	-2
++4	68
+80
+October 09
+1996	Ireland
+Macedonia	3
+0	World Cup qualifier
+in Ireland	+10
+-10	1709
+1476	+2
+-2	28
+81
+November 09
+1996	Liechtenstein
+Macedonia	1
+11	World Cup qualifier
+in Liechtenstein	-18
++18	1080
+1494	-4
++7	177
+76
+November 27
+1996	Malta
+Macedonia	0
+2	Friendly
+in Malta	-10
++10	1264
+1504	-3
++4	140
+73
+December 14
+1996	Macedonia
+Romania	0
+3	World Cup qualifier
+in Macedonia	-18
++18	1486
+1809	-4
++1	77
+16
+March 12
+1997	Macedonia
+Australia	0
+1	Friendly
+in Macedonia	-5
++5	1481
+1769	-4
+0	80
+22
+April 02
+1997	Macedonia
+Ireland	3
+2	World Cup qualifier
+in Macedonia	+26
+-26	1507
+1667	+7
+-7	72
+36
+June 07
+1997	Macedonia
+Iceland	1
+0	World Cup qualifier
+in Macedonia	+13
+-13	1520
+1466	+4
+-2	70
+81
+August 20
+1997	Romania
+Macedonia	4
+2	World Cup qualifier
+in Romania	+5
+-5	1830
+1515	0
+-1	13
+71
+September 06
+1997	Lithuania
+Macedonia	2
+0	World Cup qualifier
+in Lithuania	+26
+-26	1492
+1489	+9
+-5	73
+75
+October 11
+1997	Macedonia
+Lithuania	1
+2	World Cup qualifier
+in Macedonia	-27
++27	1462
+1498	-10
++8	82
+70
+March 25
+1998	Macedonia
+Bulgaria	1
+0	Friendly
+in Macedonia	+15
+-15	1477
+1758	+8
+-2	77
+22
+April 18
+1998	Macedonia
+South Korea	2
+2	Friendly
+in Macedonia	+5
+-5	1482
+1752	0
+0	77
+23
+April 20
+1998	Macedonia
+Jamaica	2
+1	Friendly tournament
+in Iran	+22
+-22	1504
+1635	+10
+-5	68
+44
+April 22
+1998	Hungary
+Macedonia	0
+0	Friendly tournament
+in Iran	-4
++4	1598
+1508	0
+0	56
+69
+May 16
+1998	United States
+Macedonia	0
+0	Friendly
+in the United States	-7
++7	1726
+1515	-3
++2	30
+66
+May 18
+1998	Canada
+Macedonia	1
+0	Friendly
+in Canada	+8
+-8	1503
+1507	+4
+-2	69
+68
+June 03
+1998	Macedonia
+Bosnia and Herzegovina	1
+1	Friendly
+in Macedonia	-1
++1	1506
+1556	-1
+0	69
+61
+September 06
+1998	Macedonia
+Malta	4
+0	European Cup qualifier
+in Macedonia	+6
+-6	1512
+1182	0
+-1	69
+158
+September 29
+1998	Macedonia
+Egypt	2
+2	Friendly
+in Macedonia	+2
+-2	1514
+1690	0
+-1	69
+30
+October 14
+1998	Croatia
+Macedonia	3
+2	European Cup qualifier
+in Croatia	+2
+-2	1925
+1512	0
+-1	8
+71
+November 18
+1998	Malta
+Macedonia	1
+2	European Cup qualifier
+in Malta	-8
++8	1170
+1520	-3
++2	161
+68
+February 10
+1999	Albania
+Macedonia	2
+0	Friendly
+in Albania	+16
+-16	1414
+1504	+8
+-2	98
+69
+June 05
+1999	Macedonia
+Croatia	1
+1	European Cup qualifier
+in Macedonia	+13
+-13	1517
+1873	+6
+-2	69
+12
+June 09
+1999	Ireland
+Macedonia	1
+0	European Cup qualifier
+in Ireland	+6
+-6	1723
+1511	+1
+-2	27
+71
+September 05
+1999	Yugoslavia
+Macedonia	3
+1	European Cup qualifier
+in Yugoslavia	+4
+-4	1884
+1507	+1
+-4	10
+74
+September 08
+1999	Macedonia
+Yugoslavia	2
+4	European Cup qualifier
+in Macedonia	-10
++10	1497
+1894	-2
++2	76
+8
+October 09
+1999	Macedonia
+Ireland	1
+1	European Cup qualifier
+in Macedonia	+8
+-8	1505
+1734	+2
+0	73
+25
+February 23
+2000	Macedonia
+Yugoslavia	1
+2	Friendly
+in Macedonia	-3
++3	1502
+1902	0
+0	70
+7
+March 29
+2000	Bosnia and Herzegovina
+Macedonia	1
+0	Friendly
+in Bosnia and Herzegovina	+7
+-7	1501
+1495	+5
+-4	70
+74
+April 26
+2000	Macedonia
+Albania	1
+0	Friendly
+in Macedonia	+5
+-5	1500
+1417	+2
+-1	74
+97
+June 07
+2000	South Korea
+Macedonia	2
+1	Friendly tournament
+in Iran	+7
+-7	1701
+1493	0
+-3	33
+76
+June 09
+2000	Iran
+Macedonia	3
+1	Friendly tournament
+in Iran	+6
+-6	1724
+1487	+4
+-3	26
+79
+July 27
+2000	Macedonia
+Azerbaijan	2
+1	Friendly tournament
+in Bulgaria	+6
+-6	1493
+1227	0
+0	77
+145
+September 03
+2000	Slovakia
+Macedonia	2
+0	World Cup qualifier
+in Slovakia	+10
+-10	1688
+1483	+1
+-3	36
+78
+October 06
+2000	Macedonia
+Azerbaijan	3
+0	World Cup qualifier
+in Macedonia	+8
+-8	1491
+1217	0
+0	77
+149
+October 11
+2000	Moldova
+Macedonia	0
+0	World Cup qualifier
+in Moldova	+1
+-1	1370
+1490	+1
+0	111
+79
+February 28
+2001	Macedonia
+Czechia	1
+1	Friendly
+in Macedonia	+7
+-7	1497
+1876	+1
+0	73
+8
+March 24
+2001	Sweden
+Macedonia	1
+0	World Cup qualifier
+in Sweden	+4
+-4	1783
+1493	+2
+-2	16
+76
+March 28
+2001	Macedonia
+Turkey	1
+2	World Cup qualifier
+in Macedonia	-13
++13	1480
+1735	-3
++2	78
+29
+June 02
+2001	Macedonia
+Moldova	2
+2	World Cup qualifier
+in Macedonia	-11
++11	1469
+1366	-2
++3	79
+118
+June 06
+2001	Turkey
+Macedonia	3
+3	World Cup qualifier
+in Turkey	-15
++15	1695
+1484	-4
++3	34
+77
+July 24
+2001	Qatar
+Macedonia	1
+0	Friendly
+in France	+7
+-7	1580
+1477	0
+0	60
+78
+August 01
+2001	Saudi Arabia
+Macedonia	1
+1	Friendly
+in Saudi Arabia	-7
++7	1698
+1484	-1
++1	33
+79
+August 15
+2001	Bulgaria
+Macedonia	1
+0	Friendly
+in Bulgaria	+3
+-3	1690
+1481	+5
+0	34
+80
+September 01
+2001	Macedonia
+Sweden	1
+2	World Cup qualifier
+in Macedonia	-8
++8	1473
+1836	0
++2	82
+12
+September 05
+2001	Azerbaijan
+Macedonia	1
+1	World Cup qualifier
+in Azerbaijan	+6
+-6	1269
+1467	+1
+-2	137
+84
+October 07
+2001	Macedonia
+Slovakia	0
+5	World Cup qualifier
+in Macedonia	-38
++38	1429
+1623	-13
++5	98
+50
+November 14
+2001	Hungary
+Macedonia	5
+0	Friendly
+in Hungary	+9
+-9	1557
+1420	+4
+0	60
+98
+December 30
+2001	Oman
+Macedonia	2
+0	Friendly
+in Oman	+11
+-11	1422
+1409	+2
+-2	99
+101
+January 05
+2002	Albania
+Macedonia	0
+0	Friendly tournament
+in Bahrain	-1
++1	1433
+1410	0
+0	96
+101
+January 07
+2002	Bahrain
+Macedonia	1
+1	Friendly tournament
+in Bahrain	-7
++7	1477
+1417	0
++1	82
+100
+January 10
+2002	Finland
+Macedonia	3
+0	Friendly tournament
+in Bahrain	+9
+-9	1709
+1408	+2
+-1	37
+101
+March 27
+2002	Bosnia and Herzegovina
+Macedonia	4
+4	Friendly
+in Bosnia and Herzegovina	-6
++6	1520
+1414	-2
++1	71
+100
+April 17
+2002	Macedonia
+Finland	1
+0	Friendly
+in Macedonia	+15
+-15	1429
+1709	+4
+-3	96
+33
+August 21
+2002	Macedonia
+Malta	5
+0	Friendly
+in Macedonia	+6
+-6	1435
+1223	0
+-1	93
+151
+September 08
+2002	Liechtenstein
+Macedonia	1
+1	European Cup qualifier
+in Liechtenstein	+14
+-14	1055
+1421	+3
+-5	178
+97
+October 12
+2002	Macedonia
+Turkey	1
+2	European Cup qualifier
+in Macedonia	-5
++5	1416
+1863	0
++1	97
+10
+October 16
+2002	England
+Macedonia	2
+2	European Cup qualifier
+in England	-19
++19	1917
+1435	-1
++4	7
+93
+November 20
+2002	Macedonia
+Israel	2
+3	Friendly
+in Macedonia	-7
++7	1428
+1650	-3
++1	96
+42
+February 09
+2003	Croatia
+Macedonia	2
+2	Friendly
+in Croatia	-9
++9	1762
+1437	-2
++1	25
+95
+February 14
+2003	Poland
+Macedonia	3
+0	Friendly
+in Croatia	+7
+-7	1690
+1430	0
+-1	38
+96
+March 29
+2003	Macedonia
+Slovakia	0
+2	European Cup qualifier
+in Macedonia	-22
++22	1408
+1641	-6
++4	102
+45
+April 02
+2003	Portugal
+Macedonia	1
+0	Friendly
+in Switzerland	+1
+-1	1902
+1407	0
+0	7
+103
+June 07
+2003	Macedonia
+Liechtenstein	3
+1	European Cup qualifier
+in Macedonia	+5
+-5	1412
+1067	+3
+-1	98
+176
+June 11
+2003	Turkey
+Macedonia	3
+2	European Cup qualifier
+in Turkey	+2
+-2	1844
+1410	0
+-1	12
+99
+August 20
+2003	Macedonia
+Albania	3
+1	Friendly
+in Macedonia	+13
+-13	1423
+1449	+4
+-6	96
+89
+September 06
+2003	Macedonia
+England	1
+2	European Cup qualifier
+in Macedonia	-3
++3	1420
+1937	0
+-1	97
+6
+September 10
+2003	Slovakia
+Macedonia	1
+1	European Cup qualifier
+in Slovakia	-14
++14	1611
+1434	-3
++3	53
+94
+October 11
+2003	Ukraine
+Macedonia	0
+0	Friendly
+in Ukraine	-7
++7	1624
+1441	-3
++2	49
+93
+January 27
+2004	China
+Macedonia	0
+0	Friendly
+in China	-6
++6	1552
+1447	-1
++2	66
+89
+January 29
+2004	China
+Macedonia	1
+0	Friendly
+in China	+5
+-5	1557
+1442	0
+-2	66
+91
+February 18
+2004	Macedonia
+Bosnia and Herzegovina	1
+0	Friendly
+in Macedonia	+11
+-11	1453
+1571	+6
+-2	84
+62
+March 31
+2004	Macedonia
+Ukraine	1
+0	Friendly
+in Macedonia	+12
+-12	1465
+1609	+5
+-4	80
+55
+April 28
+2004	Macedonia
+Croatia	0
+1	Friendly
+in Macedonia	-4
++4	1461
+1791	-1
+0	81
+18
+June 11
+2004	Estonia
+Macedonia	2
+4	Friendly
+in Estonia	-15
++15	1345
+1476	-9
++2	124
+81
+August 18
+2004	Macedonia
+Armenia	3
+0	World Cup qualifier
+in Macedonia	+22
+-22	1498
+1420	+4
+-7	77
+99
+September 04
+2004	Romania
+Macedonia	2
+1	World Cup qualifier
+in Romania	+3
+-3	1810
+1495	+1
+-1	18
+78
+October 09
+2004	Macedonia
+Netherlands	2
+2	World Cup qualifier
+in Macedonia	+14
+-14	1509
+1896	+2
+0	76
+7
+October 13
+2004	Andorra
+Macedonia	1
+0	World Cup qualifier
+in Andorra	+36
+-36	1078
+1473	+8
+-11	176
+86
+November 17
+2004	Macedonia
+Czechia	0
+2	World Cup qualifier
+in Macedonia	-6
++6	1467
+1949	-4
++2	90
+3
+February 09
+2005	Macedonia
+Andorra	0
+0	World Cup qualifier
+in Macedonia	-18
++18	1449
+1095	-1
++3	91
+173
+March 30
+2005	Macedonia
+Romania	1
+2	World Cup qualifier
+in Macedonia	-9
++9	1440
+1766	-2
++2	92
+23
+June 04
+2005	Armenia
+Macedonia	1
+2	World Cup qualifier
+in Armenia	-23
++23	1370
+1463	-4
++7	105
+86
+June 08
+2005	Czechia
+Macedonia	6
+1	World Cup qualifier
+in Czechia	+2
+-2	1965
+1461	-2
++1	3
+85
+August 17
+2005	Macedonia
+Finland	0
+3	World Cup qualifier
+in Macedonia	-25
++25	1436
+1688	-6
++5	93
+40
+September 07
+2005	Finland
+Macedonia	5
+1	World Cup qualifier
+in Finland	+10
+-10	1680
+1426	+1
+-2	42
+94
+October 12
+2005	Netherlands
+Macedonia	0
+0	World Cup qualifier
+in the Netherlands	-19
++19	1982
+1445	-1
++3	2
+90
+November 12
+2005	Liechtenstein
+Macedonia	1
+2	Friendly
+in Liechtenstein	-4
++4	1102
+1449	-1
+0	173
+90
+March 01
+2006	Macedonia
+Bulgaria	0
+1	Friendly
+in Macedonia	-6
++6	1443
+1692	-2
++2	94
+40
+May 28
+2006	Macedonia
+Ecuador	2
+1	Friendly
+in Spain	+16
+-16	1459
+1677	+3
+-5	91
+44
+June 04
+2006	Macedonia
+Turkey	1
+0	Friendly
+in Germany	+18
+-18	1477
+1780	+8
+-3	83
+22
+August 16
+2006	Estonia
+Macedonia	0
+1	European Cup qualifier
+in Estonia	-21
++21	1380
+1498	-4
++3	103
+78
+September 06
+2006	Macedonia
+England	0
+1	European Cup qualifier
+in Macedonia	-4
++4	1494
+1981	-2
+0	81
+4
+October 07
+2006	England
+Macedonia	0
+0	European Cup qualifier
+in England	-19
++19	1962
+1513	-2
++4	6
+76
+October 11
+2006	Andorra
+Macedonia	0
+3	European Cup qualifier
+in Andorra	-9
++9	1074
+1522	0
+0	176
+76
+November 15
+2006	Macedonia
+Russia	0
+2	European Cup qualifier
+in Macedonia	-21
++21	1501
+1745	-2
++5	78
+28
+February 07
+2007	Albania
+Macedonia	0
+1	Friendly
+in Albania	-12
++12	1461
+1513	-3
++3	89
+77
+March 24
+2007	Croatia
+Macedonia	2
+1	European Cup qualifier
+in Croatia	+3
+-3	1877
+1510	-1
+-4	10
+81
+June 02
+2007	Macedonia
+Israel	1
+2	European Cup qualifier
+in Macedonia	-15
++15	1495
+1709	-2
++1	83
+41
+August 22
+2007	Macedonia
+Nigeria	0
+0	Friendly
+in Macedonia	+4
+-4	1499
+1736	+2
+-1	76
+31
+September 08
+2007	Russia
+Macedonia	3
+0	European Cup qualifier
+in Russia	+8
+-8	1767
+1491	+5
+-2	21
+79
+September 12
+2007	Macedonia
+Estonia	1
+1	European Cup qualifier
+in Macedonia	-12
++12	1479
+1360	-5
++1	83
+114
+October 17
+2007	Macedonia
+Andorra	3
+0	European Cup qualifier
+in Macedonia	+4
+-4	1483
+1065	+3
+0	81
+180
+November 17
+2007	Macedonia
+Croatia	2
+0	European Cup qualifier
+in Macedonia	+51
+-51	1534
+1838	+11
+-2	72
+13
+November 21
+2007	Israel
+Macedonia	1
+0	European Cup qualifier
+in Israel	+7
+-7	1713
+1527	+1
+-4	37
+75
+February 06
+2008	Macedonia
+Serbia	1
+1	Friendly
+in Macedonia	+3
+-3	1530
+1721	-1
+-2	73
+37
+March 26
+2008	Bosnia and Herzegovina
+Macedonia	2
+2	Friendly
+in Bosnia and Herzegovina	-2
++2	1505
+1532	-4
++1	80
+72
+May 26
+2008	Macedonia
+Poland	1
+1	Friendly
+in Germany	+6
+-6	1538
+1756	+1
+-1	72
+27
+August 20
+2008	Luxembourg
+Macedonia	1
+4	Friendly
+in Luxembourg	-3
++3	1007
+1541	0
+-2	185
+69
+September 06
+2008	Macedonia
+Scotland	1
+0	World Cup qualifier
+in Macedonia	+24
+-24	1565
+1694	+9
+-6	60
+40
+September 10
+2008	Macedonia
+Netherlands	1
+2	World Cup qualifier
+in Macedonia	-6
++6	1559
+1985	-1
++1	62
+3
+October 15
+2008	Iceland
+Macedonia	1
+0	World Cup qualifier
+in Iceland	+24
+-24	1415
+1535	+13
+-8	98
+72
+November 19
+2008	Montenegro
+Macedonia	2
+1	Friendly
+in Montenegro	+5
+-5	1611
+1530	+2
+-2	51
+73
+February 11
+2009	Macedonia
+Moldova	1
+1	Friendly
+in Turkey	-3
++3	1527
+1408	+1
++1	73
+105
+April 01
+2009	Netherlands
+Macedonia	4
+0	World Cup qualifier
+in the Netherlands	+3
+-3	2001
+1524	0
+0	2
+76
+June 06
+2009	Macedonia
+Norway	0
+0	World Cup qualifier
+in Macedonia	+4
+-4	1528
+1685	0
+-2	75
+44
+June 10
+2009	Macedonia
+Iceland	2
+0	World Cup qualifier
+in Macedonia	+13
+-13	1541
+1390	+5
+-5	68
+110
+August 12
+2009	Macedonia
+Spain	2
+3	Friendly
+in Macedonia	-2
++2	1539
+2046	-1
+0	70
+2
+September 05
+2009	Scotland
+Macedonia	2
+0	World Cup qualifier
+in Scotland	+13
+-13	1674
+1526	+2
+-6	44
+75
+September 09
+2009	Norway
+Macedonia	2
+1	World Cup qualifier
+in Norway	+7
+-7	1704
+1519	0
+-2	39
+77
+October 11
+2009	Macedonia
+Qatar	2
+1	Friendly
+in Macedonia	+7
+-7	1526
+1506	+2
+-2	76
+84
+November 14
+2009	Macedonia
+Canada	3
+0	Friendly
+in Macedonia	+17
+-17	1543
+1595	+5
+-3	71
+55
+November 18
+2009	Iran
+Macedonia	1
+1	Friendly
+in Iran	-6
++6	1687
+1549	-1
++2	41
+69
+March 03
+2010	Macedonia
+Montenegro	2
+1	Friendly
+in Macedonia	+9
+-9	1558
+1598	+5
+-1	64
+54
+May 29
+2010	Macedonia
+Azerbaijan	3
+1	Friendly
+in Austria	+9
+-9	1567
+1409	+5
+-5	62
+107
+June 02
+2010	Macedonia
+Romania	1
+0	Friendly
+in Austria	+14
+-14	1581
+1702	+9
+-1	55
+34
+August 11
+2010	Malta
+Macedonia	1
+1	Friendly
+in Malta	+7
+-7	1194
+1574	0
+-3	158
+59
+September 03
+2010	Slovakia
+Macedonia	1
+0	European Cup qualifier
+in Slovakia	+11
+-11	1662
+1563	+2
+-4	43
+63
+September 07
+2010	Macedonia
+Armenia	2
+2	European Cup qualifier
+in Macedonia	-14
++14	1549
+1362	-10
++2	73
+118
+October 08
+2010	Andorra
+Macedonia	0
+2	European Cup qualifier
+in Andorra	-4
++4	996
+1553	0
++2	187
+70
+October 12
+2010	Macedonia
+Russia	0
+1	European Cup qualifier
+in Macedonia	-11
++11	1542
+1824	-2
+0	72
+12
+November 17
+2010	Albania
+Macedonia	0
+0	Friendly
+in Albania	-2
++2	1495
+1544	-1
++1	88
+71
+December 22
+2010	China
+Macedonia	1
+0	Friendly
+in China	+5
+-5	1622
+1539	0
+0	52
+72
+February 09
+2011	Macedonia
+Cameroon	0
+1	Friendly
+in Macedonia	-10
++10	1529
+1646	+1
++3	71
+45
+March 26
+2011	Ireland
+Macedonia	2
+1	European Cup qualifier
+in Ireland	+6
+-6	1725
+1523	+1
+-3	30
+74
+June 04
+2011	Macedonia
+Ireland	0
+2	European Cup qualifier
+in Macedonia	-21
++21	1502
+1753	-11
++3	85
+25
+August 10
+2011	Azerbaijan
+Macedonia	0
+1	Friendly
+in Azerbaijan	-10
++10	1380
+1512	-3
++5	112
+76
+September 02
+2011	Russia
+Macedonia	1
+0	European Cup qualifier
+in Russia	+4
+-4	1778
+1508	-1
+0	20
+76
+September 06
+2011	Macedonia
+Andorra	1
+0	European Cup qualifier
+in Macedonia	+1
+-1	1509
+977	+1
+0	78
+190
+October 07
+2011	Armenia
+Macedonia	4
+1	European Cup qualifier
+in Armenia	+28
+-28	1509
+1481	+10
+-9	78
+87
+October 11
+2011	Macedonia
+Slovakia	1
+1	European Cup qualifier
+in Macedonia	-2
++2	1479
+1553	0
+-1	88
+71
+November 15
+2011	Macedonia
+Albania	0
+0	Friendly
+in Macedonia	-4
++4	1475
+1452	-2
+0	92
+96
+February 29
+2012	Luxembourg
+Macedonia	2
+1	Friendly
+in Luxembourg	+16
+-16	1139
+1459	+3
+-2	169
+93
+May 26
+2012	Portugal
+Macedonia	0
+0	Friendly
+in Portugal	-9
++9	1862
+1468	-1
++1	9
+92
+May 29
+2012	Angola
+Macedonia	0
+0	Friendly
+in Portugal	-1
++1	1515
+1469	0
+0	79
+93
+August 15
+2012	Macedonia
+Lithuania	1
+0	Friendly
+in Macedonia	+7
+-7	1476
+1443	+3
+0	89
+96
+September 07
+2012	Croatia
+Macedonia	1
+0	World Cup qualifier
+in Croatia	+3
+-3	1843
+1473	0
+-2	13
+91
+September 11
+2012	Scotland
+Macedonia	1
+1	World Cup qualifier
+in Scotland	-14
++14	1661
+1487	-3
++7	42
+84
+October 12
+2012	Macedonia
+Croatia	1
+2	World Cup qualifier
+in Macedonia	-8
++8	1479
+1849	-4
++1	88
+14
+October 16
+2012	Macedonia
+Serbia	1
+0	World Cup qualifier
+in Macedonia	+25
+-25	1504
+1635	+9
+-5	81
+47
+November 14
+2012	Macedonia
+Slovenia	3
+2	Friendly
+in Macedonia	+9
+-9	1513
+1573	0
+-1	81
+63
+December 14
+2012	Poland
+Macedonia	4
+1	Friendly
+in Turkey	+10
+-10	1678
+1503	+2
+-1	37
+82
+February 06
+2013	Macedonia
+Denmark	3
+0	Friendly
+in Macedonia	+25
+-25	1528
+1736	+6
+-5	76
+27
+March 22
+2013	Macedonia
+Belgium	0
+2	World Cup qualifier
+in Macedonia	-19
++19	1509
+1781	-5
++2	80
+21
+March 26
+2013	Belgium
+Macedonia	1
+0	World Cup qualifier
+in Belgium	+4
+-4	1785
+1505	+1
+-5	20
+83
+June 03
+2013	Sweden
+Macedonia	1
+0	Friendly
+in Sweden	+1
+-1	1852
+1504	0
+0	13
+83
+June 11
+2013	Norway
+Macedonia	2
+0	Friendly
+in Norway	+5
+-5	1686
+1499	+2
+-2	36
+86
+August 14
+2013	Macedonia
+Bulgaria	2
+0	Friendly
+in Macedonia	+18
+-18	1517
+1655	+7
+-4	79
+44
+September 06
+2013	Macedonia
+Wales	2
+1	World Cup qualifier
+in Macedonia	+18
+-18	1535
+1561	+4
+-7	75
+67
+September 10
+2013	Macedonia
+Scotland	1
+2	World Cup qualifier
+in Macedonia	-22
++22	1513
+1619	-7
++4	81
+52
+October 11
+2013	Wales
+Macedonia	1
+0	World Cup qualifier
+in Wales	+14
+-14	1541
+1499	+6
+-3	71
+83
+October 15
+2013	Serbia
+Macedonia	5
+1	World Cup qualifier
+in Serbia	+11
+-11	1725
+1488	+1
+-2	27
+85
+March 05
+2014	Macedonia
+Latvia	2
+1	Friendly
+in Macedonia	+6
+-6	1494
+1427	+1
+-1	85
+101

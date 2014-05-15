@@ -1,0 +1,5112 @@
+November 01
+1927	Peru
+Uruguay	0
+4	Copa América
+in Peru	-18
++18	1582
+1968	-
+0	28
+1
+November 13
+1927	Peru
+Bolivia	3
+2	Copa América
+in Peru	+8
+-8	1590
+1384	0
+-1	28
+51
+November 27
+1927	Peru
+Argentina	1
+5	Copa América
+in Peru	-21
++21	1569
+1931	-1
+0	29
+2
+November 03
+1929	Argentina
+Peru	3
+0	Copa América
+in Argentina	+5
+-5	1978
+1564	0
+-1	1
+31
+November 11
+1929	Uruguay
+Peru	4
+1	Copa América
+in Argentina	+11
+-11	1918
+1553	0
+0	3
+31
+November 16
+1929	Paraguay
+Peru	5
+0	Copa América
+in Argentina	+34
+-34	1701
+1519	0
+-4	16
+35
+July 14
+1930	Romania
+Peru	3
+1	World Cup
+in Uruguay	+32
+-32	1656
+1487	+1
+-1	19
+38
+July 18
+1930	Uruguay
+Peru	1
+0	World Cup
+in Uruguay	+3
+-3	1908
+1484	+1
+0	2
+38
+January 13
+1935	Peru
+Uruguay	0
+1	Copa América
+in Peru	-7
++7	1477
+1909	0
+0	40
+4
+January 20
+1935	Peru
+Argentina	1
+4	Copa América
+in Peru	-9
++9	1468
+1966	-1
+0	41
+2
+January 26
+1935	Peru
+Chile	1
+0	Copa América
+in Peru	+26
+-26	1494
+1559	+1
+-3	40
+32
+August 04
+1936	Peru
+Finland	7
+3	Olympic Games
+in Germany	+43
+-43	1537
+1367	+5
+-7	36
+53
+August 08
+1936	Peru
+Austria	4
+2	Olympic Games
+in Germany	+78
+-78	1615
+1779	+11
+-1	25
+8
+December 27
+1936	Brazil
+Peru	3
+2	Copa América
+in Argentina	+15
+-15	1784
+1600	0
+-3	9
+28
+January 06
+1937	Uruguay
+Peru	4
+2	Copa América
+in Argentina	+12
+-12	1893
+1588	0
+-1	3
+29
+January 16
+1937	Argentina
+Peru	1
+0	Copa América
+in Argentina	+3
+-3	1963
+1585	0
+0	2
+30
+January 21
+1937	Chile
+Peru	2
+2	Copa América
+in Argentina	-1
++1	1596
+1586	0
+0	29
+30
+January 24
+1937	Peru
+Paraguay	1
+0	Copa América
+in Argentina	+33
+-33	1619
+1670	+5
+-2	25
+19
+August 08
+1938	Colombia
+Peru	2
+4	Bolivarian Games
+in Colombia	-34
++34	1536
+1653	-2
++6	36
+19
+August 11
+1938	Peru
+Ecuador	9
+1	Bolivarian Games
+in Colombia	+21
+-21	1674
+1408	+2
+-1	17
+49
+August 13
+1938	Peru
+Bolivia	3
+0	Bolivarian Games
+in Colombia	+11
+-11	1685
+1366	+1
+0	16
+53
+August 17
+1938	Peru
+Venezuela	2
+1	Bolivarian Games
+in Colombia	+3
+-3	1688
+1264	0
+0	16
+68
+January 15
+1939	Peru
+Ecuador	5
+2	Copa América
+in Peru	+6
+-6	1694
+1335	-1
+0	17
+64
+January 22
+1939	Peru
+Chile	3
+1	Copa América
+in Peru	+15
+-15	1709
+1544	+2
+0	15
+34
+January 29
+1939	Peru
+Paraguay	3
+0	Copa América
+in Peru	+31
+-31	1740
+1676	+1
+-1	14
+18
+February 12
+1939	Peru
+Uruguay	2
+1	Copa América
+in Peru	+24
+-24	1764
+1801	+1
+0	13
+8
+January 19
+1941	Peru
+Argentina	1
+1	Roque Gomez Pena Cup
+in Peru	+6
+-6	1770
+2008	+1
+0	14
+2
+January 26
+1941	Peru
+Argentina	1
+1	Roque Gomez Pena Cup
+in Peru	+6
+-6	1776
+2002	+1
+0	13
+2
+January 29
+1941	Peru
+Argentina	0
+3	Roque Gomez Pena Cup
+in Peru	-17
++17	1759
+2019	-2
++1	15
+1
+February 09
+1941	Chile
+Peru	1
+0	Copa América
+in Chile	+31
+-31	1600
+1728	+4
+-1	32
+16
+February 12
+1941	Argentina
+Peru	2
+1	Copa América
+in Chile	+8
+-8	2027
+1720	0
+0	1
+16
+February 23
+1941	Peru
+Ecuador	4
+0	Copa América
+in Chile	+7
+-7	1727
+1276	0
+0	16
+71
+February 26
+1941	Uruguay
+Peru	2
+0	Copa América
+in Chile	+24
+-24	1886
+1703	+3
+-1	3
+17
+January 18
+1942	Paraguay
+Peru	1
+1	Copa América
+in Uruguay	+5
+-5	1644
+1698	0
+0	22
+17
+January 21
+1942	Brazil
+Peru	2
+1	Copa América
+in Uruguay	+16
+-16	1846
+1682	0
+0	7
+17
+January 25
+1942	Argentina
+Peru	3
+1	Copa América
+in Uruguay	+7
+-7	2072
+1675	0
+-1	1
+18
+January 28
+1942	Peru
+Ecuador	2
+1	Copa América
+in Uruguay	+4
+-4	1679
+1261	+1
+-1	17
+74
+February 01
+1942	Uruguay
+Peru	3
+0	Copa América
+in Uruguay	+11
+-11	1932
+1668	0
+-1	3
+18
+February 07
+1942	Chile
+Peru	0
+0	Copa América
+in Uruguay	+8
+-8	1559
+1660	0
+0	37
+19
+December 06
+1947	Paraguay
+Peru	2
+2	Copa América
+in Ecuador	-5
++5	1722
+1665	0
+0	17
+22
+December 09
+1947	Chile
+Peru	2
+1	Copa América
+in Ecuador	+28
+-28	1652
+1637	+1
+-1	22
+23
+December 11
+1947	Argentina
+Peru	3
+2	Copa América
+in Ecuador	+4
+-4	2060
+1633	0
+0	1
+23
+December 20
+1947	Ecuador
+Peru	0
+0	Copa América
+in Ecuador	+18
+-18	1242
+1615	+2
+-3	81
+26
+December 23
+1947	Peru
+Colombia	5
+1	Copa América
+in Ecuador	+32
+-32	1647
+1466	+3
+-3	23
+47
+December 26
+1947	Uruguay
+Peru	1
+0	Copa América
+in Ecuador	+14
+-14	1819
+1633	+2
+0	8
+23
+December 27
+1947	Peru
+Bolivia	2
+0	Copa América
+in Ecuador	+12
+-12	1645
+1331	0
+0	23
+69
+April 10
+1949	Peru
+Colombia	4
+0	Copa América
+in Brazil	+22
+-22	1667
+1414	+3
+-5	22
+59
+April 13
+1949	Paraguay
+Peru	3
+1	Copa América
+in Brazil	+21
+-21	1848
+1646	+1
+-2	7
+24
+April 20
+1949	Peru
+Ecuador	4
+0	Copa América
+in Brazil	+8
+-8	1654
+1219	+3
+-1	22
+87
+April 24
+1949	Brazil
+Peru	7
+1	Copa América
+in Brazil	+12
+-12	1926
+1642	0
+-2	5
+24
+April 27
+1949	Peru
+Bolivia	3
+0	Copa América
+in Brazil	+20
+-20	1662
+1411	+2
+-5	22
+60
+April 30
+1949	Peru
+Chile	3
+0	Copa América
+in Brazil	+38
+-38	1700
+1575	+3
+-2	19
+29
+May 04
+1949	Peru
+Uruguay	4
+3	Copa América
+in Brazil	+31
+-31	1731
+1757	+2
+-1	17
+13
+March 23
+1952	Peru
+Panama	7
+1	Pan American Championship
+in Chile	+21
+-21	1752
+1468	0
+-7	15
+55
+March 30
+1952	Uruguay
+Peru	5
+2	Pan American Championship
+in Chile	+29
+-29	1903
+1723	+2
+-1	4
+16
+April 02
+1952	Chile
+Peru	3
+2	Pan American Championship
+in Chile	+20
+-20	1711
+1703	+2
+-4	18
+20
+April 10
+1952	Brazil
+Peru	0
+0	Pan American Championship
+in Chile	-17
++17	1967
+1720	0
++4	2
+16
+April 20
+1952	Peru
+Mexico	3
+0	Pan American Championship
+in Chile	+33
+-33	1753
+1603	+2
+-3	15
+29
+February 22
+1953	Peru
+Bolivia	0
+1	Copa América
+in Peru	-46
++46	1707
+1487	-3
++8	18
+51
+February 28
+1953	Peru
+Ecuador	1
+0	Copa América
+in Peru	+2
+-2	1709
+1239	0
+0	17
+96
+March 04
+1953	Peru
+Chile	0
+0	Copa América
+in Peru	-5
++5	1704
+1739	-1
+0	19
+15
+March 08
+1953	Peru
+Paraguay	2
+2	Copa América
+in Peru	+2
+-2	1706
+1829	+1
+0	18
+9
+March 19
+1953	Peru
+Brazil	1
+0	Copa América
+in Peru	+40
+-40	1746
+2002	+3
+0	15
+2
+March 28
+1953	Peru
+Uruguay	0
+3	Copa América
+in Peru	-49
++49	1697
+1855	-5
++3	20
+8
+July 26
+1953	Peru
+Chile	1
+2	Pacific Cup
+in Peru	-19
++19	1678
+1721	-2
++2	21
+16
+July 28
+1953	Peru
+Chile	5
+0	Pacific Cup
+in Peru	+25
+-25	1703
+1696	+3
+-3	18
+19
+September 17
+1954	Chile
+Peru	2
+1	Pacific Cup
+in Chile	+13
+-13	1660
+1690	+2
+-1	22
+18
+September 19
+1954	Chile
+Peru	2
+4	Pacific Cup
+in Chile	-27
++27	1633
+1717	-5
++2	27
+16
+March 06
+1955	Chile
+Peru	5
+4	Copa América
+in Chile	+23
+-23	1663
+1694	+2
+-3	22
+19
+March 13
+1955	Peru
+Ecuador	4
+2	Copa América
+in Chile	+6
+-6	1700
+1251	+1
+0	18
+100
+March 16
+1955	Argentina
+Peru	2
+2	Copa América
+in Chile	-19
++19	2038
+1719	0
++2	2
+16
+March 23
+1955	Paraguay
+Peru	1
+1	Copa América
+in Chile	-5
++5	1782
+1724	-1
++1	12
+16
+March 30
+1955	Peru
+Uruguay	2
+1	Copa América
+in Chile	+36
+-36	1760
+1849	+2
+-2	14
+9
+January 22
+1956	Argentina
+Peru	2
+1	Copa América
+in Uruguay	+7
+-7	2089
+1753	0
+0	2
+15
+January 28
+1956	Uruguay
+Peru	2
+0	Copa América
+in Uruguay	+17
+-17	1887
+1736	0
+-2	7
+18
+February 01
+1956	Brazil
+Peru	2
+1	Copa América
+in Uruguay	+15
+-15	1903
+1721	+1
+-1	5
+19
+February 05
+1956	Paraguay
+Peru	1
+1	Copa América
+in Uruguay	-3
++3	1763
+1724	0
+0	15
+19
+February 09
+1956	Chile
+Peru	4
+3	Copa América
+in Uruguay	+21
+-21	1798
+1703	+3
+0	11
+19
+February 28
+1956	Argentina
+Peru	0
+0	Pan American Championship
+in Mexico	-19
++19	2021
+1722	0
+0	2
+19
+March 04
+1956	Mexico
+Peru	0
+2	Pan American Championship
+in Mexico	-38
++38	1593
+1760	-7
++4	33
+15
+March 06
+1956	Brazil
+Peru	1
+0	Pan American Championship
+in Mexico	+12
+-12	1974
+1748	0
+-1	3
+16
+March 15
+1956	Chile
+Peru	2
+2	Pan American Championship
+in Mexico	-1
++1	1763
+1749	0
+0	14
+16
+March 17
+1956	Costa Rica
+Peru	4
+2	Pan American Championship
+in Mexico	+43
+-43	1742
+1706	+4
+-4	16
+20
+March 10
+1957	Peru
+Ecuador	2
+1	Copa América
+in Peru	+2
+-2	1708
+1243	0
+0	20
+104
+March 16
+1957	Peru
+Chile	1
+0	Copa América
+in Peru	+20
+-20	1728
+1715	+2
+-2	18
+20
+March 23
+1957	Peru
+Uruguay	3
+5	Copa América
+in Peru	-37
++37	1691
+1866	-3
++2	21
+5
+March 27
+1957	Peru
+Colombia	4
+1	Copa América
+in Peru	+9
+-9	1700
+1395	+1
+-2	20
+70
+March 31
+1957	Peru
+Brazil	0
+1	Copa América
+in Peru	-12
++12	1688
+2003	-2
+0	21
+3
+April 06
+1957	Peru
+Argentina	2
+1	Copa América
+in Peru	+43
+-43	1731
+2074	+2
+-1	18
+2
+April 09
+1957	Peru
+Argentina	1
+4	Friendly
+in Peru	-7
++7	1724
+2081	-1
++1	19
+1
+April 13
+1957	Peru
+Brazil	1
+1	World Cup qualifier
+in Peru	+8
+-8	1732
+1961	+1
+0	18
+3
+April 21
+1957	Brazil
+Peru	1
+0	World Cup qualifier
+in Brazil	+5
+-5	1966
+1727	0
+0	3
+18
+March 10
+1959	Brazil
+Peru	2
+2	Copa América
+in Argentina	-20
++20	2080
+1747	0
++3	1
+18
+March 14
+1959	Peru
+Uruguay	5
+3	Copa América
+in Argentina	+53
+-53	1800
+1847	+5
+-5	14
+8
+March 18
+1959	Argentina
+Peru	3
+1	Copa América
+in Argentina	+18
+-18	1917
+1782	+1
+-1	2
+15
+March 21
+1959	Chile
+Peru	1
+1	Copa América
+in Argentina	+11
+-11	1621
+1771	+4
+-1	34
+16
+March 29
+1959	Bolivia
+Peru	0
+0	Copa América
+in Argentina	+16
+-16	1532
+1755	+2
+-1	48
+17
+April 02
+1959	Paraguay
+Peru	2
+1	Copa América
+in Argentina	+27
+-27	1752
+1728	+4
+-4	17
+21
+May 17
+1959	Peru
+England	4
+1	Friendly
+in Peru	+20
+-20	1748
+1865	+3
+-2	19
+6
+July 10
+1960	Peru
+Spain	1
+3	Friendly
+in Peru	-14
++14	1734
+1887	-1
+0	20
+6
+March 19
+1961	Chile
+Peru	5
+2	Friendly
+in Chile	+16
+-16	1686
+1718	+2
+-2	25
+21
+April 30
+1961	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+31
+-31	1445
+1687	+8
+-4	70
+24
+May 07
+1961	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	-15
++15	1672
+1460	-2
++5	26
+66
+May 20
+1962	Peru
+England	0
+4	Friendly
+in Peru	-14
++14	1658
+1884	-2
++1	28
+8
+March 10
+1963	Brazil
+Peru	1
+0	Copa América
+in Bolivia	+3
+-3	2148
+1655	0
+0	1
+27
+March 13
+1963	Peru
+Argentina	2
+1	Copa América
+in Bolivia	+41
+-41	1696
+1881	+5
+-1	22
+6
+March 17
+1963	Peru
+Ecuador	2
+1	Copa América
+in Bolivia	+5
+-5	1701
+1316	-1
+-1	23
+105
+March 21
+1963	Bolivia
+Peru	3
+2	Copa América
+in Bolivia	+30
+-30	1566
+1671	+5
+-3	47
+27
+March 24
+1963	Colombia
+Peru	1
+1	Copa América
+in Bolivia	+14
+-14	1456
+1657	+4
+-1	68
+28
+March 27
+1963	Paraguay
+Peru	4
+1	Copa América
+in Bolivia	+41
+-41	1721
+1616	+3
+-5	21
+33
+April 03
+1965	Peru
+Paraguay	0
+1	Friendly
+in Peru	-9
++9	1607
+1776	-5
++2	39
+18
+April 15
+1965	Chile
+Peru	4
+1	Pacific Cup
+in Chile	+10
+-10	1775
+1597	+2
+-4	20
+42
+April 28
+1965	Peru
+Chile	0
+1	Pacific Cup
+in Peru	-12
++12	1585
+1787	-1
++3	42
+17
+May 16
+1965	Peru
+Venezuela	1
+0	World Cup qualifier
+in Peru	+6
+-6	1591
+1364	0
+-3	41
+99
+June 02
+1965	Venezuela
+Peru	3
+6	World Cup qualifier
+in Venezuela	-22
++22	1331
+1613	-3
++5	105
+36
+June 06
+1965	Peru
+Uruguay	0
+1	World Cup qualifier
+in Peru	-15
++15	1598
+1823	-5
++1	41
+13
+June 13
+1965	Uruguay
+Peru	2
+1	World Cup qualifier
+in Uruguay	+5
+-5	1828
+1593	+1
+0	12
+41
+June 04
+1966	Brazil
+Peru	4
+0	Friendly
+in Brazil	+3
+-3	1947
+1590	0
+-1	2
+42
+June 08
+1966	Brazil
+Peru	3
+1	Friendly
+in Brazil	+2
+-2	1952
+1588	0
+0	2
+42
+July 28
+1967	Peru
+Uruguay	0
+1	Friendly
+in Peru	-6
++6	1582
+1849	-1
+0	43
+11
+July 30
+1967	Peru
+Uruguay	1
+2	Friendly
+in Peru	-6
++6	1576
+1855	-1
+0	44
+11
+July 14
+1968	Peru
+Brazil	3
+4	Friendly
+in Peru	-4
++4	1572
+1937	0
+0	48
+3
+July 17
+1968	Peru
+Brazil	0
+4	Friendly
+in Peru	-7
++7	1565
+1944	0
+0	48
+3
+August 18
+1968	Peru
+Chile	1
+2	Pacific Cup
+in Peru	-12
++12	1553
+1736	-5
+0	53
+20
+August 21
+1968	Peru
+Chile	0
+0	Pacific Cup
+in Peru	+4
+-4	1557
+1732	+3
+0	50
+20
+August 29
+1968	Peru
+Argentina	2
+2	Friendly
+in Peru	+6
+-6	1563
+1869	+2
+0	48
+8
+September 01
+1968	Peru
+Argentina	1
+1	Friendly
+in Peru	+5
+-5	1568
+1864	+1
+-1	47
+9
+October 20
+1968	Peru
+Mexico	3
+3	Friendly
+in Peru	+3
+-3	1571
+1786	+1
+0	47
+16
+April 07
+1969	Brazil
+Peru	2
+1	Friendly
+in Brazil	+1
+-1	1938
+1570	0
+0	3
+48
+April 09
+1969	Brazil
+Peru	3
+2	Friendly
+in Brazil	+1
+-1	1939
+1569	0
+0	3
+48
+May 08
+1969	Colombia
+Peru	1
+3	Friendly
+in Colombia	-13
++13	1409
+1582	0
++1	86
+47
+May 14
+1969	El Salvador
+Peru	1
+4	Friendly
+in El Salvador	-18
++18	1477
+1600	-3
++5	71
+42
+May 20
+1969	Mexico
+Peru	0
+1	Friendly
+in Mexico	-16
++16	1745
+1616	-2
++4	20
+38
+May 22
+1969	Mexico
+Peru	3
+0	Friendly
+in Mexico	+7
+-7	1752
+1609	0
+0	20
+38
+June 18
+1969	Peru
+Colombia	1
+1	Friendly
+in Peru	-7
++7	1602
+1422	-3
+0	42
+86
+June 27
+1969	Peru
+Uruguay	1
+0	Friendly
+in Peru	+13
+-13	1615
+1794	+3
+-3	39
+14
+July 09
+1969	Peru
+Paraguay	2
+1	Friendly
+in Peru	+10
+-10	1625
+1704	+3
+0	36
+24
+July 18
+1969	Peru
+Paraguay	2
+1	Friendly
+in Peru	+9
+-9	1634
+1695	+3
+-1	33
+25
+August 03
+1969	Peru
+Argentina	1
+0	World Cup qualifier
+in Peru	+24
+-24	1658
+1783	+3
+-3	31
+14
+August 10
+1969	Bolivia
+Peru	2
+1	World Cup qualifier
+in Bolivia	+17
+-17	1623
+1641	+5
+-2	37
+33
+August 17
+1969	Peru
+Bolivia	3
+0	World Cup qualifier
+in Peru	+24
+-24	1665
+1599	+3
+-7	30
+44
+August 31
+1969	Argentina
+Peru	2
+2	World Cup qualifier
+in Argentina	-11
++11	1779
+1676	-1
++3	15
+28
+February 09
+1970	Peru
+Romania	2
+0	Friendly
+in Peru	+14
+-14	1690
+1738	+4
+0	27
+19
+February 14
+1970	Peru
+Soviet Union	0
+0	Friendly
+in Peru	+4
+-4	1694
+1944	0
+0	27
+4
+February 20
+1970	Peru
+Soviet Union	0
+2	Friendly
+in Peru	-9
++9	1685
+1953	-2
++1	28
+3
+February 21
+1970	Peru
+Bulgaria	1
+3	Friendly
+in Peru	-16
++16	1669
+1781	-4
++4	32
+12
+February 24
+1970	Peru
+Bulgaria	5
+3	Friendly
+in Peru	+16
+-16	1685
+1765	+4
+-4	28
+16
+March 05
+1970	Peru
+Mexico	0
+1	Friendly
+in Peru	-14
++14	1671
+1662	-4
++1	32
+34
+March 08
+1970	Peru
+Mexico	1
+0	Friendly
+in Peru	+7
+-7	1678
+1655	+3
+0	29
+34
+March 15
+1970	Mexico
+Peru	3
+1	Friendly
+in Mexico	+12
+-12	1667
+1666	+1
+-5	33
+34
+March 18
+1970	Mexico
+Peru	3
+3	Friendly
+in Mexico	-3
++3	1664
+1669	-1
++2	34
+32
+March 31
+1970	Uruguay
+Peru	2
+0	Friendly
+in Uruguay	+5
+-5	1835
+1664	0
+-1	9
+33
+April 18
+1970	Peru
+Uruguay	4
+2	Friendly
+in Peru	+18
+-18	1682
+1816	+6
+0	27
+9
+April 21
+1970	Peru
+El Salvador	3
+0	Friendly
+in Peru	+6
+-6	1688
+1490	+1
+-2	26
+70
+June 02
+1970	Peru
+Bulgaria	3
+2	World Cup
+in Mexico	+37
+-37	1725
+1733	+4
+-4	22
+20
+June 06
+1970	Peru
+Morocco	3
+0	World Cup
+in Mexico	+38
+-38	1763
+1589	+6
+-7	17
+46
+June 10
+1970	West Germany
+Peru	3
+1	World Cup
+in Mexico	+21
+-21	1994
+1742	0
+-4	3
+21
+June 14
+1970	Brazil
+Peru	4
+2	World Cup
+in Mexico	+13
+-13	2065
+1729	0
+0	1
+21
+February 10
+1971	Peru
+South Korea	4
+0	Friendly
+in Peru	+9
+-9	1738
+1617	+2
+-2	21
+42
+July 27
+1971	Peru
+Paraguay	0
+0	Friendly
+in Peru	-4
++4	1734
+1695	0
+0	23
+27
+August 11
+1971	Peru
+Chile	1
+0	Pacific Cup
+in Peru	+10
+-10	1744
+1691	0
+-1	23
+27
+August 15
+1971	Paraguay
+Peru	2
+0	Friendly
+in Paraguay	+12
+-12	1719
+1732	0
+0	24
+23
+August 18
+1971	Chile
+Peru	1
+0	Pacific Cup
+in Chile	+12
+-12	1713
+1720	+1
+0	25
+23
+March 29
+1972	Colombia
+Peru	1
+1	Friendly
+in Colombia	+5
+-5	1417
+1715	+3
+-1	84
+26
+April 05
+1972	Mexico
+Peru	2
+1	Friendly
+in Mexico	+7
+-7	1736
+1708	+2
+0	22
+26
+April 19
+1972	Soviet Union
+Peru	2
+0	Friendly
+in the Soviet Union	+4
+-4	1933
+1704	0
+-1	5
+27
+April 23
+1972	Romania
+Peru	2
+2	Friendly
+in Romania	-5
++5	1790
+1709	-2
++1	15
+26
+April 26
+1972	Scotland
+Peru	2
+0	Friendly
+in Scotland	+11
+-11	1706
+1698	+2
+-2	27
+28
+May 03
+1972	Netherlands
+Peru	3
+0	Friendly
+in the Netherlands	+11
+-11	1747
+1687	+2
+-2	19
+30
+June 06
+1972	Peru
+Colombia	0
+0	Friendly
+in Peru	-8
++8	1679
+1416	0
++3	31
+85
+June 11
+1972	Peru
+Bolivia	3
+0	Independence Cup
+in Brazil	+25
+-25	1704
+1557	+3
+-3	28
+53
+June 14
+1972	Paraguay
+Peru	1
+0	Independence Cup
+in Brazil	+18
+-18	1749
+1686	+5
+-2	19
+30
+June 18
+1972	Peru
+Venezuela	1
+0	Independence Cup
+in Brazil	+5
+-5	1691
+1335	+1
+0	29
+105
+June 25
+1972	Yugoslavia
+Peru	2
+1	Independence Cup
+in Brazil	+13
+-13	1823
+1678	+1
+-1	11
+31
+August 09
+1972	Peru
+Mexico	3
+2	Friendly
+in Peru	+8
+-8	1686
+1712	+2
+0	30
+26
+October 25
+1972	Peru
+Argentina	0
+2	Ramon Castilla Cup
+in Peru	-20
++20	1666
+1841	-3
++1	32
+10
+March 04
+1973	Peru
+Guatemala	5
+1	Friendly
+in Peru	+11
+-11	1677
+1592	+2
+0	29
+43
+March 24
+1973	Peru
+Bolivia	2
+0	Friendly
+in Peru	+6
+-6	1683
+1530	0
+-1	29
+60
+March 28
+1973	Peru
+Paraguay	1
+0	Friendly
+in Peru	+9
+-9	1692
+1744	+2
+0	27
+23
+April 08
+1973	Paraguay
+Peru	1
+1	Friendly
+in Paraguay	-4
++4	1737
+1696	-1
+0	25
+27
+April 23
+1973	Peru
+Panama	4
+0	Friendly
+in Peru	+1
+-1	1697
+1203	0
+0	27
+137
+April 29
+1973	Peru
+Chile	2
+0	World Cup qualifier
+in Peru	+21
+-21	1718
+1663	0
+-2	27
+31
+May 13
+1973	Chile
+Peru	2
+0	World Cup qualifier
+in Chile	+26
+-26	1689
+1692	+4
+0	28
+27
+July 01
+1973	Peru
+Colombia	3
+1	Friendly
+in Peru	+3
+-3	1695
+1425	0
+0	29
+78
+July 15
+1973	Bolivia
+Peru	2
+0	Friendly
+in Bolivia	+18
+-18	1545
+1677	+2
+-1	58
+30
+July 27
+1973	Argentina
+Peru	3
+1	Ramon Castilla Cup
+in Argentina	+9
+-9	1824
+1668	+2
+-1	11
+31
+August 05
+1973	Chile
+Peru	2
+1	World Cup qualifier
+in Uruguay	+17
+-17	1732
+1651	+1
+-3	25
+34
+June 22
+1975	Ecuador
+Peru	6
+0	Friendly
+in Ecuador	+29
+-29	1445
+1622	+8
+-5	74
+39
+June 25
+1975	Ecuador
+Peru	1
+0	Friendly
+in Ecuador	+12
+-12	1457
+1610	+1
+-2	72
+41
+July 01
+1975	Peru
+Ecuador	2
+0	Friendly
+in Peru	+6
+-6	1616
+1451	+1
+0	40
+72
+July 10
+1975	Peru
+Paraguay	2
+0	Friendly
+in Peru	+16
+-16	1632
+1722	+2
+-1	38
+24
+July 17
+1975	Chile
+Peru	1
+1	Copa América
+in Chile	-11
++11	1678
+1643	-2
++2	30
+36
+July 27
+1975	Bolivia
+Peru	0
+1	Copa América
+in Bolivia	-24
++24	1502
+1667	-4
++4	65
+32
+August 07
+1975	Peru
+Bolivia	3
+1	Copa América
+in Peru	+13
+-13	1680
+1489	+2
+-4	29
+69
+August 20
+1975	Peru
+Chile	3
+1	Copa América
+in Peru	+25
+-25	1705
+1639	+5
+-5	25
+37
+September 30
+1975	Brazil
+Peru	1
+3	Copa América
+in Brazil	-69
++69	1959
+1774	-1
++4	4
+21
+October 04
+1975	Peru
+Brazil	0
+2	Copa América
+in Peru	-29
++29	1745
+1988	-1
+0	22
+4
+October 16
+1975	Colombia
+Peru	1
+0	Copa América
+in Colombia	+27
+-27	1649
+1718	+7
+-2	34
+24
+October 22
+1975	Peru
+Colombia	2
+0	Copa América
+in Peru	+21
+-21	1739
+1628	+2
+-6	22
+40
+October 28
+1975	Peru
+Colombia	1
+0	Copa América
+in Venezuela	+17
+-17	1756
+1611	0
+-5	22
+45
+October 12
+1976	Peru
+Uruguay	0
+0	Friendly
+in Peru	-6
++6	1750
+1632	-1
++1	21
+41
+October 28
+1976	Peru
+Argentina	1
+3	Ramon Castilla Cup
+in Peru	-22
++22	1728
+1883	-3
++3	24
+9
+November 10
+1976	Argentina
+Peru	1
+0	Ramon Castilla Cup
+in Argentina	+6
+-6	1889
+1722	0
+-1	9
+25
+November 24
+1976	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-1
++1	1639
+1723	-1
+0	39
+25
+February 09
+1977	Peru
+Hungary	3
+2	Friendly
+in Peru	+11
+-11	1734
+1830	+2
+0	23
+13
+February 20
+1977	Ecuador
+Peru	1
+1	World Cup qualifier
+in Ecuador	+10
+-10	1450
+1724	0
+-1	77
+25
+March 06
+1977	Chile
+Peru	1
+1	World Cup qualifier
+in Chile	0
+0	1631
+1724	0
+0	40
+25
+March 12
+1977	Peru
+Ecuador	4
+0	World Cup qualifier
+in Peru	+7
+-7	1731
+1427	+1
+-2	24
+79
+March 26
+1977	Peru
+Chile	2
+0	World Cup qualifier
+in Peru	+15
+-15	1746
+1626	0
+-2	24
+41
+May 17
+1977	Mexico
+Peru	1
+1	Friendly
+in Mexico	0
+0	1654
+1746	0
+0	37
+24
+May 24
+1977	Mexico
+Peru	2
+1	Friendly
+in Mexico	+10
+-10	1664
+1736	+1
+0	36
+24
+May 26
+1977	Haiti
+Peru	1
+2	Friendly
+in Haiti	-8
++8	1548
+1744	-2
+0	55
+24
+May 29
+1977	Haiti
+Peru	2
+2	Friendly
+in Haiti	+3
+-3	1551
+1741	+1
+0	54
+24
+June 10
+1977	Peru
+Poland	1
+3	Friendly
+in Peru	-13
++13	1728
+1899	-1
++1	26
+7
+July 10
+1977	Brazil
+Peru	1
+0	World Cup qualifier
+in Colombia	+6
+-6	2019
+1722	0
+-2	3
+27
+July 17
+1977	Peru
+Bolivia	5
+0	World Cup qualifier
+in Colombia	+20
+-20	1742
+1507	+3
+-4	24
+62
+March 19
+1978	Argentina
+Peru	2
+1	Ramon Castilla Cup
+in Argentina	+6
+-6	1876
+1736	+2
+0	10
+24
+March 23
+1978	Peru
+Argentina	1
+3	Ramon Castilla Cup
+in Peru	-20
++20	1716
+1896	-2
++2	26
+9
+April 01
+1978	Peru
+Bulgaria	1
+1	Friendly
+in Peru	-4
++4	1712
+1691	-1
++1	27
+29
+April 11
+1978	Peru
+Mexico	1
+0	Friendly
+in the United States	+11
+-11	1723
+1730	+1
+-1	26
+25
+April 22
+1978	Peru
+China	2
+1	Friendly
+in Peru	+3
+-3	1726
+1497	0
+-1	26
+69
+May 01
+1978	Brazil
+Peru	3
+0	Friendly
+in Brazil	+3
+-3	2028
+1723	0
+-1	3
+26
+June 03
+1978	Peru
+Scotland	3
+1	World Cup
+in Argentina	+66
+-66	1789
+1829	+7
+-4	19
+14
+June 07
+1978	Netherlands
+Peru	0
+0	World Cup
+in Argentina	-20
++20	2048
+1809	-1
++4	2
+15
+June 11
+1978	Peru
+Iran	4
+1	World Cup
+in Argentina	+47
+-47	1856
+1725	+3
+-5	12
+26
+June 14
+1978	Brazil
+Peru	3
+0	World Cup
+in Argentina	+29
+-29	2049
+1827	+1
+-2	1
+14
+June 18
+1978	Poland
+Peru	1
+0	World Cup
+in Argentina	+24
+-24	1921
+1803	+2
+-1	7
+15
+June 21
+1978	Argentina
+Peru	6
+0	World Cup
+in Argentina	+27
+-27	1956
+1776	+1
+-4	5
+19
+July 11
+1979	Peru
+Ecuador	2
+1	Friendly
+in Peru	+1
+-1	1777
+1435	+1
+-1	20
+79
+July 18
+1979	Peru
+Colombia	0
+1	Friendly
+in Peru	-17
++17	1760
+1575	-3
++4	23
+54
+July 25
+1979	Colombia
+Peru	1
+2	Friendly
+in Colombia	-8
++8	1567
+1768	-2
++2	56
+21
+August 08
+1979	Ecuador
+Peru	2
+1	Friendly
+in Ecuador	+16
+-16	1451
+1752	+3
+-3	76
+24
+August 30
+1979	Peru
+Uruguay	2
+0	Friendly
+in Peru	+7
+-7	1759
+1643	+2
+0	22
+35
+September 12
+1979	Scotland
+Peru	1
+1	Friendly
+in Scotland	-4
++4	1803
+1763	0
+-1	15
+23
+October 10
+1979	Peru
+Paraguay	2
+3	Friendly
+in Peru	-15
++15	1748
+1701	-1
++1	24
+27
+October 17
+1979	Peru
+Chile	1
+2	Copa América
+in Peru	-40
++40	1708
+1651	-2
++12	26
+33
+October 24
+1979	Chile
+Peru	0
+0	Copa América
+in Chile	-3
++3	1648
+1711	0
+-1	33
+27
+November 01
+1979	Mexico
+Peru	1
+0	Friendly
+in Mexico	+10
+-10	1622
+1701	+1
+0	43
+27
+July 18
+1980	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-1
++1	1621
+1702	0
+0	44
+27
+November 12
+1980	Peru
+Uruguay	1
+1	Friendly
+in Peru	-4
++4	1698
+1638	0
+0	27
+39
+February 04
+1981	Peru
+Czechoslovakia	1
+3	Friendly
+in Peru	-13
++13	1685
+1866	-1
+0	31
+13
+February 11
+1981	Peru
+Bulgaria	1
+2	Friendly
+in Peru	-14
++14	1671
+1660	-1
++3	32
+34
+April 19
+1981	Chile
+Peru	3
+0	Friendly
+in Chile	+12
+-12	1698
+1659	+2
+-1	28
+34
+July 26
+1981	Colombia
+Peru	1
+1	World Cup qualifier
+in Colombia	-1
++1	1576
+1660	0
+0	52
+34
+August 05
+1981	Peru
+Chile	1
+2	Friendly
+in Peru	-11
++11	1649
+1748	-3
++2	38
+23
+August 16
+1981	Peru
+Colombia	2
+0	World Cup qualifier
+in Peru	+16
+-16	1665
+1554	+4
+-2	34
+57
+August 23
+1981	Uruguay
+Peru	1
+2	World Cup qualifier
+in Uruguay	-32
++32	1761
+1697	-1
++4	21
+29
+September 06
+1981	Peru
+Uruguay	0
+0	World Cup qualifier
+in Peru	-2
++2	1695
+1763	0
+0	28
+21
+March 23
+1982	Chile
+Peru	2
+1	Friendly
+in Chile	+6
+-6	1759
+1689	0
+-1	22
+32
+March 30
+1982	Peru
+Chile	1
+0	Friendly
+in Peru	+9
+-9	1698
+1750	+2
+-1	29
+23
+April 18
+1982	Hungary
+Peru	1
+2	Friendly
+in Hungary	-15
++15	1756
+1713	-1
++2	21
+27
+April 25
+1982	Algeria
+Peru	1
+1	Friendly
+in Algeria	0
+0	1605
+1713	0
+0	41
+27
+April 28
+1982	France
+Peru	0
+1	Friendly
+in France	-16
++16	1856
+1729	-4
++3	12
+24
+May 17
+1982	Peru
+Romania	2
+0	Friendly
+in Peru	+11
+-11	1740
+1716	0
+0	24
+25
+June 15
+1982	Cameroon
+Peru	0
+0	World Cup
+in Spain	+9
+-9	1636
+1731	+2
+0	37
+24
+June 18
+1982	Italy
+Peru	1
+1	World Cup
+in Spain	-10
++10	1844
+1741	-1
+0	12
+23
+June 22
+1982	Poland
+Peru	5
+1	World Cup
+in Spain	+33
+-33	1929
+1708	+2
+-1	6
+24
+July 18
+1983	Uruguay
+Peru	1
+1	Friendly
+in Uruguay	-5
++5	1774
+1713	-1
+0	21
+27
+July 21
+1983	Peru
+Chile	0
+1	Friendly
+in Peru	-14
++14	1699
+1694	-3
++2	30
+31
+August 03
+1983	Chile
+Peru	2
+0	Friendly
+in Chile	+11
+-11	1704
+1688	+2
+-2	29
+32
+August 11
+1983	Peru
+Uruguay	1
+1	Friendly
+in Peru	0
+0	1688
+1774	0
+0	31
+20
+August 17
+1983	Peru
+Colombia	1
+0	Copa América
+in Peru	+12
+-12	1700
+1571	0
+-3	31
+52
+August 21
+1983	Bolivia
+Peru	1
+1	Copa América
+in Bolivia	+9
+-9	1484
+1691	+2
+0	72
+31
+August 28
+1983	Colombia
+Peru	2
+2	Copa América
+in Colombia	+1
+-1	1572
+1690	+1
+-1	51
+32
+September 04
+1983	Peru
+Bolivia	2
+1	Copa América
+in Peru	+8
+-8	1698
+1485	0
+-1	32
+72
+October 05
+1983	Peru
+Paraguay	0
+2	Friendly
+in Peru	-20
++20	1678
+1694	-2
++2	35
+33
+October 07
+1983	Paraguay
+Peru	4
+1	Friendly
+in Paraguay	+12
+-12	1706
+1666	+2
+-1	31
+36
+October 13
+1983	Peru
+Uruguay	0
+1	Copa América
+in Peru	-26
++26	1640
+1780	-2
++3	38
+20
+October 20
+1983	Uruguay
+Peru	1
+1	Copa América
+in Uruguay	-15
++15	1765
+1655	-2
+0	23
+38
+February 26
+1984	Peru
+Honduras	1
+3	Friendly
+in Peru	-23
++23	1632
+1571	-1
++5	39
+52
+July 26
+1984	Colombia
+Peru	1
+1	Friendly
+in Colombia	-1
++1	1568
+1633	0
+0	51
+39
+August 09
+1984	Peru
+Colombia	0
+0	Friendly
+in Peru	-4
++4	1629
+1572	0
+0	39
+51
+September 19
+1984	Uruguay
+Peru	2
+0	Friendly
+in Uruguay	+4
+-4	1854
+1625	0
+-1	9
+40
+October 03
+1984	Peru
+Uruguay	1
+3	Friendly
+in Peru	-10
++10	1615
+1864	-1
++1	41
+8
+February 17
+1985	Peru
+Bolivia	3
+0	Friendly
+in Peru	+8
+-8	1623
+1489	+3
+-3	40
+73
+February 24
+1985	Chile
+Peru	1
+2	Friendly
+in Chile	-15
++15	1722
+1638	-2
++2	29
+38
+February 27
+1985	Uruguay
+Peru	2
+2	Friendly
+in Uruguay	-8
++8	1892
+1646	0
++1	6
+37
+March 09
+1985	Peru
+Chile	1
+1	Friendly
+in Peru	-1
++1	1645
+1717	0
+0	37
+30
+March 21
+1985	Peru
+Ecuador	1
+0	Friendly
+in Peru	+4
+-4	1649
+1508	0
+0	37
+65
+April 23
+1985	Peru
+Uruguay	2
+1	Friendly
+in Peru	+14
+-14	1663
+1865	+2
+-1	36
+7
+April 28
+1985	Brazil
+Peru	0
+1	Friendly
+in Brazil	-18
++18	1893
+1681	0
++3	5
+33
+May 01
+1985	Bolivia
+Peru	0
+0	Friendly
+in Bolivia	+3
+-3	1472
+1678	0
+0	79
+33
+May 26
+1985	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+16
+-16	1661
+1662	+2
+-3	37
+36
+June 02
+1985	Venezuela
+Peru	0
+1	World Cup qualifier
+in Venezuela	-11
++11	1384
+1673	-1
++1	94
+35
+June 09
+1985	Peru
+Colombia	0
+0	World Cup qualifier
+in Peru	-7
++7	1666
+1646	0
++3	35
+38
+June 16
+1985	Peru
+Venezuela	4
+1	World Cup qualifier
+in Peru	+7
+-7	1673
+1375	+1
+0	34
+94
+June 23
+1985	Peru
+Argentina	1
+0	World Cup qualifier
+in Peru	+26
+-26	1699
+1864	+3
+-1	31
+7
+June 30
+1985	Argentina
+Peru	2
+2	World Cup qualifier
+in Argentina	-13
++13	1851
+1712	-2
++1	9
+30
+September 20
+1985	Mexico
+Peru	0
+0	Friendly
+in the United States	-3
++3	1805
+1715	0
+0	15
+31
+September 22
+1985	Mexico
+Peru	1
+0	Friendly
+in the United States	+7
+-7	1812
+1708	+2
+0	13
+31
+October 16
+1985	Peru
+Paraguay	0
+1	Friendly
+in Peru	-13
++13	1695
+1701	-2
++3	34
+32
+October 27
+1985	Chile
+Peru	4
+2	World Cup qualifier
+in Chile	+17
+-17	1773
+1678	+1
+-1	25
+35
+November 03
+1985	Peru
+Chile	0
+1	World Cup qualifier
+in Peru	-21
++21	1657
+1790	-3
++4	38
+21
+January 28
+1986	China
+Peru	3
+1	Nehru Gold Cup
+in India	+41
+-41	1564
+1616	+8
+-3	58
+41
+January 30
+1986	India
+Peru	0
+1	Nehru Gold Cup
+in India	-8
++8	1254
+1624	-2
+0	131
+41
+April 01
+1986	Brazil
+Peru	4
+0	Friendly
+in Brazil	+5
+-5	1866
+1619	0
+-2	6
+43
+June 19
+1987	Peru
+Chile	1
+3	Friendly
+in Peru	-13
++13	1606
+1769	0
++2	47
+21
+June 21
+1987	Peru
+Chile	2
+0	Friendly
+in Peru	+18
+-18	1624
+1751	+2
+-2	45
+23
+June 24
+1987	Chile
+Peru	1
+0	Friendly
+in Chile	+4
+-4	1755
+1620	+1
+-2	23
+47
+June 27
+1987	Argentina
+Peru	1
+1	Copa América
+in Argentina	-21
++21	1944
+1641	-2
++6	4
+41
+July 04
+1987	Ecuador
+Peru	1
+1	Copa América
+in Argentina	+10
+-10	1511
+1631	+5
+0	68
+42
+September 21
+1988	Peru
+Paraguay	0
+1	Friendly
+in Peru	-10
++10	1621
+1750	-2
++2	43
+26
+October 25
+1988	Chile
+Peru	2
+0	Friendly
+in Chile	+6
+-6	1769
+1615	0
+0	22
+43
+November 23
+1988	Peru
+Chile	1
+1	Friendly
+in Peru	+1
+-1	1616
+1751	0
+0	44
+26
+December 14
+1988	Uruguay
+Peru	3
+0	Friendly
+in Uruguay	+5
+-5	1816
+1611	0
++1	13
+43
+February 01
+1989	Chile
+Peru	0
+0	Friendly tournament
+in Colombia	-5
++5	1733
+1616	-1
++1	27
+42
+February 03
+1989	Colombia
+Peru	1
+0	Friendly tournament
+in Colombia	+5
+-5	1790
+1611	0
+-1	19
+43
+May 10
+1989	Brazil
+Peru	4
+1	Friendly
+in Brazil	+2
+-2	1966
+1609	0
+-1	2
+45
+May 15
+1989	Paraguay
+Peru	1
+1	Friendly
+in Paraguay	-7
++7	1772
+1616	-1
++2	24
+43
+May 18
+1989	Peru
+Venezuela	2
+1	Friendly
+in Peru	+2
+-2	1618
+1370	0
+0	43
+102
+May 24
+1989	Peru
+Brazil	1
+1	Friendly
+in Peru	+6
+-6	1624
+1960	+2
+-1	41
+3
+June 04
+1989	United States
+Peru	3
+0	Friendly tournament
+in the United States	+31
+-31	1488
+1593	+8
+-6	72
+47
+June 16
+1989	Trinidad and Tobago
+Peru	2
+1	Friendly
+in Trinidad and Tobago	+13
+-13	1397
+1580	+2
+-2	97
+50
+June 20
+1989	Ecuador
+Peru	1
+2	Friendly
+in Trinidad and Tobago	-9
++9	1550
+1589	-2
++1	56
+49
+June 25
+1989	Venezuela
+Peru	3
+1	Friendly
+in Venezuela	+20
+-20	1390
+1569	+2
+-2	100
+51
+July 01
+1989	Paraguay
+Peru	5
+2	Copa América
+in Brazil	+22
+-22	1782
+1547	+3
+-6	21
+57
+July 03
+1989	Brazil
+Peru	0
+0	Copa América
+in Brazil	-22
++22	1885
+1569	-1
++5	7
+52
+July 05
+1989	Peru
+Venezuela	1
+1	Copa América
+in Brazil	-12
++12	1557
+1394	-3
++2	55
+99
+July 09
+1989	Colombia
+Peru	1
+1	Copa América
+in Brazil	-15
++15	1791
+1572	-4
++3	21
+52
+July 25
+1989	Chile
+Peru	2
+1	Friendly
+in Chile	+4
+-4	1726
+1568	0
+0	28
+53
+August 20
+1989	Bolivia
+Peru	2
+1	World Cup qualifier
+in Bolivia	+20
+-20	1485
+1548	+6
+-5	70
+58
+August 27
+1989	Peru
+Uruguay	0
+2	World Cup qualifier
+in Peru	-14
++14	1534
+1868	-3
++4	61
+9
+September 10
+1989	Peru
+Bolivia	1
+2	World Cup qualifier
+in Peru	-26
++26	1508
+1544	-3
++3	64
+60
+September 24
+1989	Uruguay
+Peru	2
+0	World Cup qualifier
+in Uruguay	+5
+-5	1846
+1503	0
+-3	13
+68
+June 06
+1991	Peru
+Ecuador	0
+1	Friendly
+in Peru	-10
++10	1493
+1617	0
++2	65
+43
+June 12
+1991	Peru
+Uruguay	1
+0	Friendly
+in Peru	+16
+-16	1509
+1803	+2
+-1	63
+16
+June 20
+1991	Uruguay
+Peru	0
+0	Friendly
+in Uruguay	-8
++8	1795
+1517	-2
++2	18
+61
+June 25
+1991	Ecuador
+Peru	2
+2	Friendly
+in Ecuador	-5
++5	1623
+1522	-1
+0	41
+61
+July 06
+1991	Paraguay
+Peru	1
+0	Copa América
+in Chile	+12
+-12	1732
+1510	+1
+-1	28
+63
+July 08
+1991	Chile
+Peru	4
+2	Copa América
+in Chile	+9
+-9	1769
+1501	+1
+-3	21
+66
+July 12
+1991	Peru
+Venezuela	5
+1	Copa América
+in Chile	+27
+-27	1528
+1317	+4
+-2	62
+114
+July 14
+1991	Argentina
+Peru	3
+2	Copa América
+in Chile	+5
+-5	1920
+1523	0
+0	4
+61
+November 24
+1992	Peru
+Ecuador	1
+1	Friendly
+in Peru	0
+0	1523
+1614	0
+0	61
+46
+January 23
+1993	Venezuela
+Peru	0
+0	Friendly
+in Venezuela	+3
+-3	1320
+1520	0
+-2	119
+65
+January 27
+1993	Peru
+Honduras	1
+1	Friendly
+in Peru	+1
+-1	1521
+1663	0
+0	65
+35
+January 30
+1993	Peru
+Belarus	1
+1	Friendly
+in Peru	-5
++5	1516
+1414	-1
+0	66
+94
+February 03
+1993	Peru
+Romania	0
+2	Friendly
+in Peru	-10
++10	1506
+1753	-2
++1	68
+22
+May 26
+1993	United States
+Peru	0
+0	Friendly
+in the United States	-5
++5	1604
+1511	0
+0	47
+73
+May 30
+1993	Ecuador
+Peru	1
+0	Friendly
+in Ecuador	+4
+-4	1632
+1507	-1
++1	42
+72
+June 06
+1993	Peru
+Bolivia	1
+0	Friendly
+in Peru	+8
+-8	1515
+1524	+1
+0	71
+63
+June 11
+1993	Peru
+Venezuela	3
+1	Friendly
+in Peru	+5
+-5	1520
+1331	+2
+0	68
+119
+June 18
+1993	Brazil
+Peru	0
+0	Copa América
+in Ecuador	-21
++21	1940
+1541	-1
++5	4
+62
+June 21
+1993	Paraguay
+Peru	1
+1	Copa América
+in Ecuador	-11
++11	1687
+1552	0
++2	30
+60
+June 24
+1993	Peru
+Chile	1
+0	Copa América
+in Ecuador	+38
+-38	1590
+1719	+12
+-3	49
+28
+June 27
+1993	Mexico
+Peru	4
+2	Copa América
+in Ecuador	+18
+-18	1805
+1572	+5
+-2	13
+52
+July 13
+1993	Peru
+Uruguay	1
+2	Friendly
+in Peru	-7
++7	1565
+1783	0
++2	54
+20
+July 14
+1993	Peru
+Uruguay	1
+2	Friendly
+in Peru	-7
++7	1558
+1790	-3
++1	57
+19
+July 17
+1993	Uruguay
+Peru	3
+0	Friendly
+in Uruguay	+5
+-5	1795
+1553	0
+-1	19
+59
+August 01
+1993	Peru
+Argentina	0
+1	World Cup qualifier
+in Peru	-6
++6	1547
+1967	-2
+0	62
+2
+August 08
+1993	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-12
++12	1535
+1813	-1
++3	63
+13
+August 15
+1993	Paraguay
+Peru	2
+1	World Cup qualifier
+in Paraguay	+10
+-10	1645
+1525	+4
+-1	38
+64
+August 22
+1993	Argentina
+Peru	2
+1	World Cup qualifier
+in Argentina	+2
+-2	1958
+1523	0
+0	2
+63
+August 29
+1993	Colombia
+Peru	4
+0	World Cup qualifier
+in Colombia	+7
+-7	1839
+1516	+1
+-2	12
+65
+September 05
+1993	Peru
+Paraguay	2
+2	World Cup qualifier
+in Peru	+3
+-3	1519
+1664	0
+-1	65
+33
+May 03
+1994	Colombia
+Peru	1
+0	Friendly tournament
+in the United States	+3
+-3	1896
+1516	0
+-2	5
+70
+May 05
+1994	Honduras
+Peru	2
+1	Friendly tournament
+in the United States	+16
+-16	1502
+1500	+9
+-3	72
+73
+May 25
+1994	Chile
+Peru	2
+1	Friendly
+in Chile	+2
+-2	1747
+1498	0
+-1	24
+74
+June 08
+1994	Bolivia
+Peru	0
+0	Friendly
+in Bolivia	-6
++6	1658
+1504	-4
++2	36
+72
+August 17
+1994	Peru
+Ecuador	2
+0	Friendly
+in Peru	+16
+-16	1520
+1609	+5
+-2	67
+44
+September 21
+1994	Ecuador
+Peru	0
+0	Friendly
+in Ecuador	-5
++5	1604
+1525	0
++2	44
+66
+October 19
+1994	Peru
+Uruguay	0
+1	Friendly
+in Peru	-6
++6	1519
+1771	-5
+0	69
+24
+April 05
+1995	Uruguay
+Peru	1
+0	Friendly
+in Uruguay	+2
+-2	1766
+1517	0
+0	24
+69
+April 19
+1995	Peru
+Chile	6
+0	Friendly
+in Peru	+29
+-29	1546
+1718	+10
+-2	59
+27
+May 31
+1995	Argentina
+Peru	1
+0	Friendly
+in Argentina	+2
+-2	1841
+1544	0
+0	17
+57
+June 25
+1995	Peru
+Slovakia	1
+0	Friendly
+in Peru	+8
+-8	1552
+1571	+1
+-2	58
+51
+July 01
+1995	Peru
+Bolivia	4
+1	Friendly
+in Peru	+16
+-16	1568
+1616	+4
+-4	54
+43
+July 07
+1995	Colombia
+Peru	1
+1	Copa América
+in Uruguay	-17
++17	1839
+1585	-5
++6	13
+48
+July 10
+1995	Brazil
+Peru	2
+0	Copa América
+in Uruguay	+5
+-5	2065
+1580	0
+-1	1
+49
+July 13
+1995	Ecuador
+Peru	2
+1	Copa América
+in Uruguay	+22
+-22	1641
+1558	+8
+-7	35
+56
+February 11
+1996	Peru
+Bolivia	1
+3	Friendly
+in Peru	-16
++16	1542
+1650	-2
++3	62
+36
+February 14
+1996	Chile
+Peru	4
+0	Friendly
+in Chile	+8
+-8	1686
+1534	+1
+-2	31
+64
+March 07
+1996	Bolivia
+Peru	2
+0	Friendly
+in Bolivia	+6
+-6	1673
+1528	+1
+0	34
+64
+April 24
+1996	Ecuador
+Peru	4
+1	World Cup qualifier
+in Ecuador	+15
+-15	1670
+1513	+1
+-3	34
+69
+June 02
+1996	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	+12
+-12	1525
+1831	+3
+-4	67
+16
+June 20
+1996	Peru
+Armenia	4
+0	Friendly
+in Peru	+6
+-6	1531
+1331	+1
+-2	67
+122
+July 07
+1996	Peru
+Argentina	0
+0	World Cup qualifier
+in Peru	+9
+-9	1540
+1794	+3
+0	64
+18
+August 14
+1996	Peru
+Costa Rica	3
+0	Friendly
+in Peru	+13
+-13	1553
+1525	+4
+-3	60
+68
+September 01
+1996	Bolivia
+Peru	0
+0	World Cup qualifier
+in Bolivia	-10
++10	1632
+1563	-1
++3	38
+57
+October 16
+1996	Peru
+United States	4
+1	Friendly
+in Peru	+19
+-19	1582
+1676	+1
+-2	55
+32
+November 10
+1996	Peru
+Venezuela	4
+1	World Cup qualifier
+in Peru	+9
+-9	1591
+1348	+2
+-2	53
+119
+December 15
+1996	Uruguay
+Peru	2
+0	World Cup qualifier
+in Uruguay	+12
+-12	1739
+1579	+1
+-2	25
+55
+January 12
+1997	Peru
+Chile	2
+1	World Cup qualifier
+in Peru	+22
+-22	1601
+1699	+2
+-2	51
+29
+January 17
+1997	United States
+Peru	0
+1	US Cup
+in the United States	-22
++22	1661
+1623	-3
++8	35
+43
+January 19
+1997	Denmark
+Peru	2
+1	US Cup
+in the United States	+5
+-5	1899
+1618	+1
+-2	8
+45
+January 22
+1997	Mexico
+Peru	0
+0	US Cup
+in the United States	-8
++8	1811
+1626	0
++3	15
+42
+February 12
+1997	Paraguay
+Peru	2
+1	World Cup qualifier
+in Paraguay	+7
+-7	1797
+1619	0
+-2	18
+44
+April 02
+1997	Peru
+Ecuador	1
+1	World Cup qualifier
+in Peru	-3
++3	1616
+1678	-1
+0	49
+31
+April 30
+1997	Colombia
+Peru	0
+1	World Cup qualifier
+in Colombia	-34
++34	1775
+1650	-5
++10	22
+39
+June 08
+1997	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+12
+-12	1808
+1638	+2
+-2	17
+41
+June 12
+1997	Peru
+Uruguay	1
+0	Copa América
+in Bolivia	+29
+-29	1667
+1658	+6
+-6	35
+37
+June 15
+1997	Bolivia
+Peru	2
+0	Copa América
+in Bolivia	+27
+-27	1696
+1640	+3
+-6	30
+41
+June 18
+1997	Peru
+Venezuela	2
+0	Copa América
+in Bolivia	+11
+-11	1651
+1316	+3
+-3	38
+127
+June 21
+1997	Peru
+Argentina	2
+1	Copa América
+in Bolivia	+36
+-36	1687
+1786	+6
+-6	32
+20
+June 26
+1997	Brazil
+Peru	7
+0	Copa América
+in Bolivia	+10
+-10	2094
+1677	0
+-2	1
+34
+June 28
+1997	Mexico
+Peru	1
+0	Copa América
+in Bolivia	+19
+-19	1788
+1658	+3
+-2	18
+36
+July 06
+1997	Peru
+Bolivia	2
+1	World Cup qualifier
+in Peru	+20
+-20	1678
+1732	+3
+-1	34
+25
+August 20
+1997	Venezuela
+Peru	0
+3	World Cup qualifier
+in Venezuela	-13
++13	1316
+1691	-1
++4	126
+30
+August 24
+1997	Peru
+Colombia	2
+1	Friendly
+in Peru	+9
+-9	1700
+1733	0
+-1	30
+25
+September 10
+1997	Peru
+Uruguay	2
+1	World Cup qualifier
+in Peru	+12
+-12	1712
+1648	+2
+-1	29
+41
+October 12
+1997	Chile
+Peru	4
+0	World Cup qualifier
+in Chile	+32
+-32	1697
+1680	+7
+-5	31
+36
+November 16
+1997	Peru
+Paraguay	1
+0	World Cup qualifier
+in Peru	+18
+-18	1698
+1720	+3
+-5	32
+30
+April 15
+1998	Mexico
+Peru	1
+0	Friendly
+in the United States	+6
+-6	1836
+1692	+1
+0	14
+34
+October 10
+1998	Netherlands
+Peru	2
+0	Friendly
+in the Netherlands	+3
+-3	1967
+1689	+1
+-2	4
+31
+February 10
+1999	Peru
+Ecuador	1
+2	Friendly
+in Peru	-12
++12	1677
+1738	-4
++3	38
+22
+February 17
+1999	Ecuador
+Peru	1
+2	Friendly
+in Ecuador	-14
++14	1724
+1691	-3
++4	26
+35
+May 30
+1999	Belgium
+Peru	1
+1	Kirin Cup
+in Japan	-1
++1	1723
+1692	0
+0	25
+35
+June 06
+1999	Japan
+Peru	0
+0	Kirin Cup
+in Japan	-2
++2	1638
+1694	0
+0	47
+34
+June 17
+1999	Colombia
+Peru	3
+3	Friendly
+in Colombia	-3
++3	1709
+1697	-2
+0	30
+34
+June 20
+1999	Venezuela
+Peru	3
+0	Friendly
+in Venezuela	+28
+-28	1397
+1669	+8
+-8	104
+41
+June 23
+1999	Peru
+Venezuela	3
+0	Friendly
+in Peru	+4
+-4	1673
+1393	+2
+-2	39
+106
+June 29
+1999	Peru
+Japan	3
+2	Copa América
+in Paraguay	+22
+-22	1695
+1616	+7
+-3	32
+51
+July 02
+1999	Peru
+Bolivia	1
+0	Copa América
+in Paraguay	+21
+-21	1716
+1624	+4
+-3	27
+50
+July 05
+1999	Paraguay
+Peru	1
+0	Copa América
+in Paraguay	+15
+-15	1781
+1701	+1
+-3	20
+31
+July 10
+1999	Mexico
+Peru	3
+3	Copa América
+in Paraguay	-11
++11	1847
+1712	0
++2	15
+29
+November 17
+1999	Peru
+Slovakia	2
+1	Friendly
+in Peru	+5
+-5	1717
+1638	+1
+-1	28
+44
+December 01
+1999	Peru
+Honduras	0
+0	Friendly
+in Peru	-6
++6	1711
+1578	0
++4	28
+55
+February 14
+2000	Haiti
+Peru	1
+1	Concacaf Gold Cup
+in the United States	+18
+-18	1416
+1693	+3
+-6	101
+35
+February 16
+2000	United States
+Peru	1
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1806
+1681	+1
+-5	17
+39
+February 19
+2000	Peru
+Honduras	5
+3	Concacaf Gold Cup
+in the United States	+38
+-38	1719
+1650	+10
+-11	28
+46
+February 23
+2000	Colombia
+Peru	2
+1	Concacaf Gold Cup
+in the United States	+23
+-23	1765
+1696	+2
+-2	20
+30
+March 29
+2000	Peru
+Paraguay	2
+0	World Cup qualifier
+in Peru	+28
+-28	1724
+1749	+1
+-2	29
+21
+April 26
+2000	Chile
+Peru	1
+1	World Cup qualifier
+in Chile	-3
++3	1681
+1727	-3
++1	39
+26
+June 04
+2000	Peru
+Brazil	0
+1	World Cup qualifier
+in Peru	-8
++8	1719
+2074	-3
+0	29
+1
+June 29
+2000	Ecuador
+Peru	2
+1	World Cup qualifier
+in Ecuador	+19
+-19	1660
+1700	+6
+-3	43
+33
+July 19
+2000	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-25
++25	1675
+1741	-8
++7	41
+22
+July 26
+2000	Uruguay
+Peru	0
+0	World Cup qualifier
+in Uruguay	-9
++9	1735
+1684	-2
++3	23
+37
+August 16
+2000	Peru
+Venezuela	1
+0	World Cup qualifier
+in Peru	+4
+-4	1688
+1408	0
++1	37
+98
+September 03
+2000	Peru
+Argentina	1
+2	World Cup qualifier
+in Peru	-12
++12	1676
+1939	-3
+0	38
+7
+October 08
+2000	Bolivia
+Peru	1
+0	World Cup qualifier
+in Bolivia	+22
+-22	1567
+1654	+2
+-7	61
+45
+November 15
+2000	Paraguay
+Peru	5
+1	World Cup qualifier
+in Paraguay	+13
+-13	1837
+1641	+1
+-1	12
+47
+March 07
+2001	Honduras
+Peru	0
+0	Friendly
+in the United States	-1
++1	1690
+1642	0
+0	36
+49
+March 27
+2001	Peru
+Chile	3
+1	World Cup qualifier
+in Peru	+24
+-24	1666
+1649	+6
+-6	41
+46
+April 25
+2001	Brazil
+Peru	1
+1	World Cup qualifier
+in Brazil	-16
++16	1954
+1682	-1
++3	6
+38
+June 02
+2001	Peru
+Ecuador	1
+2	World Cup qualifier
+in Peru	-24
++24	1658
+1744	-5
++2	43
+27
+July 12
+2001	Peru
+Paraguay	3
+3	Copa América
+in Colombia	+12
+-12	1670
+1826	+1
+0	42
+14
+July 15
+2001	Brazil
+Peru	2
+0	Copa América
+in Colombia	+21
+-21	1857
+1649	+3
+-5	10
+47
+July 18
+2001	Peru
+Mexico	1
+0	Copa América
+in Colombia	+30
+-30	1679
+1686	+9
+-9	39
+37
+July 23
+2001	Colombia
+Peru	3
+0	Copa América
+in Colombia	+20
+-20	1813
+1659	+3
+-4	15
+44
+August 16
+2001	Colombia
+Peru	0
+1	World Cup qualifier
+in Colombia	-34
++34	1816
+1693	-2
++9	15
+34
+September 04
+2001	Peru
+Uruguay	0
+2	World Cup qualifier
+in Peru	-39
++39	1654
+1727	-8
++9	45
+29
+October 06
+2001	Venezuela
+Peru	3
+0	World Cup qualifier
+in Venezuela	+44
+-44	1511
+1610	+12
+-6	72
+52
+November 08
+2001	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+3
+-3	2001
+1607	0
+0	2
+53
+November 14
+2001	Peru
+Bolivia	1
+1	World Cup qualifier
+in Peru	-9
++9	1598
+1537	-1
++4	54
+65
+February 23
+2003	Peru
+Haiti	5
+1	Friendly
+in Peru	+8
+-8	1606
+1476	+4
+-1	52
+81
+March 30
+2003	Chile
+Peru	2
+0	Friendly
+in Chile	+12
+-12	1577
+1594	0
+-5	60
+57
+April 02
+2003	Peru
+Chile	3
+0	Friendly
+in Peru	+12
+-12	1606
+1565	+3
+0	54
+60
+April 30
+2003	Peru
+Paraguay	0
+1	Friendly
+in Peru	-9
++9	1597
+1742	-3
++4	57
+26
+June 11
+2003	Ecuador
+Peru	2
+2	Friendly
+in the United States	-3
++3	1699
+1600	+1
+0	35
+58
+June 26
+2003	Peru
+Venezuela	1
+0	Friendly
+in the United States	+10
+-10	1610
+1600	+5
+-5	53
+58
+July 02
+2003	Peru
+Guatemala	2
+1	Friendly
+in the United States	+8
+-8	1618
+1533	+3
+-1	50
+66
+July 24
+2003	Peru
+Uruguay	3
+4	Friendly
+in Peru	-8
++8	1610
+1794	-3
++1	53
+19
+July 30
+2003	Uruguay
+Peru	1
+0	Friendly
+in Uruguay	+3
+-3	1797
+1607	0
+0	20
+53
+August 20
+2003	Peru
+Mexico	3
+1	Friendly
+in the United States	+25
+-25	1632
+1848	+8
+-3	46
+14
+August 27
+2003	Peru
+Guatemala	0
+0	Friendly
+in Peru	-5
++5	1627
+1524	-1
++1	47
+69
+September 06
+2003	Peru
+Paraguay	4
+1	World Cup qualifier
+in Peru	+36
+-36	1663
+1696	+6
+-7	41
+35
+September 09
+2003	Chile
+Peru	2
+1	World Cup qualifier
+in Chile	+17
+-17	1627
+1646	+6
+-2	48
+43
+November 16
+2003	Peru
+Brazil	1
+1	World Cup qualifier
+in Peru	+12
+-12	1658
+1978	+5
+0	39
+3
+November 19
+2003	Ecuador
+Peru	0
+0	World Cup qualifier
+in Ecuador	-8
++8	1693
+1666	-1
+0	35
+39
+February 18
+2004	Spain
+Peru	2
+1	Friendly
+in Spain	+2
+-2	1976
+1664	0
+0	3
+42
+March 31
+2004	Peru
+Colombia	0
+2	World Cup qualifier
+in Peru	-37
++37	1627
+1720	-5
++10	47
+30
+April 28
+2004	Chile
+Peru	1
+1	Friendly
+in Chile	-3
++3	1641
+1630	-1
+-1	46
+48
+June 01
+2004	Uruguay
+Peru	1
+3	World Cup qualifier
+in Uruguay	-47
++47	1710
+1677	-6
++10	32
+39
+June 06
+2004	Peru
+Venezuela	0
+0	World Cup qualifier
+in Peru	-7
++7	1670
+1655	-4
+0	42
+45
+June 30
+2004	Argentina
+Peru	2
+1	Friendly
+in the United States	+4
+-4	1939
+1666	0
+0	6
+41
+July 06
+2004	Peru
+Bolivia	2
+2	Copa América
+in Peru	-14
++14	1652
+1563	-2
++1	42
+62
+July 09
+2004	Peru
+Venezuela	3
+1	Copa América
+in Peru	+26
+-26	1678
+1611	+6
+-7	36
+54
+July 12
+2004	Peru
+Colombia	2
+2	Copa América
+in Peru	+1
+-1	1679
+1789	+2
+0	35
+20
+July 17
+2004	Peru
+Argentina	0
+1	Copa América
+in Peru	-14
++14	1665
+1956	-2
++1	37
+4
+September 04
+2004	Peru
+Argentina	1
+3	World Cup qualifier
+in Peru	-13
++13	1652
+2005	-2
+0	40
+1
+October 09
+2004	Bolivia
+Peru	1
+0	World Cup qualifier
+in Bolivia	+20
+-20	1573
+1632	+2
+-7	63
+48
+October 13
+2004	Paraguay
+Peru	1
+1	World Cup qualifier
+in Paraguay	-12
++12	1762
+1644	-2
++4	27
+43
+November 17
+2004	Peru
+Chile	2
+1	World Cup qualifier
+in Peru	+14
+-14	1658
+1630	+1
+-5	41
+47
+March 27
+2005	Brazil
+Peru	1
+0	World Cup qualifier
+in Brazil	+4
+-4	1953
+1654	0
+-3	3
+45
+March 30
+2005	Peru
+Ecuador	2
+2	World Cup qualifier
+in Peru	-4
++4	1650
+1693	-1
++1	46
+37
+May 22
+2005	Japan
+Peru	0
+1	Kirin Cup
+in Japan	-25
++25	1799
+1675	-4
++4	19
+42
+May 24
+2005	Peru
+United Arab Emirates	0
+0	Kirin Cup
+in Japan	-10
++10	1665
+1394	-2
++3	44
+100
+June 04
+2005	Colombia
+Peru	5
+0	World Cup qualifier
+in Colombia	+20
+-20	1779
+1645	+2
+-3	23
+47
+June 07
+2005	Peru
+Uruguay	0
+0	World Cup qualifier
+in Peru	+3
+-3	1648
+1786	+1
+-2	46
+22
+August 17
+2005	Peru
+Chile	3
+1	Friendly
+in Peru	+11
+-11	1659
+1654	+3
+-5	45
+48
+September 03
+2005	Venezuela
+Peru	4
+1	World Cup qualifier
+in Venezuela	+34
+-34	1600
+1625	+8
+-8	55
+53
+October 09
+2005	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+5
+-5	1935
+1620	+1
+-2	4
+54
+October 12
+2005	Peru
+Bolivia	4
+1	World Cup qualifier
+in Peru	+19
+-19	1639
+1535	+2
+-6	51
+71
+May 10
+2006	Trinidad and Tobago
+Peru	1
+1	Friendly
+in Trinidad and Tobago	-1
++1	1571
+1640	0
+0	60
+48
+August 16
+2006	Peru
+Panama	0
+2	Friendly
+in Peru	-25
++25	1615
+1481	-2
++8	51
+82
+September 06
+2006	Ecuador
+Peru	1
+1	Friendly
+in the United States	-4
++4	1739
+1619	-1
+0	30
+50
+October 07
+2006	Chile
+Peru	3
+2	Friendly
+in Chile	+6
+-6	1688
+1613	0
+0	43
+51
+October 11
+2006	Peru
+Chile	0
+1	Friendly
+in Peru	-11
++11	1602
+1699	-2
++1	53
+41
+November 15
+2006	Jamaica
+Peru	1
+1	Friendly
+in Jamaica	-3
++3	1596
+1605	-2
++1	55
+51
+November 19
+2006	Panama
+Peru	1
+2	Friendly
+in Panama	-10
++10	1484
+1615	-4
++1	83
+50
+March 24
+2007	Japan
+Peru	2
+0	Friendly
+in Japan	+7
+-7	1725
+1608	+2
+-2	36
+53
+June 03
+2007	Peru
+Ecuador	2
+1	Friendly
+in Spain	+13
+-13	1621
+1711	+2
+-2	50
+38
+June 06
+2007	Ecuador
+Peru	2
+0	Friendly
+in Spain	+11
+-11	1722
+1610	+2
+-2	37
+52
+June 26
+2007	Peru
+Uruguay	3
+0	Copa América
+in Venezuela	+69
+-69	1679
+1773	+9
+-10	43
+23
+June 30
+2007	Venezuela
+Peru	2
+0	Copa América
+in Venezuela	+33
+-33	1650
+1646	+8
+-5	44
+48
+July 03
+2007	Bolivia
+Peru	2
+2	Copa América
+in Venezuela	+6
+-6	1565
+1640	+1
+0	62
+48
+July 08
+2007	Argentina
+Peru	4
+0	Copa América
+in Venezuela	+9
+-9	2029
+1631	0
+-2	2
+49
+August 22
+2007	Costa Rica
+Peru	1
+1	Friendly
+in Costa Rica	-3
++3	1625
+1634	0
++2	52
+49
+September 08
+2007	Peru
+Colombia	2
+2	Friendly
+in Peru	+1
+-1	1635
+1772	0
++2	49
+19
+September 12
+2007	Peru
+Bolivia	2
+0	Friendly
+in Peru	+8
+-8	1643
+1552	+3
+-1	45
+65
+October 13
+2007	Peru
+Paraguay	0
+0	World Cup qualifier
+in Peru	0
+0	1643
+1748	0
++1	45
+27
+October 17
+2007	Chile
+Peru	2
+0	World Cup qualifier
+in Chile	+16
+-16	1739
+1627	+3
+-7	32
+51
+November 18
+2007	Peru
+Brazil	1
+1	World Cup qualifier
+in Peru	+15
+-15	1642
+2051	+3
+0	45
+1
+November 21
+2007	Ecuador
+Peru	5
+1	World Cup qualifier
+in Ecuador	+29
+-29	1648
+1613	+5
+-7	45
+53
+February 06
+2008	Bolivia
+Peru	2
+1	Friendly
+in Bolivia	+9
+-9	1541
+1604	+1
+-1	70
+55
+March 26
+2008	Peru
+Costa Rica	3
+1	Friendly
+in Peru	+11
+-11	1615
+1607	+6
+-1	50
+52
+May 31
+2008	Spain
+Peru	2
+1	Friendly
+in Spain	+1
+-1	1954
+1614	0
+0	5
+50
+June 08
+2008	Mexico
+Peru	4
+0	Friendly
+in the United States	+7
+-7	1870
+1607	+1
+-1	11
+51
+June 14
+2008	Peru
+Colombia	1
+1	World Cup qualifier
+in Peru	+5
+-5	1612
+1790	+1
++2	50
+14
+June 17
+2008	Uruguay
+Peru	6
+0	World Cup qualifier
+in Uruguay	+15
+-15	1789
+1597	+3
+-3	18
+54
+September 06
+2008	Peru
+Venezuela	1
+0	World Cup qualifier
+in Peru	+18
+-18	1615
+1638	+5
+-2	48
+47
+September 10
+2008	Peru
+Argentina	1
+1	World Cup qualifier
+in Peru	+13
+-13	1628
+1964	-1
+0	49
+5
+October 11
+2008	Bolivia
+Peru	3
+0	World Cup qualifier
+in Bolivia	+31
+-31	1597
+1597	+7
+-5	54
+54
+October 15
+2008	Paraguay
+Peru	1
+0	World Cup qualifier
+in Paraguay	+5
+-5	1832
+1592	+1
+-2	11
+57
+February 06
+2009	El Salvador
+Peru	1
+0	Friendly
+in the United States	+14
+-14	1456
+1578	0
+-4	92
+60
+February 11
+2009	Peru
+Paraguay	0
+1	Friendly
+in Peru	-6
++6	1572
+1842	0
+0	60
+11
+March 29
+2009	Peru
+Chile	1
+3	World Cup qualifier
+in Peru	-22
++22	1550
+1791	-8
++4	66
+18
+April 01
+2009	Brazil
+Peru	3
+0	World Cup qualifier
+in Brazil	+3
+-3	2000
+1547	0
+-3	3
+69
+June 07
+2009	Peru
+Ecuador	1
+2	World Cup qualifier
+in Peru	-19
++19	1528
+1688	-4
++2	73
+44
+June 10
+2009	Colombia
+Peru	1
+0	World Cup qualifier
+in Colombia	+7
+-7	1710
+1521	0
+-3	36
+76
+September 05
+2009	Peru
+Uruguay	1
+0	World Cup qualifier
+in Peru	+29
+-29	1550
+1765	+11
+-6	65
+23
+September 09
+2009	Venezuela
+Peru	3
+1	World Cup qualifier
+in Venezuela	+12
+-12	1705
+1538	+3
+-2	38
+68
+October 10
+2009	Argentina
+Peru	2
+1	World Cup qualifier
+in Argentina	+3
+-3	1856
+1535	0
+-3	10
+71
+October 14
+2009	Peru
+Bolivia	1
+0	World Cup qualifier
+in Peru	+18
+-18	1553
+1579	+4
+-4	67
+59
+November 18
+2009	Peru
+Honduras	2
+1	Friendly
+in the United States	+15
+-15	1568
+1730	+6
+-6	61
+33
+September 04
+2010	Canada
+Peru	0
+2	Friendly
+in Canada	-20
++20	1564
+1588	-3
++6	61
+56
+September 07
+2010	Peru
+Jamaica	2
+1	Friendly
+in the United States	+11
+-11	1599
+1607	+2
+-2	54
+53
+October 08
+2010	Peru
+Costa Rica	2
+0	Friendly
+in Peru	+13
+-13	1612
+1647	+2
+-2	52
+46
+October 12
+2010	Panama
+Peru	1
+0	Friendly
+in Panama	+8
+-8	1592
+1604	+2
+-3	57
+54
+November 17
+2010	Colombia
+Peru	1
+1	Friendly
+in Colombia	-6
++6	1743
+1610	0
++2	24
+52
+February 08
+2011	Peru
+Panama	1
+0	Friendly
+in Peru	+6
+-6	1616
+1572	+1
+-2	51
+62
+March 29
+2011	Ecuador
+Peru	0
+0	Friendly
+in the Netherlands	-2
++2	1692
+1618	0
+-1	36
+52
+June 01
+2011	Japan
+Peru	0
+0	Kirin Cup
+in Japan	-11
++11	1815
+1629	0
++1	13
+51
+June 04
+2011	Czechia
+Peru	0
+0	Kirin Cup
+in Japan	-3
++3	1704
+1632	0
++2	35
+49
+July 04
+2011	Peru
+Uruguay	1
+1	Copa América
+in Argentina	+14
+-14	1646
+1838	+3
+0	46
+11
+July 08
+2011	Peru
+Mexico	1
+0	Copa América
+in Argentina	+41
+-41	1687
+1864	+10
+-3	37
+9
+July 12
+2011	Chile
+Peru	1
+0	Copa América
+in Argentina	+11
+-11	1919
+1676	0
+-4	5
+40
+July 16
+2011	Peru
+Colombia	2
+0	Copa América
+in Argentina	+50
+-50	1726
+1743	+7
+-10	33
+28
+July 19
+2011	Uruguay
+Peru	2
+0	Copa América
+in Argentina	+22
+-22	1901
+1704	+3
+-3	5
+36
+July 23
+2011	Peru
+Venezuela	4
+1	Copa América
+in Argentina	+54
+-54	1758
+1732	+14
+-11	22
+30
+September 02
+2011	Peru
+Bolivia	2
+2	Friendly
+in Peru	-8
++8	1750
+1508	-1
++4	25
+76
+September 05
+2011	Bolivia
+Peru	0
+0	Friendly
+in Bolivia	+4
+-4	1512
+1746	+1
+-1	77
+27
+October 07
+2011	Peru
+Paraguay	2
+0	World Cup qualifier
+in Peru	+26
+-26	1772
+1768	+5
+-4	21
+22
+October 11
+2011	Chile
+Peru	4
+2	World Cup qualifier
+in Chile	+16
+-16	1861
+1756	+1
+-5	9
+26
+November 15
+2011	Ecuador
+Peru	2
+0	World Cup qualifier
+in Ecuador	+23
+-23	1758
+1733	+5
+-4	25
+30
+February 29
+2012	Tunisia
+Peru	1
+1	Friendly
+in Tunisia	+2
+-2	1575
+1731	+1
+0	61
+29
+March 21
+2012	Chile
+Peru	3
+1	Friendly
+in Chile	+7
+-7	1851
+1724	+2
+-2	10
+31
+April 11
+2012	Peru
+Chile	0
+3	Friendly
+in Peru	-16
++16	1708
+1867	-2
++1	33
+9
+May 23
+2012	Peru
+Nigeria	1
+0	Friendly
+in Peru	+5
+-5	1713
+1633	0
+-2	33
+50
+June 03
+2012	Peru
+Colombia	0
+1	World Cup qualifier
+in Peru	-23
++23	1690
+1791	-4
++3	37
+18
+June 10
+2012	Uruguay
+Peru	4
+2	World Cup qualifier
+in Uruguay	+7
+-7	1952
+1683	0
+-1	5
+38
+August 15
+2012	Costa Rica
+Peru	0
+1	Friendly
+in Costa Rica	-12
++12	1643
+1695	-1
++3	45
+34
+September 07
+2012	Peru
+Venezuela	2
+1	World Cup qualifier
+in Peru	+14
+-14	1709
+1665	+2
+-3	32
+42
+September 11
+2012	Peru
+Argentina	1
+1	World Cup qualifier
+in Peru	+8
+-8	1717
+1957	+3
+0	29
+4
+October 12
+2012	Bolivia
+Peru	1
+1	World Cup qualifier
+in Bolivia	+4
+-4	1550
+1713	0
+-1	70
+30
+October 16
+2012	Paraguay
+Peru	1
+0	World Cup qualifier
+in Paraguay	+16
+-16	1693
+1697	+3
+-4	35
+34
+November 14
+2012	Honduras
+Peru	0
+0	Friendly
+in the United States	+1
+-1	1666
+1696	+3
+0	40
+34
+February 06
+2013	Trinidad and Tobago
+Peru	0
+2	Friendly
+in Trinidad and Tobago	-8
++8	1422
+1704	-1
+0	101
+35
+March 22
+2013	Peru
+Chile	1
+0	World Cup qualifier
+in Peru	+19
+-19	1723
+1764	+4
+-2	30
+23
+March 26
+2013	Peru
+Trinidad and Tobago	3
+0	Friendly
+in Peru	+3
+-3	1726
+1414	0
+0	30
+102
+April 17
+2013	Mexico
+Peru	0
+0	Friendly
+in the United States	-4
++4	1851
+1730	0
+0	13
+30
+June 01
+2013	Panama
+Peru	1
+2	Friendly
+in Panama	-12
++12	1686
+1742	0
++4	36
+25
+June 07
+2013	Peru
+Ecuador	1
+0	World Cup qualifier
+in Peru	+21
+-21	1763
+1833	+1
+-1	25
+14
+June 11
+2013	Colombia
+Peru	2
+0	World Cup qualifier
+in Colombia	+13
+-13	1891
+1750	+2
+-2	7
+27
+August 14
+2013	South Korea
+Peru	0
+0	Friendly
+in South Korea	-1
++1	1668
+1751	+1
++1	41
+25
+September 06
+2013	Peru
+Uruguay	1
+2	World Cup qualifier
+in Peru	-20
++20	1731
+1870	-2
++1	27
+10
+September 10
+2013	Venezuela
+Peru	3
+2	World Cup qualifier
+in Venezuela	+18
+-18	1691
+1713	+6
+-2	34
+29
+October 11
+2013	Argentina
+Peru	3
+1	World Cup qualifier
+in Argentina	+6
+-6	2015
+1707	0
+-2	4
+31
+October 15
+2013	Peru
+Bolivia	1
+1	World Cup qualifier
+in Peru	-11
++11	1696
+1603	-2
++3	33
+55

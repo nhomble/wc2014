@@ -1,0 +1,2979 @@
+April 13
+1960	Upper Volta
+Gabon	5
+4	Friendly tournament
+in Madagascar	+15
+-15	1415
+1385	-
+-	76
+90
+April 15
+1960	Madagascar
+Upper Volta	6
+1	Friendly tournament
+in Madagascar	+23
+-23	1420
+1392	+9
+-11	75
+87
+February 01
+1963	Mali
+Upper Volta	1
+0	Friendly
+in Mali	+5
+-5	1499
+1387	+2
+-2	60
+90
+April 11
+1963	Gabon
+Upper Volta	4
+0	Friendly tournament
+in Senegal	+28
+-28	1413
+1359	+7
+-10	84
+100
+April 13
+1963	Gambia
+Upper Volta	2
+2	Friendly tournament
+in Senegal	+2
+-2	1319
+1357	0
++1	107
+99
+December 29
+1964	Nigeria
+Upper Volta	6
+1	African Games qualifier
+in Nigeria	+24
+-24	1429
+1333	+5
+-4	83
+105
+February 12
+1967	Upper Volta
+Algeria	1
+2	African Nations Cup qualifier
+in Upper Volta	-7
++7	1326
+1700	-1
+0	107
+27
+March 09
+1967	Algeria
+Upper Volta	3
+1	African Nations Cup qualifier
+in Algeria	+4
+-4	1704
+1322	+1
+-1	26
+108
+August 01
+1967	Niger
+Upper Volta	2
+3	Friendly
+in Niger	-11
++11	1247
+1333	-2
++3	126
+106
+September 27
+1967	Mali
+Upper Volta	4
+0	African Nations Cup qualifier
+in Mali	+12
+-12	1541
+1321	+5
+-3	52
+109
+October 01
+1967	Ghana
+Upper Volta	5
+2	Friendly
+in Ghana	+1
+-1	1767
+1320	0
+-1	17
+109
+November 15
+1967	Upper Volta
+Mali	0
+1	African Nations Cup qualifier
+in Upper Volta	-13
++13	1307
+1554	-4
++4	114
+53
+November 26
+1967	Upper Volta
+Ivory Coast	3
+2	Friendly
+in Upper Volta	+17
+-17	1324
+1695	+7
+-2	107
+26
+February 25
+1968	Upper Volta
+Guinea	2
+0	Friendly
+in Upper Volta	+18
+-18	1342
+1479	+3
+-3	104
+68
+March 31
+1968	Guinea
+Upper Volta	3
+1	Friendly
+in Guinea	+6
+-6	1485
+1336	0
+-1	68
+105
+April 02
+1968	Guinea
+Upper Volta	1
+3	Friendly
+in Guinea	-24
++24	1461
+1360	-6
++4	74
+101
+March 22
+1970	Upper Volta
+Niger	3
+3	Friendly
+in Upper Volta	-6
++6	1354
+1242	-3
+0	97
+127
+November 27
+1971	Nigeria
+Upper Volta	4
+0	Friendly
+in Nigeria	+7
+-7	1523
+1347	+3
+0	58
+99
+November 30
+1971	Togo
+Upper Volta	1
+0	Friendly
+in Togo	+4
+-4	1483
+1343	+1
+-2	69
+102
+December 12
+1971	Upper Volta
+Togo	1
+2	Friendly
+in Upper Volta	-9
++9	1334
+1492	-3
++2	105
+67
+
+1972	Niger
+Upper Volta	0
+2	African Games qualifier
+in Niger	-28
++28	1184
+1362	-5
++6	139
+99
+
+1972	Upper Volta
+Niger	3
+3	African Games qualifier
+in Upper Volta	-13
++13	1349
+1197	+6
+-5	99
+139
+August 01
+1972	Dahomey
+Upper Volta	3
+2	African Games qualifier
+in Dahomey	+16
+-16	1339
+1333	+3
+-5	106
+107
+August 30
+1972	Upper Volta
+Dahomey	3
+1	African Games qualifier
+in Upper Volta	+22
+-22	1355
+1317	+7
+-5	100
+111
+January 08
+1973	Congo
+Upper Volta	3
+0	African Games
+in Nigeria	+14
+-14	1609
+1341	+4
+-4	40
+106
+January 10
+1973	Guinea
+Upper Volta	3
+2	African Games
+in Nigeria	+6
+-6	1651
+1335	-1
+0	35
+106
+January 12
+1973	Egypt
+Upper Volta	4
+2	African Games
+in Nigeria	+8
+-8	1669
+1327	+2
+-2	31
+108
+September 16
+1973	Upper Volta
+Zaire	0
+5	African Nations Cup qualifier
+in Upper Volta	-18
++18	1309
+1663	-6
++2	113
+33
+September 30
+1973	Zaire
+Upper Volta	4
+1	African Nations Cup qualifier
+in Zaire	+5
+-5	1668
+1304	+1
+0	32
+114
+April 06
+1975	Zaire
+Upper Volta	4
+1	Olympic Games qualifier
+in Zaire	+5
+-5	1671
+1299	+1
+-2	30
+116
+April 27
+1975	Upper Volta
+Zaire	1
+2	Olympic Games qualifier
+in Upper Volta	-7
++7	1292
+1678	-2
++1	118
+29
+March 13
+1976	Upper Volta
+Mauritania	1
+1	World Cup qualifier
+in Upper Volta	-12
++12	1280
+1164	-5
++2	121
+145
+March 28
+1976	Mauritania
+Upper Volta	0
+2	World Cup qualifier
+in Mauritania	-29
++29	1135
+1309	-3
++9	148
+112
+September 04
+1976	Upper Volta
+Ivory Coast	1
+1	World Cup qualifier
+in Upper Volta	+8
+-8	1317
+1549	+5
+0	109
+55
+September 26
+1976	Ivory Coast
+Upper Volta	2
+0	World Cup qualifier
+in Ivory Coast	+8
+-8	1557
+1309	+1
+-4	54
+113
+November 24
+1976	Mali
+Upper Volta	2
+1	Friendly
+in Mali	+2
+-2	1567
+1307	+1
+0	51
+114
+September 18
+1977	Upper Volta
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Upper Volta	-10
++10	1297
+1598	-1
++2	116
+46
+October 02
+1977	Ivory Coast
+Upper Volta	4
+1	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1604
+1291	+3
+-2	43
+118
+March 05
+1978	Nigeria
+Upper Volta	4
+2	African Nations Cup
+in Ghana	+9
+-9	1650
+1282	+1
+-2	37
+121
+March 08
+1978	Zambia
+Upper Volta	2
+0	African Nations Cup
+in Ghana	+15
+-15	1543
+1267	+2
+-1	58
+122
+March 10
+1978	Ghana
+Upper Volta	3
+0	African Nations Cup
+in Ghana	+6
+-6	1628
+1261	0
+-4	40
+126
+July 18
+1981	Nigeria
+Upper Volta	1
+0	Friendly
+in Nigeria	+1
+-1	1701
+1260	0
+0	28
+128
+August 30
+1981	Algeria
+Upper Volta	7
+0	African Nations Cup qualifier
+in Algeria	+7
+-7	1600
+1253	+3
+-3	43
+130
+September 06
+1981	Niger
+Upper Volta	2
+1	Friendly
+in Niger	+8
+-8	1248
+1245	+2
+-2	131
+132
+September 20
+1981	Upper Volta
+Algeria	1
+1	African Nations Cup qualifier
+in Upper Volta	+13
+-13	1258
+1587	+2
+-7	130
+50
+January 24
+1982	Upper Volta
+Senegal	0
+0	Friendly
+in Upper Volta	+6
+-6	1264
+1601	+2
+0	128
+44
+February 15
+1982	Upper Volta
+Liberia	2
+1	West African Nations Cup
+in Benin	+21
+-21	1285
+1257	+5
+-9	122
+130
+February 17
+1982	Togo
+Upper Volta	2
+1	West African Nations Cup
+in Benin	+13
+-13	1432
+1272	+3
+0	83
+122
+February 19
+1982	Ghana
+Upper Volta	1
+0	West African Nations Cup
+in Benin	+4
+-4	1662
+1268	0
+-2	35
+124
+February 22
+1982	Ivory Coast
+Upper Volta	1
+1	West African Nations Cup
+in Benin	-13
++13	1535
+1281	-1
++3	60
+121
+October 03
+1982	Burkina Faso
+Niger	1
+1	Friendly
+in Burkina Faso	-3
++3	1278
+1267	-1
++2	122
+126
+August 01
+1984	Burkina Faso
+Benin	3
+1	Friendly tournament
+in Burkina Faso	+17
+-17	1295
+1271	+6
+-3	119
+125
+August 03
+1984	Burkina Faso
+Ghana	0
+2	Friendly tournament
+in Burkina Faso	-8
++8	1287
+1670	-3
+0	122
+38
+November 11
+1984	Burkina Faso
+Mali	1
+0	Friendly
+in Burkina Faso	+13
+-13	1300
+1487	+9
+-5	115
+72
+November 17
+1984	Burkina Faso
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	+4
+-4	1304
+1467	+3
+0	112
+78
+November 20
+1984	Burkina Faso
+Ivory Coast	2
+2	West African Nations Cup
+in Burkina Faso	+7
+-7	1311
+1517	+2
+0	109
+60
+November 22
+1984	Burkina Faso
+Benin	2
+1	West African Nations Cup
+in Burkina Faso	+14
+-14	1325
+1288	+2
+-10	107
+124
+November 24
+1984	Burkina Faso
+Ghana	1
+1	West African Nations Cup
+in Burkina Faso	+12
+-12	1337
+1667	0
+-1	107
+36
+November 28
+1984	Burkina Faso
+Ivory Coast	0
+2	West African Nations Cup
+in Burkina Faso	-23
++23	1314
+1547	0
++3	107
+57
+February 23
+1986	Burkina Faso
+Liberia	1
+0	West African Nations Cup
+in Ghana	+15
+-15	1329
+1205	+1
+-2	108
+142
+February 24
+1986	Togo
+Burkina Faso	1
+0	West African Nations Cup
+in Ghana	+11
+-11	1505
+1318	+2
+0	69
+108
+February 26
+1986	Burkina Faso
+Niger	0
+0	West African Nations Cup
+in Ghana	-4
++4	1314
+1255	0
++2	108
+130
+February 27
+1986	Ghana
+Burkina Faso	2
+0	West African Nations Cup
+in Ghana	+8
+-8	1560
+1306	+2
+-5	60
+113
+March 01
+1986	Ghana
+Burkina Faso	2
+0	West African Nations Cup
+in Ghana	+7
+-7	1567
+1299	+3
+-5	56
+118
+March 02
+1986	Niger
+Burkina Faso	2
+1	West African Nations Cup
+in Ghana	+21
+-21	1308
+1278	+10
+-3	111
+121
+January 17
+1987	Mali
+Burkina Faso	2
+0	Friendly
+in Mali	+5
+-5	1462
+1273	+2
+0	79
+120
+February 01
+1987	Liberia
+Burkina Faso	2
+0	West African Nations Cup
+in Liberia	+20
+-20	1318
+1253	+11
+-7	107
+128
+February 03
+1987	Nigeria
+Burkina Faso	3
+0	West African Nations Cup
+in Liberia	+15
+-15	1491
+1238	+5
+-5	72
+133
+February 05
+1987	Burkina Faso
+Benin	3
+2	West African Nations Cup
+in Liberia	+23
+-23	1261
+1263	+6
+-4	127
+124
+May 21
+1987	Burkina Faso
+Mauritania	2
+1	Friendly
+in Burkina Faso	+3
+-3	1264
+1069	+3
+0	123
+165
+November 22
+1987	Burkina Faso
+Nigeria	0
+0	Friendly
+in Burkina Faso	+4
+-4	1268
+1508	+1
+-1	122
+68
+December 06
+1987	Mali
+Burkina Faso	1
+2	Friendly
+in Mali	-16
++16	1412
+1284	-7
+0	90
+122
+December 10
+1987	Burkina Faso
+Mali	1
+2	Friendly
+in Burkina Faso	-9
++9	1275
+1421	-1
++5	123
+85
+December 13
+1987	Burkina Faso
+Mali	2
+1	Friendly
+in Burkina Faso	+11
+-11	1286
+1410	+2
+-7	121
+92
+December 20
+1987	Liberia
+Burkina Faso	1
+0	Cedeao Tournament
+in Liberia	+11
+-11	1364
+1275	+2
+-2	100
+122
+December 22
+1987	Senegal
+Burkina Faso	1
+0	Cedeao Tournament
+in Liberia	+8
+-8	1524
+1267	0
+0	66
+122
+May 25
+1988	Burkina Faso
+Ghana	3
+0	Friendly
+in Burkina Faso	+28
+-28	1295
+1590	+2
+-2	118
+49
+June 03
+1988	Libya
+Burkina Faso	3
+0	World Cup qualifier
+in Libya	+7
+-7	1593
+1288	+2
+-1	48
+119
+July 03
+1988	Burkina Faso
+Libya	2
+0	World Cup qualifier
+in Burkina Faso	+46
+-46	1334
+1547	+7
+-12	109
+60
+July 24
+1988	Burkina Faso
+Niger	1
+0	Friendly tournament
+in Burkina Faso	+9
+-9	1343
+1281	+1
+-1	108
+118
+July 27
+1988	Burkina Faso
+Ghana	3
+1	Friendly tournament
+in Burkina Faso	+31
+-31	1374
+1548	+10
+-10	98
+58
+July 31
+1988	Burkina Faso
+Benin	1
+0	Friendly tournament
+in Burkina Faso	+7
+-7	1381
+1261	+2
+-4	96
+126
+August 02
+1988	Burkina Faso
+Mali	2
+1	Friendly tournament
+in Burkina Faso	+11
+-11	1392
+1379	+3
+-4	93
+97
+August 04
+1988	Burkina Faso
+Niger	1
+0	Friendly tournament
+in Burkina Faso	+9
+-9	1401
+1330	+2
+-1	91
+110
+October 09
+1988	Gabon
+Burkina Faso	3
+0	African Nations Cup qualifier
+in Gabon	+27
+-27	1411
+1374	+6
+-6	91
+99
+October 23
+1988	Burkina Faso
+Gabon	1
+0	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1390
+1395	+3
+-3	96
+95
+May 26
+1990	Gambia
+Burkina Faso	0
+0	Friendly
+in Gambia	+2
+-2	1217
+1388	0
+0	141
+99
+May 30
+1990	Burkina Faso
+Ghana	1
+0	Friendly
+in Burkina Faso	+9
+-9	1397
+1460	+2
+-2	97
+75
+August 19
+1990	Burkina Faso
+Benin	2
+0	African Nations Cup qualifier
+in Burkina Faso	+11
+-11	1408
+1225	+3
+-5	93
+140
+August 27
+1990	Mali
+Burkina Faso	2
+1	Friendly
+in Mali	+5
+-5	1483
+1403	+2
+0	71
+93
+September 02
+1990	Burkina Faso
+Togo	2
+0	African Nations Cup qualifier
+in Burkina Faso	+21
+-21	1424
+1375	+5
+-3	89
+100
+October 14
+1990	Ghana
+Burkina Faso	2
+0	African Nations Cup qualifier
+in Ghana	+16
+-16	1521
+1408	+3
+-2	63
+90
+January 06
+1991	Burkina Faso
+Mali	2
+0	Friendly
+in Burkina Faso	+13
+-13	1421
+1460	+2
+-3	86
+76
+January 09
+1991	Burkina Faso
+Niger	2
+2	Friendly
+in Burkina Faso	-5
++5	1416
+1332	-1
+0	87
+110
+January 13
+1991	Burkina Faso
+Nigeria	1
+1	African Nations Cup qualifier
+in Burkina Faso	+7
+-7	1423
+1641	+2
+0	85
+35
+January 27
+1991	Benin
+Burkina Faso	1
+2	African Nations Cup qualifier
+in Benin	-14
++14	1200
+1437	-3
++4	141
+81
+April 07
+1991	Mali
+Burkina Faso	5
+1	Friendly
+in Mali	+12
+-12	1472
+1425	+3
+-4	73
+85
+April 21
+1991	Togo
+Burkina Faso	1
+0	African Nations Cup qualifier
+in Togo	+18
+-18	1382
+1407	+6
+-3	96
+89
+July 13
+1991	Burkina Faso
+Ghana	2
+1	African Nations Cup qualifier
+in Burkina Faso	+23
+-23	1430
+1539	+5
+-2	85
+56
+July 27
+1991	Nigeria
+Burkina Faso	7
+1	African Nations Cup qualifier
+in Nigeria	+13
+-13	1637
+1417	+2
+-5	38
+89
+August 15
+1992	Burkina Faso
+Liberia	1
+1	African Nations Cup qualifier
+in Burkina Faso	-7
++7	1410
+1404	-1
++4	90
+93
+August 30
+1992	Ghana
+Burkina Faso	3
+0	African Nations Cup qualifier
+in Ghana	+10
+-10	1631
+1400	0
+-5	42
+96
+December 26
+1992	Burkina Faso
+Mali	3
+1	Friendly
+in Burkina Faso	+14
+-14	1414
+1462	+3
+-5	93
+87
+January 02
+1993	Gabon
+Burkina Faso	1
+1	Black Stars Tournament
+in Gabon	-7
++7	1487
+1421	-2
++1	76
+92
+January 03
+1993	Burkina Faso
+Mali	1
+0	Black Stars Tournament
+in Gabon	+17
+-17	1438
+1452	0
+-4	92
+88
+January 05
+1994	Mali
+Burkina Faso	1
+1	Friendly
+in Mali	-2
++2	1421
+1440	-1
+0	98
+92
+January 29
+1994	Burkina Faso
+Guinea	1
+1	Black Stars Tournament
+in Burkina Faso	-4
++4	1436
+1451	-1
++2	94
+87
+January 30
+1994	Burkina Faso
+Ivory Coast	0
+1	Black Stars Tournament
+in Burkina Faso	-12
++12	1424
+1617	-2
++4	96
+46
+August 23
+1994	Burkina Faso
+Niger	0
+0	Friendly
+in Burkina Faso	-5
++5	1419
+1355	-1
++1	97
+116
+September 04
+1994	Burkina Faso
+Morocco	2
+1	African Nations Cup qualifier
+in Burkina Faso	+25
+-25	1444
+1577	+10
+-4	87
+51
+December 04
+1994	Togo
+Burkina Faso	2
+0	Friendly
+in Togo	+15
+-15	1367
+1429	+5
+-8	112
+97
+January 22
+1995	Ivory Coast
+Burkina Faso	2
+2	African Nations Cup qualifier
+in Ivory Coast	-14
++14	1624
+1443	-3
++9	38
+90
+April 09
+1995	Morocco
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Morocco	-13
++13	1594
+1456	-3
++5	47
+84
+July 30
+1995	Burkina Faso
+Ivory Coast	1
+1	African Nations Cup qualifier
+in Burkina Faso	+5
+-5	1461
+1632	-1
+-4	87
+41
+October 22
+1995	Burkina Faso
+Tunisia	2
+2	Friendly
+in Burkina Faso	-1
++1	1460
+1538	0
+0	88
+65
+November 29
+1995	Tunisia
+Burkina Faso	3
+0	Friendly
+in Tunisia	+8
+-8	1567
+1452	+5
+0	53
+86
+December 22
+1995	Burkina Faso
+Gabon	2
+5	Friendly
+in Burkina Faso	-22
++22	1430
+1481	-9
++4	96
+82
+January 15
+1996	Sierra Leone
+Burkina Faso	2
+1	African Nations Cup
+in South Africa	+17
+-17	1557
+1413	+4
+-7	59
+103
+January 20
+1996	Zambia
+Burkina Faso	5
+1	African Nations Cup
+in South Africa	+23
+-23	1634
+1390	+7
+-5	37
+109
+January 24
+1996	Algeria
+Burkina Faso	2
+1	African Nations Cup
+in South Africa	+11
+-11	1615
+1379	0
+-3	46
+112
+May 12
+1996	Burkina Faso
+Niger	0
+0	Friendly
+in Burkina Faso	-4
++4	1375
+1331	0
++3	112
+120
+May 31
+1996	Mauritania
+Burkina Faso	0
+0	World Cup qualifier
+in Mauritania	0
+0	1269
+1375	0
+0	138
+112
+June 09
+1996	Ivory Coast
+Burkina Faso	1
+1	Friendly
+in Ivory Coast	-7
++7	1548
+1382	-2
++2	61
+108
+June 16
+1996	Burkina Faso
+Mauritania	2
+0	World Cup qualifier
+in Burkina Faso	+14
+-14	1396
+1255	+3
+-3	105
+141
+October 19
+1996	Gabon
+Burkina Faso	2
+0	Friendly
+in Gabon	+7
+-7	1522
+1389	+2
+-2	68
+105
+November 09
+1996	Nigeria
+Burkina Faso	2
+0	World Cup qualifier
+in Nigeria	+4
+-4	1754
+1385	0
+-3	24
+108
+November 24
+1996	Mali
+Burkina Faso	2
+0	Friendly
+in Mali	+12
+-12	1370
+1373	+4
+-7	115
+113
+December 20
+1996	Burkina Faso
+Gabon	1
+1	Friendly tournament
+in Benin	+6
+-6	1379
+1525	+5
+-1	111
+66
+December 22
+1996	Burkina Faso
+Ghana	2
+1	Friendly tournament
+in Benin	+24
+-24	1403
+1597	+12
+-7	99
+51
+December 25
+1996	Benin
+Burkina Faso	1
+1	Friendly tournament
+in Benin	+5
+-5	1190
+1398	+5
+-2	154
+101
+December 27
+1996	Benin
+Burkina Faso	0
+0	Friendly tournament
+in Benin	+5
+-5	1195
+1393	0
+-1	154
+102
+January 12
+1997	Burkina Faso
+Guinea	0
+2	World Cup qualifier
+in Burkina Faso	-40
++40	1353
+1411	-16
++20	119
+97
+April 06
+1997	Kenya
+Burkina Faso	4
+3	World Cup qualifier
+in Kenya	+11
+-11	1424
+1342	+2
+-1	95
+119
+April 27
+1997	Burkina Faso
+Nigeria	1
+2	World Cup qualifier
+in Burkina Faso	-7
++7	1335
+1721	-1
+0	119
+25
+May 31
+1997	Burkina Faso
+Mali	2
+0	Friendly
+in Burkina Faso	+13
+-13	1348
+1370	+3
+-3	116
+113
+June 04
+1997	Togo
+Burkina Faso	0
+0	Friendly
+in Togo	-4
++4	1371
+1352	-1
+0	112
+116
+June 08
+1997	Guinea
+Burkina Faso	3
+1	World Cup qualifier
+in Guinea	+16
+-16	1448
+1336	+5
+-4	88
+120
+August 16
+1997	Burkina Faso
+Kenya	2
+4	World Cup qualifier
+in Burkina Faso	-33
++33	1303
+1433	-6
++5	129
+96
+November 02
+1997	Ivory Coast
+Burkina Faso	0
+0	Friendly
+in Ivory Coast	-8
++8	1556
+1311	-5
++2	61
+127
+December 12
+1997	Zambia
+Burkina Faso	2
+0	Friendly
+in Zambia	+3
+-3	1624
+1308	+1
+-1	47
+129
+December 27
+1997	Burkina Faso
+Ivory Coast	2
+0	Friendly
+in Burkina Faso	+21
+-21	1329
+1535	+6
+-6	123
+65
+January 04
+1998	Burkina Faso
+Mozambique	1
+0	Friendly
+in Burkina Faso	+10
+-10	1339
+1414	+4
+-1	119
+100
+January 07
+1998	Burkina Faso
+Mozambique	4
+2	Friendly
+in Burkina Faso	+14
+-14	1353
+1400	+1
+-3	118
+103
+January 11
+1998	Burkina Faso
+Mali	0
+0	Friendly
+in Burkina Faso	0
+0	1353
+1445	0
+0	117
+93
+January 27
+1998	Liberia
+Burkina Faso	1
+2	Friendly
+in Liberia	-13
++13	1355
+1366	-2
++2	117
+115
+February 01
+1998	Burkina Faso
+Namibia	3
+1	Friendly
+in Niger	+16
+-16	1382
+1383	+4
+-5	111
+110
+February 07
+1998	Burkina Faso
+Cameroon	0
+1	African Nations Cup
+in Burkina Faso	-20
++20	1362
+1575	-4
++5	115
+55
+February 11
+1998	Burkina Faso
+Algeria	2
+1	African Nations Cup
+in Burkina Faso	+31
+-31	1393
+1511	+10
+-8	105
+71
+February 15
+1998	Burkina Faso
+Guinea	1
+0	African Nations Cup
+in Burkina Faso	+27
+-27	1420
+1490	+6
+-5	99
+72
+February 21
+1998	Burkina Faso
+Tunisia	1
+1	African Nations Cup
+in Burkina Faso	+9
+-9	1429
+1636	0
+-2	99
+44
+February 25
+1998	Burkina Faso
+Egypt	0
+2	African Nations Cup
+in Burkina Faso	-26
++26	1403
+1665	-3
++5	102
+38
+February 27
+1998	Burkina Faso
+Dem. Rep. of Congo	4
+4	African Nations Cup
+in Burkina Faso	0
+0	1403
+1503	0
+0	102
+68
+May 19
+1998	Cameroon
+Burkina Faso	2
+0	Friendly
+in Cameroon	+6
+-6	1566
+1397	0
+-1	59
+103
+July 24
+1998	Burkina Faso
+Niger	1
+0	Friendly tournament
+in Burkina Faso	+9
+-9	1406
+1329	+1
+-2	103
+122
+August 23
+1998	Burkina Faso
+Togo	1
+1	Friendly
+in Burkina Faso	-4
++4	1402
+1381	-1
++2	101
+109
+August 30
+1998	Burkina Faso
+Ivory Coast	1
+1	Friendly
+in Burkina Faso	+3
+-3	1405
+1608	+1
+-1	100
+53
+September 27
+1998	Mali
+Burkina Faso	1
+0	Friendly
+in Mali	+6
+-6	1460
+1399	+5
+-2	86
+105
+October 04
+1998	Burkina Faso
+Nigeria	0
+0	African Nations Cup qualifier
+in Burkina Faso	+9
+-9	1408
+1669	+4
+-3	100
+37
+October 17
+1998	Qatar
+Burkina Faso	2
+2	Friendly
+in Qatar	-6
++6	1532
+1414	-2
++2	67
+98
+October 19
+1998	Oman
+Burkina Faso	4
+2	Friendly
+in Oman	+14
+-14	1341
+1400	+2
+-4	119
+102
+October 21
+1998	Oman
+Burkina Faso	0
+0	Friendly
+in Oman	-1
++1	1340
+1401	0
++1	119
+101
+October 23
+1998	Bahrain
+Burkina Faso	2
+1	Friendly
+in Bahrain	+9
+-9	1345
+1392	+1
+-4	119
+105
+January 04
+1999	Burkina Faso
+Gabon	2
+1	Friendly
+in Burkina Faso	+9
+-9	1401
+1454	+6
+-3	102
+86
+January 10
+1999	Burkina Faso
+Mali	1
+0	Friendly
+in Burkina Faso	+8
+-8	1409
+1420	+1
+-2	101
+97
+January 15
+1999	Burkina Faso
+Mali	4
+1	Friendly
+in Burkina Faso	+13
+-13	1422
+1407	+4
+-4	97
+101
+January 18
+1999	Togo
+Burkina Faso	1
+2	Friendly
+in Togo	-12
++12	1371
+1434	-2
++2	114
+95
+January 23
+1999	Senegal
+Burkina Faso	1
+1	African Nations Cup qualifier
+in Senegal	-7
++7	1452
+1441	-3
++3	86
+92
+February 20
+1999	Gabon
+Burkina Faso	1
+1	Friendly
+in Gabon	-3
++3	1432
+1444	-1
+0	93
+91
+February 28
+1999	Burundi
+Burkina Faso	1
+2	African Nations Cup qualifier
+in Burundi	-27
++27	1442
+1471	-11
++11	91
+80
+April 03
+1999	Mali
+Burkina Faso	5
+2	Friendly
+in Mali	+15
+-15	1431
+1456	+3
+-2	91
+83
+April 11
+1999	Burkina Faso
+Burundi	3
+1	African Nations Cup qualifier
+in Burkina Faso	+20
+-20	1476
+1422	+3
+-6	80
+94
+June 06
+1999	Burkina Faso
+Senegal	2
+2	African Nations Cup qualifier
+in Burkina Faso	-7
++7	1469
+1459	-1
+0	81
+84
+November 07
+1999	Burkina Faso
+Togo	1
+0	Friendly
+in Burkina Faso	+5
+-5	1474
+1367	+1
+-1	83
+113
+November 10
+1999	Burkina Faso
+Togo	1
+1	Friendly
+in Burkina Faso	-5
++5	1469
+1372	-1
++1	84
+112
+November 27
+1999	Congo
+Burkina Faso	2
+1	Friendly tournament
+in Gabon	+18
+-18	1415
+1451	+3
+-6	100
+88
+November 28
+1999	Gabon
+Burkina Faso	3
+2	Friendly tournament
+in Gabon	+10
+-10	1476
+1441	+1
+-3	81
+91
+December 29
+1999	Ivory Coast
+Burkina Faso	3
+1	Friendly
+in Ivory Coast	+6
+-6	1582
+1435	0
+-1	56
+93
+January 09
+2000	Burkina Faso
+Gabon	1
+1	Friendly
+in Burkina Faso	-2
++2	1433
+1463	-2
++2	95
+83
+January 11
+2000	Burkina Faso
+Cameroon	2
+2	Friendly
+in Burkina Faso	+1
+-1	1434
+1575	+1
+-1	94
+58
+January 25
+2000	Senegal
+Burkina Faso	3
+1	African Nations Cup
+in Nigeria	+27
+-27	1561
+1407	+3
+-6	61
+100
+January 29
+2000	Zambia
+Burkina Faso	1
+1	African Nations Cup
+in Nigeria	-10
++10	1543
+1417	-3
++1	63
+99
+February 01
+2000	Egypt
+Burkina Faso	4
+2	African Nations Cup
+in Nigeria	+14
+-14	1682
+1403	+2
+-1	39
+100
+April 09
+2000	Ethiopia
+Burkina Faso	2
+1	World Cup qualifier
+in Ethiopia	+19
+-19	1342
+1384	+2
+-7	121
+107
+April 19
+2000	Mali
+Burkina Faso	2
+1	Friendly
+in Mali	+6
+-6	1456
+1378	+1
+-2	88
+109
+April 23
+2000	Burkina Faso
+Ethiopia	3
+0	World Cup qualifier
+in Burkina Faso	+21
+-21	1399
+1312	+7
+-3	103
+127
+May 26
+2000	Algeria
+Burkina Faso	2
+0	Friendly
+in Algeria	+6
+-6	1537
+1393	+1
+-1	63
+104
+June 14
+2000	Kenya
+Burkina Faso	0
+1	Friendly
+in Kenya	-13
++13	1373
+1406	-3
++1	111
+103
+June 17
+2000	Malawi
+Burkina Faso	1
+1	World Cup qualifier
+in Malawi	-1
++1	1325
+1407	0
++1	125
+102
+June 30
+2000	Mauritania
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Mauritania	+6
+-6	1213
+1401	0
+-1	151
+102
+July 09
+2000	Burkina Faso
+Guinea	2
+3	World Cup qualifier
+in Burkina Faso	-20
++20	1381
+1523	-8
++4	107
+67
+July 16
+2000	Burkina Faso
+Mauritania	3
+0	African Nations Cup qualifier
+in Burkina Faso	+12
+-12	1393
+1201	+7
+-2	101
+153
+September 03
+2000	Algeria
+Burkina Faso	1
+1	African Nations Cup qualifier
+in Algeria	-12
++12	1525
+1405	-2
++3	67
+101
+October 07
+2000	Burkina Faso
+Burundi	1
+0	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1421
+1415	+8
+-8	93
+98
+January 07
+2001	Togo
+Burkina Faso	1
+1	Friendly
+in Togo	-3
++3	1422
+1424	-2
++1	97
+96
+January 13
+2001	Burkina Faso
+Angola	1
+0	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1440
+1445	+6
+-5	90
+86
+January 23
+2001	Burkina Faso
+Mali	0
+2	Friendly
+in Burkina Faso	-20
++20	1420
+1429	-6
++4	97
+95
+January 27
+2001	South Africa
+Burkina Faso	1
+0	World Cup qualifier
+in South Africa	+5
+-5	1666
+1415	+2
+0	43
+97
+February 24
+2001	Burkina Faso
+Zimbabwe	1
+2	World Cup qualifier
+in Burkina Faso	-24
++24	1391
+1477	-5
++4	101
+80
+March 25
+2001	Angola
+Burkina Faso	2
+0	African Nations Cup qualifier
+in Angola	+16
+-16	1484
+1375	+2
+-8	78
+110
+April 21
+2001	Burkina Faso
+Malawi	4
+2	World Cup qualifier
+in Burkina Faso	+15
+-15	1390
+1272	+10
+-1	104
+137
+June 03
+2001	Burundi
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Burundi	-4
++4	1357
+1394	-2
++4	121
+102
+June 17
+2001	Burkina Faso
+Algeria	1
+0	African Nations Cup qualifier
+in Burkina Faso	+21
+-21	1415
+1492	+6
+-5	97
+75
+July 01
+2001	Burkina Faso
+South Africa	1
+1	World Cup qualifier
+in Burkina Faso	+8
+-8	1423
+1649	0
+-4	97
+46
+July 07
+2001	Gambia
+Burkina Faso	1
+0	West African Nations Cup qualifier
+in Gambia	+21
+-21	1335
+1402	+4
+-4	123
+101
+July 15
+2001	Zimbabwe
+Burkina Faso	1
+0	World Cup qualifier
+in Zimbabwe	+12
+-12	1465
+1390	+3
+-4	81
+105
+October 16
+2001	Algeria
+Burkina Faso	2
+0	Friendly
+in Algeria	+6
+-6	1529
+1384	+1
+-3	68
+106
+December 16
+2001	Burkina Faso
+Togo	1
+2	Friendly
+in Burkina Faso	-9
++9	1375
+1512	-4
++1	111
+74
+December 22
+2001	Togo
+Burkina Faso	1
+0	Friendly
+in Togo	+4
+-4	1516
+1371	+1
+-3	73
+114
+December 26
+2001	Senegal
+Burkina Faso	2
+4	Friendly
+in Senegal	-26
++26	1580
+1397	-1
++12	54
+102
+December 28
+2001	Mali
+Burkina Faso	2
+1	Friendly
+in Mali	+6
+-6	1438
+1391	+1
+-3	94
+105
+January 07
+2002	Burkina Faso
+Cameroon	1
+3	Friendly
+in Burkina Faso	-7
++7	1384
+1715	-2
++6	106
+31
+January 11
+2002	Egypt
+Burkina Faso	2
+2	Friendly
+in Egypt	-8
++8	1625
+1392	0
++2	48
+104
+January 15
+2002	Burkina Faso
+Zambia	2
+1	Friendly
+in Burkina Faso	+10
+-10	1402
+1489	+2
+-5	102
+82
+January 20
+2002	Burkina Faso
+South Africa	0
+0	African Nations Cup
+in Mali	+14
+-14	1416
+1613	+2
+-4	100
+52
+January 26
+2002	Morocco
+Burkina Faso	2
+1	African Nations Cup
+in Mali	+11
+-11	1656
+1405	+1
+-2	42
+102
+January 30
+2002	Ghana
+Burkina Faso	2
+1	African Nations Cup
+in Mali	+16
+-16	1545
+1389	+5
+-3	63
+105
+September 08
+2002	Congo
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Congo	-5
++5	1368
+1394	-3
+0	116
+109
+October 13
+2002	Burkina Faso
+Central African Republic	2
+1	African Nations Cup qualifier
+in Burkina Faso	+7
+-7	1401
+1217	+1
+0	109
+150
+March 26
+2003	Burundi
+Burkina Faso	0
+0	Friendly
+in Burundi	0
+0	1298
+1401	0
+0	131
+106
+March 30
+2003	Mozambique
+Burkina Faso	1
+0	African Nations Cup qualifier
+in Mozambique	+24
+-24	1261
+1377	+4
+-6	144
+113
+May 29
+2003	Burkina Faso
+Algeria	1
+0	Friendly
+in France	+14
+-14	1391
+1499	+5
+-3	109
+74
+June 07
+2003	Burkina Faso
+Mozambique	4
+0	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1407
+1245	+7
+-3	102
+146
+June 21
+2003	Burkina Faso
+Congo	3
+0	African Nations Cup qualifier
+in Burkina Faso	+24
+-24	1431
+1373	+7
+-9	95
+114
+July 06
+2003	Central African Republic
+Burkina Faso	0
+3	African Nations Cup qualifier
+in Central African Republic	-23
++23	1179
+1454	-5
++7	159
+87
+September 24
+2003	Burkina Faso
+Benin	1
+0	Friendly tournament
+in Algeria	+11
+-11	1465
+1348	+5
+-3	84
+121
+September 26
+2003	Algeria
+Burkina Faso	0
+0	Friendly tournament
+in Algeria	-5
++5	1492
+1470	0
++1	77
+83
+October 23
+2003	Zimbabwe
+Burkina Faso	4
+1	Afro-Asian Games
+in India	+28
+-28	1565
+1442	+4
+-7	63
+92
+November 08
+2003	Gabon
+Burkina Faso	0
+0	Friendly
+in Gabon	-2
++2	1413
+1444	0
++1	100
+90
+November 15
+2003	Morocco
+Burkina Faso	1
+0	Friendly
+in Morocco	+3
+-3	1627
+1441	+2
+-1	47
+91
+January 17
+2004	Egypt
+Burkina Faso	1
+1	Friendly
+in Egypt	-8
++8	1684
+1449	0
++2	36
+89
+January 20
+2004	Guinea
+Burkina Faso	1
+0	Friendly
+in France	+8
+-8	1524
+1441	+2
+-3	70
+91
+January 26
+2004	Burkina Faso
+Senegal	0
+0	African Nations Cup
+in Tunisia	+18
+-18	1459
+1732	+6
+-1	85
+27
+January 30
+2004	Mali
+Burkina Faso	3
+1	African Nations Cup
+in Tunisia	+23
+-23	1628
+1436	+6
+-8	48
+92
+February 02
+2004	Kenya
+Burkina Faso	3
+0	African Nations Cup
+in Tunisia	+47
+-47	1455
+1389	+21
+-17	83
+108
+May 27
+2004	Benin
+Burkina Faso	1
+0	Friendly
+in Benin	+10
+-10	1309
+1379	+1
+-1	131
+109
+May 30
+2004	Burkina Faso
+Libya	3
+2	Friendly
+in Burkina Faso	+9
+-9	1388
+1441	+2
+-5	107
+94
+June 05
+2004	Burkina Faso
+Ghana	1
+0	World Cup qualifier
+in Burkina Faso	+18
+-18	1406
+1430	+6
+-7	103
+95
+June 13
+2004	Burkina Faso
+Benin	4
+2	Friendly
+in Burkina Faso	+7
+-7	1413
+1300	0
+-3	102
+132
+June 20
+2004	Dem. Rep. of Congo
+Burkina Faso	3
+2	World Cup qualifier
+in Dem. Rep. of Congo	+15
+-15	1413
+1398	+5
+-6	102
+108
+July 03
+2004	South Africa
+Burkina Faso	2
+0	World Cup qualifier
+in South Africa	+12
+-12	1543
+1386	+4
+0	66
+108
+August 17
+2004	Algeria
+Burkina Faso	2
+2	Friendly
+in Algeria	-5
++5	1484
+1391	0
++1	79
+106
+September 04
+2004	Burkina Faso
+Uganda	2
+0	World Cup qualifier
+in Burkina Faso	+20
+-20	1411
+1353	+5
+-9	101
+119
+October 09
+2004	Cape Verde
+Burkina Faso	1
+0	World Cup qualifier
+in Cape Verde	+18
+-18	1366
+1393	+8
+-4	111
+102
+November 17
+2004	Morocco
+Burkina Faso	4
+0	Friendly
+in Morocco	+4
+-4	1689
+1389	-1
+-1	36
+103
+February 09
+2005	Algeria
+Burkina Faso	3
+0	Friendly
+in Algeria	+11
+-11	1436
+1378	+1
+-4	94
+105
+March 20
+2005	South Korea
+Burkina Faso	1
+0	Friendly
+in United Arab Emirates	+3
+-3	1694
+1375	+2
+-1	35
+105
+March 26
+2005	Burkina Faso
+Cape Verde	1
+2	World Cup qualifier
+in Burkina Faso	-26
++26	1349
+1392	-10
++9	115
+100
+May 29
+2005	Togo
+Burkina Faso	1
+0	Friendly
+in Togo	+3
+-3	1536
+1346	0
+-2	71
+117
+June 05
+2005	Ghana
+Burkina Faso	2
+1	World Cup qualifier
+in Ghana	+8
+-8	1493
+1338	+2
+-3	79
+120
+June 18
+2005	Burkina Faso
+Dem. Rep. of Congo	2
+0	World Cup qualifier
+in Burkina Faso	+32
+-32	1370
+1424	+15
+-6	105
+93
+September 03
+2005	Burkina Faso
+South Africa	3
+1	World Cup qualifier
+in Burkina Faso	+38
+-38	1408
+1530	+7
+-11	99
+72
+October 08
+2005	Uganda
+Burkina Faso	2
+2	World Cup qualifier
+in Uganda	-1
++1	1318
+1409	+2
+-1	125
+98
+February 28
+2006	Algeria
+Burkina Faso	0
+0	Friendly
+in France	0
+0	1411
+1409	0
+0	98
+99
+August 16
+2006	Morocco
+Burkina Faso	1
+0	Friendly
+in Morocco	+2
+-2	1658
+1407	0
+0	47
+98
+August 29
+2006	Uganda
+Burkina Faso	0
+0	Friendly
+in Uganda	-2
++2	1361
+1409	0
+0	110
+98
+September 02
+2006	Tanzania
+Burkina Faso	2
+1	African Nations Cup qualifier
+in Tanzania	+26
+-26	1235
+1383	+10
+-4	144
+102
+October 07
+2006	Burkina Faso
+Senegal	1
+0	African Nations Cup qualifier
+in Burkina Faso	+30
+-30	1413
+1649	+3
+-3	99
+47
+November 15
+2006	Burkina Faso
+Algeria	2
+1	Friendly
+in France	+10
+-10	1423
+1416	+1
+-1	98
+99
+March 24
+2007	Burkina Faso
+Mozambique	1
+1	African Nations Cup qualifier
+in Burkina Faso	-12
++12	1411
+1291	-3
++4	100
+134
+May 28
+2007	Zimbabwe
+Burkina Faso	1
+1	Friendly
+in Zimbabwe	-4
++4	1456
+1415	0
++1	90
+99
+June 03
+2007	Mozambique
+Burkina Faso	3
+1	African Nations Cup qualifier
+in Mozambique	+31
+-31	1337
+1384	+11
+-4	118
+103
+June 09
+2007	Burkina Faso
+Mali	0
+1	Friendly
+in Burkina Faso	-8
++8	1376
+1556	-3
+0	107
+67
+June 16
+2007	Burkina Faso
+Tanzania	0
+1	African Nations Cup qualifier
+in Burkina Faso	-28
++28	1348
+1352	-7
++12	115
+114
+August 22
+2007	Mali
+Burkina Faso	3
+2	Friendly
+in France	+4
+-4	1569
+1344	+2
+-3	60
+119
+September 08
+2007	Senegal
+Burkina Faso	5
+1	African Nations Cup qualifier
+in Senegal	+7
+-7	1647
+1337	+2
+-2	45
+120
+October 28
+2007	Burkina Faso
+Niger	0
+0	UEMOA Tournament
+in Burkina Faso	-9
++9	1328
+1272	-3
++3	126
+139
+October 30
+2007	Burkina Faso
+Senegal	0
+0	UEMOA Tournament
+in Burkina Faso	+11
+-11	1339
+1638	+4
+-4	122
+47
+November 01
+2007	Burkina Faso
+Togo	2
+1	UEMOA Tournament
+in Burkina Faso	+18
+-18	1357
+1379	+10
+-5	112
+108
+May 24
+2008	Cape Verde
+Burkina Faso	1
+0	Friendly
+in Portugal	+11
+-11	1319
+1346	+1
+-2	130
+115
+June 01
+2008	Tunisia
+Burkina Faso	1
+2	World Cup qualifier
+in Tunisia	-36
++36	1606
+1382	-7
++9	51
+107
+June 07
+2008	Burkina Faso
+Burundi	2
+0	World Cup qualifier
+in Burkina Faso	+13
+-13	1395
+1254	+2
+-3	105
+144
+June 14
+2008	Seychelles
+Burkina Faso	2
+3	World Cup qualifier
+in Seychelles	-10
++10	1083
+1405	-1
++2	178
+102
+June 21
+2008	Burkina Faso
+Seychelles	4
+1	World Cup qualifier
+in Burkina Faso	+6
+-6	1411
+1077	+2
+0	101
+178
+August 20
+2008	Bahrain
+Burkina Faso	3
+1	Friendly
+in Bahrain	+7
+-7	1533
+1404	+3
+-3	73
+104
+September 06
+2008	Burkina Faso
+Tunisia	0
+0	World Cup qualifier
+in Burkina Faso	+6
+-6	1410
+1609	+1
+-5	103
+53
+October 12
+2008	Burundi
+Burkina Faso	1
+3	World Cup qualifier
+in Burundi	-26
++26	1238
+1436	-5
++10	146
+93
+February 11
+2009	Burkina Faso
+Togo	1
+1	Friendly
+in France	-1
++1	1435
+1418	0
+0	96
+101
+March 28
+2009	Burkina Faso
+Guinea	4
+2	World Cup qualifier
+in Burkina Faso	+33
+-33	1468
+1538	+8
+-10	89
+71
+June 06
+2009	Malawi
+Burkina Faso	0
+1	World Cup qualifier
+in Malawi	-18
++18	1320
+1486	-3
++2	129
+87
+June 20
+2009	Burkina Faso
+Ivory Coast	2
+3	World Cup qualifier
+in Burkina Faso	-11
++11	1475
+1755	-1
++3	89
+26
+August 12
+2009	Mali
+Burkina Faso	3
+0	Friendly
+in France	+14
+-14	1557
+1461	+4
+-2	63
+91
+September 05
+2009	Ivory Coast
+Burkina Faso	5
+0	World Cup qualifier
+in Ivory Coast	+8
+-8	1763
+1453	+2
+-1	24
+92
+October 11
+2009	Burkina Faso
+Guinea	2
+1	World Cup qualifier
+in Ghana	+23
+-23	1476
+1486	+3
+-2	89
+87
+November 14
+2009	Burkina Faso
+Malawi	1
+0	World Cup qualifier
+in Burkina Faso	+8
+-8	1484
+1335	+1
+0	88
+124
+January 11
+2010	Burkina Faso
+Ivory Coast	0
+0	African Nations Cup
+in Angola	+17
+-17	1501
+1752	+2
+-5	85
+25
+January 19
+2010	Ghana
+Burkina Faso	1
+0	African Nations Cup
+in Angola	+15
+-15	1662
+1486	+1
+-3	43
+89
+August 11
+2010	Burkina Faso
+Congo	3
+0	Friendly
+in France	+12
+-12	1498
+1359	+1
+-5	86
+118
+September 06
+2010	Burkina Faso
+Gabon	1
+1	Friendly
+in France	+1
+-1	1499
+1522	0
+0	87
+78
+October 09
+2010	Burkina Faso
+Gambia	3
+1	African Nations Cup qualifier
+in Burkina Faso	+16
+-16	1515
+1408	+7
+-4	80
+106
+November 17
+2010	Burkina Faso
+Guinea	2
+1	Friendly
+in France	+10
+-10	1525
+1519	+4
+-4	77
+79
+February 09
+2011	Cape Verde
+Burkina Faso	1
+0	Friendly
+in Portugal	+13
+-13	1420
+1512	+4
+-7	105
+81
+March 26
+2011	Burkina Faso
+Namibia	4
+0	African Nations Cup qualifier
+in Burkina Faso	+10
+-10	1522
+1274	+6
+-1	75
+140
+June 04
+2011	Namibia
+Burkina Faso	1
+4	African Nations Cup qualifier
+in Namibia	-21
++21	1253
+1543	-6
++6	145
+69
+August 10
+2011	South Africa
+Burkina Faso	3
+0	Friendly
+in South Africa	+8
+-8	1652
+1535	0
+-1	48
+71
+September 03
+2011	Burkina Faso
+Equatorial Guinea	1
+0	Friendly
+in Burkina Faso	+2
+-2	1537
+1221	0
+-1	70
+150
+October 08
+2011	Gambia
+Burkina Faso	1
+1	African Nations Cup qualifier
+in Gambia	+4
+-4	1377
+1533	+1
+0	113
+72
+November 11
+2011	Burkina Faso
+Mali	1
+1	Friendly
+in France	-1
++1	1532
+1507	-1
+-2	74
+80
+November 15
+2011	Burkina Faso
+Guinea	1
+1	Friendly
+in France	-1
++1	1531
+1510	0
++1	74
+78
+January 09
+2012	Gabon
+Burkina Faso	0
+0	Friendly
+in Gabon	-2
++2	1500
+1533	-1
+0	84
+74
+January 22
+2012	Angola
+Burkina Faso	2
+1	African Nations Cup
+in Equatorial Guinea	+27
+-27	1536
+1506	+4
+-6	75
+81
+January 26
+2012	Ivory Coast
+Burkina Faso	2
+0	African Nations Cup
+in Equatorial Guinea	+11
+-11	1821
+1495	+1
+-4	14
+85
+January 30
+2012	Sudan
+Burkina Faso	2
+1	African Nations Cup
+in Equatorial Guinea	+30
+-30	1451
+1465	+3
+-5	97
+92
+February 29
+2012	Morocco
+Burkina Faso	2
+0	Friendly
+in Morocco	+8
+-8	1545
+1457	+3
+-3	73
+95
+May 26
+2012	Burkina Faso
+Benin	2
+2	Friendly
+in Burkina Faso	-5
++5	1452
+1381	-1
++1	95
+108
+June 02
+2012	Burkina Faso
+Congo	0
+0	World Cup qualifier
+in Burkina Faso	-10
++10	1442
+1374	-1
++6	96
+110
+June 09
+2012	Gabon
+Burkina Faso	1
+0	World Cup qualifier
+in Gabon	+10
+-10	1549
+1432	+1
+-3	71
+99
+August 14
+2012	Burkina Faso
+Togo	3
+0	Friendly
+in France	+14
+-14	1446
+1338	+2
+-3	97
+122
+September 08
+2012	Central African Republic
+Burkina Faso	1
+0	African Nations Cup qualifier
+in Central African Republic	+19
+-19	1375
+1427	+6
+-4	109
+100
+October 14
+2012	Burkina Faso
+Central African Republic	3
+1	African Nations Cup qualifier
+in Burkina Faso	+18
+-18	1445
+1357	+6
+-9	95
+121
+November 14
+2012	Burkina Faso
+Dem. Rep. of Congo	1
+0	Friendly
+in Morocco	+10
+-10	1455
+1435	+3
+-4	93
+100
+December 26
+2012	Bahrain
+Burkina Faso	0
+0	Friendly
+in Bahrain	-3
++3	1473
+1458	-1
++1	90
+93
+January 10
+2013	Burkina Faso
+Niger	0
+0	Friendly
+in South Africa	-3
++3	1455
+1367	-1
+0	94
+120
+January 17
+2013	Burkina Faso
+Swaziland	3
+0	Friendly
+in South Africa	+4
+-4	1459
+1101	0
+-1	93
+179
+January 21
+2013	Burkina Faso
+Nigeria	1
+1	African Nations Cup
+in South Africa	+12
+-12	1471
+1625	+2
+-2	90
+50
+January 25
+2013	Burkina Faso
+Ethiopia	4
+0	African Nations Cup
+in South Africa	+32
+-32	1503
+1328	+8
+-7	82
+128
+January 29
+2013	Burkina Faso
+Zambia	0
+0	African Nations Cup
+in South Africa	+4
+-4	1507
+1552	+2
+0	79
+70
+February 03
+2013	Burkina Faso
+Togo	1
+0	African Nations Cup
+in South Africa	+22
+-22	1529
+1439	+3
+-7	76
+99
+February 06
+2013	Burkina Faso
+Ghana	1
+1	African Nations Cup
+in South Africa	+13
+-13	1542
+1718	+3
+-1	73
+30
+February 10
+2013	Nigeria
+Burkina Faso	1
+0	African Nations Cup
+in South Africa	+14
+-14	1719
+1528	+2
+-2	30
+75
+March 23
+2013	Burkina Faso
+Niger	4
+0	World Cup qualifier
+in Burkina Faso	+11
+-11	1539
+1315	0
+-3	74
+130
+June 02
+2013	Algeria
+Burkina Faso	2
+0	Friendly
+in Algeria	+11
+-11	1533
+1528	+2
+-3	74
+76
+June 09
+2013	Niger
+Burkina Faso	0
+1	World Cup qualifier
+in Niger	-14
++14	1301
+1542	-4
++3	134
+72
+June 15
+2013	Congo
+Burkina Faso	0
+1	World Cup qualifier
+in Congo	-17
++17	1381
+1559	-4
++7	111
+65
+August 14
+2013	Morocco
+Burkina Faso	1
+2	Friendly
+in Morocco	-12
++12	1515
+1571	-3
++3	80
+63
+August 17
+2013	South Africa
+Burkina Faso	2
+0	Friendly
+in South Africa	+11
+-11	1570
+1560	+2
+-3	64
+66
+September 07
+2013	Burkina Faso
+Gabon	1
+0	World Cup qualifier
+in Burkina Faso	+11
+-11	1571
+1479	+4
+-3	64
+89
+September 10
+2013	Nigeria
+Burkina Faso	4
+1	Friendly
+in Nigeria	+7
+-7	1711
+1564	+3
+-1	30
+65
+September 30
+2013	Botswana
+Burkina Faso	1
+0	Friendly
+in Botswana	+15
+-15	1309
+1549	+6
+-6	130
+71
+October 12
+2013	Burkina Faso
+Algeria	3
+2	World Cup qualifier
+in Burkina Faso	+16
+-16	1565
+1568	+7
+-3	63
+62
+November 19
+2013	Algeria
+Burkina Faso	1
+0	World Cup qualifier
+in Algeria	+14
+-14	1582
+1551	+3
+-5	59
+71
+March 05
+2014	Burkina Faso
+Comoros	1
+1	Friendly
+in France	-10
++10	1541
+891	-2
++1	73
+198

@@ -1,0 +1,5553 @@
+September 14
+1921	Costa Rica
+El Salvador	7
+0	Central American Independence Centenary Cup
+in Guatemala	+10
+-10	1710
+1390	-
+-	13
+35
+September 18
+1921	Guatemala
+Costa Rica	0
+6	Central American Independence Centenary Cup
+in Guatemala	-24
++24	1503
+1734	-1
++2	29
+11
+March 17
+1930	Costa Rica
+Guatemala	8
+1	Central American Games
+in Cuba	+19
+-19	1753
+1483	+2
+-2	12
+39
+March 22
+1930	Costa Rica
+El Salvador	9
+2	Central American Games
+in Cuba	+13
+-13	1766
+1431	+1
+0	11
+44
+March 26
+1930	Costa Rica
+El Salvador	5
+0	Central American Games
+in Cuba	+10
+-10	1776
+1421	+1
+-2	10
+46
+March 30
+1930	Cuba
+Costa Rica	2
+1	Central American Games
+in Cuba	+26
+-26	1599
+1750	+5
+-3	25
+13
+April 04
+1930	Costa Rica
+Honduras	8
+0	Central American Games
+in Cuba	+17
+-17	1767
+1470	+2
+-3	11
+42
+March 25
+1935	Costa Rica
+Guatemala	4
+3	Central American Games
+in El Salvador	+5
+-5	1772
+1424	+1
+-1	10
+48
+March 30
+1935	El Salvador
+Costa Rica	1
+6	Central American Games
+in El Salvador	-11
++11	1348
+1783	-3
+0	58
+10
+March 31
+1935	Costa Rica
+Cuba	2
+1	Central American Games
+in El Salvador	+7
+-7	1790
+1510	0
+0	10
+36
+April 02
+1935	Mexico
+Costa Rica	2
+0	Central American Games
+in El Salvador	+40
+-40	1710
+1750	+4
+-2	14
+12
+April 03
+1935	Costa Rica
+Honduras	6
+0	Central American Games
+in El Salvador	+12
+-12	1762
+1423	+1
+-3	11
+47
+February 12
+1938	Costa Rica
+El Salvador	7
+0	Central American and Caribbean Games
+in Panama	+9
+-9	1771
+1373	0
+-2	12
+54
+February 16
+1938	Panama
+Costa Rica	0
+11	Central American and Caribbean Games
+in Panama	-18
++18	1375
+1789	-4
++2	54
+10
+February 18
+1938	Costa Rica
+Colombia	2
+1	Central American and Caribbean Games
+in Panama	+10
+-10	1799
+1596	+1
+-2	9
+31
+February 20
+1938	Costa Rica
+Venezuela	3
+0	Central American and Caribbean Games
+in Panama	+3
+-3	1802
+1266	0
+0	9
+67
+February 22
+1938	Mexico
+Costa Rica	2
+1	Central American and Caribbean Games
+in Panama	+23
+-23	1779
+1779	+2
+-3	12
+12
+February 25
+1940	El Salvador
+Costa Rica	3
+2	Friendly
+in El Salvador	+17
+-17	1414
+1762	+1
+-2	52
+14
+March 10
+1940	El Salvador
+Costa Rica	0
+1	Friendly
+in El Salvador	-4
++4	1410
+1766	0
++1	52
+13
+May 10
+1941	Costa Rica
+Nicaragua	7
+2	CCCF Championship
+in Costa Rica	+1
+-1	1767
+999	0
+-	14
+82
+May 11
+1941	Costa Rica
+Panama	7
+0	CCCF Championship
+in Costa Rica	+5
+-5	1772
+1325	0
+0	14
+65
+May 13
+1941	Costa Rica
+Curacao	6
+2	CCCF Championship
+in Costa Rica	+7
+-7	1779
+1422	+1
+-2	13
+51
+May 18
+1941	Costa Rica
+El Salvador	3
+1	CCCF Championship
+in Costa Rica	+6
+-6	1785
+1433	0
+0	13
+49
+December 05
+1943	Costa Rica
+Nicaragua	7
+0	CCCF Championship
+in El Salvador	+1
+-1	1786
+967	+1
+0	12
+84
+December 07
+1943	Guatemala
+Costa Rica	3
+2	CCCF Championship
+in El Salvador	+46
+-46	1418
+1740	+4
+-3	55
+15
+December 09
+1943	El Salvador
+Costa Rica	4
+2	CCCF Championship
+in El Salvador	+58
+-58	1484
+1682	+8
+-3	44
+18
+December 12
+1943	Costa Rica
+Nicaragua	3
+2	CCCF Championship
+in El Salvador	+1
+-1	1683
+956	0
+0	18
+84
+December 16
+1943	Guatemala
+Costa Rica	4
+2	CCCF Championship
+in El Salvador	+62
+-62	1472
+1621	+8
+-7	48
+25
+December 19
+1943	El Salvador
+Costa Rica	2
+4	CCCF Championship
+in El Salvador	-35
++35	1466
+1656	-7
++5	49
+20
+February 24
+1946	Costa Rica
+Nicaragua	7
+1	CCCF Championship
+in Costa Rica	+1
+-1	1657
+952	0
+0	20
+84
+February 26
+1946	Costa Rica
+Panama	7
+0	CCCF Championship
+in Costa Rica	+10
+-10	1667
+1341	+1
+-2	19
+65
+March 07
+1946	Costa Rica
+Honduras	5
+1	CCCF Championship
+in Costa Rica	+12
+-12	1679
+1429	0
+-2	19
+52
+March 10
+1946	Costa Rica
+Guatemala	1
+4	CCCF Championship
+in Costa Rica	-75
++75	1604
+1540	-10
++9	29
+38
+March 13
+1946	Costa Rica
+El Salvador	4
+0	CCCF Championship
+in Costa Rica	+19
+-19	1623
+1442	+5
+-1	24
+50
+December 10
+1946	Costa Rica
+Puerto Rico	12
+0	Central American and Caribbean Games
+in Colombia	+3
+-3	1626
+997	+2
+-	25
+85
+December 14
+1946	Costa Rica
+Venezuela	4
+2	Central American and Caribbean Games
+in Colombia	+8
+-8	1634
+1294	+1
+0	24
+69
+December 16
+1946	Costa Rica
+Guatemala	6
+0	Central American and Caribbean Games
+in Colombia	+22
+-22	1656
+1432	+3
+-5	21
+52
+December 18
+1946	Colombia
+Costa Rica	4
+1	Central American and Caribbean Games
+in Colombia	+40
+-40	1551
+1616	+4
+-6	37
+27
+December 20
+1946	Curacao
+Costa Rica	4
+2	Central American and Caribbean Games
+in Colombia	+43
+-43	1502
+1573	+4
+-7	42
+34
+December 21
+1946	Panama
+Costa Rica	2
+0	Central American and Caribbean Games
+in Colombia	+46
+-46	1409
+1527	+4
+-7	57
+41
+February 29
+1948	Costa Rica
+El Salvador	3
+1	CCCF Championship
+in Guatemala	+26
+-26	1553
+1393	+4
+-6	37
+61
+March 02
+1948	Costa Rica
+Panama	7
+0	CCCF Championship
+in Guatemala	+34
+-34	1587
+1375	+5
+-7	32
+62
+March 04
+1948	Guatemala
+Costa Rica	1
+1	CCCF Championship
+in Guatemala	+4
+-4	1442
+1583	+1
+0	50
+32
+March 07
+1948	Costa Rica
+Netherlands Antilles	2
+1	CCCF Championship
+in Guatemala	+21
+-21	1604
+1512	+2
+-1	30
+42
+March 11
+1948	Costa Rica
+Panama	3
+1	CCCF Championship
+in Guatemala	+15
+-15	1619
+1348	+4
+-5	26
+68
+March 16
+1948	Guatemala
+Costa Rica	3
+2	CCCF Championship
+in Guatemala	+30
+-30	1476
+1589	+4
+-6	44
+32
+March 18
+1948	Costa Rica
+El Salvador	6
+0	CCCF Championship
+in Guatemala	+26
+-26	1615
+1364	+6
+-3	26
+63
+March 20
+1948	Netherlands Antilles
+Costa Rica	4
+1	CCCF Championship
+in Guatemala	+69
+-69	1455
+1546	+13
+-11	47
+37
+February 26
+1950	Costa Rica
+El Salvador	1
+0	Central American and Caribbean Games
+in Guatemala	+11
+-11	1557
+1359	+1
+-1	37
+70
+February 27
+1950	Costa Rica
+Curacao	1
+0	Central American and Caribbean Games
+in Guatemala	+14
+-14	1571
+1441	+5
+-2	32
+55
+April 08
+1950	Panama
+Costa Rica	2
+0	Friendly
+in Panama	+15
+-15	1486
+1556	+5
+-6	47
+38
+April 09
+1950	Panama
+Costa Rica	0
+1	Friendly
+in Panama	-11
++11	1475
+1567	-3
++5	50
+33
+February 25
+1951	Costa Rica
+Nicaragua	8
+1	CCCF Championship
+in Panama	+4
+-4	1571
+974	+1
+0	32
+103
+February 27
+1951	Panama
+Costa Rica	2
+0	CCCF Championship
+in Panama	+37
+-37	1512
+1534	+7
+-8	45
+40
+March 02
+1951	Panama
+Costa Rica	1
+1	CCCF Championship
+in Panama	-6
++6	1508
+1540	0
+0	45
+40
+March 03
+1951	Costa Rica
+Nicaragua	4
+1	CCCF Championship
+in Panama	+3
+-3	1543
+969	0
+0	40
+103
+March 08
+1953	Costa Rica
+El Salvador	5
+1	CCCF Championship
+in Costa Rica	+21
+-21	1564
+1408	+3
+-2	35
+66
+March 10
+1953	Costa Rica
+Panama	3
+0	CCCF Championship
+in Costa Rica	+18
+-18	1582
+1415	+3
+-3	32
+65
+March 13
+1953	Costa Rica
+Honduras	4
+1	CCCF Championship
+in Costa Rica	+21
+-21	1603
+1462	+2
+-2	30
+55
+March 15
+1953	Costa Rica
+Netherlands Antilles	1
+0	CCCF Championship
+in Costa Rica	+13
+-13	1616
+1501	+2
+-4	28
+47
+March 17
+1953	Costa Rica
+Nicaragua	3
+0	CCCF Championship
+in Costa Rica	+2
+-2	1618
+1020	0
+0	28
+110
+March 21
+1953	Costa Rica
+Guatemala	3
+0	CCCF Championship
+in Costa Rica	+13
+-13	1631
+1403	+2
+0	26
+65
+July 24
+1955	Costa Rica
+Guatemala	9
+1	Friendly
+in Costa Rica	+6
+-6	1637
+1397	+4
+-3	24
+73
+July 31
+1955	Guatemala
+Costa Rica	3
+1	Friendly
+in Guatemala	+21
+-21	1418
+1616	+6
+-5	67
+29
+August 14
+1955	Costa Rica
+Aruba	3
+2	CCCF Championship
+in Honduras	+2
+-2	1618
+1045	0
+0	29
+115
+August 16
+1955	Costa Rica
+Cuba	6
+0	CCCF Championship
+in Honduras	+16
+-16	1634
+1295	+2
+-4	27
+94
+August 19
+1955	Costa Rica
+El Salvador	4
+0	CCCF Championship
+in Honduras	+22
+-22	1656
+1409	+4
+-3	23
+67
+August 24
+1955	Costa Rica
+Netherlands Antilles	2
+1	CCCF Championship
+in Honduras	+13
+-13	1669
+1466	0
+-3	23
+58
+August 28
+1955	Honduras
+Costa Rica	1
+2	CCCF Championship
+in Honduras	-19
++19	1466
+1688	-3
++2	58
+21
+February 26
+1956	Mexico
+Costa Rica	1
+1	Pan American Championship
+in Mexico	-3
++3	1631
+1691	0
+0	26
+20
+March 06
+1956	Argentina
+Costa Rica	4
+3	Pan American Championship
+in Mexico	+7
+-7	2028
+1684	0
+0	2
+20
+March 08
+1956	Costa Rica
+Chile	2
+1	Pan American Championship
+in Mexico	+34
+-34	1718
+1781	0
+-3	20
+13
+March 13
+1956	Brazil
+Costa Rica	7
+1	Pan American Championship
+in Mexico	+19
+-19	2001
+1699	0
+0	3
+20
+March 17
+1956	Costa Rica
+Peru	4
+2	Pan American Championship
+in Mexico	+43
+-43	1742
+1706	+4
+-4	16
+20
+February 10
+1957	Guatemala
+Costa Rica	2
+6	World Cup qualifier
+in Guatemala	-18
++18	1430
+1760	-2
++1	64
+17
+February 17
+1957	Costa Rica
+Guatemala	3
+1	World Cup qualifier
+in Costa Rica	+5
+-5	1765
+1425	+1
+-1	16
+65
+March 03
+1957	Costa Rica
+Curacao	4
+0	World Cup qualifier
+in Costa Rica	+9
+-9	1774
+1509	0
+-1	16
+48
+August 01
+1957	Curacao
+Costa Rica	1
+2	World Cup qualifier
+in Curacao	-13
++13	1527
+1787	-2
++1	47
+15
+October 20
+1957	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+27
+-27	1751
+1760	+2
+-2	18
+17
+October 27
+1957	Costa Rica
+Mexico	1
+1	World Cup qualifier
+in Costa Rica	-6
++6	1754
+1757	-1
++1	18
+17
+March 01
+1959	Mexico
+Costa Rica	3
+1	Friendly tournament
+in Mexico	+20
+-20	1711
+1734	+2
+-2	22
+19
+March 08
+1959	Costa Rica
+Mexico	1
+2	Friendly tournament
+in Costa Rica	-20
++20	1714
+1731	-3
++2	22
+20
+September 03
+1959	United States
+Costa Rica	3
+4	Friendly
+in the United States	-5
++5	1439
+1719	-1
+0	68
+23
+December 14
+1959	Costa Rica
+Honduras	6
+1	Friendly tournament
+in El Salvador	+12
+-12	1731
+1457	0
+0	22
+60
+February 17
+1960	Costa Rica
+Netherlands Antilles	1
+1	CCCF Championship
+in Cuba	-17
++17	1714
+1454	0
++7	21
+62
+February 20
+1960	Costa Rica
+Honduras	1
+1	CCCF Championship
+in Cuba	-16
++16	1698
+1469	-2
++3	23
+60
+February 24
+1960	Costa Rica
+Dutch Guiana	3
+1	CCCF Championship
+in Cuba	+11
+-11	1709
+1389	+1
+-4	22
+84
+February 28
+1960	Cuba
+Costa Rica	0
+5	CCCF Championship
+in Cuba	-7
++7	1146
+1716	0
++1	123
+21
+February 29
+1960	Costa Rica
+Netherlands Antilles	4
+1	CCCF Championship
+in Cuba	+17
+-17	1733
+1456	0
+-2	21
+61
+March 08
+1960	Costa Rica
+Argentina	0
+0	Pan American Championship
+in Costa Rica	+7
+-7	1740
+1930	0
+0	21
+2
+March 10
+1960	Costa Rica
+Brazil	3
+0	Pan American Championship
+in Costa Rica	+60
+-60	1800
+1911	+7
+-2	14
+3
+March 12
+1960	Costa Rica
+Mexico	1
+1	Pan American Championship
+in Costa Rica	-11
++11	1789
+1755	-1
++1	15
+20
+March 15
+1960	Costa Rica
+Argentina	0
+2	Pan American Championship
+in Costa Rica	-29
++29	1760
+1995	-3
+0	18
+1
+March 17
+1960	Costa Rica
+Brazil	0
+4	Pan American Championship
+in Costa Rica	-41
++41	1719
+1945	-3
++2	21
+2
+March 20
+1960	Costa Rica
+Mexico	0
+3	Pan American Championship
+in Costa Rica	-55
++55	1664
+1780	-8
++5	29
+15
+August 21
+1960	Costa Rica
+Guatemala	3
+2	World Cup qualifier
+in Costa Rica	+4
+-4	1668
+1390	+1
+-3	26
+87
+August 28
+1960	Guatemala
+Costa Rica	4
+4	World Cup qualifier
+in Guatemala	+9
+-9	1399
+1659	+3
+-2	84
+28
+September 04
+1960	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+27
+-27	1459
+1632	+9
+-4	65
+33
+September 11
+1960	Costa Rica
+Honduras	5
+0	World Cup qualifier
+in Costa Rica	+14
+-14	1646
+1445	+2
+-4	31
+69
+January 14
+1961	Costa Rica
+Honduras	1
+0	World Cup qualifier
+in Guatemala	+9
+-9	1655
+1428	+4
+-1	29
+72
+March 01
+1961	Costa Rica
+Guatemala	4
+2	CCCF Championship
+in Costa Rica	+9
+-9	1664
+1398	+1
+-3	28
+83
+March 05
+1961	Costa Rica
+Cuba	4
+1	CCCF Championship
+in Costa Rica	+2
+-2	1666
+1138	0
+0	28
+129
+March 10
+1961	Costa Rica
+Haiti	3
+0	CCCF Championship
+in Costa Rica	+16
+-16	1682
+1490	+3
+-5	25
+59
+March 14
+1961	Costa Rica
+Panama	6
+1	CCCF Championship
+in Costa Rica	+4
+-4	1686
+1230	+1
+-1	24
+116
+March 16
+1961	Costa Rica
+El Salvador	4
+0	CCCF Championship
+in Costa Rica	+11
+-11	1697
+1420	0
+-3	24
+75
+March 18
+1961	Costa Rica
+Haiti	8
+0	CCCF Championship
+in Costa Rica	+16
+-16	1713
+1460	0
+-4	24
+66
+March 20
+1961	Costa Rica
+Honduras	3
+0	CCCF Championship
+in Costa Rica	+9
+-9	1722
+1433	+3
+0	21
+70
+March 22
+1961	Costa Rica
+Mexico	1
+0	World Cup qualifier
+in Costa Rica	+18
+-18	1740
+1762	+3
+0	18
+17
+March 29
+1961	Costa Rica
+Netherlands Antilles	6
+0	World Cup qualifier
+in Costa Rica	+7
+-7	1747
+1419	0
+0	18
+75
+April 12
+1961	Mexico
+Costa Rica	4
+1	World Cup qualifier
+in Mexico	+23
+-23	1792
+1724	+1
+-3	16
+21
+April 23
+1961	Netherlands Antilles
+Costa Rica	2
+0	World Cup qualifier
+in the Netherlands Antilles	+46
+-46	1458
+1678	+12
+-7	66
+27
+March 24
+1963	Costa Rica
+Jamaica	6
+0	Concacaf Championship
+in El Salvador	+8
+-8	1686
+1244	+1
+-2	23
+120
+March 28
+1963	Costa Rica
+Netherlands Antilles	1
+0	Concacaf Championship
+in El Salvador	+18
+-18	1704
+1575	+1
+-6	23
+47
+March 30
+1963	Costa Rica
+Mexico	0
+0	Concacaf Championship
+in El Salvador	+5
+-5	1709
+1769	0
+-1	23
+19
+April 03
+1963	Costa Rica
+Netherlands Antilles	1
+0	Concacaf Championship
+in El Salvador	+16
+-16	1725
+1565	0
+-2	23
+47
+April 05
+1963	Costa Rica
+Honduras	2
+1	Concacaf Championship
+in El Salvador	+8
+-8	1733
+1438	+1
+-2	22
+72
+April 07
+1963	El Salvador
+Costa Rica	1
+4	Concacaf Championship
+in El Salvador	-31
++31	1496
+1764	-5
++1	60
+21
+September 01
+1963	Colombia
+Costa Rica	4
+5	Friendly
+in Colombia	-4
++4	1419
+1768	0
+0	80
+20
+September 04
+1963	Colombia
+Costa Rica	1
+0	Friendly
+in Colombia	+16
+-16	1435
+1752	+3
+0	77
+20
+February 12
+1965	Costa Rica
+Dutch Guiana	1
+0	World Cup qualifier
+in Costa Rica	+3
+-3	1755
+1405	0
+-1	23
+89
+February 21
+1965	Costa Rica
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Costa Rica	+6
+-6	1761
+1424	+2
+-2	21
+84
+February 22
+1965	Costa Rica
+Trinidad and Tobago	1
+0	Friendly
+in Costa Rica	+1
+-1	1762
+1423	0
+0	21
+84
+February 28
+1965	Dutch Guiana
+Costa Rica	1
+3	World Cup qualifier
+in Dutch Guiana	-11
++11	1394
+1773	-2
++1	91
+20
+March 07
+1965	Trinidad and Tobago
+Costa Rica	0
+1	World Cup qualifier
+in Trinidad and Tobago	-8
++8	1415
+1781	0
++3	84
+17
+March 09
+1965	Netherlands Antilles
+Costa Rica	1
+2	Friendly
+in the Netherlands Antilles	-5
++5	1463
+1786	-1
+0	75
+17
+March 17
+1965	Costa Rica
+Paraguay	1
+0	Friendly
+in Costa Rica	+7
+-7	1793
+1763	+1
+-2	16
+22
+March 19
+1965	Costa Rica
+Paraguay	0
+0	Friendly
+in Costa Rica	-4
++4	1789
+1767	0
++1	16
+21
+March 28
+1965	Guatemala
+Costa Rica	0
+0	Concacaf Championship
+in Guatemala	+18
+-18	1397
+1771	+4
+-3	90
+19
+March 31
+1965	El Salvador
+Costa Rica	2
+1	Concacaf Championship
+in Guatemala	+42
+-42	1520
+1729	+13
+-5	57
+24
+April 03
+1965	Costa Rica
+Netherlands Antilles	6
+0	Concacaf Championship
+in Guatemala	+18
+-18	1747
+1432	0
+-5	24
+80
+April 06
+1965	Costa Rica
+Mexico	1
+1	Concacaf Championship
+in Guatemala	+4
+-4	1751
+1804	+1
+-1	23
+15
+April 10
+1965	Costa Rica
+Haiti	3
+1	Concacaf Championship
+in Guatemala	+8
+-8	1759
+1381	0
+-3	23
+94
+April 25
+1965	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	-3
++3	1756
+1818	0
++1	23
+12
+May 11
+1965	Costa Rica
+Jamaica	7
+0	World Cup qualifier
+in Costa Rica	+3
+-3	1759
+1269	0
+-1	23
+123
+May 16
+1965	Mexico
+Costa Rica	1
+0	World Cup qualifier
+in Mexico	+11
+-11	1834
+1748	+3
+-1	10
+24
+May 22
+1965	Jamaica
+Costa Rica	1
+1	World Cup qualifier
+in Jamaica	+16
+-16	1285
+1732	+2
+0	121
+24
+July 11
+1965	Honduras
+Costa Rica	1
+1	Friendly
+in Honduras	+6
+-6	1378
+1726	+1
+0	94
+25
+October 08
+1967	Costa Rica
+Haiti	3
+1	Olympic Games qualifier
+in Costa Rica	+4
+-4	1730
+1358	+1
+-4	22
+100
+October 29
+1967	El Salvador
+Costa Rica	3
+1	Friendly
+in El Salvador	+23
+-23	1456
+1707	+1
+-3	75
+25
+December 09
+1967	Haiti
+Costa Rica	3
+2	Olympic Games qualifier
+in Haiti	+32
+-32	1390
+1675	+10
+-5	88
+29
+February 08
+1968	Costa Rica
+Colombia	3
+1	Friendly
+in Costa Rica	+4
+-4	1679
+1428	+1
+-2	28
+81
+May 26
+1968	Guatemala
+Costa Rica	1
+0	Olympic Games qualifier
+in Guatemala	+20
+-20	1591
+1659	+3
+-4	44
+31
+June 02
+1968	Costa Rica
+Guatemala	3
+2	Olympic Games qualifier
+in Costa Rica	+11
+-11	1670
+1580	0
+-1	31
+45
+September 11
+1968	El Salvador
+Costa Rica	1
+1	Friendly
+in El Salvador	+2
+-2	1514
+1668	0
+0	63
+30
+September 22
+1968	Colombia
+Costa Rica	1
+1	Friendly
+in Colombia	+4
+-4	1430
+1664	+3
+0	79
+30
+October 04
+1968	Netherlands Antilles
+Costa Rica	1
+1	Friendly
+in the Netherlands Antilles	+3
+-3	1458
+1661	0
+0	75
+30
+November 14
+1968	Costa Rica
+El Salvador	3
+0	Friendly
+in Costa Rica	+6
+-6	1667
+1481	+1
+-2	29
+71
+November 27
+1968	Costa Rica
+Jamaica	3
+0	World Cup qualifier
+in Costa Rica	+3
+-3	1670
+1203	+1
+-1	28
+132
+December 01
+1968	Costa Rica
+Jamaica	3
+1	World Cup qualifier
+in Costa Rica	+2
+-2	1672
+1201	0
+-1	28
+133
+December 22
+1968	Honduras
+Costa Rica	1
+0	World Cup qualifier
+in Honduras	+29
+-29	1439
+1643	+6
+-1	79
+30
+December 29
+1968	Costa Rica
+Honduras	1
+1	World Cup qualifier
+in Costa Rica	-14
++14	1629
+1453	-6
++3	36
+76
+September 14
+1969	El Salvador
+Costa Rica	2
+1	Friendly
+in El Salvador	+11
+-11	1515
+1618	+2
+-3	62
+39
+November 23
+1969	Costa Rica
+Netherlands Antilles	2
+1	Concacaf Championship
+in Costa Rica	+8
+-8	1626
+1419	+1
+-2	36
+86
+November 27
+1969	Costa Rica
+Guatemala	1
+1	Concacaf Championship
+in Costa Rica	-15
++15	1611
+1500	-3
++7	39
+64
+December 02
+1969	Costa Rica
+Mexico	2
+0	Concacaf Championship
+in Costa Rica	+41
+-41	1652
+1702	+4
+-6	35
+26
+December 05
+1969	Costa Rica
+Trinidad and Tobago	5
+0	Concacaf Championship
+in Costa Rica	+9
+-9	1661
+1333	+1
+-3	34
+106
+December 08
+1969	Costa Rica
+Jamaica	3
+0	Concacaf Championship
+in Costa Rica	+3
+-3	1664
+1175	0
+-1	33
+138
+February 26
+1970	Costa Rica
+El Salvador	2
+0	Friendly
+in Costa Rica	+5
+-5	1669
+1496	0
+-3	33
+68
+November 22
+1971	Costa Rica
+Honduras	2
+1	Concacaf Championship
+in Trinidad and Tobago	+10
+-10	1679
+1418	+1
+-5	31
+85
+November 25
+1971	Costa Rica
+Haiti	0
+0	Concacaf Championship
+in Trinidad and Tobago	-12
++12	1667
+1518	-1
++1	32
+60
+November 29
+1971	Trinidad and Tobago
+Costa Rica	3
+1	Concacaf Championship
+in Trinidad and Tobago	+61
+-61	1374
+1606	+13
+-9	94
+41
+December 02
+1971	Mexico
+Costa Rica	1
+0	Concacaf Championship
+in Trinidad and Tobago	+19
+-19	1713
+1587	+2
+-3	28
+44
+December 03
+1971	Costa Rica
+Cuba	3
+0	Concacaf Championship
+in Trinidad and Tobago	+13
+-13	1600
+1278	+1
+-3	43
+118
+August 06
+1972	Mexico
+Costa Rica	0
+1	Friendly
+in Mexico	-16
++16	1720
+1616	-2
++4	26
+40
+October 01
+1972	Costa Rica
+El Salvador	2
+0	Friendly
+in Costa Rica	+5
+-5	1621
+1444	+2
+-1	37
+74
+October 08
+1972	Costa Rica
+El Salvador	1
+0	Friendly
+in Costa Rica	+3
+-3	1624
+1441	0
+-1	37
+75
+October 12
+1972	Mexico
+Costa Rica	3
+1	Friendly
+in Mexico	+6
+-6	1776
+1618	0
+0	17
+37
+October 15
+1972	Guatemala
+Costa Rica	0
+0	Friendly
+in Guatemala	-2
++2	1574
+1620	0
+0	50
+37
+November 12
+1972	Costa Rica
+Guatemala	1
+1	Friendly
+in Costa Rica	-4
++4	1616
+1578	-2
++1	40
+48
+December 03
+1972	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+29
+-29	1372
+1587	+11
+-8	96
+46
+December 10
+1972	Costa Rica
+Honduras	3
+3	World Cup qualifier
+in Costa Rica	-14
++14	1573
+1386	-2
++5	48
+91
+June 13
+1975	Panama
+Costa Rica	1
+1	Friendly
+in Panama	+6
+-6	1231
+1567	0
+-2	134
+49
+July 27
+1975	Costa Rica
+El Salvador	1
+0	Olympic Games qualifier
+in Costa Rica	+6
+-6	1573
+1367	+2
+-1	47
+95
+August 03
+1975	El Salvador
+Costa Rica	1
+2	Olympic Games qualifier
+in El Salvador	-14
++14	1353
+1587	-4
++3	99
+46
+August 17
+1975	Mexico
+Costa Rica	7
+0	Copa Ciudad de Mexico
+in Mexico	+17
+-17	1693
+1570	+4
+-3	27
+51
+August 19
+1975	Costa Rica
+United States	3
+1	Copa Ciudad de Mexico
+in Mexico	+15
+-15	1585
+1429	+3
+-1	48
+77
+August 24
+1975	Argentina
+Costa Rica	2
+0	Copa Ciudad de Mexico
+in Mexico	+9
+-9	1836
+1576	0
+0	12
+47
+November 30
+1975	Costa Rica
+Guatemala	1
+1	Olympic Games qualifier
+in Costa Rica	-8
++8	1568
+1534	-2
++2	50
+59
+December 07
+1975	Guatemala
+Costa Rica	2
+1	Olympic Games qualifier
+in Guatemala	+16
+-16	1550
+1552	+3
+-6	57
+56
+April 04
+1976	Panama
+Costa Rica	3
+2	World Cup qualifier
+in Panama	+30
+-30	1299
+1522	+10
+-4	116
+59
+June 30
+1976	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+7
+-7	1551
+1515	+1
+-1	54
+60
+July 11
+1976	Costa Rica
+Panama	3
+0	World Cup qualifier
+in Costa Rica	+10
+-10	1525
+1287	0
+-2	60
+121
+December 01
+1976	El Salvador
+Costa Rica	1
+1	World Cup qualifier
+in El Salvador	+3
+-3	1383
+1522	0
+-1	95
+60
+December 05
+1976	Costa Rica
+Guatemala	0
+0	World Cup qualifier
+in Costa Rica	-2
++2	1520
+1590	-1
+0	61
+47
+December 12
+1976	Guatemala
+Costa Rica	1
+1	World Cup qualifier
+in Guatemala	-9
++9	1590
+1529	-3
++3	47
+58
+December 15
+1976	Costa Rica
+El Salvador	1
+1	World Cup qualifier
+in Costa Rica	-13
++13	1516
+1387	-3
++2	61
+93
+June 10
+1977	Costa Rica
+Panama	2
+1	Friendly
+in Honduras	+3
+-3	1519
+1213	0
+0	60
+136
+October 28
+1978	Mexico
+Costa Rica	1
+3	Friendly
+in Mexico	-23
++23	1593
+1542	-4
++3	45
+59
+March 23
+1979	Panama
+Costa Rica	2
+2	Friendly
+in Panama	+6
+-6	1219
+1536	0
+0	136
+60
+May 22
+1979	Costa Rica
+Panama	4
+0	Olympic Games qualifier
+in Costa Rica	+6
+-6	1542
+1218	-1
+-2	60
+137
+May 25
+1979	Costa Rica
+Panama	2
+0	Olympic Games qualifier
+in Costa Rica	+5
+-5	1547
+1213	+1
+0	59
+137
+May 31
+1979	Mexico
+Costa Rica	0
+0	Friendly
+in Mexico	-5
++5	1612
+1552	0
+0	45
+59
+July 25
+1979	Costa Rica
+Guatemala	1
+2	Olympic Games qualifier
+in Costa Rica	-27
++27	1525
+1545	-2
++3	63
+61
+August 05
+1979	Guatemala
+Costa Rica	0
+1	Olympic Games qualifier
+in Guatemala	-27
++27	1518
+1552	-4
++3	65
+61
+August 26
+1979	Costa Rica
+Guatemala	1
+0	Olympic Games qualifier
+in El Salvador	+18
+-18	1570
+1500	+4
+-2	57
+67
+March 06
+1980	Honduras
+Costa Rica	1
+1	Friendly
+in Honduras	+1
+-1	1442
+1569	0
+0	76
+56
+March 12
+1980	Costa Rica
+Surinam	3
+2	Olympic Games qualifier
+in Costa Rica	+7
+-7	1576
+1388	0
+-1	55
+91
+March 30
+1980	Surinam
+Costa Rica	2
+3	Olympic Games qualifier
+in Surinam	-15
++15	1373
+1591	-6
++3	97
+49
+April 16
+1980	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-6
++6	1585
+1434	-2
++1	51
+78
+May 20
+1980	Guatemala
+Costa Rica	0
+0	Friendly
+in Guatemala	0
+0	1493
+1585	0
+0	68
+51
+May 29
+1980	Costa Rica
+Guatemala	2
+1	Friendly
+in Costa Rica	+5
+-5	1590
+1488	+1
+-1	50
+69
+June 12
+1980	Colombia
+Costa Rica	3
+1	Friendly
+in Colombia	+12
+-12	1568
+1578	+1
+-2	57
+52
+June 19
+1980	Costa Rica
+Colombia	1
+0	Friendly
+in Costa Rica	+7
+-7	1585
+1561	+1
+-1	51
+58
+June 24
+1980	Costa Rica
+Cuba	3
+0	Friendly
+in Costa Rica	+10
+-10	1595
+1512	+2
+-1	49
+64
+July 01
+1980	Venezuela
+Costa Rica	2
+0	Friendly
+in Venezuela	+22
+-22	1338
+1573	+2
+-2	106
+52
+July 05
+1980	Venezuela
+Costa Rica	1
+1	Friendly
+in Venezuela	+4
+-4	1342
+1569	0
+-3	106
+55
+August 10
+1980	Panama
+Costa Rica	1
+1	World Cup qualifier
+in Panama	+13
+-13	1211
+1556	+4
+-1	140
+57
+October 01
+1980	Costa Rica
+Honduras	2
+3	World Cup qualifier
+in Costa Rica	-32
++32	1524
+1456	-5
++7	62
+74
+October 12
+1980	Guatemala
+Costa Rica	0
+0	World Cup qualifier
+in Guatemala	-5
++5	1501
+1529	-1
++1	66
+61
+November 05
+1980	Costa Rica
+Panama	2
+0	World Cup qualifier
+in Costa Rica	+4
+-4	1533
+1176	+3
+0	57
+147
+November 16
+1980	Honduras
+Costa Rica	1
+1	World Cup qualifier
+in Honduras	-2
++2	1462
+1535	-3
+0	75
+57
+November 26
+1980	Costa Rica
+Guatemala	0
+3	World Cup qualifier
+in Costa Rica	-49
++49	1486
+1537	-12
++14	70
+56
+December 10
+1980	Costa Rica
+El Salvador	0
+0	World Cup qualifier
+in Costa Rica	-8
++8	1478
+1444	0
++1	71
+81
+March 15
+1983	Costa Rica
+Mexico	0
+1	Friendly
+in Costa Rica	-9
++9	1469
+1617	-4
+0	79
+41
+March 22
+1983	Mexico
+Costa Rica	1
+0	Friendly
+in Mexico	+4
+-4	1621
+1465	0
+-2	41
+81
+May 11
+1983	Honduras
+Costa Rica	0
+1	Olympic Games qualifier
+in Honduras	-31
++31	1551
+1496	-8
++8	55
+72
+May 18
+1983	Costa Rica
+Honduras	3
+2	Olympic Games qualifier
+in Costa Rica	+17
+-17	1513
+1534	+7
+-3	65
+58
+August 02
+1983	Costa Rica
+Cuba	3
+0	Friendly
+in Costa Rica	+13
+-13	1526
+1506	+3
+-4	61
+66
+August 04
+1983	Costa Rica
+Cuba	2
+0	Friendly
+in Costa Rica	+10
+-10	1536
+1496	+3
+-1	58
+68
+August 09
+1983	Costa Rica
+South Korea	1
+1	Friendly
+in Costa Rica	-2
++2	1534
+1581	-1
+0	59
+49
+October 23
+1983	Costa Rica
+Guatemala	1
+0	Olympic Games qualifier
+in Costa Rica	+12
+-12	1546
+1478	+2
+-4	56
+76
+October 30
+1983	Guatemala
+Costa Rica	1
+1	Olympic Games qualifier
+in Guatemala	-2
++2	1476
+1548	0
+0	76
+56
+March 02
+1984	Costa Rica
+Cuba	1
+0	Olympic Games qualifier
+in Costa Rica	+12
+-12	1560
+1484	+2
+-4	56
+75
+March 16
+1984	Cuba
+Costa Rica	0
+0	Olympic Games qualifier
+in Cuba	-1
++1	1483
+1561	0
+0	73
+56
+March 24
+1984	Panama
+Costa Rica	1
+1	Friendly
+in Panama	+7
+-7	1170
+1554	+2
+0	148
+54
+February 06
+1985	Costa Rica
+El Salvador	2
+1	Friendly
+in Costa Rica	+5
+-5	1559
+1465	0
+-1	58
+78
+February 13
+1985	El Salvador
+Costa Rica	1
+0	Friendly
+in El Salvador	+10
+-10	1475
+1549	+1
+0	77
+58
+February 17
+1985	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+9
+-9	1504
+1540	+4
+0	68
+58
+March 06
+1985	Costa Rica
+Guatemala	2
+0	Friendly
+in Costa Rica	+9
+-9	1549
+1495	0
+-4	60
+72
+March 21
+1985	Costa Rica
+Canada	1
+0	Friendly
+in Costa Rica	+6
+-6	1555
+1493	0
+-2	60
+72
+March 24
+1985	Costa Rica
+Canada	0
+0	Friendly
+in Costa Rica	-4
++4	1551
+1497	0
++2	60
+70
+April 24
+1985	Costa Rica
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Costa Rica	+10
+-10	1561
+1330	0
+-1	59
+108
+April 28
+1985	Costa Rica
+Trinidad and Tobago	1
+1	World Cup qualifier
+in Costa Rica	-15
++15	1546
+1345	-1
+0	60
+108
+May 26
+1985	Costa Rica
+United States	1
+1	World Cup qualifier
+in Costa Rica	-8
++8	1538
+1498	-1
++4	63
+68
+May 31
+1985	United States
+Costa Rica	0
+1	World Cup qualifier
+in the United States	-23
++23	1475
+1561	-10
++5	78
+58
+July 18
+1985	Costa Rica
+Trinidad and Tobago	3
+1	Friendly
+in Costa Rica	+4
+-4	1565
+1314	+2
+0	56
+109
+August 11
+1985	Costa Rica
+Honduras	2
+2	World Cup qualifier
+in Costa Rica	-4
++4	1561
+1592	-2
+0	59
+48
+August 17
+1985	Canada
+Costa Rica	1
+1	World Cup qualifier
+in Canada	-6
++6	1556
+1567	-2
++3	60
+56
+September 01
+1985	Costa Rica
+Canada	0
+0	World Cup qualifier
+in Costa Rica	-5
++5	1562
+1588	-5
++4	59
+48
+September 08
+1985	Honduras
+Costa Rica	3
+1	World Cup qualifier
+in Honduras	+21
+-21	1586
+1541	+7
+-4	49
+63
+January 06
+1988	Guatemala
+Costa Rica	1
+2	Friendly
+in Guatemala	-12
++12	1514
+1553	-1
++1	65
+59
+March 02
+1988	Costa Rica
+Guatemala	2
+1	Friendly
+in Costa Rica	+6
+-6	1559
+1501	+1
+-2	57
+72
+June 14
+1988	United States
+Costa Rica	1
+0	Friendly
+in the United States	+10
+-10	1467
+1549	+2
+-3	77
+58
+June 17
+1988	Canada
+Costa Rica	0
+1	Friendly
+in Canada	-13
++13	1531
+1562	-1
++4	63
+55
+June 19
+1988	Costa Rica
+Ecuador	1
+0	Friendly
+in Costa Rica	+7
+-7	1569
+1558	+4
+-3	51
+55
+July 01
+1988	Netherlands Antilles
+Costa Rica	1
+1	Friendly
+in the Netherlands Antilles	+4
+-4	1305
+1565	+1
+0	112
+52
+July 03
+1988	Netherlands Antilles
+Costa Rica	1
+0	Friendly
+in the Netherlands Antilles	+14
+-14	1319
+1551	+1
+-6	111
+58
+July 17
+1988	Costa Rica
+Panama	1
+1	World Cup qualifier
+in Costa Rica	-18
++18	1533
+1183	-3
++1	61
+145
+July 31
+1988	Panama
+Costa Rica	0
+2	World Cup qualifier
+in Panama	-12
++12	1171
+1545	0
++1	145
+59
+February 08
+1989	Costa Rica
+Poland	2
+4	Friendly
+in Costa Rica	-10
++10	1535
+1770	-3
++1	61
+22
+February 21
+1989	El Salvador
+Costa Rica	2
+1	Friendship Cup
+in the United States	+18
+-18	1490
+1517	+1
+-4	73
+65
+February 23
+1989	Guatemala
+Costa Rica	3
+2	Friendship Cup
+in the United States	+15
+-15	1538
+1502	+6
+-2	58
+67
+March 19
+1989	Guatemala
+Costa Rica	1
+0	World Cup qualifier
+in Guatemala	+12
+-12	1560
+1490	+3
+-5	55
+72
+April 02
+1989	Costa Rica
+Guatemala	2
+1	World Cup qualifier
+in Costa Rica	+18
+-18	1508
+1542	+6
+-6	66
+61
+April 16
+1989	Costa Rica
+United States	1
+0	World Cup qualifier
+in Costa Rica	+12
+-12	1520
+1449	+2
+-5	65
+82
+April 30
+1989	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+18
+-18	1467
+1502	+6
+-3	75
+68
+May 28
+1989	Trinidad and Tobago
+Costa Rica	1
+1	World Cup qualifier
+in Trinidad and Tobago	+1
+-1	1384
+1501	0
+0	99
+68
+June 11
+1989	Costa Rica
+Trinidad and Tobago	1
+0	World Cup qualifier
+in Costa Rica	+9
+-9	1510
+1384	+3
+-2	66
+99
+June 25
+1989	El Salvador
+Costa Rica	2
+4	World Cup qualifier
+in El Salvador	-35
++35	1430
+1545	-9
++7	88
+59
+July 16
+1989	Costa Rica
+El Salvador	1
+0	World Cup qualifier
+in Costa Rica	+9
+-9	1554
+1421	+2
+-3	56
+90
+February 02
+1990	United States
+Costa Rica	0
+2	Friendly tournament
+in the United States	-27
++27	1501
+1581	-7
++6	69
+48
+February 04
+1990	Uruguay
+Costa Rica	2
+0	Friendly tournament
+in the United States	+7
+-7	1872
+1574	0
+-1	11
+49
+February 22
+1990	Soviet Union
+Costa Rica	2
+1	Friendly tournament
+in the United States	+4
+-4	1910
+1570	+1
+-2	5
+51
+May 06
+1990	Poland
+Costa Rica	2
+0	Friendly tournament
+in the United States	+12
+-12	1759
+1558	+2
+-3	22
+53
+May 19
+1990	Wales
+Costa Rica	1
+0	Friendly
+in Wales	+4
+-4	1687
+1554	0
+-1	31
+54
+June 11
+1990	Costa Rica
+Scotland	1
+0	World Cup
+in Italy	+42
+-42	1596
+1656	+6
+-4	48
+34
+June 16
+1990	Brazil
+Costa Rica	1
+0	World Cup
+in Italy	+6
+-6	1986
+1590	0
+0	2
+48
+June 20
+1990	Costa Rica
+Sweden	2
+1	World Cup
+in Italy	+48
+-48	1638
+1791	+8
+-6	40
+19
+June 23
+1990	Costa Rica
+Czechoslovakia	1
+4	World Cup
+in Italy	-26
++26	1612
+1858	-4
++6	44
+9
+April 17
+1991	Costa Rica
+Mexico	0
+0	Friendly
+in Costa Rica	+4
+-4	1616
+1843	+2
+0	42
+11
+May 13
+1991	Costa Rica
+Uruguay	0
+1	Friendly
+in Costa Rica	-7
++7	1609
+1828	-1
++2	43
+13
+May 26
+1991	Costa Rica
+Honduras	2
+0	UNCAF Cup
+in Costa Rica	+13
+-13	1622
+1476	+4
+-4	39
+71
+May 29
+1991	Costa Rica
+El Salvador	7
+1	UNCAF Cup
+in Costa Rica	+12
+-12	1634
+1395	+2
+-7	37
+95
+June 02
+1991	Costa Rica
+Guatemala	1
+0	UNCAF Cup
+in Costa Rica	+7
+-7	1641
+1454	0
+0	37
+75
+June 25
+1991	Costa Rica
+Colombia	0
+1	Friendly
+in Costa Rica	-10
++10	1631
+1735	-1
+0	38
+27
+June 29
+1991	Costa Rica
+Guatemala	2
+0	Concacaf Gold Cup
+in the United States	+20
+-20	1651
+1434	+3
+-6	35
+82
+July 01
+1991	Trinidad and Tobago
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+40
+-40	1452
+1611	+11
+-9	77
+44
+July 03
+1991	United States
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+20
+-20	1608
+1591	+6
+-5	44
+49
+July 05
+1991	Honduras
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+40
+-40	1609
+1551	+6
+-8	45
+57
+July 07
+1991	Mexico
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1789
+1535	+2
+-3	18
+60
+November 24
+1991	United States
+Costa Rica	1
+1	Friendly
+in the United States	-6
++6	1649
+1541	-2
++1	38
+56
+November 27
+1991	Costa Rica
+Mexico	1
+1	Friendly
+in the United States	+6
+-6	1547
+1781	0
+-1	56
+20
+February 12
+1992	Costa Rica
+United States	0
+0	Friendly
+in Costa Rica	0
+0	1547
+1657	0
+0	55
+38
+March 04
+1992	Costa Rica
+El Salvador	2
+0	Friendly
+in Costa Rica	+6
+-6	1553
+1398	+1
+-6	54
+95
+April 29
+1992	El Salvador
+Costa Rica	1
+1	Friendly
+in El Salvador	+2
+-2	1400
+1551	+1
+-2	95
+56
+May 27
+1992	Costa Rica
+Ecuador	2
+1	Friendly
+in Costa Rica	+9
+-9	1560
+1623	+2
+-1	53
+41
+August 02
+1992	Uruguay
+Costa Rica	2
+1	Friendly
+in Uruguay	+2
+-2	1829
+1558	0
+-1	11
+57
+August 06
+1992	Ecuador
+Costa Rica	1
+1	Friendly
+in Ecuador	-4
++4	1614
+1562	-1
++2	45
+55
+August 16
+1992	Panama
+Costa Rica	1
+0	World Cup qualifier
+in Panama	+32
+-32	1240
+1530	+10
+-9	140
+63
+August 23
+1992	Costa Rica
+Panama	5
+1	World Cup qualifier
+in Costa Rica	+7
+-7	1537
+1233	0
+-1	62
+141
+September 23
+1992	Brazil
+Costa Rica	4
+2	Friendly
+in Brazil	+1
+-1	1966
+1536	0
+0	1
+60
+November 08
+1992	Costa Rica
+Honduras	2
+3	World Cup qualifier
+in Costa Rica	-20
++20	1516
+1650	-7
++6	67
+36
+November 15
+1992	St. Vincent & Grenadines
+Costa Rica	0
+1	World Cup qualifier
+in St. Vincent & Grenadines	-12
++12	1267
+1528	-2
++6	131
+61
+November 22
+1992	Mexico
+Costa Rica	4
+0	World Cup qualifier
+in Mexico	+8
+-8	1797
+1520	0
+-4	16
+65
+November 29
+1992	Costa Rica
+Mexico	2
+0	World Cup qualifier
+in Costa Rica	+44
+-44	1564
+1753	+11
+-6	55
+22
+December 05
+1992	Honduras
+Costa Rica	2
+1	World Cup qualifier
+in Honduras	+10
+-10	1664
+1554	0
+-2	34
+55
+December 13
+1992	Costa Rica
+St. Vincent & Grenadines	5
+0	World Cup qualifier
+in Costa Rica	+7
+-7	1561
+1240	+1
+-2	54
+140
+February 16
+1993	Costa Rica
+Nicaragua	6
+0	UNCAF Cup
+in Costa Rica	+2
+-2	1563
+1023	+1
+0	55
+179
+February 21
+1993	Costa Rica
+Nicaragua	2
+0	UNCAF Cup
+in Costa Rica	+1
+-1	1564
+1022	0
+-1	55
+180
+March 05
+1993	Costa Rica
+El Salvador	1
+0	UNCAF Cup
+in Honduras	+16
+-16	1580
+1484	+2
+-7	53
+78
+March 07
+1993	Honduras
+Costa Rica	2
+0	UNCAF Cup
+in Honduras	+17
+-17	1665
+1563	+1
+-2	34
+55
+March 09
+1993	Costa Rica
+Panama	2
+0	UNCAF Cup
+in Honduras	+8
+-8	1571
+1234	+1
+-2	54
+143
+March 24
+1993	Costa Rica
+Canada	0
+1	Friendly
+in Costa Rica	-15
++15	1556
+1505	-5
++4	58
+70
+March 31
+1993	Colombia
+Costa Rica	4
+1	Friendly
+in Colombia	+6
+-6	1741
+1550	+1
+0	25
+58
+June 23
+1993	Costa Rica
+Panama	3
+1	Friendly
+in Costa Rica	+3
+-3	1553
+1231	+2
+0	60
+145
+June 29
+1993	Costa Rica
+Mexico	0
+2	Friendly
+in Costa Rica	-9
++9	1544
+1814	-1
++1	62
+12
+July 04
+1993	Jamaica
+Costa Rica	1
+1	Friendly
+in Jamaica	+1
+-1	1419
+1543	0
+-1	99
+63
+July 11
+1993	Canada
+Costa Rica	1
+1	Concacaf Gold Cup
+in Mexico	-1
++1	1562
+1544	-1
+0	57
+63
+July 15
+1993	Mexico
+Costa Rica	1
+1	Concacaf Gold Cup
+in Mexico	-20
++20	1824
+1564	-1
++8	12
+54
+July 18
+1993	Costa Rica
+Martinique	3
+1	Concacaf Gold Cup
+in Mexico	+33
+-33	1597
+1493	+4
+-9	50
+75
+July 21
+1993	United States
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+18
+-18	1616
+1579	+4
+-3	44
+53
+July 25
+1993	Costa Rica
+Jamaica	1
+1	Concacaf Gold Cup
+in Mexico	-9
++9	1570
+1453	-1
++2	54
+90
+September 23
+1993	Saudi Arabia
+Costa Rica	1
+2	Friendly
+in Saudi Arabia	-15
++15	1632
+1585	-3
++3	41
+52
+September 27
+1993	Saudi Arabia
+Costa Rica	3
+2	Friendly
+in Saudi Arabia	+6
+-6	1638
+1579	+2
+-2	38
+54
+January 19
+1994	Costa Rica
+Norway	0
+0	Friendly
+in the United States	+5
+-5	1584
+1787	0
+-2	53
+20
+June 11
+1994	Italy
+Costa Rica	1
+0	Friendly
+in the United States	+2
+-2	1947
+1582	+1
+0	2
+52
+December 17
+1994	Saudi Arabia
+Costa Rica	1
+3	Friendly
+in Saudi Arabia	-23
++23	1668
+1605	-3
++8	31
+42
+May 28
+1995	United States
+Costa Rica	1
+2	Friendly
+in the United States	-13
++13	1582
+1618	-4
++6	51
+38
+June 05
+1995	South Korea
+Costa Rica	1
+0	Korea Cup
+in South Korea	+10
+-10	1654
+1608	0
+-3	34
+43
+June 10
+1995	Ecuador
+Costa Rica	2
+1	Korea Cup
+in South Korea	+15
+-15	1625
+1593	+1
+-3	40
+45
+August 06
+1995	Japan
+Costa Rica	3
+0	Friendly
+in Japan	+12
+-12	1625
+1581	0
+-1	44
+47
+September 27
+1995	Jamaica
+Costa Rica	2
+0	Friendly
+in Jamaica	+16
+-16	1465
+1565	+3
+-2	87
+53
+December 01
+1995	Costa Rica
+Belize	2
+1	UNCAF Cup
+in El Salvador	+1
+-1	1566
+996	0
+0	54
+188
+December 03
+1995	El Salvador
+Costa Rica	2
+1	UNCAF Cup
+in El Salvador	+20
+-20	1486
+1546	+3
+-7	82
+61
+December 07
+1995	Honduras
+Costa Rica	1
+1	UNCAF Cup
+in El Salvador	+1
+-1	1531
+1545	0
+0	68
+61
+December 10
+1995	El Salvador
+Costa Rica	2
+1	UNCAF Cup
+in El Salvador	+19
+-19	1477
+1526	+5
+-8	82
+69
+June 05
+1996	Canada
+Costa Rica	0
+1	Friendly
+in Canada	-14
++14	1569
+1540	-4
++2	54
+64
+August 04
+1996	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-4
++4	1536
+1513	-3
+0	67
+72
+August 11
+1996	Honduras
+Costa Rica	0
+0	Friendly
+in Honduras	-2
++2	1497
+1538	-1
++2	75
+65
+August 14
+1996	Peru
+Costa Rica	3
+0	Friendly
+in Peru	+13
+-13	1553
+1525	+4
+-3	60
+68
+August 16
+1996	Ecuador
+Costa Rica	1
+1	Friendly
+in Ecuador	-6
++6	1674
+1531	0
++1	32
+67
+August 26
+1996	Costa Rica
+Chile	1
+1	Friendly
+in Costa Rica	+2
+-2	1533
+1717	0
+0	67
+29
+September 01
+1996	Trinidad and Tobago
+Costa Rica	0
+1	World Cup qualifier
+in Trinidad and Tobago	-28
++28	1543
+1561	-8
++9	64
+58
+September 04
+1996	Jamaica
+Costa Rica	2
+0	Friendly
+in Jamaica	+15
+-15	1465
+1546	+2
+-3	86
+61
+October 02
+1996	Venezuela
+Costa Rica	2
+0	Friendly
+in Venezuela	+19
+-19	1367
+1527	+3
+-4	116
+66
+October 09
+1996	Costa Rica
+Jamaica	0
+0	Friendly
+in Costa Rica	-3
++3	1524
+1509	-1
+0	67
+73
+November 02
+1996	Costa Rica
+Panama	2
+0	Friendly
+in Costa Rica	+4
+-4	1528
+1296	0
+-1	67
+130
+November 17
+1996	Costa Rica
+Guatemala	3
+0	World Cup qualifier
+in Costa Rica	+18
+-18	1546
+1423	+2
+-4	62
+95
+November 24
+1996	Guatemala
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+27
+-27	1450
+1519	+5
+-6	90
+68
+December 01
+1996	Costa Rica
+United States	2
+1	World Cup qualifier
+in Costa Rica	+25
+-25	1544
+1686	+5
+-3	63
+32
+December 14
+1996	United States
+Costa Rica	2
+1	World Cup qualifier
+in the United States	+8
+-8	1694
+1536	+1
+-1	31
+63
+December 21
+1996	Costa Rica
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Costa Rica	+12
+-12	1548
+1470	+1
+-2	62
+83
+February 05
+1997	Costa Rica
+Slovakia	2
+2	Friendly
+in Costa Rica	-1
++1	1547
+1608	0
++1	62
+48
+February 19
+1997	Costa Rica
+Venezuela	5
+2	Friendly
+in Costa Rica	+5
+-5	1552
+1338	0
+0	61
+121
+March 09
+1997	Costa Rica
+Cameroon	5
+0	Friendly
+in Costa Rica	+15
+-15	1567
+1553	+8
+-7	56
+63
+March 16
+1997	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1575
+1814	0
+0	56
+15
+March 23
+1997	Costa Rica
+United States	3
+2	World Cup qualifier
+in Costa Rica	+18
+-18	1593
+1626	+3
+-5	53
+42
+April 16
+1997	Guatemala
+Costa Rica	1
+1	UNCAF Cup
+in Guatemala	0
+0	1496
+1593	0
+0	76
+52
+April 18
+1997	Costa Rica
+Nicaragua	5
+1	UNCAF Cup
+in Guatemala	+2
+-2	1595
+978	+1
+0	50
+192
+April 23
+1997	Costa Rica
+Honduras	4
+0	UNCAF Cup
+in Guatemala	+36
+-36	1631
+1542	+7
+-7	44
+61
+April 25
+1997	Costa Rica
+El Salvador	1
+0	UNCAF Cup
+in Guatemala	+11
+-11	1642
+1456	+3
+-5	41
+86
+April 27
+1997	Guatemala
+Costa Rica	1
+1	UNCAF Cup
+in Guatemala	+1
+-1	1528
+1641	0
+-1	65
+42
+May 04
+1997	El Salvador
+Costa Rica	2
+1	World Cup qualifier
+in El Salvador	+25
+-25	1485
+1616	+8
+-7	78
+49
+May 11
+1997	Costa Rica
+Jamaica	3
+1	World Cup qualifier
+in Costa Rica	+17
+-17	1633
+1537	+4
+-1	45
+63
+June 01
+1997	Canada
+Costa Rica	1
+0	World Cup qualifier
+in Canada	+17
+-17	1598
+1616	+4
+-4	52
+48
+June 13
+1997	Brazil
+Costa Rica	5
+0	Copa América
+in Bolivia	+8
+-8	2048
+1608	0
+-2	1
+51
+June 16
+1997	Colombia
+Costa Rica	4
+1	Copa América
+in Bolivia	+26
+-26	1780
+1582	+2
+-4	21
+55
+June 19
+1997	Mexico
+Costa Rica	1
+1	Copa América
+in Bolivia	-15
++15	1807
+1597	-3
++3	17
+52
+August 10
+1997	Costa Rica
+El Salvador	0
+0	World Cup qualifier
+in Costa Rica	-12
++12	1585
+1471	-2
++4	55
+80
+September 07
+1997	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+12
+-12	1637
+1573	+2
+-2	45
+57
+September 14
+1997	Jamaica
+Costa Rica	1
+0	World Cup qualifier
+in Jamaica	+13
+-13	1608
+1560	0
+-5	52
+60
+November 09
+1997	Mexico
+Costa Rica	3
+3	World Cup qualifier
+in Mexico	-14
++14	1760
+1574	-2
++2	22
+54
+November 16
+1997	Costa Rica
+Canada	3
+1	World Cup qualifier
+in Costa Rica	+17
+-17	1591
+1495	+1
+-1	53
+72
+January 22
+1998	Costa Rica
+Honduras	1
+4	Friendly
+in Costa Rica	-25
++25	1566
+1547	-3
++5	56
+63
+January 25
+1998	Costa Rica
+Trinidad and Tobago	4
+0	Friendly
+in Costa Rica	+8
+-8	1574
+1436	+2
+-3	54
+97
+February 04
+1998	Costa Rica
+Cuba	7
+2	Concacaf Gold Cup
+in the United States	+32
+-32	1606
+1409	+4
+-5	50
+100
+February 07
+1998	United States
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+12
+-12	1720
+1594	+2
+-1	30
+51
+January 27
+1999	Costa Rica
+Ecuador	0
+0	Friendly
+in Costa Rica	+1
+-1	1595
+1728	0
+0	56
+25
+February 10
+1999	Jamaica
+Costa Rica	1
+1	Friendly
+in Jamaica	-4
++4	1652
+1599	0
+0	43
+56
+February 24
+1999	Costa Rica
+Jamaica	9
+0	Friendly
+in Costa Rica	+22
+-22	1621
+1630	+2
+-7	54
+50
+March 17
+1999	Costa Rica
+Belize	7
+0	UNCAF Cup
+in Costa Rica	+1
+-1	1622
+984	+1
+0	53
+192
+March 21
+1999	Costa Rica
+Honduras	0
+1	UNCAF Cup
+in Costa Rica	-31
++31	1591
+1538	-3
++5	56
+63
+March 24
+1999	Costa Rica
+Guatemala	1
+0	UNCAF Cup
+in Costa Rica	+10
+-10	1601
+1498	0
+-6	56
+74
+March 26
+1999	Costa Rica
+Honduras	1
+2	UNCAF Cup
+in Costa Rica	-28
++28	1573
+1589	-1
++3	57
+56
+March 28
+1999	Costa Rica
+El Salvador	4
+0	UNCAF Cup
+in Costa Rica	+14
+-14	1587
+1404	+1
+-8	56
+103
+May 29
+1999	Chile
+Costa Rica	3
+0	Friendly
+in Chile	+7
+-7	1730
+1580	+3
+0	24
+56
+July 17
+1999	Costa Rica
+Saudi Arabia	1
+0	Friendly
+in the United States	+13
+-13	1593
+1682	+1
+-3	55
+35
+August 18
+1999	Uruguay
+Costa Rica	5
+4	Friendly
+in Uruguay	+4
+-4	1721
+1589	+1
+0	27
+55
+November 25
+1999	Costa Rica
+Slovakia	4
+0	Friendly
+in Costa Rica	+16
+-16	1605
+1628	+3
+-3	51
+46
+December 29
+1999	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-3
++3	1602
+1598	0
+0	51
+53
+January 26
+2000	Costa Rica
+Trinidad and Tobago	2
+1	Friendly
+in Costa Rica	+6
+-6	1608
+1559	0
+-1	51
+61
+February 02
+2000	Costa Rica
+Chile	1
+0	Friendly
+in Costa Rica	+10
+-10	1618
+1708	0
+-1	51
+28
+February 13
+2000	Costa Rica
+Canada	2
+2	Concacaf Gold Cup
+in the United States	-5
++5	1613
+1557	-1
++2	52
+59
+February 17
+2000	Costa Rica
+South Korea	2
+2	Concacaf Gold Cup
+in the United States	+5
+-5	1618
+1679	0
+-3	53
+39
+February 20
+2000	Trinidad and Tobago
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+28
+-28	1608
+1590	+1
+-4	55
+57
+June 21
+2000	Paraguay
+Costa Rica	1
+0	Friendly
+in Paraguay	+3
+-3	1775
+1587	0
+0	18
+55
+July 01
+2000	Costa Rica
+Panama	5
+1	Friendly
+in Costa Rica	+5
+-5	1592
+1375	0
+-2	55
+110
+July 09
+2000	Costa Rica
+St. Vincent & Grenadines	7
+1	Friendly
+in Costa Rica	+4
+-4	1596
+1317	+1
+-1	55
+128
+July 16
+2000	Barbados
+Costa Rica	2
+1	World Cup qualifier
+in Barbados	+28
+-28	1385
+1568	+8
+-3	107
+58
+July 23
+2000	Costa Rica
+United States	2
+1	World Cup qualifier
+in Costa Rica	+26
+-26	1594
+1747	+1
+-1	57
+20
+August 10
+2000	Costa Rica
+Venezuela	1
+5	Friendly
+in Costa Rica	-32
++32	1562
+1412	-3
++10	60
+98
+August 15
+2000	Costa Rica
+Guatemala	2
+1	World Cup qualifier
+in Costa Rica	+12
+-12	1574
+1513	+2
+-3	58
+72
+September 03
+2000	Costa Rica
+Barbados	3
+0	World Cup qualifier
+in Costa Rica	+10
+-10	1584
+1357	+2
+-3	58
+116
+October 11
+2000	United States
+Costa Rica	0
+0	World Cup qualifier
+in the United States	-13
++13	1744
+1597	-2
++1	23
+57
+November 15
+2000	Guatemala
+Costa Rica	2
+1	World Cup qualifier
+in Guatemala	+18
+-18	1552
+1579	+2
+-1	62
+58
+January 06
+2001	Costa Rica
+Guatemala	5
+2	World Cup qualifier
+in the United States	+32
+-32	1611
+1520	+3
+-4	55
+66
+February 28
+2001	Costa Rica
+Honduras	2
+2	World Cup qualifier
+in Costa Rica	-1
++1	1610
+1691	+1
+0	54
+36
+March 28
+2001	Costa Rica
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Costa Rica	+28
+-28	1638
+1611	+5
+-4	49
+54
+April 18
+2001	Costa Rica
+Venezuela	2
+2	Friendly
+in Costa Rica	-8
++8	1630
+1394	-1
++2	50
+103
+April 25
+2001	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+7
+-7	1804
+1623	-1
+-2	16
+51
+May 23
+2001	Costa Rica
+Belize	4
+0	UNCAF Cup
+in Honduras	+2
+-2	1625
+997	+1
+0	50
+188
+May 27
+2001	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Honduras	-8
++8	1617
+1496	-2
++1	53
+73
+May 30
+2001	Costa Rica
+Panama	2
+1	UNCAF Cup
+in Honduras	+9
+-9	1626
+1402	+2
+-5	51
+102
+June 01
+2001	Guatemala
+Costa Rica	2
+0	UNCAF Cup
+in Honduras	+41
+-41	1535
+1585	+7
+-8	66
+59
+June 03
+2001	El Salvador
+Costa Rica	1
+1	UNCAF Cup
+in Honduras	+7
+-7	1473
+1578	+2
+0	79
+59
+June 16
+2001	Mexico
+Costa Rica	1
+2	World Cup qualifier
+in Mexico	-31
++31	1669
+1609	-8
++5	41
+54
+June 20
+2001	Costa Rica
+Jamaica	2
+1	World Cup qualifier
+in Costa Rica	+13
+-13	1622
+1571	+2
+-2	52
+62
+July 01
+2001	Honduras
+Costa Rica	2
+3	World Cup qualifier
+in Honduras	-29
++29	1661
+1651	-6
++7	41
+44
+July 13
+2001	Costa Rica
+Honduras	1
+0	Copa América
+in Colombia	+26
+-26	1677
+1638	+4
+-5	41
+48
+July 16
+2001	Costa Rica
+Uruguay	1
+1	Copa América
+in Colombia	+7
+-7	1684
+1776	+1
+-1	38
+23
+July 19
+2001	Costa Rica
+Bolivia	4
+0	Copa América
+in Colombia	+28
+-28	1712
+1505	+9
+-7	29
+73
+July 22
+2001	Uruguay
+Costa Rica	2
+1	Copa América
+in Colombia	+23
+-23	1766
+1689	+2
+-9	24
+38
+September 01
+2001	Trinidad and Tobago
+Costa Rica	0
+2	World Cup qualifier
+in Trinidad and Tobago	-27
++27	1524
+1716	-4
++6	67
+31
+September 05
+2001	Costa Rica
+United States	2
+0	World Cup qualifier
+in Costa Rica	+24
+-24	1740
+1727	+6
+-2	26
+28
+October 07
+2001	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	-4
++4	1736
+1767	0
++1	26
+23
+November 11
+2001	Jamaica
+Costa Rica	0
+1	World Cup qualifier
+in Jamaica	-14
++14	1517
+1750	-4
++2	71
+24
+January 18
+2002	Costa Rica
+Martinique	2
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1757
+1350	0
+-3	26
+120
+January 20
+2002	Trinidad and Tobago
+Costa Rica	1
+1	Concacaf Gold Cup
+in the United States	+13
+-13	1574
+1744	+2
+0	56
+26
+January 26
+2002	Costa Rica
+Haiti	2
+1	Concacaf Gold Cup
+in the United States	+9
+-9	1753
+1476	+2
+0	25
+83
+January 30
+2002	Costa Rica
+South Korea	3
+1	Concacaf Gold Cup
+in the United States	+37
+-37	1790
+1710	+6
+-7	21
+35
+February 02
+2002	United States
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+32
+-32	1773
+1758	+5
+-6	22
+27
+April 17
+2002	Japan
+Costa Rica	1
+1	Friendly
+in Japan	-5
++5	1850
+1763	-2
+0	10
+26
+April 20
+2002	South Korea
+Costa Rica	2
+0	Friendly
+in South Korea	+14
+-14	1705
+1749	+5
+-1	34
+27
+May 09
+2002	Costa Rica
+Colombia	1
+2	Friendly
+in Costa Rica	-10
++10	1739
+1858	0
++1	27
+8
+May 26
+2002	Belgium
+Costa Rica	1
+0	Friendly
+in Japan	+8
+-8	1807
+1731	+2
+-1	18
+28
+June 04
+2002	Costa Rica
+China	2
+0	World Cup
+in South Korea	+40
+-40	1771
+1656	+7
+-3	23
+40
+June 09
+2002	Costa Rica
+Turkey	1
+1	World Cup
+in South Korea	-6
++6	1765
+1707	0
+0	25
+34
+June 13
+2002	Brazil
+Costa Rica	5
+2	World Cup
+in South Korea	+35
+-35	1923
+1730	+3
+-7	7
+32
+October 16
+2002	Costa Rica
+Ecuador	1
+1	Friendly
+in Costa Rica	-3
++3	1727
+1718	-1
++1	33
+34
+November 20
+2002	Ecuador
+Costa Rica	2
+2	Friendly
+in Ecuador	-2
++2	1698
+1729	-1
++1	36
+32
+February 11
+2003	Costa Rica
+El Salvador	1
+0	UNCAF Cup
+in Panama	+8
+-8	1737
+1490	+1
+0	31
+75
+February 13
+2003	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Panama	-12
++12	1725
+1521	-2
++3	33
+66
+February 15
+2003	Costa Rica
+Nicaragua	1
+0	UNCAF Cup
+in Panama	0
+0	1725
+934	+1
+0	32
+192
+February 20
+2003	Costa Rica
+Honduras	1
+0	UNCAF Cup
+in Panama	+18
+-18	1743
+1676	+4
+-2	28
+38
+February 23
+2003	Panama
+Costa Rica	0
+1	UNCAF Cup
+in Panama	-6
++6	1347
+1749	-2
+0	121
+28
+March 29
+2003	Costa Rica
+Paraguay	2
+1	Friendly
+in Costa Rica	+7
+-7	1756
+1733	+1
+-2	26
+31
+April 30
+2003	Chile
+Costa Rica	1
+0	Friendly
+in Chile	+13
+-13	1578
+1743	0
+-1	60
+25
+June 08
+2003	Costa Rica
+Chile	1
+0	Friendly
+in Costa Rica	+4
+-4	1747
+1574	0
+0	26
+60
+July 12
+2003	Canada
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+35
+-35	1636
+1712	+11
+-9	46
+32
+July 16
+2003	Costa Rica
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+28
+-28	1740
+1553	+7
+-1	25
+62
+July 19
+2003	Costa Rica
+El Salvador	5
+2	Concacaf Gold Cup
+in the United States	+19
+-19	1759
+1498	+3
+-5	22
+75
+July 24
+2003	Mexico
+Costa Rica	2
+0	Concacaf Gold Cup
+in Mexico	+21
+-21	1844
+1738	+3
+-4	13
+26
+July 26
+2003	United States
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+15
+-15	1808
+1723	+2
+-4	18
+30
+August 20
+2003	Austria
+Costa Rica	2
+0	Friendly
+in Austria	+14
+-14	1654
+1709	+2
+-2	42
+32
+September 07
+2003	Costa Rica
+China	2
+0	Friendly
+in the United States	+10
+-10	1719
+1577	+3
+-1	29
+59
+October 11
+2003	South Africa
+Costa Rica	2
+1	Friendly
+in South Africa	+9
+-9	1655
+1710	+2
+-1	40
+31
+November 19
+2003	Costa Rica
+Finland	2
+1	Friendly
+in Costa Rica	+7
+-7	1717
+1680	0
+0	30
+37
+March 31
+2004	Mexico
+Costa Rica	2
+0	Friendly
+in the United States	+11
+-11	1833
+1706	+1
+-4	12
+35
+June 04
+2004	Costa Rica
+Nicaragua	5
+1	Friendly
+in Costa Rica	0
+0	1706
+1022	0
+0	34
+188
+June 12
+2004	Cuba
+Costa Rica	2
+2	World Cup qualifier
+in Cuba	+5
+-5	1531
+1701	+1
+0	70
+33
+June 20
+2004	Costa Rica
+Cuba	1
+1	World Cup qualifier
+in Costa Rica	-13
++13	1688
+1544	-1
++3	33
+67
+July 08
+2004	Paraguay
+Costa Rica	1
+0	Copa América
+in Peru	+20
+-20	1779
+1668	+2
+-6	23
+39
+July 11
+2004	Brazil
+Costa Rica	4
+1	Copa América
+in Peru	+12
+-12	2000
+1656	+1
+-2	1
+41
+July 14
+2004	Costa Rica
+Chile	2
+1	Copa América
+in Peru	+27
+-27	1683
+1652	+6
+-6	34
+41
+July 17
+2004	Colombia
+Costa Rica	2
+0	Copa América
+in Peru	+26
+-26	1815
+1657	+4
+-4	17
+38
+August 18
+2004	Costa Rica
+Honduras	2
+5	World Cup qualifier
+in Costa Rica	-48
++48	1609
+1673	-14
++14	51
+35
+September 05
+2004	Guatemala
+Costa Rica	2
+1	World Cup qualifier
+in Guatemala	+15
+-15	1612
+1594	+5
+-2	52
+57
+September 08
+2004	Costa Rica
+Canada	1
+0	World Cup qualifier
+in Costa Rica	+12
+-12	1606
+1531	+1
+-3	56
+72
+October 09
+2004	Costa Rica
+Guatemala	5
+0	World Cup qualifier
+in Costa Rica	+30
+-30	1636
+1591	+10
+-10	46
+59
+October 13
+2004	Canada
+Costa Rica	1
+3	World Cup qualifier
+in Canada	-31
++31	1512
+1667	-3
++7	73
+38
+November 17
+2004	Honduras
+Costa Rica	0
+0	World Cup qualifier
+in Honduras	-3
++3	1624
+1670	-1
+-1	48
+39
+January 12
+2005	Costa Rica
+Haiti	3
+3	Friendly
+in Costa Rica	-7
++7	1663
+1459	0
+0	39
+91
+February 09
+2005	Costa Rica
+Mexico	1
+2	World Cup qualifier
+in Costa Rica	-14
++14	1649
+1877	-4
++1	44
+9
+February 16
+2005	Costa Rica
+Ecuador	1
+2	Friendly
+in Costa Rica	-13
++13	1636
+1654	-2
++3	46
+43
+February 21
+2005	Costa Rica
+El Salvador	2
+1	UNCAF Cup
+in Guatemala	+7
+-7	1643
+1365	0
+-1	46
+109
+February 23
+2005	Costa Rica
+Panama	1
+0	UNCAF Cup
+in Guatemala	+12
+-12	1655
+1486	+3
+-5	43
+83
+February 25
+2005	Guatemala
+Costa Rica	0
+4	UNCAF Cup
+in Guatemala	-42
++42	1557
+1697	-9
++10	67
+33
+February 27
+2005	Costa Rica
+Honduras	1
+1	UNCAF Cup
+in Guatemala	-3
++3	1694
+1648	-1
+0	34
+46
+March 26
+2005	Costa Rica
+Panama	2
+1	World Cup qualifier
+in Costa Rica	+5
+-5	1699
+1451	+1
++1	34
+89
+March 30
+2005	Trinidad and Tobago
+Costa Rica	0
+0	World Cup qualifier
+in Trinidad and Tobago	+8
+-8	1452
+1691	+2
+-4	90
+38
+May 24
+2005	Norway
+Costa Rica	1
+0	Friendly
+in Norway	+6
+-6	1765
+1685	+1
+-2	24
+40
+June 04
+2005	United States
+Costa Rica	3
+0	World Cup qualifier
+in the United States	+15
+-15	1829
+1670	+1
+-3	15
+42
+June 08
+2005	Costa Rica
+Guatemala	3
+2	World Cup qualifier
+in Costa Rica	+9
+-9	1679
+1550	+2
+-1	40
+67
+June 19
+2005	China
+Costa Rica	2
+2	Friendly
+in China	0
+0	1594
+1679	0
+-1	56
+41
+June 22
+2005	China
+Costa Rica	2
+0	Friendly
+in China	+14
+-14	1608
+1665	+1
+0	55
+42
+July 07
+2005	Costa Rica
+Canada	1
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1681
+1524	+1
+-3	41
+74
+July 09
+2005	Costa Rica
+Cuba	3
+1	Concacaf Gold Cup
+in the United States	+27
+-27	1708
+1559	+7
+-5	34
+64
+July 12
+2005	United States
+Costa Rica	0
+0	Concacaf Gold Cup
+in the United States	-15
++15	1843
+1723	0
++2	13
+32
+July 16
+2005	Honduras
+Costa Rica	3
+2	Concacaf Gold Cup
+in the United States	+28
+-28	1716
+1695	+7
+-7	34
+39
+August 17
+2005	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+11
+-11	1864
+1684	0
+-3	12
+41
+September 03
+2005	Panama
+Costa Rica	1
+3	World Cup qualifier
+in Panama	-25
++25	1503
+1709	-5
++6	79
+35
+September 07
+2005	Costa Rica
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1717
+1481	0
+-2	35
+85
+October 08
+2005	Costa Rica
+United States	3
+0	World Cup qualifier
+in Costa Rica	+39
+-39	1756
+1819	+9
+-4	26
+16
+October 12
+2005	Guatemala
+Costa Rica	3
+1	World Cup qualifier
+in Guatemala	+41
+-41	1563
+1715	+8
+-9	64
+35
+November 09
+2005	France
+Costa Rica	3
+2	Friendly
+in Martinique	+4
+-4	1951
+1711	0
+0	3
+35
+February 11
+2006	Costa Rica
+South Korea	1
+0	Friendly
+in the United States	+10
+-10	1721
+1685	+1
+-3	35
+42
+March 01
+2006	Iran
+Costa Rica	3
+2	Friendly
+in Iran	+5
+-5	1805
+1716	0
+0	19
+35
+May 28
+2006	Ukraine
+Costa Rica	4
+0	Friendly
+in Ukraine	+13
+-13	1745
+1703	+1
+-2	32
+38
+May 30
+2006	Czechia
+Costa Rica	1
+0	Friendly
+in Czechia	+3
+-3	1937
+1700	0
+0	4
+38
+June 09
+2006	Germany
+Costa Rica	4
+2	World Cup
+in Germany	+16
+-16	1888
+1684	+1
+-3	9
+41
+June 15
+2006	Ecuador
+Costa Rica	3
+0	World Cup
+in Germany	+45
+-45	1781
+1639	+10
+-8	21
+49
+June 20
+2006	Poland
+Costa Rica	2
+1	World Cup
+in Germany	+23
+-23	1742
+1616	+5
+-1	29
+51
+September 02
+2006	Austria
+Costa Rica	2
+2	Friendly tournament
+in Switzerland	+1
+-1	1587
+1615	0
+-1	57
+51
+September 06
+2006	Switzerland
+Costa Rica	2
+0	Friendly tournament
+in Switzerland	+6
+-6	1838
+1609	0
+-3	12
+53
+February 04
+2007	Costa Rica
+Trinidad and Tobago	4
+0	Friendly
+in Costa Rica	+10
+-10	1619
+1522	+2
+-5	51
+76
+February 09
+2007	Costa Rica
+Honduras	3
+1	UNCAF Cup
+in El Salvador	+38
+-38	1657
+1680	+3
+-5	47
+43
+February 13
+2007	Panama
+Costa Rica	1
+0	UNCAF Cup
+in El Salvador	+29
+-29	1528
+1628	+9
+-3	73
+50
+February 16
+2007	El Salvador
+Costa Rica	0
+2	UNCAF Cup
+in El Salvador	-18
++18	1359
+1646	-8
++2	112
+48
+February 18
+2007	Costa Rica
+Panama	1
+1	UNCAF Cup
+in El Salvador	-5
++5	1641
+1563	0
++1	48
+62
+March 24
+2007	Costa Rica
+New Zealand	4
+0	Friendly
+in Costa Rica	+9
+-9	1650
+1519	+1
+-3	47
+77
+March 28
+2007	Chile
+Costa Rica	1
+1	Friendly
+in Chile	-4
++4	1708
+1654	0
++1	37
+46
+June 02
+2007	Costa Rica
+Chile	2
+0	Friendly
+in Costa Rica	+14
+-14	1668
+1711	+2
+-5	43
+39
+June 06
+2007	Canada
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+31
+-31	1610
+1637	+5
+-5	52
+48
+June 09
+2007	Costa Rica
+Haiti	1
+1	Concacaf Gold Cup
+in the United States	-5
++5	1632
+1565	0
++1	47
+64
+June 11
+2007	Costa Rica
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1643
+1403	+1
+0	47
+100
+June 17
+2007	Mexico
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1803
+1628	+2
+-2	17
+49
+August 22
+2007	Costa Rica
+Peru	1
+1	Friendly
+in Costa Rica	-3
++3	1625
+1634	0
++2	52
+49
+September 09
+2007	Costa Rica
+Honduras	0
+0	Friendly
+in the United States	0
+0	1625
+1626	+1
++1	53
+52
+September 12
+2007	Canada
+Costa Rica	1
+1	Friendly
+in Canada	-3
++3	1626
+1628	-1
++2	52
+51
+October 13
+2007	El Salvador
+Costa Rica	2
+2	Friendly
+in El Salvador	+4
+-4	1369
+1624	+1
+-2	112
+53
+October 17
+2007	Costa Rica
+Haiti	1
+1	Friendly
+in Costa Rica	-5
++5	1619
+1533	-1
+0	54
+71
+November 21
+2007	Panama
+Costa Rica	1
+1	Friendly
+in Panama	-1
++1	1552
+1620	-1
+0	65
+50
+January 13
+2008	Costa Rica
+Sweden	0
+1	Friendly
+in Costa Rica	-9
++9	1611
+1780	-3
++2	54
+20
+January 30
+2008	Iran
+Costa Rica	0
+0	Friendly
+in Iran	-6
++6	1754
+1617	-4
++3	29
+51
+February 06
+2008	Jamaica
+Costa Rica	1
+1	Friendly
+in Jamaica	-1
++1	1548
+1618	-1
+0	68
+51
+March 26
+2008	Peru
+Costa Rica	3
+1	Friendly
+in Peru	+11
+-11	1615
+1607	+6
+-1	50
+52
+June 14
+2008	Grenada
+Costa Rica	2
+2	World Cup qualifier
+in Grenada	+13
+-13	1241
+1594	+3
+-3	148
+54
+June 21
+2008	Costa Rica
+Grenada	3
+0	World Cup qualifier
+in Costa Rica	+5
+-5	1599
+1236	+1
+-1	54
+150
+August 20
+2008	Costa Rica
+El Salvador	1
+0	World Cup qualifier
+in Costa Rica	+6
+-6	1605
+1400	+3
+0	50
+105
+September 06
+2008	Costa Rica
+Surinam	7
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1613
+1301	+1
+-1	49
+130
+September 10
+2008	Haiti
+Costa Rica	1
+3	World Cup qualifier
+in Haiti	-24
++24	1416
+1637	-5
++2	101
+47
+October 11
+2008	Surinam
+Costa Rica	1
+4	World Cup qualifier
+in Surinam	-13
++13	1261
+1650	-6
+0	142
+47
+October 15
+2008	Costa Rica
+Haiti	2
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1658
+1405	+2
+-6	45
+106
+November 19
+2008	El Salvador
+Costa Rica	1
+3	World Cup qualifier
+in El Salvador	-25
++25	1472
+1683	-4
++2	91
+43
+January 23
+2009	Costa Rica
+Panama	3
+0	UNCAF Cup
+in Honduras	+20
+-20	1703
+1508	+2
+-4	40
+77
+January 25
+2009	Costa Rica
+Guatemala	3
+1	UNCAF Cup
+in Honduras	+14
+-14	1717
+1490	+3
+-5	37
+86
+January 30
+2009	Costa Rica
+El Salvador	1
+0	UNCAF Cup
+in Honduras	+7
+-7	1724
+1447	+2
+0	35
+92
+February 01
+2009	Panama
+Costa Rica	0
+0	UNCAF Cup
+in Honduras	+9
+-9	1570
+1715	+1
+-2	62
+37
+February 11
+2009	Costa Rica
+Honduras	2
+0	World Cup qualifier
+in Costa Rica	+21
+-21	1736
+1682	+5
+-4	32
+43
+March 28
+2009	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+18
+-18	1807
+1718	+5
+-3	13
+35
+April 01
+2009	Costa Rica
+El Salvador	1
+0	World Cup qualifier
+in Costa Rica	+5
+-5	1723
+1464	+4
+-2	30
+91
+May 13
+2009	Venezuela
+Costa Rica	1
+1	Friendly
+in Venezuela	-1
++1	1665
+1724	0
+0	46
+30
+June 03
+2009	Costa Rica
+United States	3
+1	World Cup qualifier
+in Costa Rica	+29
+-29	1753
+1785	+4
+-2	27
+15
+June 06
+2009	Trinidad and Tobago
+Costa Rica	2
+3	World Cup qualifier
+in Trinidad and Tobago	-14
++14	1538
+1767	-2
++4	70
+23
+June 27
+2009	Costa Rica
+Venezuela	1
+0	Friendly
+in Costa Rica	+5
+-5	1772
+1670	+2
+-1	20
+46
+July 03
+2009	El Salvador
+Costa Rica	2
+1	Concacaf Gold Cup
+in the United States	+41
+-41	1556
+1731	+14
+-12	66
+32
+July 07
+2009	Costa Rica
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1747
+1579	+3
+-3	29
+59
+July 10
+2009	Canada
+Costa Rica	2
+2	Concacaf Gold Cup
+in the United States	+9
+-9	1631
+1738	0
+-2	50
+30
+July 19
+2009	Costa Rica
+Guadeloupe	5
+1	Concacaf Gold Cup
+in the United States	+18
+-18	1756
+1465	+4
+-2	26
+90
+July 23
+2009	Costa Rica
+Mexico	1
+1	Concacaf Gold Cup
+in the United States	+1
+-1	1757
+1771	0
+0	26
+20
+August 12
+2009	Honduras
+Costa Rica	4
+0	World Cup qualifier
+in Honduras	+31
+-31	1748
+1726	+6
+-8	29
+34
+September 05
+2009	Costa Rica
+Mexico	0
+3	World Cup qualifier
+in Costa Rica	-32
++32	1694
+1891	-6
++3	40
+7
+September 09
+2009	El Salvador
+Costa Rica	1
+0	World Cup qualifier
+in El Salvador	+26
+-26	1516
+1668	+6
+-3	79
+43
+October 10
+2009	Costa Rica
+Trinidad and Tobago	4
+0	World Cup qualifier
+in Costa Rica	+15
+-15	1683
+1510	+1
+-11	42
+84
+October 14
+2009	United States
+Costa Rica	2
+2	World Cup qualifier
+in the United States	-12
++12	1808
+1695	+1
++1	14
+41
+November 14
+2009	Costa Rica
+Uruguay	0
+1	World Cup qualifier
+in Costa Rica	-21
++21	1674
+1805	-2
++2	43
+14
+November 18
+2009	Uruguay
+Costa Rica	1
+1	World Cup qualifier
+in Uruguay	-12
++12	1793
+1686	-1
++1	15
+42
+January 26
+2010	Argentina
+Costa Rica	3
+2	Friendly
+in Argentina	+3
+-3	1879
+1683	0
+0	7
+41
+May 26
+2010	France
+Costa Rica	2
+1	Friendly
+in France	+4
+-4	1856
+1679	0
+-1	10
+42
+June 01
+2010	Switzerland
+Costa Rica	0
+1	Friendly
+in Switzerland	-14
++14	1733
+1693	-2
++3	26
+39
+June 05
+2010	Slovakia
+Costa Rica	3
+0	Friendly
+in Slovakia	+16
+-16	1644
+1677	+1
+-2	48
+41
+August 11
+2010	Paraguay
+Costa Rica	2
+0	Friendly
+in Paraguay	+8
+-8	1768
+1669	+3
+-3	19
+42
+September 03
+2010	Panama
+Costa Rica	2
+2	Friendly
+in Panama	0
+0	1569
+1669	+2
+0	60
+41
+September 05
+2010	Jamaica
+Costa Rica	1
+0	Friendly
+in Jamaica	+9
+-9	1618
+1660	+2
+-3	51
+44
+October 08
+2010	Peru
+Costa Rica	2
+0	Friendly
+in Peru	+13
+-13	1612
+1647	+2
+-2	52
+46
+October 12
+2010	Costa Rica
+El Salvador	2
+1	Friendly
+in Costa Rica	+3
+-3	1650
+1463	0
+-2	44
+94
+November 17
+2010	Costa Rica
+Jamaica	0
+0	Friendly
+in the United States	-1
++1	1649
+1613	0
+0	44
+51
+January 14
+2011	Costa Rica
+Honduras	1
+1	UNCAF Cup
+in Panama	+1
+-1	1650
+1658	0
+0	43
+42
+January 16
+2011	Costa Rica
+Guatemala	2
+0	UNCAF Cup
+in Panama	+14
+-14	1664
+1430	+2
+-4	41
+103
+January 21
+2011	Panama
+Costa Rica	1
+1	UNCAF Cup
+in Panama	-2
++2	1590
+1666	-1
++1	59
+41
+January 23
+2011	Honduras
+Costa Rica	2
+1	UNCAF Cup
+in Panama	+19
+-19	1704
+1647	+1
+-2	35
+43
+February 09
+2011	Venezuela
+Costa Rica	2
+2	Friendly
+in Venezuela	-4
++4	1681
+1651	0
+0	38
+43
+March 26
+2011	Costa Rica
+China	2
+2	Friendly
+in Costa Rica	-4
++4	1647
+1616	-2
++1	44
+51
+March 29
+2011	Costa Rica
+Argentina	0
+0	Friendly
+in Costa Rica	+6
+-6	1653
+1970	+2
+0	42
+5
+June 05
+2011	Costa Rica
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+24
+-24	1677
+1429	+4
+-4	40
+100
+June 09
+2011	Costa Rica
+El Salvador	1
+1	Concacaf Gold Cup
+in the United States	-14
++14	1663
+1477	-2
+0	42
+92
+June 12
+2011	Mexico
+Costa Rica	4
+1	Concacaf Gold Cup
+in the United States	+21
+-21	1884
+1642	+2
+-7	7
+50
+June 18
+2011	Costa Rica
+Honduras	1
+1	Concacaf Gold Cup
+in the United States	0
+0	1642
+1639	0
+0	49
+50
+July 02
+2011	Colombia
+Costa Rica	1
+0	Copa América
+in Argentina	+18
+-18	1764
+1624	+4
+-5	22
+53
+July 07
+2011	Costa Rica
+Bolivia	2
+0	Copa América
+in Argentina	+30
+-30	1654
+1528	+8
+-9	45
+74
+July 11
+2011	Argentina
+Costa Rica	3
+0	Copa América
+in Argentina	+11
+-11	1901
+1643	+1
+-2	6
+48
+August 10
+2011	Costa Rica
+Ecuador	0
+2	Friendly
+in Costa Rica	-18
++18	1625
+1695	-4
++3	53
+37
+September 02
+2011	United States
+Costa Rica	0
+1	Friendly
+in the United States	-15
++15	1701
+1640	-1
++3	35
+50
+September 06
+2011	Ecuador
+Costa Rica	4
+0	Friendly
+in Ecuador	+10
+-10	1716
+1630	+1
+-3	33
+51
+October 07
+2011	Costa Rica
+Brazil	0
+1	Friendly
+in Costa Rica	-3
++3	1627
+2025	0
+0	51
+4
+November 11
+2011	Panama
+Costa Rica	2
+0	Friendly
+in Panama	+10
+-10	1649
+1617	+1
+-3	45
+52
+November 15
+2011	Costa Rica
+Spain	2
+2	Friendly
+in Costa Rica	+8
+-8	1625
+2093	+4
+0	49
+1
+December 11
+2011	Cuba
+Costa Rica	1
+1	Friendly
+in Cuba	+4
+-4	1383
+1621	+3
+-4	109
+53
+December 22
+2011	Venezuela
+Costa Rica	0
+2	Friendly
+in Venezuela	-23
++23	1696
+1644	-2
++5	35
+47
+February 29
+2012	Wales
+Costa Rica	0
+1	Friendly
+in Wales	-12
++12	1606
+1656	-2
++3	55
+43
+March 21
+2012	Jamaica
+Costa Rica	0
+0	Friendly
+in Jamaica	-2
++2	1640
+1658	-2
+0	48
+43
+April 11
+2012	Costa Rica
+Honduras	1
+1	Friendly
+in Costa Rica	-4
++4	1654
+1633	0
+0	43
+51
+May 25
+2012	Costa Rica
+Guatemala	3
+2	Friendly
+in Costa Rica	+4
+-4	1658
+1499	+1
+-1	42
+86
+June 01
+2012	Guatemala
+Costa Rica	1
+0	Friendly
+in Guatemala	+12
+-12	1511
+1646	+2
+-5	84
+46
+June 08
+2012	Costa Rica
+El Salvador	2
+2	World Cup qualifier
+in Costa Rica	-10
++10	1636
+1556	0
++3	46
+69
+June 12
+2012	Guyana
+Costa Rica	0
+4	World Cup qualifier
+in Guyana	-19
++19	1335
+1655	-6
++1	124
+44
+August 15
+2012	Costa Rica
+Peru	0
+1	Friendly
+in Costa Rica	-12
++12	1643
+1695	-1
++3	45
+34
+September 07
+2012	Costa Rica
+Mexico	0
+2	World Cup qualifier
+in Costa Rica	-20
++20	1623
+1883	-6
++2	51
+9
+September 11
+2012	Mexico
+Costa Rica	1
+0	World Cup qualifier
+in Mexico	+4
+-4	1887
+1619	0
+-1	9
+49
+October 12
+2012	El Salvador
+Costa Rica	0
+1	World Cup qualifier
+in El Salvador	-21
++21	1524
+1640	-8
++5	79
+44
+October 16
+2012	Costa Rica
+Guyana	7
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1648
+1319	0
+-2	44
+128
+November 14
+2012	Bolivia
+Costa Rica	1
+1	Friendly
+in Bolivia	-2
++2	1603
+1650	0
+-1	55
+45
+January 18
+2013	Costa Rica
+Belize	1
+0	UNCAF Cup
+in Costa Rica	+1
+-1	1651
+1102	0
+0	44
+178
+January 20
+2013	Costa Rica
+Nicaragua	2
+0	UNCAF Cup
+in Costa Rica	+2
+-2	1653
+1131	0
+0	44
+170
+January 22
+2013	Costa Rica
+Guatemala	1
+1	UNCAF Cup
+in Costa Rica	-13
++13	1640
+1500	-2
+0	46
+84
+January 25
+2013	Costa Rica
+El Salvador	1
+0	UNCAF Cup
+in Costa Rica	+9
+-9	1649
+1527	+2
+-1	44
+76
+January 27
+2013	Costa Rica
+Honduras	1
+0	UNCAF Cup
+in Costa Rica	+15
+-15	1664
+1646	+3
+-2	41
+44
+February 06
+2013	Panama
+Costa Rica	2
+2	World Cup qualifier
+in Panama	-7
++7	1678
+1671	-1
++1	39
+41
+March 22
+2013	United States
+Costa Rica	1
+0	World Cup qualifier
+in the United States	+12
+-12	1734
+1659	0
+-2	28
+41
+March 26
+2013	Costa Rica
+Jamaica	2
+0	World Cup qualifier
+in Costa Rica	+15
+-15	1674
+1549	+3
+-2	38
+67
+May 28
+2013	Canada
+Costa Rica	0
+1	Friendly
+in Canada	-9
++9	1538
+1683	-5
+0	73
+38
+June 07
+2013	Costa Rica
+Honduras	1
+0	World Cup qualifier
+in Costa Rica	+12
+-12	1695
+1623	+3
+-1	35
+49
+June 11
+2013	Mexico
+Costa Rica	0
+0	World Cup qualifier
+in Mexico	-13
++13	1840
+1708	-2
++2	12
+33
+June 18
+2013	Costa Rica
+Panama	2
+0	World Cup qualifier
+in Costa Rica	+19
+-19	1727
+1654	+4
+-5	29
+44
+July 09
+2013	Costa Rica
+Cuba	3
+0	Concacaf Gold Cup
+in the United States	+13
+-13	1740
+1409	0
+-3	28
+104
+July 13
+2013	Costa Rica
+Belize	1
+0	Concacaf Gold Cup
+in the United States	+2
+-2	1742
+1144	+1
+0	27
+169
+July 16
+2013	United States
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1808
+1727	0
+-1	20
+28
+July 21
+2013	Honduras
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+34
+-34	1627
+1693	+7
+-7	49
+35
+August 14
+2013	Dominican Republic
+Costa Rica	0
+4	Friendly
+in Dominican Republic	-5
++5	1268
+1698	+1
+0	140
+34
+September 06
+2013	Costa Rica
+United States	3
+1	World Cup qualifier
+in Costa Rica	+35
+-35	1733
+1817	+7
+-7	26
+17
+September 10
+2013	Jamaica
+Costa Rica	1
+1	World Cup qualifier
+in Jamaica	+6
+-6	1530
+1727	+6
+0	74
+26
+October 11
+2013	Honduras
+Costa Rica	1
+0	World Cup qualifier
+in Honduras	+19
+-19	1666
+1708	+5
+-4	42
+30
+October 15
+2013	Costa Rica
+Mexico	2
+1	World Cup qualifier
+in Costa Rica	+17
+-17	1725
+1746	+3
+-1	27
+24
+November 19
+2013	Australia
+Costa Rica	1
+0	Friendly
+in Australia	+8
+-8	1712
+1717	0
+-2	32
+31
+January 22
+2014	Chile
+Costa Rica	4
+0	Friendly
+in Chile	+6
+-6	1896
+1711	0
+-1	10
+32
+January 25
+2014	South Korea
+Costa Rica	1
+0	Friendly
+in the United States	+11
+-11	1684
+1700	+3
+0	39
+32
+March 05
+2014	Costa Rica
+Paraguay	2
+1	Friendly
+in Costa Rica	+7
+-7	1707
+1674	0
+-3	32
+43

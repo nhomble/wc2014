@@ -1,0 +1,6444 @@
+August 28
+1920	Czechoslovakia
+Yugoslavia	7
+0	Olympic Games
+in Belgium	+44
+-44	1773
+1556	0
+-	9
+25
+September 02
+1920	Egypt
+Yugoslavia	4
+2	Olympic Games Consolation Tournament
+in Belgium	+29
+-29	1599
+1527	+2
+-1	19
+25
+October 28
+1921	Czechoslovakia
+Yugoslavia	6
+1	Friendly
+in Czechoslovakia	+4
+-4	1805
+1523	+1
+0	6
+28
+June 08
+1922	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-8
++8	1515
+1708	-1
+-	31
+14
+June 28
+1922	Yugoslavia
+Czechoslovakia	4
+3	Friendly
+in Yugoslavia	+15
+-15	1530
+1794	+1
+-2	31
+7
+October 01
+1922	Yugoslavia
+Poland	1
+3	Friendly
+in Yugoslavia	-17
++17	1513
+1612	-1
++5	32
+20
+June 03
+1923	Poland
+Yugoslavia	1
+2	Friendly
+in Poland	-15
++15	1597
+1528	-5
++1	25
+33
+June 10
+1923	Romania
+Yugoslavia	1
+2	Friendly
+in Romania	-17
++17	1691
+1545	-1
++2	16
+31
+October 28
+1923	Czechoslovakia
+Yugoslavia	4
+4	Friendly
+in Czechoslovakia	-8
++8	1832
+1553	0
++1	2
+32
+February 10
+1924	Yugoslavia
+Austria	1
+4	Friendly
+in Yugoslavia	-15
++15	1538
+1720	-2
++1	35
+13
+May 26
+1924	Uruguay
+Yugoslavia	7
+0	Olympic Games
+in France	+18
+-18	1884
+1520	0
+-2	1
+36
+September 28
+1924	Yugoslavia
+Czechoslovakia	0
+2	Friendly
+in Yugoslavia	-8
++8	1512
+1808	0
+0	36
+5
+October 28
+1925	Czechoslovakia
+Yugoslavia	7
+0	Friendly
+in Czechoslovakia	+4
+-4	1829
+1508	0
+0	5
+35
+November 04
+1925	Italy
+Yugoslavia	2
+1	Friendly
+in Italy	+4
+-4	1661
+1504	0
+0	20
+35
+May 30
+1926	Yugoslavia
+Bulgaria	3
+1	Friendly
+in Yugoslavia	+8
+-8	1512
+1434	0
+0	37
+45
+June 13
+1926	France
+Yugoslavia	4
+1	Friendly
+in France	+11
+-11	1548
+1501	+4
+-1	31
+38
+June 28
+1926	Yugoslavia
+Czechoslovakia	2
+6	Friendly
+in Yugoslavia	-9
++9	1492
+1802	-1
+0	39
+8
+October 03
+1926	Yugoslavia
+Romania	2
+3	Friendly
+in Yugoslavia	-9
++9	1483
+1642	0
+0	39
+21
+April 10
+1927	Hungary
+Yugoslavia	3
+0	Friendly
+in Hungary	+4
+-4	1737
+1479	0
+-1	11
+41
+May 10
+1927	Romania
+Yugoslavia	0
+3	Friendly
+in Romania	-29
++29	1613
+1508	-2
++5	23
+36
+May 15
+1927	Bulgaria
+Yugoslavia	0
+2	Friendly
+in Bulgaria	-16
++16	1418
+1524	0
+0	46
+36
+July 30
+1927	Yugoslavia
+Czechoslovakia	1
+1	Friendly
+in Yugoslavia	+6
+-6	1530
+1837	0
+0	34
+6
+October 28
+1927	Czechoslovakia
+Yugoslavia	5
+3	Friendly
+in Czechoslovakia	+2
+-2	1859
+1528	0
+0	5
+34
+March 25
+1928	Hungary
+Yugoslavia	2
+1	Friendly
+in Hungary	+3
+-3	1759
+1525	-1
+0	11
+35
+April 08
+1928	Yugoslavia
+Turkey	2
+1	Friendly
+in Yugoslavia	+8
+-8	1533
+1533	+2
+-1	33
+33
+May 06
+1928	Yugoslavia
+Romania	3
+1	Friendly
+in Yugoslavia	+14
+-14	1547
+1603	+1
+-4	32
+26
+May 29
+1928	Portugal
+Yugoslavia	2
+1	Olympic Games
+in the Netherlands	+17
+-17	1720
+1530	+3
+-2	13
+34
+October 28
+1928	Czechoslovakia
+Yugoslavia	7
+1	Friendly
+in Czechoslovakia	+3
+-3	1871
+1527	0
+-1	5
+35
+May 10
+1929	Romania
+Yugoslavia	2
+3	Friendly
+in Romania	-15
++15	1593
+1542	-2
++3	26
+31
+May 19
+1929	France
+Yugoslavia	1
+3	Friendly
+in France	-18
++18	1483
+1560	-1
+0	39
+31
+June 28
+1929	Yugoslavia
+Czechoslovakia	3
+3	Friendly
+in Yugoslavia	+5
+-5	1565
+1857	0
+-1	31
+6
+October 06
+1929	Romania
+Yugoslavia	2
+1	Balkan Cup
+in Romania	+13
+-13	1614
+1552	+2
+-1	22
+32
+October 28
+1929	Czechoslovakia
+Yugoslavia	4
+3	Friendly
+in Czechoslovakia	+2
+-2	1848
+1550	0
+0	6
+32
+January 26
+1930	Greece
+Yugoslavia	2
+1	Balkan Cup
+in Greece	+19
+-19	1478
+1531	+4
+-2	40
+33
+April 13
+1930	Yugoslavia
+Bulgaria	6
+1	Friendly
+in Yugoslavia	+8
+-8	1539
+1389	+1
+0	33
+48
+May 04
+1930	Yugoslavia
+Romania	2
+1	Friendly
+in Yugoslavia	+9
+-9	1548
+1605	+1
+-4	32
+24
+June 15
+1930	Bulgaria
+Yugoslavia	2
+2	Friendly
+in Bulgaria	+2
+-2	1391
+1546	0
+0	48
+32
+July 14
+1930	Yugoslavia
+Brazil	2
+1	World Cup
+in Uruguay	+49
+-49	1595
+1758	+6
+-2	25
+11
+July 17
+1930	Yugoslavia
+Bolivia	4
+0	World Cup
+in Uruguay	+26
+-26	1621
+1358	+4
+-5	21
+54
+July 27
+1930	Uruguay
+Yugoslavia	6
+1	World Cup
+in Uruguay	+11
+-11	1932
+1610	0
+-2	2
+23
+August 03
+1930	Argentina
+Yugoslavia	3
+1	Friendly
+in Argentina	+2
+-2	1991
+1608	0
+-1	1
+24
+August 10
+1930	Brazil
+Yugoslavia	4
+1	Friendly
+in Brazil	+6
+-6	1776
+1602	+1
+0	9
+24
+November 16
+1930	Bulgaria
+Yugoslavia	0
+3	Balkan Cup
+in Bulgaria	-28
++28	1405
+1630	-3
++4	47
+20
+March 15
+1931	Yugoslavia
+Greece	4
+1	Balkan Cup
+in Yugoslavia	+14
+-14	1644
+1468	+1
+-2	19
+44
+April 19
+1931	Yugoslavia
+Bulgaria	1
+0	Balkan Cup
+in Yugoslavia	+4
+-4	1648
+1378	0
+-1	18
+52
+May 21
+1931	Yugoslavia
+Hungary	3
+2	Friendly
+in Yugoslavia	+11
+-11	1659
+1769	0
+-1	18
+11
+June 28
+1931	Yugoslavia
+Romania	2
+4	Balkan Cup
+in Yugoslavia	-42
++42	1617
+1652	-3
++4	21
+18
+August 02
+1931	Yugoslavia
+Czechoslovakia	2
+1	Friendly
+in Yugoslavia	+13
+-13	1630
+1828	0
+-1	21
+8
+October 02
+1931	Turkey
+Yugoslavia	2
+0	Friendly
+in Bulgaria	+22
+-22	1474
+1608	+2
+-2	42
+23
+October 04
+1931	Bulgaria
+Yugoslavia	3
+2	Friendly
+in Bulgaria	+13
+-13	1401
+1595	+2
+-3	50
+26
+October 25
+1931	Poland
+Yugoslavia	6
+3	Friendly
+in Poland	+13
+-13	1608
+1582	+2
+-4	23
+29
+April 24
+1932	Spain
+Yugoslavia	2
+1	Friendly
+in Spain	+2
+-2	1848
+1580	0
+0	7
+30
+May 03
+1932	Portugal
+Yugoslavia	3
+2	Friendly
+in Portugal	+6
+-6	1653
+1574	0
+0	19
+30
+May 29
+1932	Yugoslavia
+Poland	0
+3	Friendly
+in Yugoslavia	-21
++21	1553
+1629	0
++3	30
+21
+June 05
+1932	Yugoslavia
+France	2
+1	Friendly
+in Yugoslavia	+6
+-6	1559
+1497	0
+0	30
+37
+June 26
+1932	Yugoslavia
+Greece	7
+1	Balkan Cup
+in Yugoslavia	+17
+-17	1576
+1400	+1
+-6	30
+51
+June 30
+1932	Yugoslavia
+Bulgaria	2
+3	Balkan Cup
+in Yugoslavia	-31
++31	1545
+1496	-1
++6	31
+38
+July 03
+1932	Yugoslavia
+Romania	3
+1	Balkan Cup
+in Yugoslavia	+31
+-31	1576
+1626	+1
+-3	30
+21
+October 09
+1932	Czechoslovakia
+Yugoslavia	2
+1	Friendly
+in Czechoslovakia	+4
+-4	1746
+1572	0
+-1	11
+30
+April 30
+1933	Yugoslavia
+Spain	1
+1	Friendly
+in Yugoslavia	+4
+-4	1576
+1834	0
+0	30
+7
+May 07
+1933	Switzerland
+Yugoslavia	4
+1	Friendly
+in Switzerland	+13
+-13	1583
+1563	+1
+-1	30
+31
+June 03
+1933	Yugoslavia
+Greece	5
+3	Balkan Cup
+in Romania	+15
+-15	1578
+1350	+1
+-3	30
+56
+June 07
+1933	Yugoslavia
+Bulgaria	4
+0	Balkan Cup
+in Romania	+29
+-29	1607
+1469	+3
+-5	27
+43
+June 11
+1933	Romania
+Yugoslavia	5
+0	Balkan Cup
+in Romania	+27
+-27	1656
+1580	+3
+-3	19
+30
+August 06
+1933	Yugoslavia
+Czechoslovakia	2
+1	Friendly
+in Yugoslavia	+13
+-13	1593
+1756	+2
+-1	28
+10
+September 10
+1933	Poland
+Yugoslavia	4
+3	Friendly
+in Poland	+6
+-6	1659
+1587	+2
+-2	18
+30
+September 24
+1933	Yugoslavia
+Switzerland	2
+2	World Cup qualifier
+in Yugoslavia	-7
++7	1580
+1569	-1
+0	31
+33
+March 18
+1934	Bulgaria
+Yugoslavia	1
+2	Friendly
+in Bulgaria	-10
++10	1467
+1590	-1
+0	43
+29
+April 01
+1934	Yugoslavia
+Bulgaria	2
+3	Friendly
+in Yugoslavia	-16
++16	1574
+1464	-1
+0	30
+43
+April 29
+1934	Romania
+Yugoslavia	2
+1	World Cup qualifier
+in Romania	+10
+-10	1667
+1564	+1
+-2	19
+32
+June 03
+1934	Yugoslavia
+Brazil	8
+4	Friendly
+in Yugoslavia	+25
+-25	1589
+1769	+4
+-1	28
+9
+August 26
+1934	Yugoslavia
+Poland	4
+1	Friendly
+in Yugoslavia	+14
+-14	1603
+1603	+3
+-1	25
+25
+September 02
+1934	Czechoslovakia
+Yugoslavia	3
+1	Friendly
+in Czechoslovakia	+4
+-4	1851
+1599	0
+-2	7
+27
+December 16
+1934	France
+Yugoslavia	3
+2	Friendly
+in France	+9
+-9	1560
+1590	+1
+-2	33
+29
+December 23
+1934	Greece
+Yugoslavia	2
+1	Balkan Cup
+in Greece	+28
+-28	1364
+1562	+3
+-3	56
+32
+December 25
+1934	Yugoslavia
+Bulgaria	4
+3	Balkan Cup
+in Greece	+14
+-14	1576
+1442	+3
+0	29
+43
+January 01
+1935	Yugoslavia
+Romania	4
+0	Balkan Cup
+in Greece	+45
+-45	1621
+1604	+7
+-8	22
+26
+June 17
+1935	Yugoslavia
+Romania	2
+0	Balkan Cup
+in Bulgaria	+29
+-29	1650
+1575	+5
+-1	19
+29
+June 21
+1935	Yugoslavia
+Greece	6
+1	Balkan Cup
+in Bulgaria	+11
+-11	1661
+1324	0
+0	19
+59
+June 24
+1935	Bulgaria
+Yugoslavia	3
+3	Balkan Cup
+in Bulgaria	+3
+-3	1512
+1658	+1
+0	36
+19
+August 18
+1935	Poland
+Yugoslavia	2
+3	Friendly
+in Poland	-11
++11	1583
+1669	0
+0	28
+19
+September 06
+1935	Yugoslavia
+Czechoslovakia	0
+0	Friendly
+in Yugoslavia	+2
+-2	1671
+1840	+1
+0	18
+7
+May 10
+1936	Romania
+Yugoslavia	3
+2	Friendly
+in Romania	+11
+-11	1544
+1660	0
+0	35
+20
+July 12
+1936	Turkey
+Yugoslavia	3
+3	Friendly
+in Turkey	+4
+-4	1411
+1656	+1
+-1	46
+21
+September 06
+1936	Yugoslavia
+Poland	9
+3	Friendly
+in Yugoslavia	+15
+-15	1671
+1629	+1
+-2	20
+24
+December 13
+1936	France
+Yugoslavia	1
+0	Friendly
+in France	+10
+-10	1570
+1661	+2
+-1	32
+21
+May 09
+1937	Hungary
+Yugoslavia	1
+1	Friendly
+in Hungary	-5
++5	1767
+1666	-1
+0	11
+21
+June 06
+1937	Yugoslavia
+Belgium	1
+1	Friendly
+in Yugoslavia	-7
++7	1659
+1480	0
+0	20
+42
+July 11
+1937	Bulgaria
+Yugoslavia	4
+0	Friendly
+in Bulgaria	+22
+-22	1520
+1637	+2
+-1	37
+22
+August 01
+1937	Yugoslavia
+Turkey	3
+1	Friendly
+in Yugoslavia	+3
+-3	1640
+1382	0
+0	22
+50
+September 06
+1937	Yugoslavia
+Romania	2
+1	Friendly
+in Yugoslavia	+6
+-6	1646
+1577	+1
+0	21
+32
+October 03
+1937	Czechoslovakia
+Yugoslavia	5
+4	Friendly
+in Czechoslovakia	+4
+-4	1797
+1642	+1
+0	10
+21
+October 10
+1937	Poland
+Yugoslavia	4
+0	World Cup qualifier
+in Poland	+28
+-28	1659
+1614	+3
+-5	20
+26
+April 03
+1938	Yugoslavia
+Poland	1
+0	World Cup qualifier
+in Yugoslavia	+17
+-17	1631
+1641	+1
+-1	24
+21
+May 08
+1938	Romania
+Yugoslavia	0
+1	Friendly
+in Romania	-11
++11	1566
+1642	-2
++2	36
+21
+May 22
+1938	Italy
+Yugoslavia	4
+0	Friendly
+in Italy	+2
+-2	2008
+1640	0
+-1	1
+22
+May 29
+1938	Belgium
+Yugoslavia	2
+2	Friendly
+in Belgium	+1
+-1	1503
+1639	0
+0	41
+22
+August 28
+1938	Yugoslavia
+Czechoslovakia	1
+3	Friendly
+in Yugoslavia	-13
++13	1626
+1789	-2
++3	24
+9
+September 06
+1938	Yugoslavia
+Romania	1
+1	Friendly
+in Yugoslavia	-5
++5	1621
+1532	-1
+0	25
+36
+September 25
+1938	Poland
+Yugoslavia	4
+4	Friendly
+in Poland	-3
++3	1612
+1624	-4
++2	26
+22
+February 26
+1939	Germany
+Yugoslavia	3
+2	Friendly
+in Germany	+5
+-5	1741
+1619	0
+-1	15
+23
+May 07
+1939	Romania
+Yugoslavia	1
+0	Friendly
+in Romania	+10
+-10	1525
+1609	+1
+-3	36
+26
+May 18
+1939	Yugoslavia
+England	2
+1	Friendly
+in Yugoslavia	+14
+-14	1623
+1862	+3
+-1	23
+5
+June 04
+1939	Yugoslavia
+Italy	1
+2	Friendly
+in Yugoslavia	-2
++2	1621
+2069	0
+0	24
+1
+October 15
+1939	Yugoslavia
+Germany	1
+5	Friendly
+in Yugoslavia	-18
++18	1603
+1745	-5
+0	30
+15
+November 12
+1939	Yugoslavia
+Hungary	0
+2	Friendly
+in Yugoslavia	-12
++12	1591
+1793	-3
++2	33
+8
+March 31
+1940	Romania
+Yugoslavia	3
+3	Friendly
+in Romania	-1
++1	1531
+1592	0
++2	37
+31
+April 14
+1940	Germany
+Yugoslavia	1
+2	Friendly
+in Germany	-17
++17	1769
+1609	-2
++3	13
+29
+September 22
+1940	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-15
++15	1594
+1537	-3
++1	32
+37
+September 29
+1940	Hungary
+Yugoslavia	0
+0	Friendly
+in Hungary	-7
++7	1808
+1601	-1
++1	9
+31
+November 03
+1940	Yugoslavia
+Germany	2
+0	Friendly
+in Yugoslavia	+19
+-19	1620
+1770	+5
+-2	26
+13
+March 23
+1941	Yugoslavia
+Hungary	1
+1	Friendly
+in Yugoslavia	+3
+-3	1623
+1812	0
+0	26
+8
+May 09
+1946	Czechoslovakia
+Yugoslavia	0
+2	Friendly
+in Czechoslovakia	-24
++24	1746
+1647	-2
++3	14
+22
+September 29
+1946	Yugoslavia
+Czechoslovakia	4
+2	Friendly
+in Yugoslavia	+15
+-15	1662
+1737	+3
+-3	20
+16
+October 07
+1946	Albania
+Yugoslavia	2
+3	Balkan Cup
+in Albania	-11
++11	1389
+1673	-
+0	57
+20
+October 11
+1946	Romania
+Yugoslavia	2
+1	Balkan Cup
+in Albania	+28
+-28	1551
+1645	+1
+-3	38
+23
+October 12
+1946	Yugoslavia
+Bulgaria	2
+1	Balkan Cup
+in Albania	+9
+-9	1654
+1433	+2
+-3	21
+52
+May 11
+1947	Czechoslovakia
+Yugoslavia	3
+1	Friendly
+in Czechoslovakia	+7
+-7	1757
+1647	0
+-2	12
+24
+June 22
+1947	Romania
+Yugoslavia	1
+3	Balkan Cup
+in Romania	-32
++32	1536
+1679	-4
++5	39
+19
+June 29
+1947	Yugoslavia
+Hungary	2
+3	Balkan Cup
+in Yugoslavia	-17
++17	1662
+1842	0
+0	19
+6
+September 14
+1947	Albania
+Yugoslavia	2
+4	Balkan Cup
+in Albania	-15
++15	1363
+1677	-1
+0	64
+19
+October 12
+1947	Yugoslavia
+Bulgaria	2
+1	Balkan Cup
+in Yugoslavia	+5
+-5	1682
+1421	+1
+-1	18
+53
+October 19
+1947	Yugoslavia
+Poland	7
+1	Friendly
+in Yugoslavia	+10
+-10	1692
+1566	0
+-2	18
+35
+June 27
+1948	Yugoslavia
+Albania	0
+0	Balkan Cup
+in Yugoslavia	-16
++16	1676
+1427	-1
++3	21
+55
+July 04
+1948	Bulgaria
+Yugoslavia	1
+3	Balkan Cup
+in Bulgaria	-17
++17	1396
+1693	-2
++2	60
+19
+July 31
+1948	Yugoslavia
+Luxembourg	6
+1	Olympic Games
+in England	+9
+-9	1702
+1251	+2
++4	17
+80
+August 05
+1948	Yugoslavia
+Turkey	3
+1	Olympic Games
+in England	+22
+-22	1724
+1482	+2
+-3	16
+45
+August 13
+1948	Sweden
+Yugoslavia	3
+1	Olympic Games
+in England	+22
+-22	1947
+1702	0
+0	4
+16
+August 25
+1948	Poland
+Yugoslavia	0
+1	Balkan Cup
+in Poland	-19
++19	1573
+1721	-1
+0	32
+16
+June 19
+1949	Norway
+Yugoslavia	1
+3	Friendly
+in Norway	-13
++13	1553
+1734	-3
++1	36
+14
+August 21
+1949	Yugoslavia
+Israel	6
+0	World Cup qualifier
+in Yugoslavia	+11
+-11	1745
+1496	0
+-2	14
+46
+September 18
+1949	Israel
+Yugoslavia	2
+5	World Cup qualifier
+in Israel	-21
++21	1475
+1766	-2
++1	48
+13
+October 09
+1949	Yugoslavia
+France	1
+1	World Cup qualifier
+in Yugoslavia	-11
++11	1755
+1663	0
++1	13
+22
+October 30
+1949	France
+Yugoslavia	1
+1	World Cup qualifier
+in France	0
+0	1663
+1755	0
+0	22
+13
+November 13
+1949	Yugoslavia
+Austria	2
+5	Friendly
+in Yugoslavia	-24
++24	1731
+1742	-2
++2	15
+14
+December 11
+1949	Yugoslavia
+France	3
+2	World Cup qualifier
+in Italy	+17
+-17	1748
+1654	+1
+-2	14
+22
+May 28
+1950	Yugoslavia
+Denmark	5
+1	Friendly
+in Yugoslavia	+11
+-11	1759
+1694	+1
+-1	14
+20
+June 11
+1950	Switzerland
+Yugoslavia	0
+4	Friendly
+in Switzerland	-18
++18	1632
+1777	-1
++1	24
+13
+June 25
+1950	Yugoslavia
+Switzerland	3
+0	World Cup
+in Brazil	+32
+-32	1809
+1600	+1
+-4	11
+28
+June 29
+1950	Yugoslavia
+Mexico	4
+1	World Cup
+in Brazil	+45
+-45	1854
+1715	+2
+-3	9
+17
+July 01
+1950	Brazil
+Yugoslavia	2
+0	World Cup
+in Brazil	+24
+-24	1953
+1830	+2
+-2	2
+11
+September 03
+1950	Sweden
+Yugoslavia	1
+2	Friendly
+in Sweden	-15
++15	1889
+1845	0
++1	5
+9
+September 07
+1950	Finland
+Yugoslavia	3
+2	Friendly
+in Finland	+18
+-18	1343
+1827	+1
+-1	79
+10
+September 10
+1950	Denmark
+Yugoslavia	1
+4	Friendly
+in Denmark	-16
++16	1688
+1843	-1
++1	20
+9
+October 08
+1950	Austria
+Yugoslavia	7
+2	Friendly
+in Austria	+18
+-18	1794
+1825	0
+-2	14
+11
+November 05
+1950	Yugoslavia
+Norway	4
+0	Friendly
+in Yugoslavia	+3
+-3	1828
+1525	+1
+0	10
+41
+November 22
+1950	England
+Yugoslavia	2
+2	Friendly
+in England	-5
++5	1920
+1833	0
+0	4
+10
+February 06
+1951	France
+Yugoslavia	2
+1	Friendly
+in France	+13
+-13	1649
+1820	0
+-2	24
+12
+May 06
+1951	Italy
+Yugoslavia	0
+0	Friendly
+in Italy	-6
++6	1963
+1826	0
++1	3
+11
+June 24
+1951	Yugoslavia
+Switzerland	7
+3	Friendly
+in Yugoslavia	+7
+-7	1833
+1658	+2
+-1	10
+24
+August 23
+1951	Norway
+Yugoslavia	2
+4	Friendly
+in Norway	-7
++7	1527
+1840	0
+0	41
+10
+September 02
+1951	Yugoslavia
+Sweden	2
+1	Friendly
+in Yugoslavia	+8
+-8	1848
+1854	+1
+0	9
+7
+June 25
+1952	Yugoslavia
+Norway	4
+1	Friendly
+in Yugoslavia	+3
+-3	1851
+1542	0
+-1	7
+38
+July 15
+1952	Yugoslavia
+India	10
+1	Olympic Games
+in Finland	+17
+-17	1868
+1471	+1
+-5	6
+54
+July 20
+1952	Soviet Union
+Yugoslavia	5
+5	Olympic Games
+in Finland	+18
+-18	1642
+1850	0
+-1	26
+7
+July 22
+1952	Yugoslavia
+Soviet Union	3
+1	Olympic Games
+in Finland	+21
+-21	1871
+1621	+1
+0	6
+26
+July 25
+1952	Yugoslavia
+Denmark	5
+3	Olympic Games
+in Finland	+24
+-24	1895
+1668	+1
+-1	5
+22
+August 02
+1952	Hungary
+Yugoslavia	2
+0	Olympic Games
+in Finland	+39
+-39	1978
+1856	0
+-1	3
+7
+September 21
+1952	Yugoslavia
+Austria	4
+2	Friendly
+in Yugoslavia	+10
+-10	1866
+1814	+1
+-1	6
+12
+November 02
+1952	Yugoslavia
+Egypt	5
+0	Friendly
+in Yugoslavia	+3
+-3	1869
+1525	0
+0	6
+42
+December 21
+1952	West Germany
+Yugoslavia	3
+2	Friendly
+in West Germany	+8
+-8	1856
+1861	0
+0	7
+6
+January 16
+1953	Egypt
+Yugoslavia	1
+3	Friendly
+in Egypt	-6
++6	1519
+1867	0
+0	42
+6
+May 09
+1953	Yugoslavia
+Greece	1
+0	World Cup qualifier
+in Yugoslavia	+2
+-2	1869
+1434	0
+-1	7
+61
+May 14
+1953	Belgium
+Yugoslavia	1
+3	Friendly
+in Belgium	-10
++10	1632
+1879	-2
+0	27
+7
+May 21
+1953	Yugoslavia
+Wales	5
+2	Friendly
+in Yugoslavia	+5
+-5	1884
+1682	0
+0	6
+20
+June 05
+1953	Turkey
+Yugoslavia	2
+2	Friendly
+in Turkey	+6
+-6	1568
+1878	+2
+0	35
+6
+October 18
+1953	Yugoslavia
+France	3
+1	Friendly
+in Yugoslavia	+6
+-6	1884
+1741	0
+0	6
+14
+November 08
+1953	Yugoslavia
+Israel	1
+0	World Cup qualifier
+in Yugoslavia	+2
+-2	1886
+1468	0
+-1	6
+57
+March 21
+1954	Israel
+Yugoslavia	0
+1	World Cup qualifier
+in Israel	-5
++5	1423
+1891	-3
++1	65
+5
+March 28
+1954	Greece
+Yugoslavia	0
+1	World Cup qualifier
+in Greece	-6
++6	1485
+1897	-2
+0	53
+5
+May 09
+1954	Yugoslavia
+Belgium	0
+2	Friendly
+in Yugoslavia	-26
++26	1871
+1710	-2
++4	8
+16
+May 16
+1954	Yugoslavia
+England	1
+0	Friendly
+in Yugoslavia	+10
+-10	1881
+1950	0
+0	8
+4
+June 16
+1954	Yugoslavia
+France	1
+0	World Cup
+in Switzerland	+17
+-17	1898
+1701	+2
+-4	6
+19
+June 19
+1954	Brazil
+Yugoslavia	1
+1	World Cup
+in Switzerland	-10
++10	2010
+1908	0
++1	3
+6
+June 27
+1954	West Germany
+Yugoslavia	2
+0	World Cup
+in Switzerland	+47
+-47	1943
+1861	+3
+-4	5
+9
+September 22
+1954	Wales
+Yugoslavia	1
+3	Friendly
+in Wales	-10
++10	1624
+1871	-4
+0	29
+9
+September 26
+1954	Saar
+Yugoslavia	1
+5	Friendly
+in Saar	-9
++9	1567
+1880	0
+0	36
+9
+October 03
+1954	Austria
+Yugoslavia	2
+2	Friendly
+in Austria	-3
++3	1899
+1883	0
+0	7
+9
+October 17
+1954	Yugoslavia
+Turkey	5
+1	Friendly
+in Yugoslavia	+4
+-4	1887
+1616	0
+0	9
+29
+May 15
+1955	Yugoslavia
+Scotland	2
+2	Friendly
+in Yugoslavia	-6
++6	1881
+1726	0
++1	6
+16
+May 29
+1955	Italy
+Yugoslavia	0
+4	Dr. Gero International Cup
+in Italy	-45
++45	1806
+1926	-2
++1	9
+5
+June 26
+1955	Yugoslavia
+Switzerland	0
+0	Dr. Gero International Cup
+in Yugoslavia	-16
++16	1910
+1635	0
++4	5
+25
+September 25
+1955	Yugoslavia
+West Germany	3
+1	Friendly
+in Yugoslavia	+12
+-12	1922
+1939	0
+0	5
+4
+October 19
+1955	Ireland
+Yugoslavia	1
+4	Friendly
+in Ireland	-8
++8	1599
+1930	-1
+0	33
+5
+October 30
+1955	Austria
+Yugoslavia	2
+1	Dr. Gero International Cup
+in Austria	+19
+-19	1862
+1911	+1
+0	7
+5
+November 11
+1955	France
+Yugoslavia	1
+1	Friendly
+in France	0
+0	1797
+1911	0
+0	12
+5
+April 22
+1956	Yugoslavia
+Romania	0
+1	Friendly
+in Yugoslavia	-18
++18	1893
+1593	-1
++1	6
+34
+April 29
+1956	Hungary
+Yugoslavia	2
+2	Dr. Gero International Cup
+in Hungary	-15
++15	2108
+1908	0
+0	1
+6
+June 17
+1956	Yugoslavia
+Austria	1
+1	Dr. Gero International Cup
+in Yugoslavia	-9
++9	1899
+1853	0
+0	6
+8
+September 09
+1956	Yugoslavia
+Indonesia	4
+2	Friendly
+in Yugoslavia	+1
+-1	1900
+1366	0
+-1	6
+80
+September 16
+1956	Yugoslavia
+Hungary	1
+3	Dr. Gero International Cup
+in Yugoslavia	-28
++28	1872
+2056	-1
++1	7
+1
+September 30
+1956	Yugoslavia
+Czechoslovakia	1
+2	Dr. Gero International Cup
+in Yugoslavia	-31
++31	1841
+1795	-1
++4	8
+11
+November 21
+1956	Scotland
+Yugoslavia	2
+0	Friendly
+in Scotland	+15
+-15	1762
+1826	+1
+-1	16
+9
+November 28
+1956	England
+Yugoslavia	3
+0	Friendly
+in England	+9
+-9	1928
+1817	0
+0	4
+9
+December 04
+1956	Yugoslavia
+India	4
+1	Olympic Games
+in Australia	+16
+-16	1833
+1506	+2
+-3	7
+52
+December 08
+1956	Soviet Union
+Yugoslavia	1
+0	Olympic Games
+in Australia	+34
+-34	1821
+1799	+5
+-5	9
+12
+December 23
+1956	Indonesia
+Yugoslavia	1
+5	Friendly
+in Indonesia	-5
++5	1369
+1804	-1
+0	82
+12
+May 05
+1957	Greece
+Yugoslavia	0
+0	World Cup qualifier
+in Greece	+11
+-11	1503
+1793	+4
+-1	50
+13
+May 12
+1957	Yugoslavia
+Italy	6
+1	Dr. Gero International Cup
+in Yugoslavia	+35
+-35	1828
+1812	+5
+-4	8
+11
+May 18
+1957	Czechoslovakia
+Yugoslavia	1
+0	Dr. Gero International Cup
+in Czechoslovakia	+18
+-18	1783
+1810	+2
+-3	14
+11
+September 15
+1957	Yugoslavia
+Austria	3
+3	Friendly
+in Yugoslavia	-2
++2	1808
+1841	0
++1	10
+6
+September 29
+1957	Romania
+Yugoslavia	1
+1	World Cup qualifier
+in Romania	+6
+-6	1604
+1802	0
+-1	34
+11
+November 10
+1957	Yugoslavia
+Greece	4
+1	World Cup qualifier
+in Yugoslavia	+5
+-5	1807
+1461	+1
+-2	11
+63
+November 17
+1957	Yugoslavia
+Romania	2
+0	World Cup qualifier
+in Yugoslavia	+10
+-10	1817
+1609	+1
+-2	10
+35
+April 20
+1958	Hungary
+Yugoslavia	2
+0	Friendly
+in Hungary	+4
+-4	2023
+1813	0
+0	1
+11
+May 11
+1958	Yugoslavia
+England	5
+0	Friendly
+in Yugoslavia	+23
+-23	1836
+1946	+1
+-1	10
+4
+June 08
+1958	Scotland
+Yugoslavia	1
+1	World Cup
+in Sweden	+7
+-7	1762
+1829	0
++1	17
+9
+June 11
+1958	Yugoslavia
+France	3
+2	World Cup
+in Sweden	+31
+-31	1860
+1807	+1
+-3	8
+11
+June 15
+1958	Paraguay
+Yugoslavia	3
+3	World Cup
+in Sweden	+11
+-11	1732
+1849	+2
+-1	19
+9
+June 19
+1958	West Germany
+Yugoslavia	1
+0	World Cup
+in Sweden	+26
+-26	1924
+1823	0
+-3	3
+11
+September 14
+1958	Austria
+Yugoslavia	3
+4	Friendly
+in Austria	-12
++12	1771
+1835	-1
++1	16
+9
+October 05
+1958	Yugoslavia
+Hungary	4
+4	Friendly
+in Yugoslavia	-1
++1	1834
+1906	0
+-1	10
+3
+April 19
+1959	Hungary
+Yugoslavia	4
+0	Friendly
+in Hungary	+10
+-10	1924
+1824	0
+-1	3
+9
+April 26
+1959	Switzerland
+Yugoslavia	1
+5	Dr. Gero International Cup
+in Switzerland	-20
++20	1527
+1844	-3
++1	48
+8
+May 31
+1959	Yugoslavia
+Bulgaria	2
+0	European Cup qualifier
+in Yugoslavia	+9
+-9	1853
+1623	0
+-2	8
+32
+October 11
+1959	Yugoslavia
+Hungary	2
+4	Friendly
+in Yugoslavia	-17
++17	1836
+1920	-1
+0	9
+3
+October 21
+1959	Israel
+Yugoslavia	2
+2	Olympic Games qualifier
+in Israel	+14
+-14	1462
+1822	+3
+0	61
+9
+October 25
+1959	Bulgaria
+Yugoslavia	1
+1	European Cup qualifier
+in Bulgaria	+3
+-3	1681
+1819	0
+0	27
+9
+November 15
+1959	Yugoslavia
+Greece	4
+0	Olympic Games qualifier
+in Yugoslavia	+5
+-5	1824
+1467	0
+-3	9
+60
+December 20
+1959	West Germany
+Yugoslavia	1
+1	Friendly
+in West Germany	-2
++2	1807
+1826	0
+0	12
+10
+January 01
+1960	Morocco
+Yugoslavia	0
+5	Friendly
+in Morocco	-13
++13	1582
+1839	-1
+0	41
+10
+January 03
+1960	Tunisia
+Yugoslavia	1
+5	Friendly
+in Tunisia	-7
++7	1476
+1846	-1
+0	59
+10
+January 08
+1960	Egypt
+Yugoslavia	0
+1	Friendly
+in Egypt	-8
++8	1672
+1854	-2
++2	28
+8
+April 10
+1960	Yugoslavia
+Israel	1
+2	Olympic Games qualifier
+in Yugoslavia	-37
++37	1817
+1536	-1
++6	10
+45
+April 24
+1960	Greece
+Yugoslavia	0
+5	Olympic Games qualifier
+in Greece	-15
++15	1445
+1832	-5
+0	70
+10
+May 08
+1960	Portugal
+Yugoslavia	2
+1	European Cup qualifier
+in Portugal	+25
+-25	1667
+1807	+4
+-2	28
+12
+May 11
+1960	England
+Yugoslavia	3
+3	Friendly
+in England	-4
++4	1848
+1811	0
++1	9
+11
+May 22
+1960	Yugoslavia
+Portugal	5
+1	European Cup qualifier
+in Yugoslavia	+15
+-15	1826
+1652	0
+-2	11
+30
+July 06
+1960	France
+Yugoslavia	4
+5	European Cup
+in France	-37
++37	1878
+1863	-2
++2	6
+9
+July 10
+1960	Soviet Union
+Yugoslavia	2
+1	European Cup
+in France	+21
+-21	1937
+1842	+2
+0	3
+9
+August 06
+1960	Yugoslavia
+Tunisia	7
+0	Friendly
+in Yugoslavia	+3
+-3	1845
+1487	0
+0	9
+58
+August 26
+1960	Yugoslavia
+Egypt	6
+1	Olympic Games
+in Italy	+29
+-29	1874
+1620	+2
+-8	7
+38
+September 01
+1960	Bulgaria
+Yugoslavia	3
+3	Olympic Games
+in Italy	+14
+-14	1719
+1860	+1
+-2	22
+9
+September 10
+1960	Yugoslavia
+Denmark	3
+1	Olympic Games
+in Italy	+24
+-24	1884
+1657	+2
+-3	7
+28
+October 09
+1960	Hungary
+Yugoslavia	1
+1	Friendly
+in Hungary	-4
++4	1907
+1888	-1
+0	5
+7
+May 07
+1961	Yugoslavia
+Hungary	2
+4	Friendly
+in Yugoslavia	-17
++17	1871
+1948	-1
+0	9
+3
+June 04
+1961	Yugoslavia
+Poland	2
+1	World Cup qualifier
+in Yugoslavia	+5
+-5	1876
+1611	0
+-2	9
+38
+June 18
+1961	Yugoslavia
+Morocco	3
+2	Friendly
+in Yugoslavia	+2
+-2	1878
+1571	0
+0	9
+45
+June 25
+1961	Poland
+Yugoslavia	1
+1	World Cup qualifier
+in Poland	+9
+-9	1620
+1869	+2
+-1	36
+10
+October 08
+1961	Yugoslavia
+South Korea	5
+1	World Cup qualifier
+in Yugoslavia	+9
+-9	1878
+1619	0
+-3	10
+36
+November 19
+1961	Yugoslavia
+Austria	2
+1	Friendly
+in Yugoslavia	+6
+-6	1884
+1845	0
+0	9
+10
+November 26
+1961	South Korea
+Yugoslavia	1
+3	World Cup qualifier
+in South Korea	-17
++17	1607
+1901	-6
++1	40
+8
+November 29
+1961	Japan
+Yugoslavia	0
+1	Friendly
+in Japan	-1
++1	1304
+1902	0
++1	106
+7
+December 02
+1961	Hong Kong
+Yugoslavia	1
+2	Friendly
+in Hong Kong	-2
++2	1404
+1904	-1
+0	81
+7
+December 07
+1961	Indonesia
+Yugoslavia	1
+5	Friendly
+in Indonesia	-6
++6	1526
+1910	0
+0	50
+7
+December 14
+1961	Israel
+Yugoslavia	0
+2	Friendly
+in Israel	-6
++6	1551
+1916	0
++1	47
+5
+May 16
+1962	Yugoslavia
+East Germany	3
+1	Friendly
+in Yugoslavia	+1
+-1	1917
+1487	0
+0	5
+59
+May 31
+1962	Soviet Union
+Yugoslavia	2
+0	World Cup
+in Chile	+38
+-38	2013
+1879	0
+-2	2
+7
+June 02
+1962	Yugoslavia
+Uruguay	3
+1	World Cup
+in Chile	+45
+-45	1924
+1831	+3
+-3	4
+11
+June 07
+1962	Yugoslavia
+Colombia	5
+0	World Cup
+in Chile	+9
+-9	1933
+1472	+1
+-1	4
+64
+June 10
+1962	Yugoslavia
+West Germany	1
+0	World Cup
+in Chile	+28
+-28	1961
+1876	+2
+-3	2
+8
+June 13
+1962	Czechoslovakia
+Yugoslavia	3
+1	World Cup
+in Chile	+50
+-50	1976
+1911	+2
+-2	2
+4
+June 16
+1962	Chile
+Yugoslavia	1
+0	World Cup
+in Chile	+35
+-35	1790
+1876	+1
+-3	18
+7
+September 16
+1962	East Germany
+Yugoslavia	2
+2	Friendly
+in East Germany	+6
+-6	1513
+1870	+1
+-2	55
+9
+September 19
+1962	Yugoslavia
+Ethiopia	5
+2	Friendly
+in Yugoslavia	+1
+-1	1871
+1424	0
+0	9
+79
+September 30
+1962	Yugoslavia
+West Germany	2
+3	Friendly
+in Yugoslavia	-13
++13	1858
+1889	0
++1	9
+6
+October 14
+1962	Hungary
+Yugoslavia	0
+1	Friendly
+in Hungary	-15
++15	1914
+1873	0
++1	4
+8
+November 04
+1962	Yugoslavia
+Belgium	3
+2	European Cup qualifier
+in Yugoslavia	+4
+-4	1877
+1610	+1
+-2	8
+36
+March 31
+1963	Belgium
+Yugoslavia	0
+1	European Cup qualifier
+in Belgium	-12
++12	1615
+1889	-2
++1	34
+6
+June 19
+1963	Yugoslavia
+Sweden	0
+0	European Cup qualifier
+in Yugoslavia	-8
++8	1881
+1851	0
+0	5
+11
+September 18
+1963	Sweden
+Yugoslavia	3
+2	European Cup qualifier
+in Sweden	+17
+-17	1849
+1864	0
+-4	11
+9
+October 06
+1963	Yugoslavia
+Hungary	2
+0	Friendly
+in Yugoslavia	+13
+-13	1877
+1915	+4
+0	5
+2
+October 27
+1963	Romania
+Yugoslavia	2
+1	Friendly
+in Romania	+13
+-13	1697
+1864	+1
+-2	25
+8
+November 03
+1963	Yugoslavia
+Czechoslovakia	2
+0	Friendly
+in Yugoslavia	+11
+-11	1875
+1856	+2
+-2	6
+9
+May 17
+1964	Czechoslovakia
+Yugoslavia	2
+3	Friendly
+in Czechoslovakia	-13
++13	1859
+1888	-2
+0	10
+6
+June 17
+1964	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-16
++16	1872
+1738	-1
++2	6
+20
+September 20
+1964	Yugoslavia
+Luxembourg	3
+1	World Cup qualifier
+in Yugoslavia	+1
+-1	1873
+1334	+1
+0	5
+107
+September 27
+1964	Austria
+Yugoslavia	3
+2	Friendly
+in Austria	+11
+-11	1745
+1862	+2
+-4	20
+9
+October 13
+1964	Yugoslavia
+Morocco	3
+1	Olympic Games
+in Japan	+19
+-19	1881
+1614	+2
+-3	5
+37
+October 18
+1964	East Germany
+Yugoslavia	1
+0	Olympic Games
+in Japan	+43
+-43	1769
+1838	+6
+-6	18
+11
+October 20
+1964	Japan
+Yugoslavia	1
+6	Olympic Games Consolation Tournament
+in Japan	-7
++7	1318
+1845	-3
+0	110
+11
+October 22
+1964	Romania
+Yugoslavia	3
+0	Olympic Games Consolation Tournament
+in Japan	+42
+-42	1815
+1803	+5
+-4	12
+15
+October 25
+1964	Hungary
+Yugoslavia	2
+1	Friendly
+in Hungary	+5
+-5	1917
+1798	0
+0	2
+16
+October 28
+1964	Israel
+Yugoslavia	2
+0	Friendly
+in Israel	+21
+-21	1585
+1777	+3
+-1	44
+17
+November 22
+1964	Yugoslavia
+Soviet Union	1
+1	Friendly
+in Yugoslavia	-1
++1	1776
+1859	0
+0	17
+7
+April 18
+1965	Yugoslavia
+France	1
+0	World Cup qualifier
+in Yugoslavia	+10
+-10	1786
+1679	0
+-3	18
+29
+May 09
+1965	Yugoslavia
+England	1
+1	Friendly
+in Yugoslavia	0
+0	1786
+1876	+1
+0	18
+4
+June 16
+1965	Norway
+Yugoslavia	3
+0	World Cup qualifier
+in Norway	+53
+-53	1542
+1733	+18
+-5	51
+24
+September 04
+1965	Soviet Union
+Yugoslavia	0
+0	Friendly
+in the Soviet Union	-6
++6	1846
+1739	-1
+0	8
+22
+September 19
+1965	Luxembourg
+Yugoslavia	2
+5	World Cup qualifier
+in Luxembourg	-8
++8	1277
+1747	-1
++2	121
+20
+October 09
+1965	France
+Yugoslavia	1
+0	World Cup qualifier
+in France	+17
+-17	1716
+1730	+1
+-4	26
+24
+November 07
+1965	Yugoslavia
+Norway	1
+1	World Cup qualifier
+in Yugoslavia	-15
++15	1715
+1523	-2
++4	25
+58
+May 04
+1966	England
+Yugoslavia	2
+0	Friendly
+in England	+4
+-4	1922
+1711	0
+0	4
+27
+May 08
+1966	Yugoslavia
+Hungary	2
+0	Friendly
+in Yugoslavia	+21
+-21	1732
+1929	+4
+-1	23
+3
+June 01
+1966	Yugoslavia
+Bulgaria	0
+2	Friendly
+in Yugoslavia	-19
++19	1713
+1761	-5
++3	26
+17
+June 23
+1966	West Germany
+Yugoslavia	2
+0	Friendly
+in West Germany	+5
+-5	1903
+1708	0
+0	7
+26
+June 27
+1966	Sweden
+Yugoslavia	1
+1	Friendly
+in Sweden	-4
++4	1735
+1712	0
+0	21
+26
+September 18
+1966	Yugoslavia
+Soviet Union	1
+2	Friendly
+in Yugoslavia	-7
++7	1705
+1941	0
+0	24
+5
+October 12
+1966	Israel
+Yugoslavia	1
+3	Friendly
+in Israel	-11
++11	1489
+1716	-5
++1	67
+23
+October 19
+1966	Yugoslavia
+Czechoslovakia	1
+0	Friendly
+in Yugoslavia	+11
+-11	1727
+1837	+1
+0	22
+10
+November 06
+1966	Bulgaria
+Yugoslavia	6
+1	Friendly
+in Bulgaria	+17
+-17	1693
+1710	+4
+-1	26
+23
+April 23
+1967	Hungary
+Yugoslavia	1
+0	Friendly
+in Hungary	+3
+-3	1923
+1707	0
+0	5
+25
+May 03
+1967	Yugoslavia
+West Germany	1
+0	European Cup qualifier
+in Yugoslavia	+30
+-30	1737
+1962	+4
+0	21
+2
+May 14
+1967	Albania
+Yugoslavia	0
+2	European Cup qualifier
+in Albania	-11
++11	1359
+1748	-1
++1	101
+20
+October 07
+1967	West Germany
+Yugoslavia	3
+1	European Cup qualifier
+in West Germany	+8
+-8	1974
+1740	0
+-1	2
+20
+November 01
+1967	Netherlands
+Yugoslavia	1
+2	Friendly
+in the Netherlands	-10
++10	1616
+1750	0
++1	36
+19
+November 12
+1967	Yugoslavia
+Albania	4
+0	European Cup qualifier
+in Yugoslavia	+4
+-4	1754
+1355	+1
+-4	18
+100
+April 06
+1968	France
+Yugoslavia	1
+1	European Cup qualifier
+in France	-3
++3	1698
+1757	0
+0	24
+18
+April 24
+1968	Yugoslavia
+France	5
+1	European Cup qualifier
+in Yugoslavia	+21
+-21	1778
+1677	+1
+-4	17
+28
+April 27
+1968	Czechoslovakia
+Yugoslavia	3
+0	Friendly
+in Czechoslovakia	+10
+-10	1839
+1768	0
+-1	11
+18
+June 05
+1968	Yugoslavia
+England	1
+0	European Cup
+in Italy	+41
+-41	1809
+1985	+5
+0	13
+1
+June 08
+1968	Italy
+Yugoslavia	1
+1	European Cup
+in Italy	-13
++13	1887
+1822	-2
++1	8
+12
+June 10
+1968	Italy
+Yugoslavia	2
+0	European Cup
+in Italy	+21
+-21	1908
+1801	+4
+-3	4
+15
+June 25
+1968	Yugoslavia
+Brazil	0
+2	Friendly
+in Yugoslavia	-15
++15	1786
+1918	-1
++2	16
+4
+September 25
+1968	Yugoslavia
+Finland	9
+1	World Cup qualifier
+in Yugoslavia	+4
+-4	1790
+1321	0
+-1	16
+108
+October 16
+1968	Belgium
+Yugoslavia	3
+0	World Cup qualifier
+in Belgium	+35
+-35	1725
+1755	+5
+-2	20
+18
+October 27
+1968	Yugoslavia
+Spain	0
+0	World Cup qualifier
+in Yugoslavia	-2
++2	1753
+1822	0
+0	18
+12
+December 17
+1968	Brazil
+Yugoslavia	3
+3	Friendly
+in Brazil	-7
++7	1934
+1760	0
+0	3
+18
+December 19
+1968	Brazil
+Yugoslavia	3
+2	Friendly
+in Brazil	+3
+-3	1937
+1757	0
+0	3
+18
+December 22
+1968	Argentina
+Yugoslavia	1
+1	Friendly
+in Argentina	-5
++5	1854
+1762	0
+0	9
+18
+February 26
+1969	Yugoslavia
+Sweden	2
+1	Friendly
+in Yugoslavia	+6
+-6	1768
+1715	0
+0	18
+23
+April 30
+1969	Spain
+Yugoslavia	2
+1	World Cup qualifier
+in Spain	+13
+-13	1806
+1755	+3
+-1	12
+19
+June 04
+1969	Finland
+Yugoslavia	1
+5	World Cup qualifier
+in Finland	-9
++9	1305
+1764	-4
+0	111
+18
+September 03
+1969	Yugoslavia
+Romania	1
+1	Friendly
+in Yugoslavia	-3
++3	1761
+1746	0
+0	18
+21
+September 24
+1969	Yugoslavia
+Soviet Union	1
+3	Friendly
+in Yugoslavia	-13
++13	1748
+1923	-1
++1	19
+5
+October 19
+1969	Yugoslavia
+Belgium	4
+0	World Cup qualifier
+in Yugoslavia	+29
+-29	1777
+1737	+4
+-5	16
+21
+April 08
+1970	Yugoslavia
+Austria	1
+1	Friendly
+in Yugoslavia	-5
++5	1772
+1692	-1
++1	15
+26
+April 12
+1970	Yugoslavia
+Hungary	2
+2	Friendly
+in Yugoslavia	0
+0	1772
+1875	0
+0	15
+7
+May 06
+1970	Romania
+Yugoslavia	0
+0	Friendly
+in Romania	-2
++2	1730
+1774	-1
+0	21
+16
+May 13
+1970	West Germany
+Yugoslavia	1
+0	Friendly
+in West Germany	+4
+-4	1941
+1770	0
+0	5
+16
+September 10
+1970	Austria
+Yugoslavia	0
+1	Friendly
+in Austria	-10
++10	1669
+1780	-3
++1	32
+15
+October 11
+1970	Netherlands
+Yugoslavia	1
+1	European Cup qualifier
+in the Netherlands	0
+0	1679
+1780	0
+0	30
+14
+October 14
+1970	Luxembourg
+Yugoslavia	0
+2	European Cup qualifier
+in Luxembourg	-5
++5	1240
+1785	-1
++1	129
+13
+October 28
+1970	Soviet Union
+Yugoslavia	4
+0	Friendly
+in the Soviet Union	+8
+-8	1931
+1777	0
+-2	5
+15
+November 18
+1970	Yugoslavia
+West Germany	2
+0	Friendly
+in Yugoslavia	+20
+-20	1797
+1977	+2
+-1	13
+3
+April 04
+1971	Yugoslavia
+Netherlands	2
+0	European Cup qualifier
+in Yugoslavia	+14
+-14	1811
+1676	+2
+-2	9
+29
+April 21
+1971	Yugoslavia
+Romania	0
+1	Friendly
+in Yugoslavia	-14
++14	1797
+1757	-2
+0	11
+19
+May 09
+1971	East Germany
+Yugoslavia	1
+2	European Cup qualifier
+in East Germany	-31
++31	1877
+1828	0
++3	6
+8
+July 18
+1971	Brazil
+Yugoslavia	2
+2	Friendly
+in Brazil	-8
++8	2119
+1836	0
+0	1
+7
+September 01
+1971	Hungary
+Yugoslavia	2
+1	Friendly
+in Hungary	+7
+-7	1842
+1829	+2
+-1	7
+9
+September 22
+1971	Yugoslavia
+Mexico	4
+0	Friendly
+in Yugoslavia	+7
+-7	1836
+1663	0
+-2	9
+34
+October 16
+1971	Yugoslavia
+East Germany	0
+0	European Cup qualifier
+in Yugoslavia	-5
++5	1831
+1853	0
+0	9
+7
+October 27
+1971	Yugoslavia
+Luxembourg	0
+0	European Cup qualifier
+in Yugoslavia	-19
++19	1812
+1250	-2
++4	11
+123
+April 30
+1972	Yugoslavia
+Soviet Union	0
+0	European Cup qualifier
+in Yugoslavia	+1
+-1	1813
+1932	0
+0	11
+4
+May 13
+1972	Soviet Union
+Yugoslavia	3
+0	European Cup qualifier
+in the Soviet Union	+15
+-15	1947
+1798	0
+-2	4
+13
+June 14
+1972	Yugoslavia
+Venezuela	10
+0	Independence Cup
+in Brazil	+7
+-7	1805
+1340	+1
+-3	12
+105
+June 18
+1972	Bolivia
+Yugoslavia	1
+1	Independence Cup
+in Brazil	+12
+-12	1569
+1793	+1
+-2	52
+15
+June 22
+1972	Yugoslavia
+Paraguay	2
+1	Independence Cup
+in Brazil	+17
+-17	1810
+1732	+3
+-4	12
+24
+June 25
+1972	Yugoslavia
+Peru	2
+1	Independence Cup
+in Brazil	+13
+-13	1823
+1678	+1
+-1	11
+31
+June 29
+1972	Scotland
+Yugoslavia	2
+2	Independence Cup
+in Brazil	+6
+-6	1728
+1817	0
+0	26
+11
+July 02
+1972	Brazil
+Yugoslavia	3
+0	Independence Cup
+in Brazil	+8
+-8	2090
+1809	0
+-1	2
+12
+July 06
+1972	Yugoslavia
+Czechoslovakia	2
+1	Independence Cup
+in Brazil	+22
+-22	1831
+1816	+2
+-4	10
+12
+July 09
+1972	Yugoslavia
+Argentina	4
+2	Independence Cup
+in Brazil	+32
+-32	1863
+1818	+3
+-3	7
+11
+September 20
+1972	Italy
+Yugoslavia	3
+1	Friendly
+in Italy	+9
+-9	1914
+1854	0
+0	5
+9
+October 11
+1972	England
+Yugoslavia	1
+1	Friendly
+in England	-5
++5	1950
+1859	0
+0	3
+9
+October 19
+1972	Spain
+Yugoslavia	2
+2	World Cup qualifier
+in Spain	-4
++4	1831
+1863	0
+0	10
+9
+November 19
+1972	Yugoslavia
+Greece	1
+0	World Cup qualifier
+in Yugoslavia	+4
+-4	1867
+1556	+2
+0	7
+54
+February 04
+1973	Tunisia
+Yugoslavia	0
+5	Friendly
+in Tunisia	-12
++12	1611
+1879	-1
++1	40
+6
+May 09
+1973	West Germany
+Yugoslavia	0
+1	Friendly
+in West Germany	-17
++17	2064
+1896	0
++1	2
+5
+May 13
+1973	Poland
+Yugoslavia	2
+2	Friendly
+in Poland	-3
++3	1883
+1899	0
+0	6
+5
+September 26
+1973	Yugoslavia
+Hungary	1
+1	Friendly
+in Yugoslavia	-4
++4	1895
+1854	0
+0	6
+7
+October 21
+1973	Yugoslavia
+Spain	0
+0	World Cup qualifier
+in Yugoslavia	-9
++9	1886
+1844	0
++1	6
+9
+December 19
+1973	Greece
+Yugoslavia	2
+4	World Cup qualifier
+in Greece	-12
++12	1525
+1898	-2
+0	58
+6
+February 13
+1974	Yugoslavia
+Spain	1
+0	World Cup qualifier
+in West Germany	+17
+-17	1915
+1824	0
+-4	6
+13
+February 26
+1974	Algeria
+Yugoslavia	0
+1	Friendly
+in Algeria	-4
++4	1559
+1919	-1
+0	53
+6
+April 17
+1974	Yugoslavia
+Soviet Union	0
+1	Friendly
+in Yugoslavia	-15
++15	1904
+1845	0
++2	6
+9
+May 29
+1974	Hungary
+Yugoslavia	3
+2	Friendly
+in Hungary	+9
+-9	1848
+1895	0
+-1	9
+6
+June 05
+1974	Yugoslavia
+England	2
+2	Friendly
+in Yugoslavia	-2
++2	1893
+1918	-1
+0	7
+5
+June 13
+1974	Brazil
+Yugoslavia	0
+0	World Cup
+in West Germany	-14
++14	2057
+1907	-1
++1	2
+6
+June 18
+1974	Yugoslavia
+Zaire	9
+0	World Cup
+in West Germany	+37
+-37	1944
+1678	+2
+-3	5
+30
+June 22
+1974	Scotland
+Yugoslavia	1
+1	World Cup
+in West Germany	+10
+-10	1840
+1934	+4
+-1	10
+6
+June 26
+1974	West Germany
+Yugoslavia	2
+0	World Cup
+in West Germany	+23
+-23	2046
+1911	0
+-3	2
+8
+June 30
+1974	Poland
+Yugoslavia	2
+1	World Cup
+in West Germany	+21
+-21	2034
+1890	0
++1	3
+7
+July 03
+1974	Sweden
+Yugoslavia	2
+1	World Cup
+in West Germany	+36
+-36	1861
+1854	+6
+-2	8
+9
+September 28
+1974	Yugoslavia
+Italy	1
+0	Friendly
+in Yugoslavia	+9
+-9	1863
+1914	0
+-1	8
+6
+October 30
+1974	Yugoslavia
+Norway	3
+1	European Cup qualifier
+in Yugoslavia	+3
+-3	1866
+1432	+1
+-1	7
+79
+March 16
+1975	Northern Ireland
+Yugoslavia	1
+0	European Cup qualifier
+in Northern Ireland	+22
+-22	1759
+1844	+1
+-2	22
+10
+May 31
+1975	Yugoslavia
+Netherlands	3
+0	Friendly
+in Yugoslavia	+22
+-22	1866
+2017	+1
+0	8
+2
+June 04
+1975	Sweden
+Yugoslavia	1
+2	European Cup qualifier
+in Sweden	-21
++21	1765
+1887	-2
++1	20
+7
+June 09
+1975	Norway
+Yugoslavia	1
+3	European Cup qualifier
+in Norway	-7
++7	1425
+1894	-1
+0	79
+6
+October 15
+1975	Yugoslavia
+Sweden	3
+0	European Cup qualifier
+in Yugoslavia	+17
+-17	1911
+1780	0
+-2	6
+19
+November 19
+1975	Yugoslavia
+Northern Ireland	1
+0	European Cup qualifier
+in Yugoslavia	+7
+-7	1918
+1732	0
+0	6
+23
+February 18
+1976	Tunisia
+Yugoslavia	2
+1	Friendly
+in Tunisia	+15
+-15	1648
+1903	+3
+-1	37
+7
+February 24
+1976	Algeria
+Yugoslavia	1
+2	Friendly
+in Algeria	-4
++4	1584
+1907	0
++1	46
+6
+April 17
+1976	Yugoslavia
+Hungary	0
+0	Friendly
+in Yugoslavia	-5
++5	1902
+1810	0
++1	7
+15
+April 24
+1976	Yugoslavia
+Wales	2
+0	European Cup qualifier
+in Yugoslavia	+9
+-9	1911
+1688	+1
+0	6
+29
+May 22
+1976	Wales
+Yugoslavia	1
+1	European Cup qualifier
+in Wales	+7
+-7	1689
+1904	+1
+-1	29
+7
+June 17
+1976	Yugoslavia
+West Germany	2
+4	European Cup
+in Yugoslavia	-32
++32	1872
+2085	-3
+0	9
+1
+June 19
+1976	Yugoslavia
+Netherlands	2
+3	European Cup
+in Yugoslavia	-25
++25	1847
+2002	-3
+0	12
+3
+September 25
+1976	Italy
+Yugoslavia	3
+0	Friendly
+in Italy	+10
+-10	1911
+1837	+1
+0	6
+13
+October 10
+1976	Spain
+Yugoslavia	1
+0	World Cup qualifier
+in Spain	+13
+-13	1871
+1824	+2
+-1	9
+14
+January 30
+1977	Colombia
+Yugoslavia	0
+1	Friendly
+in Colombia	-6
++6	1555
+1830	-3
+0	55
+14
+February 01
+1977	Mexico
+Yugoslavia	5
+1	Friendly
+in Mexico	+24
+-24	1661
+1806	+2
+-1	35
+15
+February 08
+1977	Mexico
+Yugoslavia	0
+1	Friendly
+in Mexico	-9
++9	1652
+1815	-2
+0	38
+15
+March 23
+1977	Yugoslavia
+Soviet Union	2
+4	Friendly
+in Yugoslavia	-17
++17	1798
+1889	-1
++2	16
+10
+April 30
+1977	Yugoslavia
+West Germany	1
+2	Friendly
+in Yugoslavia	-5
++5	1793
+2078	-1
+0	18
+1
+May 08
+1977	Yugoslavia
+Romania	0
+2	World Cup qualifier
+in Yugoslavia	-37
++37	1756
+1842	-4
+0	22
+14
+June 26
+1977	Brazil
+Yugoslavia	0
+0	Friendly
+in Brazil	-8
++8	2021
+1764	-1
++1	3
+22
+July 03
+1977	Argentina
+Yugoslavia	1
+0	Friendly
+in Argentina	+4
+-4	1883
+1760	0
+0	8
+22
+October 05
+1977	Hungary
+Yugoslavia	4
+3	Friendly
+in Hungary	+5
+-5	1847
+1755	+1
+0	13
+22
+November 13
+1977	Romania
+Yugoslavia	4
+6	World Cup qualifier
+in Romania	-44
++44	1782
+1799	-6
++5	20
+17
+November 16
+1977	Greece
+Yugoslavia	0
+0	Balkan Cup
+in Greece	+6
+-6	1597
+1793	0
+-2	44
+19
+November 30
+1977	Yugoslavia
+Spain	0
+1	World Cup qualifier
+in Yugoslavia	-21
++21	1772
+1901	-1
++2	20
+7
+April 05
+1978	Iran
+Yugoslavia	0
+0	Friendly
+in Iran	-3
++3	1789
+1775	0
++1	19
+20
+May 18
+1978	Italy
+Yugoslavia	0
+0	Friendly
+in Italy	-6
++6	1897
+1781	0
++1	8
+19
+October 04
+1978	Yugoslavia
+Spain	1
+2	European Cup qualifier
+in Yugoslavia	-19
++19	1762
+1922	-2
+0	20
+8
+October 25
+1978	Romania
+Yugoslavia	3
+2	European Cup qualifier
+in Romania	+13
+-13	1800
+1749	+2
+-3	16
+24
+November 15
+1978	Yugoslavia
+Greece	4
+1	Balkan Cup
+in Yugoslavia	+16
+-16	1765
+1627	+3
+-2	20
+39
+April 01
+1979	Cyprus
+Yugoslavia	0
+3	European Cup qualifier
+in Cyprus	-6
++6	1233
+1771	0
++1	133
+21
+June 13
+1979	Yugoslavia
+Italy	4
+1	Friendly
+in Yugoslavia	+22
+-22	1793
+1947	+1
+0	19
+6
+September 16
+1979	Yugoslavia
+Argentina	4
+2	Friendly
+in Yugoslavia	+18
+-18	1811
+1935	+4
+-2	15
+7
+October 10
+1979	Spain
+Yugoslavia	0
+1	European Cup qualifier
+in Spain	-30
++30	1872
+1841	-3
+0	11
+15
+October 31
+1979	Yugoslavia
+Romania	2
+1	European Cup qualifier
+in Yugoslavia	+10
+-10	1851
+1741	0
+-2	14
+24
+November 14
+1979	Yugoslavia
+Cyprus	5
+0	European Cup qualifier
+in Yugoslavia	+1
+-1	1852
+1249	+1
+-2	13
+133
+March 22
+1980	Yugoslavia
+Uruguay	2
+1	Friendly
+in Yugoslavia	+3
+-3	1855
+1619	+2
++1	12
+45
+March 30
+1980	Yugoslavia
+Romania	2
+0	Balkan Cup
+in Yugoslavia	+13
+-13	1868
+1727	+1
+-1	11
+25
+April 26
+1980	Yugoslavia
+Poland	2
+1	Friendly
+in Yugoslavia	+9
+-9	1877
+1907	+1
+0	10
+7
+August 27
+1980	Romania
+Yugoslavia	4
+1	Balkan Cup
+in Romania	+41
+-41	1761
+1836	+5
+-3	21
+14
+September 10
+1980	Luxembourg
+Yugoslavia	0
+5	World Cup qualifier
+in Luxembourg	-4
++4	1210
+1840	0
+0	140
+14
+September 27
+1980	Yugoslavia
+Denmark	2
+1	World Cup qualifier
+in Yugoslavia	+6
+-6	1846
+1616	0
+-2	14
+42
+November 15
+1980	Italy
+Yugoslavia	2
+0	World Cup qualifier
+in Italy	+14
+-14	1960
+1832	+2
+0	3
+14
+March 25
+1981	Yugoslavia
+Bulgaria	2
+1	Friendly
+in Yugoslavia	+3
+-3	1835
+1657	0
+0	14
+34
+April 29
+1981	Yugoslavia
+Greece	5
+1	World Cup qualifier
+in Yugoslavia	+12
+-12	1847
+1638	+1
+0	13
+37
+September 09
+1981	Denmark
+Yugoslavia	1
+2	World Cup qualifier
+in Denmark	-16
++16	1662
+1863	-4
++3	35
+12
+October 17
+1981	Yugoslavia
+Italy	1
+1	World Cup qualifier
+in Yugoslavia	-5
++5	1858
+1885	-1
+0	10
+8
+November 21
+1981	Yugoslavia
+Luxembourg	5
+0	World Cup qualifier
+in Yugoslavia	+1
+-1	1859
+1178	0
+0	10
+145
+November 29
+1981	Greece
+Yugoslavia	1
+2	World Cup qualifier
+in Greece	-13
++13	1624
+1872	0
++3	39
+7
+June 17
+1982	Northern Ireland
+Yugoslavia	0
+0	World Cup
+in Spain	+14
+-14	1709
+1858	+2
+-2	26
+10
+June 20
+1982	Spain
+Yugoslavia	2
+1	World Cup
+in Spain	+25
+-25	1847
+1833	+3
+-3	11
+13
+June 24
+1982	Yugoslavia
+Honduras	1
+0	World Cup
+in Spain	+12
+-12	1845
+1582	0
+-5	12
+51
+October 13
+1982	Norway
+Yugoslavia	3
+1	European Cup qualifier
+in Norway	+48
+-48	1550
+1797	+10
+-3	57
+16
+November 17
+1982	Bulgaria
+Yugoslavia	0
+1	European Cup qualifier
+in Bulgaria	-19
++19	1653
+1816	-6
++3	39
+14
+December 15
+1982	Yugoslavia
+Wales	4
+4	European Cup qualifier
+in Yugoslavia	-6
++6	1810
+1815	-1
++1	15
+14
+March 30
+1983	Romania
+Yugoslavia	0
+2	Friendly
+in Romania	-18
++18	1756
+1828	-2
++2	22
+11
+April 23
+1983	France
+Yugoslavia	4
+0	Friendly
+in France	+10
+-10	1904
+1818	+1
+-1	7
+12
+June 01
+1983	Yugoslavia
+Romania	1
+0	Friendly
+in Yugoslavia	+6
+-6	1824
+1752	0
+0	13
+21
+June 07
+1983	West Germany
+Yugoslavia	4
+2	Friendly
+in Luxembourg	+9
+-9	1972
+1815	0
+0	4
+13
+October 12
+1983	Yugoslavia
+Norway	2
+1	European Cup qualifier
+in Yugoslavia	+4
+-4	1819
+1543	-1
+0	14
+56
+October 26
+1983	Switzerland
+Yugoslavia	2
+0	Friendly
+in Switzerland	+16
+-16	1703
+1803	-1
+-2	32
+16
+November 12
+1983	Yugoslavia
+France	0
+0	Friendly
+in Yugoslavia	-1
++1	1802
+1882	-1
+0	18
+6
+December 14
+1983	Wales
+Yugoslavia	1
+1	European Cup qualifier
+in Wales	-5
++5	1781
+1807	-1
++2	23
+15
+December 21
+1983	Yugoslavia
+Bulgaria	3
+2	European Cup qualifier
+in Yugoslavia	+10
+-10	1817
+1697	+3
+-2	12
+33
+March 31
+1984	Yugoslavia
+Hungary	2
+1	Friendly
+in Yugoslavia	+5
+-5	1822
+1713	0
+0	13
+30
+June 02
+1984	Portugal
+Yugoslavia	2
+3	Friendly
+in Portugal	-12
++12	1782
+1834	-2
++2	22
+11
+June 07
+1984	Spain
+Yugoslavia	0
+1	Friendly
+in Spain	-13
++13	1823
+1847	-4
++1	13
+9
+June 13
+1984	Belgium
+Yugoslavia	2
+0	European Cup
+in France	+39
+-39	1871
+1808	+3
+-6	7
+15
+June 16
+1984	Denmark
+Yugoslavia	5
+0	European Cup
+in France	+58
+-58	1812
+1750	+9
+-10	15
+25
+June 19
+1984	France
+Yugoslavia	3
+2	European Cup
+in France	+7
+-7	1961
+1743	0
+0	3
+25
+September 12
+1984	Scotland
+Yugoslavia	6
+1	Friendly
+in Scotland	+12
+-12	1807
+1731	+2
+-1	16
+26
+September 29
+1984	Yugoslavia
+Bulgaria	0
+0	World Cup qualifier
+in Yugoslavia	-8
++8	1723
+1698	-3
++1	30
+34
+October 20
+1984	East Germany
+Yugoslavia	2
+3	World Cup qualifier
+in East Germany	-31
++31	1801
+1754	-6
++8	17
+22
+January 20
+1985	Yugoslavia
+Iran	3
+1	Nehru Gold Cup
+in India	+24
+-24	1778
+1665	+2
+-1	21
+35
+January 25
+1985	Yugoslavia
+Soviet Union	2
+1	Nehru Gold Cup
+in India	+30
+-30	1808
+1933	+8
+0	13
+2
+February 04
+1985	Soviet Union
+Yugoslavia	2
+1	Nehru Gold Cup
+in India	+12
+-12	1962
+1796	0
+-4	2
+16
+March 27
+1985	Yugoslavia
+Luxembourg	1
+0	World Cup qualifier
+in Yugoslavia	0
+0	1796
+1132	+2
+0	14
+156
+April 03
+1985	Yugoslavia
+France	0
+0	World Cup qualifier
+in Yugoslavia	+6
+-6	1802
+1997	0
+0	14
+1
+May 01
+1985	Luxembourg
+Yugoslavia	0
+1	World Cup qualifier
+in Luxembourg	-1
++1	1137
+1803	-1
++3	155
+12
+June 01
+1985	Bulgaria
+Yugoslavia	2
+1	World Cup qualifier
+in Bulgaria	+16
+-16	1787
+1787	+4
+-3	18
+18
+September 28
+1985	Yugoslavia
+East Germany	1
+2	World Cup qualifier
+in Yugoslavia	-25
++25	1762
+1814	-5
++6	25
+13
+October 16
+1985	Austria
+Yugoslavia	0
+3	Friendly
+in Austria	-21
++21	1704
+1783	-2
++1	31
+24
+November 16
+1985	France
+Yugoslavia	2
+0	World Cup qualifier
+in France	+12
+-12	1943
+1771	0
+-1	2
+24
+April 30
+1986	Brazil
+Yugoslavia	4
+2	Friendly
+in Brazil	+7
+-7	1886
+1764	0
+-2	5
+25
+May 11
+1986	West Germany
+Yugoslavia	1
+1	Friendly
+in West Germany	-6
++6	1887
+1770	0
++1	4
+24
+May 19
+1986	Belgium
+Yugoslavia	1
+3	Friendly
+in Belgium	-20
++20	1770
+1790	-3
++3	24
+21
+October 29
+1986	Yugoslavia
+Turkey	4
+0	European Cup qualifier
+in Yugoslavia	+6
+-6	1796
+1472	+1
+-4	16
+78
+November 12
+1986	England
+Yugoslavia	2
+0	European Cup qualifier
+in England	+13
+-13	1936
+1783	0
+-1	5
+17
+March 25
+1987	Yugoslavia
+Austria	4
+0	Friendly
+in Yugoslavia	+11
+-11	1794
+1722	0
+0	17
+28
+April 29
+1987	Northern Ireland
+Yugoslavia	1
+2	European Cup qualifier
+in Northern Ireland	-20
++20	1677
+1814	-4
++2	34
+15
+August 29
+1987	Yugoslavia
+Soviet Union	0
+1	Friendly
+in Yugoslavia	-9
++9	1805
+1955	0
++1	17
+1
+September 23
+1987	Italy
+Yugoslavia	1
+0	Friendly
+in Italy	+6
+-6	1870
+1799	+2
+-1	6
+17
+October 14
+1987	Yugoslavia
+Northern Ireland	3
+0	European Cup qualifier
+in Yugoslavia	+15
+-15	1814
+1662	+1
+-4	16
+37
+November 11
+1987	Yugoslavia
+England	1
+4	European Cup qualifier
+in Yugoslavia	-32
++32	1782
+1974	-3
++1	19
+1
+December 16
+1987	Turkey
+Yugoslavia	2
+3	European Cup qualifier
+in Turkey	-10
++10	1490
+1792	-1
+0	75
+20
+March 23
+1988	Wales
+Yugoslavia	1
+2	Friendly
+in Wales	-12
++12	1740
+1804	-4
++3	26
+16
+March 31
+1988	Yugoslavia
+Italy	1
+1	Friendly
+in Yugoslavia	0
+0	1804
+1906	0
+0	16
+5
+April 27
+1988	Ireland
+Yugoslavia	2
+0	Friendly
+in Ireland	+12
+-12	1784
+1792	0
+-2	20
+18
+June 04
+1988	West Germany
+Yugoslavia	1
+1	Friendly
+in West Germany	-6
++6	1925
+1798	-2
++1	4
+17
+August 24
+1988	Switzerland
+Yugoslavia	0
+2	Friendly
+in Switzerland	-15
++15	1684
+1813	-1
++3	33
+13
+September 14
+1988	Spain
+Yugoslavia	1
+2	Friendly
+in Spain	-14
++14	1830
+1827	-1
++3	9
+10
+October 19
+1988	Scotland
+Yugoslavia	1
+1	World Cup qualifier
+in Scotland	-2
++2	1761
+1829	-2
+-1	24
+11
+November 19
+1988	Yugoslavia
+France	3
+2	World Cup qualifier
+in Yugoslavia	+14
+-14	1843
+1801	+1
+-3	10
+16
+December 11
+1988	Yugoslavia
+Cyprus	4
+0	World Cup qualifier
+in Yugoslavia	+1
+-1	1844
+1244	+1
+0	9
+132
+April 05
+1989	Greece
+Yugoslavia	1
+4	Friendly
+in Greece	-13
++13	1630
+1857	-1
++1	40
+10
+April 29
+1989	France
+Yugoslavia	0
+0	World Cup qualifier
+in France	-1
++1	1778
+1858	-1
+0	22
+10
+May 27
+1989	Belgium
+Yugoslavia	1
+0	Friendly
+in Belgium	+9
+-9	1793
+1849	+1
+-1	20
+11
+June 14
+1989	Norway
+Yugoslavia	1
+2	World Cup qualifier
+in Norway	-13
++13	1601
+1862	-1
++2	45
+9
+August 23
+1989	Finland
+Yugoslavia	2
+2	Friendly
+in Finland	+5
+-5	1554
+1857	+1
+-1	56
+12
+September 06
+1989	Yugoslavia
+Scotland	3
+1	World Cup qualifier
+in Yugoslavia	+16
+-16	1873
+1760	+3
+-2	8
+23
+September 20
+1989	Yugoslavia
+Greece	3
+0	Friendly
+in Yugoslavia	+4
+-4	1877
+1613	0
+0	8
+40
+October 11
+1989	Yugoslavia
+Norway	1
+0	World Cup qualifier
+in Yugoslavia	+4
+-4	1881
+1601	-1
+0	9
+43
+October 28
+1989	Cyprus
+Yugoslavia	1
+2	World Cup qualifier
+in Cyprus	-2
++2	1234
+1883	-1
+0	137
+9
+November 14
+1989	Brazil
+Yugoslavia	0
+0	Friendly
+in Brazil	-5
++5	1954
+1888	0
+0	2
+9
+December 13
+1989	England
+Yugoslavia	2
+1	Friendly
+in England	+7
+-7	1903
+1881	0
+-1	7
+9
+March 28
+1990	Poland
+Yugoslavia	0
+0	Friendly
+in Poland	+1
+-1	1762
+1880	0
++1	22
+9
+May 26
+1990	Yugoslavia
+Spain	0
+1	Friendly
+in Yugoslavia	-13
++13	1867
+1887	-1
++1	9
+8
+June 03
+1990	Yugoslavia
+Netherlands	0
+2	Friendly
+in Yugoslavia	-15
++15	1852
+1992	-3
+0	12
+1
+June 10
+1990	West Germany
+Yugoslavia	4
+1	World Cup
+in Italy	+38
+-38	1991
+1814	0
+-5	2
+16
+June 14
+1990	Colombia
+Yugoslavia	0
+1	World Cup
+in Italy	-27
++27	1755
+1841	-2
++1	22
+15
+June 19
+1990	United Arab Emirates
+Yugoslavia	1
+4	World Cup
+in Italy	-9
++9	1431
+1850	-3
++2	86
+11
+June 26
+1990	Spain
+Yugoslavia	1
+2	World Cup
+in Italy	-37
++37	1899
+1887	-2
++5	6
+7
+June 30
+1990	Argentina
+Yugoslavia	0
+0	World Cup
+in Italy	+5
+-5	1836
+1882	+1
+0	14
+7
+September 12
+1990	Northern Ireland
+Yugoslavia	0
+2	European Cup qualifier
+in Northern Ireland	-16
++16	1590
+1898	-1
+0	48
+7
+October 31
+1990	Yugoslavia
+Austria	4
+1	European Cup qualifier
+in Yugoslavia	+8
+-8	1906
+1641	0
+-1	6
+35
+November 14
+1990	Denmark
+Yugoslavia	0
+2	European Cup qualifier
+in Denmark	-34
++34	1824
+1940	-5
++2	14
+4
+February 27
+1991	Turkey
+Yugoslavia	1
+1	Friendly
+in Turkey	+7
+-7	1576
+1933	+1
+0	51
+4
+March 27
+1991	Yugoslavia
+Northern Ireland	4
+1	European Cup qualifier
+in Yugoslavia	+6
+-6	1939
+1618	0
+-2	4
+40
+May 01
+1991	Yugoslavia
+Denmark	1
+2	European Cup qualifier
+in Yugoslavia	-31
++31	1908
+1850	-2
++3	6
+11
+May 16
+1991	Yugoslavia
+Faroe Islands	7
+0	European Cup qualifier
+in Yugoslavia	+1
+-1	1909
+1199	0
+-1	6
+146
+August 08
+1991	Czechoslovakia
+Yugoslavia	0
+0	Friendly tournament
+in Italy	+1
+-1	1882
+1908	0
+0	9
+6
+September 04
+1991	Sweden
+Yugoslavia	4
+3	Friendly
+in Sweden	+10
+-10	1803
+1898	+2
+-1	15
+8
+October 16
+1991	Faroe Islands
+Yugoslavia	0
+2	European Cup qualifier
+in Sweden	-1
++1	1196
+1899	0
+-1	148
+8
+October 30
+1991	Brazil
+Yugoslavia	3
+1	Friendly
+in Brazil	+10
+-10	1917
+1889	0
+0	6
+8
+November 13
+1991	Austria
+Yugoslavia	0
+2	European Cup qualifier
+in Austria	-14
++14	1572
+1903	-2
+0	50
+8
+March 25
+1992	Netherlands
+Yugoslavia	2
+0	Friendly
+in the Netherlands	+11
+-11	1915
+1892	0
+0	7
+8
+December 23
+1994	Brazil
+Yugoslavia	2
+0	Friendly
+in Brazil	+6
+-6	2033
+1886	0
+0	1
+7
+December 27
+1994	Argentina
+Yugoslavia	1
+0	Friendly
+in Argentina	+8
+-8	1858
+1878	+2
+0	11
+7
+February 04
+1995	Yugoslavia
+South Korea	1
+0	Carlsberg Cup
+in Hong Kong	+7
+-7	1885
+1651	0
+-1	8
+35
+March 31
+1995	Yugoslavia
+Uruguay	1
+0	Friendly
+in Yugoslavia	+4
+-4	1889
+1764	0
+0	7
+24
+May 31
+1995	Yugoslavia
+Russia	1
+2	Friendly
+in Yugoslavia	-15
++15	1874
+1822	-1
+0	7
+21
+September 20
+1995	Greece
+Yugoslavia	0
+2	Friendly
+in Greece	-7
++7	1561
+1881	-1
+0	54
+6
+November 12
+1995	El Salvador
+Yugoslavia	1
+4	Friendly
+in El Salvador	-5
++5	1463
+1886	-1
+0	87
+7
+November 15
+1995	Mexico
+Yugoslavia	1
+4	Friendly
+in Mexico	-19
++19	1788
+1905	-3
+0	22
+7
+March 27
+1996	Yugoslavia
+Romania	1
+0	Friendly
+in Yugoslavia	+6
+-6	1911
+1834	0
+-2	7
+13
+April 24
+1996	Yugoslavia
+Faroe Islands	3
+1	World Cup qualifier
+in Yugoslavia	0
+0	1911
+1126	0
+0	7
+169
+May 23
+1996	Mexico
+Yugoslavia	0
+0	Kirin Cup
+in Japan	+3
+-3	1840
+1908	+2
+0	13
+7
+May 26
+1996	Japan
+Yugoslavia	1
+0	Kirin Cup
+in Japan	+20
+-20	1696
+1888	+1
+0	31
+7
+June 02
+1996	Yugoslavia
+Malta	6
+0	World Cup qualifier
+in Yugoslavia	+1
+-1	1889
+1268	0
+-1	7
+139
+October 06
+1996	Faroe Islands
+Yugoslavia	1
+8	World Cup qualifier
+in Faroe Islands	-2
++2	1118
+1891	0
+0	169
+9
+November 10
+1996	Yugoslavia
+Czechia	1
+0	World Cup qualifier
+in Yugoslavia	+14
+-14	1905
+1877	+1
+-1	8
+10
+December 14
+1996	Spain
+Yugoslavia	2
+0	World Cup qualifier
+in Spain	+17
+-17	1985
+1888	+1
+-1	3
+9
+December 28
+1996	Argentina
+Yugoslavia	2
+3	Friendly
+in Argentina	-10
++10	1777
+1898	-3
+0	21
+9
+February 07
+1997	Russia
+Yugoslavia	1
+1	Carlsberg Cup
+in Hong Kong	+3
+-3	1842
+1895	+1
+0	12
+9
+March 12
+1997	Yugoslavia
+Russia	0
+0	Friendly
+in Yugoslavia	-4
++4	1891
+1855	-1
+0	9
+11
+April 02
+1997	Czechia
+Yugoslavia	1
+2	World Cup qualifier
+in Czechia	-25
++25	1863
+1916	0
++3	10
+6
+April 30
+1997	Yugoslavia
+Spain	1
+1	World Cup qualifier
+in Yugoslavia	-2
++2	1914
+1990	-1
+0	7
+4
+June 08
+1997	Yugoslavia
+Slovakia	2
+0	World Cup qualifier
+in Yugoslavia	+6
+-6	1920
+1633	0
+-1	8
+44
+June 12
+1997	Yugoslavia
+Ghana	3
+1	Korea Cup
+in South Korea	+5
+-5	1925
+1564	+1
+0	7
+59
+June 14
+1997	Yugoslavia
+Egypt	0
+0	Korea Cup
+in South Korea	-12
++12	1913
+1563	-1
++3	8
+59
+June 16
+1997	South Korea
+Yugoslavia	1
+1	Korea Cup
+in South Korea	+6
+-6	1664
+1907	+1
+-1	36
+9
+August 20
+1997	Russia
+Yugoslavia	0
+1	Friendly
+in Russia	-11
++11	1837
+1918	0
++2	11
+7
+September 10
+1997	Slovakia
+Yugoslavia	1
+1	World Cup qualifier
+in Slovakia	+8
+-8	1676
+1910	+1
+0	38
+8
+October 11
+1997	Malta
+Yugoslavia	0
+5	World Cup qualifier
+in Malta	-2
++2	1186
+1912	0
++1	155
+7
+October 29
+1997	Hungary
+Yugoslavia	1
+7	World Cup qualifier
+in Hungary	-17
++17	1557
+1929	-5
++1	60
+6
+November 15
+1997	Yugoslavia
+Hungary	5
+0	World Cup qualifier
+in Yugoslavia	+5
+-5	1934
+1552	0
+-3	6
+62
+January 28
+1998	Tunisia
+Yugoslavia	0
+3	Friendly
+in Tunisia	-10
++10	1659
+1944	0
+0	38
+6
+February 24
+1998	Argentina
+Yugoslavia	3
+1	Friendly
+in Argentina	+16
+-16	1833
+1928	+3
+-2	14
+7
+March 25
+1998	Colombia
+Yugoslavia	0
+0	Friendly
+in Colombia	+2
+-2	1751
+1926	+2
+0	23
+7
+April 22
+1998	Yugoslavia
+South Korea	3
+1	Friendly
+in Yugoslavia	+5
+-5	1931
+1747	0
+-1	7
+24
+May 29
+1998	Yugoslavia
+Nigeria	3
+0	Friendly
+in Yugoslavia	+4
+-4	1935
+1686	0
+0	7
+34
+June 03
+1998	Yugoslavia
+Japan	1
+0	Friendly
+in Switzerland	+4
+-4	1939
+1710	+1
+0	5
+31
+June 06
+1998	Switzerland
+Yugoslavia	1
+1	Friendly
+in Switzerland	+5
+-5	1634
+1934	+1
+-1	44
+6
+June 14
+1998	Yugoslavia
+Iran	1
+0	World Cup
+in France	+9
+-9	1943
+1618	+1
+-6	5
+52
+June 21
+1998	Germany
+Yugoslavia	2
+2	World Cup
+in France	-8
++8	2028
+1951	0
++1	2
+4
+June 25
+1998	Yugoslavia
+United States	1
+0	World Cup
+in France	+10
+-10	1961
+1668	+1
+-4	4
+37
+June 29
+1998	Netherlands
+Yugoslavia	2
+1	World Cup
+in France	+32
+-32	1967
+1929	+3
+-4	5
+9
+September 02
+1998	Yugoslavia
+Switzerland	1
+1	Friendly
+in Yugoslavia	-8
++8	1921
+1642	0
++1	9
+45
+September 23
+1998	Brazil
+Yugoslavia	1
+1	Friendly
+in Brazil	-5
++5	2012
+1926	0
++1	2
+6
+November 18
+1998	Yugoslavia
+Ireland	1
+0	European Cup qualifier
+in Yugoslavia	+6
+-6	1932
+1702	0
+-2	7
+30
+December 23
+1998	Israel
+Yugoslavia	2
+0	Friendly
+in Israel	+23
+-23	1648
+1909	+7
+-2	45
+9
+February 10
+1999	Malta
+Yugoslavia	0
+3	European Cup qualifier
+in Malta	-2
++2	1182
+1911	-1
++3	156
+7
+June 08
+1999	Yugoslavia
+Malta	4
+1	European Cup qualifier
+in Greece	+1
+-1	1912
+1165	0
+0	7
+162
+August 18
+1999	Yugoslavia
+Croatia	0
+0	European Cup qualifier
+in Yugoslavia	-7
++7	1905
+1883	0
++1	6
+10
+September 01
+1999	Ireland
+Yugoslavia	2
+1	European Cup qualifier
+in Ireland	+25
+-25	1748
+1880	+2
+-5	24
+11
+September 05
+1999	Yugoslavia
+Macedonia	3
+1	European Cup qualifier
+in Yugoslavia	+4
+-4	1884
+1507	+1
+-4	10
+74
+September 08
+1999	Macedonia
+Yugoslavia	2
+4	European Cup qualifier
+in Macedonia	-10
++10	1497
+1894	-2
++2	76
+8
+October 09
+1999	Croatia
+Yugoslavia	2
+2	European Cup qualifier
+in Croatia	-5
++5	1886
+1899	-1
+0	10
+8
+February 23
+2000	Macedonia
+Yugoslavia	1
+2	Friendly
+in Macedonia	-3
++3	1502
+1902	0
+0	70
+7
+March 28
+2000	Yugoslavia
+China	1
+0	Friendly
+in Yugoslavia	+3
+-3	1905
+1691	0
+-1	7
+34
+May 25
+2000	China
+Yugoslavia	0
+2	Friendly
+in China	-10
++10	1683
+1915	-5
+0	38
+7
+May 28
+2000	South Korea
+Yugoslavia	0
+0	Friendly
+in South Korea	+4
+-4	1691
+1911	+4
+0	33
+7
+May 30
+2000	South Korea
+Yugoslavia	0
+0	Friendly
+in South Korea	+3
+-3	1694
+1908	-1
+0	34
+7
+June 13
+2000	Yugoslavia
+Slovenia	3
+3	European Cup
+in Belgium	-18
++18	1890
+1610	-4
+0	10
+55
+June 18
+2000	Yugoslavia
+Norway	1
+0	European Cup
+in Belgium	+27
+-27	1917
+1886	+2
+-1	7
+9
+June 21
+2000	Spain
+Yugoslavia	4
+3	European Cup
+in Belgium	+22
+-22	1976
+1895	+1
+-1	4
+9
+June 25
+2000	Netherlands
+Yugoslavia	6
+1	European Cup
+in the Netherlands	+25
+-25	2012
+1870	0
+0	3
+9
+August 16
+2000	Northern Ireland
+Yugoslavia	1
+2	Friendly
+in Northern Ireland	-3
++3	1478
+1873	0
+0	81
+9
+September 03
+2000	Luxembourg
+Yugoslavia	0
+2	World Cup qualifier
+in Luxembourg	-2
++2	1146
+1875	-1
+0	167
+9
+November 15
+2000	Romania
+Yugoslavia	2
+1	Friendly
+in Romania	+10
+-10	1795
+1865	+3
+0	15
+9
+December 13
+2000	Greece
+Yugoslavia	1
+1	Friendly
+in Greece	+3
+-3	1664
+1862	0
+0	46
+9
+January 14
+2001	Bosnia and Herzegovina
+Yugoslavia	1
+1	Millenium Cup
+in India	+12
+-12	1516
+1850	+5
+-1	69
+10
+January 16
+2001	Yugoslavia
+Bangladesh	4
+1	Millenium Cup
+in India	+1
+-1	1851
+1050	+1
+-1	9
+181
+January 25
+2001	Yugoslavia
+Bosnia and Herzegovina	2
+0	Millenium Cup
+in India	+6
+-6	1857
+1532	0
+-2	9
+66
+March 24
+2001	Yugoslavia
+Switzerland	1
+1	World Cup qualifier
+in Yugoslavia	-14
++14	1843
+1672	-2
++4	11
+41
+March 28
+2001	Slovenia
+Yugoslavia	1
+1	World Cup qualifier
+in Slovenia	+7
+-7	1630
+1836	+2
+-2	51
+13
+April 25
+2001	Yugoslavia
+Russia	0
+1	World Cup qualifier
+in Yugoslavia	-28
++28	1808
+1809	-2
++6	14
+13
+June 02
+2001	Russia
+Yugoslavia	1
+1	World Cup qualifier
+in Russia	-6
++6	1803
+1814	-5
+0	19
+15
+June 06
+2001	Faroe Islands
+Yugoslavia	0
+6	World Cup qualifier
+in Faroe Islands	-4
++4	1198
+1818	-1
++1	155
+15
+June 28
+2001	Paraguay
+Yugoslavia	2
+0	Kirin Cup
+in Japan	+21
+-21	1857
+1797	+2
+-4	11
+20
+July 04
+2001	Japan
+Yugoslavia	1
+0	Kirin Cup
+in Japan	+9
+-9	1847
+1788	0
+-1	13
+20
+August 15
+2001	Yugoslavia
+Faroe Islands	2
+0	World Cup qualifier
+in Yugoslavia	+1
+-1	1789
+1197	+1
+-3	19
+157
+September 01
+2001	Switzerland
+Yugoslavia	1
+2	World Cup qualifier
+in Switzerland	-18
++18	1633
+1807	-6
++1	51
+18
+September 05
+2001	Yugoslavia
+Slovenia	1
+1	World Cup qualifier
+in Yugoslavia	-12
++12	1795
+1689	-1
++1	19
+37
+October 06
+2001	Yugoslavia
+Luxembourg	6
+2	World Cup qualifier
+in Yugoslavia	+1
+-1	1796
+1078	0
+0	19
+175
+February 13
+2002	Yugoslavia
+Mexico	2
+1	Friendly
+in the United States	+10
+-10	1806
+1795	+3
+-4	18
+21
+March 27
+2002	Brazil
+Yugoslavia	1
+0	Friendly
+in Brazil	+7
+-7	1835
+1799	0
+0	14
+18
+April 17
+2002	Yugoslavia
+Lithuania	4
+1	Friendly
+in Yugoslavia	+2
+-2	1801
+1358	0
+-2	18
+119
+May 08
+2002	Ecuador
+Yugoslavia	1
+0	Friendly
+in the United States	+13
+-13	1713
+1788	+4
+-3	33
+21
+May 17
+2002	Ukraine
+Yugoslavia	2
+0	Friendly tournament
+in Russia	+30
+-30	1689
+1758	+1
+-4	41
+25
+May 19
+2002	Russia
+Yugoslavia	1
+1	Friendly tournament
+in Russia	-5
++5	1762
+1763	-1
++1	25
+24
+August 21
+2002	Bosnia and Herzegovina
+Yugoslavia	0
+2	Friendly
+in Bosnia and Herzegovina	-9
++9	1509
+1772	-3
++2	72
+24
+September 06
+2002	Czechia
+Yugoslavia	5
+0	Friendly
+in Czechia	+12
+-12	1825
+1760	0
+-2	15
+26
+October 12
+2002	Italy
+Yugoslavia	1
+1	European Cup qualifier
+in Italy	-12
++12	1879
+1772	0
++3	9
+23
+October 16
+2002	Yugoslavia
+Finland	2
+0	European Cup qualifier
+in Yugoslavia	+13
+-13	1785
+1641	+2
+-2	21
+44
+November 20
+2002	France
+Yugoslavia	3
+0	Friendly
+in France	+7
+-7	1946
+1778	0
+-1	5
+22
+February 12
+2003	Serbia and Montenegro
+Azerbaijan	2
+2	European Cup qualifier
+in Serbia and Montenegro	-19
++19	1759
+1286	-1
++8	22
+135
+March 27
+2003	Serbia and Montenegro
+Bulgaria	1
+2	Friendly
+in Serbia and Montenegro	-14
++14	1745
+1729	-6
+0	28
+33
+April 30
+2003	Germany
+Serbia and Montenegro	1
+0	Friendly
+in Germany	+4
+-4	1886
+1741	-1
+-1	9
+27
+June 03
+2003	England
+Serbia and Montenegro	2
+1	Friendly
+in England	+3
+-3	1923
+1738	0
+0	6
+28
+June 07
+2003	Finland
+Serbia and Montenegro	3
+0	European Cup qualifier
+in Finland	+34
+-34	1677
+1704	+5
+-6	39
+34
+June 11
+2003	Azerbaijan
+Serbia and Montenegro	2
+1	European Cup qualifier
+in Azerbaijan	+35
+-35	1316
+1669	+8
+-3	130
+37
+August 20
+2003	Serbia and Montenegro
+Wales	1
+0	European Cup qualifier
+in Serbia and Montenegro	+13
+-13	1682
+1622	+1
+-4	36
+50
+September 10
+2003	Serbia and Montenegro
+Italy	1
+1	European Cup qualifier
+in Serbia and Montenegro	+7
+-7	1689
+1909	0
+-1	36
+8
+October 11
+2003	Wales
+Serbia and Montenegro	2
+3	European Cup qualifier
+in Wales	-21
++21	1591
+1710	-3
++4	56
+31
+November 16
+2003	Poland
+Serbia and Montenegro	4
+3	Friendly
+in Poland	+8
+-8	1702
+1702	+3
+-2	32
+32
+March 31
+2004	Serbia and Montenegro
+Norway	0
+1	Friendly
+in Serbia and Montenegro	-12
++12	1690
+1754	-1
+0	36
+26
+April 28
+2004	Northern Ireland
+Serbia and Montenegro	1
+1	Friendly
+in Northern Ireland	+4
+-4	1439
+1686	0
+-1	94
+37
+July 11
+2004	Serbia and Montenegro
+Slovakia	2
+0	Kirin Cup
+in Japan	+18
+-18	1704
+1597	+1
+-5	32
+58
+July 13
+2004	Japan
+Serbia and Montenegro	1
+0	Kirin Cup
+in Japan	+7
+-7	1805
+1697	+1
+0	18
+32
+August 18
+2004	Slovenia
+Serbia and Montenegro	1
+1	Friendly
+in Slovenia	0
+0	1600
+1697	-1
+0	56
+32
+September 04
+2004	San Marino
+Serbia and Montenegro	0
+3	World Cup qualifier
+in San Marino	-1
++1	930
+1698	0
+0	193
+32
+October 09
+2004	Bosnia and Herzegovina
+Serbia and Montenegro	0
+0	World Cup qualifier
+in Bosnia and Herzegovina	0
+0	1605
+1698	+2
+-1	55
+33
+October 13
+2004	Serbia and Montenegro
+San Marino	5
+0	World Cup qualifier
+in Serbia and Montenegro	+1
+-1	1699
+926	0
+0	33
+193
+November 17
+2004	Belgium
+Serbia and Montenegro	0
+2	World Cup qualifier
+in Belgium	-41
++41	1696
+1740	-3
++4	32
+29
+February 09
+2005	Bulgaria
+Serbia and Montenegro	0
+0	Friendly
+in Bulgaria	-2
++2	1694
+1742	-2
++1	34
+28
+March 30
+2005	Serbia and Montenegro
+Spain	0
+0	World Cup qualifier
+in Serbia and Montenegro	+5
+-5	1747
+1933	0
+-1	28
+6
+June 04
+2005	Serbia and Montenegro
+Belgium	0
+0	World Cup qualifier
+in Serbia and Montenegro	-8
++8	1739
+1708	-2
++2	30
+34
+June 08
+2005	Italy
+Serbia and Montenegro	1
+1	Friendly
+in Canada	-4
++4	1874
+1743	0
++2	9
+28
+August 15
+2005	Poland
+Serbia and Montenegro	3
+2	Friendly tournament
+in Ukraine	+14
+-14	1779
+1729	+1
+-2	23
+28
+August 17
+2005	Ukraine
+Serbia and Montenegro	2
+1	Friendly tournament
+in Ukraine	+9
+-9	1782
+1720	+4
+-5	20
+33
+September 03
+2005	Serbia and Montenegro
+Lithuania	2
+0	World Cup qualifier
+in Serbia and Montenegro	+7
+-7	1727
+1452	+2
+-1	31
+89
+September 07
+2005	Spain
+Serbia and Montenegro	1
+1	World Cup qualifier
+in Spain	-14
++14	1910
+1741	0
++1	6
+30
+October 08
+2005	Lithuania
+Serbia and Montenegro	0
+2	World Cup qualifier
+in Lithuania	-14
++14	1421
+1755	-3
++3	94
+27
+October 12
+2005	Serbia and Montenegro
+Bosnia and Herzegovina	1
+0	World Cup qualifier
+in Serbia and Montenegro	+8
+-8	1763
+1609	+4
+-1	24
+56
+November 13
+2005	China
+Serbia and Montenegro	0
+2	Friendly
+in China	-14
++14	1629
+1777	-5
++2	54
+23
+November 16
+2005	South Korea
+Serbia and Montenegro	2
+0	Friendly
+in South Korea	+16
+-16	1670
+1761	+2
+-2	44
+25
+March 01
+2006	Tunisia
+Serbia and Montenegro	0
+1	Friendly
+in Tunisia	-11
++11	1687
+1772	-1
+0	41
+27
+May 27
+2006	Serbia and Montenegro
+Uruguay	1
+1	Friendly
+in Serbia and Montenegro	-2
++2	1770
+1816	0
++1	26
+15
+June 11
+2006	Netherlands
+Serbia and Montenegro	1
+0	World Cup
+in Germany	+15
+-15	1977
+1755	0
+-3	2
+29
+June 16
+2006	Argentina
+Serbia and Montenegro	6
+0	World Cup
+in Germany	+36
+-36	1955
+1719	+2
+-5	6
+33
+June 21
+2006	Ivory Coast
+Serbia and Montenegro	3
+2	World Cup
+in Germany	+29
+-29	1761
+1690	+7
+-3	26
+39
+August 16
+2006	Czechia
+Serbia	1
+3	Friendly
+in Czechia	-25
++25	1826
+1715	-2
++6	13
+34
+September 02
+2006	Serbia
+Azerbaijan	1
+0	European Cup qualifier
+in Serbia	+2
+-2	1717
+1328	-1
++1	35
+120
+September 06
+2006	Poland
+Serbia	1
+1	European Cup qualifier
+in Poland	-4
++4	1684
+1721	-1
+0	42
+34
+October 07
+2006	Serbia
+Belgium	1
+0	European Cup qualifier
+in Serbia	+12
+-12	1733
+1664	+4
+0	31
+45
+October 11
+2006	Serbia
+Armenia	3
+0	European Cup qualifier
+in Serbia	+5
+-5	1738
+1365	+2
+-3	30
+110
+November 15
+2006	Serbia
+Norway	1
+1	Friendly
+in Serbia	-3
++3	1735
+1738	-4
++1	34
+31
+March 24
+2007	Kazakhstan
+Serbia	2
+1	European Cup qualifier
+in Kazakhstan	+34
+-34	1359
+1701	+9
+-7	113
+40
+March 28
+2007	Serbia
+Portugal	1
+1	European Cup qualifier
+in Serbia	+6
+-6	1707
+1894	+1
+0	39
+8
+June 02
+2007	Finland
+Serbia	0
+2	European Cup qualifier
+in Finland	-32
++32	1596
+1739	-5
++10	54
+30
+August 22
+2007	Belgium
+Serbia	3
+2	European Cup qualifier
+in Belgium	+23
+-23	1616
+1716	+2
+-6	55
+37
+September 08
+2007	Serbia
+Finland	0
+0	European Cup qualifier
+in Serbia	-10
++10	1706
+1633	-3
++3	39
+50
+September 12
+2007	Portugal
+Serbia	1
+1	European Cup qualifier
+in Portugal	-13
++13	1856
+1719	0
++1	12
+36
+October 13
+2007	Armenia
+Serbia	0
+0	European Cup qualifier
+in Armenia	+10
+-10	1441
+1709	+3
+-1	94
+37
+October 17
+2007	Azerbaijan
+Serbia	1
+6	European Cup qualifier
+in Azerbaijan	-16
++16	1356
+1725	-3
++1	113
+36
+November 21
+2007	Serbia
+Poland	2
+2	European Cup qualifier
+in Serbia	-4
++4	1721
+1753	+1
+-1	35
+27
+November 24
+2007	Serbia
+Kazakhstan	1
+0	European Cup qualifier
+in Serbia	+3
+-3	1724
+1353	0
+-1	35
+117
+February 06
+2008	Macedonia
+Serbia	1
+1	Friendly
+in Macedonia	+3
+-3	1530
+1721	-1
+-2	73
+37
+March 26
+2008	Ukraine
+Serbia	2
+0	Friendly
+in Ukraine	+12
+-12	1713
+1709	+4
+-3	36
+39
+May 24
+2008	Ireland
+Serbia	1
+1	Friendly
+in Ireland	-4
++4	1732
+1713	-1
++2	31
+37
+May 28
+2008	Russia
+Serbia	2
+1	Friendly
+in Germany	+9
+-9	1762
+1704	+2
+-3	26
+40
+May 31
+2008	Germany
+Serbia	2
+1	Friendly
+in Germany	+3
+-3	1932
+1701	0
+0	7
+40
+September 06
+2008	Serbia
+Faroe Islands	2
+0	World Cup qualifier
+in Serbia	+1
+-1	1702
+1120	+3
+0	36
+173
+September 10
+2008	France
+Serbia	2
+1	World Cup qualifier
+in France	+7
+-7	1864
+1695	+1
+-4	9
+40
+October 11
+2008	Serbia
+Lithuania	3
+0	World Cup qualifier
+in Serbia	+20
+-20	1715
+1613	+5
+-2	35
+50
+October 15
+2008	Austria
+Serbia	1
+3	World Cup qualifier
+in Austria	-26
++26	1548
+1741	-5
++6	65
+30
+November 19
+2008	Serbia
+Bulgaria	6
+1	Friendly
+in Serbia	+16
+-16	1757
+1751	+5
+-5	25
+27
+December 14
+2008	Poland
+Serbia	1
+0	Friendly
+in Turkey	+11
+-11	1723
+1746	+2
+-3	35
+28
+February 10
+2009	Cyprus
+Serbia	0
+2	Friendly tournament
+in Cyprus	-14
++14	1488
+1760	-1
++5	84
+22
+February 11
+2009	Ukraine
+Serbia	1
+0	Friendly tournament
+in Cyprus	+15
+-15	1776
+1745	+1
+-8	20
+30
+March 28
+2009	Romania
+Serbia	2
+3	World Cup qualifier
+in Romania	-28
++28	1764
+1773	-6
++10	23
+20
+April 01
+2009	Serbia
+Sweden	2
+0	Friendly
+in Serbia	+10
+-10	1783
+1748	+4
+-1	17
+26
+June 06
+2009	Serbia
+Austria	1
+0	World Cup qualifier
+in Serbia	+5
+-5	1788
+1550	-1
+-1	17
+68
+June 10
+2009	Faroe Islands
+Serbia	0
+2	World Cup qualifier
+in Faroe Islands	-3
++3	1149
+1791	-1
++1	166
+16
+August 12
+2009	South Africa
+Serbia	1
+3	Friendly
+in South Africa	-8
++8	1520
+1799	-4
++2	78
+15
+September 09
+2009	Serbia
+France	1
+1	World Cup qualifier
+in Serbia	-3
++3	1796
+1849	0
++1	16
+10
+October 10
+2009	Serbia
+Romania	5
+0	World Cup qualifier
+in Serbia	+25
+-25	1821
+1733	+2
+-5	14
+30
+October 14
+2009	Lithuania
+Serbia	2
+1	World Cup qualifier
+in Lithuania	+30
+-30	1558
+1791	+8
+-1	65
+15
+November 14
+2009	Northern Ireland
+Serbia	0
+1	Friendly
+in Northern Ireland	-6
++6	1545
+1797	-2
+0	70
+15
+November 18
+2009	Serbia
+South Korea	1
+0	Friendly
+in England	+8
+-8	1805
+1734	+1
+-2	14
+32
+March 03
+2010	Algeria
+Serbia	0
+3	Friendly
+in Algeria	-10
++10	1537
+1815	-5
+0	75
+15
+April 07
+2010	Japan
+Serbia	0
+3	Friendly
+in Japan	-18
++18	1708
+1833	-4
++2	35
+13
+May 29
+2010	New Zealand
+Serbia	1
+0	Friendly
+in Austria	+17
+-17	1549
+1816	+5
+-3	72
+16
+June 02
+2010	Poland
+Serbia	0
+0	Friendly
+in Austria	+5
+-5	1650
+1811	+1
+0	46
+16
+June 05
+2010	Serbia
+Cameroon	4
+3	Friendly
+in Serbia	+4
+-4	1815
+1687	0
++1	16
+39
+June 13
+2010	Ghana
+Serbia	1
+0	World Cup
+in South Africa	+41
+-41	1727
+1774	+11
+-3	28
+19
+June 18
+2010	Serbia
+Germany	1
+0	World Cup
+in South Africa	+45
+-45	1819
+1915	+5
+-2	14
+6
+June 23
+2010	Australia
+Serbia	2
+1	World Cup
+in South Africa	+38
+-38	1767
+1781	+6
+-3	21
+17
+August 11
+2010	Serbia
+Greece	0
+1	Friendly
+in Serbia	-15
++15	1766
+1700	-5
++4	20
+34
+September 03
+2010	Faroe Islands
+Serbia	0
+3	European Cup qualifier
+in Faroe Islands	-4
++4	1166
+1770	-1
++1	165
+19
+September 07
+2010	Serbia
+Slovenia	1
+1	European Cup qualifier
+in Serbia	-11
++11	1759
+1665	-2
++4	21
+41
+October 08
+2010	Serbia
+Estonia	1
+3	European Cup qualifier
+in Serbia	-55
++55	1704
+1485	-11
++12	32
+89
+November 17
+2010	Bulgaria
+Serbia	0
+1	Friendly
+in Bulgaria	-12
++12	1674
+1716	-2
++3	38
+30
+February 09
+2011	Israel
+Serbia	0
+2	Friendly
+in Israel	-17
++17	1644
+1733	-4
++3	46
+28
+March 25
+2011	Serbia
+Northern Ireland	2
+1	European Cup qualifier
+in Serbia	+6
+-6	1739
+1519	+1
+-2	27
+75
+March 29
+2011	Estonia
+Serbia	1
+1	European Cup qualifier
+in Estonia	+9
+-9	1487
+1730	+2
+0	90
+28
+June 03
+2011	South Korea
+Serbia	2
+1	Friendly
+in South Korea	+6
+-6	1797
+1724	+1
+-1	16
+30
+June 07
+2011	Australia
+Serbia	0
+0	Friendly
+in Australia	-5
++5	1798
+1729	-1
++1	17
+31
+August 10
+2011	Russia
+Serbia	1
+0	Friendly
+in Russia	+6
+-6	1774
+1723	+1
+-1	19
+32
+September 02
+2011	Northern Ireland
+Serbia	0
+1	European Cup qualifier
+in Northern Ireland	-13
++13	1482
+1736	-3
++2	89
+30
+September 06
+2011	Serbia
+Faroe Islands	3
+1	European Cup qualifier
+in Serbia	+1
+-1	1737
+1190	-1
+-3	30
+158
+October 07
+2011	Serbia
+Italy	1
+1	European Cup qualifier
+in Serbia	+1
+-1	1738
+1857	+2
++2	28
+9
+October 11
+2011	Slovenia
+Serbia	1
+0	European Cup qualifier
+in Slovenia	+21
+-21	1637
+1717	+6
+-7	47
+35
+November 11
+2011	Mexico
+Serbia	2
+0	Friendly
+in Mexico	+7
+-7	1844
+1710	+2
+0	11
+35
+November 14
+2011	Honduras
+Serbia	2
+0	Friendly
+in Honduras	+15
+-15	1636
+1695	+2
+-1	49
+36
+February 28
+2012	Serbia
+Armenia	2
+0	Friendly
+in Cyprus	+7
+-7	1702
+1497	0
+-3	35
+85
+February 29
+2012	Cyprus
+Serbia	0
+0	Friendly
+in Cyprus	+4
+-4	1438
+1698	0
+0	97
+35
+May 26
+2012	Spain
+Serbia	2
+0	Friendly
+in Switzerland	+3
+-3	2098
+1695	0
+0	1
+35
+May 31
+2012	France
+Serbia	2
+0	Friendly
+in France	+6
+-6	1838
+1689	0
+0	14
+37
+June 05
+2012	Sweden
+Serbia	2
+1	Friendly
+in Sweden	+4
+-4	1862
+1685	0
+-1	10
+39
+August 15
+2012	Serbia
+Ireland	0
+0	Friendly
+in Serbia	-2
++2	1683
+1711	-1
++1	37
+30
+September 08
+2012	Scotland
+Serbia	0
+0	World Cup qualifier
+in Scotland	-5
++5	1675
+1688	-1
+0	39
+36
+September 11
+2012	Serbia
+Wales	6
+1	World Cup qualifier
+in Serbia	+16
+-16	1704
+1536	+1
+-8	35
+76
+October 12
+2012	Serbia
+Belgium	0
+3	World Cup qualifier
+in Serbia	-44
++44	1660
+1754	-6
++8	41
+24
+October 16
+2012	Macedonia
+Serbia	1
+0	World Cup qualifier
+in Macedonia	+25
+-25	1504
+1635	+9
+-5	81
+47
+November 14
+2012	Serbia
+Chile	3
+1	Friendly
+in Switzerland	+21
+-21	1656
+1773	+3
+-2	44
+21
+February 06
+2013	Cyprus
+Serbia	1
+3	Friendly
+in Cyprus	-9
++9	1387
+1665	-3
++1	110
+43
+March 22
+2013	Croatia
+Serbia	2
+0	World Cup qualifier
+in Croatia	+9
+-9	1877
+1656	+2
+-2	9
+43
+March 26
+2013	Serbia
+Scotland	2
+0	World Cup qualifier
+in Serbia	+18
+-18	1674
+1585	+5
+-7	38
+60
+June 07
+2013	Belgium
+Serbia	2
+1	World Cup qualifier
+in Belgium	+8
+-8	1811
+1666	-1
+-3	18
+42
+August 14
+2013	Colombia
+Serbia	1
+0	Friendly
+in Spain	+4
+-4	1895
+1662	0
++1	8
+43
+September 06
+2013	Serbia
+Croatia	1
+1	World Cup qualifier
+in Serbia	+5
+-5	1667
+1838	+1
+-1	42
+13
+September 10
+2013	Wales
+Serbia	0
+3	World Cup qualifier
+in Wales	-34
++34	1527
+1701	-9
++9	77
+33
+October 11
+2013	Serbia
+Japan	2
+0	Friendly
+in Serbia	+13
+-13	1714
+1738	+7
+-1	27
+25
+October 15
+2013	Serbia
+Macedonia	5
+1	World Cup qualifier
+in Serbia	+11
+-11	1725
+1488	+1
+-2	27
+85
+November 15
+2013	Russia
+Serbia	1
+1	Friendly
+in United Arab Emirates	-3
++3	1813
+1728	-3
+0	20
+27
+March 05
+2014	Ireland
+Serbia	1
+2	Friendly
+in Ireland	-12
++12	1675
+1740	-6
++3	42
+25

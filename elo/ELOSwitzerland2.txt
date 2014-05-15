@@ -1,0 +1,6642 @@
+February 12
+1905	France
+Switzerland	1
+0	Friendly
+in France	+5
+-5	1708
+1595	0
+-	5
+11
+March 08
+1908	Switzerland
+France	1
+2	Friendly
+in Switzerland	-10
++10	1585
+1689	-1
+0	14
+8
+April 05
+1908	Switzerland
+Germany	5
+3	Friendly
+in Switzerland	+16
+-16	1601
+1684	0
+-	14
+9
+April 04
+1909	Germany
+Switzerland	1
+0	Friendly
+in Germany	+5
+-5	1680
+1596	0
+0	9
+15
+April 03
+1910	Switzerland
+Germany	2
+3	Friendly
+in Switzerland	-10
++10	1586
+1692	-2
+0	16
+9
+January 08
+1911	Switzerland
+Hungary	2
+0	Friendly
+in Switzerland	+15
+-15	1601
+1663	+1
+-2	15
+12
+March 26
+1911	Germany
+Switzerland	6
+2	Friendly
+in Germany	+11
+-11	1671
+1590	+2
+-1	11
+16
+April 23
+1911	Switzerland
+France	5
+2	Friendly
+in Switzerland	+11
+-11	1601
+1542	+1
+0	15
+20
+May 07
+1911	Italy
+Switzerland	2
+2	Friendly
+in Italy	-5
++5	1669
+1606	0
++1	10
+14
+May 21
+1911	Switzerland
+Italy	3
+0	Friendly
+in Switzerland	+16
+-16	1622
+1653	0
+-2	14
+12
+October 29
+1911	Hungary
+Switzerland	9
+0	Friendly
+in Hungary	+16
+-16	1665
+1606	+2
+0	11
+14
+February 18
+1912	France
+Switzerland	4
+1	Friendly
+in France	+16
+-16	1561
+1590	+2
+-3	18
+17
+February 20
+1912	Belgium
+Switzerland	9
+2	Friendly
+in Belgium	+9
+-9	1743
+1581	0
+0	7
+17
+May 05
+1912	Switzerland
+Germany	1
+2	Friendly
+in Switzerland	-11
++11	1570
+1652	-1
+0	18
+12
+March 09
+1913	Switzerland
+France	1
+4	Friendly
+in Switzerland	-22
++22	1548
+1598	-1
++1	18
+15
+May 04
+1913	Switzerland
+Belgium	1
+2	Friendly
+in Switzerland	-7
++7	1541
+1757	0
++1	18
+7
+May 18
+1913	Germany
+Switzerland	1
+2	Friendly
+in Germany	-14
++14	1585
+1555	-1
+0	16
+18
+November 02
+1913	Belgium
+Switzerland	2
+0	Friendly
+in Belgium	+4
+-4	1761
+1551	0
+0	7
+18
+March 08
+1914	France
+Switzerland	2
+2	Friendly
+in France	-4
++4	1591
+1555	-1
+0	15
+18
+April 05
+1914	Italy
+Switzerland	1
+1	Friendly
+in Italy	-4
++4	1580
+1559	0
+0	15
+18
+May 17
+1914	Switzerland
+Italy	0
+1	Friendly
+in Switzerland	-12
++12	1547
+1592	0
+0	18
+15
+January 31
+1915	Italy
+Switzerland	3
+1	Friendly
+in Italy	+9
+-9	1601
+1538	+1
+0	15
+19
+December 23
+1917	Switzerland
+Austria	0
+1	Friendly
+in Switzerland	-9
++9	1529
+1675	0
++1	19
+12
+December 26
+1917	Switzerland
+Austria	3
+2	Friendly
+in Switzerland	+11
+-11	1540
+1664	0
+-1	19
+13
+May 09
+1918	Austria
+Switzerland	5
+1	Friendly
+in Austria	+8
+-8	1666
+1532	0
+0	13
+19
+May 12
+1918	Hungary
+Switzerland	2
+1	Friendly
+in Hungary	+2
+-2	1805
+1530	0
+0	5
+19
+February 29
+1920	Switzerland
+France	0
+2	Friendly
+in Switzerland	-18
++18	1512
+1584	-3
++1	25
+18
+March 28
+1920	Switzerland
+Italy	3
+0	Friendly
+in Switzerland	+18
+-18	1530
+1596	+3
+-2	22
+17
+May 16
+1920	Switzerland
+Netherlands	2
+1	Friendly
+in Switzerland	+16
+-16	1546
+1844	0
+-1	22
+3
+June 06
+1920	Sweden
+Switzerland	0
+1	Friendly
+in Sweden	-16
++16	1647
+1562	-2
++1	14
+21
+June 27
+1920	Switzerland
+Germany	4
+1	Friendly
+in Switzerland	+13
+-13	1575
+1567	+2
+-1	19
+20
+March 06
+1921	Italy
+Switzerland	2
+1	Friendly
+in Italy	+6
+-6	1608
+1569	+2
+0	16
+22
+March 28
+1921	Netherlands
+Switzerland	2
+0	Friendly
+in the Netherlands	+5
+-5	1775
+1564	0
+-1	10
+23
+May 01
+1921	Switzerland
+Austria	2
+2	Friendly
+in Switzerland	+1
+-1	1565
+1696	0
+0	23
+13
+November 06
+1921	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	-1
++1	1564
+1633	0
+0	24
+16
+March 26
+1922	Germany
+Switzerland	2
+2	Friendly
+in Germany	-3
++3	1570
+1567	0
++1	25
+26
+June 11
+1922	Austria
+Switzerland	7
+1	Friendly
+in Austria	+9
+-9	1708
+1558	+1
+0	14
+28
+June 15
+1922	Hungary
+Switzerland	1
+1	Friendly
+in Hungary	-7
++7	1776
+1565	-1
+0	9
+28
+November 19
+1922	Switzerland
+Netherlands	5
+0	Friendly
+in Switzerland	+26
+-26	1591
+1753	+3
+-1	26
+11
+December 03
+1922	Italy
+Switzerland	2
+2	Friendly
+in Italy	-4
++4	1649
+1595	0
+0	18
+26
+December 21
+1922	Switzerland
+Austria	2
+0	Friendly
+in Switzerland	+16
+-16	1611
+1706	+5
+-2	21
+15
+March 11
+1923	Switzerland
+Hungary	1
+6	Friendly
+in Switzerland	-17
++17	1594
+1785	-4
++2	26
+7
+April 22
+1923	France
+Switzerland	2
+2	Friendly
+in France	-2
++2	1568
+1596	0
+0	29
+25
+June 03
+1923	Switzerland
+Germany	1
+2	Friendly
+in Switzerland	-13
++13	1583
+1602	-2
++4	27
+22
+June 17
+1923	Denmark
+Switzerland	3
+2	Friendly
+in Denmark	+3
+-3	1775
+1580	+1
+0	8
+27
+June 21
+1923	Norway
+Switzerland	2
+2	Friendly
+in Norway	-3
++3	1593
+1583	0
+0	26
+27
+November 25
+1923	Netherlands
+Switzerland	4
+1	Friendly
+in the Netherlands	+6
+-6	1763
+1577	0
+0	10
+28
+March 23
+1924	Switzerland
+France	3
+0	Friendly
+in Switzerland	+12
+-12	1589
+1546	+1
+0	28
+33
+April 21
+1924	Switzerland
+Denmark	2
+0	Friendly
+in Switzerland	+19
+-19	1608
+1772	+5
+-2	23
+8
+May 18
+1924	Switzerland
+Hungary	4
+2	Friendly
+in Switzerland	+19
+-19	1627
+1773	+2
+0	21
+6
+May 25
+1924	Switzerland
+Lithuania	9
+0	Olympic Games
+in France	+17
+-17	1644
+1257	+1
+0	20
+49
+May 28
+1924	Czechoslovakia
+Switzerland	1
+1	Olympic Games
+in France	-16
++16	1838
+1660	-1
+0	3
+19
+May 30
+1924	Switzerland
+Czechoslovakia	1
+0	Olympic Games
+in France	+44
+-44	1704
+1794	+6
+-3	15
+6
+June 02
+1924	Switzerland
+Italy	2
+1	Olympic Games
+in France	+28
+-28	1732
+1656	+2
+-3	13
+20
+June 05
+1924	Switzerland
+Sweden	2
+1	Olympic Games
+in France	+33
+-33	1765
+1737	+5
+-4	8
+12
+June 09
+1924	Uruguay
+Switzerland	3
+0	Olympic Games
+in France	+27
+-27	1972
+1738	0
+-3	1
+11
+December 14
+1924	Germany
+Switzerland	1
+1	Friendly
+in Germany	+1
+-1	1600
+1737	0
+0	26
+12
+March 22
+1925	Austria
+Switzerland	2
+0	Friendly
+in Austria	+10
+-10	1758
+1727	+1
+-1	9
+14
+March 25
+1925	Hungary
+Switzerland	5
+0	Friendly
+in Hungary	+13
+-13	1761
+1714	+2
+0	9
+14
+April 19
+1925	Switzerland
+Netherlands	4
+1	Friendly
+in Switzerland	+15
+-15	1729
+1741	0
+-1	14
+12
+May 24
+1925	Switzerland
+Belgium	0
+0	Friendly
+in Switzerland	-4
++4	1725
+1676	-1
+0	14
+18
+June 01
+1925	Switzerland
+Spain	0
+3	Friendly
+in Switzerland	-15
++15	1710
+1880	0
+0	14
+2
+October 25
+1925	Switzerland
+Germany	0
+4	Friendly
+in Switzerland	-29
++29	1681
+1637	-2
++3	17
+21
+November 08
+1925	Switzerland
+Austria	2
+0	Friendly
+in Switzerland	+15
+-15	1696
+1770	0
+-2	17
+9
+March 28
+1926	Netherlands
+Switzerland	5
+0	Friendly
+in the Netherlands	+11
+-11	1775
+1685	0
+-1	10
+17
+April 18
+1926	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	-3
++3	1682
+1693	0
+0	17
+16
+April 25
+1926	France
+Switzerland	1
+0	Friendly
+in France	+12
+-12	1541
+1670	+3
+0	31
+17
+May 09
+1926	Italy
+Switzerland	3
+2	Friendly
+in Italy	+7
+-7	1700
+1663	0
+-1	16
+18
+October 10
+1926	Austria
+Switzerland	7
+1	Friendly
+in Austria	+8
+-8	1821
+1655	0
+-2	5
+19
+December 12
+1926	Germany
+Switzerland	2
+3	Friendly
+in Germany	-13
++13	1657
+1668	-2
++2	19
+17
+January 30
+1927	Switzerland
+Italy	1
+5	Friendly
+in Switzerland	-23
++23	1645
+1709	-2
++3	19
+13
+April 17
+1927	Spain
+Switzerland	1
+0	Friendly
+in Spain	+2
+-2	1909
+1643	0
+0	2
+20
+May 29
+1927	Switzerland
+Austria	1
+4	Friendly
+in Switzerland	-13
++13	1630
+1847	0
++1	19
+5
+November 06
+1927	Switzerland
+Sweden	2
+2	Friendly
+in Switzerland	+1
+-1	1631
+1780	0
+0	20
+9
+January 01
+1928	Italy
+Switzerland	3
+2	Dr. Gero International Cup
+in Italy	+10
+-10	1734
+1621	+1
+-1	11
+22
+March 11
+1928	Switzerland
+France	4
+3	Friendly
+in Switzerland	+5
+-5	1626
+1512	0
+0	22
+36
+April 15
+1928	Switzerland
+Germany	2
+3	Friendly
+in Switzerland	-12
++12	1614
+1670	-2
++1	24
+18
+May 06
+1928	Switzerland
+Netherlands	2
+1	Friendly
+in Switzerland	+10
+-10	1624
+1700	+2
+-2	22
+15
+May 28
+1928	Germany
+Switzerland	4
+0	Olympic Games
+in the Netherlands	+49
+-49	1719
+1575	+5
+-5	13
+27
+October 14
+1928	Switzerland
+Italy	2
+3	Dr. Gero International Cup
+in Switzerland	-10
++10	1565
+1885	-2
+0	30
+3
+October 28
+1928	Austria
+Switzerland	2
+0	Dr. Gero International Cup
+in Austria	+6
+-6	1844
+1559	0
+-1	6
+31
+November 01
+1928	Hungary
+Switzerland	3
+1	Dr. Gero International Cup
+in Hungary	+10
+-10	1752
+1549	0
+0	11
+31
+February 10
+1929	Germany
+Switzerland	7
+1	Friendly
+in Germany	+8
+-8	1719
+1541	0
+0	14
+31
+March 17
+1929	Netherlands
+Switzerland	3
+2	Friendly
+in the Netherlands	+5
+-5	1658
+1536	0
+-1	17
+32
+April 14
+1929	Switzerland
+Hungary	4
+5	Dr. Gero International Cup
+in Switzerland	-15
++15	1521
+1741	-3
++2	35
+11
+May 05
+1929	Switzerland
+Czechoslovakia	1
+4	Dr. Gero International Cup
+in Switzerland	-15
++15	1506
+1862	-2
++1	37
+5
+October 06
+1929	Czechoslovakia
+Switzerland	5
+0	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1846
+1500	0
+-1	6
+37
+October 27
+1929	Switzerland
+Austria	1
+3	Dr. Gero International Cup
+in Switzerland	-10
++10	1490
+1880	-1
+0	38
+4
+February 09
+1930	Italy
+Switzerland	4
+2	Friendly
+in Italy	+2
+-2	1867
+1488	0
+0	5
+38
+March 23
+1930	France
+Switzerland	3
+3	Friendly
+in France	-2
++2	1467
+1490	+1
+0	42
+38
+April 13
+1930	Switzerland
+Hungary	2
+2	Friendly
+in Switzerland	+5
+-5	1495
+1764	0
+-1	38
+11
+May 04
+1930	Switzerland
+Germany	0
+5	Friendly
+in Switzerland	-12
++12	1483
+1753	0
++1	38
+13
+June 15
+1930	Sweden
+Switzerland	1
+0	Friendly
+in Sweden	+2
+-2	1758
+1481	0
+0	11
+38
+June 19
+1930	Norway
+Switzerland	3
+0	Friendly
+in Norway	+8
+-8	1601
+1473	+1
+-2	25
+40
+November 02
+1930	Switzerland
+Netherlands	6
+3	Friendly
+in Switzerland	+18
+-18	1491
+1566	+3
+-2	38
+31
+March 29
+1931	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+15
+-15	1506
+1899	+2
+-1	37
+4
+April 12
+1931	Hungary
+Switzerland	6
+2	Dr. Gero International Cup
+in Hungary	+9
+-9	1770
+1497	+1
+0	11
+37
+May 24
+1931	Switzerland
+Scotland	2
+3	Friendly
+in Switzerland	-3
++3	1494
+1875	-2
+-1	39
+5
+June 13
+1931	Czechoslovakia
+Switzerland	7
+3	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1828
+1488	0
+0	8
+39
+June 16
+1931	Austria
+Switzerland	2
+0	Friendly
+in Austria	+2
+-2	1887
+1486	0
+-1	4
+40
+November 29
+1931	Switzerland
+Austria	1
+8	Dr. Gero International Cup
+in Switzerland	-13
++13	1473
+1906	-2
+0	42
+4
+December 06
+1931	Belgium
+Switzerland	2
+1	Friendly
+in Belgium	+6
+-6	1527
+1467	+1
+-1	34
+43
+February 14
+1932	Italy
+Switzerland	3
+0	Dr. Gero International Cup
+in Italy	+3
+-3	1921
+1464	0
+0	3
+43
+March 06
+1932	Germany
+Switzerland	2
+0	Friendly
+in Germany	+3
+-3	1721
+1461	0
+0	12
+43
+March 20
+1932	Switzerland
+France	3
+3	Friendly
+in Switzerland	-1
++1	1460
+1525	0
++1	43
+34
+April 17
+1932	Switzerland
+Czechoslovakia	5
+1	Dr. Gero International Cup
+in Switzerland	+60
+-60	1520
+1743	+8
+-1	35
+11
+June 19
+1932	Switzerland
+Hungary	3
+1	Dr. Gero International Cup
+in Switzerland	+44
+-44	1564
+1752	+5
+-2	30
+11
+October 23
+1932	Austria
+Switzerland	3
+1	Dr. Gero International Cup
+in Austria	+4
+-4	1943
+1560	0
+0	3
+31
+November 06
+1932	Switzerland
+Sweden	2
+1	Friendly
+in Switzerland	+10
+-10	1570
+1658	0
+0	32
+18
+January 22
+1933	Netherlands
+Switzerland	0
+2	Friendly
+in the Netherlands	-21
++21	1596
+1591	-6
++2	28
+29
+March 12
+1933	Switzerland
+Belgium	3
+3	Friendly
+in Switzerland	-5
++5	1586
+1524	-2
+0	30
+37
+April 02
+1933	Switzerland
+Italy	0
+3	Dr. Gero International Cup
+in Switzerland	-16
++16	1570
+1915	-1
+0	31
+4
+May 07
+1933	Switzerland
+Yugoslavia	4
+1	Friendly
+in Switzerland	+13
+-13	1583
+1563	+1
+-1	30
+31
+May 20
+1933	Switzerland
+England	0
+4	Friendly
+in Switzerland	-9
++9	1574
+1898	0
+0	30
+5
+September 17
+1933	Hungary
+Switzerland	3
+0	Dr. Gero International Cup
+in Hungary	+12
+-12	1764
+1562	+1
+-1	10
+33
+September 24
+1933	Yugoslavia
+Switzerland	2
+2	World Cup qualifier
+in Yugoslavia	-7
++7	1580
+1569	-1
+0	31
+33
+October 29
+1933	Switzerland
+Romania	2
+2	World Cup qualifier
+in Switzerland	-1
++1	1568
+1657	-1
++1	33
+19
+November 19
+1933	Switzerland
+Germany	0
+2	Friendly
+in Switzerland	-14
++14	1554
+1709	-1
++2	33
+12
+December 03
+1933	Italy
+Switzerland	5
+2	Dr. Gero International Cup
+in Italy	+4
+-4	1944
+1550	0
+0	2
+33
+March 11
+1934	France
+Switzerland	0
+1	Friendly
+in France	-13
++13	1530
+1563	-2
+0	36
+33
+March 25
+1934	Switzerland
+Austria	2
+3	Dr. Gero International Cup
+in Switzerland	-6
++6	1557
+1970	0
+0	33
+2
+May 27
+1934	Switzerland
+Netherlands	3
+2	World Cup
+in Italy	+37
+-37	1594
+1599	+5
+-6	28
+27
+May 31
+1934	Czechoslovakia
+Switzerland	3
+2	World Cup
+in Italy	+14
+-14	1821
+1580	+1
+0	7
+28
+October 14
+1934	Switzerland
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Switzerland	+10
+-10	1590
+1850	0
+0	29
+7
+November 04
+1934	Switzerland
+Netherlands	2
+4	Friendly
+in Switzerland	-19
++19	1571
+1618	-1
++2	31
+24
+November 11
+1934	Austria
+Switzerland	3
+0	Dr. Gero International Cup
+in Austria	+6
+-6	1888
+1565	0
+-1	6
+32
+January 27
+1935	Germany
+Switzerland	4
+0	Friendly
+in Germany	+4
+-4	1822
+1561	+1
+0	8
+31
+March 17
+1935	Czechoslovakia
+Switzerland	3
+1	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1856
+1555	0
+-2	7
+33
+April 14
+1935	Switzerland
+Hungary	6
+2	Dr. Gero International Cup
+in Switzerland	+54
+-54	1609
+1767	+6
+-2	27
+11
+May 05
+1935	Switzerland
+Ireland	1
+0	Friendly
+in Switzerland	+6
+-6	1615
+1560	+1
+0	26
+32
+May 30
+1935	Belgium
+Switzerland	2
+2	Friendly
+in Belgium	+2
+-2	1435
+1613	0
+0	43
+26
+October 27
+1935	Switzerland
+France	2
+1	Friendly
+in Switzerland	+6
+-6	1619
+1564	0
+-1	26
+31
+November 03
+1935	Switzerland
+Norway	2
+0	Friendly
+in Switzerland	+12
+-12	1631
+1630	+3
+-3	23
+24
+November 10
+1935	Hungary
+Switzerland	6
+1	Friendly
+in Hungary	+7
+-7	1799
+1624	0
+-2	9
+25
+March 17
+1936	Ireland
+Switzerland	1
+0	Friendly
+in Ireland	+10
+-10	1551
+1614	0
+-2	34
+26
+April 05
+1936	Switzerland
+Italy	1
+2	Friendly
+in Switzerland	-4
++4	1610
+1974	-1
+0	27
+1
+May 03
+1936	Switzerland
+Spain	0
+2	Friendly
+in Switzerland	-9
++9	1601
+1877	0
+0	27
+4
+May 24
+1936	Switzerland
+Belgium	1
+1	Friendly
+in Switzerland	-6
++6	1595
+1462	0
+0	27
+43
+June 18
+1936	Norway
+Switzerland	1
+2	Friendly
+in Norway	-14
++14	1616
+1609	-2
+0	24
+27
+June 21
+1936	Sweden
+Switzerland	5
+2	Friendly
+in Sweden	+9
+-9	1713
+1600	+2
+0	13
+27
+October 25
+1936	Italy
+Switzerland	4
+2	Dr. Gero International Cup
+in Italy	+3
+-3	2018
+1597	0
+-1	1
+30
+November 08
+1936	Switzerland
+Austria	1
+3	Dr. Gero International Cup
+in Switzerland	-24
++24	1573
+1797	-1
++1	31
+7
+February 21
+1937	Czechoslovakia
+Switzerland	5
+3	Dr. Gero International Cup
+in Czechoslovakia	+6
+-6	1871
+1567	0
+-2	4
+34
+March 07
+1937	Netherlands
+Switzerland	2
+1	Friendly
+in the Netherlands	+5
+-5	1685
+1562	+1
+0	17
+34
+April 11
+1937	Switzerland
+Hungary	1
+5	Dr. Gero International Cup
+in Switzerland	-28
++28	1534
+1780	-2
++2	36
+10
+April 18
+1937	Belgium
+Switzerland	1
+2	Friendly
+in Belgium	-12
++12	1478
+1546	0
++2	42
+34
+May 02
+1937	Switzerland
+Germany	0
+1	Friendly
+in Switzerland	-7
++7	1539
+1771	-2
+0	36
+11
+May 17
+1937	Switzerland
+Ireland	0
+1	Friendly
+in Switzerland	-12
++12	1527
+1592	0
+0	36
+31
+September 19
+1937	Austria
+Switzerland	4
+3	Dr. Gero International Cup
+in Austria	+4
+-4	1825
+1523	+1
+-1	8
+36
+October 10
+1937	France
+Switzerland	2
+1	Friendly
+in France	+7
+-7	1534
+1516	0
+-2	35
+38
+October 31
+1937	Switzerland
+Italy	2
+2	Dr. Gero International Cup
+in Switzerland	+17
+-17	1533
+2013	+3
+0	35
+1
+November 14
+1937	Hungary
+Switzerland	2
+0	Dr. Gero International Cup
+in Hungary	+6
+-6	1835
+1527	0
+-1	5
+37
+February 06
+1938	Germany
+Switzerland	1
+1	Friendly
+in Germany	-8
++8	1810
+1535	-1
++1	8
+36
+March 13
+1938	Switzerland
+Poland	3
+3	Friendly
+in Switzerland	+1
+-1	1536
+1658	0
+0	37
+20
+April 03
+1938	Switzerland
+Czechoslovakia	4
+0	Dr. Gero International Cup
+in Switzerland	+52
+-52	1588
+1731	+5
+-2	32
+13
+May 01
+1938	Switzerland
+Portugal	2
+1	World Cup qualifier
+in Italy	+23
+-23	1611
+1623	+5
+-3	27
+24
+May 08
+1938	Switzerland
+Belgium	0
+3	Friendly
+in Switzerland	-28
++28	1583
+1503	-5
++2	32
+41
+May 21
+1938	Switzerland
+England	2
+1	Friendly
+in Switzerland	+15
+-15	1598
+1847	+1
+-1	31
+5
+June 04
+1938	Germany
+Switzerland	1
+1	World Cup
+in France	-14
++14	1767
+1612	-2
++4	12
+26
+June 09
+1938	Switzerland
+Germany	4
+2	World Cup
+in France	+64
+-64	1676
+1703	+8
+-2	17
+15
+June 12
+1938	Hungary
+Switzerland	2
+0	World Cup
+in France	+26
+-26	1854
+1650	+1
+-3	6
+20
+September 18
+1938	Ireland
+Switzerland	4
+0	Friendly
+in Ireland	+17
+-17	1607
+1633	+3
+-2	29
+21
+November 06
+1938	Switzerland
+Portugal	1
+0	Friendly
+in Switzerland	+7
+-7	1640
+1616	0
+-1	21
+24
+November 20
+1938	Italy
+Switzerland	2
+0	Friendly
+in Italy	+1
+-1	2071
+1639	0
+0	1
+21
+February 12
+1939	Portugal
+Switzerland	2
+4	Friendly
+in Portugal	-18
++18	1598
+1657	-6
++2	30
+19
+April 02
+1939	Switzerland
+Hungary	3
+1	Friendly
+in Switzerland	+18
+-18	1675
+1808	0
+0	18
+7
+May 07
+1939	Switzerland
+Netherlands	2
+1	Friendly
+in Switzerland	+6
+-6	1681
+1620	0
+0	18
+22
+May 14
+1939	Belgium
+Switzerland	1
+2	Friendly
+in Belgium	-7
++7	1469
+1688	-1
++1	44
+17
+June 04
+1939	Poland
+Switzerland	1
+1	Friendly
+in Poland	0
+0	1583
+1688	0
+0	32
+17
+November 12
+1939	Switzerland
+Italy	3
+1	Friendly
+in Switzerland	+25
+-25	1713
+2054	+1
+0	16
+1
+March 03
+1940	Italy
+Switzerland	1
+1	Friendly
+in Italy	-8
++8	2019
+1721	0
+0	2
+16
+March 31
+1940	Hungary
+Switzerland	3
+0	Friendly
+in Hungary	+9
+-9	1802
+1712	0
+0	8
+16
+April 02
+1940	Croatia
+Switzerland	4
+0	Friendly
+in Croatia	+9
+-9	1809
+1703	-
+-2	8
+18
+April 21
+1940	Switzerland
+Croatia	0
+1	Friendly
+in Switzerland	-10
++10	1693
+1819	0
+0	18
+8
+March 09
+1941	Germany
+Switzerland	4
+2	Friendly
+in Germany	+8
+-8	1782
+1685	+1
+0	12
+18
+April 20
+1941	Switzerland
+Germany	2
+1	Friendly
+in Switzerland	+10
+-10	1695
+1790	0
+-2	18
+11
+November 16
+1941	Switzerland
+Hungary	1
+2	Friendly
+in Switzerland	-10
++10	1685
+1804	0
++2	18
+8
+December 28
+1941	Spain
+Switzerland	3
+2	Friendly
+in Spain	+3
+-3	1879
+1682	0
+0	4
+18
+January 01
+1942	Portugal
+Switzerland	3
+0	Friendly
+in Portugal	+17
+-17	1610
+1665	+4
+0	29
+18
+February 01
+1942	Germany
+Switzerland	1
+2	Friendly
+in Germany	-16
++16	1795
+1681	-1
++2	9
+17
+March 08
+1942	France
+Switzerland	0
+2	Friendly
+in France	-17
++17	1616
+1698	-3
+0	26
+17
+October 18
+1942	Switzerland
+Germany	3
+5	Friendly
+in Switzerland	-14
++14	1684
+1824	-1
++1	18
+7
+November 01
+1942	Hungary
+Switzerland	3
+0	Friendly
+in Hungary	+9
+-9	1790
+1675	+3
+-1	10
+19
+November 15
+1942	Switzerland
+Sweden	3
+1	Friendly
+in Switzerland	+12
+-12	1687
+1685	+2
+-1	17
+18
+April 04
+1943	Switzerland
+Croatia	1
+0	Friendly
+in Switzerland	+10
+-10	1697
+1776	0
+-3	17
+14
+May 16
+1943	Switzerland
+Hungary	1
+3	Friendly
+in Switzerland	-15
++15	1682
+1805	-1
++1	18
+9
+June 14
+1943	Sweden
+Switzerland	1
+0	Friendly
+in Sweden	+7
+-7	1692
+1675	0
+-1	17
+19
+April 08
+1945	Switzerland
+France	1
+0	Friendly
+in Switzerland	+6
+-6	1681
+1612	0
+-1	18
+28
+May 21
+1945	Switzerland
+Portugal	1
+0	Friendly
+in Switzerland	+5
+-5	1686
+1606	0
+-2	18
+31
+November 11
+1945	Switzerland
+Italy	4
+4	Friendly
+in Switzerland	+6
+-6	1692
+2022	0
+0	18
+2
+November 25
+1945	Switzerland
+Sweden	3
+0	Friendly
+in Switzerland	+15
+-15	1707
+1731	0
+0	18
+15
+July 07
+1946	Sweden
+Switzerland	7
+2	Friendly
+in Sweden	+14
+-14	1730
+1693	0
+0	16
+18
+September 14
+1946	Czechoslovakia
+Switzerland	3
+2	Friendly
+in Czechoslovakia	+6
+-6	1752
+1687	+1
+0	13
+18
+November 10
+1946	Switzerland
+Austria	1
+0	Friendly
+in Switzerland	+9
+-9	1696
+1730	+1
+0	18
+16
+January 05
+1947	Portugal
+Switzerland	2
+2	Friendly
+in Portugal	-1
++1	1623
+1697	0
+0	26
+18
+April 27
+1947	Italy
+Switzerland	5
+2	Friendly
+in Italy	+3
+-3	2027
+1694	0
+0	2
+18
+May 18
+1947	Switzerland
+England	1
+0	Friendly
+in Switzerland	+13
+-13	1707
+1892	0
+0	18
+4
+June 08
+1947	Switzerland
+France	1
+2	Friendly
+in Switzerland	-14
++14	1693
+1661	0
++3	18
+20
+September 21
+1947	Netherlands
+Switzerland	6
+2	Friendly
+in the Netherlands	+19
+-19	1612
+1674	+4
+-2	26
+20
+November 02
+1947	Switzerland
+Belgium	4
+0	Friendly
+in Switzerland	+5
+-5	1679
+1447	+1
+0	19
+48
+April 18
+1948	Austria
+Switzerland	3
+1	Friendly
+in Austria	+8
+-8	1761
+1671	+2
+-2	13
+22
+April 21
+1948	Hungary
+Switzerland	7
+4	Dr. Gero International Cup
+in Hungary	+11
+-11	1868
+1660	0
+0	5
+22
+May 17
+1948	Switzerland
+Scotland	2
+1	Friendly
+in Switzerland	+9
+-9	1669
+1715	0
+0	22
+17
+June 20
+1948	Switzerland
+Spain	3
+3	Friendly
+in Switzerland	+2
+-2	1671
+1825	0
+0	21
+9
+October 10
+1948	Switzerland
+Czechoslovakia	1
+1	Dr. Gero International Cup
+in Switzerland	-7
++7	1664
+1654	0
++1	22
+23
+December 02
+1948	England
+Switzerland	6
+0	Friendly
+in England	+3
+-3	1995
+1661	0
+0	2
+23
+December 05
+1948	Ireland
+Switzerland	0
+1	Friendly
+in Ireland	-11
++11	1599
+1672	0
+0	29
+23
+April 03
+1949	Switzerland
+Austria	1
+2	Dr. Gero International Cup
+in Switzerland	-23
++23	1649
+1735	-1
++1	23
+16
+May 26
+1949	Switzerland
+Wales	4
+0	Friendly
+in Switzerland	+16
+-16	1665
+1691	+1
+-3	22
+21
+June 04
+1949	France
+Switzerland	4
+2	Friendly
+in France	+11
+-11	1668
+1654	+1
+-1	22
+23
+June 26
+1949	Switzerland
+Luxembourg	5
+2	World Cup qualifier
+in Switzerland	+4
+-4	1658
+1256	+1
+0	22
+82
+September 18
+1949	Luxembourg
+Switzerland	2
+3	World Cup qualifier
+in Luxembourg	-6
++6	1250
+1664	0
+0	84
+22
+October 02
+1949	Belgium
+Switzerland	3
+0	Friendly
+in Belgium	+19
+-19	1557
+1645	+1
+-3	36
+25
+March 19
+1950	Austria
+Switzerland	3
+3	Dr. Gero International Cup
+in Austria	-10
++10	1732
+1655	0
++3	15
+21
+April 26
+1950	Scotland
+Switzerland	3
+1	Friendly
+in Scotland	+5
+-5	1832
+1650	0
+-2	10
+23
+June 11
+1950	Switzerland
+Yugoslavia	0
+4	Friendly
+in Switzerland	-18
++18	1632
+1777	-1
++1	24
+13
+June 25
+1950	Yugoslavia
+Switzerland	3
+0	World Cup
+in Brazil	+32
+-32	1809
+1600	+1
+-4	11
+28
+June 28
+1950	Brazil
+Switzerland	2
+2	World Cup
+in Brazil	-26
++26	1929
+1626	-1
++3	4
+25
+July 02
+1950	Switzerland
+Mexico	2
+1	World Cup
+in Brazil	+38
+-38	1664
+1677	+4
+-3	21
+20
+October 15
+1950	Switzerland
+Netherlands	7
+5	Friendly
+in Switzerland	+8
+-8	1672
+1578	0
+0	23
+31
+November 12
+1950	Switzerland
+Sweden	4
+2	Friendly
+in Switzerland	+20
+-20	1692
+1881	+3
+0	20
+5
+November 22
+1950	West Germany
+Switzerland	1
+0	Friendly
+in West Germany	+4
+-4	1851
+1688	0
+0	9
+20
+February 18
+1951	Spain
+Switzerland	6
+3	Friendly
+in Spain	+7
+-7	1833
+1681	0
+-1	10
+21
+April 15
+1951	Switzerland
+West Germany	2
+3	Friendly
+in Switzerland	-8
++8	1673
+1859	-2
++1	23
+8
+May 16
+1951	Wales
+Switzerland	3
+2	Friendly
+in Wales	+8
+-8	1660
+1665	0
+-1	24
+23
+June 24
+1951	Yugoslavia
+Switzerland	7
+3	Friendly
+in Yugoslavia	+7
+-7	1833
+1658	+2
+-1	10
+24
+October 14
+1951	Switzerland
+France	1
+2	Friendly
+in Switzerland	-13
++13	1645
+1663	-2
++3	25
+22
+November 25
+1951	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+11
+-11	1656
+1949	0
+0	25
+3
+May 28
+1952	Switzerland
+England	0
+3	Friendly
+in Switzerland	-10
++10	1646
+1935	0
+0	25
+3
+June 01
+1952	Turkey
+Switzerland	1
+5	Friendly
+in Turkey	-20
++20	1542
+1666	-2
++2	38
+23
+June 22
+1952	Switzerland
+Austria	1
+1	Friendly
+in Switzerland	+2
+-2	1668
+1824	0
+0	22
+11
+September 20
+1952	Switzerland
+Hungary	2
+4	Dr. Gero International Cup
+in Switzerland	-14
++14	1654
+1992	-2
+0	24
+3
+November 09
+1952	West Germany
+Switzerland	5
+1	Friendly
+in West Germany	+6
+-6	1848
+1648	0
+0	7
+23
+December 28
+1952	Italy
+Switzerland	2
+0	Dr. Gero International Cup
+in Italy	+6
+-6	1927
+1642	0
+0	5
+23
+March 22
+1953	Netherlands
+Switzerland	1
+2	Friendly
+in the Netherlands	-9
++9	1500
+1651	-3
++1	47
+23
+May 25
+1953	Switzerland
+Turkey	1
+2	Friendly
+in Switzerland	-15
++15	1636
+1562	-2
++1	25
+37
+June 27
+1953	Switzerland
+Denmark	1
+4	Friendly
+in Switzerland	-23
++23	1613
+1653	-6
++4	30
+24
+September 20
+1953	Czechoslovakia
+Switzerland	5
+0	Dr. Gero International Cup
+in Czechoslovakia	+22
+-22	1708
+1591	+3
+-3	17
+34
+November 11
+1953	France
+Switzerland	2
+4	Friendly
+in France	-24
++24	1717
+1615	-2
++2	16
+30
+November 22
+1953	Switzerland
+Belgium	2
+2	Friendly
+in Switzerland	-1
++1	1614
+1683	0
+0	30
+21
+April 25
+1954	Switzerland
+West Germany	3
+5	Friendly
+in Switzerland	-8
++8	1606
+1886	-1
+0	31
+8
+May 23
+1954	Switzerland
+Uruguay	3
+3	Friendly
+in Switzerland	+4
+-4	1610
+1843	0
+0	30
+9
+May 30
+1954	Switzerland
+Netherlands	3
+1	Friendly
+in Switzerland	+6
+-6	1616
+1472	+1
+0	29
+54
+June 17
+1954	Switzerland
+Italy	2
+1	World Cup
+in Switzerland	+44
+-44	1660
+1847	+7
+-2	22
+9
+June 20
+1954	Switzerland
+England	0
+2	World Cup
+in Switzerland	-25
++25	1635
+1947	-4
++1	25
+4
+June 23
+1954	Switzerland
+Italy	4
+1	World Cup
+in Switzerland	+73
+-73	1708
+1809	+8
+-2	17
+10
+June 26
+1954	Switzerland
+Austria	5
+7	World Cup
+in Switzerland	-39
++39	1669
+1896	-4
++1	21
+8
+September 19
+1954	Denmark
+Switzerland	1
+1	Friendly
+in Denmark	-2
++2	1651
+1671	+1
+0	23
+21
+October 10
+1954	Hungary
+Switzerland	3
+0	Friendly
+in Hungary	+1
+-1	2116
+1670	0
+0	1
+21
+May 01
+1955	Switzerland
+Austria	2
+3	Dr. Gero International Cup
+in Switzerland	-15
++15	1655
+1879	-2
+0	24
+7
+May 19
+1955	Netherlands
+Switzerland	4
+1	Friendly
+in the Netherlands	+21
+-21	1502
+1634	+8
+-1	46
+25
+June 19
+1955	Switzerland
+Spain	0
+3	Friendly
+in Switzerland	-15
++15	1619
+1801	-4
++2	29
+10
+June 26
+1955	Yugoslavia
+Switzerland	0
+0	Dr. Gero International Cup
+in Yugoslavia	-16
++16	1910
+1635	0
++4	5
+25
+September 17
+1955	Switzerland
+Hungary	4
+5	Dr. Gero International Cup
+in Switzerland	-4
++4	1631
+2138	-2
+0	28
+1
+October 09
+1955	Switzerland
+France	1
+2	Friendly
+in Switzerland	-8
++8	1623
+1795	-1
++1	27
+12
+March 11
+1956	Belgium
+Switzerland	1
+3	Friendly
+in Belgium	-21
++21	1645
+1644	-3
++3	24
+25
+April 11
+1956	Switzerland
+Brazil	1
+1	Friendly
+in Switzerland	+6
+-6	1650
+2000	0
+0	23
+3
+May 01
+1956	Saar
+Switzerland	1
+1	Friendly
+in Saar	0
+0	1553
+1650	0
+0	38
+23
+May 10
+1956	Switzerland
+Czechoslovakia	1
+6	Dr. Gero International Cup
+in Switzerland	-49
++49	1601
+1716	-9
++1	32
+20
+September 15
+1956	Switzerland
+Netherlands	2
+3	Friendly
+in Switzerland	-14
++14	1587
+1567	-2
++2	33
+37
+November 11
+1956	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+8
+-8	1595
+1828	+2
+0	33
+9
+November 21
+1956	West Germany
+Switzerland	1
+3	Friendly
+in West Germany	-27
++27	1855
+1622	0
++5	6
+28
+March 10
+1957	Spain
+Switzerland	2
+2	World Cup qualifier
+in Spain	-13
++13	1764
+1635	-1
++4	16
+24
+April 14
+1957	Austria
+Switzerland	4
+0	Dr. Gero International Cup
+in Austria	+12
+-12	1829
+1623	+1
+-2	8
+27
+May 19
+1957	Switzerland
+Scotland	1
+2	World Cup qualifier
+in Switzerland	-17
++17	1606
+1796	-2
++2	30
+13
+November 06
+1957	Scotland
+Switzerland	3
+2	World Cup qualifier
+in Scotland	+7
+-7	1787
+1599	0
+-2	15
+38
+November 24
+1957	Switzerland
+Spain	1
+4	World Cup qualifier
+in Switzerland	-25
++25	1574
+1822	-3
++3	42
+10
+April 16
+1958	France
+Switzerland	0
+0	Friendly
+in France	-7
++7	1792
+1581	-1
++2	14
+40
+May 07
+1958	Sweden
+Switzerland	3
+2	Friendly
+in Sweden	+4
+-4	1744
+1577	0
+-1	20
+41
+May 26
+1958	Switzerland
+Belgium	0
+2	Friendly
+in Switzerland	-19
++19	1558
+1612	-4
++5	45
+33
+September 20
+1958	Czechoslovakia
+Switzerland	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+4
+-4	1839
+1554	0
+-1	9
+46
+November 02
+1958	Netherlands
+Switzerland	2
+0	Friendly
+in the Netherlands	+7
+-7	1653
+1547	+1
+0	27
+46
+April 26
+1959	Switzerland
+Yugoslavia	1
+5	Dr. Gero International Cup
+in Switzerland	-20
++20	1527
+1844	-3
++1	48
+8
+May 16
+1959	Switzerland
+Portugal	4
+3	Friendly
+in Switzerland	+10
+-10	1537
+1602	+2
+-4	46
+39
+October 04
+1959	Switzerland
+West Germany	0
+4	Friendly
+in Switzerland	-11
++11	1526
+1806	-2
++2	47
+10
+October 25
+1959	Hungary
+Switzerland	8
+0	Dr. Gero International Cup
+in Hungary	+5
+-5	1925
+1521	0
+0	3
+47
+January 06
+1960	Italy
+Switzerland	3
+0	Dr. Gero International Cup
+in Italy	+9
+-9	1756
+1512	+1
+-1	18
+47
+March 27
+1960	Belgium
+Switzerland	3
+1	Friendly
+in Belgium	+8
+-8	1601
+1504	+1
+-2	39
+50
+April 06
+1960	Switzerland
+Chile	4
+2	Friendly
+in Switzerland	+19
+-19	1523
+1669	+3
+-2	46
+26
+May 18
+1960	Switzerland
+Netherlands	3
+1	Friendly
+in Switzerland	+16
+-16	1539
+1635	+2
+-2	47
+33
+October 12
+1960	Switzerland
+France	6
+2	Friendly
+in Switzerland	+28
+-28	1567
+1795	+1
+-2	46
+13
+November 20
+1960	Belgium
+Switzerland	2
+4	World Cup qualifier
+in Belgium	-40
++40	1548
+1607	-6
++8	48
+38
+May 20
+1961	Switzerland
+Belgium	2
+1	World Cup qualifier
+in Switzerland	+11
+-11	1618
+1534	+3
+-1	36
+48
+May 28
+1961	Sweden
+Switzerland	4
+0	World Cup qualifier
+in Sweden	+9
+-9	1864
+1609	0
+-4	10
+40
+October 29
+1961	Switzerland
+Sweden	3
+2	World Cup qualifier
+in Switzerland	+29
+-29	1638
+1856	+11
+-1	30
+10
+November 12
+1961	Switzerland
+Sweden	2
+1	World Cup qualifier
+in West Germany	+31
+-31	1669
+1825	+2
+-3	27
+13
+May 09
+1962	England
+Switzerland	3
+1	Friendly
+in England	+5
+-5	1870
+1664	0
+-1	9
+28
+May 30
+1962	Chile
+Switzerland	3
+1	World Cup
+in Chile	+28
+-28	1734
+1636	+1
+-2	20
+29
+June 03
+1962	West Germany
+Switzerland	2
+1	World Cup
+in Chile	+14
+-14	1857
+1622	0
+-4	9
+33
+June 07
+1962	Italy
+Switzerland	3
+0	World Cup
+in Chile	+31
+-31	1801
+1591	+1
+-10	16
+43
+November 11
+1962	Netherlands
+Switzerland	3
+1	European Cup qualifier
+in the Netherlands	+22
+-22	1613
+1569	+5
+-7	34
+46
+December 23
+1962	West Germany
+Switzerland	5
+1	Friendly
+in West Germany	+3
+-3	1885
+1566	0
+0	7
+48
+January 13
+1963	Morocco
+Switzerland	1
+0	Friendly
+in Morocco	+6
+-6	1602
+1560	+1
+-1	38
+49
+March 31
+1963	Switzerland
+Netherlands	1
+1	European Cup qualifier
+in Switzerland	-3
++3	1557
+1603	0
++1	50
+38
+June 05
+1963	Switzerland
+England	1
+8	Friendly
+in Switzerland	-11
++11	1546
+1860	-2
+0	53
+10
+November 03
+1963	Switzerland
+Norway	0
+2	Friendly
+in Switzerland	-23
++23	1523
+1454	-1
++5	54
+73
+November 11
+1963	France
+Switzerland	2
+2	Friendly
+in France	-7
++7	1743
+1530	-1
+0	21
+54
+April 15
+1964	Switzerland
+Belgium	2
+0	Friendly
+in Switzerland	+17
+-17	1547
+1656	+3
+0	50
+29
+April 29
+1964	Switzerland
+Portugal	2
+3	Friendly
+in Switzerland	-11
++11	1536
+1616	-1
++3	51
+34
+May 10
+1964	Switzerland
+Italy	1
+3	Friendly
+in Switzerland	-6
++6	1530
+1866	-2
+0	53
+9
+July 01
+1964	Norway
+Switzerland	3
+2	Friendly
+in Norway	+10
+-10	1447
+1520	+2
+-2	74
+57
+October 04
+1964	Switzerland
+Hungary	0
+2	Friendly
+in Switzerland	-5
++5	1515
+1917	-2
+0	59
+2
+October 14
+1964	Northern Ireland
+Switzerland	1
+0	World Cup qualifier
+in Northern Ireland	+10
+-10	1624
+1505	+3
+-2	34
+61
+November 14
+1964	Switzerland
+Northern Ireland	2
+1	World Cup qualifier
+in Switzerland	+21
+-21	1526
+1603	+6
+-8	54
+42
+April 11
+1965	Albania
+Switzerland	0
+2	World Cup qualifier
+in Albania	-29
++29	1381
+1555	-7
++5	93
+49
+May 02
+1965	Switzerland
+Albania	1
+0	World Cup qualifier
+in Switzerland	+7
+-7	1562
+1374	+2
+-1	47
+94
+May 26
+1965	Switzerland
+West Germany	0
+1	Friendly
+in Switzerland	-5
++5	1557
+1839	-1
++1	48
+9
+October 17
+1965	Netherlands
+Switzerland	0
+0	World Cup qualifier
+in the Netherlands	-8
++8	1596
+1565	-1
++2	41
+47
+November 14
+1965	Switzerland
+Netherlands	2
+1	World Cup qualifier
+in Switzerland	+16
+-16	1581
+1580	+4
+-4	43
+45
+April 20
+1966	Switzerland
+Soviet Union	2
+2	Friendly
+in Switzerland	+5
+-5	1586
+1887	+2
+0	43
+5
+June 05
+1966	Hungary
+Switzerland	3
+1	Friendly
+in Hungary	+2
+-2	1931
+1584	0
+0	3
+44
+June 19
+1966	Switzerland
+Mexico	1
+1	Friendly
+in Switzerland	+5
+-5	1589
+1861	+2
+0	42
+8
+July 12
+1966	West Germany
+Switzerland	5
+0	World Cup
+in England	+17
+-17	1920
+1572	0
+-4	7
+46
+July 15
+1966	Spain
+Switzerland	2
+1	World Cup
+in England	+12
+-12	1833
+1560	-1
+-2	12
+48
+July 19
+1966	Argentina
+Switzerland	2
+0	World Cup
+in England	+8
+-8	1966
+1552	+1
+-1	1
+49
+October 22
+1966	Belgium
+Switzerland	1
+0	Friendly
+in Belgium	+4
+-4	1701
+1548	0
+-1	25
+50
+November 02
+1966	Romania
+Switzerland	4
+2	European Cup qualifier
+in Romania	+8
+-8	1782
+1540	0
+0	17
+50
+January 05
+1967	Mexico
+Switzerland	3
+0	Friendly
+in Mexico	+4
+-4	1804
+1536	0
+-1	13
+50
+January 08
+1967	Mexico
+Switzerland	0
+2	Friendly
+in Mexico	-27
++27	1777
+1563	-5
++2	18
+48
+May 03
+1967	Switzerland
+Czechoslovakia	1
+2	Friendly
+in Switzerland	-5
++5	1558
+1856	-1
++1	48
+10
+May 24
+1967	Switzerland
+Romania	7
+1	European Cup qualifier
+in Switzerland	+60
+-60	1618
+1750	+12
+-7	36
+19
+October 01
+1967	Soviet Union
+Switzerland	2
+2	Friendly
+in the Soviet Union	-9
++9	1948
+1627	0
+0	4
+35
+November 08
+1967	Switzerland
+Cyprus	5
+0	European Cup qualifier
+in Switzerland	+8
+-8	1635
+1348	0
+-3	34
+103
+November 18
+1967	Switzerland
+Italy	2
+2	European Cup qualifier
+in Switzerland	+9
+-9	1644
+1899	+1
+-1	33
+7
+December 23
+1967	Italy
+Switzerland	4
+0	European Cup qualifier
+in Italy	+9
+-9	1908
+1635	+1
+-2	5
+35
+February 14
+1968	Israel
+Switzerland	2
+1	Friendly
+in Israel	+12
+-12	1475
+1623	+4
+-2	70
+38
+February 17
+1968	Cyprus
+Switzerland	2
+1	European Cup qualifier
+in Cyprus	+29
+-29	1377
+1594	+10
+-4	93
+42
+April 17
+1968	Switzerland
+West Germany	0
+0	Friendly
+in Switzerland	+6
+-6	1600
+1944	+1
+0	40
+2
+September 22
+1968	Switzerland
+Austria	1
+0	Friendly
+in Switzerland	+9
+-9	1609
+1659	0
+-2	40
+32
+October 12
+1968	Switzerland
+Greece	1
+0	World Cup qualifier
+in Switzerland	+11
+-11	1620
+1540	0
+-2	39
+56
+November 23
+1968	Romania
+Switzerland	2
+0	World Cup qualifier
+in Romania	+15
+-15	1724
+1605	+2
+-2	22
+39
+March 26
+1969	Spain
+Switzerland	1
+0	Friendly
+in Spain	+3
+-3	1796
+1602	+2
+-1	15
+41
+April 16
+1969	Portugal
+Switzerland	0
+2	World Cup qualifier
+in Portugal	-53
++53	1790
+1655	-6
++10	16
+31
+May 14
+1969	Switzerland
+Romania	0
+1	World Cup qualifier
+in Switzerland	-22
++22	1633
+1743	-2
++3	33
+21
+September 24
+1969	Turkey
+Switzerland	3
+0	Friendly
+in Turkey	+15
+-15	1592
+1618	+5
+-3	44
+38
+October 15
+1969	Greece
+Switzerland	4
+1	World Cup qualifier
+in Greece	+23
+-23	1664
+1595	+3
+-5	31
+44
+November 02
+1969	Switzerland
+Portugal	1
+1	World Cup qualifier
+in Switzerland	+4
+-4	1599
+1757	0
+0	44
+18
+April 22
+1970	Switzerland
+Spain	0
+1	Friendly
+in Switzerland	-8
++8	1591
+1785	-2
++2	46
+13
+May 03
+1970	Switzerland
+France	2
+1	Friendly
+in Switzerland	+10
+-10	1601
+1698	+3
+-1	43
+25
+October 17
+1970	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+6
+-6	1607
+1963	+1
+0	40
+4
+November 15
+1970	Switzerland
+Hungary	0
+1	Friendly
+in Switzerland	-6
++6	1601
+1870	0
+0	41
+7
+December 16
+1970	Greece
+Switzerland	0
+1	European Cup qualifier
+in Greece	-27
++27	1595
+1628	-5
++4	45
+40
+December 20
+1970	Malta
+Switzerland	1
+2	European Cup qualifier
+in Malta	-6
++6	1234
+1634	-1
++3	129
+37
+April 21
+1971	Switzerland
+Malta	5
+0	European Cup qualifier
+in Switzerland	+4
+-4	1638
+1229	+1
+0	39
+128
+May 05
+1971	Switzerland
+Poland	2
+4	Friendly
+in Switzerland	-14
++14	1624
+1780	0
+0	38
+16
+May 12
+1971	Switzerland
+Greece	1
+0	European Cup qualifier
+in Switzerland	+12
+-12	1636
+1569	0
+-2	39
+49
+September 26
+1971	Switzerland
+Turkey	4
+0	Friendly
+in Switzerland	+11
+-11	1647
+1567	+2
+-5	37
+51
+October 13
+1971	Switzerland
+England	2
+3	European Cup qualifier
+in Switzerland	-8
++8	1639
+1997	-3
+0	40
+3
+November 10
+1971	England
+Switzerland	1
+1	European Cup qualifier
+in England	-17
++17	1980
+1656	0
++2	3
+37
+April 26
+1972	Switzerland
+Sweden	1
+1	Friendly
+in Switzerland	+1
+-1	1657
+1791	0
+0	35
+14
+May 10
+1972	Poland
+Switzerland	0
+0	Friendly
+in Poland	-5
++5	1747
+1662	-1
+0	19
+35
+October 04
+1972	Denmark
+Switzerland	1
+1	Friendly
+in Denmark	-1
++1	1608
+1663	-1
+0	41
+32
+October 21
+1972	Switzerland
+Italy	0
+0	World Cup qualifier
+in Switzerland	+8
+-8	1671
+1909	+1
+0	32
+5
+November 15
+1972	West Germany
+Switzerland	5
+1	Friendly
+in West Germany	+2
+-2	2096
+1669	0
+0	2
+31
+April 08
+1973	Luxembourg
+Switzerland	0
+1	World Cup qualifier
+in Luxembourg	-6
++6	1263
+1675	0
+0	125
+30
+May 09
+1973	Switzerland
+Turkey	0
+0	World Cup qualifier
+in Switzerland	-10
++10	1665
+1593	-2
++4	31
+44
+June 22
+1973	Switzerland
+Scotland	1
+0	Friendly
+in Switzerland	+10
+-10	1675
+1741	0
+-1	32
+24
+September 26
+1973	Switzerland
+Luxembourg	1
+0	World Cup qualifier
+in Switzerland	+2
+-2	1677
+1261	0
+0	31
+124
+October 20
+1973	Italy
+Switzerland	2
+0	World Cup qualifier
+in Italy	+7
+-7	1945
+1670	+2
+0	3
+31
+November 18
+1973	Turkey
+Switzerland	2
+0	World Cup qualifier
+in Turkey	+28
+-28	1625
+1642	+5
+-2	37
+34
+May 01
+1974	Switzerland
+Belgium	0
+1	Friendly
+in Switzerland	-8
++8	1634
+1833	-1
++1	36
+12
+June 09
+1974	Sweden
+Switzerland	0
+0	Friendly
+in Sweden	-7
++7	1824
+1641	-1
++1	13
+35
+September 04
+1974	Switzerland
+West Germany	1
+2	Friendly
+in Switzerland	-2
++2	1639
+2099	-1
+0	36
+1
+October 09
+1974	Netherlands
+Switzerland	1
+0	Friendly
+in the Netherlands	+1
+-1	2036
+1638	0
+-1	2
+36
+November 13
+1974	Switzerland
+Portugal	3
+0	Friendly
+in Switzerland	+22
+-22	1660
+1802	+3
+-2	33
+15
+December 01
+1974	Turkey
+Switzerland	2
+1	European Cup qualifier
+in Turkey	+18
+-18	1621
+1642	+1
+-3	41
+36
+December 04
+1974	Hungary
+Switzerland	1
+0	Friendly
+in Hungary	+4
+-4	1806
+1638	+1
+0	15
+36
+April 30
+1975	Switzerland
+Turkey	1
+1	European Cup qualifier
+in Switzerland	-7
++7	1631
+1616	-3
+0	40
+42
+May 10
+1975	Ireland
+Switzerland	2
+1	European Cup qualifier
+in Ireland	+14
+-14	1645
+1617	+2
+-2	37
+41
+May 21
+1975	Switzerland
+Ireland	1
+0	European Cup qualifier
+in Switzerland	+15
+-15	1632
+1622	+2
+-4	39
+41
+September 03
+1975	Switzerland
+England	1
+2	Friendly
+in Switzerland	-5
++5	1627
+1950	-1
+0	40
+5
+September 24
+1975	Czechoslovakia
+Switzerland	1
+1	Friendly
+in Czechoslovakia	-7
++7	1835
+1634	0
++1	11
+39
+October 12
+1975	Switzerland
+Soviet Union	0
+1	European Cup qualifier
+in Switzerland	-15
++15	1619
+1843	-6
++3	44
+11
+November 12
+1975	Soviet Union
+Switzerland	4
+1	European Cup qualifier
+in the Soviet Union	+9
+-9	1852
+1610	+1
+-1	11
+43
+April 07
+1976	Scotland
+Switzerland	1
+0	Friendly
+in Scotland	+3
+-3	1848
+1607	+1
+0	11
+43
+April 30
+1976	Switzerland
+Hungary	0
+1	Friendly
+in Switzerland	-7
++7	1600
+1817	0
++1	44
+14
+May 11
+1976	Switzerland
+Poland	2
+1	Friendly
+in Switzerland	+16
+-16	1616
+1930	+1
+-1	43
+5
+May 19
+1976	Finland
+Switzerland	1
+0	Friendly
+in Finland	+14
+-14	1384
+1602	+2
+-1	91
+44
+August 09
+1976	Norway
+Switzerland	1
+0	World Cup qualifier
+in Norway	+27
+-27	1408
+1575	+12
+-5	80
+50
+August 17
+1976	Switzerland
+Bulgaria	2
+2	Friendly
+in Switzerland	+2
+-2	1577
+1740	0
+0	50
+23
+September 22
+1976	Austria
+Switzerland	3
+1	Friendly
+in Austria	+6
+-6	1739
+1571	+1
+0	23
+51
+October 09
+1976	Switzerland
+Sweden	1
+2	World Cup qualifier
+in Switzerland	-15
++15	1556
+1772	-3
++1	54
+19
+March 30
+1977	Portugal
+Switzerland	1
+0	Friendly
+in Portugal	+3
+-3	1784
+1553	0
+-1	19
+54
+April 23
+1977	Switzerland
+France	0
+4	Friendly
+in Switzerland	-14
++14	1539
+1766	-1
+0	55
+22
+May 24
+1977	Switzerland
+Czechoslovakia	1
+0	Friendly
+in Switzerland	+16
+-16	1555
+1874	+2
+-1	54
+10
+June 08
+1977	Sweden
+Switzerland	2
+1	World Cup qualifier
+in Sweden	+6
+-6	1772
+1549	0
+-2	20
+55
+September 07
+1977	England
+Switzerland	0
+0	Friendly
+in England	-8
++8	1852
+1557	-2
++2	13
+53
+September 21
+1977	Switzerland
+Spain	1
+2	Friendly
+in Switzerland	-5
++5	1552
+1860	0
++2	54
+10
+October 05
+1977	Switzerland
+Finland	2
+0	Friendly
+in Switzerland	+6
+-6	1558
+1418	+1
+-1	53
+82
+October 30
+1977	Switzerland
+Norway	1
+0	World Cup qualifier
+in Switzerland	+8
+-8	1566
+1421	+1
+-1	52
+81
+November 16
+1977	West Germany
+Switzerland	4
+1	Friendly
+in West Germany	+1
+-1	2093
+1565	0
+0	1
+52
+March 08
+1978	East Germany
+Switzerland	3
+1	Friendly
+in East Germany	+2
+-2	1917
+1563	0
+-2	5
+54
+April 04
+1978	Switzerland
+Austria	0
+1	Friendly
+in Switzerland	-6
++6	1557
+1813	-2
+0	57
+15
+September 06
+1978	Switzerland
+United States	2
+0	Friendly
+in Switzerland	+7
+-7	1564
+1435	+3
+0	53
+78
+October 11
+1978	Switzerland
+Netherlands	1
+3	European Cup qualifier
+in Switzerland	-7
++7	1557
+2023	-3
+0	57
+2
+November 15
+1978	Poland
+Switzerland	2
+0	European Cup qualifier
+in Poland	+5
+-5	1893
+1552	+2
+-1	8
+58
+March 28
+1979	Netherlands
+Switzerland	3
+0	European Cup qualifier
+in the Netherlands	+3
+-3	2012
+1549	0
+0	2
+59
+May 05
+1979	Switzerland
+East Germany	0
+2	European Cup qualifier
+in Switzerland	-14
++14	1535
+1863	-1
+0	60
+11
+May 22
+1979	Switzerland
+Iceland	2
+0	European Cup qualifier
+in Switzerland	+10
+-10	1545
+1343	+1
+-2	59
+103
+June 09
+1979	Iceland
+Switzerland	1
+2	European Cup qualifier
+in Iceland	-14
++14	1328
+1559	-3
++3	107
+57
+September 12
+1979	Switzerland
+Poland	0
+2	European Cup qualifier
+in Switzerland	-11
++11	1548
+1937	-1
+0	61
+7
+October 13
+1979	East Germany
+Switzerland	5
+2	European Cup qualifier
+in East Germany	+5
+-5	1881
+1543	+1
+-1	9
+62
+November 17
+1979	Italy
+Switzerland	2
+0	Friendly
+in Italy	+2
+-2	1951
+1541	0
+0	5
+61
+March 26
+1980	Switzerland
+Czechoslovakia	2
+0	Friendly
+in Switzerland	+24
+-24	1565
+1855	+5
+-2	56
+12
+April 01
+1980	Switzerland
+Greece	2
+0	Friendly
+in Switzerland	+14
+-14	1579
+1636	+3
+-3	53
+39
+April 30
+1980	Ireland
+Switzerland	2
+0	Friendly
+in Ireland	+7
+-7	1679
+1572	+2
+-2	31
+55
+August 27
+1980	Switzerland
+Denmark	1
+1	Friendly
+in Switzerland	-1
++1	1571
+1622	-1
+0	55
+42
+September 10
+1980	Switzerland
+West Germany	2
+3	Friendly
+in Switzerland	-2
++2	1569
+2067	0
+0	55
+1
+October 29
+1980	Switzerland
+Norway	1
+2	World Cup qualifier
+in Switzerland	-30
++30	1539
+1501	-5
++4	57
+67
+November 19
+1980	England
+Switzerland	2
+1	World Cup qualifier
+in England	+2
+-2	1952
+1537	0
+0	5
+55
+December 16
+1980	Argentina
+Switzerland	5
+0	Friendly
+in Argentina	+2
+-2	1958
+1535	0
+-2	4
+58
+December 18
+1980	Uruguay
+Switzerland	4
+0	Friendly
+in Uruguay	+8
+-8	1661
+1527	+1
+-2	33
+60
+December 21
+1980	Brazil
+Switzerland	2
+0	Friendly
+in Brazil	+1
+-1	2005
+1526	0
+0	2
+60
+March 24
+1981	Czechoslovakia
+Switzerland	0
+1	Friendly
+in Czechoslovakia	-19
++19	1847
+1545	0
++3	13
+58
+April 28
+1981	Switzerland
+Hungary	2
+2	World Cup qualifier
+in Switzerland	+7
+-7	1552
+1757	+1
+-2	58
+24
+May 30
+1981	Switzerland
+England	2
+1	World Cup qualifier
+in Switzerland	+31
+-31	1583
+1842	+8
+-4	50
+15
+June 17
+1981	Norway
+Switzerland	1
+1	World Cup qualifier
+in Norway	+1
+-1	1475
+1582	0
+0	72
+49
+September 01
+1981	Switzerland
+Netherlands	2
+1	Friendly
+in Switzerland	+15
+-15	1597
+1881	+4
+-2	46
+9
+October 10
+1981	Romania
+Switzerland	1
+2	World Cup qualifier
+in Romania	-33
++33	1723
+1630	-4
++5	26
+40
+October 14
+1981	Hungary
+Switzerland	3
+0	World Cup qualifier
+in Hungary	+15
+-15	1770
+1615	+2
+-4	20
+44
+November 11
+1981	Switzerland
+Romania	0
+0	World Cup qualifier
+in Switzerland	0
+0	1615
+1723	0
+0	42
+26
+March 09
+1982	Liechtenstein
+Switzerland	0
+1	Friendly
+in Liechtenstein	-2
++2	1138
+1617	0
+0	154
+41
+March 24
+1982	Switzerland
+Portugal	2
+1	Friendly
+in Switzerland	+10
+-10	1627
+1703	+1
+0	39
+27
+April 28
+1982	Spain
+Switzerland	2
+0	Friendly
+in Spain	+4
+-4	1846
+1623	0
+-1	15
+39
+May 19
+1982	Brazil
+Switzerland	1
+1	Friendly
+in Brazil	-9
++9	2052
+1632	0
++1	2
+38
+May 28
+1982	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+3
+-3	1635
+1848	0
+-2	38
+14
+September 07
+1982	Switzerland
+Bulgaria	3
+2	Friendly
+in Switzerland	+9
+-9	1644
+1679	+1
+-2	38
+32
+October 06
+1982	Belgium
+Switzerland	3
+0	European Cup qualifier
+in Belgium	+11
+-11	1847
+1633	+2
+0	11
+39
+October 27
+1982	Italy
+Switzerland	0
+1	Friendly
+in Italy	-19
++19	2007
+1652	0
+0	2
+39
+November 17
+1982	Switzerland
+Scotland	2
+0	European Cup qualifier
+in Switzerland	+37
+-37	1689
+1801	+10
+-6	29
+17
+December 01
+1982	Greece
+Switzerland	1
+3	Friendly
+in Greece	-15
++15	1572
+1704	-1
++1	48
+28
+March 07
+1983	Bulgaria
+Switzerland	1
+1	Friendly
+in Bulgaria	-1
++1	1646
+1705	0
+0	40
+29
+March 30
+1983	Scotland
+Switzerland	2
+2	European Cup qualifier
+in Scotland	-10
++10	1779
+1715	0
++3	19
+26
+April 13
+1983	Switzerland
+Soviet Union	0
+1	Friendly
+in Switzerland	-6
++6	1709
+1982	-1
+0	27
+2
+May 14
+1983	Switzerland
+East Germany	0
+0	European Cup qualifier
+in Switzerland	-1
++1	1708
+1792	0
+0	27
+18
+June 17
+1983	Switzerland
+Brazil	1
+2	Friendly
+in Switzerland	-3
++3	1705
+2083	-2
+0	29
+1
+September 07
+1983	Switzerland
+Czechoslovakia	0
+0	Friendly
+in Switzerland	+1
+-1	1706
+1829	-1
+0	29
+12
+October 12
+1983	East Germany
+Switzerland	3
+0	European Cup qualifier
+in East Germany	+19
+-19	1793
+1687	+1
+0	19
+31
+October 26
+1983	Switzerland
+Yugoslavia	2
+0	Friendly
+in Switzerland	+16
+-16	1703
+1803	-1
+-2	32
+16
+November 09
+1983	Switzerland
+Belgium	3
+1	European Cup qualifier
+in Switzerland	+37
+-37	1740
+1853	+7
+-3	25
+8
+November 30
+1983	Algeria
+Switzerland	1
+2	Friendly
+in Algeria	-11
++11	1670
+1751	0
+0	35
+26
+December 02
+1983	Ivory Coast
+Switzerland	1
+0	Friendly
+in Ivory Coast	+14
+-14	1536
+1737	+2
+-1	59
+27
+December 04
+1983	Zimbabwe
+Switzerland	3
+2	Friendly
+in Zimbabwe	+14
+-14	1512
+1723	+1
+-1	66
+28
+December 06
+1983	Kenya
+Switzerland	0
+0	Friendly
+in Kenya	+3
+-3	1527
+1720	0
+-1	62
+29
+March 27
+1984	Switzerland
+Poland	1
+1	Friendly
+in Switzerland	+2
+-2	1722
+1886	0
+0	29
+6
+May 02
+1984	Switzerland
+Sweden	0
+0	Friendly
+in Switzerland	0
+0	1722
+1805	0
+0	30
+16
+May 26
+1984	Switzerland
+Spain	0
+4	Friendly
+in Switzerland	-19
++19	1703
+1836	-1
++4	31
+10
+August 22
+1984	Hungary
+Switzerland	3
+0	Friendly
+in Hungary	+11
+-11	1740
+1692	+2
+-3	26
+34
+September 01
+1984	Switzerland
+Argentina	0
+2	Friendly
+in Switzerland	-13
++13	1679
+1843	-1
++2	35
+9
+September 12
+1984	Norway
+Switzerland	0
+1	World Cup qualifier
+in Norway	-20
++20	1563
+1699	-1
++2	52
+33
+October 17
+1984	Switzerland
+Denmark	1
+0	World Cup qualifier
+in Switzerland	+23
+-23	1722
+1829	+2
+-2	31
+12
+November 03
+1984	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	0
+0	1722
+1825	0
+0	31
+12
+February 01
+1985	Colombia
+Switzerland	2
+2	Friendly
+in Colombia	+1
+-1	1572
+1721	0
+-1	55
+31
+February 05
+1985	Bulgaria
+Switzerland	1
+0	Friendly tournament
+in Mexico	+16
+-16	1710
+1705	+1
+-1	31
+32
+February 06
+1985	Mexico
+Switzerland	1
+2	Friendly tournament
+in Mexico	-22
++22	1754
+1727	-3
++4	25
+28
+February 08
+1985	United States
+Switzerland	1
+1	Friendly
+in the United States	+4
+-4	1487
+1723	+2
+-2	72
+30
+March 27
+1985	Switzerland
+Czechoslovakia	2
+0	Friendly
+in Switzerland	+14
+-14	1737
+1794	-1
+-3	29
+16
+April 17
+1985	Switzerland
+Soviet Union	2
+2	World Cup qualifier
+in Switzerland	+7
+-7	1744
+1959	+1
+0	28
+2
+May 02
+1985	Soviet Union
+Switzerland	4
+0	World Cup qualifier
+in the Soviet Union	+11
+-11	1970
+1733	+2
+-1	1
+29
+June 02
+1985	Ireland
+Switzerland	3
+0	World Cup qualifier
+in Ireland	+32
+-32	1695
+1701	+4
+-1	31
+30
+August 28
+1985	Switzerland
+Turkey	0
+0	Friendly
+in Switzerland	-7
++7	1694
+1486	-1
++1	33
+75
+September 11
+1985	Switzerland
+Ireland	0
+0	World Cup qualifier
+in Switzerland	-6
++6	1688
+1701	-1
+0	34
+32
+October 09
+1985	Denmark
+Switzerland	0
+0	World Cup qualifier
+in Denmark	-12
++12	1807
+1700	-5
++1	16
+34
+November 13
+1985	Switzerland
+Norway	1
+1	World Cup qualifier
+in Switzerland	-9
++9	1691
+1634	0
+0	33
+41
+March 12
+1986	Turkey
+Switzerland	1
+0	Friendly
+in Turkey	+13
+-13	1478
+1678	+7
+0	73
+32
+April 09
+1986	Switzerland
+West Germany	0
+1	Friendly
+in Switzerland	-7
++7	1671
+1893	0
+0	31
+4
+May 06
+1986	Switzerland
+Algeria	2
+0	Friendly
+in Switzerland	+10
+-10	1681
+1628	0
+0	31
+39
+August 19
+1986	Switzerland
+France	2
+0	Friendly
+in Switzerland	+23
+-23	1704
+1953	+2
+0	31
+3
+August 27
+1986	Austria
+Switzerland	1
+1	Friendly
+in Austria	-3
++3	1712
+1707	-1
+0	29
+31
+September 24
+1986	Sweden
+Switzerland	2
+0	European Cup qualifier
+in Sweden	+13
+-13	1839
+1694	0
+-1	10
+31
+October 29
+1986	Switzerland
+Portugal	1
+1	European Cup qualifier
+in Switzerland	-4
++4	1690
+1719	-1
+-1	33
+30
+November 15
+1986	Italy
+Switzerland	3
+2	European Cup qualifier
+in Italy	+8
+-8	1830
+1682	+1
+-1	12
+33
+March 25
+1987	Switzerland
+Czechoslovakia	1
+2	Friendly
+in Switzerland	-9
++9	1673
+1833	0
++1	35
+12
+April 15
+1987	Switzerland
+Malta	4
+1	European Cup qualifier
+in Switzerland	+5
+-5	1678
+1303	0
+-1	33
+114
+May 19
+1987	Switzerland
+Israel	1
+0	Friendly
+in Switzerland	+5
+-5	1683
+1585	0
+-1	33
+52
+June 17
+1987	Switzerland
+Sweden	1
+1	European Cup qualifier
+in Switzerland	+6
+-6	1689
+1876	+1
+0	32
+8
+August 18
+1987	Switzerland
+Austria	2
+2	Friendly
+in Switzerland	-2
++2	1687
+1719	0
+0	32
+27
+October 17
+1987	Switzerland
+Italy	0
+0	European Cup qualifier
+in Switzerland	+5
+-5	1692
+1865	0
+0	32
+8
+November 11
+1987	Portugal
+Switzerland	0
+0	European Cup qualifier
+in Portugal	-7
++7	1712
+1699	0
+0	28
+32
+November 15
+1987	Malta
+Switzerland	1
+1	European Cup qualifier
+in Malta	+14
+-14	1316
+1685	+9
+-1	107
+33
+December 16
+1987	Israel
+Switzerland	0
+2	Friendly
+in Israel	-14
++14	1550
+1699	-5
++1	59
+32
+February 02
+1988	France
+Switzerland	2
+1	Friendly tournament
+in France	+7
+-7	1817
+1692	0
++1	15
+31
+February 05
+1988	Austria
+Switzerland	1
+2	Friendly tournament
+in France	-14
++14	1664
+1706	-1
+0	36
+31
+April 27
+1988	West Germany
+Switzerland	1
+0	Friendly
+in West Germany	+3
+-3	1931
+1703	+1
+-1	2
+32
+May 28
+1988	Switzerland
+England	0
+1	Friendly
+in Switzerland	-6
++6	1697
+1958	-1
+0	34
+1
+June 05
+1988	Switzerland
+Spain	1
+1	Friendly
+in Switzerland	+2
+-2	1699
+1864	0
+0	34
+8
+August 24
+1988	Switzerland
+Yugoslavia	0
+2	Friendly
+in Switzerland	-15
++15	1684
+1813	-1
++3	33
+13
+September 21
+1988	Luxembourg
+Switzerland	1
+4	World Cup qualifier
+in Luxembourg	-5
++5	1132
+1689	0
++1	152
+32
+October 19
+1988	Belgium
+Switzerland	1
+0	World Cup qualifier
+in Belgium	+12
+-12	1754
+1677	+2
+-1	26
+34
+December 14
+1988	Egypt
+Switzerland	1
+3	Friendly
+in Egypt	-19
++19	1652
+1696	-4
++1	39
+32
+April 04
+1989	Hungary
+Switzerland	3
+0	Friendly
+in Hungary	+12
+-12	1722
+1684	0
+0	31
+32
+April 26
+1989	Portugal
+Switzerland	3
+1	World Cup qualifier
+in Portugal	+18
+-18	1746
+1666	+2
+-2	25
+34
+June 07
+1989	Switzerland
+Czechoslovakia	0
+1	World Cup qualifier
+in Switzerland	-18
++18	1648
+1821	-3
++3	36
+14
+June 21
+1989	Switzerland
+Brazil	1
+0	Friendly
+in Switzerland	+15
+-15	1663
+1905	+3
+-1	32
+6
+September 20
+1989	Switzerland
+Portugal	1
+2	World Cup qualifier
+in Switzerland	-22
++22	1641
+1746	-1
++1	37
+26
+October 11
+1989	Switzerland
+Belgium	2
+2	World Cup qualifier
+in Switzerland	+5
+-5	1646
+1833	+1
+0	37
+15
+October 25
+1989	Czechoslovakia
+Switzerland	3
+0	World Cup qualifier
+in Czechoslovakia	+11
+-11	1854
+1635	+1
+-1	12
+38
+November 15
+1989	Switzerland
+Luxembourg	2
+1	World Cup qualifier
+in Switzerland	+1
+-1	1636
+1140	0
+0	38
+157
+December 13
+1989	Spain
+Switzerland	2
+1	Friendly
+in Spain	+2
+-2	1885
+1634	+1
+0	8
+38
+March 31
+1990	Switzerland
+Italy	0
+1	Friendly
+in Switzerland	-5
++5	1629
+1931	0
+0	38
+4
+April 03
+1990	Switzerland
+Romania	2
+1	Friendly
+in Switzerland	+14
+-14	1643
+1844	+1
+-3	37
+16
+May 08
+1990	Switzerland
+Argentina	1
+1	Friendly
+in Switzerland	0
+0	1643
+1751	0
+0	37
+23
+June 02
+1990	Switzerland
+United States	2
+1	Friendly
+in Switzerland	+5
+-5	1648
+1544	+1
+-2	36
+60
+August 21
+1990	Austria
+Switzerland	1
+3	Friendly
+in Austria	-21
++21	1687
+1669	-3
++4	31
+34
+September 12
+1990	Switzerland
+Bulgaria	2
+0	European Cup qualifier
+in Switzerland	+23
+-23	1692
+1660	+3
+0	31
+33
+October 17
+1990	Scotland
+Switzerland	2
+1	European Cup qualifier
+in Scotland	+13
+-13	1730
+1679	+1
+-2	25
+32
+November 14
+1990	San Marino
+Switzerland	0
+4	European Cup qualifier
+in San Marino	-3
++3	997
+1682	-
+0	173
+32
+December 19
+1990	Germany
+Switzerland	4
+0	Friendly
+in Germany	+3
+-3	2042
+1679	0
+0	1
+32
+February 02
+1991	United States
+Switzerland	0
+1	Friendly tournament
+in the United States	-13
++13	1522
+1692	-4
+0	64
+32
+February 03
+1991	Switzerland
+Colombia	3
+2	Friendly tournament
+in the United States	+17
+-17	1709
+1720	+1
+-1	31
+26
+March 12
+1991	Liechtenstein
+Switzerland	0
+6	Friendly
+in Liechtenstein	-3
++3	1153
+1712	0
++2	153
+28
+April 03
+1991	Switzerland
+Romania	0
+0	European Cup qualifier
+in Switzerland	-2
++2	1710
+1779	-1
++1	32
+19
+May 01
+1991	Bulgaria
+Switzerland	2
+3	European Cup qualifier
+in Bulgaria	-26
++26	1693
+1736	-5
++7	32
+25
+June 05
+1991	Switzerland
+San Marino	7
+0	European Cup qualifier
+in Switzerland	+1
+-1	1737
+990	-1
+0	26
+176
+August 21
+1991	Czechoslovakia
+Switzerland	1
+1	Friendly
+in Czechoslovakia	-6
++6	1876
+1743	-1
+0	10
+24
+September 11
+1991	Switzerland
+Scotland	2
+2	European Cup qualifier
+in Switzerland	-7
++7	1736
+1728	-1
+0	25
+28
+October 09
+1991	Switzerland
+Sweden	3
+1	Friendly
+in Switzerland	+14
+-14	1750
+1789	+1
+-3	23
+17
+November 13
+1991	Romania
+Switzerland	1
+0	European Cup qualifier
+in Romania	+13
+-13	1791
+1737	+2
+-2	17
+24
+January 29
+1992	United Arab Emirates
+Switzerland	0
+2	Friendly
+in United Arab Emirates	-7
++7	1424
+1744	-2
++1	85
+23
+March 25
+1992	Ireland
+Switzerland	2
+1	Friendly
+in Ireland	+5
+-5	1862
+1739	0
+-1	10
+24
+April 28
+1992	Switzerland
+Bulgaria	0
+2	Friendly
+in Switzerland	-21
++21	1718
+1720	-3
++3	27
+26
+May 27
+1992	Switzerland
+France	2
+1	Friendly
+in Switzerland	+14
+-14	1732
+1933	0
+-1	28
+5
+August 16
+1992	Estonia
+Switzerland	0
+6	World Cup qualifier
+in Estonia	-7
++7	1211
+1739	-4
++3	148
+25
+September 09
+1992	Switzerland
+Scotland	3
+1	World Cup qualifier
+in Switzerland	+25
+-25	1764
+1751	+3
+-3	21
+22
+October 14
+1992	Italy
+Switzerland	2
+2	World Cup qualifier
+in Italy	-14
++14	1942
+1778	0
+0	4
+20
+November 18
+1992	Switzerland
+Malta	3
+0	World Cup qualifier
+in Switzerland	+3
+-3	1781
+1359	0
+-1	20
+107
+January 23
+1993	Switzerland
+Japan	1
+1	Carlsberg Cup
+in Hong Kong	-9
++9	1772
+1553	0
++1	19
+57
+March 17
+1993	Tunisia
+Switzerland	0
+1	Friendly
+in Tunisia	-7
++7	1565
+1779	-2
+0	55
+18
+March 31
+1993	Switzerland
+Portugal	1
+1	World Cup qualifier
+in Switzerland	-8
++8	1771
+1744	0
++1	17
+23
+April 17
+1993	Malta
+Switzerland	0
+2	World Cup qualifier
+in Malta	-8
++8	1338
+1779	-5
+0	115
+17
+May 01
+1993	Switzerland
+Italy	1
+0	World Cup qualifier
+in Switzerland	+25
+-25	1804
+1943	+2
+-2	15
+4
+August 11
+1993	Sweden
+Switzerland	1
+2	Friendly
+in Sweden	-15
++15	1858
+1819	-1
++2	9
+13
+September 08
+1993	Scotland
+Switzerland	1
+1	World Cup qualifier
+in Scotland	0
+0	1726
+1819	0
+0	25
+14
+October 13
+1993	Portugal
+Switzerland	1
+0	World Cup qualifier
+in Portugal	+17
+-17	1797
+1802	+2
+-3	19
+17
+November 17
+1993	Switzerland
+Estonia	4
+0	World Cup qualifier
+in Switzerland	+1
+-1	1803
+1202	+2
+-1	15
+153
+January 22
+1994	United States
+Switzerland	1
+1	Friendly
+in the United States	+3
+-3	1613
+1800	0
+-3	46
+17
+January 26
+1994	Switzerland
+Mexico	5
+1	Friendly
+in the United States	+22
+-22	1822
+1837	+3
+-2	14
+12
+March 09
+1994	Hungary
+Switzerland	1
+2	Friendly
+in Hungary	-7
++7	1601
+1829	-2
++1	50
+13
+April 20
+1994	Switzerland
+Czechia	3
+0	Friendly
+in Switzerland	+12
+-12	1841
+1800	+1
+-1	12
+18
+May 27
+1994	Switzerland
+Liechtenstein	2
+0	Friendly
+in Switzerland	0
+0	1841
+1133	0
+0	12
+167
+June 03
+1994	Italy
+Switzerland	1
+0	Friendly
+in Italy	+5
+-5	1945
+1836	0
+0	3
+14
+June 11
+1994	Switzerland
+Bolivia	0
+0	Friendly
+in Canada	-5
++5	1831
+1663	0
++1	13
+35
+June 18
+1994	United States
+Switzerland	1
+1	World Cup
+in the United States	+11
+-11	1603
+1820	0
+-5	50
+18
+June 22
+1994	Switzerland
+Romania	4
+1	World Cup
+in the United States	+56
+-56	1876
+1790	+8
+-6	9
+21
+June 26
+1994	Colombia
+Switzerland	2
+0	World Cup
+in the United States	+54
+-54	1863
+1822	+8
+-7	10
+17
+July 02
+1994	Spain
+Switzerland	3
+0	World Cup
+in the United States	+45
+-45	1917
+1777	+4
+-8	5
+24
+September 06
+1994	Switzerland
+United Arab Emirates	1
+0	Friendly
+in Switzerland	+2
+-2	1779
+1459	0
+0	23
+85
+October 12
+1994	Switzerland
+Sweden	4
+2	European Cup qualifier
+in Switzerland	+36
+-36	1815
+1911	+6
+-1	17
+5
+November 16
+1994	Switzerland
+Iceland	1
+0	European Cup qualifier
+in Switzerland	+4
+-4	1819
+1535	-3
+-1	20
+62
+December 14
+1994	Turkey
+Switzerland	1
+2	European Cup qualifier
+in Turkey	-13
++13	1582
+1832	-5
++2	50
+18
+March 08
+1995	Greece
+Switzerland	1
+1	Friendly
+in Greece	+3
+-3	1633
+1829	0
+0	37
+19
+March 29
+1995	Hungary
+Switzerland	2
+2	European Cup qualifier
+in Hungary	+9
+-9	1578
+1820	+2
+-1	52
+20
+April 26
+1995	Switzerland
+Turkey	1
+2	European Cup qualifier
+in Switzerland	-34
++34	1786
+1656	-2
++6	22
+34
+June 19
+1995	Switzerland
+Italy	0
+1	Centenary Tournament
+in Switzerland	-12
++12	1774
+1970	-1
+0	22
+2
+June 23
+1995	Switzerland
+Germany	1
+2	Centenary Tournament
+in Switzerland	-12
++12	1762
+1967	-2
+0	24
+2
+August 16
+1995	Iceland
+Switzerland	0
+2	European Cup qualifier
+in Iceland	-23
++23	1553
+1785	-11
++2	60
+22
+September 06
+1995	Sweden
+Switzerland	0
+0	European Cup qualifier
+in Sweden	-8
++8	1815
+1793	-1
+0	19
+22
+October 11
+1995	Switzerland
+Hungary	3
+0	European Cup qualifier
+in Switzerland	+9
+-9	1802
+1550	0
+-6	22
+61
+November 15
+1995	England
+Switzerland	3
+1	Friendly
+in England	+10
+-10	1842
+1792	+1
++1	10
+21
+March 13
+1996	Luxembourg
+Switzerland	1
+1	Friendly
+in Luxembourg	+9
+-9	1226
+1783	+3
+0	148
+21
+March 27
+1996	Austria
+Switzerland	1
+0	Friendly
+in Austria	+12
+-12	1634
+1771	+2
+-2	39
+23
+April 24
+1996	Switzerland
+Wales	2
+0	Friendly
+in Switzerland	+5
+-5	1776
+1568	0
+-1	23
+55
+June 01
+1996	Switzerland
+Czechia	1
+2	Friendly
+in Switzerland	-11
++11	1765
+1868	0
+0	23
+10
+June 08
+1996	England
+Switzerland	1
+1	European Cup
+in England	-12
++12	1842
+1777	-1
++1	12
+22
+June 13
+1996	Netherlands
+Switzerland	2
+0	European Cup
+in England	+28
+-28	1898
+1749	+1
+-3	7
+24
+June 18
+1996	Scotland
+Switzerland	1
+0	European Cup
+in England	+27
+-27	1752
+1722	+4
+-2	23
+27
+August 31
+1996	Azerbaijan
+Switzerland	1
+0	World Cup qualifier
+in Azerbaijan	+34
+-34	1369
+1688	+8
+-3	113
+31
+October 06
+1996	Finland
+Switzerland	2
+3	World Cup qualifier
+in Finland	-13
++13	1446
+1701	-2
++2	89
+29
+November 10
+1996	Switzerland
+Norway	0
+1	World Cup qualifier
+in Switzerland	-20
++20	1681
+1823	-3
++1	33
+15
+February 10
+1997	Russia
+Switzerland	2
+1	Carlsberg Cup
+in Hong Kong	+9
+-9	1851
+1672	0
+0	12
+32
+April 02
+1997	Switzerland
+Latvia	1
+0	Friendly
+in Switzerland	+2
+-2	1674
+1373	-2
+0	34
+113
+April 30
+1997	Switzerland
+Hungary	1
+0	World Cup qualifier
+in Switzerland	+10
+-10	1684
+1563	+3
+-3	33
+59
+August 06
+1997	Slovakia
+Switzerland	1
+0	Friendly
+in Slovakia	+9
+-9	1642
+1675	+7
+-2	38
+35
+August 20
+1997	Hungary
+Switzerland	1
+1	World Cup qualifier
+in Hungary	0
+0	1573
+1675	+1
+0	58
+36
+September 06
+1997	Switzerland
+Finland	1
+2	World Cup qualifier
+in Switzerland	-34
++34	1641
+1496	-7
++13	43
+72
+September 10
+1997	Norway
+Switzerland	5
+0	World Cup qualifier
+in Norway	+13
+-13	1839
+1628	+3
+-4	11
+47
+October 11
+1997	Switzerland
+Azerbaijan	5
+0	World Cup qualifier
+in Switzerland	+5
+-5	1633
+1267	+2
+0	45
+138
+March 25
+1998	Switzerland
+England	1
+1	Friendly
+in Switzerland	+5
+-5	1638
+1933	+1
+-1	44
+6
+April 22
+1998	Northern Ireland
+Switzerland	1
+0	Friendly
+in Northern Ireland	+9
+-9	1570
+1629	0
+-3	58
+45
+June 06
+1998	Switzerland
+Yugoslavia	1
+1	Friendly
+in Switzerland	+5
+-5	1634
+1934	+1
+-1	44
+6
+September 02
+1998	Yugoslavia
+Switzerland	1
+1	Friendly
+in Yugoslavia	-8
++8	1921
+1642	0
++1	9
+45
+October 10
+1998	Italy
+Switzerland	2
+0	European Cup qualifier
+in Italy	+4
+-4	1990
+1638	0
+-3	3
+49
+October 14
+1998	Switzerland
+Denmark	1
+1	European Cup qualifier
+in Switzerland	+2
+-2	1640
+1779	+2
+0	46
+19
+November 18
+1998	Hungary
+Switzerland	2
+0	Friendly
+in Hungary	+12
+-12	1628
+1628	+6
+-3	48
+48
+February 06
+1999	Switzerland
+Slovenia	2
+0	Friendly tournament
+in Oman	+13
+-13	1641
+1467	+4
+-2	47
+80
+February 10
+1999	Oman
+Switzerland	1
+2	Friendly tournament
+in Oman	-8
++8	1351
+1649	-3
++3	118
+44
+March 10
+1999	Switzerland
+Austria	2
+4	Friendly
+in Switzerland	-17
++17	1632
+1717	-4
++4	48
+28
+March 27
+1999	Belarus
+Switzerland	0
+1	European Cup qualifier
+in Belarus	-12
++12	1372
+1644	-3
++1	113
+47
+March 31
+1999	Switzerland
+Wales	2
+0	European Cup qualifier
+in Switzerland	+16
+-16	1660
+1549	+5
+-3	42
+60
+April 28
+1999	Greece
+Switzerland	1
+1	Friendly
+in Greece	-3
++3	1671
+1663	-2
+0	41
+43
+June 09
+1999	Switzerland
+Italy	0
+0	European Cup qualifier
+in Switzerland	+11
+-11	1674
+1968	+4
+0	39
+3
+August 18
+1999	Czechia
+Switzerland	3
+0	Friendly
+in Czechia	+5
+-5	1893
+1669	0
+-2	8
+38
+September 04
+1999	Denmark
+Switzerland	2
+1	European Cup qualifier
+in Denmark	+9
+-9	1799
+1660	+1
+-2	17
+40
+September 08
+1999	Switzerland
+Belarus	2
+0	European Cup qualifier
+in Switzerland	+6
+-6	1666
+1369	+2
+-3	38
+113
+October 09
+1999	Wales
+Switzerland	0
+2	European Cup qualifier
+in Wales	-29
++29	1522
+1695	-5
++4	67
+34
+February 19
+2000	Oman
+Switzerland	1
+4	Friendly tournament
+in Oman	-10
++10	1328
+1705	-3
++2	123
+30
+February 23
+2000	United Arab Emirates
+Switzerland	1
+0	Friendly tournament
+in Oman	+24
+-24	1500
+1681	+9
+-7	73
+37
+March 29
+2000	Switzerland
+Norway	2
+2	Friendly
+in Switzerland	+3
+-3	1684
+1893	+2
++1	36
+8
+April 26
+2000	Germany
+Switzerland	1
+1	Friendly
+in Germany	-6
++6	1847
+1690	0
++2	14
+34
+August 16
+2000	Switzerland
+Greece	2
+2	Friendly
+in Switzerland	-2
++2	1688
+1735	-2
+-1	37
+25
+September 02
+2000	Switzerland
+Russia	0
+1	World Cup qualifier
+in Switzerland	-21
++21	1667
+1794	-6
++2	43
+17
+October 07
+2000	Switzerland
+Faroe Islands	5
+1	World Cup qualifier
+in Switzerland	+2
+-2	1669
+1157	0
+0	42
+165
+October 11
+2000	Slovenia
+Switzerland	2
+2	World Cup qualifier
+in Slovenia	-3
++3	1624
+1672	-1
+0	52
+42
+November 15
+2000	Tunisia
+Switzerland	1
+1	Friendly
+in Tunisia	-2
++2	1641
+1674	+1
++1	47
+42
+February 28
+2001	Switzerland
+Poland	0
+4	Friendly
+in Cyprus	-16
++16	1658
+1736	-3
+0	46
+30
+March 24
+2001	Yugoslavia
+Switzerland	1
+1	World Cup qualifier
+in Yugoslavia	-14
++14	1843
+1672	-2
++4	11
+41
+March 28
+2001	Switzerland
+Luxembourg	5
+0	World Cup qualifier
+in Switzerland	+2
+-2	1674
+1101	-1
+0	41
+172
+April 25
+2001	Switzerland
+Sweden	0
+2	Friendly
+in Switzerland	-14
++14	1660
+1805	-2
++2	42
+15
+June 02
+2001	Faroe Islands
+Switzerland	0
+1	World Cup qualifier
+in Faroe Islands	-5
++5	1202
+1665	-1
++2	154
+41
+June 06
+2001	Switzerland
+Slovenia	0
+1	World Cup qualifier
+in Switzerland	-28
++28	1637
+1653	-4
++7	46
+44
+August 15
+2001	Austria
+Switzerland	1
+2	Friendly
+in Austria	-14
++14	1680
+1651	-4
++1	38
+45
+September 01
+2001	Switzerland
+Yugoslavia	1
+2	World Cup qualifier
+in Switzerland	-18
++18	1633
+1807	-6
++1	51
+18
+September 05
+2001	Luxembourg
+Switzerland	0
+3	World Cup qualifier
+in Luxembourg	-5
++5	1079
+1638	0
++2	175
+48
+October 06
+2001	Russia
+Switzerland	4
+0	World Cup qualifier
+in Russia	+15
+-15	1795
+1623	0
+-2	20
+50
+February 12
+2002	Cyprus
+Switzerland	1
+1	Friendly tournament
+in Cyprus	+2
+-2	1470
+1621	+1
+0	86
+49
+February 13
+2002	Switzerland
+Hungary	2
+1	Friendly tournament
+in Cyprus	+12
+-12	1633
+1535	+3
+-3	46
+64
+March 27
+2002	Sweden
+Switzerland	1
+1	Friendly
+in Sweden	-7
++7	1849
+1640	-2
++2	10
+44
+May 15
+2002	Switzerland
+Canada	1
+3	Friendly
+in Switzerland	-21
++21	1619
+1624	-7
++3	51
+49
+August 21
+2002	Switzerland
+Austria	3
+2	Friendly
+in Switzerland	+8
+-8	1627
+1640	0
+-1	48
+41
+September 08
+2002	Switzerland
+Georgia	4
+1	European Cup qualifier
+in Switzerland	+19
+-19	1646
+1541	+6
+-2	40
+63
+October 12
+2002	Albania
+Switzerland	1
+1	European Cup qualifier
+in Albania	+8
+-8	1416
+1638	+4
+-4	97
+44
+October 16
+2002	Ireland
+Switzerland	1
+2	European Cup qualifier
+in Ireland	-34
++34	1821
+1672	-2
++5	14
+39
+February 12
+2003	Slovenia
+Switzerland	1
+5	Friendly
+in Slovenia	-22
++22	1605
+1694	-4
++1	51
+37
+April 02
+2003	Georgia
+Switzerland	0
+0	European Cup qualifier
+in Georgia	+4
+-4	1528
+1690	0
+0	67
+36
+April 30
+2003	Switzerland
+Italy	1
+2	Friendly
+in Switzerland	-8
++8	1682
+1874	-1
+0	37
+10
+June 07
+2003	Switzerland
+Russia	2
+2	European Cup qualifier
+in Switzerland	-3
++3	1679
+1734	0
++1	37
+30
+June 11
+2003	Switzerland
+Albania	3
+2	European Cup qualifier
+in Switzerland	+6
+-6	1685
+1462	+1
+0	36
+83
+August 20
+2003	Switzerland
+France	0
+2	Friendly
+in Switzerland	-7
++7	1678
+1989	-1
+0	37
+3
+September 10
+2003	Russia
+Switzerland	4
+1	European Cup qualifier
+in Russia	+21
+-21	1752
+1657	+3
+-1	24
+39
+October 11
+2003	Switzerland
+Ireland	2
+0	European Cup qualifier
+in Switzerland	+37
+-37	1694
+1798	+3
+-3	36
+17
+February 18
+2004	Morocco
+Switzerland	2
+1	Friendly
+in Morocco	+7
+-7	1705
+1687	+1
+-2	34
+38
+March 31
+2004	Greece
+Switzerland	1
+0	Friendly
+in Greece	+5
+-5	1773
+1682	+1
+-2	19
+39
+April 28
+2004	Switzerland
+Slovenia	2
+1	Friendly
+in Switzerland	+5
+-5	1687
+1600	+3
+-1	36
+57
+June 02
+2004	Switzerland
+Germany	0
+2	Friendly
+in Switzerland	-12
++12	1675
+1866	-4
+0	40
+10
+June 06
+2004	Switzerland
+Liechtenstein	1
+0	Friendly
+in Switzerland	0
+0	1675
+1044	0
+0	40
+184
+June 13
+2004	Croatia
+Switzerland	0
+0	European Cup
+in Portugal	-9
++9	1800
+1684	0
++3	17
+38
+June 17
+2004	England
+Switzerland	3
+0	European Cup
+in Portugal	+20
+-20	1911
+1664	+1
+-7	7
+44
+June 21
+2004	France
+Switzerland	3
+1	European Cup
+in Portugal	+8
+-8	2039
+1656	0
+-2	1
+44
+August 18
+2004	Switzerland
+Northern Ireland	0
+0	Friendly
+in Switzerland	-7
++7	1649
+1482	-3
++3	42
+81
+September 04
+2004	Switzerland
+Faroe Islands	6
+0	World Cup qualifier
+in Switzerland	+4
+-4	1653
+1204	+3
+-2	39
+157
+September 08
+2004	Switzerland
+Ireland	1
+1	World Cup qualifier
+in Switzerland	+4
+-4	1657
+1811	0
+-2	40
+18
+October 09
+2004	Israel
+Switzerland	2
+2	World Cup qualifier
+in Israel	-5
++5	1638
+1662	-1
++1	45
+38
+February 09
+2005	United Arab Emirates
+Switzerland	1
+2	Friendly
+in United Arab Emirates	-5
++5	1384
+1667	-2
+0	103
+41
+March 26
+2005	France
+Switzerland	0
+0	World Cup qualifier
+in France	-16
++16	1935
+1683	-4
++3	7
+38
+March 30
+2005	Switzerland
+Cyprus	1
+0	World Cup qualifier
+in Switzerland	+4
+-4	1687
+1407	+1
+0	39
+98
+June 04
+2005	Faroe Islands
+Switzerland	1
+3	World Cup qualifier
+in Faroe Islands	-6
++6	1211
+1693	-2
+0	155
+37
+August 17
+2005	Norway
+Switzerland	0
+2	Friendly
+in Norway	-22
++22	1759
+1715	-3
++5	25
+35
+September 03
+2005	Switzerland
+Israel	1
+1	World Cup qualifier
+in Switzerland	-8
++8	1707
+1685	-1
++1	36
+42
+September 07
+2005	Cyprus
+Switzerland	1
+3	World Cup qualifier
+in Cyprus	-17
++17	1424
+1724	-4
++4	95
+32
+October 08
+2005	Switzerland
+France	1
+1	World Cup qualifier
+in Switzerland	+7
+-7	1731
+1945	0
+0	32
+3
+October 12
+2005	Ireland
+Switzerland	0
+0	World Cup qualifier
+in Ireland	-9
++9	1795
+1740	0
++2	20
+30
+November 12
+2005	Switzerland
+Turkey	2
+0	World Cup qualifier
+in Switzerland	+28
+-28	1768
+1791	+6
+-5	24
+22
+November 16
+2005	Turkey
+Switzerland	4
+2	World Cup qualifier
+in Turkey	+20
+-20	1811
+1748	+5
+-3	17
+28
+March 01
+2006	Scotland
+Switzerland	1
+3	Friendly
+in Scotland	-15
++15	1633
+1763	-1
++2	49
+28
+May 27
+2006	Switzerland
+Ivory Coast	1
+1	Friendly
+in Switzerland	-3
++3	1760
+1756	0
+0	28
+29
+May 31
+2006	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+2
+-2	1762
+1918	0
+0	28
+7
+June 03
+2006	Switzerland
+China	4
+1	Friendly
+in Switzerland	+6
+-6	1768
+1587	0
+-1	28
+57
+June 13
+2006	France
+Switzerland	0
+0	World Cup
+in Germany	-14
++14	1930
+1782	-1
++5	6
+19
+June 19
+2006	Switzerland
+Togo	2
+0	World Cup
+in Germany	+13
+-13	1795
+1462	+3
+-6	17
+90
+June 23
+2006	Switzerland
+South Korea	2
+0	World Cup
+in Germany	+37
+-37	1832
+1695	+4
+-6	13
+38
+June 26
+2006	Ukraine
+Switzerland	0
+0	World Cup
+in Germany	+4
+-4	1790
+1828	+1
+0	19
+12
+August 16
+2006	Liechtenstein
+Switzerland	0
+3	Friendly
+in Liechtenstein	-1
++1	1097
+1829	0
+0	174
+12
+September 02
+2006	Switzerland
+Venezuela	1
+0	Friendly tournament
+in Switzerland	+3
+-3	1832
+1572	0
++1	12
+60
+September 06
+2006	Switzerland
+Costa Rica	2
+0	Friendly tournament
+in Switzerland	+6
+-6	1838
+1609	0
+-3	12
+53
+October 11
+2006	Austria
+Switzerland	2
+1	Friendly
+in Austria	+14
+-14	1587
+1824	+3
+-2	57
+15
+November 15
+2006	Switzerland
+Brazil	1
+2	Friendly
+in Switzerland	-7
++7	1817
+2057	+1
+0	15
+1
+February 07
+2007	Germany
+Switzerland	3
+1	Friendly
+in Germany	+6
+-6	1956
+1811	0
+-1	6
+15
+March 22
+2007	Switzerland
+Jamaica	2
+0	Friendly
+in the United States	+7
+-7	1818
+1589	0
+-2	15
+56
+March 25
+2007	Colombia
+Switzerland	3
+1	Friendly
+in the United States	+18
+-18	1768
+1800	+5
+0	23
+16
+June 02
+2007	Switzerland
+Argentina	1
+1	Friendly
+in Switzerland	+2
+-2	1802
+1962	0
+-1	17
+5
+August 22
+2007	Switzerland
+Netherlands	2
+1	Friendly
+in Switzerland	+12
+-12	1814
+1956	+1
+-1	15
+6
+September 07
+2007	Switzerland
+Chile	2
+1	Friendly tournament
+in Austria	+11
+-11	1825
+1708	0
+-3	15
+39
+September 11
+2007	Japan
+Switzerland	4
+3	Friendly tournament
+in Austria	+19
+-19	1739
+1806	+4
+0	30
+15
+October 13
+2007	Switzerland
+Austria	3
+1	Friendly
+in Switzerland	+4
+-4	1810
+1563	+1
+0	14
+63
+October 17
+2007	Switzerland
+United States	0
+1	Friendly
+in Switzerland	-15
++15	1795
+1743	-1
++5	15
+29
+November 20
+2007	Switzerland
+Nigeria	0
+1	Friendly
+in Switzerland	-14
++14	1781
+1746	-2
++3	17
+30
+February 06
+2008	England
+Switzerland	2
+1	Friendly
+in England	+5
+-5	1886
+1776	+1
+-2	8
+22
+March 26
+2008	Switzerland
+Germany	0
+4	Friendly
+in Switzerland	-16
++16	1760
+1938	-5
+0	27
+7
+May 24
+2008	Switzerland
+Slovakia	2
+0	Friendly
+in Switzerland	+5
+-5	1765
+1594	+2
+0	25
+55
+May 30
+2008	Switzerland
+Liechtenstein	3
+0	Friendly
+in Switzerland	+1
+-1	1766
+1156	0
+0	25
+167
+June 07
+2008	Switzerland
+Czechia	0
+1	European Cup
+in Switzerland	-23
++23	1743
+1912	-4
++1	29
+8
+June 11
+2008	Switzerland
+Turkey	1
+2	European Cup
+in Switzerland	-32
++32	1711
+1782	-9
++4	37
+21
+June 15
+2008	Switzerland
+Portugal	2
+0	European Cup
+in Switzerland	+48
+-48	1759
+1861	+13
+-4	24
+12
+August 20
+2008	Switzerland
+Cyprus	4
+1	Friendly
+in Switzerland	+4
+-4	1763
+1497	+2
+-2	23
+83
+September 06
+2008	Israel
+Switzerland	2
+2	World Cup qualifier
+in Israel	-3
++3	1714
+1766	+1
++1	34
+22
+September 10
+2008	Switzerland
+Luxembourg	1
+2	World Cup qualifier
+in Switzerland	-40
++40	1726
+1045	-9
++5	31
+181
+October 11
+2008	Switzerland
+Latvia	2
+1	World Cup qualifier
+in Switzerland	+5
+-5	1731
+1498	0
+-1	31
+85
+October 15
+2008	Greece
+Switzerland	1
+2	World Cup qualifier
+in Greece	-28
++28	1746
+1759	-6
++7	27
+24
+November 19
+2008	Switzerland
+Finland	1
+0	Friendly
+in Switzerland	+5
+-5	1764
+1643	+2
+0	22
+47
+February 11
+2009	Switzerland
+Bulgaria	1
+1	Friendly
+in Switzerland	-3
++3	1761
+1754	-2
++3	22
+23
+March 28
+2009	Moldova
+Switzerland	0
+2	World Cup qualifier
+in Moldova	-11
++11	1397
+1772	-2
++1	107
+21
+April 01
+2009	Switzerland
+Moldova	2
+0	World Cup qualifier
+in Switzerland	+4
+-4	1776
+1393	+3
+-1	19
+108
+August 12
+2009	Switzerland
+Italy	0
+0	Friendly
+in Switzerland	+1
+-1	1777
+1910	+1
+0	19
+6
+September 05
+2009	Switzerland
+Greece	2
+0	World Cup qualifier
+in Switzerland	+20
+-20	1797
+1731	+2
+-7	17
+35
+September 09
+2009	Latvia
+Switzerland	2
+2	World Cup qualifier
+in Latvia	+8
+-8	1552
+1789	+2
+0	65
+17
+October 10
+2009	Luxembourg
+Switzerland	0
+3	World Cup qualifier
+in Luxembourg	-2
++2	1066
+1791	-1
+-2	181
+19
+October 14
+2009	Switzerland
+Israel	0
+0	World Cup qualifier
+in Switzerland	-11
++11	1780
+1689	+1
++1	18
+42
+November 14
+2009	Switzerland
+Norway	0
+1	Friendly
+in Switzerland	-15
++15	1765
+1722	-4
++1	22
+36
+March 03
+2010	Switzerland
+Uruguay	1
+3	Friendly
+in Switzerland	-18
++18	1747
+1811	-5
+0	23
+16
+June 01
+2010	Switzerland
+Costa Rica	0
+1	Friendly
+in Switzerland	-14
++14	1733
+1693	-2
++3	26
+39
+June 05
+2010	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+2
+-2	1735
+1910	0
+0	27
+6
+June 16
+2010	Switzerland
+Spain	1
+0	World Cup
+in South Africa	+53
+-53	1788
+2032	+8
+0	17
+2
+June 21
+2010	Chile
+Switzerland	1
+0	World Cup
+in South Africa	+22
+-22	1903
+1766	0
+-5	8
+22
+June 25
+2010	Honduras
+Switzerland	0
+0	World Cup
+in South Africa	+8
+-8	1677
+1758	+3
+-1	39
+23
+August 11
+2010	Austria
+Switzerland	0
+1	Friendly
+in Austria	-7
++7	1561
+1765	-3
++2	66
+21
+September 03
+2010	Switzerland
+Australia	0
+0	Friendly
+in Switzerland	-3
++3	1762
+1755	0
+0	21
+22
+September 07
+2010	Switzerland
+England	1
+3	European Cup qualifier
+in Switzerland	-26
++26	1736
+1929	-9
+0	29
+6
+October 08
+2010	Montenegro
+Switzerland	1
+0	European Cup qualifier
+in Montenegro	+20
+-20	1650
+1716	+3
+0	45
+29
+October 12
+2010	Switzerland
+Wales	4
+1	European Cup qualifier
+in Switzerland	+12
+-12	1728
+1522	+2
+-3	27
+77
+November 17
+2010	Switzerland
+Ukraine	2
+2	Friendly
+in Switzerland	-1
++1	1727
+1782	0
+-2	27
+16
+February 09
+2011	Malta
+Switzerland	0
+0	Friendly
+in Malta	+9
+-9	1183
+1718	+2
+-4	157
+32
+March 26
+2011	Bulgaria
+Switzerland	0
+0	European Cup qualifier
+in Bulgaria	-3
++3	1665
+1721	0
++1	40
+31
+June 04
+2011	England
+Switzerland	2
+2	European Cup qualifier
+in England	-14
++14	1894
+1735	0
++3	6
+28
+August 10
+2011	Liechtenstein
+Switzerland	1
+2	Friendly
+in Liechtenstein	-2
++2	1197
+1737	+1
++1	155
+28
+September 06
+2011	Switzerland
+Bulgaria	3
+1	European Cup qualifier
+in Switzerland	+15
+-15	1752
+1632	+4
+-5	24
+50
+October 07
+2011	Wales
+Switzerland	2
+0	European Cup qualifier
+in Wales	+40
+-40	1570
+1712	+10
+-10	63
+34
+October 11
+2011	Switzerland
+Montenegro	2
+0	European Cup qualifier
+in Switzerland	+17
+-17	1729
+1627	+1
+-4	33
+49
+November 11
+2011	Netherlands
+Switzerland	0
+0	Friendly
+in the Netherlands	-8
++8	2056
+1737	0
++3	2
+30
+November 15
+2011	Luxembourg
+Switzerland	0
+1	Friendly
+in Luxembourg	-1
++1	1123
+1738	+1
+0	170
+29
+February 29
+2012	Switzerland
+Argentina	1
+3	Friendly
+in Switzerland	-13
++13	1725
+1906	-3
+0	31
+7
+May 26
+2012	Switzerland
+Germany	5
+3	Friendly
+in Switzerland	+23
+-23	1748
+2016	+3
+0	28
+4
+May 30
+2012	Switzerland
+Romania	0
+1	Friendly
+in Switzerland	-14
++14	1734
+1703	-1
++3	29
+34
+August 15
+2012	Croatia
+Switzerland	2
+4	Friendly
+in Croatia	-24
++24	1840
+1758	-1
++2	13
+25
+September 07
+2012	Slovenia
+Switzerland	0
+2	World Cup qualifier
+in Slovenia	-28
++28	1609
+1786	-8
++5	54
+20
+September 11
+2012	Switzerland
+Albania	2
+0	World Cup qualifier
+in Switzerland	+5
+-5	1791
+1482	+1
+-2	19
+87
+October 12
+2012	Switzerland
+Norway	1
+1	World Cup qualifier
+in Switzerland	-11
++11	1780
+1697	-2
++3	21
+36
+October 16
+2012	Iceland
+Switzerland	0
+2	World Cup qualifier
+in Iceland	-13
++13	1452
+1793	-2
++1	93
+20
+November 14
+2012	Tunisia
+Switzerland	1
+2	Friendly
+in Tunisia	-7
++7	1589
+1800	-3
++1	59
+19
+February 06
+2013	Greece
+Switzerland	0
+0	Friendly
+in Greece	-3
++3	1796
+1803	0
+0	20
+19
+March 23
+2013	Cyprus
+Switzerland	0
+0	World Cup qualifier
+in Cyprus	+14
+-14	1401
+1789	+2
+0	106
+19
+June 08
+2013	Switzerland
+Cyprus	1
+0	World Cup qualifier
+in Switzerland	+2
+-2	1791
+1399	0
+-1	20
+106
+August 14
+2013	Switzerland
+Brazil	1
+0	Friendly
+in Switzerland	+15
+-15	1806
+2087	+1
+-1	19
+2
+September 06
+2013	Switzerland
+Iceland	4
+4	World Cup qualifier
+in Switzerland	-17
++17	1789
+1469	-2
++5	21
+89
+September 10
+2013	Norway
+Switzerland	0
+2	World Cup qualifier
+in Norway	-30
++30	1656
+1819	-6
++3	44
+18
+October 11
+2013	Albania
+Switzerland	1
+2	World Cup qualifier
+in Albania	-9
++9	1488
+1828	-2
++1	86
+17
+October 15
+2013	Switzerland
+Slovenia	1
+0	World Cup qualifier
+in Switzerland	+6
+-6	1834
+1629	+2
+-2	15
+49
+November 15
+2013	South Korea
+Switzerland	2
+1	Friendly
+in South Korea	+12
+-12	1679
+1822	+2
+-1	40
+15
+March 05
+2014	Switzerland
+Croatia	2
+2	Friendly
+in Switzerland	-4
++4	1818
+1784	-2
+0	16
+23

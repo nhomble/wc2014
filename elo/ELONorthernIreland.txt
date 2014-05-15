@@ -1,0 +1,4311 @@
+October 20
+1923	Northern Ireland
+England	2
+1	British International Championship
+in Northern Ireland	+26
+-26	1626
+1782	-
+-4	20
+9
+March 01
+1924	Scotland
+Northern Ireland	2
+0	British International Championship
+in Scotland	+11
+-11	1793
+1615	+4
+0	4
+20
+March 15
+1924	Northern Ireland
+Wales	0
+1	British International Championship
+in Northern Ireland	-25
++25	1590
+1643	-6
++1	27
+19
+October 22
+1924	England
+Northern Ireland	3
+1	British International Championship
+in England	+11
+-11	1770
+1579	0
+0	8
+28
+February 28
+1925	Northern Ireland
+Scotland	0
+3	British International Championship
+in Northern Ireland	-23
++23	1556
+1830	-3
++1	30
+5
+April 18
+1925	Wales
+Northern Ireland	0
+0	British International Championship
+in Wales	-9
++9	1606
+1565	-3
++2	24
+28
+October 24
+1925	Northern Ireland
+England	0
+0	British International Championship
+in Northern Ireland	+6
+-6	1571
+1776	+1
+0	28
+9
+February 13
+1926	Northern Ireland
+Wales	3
+0	British International Championship
+in Northern Ireland	+27
+-27	1598
+1558	+3
+-2	25
+29
+February 27
+1926	Scotland
+Northern Ireland	4
+0	British International Championship
+in Scotland	+8
+-8	1878
+1590	0
+-1	4
+26
+October 20
+1926	England
+Northern Ireland	3
+3	British International Championship
+in England	-12
++12	1713
+1602	-1
++1	13
+26
+February 26
+1927	Northern Ireland
+Scotland	0
+2	British International Championship
+in Northern Ireland	-14
++14	1588
+1916	-1
++1	26
+2
+April 09
+1927	Wales
+Northern Ireland	2
+2	British International Championship
+in Wales	-6
++6	1598
+1594	0
++1	24
+25
+October 22
+1927	Northern Ireland
+England	2
+0	British International Championship
+in Northern Ireland	+38
+-38	1632
+1748	+8
+-2	19
+11
+February 04
+1928	Northern Ireland
+Wales	1
+2	British International Championship
+in Northern Ireland	-25
++25	1607
+1665	-5
++2	25
+17
+February 25
+1928	Scotland
+Northern Ireland	0
+1	British International Championship
+in Scotland	-36
++36	1836
+1643	-1
++5	5
+20
+October 22
+1928	England
+Northern Ireland	2
+1	British International Championship
+in England	+11
+-11	1722
+1632	0
+-1	13
+20
+February 02
+1929	Wales
+Northern Ireland	2
+2	British International Championship
+in Wales	-6
++6	1628
+1638	-1
++1	20
+19
+February 23
+1929	Northern Ireland
+Scotland	3
+7	British International Championship
+in Northern Ireland	-23
++23	1615
+1903	-2
++1	21
+3
+October 19
+1929	Northern Ireland
+England	0
+3	British International Championship
+in Northern Ireland	-31
++31	1584
+1789	-5
++1	26
+9
+February 01
+1930	Northern Ireland
+Wales	7
+0	British International Championship
+in Northern Ireland	+34
+-34	1618
+1565	+7
+-6	20
+30
+February 22
+1930	Scotland
+Northern Ireland	3
+1	British International Championship
+in Scotland	+5
+-5	1942
+1613	0
+-1	2
+21
+October 20
+1930	England
+Northern Ireland	5
+1	British International Championship
+in England	+10
+-10	1856
+1603	+2
+-3	5
+23
+February 21
+1931	Northern Ireland
+Scotland	0
+0	British International Championship
+in Northern Ireland	+10
+-10	1613
+1879	+2
+0	22
+4
+April 22
+1931	Wales
+Northern Ireland	3
+2	British International Championship
+in Wales	+17
+-17	1579
+1596	+1
+-5	30
+27
+September 19
+1931	Scotland
+Northern Ireland	3
+1	British International Championship
+in Scotland	+6
+-6	1881
+1590	0
+-1	5
+28
+October 17
+1931	Northern Ireland
+England	2
+6	British International Championship
+in Northern Ireland	-23
++23	1567
+1858	-3
++1	31
+6
+December 05
+1931	Northern Ireland
+Wales	4
+0	British International Championship
+in Northern Ireland	+27
+-27	1594
+1536	+3
+-1	27
+32
+September 17
+1932	Northern Ireland
+Scotland	0
+4	British International Championship
+in Northern Ireland	-20
++20	1574
+1891	-3
+0	30
+6
+October 17
+1932	England
+Northern Ireland	1
+0	British International Championship
+in England	+3
+-3	1907
+1571	0
+-1	5
+30
+December 07
+1932	Wales
+Northern Ireland	4
+1	British International Championship
+in Wales	+22
+-22	1634
+1549	+2
+-2	21
+33
+September 16
+1933	Scotland
+Northern Ireland	1
+2	British International Championship
+in Scotland	-36
++36	1809
+1585	-2
++2	8
+31
+October 14
+1933	Northern Ireland
+England	0
+3	British International Championship
+in Northern Ireland	-16
++16	1569
+1914	-2
+0	32
+5
+November 04
+1933	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	-1
++1	1568
+1659	0
+0	32
+18
+October 20
+1934	Northern Ireland
+Scotland	2
+1	British International Championship
+in Northern Ireland	+26
+-26	1594
+1743	+3
+-2	29
+12
+February 06
+1935	England
+Northern Ireland	2
+1	British International Championship
+in England	+3
+-3	1919
+1591	0
+0	3
+28
+March 27
+1935	Wales
+Northern Ireland	3
+1	British International Championship
+in Wales	+17
+-17	1671
+1574	0
+-1	17
+29
+October 19
+1935	Northern Ireland
+England	1
+3	British International Championship
+in Northern Ireland	-13
++13	1561
+1902	-2
+0	31
+5
+November 13
+1935	Scotland
+Northern Ireland	2
+1	British International Championship
+in Scotland	+5
+-5	1794
+1556	0
+-2	10
+34
+March 11
+1936	Northern Ireland
+Wales	3
+2	British International Championship
+in Northern Ireland	+23
+-23	1579
+1684	+4
+-1	29
+17
+October 31
+1936	Northern Ireland
+Scotland	1
+3	British International Championship
+in Northern Ireland	-19
++19	1560
+1833	-2
+0	34
+6
+November 18
+1936	England
+Northern Ireland	3
+1	British International Championship
+in England	+8
+-8	1803
+1552	+1
+-2	7
+36
+March 17
+1937	Wales
+Northern Ireland	4
+1	British International Championship
+in Wales	+11
+-11	1748
+1541	0
+-1	13
+36
+October 23
+1937	Northern Ireland
+England	1
+5	British International Championship
+in Northern Ireland	-18
++18	1523
+1854	-1
++1	35
+4
+November 10
+1937	Scotland
+Northern Ireland	1
+1	British International Championship
+in Scotland	-16
++16	1813
+1539	-2
++2	7
+35
+March 16
+1938	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+27
+-27	1566
+1731	+1
+0	35
+14
+October 08
+1938	Northern Ireland
+Scotland	0
+2	British International Championship
+in Northern Ireland	-14
++14	1552
+1880	0
++2	35
+3
+November 16
+1938	England
+Northern Ireland	7
+0	British International Championship
+in England	+9
+-9	1840
+1543	0
+0	7
+35
+March 15
+1939	Wales
+Northern Ireland	3
+1	British International Championship
+in Wales	+9
+-9	1763
+1534	0
+0	14
+35
+September 28
+1946	Northern Ireland
+England	2
+7	British International Championship
+in Northern Ireland	-17
++17	1517
+1885	-2
++1	41
+4
+November 27
+1946	Scotland
+Northern Ireland	0
+0	British International Championship
+in Scotland	-17
++17	1821
+1534	0
++2	7
+39
+April 16
+1947	Northern Ireland
+Wales	2
+1	British International Championship
+in Northern Ireland	+27
+-27	1561
+1741	+2
+-3	36
+15
+October 04
+1947	Northern Ireland
+Scotland	2
+0	British International Championship
+in Northern Ireland	+43
+-43	1604
+1773	+7
+-4	29
+13
+November 05
+1947	England
+Northern Ireland	2
+2	British International Championship
+in England	-17
++17	1924
+1621	-1
++3	4
+26
+March 10
+1948	Wales
+Northern Ireland	2
+0	British International Championship
+in Wales	+13
+-13	1755
+1608	+3
+-3	14
+29
+October 09
+1948	Northern Ireland
+England	2
+6	British International Championship
+in Northern Ireland	-13
++13	1595
+1988	0
++1	30
+2
+November 17
+1948	Scotland
+Northern Ireland	3
+2	British International Championship
+in Scotland	+8
+-8	1751
+1587	0
+0	14
+30
+March 09
+1949	Northern Ireland
+Wales	0
+2	British International Championship
+in Northern Ireland	-28
++28	1559
+1736	-6
++2	36
+15
+October 01
+1949	Northern Ireland
+Scotland	2
+8	World Cup qualifier
+in Northern Ireland	-25
++25	1534
+1835	-3
++1	38
+9
+November 16
+1949	England
+Northern Ireland	9
+2	World Cup qualifier
+in England	+5
+-5	1945
+1529	0
+-2	4
+41
+March 08
+1950	Wales
+Northern Ireland	0
+0	World Cup qualifier
+in Wales	-12
++12	1655
+1541	0
++2	21
+41
+October 07
+1950	Northern Ireland
+England	1
+4	British International Championship
+in Northern Ireland	-13
++13	1528
+1919	0
+0	41
+4
+November 01
+1950	Scotland
+Northern Ireland	6
+1	British International Championship
+in Scotland	+6
+-6	1866
+1522	0
+-2	7
+43
+March 07
+1951	Northern Ireland
+Wales	1
+2	British International Championship
+in Northern Ireland	-20
++20	1502
+1646	-2
++1	45
+25
+May 12
+1951	Northern Ireland
+France	2
+2	Friendly
+in Northern Ireland	+1
+-1	1503
+1648	0
+-1	45
+25
+October 06
+1951	Northern Ireland
+Scotland	0
+3	British International Championship
+in Northern Ireland	-12
++12	1491
+1892	-4
+0	49
+5
+November 14
+1951	England
+Northern Ireland	2
+0	British International Championship
+in England	+3
+-3	1892
+1488	+1
+0	4
+49
+March 19
+1952	Wales
+Northern Ireland	3
+0	British International Championship
+in Wales	+10
+-10	1713
+1478	+2
+-4	17
+53
+October 04
+1952	Northern Ireland
+England	2
+2	British International Championship
+in Northern Ireland	+15
+-15	1493
+1920	+4
+-1	48
+5
+November 05
+1952	Scotland
+Northern Ireland	1
+1	British International Championship
+in Scotland	-17
++17	1835
+1510	-2
++4	9
+44
+November 11
+1952	France
+Northern Ireland	3
+1	Friendly
+in France	+4
+-4	1717
+1506	0
+0	18
+44
+April 15
+1953	Northern Ireland
+Wales	2
+3	British International Championship
+in Northern Ireland	-16
++16	1490
+1701	-6
++2	51
+18
+October 03
+1953	Northern Ireland
+Scotland	1
+3	World Cup qualifier
+in Northern Ireland	-12
++12	1478
+1843	-1
++2	53
+9
+November 11
+1953	England
+Northern Ireland	3
+1	World Cup qualifier
+in England	+2
+-2	1949
+1476	0
+0	3
+53
+March 31
+1954	Wales
+Northern Ireland	1
+2	World Cup qualifier
+in Wales	-34
++34	1640
+1510	-4
++9	26
+45
+October 02
+1954	Northern Ireland
+England	0
+2	British International Championship
+in Northern Ireland	-10
++10	1500
+1909	0
++2	46
+5
+November 03
+1954	Scotland
+Northern Ireland	2
+2	British International Championship
+in Scotland	-15
++15	1729
+1515	0
++1	15
+45
+April 20
+1955	Northern Ireland
+Wales	2
+3	British International Championship
+in Northern Ireland	-21
++21	1494
+1621	-7
++2	52
+29
+October 08
+1955	Northern Ireland
+Scotland	2
+1	British International Championship
+in Northern Ireland	+29
+-29	1523
+1723	+9
+-2	44
+18
+November 02
+1955	England
+Northern Ireland	3
+0	British International Championship
+in England	+5
+-5	1887
+1518	0
+0	6
+44
+April 11
+1956	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-11
++11	1618
+1529	-1
+0	29
+45
+October 06
+1956	Northern Ireland
+England	1
+1	British International Championship
+in Northern Ireland	+14
+-14	1543
+1913	+4
+0	42
+4
+November 07
+1956	Scotland
+Northern Ireland	1
+0	British International Championship
+in Scotland	+6
+-6	1747
+1537	+1
+-1	17
+44
+January 16
+1957	Portugal
+Northern Ireland	1
+1	World Cup qualifier
+in Portugal	-11
++11	1630
+1548	-4
++1	27
+42
+April 10
+1957	Northern Ireland
+Wales	0
+0	British International Championship
+in Northern Ireland	-2
++2	1546
+1615	0
+0	42
+30
+April 25
+1957	Italy
+Northern Ireland	1
+0	World Cup qualifier
+in Italy	+4
+-4	1847
+1542	0
+0	7
+42
+May 01
+1957	Northern Ireland
+Portugal	3
+0	World Cup qualifier
+in Northern Ireland	+33
+-33	1575
+1589	+6
+-5	36
+33
+October 05
+1957	Northern Ireland
+Scotland	1
+1	British International Championship
+in Northern Ireland	+6
+-6	1581
+1780	+1
+0	37
+16
+November 06
+1957	England
+Northern Ireland	2
+3	British International Championship
+in England	-38
++38	1928
+1619	-1
++9	4
+32
+December 04
+1957	Northern Ireland
+Italy	2
+2	Friendly
+in Northern Ireland	+1
+-1	1620
+1764	+1
+0	32
+16
+January 15
+1958	Northern Ireland
+Italy	2
+1	World Cup qualifier
+in Northern Ireland	+23
+-23	1643
+1756	+4
+-2	27
+17
+April 16
+1958	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-6
++6	1653
+1649	0
++1	25
+26
+June 08
+1958	Northern Ireland
+Czechoslovakia	1
+0	World Cup
+in Sweden	+45
+-45	1694
+1798	+4
+-5	22
+13
+June 11
+1958	Argentina
+Northern Ireland	3
+1	World Cup
+in Sweden	+17
+-17	1964
+1677	0
+-4	3
+26
+June 15
+1958	Northern Ireland
+West Germany	2
+2	World Cup
+in Sweden	+18
+-18	1695
+1898	+3
++1	23
+4
+June 17
+1958	Northern Ireland
+Czechoslovakia	2
+1	World Cup
+in Sweden	+46
+-46	1741
+1848	+3
+-4	20
+9
+June 19
+1958	France
+Northern Ireland	4
+0	World Cup
+in Sweden	+42
+-42	1872
+1699	+3
+-3	7
+23
+October 04
+1958	Northern Ireland
+England	3
+3	British International Championship
+in Northern Ireland	+5
+-5	1704
+1887	+1
+0	22
+4
+October 15
+1958	Spain
+Northern Ireland	6
+2	Friendly
+in Spain	+8
+-8	1826
+1696	+2
+-1	10
+23
+November 05
+1958	Scotland
+Northern Ireland	2
+2	British International Championship
+in Scotland	-8
++8	1742
+1704	-1
+0	19
+22
+April 22
+1959	Northern Ireland
+Wales	4
+1	British International Championship
+in Northern Ireland	+25
+-25	1729
+1679	+3
+-2	21
+26
+October 03
+1959	Northern Ireland
+Scotland	0
+4	British International Championship
+in Northern Ireland	-47
++47	1682
+1788	-3
++7	25
+14
+November 18
+1959	England
+Northern Ireland	2
+1	British International Championship
+in England	+7
+-7	1850
+1675	+1
+-1	7
+27
+April 06
+1960	Wales
+Northern Ireland	3
+2	British International Championship
+in Wales	+13
+-13	1708
+1662	0
+-2	22
+28
+October 08
+1960	Northern Ireland
+England	2
+5	British International Championship
+in Northern Ireland	-28
++28	1634
+1856	-6
++1	33
+9
+October 26
+1960	Northern Ireland
+West Germany	3
+4	World Cup qualifier
+in Northern Ireland	-16
++16	1618
+1821	-2
++1	36
+11
+November 09
+1960	Scotland
+Northern Ireland	5
+2	British International Championship
+in Scotland	+17
+-17	1731
+1601	+1
+-3	21
+39
+April 12
+1961	Northern Ireland
+Wales	1
+5	British International Championship
+in Northern Ireland	-35
++35	1566
+1763	-6
++3	45
+18
+April 25
+1961	Italy
+Northern Ireland	3
+2	Friendly
+in Italy	+3
+-3	1740
+1563	0
+-1	19
+46
+May 03
+1961	Greece
+Northern Ireland	2
+1	World Cup qualifier
+in Greece	+22
+-22	1449
+1541	+7
+-2	69
+48
+May 10
+1961	West Germany
+Northern Ireland	2
+1	World Cup qualifier
+in West Germany	+4
+-4	1811
+1537	0
+0	11
+48
+October 07
+1961	Northern Ireland
+Scotland	1
+6	British International Championship
+in Northern Ireland	-24
++24	1513
+1808	-5
++4	53
+13
+October 17
+1961	Northern Ireland
+Greece	2
+0	World Cup qualifier
+in Northern Ireland	+17
+-17	1530
+1432	+4
+-6	49
+74
+November 22
+1961	England
+Northern Ireland	1
+1	British International Championship
+in England	-18
++18	1885
+1548	0
++2	8
+48
+April 11
+1962	Wales
+Northern Ireland	4
+0	British International Championship
+in Wales	+12
+-12	1750
+1536	0
+-1	19
+49
+May 09
+1962	Netherlands
+Northern Ireland	4
+0	Friendly
+in the Netherlands	+10
+-10	1615
+1526	+5
+0	36
+49
+October 10
+1962	Poland
+Northern Ireland	0
+2	European Cup qualifier
+in Poland	-48
++48	1618
+1574	-7
++5	33
+46
+October 20
+1962	Northern Ireland
+England	1
+3	British International Championship
+in Northern Ireland	-15
++15	1559
+1874	-1
++1	48
+8
+November 07
+1962	Scotland
+Northern Ireland	5
+1	British International Championship
+in Scotland	+7
+-7	1848
+1552	0
+-1	10
+49
+November 28
+1962	Northern Ireland
+Poland	2
+0	European Cup qualifier
+in Northern Ireland	+27
+-27	1579
+1586	+6
+-7	43
+41
+April 03
+1963	Northern Ireland
+Wales	1
+4	British International Championship
+in Northern Ireland	-33
++33	1546
+1735	-5
++3	51
+21
+May 30
+1963	Spain
+Northern Ireland	1
+1	European Cup qualifier
+in Spain	-16
++16	1827
+1562	-2
++4	12
+49
+October 12
+1963	Northern Ireland
+Scotland	2
+1	British International Championship
+in Northern Ireland	+31
+-31	1593
+1844	+6
+-4	43
+11
+October 30
+1963	Northern Ireland
+Spain	0
+1	European Cup qualifier
+in Northern Ireland	-14
++14	1579
+1818	-1
++2	44
+12
+November 20
+1963	England
+Northern Ireland	8
+3	British International Championship
+in England	+7
+-7	1902
+1572	+1
+-2	4
+47
+April 15
+1964	Wales
+Northern Ireland	2
+3	British International Championship
+in Wales	-31
++31	1661
+1603	-2
++7	28
+38
+April 29
+1964	Northern Ireland
+Uruguay	3
+0	Friendly
+in Northern Ireland	+23
+-23	1626
+1799	+6
+-1	32
+14
+October 03
+1964	Northern Ireland
+England	3
+4	British International Championship
+in Northern Ireland	-12
++12	1614
+1879	-3
++2	38
+5
+October 14
+1964	Northern Ireland
+Switzerland	1
+0	World Cup qualifier
+in Northern Ireland	+10
+-10	1624
+1505	+3
+-2	34
+61
+November 14
+1964	Switzerland
+Northern Ireland	2
+1	World Cup qualifier
+in Switzerland	+21
+-21	1526
+1603	+6
+-8	54
+42
+November 25
+1964	Scotland
+Northern Ireland	3
+2	British International Championship
+in Scotland	+5
+-5	1853
+1598	+1
+-1	8
+43
+March 17
+1965	Northern Ireland
+Netherlands	2
+1	World Cup qualifier
+in Northern Ireland	+16
+-16	1614
+1612	+4
+-7	39
+40
+March 31
+1965	Northern Ireland
+Wales	0
+5	British International Championship
+in Northern Ireland	-48
++48	1566
+1688	-8
++3	45
+27
+April 07
+1965	Netherlands
+Northern Ireland	0
+0	World Cup qualifier
+in the Netherlands	-8
++8	1604
+1574	-4
+0	40
+45
+May 07
+1965	Northern Ireland
+Albania	4
+1	World Cup qualifier
+in Northern Ireland	+11
+-11	1585
+1363	+4
+-6	41
+100
+October 02
+1965	Northern Ireland
+Scotland	3
+2	British International Championship
+in Northern Ireland	+29
+-29	1614
+1825	+9
+-6	36
+12
+November 10
+1965	England
+Northern Ireland	2
+1	British International Championship
+in England	+4
+-4	1880
+1610	0
+-1	4
+38
+November 24
+1965	Albania
+Northern Ireland	1
+1	World Cup qualifier
+in Albania	+8
+-8	1371
+1602	+4
+-2	93
+39
+March 30
+1966	Wales
+Northern Ireland	1
+4	British International Championship
+in Wales	-53
++53	1650
+1655	-5
++6	34
+33
+May 07
+1966	Northern Ireland
+West Germany	0
+2	Friendly
+in Northern Ireland	-10
++10	1645
+1893	-2
+0	35
+6
+June 22
+1966	Northern Ireland
+Mexico	4
+1	Friendly
+in Northern Ireland	+23
+-23	1668
+1838	+2
+-2	32
+10
+October 22
+1966	Northern Ireland
+England	0
+2	European Cup qualifier
+in Northern Ireland	-11
++11	1657
+2041	0
+0	33
+1
+November 16
+1966	Scotland
+Northern Ireland	2
+1	European Cup qualifier
+in Scotland	+10
+-10	1754
+1647	+1
+0	19
+33
+April 12
+1967	Northern Ireland
+Wales	0
+0	European Cup qualifier
+in Northern Ireland	-6
++6	1641
+1639	0
+0	32
+33
+October 21
+1967	Northern Ireland
+Scotland	1
+0	European Cup qualifier
+in Northern Ireland	+22
+-22	1663
+1753	+1
+-3	31
+18
+November 22
+1967	England
+Northern Ireland	2
+0	European Cup qualifier
+in England	+4
+-4	2028
+1659	0
+-1	1
+32
+February 28
+1968	Wales
+Northern Ireland	2
+0	European Cup qualifier
+in Wales	+25
+-25	1643
+1634	+5
+-5	33
+37
+September 10
+1968	Israel
+Northern Ireland	2
+3	Friendly
+in Israel	-9
++9	1475
+1643	-1
++1	71
+34
+October 23
+1968	Northern Ireland
+Turkey	4
+1	World Cup qualifier
+in Northern Ireland	+22
+-22	1665
+1581	+4
+-4	29
+45
+December 11
+1968	Turkey
+Northern Ireland	0
+3	World Cup qualifier
+in Turkey	-37
++37	1544
+1702	-12
++5	57
+25
+May 03
+1969	Northern Ireland
+England	1
+3	British International Championship
+in Northern Ireland	-15
++15	1687
+2015	-3
+0	28
+1
+May 06
+1969	Scotland
+Northern Ireland	1
+1	British International Championship
+in Scotland	-12
++12	1812
+1699	-1
++2	12
+26
+May 10
+1969	Northern Ireland
+Wales	0
+0	British International Championship
+in Northern Ireland	-10
++10	1689
+1622	-1
++1	27
+37
+September 10
+1969	Northern Ireland
+Soviet Union	0
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1696
+1910	+1
+0	26
+6
+October 22
+1969	Soviet Union
+Northern Ireland	2
+0	World Cup qualifier
+in the Soviet Union	+8
+-8	1936
+1688	0
+-3	4
+28
+April 18
+1970	Northern Ireland
+Scotland	0
+1	British International Championship
+in Northern Ireland	-22
++22	1666
+1783	-6
++4	33
+13
+April 21
+1970	England
+Northern Ireland	3
+1	British International Championship
+in England	+4
+-4	2022
+1662	0
+-1	1
+34
+April 25
+1970	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+16
+-16	1641
+1646	+4
+0	36
+34
+November 11
+1970	Spain
+Northern Ireland	3
+0	European Cup qualifier
+in Spain	+14
+-14	1803
+1632	+3
+-3	10
+39
+February 03
+1971	Cyprus
+Northern Ireland	0
+3	European Cup qualifier
+in Cyprus	-18
++18	1325
+1650	-3
++4	107
+35
+April 21
+1971	Northern Ireland
+Cyprus	5
+0	European Cup qualifier
+in Northern Ireland	+6
+-6	1656
+1319	0
+-1	35
+108
+May 15
+1971	Northern Ireland
+England	0
+1	British International Championship
+in Northern Ireland	-8
++8	1648
+2001	0
++1	35
+2
+May 18
+1971	Scotland
+Northern Ireland	0
+1	British International Championship
+in Scotland	-29
++29	1696
+1677	-4
++6	27
+29
+May 22
+1971	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+12
+-12	1689
+1621	+1
+-2	28
+41
+September 22
+1971	Soviet Union
+Northern Ireland	1
+0	European Cup qualifier
+in the Soviet Union	+5
+-5	1942
+1684	0
+0	5
+28
+October 13
+1971	Northern Ireland
+Soviet Union	1
+1	European Cup qualifier
+in Northern Ireland	+9
+-9	1693
+1933	0
+0	30
+5
+February 16
+1972	Northern Ireland
+Spain	1
+1	European Cup qualifier
+in Northern Ireland	+2
+-2	1695
+1823	+1
+0	30
+9
+May 20
+1972	Scotland
+Northern Ireland	2
+0	British International Championship
+in Scotland	+21
+-21	1727
+1674	+4
+-4	24
+34
+May 23
+1972	England
+Northern Ireland	0
+1	British International Championship
+in England	-36
++36	1941
+1710	-1
++7	4
+27
+May 27
+1972	Wales
+Northern Ireland	0
+0	British International Championship
+in Wales	+1
+-1	1598
+1709	0
+0	45
+27
+October 18
+1972	Bulgaria
+Northern Ireland	3
+0	World Cup qualifier
+in Bulgaria	+23
+-23	1758
+1686	+2
+-1	22
+28
+February 14
+1973	Cyprus
+Northern Ireland	1
+0	World Cup qualifier
+in Cyprus	+34
+-34	1322
+1652	+10
+-7	109
+35
+March 28
+1973	Northern Ireland
+Portugal	1
+1	World Cup qualifier
+in England	+11
+-11	1663
+1864	+1
+0	32
+8
+May 08
+1973	Northern Ireland
+Cyprus	3
+0	World Cup qualifier
+in England	+9
+-9	1672
+1313	+1
+-2	30
+111
+May 12
+1973	England
+Northern Ireland	2
+1	British International Championship
+in England	+4
+-4	1961
+1668	0
+0	3
+29
+May 16
+1973	Scotland
+Northern Ireland	1
+2	British International Championship
+in Scotland	-31
++31	1757
+1699	-6
++3	22
+27
+May 19
+1973	Northern Ireland
+Wales	1
+0	British International Championship
+in England	+15
+-15	1714
+1604	0
+-1	27
+41
+September 26
+1973	Northern Ireland
+Bulgaria	0
+0	World Cup qualifier
+in Northern Ireland	-2
++2	1712
+1774	0
++2	27
+18
+November 14
+1973	Portugal
+Northern Ireland	1
+1	World Cup qualifier
+in Portugal	-11
++11	1824
+1723	-2
+0	13
+27
+May 11
+1974	Scotland
+Northern Ireland	0
+1	British International Championship
+in Scotland	-27
++27	1717
+1750	-5
++5	28
+23
+May 15
+1974	England
+Northern Ireland	1
+0	British International Championship
+in England	+6
+-6	1947
+1744	0
+0	4
+22
+May 18
+1974	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+24
+-24	1597
+1720	+4
+-6	41
+28
+September 04
+1974	Norway
+Northern Ireland	2
+1	European Cup qualifier
+in Norway	+31
+-31	1435
+1689	+9
+-2	78
+28
+October 30
+1974	Sweden
+Northern Ireland	0
+2	European Cup qualifier
+in Sweden	-48
++48	1783
+1737	-5
++4	18
+25
+March 16
+1975	Northern Ireland
+Yugoslavia	1
+0	European Cup qualifier
+in Northern Ireland	+22
+-22	1759
+1844	+1
+-2	22
+10
+May 17
+1975	Northern Ireland
+England	0
+0	British International Championship
+in Northern Ireland	+5
+-5	1764
+1939	+1
+0	21
+5
+May 20
+1975	Scotland
+Northern Ireland	3
+0	British International Championship
+in Scotland	+19
+-19	1858
+1745	+4
+-1	8
+22
+May 23
+1975	Northern Ireland
+Wales	1
+0	British International Championship
+in Northern Ireland	+12
+-12	1757
+1685	0
+0	22
+29
+September 03
+1975	Northern Ireland
+Sweden	1
+2	European Cup qualifier
+in Northern Ireland	-24
++24	1733
+1805	0
++4	22
+16
+October 29
+1975	Northern Ireland
+Norway	3
+0	European Cup qualifier
+in Northern Ireland	+6
+-6	1739
+1400	0
+0	23
+87
+November 19
+1975	Yugoslavia
+Northern Ireland	1
+0	European Cup qualifier
+in Yugoslavia	+7
+-7	1918
+1732	0
+0	6
+23
+March 03
+1976	Israel
+Northern Ireland	1
+1	Friendly
+in Israel	-2
++2	1692
+1734	0
+0	28
+24
+May 08
+1976	Scotland
+Northern Ireland	3
+0	British International Championship
+in Scotland	+15
+-15	1874
+1719	+1
+-1	9
+27
+May 11
+1976	England
+Northern Ireland	4
+0	British International Championship
+in England	+10
+-10	1956
+1709	0
+0	4
+27
+May 14
+1976	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+17
+-17	1682
+1692	+1
+-1	30
+28
+October 13
+1976	Netherlands
+Northern Ireland	2
+2	World Cup qualifier
+in the Netherlands	-17
++17	1986
+1709	0
+0	3
+27
+November 10
+1976	Belgium
+Northern Ireland	2
+0	World Cup qualifier
+in Belgium	+14
+-14	1829
+1695	+1
+-1	14
+28
+April 27
+1977	West Germany
+Northern Ireland	5
+0	Friendly
+in West Germany	+2
+-2	2073
+1693	0
+0	1
+28
+May 28
+1977	Northern Ireland
+England	1
+2	British International Championship
+in Northern Ireland	-14
++14	1679
+1912	-4
++1	32
+5
+June 01
+1977	Scotland
+Northern Ireland	3
+0	British International Championship
+in Scotland	+10
+-10	1896
+1669	0
+-1	7
+33
+June 03
+1977	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	0
+0	1669
+1765	0
+0	33
+22
+June 11
+1977	Iceland
+Northern Ireland	1
+0	World Cup qualifier
+in Iceland	+32
+-32	1362
+1637	+6
+-4	100
+37
+September 21
+1977	Northern Ireland
+Iceland	2
+0	World Cup qualifier
+in Northern Ireland	+6
+-6	1643
+1357	0
+-2	38
+100
+October 12
+1977	Northern Ireland
+Netherlands	0
+1	World Cup qualifier
+in Northern Ireland	-7
++7	1636
+2027	0
++1	38
+2
+November 16
+1977	Northern Ireland
+Belgium	3
+0	World Cup qualifier
+in Northern Ireland	+41
+-41	1677
+1758	+3
+-4	35
+21
+May 13
+1978	Scotland
+Northern Ireland	1
+1	British International Championship
+in Scotland	-16
++16	1935
+1693	0
++4	4
+28
+May 16
+1978	England
+Northern Ireland	1
+0	British International Championship
+in England	+6
+-6	1914
+1687	+1
+-1	6
+29
+May 19
+1978	Wales
+Northern Ireland	1
+0	British International Championship
+in Wales	+11
+-11	1756
+1676	+1
+-3	23
+32
+September 20
+1978	Ireland
+Northern Ireland	0
+0	European Cup qualifier
+in Ireland	-5
++5	1664
+1681	0
++1	34
+32
+October 25
+1978	Northern Ireland
+Denmark	2
+1	European Cup qualifier
+in Northern Ireland	+10
+-10	1691
+1576	+2
+-2	30
+49
+November 29
+1978	Bulgaria
+Northern Ireland	0
+2	European Cup qualifier
+in Bulgaria	-37
++37	1641
+1728	-3
++4	36
+27
+February 07
+1979	England
+Northern Ireland	4
+0	European Cup qualifier
+in England	+10
+-10	1962
+1718	+1
+0	5
+27
+May 02
+1979	Northern Ireland
+Bulgaria	2
+0	European Cup qualifier
+in Northern Ireland	+16
+-16	1734
+1633	+1
+-1	26
+37
+May 19
+1979	Northern Ireland
+England	0
+2	British International Championship
+in Northern Ireland	-19
++19	1715
+1981	-1
++2	27
+4
+May 22
+1979	Scotland
+Northern Ireland	1
+0	British International Championship
+in Scotland	+10
+-10	1817
+1705	0
+0	15
+27
+May 26
+1979	Northern Ireland
+Wales	1
+1	British International Championship
+in Northern Ireland	-1
++1	1704
+1794	0
+0	27
+18
+June 06
+1979	Denmark
+Northern Ireland	4
+0	European Cup qualifier
+in Denmark	+42
+-42	1604
+1662	+9
+-6	47
+33
+October 17
+1979	Northern Ireland
+England	1
+5	European Cup qualifier
+in Northern Ireland	-17
++17	1645
+1997	-4
++1	35
+3
+November 21
+1979	Northern Ireland
+Ireland	1
+0	European Cup qualifier
+in Northern Ireland	+17
+-17	1662
+1671	+3
+-1	32
+30
+March 26
+1980	Israel
+Northern Ireland	0
+0	World Cup qualifier
+in Israel	-7
++7	1690
+1669	-1
++1	29
+34
+May 16
+1980	Northern Ireland
+Scotland	1
+0	British International Championship
+in Northern Ireland	+20
+-20	1689
+1755	+4
+-3	30
+21
+May 20
+1980	England
+Northern Ireland	1
+1	British International Championship
+in England	-16
++16	1960
+1705	0
++3	4
+27
+May 23
+1980	Wales
+Northern Ireland	0
+1	British International Championship
+in Wales	-30
++30	1768
+1735	-3
++2	20
+25
+June 11
+1980	Australia
+Northern Ireland	1
+2	Friendly
+in Australia	-11
++11	1662
+1746	-3
++2	36
+22
+June 15
+1980	Australia
+Northern Ireland	1
+1	Friendly
+in Australia	0
+0	1662
+1746	0
+0	36
+22
+June 18
+1980	Australia
+Northern Ireland	1
+2	Friendly
+in Australia	-10
++10	1652
+1756	0
+0	36
+22
+October 15
+1980	Northern Ireland
+Sweden	3
+0	World Cup qualifier
+in Northern Ireland	+14
+-14	1770
+1599	+2
+-3	20
+47
+November 19
+1980	Portugal
+Northern Ireland	1
+0	World Cup qualifier
+in Portugal	+15
+-15	1780
+1755	+1
+-1	20
+21
+March 25
+1981	Scotland
+Northern Ireland	1
+1	World Cup qualifier
+in Scotland	-6
++6	1763
+1761	0
+0	22
+23
+April 29
+1981	Northern Ireland
+Portugal	1
+0	World Cup qualifier
+in Northern Ireland	+16
+-16	1777
+1774	+2
+-4	21
+23
+May 19
+1981	Scotland
+Northern Ireland	2
+0	British International Championship
+in Scotland	+23
+-23	1782
+1754	+4
+-4	20
+24
+June 03
+1981	Sweden
+Northern Ireland	1
+0	World Cup qualifier
+in Sweden	+24
+-24	1616
+1730	+6
+-1	41
+25
+October 14
+1981	Northern Ireland
+Scotland	0
+0	World Cup qualifier
+in Northern Ireland	0
+0	1730
+1825	0
++2	25
+14
+November 18
+1981	Northern Ireland
+Israel	1
+0	World Cup qualifier
+in Northern Ireland	+11
+-11	1741
+1656	0
+-1	24
+36
+February 23
+1982	England
+Northern Ireland	4
+0	British International Championship
+in England	+17
+-17	1870
+1724	+3
+-1	8
+25
+March 24
+1982	France
+Northern Ireland	4
+0	Friendly
+in France	+8
+-8	1872
+1716	+2
+0	7
+25
+April 28
+1982	Northern Ireland
+Scotland	1
+1	British International Championship
+in Northern Ireland	-1
++1	1715
+1802	0
+0	26
+17
+May 27
+1982	Wales
+Northern Ireland	3
+0	British International Championship
+in Wales	+20
+-20	1791
+1695	0
+-4	19
+30
+June 17
+1982	Northern Ireland
+Yugoslavia	0
+0	World Cup
+in Spain	+14
+-14	1709
+1858	+2
+-2	26
+10
+June 21
+1982	Honduras
+Northern Ireland	1
+1	World Cup
+in Spain	+10
+-10	1594
+1699	+5
+-2	46
+27
+June 25
+1982	Spain
+Northern Ireland	0
+1	World Cup
+in Spain	-48
++48	1799
+1747	-7
++3	18
+23
+July 01
+1982	Austria
+Northern Ireland	2
+2	World Cup
+in Spain	-9
++9	1846
+1756	-1
++1	11
+22
+July 04
+1982	France
+Northern Ireland	4
+1	World Cup
+in Spain	+37
+-37	1898
+1719	+2
+-2	6
+24
+October 13
+1982	Austria
+Northern Ireland	2
+0	European Cup qualifier
+in Austria	+13
+-13	1862
+1706	+1
+-2	9
+27
+November 17
+1982	Northern Ireland
+West Germany	1
+0	European Cup qualifier
+in Northern Ireland	+30
+-30	1736
+1968	+2
+-3	25
+5
+December 15
+1982	Albania
+Northern Ireland	0
+0	European Cup qualifier
+in Albania	+13
+-13	1376
+1723	+2
+0	93
+24
+March 30
+1983	Northern Ireland
+Turkey	2
+1	European Cup qualifier
+in Northern Ireland	+5
+-5	1728
+1477	0
+-2	24
+75
+April 27
+1983	Northern Ireland
+Albania	1
+0	European Cup qualifier
+in Northern Ireland	+3
+-3	1731
+1371	0
+-1	24
+96
+May 24
+1983	Scotland
+Northern Ireland	0
+0	British International Championship
+in Scotland	-8
++8	1771
+1739	0
++2	19
+22
+May 28
+1983	Northern Ireland
+England	0
+0	British International Championship
+in Northern Ireland	+7
+-7	1746
+1966	0
+0	22
+3
+May 31
+1983	Northern Ireland
+Wales	0
+1	British International Championship
+in Northern Ireland	-24
++24	1722
+1797	-4
++3	26
+16
+September 21
+1983	Northern Ireland
+Austria	3
+1	European Cup qualifier
+in Northern Ireland	+34
+-34	1756
+1838	+3
+0	23
+10
+October 12
+1983	Turkey
+Northern Ireland	1
+0	European Cup qualifier
+in Turkey	+30
+-30	1500
+1726	+11
+-3	66
+26
+November 16
+1983	West Germany
+Northern Ireland	0
+1	European Cup qualifier
+in West Germany	-36
++36	1949
+1762	-1
++3	3
+25
+December 13
+1983	Northern Ireland
+Scotland	2
+0	British International Championship
+in Northern Ireland	+26
+-26	1788
+1787	+5
+-8	20
+21
+April 04
+1984	England
+Northern Ireland	1
+0	British International Championship
+in England	+8
+-8	1949
+1780	0
+0	3
+22
+May 22
+1984	Wales
+Northern Ireland	1
+1	British International Championship
+in Wales	-6
++6	1786
+1786	-1
++1	22
+22
+May 27
+1984	Finland
+Northern Ireland	1
+0	World Cup qualifier
+in Finland	+33
+-33	1443
+1753	+5
+-3	83
+25
+September 12
+1984	Northern Ireland
+Romania	3
+2	World Cup qualifier
+in Northern Ireland	+15
+-15	1768
+1740	+4
+0	20
+23
+October 16
+1984	Northern Ireland
+Israel	3
+0	Friendly
+in Northern Ireland	+9
+-9	1777
+1668	0
+-1	20
+37
+November 14
+1984	Northern Ireland
+Finland	2
+1	World Cup qualifier
+in Northern Ireland	+3
+-3	1780
+1454	-1
+0	21
+80
+February 27
+1985	Northern Ireland
+England	0
+1	World Cup qualifier
+in Northern Ireland	-17
++17	1763
+1948	-1
++1	21
+3
+March 27
+1985	Spain
+Northern Ireland	0
+0	Friendly
+in Spain	-5
++5	1840
+1768	-1
++1	9
+21
+May 01
+1985	Northern Ireland
+Turkey	2
+0	World Cup qualifier
+in Northern Ireland	+6
+-6	1774
+1479	0
+-1	21
+74
+September 11
+1985	Turkey
+Northern Ireland	0
+0	World Cup qualifier
+in Turkey	+10
+-10	1496
+1764	+3
+-4	71
+26
+October 16
+1985	Romania
+Northern Ireland	0
+1	World Cup qualifier
+in Romania	-26
++26	1744
+1790	-6
++2	28
+22
+November 13
+1985	England
+Northern Ireland	0
+0	World Cup qualifier
+in England	-11
++11	1894
+1801	0
++3	3
+18
+February 26
+1986	France
+Northern Ireland	0
+0	Friendly
+in France	-6
++6	1937
+1807	-1
++1	2
+17
+March 26
+1986	Northern Ireland
+Denmark	1
+1	Friendly
+in Northern Ireland	-1
++1	1806
+1871	0
+0	17
+5
+April 23
+1986	Northern Ireland
+Morocco	2
+1	Friendly
+in Northern Ireland	+3
+-3	1809
+1618	+1
+-1	16
+42
+June 03
+1986	Algeria
+Northern Ireland	1
+1	World Cup
+in Mexico	+14
+-14	1642
+1795	+2
+-5	38
+19
+June 07
+1986	Spain
+Northern Ireland	2
+1	World Cup
+in Mexico	+27
+-27	1856
+1768	+2
+-6	8
+25
+June 12
+1986	Brazil
+Northern Ireland	3
+0	World Cup
+in Mexico	+31
+-31	1950
+1737	+1
+-4	3
+27
+October 15
+1986	England
+Northern Ireland	3
+0	European Cup qualifier
+in England	+12
+-12	1923
+1725	0
+-2	6
+28
+November 12
+1986	Turkey
+Northern Ireland	0
+0	European Cup qualifier
+in Turkey	+8
+-8	1480
+1717	+5
+-2	73
+30
+February 18
+1987	Israel
+Northern Ireland	1
+1	Friendly
+in Israel	+1
+-1	1600
+1716	0
+-1	48
+30
+April 01
+1987	Northern Ireland
+England	0
+2	European Cup qualifier
+in Northern Ireland	-19
++19	1697
+1975	0
+0	30
+3
+April 29
+1987	Northern Ireland
+Yugoslavia	1
+2	European Cup qualifier
+in Northern Ireland	-20
++20	1677
+1814	-4
++2	34
+15
+October 14
+1987	Yugoslavia
+Northern Ireland	3
+0	European Cup qualifier
+in Yugoslavia	+15
+-15	1814
+1662	+1
+-4	16
+37
+November 11
+1987	Northern Ireland
+Turkey	1
+0	European Cup qualifier
+in Northern Ireland	+8
+-8	1670
+1500	+1
+-4	36
+74
+February 17
+1988	Greece
+Northern Ireland	3
+2	Friendly
+in Greece	+9
+-9	1629
+1661	+4
+-3	42
+38
+March 23
+1988	Northern Ireland
+Poland	1
+1	Friendly
+in Northern Ireland	-1
++1	1660
+1733	+1
+0	37
+27
+April 27
+1988	Northern Ireland
+France	0
+0	Friendly
+in Northern Ireland	+2
+-2	1662
+1830	0
+0	38
+12
+May 21
+1988	Northern Ireland
+Malta	3
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1669
+1364	+3
+-4	35
+102
+September 14
+1988	Northern Ireland
+Ireland	0
+0	World Cup qualifier
+in Northern Ireland	+3
+-3	1672
+1813	+2
+-1	35
+13
+October 19
+1988	Hungary
+Northern Ireland	1
+0	World Cup qualifier
+in Hungary	+11
+-11	1741
+1661	+2
+-1	27
+36
+December 21
+1988	Spain
+Northern Ireland	4
+0	World Cup qualifier
+in Spain	+12
+-12	1860
+1649	0
+-2	8
+38
+February 08
+1989	Northern Ireland
+Spain	0
+2	World Cup qualifier
+in Northern Ireland	-20
++20	1629
+1886	-3
+0	41
+7
+April 26
+1989	Malta
+Northern Ireland	0
+2	World Cup qualifier
+in Malta	-17
++17	1351
+1646	-4
++3	107
+37
+May 26
+1989	Northern Ireland
+Chile	0
+1	Friendly
+in Northern Ireland	-10
++10	1636
+1755	-2
++1	38
+25
+September 06
+1989	Northern Ireland
+Hungary	1
+2	World Cup qualifier
+in Northern Ireland	-23
++23	1613
+1709	-2
++2	41
+28
+October 11
+1989	Ireland
+Northern Ireland	3
+0	World Cup qualifier
+in Ireland	+10
+-10	1838
+1603	+2
+-1	14
+41
+March 27
+1990	Northern Ireland
+Norway	2
+3	Friendly
+in Northern Ireland	-12
++12	1591
+1638	-1
++2	45
+36
+May 18
+1990	Northern Ireland
+Uruguay	1
+0	Friendly
+in Northern Ireland	+15
+-15	1606
+1852	+2
+-3	44
+13
+September 12
+1990	Northern Ireland
+Yugoslavia	0
+2	European Cup qualifier
+in Northern Ireland	-16
++16	1590
+1898	-1
+0	48
+7
+October 17
+1990	Northern Ireland
+Denmark	1
+1	European Cup qualifier
+in Northern Ireland	+9
+-9	1599
+1858	+1
+0	47
+9
+November 14
+1990	Austria
+Northern Ireland	0
+0	European Cup qualifier
+in Austria	-8
++8	1633
+1607	-3
++2	38
+45
+February 06
+1991	Northern Ireland
+Poland	3
+1	Friendly
+in Northern Ireland	+17
+-17	1624
+1736	+8
+0	37
+24
+March 27
+1991	Yugoslavia
+Northern Ireland	4
+1	European Cup qualifier
+in Yugoslavia	+6
+-6	1939
+1618	0
+-2	4
+40
+May 01
+1991	Northern Ireland
+Faroe Islands	1
+1	European Cup qualifier
+in Northern Ireland	-18
++18	1600
+1200	-6
++2	47
+144
+September 11
+1991	Faroe Islands
+Northern Ireland	0
+5	European Cup qualifier
+in Sweden	-8
++8	1199
+1608	-3
++1	147
+46
+October 16
+1991	Northern Ireland
+Austria	2
+1	European Cup qualifier
+in Northern Ireland	+14
+-14	1622
+1586	+2
+-2	43
+49
+November 13
+1991	Denmark
+Northern Ireland	2
+1	European Cup qualifier
+in Denmark	+6
+-6	1843
+1616	+1
+-2	11
+44
+February 19
+1992	Scotland
+Northern Ireland	1
+0	Friendly
+in Scotland	+5
+-5	1722
+1611	0
+-1	27
+46
+April 28
+1992	Northern Ireland
+Lithuania	2
+2	World Cup qualifier
+in Northern Ireland	-18
++18	1593
+1210	-2
++5	48
+145
+June 02
+1992	Germany
+Northern Ireland	1
+1	Friendly
+in Germany	-9
++9	2027
+1602	0
++2	1
+46
+September 09
+1992	Northern Ireland
+Albania	3
+0	World Cup qualifier
+in Northern Ireland	+11
+-11	1613
+1394	+1
+-5	47
+98
+October 14
+1992	Northern Ireland
+Spain	0
+0	World Cup qualifier
+in Northern Ireland	+5
+-5	1618
+1791	+3
++1	46
+15
+November 18
+1992	Northern Ireland
+Denmark	0
+1	World Cup qualifier
+in Northern Ireland	-12
++12	1606
+1870	-3
++1	47
+8
+February 17
+1993	Albania
+Northern Ireland	1
+2	World Cup qualifier
+in Albania	-14
++14	1385
+1620	-4
++7	101
+42
+March 31
+1993	Ireland
+Northern Ireland	3
+0	World Cup qualifier
+in Ireland	+9
+-9	1864
+1611	0
+-5	11
+46
+April 28
+1993	Spain
+Northern Ireland	3
+1	World Cup qualifier
+in Spain	+10
+-10	1792
+1601	0
+0	16
+49
+May 25
+1993	Lithuania
+Northern Ireland	0
+1	World Cup qualifier
+in Lithuania	-11
++11	1329
+1612	-1
++3	117
+45
+June 02
+1993	Latvia
+Northern Ireland	1
+2	World Cup qualifier
+in Latvia	-13
++13	1368
+1625	-2
++3	104
+43
+September 08
+1993	Northern Ireland
+Latvia	2
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1632
+1370	+2
+-1	43
+108
+October 13
+1993	Denmark
+Northern Ireland	1
+0	World Cup qualifier
+in Denmark	+4
+-4	1910
+1628	+2
+-2	4
+42
+November 17
+1993	Northern Ireland
+Ireland	1
+1	World Cup qualifier
+in Northern Ireland	+4
+-4	1632
+1803	+1
+-1	42
+15
+March 23
+1994	Northern Ireland
+Romania	2
+0	Friendly
+in Northern Ireland	+18
+-18	1650
+1773	+2
+0	39
+21
+April 20
+1994	Northern Ireland
+Liechtenstein	4
+1	European Cup qualifier
+in Northern Ireland	+2
+-2	1652
+1133	+1
+-1	38
+167
+June 03
+1994	Colombia
+Northern Ireland	2
+0	Friendly
+in the United States	+6
+-6	1906
+1646	0
+-1	5
+40
+June 11
+1994	Mexico
+Northern Ireland	3
+0	Friendly
+in the United States	+10
+-10	1822
+1636	+2
+-4	15
+42
+September 07
+1994	Northern Ireland
+Portugal	1
+2	European Cup qualifier
+in Northern Ireland	-16
++16	1620
+1815	-4
++2	40
+17
+October 12
+1994	Austria
+Northern Ireland	1
+2	European Cup qualifier
+in Austria	-24
++24	1575
+1644	-8
++4	54
+36
+November 16
+1994	Northern Ireland
+Ireland	0
+4	European Cup qualifier
+in Northern Ireland	-31
++31	1613
+1836	-6
++4	42
+16
+March 29
+1995	Ireland
+Northern Ireland	1
+1	European Cup qualifier
+in Ireland	-15
++15	1821
+1628	-2
++2	19
+38
+April 26
+1995	Latvia
+Northern Ireland	0
+1	European Cup qualifier
+in Latvia	-10
++10	1329
+1638	-2
++2	125
+36
+May 22
+1995	Canada
+Northern Ireland	2
+0	Canada Cup
+in Canada	+22
+-22	1573
+1616	+3
+-3	53
+39
+May 25
+1995	Chile
+Northern Ireland	2
+1	Canada Cup
+in Canada	+11
+-11	1722
+1605	0
+-5	27
+44
+June 07
+1995	Northern Ireland
+Latvia	1
+2	European Cup qualifier
+in Northern Ireland	-35
++35	1570
+1393	-6
++8	52
+106
+September 03
+1995	Portugal
+Northern Ireland	1
+1	European Cup qualifier
+in Portugal	-16
++16	1827
+1586	-5
++5	16
+47
+October 11
+1995	Liechtenstein
+Northern Ireland	0
+4	European Cup qualifier
+in Liechtenstein	-8
++8	1110
+1594	-2
++1	171
+48
+November 15
+1995	Northern Ireland
+Austria	5
+3	European Cup qualifier
+in Northern Ireland	+26
+-26	1620
+1622	+2
+-10	45
+44
+March 27
+1996	Northern Ireland
+Norway	0
+2	Friendly
+in Northern Ireland	-13
++13	1607
+1786	0
++2	42
+21
+April 24
+1996	Northern Ireland
+Sweden	1
+2	Friendly
+in Northern Ireland	-7
++7	1600
+1826	-4
+0	46
+18
+May 29
+1996	Northern Ireland
+Germany	1
+1	Friendly
+in Northern Ireland	+7
+-7	1607
+2008	+3
+0	44
+2
+August 31
+1996	Northern Ireland
+Ukraine	0
+1	World Cup qualifier
+in Northern Ireland	-28
++28	1579
+1591	-9
++9	53
+48
+October 05
+1996	Northern Ireland
+Armenia	1
+1	World Cup qualifier
+in Northern Ireland	-14
++14	1565
+1379	-1
++5	55
+111
+November 09
+1996	Germany
+Northern Ireland	1
+1	World Cup qualifier
+in Germany	-19
++19	2047
+1584	0
++1	1
+54
+December 14
+1996	Northern Ireland
+Albania	2
+0	World Cup qualifier
+in Northern Ireland	+9
+-9	1593
+1379	+2
+-5	51
+111
+January 22
+1997	Italy
+Northern Ireland	2
+0	Friendly
+in Italy	+2
+-2	1933
+1591	0
+0	5
+53
+February 11
+1997	Northern Ireland
+Belgium	3
+0	Friendly
+in Northern Ireland	+19
+-19	1610
+1700	+6
+-3	47
+29
+March 29
+1997	Northern Ireland
+Portugal	0
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1617
+1832	+1
+-1	49
+13
+April 02
+1997	Ukraine
+Northern Ireland	2
+1	World Cup qualifier
+in Ukraine	+14
+-14	1644
+1603	+4
+-1	40
+50
+April 30
+1997	Armenia
+Northern Ireland	0
+0	World Cup qualifier
+in Armenia	+7
+-7	1379
+1596	+5
+0	110
+51
+May 21
+1997	Thailand
+Northern Ireland	0
+0	Friendly
+in Thailand	+2
+-2	1429
+1594	+2
+0	94
+52
+August 20
+1997	Northern Ireland
+Germany	1
+3	World Cup qualifier
+in Northern Ireland	-7
++7	1587
+2040	-1
+0	53
+2
+September 10
+1997	Albania
+Northern Ireland	1
+0	World Cup qualifier
+in Switzerland	+32
+-32	1370
+1555	+8
+-8	112
+62
+October 11
+1997	Portugal
+Northern Ireland	1
+0	World Cup qualifier
+in Portugal	+4
+-4	1855
+1551	0
+-2	10
+63
+March 25
+1998	Northern Ireland
+Slovakia	1
+0	Friendly
+in Northern Ireland	+10
+-10	1561
+1654	+4
+-4	58
+42
+April 22
+1998	Northern Ireland
+Switzerland	1
+0	Friendly
+in Northern Ireland	+9
+-9	1570
+1629	0
+-3	58
+45
+June 03
+1998	Spain
+Northern Ireland	4
+1	Friendly
+in Spain	+2
+-2	2000
+1568	0
+0	3
+59
+September 05
+1998	Turkey
+Northern Ireland	3
+0	European Cup qualifier
+in Turkey	+20
+-20	1642
+1548	+4
+-2	45
+61
+October 10
+1998	Northern Ireland
+Finland	1
+0	European Cup qualifier
+in Northern Ireland	+13
+-13	1561
+1505	+1
+-4	58
+72
+November 18
+1998	Northern Ireland
+Moldova	2
+2	European Cup qualifier
+in Northern Ireland	-15
++15	1546
+1351	-4
++3	62
+117
+March 27
+1999	Northern Ireland
+Germany	0
+3	European Cup qualifier
+in Northern Ireland	-13
++13	1533
+1923	-2
++2	64
+6
+March 31
+1999	Moldova
+Northern Ireland	0
+0	European Cup qualifier
+in Moldova	+4
+-4	1360
+1529	+1
+0	116
+65
+April 27
+1999	Northern Ireland
+Canada	1
+1	Friendly
+in Northern Ireland	-3
++3	1526
+1506	0
++1	65
+73
+May 29
+1999	Ireland
+Northern Ireland	0
+1	Friendly
+in Ireland	-17
++17	1717
+1543	-4
++3	26
+62
+August 18
+1999	Northern Ireland
+France	0
+1	Friendly
+in Northern Ireland	-2
++2	1541
+2006	0
+0	62
+2
+September 04
+1999	Northern Ireland
+Turkey	0
+3	European Cup qualifier
+in Northern Ireland	-33
++33	1508
+1695	-11
++9	73
+32
+September 08
+1999	Germany
+Northern Ireland	4
+0	European Cup qualifier
+in Germany	+6
+-6	1853
+1502	0
+-3	16
+75
+October 09
+1999	Finland
+Northern Ireland	4
+1	European Cup qualifier
+in Finland	+25
+-25	1533
+1477	+9
+-5	62
+79
+February 23
+2000	Luxembourg
+Northern Ireland	1
+3	Friendly
+in Luxembourg	-6
++6	1147
+1483	-1
+0	165
+80
+March 28
+2000	Malta
+Northern Ireland	0
+3	Friendly
+in Malta	-9
++9	1199
+1492	-4
++6	156
+76
+April 26
+2000	Northern Ireland
+Hungary	0
+1	Friendly
+in Northern Ireland	-11
++11	1481
+1573	-2
+0	81
+59
+August 16
+2000	Northern Ireland
+Yugoslavia	1
+2	Friendly
+in Northern Ireland	-3
++3	1478
+1873	0
+0	81
+9
+September 02
+2000	Northern Ireland
+Malta	1
+0	World Cup qualifier
+in Northern Ireland	+4
+-4	1482
+1186	+2
+-1	79
+158
+October 07
+2000	Northern Ireland
+Denmark	1
+1	World Cup qualifier
+in Northern Ireland	+9
+-9	1491
+1741	0
+-3	78
+26
+October 11
+2000	Iceland
+Northern Ireland	1
+0	World Cup qualifier
+in Iceland	+11
+-11	1567
+1480	+2
+-1	61
+80
+February 28
+2001	Northern Ireland
+Norway	0
+4	Friendly
+in Northern Ireland	-9
++9	1471
+1795	-2
++1	80
+15
+March 24
+2001	Northern Ireland
+Czechia	0
+1	World Cup qualifier
+in Northern Ireland	-6
++6	1465
+1882	-1
+0	81
+8
+March 28
+2001	Bulgaria
+Northern Ireland	4
+3	World Cup qualifier
+in Bulgaria	+6
+-6	1680
+1459	0
+-1	39
+82
+June 02
+2001	Northern Ireland
+Bulgaria	0
+1	World Cup qualifier
+in Northern Ireland	-14
++14	1445
+1688	-4
++4	87
+37
+June 06
+2001	Czechia
+Northern Ireland	3
+1	World Cup qualifier
+in Czechia	+3
+-3	1848
+1442	0
+-2	11
+89
+September 01
+2001	Denmark
+Northern Ireland	1
+1	World Cup qualifier
+in Denmark	-17
++17	1767
+1459	-2
++9	22
+85
+September 05
+2001	Northern Ireland
+Iceland	3
+0	World Cup qualifier
+in Northern Ireland	+40
+-40	1499
+1572	+9
+-5	77
+58
+October 06
+2001	Malta
+Northern Ireland	0
+1	World Cup qualifier
+in Malta	-8
++8	1156
+1507	-3
++3	165
+73
+February 13
+2002	Poland
+Northern Ireland	4
+1	Friendly
+in Cyprus	+8
+-8	1723
+1499	+4
+0	29
+74
+March 27
+2002	Liechtenstein
+Northern Ireland	0
+0	Friendly
+in Liechtenstein	+8
+-8	1043
+1491	+1
+-4	181
+79
+April 17
+2002	Northern Ireland
+Spain	0
+5	Friendly
+in Northern Ireland	-5
++5	1486
+1927	0
+0	79
+6
+August 21
+2002	Northern Ireland
+Cyprus	0
+0	Friendly
+in Northern Ireland	-4
++4	1482
+1463	-2
++1	80
+86
+October 12
+2002	Spain
+Northern Ireland	3
+0	European Cup qualifier
+in Spain	+2
+-2	1970
+1480	0
++1	3
+77
+October 16
+2002	Northern Ireland
+Ukraine	0
+0	European Cup qualifier
+in Northern Ireland	+4
+-4	1484
+1655	+2
+-1	76
+42
+February 12
+2003	Northern Ireland
+Finland	0
+1	Friendly
+in Northern Ireland	-8
++8	1476
+1652	-2
++2	82
+42
+March 29
+2003	Armenia
+Northern Ireland	1
+0	European Cup qualifier
+in Armenia	+19
+-19	1416
+1457	+8
+-9	99
+90
+April 02
+2003	Northern Ireland
+Greece	0
+2	European Cup qualifier
+in Northern Ireland	-22
++22	1435
+1675	-6
++2	93
+39
+June 03
+2003	Italy
+Northern Ireland	2
+0	Friendly
+in Italy	+1
+-1	1875
+1434	0
+0	10
+94
+June 11
+2003	Northern Ireland
+Spain	0
+0	European Cup qualifier
+in Northern Ireland	+16
+-16	1450
+1916	+5
+-1	89
+6
+September 06
+2003	Ukraine
+Northern Ireland	0
+0	European Cup qualifier
+in Ukraine	-14
++14	1635
+1464	-3
++5	46
+84
+September 10
+2003	Northern Ireland
+Armenia	0
+1	European Cup qualifier
+in Northern Ireland	-29
++29	1435
+1431	-9
++5	93
+97
+October 11
+2003	Greece
+Northern Ireland	1
+0	European Cup qualifier
+in Greece	+3
+-3	1752
+1432	0
+0	25
+94
+February 18
+2004	Northern Ireland
+Norway	1
+4	Friendly
+in Northern Ireland	-8
++8	1424
+1742	-4
++2	97
+26
+March 31
+2004	Estonia
+Northern Ireland	0
+1	Friendly
+in Estonia	-11
++11	1358
+1435	-4
++6	116
+94
+April 28
+2004	Northern Ireland
+Serbia and Montenegro	1
+1	Friendly
+in Northern Ireland	+4
+-4	1439
+1686	0
+-1	94
+37
+May 30
+2004	Barbados
+Northern Ireland	1
+1	Friendly
+in Barbados	-1
++1	1360
+1440	-3
+0	116
+95
+June 02
+2004	Saint Kitts and Nevis
+Northern Ireland	0
+2	Friendly
+in Saint Kitts and Nevis	-14
++14	1298
+1454	-3
++11	133
+84
+June 06
+2004	Trinidad and Tobago
+Northern Ireland	0
+3	Friendly
+in Trinidad and Tobago	-21
++21	1406
+1475	-4
++4	102
+81
+August 18
+2004	Switzerland
+Northern Ireland	0
+0	Friendly
+in Switzerland	-7
++7	1649
+1482	-3
++3	42
+81
+September 04
+2004	Northern Ireland
+Poland	0
+3	World Cup qualifier
+in Northern Ireland	-24
++24	1458
+1723	-10
+0	91
+31
+September 08
+2004	Wales
+Northern Ireland	2
+2	World Cup qualifier
+in Wales	-13
++13	1616
+1471	-3
++2	51
+88
+October 09
+2004	Azerbaijan
+Northern Ireland	0
+0	World Cup qualifier
+in Azerbaijan	+1
+-1	1351
+1470	-1
++2	119
+87
+October 13
+2004	Northern Ireland
+Austria	3
+3	World Cup qualifier
+in Northern Ireland	+3
+-3	1473
+1612	+1
++1	86
+52
+February 09
+2005	Northern Ireland
+Canada	0
+1	Friendly
+in Northern Ireland	-11
++11	1462
+1553	-1
+0	89
+68
+March 26
+2005	England
+Northern Ireland	4
+0	World Cup qualifier
+in England	+3
+-3	1945
+1459	+1
+-1	4
+88
+March 30
+2005	Poland
+Northern Ireland	1
+0	World Cup qualifier
+in Poland	+4
+-4	1751
+1455	0
+-1	27
+89
+June 04
+2005	Northern Ireland
+Germany	1
+4	Friendly
+in Northern Ireland	-5
++5	1450
+1868	0
+-1	89
+13
+August 17
+2005	Malta
+Northern Ireland	1
+1	Friendly
+in Malta	+4
+-4	1204
+1446	+1
+-1	155
+90
+September 03
+2005	Northern Ireland
+Azerbaijan	2
+0	World Cup qualifier
+in Northern Ireland	+13
+-13	1459
+1308	+2
+-3	88
+129
+September 07
+2005	Northern Ireland
+England	1
+0	World Cup qualifier
+in Northern Ireland	+36
+-36	1495
+1910	+7
+-3	81
+6
+October 08
+2005	Northern Ireland
+Wales	2
+3	World Cup qualifier
+in Northern Ireland	-23
++23	1472
+1564	-3
++3	85
+61
+October 12
+2005	Austria
+Northern Ireland	2
+0	World Cup qualifier
+in Austria	+11
+-11	1634
+1461	-1
+-4	53
+88
+November 15
+2005	Northern Ireland
+Portugal	1
+1	Friendly
+in Northern Ireland	+7
+-7	1468
+1880	+2
+0	85
+9
+March 01
+2006	Northern Ireland
+Estonia	1
+0	Friendly
+in Northern Ireland	+5
+-5	1473
+1392	-2
+-1	86
+101
+May 21
+2006	Uruguay
+Northern Ireland	1
+0	Friendly
+in the United States	+3
+-3	1798
+1470	0
+0	20
+86
+May 26
+2006	Romania
+Northern Ireland	2
+0	Friendly
+in the United States	+4
+-4	1818
+1466	0
+0	15
+86
+August 16
+2006	Finland
+Northern Ireland	1
+2	Friendly
+in Finland	-16
++16	1594
+1482	-1
++5	54
+81
+September 02
+2006	Northern Ireland
+Iceland	0
+3	European Cup qualifier
+in Northern Ireland	-46
++46	1436
+1517	-14
++11	95
+76
+September 06
+2006	Northern Ireland
+Spain	3
+2	European Cup qualifier
+in Northern Ireland	+36
+-36	1472
+1889	+8
+-2	87
+10
+October 07
+2006	Denmark
+Northern Ireland	0
+0	European Cup qualifier
+in Denmark	-18
++18	1877
+1490	-1
++6	9
+82
+October 11
+2006	Northern Ireland
+Latvia	1
+0	European Cup qualifier
+in Northern Ireland	+14
+-14	1504
+1473	+4
+-2	78
+86
+February 06
+2007	Northern Ireland
+Wales	0
+0	Friendly
+in Northern Ireland	-2
++2	1502
+1547	0
++2	79
+63
+March 24
+2007	Liechtenstein
+Northern Ireland	1
+4	European Cup qualifier
+in Liechtenstein	-10
++10	1081
+1512	-2
++3	176
+79
+March 28
+2007	Northern Ireland
+Sweden	2
+1	European Cup qualifier
+in Northern Ireland	+30
+-30	1542
+1770	+9
+-7	69
+23
+August 22
+2007	Northern Ireland
+Liechtenstein	3
+1	European Cup qualifier
+in Northern Ireland	+3
+-3	1545
+1127	0
+0	68
+172
+September 08
+2007	Latvia
+Northern Ireland	1
+0	European Cup qualifier
+in Latvia	+23
+-23	1409
+1522	+4
+-5	102
+73
+September 12
+2007	Iceland
+Northern Ireland	2
+1	European Cup qualifier
+in Iceland	+18
+-18	1479
+1504	+4
+-2	83
+75
+October 17
+2007	Sweden
+Northern Ireland	1
+1	European Cup qualifier
+in Sweden	-16
++16	1782
+1520	-2
++1	18
+74
+November 17
+2007	Northern Ireland
+Denmark	2
+1	European Cup qualifier
+in Northern Ireland	+30
+-30	1550
+1772	+7
+-6	67
+20
+November 21
+2007	Spain
+Northern Ireland	1
+0	European Cup qualifier
+in Spain	+2
+-2	1935
+1548	+1
+-1	5
+68
+February 06
+2008	Northern Ireland
+Bulgaria	0
+1	Friendly
+in Northern Ireland	-7
++7	1541
+1765	-2
++2	70
+26
+March 26
+2008	Northern Ireland
+Georgia	4
+1	Friendly
+in Northern Ireland	+10
+-10	1551
+1474	+2
+-7	68
+90
+August 20
+2008	Scotland
+Northern Ireland	0
+0	Friendly
+in Scotland	-7
++7	1718
+1558	-1
+0	35
+63
+September 06
+2008	Slovakia
+Northern Ireland	2
+1	World Cup qualifier
+in Slovakia	+13
+-13	1594
+1545	0
+-5	56
+68
+September 10
+2008	Northern Ireland
+Czechia	0
+0	World Cup qualifier
+in Northern Ireland	+10
+-10	1555
+1833	+4
++1	63
+12
+October 11
+2008	Slovenia
+Northern Ireland	2
+0	World Cup qualifier
+in Slovenia	+22
+-22	1566
+1533	+6
+-10	61
+73
+October 15
+2008	Northern Ireland
+San Marino	4
+0	World Cup qualifier
+in Northern Ireland	+1
+-1	1534
+898	0
+0	73
+197
+November 19
+2008	Northern Ireland
+Hungary	0
+2	Friendly
+in Northern Ireland	-18
++18	1516
+1588	-5
++5	77
+57
+February 11
+2009	San Marino
+Northern Ireland	0
+3	World Cup qualifier
+in San Marino	-3
++3	894
+1519	-1
++3	198
+74
+March 28
+2009	Northern Ireland
+Poland	3
+2	World Cup qualifier
+in Northern Ireland	+26
+-26	1545
+1701	+5
+-3	69
+38
+April 01
+2009	Northern Ireland
+Slovenia	1
+0	World Cup qualifier
+in Northern Ireland	+15
+-15	1560
+1532	+7
+-6	62
+74
+June 06
+2009	Italy
+Northern Ireland	3
+0	Friendly
+in Italy	+2
+-2	1961
+1558	0
+-3	5
+65
+August 12
+2009	Northern Ireland
+Israel	1
+1	Friendly
+in Northern Ireland	+1
+-1	1559
+1703	+2
+-3	62
+41
+September 05
+2009	Poland
+Northern Ireland	1
+1	World Cup qualifier
+in Poland	-12
++12	1686
+1571	-2
+0	43
+62
+September 09
+2009	Northern Ireland
+Slovakia	0
+2	World Cup qualifier
+in Northern Ireland	-35
++35	1536
+1648	-8
++5	70
+47
+October 14
+2009	Czechia
+Northern Ireland	0
+0	World Cup qualifier
+in Czechia	-15
++15	1769
+1551	0
++1	20
+69
+November 14
+2009	Northern Ireland
+Serbia	0
+1	Friendly
+in Northern Ireland	-6
++6	1545
+1797	-2
+0	70
+15
+March 03
+2010	Albania
+Northern Ireland	1
+0	Friendly
+in Albania	+9
+-9	1474
+1536	+1
+-5	92
+76
+May 26
+2010	Turkey
+Northern Ireland	2
+0	Friendly
+in the United States	+6
+-6	1782
+1530	0
+-2	17
+79
+May 30
+2010	Chile
+Northern Ireland	1
+0	Friendly
+in Chile	+2
+-2	1853
+1528	+1
+0	10
+79
+August 11
+2010	Montenegro
+Northern Ireland	2
+0	Friendly
+in Montenegro	+9
+-9	1587
+1519	+2
+-2	56
+80
+September 03
+2010	Slovenia
+Northern Ireland	0
+1	European Cup qualifier
+in Slovenia	-33
++33	1654
+1552	-7
++10	45
+70
+October 08
+2010	Northern Ireland
+Italy	0
+0	European Cup qualifier
+in Northern Ireland	+9
+-9	1561
+1812	+2
+-1	68
+13
+October 12
+2010	Faroe Islands
+Northern Ireland	1
+1	European Cup qualifier
+in Faroe Islands	+14
+-14	1177
+1547	+6
+-3	159
+70
+November 17
+2010	Northern Ireland
+Morocco	1
+1	Friendly
+in Northern Ireland	-2
++2	1545
+1569	0
+0	70
+63
+February 09
+2011	Scotland
+Northern Ireland	3
+0	Friendly tournament
+in Ireland	+20
+-20	1649
+1525	+6
+-2	44
+73
+March 25
+2011	Serbia
+Northern Ireland	2
+1	European Cup qualifier
+in Serbia	+6
+-6	1739
+1519	+1
+-2	27
+75
+March 29
+2011	Northern Ireland
+Slovenia	0
+0	European Cup qualifier
+in Northern Ireland	+2
+-2	1521
+1653	0
+-1	77
+42
+May 24
+2011	Ireland
+Northern Ireland	5
+0	Friendly tournament
+in Ireland	+9
+-9	1724
+1512	+2
+-4	30
+81
+May 27
+2011	Wales
+Northern Ireland	2
+0	Friendly tournament
+in Ireland	+24
+-24	1514
+1488	+10
+-8	79
+89
+August 10
+2011	Northern Ireland
+Faroe Islands	4
+0	European Cup qualifier
+in Northern Ireland	+7
+-7	1495
+1193	+1
+-1	86
+156
+September 02
+2011	Northern Ireland
+Serbia	0
+1	European Cup qualifier
+in Northern Ireland	-13
++13	1482
+1736	-3
++2	89
+30
+September 06
+2011	Estonia
+Northern Ireland	4
+1	European Cup qualifier
+in Estonia	+27
+-27	1490
+1455	+8
+-8	85
+97
+October 07
+2011	Northern Ireland
+Estonia	1
+2	European Cup qualifier
+in Northern Ireland	-24
++24	1431
+1514	-2
++8	99
+77
+October 11
+2011	Italy
+Northern Ireland	3
+0	European Cup qualifier
+in Italy	+3
+-3	1860
+1428	-1
++1	10
+98
+February 29
+2012	Northern Ireland
+Norway	0
+3	Friendly
+in Northern Ireland	-8
++8	1420
+1741	-4
++1	102
+28
+June 02
+2012	Netherlands
+Northern Ireland	6
+0	Friendly
+in the Netherlands	+1
+-1	2036
+1419	0
++1	3
+100
+August 15
+2012	Northern Ireland
+Finland	3
+3	Friendly
+in Northern Ireland	+2
+-2	1421
+1597	0
++2	101
+58
+September 07
+2012	Russia
+Northern Ireland	2
+0	World Cup qualifier
+in Russia	+3
+-3	1820
+1418	0
+0	16
+100
+September 11
+2012	Northern Ireland
+Luxembourg	1
+1	World Cup qualifier
+in Northern Ireland	-16
++16	1402
+1133	-5
++4	106
+171
+October 16
+2012	Portugal
+Northern Ireland	1
+1	World Cup qualifier
+in Portugal	-19
++19	1885
+1421	-2
++3	9
+102
+November 14
+2012	Northern Ireland
+Azerbaijan	1
+1	World Cup qualifier
+in Northern Ireland	-8
++8	1413
+1386	0
++2	102
+109
+February 06
+2013	Malta
+Northern Ireland	0
+0	Friendly
+in Malta	+3
+-3	1219
+1410	+1
+-1	152
+104
+March 26
+2013	Northern Ireland
+Israel	0
+2	World Cup qualifier
+in Northern Ireland	-21
++21	1389
+1633	-4
++2	109
+49
+August 14
+2013	Northern Ireland
+Russia	1
+0	World Cup qualifier
+in Northern Ireland	+36
+-36	1425
+1817	+8
+-7	100
+17
+September 06
+2013	Northern Ireland
+Portugal	2
+4	World Cup qualifier
+in Northern Ireland	-7
++7	1418
+1892	-1
+0	101
+9
+September 10
+2013	Luxembourg
+Northern Ireland	3
+2	World Cup qualifier
+in Luxembourg	+28
+-28	1191
+1390	+6
+-8	159
+109
+October 11
+2013	Azerbaijan
+Northern Ireland	2
+0	World Cup qualifier
+in Azerbaijan	+21
+-21	1416
+1369	+4
+-4	103
+113
+October 15
+2013	Israel
+Northern Ireland	1
+1	World Cup qualifier
+in Israel	-16
++16	1618
+1385	-4
++2	52
+111
+November 15
+2013	Turkey
+Northern Ireland	1
+0	Friendly
+in Turkey	+2
+-2	1682
+1383	+2
+-1	38
+112
+March 05
+2014	Cyprus
+Northern Ireland	0
+0	Friendly
+in Cyprus	-2
++2	1358
+1385	0
+-1	122
+113
