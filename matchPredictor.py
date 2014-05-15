@@ -106,11 +106,17 @@ def headToHead(team1, team2, beQuiet):
 		if beQuiet:
 			pass
 		if score1 > score2:
+<<<<<<< HEAD
 			if not beQuiet:
 				print(team1 + " barely wins to " + team2, score1, score2, standings[team1.lower()], standings[team2.lower()])
 		else:
 			if not beQuiet:
 				print(team1 + " barely loses to " + team2, score1, score2, standings[team1.lower()], standings[team2.lower()])
+=======
+			print(team1 + " barely wins to " + team2, score1, score2, standings[team1.lower()], standings[team2.lower()])
+		else:
+			print(team1 + " barely loses to " + team2, score1, score2, standings[team1.lower()], standings[team2.lower()])
+>>>>>>> 5cd84c4fe3390d354735881e69c3ba236bcec1c0
 	return result
 if __name__ == "__main__":
 	main()
