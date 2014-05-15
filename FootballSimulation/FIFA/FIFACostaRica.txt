@@ -1,0 +1,78 @@
+Christian Bolanos Christian Bolanos 
+FC København / Superliga 
+74	RM	81	71	70	79	44	53	4 	4 	 / 	 Right	850	1,723		
+Joel Campbell Joel Campbell 
+Olympiakos CFP / Hellas Liga 
+74	RW	88	70	62	77	49	66	3 	3 	 / 	 Left	350	1,765		
+Michael Barrantes Michael Barrantes 
+Aalesunds FK / Tippeligaen 
+73	CAM	70	72	71	72	59	55	3 	3 	 / 	 Left	400	1,833		
+Esteban Alvarado Esteban Alvarado 
+AZ / Eredivisie 
+73	GK	77	70	77	78	45	68	1 	3 	 / 	 Right	350	934		
+Celso Borges Celso Borges 
+AIK / Allsvenskan 
+72	CM	72	72	72	67	63	74	3 	4 	 / 	 Right	400	1,847		
+Keylor Navas Keylor Navas 
+Levante UD / Liga BBVA 	
+72	GK	81	65	68	77	54	67	1 	3 	 / 	 Right	750	1,013		
+ Carlos Hernandez Carlos Hernandez 
+Wellington Phoenix / A-League 	
+69	CAM	45	74	65	67	46	40	4 	4 	 / 	 Right	400	1,574		
+Christian Gamboa Luna Christian Gamboa Luna 
+Rosenborg BK / Tippeligaen 
+69	RB	87	60	66	70	68	64	2 	3 	 / 	 Right	350	1,825		
+Marcos Urena Marcos Urena 
+Kuban Krasnodar / Russian League 
+62	CF	77	64	38	61	42	54	2 	3 	 / 	 Right	200	1,472		
+Jonathan McDonald Jonathan McDonald 
+Kalmar FF / Allsvenskan 
+58	ST	81	53	51	60	39	58	3 	3 	 / 	 Right	200	1,465		
+Bryan Ruiz Bryan Ruiz 
+Fulham / Barclays PL 
+81	CAM	70	76	76	85	57	67	4 	2 	 / 	 Left	600	1,888		
+Bryan Ruiz Bryan Ruiz 
+PSV / Eredivisie 
+81	CAM	70	76	76	85	57	67	4 	2 	 / 	 Left	400	1,888		
+Alvaro Saborio Alvaro Saborio 
+Real Salt Lake / MLS 	
+73	ST	74	71	52	71	54	77	3 	3 	 / 	 Right	200	1,735		
+Junior Diaz Junior Diaz 
+1. FSV Mainz 05 / Bundesliga 
+71	LB	74	54	71	71	68	65	2 	3 	 / 	 Left	300	1,774		
+Oscar Duarte Oscar Duarte 
+Club Brugge / Pro League 
+69	CB	66	29	49	50	70	72	2 	3 	 / 	 Right	250	1,389		
+Bryan Oviedo Bryan Oviedo 
+Everton / Barclays PL 
+67	LB	76	51	65	71	63	52	3 	3 	 / 	 Left	650	1,711		
+Jairo Arrieta Jairo Arrieta 
+Columbus Crew / MLS 
+67	ST	72	66	55	67	50	64	3 	4 	 / 	 Right	250	1,642		
+Rodney Wallace Rodney Wallace 
+Portland Timbers / MLS 
+66	LM	80	59	60	66	57	65	3 	2 	 / 	 Left	450	1,702		
+Giancarlo Gonzalez Giancarlo Gonzalez 
+Vålerenga Fotball / Tippeligaen 
+66	CB	74	47	58	54	66	68	2 	3 	 / 	 Right	1,300	1,500		
+Giancarlo Gonzalez Giancarlo Gonzalez 
+Columbus Crew / MLS 
+66	CB	74	47	58	54	66	68	2 	3 	 / 	 Right	0	1,500		
+Gonzalo Segares Gonzalo Segares 
+Chicago Fire / MLS 
+65	LB	69	54	62	62	67	64	2 	4 	 / 	 Left	300	1,694		
+Roy Miller Roy Miller 
+New York Red Bulls / MLS 
+65	LB	75	52	68	58	63	68	2 	3 	 / 	 Left	200	1,684		
+Leonardo Gonzalez Leonardo Gonzalez 
+Seattle Sounders / MLS 
+62	LB	58	46	58	55	62	63	2 	2 	 / 	 Left	200	1,538		
+ Alejandro Castro Alejandro Castro 
+IK Start / Tippeligaen 	
+62	CF	75	60	55	67	37	48	2 	3 	 / 	 Right	200	1,430		
+Heiner Mora Heiner Mora 
+Hønefoss BK / Tippeligaen 
+61	RB	68	44	58	59	61	59	2 	3 	 / 	 Right	200	1,509		
+Bismark Acosta Bismark Acosta 
+IK Start / Tippeligaen 
+61	CB	66	46	46	52	59	67	2 	3 	 / 	 Right	200	1,403		

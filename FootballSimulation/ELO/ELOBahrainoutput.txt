@@ -1,0 +1,442 @@
+1966 95 home Bahrain Kuwait 4 4 Arab Nations Cup
+1966 96 away Bahrain Lebanon 6 1 Arab Nations Cup
+1966 98 away Bahrain Iraq 10 1 Arab Nations Cup
+1966 100 away Bahrain Jordan 2 1 Arab Nations Cup
+1970 89 home Bahrain Qatar 2 1 Gulf Cup
+1970 92 home Bahrain SaudiArabia 0 0 Gulf Cup
+1970 96 home Bahrain Kuwait 1 3 Gulf Cup
+1971 352 home Bahrain Lebanon 3 0 Asian Cup qualifier
+1971 354 away Bahrain Jordan 3 2 Asian Cup qualifier
+1971 356 away Bahrain Iraq 1 0 Asian Cup qualifier
+1971 361 home Bahrain Ceylon 3 0 Asian Cup qualifier
+1972 80 away Bahrain Kuwait 2 0 Gulf Cup
+1972 83 home Bahrain Qatar 6 2 Gulf Cup
+1972 87 home Bahrain UnitedArab 2 0 Gulf Cup
+1974 78 home Bahrain Oman 4 0 Gulf Cup
+1974 80 away Bahrain UnitedArab 4 0 Gulf Cup
+1974 83 away Bahrain SaudiArabia 4 1 Gulf Cup
+1974 250 away Bahrain Burma 4 0 Asian Games
+1974 252 away Bahrain Iran 6 0 Asian Games
+1974 254 away Bahrain Pakistan 5 1 Asian Games
+1975 237 away Bahrain Iran 3 0 Olympic Games qualifier
+1975 241 away Bahrain Kuwait 2 1 Olympic Games qualifier
+1975 243 away Bahrain SaudiArabia 1 0 Olympic Games qualifier
+1975 245 away Bahrain Iraq 4 0 Olympic Games qualifier
+1976 89 home Bahrain UnitedArab 3 2 Gulf Cup
+1976 91 away Bahrain Iraq 4 1 Gulf Cup
+1976 95 home Bahrain Oman 1 0 Gulf Cup
+1976 99 away Bahrain Kuwait 5 2 Gulf Cup
+1976 101 home Bahrain SaudiArabia 2 1 Gulf Cup
+1976 103 away Bahrain Qatar 3 0 Gulf Cup
+1977 49 home Bahrain SouthKorea 1 4 Friendly
+1977 51 home Bahrain SouthKorea 1 1 Friendly
+1977 73 away Bahrain Kuwait 2 1 World Cup qualifier
+1977 75 away Bahrain Qatar 2 0 World Cup qualifier
+1977 79 away Bahrain Kuwait 2 0 World Cup qualifier
+1977 81 away Bahrain Qatar 0 3 World Cup qualifier
+1977 256 away Bahrain Malaysia 3 1 Presidents Cup
+1978 257 away Bahrain Malaysia 2 1 Presidents Cup
+1978 261 away Bahrain SouthKorea 3 1 Presidents Cup
+1978 351 away Bahrain SouthKorea 5 1 Asian Games
+1978 353 away Bahrain Japan 4 0 Asian Games
+1978 355 away Bahrain Kuwait 3 0 Asian Games
+1979 40 home Bahrain Finland 0 1 Friendly
+1979 85 away Bahrain Iraq 4 0 Gulf Cup
+1979 88 home Bahrain UnitedArab 3 0 Gulf Cup
+1979 91 home Bahrain Oman 3 1 Gulf Cup
+1979 94 home Bahrain SaudiArabia 1 1 Gulf Cup
+1979 99 home Bahrain Qatar 1 1 Gulf Cup
+1979 101 away Bahrain Kuwait 2 0 Gulf Cup
+1979 257 home Bahrain Sudan 1 0 Presidents Cup
+1979 258 home Bahrain Bangladesh 2 0 Presidents Cup
+1979 259 home Bahrain SriLanka 1 0 Presidents Cup
+1979 262 away Bahrain SouthKorea 5 1 Presidents Cup
+1979 282 home Bahrain NewZealand 0 2 Friendly
+1979 287 home Bahrain NewZealand 1 2 Friendly
+1980 242 home Bahrain Malaysia 1 1 Presidents Cup
+1980 244 away Bahrain Indonesia 3 2 Presidents Cup
+1980 246 away Bahrain SouthKorea 5 0 Presidents Cup
+1980 248 away Bahrain Thailand 1 0 Presidents Cup
+1981 67 home Bahrain Tunisia 0 3 Friendly
+1981 81 home Bahrain Syria 1 0 World Cup qualifier
+1981 84 away Bahrain Qatar 3 0 World Cup qualifier
+1981 87 away Bahrain Iraq 2 0 World Cup qualifier
+1981 90 away Bahrain SaudiArabia 1 0 World Cup qualifier
+1982 82 away Bahrain Kuwait 1 0 Gulf Cup
+1982 87 home Bahrain Oman 4 1 Gulf Cup
+1982 89 away Bahrain UnitedArab 2 3 Gulf Cup
+1982 93 home Bahrain Qatar 1 0 Gulf Cup
+1982 95 home Bahrain SaudiArabia 2 2 Gulf Cup
+1982 160 away Bahrain SouthKorea 3 0 Presidents Cup
+1982 161 home Bahrain Indonesia 1 1 Presidents Cup
+1982 162 home Bahrain India 0 0 Presidents Cup
+1984 71 away Bahrain Oman 0 1 Gulf Cup
+1984 74 away Bahrain Kuwait 1 0 Gulf Cup
+1984 80 home Bahrain UnitedArab 1 1 Gulf Cup
+1984 82 away Bahrain Iraq 1 0 Gulf Cup
+1984 84 home Bahrain Qatar 1 1 Gulf Cup
+1984 88 away Bahrain SaudiArabia 2 0 Gulf Cup
+1985 69 home Bahrain SouthKorea 1 5 Friendly
+1985 91 away Bahrain SouthYemen 1 4 World Cup qualifier
+1985 105 home Bahrain SouthYemen 3 3 World Cup qualifier
+1985 158 home Bahrain Malaysia 3 1 Presidents Cup
+1985 163 away Bahrain SouthKorea 3 0 Presidents Cup
+1985 190 home Bahrain Iraq 1 1 Arab Nations Cup
+1985 192 home Bahrain Mauritania 2 0 Arab Nations Cup
+1985 196 home Bahrain Qatar 1 1 Arab Nations Cup
+1985 198 away Bahrain Iraq 1 0 Arab Nations Cup
+1985 254 home Bahrain Syria 1 1 World Cup qualifier
+1985 268 away Bahrain Syria 1 0 World Cup qualifier
+1986 53 home Bahrain Finland 0 0 Friendly
+1986 55 home Bahrain Finland 0 4 Friendly
+1986 70 home Bahrain Paraguay 1 2 Friendly
+1986 73 home Bahrain Iceland 2 1 Friendly
+1986 77 home Bahrain Iceland 0 2 Friendly
+1986 84 home Bahrain Iraq 0 0 Gulf Cup
+1986 87 home Bahrain SaudiArabia 2 1 Gulf Cup
+1986 91 home Bahrain Qatar 0 0 Gulf Cup
+1986 95 home Bahrain Oman 0 0 Gulf Cup
+1986 98 home Bahrain UnitedArab 1 3 Gulf Cup
+1986 100 home Bahrain Kuwait 1 1 Gulf Cup
+1986 229 home Bahrain Oman 2 3 Friendly
+1986 231 home Bahrain Oman 2 0 Friendly
+1986 241 away Bahrain Oman 1 0 Friendly
+1986 243 away Bahrain Oman 1 2 Friendly
+1986 262 away Bahrain Taiwan 1 1 Friendly
+1986 264 away Bahrain Taiwan 0 1 Friendly
+1986 268 away Bahrain China 5 1 Asian Games
+1986 272 away Bahrain SouthKorea 0 0 Asian Games
+1986 274 home Bahrain India 3 0 Asian Games
+1988 50 home Bahrain Tunisia 1 0 Friendly
+1988 65 away Bahrain UnitedArab 2 0 Gulf Cup
+1988 69 home Bahrain Oman 2 0 Gulf Cup
+1988 71 away Bahrain SaudiArabia 1 0 Gulf Cup
+1988 74 home Bahrain Kuwait 1 0 Gulf Cup
+1988 78 home Bahrain Qatar 1 0 Gulf Cup
+1988 80 away Bahrain Iraq 1 0 Gulf Cup
+1988 172 home Bahrain SouthKorea 2 0 Asian Cup qualifier
+1988 174 away Bahrain Indonesia 0 0 Asian Cup qualifier
+1988 176 home Bahrain SouthYemen 2 0 Asian Cup qualifier
+1988 194 away Bahrain Jordan 0 0 Arab Nations Cup
+1988 196 away Bahrain Algeria 0 0 Arab Nations Cup
+1988 198 home Bahrain Syria 1 2 Arab Nations Cup
+1988 202 home Bahrain Kuwait 0 0 Arab Nations Cup
+1988 344 home Bahrain Kuwait 0 0 Asian Cup
+1988 347 home Bahrain China 0 1 Asian Cup
+1988 350 home Bahrain SaudiArabia 1 1 Asian Cup
+1988 352 home Bahrain Syria 0 1 Asian Cup
+1990 43 home Bahrain Denmark 1 2 Friendly
+1990 52 away Bahrain Kuwait 1 0 Gulf Cup
+1990 54 home Bahrain Qatar 0 0 Gulf Cup
+1990 57 away Bahrain Iraq 1 0 Gulf Cup
+1990 63 home Bahrain Oman 0 0 Gulf Cup
+1990 67 home Bahrain UnitedArab 1 0 Gulf Cup
+1992 143 home Bahrain Algeria 0 0 Friendly
+1992 225 away Bahrain Kuwait 2 0 Asian Cup qualifier
+1992 227 away Bahrain UnitedArab 3 1 Asian Cup qualifier
+1992 338 home Bahrain SaudiArabia 2 1 Gulf Cup
+1992 340 away Bahrain Qatar 1 0 Gulf Cup
+1992 345 away Bahrain UnitedArab 2 0 Gulf Cup
+1992 348 home Bahrain Oman 3 0 Gulf Cup
+1992 351 home Bahrain Kuwait 1 0 Gulf Cup
+1993 131 away Bahrain HongKong 2 1 World Cup qualifier
+1993 133 home Bahrain SouthKorea 0 0 World Cup qualifier
+1993 137 away Bahrain Lebanon 0 0 World Cup qualifier
+1993 139 home Bahrain India 2 1 World Cup qualifier
+1993 160 home Bahrain Lebanon 0 0 World Cup qualifier
+1993 162 home Bahrain India 3 0 World Cup qualifier
+1993 166 home Bahrain HongKong 3 0 World Cup qualifier
+1993 168 away Bahrain SouthKorea 3 0 World Cup qualifier
+1994 280 home Bahrain Yemen 2 0 Asian Games
+1994 282 home Bahrain Iran 0 0 Asian Games
+1994 284 away Bahrain China 3 2 Asian Games
+1994 288 home Bahrain Turkmenistan 2 2 Asian Games
+1994 314 home Bahrain Kuwait 2 1 Gulf Cup
+1994 316 home Bahrain Oman 1 1 Gulf Cup
+1994 320 away Bahrain SaudiArabia 3 1 Gulf Cup
+1994 322 away Bahrain UnitedArab 0 0 Gulf Cup
+1994 325 home Bahrain Qatar 1 1 Gulf Cup
+1996 158 away Bahrain Oman 3 0 Friendly
+1996 282 away Bahrain Lebanon 2 3 Friendly
+1996 295 away Bahrain Kuwait 1 0 Gulf Cup
+1996 297 home Bahrain UnitedArab 1 1 Gulf Cup
+1996 300 away Bahrain SaudiArabia 3 1 Gulf Cup
+1996 304 away Bahrain Qatar 2 1 Gulf Cup
+1996 307 away Bahrain Oman 1 1 Gulf Cup
+1997 68 home Bahrain Oman 1 0 Friendly
+1997 104 home Bahrain UnitedArab 1 2 World Cup qualifier
+1997 107 home Bahrain Jordan 1 0 World Cup qualifier
+1997 112 away Bahrain Jordan 4 1 World Cup qualifier
+1997 115 away Bahrain UnitedArab 3 0 World Cup qualifier
+1997 268 away Bahrain Libya 2 1 Artificial River Tournament
+1997 271 away Bahrain Jordan 0 0 Artificial River Tournament
+1997 273 away Bahrain Chad 1 1 Artificial River Tournament
+1998 261 away Bahrain Libya 2 2 Friendly
+1998 266 home Bahrain Syria 2 0 Friendly
+1998 282 home Bahrain Sudan 2 3 Friendly
+1998 302 home Bahrain BurkinaFaso 2 1 Friendly
+1998 309 home Bahrain UnitedArab 0 1 Gulf Cup
+1998 312 home Bahrain SaudiArabia 1 1 Gulf Cup
+1998 316 home Bahrain Kuwait 0 2 Gulf Cup
+1998 318 home Bahrain Qatar 0 0 Gulf Cup
+1998 322 home Bahrain Oman 2 2 Gulf Cup
+2000 82 away Bahrain Kazakhstan 1 0 Friendly
+2000 84 home Bahrain Qatar 1 0 Friendly
+2000 87 home Bahrain Jordan 1 1 Friendly
+2000 93 away Bahrain Syria 1 0 Asian Cup qualifier
+2000 95 home Bahrain Maldives 4 1 Asian Cup qualifier
+2000 97 home Bahrain Iran 1 0 Asian Cup qualifier
+2000 102 away Bahrain Iran 3 0 Asian Cup qualifier
+2000 104 home Bahrain Maldives 1 0 Asian Cup qualifier
+2000 106 away Bahrain Syria 1 0 Asian Cup qualifier
+2000 226 away Bahrain Syria 1 0 Friendly tournament
+2000 228 away Bahrain Jordan 2 0 Friendly tournament
+2000 331 away Bahrain Oman 2 1 Friendly
+2001 15 away Bahrain Chile 2 0 Millenium Cup
+2001 34 away Bahrain Kuwait 2 1 World Cup qualifier
+2001 37 home Bahrain Kyrgyzstan 1 0 World Cup qualifier
+2001 40 away Bahrain Singapore 1 2 World Cup qualifier
+2001 52 home Bahrain Kyrgyzstan 2 1 World Cup qualifier
+2001 55 home Bahrain Singapore 2 0 World Cup qualifier
+2001 58 away Bahrain Kuwait 0 1 World Cup qualifier
+2001 97 away Bahrain Lebanon 1 1 Friendly
+2001 109 home Bahrain Oman 0 1 Friendly
+2001 176 away Bahrain Malaysia 2 4 Merdeka Tournament
+2001 178 away Bahrain Bosnia 1 0 Merdeka Tournament
+2001 180 home Bahrain Slovakia 2 0 Merdeka Tournament
+2001 183 away Bahrain Uzbekistan 2 0 Merdeka Tournament
+2001 227 away Bahrain Qatar 1 1 Friendly
+2001 234 away Bahrain SaudiArabia 1 1 World Cup qualifier
+2001 240 home Bahrain Iraq 2 0 World Cup qualifier
+2001 254 home Bahrain Thailand 1 1 World Cup qualifier
+2001 262 away Bahrain Iran 0 0 World Cup qualifier
+2001 269 home Bahrain SaudiArabia 0 4 World Cup qualifier
+2001 276 away Bahrain Iraq 1 0 World Cup qualifier
+2001 295 away Bahrain Thailand 1 1 World Cup qualifier
+2001 300 home Bahrain Iran 3 1 World Cup qualifier
+2001 354 home Bahrain Oman 2 2 Friendly
+2002 4 home Bahrain Finland 0 2 Friendly tournament
+2002 7 home Bahrain Macedonia 1 1 Friendly tournament
+2002 10 home Bahrain Albania 3 0 Friendly tournament
+2002 17 away Bahrain Qatar 1 0 Gulf Cup
+2002 20 away Bahrain SaudiArabia 3 1 Gulf Cup
+2002 22 home Bahrain Kuwait 0 0 Gulf Cup
+2002 27 home Bahrain UnitedArab 2 1 Gulf Cup
+2002 29 home Bahrain Oman 1 1 Gulf Cup
+2002 333 home Bahrain Iraq 2 2 Friendly
+2002 348 home Bahrain Jordan 0 3 Friendly tournament
+2002 350 home Bahrain Syria 2 3 Friendly tournament
+2002 353 home Bahrain China 2 2 Friendly tournament
+2002 358 away Bahrain SaudiArabia 2 1 Arab Nations Cup
+2002 360 home Bahrain Syria 2 0 Arab Nations Cup
+2002 362 home Bahrain Yemen 3 1 Arab Nations Cup
+2002 367 home Bahrain Lebanon 0 0 Arab Nations Cup
+2002 369 home Bahrain Jordan 2 1 Arab Nations Cup
+2002 371 away Bahrain SaudiArabia 1 0 Arab Nations Cup
+2003 258 away Bahrain Oman 1 0 Friendly
+2003 267 home Bahrain Lebanon 4 3 Friendly
+2003 275 away Bahrain UnitedArab 1 4 Friendly
+2003 287 away Bahrain Iraq 5 1 Asian Cup qualifier
+2003 289 home Bahrain Myanmar 3 1 Asian Cup qualifier
+2003 291 away Bahrain Malaysia 2 2 Asian Cup qualifier
+2003 299 home Bahrain Myanmar 4 0 Asian Cup qualifier
+2003 301 home Bahrain Malaysia 3 1 Asian Cup qualifier
+2003 303 home Bahrain Iraq 1 0 Asian Cup qualifier
+2003 353 home Bahrain Iraq 2 2 Friendly tournament
+2003 356 home Bahrain Egypt 0 1 Friendly tournament
+2003 359 home Bahrain Kenya 2 1 Friendly tournament
+2003 368 home Bahrain Qatar 0 0 Gulf Cup
+2003 371 home Bahrain Yemen 5 1 Gulf Cup
+2004 1 away Bahrain SaudiArabia 1 0 Gulf Cup
+2004 3 home Bahrain Oman 1 0 Gulf Cup
+2004 7 home Bahrain UnitedArab 3 1 Gulf Cup
+2004 10 away Bahrain Kuwait 0 4 Gulf Cup
+2004 39 away Bahrain Lebanon 2 1 Friendly
+2004 44 away Bahrain Qatar 2 0 Friendly
+2004 49 home Bahrain Syria 2 1 World Cup qualifier
+2004 83 home Bahrain Jordan 0 0 Friendly
+2004 85 home Bahrain Jordan 0 2 Friendly
+2004 93 away Bahrain Tajikistan 0 0 World Cup qualifier
+2004 150 away Bahrain Lebanon 2 2 Friendly
+2004 155 away Bahrain UnitedArab 2 3 Friendly
+2004 164 home Bahrain Kyrgyzstan 5 0 World Cup qualifier
+2004 191 away Bahrain Thailand 0 2 Friendly
+2004 196 away Bahrain SouthKorea 2 0 Friendly
+2004 203 away Bahrain China 2 2 Asian Cup
+2004 207 home Bahrain Qatar 1 1 Asian Cup
+2004 211 home Bahrain Indonesia 3 1 Asian Cup
+2004 216 home Bahrain Uzbekistan 2 2 Asian Cup
+2004 220 away Bahrain Japan 4 3 Asian Cup
+2004 223 away Bahrain Iran 4 2 Asian Cup
+2004 243 home Bahrain Kuwait 0 0 Friendly
+2004 250 home Bahrain Palestine 1 0 Friendly
+2004 256 away Bahrain Kyrgyzstan 1 2 World Cup qualifier
+2004 292 away Bahrain Syria 2 2 World Cup qualifier
+2004 327 home Bahrain Tajikistan 4 0 World Cup qualifier
+2004 342 home Bahrain Finland 1 2 Friendly tournament
+2004 344 home Bahrain Latvia 2 2 Friendly tournament
+2004 352 away Bahrain Yemen 1 1 Gulf Cup
+2004 355 home Bahrain Kuwait 1 1 Gulf Cup
+2004 358 home Bahrain SaudiArabia 3 0 Gulf Cup
+2004 361 away Bahrain Oman 3 2 Gulf Cup
+2004 364 home Bahrain Kuwait 3 1 Gulf Cup
+2005 25 home Bahrain Norway 0 1 Friendly
+2005 33 home Bahrain Lebanon 2 1 Friendly
+2005 40 home Bahrain Iran 0 0 World Cup qualifier
+2005 87 away Bahrain NorthKorea 1 2 World Cup qualifier
+2005 92 away Bahrain Japan 1 0 World Cup qualifier
+2005 151 away Bahrain SaudiArabia 1 1 Friendly
+2005 158 home Bahrain Japan 0 1 World Cup qualifier
+2005 163 away Bahrain Iran 1 0 World Cup qualifier
+2005 220 home Bahrain Turkmenistan 5 0 Friendly
+2005 224 home Bahrain Iraq 2 2 Friendly
+2005 234 home Bahrain NorthKorea 2 3 World Cup qualifier
+2005 251 away Bahrain Uzbekistan 1 0 World Cup qualifier
+2005 287 away Bahrain Uzbekistan 1 1 World Cup qualifier
+2005 291 home Bahrain Uzbekistan 0 0 World Cup qualifier
+2005 306 home Bahrain Panama 5 0 Friendly
+2005 322 away Bahrain TrinidadTobago 1 1 World Cup qualifier
+2005 326 home Bahrain TrinidadTobago 0 1 World Cup qualifier
+2006 30 home Bahrain Syria 1 1 Friendly
+2006 47 home Bahrain Palestine 0 2 Friendly
+2006 53 home Bahrain Australia 1 3 Asian Cup qualifier
+2006 63 away Bahrain Kuwait 0 0 Asian Cup qualifier
+2006 226 away Bahrain SaudiArabia 1 0 Friendly
+2006 250 home Bahrain Jordan 0 2 Friendly
+2006 290 away Bahrain Australia 2 0 Asian Cup qualifier
+2006 318 away Bahrain Oman 1 1 Friendly
+2006 325 home Bahrain Kuwait 2 1 Asian Cup qualifier
+2007 12 home Bahrain Yemen 4 0 Friendly
+2007 18 away Bahrain SaudiArabia 2 1 Gulf Cup
+2007 21 home Bahrain Iraq 1 1 Gulf Cup
+2007 24 home Bahrain Qatar 2 1 Gulf Cup
+2007 27 away Bahrain Oman 1 0 Gulf Cup
+2007 182 home Bahrain UnitedArab 2 2 Friendly
+2007 185 away Bahrain Vietnam 5 3 Friendly
+2007 196 away Bahrain Indonesia 2 1 Asian Cup
+2007 201 home Bahrain SouthKorea 2 1 Asian Cup
+2007 204 away Bahrain SaudiArabia 4 0 Asian Cup
+2007 255 home Bahrain Jordan 1 3 Friendly
+2007 283 home Bahrain Singapore 3 1 Friendly
+2007 295 home Bahrain Libya 2 0 Friendly
+2007 300 home Bahrain Malaysia 4 1 World Cup qualifier
+2007 307 away Bahrain Malaysia 0 0 World Cup qualifier
+2008 16 home Bahrain Kuwait 1 0 Friendly
+2008 23 home Bahrain Syria 1 2 Friendly
+2008 26 home Bahrain Yemen 2 1 Friendly
+2008 37 away Bahrain Oman 0 1 World Cup qualifier
+2008 66 away Bahrain Qatar 1 2 Friendly
+2008 83 home Bahrain Iran 1 0 Friendly
+2008 88 home Bahrain Japan 1 0 World Cup qualifier
+2008 152 away Bahrain Singapore 0 1 Friendly
+2008 157 away Bahrain Thailand 2 3 World Cup qualifier
+2008 162 home Bahrain Thailand 1 1 World Cup qualifier
+2008 169 home Bahrain Oman 1 1 World Cup qualifier
+2008 177 away Bahrain Japan 1 0 World Cup qualifier
+2008 237 home Bahrain BurkinaFaso 3 1 Friendly
+2008 246 away Bahrain UnitedArab 2 3 Friendly
+2008 254 home Bahrain Japan 2 3 World Cup qualifier
+2008 258 away Bahrain Qatar 1 1 World Cup qualifier
+2008 294 home Bahrain Azerbaijan 1 2 Friendly
+2008 322 away Bahrain SaudiArabia 4 0 Friendly
+2008 329 home Bahrain Australia 0 1 World Cup qualifier
+2008 364 home Bahrain SaudiArabia 1 0 Friendly
+2008 370 home Bahrain Syria 2 2 Friendly
+2009 4 home Bahrain Iraq 3 1 Gulf Cup
+2009 7 away Bahrain Kuwait 1 0 Gulf Cup
+2009 10 away Bahrain Oman 2 0 Gulf Cup
+2009 21 away Bahrain HongKong 1 3 Asian Cup qualifier
+2009 28 home Bahrain Japan 1 0 Asian Cup qualifier
+2009 35 home Bahrain SouthKorea 2 2 Friendly
+2009 42 away Bahrain Uzbekistan 0 1 World Cup qualifier
+2009 85 home Bahrain Zimbabwe 5 2 Friendly
+2009 90 away Bahrain Japan 1 0 World Cup qualifier
+2009 94 home Bahrain Qatar 1 0 World Cup qualifier
+2009 155 home Bahrain Congo 3 1 Friendly
+2009 158 home Bahrain Jordan 4 0 Friendly
+2009 165 away Bahrain Australia 2 0 World Cup qualifier
+2009 172 home Bahrain Uzbekistan 1 0 World Cup qualifier
+2009 243 home Bahrain Kenya 2 1 Friendly tournament
+2009 248 home Bahrain Iran 4 2 Friendly tournament
+2009 253 home Bahrain SaudiArabia 0 0 World Cup qualifier
+2009 257 away Bahrain SaudiArabia 2 2 World Cup qualifier
+2009 289 home Bahrain NewZealand 0 0 World Cup qualifier
+2009 316 home Bahrain Togo 5 1 Friendly
+2009 324 away Bahrain NewZealand 1 0 World Cup qualifier
+2009 328 home Bahrain Yemen 4 0 Asian Cup qualifier
+2010 6 home Bahrain HongKong 4 0 Asian Cup qualifier
+2010 20 away Bahrain Yemen 3 0 Asian Cup qualifier
+2010 56 away Bahrain Kuwait 4 1 Friendly
+2010 65 away Bahrain Japan 2 0 Asian Cup qualifier
+2010 228 away Bahrain China 1 1 Friendly
+2010 251 away Bahrain Qatar 1 1 Friendly
+2010 267 away Bahrain Jordan 2 0 Friendly
+2010 272 away Bahrain Iran 3 0 West Asian Championship
+2010 274 home Bahrain Oman 2 0 West Asian Championship
+2010 287 away Bahrain Kuwait 1 3 Friendly
+2010 291 home Bahrain Uzbekistan 2 4 Friendly
+2010 320 home Bahrain Uganda 0 0 Friendly
+2010 324 home Bahrain Syria 0 2 Friendly
+2010 333 home Bahrain Oman 1 1 Gulf Cup
+2010 336 away Bahrain Iraq 3 2 Gulf Cup
+2010 339 away Bahrain UnitedArab 3 1 Gulf Cup
+2010 366 home Bahrain Uzbekistan 1 1 Friendly
+2010 369 home Bahrain Jordan 2 1 Friendly
+2010 372 home Bahrain SaudiArabia 0 1 Friendly
+2011 4 home Bahrain NorthKorea 0 1 Friendly
+2011 10 away Bahrain SouthKorea 2 1 Asian Cup
+2011 14 home Bahrain India 5 2 Asian Cup
+2011 18 away Bahrain Australia 1 0 Asian Cup
+2011 45 home Bahrain Kuwait 0 0 Friendly
+2011 227 away Bahrain Oman 1 1 Friendly
+2011 243 home Bahrain Sudan 1 0 Friendly
+2011 250 home Bahrain Qatar 0 0 World Cup qualifier
+2011 254 away Bahrain Indonesia 0 2 World Cup qualifier
+2011 290 away Bahrain Iran 6 0 World Cup qualifier
+2011 314 away Bahrain Kuwait 0 1 Friendly
+2011 321 home Bahrain Iran 1 1 World Cup qualifier
+2011 325 away Bahrain Qatar 0 0 World Cup qualifier
+2011 347 home Bahrain Palestine 0 1 Friendly
+2011 351 away Bahrain Qatar 2 2 Pan Arab Games
+2011 354 home Bahrain Iraq 3 0 Pan Arab Games
+2011 361 home Bahrain Palestine 3 1 Pan Arab Games
+2011 364 home Bahrain Jordan 1 0 Pan Arab Games
+2012 18 away Bahrain Sweden 2 0 Friendly
+2012 60 home Bahrain Indonesia 10 0 World Cup qualifier
+2012 163 home Bahrain Kuwait 1 1 Friendly
+2012 167 away Bahrain Kuwait 1 0 Friendly
+2012 178 away Bahrain Morocco 4 0 Arab Nations Cup
+2012 181 away Bahrain Yemen 2 0 Arab Nations Cup
+2012 184 away Bahrain Libya 2 1 Arab Nations Cup
+2012 232 away Bahrain Azerbaijan 3 0 Friendly
+2012 291 home Bahrain Philippines 0 0 Friendly
+2012 295 away Bahrain UnitedArab 6 2 Friendly
+2012 318 home Bahrain Jordan 3 0 Friendly
+2012 324 away Bahrain Kuwait 1 1 Friendly
+2012 339 home Bahrain Palestine 2 0 Friendly
+2012 344 home Bahrain Iraq 0 0 Friendly
+2012 350 home Bahrain Yemen 1 0 West Asian Championship
+2012 353 home Bahrain Iran 0 0 West Asian Championship
+2012 356 home Bahrain SaudiArabia 1 0 West Asian Championship
+2012 359 home Bahrain Syria 1 1 West Asian Championship
+2012 361 away Bahrain Oman 1 0 West Asian Championship
+2012 367 home Bahrain BurkinaFaso 0 0 Friendly
+2012 370 home Bahrain Guinea 3 0 Friendly
+2013 5 home Bahrain Oman 0 0 Gulf Cup
+2013 8 home Bahrain UnitedArab 1 2 Gulf Cup
+2013 11 home Bahrain Qatar 1 0 Gulf Cup
+2013 15 home Bahrain Iraq 1 1 Gulf Cup
+2013 18 home Bahrain Kuwait 1 6 Gulf Cup
+2013 32 home Bahrain Singapore 3 1 Friendly
+2013 37 away Bahrain Yemen 0 2 Asian Cup qualifier
+2013 79 home Bahrain Lebanon 0 0 Friendly
+2013 84 home Bahrain Qatar 1 0 Asian Cup qualifier
+2013 257 away Bahrain Kuwait 2 1 Friendly
+2013 289 away Bahrain Thailand 1 0 Friendly
+2013 294 away Bahrain Malaysia 1 1 Asian Cup qualifier
+2013 319 home Bahrain Lebanon 1 0 Friendly
+2013 325 home Bahrain Malaysia 1 0 Asian Cup qualifier
+2013 329 home Bahrain Yemen 2 0 Asian Cup qualifier
+2013 362 away Bahrain Qatar 1 1 Friendly
+2014 4 away Bahrain Jordan 1 0 West Asian Championship
+2014 67 away Bahrain Qatar 0 0 Asian Cup qualifier

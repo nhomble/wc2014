@@ -1,0 +1,6228 @@
+August 22
+1911	Russia
+England	0
+11	Friendly
+in Russia	-7
++7	1493
+1954	-
+0	21
+1
+June 30
+1912	Finland
+Russia	2
+1	Olympic Games
+in Sweden	+28
+-28	1550
+1465	+1
+0	19
+22
+July 01
+1912	Germany
+Russia	16
+0	Olympic Games Consolation Tournament
+in Sweden	+45
+-45	1632
+1420	+3
+-1	13
+23
+July 03
+1912	Norway
+Russia	2
+1	Friendly
+in Sweden	+8
+-8	1507
+1412	+1
+0	20
+23
+July 12
+1912	Russia
+Hungary	0
+9	Friendly
+in Russia	-10
++10	1402
+1755	-1
+0	24
+6
+July 14
+1912	Russia
+Hungary	0
+12	Friendly
+in Russia	-11
++11	1391
+1766	0
+0	24
+6
+May 04
+1913	Russia
+Sweden	1
+4	Friendly
+in Russia	-10
++10	1381
+1666	0
++1	25
+11
+September 14
+1913	Russia
+Norway	1
+1	Friendly
+in Russia	0
+0	1381
+1492	0
+0	25
+21
+July 05
+1914	Sweden
+Russia	2
+2	Friendly
+in Sweden	-8
++8	1649
+1389	0
+0	12
+25
+July 12
+1914	Norway
+Russia	1
+1	Friendly
+in Norway	-5
++5	1481
+1394	0
+0	23
+25
+August 21
+1923	Sweden
+Russia	1
+2	Friendly
+in Sweden	-17
++17	1611
+1411	0
++2	20
+40
+August 30
+1923	Norway
+Russia	2
+3	Friendly
+in Norway	-17
++17	1576
+1428	-2
+0	27
+40
+September 18
+1923	Estonia
+Russia	2
+4	Friendly
+in Estonia	-14
++14	1299
+1442	0
+0	45
+40
+November 16
+1924	Soviet Union
+Turkey	3
+0	Friendly
+in the Soviet Union	+20
+-20	1462
+1577	+1
+-1	42
+28
+May 15
+1925	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-16
++16	1580
+1478	-2
++3	27
+40
+September
+1930	Norway
+Soviet Union	0
+4	Friendly
+in Norway	-29
++29	1565
+1507	-3
++4	30
+35
+August 20
+1931	Soviet Union
+Turkey	3
+2	Friendly
+in the Soviet Union	+6
+-6	1513
+1471	+1
+0	35
+42
+October 21
+1932	Turkey
+Soviet Union	2
+2	Friendly
+in Turkey	-2
++2	1472
+1515	0
+0	43
+37
+October 23
+1932	Turkey
+Soviet Union	0
+4	Friendly
+in Turkey	-22
++22	1450
+1537	-1
++4	44
+33
+October 27
+1932	Turkey
+Soviet Union	0
+1	Friendly
+in Turkey	-10
++10	1440
+1547	0
++1	44
+33
+October 30
+1932	Turkey
+Soviet Union	2
+3	Friendly
+in Turkey	-10
++10	1430
+1557	-1
+0	45
+33
+July 30
+1933	Soviet Union
+Turkey	1
+2	Friendly
+in the Soviet Union	-16
++16	1541
+1436	-1
++2	34
+44
+August 07
+1934	Soviet Union
+Turkey	2
+1	Friendly
+in the Soviet Union	+5
+-5	1546
+1431	+1
+-2	35
+46
+October 13
+1935	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-10
++10	1421
+1556	-2
+0	46
+34
+October 15
+1935	Turkey
+Soviet Union	2
+2	Friendly
+in Turkey	+1
+-1	1422
+1555	0
+0	46
+34
+October 19
+1935	Turkey
+Soviet Union	3
+3	Friendly
+in Turkey	+1
+-1	1423
+1554	+1
+0	45
+34
+October 21
+1935	Turkey
+Soviet Union	2
+3	Friendly
+in Turkey	-9
++9	1414
+1563	-3
++3	48
+31
+October 25
+1935	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-9
++9	1405
+1572	-1
++2	49
+29
+October 27
+1935	Turkey
+Soviet Union	3
+3	Friendly
+in Turkey	+2
+-2	1407
+1570	+1
+0	48
+29
+May 11
+1952	Soviet Union
+Poland	0
+1	Friendly
+in the Soviet Union	-14
++14	1556
+1530	-3
++3	36
+41
+May 14
+1952	Soviet Union
+Poland	2
+1	Friendly
+in the Soviet Union	+7
+-7	1563
+1523	+1
+-3	35
+44
+May 24
+1952	Soviet Union
+Hungary	1
+1	Friendly
+in the Soviet Union	+6
+-6	1569
+1881	+1
+0	34
+5
+May 27
+1952	Soviet Union
+Hungary	2
+1	Friendly
+in the Soviet Union	+15
+-15	1584
+1866	+2
+0	32
+5
+June 11
+1952	Soviet Union
+Bulgaria	2
+2	Friendly
+in the Soviet Union	-5
++5	1579
+1475	-1
++2	33
+54
+June 18
+1952	Soviet Union
+Bulgaria	2
+2	Friendly
+in the Soviet Union	-5
++5	1574
+1480	0
++2	33
+52
+June 24
+1952	Soviet Union
+Romania	3
+1	Friendly
+in the Soviet Union	+11
+-11	1585
+1572	+1
+-1	32
+33
+June 29
+1952	Finland
+Soviet Union	0
+2	Friendly
+in Finland	-10
++10	1356
+1595	-1
++1	77
+31
+July 06
+1952	Soviet Union
+Czechoslovakia	2
+1	Friendly
+in the Soviet Union	+9
+-9	1604
+1650	+2
+-1	29
+25
+July 15
+1952	Soviet Union
+Bulgaria	2
+1	Olympic Games
+in Finland	+20
+-20	1624
+1460	+3
+-4	26
+56
+July 20
+1952	Soviet Union
+Yugoslavia	5
+5	Olympic Games
+in Finland	+18
+-18	1642
+1850	0
+-1	26
+7
+July 22
+1952	Yugoslavia
+Soviet Union	3
+1	Olympic Games
+in Finland	+21
+-21	1871
+1621	+1
+0	6
+26
+September 08
+1954	Soviet Union
+Sweden	7
+0	Friendly
+in the Soviet Union	+25
+-25	1646
+1742	+4
+0	25
+13
+September 26
+1954	Soviet Union
+Hungary	1
+1	Friendly
+in the Soviet Union	+8
+-8	1654
+2115	+1
+0	23
+1
+February 06
+1955	India
+Soviet Union	0
+4	Friendly
+in India	-15
++15	1478
+1669	-1
++1	54
+21
+February 27
+1955	India
+Soviet Union	0
+3	Friendly
+in India	-13
++13	1465
+1682	-5
++1	59
+20
+March 02
+1955	India
+Soviet Union	0
+3	Friendly
+in India	-12
++12	1453
+1694	-1
+0	60
+20
+June 26
+1955	Sweden
+Soviet Union	0
+6	Friendly
+in Sweden	-30
++30	1720
+1724	-2
++4	18
+16
+August 21
+1955	Soviet Union
+West Germany	3
+2	Friendly
+in the Soviet Union	+14
+-14	1738
+1951	0
+0	16
+4
+September 16
+1955	Soviet Union
+India	11
+1	Friendly
+in the Soviet Union	+5
+-5	1743
+1448	0
+0	17
+60
+September 25
+1955	Hungary
+Soviet Union	1
+1	Friendly
+in Hungary	-9
++9	2129
+1752	0
++1	1
+16
+October 23
+1955	Soviet Union
+France	2
+2	Friendly
+in the Soviet Union	-2
++2	1750
+1797	0
+0	16
+12
+May 23
+1956	Soviet Union
+Denmark	5
+1	Friendly
+in the Soviet Union	+8
+-8	1758
+1617	0
+-2	15
+29
+July 01
+1956	Denmark
+Soviet Union	2
+5	Friendly
+in Denmark	-15
++15	1587
+1773	-4
++2	35
+13
+July 11
+1956	Soviet Union
+Israel	5
+0	Olympic Games qualifier
+in the Soviet Union	+6
+-6	1779
+1415	0
+0	13
+67
+July 31
+1956	Israel
+Soviet Union	1
+2	Olympic Games qualifier
+in Israel	-7
++7	1408
+1786	0
+0	67
+13
+September 15
+1956	West Germany
+Soviet Union	1
+2	Friendly
+in West Germany	-15
++15	1882
+1801	0
++2	7
+11
+September 23
+1956	Soviet Union
+Hungary	0
+1	Friendly
+in the Soviet Union	-6
++6	1795
+2062	0
+0	11
+1
+October 21
+1956	France
+Soviet Union	2
+1	Friendly
+in France	+7
+-7	1793
+1788	+1
+-3	13
+14
+November 29
+1956	Indonesia
+Soviet Union	0
+0	Olympic Games
+in Australia	+25
+-25	1386
+1763	+6
+-1	78
+15
+December 01
+1956	Soviet Union
+Indonesia	4
+0	Olympic Games
+in Australia	+12
+-12	1775
+1374	+1
+-3	14
+81
+December 05
+1956	Soviet Union
+Bulgaria	2
+1	Olympic Games
+in Australia	+12
+-12	1787
+1524	0
+-3	14
+48
+December 08
+1956	Soviet Union
+Yugoslavia	1
+0	Olympic Games
+in Australia	+34
+-34	1821
+1799	+5
+-5	9
+12
+June 01
+1957	Soviet Union
+Romania	1
+1	Friendly
+in the Soviet Union	-8
++8	1813
+1576	-1
++4	9
+36
+June 23
+1957	Soviet Union
+Poland	3
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1819
+1499	+1
+-2	8
+50
+July 21
+1957	Bulgaria
+Soviet Union	0
+4	Friendly
+in Bulgaria	-12
++12	1585
+1831	-1
+0	36
+8
+July 27
+1957	Soviet Union
+Finland	2
+1	World Cup qualifier
+in the Soviet Union	+1
+-1	1832
+1310	0
+-1	8
+96
+August 15
+1957	Finland
+Soviet Union	0
+10	World Cup qualifier
+in Finland	-9
++9	1301
+1841	-1
++2	97
+6
+September 22
+1957	Hungary
+Soviet Union	1
+2	Friendly
+in Hungary	-17
++17	2025
+1858	0
+0	2
+6
+October 20
+1957	Poland
+Soviet Union	2
+1	World Cup qualifier
+in Poland	+32
+-32	1560
+1826	+5
+-2	45
+8
+November 24
+1957	Soviet Union
+Poland	2
+0	World Cup qualifier
+in East Germany	+11
+-11	1837
+1557	+2
+-1	7
+45
+May 18
+1958	Soviet Union
+England	1
+1	Friendly
+in the Soviet Union	0
+0	1837
+1946	0
+0	9
+4
+June 08
+1958	England
+Soviet Union	2
+2	World Cup
+in Sweden	-9
++9	1937
+1846	0
++2	4
+7
+June 11
+1958	Soviet Union
+Austria	2
+0	World Cup
+in Sweden	+40
+-40	1886
+1769	+1
+-5	6
+16
+June 15
+1958	Brazil
+Soviet Union	2
+0	World Cup
+in Sweden	+33
+-33	2018
+1853	0
+-2	1
+8
+June 17
+1958	Soviet Union
+England	1
+0	World Cup
+in Sweden	+36
+-36	1889
+1892	+3
+-1	5
+4
+June 19
+1958	Sweden
+Soviet Union	2
+0	World Cup
+in Sweden	+43
+-43	1848
+1846	+5
+-5	8
+10
+August 30
+1958	Czechoslovakia
+Soviet Union	1
+2	Friendly
+in Czechoslovakia	-13
++13	1835
+1859	-1
++2	9
+7
+September 28
+1958	Soviet Union
+Hungary	3
+1	European Cup qualifier
+in the Soviet Union	+28
+-28	1887
+1905	+2
+0	5
+2
+October 22
+1958	England
+Soviet Union	5
+0	Friendly
+in England	+14
+-14	1901
+1873	0
+-3	4
+7
+June 27
+1959	Soviet Union
+Bulgaria	1
+1	Olympic Games qualifier
+in the Soviet Union	-15
++15	1858
+1638	-2
++4	7
+29
+July 19
+1959	Soviet Union
+Romania	2
+0	Olympic Games qualifier
+in the Soviet Union	+7
+-7	1865
+1603	+1
+0	5
+38
+August 02
+1959	Romania
+Soviet Union	0
+0	Olympic Games qualifier
+in Romania	+9
+-9	1612
+1856	+2
+-2	36
+7
+September 06
+1959	Soviet Union
+Czechoslovakia	3
+1	Friendly
+in the Soviet Union	+9
+-9	1865
+1791	+2
+-3	5
+14
+September 13
+1959	Bulgaria
+Soviet Union	1
+0	Olympic Games qualifier
+in Bulgaria	+27
+-27	1665
+1838	+1
+-4	28
+9
+September 27
+1959	Hungary
+Soviet Union	0
+1	European Cup qualifier
+in Hungary	-30
++30	1903
+1868	0
++4	3
+5
+October 03
+1959	China
+Soviet Union	0
+1	Friendly
+in China	-3
++3	1493
+1871	-2
+0	53
+5
+May 19
+1960	Soviet Union
+Poland	7
+1	Friendly
+in the Soviet Union	+4
+-4	1875
+1567	+1
+0	6
+45
+July 06
+1960	Soviet Union
+Czechoslovakia	3
+0	European Cup
+in France	+41
+-41	1916
+1810	+2
+-2	4
+11
+July 10
+1960	Soviet Union
+Yugoslavia	2
+1	European Cup
+in France	+21
+-21	1937
+1842	+2
+0	3
+9
+August 17
+1960	East Germany
+Soviet Union	0
+1	Friendly
+in East Germany	-2
++2	1476
+1939	0
+0	62
+3
+September 04
+1960	Austria
+Soviet Union	3
+1	Friendly
+in Austria	+19
+-19	1771
+1920	0
+0	17
+3
+May 21
+1961	Poland
+Soviet Union	1
+0	Friendly
+in Poland	+16
+-16	1616
+1904	+3
+-2	37
+6
+June 18
+1961	Soviet Union
+Turkey	1
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1910
+1680	+1
+0	4
+23
+June 24
+1961	Soviet Union
+Argentina	0
+0	Friendly
+in the Soviet Union	-2
++2	1908
+1944	-1
+0	5
+2
+July 01
+1961	Soviet Union
+Norway	5
+2	World Cup qualifier
+in the Soviet Union	+3
+-3	1911
+1434	+1
+-1	4
+73
+August 23
+1961	Norway
+Soviet Union	0
+3	World Cup qualifier
+in Norway	-7
++7	1427
+1918	-3
+0	75
+4
+September 10
+1961	Soviet Union
+Austria	0
+1	Friendly
+in the Soviet Union	-15
++15	1903
+1841	0
+0	4
+11
+November 12
+1961	Turkey
+Soviet Union	1
+2	World Cup qualifier
+in Turkey	-13
++13	1661
+1916	-3
++3	28
+3
+November 18
+1961	Argentina
+Soviet Union	1
+2	Friendly
+in Argentina	-14
++14	1933
+1930	0
+0	2
+3
+November 22
+1961	Chile
+Soviet Union	0
+1	Friendly
+in Chile	-6
++6	1678
+1936	-1
++1	23
+2
+November 29
+1961	Uruguay
+Soviet Union	1
+2	Friendly
+in Uruguay	-12
++12	1895
+1948	-2
+0	8
+2
+April 11
+1962	Luxembourg
+Soviet Union	1
+3	Friendly
+in Luxembourg	-1
++1	1266
+1949	0
+0	115
+2
+April 18
+1962	Sweden
+Soviet Union	0
+2	Friendly
+in Sweden	-15
++15	1825
+1964	-2
+0	13
+2
+April 27
+1962	Soviet Union
+Uruguay	5
+0	Friendly
+in the Soviet Union	+10
+-10	1974
+1859	0
+-1	2
+9
+May 03
+1962	Soviet Union
+East Germany	2
+1	Friendly
+in the Soviet Union	+1
+-1	1975
+1488	0
+0	2
+59
+May 31
+1962	Soviet Union
+Yugoslavia	2
+0	World Cup
+in Chile	+38
+-38	2013
+1879	0
+-2	2
+7
+June 03
+1962	Colombia
+Soviet Union	4
+4	World Cup
+in Chile	+28
+-28	1481
+1985	+5
+0	63
+2
+June 06
+1962	Soviet Union
+Uruguay	2
+1	World Cup
+in Chile	+18
+-18	2003
+1813	0
+-2	2
+13
+June 10
+1962	Chile
+Soviet Union	2
+1	World Cup
+in Chile	+44
+-44	1773
+1959	+1
+-1	19
+3
+May 22
+1963	Soviet Union
+Sweden	0
+1	Friendly
+in the Soviet Union	-16
++16	1943
+1843	0
++1	1
+10
+July 27
+1963	Soviet Union
+Finland	7
+0	Olympic Games qualifier
+in the Soviet Union	+1
+-1	1944
+1252	0
+0	1
+121
+August 01
+1963	Finland
+Soviet Union	0
+4	Olympic Games qualifier
+in Finland	-2
++2	1250
+1946	0
+0	121
+1
+September 22
+1963	Soviet Union
+Hungary	1
+1	Friendly
+in the Soviet Union	-3
++3	1943
+1928	0
+0	1
+2
+October 13
+1963	Soviet Union
+Italy	2
+0	European Cup qualifier
+in the Soviet Union	+16
+-16	1959
+1858	0
+-1	1
+9
+November 10
+1963	Italy
+Soviet Union	1
+1	European Cup qualifier
+in Italy	0
+0	1858
+1959	0
+0	8
+1
+December 01
+1963	Morocco
+Soviet Union	1
+1	Friendly
+in Morocco	+6
+-6	1601
+1953	+2
+0	38
+1
+May 13
+1964	Sweden
+Soviet Union	1
+1	European Cup qualifier
+in Sweden	0
+0	1860
+1953	0
+0	10
+1
+May 20
+1964	Soviet Union
+Uruguay	1
+0	Friendly
+in the Soviet Union	+4
+-4	1957
+1807	0
+0	1
+13
+May 27
+1964	Soviet Union
+Sweden	3
+1	European Cup qualifier
+in the Soviet Union	+15
+-15	1972
+1845	0
+-2	1
+11
+May 31
+1964	East Germany
+Soviet Union	1
+1	Olympic Games qualifier
+in East Germany	+13
+-13	1610
+1959	+2
+0	39
+1
+June 07
+1964	Soviet Union
+East Germany	1
+1	Olympic Games qualifier
+in the Soviet Union	-17
++17	1942
+1627	-1
++6	2
+33
+June 17
+1964	Soviet Union
+Denmark	3
+0	European Cup
+in Spain	+11
+-11	1953
+1602	+1
+-4	1
+41
+June 21
+1964	Spain
+Soviet Union	2
+1	European Cup
+in Spain	+24
+-24	1888
+1929	+4
+-1	5
+2
+June 28
+1964	East Germany
+Soviet Union	4
+1	Olympic Games qualifier
+in Poland	+60
+-60	1687
+1869	+7
+-5	26
+7
+October 11
+1964	Austria
+Soviet Union	1
+0	Friendly
+in Austria	+11
+-11	1756
+1858	+1
+-2	19
+8
+November 04
+1964	Algeria
+Soviet Union	2
+2	Friendly
+in Algeria	0
+0	1773
+1858	0
+0	18
+7
+November 22
+1964	Yugoslavia
+Soviet Union	1
+1	Friendly
+in Yugoslavia	-1
++1	1776
+1859	0
+0	17
+7
+November 29
+1964	Bulgaria
+Soviet Union	0
+0	Friendly
+in Bulgaria	+3
+-3	1673
+1856	0
+0	27
+7
+May 16
+1965	Soviet Union
+Austria	0
+0	Friendly
+in the Soviet Union	-5
++5	1851
+1770	0
++2	7
+20
+May 23
+1965	Soviet Union
+Greece	3
+1	World Cup qualifier
+in the Soviet Union	+4
+-4	1855
+1490	+1
+-3	6
+68
+May 30
+1965	Soviet Union
+Wales	2
+1	World Cup qualifier
+in the Soviet Union	+7
+-7	1862
+1675	0
+-1	6
+30
+June 27
+1965	Soviet Union
+Denmark	6
+0	World Cup qualifier
+in the Soviet Union	+9
+-9	1871
+1583	+1
+-1	5
+43
+July 04
+1965	Soviet Union
+Brazil	0
+3	Friendly
+in the Soviet Union	-19
++19	1852
+1951	-2
++2	7
+1
+September 04
+1965	Soviet Union
+Yugoslavia	0
+0	Friendly
+in the Soviet Union	-6
++6	1846
+1739	-1
+0	8
+22
+October 03
+1965	Greece
+Soviet Union	1
+4	World Cup qualifier
+in Greece	-13
++13	1477
+1859	-1
++2	71
+6
+October 17
+1965	Denmark
+Soviet Union	1
+3	World Cup qualifier
+in Denmark	-17
++17	1574
+1876	-2
++2	45
+5
+October 27
+1965	Wales
+Soviet Union	2
+1	World Cup qualifier
+in Wales	+25
+-25	1707
+1851	+2
+-5	26
+9
+November 21
+1965	Brazil
+Soviet Union	2
+2	Friendly
+in Brazil	-5
++5	1954
+1856	-1
+0	3
+9
+December 01
+1965	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-5
++5	1959
+1861	0
++1	1
+8
+December 04
+1965	Uruguay
+Soviet Union	1
+3	Friendly
+in Uruguay	-18
++18	1802
+1879	-1
++3	14
+5
+February 23
+1966	Chile
+Soviet Union	0
+2	Friendly
+in Chile	-13
++13	1726
+1892	-2
++1	23
+5
+April 20
+1966	Switzerland
+Soviet Union	2
+2	Friendly
+in Switzerland	+5
+-5	1586
+1887	+2
+0	43
+5
+April 24
+1966	Austria
+Soviet Union	0
+1	Friendly
+in Austria	-9
++9	1728
+1896	-1
+0	23
+5
+May 18
+1966	Czechoslovakia
+Soviet Union	1
+2	Friendly
+in Czechoslovakia	-12
++12	1847
+1908	-1
+0	9
+5
+May 22
+1966	Belgium
+Soviet Union	0
+1	Friendly
+in Belgium	-8
++8	1712
+1916	0
+0	27
+5
+June 05
+1966	Soviet Union
+France	3
+3	Friendly
+in the Soviet Union	-7
++7	1909
+1704	0
+0	5
+27
+July 12
+1966	Soviet Union
+North Korea	3
+0	World Cup
+in England	+20
+-20	1929
+1641	+2
+-1	4
+34
+July 16
+1966	Soviet Union
+Italy	1
+0	World Cup
+in England	+31
+-31	1960
+1911	+2
+-5	1
+7
+July 20
+1966	Soviet Union
+Chile	2
+1	World Cup
+in England	+11
+-11	1971
+1682	+1
+-1	1
+29
+July 23
+1966	Soviet Union
+Hungary	2
+1	World Cup
+in England	+28
+-28	1999
+1917	0
+-1	1
+6
+July 25
+1966	West Germany
+Soviet Union	2
+1	World Cup
+in England	+31
+-31	2016
+1968	+1
+-2	1
+3
+July 28
+1966	Portugal
+Soviet Union	2
+1	World Cup
+in England	+34
+-34	1961
+1934	+2
+-2	3
+5
+September 18
+1966	Yugoslavia
+Soviet Union	1
+2	Friendly
+in Yugoslavia	-7
++7	1705
+1941	0
+0	24
+5
+October 16
+1966	Soviet Union
+Turkey	0
+2	Friendly
+in the Soviet Union	-28
++28	1913
+1611	-1
++2	6
+41
+October 23
+1966	Soviet Union
+East Germany	2
+2	Friendly
+in the Soviet Union	-4
++4	1909
+1873	0
+0	6
+7
+November 01
+1966	Italy
+Soviet Union	1
+0	Friendly
+in Italy	+8
+-8	1870
+1901	+1
+0	8
+6
+May 10
+1967	Scotland
+Soviet Union	0
+2	Friendly
+in Scotland	-15
++15	1775
+1916	-1
+0	17
+6
+May 28
+1967	Soviet Union
+Mexico	2
+0	Friendly
+in the Soviet Union	+6
+-6	1922
+1756	0
+0	6
+18
+June 03
+1967	France
+Soviet Union	2
+4	Friendly
+in France	-9
++9	1668
+1931	-1
++1	31
+5
+June 11
+1967	Soviet Union
+Austria	4
+3	European Cup qualifier
+in the Soviet Union	+5
+-5	1936
+1695	+2
+-1	4
+27
+July 16
+1967	Soviet Union
+Greece	4
+0	European Cup qualifier
+in the Soviet Union	+3
+-3	1939
+1503	0
+-1	4
+61
+July 20
+1967	Poland
+Soviet Union	0
+1	Olympic Games qualifier
+in Poland	-10
++10	1639
+1949	-1
+0	33
+4
+August 04
+1967	Soviet Union
+Poland	2
+1	Olympic Games qualifier
+in the Soviet Union	+3
+-3	1952
+1636	0
+-1	4
+34
+August 30
+1967	Soviet Union
+Finland	2
+0	European Cup qualifier
+in the Soviet Union	+1
+-1	1953
+1368	0
+0	3
+96
+September 06
+1967	Finland
+Soviet Union	2
+5	European Cup qualifier
+in Finland	-4
++4	1364
+1957	-1
+0	97
+3
+October 01
+1967	Soviet Union
+Switzerland	2
+2	Friendly
+in the Soviet Union	-9
++9	1948
+1627	0
+0	4
+35
+October 08
+1967	Bulgaria
+Soviet Union	1
+2	Friendly
+in Bulgaria	-7
++7	1730
+1955	-1
+0	22
+4
+October 15
+1967	Austria
+Soviet Union	1
+0	European Cup qualifier
+in Austria	+31
+-31	1677
+1924	+2
+-2	29
+6
+October 31
+1967	Greece
+Soviet Union	0
+1	European Cup qualifier
+in Greece	-7
++7	1539
+1931	-1
++1	56
+5
+November 29
+1967	Netherlands
+Soviet Union	3
+1	Friendly
+in the Netherlands	+23
+-23	1639
+1908	+3
+-1	35
+5
+December 06
+1967	England
+Soviet Union	2
+2	Friendly
+in England	-6
++6	2022
+1914	0
++1	1
+4
+December 17
+1967	Chile
+Soviet Union	1
+4	Friendly
+in Chile	-14
++14	1724
+1928	0
+0	22
+4
+March 03
+1968	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+2
+-2	1770
+1926	0
+0	17
+4
+March 07
+1968	Mexico
+Soviet Union	1
+1	Friendly
+in Mexico	+2
+-2	1772
+1924	+1
+0	16
+4
+March 10
+1968	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+1
+-1	1773
+1923	0
+0	16
+4
+April 24
+1968	Soviet Union
+Belgium	1
+0	Friendly
+in the Soviet Union	+2
+-2	1925
+1677	0
+0	4
+28
+May 04
+1968	Hungary
+Soviet Union	2
+0	European Cup qualifier
+in Hungary	+21
+-21	1959
+1904	+1
+-2	2
+6
+May 11
+1968	Soviet Union
+Hungary	3
+0	European Cup qualifier
+in the Soviet Union	+30
+-30	1934
+1929	+3
+-2	3
+4
+June 05
+1968	Italy
+Soviet Union	0
+0	European Cup
+in Italy	-5
++5	1900
+1939	-1
+0	6
+3
+June 08
+1968	England
+Soviet Union	2
+0	European Cup
+in Italy	+33
+-33	2018
+1906	0
+-1	1
+4
+June 16
+1968	Soviet Union
+Austria	3
+1	Friendly
+in the Soviet Union	+4
+-4	1910
+1668	+2
+-2	4
+32
+August 01
+1968	Sweden
+Soviet Union	2
+2	Friendly
+in Sweden	+3
+-3	1695
+1907	0
+-1	25
+6
+February 20
+1969	Colombia
+Soviet Union	1
+3	Friendly
+in Colombia	-3
++3	1422
+1910	-1
+0	85
+6
+March 05
+1969	Soviet Union
+Iraq	2
+0	Friendship Cup
+in Iran	+5
+-5	1915
+1546	0
+-3	6
+57
+March 08
+1969	Soviet Union
+Pakistan	5
+0	Friendship Cup
+in Iran	+2
+-2	1917
+1292	0
+-2	6
+114
+March 11
+1969	Soviet Union
+Turkey	2
+0	Friendship Cup
+in Iran	+5
+-5	1922
+1547	0
+-2	6
+56
+March 14
+1969	Iran
+Soviet Union	0
+2	Friendship Cup
+in Iran	-11
++11	1608
+1933	-3
++2	40
+4
+July 25
+1969	East Germany
+Soviet Union	2
+2	Friendly
+in East Germany	-1
++1	1862
+1934	0
+0	7
+4
+August 06
+1969	Soviet Union
+Sweden	0
+1	Friendly
+in the Soviet Union	-17
++17	1917
+1780	-2
++3	6
+15
+September 10
+1969	Northern Ireland
+Soviet Union	0
+0	World Cup qualifier
+in Northern Ireland	+7
+-7	1696
+1910	+1
+0	26
+6
+September 24
+1969	Yugoslavia
+Soviet Union	1
+3	Friendly
+in Yugoslavia	-13
++13	1748
+1923	-1
++1	19
+5
+October 15
+1969	Soviet Union
+Turkey	3
+0	World Cup qualifier
+in the Soviet Union	+5
+-5	1928
+1587	+1
+-3	4
+48
+October 22
+1969	Soviet Union
+Northern Ireland	2
+0	World Cup qualifier
+in the Soviet Union	+8
+-8	1936
+1688	0
+-3	4
+28
+November 16
+1969	Turkey
+Soviet Union	1
+3	World Cup qualifier
+in Turkey	-12
++12	1575
+1948	-1
+0	48
+4
+February 14
+1970	Peru
+Soviet Union	0
+0	Friendly
+in Peru	+4
+-4	1694
+1944	0
+0	27
+4
+February 20
+1970	Peru
+Soviet Union	0
+2	Friendly
+in Peru	-9
++9	1685
+1953	-2
++1	28
+3
+February 22
+1970	El Salvador
+Soviet Union	0
+2	Friendly
+in El Salvador	-4
++4	1501
+1957	-1
+0	65
+3
+February 26
+1970	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+5
+-5	1658
+1952	0
+0	34
+3
+May 05
+1970	Bulgaria
+Soviet Union	3
+3	Friendly
+in Bulgaria	+2
+-2	1768
+1950	0
+0	17
+3
+May 06
+1970	Bulgaria
+Soviet Union	0
+0	Friendly
+in Bulgaria	+2
+-2	1770
+1948	0
+-1	17
+4
+May 31
+1970	Mexico
+Soviet Union	0
+0	World Cup
+in Mexico	+14
+-14	1684
+1934	+4
+-1	28
+5
+June 06
+1970	Soviet Union
+Belgium	4
+1	World Cup
+in Mexico	+26
+-26	1960
+1719	+1
+-4	4
+24
+June 10
+1970	Soviet Union
+El Salvador	2
+0	World Cup
+in Mexico	+5
+-5	1965
+1447	+1
+-1	4
+77
+June 14
+1970	Uruguay
+Soviet Union	1
+0	World Cup
+in Mexico	+42
+-42	1856
+1923	0
+-1	8
+5
+October 28
+1970	Soviet Union
+Yugoslavia	4
+0	Friendly
+in the Soviet Union	+8
+-8	1931
+1777	0
+-2	5
+15
+November 15
+1970	Cyprus
+Soviet Union	1
+3	European Cup qualifier
+in Cyprus	-3
++3	1335
+1934	-1
+0	106
+5
+February 17
+1971	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+4
+-4	1703
+1930	0
+0	26
+5
+February 19
+1971	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+4
+-4	1707
+1926	+1
+0	25
+5
+February 28
+1971	El Salvador
+Soviet Union	0
+1	Friendly
+in El Salvador	-2
++2	1445
+1928	0
+0	77
+5
+April 28
+1971	Bulgaria
+Soviet Union	1
+1	Friendly
+in Bulgaria	+4
+-4	1699
+1924	0
+0	26
+5
+May 30
+1971	Soviet Union
+Spain	2
+1	European Cup qualifier
+in the Soviet Union	+9
+-9	1933
+1812	0
+0	5
+9
+June 07
+1971	Soviet Union
+Cyprus	6
+1	European Cup qualifier
+in the Soviet Union	+1
+-1	1934
+1312	0
+0	5
+109
+June 14
+1971	Soviet Union
+Scotland	1
+0	Friendly
+in the Soviet Union	+2
+-2	1936
+1663	0
+0	5
+35
+September 18
+1971	Soviet Union
+India	5
+0	Friendly
+in the Soviet Union	+1
+-1	1937
+1356	0
+0	5
+97
+September 22
+1971	Soviet Union
+Northern Ireland	1
+0	European Cup qualifier
+in the Soviet Union	+5
+-5	1942
+1684	0
+0	5
+28
+October 13
+1971	Northern Ireland
+Soviet Union	1
+1	European Cup qualifier
+in Northern Ireland	+9
+-9	1693
+1933	0
+0	30
+5
+October 27
+1971	Spain
+Soviet Union	0
+0	European Cup qualifier
+in Spain	+1
+-1	1813
+1932	+1
+0	10
+5
+March 29
+1972	Bulgaria
+Soviet Union	1
+1	Friendly
+in Bulgaria	+3
+-3	1743
+1929	0
+0	21
+5
+April 19
+1972	Soviet Union
+Peru	2
+0	Friendly
+in the Soviet Union	+4
+-4	1933
+1704	0
+-1	5
+27
+April 30
+1972	Yugoslavia
+Soviet Union	0
+0	European Cup qualifier
+in Yugoslavia	+1
+-1	1813
+1932	0
+0	11
+4
+May 13
+1972	Soviet Union
+Yugoslavia	3
+0	European Cup qualifier
+in the Soviet Union	+15
+-15	1947
+1798	0
+-2	4
+13
+May 26
+1972	West Germany
+Soviet Union	4
+1	Friendly
+in West Germany	+9
+-9	2048
+1938	0
+-1	2
+4
+June 07
+1972	Soviet Union
+Bulgaria	1
+0	Friendly
+in the Soviet Union	+3
+-3	1941
+1733	0
+-1	4
+23
+June 14
+1972	Soviet Union
+Hungary	1
+0	European Cup
+in Belgium	+21
+-21	1962
+1859	+1
+0	3
+6
+June 18
+1972	West Germany
+Soviet Union	3
+0	European Cup
+in Belgium	+31
+-31	2094
+1931	0
+-1	2
+4
+June 29
+1972	Soviet Union
+Uruguay	1
+0	Independence Cup
+in Brazil	+11
+-11	1942
+1753	0
+-2	4
+18
+July 02
+1972	Argentina
+Soviet Union	1
+0	Independence Cup
+in Brazil	+27
+-27	1834
+1915	+3
+0	10
+4
+July 06
+1972	Portugal
+Soviet Union	1
+0	Independence Cup
+in Brazil	+24
+-24	1871
+1891	+1
+-1	6
+5
+July 16
+1972	Finland
+Soviet Union	1
+1	Friendly
+in Finland	+9
+-9	1360
+1882	+2
+0	98
+5
+August 06
+1972	Sweden
+Soviet Union	4
+4	Friendly
+in Sweden	+1
+-1	1761
+1881	0
+0	17
+5
+August 28
+1972	Soviet Union
+Burma	1
+0	Olympic Games
+in West Germany	+7
+-7	1888
+1531	0
+-2	5
+59
+August 30
+1972	Soviet Union
+Sudan	2
+1	Olympic Games
+in West Germany	+8
+-8	1896
+1560	0
+-1	5
+53
+September 03
+1972	Soviet Union
+Morocco	3
+0	Olympic Games
+in West Germany	+27
+-27	1923
+1685	+2
+-4	4
+31
+September 05
+1972	Poland
+Soviet Union	2
+1	Olympic Games
+in West Germany	+38
+-38	1860
+1885	+1
+-2	9
+6
+September 10
+1972	East Germany
+Soviet Union	2
+2	Olympic Games
+in West Germany	+7
+-7	1808
+1878	+1
+0	13
+7
+October 13
+1972	France
+Soviet Union	1
+0	World Cup qualifier
+in France	+22
+-22	1771
+1856	+4
+-2	18
+9
+October 18
+1972	Ireland
+Soviet Union	1
+2	World Cup qualifier
+in Ireland	-8
++8	1512
+1864	-1
++1	62
+8
+March 28
+1973	Bulgaria
+Soviet Union	1
+0	Friendly
+in Bulgaria	+9
+-9	1821
+1855	0
+0	13
+9
+April 18
+1973	Soviet Union
+Romania	2
+0	Friendly
+in the Soviet Union	+7
+-7	1862
+1731	0
+-2	9
+26
+May 13
+1973	Soviet Union
+Ireland	1
+0	World Cup qualifier
+in the Soviet Union	+3
+-3	1865
+1538	0
+-1	8
+58
+May 26
+1973	Soviet Union
+France	2
+0	World Cup qualifier
+in the Soviet Union	+12
+-12	1877
+1707	0
+-1	7
+27
+June 10
+1973	Soviet Union
+England	1
+2	Friendly
+in the Soviet Union	-11
++11	1866
+1951	0
+0	7
+3
+June 21
+1973	Soviet Union
+Brazil	0
+1	Friendly
+in the Soviet Union	-7
++7	1859
+2099	0
+0	7
+1
+August 05
+1973	Soviet Union
+Sweden	0
+0	Friendly
+in the Soviet Union	-4
++4	1855
+1811	0
+0	7
+14
+September 05
+1973	Soviet Union
+West Germany	0
+1	Friendly
+in the Soviet Union	-7
++7	1848
+2063	-1
+0	8
+2
+September 26
+1973	Soviet Union
+Chile	0
+0	World Cup qualifier
+in the Soviet Union	-11
++11	1837
+1756	-3
++2	11
+21
+October 17
+1973	East Germany
+Soviet Union	1
+0	Friendly
+in East Germany	+7
+-7	1843
+1830	+2
+-2	9
+12
+April 17
+1974	Yugoslavia
+Soviet Union	0
+1	Friendly
+in Yugoslavia	-15
++15	1904
+1845	0
++2	6
+9
+May 20
+1974	Soviet Union
+Czechoslovakia	0
+1	Friendly
+in the Soviet Union	-14
++14	1831
+1795	-3
++3	12
+16
+October 30
+1974	Ireland
+Soviet Union	3
+0	European Cup qualifier
+in Ireland	+50
+-50	1626
+1781	+6
+-6	39
+19
+April 02
+1975	Soviet Union
+Turkey	3
+0	European Cup qualifier
+in the Soviet Union	+13
+-13	1794
+1609	+2
+0	18
+42
+May 18
+1975	Soviet Union
+Ireland	2
+1	European Cup qualifier
+in the Soviet Union	+8
+-8	1802
+1637	+1
+0	15
+37
+June 08
+1975	Soviet Union
+Italy	1
+0	Friendly
+in the Soviet Union	+10
+-10	1812
+1887	+1
+0	13
+6
+July 13
+1975	Iran
+Soviet Union	1
+0	Friendly tournament
+in Iran	+18
+-18	1671
+1794	0
+-4	33
+17
+July 15
+1975	Iran
+Soviet Union	0
+1	Friendly tournament
+in Iran	-14
++14	1657
+1808	0
++4	33
+13
+July 30
+1975	Iceland
+Soviet Union	0
+2	Olympic Games qualifier
+in Iceland	-6
++6	1307
+1814	-2
+0	112
+13
+August 28
+1975	Norway
+Soviet Union	1
+3	Olympic Games qualifier
+in Norway	-9
++9	1410
+1823	-2
+0	84
+13
+September 10
+1975	Soviet Union
+Iceland	1
+0	Olympic Games qualifier
+in the Soviet Union	+1
+-1	1824
+1302	0
+0	13
+113
+September 24
+1975	Soviet Union
+Norway	4
+0	Olympic Games qualifier
+in the Soviet Union	+4
+-4	1828
+1406	0
+-1	13
+86
+October 12
+1975	Switzerland
+Soviet Union	0
+1	European Cup qualifier
+in Switzerland	-15
++15	1619
+1843	-6
++3	44
+11
+November 12
+1975	Soviet Union
+Switzerland	4
+1	European Cup qualifier
+in the Soviet Union	+9
+-9	1852
+1610	+1
+-1	11
+43
+November 23
+1975	Turkey
+Soviet Union	1
+0	European Cup qualifier
+in Turkey	+28
+-28	1623
+1824	+3
+-3	41
+14
+November 29
+1975	Romania
+Soviet Union	2
+2	Friendly
+in Romania	-1
++1	1769
+1825	0
+0	20
+14
+March 10
+1976	Czechoslovakia
+Soviet Union	2
+2	Friendly
+in Czechoslovakia	-4
++4	1850
+1829	0
+0	10
+14
+March 20
+1976	Soviet Union
+Argentina	0
+1	Friendly
+in the Soviet Union	-13
++13	1816
+1845	0
++2	14
+11
+March 24
+1976	Bulgaria
+Soviet Union	0
+3	Friendly
+in Bulgaria	-19
++19	1718
+1835	-1
+0	25
+14
+April 24
+1976	Czechoslovakia
+Soviet Union	2
+0	European Cup qualifier
+in Czechoslovakia	+20
+-20	1875
+1815	+2
+0	8
+14
+May 22
+1976	Soviet Union
+Czechoslovakia	2
+2	European Cup qualifier
+in the Soviet Union	-2
++2	1813
+1877	+1
+0	14
+9
+May 26
+1976	Hungary
+Soviet Union	1
+1	Friendly
+in Hungary	-3
++3	1819
+1816	0
+0	13
+14
+June 23
+1976	Austria
+Soviet Union	1
+2	Friendly
+in Austria	-11
++11	1733
+1827	-3
++1	26
+13
+June 25
+1976	Iran
+Soviet Union	1
+0	Friendly
+in Iran	+11
+-11	1706
+1816	0
+-1	28
+14
+June 27
+1976	Iran
+Soviet Union	2
+2	Friendly
+in Iran	0
+0	1706
+1816	0
+0	28
+14
+July 19
+1976	Canada
+Soviet Union	1
+2	Olympic Games
+in Canada	-11
++11	1450
+1827	0
++1	73
+13
+July 23
+1976	Soviet Union
+North Korea	3
+0	Olympic Games
+in Canada	+26
+-26	1853
+1611	+1
+-4	12
+44
+July 25
+1976	Soviet Union
+Iran	2
+1	Olympic Games
+in Canada	+18
+-18	1871
+1685	+3
+-2	9
+30
+November 28
+1976	Argentina
+Soviet Union	0
+0	Friendly
+in Argentina	-3
++3	1886
+1874	0
+0	9
+11
+December 01
+1976	Brazil
+Soviet Union	2
+0	Friendly
+in Brazil	+5
+-5	2045
+1869	0
+-1	2
+12
+December 10
+1976	Indonesia
+Soviet Union	0
+0	Friendly
+in Indonesia	+9
+-9	1252
+1860	+3
+0	125
+12
+March 20
+1977	Tunisia
+Soviet Union	0
+3	Friendly
+in Tunisia	-12
++12	1632
+1872	-3
+0	41
+12
+March 23
+1977	Yugoslavia
+Soviet Union	2
+4	Friendly
+in Yugoslavia	-17
++17	1798
+1889	-1
++2	16
+10
+April 24
+1977	Soviet Union
+Greece	2
+0	World Cup qualifier
+in the Soviet Union	+5
+-5	1894
+1567	+2
+0	7
+49
+April 30
+1977	Hungary
+Soviet Union	2
+1	World Cup qualifier
+in Hungary	+16
+-16	1874
+1878	0
+-4	12
+11
+May 10
+1977	Greece
+Soviet Union	1
+0	World Cup qualifier
+in Greece	+31
+-31	1598
+1847	+3
+-2	46
+13
+May 18
+1977	Soviet Union
+Hungary	2
+0	World Cup qualifier
+in the Soviet Union	+24
+-24	1871
+1850	+2
+-2	11
+13
+July 28
+1977	East Germany
+Soviet Union	2
+1	Friendly
+in East Germany	+7
+-7	1900
+1864	+2
+-1	6
+10
+July 29
+1977	Iran
+Soviet Union	1
+3	Friendly
+in Iran	-13
++13	1711
+1877	0
++1	27
+9
+July 31
+1977	Iran
+Soviet Union	1
+1	Friendly
+in Iran	+2
+-2	1713
+1875	0
+0	27
+9
+September 07
+1977	Soviet Union
+Poland	4
+1	Friendly
+in the Soviet Union	+13
+-13	1888
+1873	+2
+-2	7
+9
+October 05
+1977	Netherlands
+Soviet Union	0
+0	Friendly
+in the Netherlands	-6
++6	2020
+1894	-1
+0	3
+7
+October 08
+1977	France
+Soviet Union	0
+0	Friendly
+in France	0
+0	1780
+1894	0
+0	20
+7
+February 26
+1978	Morocco
+Soviet Union	2
+3	Friendly
+in Morocco	-8
++8	1722
+1902	-2
+0	27
+8
+March 08
+1978	West Germany
+Soviet Union	1
+0	Friendly
+in West Germany	+3
+-3	2090
+1899	0
+0	1
+8
+April 05
+1978	Soviet Union
+Finland	10
+2	Friendly
+in the Soviet Union	+2
+-2	1901
+1414	+1
+0	8
+83
+May 14
+1978	Romania
+Soviet Union	0
+1	Friendly
+in Romania	-10
++10	1776
+1911	0
++2	19
+6
+September 06
+1978	Iran
+Soviet Union	0
+1	Friendly
+in Iran	-8
++8	1717
+1919	-1
+0	28
+7
+September 20
+1978	Soviet Union
+Greece	2
+0	European Cup qualifier
+in the Soviet Union	+5
+-5	1924
+1580	0
+-1	7
+50
+October 05
+1978	Turkey
+Soviet Union	0
+2	Friendly
+in Turkey	-6
++6	1585
+1930	-3
+0	48
+7
+October 11
+1978	Hungary
+Soviet Union	2
+0	European Cup qualifier
+in Hungary	+38
+-38	1772
+1892	+6
+-2	20
+9
+November 19
+1978	Japan
+Soviet Union	1
+4	Friendly
+in Japan	-3
++3	1385
+1895	-2
++1	91
+8
+November 23
+1978	Japan
+Soviet Union	1
+4	Friendly
+in Japan	-3
++3	1382
+1898	-5
+0	96
+8
+November 26
+1978	Japan
+Soviet Union	0
+3	Friendly
+in Japan	-3
++3	1379
+1901	0
+0	96
+8
+January 06
+1979	Mexico
+Soviet Union	1
+0	Friendly
+in Mexico	+15
+-15	1608
+1886	+2
+-1	44
+9
+January 31
+1979	Soviet Union
+Mexico	1
+0	Friendly
+in the United States	+3
+-3	1889
+1605	0
+0	9
+45
+February 08
+1979	Mexico
+Soviet Union	1
+1	Friendly
+in Mexico	+5
+-5	1610
+1884	0
+0	46
+9
+March 28
+1979	Soviet Union
+Bulgaria	3
+1	Friendly
+in the Soviet Union	+4
+-4	1888
+1650	0
+0	9
+35
+April 19
+1979	Soviet Union
+Sweden	2
+0	Friendly
+in the Soviet Union	+5
+-5	1893
+1699	0
+0	9
+28
+May 05
+1979	Soviet Union
+Czechoslovakia	3
+0	Friendly
+in the Soviet Union	+13
+-13	1906
+1888	+2
+-1	8
+10
+May 19
+1979	Soviet Union
+Hungary	2
+2	European Cup qualifier
+in the Soviet Union	-13
++13	1893
+1763	-1
++2	9
+22
+June 22
+1979	Soviet Union
+Iran	2
+0	Friendly
+in the Soviet Union	+6
+-6	1899
+1753	0
+-1	9
+25
+June 25
+1979	Iran
+Soviet Union	1
+3	Friendly
+in Iran	-13
++13	1740
+1912	0
++1	25
+8
+June 27
+1979	Denmark
+Soviet Union	1
+2	Friendly
+in Denmark	-5
++5	1599
+1917	-4
+0	49
+8
+July 04
+1979	Finland
+Soviet Union	1
+1	European Cup qualifier
+in Finland	+16
+-16	1467
+1901	+1
+-1	74
+9
+September 05
+1979	Soviet Union
+East Germany	1
+0	Friendly
+in the Soviet Union	+6
+-6	1907
+1862	+1
+0	8
+11
+September 12
+1979	Greece
+Soviet Union	1
+0	European Cup qualifier
+in Greece	+29
+-29	1662
+1878	+5
+-1	32
+9
+October 14
+1979	Soviet Union
+Romania	3
+1	Friendly
+in the Soviet Union	+7
+-7	1885
+1751	+1
+0	9
+23
+October 31
+1979	Soviet Union
+Finland	2
+2	European Cup qualifier
+in the Soviet Union	-18
++18	1867
+1456	-2
++3	11
+75
+November 21
+1979	Soviet Union
+West Germany	1
+3	Friendly
+in the Soviet Union	-13
++13	1854
+2023	-1
+0	12
+1
+March 26
+1980	Bulgaria
+Soviet Union	1
+3	Friendly
+in Bulgaria	-10
++10	1625
+1864	-1
++3	42
+11
+April 29
+1980	Sweden
+Soviet Union	1
+5	Friendly
+in Sweden	-13
++13	1636
+1877	-2
++2	39
+10
+May 07
+1980	East Germany
+Soviet Union	2
+2	Friendly
+in East Germany	-3
++3	1874
+1880	-2
+0	12
+10
+May 23
+1980	Soviet Union
+France	1
+0	Friendly
+in the Soviet Union	+7
+-7	1887
+1877	+1
+-1	8
+9
+June 15
+1980	Brazil
+Soviet Union	1
+2	Friendly
+in Brazil	-16
++16	1995
+1903	0
+0	2
+8
+July 12
+1980	Soviet Union
+Denmark	2
+0	Friendly
+in the Soviet Union	+3
+-3	1906
+1621	0
+-2	8
+45
+August 27
+1980	Hungary
+Soviet Union	1
+4	Friendly
+in Hungary	-16
++16	1752
+1922	-2
+0	23
+8
+September 03
+1980	Iceland
+Soviet Union	1
+2	World Cup qualifier
+in Iceland	-2
++2	1317
+1924	0
+0	110
+8
+October 15
+1980	Soviet Union
+Iceland	5
+0	World Cup qualifier
+in the Soviet Union	+2
+-2	1926
+1369	0
+-1	7
+98
+December 04
+1980	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-4
++4	1956
+1930	-1
++1	4
+6
+May 30
+1981	Wales
+Soviet Union	0
+0	World Cup qualifier
+in Wales	-2
++2	1857
+1932	+1
++1	12
+4
+September 23
+1981	Soviet Union
+Turkey	4
+0	World Cup qualifier
+in the Soviet Union	+3
+-3	1935
+1487	0
+-1	4
+71
+October 07
+1981	Turkey
+Soviet Union	0
+3	World Cup qualifier
+in Turkey	-8
++8	1479
+1943	0
+0	71
+4
+October 28
+1981	Soviet Union
+Czechoslovakia	2
+0	World Cup qualifier
+in the Soviet Union	+15
+-15	1958
+1840	0
+-2	4
+13
+November 18
+1981	Soviet Union
+Wales	3
+0	World Cup qualifier
+in the Soviet Union	+14
+-14	1972
+1803	+1
+0	3
+16
+November 29
+1981	Czechoslovakia
+Soviet Union	1
+1	World Cup qualifier
+in Czechoslovakia	+1
+-1	1847
+1971	0
+0	14
+3
+March 10
+1982	Greece
+Soviet Union	0
+2	Friendly
+in Greece	-5
++5	1602
+1976	0
+0	43
+3
+April 14
+1982	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-2
++2	1959
+1978	0
+0	4
+3
+May 05
+1982	Soviet Union
+East Germany	1
+0	Friendly
+in the Soviet Union	+5
+-5	1983
+1862	0
+-1	3
+10
+June 03
+1982	Sweden
+Soviet Union	1
+1	Friendly
+in Sweden	+5
+-5	1677
+1978	0
+0	34
+3
+June 14
+1982	Brazil
+Soviet Union	2
+1	World Cup
+in Spain	+23
+-23	2078
+1955	+1
+0	1
+3
+June 19
+1982	Soviet Union
+New Zealand	3
+0	World Cup
+in Spain	+10
+-10	1965
+1548	+1
+-1	3
+57
+June 22
+1982	Scotland
+Soviet Union	2
+2	World Cup
+in Spain	+13
+-13	1813
+1952	+3
+-1	15
+5
+July 01
+1982	Soviet Union
+Belgium	1
+0	World Cup
+in Spain	+22
+-22	1974
+1830	0
+-2	5
+13
+July 04
+1982	Poland
+Soviet Union	0
+0	World Cup
+in Spain	0
+0	1977
+1974	0
+0	4
+5
+October 13
+1982	Soviet Union
+Finland	2
+0	European Cup qualifier
+in the Soviet Union	+1
+-1	1975
+1415	0
+0	4
+88
+March 23
+1983	France
+Soviet Union	1
+1	Friendly
+in France	-1
++1	1894
+1976	0
+0	8
+3
+April 13
+1983	Switzerland
+Soviet Union	0
+1	Friendly
+in Switzerland	-6
++6	1709
+1982	-1
+0	27
+2
+April 27
+1983	Soviet Union
+Portugal	5
+0	European Cup qualifier
+in the Soviet Union	+10
+-10	1992
+1732	0
+0	2
+23
+May 17
+1983	Austria
+Soviet Union	2
+2	Friendly
+in Austria	+1
+-1	1868
+1991	0
+0	10
+2
+May 22
+1983	Poland
+Soviet Union	1
+1	European Cup qualifier
+in Poland	-2
++2	1930
+1993	0
+0	6
+2
+June 01
+1983	Finland
+Soviet Union	0
+1	European Cup qualifier
+in Finland	-3
++3	1429
+1996	0
+0	86
+2
+July 26
+1983	East Germany
+Soviet Union	1
+3	Friendly
+in East Germany	-11
++11	1781
+2007	0
+0	19
+2
+October 09
+1983	Soviet Union
+Poland	2
+0	European Cup qualifier
+in the Soviet Union	+16
+-16	2023
+1908	0
+0	2
+5
+November 13
+1983	Portugal
+Soviet Union	1
+0	European Cup qualifier
+in Portugal	+29
+-29	1794
+1994	+3
+0	20
+1
+March 28
+1984	West Germany
+Soviet Union	2
+1	Friendly
+in West Germany	+8
+-8	1974
+1986	0
+0	2
+1
+May 15
+1984	Finland
+Soviet Union	1
+3	Friendly
+in Finland	-2
++2	1410
+1988	0
+0	88
+1
+June 02
+1984	England
+Soviet Union	0
+2	Friendly
+in England	-17
++17	1906
+2005	-1
+0	5
+1
+August 19
+1984	Soviet Union
+Mexico	3
+0	Friendly
+in the Soviet Union	+3
+-3	2008
+1691	0
+-2	1
+34
+September 12
+1984	Ireland
+Soviet Union	1
+0	World Cup qualifier
+in Ireland	+31
+-31	1714
+1977	+2
+-1	32
+2
+October 10
+1984	Norway
+Soviet Union	1
+1	World Cup qualifier
+in Norway	+14
+-14	1573
+1963	+3
+0	51
+2
+January 25
+1985	Yugoslavia
+Soviet Union	2
+1	Nehru Gold Cup
+in India	+30
+-30	1808
+1933	+8
+0	13
+2
+January 28
+1985	Soviet Union
+Iran	2
+0	Nehru Gold Cup
+in India	+11
+-11	1944
+1654	0
+0	2
+35
+February 02
+1985	Soviet Union
+Morocco	1
+0	Nehru Gold Cup
+in India	+6
+-6	1950
+1620	0
+-1	2
+42
+February 04
+1985	Soviet Union
+Yugoslavia	2
+1	Nehru Gold Cup
+in India	+12
+-12	1962
+1796	0
+-4	2
+16
+March 27
+1985	Soviet Union
+Austria	2
+0	Friendly
+in the Soviet Union	+4
+-4	1966
+1753	0
+-2	2
+26
+April 17
+1985	Switzerland
+Soviet Union	2
+2	World Cup qualifier
+in Switzerland	+7
+-7	1744
+1959	+1
+0	28
+2
+May 02
+1985	Soviet Union
+Switzerland	4
+0	World Cup qualifier
+in the Soviet Union	+11
+-11	1970
+1733	+2
+-1	1
+29
+June 05
+1985	Denmark
+Soviet Union	4
+2	World Cup qualifier
+in Denmark	+34
+-34	1852
+1936	+3
+-2	8
+3
+August 07
+1985	Soviet Union
+Romania	2
+0	Friendly
+in the Soviet Union	+5
+-5	1941
+1751	0
+-1	2
+26
+August 28
+1985	Soviet Union
+West Germany	1
+0	Friendly
+in the Soviet Union	+6
+-6	1947
+1903	0
+0	2
+4
+September 25
+1985	Soviet Union
+Denmark	1
+0	World Cup qualifier
+in the Soviet Union	+9
+-9	1956
+1819	0
+0	1
+11
+October 16
+1985	Soviet Union
+Ireland	2
+0	World Cup qualifier
+in the Soviet Union	+7
+-7	1963
+1694	0
+-2	1
+35
+October 30
+1985	Soviet Union
+Norway	1
+0	World Cup qualifier
+in the Soviet Union	+3
+-3	1966
+1625	0
+0	1
+40
+January 22
+1986	Spain
+Soviet Union	2
+0	Friendly
+in Spain	+17
+-17	1836
+1949	+6
+0	9
+1
+February 19
+1986	Mexico
+Soviet Union	1
+0	Friendly
+in Mexico	+11
+-11	1808
+1938	+2
+-1	16
+2
+March 26
+1986	Soviet Union
+England	0
+1	Friendly
+in the Soviet Union	-14
++14	1924
+1922	-1
+0	2
+3
+April 23
+1986	Romania
+Soviet Union	2
+1	Friendly
+in Romania	+12
+-12	1770
+1912	+3
+-1	24
+3
+May 07
+1986	Soviet Union
+Finland	0
+0	Friendly
+in the Soviet Union	-9
++9	1903
+1516	0
++1	3
+66
+June 02
+1986	Soviet Union
+Hungary	6
+0	World Cup
+in Mexico	+54
+-54	1957
+1797	+3
+-12	1
+18
+June 05
+1986	France
+Soviet Union	1
+1	World Cup
+in Mexico	0
+0	1952
+1957	0
+0	2
+1
+June 09
+1986	Soviet Union
+Canada	2
+0	World Cup
+in Mexico	+8
+-8	1965
+1554	-1
+-2	2
+61
+June 15
+1986	Belgium
+Soviet Union	4
+3	World Cup
+in Mexico	+45
+-45	1817
+1920	+10
+-3	12
+5
+August 20
+1986	Sweden
+Soviet Union	0
+0	Friendly
+in Sweden	0
+0	1816
+1920	0
+0	12
+7
+September 24
+1986	Iceland
+Soviet Union	1
+1	European Cup qualifier
+in Iceland	+16
+-16	1450
+1904	+1
+-1	83
+7
+October 11
+1986	France
+Soviet Union	0
+2	European Cup qualifier
+in France	-41
++41	1895
+1945	-2
++4	7
+3
+October 29
+1986	Soviet Union
+Norway	4
+0	European Cup qualifier
+in the Soviet Union	+7
+-7	1952
+1653	0
+-2	3
+37
+February 18
+1987	Wales
+Soviet Union	0
+0	Friendly
+in Wales	+3
+-3	1755
+1949	+1
+-1	21
+4
+April 18
+1987	Soviet Union
+Sweden	1
+3	Friendly
+in the Soviet Union	-23
++23	1926
+1867	-1
++2	5
+9
+April 29
+1987	Soviet Union
+East Germany	2
+0	European Cup qualifier
+in the Soviet Union	+10
+-10	1936
+1737	+1
+0	4
+24
+June 03
+1987	Norway
+Soviet Union	0
+1	European Cup qualifier
+in Norway	-10
++10	1638
+1946	-1
+0	40
+4
+August 29
+1987	Yugoslavia
+Soviet Union	0
+1	Friendly
+in Yugoslavia	-9
++9	1805
+1955	0
++1	17
+1
+September 09
+1987	Soviet Union
+France	1
+1	European Cup qualifier
+in the Soviet Union	-11
++11	1944
+1859	0
+0	1
+10
+September 23
+1987	Soviet Union
+Greece	3
+0	Friendly
+in the Soviet Union	+3
+-3	1947
+1655	0
+-1	1
+39
+October 10
+1987	East Germany
+Soviet Union	1
+1	European Cup qualifier
+in East Germany	+5
+-5	1763
+1942	+1
+0	22
+1
+October 28
+1987	Soviet Union
+Iceland	2
+0	European Cup qualifier
+in the Soviet Union	+3
+-3	1945
+1502	0
+0	1
+73
+February 20
+1988	Italy
+Soviet Union	4
+1	Friendly
+in Italy	+15
+-15	1906
+1930	+1
+0	6
+2
+March 23
+1988	Greece
+Soviet Union	0
+4	Friendly
+in Greece	-9
++9	1620
+1939	-4
+0	46
+2
+March 31
+1988	Argentina
+Soviet Union	2
+4	Friendly tournament
+in West Germany	-18
++18	1854
+1957	-2
+0	11
+2
+April 02
+1988	Soviet Union
+Sweden	0
+2	Friendly tournament
+in West Germany	-28
++28	1929
+1901	0
++2	2
+6
+April 27
+1988	Czechoslovakia
+Soviet Union	1
+1	Friendly
+in Czechoslovakia	+1
+-1	1789
+1928	0
+-1	19
+3
+June 01
+1988	Soviet Union
+Poland	2
+1	Friendly
+in the Soviet Union	+3
+-3	1931
+1721	+1
+0	2
+27
+June 12
+1988	Netherlands
+Soviet Union	0
+1	European Cup
+in West Germany	-22
++22	1870
+1953	-1
++1	8
+1
+June 15
+1988	Ireland
+Soviet Union	1
+1	European Cup
+in West Germany	+9
+-9	1836
+1944	+1
+0	11
+1
+June 18
+1988	England
+Soviet Union	1
+3	European Cup
+in West Germany	-31
++31	1848
+1975	0
++2	7
+1
+June 22
+1988	Italy
+Soviet Union	0
+2	European Cup
+in West Germany	-35
++35	1914
+2010	-3
+0	6
+1
+June 25
+1988	Netherlands
+Soviet Union	2
+0	European Cup
+in West Germany	+42
+-42	2008
+1968	+1
+-1	1
+2
+August 17
+1988	Finland
+Soviet Union	0
+0	Friendly
+in Finland	+7
+-7	1567
+1961	+3
+0	50
+2
+August 31
+1988	Iceland
+Soviet Union	1
+1	World Cup qualifier
+in Iceland	+16
+-16	1510
+1945	+4
+-1	67
+3
+September 11
+1988	Japan
+Soviet Union	0
+6	Friendly
+in Japan	-5
++5	1490
+1950	0
+0	71
+3
+September 13
+1988	Japan
+Soviet Union	2
+2	Friendly
+in Japan	+8
+-8	1498
+1942	+1
+0	70
+3
+September 21
+1988	West Germany
+Soviet Union	1
+0	Friendly
+in West Germany	+7
+-7	1943
+1935	+1
+-1	3
+4
+October 19
+1988	Soviet Union
+Austria	2
+0	World Cup qualifier
+in the Soviet Union	+7
+-7	1942
+1681	+1
++1	3
+33
+November 21
+1988	Syria
+Soviet Union	0
+2	Friendly
+in Syria	-3
++3	1485
+1945	-1
+0	72
+3
+November 23
+1988	Kuwait
+Soviet Union	0
+1	Friendly
+in Kuwait	-3
++3	1521
+1948	0
+0	63
+3
+November 27
+1988	Kuwait
+Soviet Union	0
+1	Friendly
+in Kuwait	-3
++3	1518
+1951	-1
+0	64
+3
+February 21
+1989	Bulgaria
+Soviet Union	1
+2	Friendly
+in Bulgaria	-7
++7	1737
+1958	-1
++1	26
+2
+March 22
+1989	Netherlands
+Soviet Union	2
+0	Friendly
+in the Netherlands	+9
+-9	2019
+1949	0
+0	1
+3
+April 26
+1989	Soviet Union
+East Germany	3
+0	World Cup qualifier
+in the Soviet Union	+7
+-7	1956
+1666	-1
+-1	4
+34
+May 10
+1989	Turkey
+Soviet Union	0
+1	World Cup qualifier
+in Turkey	-8
++8	1595
+1964	0
++1	46
+3
+May 31
+1989	Soviet Union
+Iceland	1
+1	World Cup qualifier
+in the Soviet Union	-19
++19	1945
+1514	-2
++4	4
+66
+August 23
+1989	Poland
+Soviet Union	1
+1	Friendly
+in Poland	+2
+-2	1768
+1943	+1
+0	22
+4
+September 06
+1989	Austria
+Soviet Union	0
+0	World Cup qualifier
+in Austria	+9
+-9	1675
+1934	+1
+0	33
+4
+October 08
+1989	East Germany
+Soviet Union	2
+1	World Cup qualifier
+in East Germany	+28
+-28	1717
+1906	+3
+0	27
+5
+November 15
+1989	Soviet Union
+Turkey	2
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1912
+1604	0
+-3	6
+43
+February 20
+1990	Colombia
+Soviet Union	0
+0	Friendly tournament
+in the United States	+6
+-6	1775
+1906	0
+-1	20
+6
+February 22
+1990	Soviet Union
+Costa Rica	2
+1	Friendly tournament
+in the United States	+4
+-4	1910
+1570	+1
+-2	5
+51
+February 24
+1990	United States
+Soviet Union	1
+3	Friendly
+in the United States	-5
++5	1511
+1915	-1
+0	65
+5
+March 28
+1990	Soviet Union
+Netherlands	2
+1	Friendly
+in the Soviet Union	+10
+-10	1925
+1992	0
+0	5
+1
+April 25
+1990	Ireland
+Soviet Union	1
+0	Friendly
+in Ireland	+9
+-9	1856
+1916	+1
+-1	13
+6
+May 16
+1990	Israel
+Soviet Union	3
+2	Friendly
+in Israel	+15
+-15	1622
+1901	+1
+-1	40
+7
+June 09
+1990	Romania
+Soviet Union	2
+0	World Cup
+in Italy	+51
+-51	1909
+1850	+5
+-6	6
+13
+June 13
+1990	Argentina
+Soviet Union	2
+0	World Cup
+in Italy	+62
+-62	1778
+1788	+5
+-6	21
+19
+June 18
+1990	Cameroon
+Soviet Union	0
+4	World Cup
+in Italy	-40
++40	1645
+1828	-6
++3	38
+16
+August 29
+1990	Soviet Union
+Romania	1
+2	Friendly
+in the Soviet Union	-12
++12	1816
+1863	-1
++2	17
+8
+September 12
+1990	Soviet Union
+Norway	2
+0	European Cup qualifier
+in the Soviet Union	+9
+-9	1825
+1614	+2
+-1	15
+42
+October 09
+1990	Soviet Union
+Israel	3
+0	Friendly
+in the Soviet Union	+5
+-5	1830
+1608	0
+-1	15
+44
+November 03
+1990	Italy
+Soviet Union	0
+0	European Cup qualifier
+in Italy	-13
++13	1975
+1843	0
++2	2
+11
+November 21
+1990	Soviet Union
+United States	0
+0	Friendly tournament
+in Trinidad and Tobago	-11
++11	1832
+1538	-2
++4	13
+57
+November 24
+1990	Trinidad and Tobago
+Soviet Union	0
+2	Friendly tournament
+in Trinidad and Tobago	-7
++7	1439
+1839	-2
++1	82
+12
+November 30
+1990	Guatemala
+Soviet Union	0
+3	Friendly
+in Guatemala	-6
++6	1463
+1845	-3
++2	77
+10
+February 06
+1991	Scotland
+Soviet Union	0
+1	Friendly
+in Scotland	-10
++10	1725
+1855	0
+0	25
+11
+March 27
+1991	Germany
+Soviet Union	2
+1	Friendly
+in Germany	+3
+-3	2045
+1852	0
++1	1
+10
+April 17
+1991	Hungary
+Soviet Union	0
+1	European Cup qualifier
+in Hungary	-19
++19	1722
+1871	-1
++1	25
+9
+May 21
+1991	England
+Soviet Union	3
+1	Friendly tournament
+in England	+12
+-12	1961
+1859	0
+-1	3
+10
+May 23
+1991	Soviet Union
+Argentina	1
+1	Friendly tournament
+in England	-1
++1	1858
+1847	0
+0	9
+12
+May 29
+1991	Soviet Union
+Cyprus	4
+0	European Cup qualifier
+in the Soviet Union	+1
+-1	1859
+1218	0
+0	9
+138
+June 13
+1991	Sweden
+Soviet Union	2
+3	Friendly tournament
+in Sweden	-16
++16	1772
+1875	-1
+0	20
+9
+June 16
+1991	Italy
+Soviet Union	1
+1	Friendly tournament
+in Sweden	-4
++4	1959
+1879	0
+0	3
+9
+August 28
+1991	Norway
+Soviet Union	0
+1	European Cup qualifier
+in Norway	-15
++15	1672
+1894	-2
+0	33
+9
+September 25
+1991	Soviet Union
+Hungary	2
+2	European Cup qualifier
+in the Soviet Union	-14
++14	1880
+1720	0
+0	9
+29
+October 12
+1991	Soviet Union
+Italy	0
+0	European Cup qualifier
+in the Soviet Union	-2
++2	1878
+1946	0
+0	9
+5
+November 13
+1991	Cyprus
+Soviet Union	0
+3	European Cup qualifier
+in Cyprus	-3
++3	1221
+1881	0
+0	139
+9
+January 25
+1992	United States
+Commonwealth of Independent States	0
+1	Friendly
+in the United States	-6
++6	1643
+1887	-1
+0	38
+9
+January 29
+1992	El Salvador
+Commonwealth of Independent States	0
+3	Friendly
+in El Salvador	-3
++3	1382
+1890	-1
+0	99
+9
+February 02
+1992	United States
+Commonwealth of Independent States	2
+1	Friendly
+in the United States	+14
+-14	1657
+1876	+1
+0	38
+9
+February 12
+1992	Israel
+Commonwealth of Independent States	1
+2	Friendly
+in Israel	-6
++6	1602
+1882	0
+0	47
+9
+February 19
+1992	Spain
+Commonwealth of Independent States	1
+1	Friendly
+in Spain	0
+0	1790
+1882	0
+0	16
+9
+March 08
+1992	Mexico
+Commonwealth of Independent States	4
+0	Friendly
+in Mexico	+18
+-18	1808
+1864	+2
+0	14
+9
+March 11
+1992	Mexico
+Commonwealth of Independent States	1
+1	Friendly
+in Mexico	-1
++1	1807
+1865	0
+0	14
+9
+April 29
+1992	Commonwealth of Independent States
+England	2
+2	Friendly
+in Commonwealth of Independent States	0
+0	1865
+1961	-1
+0	10
+2
+June 03
+1992	Denmark
+Commonwealth of Independent States	1
+1	Friendly
+in Denmark	-2
++2	1829
+1867	0
+0	11
+9
+June 12
+1992	Germany
+Commonwealth of Independent States	1
+1	European Cup
+in Sweden	-11
++11	2016
+1878	0
+0	1
+9
+June 15
+1992	Netherlands
+Commonwealth of Independent States	0
+0	European Cup
+in Sweden	-4
++4	1934
+1882	0
+0	5
+9
+June 18
+1992	Scotland
+Commonwealth of Independent States	3
+0	European Cup
+in Sweden	+63
+-63	1776
+1819	+7
+-3	21
+12
+August 16
+1992	Russia
+Mexico	2
+0	Friendly
+in Russia	+10
+-10	1829
+1777	+2
+-2	11
+19
+October 14
+1992	Russia
+Iceland	1
+0	World Cup qualifier
+in Russia	+4
+-4	1833
+1523	+1
+0	12
+61
+October 28
+1992	Russia
+Luxembourg	2
+0	World Cup qualifier
+in Russia	+1
+-1	1834
+1129	0
+-2	12
+163
+January 21
+1993	Romania
+Russia	1
+1	Nehru Gold Cup
+in India	+3
+-3	1792
+1831	0
+0	17
+13
+January 25
+1993	Russia
+Bolivia	2
+1	Nehru Gold Cup
+in India	+5
+-5	1836
+1484	0
+-2	13
+77
+January 29
+1993	North Korea
+Russia	1
+0	Nehru Gold Cup
+in India	+35
+-35	1543
+1801	+7
+-1	59
+14
+February 13
+1993	United States
+Russia	0
+1	Friendly
+in the United States	-9
++9	1648
+1810	0
+0	35
+14
+February 17
+1993	Russia
+El Salvador	2
+1	Friendly
+in the United States	+3
+-3	1813
+1500	0
+-2	14
+72
+February 21
+1993	United States
+Russia	0
+0	Friendly
+in the United States	+2
+-2	1650
+1811	0
+0	34
+14
+March 24
+1993	Israel
+Russia	2
+2	Friendly
+in Israel	+5
+-5	1537
+1806	+1
+0	60
+14
+April 14
+1993	Luxembourg
+Russia	0
+4	World Cup qualifier
+in Luxembourg	-3
++3	1124
+1809	-3
+0	165
+14
+April 28
+1993	Russia
+Hungary	3
+0	World Cup qualifier
+in Russia	+13
+-13	1822
+1640	+2
+0	12
+35
+May 23
+1993	Russia
+Greece	1
+1	World Cup qualifier
+in Russia	-13
++13	1809
+1671	-3
++1	15
+31
+June 02
+1993	Iceland
+Russia	1
+1	World Cup qualifier
+in Iceland	+10
+-10	1524
+1799	+6
+-1	64
+16
+July 28
+1993	France
+Russia	3
+1	Friendly
+in France	+7
+-7	1904
+1792	+1
+-2	5
+19
+September 08
+1993	Hungary
+Russia	1
+3	World Cup qualifier
+in Hungary	-25
++25	1607
+1817	-6
++3	49
+15
+October 06
+1993	Saudi Arabia
+Russia	4
+2	Friendly
+in Saudi Arabia	+18
+-18	1656
+1799	+3
+-3	35
+18
+November 17
+1993	Greece
+Russia	1
+0	World Cup qualifier
+in Greece	+21
+-21	1697
+1778	+2
+-3	29
+21
+January 29
+1994	United States
+Russia	1
+1	Friendly
+in the United States	+2
+-2	1615
+1776	0
+0	46
+21
+February 02
+1994	Russia
+Mexico	4
+1	Friendly
+in the United States	+21
+-21	1797
+1816	+3
+-2	18
+14
+March 23
+1994	Ireland
+Russia	0
+0	Friendly
+in Ireland	-3
++3	1800
+1800	-1
++1	18
+18
+April 20
+1994	Turkey
+Russia	0
+1	Friendly
+in Turkey	-6
++6	1537
+1806	0
++1	60
+17
+May 29
+1994	Russia
+Slovakia	2
+1	Friendly
+in Russia	+3
+-3	1809
+1590	0
+0	17
+50
+June 20
+1994	Brazil
+Russia	2
+0	World Cup
+in the United States	+30
+-30	1957
+1779	0
+-4	3
+22
+June 24
+1994	Sweden
+Russia	3
+1	World Cup
+in the United States	+35
+-35	1891
+1744	+4
+-2	7
+25
+June 28
+1994	Russia
+Cameroon	6
+1	World Cup
+in the United States	+46
+-46	1790
+1616	+3
+-10	22
+45
+August 17
+1994	Austria
+Russia	0
+3	Friendly
+in Austria	-13
++13	1591
+1803	-2
++2	49
+18
+September 07
+1994	Russia
+Germany	0
+1	Friendly
+in Russia	-9
++9	1794
+1957	-2
+0	20
+3
+October 12
+1994	Russia
+San Marino	4
+0	European Cup qualifier
+in Russia	0
+0	1794
+996	-1
+0	21
+187
+November 16
+1994	Scotland
+Russia	1
+1	European Cup qualifier
+in Scotland	-3
++3	1747
+1797	+1
+0	25
+21
+March 08
+1995	Slovakia
+Russia	2
+1	Friendly
+in Slovakia	+13
+-13	1602
+1784	+3
+0	44
+22
+March 29
+1995	Russia
+Scotland	0
+0	European Cup qualifier
+in Russia	-9
++9	1775
+1733	-1
+0	23
+27
+April 26
+1995	Greece
+Russia	0
+3	European Cup qualifier
+in Greece	-31
++31	1602
+1806	-12
++2	47
+21
+May 06
+1995	Russia
+Faroe Islands	3
+0	European Cup qualifier
+in Russia	+1
+-1	1807
+1104	0
+0	21
+173
+May 31
+1995	Yugoslavia
+Russia	1
+2	Friendly
+in Yugoslavia	-15
++15	1874
+1822	-1
+0	7
+21
+June 07
+1995	San Marino
+Russia	0
+7	European Cup qualifier
+in San Marino	-1
++1	969
+1823	0
++2	192
+18
+August 01
+1995	Japan
+Russia	3
+2	Friendly
+in Japan	+13
+-13	1613
+1810	+1
+-3	44
+20
+August 16
+1995	Finland
+Russia	0
+6	European Cup qualifier
+in Finland	-22
++22	1501
+1832	-4
++6	72
+14
+September 06
+1995	Faroe Islands
+Russia	2
+5	European Cup qualifier
+in Faroe Islands	-2
++2	1114
+1834	-1
++1	171
+12
+October 11
+1995	Russia
+Greece	2
+1	European Cup qualifier
+in Russia	+4
+-4	1838
+1557	+1
+-3	10
+57
+November 15
+1995	Russia
+Finland	3
+1	European Cup qualifier
+in Russia	+4
+-4	1842
+1495	0
+0	10
+74
+February 07
+1996	Malta
+Russia	0
+2	Rothmans Tournament
+in Malta	-3
++3	1283
+1845	0
+0	132
+10
+February 09
+1996	Russia
+Iceland	3
+0	Rothmans Tournament
+in Malta	+7
+-7	1852
+1501	0
+-1	10
+72
+February 11
+1996	Russia
+Slovenia	3
+1	Rothmans Tournament
+in Malta	+7
+-7	1859
+1540	+1
+-1	9
+63
+March 27
+1996	Ireland
+Russia	0
+2	Friendly
+in Ireland	-12
++12	1687
+1871	0
++1	30
+9
+April 24
+1996	Belgium
+Russia	0
+0	Friendly
+in Belgium	+1
+-1	1731
+1870	0
+0	26
+9
+May 25
+1996	Qatar
+Russia	2
+5	Friendly
+in Qatar	-4
++4	1420
+1874	-1
++1	97
+8
+May 29
+1996	Russia
+United Arab Emirates	1
+0	Friendly
+in Russia	+2
+-2	1876
+1549	0
+0	8
+60
+June 02
+1996	Russia
+Poland	2
+0	Friendly
+in Russia	+3
+-3	1879
+1617	0
+-1	8
+40
+June 11
+1996	Italy
+Russia	2
+1	European Cup
+in England	+20
+-20	1970
+1859	+1
+0	3
+9
+June 16
+1996	Germany
+Russia	3
+0	European Cup
+in England	+25
+-25	2043
+1834	+1
+-2	1
+14
+June 19
+1996	Czechia
+Russia	3
+3	European Cup
+in England	-3
++3	1874
+1837	-1
+0	10
+14
+August 28
+1996	Russia
+Brazil	2
+2	Friendly
+in Russia	+3
+-3	1840
+2038	0
+0	14
+2
+September 01
+1996	Russia
+Cyprus	4
+0	World Cup qualifier
+in Russia	+3
+-3	1843
+1358	0
+0	14
+117
+October 09
+1996	Israel
+Russia	1
+1	World Cup qualifier
+in Israel	+8
+-8	1606
+1835	+4
+-1	46
+14
+November 10
+1996	Luxembourg
+Russia	0
+4	World Cup qualifier
+in Luxembourg	-4
++4	1219
+1839	-2
++1	150
+13
+February 07
+1997	Russia
+Yugoslavia	1
+1	Carlsberg Cup
+in Hong Kong	+3
+-3	1842
+1895	+1
+0	12
+9
+February 10
+1997	Russia
+Switzerland	2
+1	Carlsberg Cup
+in Hong Kong	+9
+-9	1851
+1672	0
+0	12
+32
+March 12
+1997	Yugoslavia
+Russia	0
+0	Friendly
+in Yugoslavia	-4
++4	1891
+1855	-1
+0	9
+11
+March 29
+1997	Cyprus
+Russia	1
+1	World Cup qualifier
+in Cyprus	+15
+-15	1412
+1840	+5
+0	99
+11
+April 30
+1997	Russia
+Luxembourg	3
+0	World Cup qualifier
+in Russia	+1
+-1	1841
+1201	0
+0	11
+154
+June 08
+1997	Russia
+Israel	2
+0	World Cup qualifier
+in Russia	+7
+-7	1848
+1576	0
+-2	11
+57
+August 20
+1997	Russia
+Yugoslavia	0
+1	Friendly
+in Russia	-11
++11	1837
+1918	0
++2	11
+7
+September 10
+1997	Bulgaria
+Russia	1
+0	World Cup qualifier
+in Bulgaria	+17
+-17	1802
+1820	+3
+-5	17
+16
+October 11
+1997	Russia
+Bulgaria	4
+2	World Cup qualifier
+in Russia	+20
+-20	1840
+1782	+4
+-3	12
+20
+October 29
+1997	Russia
+Italy	1
+1	World Cup qualifier
+in Russia	-1
++1	1839
+1921	0
+-1	12
+7
+November 15
+1997	Italy
+Russia	1
+0	World Cup qualifier
+in Italy	+10
+-10	1931
+1829	0
+-3	7
+15
+February 18
+1998	Greece
+Russia	1
+1	Friendly
+in Greece	+1
+-1	1684
+1828	0
+0	35
+15
+March 25
+1998	Russia
+France	1
+0	Friendly
+in Russia	+11
+-11	1839
+1962	+2
+0	13
+4
+April 22
+1998	Russia
+Turkey	1
+0	Friendly
+in Russia	+3
+-3	1842
+1622	-1
+-3	13
+50
+May 27
+1998	Poland
+Russia	3
+1	Friendly
+in Poland	+21
+-21	1624
+1821	+3
+-2	51
+16
+May 30
+1998	Russia
+Georgia	1
+1	Friendly
+in Russia	-7
++7	1814
+1620	-1
+0	16
+53
+August 19
+1998	Sweden
+Russia	1
+0	Friendly
+in Sweden	+7
+-7	1814
+1807	+1
+-1	17
+18
+September 05
+1998	Ukraine
+Russia	3
+2	European Cup qualifier
+in Ukraine	+23
+-23	1676
+1784	+5
+-1	35
+19
+September 23
+1998	Spain
+Russia	1
+0	Friendly
+in Spain	+4
+-4	1926
+1780	0
+-2	6
+21
+October 10
+1998	Russia
+France	2
+3	European Cup qualifier
+in Russia	-12
++12	1768
+2040	-1
+0	21
+1
+October 14
+1998	Iceland
+Russia	1
+0	European Cup qualifier
+in Iceland	+30
+-30	1501
+1738	+5
+-1	73
+22
+November 18
+1998	Brazil
+Russia	5
+1	Friendly
+in Brazil	+4
+-4	2022
+1734	0
+0	2
+22
+March 27
+1999	Armenia
+Russia	0
+3	European Cup qualifier
+in Armenia	-14
++14	1382
+1748	-3
++1	110
+21
+March 31
+1999	Russia
+Andorra	6
+1	European Cup qualifier
+in Russia	+1
+-1	1749
+1049	0
+0	21
+181
+May 19
+1999	Russia
+Belarus	1
+1	Friendly
+in Russia	-9
++9	1740
+1400	0
++1	21
+104
+June 05
+1999	France
+Russia	2
+3	European Cup qualifier
+in France	-36
++36	2004
+1776	-1
++4	2
+18
+June 09
+1999	Russia
+Iceland	1
+0	European Cup qualifier
+in Russia	+5
+-5	1781
+1537	-1
+-1	19
+64
+August 18
+1999	Belarus
+Russia	0
+2	Friendly
+in Belarus	-5
++5	1393
+1786	0
+0	104
+20
+September 04
+1999	Russia
+Armenia	2
+0	European Cup qualifier
+in Russia	+3
+-3	1789
+1361	+1
+-1	19
+115
+September 08
+1999	Andorra
+Russia	1
+2	European Cup qualifier
+in Andorra	-1
++1	1045
+1790	0
++1	181
+18
+October 09
+1999	Russia
+Ukraine	1
+1	European Cup qualifier
+in Russia	-10
++10	1780
+1720	-1
++2	19
+29
+February 23
+2000	Israel
+Russia	4
+1	Friendly
+in Israel	+20
+-20	1647
+1760	+2
+-3	47
+22
+April 26
+2000	Russia
+United States	2
+0	Friendly
+in Russia	+12
+-12	1772
+1775	0
+-1	20
+19
+May 31
+2000	Russia
+Slovakia	1
+1	Friendly
+in Russia	-6
++6	1766
+1651	0
++1	20
+45
+June 04
+2000	Moldova
+Russia	0
+1	Friendly
+in Moldova	-3
++3	1380
+1769	0
+0	110
+21
+August 16
+2000	Russia
+Israel	1
+0	Friendly
+in Russia	+4
+-4	1773
+1624	-1
+-1	19
+53
+September 02
+2000	Switzerland
+Russia	0
+1	World Cup qualifier
+in Switzerland	-21
++21	1667
+1794	-6
++2	43
+17
+October 11
+2000	Russia
+Luxembourg	3
+0	World Cup qualifier
+in Russia	+1
+-1	1795
+1141	+1
+0	15
+167
+February 28
+2001	Greece
+Russia	3
+3	Friendly
+in Greece	+1
+-1	1665
+1794	+3
+-1	42
+16
+March 24
+2001	Russia
+Slovenia	1
+1	World Cup qualifier
+in Russia	-14
++14	1780
+1623	-2
++3	18
+53
+March 28
+2001	Russia
+Faroe Islands	1
+0	World Cup qualifier
+in Russia	+1
+-1	1781
+1207	-1
+0	19
+153
+April 25
+2001	Yugoslavia
+Russia	0
+1	World Cup qualifier
+in Yugoslavia	-28
++28	1808
+1809	-2
++6	14
+13
+June 02
+2001	Russia
+Yugoslavia	1
+1	World Cup qualifier
+in Russia	-6
++6	1803
+1814	-5
+0	19
+15
+June 06
+2001	Luxembourg
+Russia	1
+2	World Cup qualifier
+in Luxembourg	-1
++1	1098
+1804	0
+0	173
+19
+August 15
+2001	Russia
+Greece	0
+0	Friendly
+in Russia	-6
++6	1798
+1641	0
+0	18
+47
+September 01
+2001	Slovenia
+Russia	2
+1	World Cup qualifier
+in Slovenia	+22
+-22	1677
+1776	+5
+-3	39
+21
+September 05
+2001	Faroe Islands
+Russia	0
+3	World Cup qualifier
+in Faroe Islands	-4
++4	1202
+1780	0
++1	153
+20
+October 06
+2001	Russia
+Switzerland	4
+0	World Cup qualifier
+in Russia	+15
+-15	1795
+1623	0
+-2	20
+50
+November 14
+2001	Latvia
+Russia	1
+3	Friendly
+in Latvia	-4
++4	1386
+1799	-2
++1	105
+18
+February 13
+2002	Ireland
+Russia	2
+0	Friendly
+in Ireland	+10
+-10	1837
+1789	0
+-2	13
+22
+March 27
+2002	Estonia
+Russia	2
+1	Friendly
+in Estonia	+18
+-18	1363
+1771	+7
+-2	115
+24
+April 17
+2002	France
+Russia	0
+0	Friendly
+in France	-8
++8	2080
+1779	0
+0	1
+24
+May 17
+2002	Russia
+Belarus	1
+1	Friendly tournament
+in Russia	-12
++12	1767
+1489	+1
++6	24
+77
+May 19
+2002	Russia
+Yugoslavia	1
+1	Friendly tournament
+in Russia	-5
++5	1762
+1763	-1
++1	25
+24
+June 05
+2002	Russia
+Tunisia	2
+0	World Cup
+in Japan	+28
+-28	1790
+1592	+3
+-3	22
+54
+June 09
+2002	Japan
+Russia	1
+0	World Cup
+in Japan	+20
+-20	1833
+1770	+4
+-2	16
+24
+June 14
+2002	Belgium
+Russia	3
+2	World Cup
+in Japan	+27
+-27	1827
+1743	+4
+-4	16
+28
+August 21
+2002	Russia
+Sweden	1
+1	Friendly
+in Russia	0
+0	1743
+1831	-1
+0	29
+14
+September 07
+2002	Russia
+Ireland	4
+2	European Cup qualifier
+in Russia	+34
+-34	1777
+1855	+5
+-4	23
+12
+October 16
+2002	Russia
+Albania	4
+1	European Cup qualifier
+in Russia	+5
+-5	1782
+1411	-1
+-2	22
+99
+February 12
+2003	Cyprus
+Russia	0
+1	Friendly tournament
+in Cyprus	-6
++6	1450
+1788	-2
++1	89
+18
+February 13
+2003	Russia
+Romania	4
+2	Friendly tournament
+in Cyprus	+21
+-21	1809
+1738	+2
+-7	16
+29
+March 29
+2003	Albania
+Russia	3
+1	European Cup qualifier
+in Albania	+51
+-51	1462
+1758	+13
+-7	87
+23
+April 30
+2003	Georgia
+Russia	1
+0	European Cup qualifier
+in Georgia	+27
+-27	1555
+1731	+6
+-7	62
+30
+June 07
+2003	Switzerland
+Russia	2
+2	European Cup qualifier
+in Switzerland	-3
++3	1679
+1734	0
++1	37
+30
+August 20
+2003	Russia
+Israel	1
+2	Friendly
+in Russia	-15
++15	1719
+1661	-4
++1	30
+41
+September 06
+2003	Ireland
+Russia	1
+1	European Cup qualifier
+in Ireland	-12
++12	1837
+1731	-1
++3	14
+27
+September 10
+2003	Russia
+Switzerland	4
+1	European Cup qualifier
+in Russia	+21
+-21	1752
+1657	+3
+-1	24
+39
+October 11
+2003	Russia
+Georgia	3
+1	European Cup qualifier
+in Russia	+8
+-8	1760
+1525	+2
+0	22
+69
+November 15
+2003	Russia
+Wales	0
+0	European Cup qualifier
+in Russia	-13
++13	1747
+1604	-4
+0	26
+56
+November 19
+2003	Wales
+Russia	0
+1	European Cup qualifier
+in Wales	-18
++18	1586
+1765	-1
++3	57
+23
+March 31
+2004	Bulgaria
+Russia	2
+2	Friendly
+in Bulgaria	-1
++1	1715
+1766	+1
++1	31
+22
+April 28
+2004	Norway
+Russia	3
+2	Friendly
+in Norway	+8
+-8	1762
+1758	+3
+-3	23
+24
+May 25
+2004	Austria
+Russia	0
+0	Friendly
+in Austria	0
+0	1643
+1758	0
+0	45
+24
+June 12
+2004	Spain
+Russia	1
+0	European Cup
+in Portugal	+11
+-11	1995
+1747	0
+-1	2
+26
+June 16
+2004	Portugal
+Russia	2
+0	European Cup
+in Portugal	+19
+-19	1849
+1728	+3
+-1	9
+27
+June 20
+2004	Russia
+Greece	2
+1	European Cup
+in Portugal	+31
+-31	1759
+1779	+3
+-3	24
+22
+August 18
+2004	Russia
+Lithuania	4
+3	Friendly
+in Russia	+1
+-1	1760
+1382	0
++1	28
+107
+September 04
+2004	Russia
+Slovakia	1
+1	World Cup qualifier
+in Russia	-13
++13	1747
+1611	+1
++5	27
+52
+October 09
+2004	Luxembourg
+Russia	0
+4	World Cup qualifier
+in Luxembourg	-2
++2	1027
+1749	0
+-1	187
+28
+October 13
+2004	Portugal
+Russia	7
+1	World Cup qualifier
+in Portugal	+20
+-20	1872
+1729	0
+-2	9
+30
+November 17
+2004	Russia
+Estonia	4
+0	World Cup qualifier
+in Russia	+5
+-5	1734
+1365	0
++1	30
+111
+February 09
+2005	Italy
+Russia	2
+0	Friendly
+in Italy	+6
+-6	1883
+1728	0
+0	8
+30
+March 26
+2005	Liechtenstein
+Russia	1
+2	World Cup qualifier
+in Liechtenstein	-2
++2	1084
+1730	0
+0	175
+30
+March 30
+2005	Estonia
+Russia	1
+1	World Cup qualifier
+in Estonia	+14
+-14	1353
+1716	+4
+-2	115
+31
+June 04
+2005	Russia
+Latvia	2
+0	World Cup qualifier
+in Russia	+6
+-6	1722
+1440	0
+-2	31
+93
+June 08
+2005	Germany
+Russia	2
+2	Friendly
+in Germany	-6
++6	1862
+1728	+1
++1	12
+30
+August 17
+2005	Latvia
+Russia	1
+1	World Cup qualifier
+in Latvia	+10
+-10	1453
+1718	+2
+-5	89
+34
+September 03
+2005	Russia
+Liechtenstein	2
+0	World Cup qualifier
+in Russia	+1
+-1	1719
+1090	+1
+-2	33
+175
+September 07
+2005	Russia
+Portugal	0
+0	World Cup qualifier
+in Russia	+3
+-3	1722
+1875	0
+-1	33
+10
+October 08
+2005	Russia
+Luxembourg	5
+1	World Cup qualifier
+in Russia	+1
+-1	1723
+957	-1
+0	34
+191
+October 12
+2005	Slovakia
+Russia	0
+0	World Cup qualifier
+in Slovakia	-1
++1	1647
+1724	0
+0	48
+34
+March 01
+2006	Russia
+Brazil	0
+1	Friendly
+in Russia	-5
++5	1719
+2008	0
+0	34
+1
+May 27
+2006	Spain
+Russia	0
+0	Friendly
+in Spain	-7
++7	1924
+1726	-1
+0	6
+34
+August 16
+2006	Russia
+Latvia	1
+0	Friendly
+in Russia	+2
+-2	1728
+1471	+2
+-3	31
+87
+September 06
+2006	Russia
+Croatia	0
+0	European Cup qualifier
+in Russia	-1
++1	1727
+1818	-2
+-1	33
+16
+October 07
+2006	Russia
+Israel	1
+1	European Cup qualifier
+in Russia	-7
++7	1720
+1698	-1
++2	34
+39
+October 11
+2006	Russia
+Estonia	2
+0	European Cup qualifier
+in Russia	+4
+-4	1724
+1366	+1
+0	33
+107
+November 15
+2006	Macedonia
+Russia	0
+2	European Cup qualifier
+in Macedonia	-21
++21	1501
+1745	-2
++5	78
+28
+February 07
+2007	Netherlands
+Russia	4
+1	Friendly
+in the Netherlands	+5
+-5	1965
+1740	-1
+-2	5
+31
+March 24
+2007	Estonia
+Russia	0
+2	European Cup qualifier
+in Estonia	-10
++10	1360
+1750	-6
++3	112
+28
+June 02
+2007	Russia
+Andorra	4
+0	European Cup qualifier
+in Russia	+1
+-1	1751
+1077	+2
+0	28
+178
+June 06
+2007	Croatia
+Russia	0
+0	European Cup qualifier
+in Croatia	-12
++12	1868
+1763	0
++3	10
+25
+August 22
+2007	Russia
+Poland	2
+2	Friendly
+in Russia	-4
++4	1759
+1739	-1
++2	26
+30
+September 08
+2007	Russia
+Macedonia	3
+0	European Cup qualifier
+in Russia	+8
+-8	1767
+1491	+5
+-2	21
+79
+September 12
+2007	England
+Russia	3
+0	European Cup qualifier
+in England	+13
+-13	1929
+1754	0
+-4	7
+25
+October 17
+2007	Russia
+England	2
+1	European Cup qualifier
+in Russia	+24
+-24	1778
+1906	+5
+-1	20
+8
+November 17
+2007	Israel
+Russia	2
+1	European Cup qualifier
+in Israel	+20
+-20	1706
+1758	+2
+-4	38
+25
+November 21
+2007	Andorra
+Russia	0
+1	European Cup qualifier
+in Andorra	-1
++1	1049
+1759	0
+0	182
+25
+March 26
+2008	Romania
+Russia	3
+0	Friendly
+in Romania	+8
+-8	1872
+1751	0
++2	10
+28
+May 23
+2008	Russia
+Kazakhstan	6
+0	Friendly
+in Russia	+2
+-2	1753
+1336	0
+-1	28
+118
+May 28
+2008	Russia
+Serbia	2
+1	Friendly
+in Germany	+9
+-9	1762
+1704	+2
+-3	26
+40
+June 04
+2008	Russia
+Lithuania	4
+1	Friendly
+in Germany	+8
+-8	1770
+1537	+3
+-1	23
+73
+June 10
+2008	Spain
+Russia	4
+1	European Cup
+in Austria	+22
+-22	1979
+1748	+1
+-4	4
+26
+June 14
+2008	Russia
+Greece	1
+0	European Cup
+in Austria	+27
+-27	1775
+1745	+6
+-3	20
+26
+June 18
+2008	Russia
+Sweden	2
+0	European Cup
+in Austria	+39
+-39	1814
+1748	+7
+-7	14
+26
+June 21
+2008	Russia
+Netherlands	3
+1	European Cup
+in Switzerland	+60
+-60	1874
+1998	+5
+-2	10
+3
+June 26
+2008	Spain
+Russia	3
+0	European Cup
+in Austria	+28
+-28	2029
+1846	0
+-2	1
+12
+August 20
+2008	Russia
+Netherlands	1
+1	Friendly
+in Russia	+1
+-1	1847
+1997	0
++1	12
+2
+September 10
+2008	Russia
+Wales	2
+1	World Cup qualifier
+in Russia	+5
+-5	1852
+1607	0
+-4	11
+54
+October 11
+2008	Germany
+Russia	2
+1	World Cup qualifier
+in Germany	+10
+-10	1948
+1842	0
++1	6
+10
+October 15
+2008	Russia
+Finland	3
+0	World Cup qualifier
+in Russia	+11
+-11	1853
+1648	0
+-2	10
+47
+March 28
+2009	Russia
+Azerbaijan	2
+0	World Cup qualifier
+in Russia	+2
+-2	1855
+1347	-1
+-1	10
+123
+April 01
+2009	Liechtenstein
+Russia	0
+1	World Cup qualifier
+in Liechtenstein	-1
++1	1153
+1856	0
+0	164
+10
+June 10
+2009	Finland
+Russia	0
+3	World Cup qualifier
+in Finland	-26
++26	1635
+1882	-2
++2	49
+7
+August 12
+2009	Russia
+Argentina	2
+3	Friendly
+in Russia	-13
++13	1869
+1886	-2
++1	9
+7
+September 05
+2009	Russia
+Liechtenstein	3
+0	World Cup qualifier
+in Russia	+1
+-1	1870
+1150	0
+0	9
+167
+September 09
+2009	Wales
+Russia	1
+3	World Cup qualifier
+in Wales	-15
++15	1562
+1885	-1
++1	60
+8
+October 10
+2009	Russia
+Germany	0
+1	World Cup qualifier
+in Russia	-23
++23	1862
+1957	-1
+0	8
+5
+October 14
+2009	Azerbaijan
+Russia	1
+1	World Cup qualifier
+in Azerbaijan	+17
+-17	1361
+1845	+5
+-4	119
+12
+November 14
+2009	Russia
+Slovenia	2
+1	World Cup qualifier
+in Russia	+5
+-5	1850
+1613	0
++1	12
+50
+November 18
+2009	Slovenia
+Russia	1
+0	World Cup qualifier
+in Slovenia	+28
+-28	1641
+1822	+3
+-1	47
+13
+March 03
+2010	Hungary
+Russia	1
+1	Friendly
+in Hungary	+4
+-4	1582
+1818	+2
+0	55
+14
+August 11
+2010	Russia
+Bulgaria	1
+0	Friendly
+in Russia	+4
+-4	1822
+1691	0
+-2	13
+37
+September 03
+2010	Andorra
+Russia	0
+2	European Cup qualifier
+in Andorra	-1
++1	1000
+1823	0
+0	185
+13
+September 07
+2010	Russia
+Slovakia	0
+1	European Cup qualifier
+in Russia	-33
++33	1790
+1695	-4
++7	16
+36
+October 08
+2010	Ireland
+Russia	2
+3	European Cup qualifier
+in Ireland	-23
++23	1720
+1813	-3
++4	28
+12
+October 12
+2010	Macedonia
+Russia	0
+1	European Cup qualifier
+in Macedonia	-11
++11	1542
+1824	-2
+0	72
+12
+November 17
+2010	Russia
+Belgium	0
+2	Friendly
+in Russia	-27
++27	1797
+1593	-1
++7	13
+57
+February 09
+2011	Iran
+Russia	1
+0	Friendly
+in United Arab Emirates	+12
+-12	1721
+1785	+3
+-2	30
+17
+March 26
+2011	Armenia
+Russia	0
+0	European Cup qualifier
+in Armenia	+13
+-13	1419
+1772	+1
+-1	106
+19
+March 29
+2011	Qatar
+Russia	1
+1	Friendly
+in Qatar	+4
+-4	1530
+1768	+1
++1	72
+18
+June 04
+2011	Russia
+Armenia	3
+1	European Cup qualifier
+in Russia	+4
+-4	1772
+1415	-1
+-2	19
+105
+June 07
+2011	Cameroon
+Russia	0
+0	Friendly
+in Austria	+4
+-4	1626
+1768	0
+0	52
+20
+August 10
+2011	Russia
+Serbia	1
+0	Friendly
+in Russia	+6
+-6	1774
+1723	+1
+-1	19
+32
+September 02
+2011	Russia
+Macedonia	1
+0	European Cup qualifier
+in Russia	+4
+-4	1778
+1508	-1
+0	20
+76
+September 06
+2011	Russia
+Ireland	0
+0	European Cup qualifier
+in Russia	-7
++7	1771
+1766	0
++2	20
+21
+October 07
+2011	Slovakia
+Russia	0
+1	European Cup qualifier
+in Slovakia	-14
++14	1551
+1785	-5
++2	70
+18
+October 11
+2011	Russia
+Andorra	6
+0	European Cup qualifier
+in Russia	0
+0	1785
+976	0
+0	18
+190
+November 11
+2011	Greece
+Russia	1
+1	Friendly
+in Greece	-3
++3	1780
+1788	-3
+-3	23
+21
+February 29
+2012	Denmark
+Russia	0
+2	Friendly
+in Denmark	-20
++20	1781
+1808	-2
++2	19
+17
+May 25
+2012	Russia
+Uruguay	1
+1	Friendly
+in Russia	+2
+-2	1810
+1961	+1
+0	16
+5
+May 29
+2012	Lithuania
+Russia	0
+0	Friendly
+in Switzerland	+7
+-7	1483
+1803	+1
+-1	90
+17
+June 01
+2012	Russia
+Italy	3
+0	Friendly
+in Switzerland	+20
+-20	1823
+1826	+1
+-3	16
+15
+June 08
+2012	Russia
+Czechia	4
+1	European Cup
+in Poland	+36
+-36	1859
+1722	+5
+-8	11
+32
+June 12
+2012	Poland
+Russia	1
+1	European Cup
+in Poland	+5
+-5	1699
+1854	+1
+0	35
+11
+June 16
+2012	Greece
+Russia	1
+0	European Cup
+in Poland	+34
+-34	1764
+1820	+5
+-2	24
+14
+August 15
+2012	Russia
+Ivory Coast	1
+1	Friendly
+in Russia	-3
++3	1817
+1823	-1
+0	16
+15
+September 07
+2012	Russia
+Northern Ireland	2
+0	World Cup qualifier
+in Russia	+3
+-3	1820
+1418	0
+0	16
+100
+September 11
+2012	Israel
+Russia	0
+4	World Cup qualifier
+in Israel	-27
++27	1598
+1847	-8
++3	54
+13
+October 12
+2012	Russia
+Portugal	1
+0	World Cup qualifier
+in Russia	+19
+-19	1866
+1904	+1
+0	12
+7
+October 16
+2012	Russia
+Azerbaijan	1
+0	World Cup qualifier
+in Russia	+1
+-1	1867
+1378	+1
+-2	11
+111
+November 14
+2012	Russia
+United States	2
+2	Friendly
+in Russia	-6
++6	1861
+1749	-2
++1	13
+25
+February 06
+2013	Russia
+Iceland	2
+0	Friendly
+in Spain	+3
+-3	1864
+1452	+1
+-2	12
+96
+March 25
+2013	Brazil
+Russia	1
+1	Friendly
+in England	-4
++4	2019
+1868	0
++1	3
+10
+June 07
+2013	Portugal
+Russia	1
+0	World Cup qualifier
+in Portugal	+15
+-15	1876
+1853	+2
+-1	9
+10
+August 14
+2013	Northern Ireland
+Russia	1
+0	World Cup qualifier
+in Northern Ireland	+36
+-36	1425
+1817	+8
+-7	100
+17
+September 06
+2013	Russia
+Luxembourg	4
+1	World Cup qualifier
+in Russia	+1
+-1	1818
+1163	+1
++1	16
+164
+September 10
+2013	Russia
+Israel	3
+1	World Cup qualifier
+in Russia	+9
+-9	1827
+1618	-1
+-3	17
+53
+October 11
+2013	Luxembourg
+Russia	0
+4	World Cup qualifier
+in Luxembourg	-3
++3	1188
+1830	-1
++1	161
+16
+October 15
+2013	Azerbaijan
+Russia	1
+1	World Cup qualifier
+in Azerbaijan	+14
+-14	1430
+1816	+4
+-1	99
+17
+November 15
+2013	Russia
+Serbia	1
+1	Friendly
+in United Arab Emirates	-3
++3	1813
+1728	-3
+0	20
+27
+November 19
+2013	Russia
+South Korea	2
+1	Friendly
+in United Arab Emirates	+6
+-6	1819
+1673	+5
+-2	15
+42
+March 05
+2014	Russia
+Armenia	2
+0	Friendly
+in Russia	+3
+-3	1822
+1552	0
+-1	15
+70

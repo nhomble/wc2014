@@ -1,0 +1,458 @@
+1921 262 home Guatemala Honduras 10 1 Central American Independence Centenary Cup
+1921 266 home Guatemala CostaRica 0 6 Central American Independence Centenary Cup
+1923 1 home Guatemala Mexico 2 3 Friendly
+1923 4 home Guatemala Mexico 3 1 Friendly
+1923 7 home Guatemala Mexico 1 4 Friendly
+1923 350 away Guatemala Mexico 2 1 Friendly
+1923 353 away Guatemala Mexico 2 0 Friendly
+1923 357 away Guatemala Mexico 3 3 Friendly
+1930 79 away Guatemala CostaRica 8 1 Central American Games
+1930 81 away Guatemala ElSalvador 8 2 Central American Games
+1935 87 away Guatemala CostaRica 4 3 Central American Games
+1935 89 away Guatemala Cuba 2 1 Central American Games
+1935 90 away Guatemala Mexico 5 1 Central American Games
+1935 93 home Guatemala Honduras 0 0 Central American Games
+1935 96 away Guatemala ElSalvador 6 1 Central American Games
+1943 346 away Guatemala ElSalvador 2 2 CCCF Championship
+1943 348 home Guatemala CostaRica 3 2 CCCF Championship
+1943 350 home Guatemala Nicaragua 6 2 CCCF Championship
+1943 353 away Guatemala ElSalvador 2 1 CCCF Championship
+1943 357 home Guatemala CostaRica 4 2 CCCF Championship
+1946 54 home Guatemala ElSalvador 3 1 CCCF Championship
+1946 59 away Guatemala Honduras 5 3 CCCF Championship
+1946 69 home Guatemala Nicaragua 7 0 CCCF Championship
+1946 72 away Guatemala CostaRica 1 4 CCCF Championship
+1946 75 home Guatemala Panama 3 3 CCCF Championship
+1946 350 away Guatemala Panama 4 2 Central American and Caribbean Games
+1946 352 away Guatemala Curacao 2 2 Central American and Caribbean Games
+1946 355 away Guatemala Colombia 4 2 Central American and Caribbean Games
+1946 357 away Guatemala CostaRica 6 0 Central American and Caribbean Games
+1946 360 home Guatemala PuertoRico 4 1 Central American and Caribbean Games
+1946 364 away Guatemala Venezuela 3 2 Central American and Caribbean Games
+1948 64 home Guatemala ElSalvador 3 0 CCCF Championship
+1948 66 home Guatemala CostaRica 1 1 CCCF Championship
+1948 67 home Guatemala NetherlandsAntilles 2 2 CCCF Championship
+1948 71 home Guatemala Panama 4 3 CCCF Championship
+1948 75 home Guatemala ElSalvador 1 1 CCCF Championship
+1948 78 home Guatemala CostaRica 3 2 CCCF Championship
+1948 80 home Guatemala NetherlandsAntilles 2 2 CCCF Championship
+1948 83 home Guatemala Panama 4 5 CCCF Championship
+1950 1 home Guatemala Honduras 0 1 Central American and Caribbean Games
+1950 2 home Guatemala Colombia 2 1 Central American and Caribbean Games
+1950 3 home Guatemala ElSalvador 2 0 Central American and Caribbean Games
+1950 74 home Guatemala Curacao 0 2 Central American and Caribbean Games
+1950 250 away Guatemala ElSalvador 2 1 Friendly tournament
+1953 71 home Guatemala NetherlandsAntilles 1 1 CCCF Championship
+1953 75 home Guatemala ElSalvador 3 2 CCCF Championship
+1953 79 home Guatemala Panama 2 2 CCCF Championship
+1953 81 home Guatemala Nicaragua 1 0 CCCF Championship
+1953 83 away Guatemala CostaRica 3 0 CCCF Championship
+1955 210 away Guatemala CostaRica 9 1 Friendly
+1955 217 home Guatemala CostaRica 3 1 Friendly
+1955 232 away Guatemala ElSalvador 3 2 CCCF Championship
+1955 235 home Guatemala NetherlandsAntilles 4 1 CCCF Championship
+1957 41 home Guatemala CostaRica 2 6 World Cup qualifier
+1957 48 away Guatemala CostaRica 3 1 World Cup qualifier
+1957 72 home Guatemala Curacao 1 3 World Cup qualifier
+1960 238 away Guatemala CostaRica 3 2 World Cup qualifier
+1960 245 home Guatemala CostaRica 4 4 World Cup qualifier
+1960 273 away Guatemala Honduras 1 1 World Cup qualifier
+1961 63 away Guatemala CostaRica 4 2 CCCF Championship
+1961 66 home Guatemala Panama 2 0 CCCF Championship
+1961 70 home Guatemala Cuba 2 0 CCCF Championship
+1961 76 away Guatemala Haiti 3 1 CCCF Championship
+1963 85 away Guatemala Honduras 2 1 Concacaf Championship
+1963 87 home Guatemala Panama 2 2 Concacaf Championship
+1963 89 home Guatemala Nicaragua 3 1 Concacaf Championship
+1963 91 away Guatemala ElSalvador 1 1 Concacaf Championship
+1965 72 home Guatemala Paraguay 1 4 Friendly
+1965 76 home Guatemala Paraguay 0 3 Friendly
+1965 90 home Guatemala CostaRica 0 0 Concacaf Championship
+1965 93 home Guatemala Haiti 3 0 Concacaf Championship
+1965 96 home Guatemala ElSalvador 4 1 Concacaf Championship
+1965 99 home Guatemala NetherlandsAntilles 3 2 Concacaf Championship
+1965 104 home Guatemala Mexico 1 2 Concacaf Championship
+1966 59 away Guatemala Panama 0 1 Friendly
+1967 43 home Guatemala Panama 3 1 Concacaf Championship qualifier
+1967 67 away Guatemala Honduras 0 0 Concacaf Championship
+1967 72 home Guatemala Mexico 1 0 Concacaf Championship
+1967 74 home Guatemala Haiti 2 1 Concacaf Championship
+1967 77 home Guatemala Nicaragua 2 0 Concacaf Championship
+1967 81 home Guatemala TrinidadTobago 2 0 Concacaf Championship
+1968 67 home Guatemala Bermuda 1 1 Olympic Games qualifier
+1968 69 away Guatemala Bermuda 1 2 Olympic Games qualifier
+1968 150 home Guatemala CostaRica 1 0 Olympic Games qualifier
+1968 157 away Guatemala CostaRica 3 2 Olympic Games qualifier
+1968 295 home Guatemala Thailand 4 1 Olympic Games
+1968 297 away Guatemala Bulgaria 2 1 Olympic Games
+1968 327 home Guatemala TrinidadTobago 4 0 World Cup qualifier
+1968 330 home Guatemala TrinidadTobago 0 0 World Cup qualifier
+1968 349 away Guatemala Haiti 2 0 World Cup qualifier
+1969 54 home Guatemala Haiti 1 1 World Cup qualifier
+1969 326 home Guatemala Norway 1 3 Friendly
+1969 334 home Guatemala Jamaica 0 0 Concacaf Championship
+1969 337 away Guatemala CostaRica 1 1 Concacaf Championship
+1969 342 home Guatemala TrinidadTobago 2 0 Concacaf Championship
+1969 345 home Guatemala Mexico 1 0 Concacaf Championship
+1969 349 home Guatemala NetherlandsAntilles 6 1 Concacaf Championship
+1971 204 home Guatemala DutchGuiana 2 2 Olympic Games qualifier
+1971 211 home Guatemala Panama 4 1 Olympic Games qualifier
+1971 232 away Guatemala DutchGuiana 0 1 Olympic Games qualifier
+1972 23 home Guatemala Jamaica 1 0 Olympic Games qualifier
+1972 109 home Guatemala UnitedStates 3 2 Olympic Games qualifier
+1972 118 away Guatemala UnitedStates 2 1 Olympic Games qualifier
+1972 134 away Guatemala Jamaica 0 0 Olympic Games qualifier
+1972 250 home Guatemala Canada 2 2 Friendly
+1972 294 home Guatemala CostaRica 0 0 Friendly
+1972 322 away Guatemala CostaRica 1 1 Friendly
+1972 344 home Guatemala ElSalvador 1 0 World Cup qualifier
+1972 351 away Guatemala ElSalvador 0 1 World Cup qualifier
+1973 66 away Guatemala Peru 5 1 Friendly
+1973 340 home Guatemala Mexico 0 0 World Cup qualifier
+1973 346 home Guatemala NetherlandsAntilles 2 2 World Cup qualifier
+1973 351 away Guatemala TrinidadTobago 1 0 World Cup qualifier
+1973 354 away Guatemala Haiti 2 1 World Cup qualifier
+1973 356 home Guatemala Honduras 1 1 World Cup qualifier
+1975 113 away Guatemala Honduras 0 0 Olympic Games qualifier
+1975 120 home Guatemala Honduras 2 0 Olympic Games qualifier
+1975 218 away Guatemala Panama 2 0 Friendly
+1975 340 away Guatemala CostaRica 1 1 Olympic Games qualifier
+1975 348 home Guatemala CostaRica 2 1 Olympic Games qualifier
+1976 69 home Guatemala Cuba 1 1 Olympic Games qualifier
+1976 73 away Guatemala Cuba 1 1 Olympic Games qualifier
+1976 185 home Guatemala CostaRica 1 0 Friendly
+1976 205 home Guatemala Israel 0 0 Olympic Games
+1976 265 away Guatemala Panama 2 4 World Cup qualifier
+1976 274 home Guatemala Panama 7 0 World Cup qualifier
+1976 346 away Guatemala CostaRica 0 0 World Cup qualifier
+1976 349 home Guatemala ElSalvador 3 1 World Cup qualifier
+1976 353 home Guatemala CostaRica 1 1 World Cup qualifier
+1976 360 away Guatemala ElSalvador 2 0 World Cup qualifier
+1977 266 home Guatemala UnitedStates 3 1 Friendly
+1977 273 home Guatemala UnitedStates 2 0 Friendly
+1977 287 home Guatemala Surinam 3 2 World Cup qualifier
+1977 291 away Guatemala Haiti 2 1 World Cup qualifier
+1977 295 away Guatemala Canada 2 1 World Cup qualifier
+1977 298 away Guatemala Mexico 2 1 World Cup qualifier
+1977 302 away Guatemala ElSalvador 2 2 World Cup qualifier
+1979 94 home Guatemala Mexico 0 0 Friendly
+1979 211 away Guatemala CostaRica 1 2 Olympic Games qualifier
+1979 222 home Guatemala CostaRica 0 1 Olympic Games qualifier
+1979 243 away Guatemala CostaRica 1 0 Olympic Games qualifier
+1980 108 home Guatemala Mexico 2 4 Friendly
+1980 122 away Guatemala Mexico 2 2 Friendly
+1980 144 home Guatemala CostaRica 0 0 Friendly
+1980 153 away Guatemala CostaRica 2 1 Friendly
+1980 188 away Guatemala Panama 0 2 World Cup qualifier
+1980 291 home Guatemala CostaRica 0 0 World Cup qualifier
+1980 305 away Guatemala Honduras 0 0 World Cup qualifier
+1980 319 home Guatemala ElSalvador 0 0 World Cup qualifier
+1980 321 home Guatemala Canada 0 1 Friendly
+1980 326 home Guatemala Panama 5 0 World Cup qualifier
+1980 336 away Guatemala CostaRica 0 3 World Cup qualifier
+1980 348 home Guatemala Honduras 0 1 World Cup qualifier
+1980 362 away Guatemala ElSalvador 1 0 World Cup qualifier
+1983 98 away Guatemala Mexico 2 0 Friendly
+1983 215 home Guatemala SouthKorea 1 1 Friendly
+1983 220 home Guatemala SouthKorea 2 1 Friendly
+1983 302 away Guatemala CostaRica 1 0 Olympic Games qualifier
+1983 309 home Guatemala CostaRica 1 1 Olympic Games qualifier
+1984 158 away Guatemala SouthKorea 0 0 Presidents Cup
+1984 208 home Guatemala Mexico 1 3 Friendly
+1984 293 home Guatemala UnitedStates 4 0 Friendly
+1984 350 home Guatemala Ecuador 1 0 Friendly
+1985 48 home Guatemala CostaRica 1 0 Friendly
+1985 68 away Guatemala CostaRica 2 0 Friendly
+1985 113 away Guatemala Canada 2 1 World Cup qualifier
+1985 119 away Guatemala Haiti 0 1 World Cup qualifier
+1985 129 home Guatemala Canada 1 1 World Cup qualifier
+1985 139 home Guatemala Haiti 4 0 World Cup qualifier
+1986 6 home Guatemala Nicaragua 1 1 Friendly tournament
+1986 8 home Guatemala Honduras 1 0 Friendly tournament
+1986 10 home Guatemala ElSalvador 2 0 Friendly tournament
+1987 84 home Guatemala ElSalvador 2 0 Friendly
+1987 286 away Guatemala ElSalvador 1 0 Friendly
+1988 6 home Guatemala CostaRica 1 2 Friendly
+1988 10 home Guatemala UnitedStates 1 0 Friendly
+1988 13 home Guatemala UnitedStates 0 1 Friendly
+1988 64 away Guatemala CostaRica 2 1 Friendly
+1988 78 home Guatemala Uruguay 1 0 Friendly
+1988 103 away Guatemala ElSalvador 0 0 Friendly
+1988 114 away Guatemala ElSalvador 1 0 Friendly
+1988 123 away Guatemala Cuba 0 1 World Cup qualifier
+1988 139 home Guatemala Cuba 1 1 World Cup qualifier
+1988 222 home Guatemala ElSalvador 2 1 Friendly
+1988 284 away Guatemala TrinidadTobago 2 2 Friendly
+1988 288 home Guatemala Canada 1 0 World Cup qualifier
+1988 294 away Guatemala Canada 3 2 World Cup qualifier
+1988 319 home Guatemala ElSalvador 1 0 Friendly
+1989 43 home Guatemala Poland 0 1 Friendly
+1989 52 away Guatemala Mexico 2 1 Friendship Cup
+1989 54 home Guatemala CostaRica 3 2 Friendship Cup
+1989 65 home Guatemala ElSalvador 3 0 Friendly
+1989 81 home Guatemala CostaRica 1 0 World Cup qualifier
+1989 95 away Guatemala CostaRica 2 1 World Cup qualifier
+1989 129 away Guatemala Chile 1 0 Friendly tournament
+1989 131 home Guatemala Paraguay 1 2 Friendly tournament
+1989 172 away Guatemala UnitedStates 2 1 World Cup qualifier
+1989 237 home Guatemala TrinidadTobago 0 1 World Cup qualifier
+1989 251 away Guatemala TrinidadTobago 2 1 World Cup qualifier
+1989 287 home Guatemala UnitedStates 0 0 World Cup qualifier
+1990 14 home Guatemala Argentina 0 0 Friendly
+1990 340 home Guatemala SovietUnion 0 3 Friendly
+1991 150 away Guatemala ElSalvador 0 0 UNCAF Cup
+1991 153 home Guatemala Honduras 0 0 UNCAF Cup
+1991 157 away Guatemala CostaRica 1 0 UNCAF Cup
+1991 184 away Guatemala CostaRica 2 0 Concacaf Gold Cup
+1991 187 away Guatemala UnitedStates 3 0 Concacaf Gold Cup
+1991 189 home Guatemala TrinidadTobago 1 0 Concacaf Gold Cup
+1992 148 home Guatemala Ecuador 1 1 Friendly
+1992 162 home Guatemala Nicaragua 7 1 Friendly
+1992 191 home Guatemala Poland 2 2 Friendly
+1992 205 home Guatemala Honduras 0 0 World Cup qualifier
+1992 211 away Guatemala Uruguay 2 1 Friendly
+1992 212 away Guatemala Honduras 2 0 World Cup qualifier
+1992 343 home Guatemala Jamaica 2 1 Friendly
+1995 342 home Guatemala Panama 1 0 UNCAF Cup
+1995 344 away Guatemala Honduras 2 0 UNCAF Cup
+1995 348 away Guatemala ElSalvador 0 1 UNCAF Cup
+1995 351 away Guatemala Honduras 3 0 UNCAF Cup
+1996 14 away Guatemala Mexico 1 0 Concacaf Gold Cup
+1996 16 home Guatemala St. Vincent & Grenadines 3 0 Concacaf Gold Cup
+1996 19 away Guatemala Mexico 1 0 Concacaf Gold Cup
+1996 21 away Guatemala UnitedStates 3 0 Concacaf Gold Cup
+1996 65 away Guatemala Jamaica 2 0 Friendly
+1996 89 home Guatemala Venezuela 3 0 Friendly
+1996 129 away Guatemala Nicaragua 0 1 World Cup qualifier
+1996 134 home Guatemala Nicaragua 2 1 World Cup qualifier
+1996 221 home Guatemala Panama 1 0 Friendly
+1996 231 away Guatemala Panama 1 0 Friendly
+1996 235 home Guatemala Honduras 1 1 Friendly
+1996 244 home Guatemala Jamaica 2 1 Friendly
+1996 247 home Guatemala Cuba 1 1 Friendly
+1996 273 away Guatemala ElSalvador 2 1 Friendly
+1996 285 away Guatemala TrinidadTobago 1 1 World Cup qualifier
+1996 313 away Guatemala UnitedStates 2 0 World Cup qualifier
+1996 327 away Guatemala CostaRica 3 0 World Cup qualifier
+1996 334 home Guatemala CostaRica 1 0 World Cup qualifier
+1996 349 home Guatemala TrinidadTobago 2 1 World Cup qualifier
+1996 362 home Guatemala UnitedStates 2 2 World Cup qualifier
+1997 51 away Guatemala Mexico 1 1 Friendly
+1997 75 away Guatemala ElSalvador 0 0 Friendly
+1997 87 home Guatemala Ecuador 0 0 Friendly
+1997 106 away Guatemala ElSalvador 1 1 Friendly
+1997 109 home Guatemala CostaRica 1 1 UNCAF Cup
+1997 113 home Guatemala Nicaragua 6 1 UNCAF Cup
+1997 116 home Guatemala ElSalvador 1 0 UNCAF Cup
+1997 118 home Guatemala Honduras 1 0 UNCAF Cup
+1997 120 home Guatemala CostaRica 1 1 UNCAF Cup
+1997 272 home Guatemala ElSalvador 1 0 Friendly
+1997 317 away Guatemala Chile 4 1 Friendly
+1998 23 home Guatemala TrinidadTobago 3 1 Friendly
+1998 32 away Guatemala ElSalvador 0 0 Concacaf Gold Cup
+1998 36 home Guatemala Brazil 1 1 Concacaf Gold Cup
+1998 39 away Guatemala Jamaica 3 2 Concacaf Gold Cup
+1998 327 home Guatemala Honduras 3 3 Friendly tournament
+1998 328 home Guatemala Mexico 2 2 Friendly tournament
+1999 34 home Guatemala Ecuador 0 0 Friendly
+1999 48 home Guatemala Chile 1 1 Friendly
+1999 65 home Guatemala Paraguay 2 3 Copa Guatemala
+1999 67 home Guatemala Bolivia 0 3 Copa Guatemala
+1999 69 home Guatemala Jamaica 2 4 Copa Guatemala
+1999 73 away Guatemala UnitedStates 3 1 US Cup
+1999 75 home Guatemala Bolivia 2 1 US Cup
+1999 79 home Guatemala Nicaragua 1 0 UNCAF Cup
+1999 81 home Guatemala ElSalvador 1 1 UNCAF Cup
+1999 86 away Guatemala CostaRica 1 0 UNCAF Cup
+1999 88 home Guatemala ElSalvador 1 0 UNCAF Cup
+1999 90 home Guatemala Honduras 2 0 UNCAF Cup
+1999 153 away Guatemala Canada 1 0 Friendly
+1999 157 away Guatemala Canada 2 0 Canada Cup
+1999 159 away Guatemala Ecuador 3 1 Canada Cup
+1999 161 away Guatemala Iran 2 2 Canada Cup
+1999 214 home Guatemala ElSalvador 2 0 Friendly tournament
+1999 294 home Guatemala Paraguay 0 0 Friendly
+1999 320 home Guatemala Honduras 1 1 Friendly
+1999 333 home Guatemala Slovakia 0 1 Friendly
+2000 9 away Guatemala Armenia 1 1 Friendly
+2000 19 away Guatemala Panama 2 0 Friendly
+2000 26 home Guatemala Panama 1 1 Friendly
+2000 36 home Guatemala Chile 2 1 Friendly
+2000 46 away Guatemala TrinidadTobago 4 2 Concacaf Gold Cup
+2000 48 away Guatemala Mexico 1 1 Concacaf Gold Cup
+2000 81 home Guatemala Belize 2 1 World Cup qualifier
+2000 95 home Guatemala ElSalvador 0 1 World Cup qualifier
+2000 131 away Guatemala ElSalvador 1 1 World Cup qualifier
+2000 143 home Guatemala Belize 0 0 World Cup qualifier
+2000 166 away Guatemala Antigua and Barbuda 0 1 World Cup qualifier
+2000 173 home Guatemala Antigua and Barbuda 8 1 World Cup qualifier
+2000 189 home Guatemala Haiti 4 1 Friendly tournament
+2000 193 home Guatemala ElSalvador 1 0 Friendly
+2000 202 home Guatemala UnitedStates 1 1 World Cup qualifier
+2000 208 home Guatemala Barbados 2 0 World Cup qualifier
+2000 232 away Guatemala CostaRica 2 1 World Cup qualifier
+2000 251 away Guatemala UnitedStates 1 0 World Cup qualifier
+2000 287 away Guatemala Barbados 1 3 World Cup qualifier
+2000 325 home Guatemala CostaRica 2 1 World Cup qualifier
+2001 6 away Guatemala CostaRica 5 2 World Cup qualifier
+2001 52 away Guatemala Panama 2 2 Friendly
+2001 68 home Guatemala ElSalvador 1 1 Friendly
+2001 86 away Guatemala TrinidadTobago 3 1 Friendly
+2001 149 away Guatemala Belize 3 3 UNCAF Cup
+2001 151 away Guatemala CostaRica 1 1 UNCAF Cup
+2001 154 away Guatemala ElSalvador 0 0 UNCAF Cup
+2001 156 home Guatemala CostaRica 2 0 UNCAF Cup
+2001 158 home Guatemala Panama 3 1 UNCAF Cup
+2002 6 away Guatemala Cuba 0 1 Friendly
+2002 9 away Guatemala Cuba 0 0 Friendly
+2002 12 away Guatemala Ecuador 1 0 Friendly
+2002 21 away Guatemala Mexico 3 1 Concacaf Gold Cup
+2002 23 away Guatemala ElSalvador 1 0 Concacaf Gold Cup
+2002 310 home Guatemala Jamaica 1 1 Friendly
+2003 17 away Guatemala ElSalvador 0 0 Friendly
+2003 19 away Guatemala ElSalvador 0 0 Friendly
+2003 44 away Guatemala CostaRica 1 1 UNCAF Cup
+2003 47 away Guatemala Panama 2 0 UNCAF Cup
+2003 49 home Guatemala Nicaragua 5 0 UNCAF Cup
+2003 51 home Guatemala ElSalvador 2 0 UNCAF Cup
+2003 54 home Guatemala Honduras 2 1 UNCAF Cup
+2003 177 away Guatemala Honduras 2 1 Friendly
+2003 188 away Guatemala Peru 2 1 Friendly
+2003 194 home Guatemala ElSalvador 2 1 Friendly
+2003 201 away Guatemala Jamaica 2 0 Concacaf Gold Cup
+2003 203 away Guatemala Colombia 1 1 Concacaf Gold Cup
+2003 237 away Guatemala Ecuador 2 0 Friendly
+2003 244 away Guatemala Peru 0 0 Friendly
+2004 93 away Guatemala ElSalvador 0 3 Friendly
+2004 125 home Guatemala Panama 1 2 Friendly
+2004 129 home Guatemala Haiti 1 0 Friendly
+2004 167 away Guatemala Surinam 1 1 World Cup qualifier
+2004 175 home Guatemala Surinam 3 1 World Cup qualifier
+2004 204 home Guatemala ElSalvador 1 0 Friendly
+2004 209 away Guatemala Panama 1 1 Friendly
+2004 223 home Guatemala ElSalvador 2 0 Friendly
+2004 228 home Guatemala TrinidadTobago 4 1 Friendly
+2004 235 away Guatemala Canada 0 2 World Cup qualifier
+2004 253 home Guatemala CostaRica 2 1 World Cup qualifier
+2004 256 away Guatemala Honduras 2 2 World Cup qualifier
+2004 281 home Guatemala Jamaica 2 2 Friendly
+2004 288 away Guatemala CostaRica 5 0 World Cup qualifier
+2004 292 home Guatemala Honduras 1 0 World Cup qualifier
+2004 320 away Guatemala Mexico 2 0 Friendly
+2004 323 home Guatemala Bolivia 1 0 Friendly
+2004 327 home Guatemala Canada 0 1 World Cup qualifier
+2004 362 away Guatemala Venezuela 0 1 Friendly
+2005 17 away Guatemala Colombia 1 1 Friendly
+2005 23 away Guatemala Paraguay 2 1 Friendly
+2005 40 away Guatemala Panama 0 0 World Cup qualifier
+2005 44 home Guatemala Haiti 2 1 Friendly
+2005 50 home Guatemala Belize 2 0 UNCAF Cup
+2005 52 home Guatemala Nicaragua 4 0 UNCAF Cup
+2005 54 home Guatemala Honduras 1 1 UNCAF Cup
+2005 56 home Guatemala CostaRica 0 4 UNCAF Cup
+2005 58 home Guatemala Panama 3 0 UNCAF Cup
+2005 88 home Guatemala TrinidadTobago 5 1 World Cup qualifier
+2005 92 away Guatemala UnitedStates 2 0 World Cup qualifier
+2005 113 away Guatemala Jamaica 1 0 Friendly
+2005 120 away Guatemala Brazil 3 0 Friendly
+2005 159 home Guatemala Mexico 0 2 World Cup qualifier
+2005 163 away Guatemala CostaRica 3 2 World Cup qualifier
+2005 194 away Guatemala Jamaica 4 3 Concacaf Gold Cup
+2005 196 away Guatemala Mexico 4 0 Concacaf Gold Cup
+2005 199 home Guatemala SouthAfrica 1 1 Concacaf Gold Cup
+2005 234 home Guatemala Panama 2 1 World Cup qualifier
+2005 251 away Guatemala TrinidadTobago 3 2 World Cup qualifier
+2005 255 home Guatemala UnitedStates 0 0 World Cup qualifier
+2005 280 away Guatemala Jamaica 2 1 Friendly
+2005 287 away Guatemala Mexico 5 2 World Cup qualifier
+2005 291 home Guatemala CostaRica 3 1 World Cup qualifier
+2006 50 away Guatemala UnitedStates 4 0 Friendly
+2006 233 home Guatemala Haiti 1 1 Friendly
+2006 254 home Guatemala Panama 1 2 Friendly
+2006 286 away Guatemala Honduras 3 2 Friendly
+2006 289 away Guatemala Honduras 2 1 Friendly
+2006 325 away Guatemala Venezuela 2 1 Friendly
+2007 39 home Guatemala Nicaragua 1 0 UNCAF Cup
+2007 41 home Guatemala Belize 1 0 UNCAF Cup
+2007 43 away Guatemala ElSalvador 0 0 UNCAF Cup
+2007 47 away Guatemala Panama 2 0 UNCAF Cup
+2007 49 away Guatemala ElSalvador 0 1 UNCAF Cup
+2007 87 away Guatemala Barbados 0 0 Friendly
+2007 90 away Guatemala UnitedStates 0 0 Friendly
+2007 162 away Guatemala UnitedStates 1 0 Concacaf Gold Cup
+2007 164 home Guatemala ElSalvador 1 0 Concacaf Gold Cup
+2007 167 home Guatemala TrinidadTobago 1 1 Concacaf Gold Cup
+2007 171 away Guatemala Canada 3 0 Concacaf Gold Cup
+2007 239 away Guatemala Panama 2 1 Friendly
+2007 296 home Guatemala Mexico 3 2 Friendly
+2007 327 away Guatemala Honduras 1 0 Friendly
+2007 331 away Guatemala Jamaica 2 0 Friendly
+2008 116 home Guatemala Haiti 1 0 Friendly
+2008 154 away Guatemala ElSalvador 0 0 Friendly
+2008 156 away Guatemala Panama 1 0 Friendly
+2008 159 away Guatemala Chile 2 0 Friendly
+2008 169 home Guatemala SaintLucia 6 0 World Cup qualifier
+2008 176 home Guatemala SaintLucia 3 1 World Cup qualifier
+2008 206 away Guatemala ElSalvador 0 0 Friendly
+2008 223 home Guatemala Bolivia 3 0 Friendly
+2008 237 home Guatemala UnitedStates 0 1 World Cup qualifier
+2008 254 away Guatemala TrinidadTobago 1 1 World Cup qualifier
+2008 258 home Guatemala Cuba 4 1 World Cup qualifier
+2008 290 home Guatemala TrinidadTobago 0 0 World Cup qualifier
+2008 294 away Guatemala Cuba 2 1 World Cup qualifier
+2008 329 away Guatemala UnitedStates 2 0 World Cup qualifier
+2009 17 home Guatemala Haiti 1 0 Friendly
+2009 25 away Guatemala CostaRica 3 1 UNCAF Cup
+2009 27 away Guatemala Panama 1 0 UNCAF Cup
+2009 29 away Guatemala Nicaragua 2 0 UNCAF Cup
+2009 42 away Guatemala Venezuela 2 1 Friendly
+2009 183 home Guatemala Mexico 0 0 Friendly
+2009 185 away Guatemala Canada 3 0 Friendly
+2010 65 home Guatemala ElSalvador 2 1 Friendly
+2010 155 away Guatemala SouthAfrica 5 0 Friendly
+2010 252 home Guatemala Nicaragua 5 0 Friendly
+2010 255 away Guatemala Japan 2 1 Friendly
+2010 255 home Guatemala ElSalvador 2 0 Friendly
+2010 288 home Guatemala Belize 4 2 Friendly
+2010 291 away Guatemala Honduras 2 0 Friendly
+2010 327 home Guatemala Guyana 3 0 Friendly
+2011 16 away Guatemala CostaRica 2 0 UNCAF Cup
+2011 18 away Guatemala Honduras 3 1 UNCAF Cup
+2011 21 home Guatemala Nicaragua 2 1 UNCAF Cup
+2011 90 home Guatemala Bolivia 1 1 Friendly
+2011 156 home Guatemala Venezuela 0 2 Friendly
+2011 161 home Guatemala Honduras 0 0 Concacaf Gold Cup
+2011 165 away Guatemala Jamaica 2 0 Concacaf Gold Cup
+2011 168 home Guatemala Grenada 4 0 Concacaf Gold Cup
+2011 173 away Guatemala Mexico 2 1 Concacaf Gold Cup
+2011 250 home Guatemala St. Vincent & Grenadines 4 0 World Cup qualifier
+2011 254 away Guatemala Belize 1 2 World Cup qualifier
+2011 286 away Guatemala St. Vincent & Grenadines 0 3 World Cup qualifier
+2011 290 home Guatemala Belize 3 1 World Cup qualifier
+2011 321 home Guatemala Grenada 3 0 World Cup qualifier
+2011 325 away Guatemala Grenada 1 4 World Cup qualifier
+2012 53 away Guatemala Paraguay 2 1 Friendly
+2012 60 away Guatemala Guyana 0 2 Friendly
+2012 118 home Guatemala Paraguay 0 1 Friendly
+2012 149 away Guatemala CostaRica 3 2 Friendly
+2012 156 home Guatemala CostaRica 1 0 Friendly
+2012 163 away Guatemala Jamaica 2 1 World Cup qualifier
+2012 167 home Guatemala UnitedStates 1 1 World Cup qualifier
+2012 228 away Guatemala ElSalvador 1 0 Friendly
+2012 232 home Guatemala Paraguay 3 3 Friendly
+2012 255 home Guatemala Antigua and Barbuda 3 1 World Cup qualifier
+2012 259 away Guatemala Antigua and Barbuda 0 1 World Cup qualifier
+2012 291 home Guatemala Jamaica 2 1 World Cup qualifier
+2012 295 away Guatemala UnitedStates 3 1 World Cup qualifier
+2012 324 away Guatemala Paraguay 3 1 Friendly
+2013 10 away Guatemala Panama 3 0 Friendly
+2013 13 away Guatemala Panama 2 0 Friendly
+2013 18 home Guatemala Nicaragua 1 1 UNCAF Cup
+2013 20 away Guatemala Belize 0 0 UNCAF Cup
+2013 22 away Guatemala CostaRica 1 1 UNCAF Cup
+2013 25 away Guatemala Panama 3 1 UNCAF Cup
+2013 37 away Guatemala Colombia 4 1 Friendly
+2013 166 home Guatemala Belize 0 0 Friendly
+2013 169 home Guatemala Argentina 0 4 Friendly
+2013 191 away Guatemala UnitedStates 6 0 Friendly
+2013 254 away Guatemala Japan 3 0 Friendly

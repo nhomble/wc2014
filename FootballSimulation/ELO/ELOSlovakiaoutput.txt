@@ -1,0 +1,245 @@
+1939 244 home Slovakia Germany 2 0 Friendly
+1939 344 away Slovakia Germany 3 1 Friendly
+1940 161 away Slovakia Bulgaria 1 4 Friendly
+1940 263 home Slovakia Germany 0 1 Friendly
+1941 255 home Slovakia Croatia 1 1 Friendly
+1941 276 away Slovakia Croatia 5 2 Friendly
+1941 291 away Slovakia Romania 3 2 Friendly
+1941 348 away Slovakia Germany 4 0 Friendly
+1942 162 home Slovakia Croatia 1 2 Friendly
+1942 240 home Slovakia Romania 1 0 Friendly
+1942 254 away Slovakia Croatia 6 1 Friendly
+1942 332 home Slovakia Germany 2 5 Friendly
+1943 103 away Slovakia Croatia 1 0 Friendly
+1943 162 home Slovakia Croatia 1 3 Friendly
+1943 168 away Slovakia Romania 2 2 Friendly
+1944 102 away Slovakia Croatia 7 3 Friendly
+1992 293 away Slovakia Lithuania 0 1 Friendly
+1993 92 home Slovakia Lithuania 2 2 Friendly
+1993 326 home Slovakia Slovenia 2 0 Friendly
+1994 33 away Slovakia UnitedArab 0 1 Friendly tournament
+1994 35 away Slovakia Egypt 1 0 Friendly tournament
+1994 37 away Slovakia Morocco 2 1 Friendly tournament
+1994 92 away Slovakia Malta 1 2 Friendly
+1994 113 home Slovakia Croatia 4 1 Friendly
+1994 153 away Slovakia Russia 2 1 Friendly
+1994 233 home Slovakia Malta 1 1 Friendly
+1994 255 home Slovakia France 0 0 European Cup qualifier
+1994 291 away Slovakia Israel 2 2 European Cup qualifier
+1994 322 away Slovakia Romania 3 2 European Cup qualifier
+1995 53 away Slovakia Brazil 5 0 Friendly
+1995 70 home Slovakia Russia 2 1 Friendly
+1995 91 home Slovakia Azerbaijan 4 1 European Cup qualifier
+1995 119 away Slovakia France 4 0 European Cup qualifier
+1995 132 home Slovakia Czechia 1 1 Friendly
+1995 162 away Slovakia Poland 5 0 European Cup qualifier
+1995 177 away Slovakia Argentina 6 0 Friendly
+1995 180 away Slovakia Peru 1 0 Friendly
+1995 233 away Slovakia Azerbaijan 0 1 European Cup qualifier
+1995 254 home Slovakia Israel 1 0 European Cup qualifier
+1995 290 home Slovakia Poland 4 1 European Cup qualifier
+1995 325 home Slovakia Romania 0 2 European Cup qualifier
+1995 347 away Slovakia Lebanon 2 1 Friendly
+1996 30 away Slovakia Bolivia 2 0 Friendly
+1996 89 home Slovakia Belarus 4 0 Friendly
+1996 117 home Slovakia Bulgaria 0 0 Friendly
+1996 133 away Slovakia Sweden 2 1 Friendly
+1996 142 away Slovakia Mexico 5 2 Friendly
+1996 248 away Slovakia FaroeIslands 1 2 World Cup qualifier
+1996 270 home Slovakia Malta 6 0 World Cup qualifier
+1996 302 home Slovakia FaroeIslands 3 0 World Cup qualifier
+1996 323 away Slovakia Spain 4 1 World Cup qualifier
+1997 33 away Slovakia Bolivia 0 1 Friendly
+1997 36 away Slovakia CostaRica 2 2 Friendly
+1997 39 away Slovakia Colombia 1 0 Friendly
+1997 73 away Slovakia Bulgaria 0 1 Friendly
+1997 93 away Slovakia Malta 0 2 World Cup qualifier
+1997 122 home Slovakia Iceland 3 1 Friendly
+1997 163 away Slovakia Yugoslavia 2 0 World Cup qualifier
+1997 223 home Slovakia Switzerland 1 0 Friendly
+1997 241 home Slovakia Czechia 2 1 World Cup qualifier
+1997 258 home Slovakia Yugoslavia 1 1 World Cup qualifier
+1997 272 home Slovakia Spain 1 2 World Cup qualifier
+1997 290 away Slovakia Czechia 3 0 World Cup qualifier
+1998 28 away Slovakia Italy 3 0 Friendly
+1998 37 away Slovakia Slovenia 1 1 Friendly tournament
+1998 38 home Slovakia Iceland 2 1 Friendly tournament
+1998 40 home Slovakia Finland 2 0 Friendly tournament
+1998 87 away Slovakia NorthernIreland 1 0 Friendly
+1998 108 home Slovakia SouthKorea 0 0 Friendly
+1998 153 away Slovakia Croatia 1 2 Friendly
+1998 236 home Slovakia Finland 0 0 Friendly
+1998 253 home Slovakia Azerbaijan 3 0 European Cup qualifier
+1998 289 away Slovakia Liechtenstein 0 4 European Cup qualifier
+1998 293 home Slovakia Portugal 0 3 European Cup qualifier
+1998 320 home Slovakia Poland 1 3 Friendly
+1999 65 away Slovakia Bulgaria 2 0 Friendly
+1999 89 away Slovakia Romania 0 0 European Cup qualifier
+1999 93 home Slovakia Hungary 0 0 European Cup qualifier
+1999 143 home Slovakia Bulgaria 2 0 Friendly
+1999 160 away Slovakia Portugal 1 0 European Cup qualifier
+1999 164 away Slovakia Hungary 0 1 European Cup qualifier
+1999 235 home Slovakia Israel 1 0 Friendly
+1999 252 home Slovakia Romania 1 5 European Cup qualifier
+1999 256 home Slovakia Liechtenstein 2 0 European Cup qualifier
+1999 288 away Slovakia Azerbaijan 0 1 European Cup qualifier
+1999 327 away Slovakia Peru 2 1 Friendly
+1999 329 away Slovakia Colombia 1 0 Friendly
+1999 333 away Slovakia Guatemala 0 1 Friendly
+1999 335 away Slovakia CostaRica 4 0 Friendly
+2000 40 away Slovakia Bulgaria 1 0 Copa Ciudad de Valparaíso
+2000 43 away Slovakia Australia 0 0 Copa Ciudad de Valparaíso
+2000 46 away Slovakia Chile 0 2 Copa Ciudad de Valparaíso
+2000 148 home Slovakia SaudiArabia 1 1 Friendly
+2000 151 away Slovakia Norway 2 0 Friendly
+2000 155 away Slovakia Russia 1 1 Friendly
+2000 166 away Slovakia Japan 1 1 Kirin Cup
+2000 169 home Slovakia Bolivia 2 0 Kirin Cup
+2000 233 home Slovakia Croatia 1 1 Friendly
+2000 251 home Slovakia Macedonia 2 0 World Cup qualifier
+2000 286 away Slovakia Moldova 0 1 World Cup qualifier
+2000 290 home Slovakia Sweden 0 0 World Cup qualifier
+2000 325 away Slovakia Greece 0 2 Friendly
+2001 58 away Slovakia Algeria 1 1 Friendly
+2001 86 away Slovakia Turkey 1 1 World Cup qualifier
+2001 90 home Slovakia Azerbaijan 3 1 World Cup qualifier
+2001 118 away Slovakia Romania 0 0 Friendly
+2001 153 away Slovakia Germany 2 0 Friendly
+2001 157 away Slovakia Sweden 2 0 World Cup qualifier
+2001 161 away Slovakia Azerbaijan 2 0 World Cup qualifier
+2001 176 away Slovakia Bosnia 1 0 Merdeka Tournament
+2001 178 away Slovakia Malaysia 0 2 Merdeka Tournament
+2001 180 away Slovakia Bahrain 2 0 Merdeka Tournament
+2001 232 home Slovakia Iran 3 4 Friendly
+2001 249 home Slovakia Turkey 0 1 World Cup qualifier
+2001 253 home Slovakia Moldova 4 2 World Cup qualifier
+2001 286 away Slovakia Macedonia 0 5 World Cup qualifier
+2002 37 away Slovakia Iran 2 3 Friendly
+2002 89 away Slovakia Austria 2 0 Friendly
+2002 110 away Slovakia Belgium 1 1 Friendly
+2002 122 away Slovakia Japan 1 0 Kirin Cup
+2002 138 home Slovakia Uzbekistan 4 1 Friendly
+2002 238 away Slovakia Czechia 4 1 Friendly
+2002 255 away Slovakia Turkey 3 0 European Cup qualifier
+2002 291 home Slovakia England 1 2 European Cup qualifier
+2002 330 home Slovakia Ukraine 1 1 Friendly
+2003 43 away Slovakia Romania 2 1 Friendly tournament
+2003 44 away Slovakia Cyprus 1 3 Friendly tournament
+2003 91 away Slovakia Macedonia 0 2 European Cup qualifier
+2003 95 home Slovakia Liechtenstein 4 0 European Cup qualifier
+2003 123 home Slovakia Greece 2 2 Friendly
+2003 162 home Slovakia Turkey 0 1 European Cup qualifier
+2003 166 away Slovakia England 2 1 European Cup qualifier
+2003 237 away Slovakia Colombia 0 0 Friendly
+2003 258 home Slovakia Macedonia 1 1 European Cup qualifier
+2003 290 away Slovakia Liechtenstein 0 2 European Cup qualifier
+2003 351 home Slovakia Kuwait 2 0 Friendly
+2004 93 home Slovakia Austria 1 1 Friendly
+2004 121 away Slovakia Ukraine 1 1 Friendly
+2004 153 away Slovakia Croatia 1 0 Friendly
+2004 195 away Slovakia Japan 3 1 Kirin Cup
+2004 197 away Slovakia Serbia and Montenegro 2 0 Kirin Cup
+2004 235 home Slovakia Luxembourg 3 1 World Cup qualifier
+2004 252 away Slovakia Russia 1 1 World Cup qualifier
+2004 256 home Slovakia Liechtenstein 7 0 World Cup qualifier
+2004 288 home Slovakia Latvia 4 1 World Cup qualifier
+2004 327 home Slovakia Slovenia 0 0 Friendly
+2004 340 home Slovakia Hungary 1 0 King's Cup
+2004 343 away Slovakia Thailand 1 1 King's Cup
+2005 40 away Slovakia Romania 2 2 Friendly
+2005 88 away Slovakia Estonia 1 2 World Cup qualifier
+2005 92 home Slovakia Portugal 1 1 World Cup qualifier
+2005 159 away Slovakia Portugal 2 0 World Cup qualifier
+2005 163 away Slovakia Luxembourg 0 4 World Cup qualifier
+2005 234 away Slovakia Liechtenstein 0 0 World Cup qualifier
+2005 251 home Slovakia Germany 2 0 Friendly
+2005 255 away Slovakia Latvia 1 1 World Cup qualifier
+2005 287 home Slovakia Estonia 1 0 World Cup qualifier
+2005 291 home Slovakia Russia 0 0 World Cup qualifier
+2005 322 away Slovakia Spain 5 1 World Cup qualifier
+2005 326 home Slovakia Spain 1 1 World Cup qualifier
+2006 63 away Slovakia France 1 2 Friendly
+2006 144 home Slovakia Belgium 1 1 Friendly
+2006 232 home Slovakia Malta 3 0 Friendly
+2006 250 home Slovakia Cyprus 6 1 European Cup qualifier
+2006 254 home Slovakia Czechia 0 3 European Cup qualifier
+2006 286 away Slovakia Wales 1 5 European Cup qualifier
+2006 290 home Slovakia Germany 1 4 European Cup qualifier
+2006 325 home Slovakia Bulgaria 3 1 Friendly
+2006 351 away Slovakia UnitedArab 1 2 Friendly
+2007 38 away Slovakia Poland 2 2 Friendly
+2007 86 away Slovakia Cyprus 1 3 European Cup qualifier
+2007 90 away Slovakia Ireland 1 0 European Cup qualifier
+2007 161 away Slovakia Germany 2 1 European Cup qualifier
+2007 239 home Slovakia France 0 1 Friendly
+2007 256 home Slovakia Ireland 2 2 European Cup qualifier
+2007 260 home Slovakia Wales 2 5 European Cup qualifier
+2007 292 home Slovakia SanMarino 7 0 European Cup qualifier
+2007 295 away Slovakia Croatia 3 0 Friendly
+2007 327 away Slovakia Czechia 3 1 European Cup qualifier
+2007 331 away Slovakia SanMarino 0 5 European Cup qualifier
+2008 37 away Slovakia Hungary 1 1 Friendly
+2008 88 home Slovakia Iceland 1 2 Friendly
+2008 144 away Slovakia Turkey 1 0 Friendly
+2008 148 away Slovakia Switzerland 2 0 Friendly
+2008 237 home Slovakia Greece 0 2 Friendly
+2008 254 home Slovakia NorthernIreland 2 1 World Cup qualifier
+2008 258 away Slovakia Slovenia 2 1 World Cup qualifier
+2008 290 away Slovakia SanMarino 1 3 World Cup qualifier
+2008 294 home Slovakia Poland 2 1 World Cup qualifier
+2008 329 home Slovakia Liechtenstein 4 0 Friendly
+2009 41 away Slovakia Ukraine 3 2 Friendly tournament
+2009 42 away Slovakia Cyprus 3 2 Friendly tournament
+2009 90 away Slovakia England 4 0 Friendly
+2009 94 away Slovakia Czechia 1 2 World Cup qualifier
+2009 161 home Slovakia SanMarino 7 0 World Cup qualifier
+2009 229 away Slovakia Iceland 1 1 Friendly
+2009 253 home Slovakia Czechia 2 2 World Cup qualifier
+2009 257 away Slovakia NorthernIreland 0 2 World Cup qualifier
+2009 289 home Slovakia Slovenia 0 2 World Cup qualifier
+2009 293 away Slovakia Poland 0 1 World Cup qualifier
+2009 324 home Slovakia UnitedStates 1 0 Friendly
+2009 327 home Slovakia Chile 1 2 Friendly
+2010 65 home Slovakia Norway 0 1 Friendly
+2010 153 away Slovakia Cameroon 1 1 Friendly
+2010 160 home Slovakia CostaRica 3 0 Friendly
+2010 170 away Slovakia NewZealand 1 1 World Cup
+2010 175 away Slovakia Paraguay 2 0 World Cup
+2010 179 home Slovakia Italy 3 2 World Cup
+2010 183 away Slovakia Holland 2 1 World Cup
+2010 228 home Slovakia Croatia 1 1 Friendly
+2010 251 home Slovakia Macedonia 1 0 European Cup qualifier
+2010 255 away Slovakia Russia 0 1 European Cup qualifier
+2010 287 away Slovakia Armenia 3 1 European Cup qualifier
+2010 291 home Slovakia Ireland 1 1 European Cup qualifier
+2010 327 home Slovakia Bosnia 2 3 Friendly
+2011 40 away Slovakia Luxembourg 2 1 Friendly
+2011 88 away Slovakia Andorra 0 1 European Cup qualifier
+2011 91 home Slovakia Denmark 1 2 Friendly
+2011 159 home Slovakia Andorra 1 0 European Cup qualifier
+2011 227 away Slovakia Austria 1 2 Friendly
+2011 250 away Slovakia Ireland 0 0 European Cup qualifier
+2011 254 home Slovakia Armenia 0 4 European Cup qualifier
+2011 286 home Slovakia Russia 0 1 European Cup qualifier
+2011 290 away Slovakia Macedonia 1 1 European Cup qualifier
+2012 60 away Slovakia Turkey 1 2 Friendly
+2012 150 away Slovakia Poland 1 0 Friendly
+2012 154 away Slovakia Holland 2 0 Friendly
+2012 232 away Slovakia Denmark 1 3 Friendly
+2012 255 away Slovakia Lithuania 1 1 World Cup qualifier
+2012 259 home Slovakia Liechtenstein 2 0 World Cup qualifier
+2012 291 home Slovakia Latvia 2 1 World Cup qualifier
+2012 295 home Slovakia Greece 0 1 World Cup qualifier
+2012 324 away Slovakia Czechia 3 0 Friendly
+2013 37 away Slovakia Belgium 2 1 Friendly
+2013 84 home Slovakia Lithuania 1 1 World Cup qualifier
+2013 88 home Slovakia Sweden 0 0 Friendly
+2013 162 away Slovakia Liechtenstein 1 1 World Cup qualifier
+2013 231 away Slovakia Romania 1 1 Friendly
+2013 254 away Slovakia Bosnia 0 1 World Cup qualifier
+2013 258 home Slovakia Bosnia 1 2 World Cup qualifier
+2013 290 away Slovakia Greece 1 0 World Cup qualifier
+2013 294 away Slovakia Latvia 2 2 World Cup qualifier
+2013 325 away Slovakia Poland 0 2 Friendly
+2013 329 away Slovakia Gibraltar 0 0 Friendly
+2014 67 away Slovakia Israel 1 3 Friendly

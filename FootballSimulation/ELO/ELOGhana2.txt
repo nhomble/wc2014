@@ -1,0 +1,4959 @@
+May 28
+1950	Gold Coast
+Nigeria	1
+0	Friendly
+in Gold Coast	+3
+-3	1703
+1497	-
+-	19
+46
+October 20
+1951	Nigeria
+Gold Coast	5
+0	Jalco_Cup
+in Nigeria	+39
+-39	1536
+1664	+5
+-3	41
+22
+October 11
+1953	Gold Coast
+Nigeria	1
+0	Jalco_Cup
+in Gold Coast	+6
+-6	1670
+1530	0
+-2	23
+44
+June 01
+1954	Gold Coast
+Sierra Leone	2
+0	Friendly
+in Gold Coast	+5
+-5	1675
+1495	+1
+-	22
+51
+October 30
+1954	Nigeria
+Gold Coast	3
+0	Jalco_Cup
+in Nigeria	+30
+-30	1560
+1645	+4
+-3	39
+23
+October 30
+1955	Gold Coast
+Nigeria	7
+0	Jalco_Cup
+in Gold Coast	+17
+-17	1662
+1543	+2
+-1	22
+40
+October 13
+1956	Togo
+Gold Coast	1
+1	Friendly
+in Togo	+4
+-4	1404
+1658	-
+0	70
+22
+October 27
+1956	Nigeria
+Gold Coast	3
+0	Jalco_Cup
+in Nigeria	+27
+-27	1570
+1631	+4
+-6	39
+28
+October 27
+1957	Gold Coast
+Nigeria	3
+3	Jalco_Cup
+in Gold Coast	-6
++6	1625
+1576	-1
++2	30
+41
+October 25
+1958	Nigeria
+Ghana	3
+2	Jalco_Cup
+in Nigeria	+13
+-13	1589
+1612	+1
+-4	41
+35
+October 10
+1959	Nigeria
+Ghana	3
+1	Olympic Games qualifier
+in Nigeria	+23
+-23	1612
+1589	+4
+-4	36
+40
+October 25
+1959	Ghana
+Nigeria	4
+1	Olympic Games qualifier
+in Ghana	+27
+-27	1616
+1585	+4
+-4	36
+40
+November 13
+1959	Egypt
+Ghana	2
+1	Olympic Games qualifier
+in Egypt	+15
+-15	1616
+1601	+3
+-3	35
+38
+November 21
+1959	Ghana
+Nigeria	5
+2	Jalco_Cup
+in Ghana	+18
+-18	1619
+1575	+2
+-4	35
+43
+December 06
+1959	Ghana
+Egypt	2
+0	Olympic Games qualifier
+in Ghana	+21
+-21	1640
+1595	+3
+-3	32
+39
+August 28
+1960	Ghana
+Nigeria	4
+1	World Cup qualifier
+in Ghana	+15
+-15	1655
+1497	+2
+-3	29
+54
+September 10
+1960	Nigeria
+Ghana	2
+2	World Cup qualifier
+in Nigeria	+3
+-3	1500
+1652	+1
+0	54
+29
+October 09
+1960	Nigeria
+Ghana	0
+3	Nkrumah Cup
+in Nigeria	-22
++22	1478
+1674	-6
++2	61
+27
+October 29
+1960	Nigeria
+Ghana	1
+1	Independence Cup
+in Nigeria	+5
+-5	1483
+1669	+1
+0	60
+27
+April 02
+1961	Ghana
+Morocco	0
+0	World Cup qualifier
+in Ghana	-11
++11	1658
+1554	0
++1	28
+47
+April 08
+1961	Nigeria
+Ghana	0
+0	African Nations Cup qualifier
+in Nigeria	+4
+-4	1487
+1654	+1
+-3	60
+31
+April 30
+1961	Ghana
+Nigeria	2
+2	African Nations Cup qualifier
+in Ghana	-13
++13	1641
+1500	-1
++3	31
+57
+May 28
+1961	Morocco
+Ghana	1
+0	World Cup qualifier
+in Morocco	+19
+-19	1573
+1622	+1
+-3	45
+34
+June 01
+1961	Ghana
+Nigeria	3
+0	Friendly
+in Ghana	+8
+-8	1630
+1492	+2
+-3	32
+60
+December 17
+1961	Ghana
+Nigeria	5
+1	Friendly
+in Ghana	+8
+-8	1638
+1484	+2
+-1	29
+60
+October 15
+1962	Malawi
+Ghana	0
+12	Friendly
+in Malawi	-12
++12	1288
+1650	-
++1	109
+27
+November 10
+1962	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	+2
+-2	1486
+1648	+1
+0	62
+27
+February 23
+1963	Ghana
+Nigeria	5
+0	Nkrumah Cup
+in Ghana	+14
+-14	1662
+1521	+3
+-3	26
+54
+February 27
+1963	Ghana
+Mali	4
+0	Nkrumah Cup
+in Ghana	+11
+-11	1673
+1508	+1
+-3	25
+58
+November 24
+1963	Ghana
+Tunisia	1
+1	African Nations Cup
+in Ghana	-14
++14	1659
+1567	-2
++4	28
+48
+November 26
+1963	Ghana
+Ethiopia	2
+0	African Nations Cup
+in Ghana	+9
+-9	1668
+1413	+1
+0	27
+82
+December 01
+1963	Ghana
+Sudan	3
+0	African Nations Cup
+in Ghana	+15
+-15	1683
+1485	+1
+-5	27
+66
+January 18
+1964	Liberia
+Ghana	4
+5	Olympic Games qualifier
+in Liberia	-9
++9	1365
+1692	-3
++2	97
+25
+February 02
+1964	Ghana
+Liberia	1
+0	Olympic Games qualifier
+in Ghana	+3
+-3	1695
+1362	0
+-1	25
+98
+February 23
+1964	Ghana
+East Germany	3
+0	Friendly
+in Ghana	+9
+-9	1704
+1597	+1
+-1	24
+38
+May 30
+1964	Ghana
+Tunisia	2
+0	Olympic Games qualifier
+in Ghana	+9
+-9	1713
+1489	+1
+-3	22
+65
+June 21
+1964	Tunisia
+Ghana	2
+1	Olympic Games qualifier
+in Tunisia	+27
+-27	1516
+1686	+6
+-3	59
+26
+October 16
+1964	Japan
+Ghana	2
+3	Olympic Games
+in Japan	-12
++12	1325
+1698	-1
++2	107
+26
+October 18
+1964	Egypt
+Ghana	5
+1	Olympic Games
+in Japan	+48
+-48	1800
+1650	+5
+-3	15
+29
+October 20
+1964	Romania
+Ghana	4
+2	Olympic Games Consolation Tournament
+in Japan	+22
+-22	1773
+1628	+6
+-4	17
+33
+January 01
+1965	Ghana
+Congo (Kinshasa)	4
+1	Friendly
+in Ghana	+12
+-12	1640
+1601	+3
+-2	30
+42
+October 30
+1965	Nigeria
+Ghana	0
+4	Azikwe Cup
+in Nigeria	-22
++22	1445
+1662	-3
++2	76
+32
+November 07
+1965	Ghana
+Nigeria	3
+0	Azikwe Cup
+in Ghana	+7
+-7	1669
+1438	0
+0	32
+76
+November 12
+1965	Ghana
+Congo (Kinshasa)	5
+2	African Nations Cup
+in Tunisia	+41
+-41	1710
+1605	+5
+-5	27
+38
+November 19
+1965	Ghana
+Ivory Coast	4
+1	African Nations Cup
+in Tunisia	+44
+-44	1754
+1671	+9
+-6	19
+32
+November 21
+1965	Tunisia
+Ghana	2
+3	African Nations Cup
+in Tunisia	-18
++18	1529
+1772	-4
++2	55
+17
+December 12
+1965	Kenya
+Ghana	0
+13	Friendly tournament
+in Kenya	-8
++8	1264
+1780	-2
+0	125
+17
+April 10
+1966	Dahomey
+Ghana	2
+5	Friendly
+in Dahomey	-5
++5	1362
+1785	-2
++1	98
+16
+June 30
+1966	Congo (Kinshasa)
+Ghana	0
+3	Friendly
+in Congo (Kinshasa)	-12
++12	1559
+1797	-2
++2	49
+14
+January 08
+1967	Dahomey
+Ghana	2
+1	Friendly
+in Dahomey	+17
+-17	1379
+1780	+4
+-3	96
+17
+January 28
+1967	Nigeria
+Ghana	2
+2	Azikwe Cup
+in Nigeria	+9
+-9	1453
+1771	+1
+-1	76
+18
+February 12
+1967	Ghana
+Nigeria	2
+0	Azikwe Cup
+in Ghana	+4
+-4	1775
+1449	0
+-1	18
+77
+February 19
+1967	Ghana
+Ivory Coast	2
+2	Friendly
+in Ghana	-5
++5	1770
+1690	0
++1	18
+28
+September 03
+1967	Ghana
+Congo (Kinshasa)	2
+0	Friendly
+in Ghana	+4
+-4	1774
+1551	0
+-2	16
+50
+September 28
+1967	Ghana
+Nigeria	1
+1	Friendly
+in Ghana	-8
++8	1766
+1469	-1
++2	17
+73
+October 01
+1967	Ghana
+Upper Volta	5
+2	Friendly
+in Ghana	+1
+-1	1767
+1320	0
+-1	17
+109
+October 21
+1967	Ghana
+Nigeria	2
+1	Azikwe Cup
+in Ghana	+3
+-3	1770
+1450	+2
+0	15
+75
+December 13
+1967	Cameroon
+Ghana	1
+0	Olympic Games qualifier
+in Cameroon	+29
+-29	1535
+1741	+5
+-5	58
+21
+December 17
+1967	Ghana
+Cameroon	3
+2	Olympic Games qualifier
+in Ghana	+6
+-6	1747
+1529	0
+-2	21
+60
+December 23
+1967	Nigeria
+Ghana	2
+2	Azikwe Cup
+in Nigeria	+7
+-7	1476
+1740	+3
+0	70
+21
+January 12
+1968	Ghana
+Senegal	2
+2	African Nations Cup
+in Ethiopia	-14
++14	1726
+1544	0
++2	21
+57
+January 14
+1968	Ghana
+Congo (Kinshasa)	2
+1	African Nations Cup
+in Ethiopia	+18
+-18	1744
+1604	+1
+-1	20
+39
+January 16
+1968	Ghana
+Congo	3
+1	African Nations Cup
+in Ethiopia	+14
+-14	1758
+1479	+2
+-2	18
+69
+January 19
+1968	Ghana
+Ivory Coast	4
+3	African Nations Cup
+in Ethiopia	+22
+-22	1780
+1689	+2
+-1	16
+24
+January 21
+1968	Congo (Kinshasa)
+Ghana	1
+0	African Nations Cup
+in Ethiopia	+34
+-34	1684
+1746	+7
+-4	26
+20
+May 19
+1968	Ghana
+Ivory Coast	2
+1	Friendly
+in Ghana	+6
+-6	1752
+1701	+1
+0	19
+24
+June 09
+1968	Morocco
+Ghana	1
+1	Olympic Games qualifier
+in Morocco	+3
+-3	1596
+1749	+2
+0	41
+19
+June 30
+1968	Ghana
+Morocco	1
+2	Olympic Games qualifier
+in Ghana	-32
++32	1717
+1628	-2
++5	21
+36
+September 22
+1968	Ghana
+Dahomey	3
+0	Friendly
+in Ghana	+2
+-2	1719
+1346	0
+0	21
+103
+October 13
+1968	Israel
+Ghana	5
+3	Olympic Games
+in Mexico	+72
+-72	1547
+1647	+16
+-11	55
+32
+October 17
+1968	El Salvador
+Ghana	1
+1	Olympic Games
+in Mexico	+14
+-14	1487
+1633	+3
+-3	68
+35
+December 01
+1968	Ghana
+Senegal	2
+0	Friendly
+in Ghana	+7
+-7	1640
+1528	+4
+-1	31
+61
+May 10
+1969	Nigeria
+Ghana	2
+1	World Cup qualifier
+in Nigeria	+22
+-22	1531
+1618	+5
+-4	58
+38
+May 18
+1969	Ghana
+Nigeria	1
+1	World Cup qualifier
+in Ghana	-10
++10	1608
+1541	0
++1	38
+57
+August 17
+1969	Ghana
+Niger	6
+0	African Nations Cup qualifier
+in Ghana	+6
+-6	1614
+1253	+1
+-2	40
+125
+September 21
+1969	Niger
+Ghana	1
+9	African Nations Cup qualifier
+in Niger	-17
++17	1236
+1631	-1
++4	126
+36
+October 12
+1969	Ghana
+Senegal	4
+3	Friendly
+in Ghana	+4
+-4	1635
+1506	+1
+0	35
+64
+November 12
+1969	Congo
+Ghana	1
+1	Friendly
+in Congo	+1
+-1	1489
+1634	0
+0	70
+35
+February 07
+1970	Ghana
+Congo (Kinshasa)	2
+0	African Nations Cup
+in Sudan	+46
+-46	1680
+1668	+8
+-10	28
+34
+February 09
+1970	Egypt
+Ghana	1
+1	African Nations Cup
+in Sudan	-4
++4	1735
+1684	0
+-1	20
+30
+February 11
+1970	Ghana
+Guinea	1
+1	African Nations Cup
+in Sudan	-10
++10	1674
+1543	-2
++2	32
+58
+February 14
+1970	Ghana
+Ivory Coast	2
+1	African Nations Cup
+in Sudan	+28
+-28	1702
+1686	+8
+-6	24
+30
+February 16
+1970	Sudan
+Ghana	1
+0	African Nations Cup
+in Sudan	+25
+-25	1633
+1677	+1
+-6	38
+30
+April 15
+1970	Ghana
+Ivory Coast	3
+0	Friendly
+in Ghana	+12
+-12	1689
+1641	+3
+0	26
+35
+April 19
+1970	Ghana
+Ivory Coast	1
+1	Friendly
+in Ghana	-4
++4	1685
+1645	0
+0	26
+35
+January 10
+1971	Ghana
+Zaire	1
+1	Friendly
+in Ghana	-3
++3	1682
+1677	-1
++1	29
+30
+January 31
+1971	Ghana
+Sierra Leone	1
+2	Friendly
+in Ghana	-17
++17	1665
+1485	-5
++3	34
+67
+February 07
+1971	Ghana
+Sierra Leone	2
+1	Friendly
+in Ghana	+3
+-3	1668
+1482	+1
+0	33
+67
+March 21
+1971	Ghana
+Liberia	2
+1	Olympic Games qualifier
+in Ghana	+3
+-3	1671
+1351	+1
+-1	32
+99
+April 17
+1971	Liberia
+Ghana	0
+1	Olympic Games qualifier
+in Liberia	-10
++10	1363
+1681	-2
++3	95
+28
+May 02
+1971	Ivory Coast
+Ghana	2
+6	Friendly
+in Ivory Coast	-22
++22	1621
+1703	-1
++2	39
+26
+October 13
+1971	Togo
+Ghana	0
+0	African Nations Cup qualifier
+in Togo	+9
+-9	1444
+1694	+3
+-2	76
+29
+October 27
+1971	Ghana
+Togo	0
+1	African Nations Cup qualifier
+in Ghana	-35
++35	1659
+1479	-7
++7	36
+69
+April 23
+1972	Ghana
+Togo	1
+1	Olympic Games qualifier
+in Ghana	-14
++14	1645
+1484	-2
++2	37
+68
+April 30
+1972	Cameroon
+Ghana	0
+3	Olympic Games qualifier
+in Cameroon	-40
++40	1554
+1685	-10
++6	55
+31
+May 07
+1972	Ghana
+Senegal	1
+0	Olympic Games qualifier
+in Ghana	+7
+-7	1692
+1510	+1
+0	30
+63
+May 14
+1972	Togo
+Ghana	0
+2	Olympic Games qualifier
+in Togo	-17
++17	1409
+1709	-10
++4	88
+26
+May 21
+1972	Ghana
+Cameroon	0
+0	Olympic Games qualifier
+in Ghana	-11
++11	1698
+1595	-1
+0	28
+46
+May 28
+1972	Senegal
+Ghana	2
+0	Olympic Games qualifier
+in Senegal	+41
+-41	1510
+1657	+6
+-7	63
+36
+June 18
+1972	Dahomey
+Ghana	0
+5	World Cup qualifier
+in Dahomey	-18
++18	1328
+1675	-7
++3	109
+32
+July 02
+1972	Ghana
+Dahomey	5
+1	World Cup qualifier
+in Ghana	+5
+-5	1680
+1323	+2
+0	30
+109
+August 28
+1972	East Germany
+Ghana	4
+0	Olympic Games
+in West Germany	+30
+-30	1883
+1650	+3
+-3	6
+34
+August 30
+1972	Poland
+Ghana	4
+0	Olympic Games
+in West Germany	+41
+-41	1788
+1609	+4
+-5	16
+39
+November 29
+1972	Ghana
+Ivory Coast	1
+0	African Games qualifier
+in Ghana	+15
+-15	1624
+1609	+3
+-3	37
+40
+November 30
+1972	Ghana
+Liberia	1
+0	African Games qualifier
+in Ghana	+4
+-4	1628
+1359	0
+0	37
+99
+December 01
+1972	Ghana
+Sierra Leone	1
+1	African Games qualifier
+in Ghana	-14
++14	1614
+1449	-2
++4	39
+70
+January 08
+1973	Nigeria
+Ghana	4
+2	African Games
+in Nigeria	+25
+-25	1596
+1589	+5
+-8	44
+47
+January 10
+1973	Ghana
+Tanzania	1
+0	African Games
+in Nigeria	+7
+-7	1596
+1313	+4
+-1	43
+111
+January 12
+1973	Ghana
+Algeria	2
+0	African Games
+in Nigeria	+29
+-29	1625
+1552	+5
+-4	38
+52
+January 14
+1973	Guinea
+Ghana	2
+1	African Games
+in Nigeria	+17
+-17	1698
+1608	+2
+-4	27
+42
+January 16
+1973	Egypt
+Ghana	2
+1	African Games
+in Nigeria	+18
+-18	1659
+1590	0
+-3	35
+45
+February 10
+1973	Nigeria
+Ghana	2
+3	World Cup qualifier
+in Nigeria	-29
++29	1620
+1619	-3
++5	39
+40
+February 25
+1973	Ghana
+Nigeria	0
+0	World Cup qualifier
+in Ghana	-6
++6	1613
+1626	-1
+0	41
+39
+August 05
+1973	Ghana
+Zaire	1
+0	World Cup qualifier
+in Ghana	+16
+-16	1629
+1619	+2
+-2	37
+39
+August 19
+1973	Zaire
+Ghana	4
+1	World Cup qualifier
+in Zaire	+26
+-26	1645
+1603	+6
+-5	34
+42
+September 16
+1973	Ghana
+Senegal	3
+2	African Nations Cup qualifier
+in Ghana	+10
+-10	1613
+1493	+2
+-2	39
+66
+September 30
+1973	Senegal
+Ghana	1
+0	African Nations Cup qualifier
+in Senegal	+21
+-21	1514
+1592	+6
+-4	60
+43
+October 28
+1973	Ghana
+Ivory Coast	0
+3	African Nations Cup qualifier
+in Ghana	-47
++47	1545
+1613	-15
++12	58
+37
+November 11
+1973	Ivory Coast
+Ghana	1
+0	African Nations Cup qualifier
+in Ivory Coast	+11
+-11	1624
+1534	0
+-1	37
+59
+April 06
+1975	Ghana
+Liberia	6
+0	Olympic Games qualifier
+in Ghana	+14
+-14	1548
+1345	+4
+-4	53
+103
+April 20
+1975	Liberia
+Ghana	1
+4	Olympic Games qualifier
+in Liberia	-25
++25	1320
+1573	-8
++8	111
+45
+September 14
+1975	Mali
+Ghana	3
+1	African Nations Cup qualifier
+in Mali	+21
+-21	1597
+1552	+5
+-3	45
+55
+September 28
+1975	Ghana
+Mali	4
+0	African Nations Cup qualifier
+in Ghana	+32
+-32	1584
+1565	+10
+-5	46
+51
+October 26
+1975	Ghana
+Morocco	2
+0	African Nations Cup qualifier
+in Ghana	+30
+-30	1614
+1652	+1
+-3	45
+32
+November 09
+1975	Morocco
+Ghana	2
+0	African Nations Cup qualifier
+in Morocco	+19
+-19	1671
+1595	+1
+-1	31
+44
+November 30
+1975	Guinea
+Ghana	1
+0	Olympic Games qualifier
+in Guinea	+11
+-11	1667
+1584	+2
+0	31
+45
+December 14
+1975	Ghana
+Guinea	6
+2	Olympic Games qualifier
+in Ghana	+36
+-36	1620
+1631	+2
+-8	43
+39
+March 14
+1976	Senegal
+Ghana	0
+0	Olympic Games qualifier
+in Senegal	-2
++2	1550
+1622	-2
+0	57
+40
+March 28
+1976	Ghana
+Senegal	2
+1	Olympic Games qualifier
+in Ghana	+11
+-11	1633
+1539	0
+-1	40
+58
+October 10
+1976	Ghana
+Guinea	2
+1	World Cup qualifier
+in Ghana	+19
+-19	1652
+1689	+5
+-1	35
+28
+October 24
+1976	Guinea
+Ghana	2
+1	World Cup qualifier
+in Guinea	+12
+-12	1701
+1640	0
+-3	28
+38
+January 16
+1977	Guinea
+Ghana	2
+0	World Cup qualifier
+in Togo	+25
+-25	1726
+1615	+3
+-5	24
+42
+March 05
+1978	Ghana
+Zambia	2
+1	African Nations Cup
+in Ghana	+13
+-13	1628
+1528	+1
+-1	40
+60
+March 08
+1978	Ghana
+Nigeria	1
+1	African Nations Cup
+in Ghana	-6
++6	1622
+1656	0
+0	40
+37
+March 10
+1978	Ghana
+Upper Volta	3
+0	African Nations Cup
+in Ghana	+6
+-6	1628
+1261	0
+-4	40
+126
+March 14
+1978	Ghana
+Tunisia	1
+0	African Nations Cup
+in Ghana	+24
+-24	1652
+1694	+3
+-1	37
+28
+March 18
+1978	Ghana
+Uganda	2
+0	African Nations Cup
+in Ghana	+24
+-24	1676
+1598	+3
+-4	34
+45
+May 19
+1978	Iran
+Ghana	3
+0	Afro-Asian Championship
+in Iran	+22
+-22	1786
+1654	+2
+-3	19
+37
+July 14
+1978	Ghana
+Mali	1
+1	African Games
+in Algeria	-5
++5	1649
+1572	0
+0	37
+52
+July 17
+1978	Ghana
+Cameroon	2
+1	African Games
+in Algeria	+16
+-16	1665
+1564	+2
+-2	35
+52
+July 20
+1978	Ghana
+Nigeria	0
+0	African Games
+in Algeria	-1
++1	1664
+1648	-1
+0	36
+38
+July 25
+1978	Algeria
+Ghana	2
+0	African Games
+in Algeria	+33
+-33	1562
+1631	+7
+-3	54
+39
+July 28
+1978	Ghana
+Malawi	1
+0	African Games
+in Algeria	+5
+-5	1636
+1304	+1
+-2	38
+113
+October 11
+1978	Iran
+Ghana	3
+0	Friendly
+in Iran	+8
+-8	1759
+1628	0
+-1	22
+39
+January 06
+1980	Sierra Leone
+Ghana	2
+4	Friendly
+in Sierra Leone	-9
++9	1376
+1637	-3
++2	96
+36
+January 27
+1980	Ghana
+Tunisia	4
+1	Friendly
+in Ghana	+16
+-16	1653
+1700	+1
+-1	35
+27
+March 09
+1980	Algeria
+Ghana	0
+0	African Nations Cup
+in Nigeria	+5
+-5	1591
+1648	+2
+-2	49
+37
+March 13
+1980	Ghana
+Guinea	1
+0	African Nations Cup
+in Nigeria	+21
+-21	1669
+1565	+5
+-4	32
+56
+March 16
+1980	Morocco
+Ghana	1
+0	African Nations Cup
+in Nigeria	+30
+-30	1628
+1639	+7
+-6	42
+38
+November 11
+1980	Angola
+Ghana	1
+2	Friendly
+in Angola	-9
++9	1502
+1648	-2
++1	65
+37
+April 11
+1981	Ghana
+Congo	1
+1	African Nations Cup qualifier
+in Ghana	-12
++12	1636
+1508	-3
++3	40
+64
+April 26
+1981	Congo
+Ghana	0
+1	African Nations Cup qualifier
+in Congo	-18
++18	1479
+1654	-3
++2	70
+36
+June 27
+1981	Liberia
+Ghana	0
+0	Friendly
+in Liberia	+6
+-6	1292
+1648	0
+-1	120
+38
+July 19
+1981	Benin
+Ghana	1
+2	Friendly
+in Benin	-5
++5	1345
+1653	-2
+0	106
+38
+July 22
+1981	Ghana
+Zaire	2
+2	African Nations Cup qualifier
+in Ghana	-10
++10	1643
+1571	0
++3	38
+55
+August 02
+1981	Zaire
+Ghana	1
+2	African Nations Cup qualifier
+in Zaire	-22
++22	1549
+1665	-5
++6	60
+32
+February 13
+1982	Benin
+Ghana	0
+4	West African Nations Cup
+in Benin	-16
++16	1320
+1681	-4
++2	110
+33
+February 15
+1982	Ghana
+Ivory Coast	5
+5	West African Nations Cup
+in Benin	-6
++6	1675
+1578	-1
+0	34
+52
+February 17
+1982	Ghana
+Niger	2
+2	West African Nations Cup
+in Benin	-17
++17	1658
+1249	-1
++3	35
+132
+February 19
+1982	Ghana
+Upper Volta	1
+0	West African Nations Cup
+in Benin	+4
+-4	1662
+1268	0
+-2	35
+124
+February 23
+1982	Ghana
+Togo	2
+1	West African Nations Cup
+in Benin	+9
+-9	1671
+1430	+1
+-2	34
+84
+March 05
+1982	Libya
+Ghana	2
+2	African Nations Cup
+in Libya	+7
+-7	1482
+1664	+2
+-2	72
+35
+March 09
+1982	Cameroon
+Ghana	0
+0	African Nations Cup
+in Libya	+3
+-3	1626
+1661	+2
++1	38
+34
+March 12
+1982	Ghana
+Tunisia	1
+0	African Nations Cup
+in Libya	+22
+-22	1683
+1602	+1
+-3	33
+42
+March 16
+1982	Ghana
+Algeria	3
+2	African Nations Cup
+in Libya	+24
+-24	1707
+1649	+4
+-4	28
+37
+March 19
+1982	Libya
+Ghana	1
+1	African Nations Cup
+in Libya	+4
+-4	1557
+1703	0
+0	58
+28
+May 04
+1982	Ghana
+Senegal	0
+0	Friendly
+in Cameroon	-3
++3	1700
+1585	-1
+0	29
+50
+May 05
+1982	Cameroon
+Ghana	0
+0	Friendly
+in Cameroon	-1
++1	1627
+1701	0
++1	38
+28
+May 07
+1982	Ghana
+Guinea	0
+0	Friendly
+in Cameroon	-3
++3	1698
+1598	-1
++1	29
+44
+August 07
+1982	Ghana
+Singapore	3
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1702
+1251	+1
+0	26
+134
+August 09
+1982	Ghana
+India	1
+0	Merdeka Tournament
+in Malaysia	+2
+-2	1704
+1280	0
+-1	26
+122
+August 11
+1982	Ghana
+Thailand	4
+1	Merdeka Tournament
+in Malaysia	+7
+-7	1711
+1377	+1
+0	25
+94
+August 16
+1982	Ghana
+South Korea	1
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1724
+1660	+1
+-3	24
+36
+August 20
+1982	Ghana
+Senegal	2
+2	Merdeka Tournament
+in Malaysia	-6
++6	1718
+1590	-1
++3	25
+46
+April 28
+1983	Ghana
+Libya	1
+0	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	+8
+-8	1726
+1547	0
+-2	25
+58
+May 01
+1983	Ghana
+Nigeria	1
+0	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	+7
+-7	1733
+1528	+2
++1	23
+59
+June 05
+1983	Ghana
+Sudan	3
+1	Presidents Cup
+in South Korea	+8
+-8	1741
+1389	0
+0	23
+92
+June 07
+1983	New Zealand
+Ghana	2
+0	Presidents Cup
+in South Korea	+42
+-42	1631
+1699	+8
+-8	39
+31
+June 15
+1983	South Korea
+Ghana	1
+0	Presidents Cup
+in South Korea	+22
+-22	1589
+1677	+2
+-2	48
+33
+September 15
+1983	United States
+Ghana	0
+1	Friendly
+in the United States	-8
++8	1490
+1685	-4
++1	71
+32
+September 27
+1983	Ghana
+Togo	1
+1	West African Nations Cup
+in Ivory Coast	-9
++9	1676
+1520	-1
++4	34
+61
+September 28
+1983	Ghana
+Liberia	1
+0	West African Nations Cup
+in Ivory Coast	+4
+-4	1680
+1279	0
+-1	34
+124
+September 30
+1983	Ivory Coast
+Ghana	0
+2	West African Nations Cup
+in Ivory Coast	-27
++27	1517
+1707	-4
++5	61
+29
+October 02
+1983	Ghana
+Togo	3
+1	West African Nations Cup
+in Ivory Coast	+15
+-15	1722
+1497	+2
+-3	27
+66
+January 29
+1984	Gambia
+Ghana	0
+1	Friendly
+in Gambia	-4
++4	1380
+1726	-1
+0	93
+28
+January 31
+1984	Guinea
+Ghana	1
+2	Friendly
+in Guinea	-5
++5	1417
+1731	-1
++1	87
+27
+February 15
+1984	Togo
+Ghana	2
+1	Friendly
+in Togo	+14
+-14	1516
+1717	+5
+-3	62
+30
+March 05
+1984	Nigeria
+Ghana	2
+1	African Nations Cup
+in Ivory Coast	+37
+-37	1570
+1680	+9
+-3	52
+34
+March 08
+1984	Algeria
+Ghana	2
+0	African Nations Cup
+in Ivory Coast	+38
+-38	1713
+1642	+4
+-5	31
+39
+March 11
+1984	Ghana
+Malawi	1
+0	African Nations Cup
+in Ivory Coast	+13
+-13	1655
+1446	+1
+-1	37
+82
+July 28
+1984	Algeria
+Ghana	1
+1	Friendly tournament
+in Burkina Faso	-3
++3	1727
+1658	-1
+0	28
+38
+July 30
+1984	Ghana
+Niger	1
+0	Friendly tournament
+in Burkina Faso	+4
+-4	1662
+1314	0
+0	38
+108
+August 03
+1984	Burkina Faso
+Ghana	0
+2	Friendly tournament
+in Burkina Faso	-8
++8	1287
+1670	-3
+0	122
+38
+November 18
+1984	Ghana
+Ivory Coast	2
+0	West African Nations Cup
+in Burkina Faso	+20
+-20	1690
+1524	+1
+-3	35
+60
+November 21
+1984	Ghana
+Togo	2
+2	West African Nations Cup
+in Burkina Faso	-11
++11	1679
+1478	0
++1	35
+77
+November 24
+1984	Burkina Faso
+Ghana	1
+1	West African Nations Cup
+in Burkina Faso	+12
+-12	1337
+1667	0
+-1	107
+36
+November 27
+1984	Ghana
+Benin	3
+1	West African Nations Cup
+in Burkina Faso	+5
+-5	1672
+1260	0
+-1	36
+131
+November 28
+1984	Ghana
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	-9
++9	1663
+1503	-1
++3	37
+65
+December 28
+1984	Ghana
+Algeria	2
+1	Amitie Tournament
+in Ivory Coast	+18
+-18	1681
+1706	+2
+-1	35
+31
+December 30
+1984	Ivory Coast
+Ghana	2
+0	Amitie Tournament
+in Ivory Coast	+24
+-24	1589
+1657	+6
+-2	50
+37
+January 01
+1985	Tunisia
+Ghana	2
+0	Amitie Tournament
+in Ivory Coast	+25
+-25	1646
+1632	+3
+-2	38
+39
+March 31
+1985	Ghana
+Guinea	1
+1	African Nations Cup qualifier
+in Ghana	-15
++15	1617
+1414	-5
++4	44
+88
+April 07
+1985	Ivory Coast
+Ghana	0
+0	World Cup qualifier
+in Ivory Coast	-5
++5	1608
+1622	0
++2	45
+42
+April 14
+1985	Guinea
+Ghana	1
+4	African Nations Cup qualifier
+in Guinea	-24
++24	1390
+1646	-4
++4	92
+38
+April 21
+1985	Ghana
+Ivory Coast	2
+0	World Cup qualifier
+in Ghana	+19
+-19	1665
+1589	+4
+-5	34
+51
+June 02
+1985	Canada
+Ghana	2
+1	Presidents Cup
+in South Korea	+25
+-25	1593
+1640	+6
+-5	48
+39
+July 14
+1985	Ghana
+Libya	0
+0	World Cup qualifier
+in Ghana	-10
++10	1630
+1560	-2
++2	42
+60
+July 26
+1985	Libya
+Ghana	2
+0	World Cup qualifier
+in Libya	+27
+-27	1587
+1603	+9
+-4	51
+46
+July 29
+1985	Malaysia
+Ghana	1
+0	Merdeka Tournament
+in Malaysia	+23
+-23	1317
+1580	+10
+-7	109
+52
+August 18
+1985	Ivory Coast
+Ghana	2
+0	African Nations Cup qualifier
+in Ivory Coast	+22
+-22	1595
+1558	+8
+-7	47
+58
+September 01
+1985	Ghana
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Ghana	-4
++4	1554
+1599	-3
+0	62
+46
+February 20
+1986	Iran
+Ghana	2
+0	Friendly
+in Iran	+7
+-7	1667
+1547	+1
+0	35
+62
+February 24
+1986	Ghana
+Niger	2
+0	West African Nations Cup
+in Ghana	+7
+-7	1554
+1295	0
+-3	62
+120
+February 25
+1986	Ghana
+Togo	2
+2	West African Nations Cup
+in Ghana	-8
++8	1546
+1513	0
++2	62
+67
+February 26
+1986	Ghana
+Liberia	3
+0	West African Nations Cup
+in Ghana	+6
+-6	1552
+1243	0
+0	62
+134
+February 27
+1986	Ghana
+Burkina Faso	2
+0	West African Nations Cup
+in Ghana	+8
+-8	1560
+1306	+2
+-5	60
+113
+March 01
+1986	Ghana
+Burkina Faso	2
+0	West African Nations Cup
+in Ghana	+7
+-7	1567
+1299	+3
+-5	56
+118
+March 02
+1986	Ghana
+Togo	1
+0	West African Nations Cup
+in Ghana	+11
+-11	1578
+1477	+2
+-4	54
+76
+July 29
+1986	Ghana
+Nigeria	2
+0	Friendly tournament
+in Liberia	+21
+-21	1599
+1541	+10
+-3	45
+61
+July 31
+1986	Ghana
+Togo	1
+1	Friendly tournament
+in Liberia	-5
++5	1594
+1486	-2
+0	47
+72
+August 02
+1986	Ivory Coast
+Ghana	1
+0	Friendly tournament
+in Liberia	+13
+-13	1647
+1581	+2
+-7	38
+54
+January 06
+1987	Ghana
+Togo	3
+0	African Games qualifier
+in Ghana	+16
+-16	1597
+1449	+5
+-4	49
+83
+January 18
+1987	Togo
+Ghana	1
+1	African Games qualifier
+in Togo	+3
+-3	1452
+1594	0
+-1	83
+50
+January 31
+1987	Ghana
+Ivory Coast	2
+0	West African Nations Cup
+in Liberia	+35
+-35	1629
+1614	+8
+-8	42
+47
+February 02
+1987	Ghana
+Niger	4
+0	West African Nations Cup
+in Liberia	+10
+-10	1639
+1296	+1
+-4	41
+118
+February 04
+1987	Ghana
+Togo	3
+0	West African Nations Cup
+in Liberia	+21
+-21	1660
+1472	+3
+-7	38
+78
+February 06
+1987	Ghana
+Nigeria	3
+1	West African Nations Cup
+in Liberia	+16
+-16	1676
+1475	+3
+-6	35
+77
+February 08
+1987	Liberia
+Ghana	1
+2	West African Nations Cup
+in Liberia	-9
++9	1342
+1685	-3
++2	106
+33
+March 30
+1987	Ghana
+Sierra Leone	1
+2	African Nations Cup qualifier
+in Ghana	-35
++35	1650
+1500	-5
++8	38
+70
+April 11
+1987	Sierra Leone
+Ghana	0
+0	African Nations Cup qualifier
+in Sierra Leone	+3
+-3	1503
+1647	0
+0	70
+38
+April 19
+1987	Ghana
+Ivory Coast	1
+2	African Games qualifier
+in Ghana	-28
++28	1619
+1627	-8
++5	46
+42
+April 26
+1987	Ivory Coast
+Ghana	1
+1	African Games qualifier
+in Ivory Coast	-6
++6	1621
+1625	-3
++3	45
+43
+July 27
+1987	Liberia
+Ghana	0
+0	Friendly
+in Liberia	+4
+-4	1362
+1621	+2
+-1	100
+47
+October 31
+1987	Liberia
+Ghana	0
+2	Friendly
+in Liberia	-9
++9	1353
+1630	-3
++4	103
+43
+December 08
+1987	Benin
+Ghana	1
+1	Friendly
+in Benin	+6
+-6	1269
+1624	+1
+-3	123
+46
+December 10
+1987	Ghana
+Cuba	1
+1	Friendly
+in Ghana	-7
++7	1617
+1452	-1
++1	47
+79
+January 03
+1988	Gambia
+Ghana	0
+2	Friendly
+in Gambia	-7
++7	1298
+1624	-3
++2	116
+45
+January 05
+1988	Gambia
+Ghana	0
+0	Friendly
+in Gambia	+6
+-6	1304
+1618	+2
+-2	114
+47
+May 25
+1988	Burkina Faso
+Ghana	3
+0	Friendly
+in Burkina Faso	+28
+-28	1295
+1590	+2
+-2	118
+49
+July 25
+1988	Benin
+Ghana	1
+1	Friendly tournament
+in Burkina Faso	+11
+-11	1278
+1579	+3
+0	119
+48
+July 27
+1988	Burkina Faso
+Ghana	3
+1	Friendly tournament
+in Burkina Faso	+31
+-31	1374
+1548	+10
+-10	98
+58
+July 29
+1988	Niger
+Ghana	3
+0	Friendly tournament
+in Burkina Faso	+44
+-44	1314
+1504	+10
+-10	112
+68
+July 31
+1988	Ghana
+Mali	1
+0	Friendly tournament
+in Burkina Faso	+11
+-11	1515
+1390	+3
+-3	65
+94
+August 07
+1988	Ghana
+Liberia	0
+0	World Cup qualifier
+in Ghana	-13
++13	1502
+1366	-3
++6	68
+101
+August 21
+1988	Liberia
+Ghana	2
+0	World Cup qualifier
+in Liberia	+33
+-33	1399
+1469	+8
+-6	93
+75
+April 09
+1989	Gabon
+Ghana	1
+0	African Nations Cup qualifier
+in Gabon	+17
+-17	1441
+1452	+4
+-7	85
+82
+April 23
+1989	Ghana
+Gabon	1
+0	African Nations Cup qualifier
+in Ghana	+14
+-14	1466
+1427	+4
+-4	75
+88
+November 26
+1989	Guinea
+Ghana	1
+1	Friendly
+in Guinea	-2
++2	1432
+1468	0
++1	87
+74
+November 29
+1989	Liberia
+Ghana	1
+1	Friendly
+in Liberia	-1
++1	1417
+1469	-2
+0	93
+74
+May 30
+1990	Burkina Faso
+Ghana	1
+0	Friendly
+in Burkina Faso	+9
+-9	1397
+1460	+2
+-2	97
+75
+September 01
+1990	Ghana
+Nigeria	1
+0	African Nations Cup qualifier
+in Ghana	+26
+-26	1486
+1642	+6
+-4	71
+39
+September 30
+1990	Togo
+Ghana	0
+1	African Nations Cup qualifier
+in Togo	-19
++19	1356
+1505	-3
++4	103
+67
+October 14
+1990	Ghana
+Burkina Faso	2
+0	African Nations Cup qualifier
+in Ghana	+16
+-16	1521
+1408	+3
+-2	63
+90
+January 13
+1991	Ghana
+Benin	4
+0	African Nations Cup qualifier
+in Ghana	+7
+-7	1528
+1214	+2
+-1	62
+138
+April 13
+1991	Nigeria
+Ghana	0
+0	African Nations Cup qualifier
+in Nigeria	-11
++11	1620
+1539	-3
++4	39
+57
+April 29
+1991	Ghana
+Togo	2
+0	African Nations Cup qualifier
+in Ghana	+11
+-11	1550
+1371	+1
+-5	56
+102
+June 28
+1991	Ghana
+Gambia	3
+2	Friendly
+in Nigeria	+3
+-3	1553
+1213	0
+-1	56
+140
+July 07
+1991	Gabon
+Ghana	0
+1	Friendly
+in Gabon	-9
++9	1413
+1562	0
++2	88
+54
+July 13
+1991	Burkina Faso
+Ghana	2
+1	African Nations Cup qualifier
+in Burkina Faso	+23
+-23	1430
+1539	+5
+-2	85
+56
+July 28
+1991	Benin
+Ghana	0
+0	African Nations Cup qualifier
+in Benin	+12
+-12	1215
+1527	+5
+-5	140
+60
+September 30
+1991	Botswana
+Ghana	0
+0	Friendly
+in Botswana	+7
+-7	1118
+1520	0
+-3	163
+63
+October 31
+1991	Senegal
+Ghana	3
+2	Cedeao Tournament
+in Ivory Coast	+18
+-18	1581
+1502	+2
+-2	51
+65
+November 02
+1991	Ghana
+Nigeria	1
+0	Cedeao Tournament
+in Ivory Coast	+26
+-26	1528
+1591	+5
+-1	60
+46
+January 15
+1992	Ghana
+Zambia	1
+0	African Nations Cup
+in Senegal	+34
+-34	1562
+1619	+6
+-6	53
+43
+January 17
+1992	Ghana
+Egypt	1
+0	African Nations Cup
+in Senegal	+31
+-31	1593
+1614	+6
+-8	48
+46
+January 20
+1992	Ghana
+Congo	2
+1	African Nations Cup
+in Senegal	+21
+-21	1614
+1513	+3
+-6	45
+64
+January 23
+1992	Ghana
+Nigeria	2
+1	African Nations Cup
+in Senegal	+28
+-28	1642
+1628	+7
+-5	38
+41
+January 26
+1992	Ivory Coast
+Ghana	0
+0	African Nations Cup
+in Senegal	-5
++5	1706
+1647	0
++1	28
+38
+April 05
+1992	Togo
+Ghana	1
+0	Friendly
+in Togo	+14
+-14	1396
+1633	+4
+-1	97
+39
+August 15
+1992	Tanzania
+Ghana	2
+2	African Nations Cup qualifier
+in Tanzania	+12
+-12	1306
+1621	+3
+0	120
+42
+August 30
+1992	Ghana
+Burkina Faso	3
+0	African Nations Cup qualifier
+in Ghana	+10
+-10	1631
+1400	0
+-5	42
+96
+October 25
+1992	Burundi
+Ghana	1
+0	World Cup qualifier
+in Burundi	+30
+-30	1378
+1601	+7
+-6	104
+49
+December 13
+1992	Niger
+Ghana	0
+1	Friendly
+in Niger	-6
++6	1331
+1607	-1
++2	116
+47
+December 20
+1992	Ghana
+Algeria	2
+0	World Cup qualifier
+in Ghana	+24
+-24	1631
+1608	+8
+-6	39
+47
+January 02
+1993	Ghana
+Mali	1
+1	Black Stars Tournament
+in Gabon	-7
++7	1624
+1469	-1
++3	40
+84
+January 03
+1993	Gabon
+Ghana	2
+3	Black Stars Tournament
+in Gabon	-13
++13	1474
+1637	-5
++2	81
+38
+January 23
+1993	Ghana
+Niger	4
+0	Friendly
+in Ghana	+3
+-3	1640
+1339	0
+-2	38
+115
+January 31
+1993	Ghana
+Burundi	1
+0	World Cup qualifier
+in Ghana	+5
+-5	1645
+1381	+1
+-1	36
+102
+February 06
+1993	Ghana
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1650
+1293	0
+-1	36
+125
+February 10
+1993	South Korea
+Ghana	3
+1	Merdeka Tournament
+in Malaysia	+21
+-21	1698
+1629	+3
+-3	31
+39
+February 26
+1993	Algeria
+Ghana	2
+1	World Cup qualifier
+in Algeria	+14
+-14	1653
+1615	+2
+-4	34
+43
+April 10
+1993	Ghana
+Liberia	1
+0	African Nations Cup qualifier
+in Ghana	+5
+-5	1620
+1379	+1
+-1	42
+102
+April 14
+1993	Germany
+Ghana	6
+1	Friendly
+in Germany	+3
+-3	1962
+1617	0
+-3	3
+45
+July 25
+1993	Liberia
+Ghana	0
+2	African Nations Cup qualifier
+in Liberia	-19
++19	1360
+1636	-3
++3	110
+40
+November 26
+1993	Gambia
+Ghana	3
+0	Amilcar Cabral Cup
+in Sierra Leone	+64
+-64	1297
+1572	+16
+-13	130
+53
+November 28
+1993	Sierra Leone
+Ghana	2
+3	Amilcar Cabral Cup
+in Sierra Leone	-21
++21	1475
+1593	-4
++1	80
+52
+November 30
+1993	Ghana
+Guinea	1
+0	Amilcar Cabral Cup
+in Sierra Leone	+12
+-12	1605
+1425	+3
+-2	49
+98
+December 29
+1993	Ghana
+Egypt	0
+0	Friendly
+in Ghana	-2
++2	1603
+1642	-1
+0	50
+39
+December 31
+1993	Ghana
+Egypt	2
+1	Friendly
+in Ghana	+8
+-8	1611
+1634	+3
+0	47
+39
+January 02
+1994	Ghana
+Tunisia	1
+1	Friendly
+in Ghana	-3
++3	1608
+1618	-1
+0	48
+46
+February 23
+1994	Mali
+Ghana	0
+0	Friendly
+in Mali	+2
+-2	1441
+1606	0
+-1	91
+48
+March 09
+1994	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	-5
++5	1701
+1611	0
++3	28
+46
+March 27
+1994	Ghana
+Guinea	1
+0	African Nations Cup
+in Tunisia	+13
+-13	1624
+1408	+1
+-3	45
+101
+March 31
+1994	Ghana
+Senegal	1
+0	African Nations Cup
+in Tunisia	+15
+-15	1639
+1454	+5
+-4	40
+86
+April 03
+1994	Ivory Coast
+Ghana	2
+1	African Nations Cup
+in Tunisia	+26
+-26	1652
+1613	+8
+-6	37
+46
+July 08
+1994	Japan
+Ghana	3
+2	Friendly
+in Japan	+7
+-7	1627
+1606	+2
+-1	41
+46
+July 14
+1994	Japan
+Ghana	2
+1	Friendly
+in Japan	+7
+-7	1634
+1599	+2
+-3	39
+49
+August 23
+1994	Egypt
+Ghana	2
+0	Friendly tournament
+in Egypt	+15
+-15	1642
+1584	+5
+-1	36
+49
+August 25
+1994	Ghana
+Zambia	1
+0	Friendly tournament
+in Egypt	+19
+-19	1603
+1652	+2
+-3	47
+35
+September 04
+1994	Ghana
+Sierra Leone	4
+1	African Nations Cup qualifier
+in Ghana	+16
+-16	1619
+1472	+5
+-3	41
+82
+September 25
+1994	Zambia
+Ghana	3
+0	Friendly
+in Zambia	+10
+-10	1697
+1609	+2
+-2	29
+43
+October 16
+1994	Niger
+Ghana	1
+5	African Nations Cup qualifier
+in Niger	-22
++22	1333
+1631	-7
++4	123
+39
+November 12
+1994	Gambia
+Ghana	1
+2	African Nations Cup qualifier
+in Gambia	-11
++11	1359
+1642	-1
++2	113
+37
+November 26
+1994	South Africa
+Ghana	2
+1	Simba Cup
+in South Africa	+10
+-10	1677
+1632	+1
+-1	30
+37
+November 30
+1994	Ghana
+Cameroon	1
+0	Simba Cup
+in South Africa	+12
+-12	1644
+1549	+1
+-1	36
+57
+December 04
+1994	Ivory Coast
+Ghana	1
+1	Simba Cup
+in South Africa	-1
++1	1664
+1645	+1
++1	31
+35
+January 22
+1995	Ghana
+Congo	3
+1	African Nations Cup qualifier
+in Ghana	+9
+-9	1654
+1430	0
+-6	34
+98
+April 08
+1995	Sierra Leone
+Ghana	1
+0	African Nations Cup qualifier
+in Sierra Leone	+26
+-26	1478
+1628	+4
+-3	81
+37
+April 23
+1995	Ghana
+Niger	1
+0	African Nations Cup qualifier
+in Ghana	+4
+-4	1632
+1340	+1
+-4	36
+122
+May 25
+1995	Norway
+Ghana	3
+2	Friendly
+in Norway	+3
+-3	1853
+1629	+2
+-1	10
+37
+June 18
+1995	Australia
+Ghana	2
+1	Friendly
+in Australia	+6
+-6	1691
+1623	+1
+-3	29
+43
+June 21
+1995	Australia
+Ghana	1
+0	Friendly
+in Australia	+6
+-6	1697
+1617	0
+0	30
+43
+June 24
+1995	Australia
+Ghana	0
+1	Friendly
+in Australia	-15
++15	1682
+1632	-1
++4	31
+39
+July 01
+1995	Ivory Coast
+Ghana	2
+0	Friendly
+in Ivory Coast	+11
+-11	1640
+1621	+8
+-3	35
+42
+July 30
+1995	Congo
+Ghana	0
+2	African Nations Cup qualifier
+in Congo	-20
++20	1376
+1641	-7
++7	112
+35
+November 12
+1995	Ghana
+Sierra Leone	2
+0	Friendly
+in Ghana	+6
+-6	1647
+1502	+1
+-1	35
+72
+December 29
+1995	Egypt
+Ghana	1
+2	Friendly
+in Egypt	-13
++13	1627
+1660	-2
++1	39
+34
+January 05
+1996	Saudi Arabia
+Ghana	1
+1	Friendly
+in Saudi Arabia	-1
++1	1596
+1661	0
+0	46
+34
+January 09
+1996	Zimbabwe
+Ghana	1
+1	Friendly
+in Zimbabwe	+2
+-2	1485
+1659	0
+0	81
+34
+January 14
+1996	Ghana
+Ivory Coast	2
+0	African Nations Cup
+in South Africa	+37
+-37	1696
+1619	+4
+-9	30
+44
+January 19
+1996	Ghana
+Tunisia	2
+1	African Nations Cup
+in South Africa	+14
+-14	1710
+1521	+2
+-1	28
+66
+January 25
+1996	Ghana
+Mozambique	2
+0	African Nations Cup
+in South Africa	+12
+-12	1722
+1415	+1
+-5	27
+102
+January 28
+1996	Ghana
+Zaire	1
+0	African Nations Cup
+in South Africa	+12
+-12	1734
+1511	0
+-3	27
+69
+January 31
+1996	South Africa
+Ghana	3
+0	African Nations Cup
+in South Africa	+37
+-37	1727
+1697	+5
+-4	27
+31
+February 03
+1996	Zambia
+Ghana	1
+0	African Nations Cup
+in South Africa	+28
+-28	1679
+1669	+3
+-2	32
+33
+March 27
+1996	Brazil
+Ghana	8
+2	Friendly
+in Brazil	+3
+-3	2032
+1666	0
+0	1
+35
+April 21
+1996	Ethiopia
+Ghana	2
+0	Friendly
+in Ethiopia	+25
+-25	1331
+1641	+7
+-3	120
+37
+May 26
+1996	Ghana
+Egypt	0
+2	Friendly
+in Ghana	-21
++21	1620
+1613	-1
++6	39
+41
+June 02
+1996	Denmark
+Ghana	1
+0	Friendly
+in Denmark	+2
+-2	1926
+1618	0
+0	6
+39
+June 08
+1996	Tanzania
+Ghana	0
+0	World Cup qualifier
+in Tanzania	+5
+-5	1427
+1613	+3
+-2	94
+41
+June 17
+1996	Ghana
+Tanzania	2
+1	World Cup qualifier
+in Ghana	+6
+-6	1619
+1419	+1
+-2	40
+99
+September 14
+1996	Australia
+Ghana	2
+0	Simba Cup
+in South Africa	+21
+-21	1667
+1598	+2
+-6	33
+47
+September 18
+1996	Ghana
+Kenya	1
+0	Simba Cup
+in South Africa	+10
+-10	1608
+1457	+1
+-3	46
+88
+September 18
+1996	Benin
+Ghana	0
+0	Friendly
+in Benin	+7
+-7	1182
+1601	+2
++1	159
+46
+September 21
+1996	South Africa
+Ghana	0
+0	Simba Cup
+in South Africa	-10
++10	1756
+1611	-1
++2	22
+44
+October 06
+1996	Ghana
+Angola	2
+1	African Nations Cup qualifier
+in Ghana	+9
+-9	1620
+1481	+3
+-5	42
+82
+November 10
+1996	Gabon
+Ghana	1
+1	World Cup qualifier
+in Gabon	-1
++1	1531
+1621	+1
+-1	64
+43
+December 22
+1996	Burkina Faso
+Ghana	2
+1	Friendly tournament
+in Benin	+24
+-24	1403
+1597	+12
+-7	99
+51
+December 24
+1996	Benin
+Ghana	1
+1	Friendly tournament
+in Benin	+11
+-11	1185
+1586	+2
+-2	159
+53
+December 25
+1996	Ghana
+Gabon	1
+1	Friendly tournament
+in Benin	-3
++3	1583
+1518	0
++3	53
+66
+January 06
+1997	Togo
+Ghana	4
+0	Friendly
+in Togo	+24
+-24	1402
+1559	+12
+-5	100
+58
+January 12
+1997	Ghana
+Morocco	2
+2	World Cup qualifier
+in Ghana	0
+0	1559
+1662	0
++1	58
+35
+January 26
+1997	Zimbabwe
+Ghana	0
+0	African Nations Cup qualifier
+in Zimbabwe	-5
++5	1546
+1564	-2
+0	63
+58
+April 05
+1997	Sierra Leone
+Ghana	1
+1	World Cup qualifier
+in Sierra Leone	+2
+-2	1427
+1562	0
+0	94
+58
+April 27
+1997	Ghana
+Gabon	3
+0	World Cup qualifier
+in Ghana	+16
+-16	1578
+1433	+4
+-4	55
+91
+June 07
+1997	Morocco
+Ghana	1
+0	World Cup qualifier
+in Morocco	+9
+-9	1710
+1569	+3
+-1	26
+58
+June 12
+1997	Yugoslavia
+Ghana	3
+1	Korea Cup
+in South Korea	+5
+-5	1925
+1564	+1
+0	7
+59
+June 14
+1997	South Korea
+Ghana	3
+0	Korea Cup
+in South Korea	+14
+-14	1658
+1550	+3
+-4	37
+63
+June 16
+1997	Egypt
+Ghana	2
+0	Korea Cup
+in South Korea	+22
+-22	1585
+1528	+6
+-1	53
+64
+June 22
+1997	Angola
+Ghana	1
+0	African Nations Cup qualifier
+in Angola	+15
+-15	1537
+1513	+3
+-8	64
+72
+July 13
+1997	Ghana
+Zimbabwe	2
+1	African Nations Cup qualifier
+in Ghana	+13
+-13	1526
+1475	+6
+-4	66
+80
+August 17
+1997	Ghana
+Sierra Leone	0
+2	World Cup qualifier
+in Ghana	-46
++46	1480
+1462	-11
++14	77
+84
+December 03
+1997	Egypt
+Ghana	3
+2	Friendly
+in Egypt	+4
+-4	1613
+1476	0
+0	50
+77
+January 14
+1998	Ghana
+Mozambique	0
+0	Friendly
+in Ghana	-4
++4	1472
+1416	0
+0	78
+100
+January 19
+1998	Ghana
+Mozambique	3
+1	Friendly
+in Ghana	+9
+-9	1481
+1407	+1
+-1	77
+101
+February 09
+1998	Ghana
+Tunisia	2
+0	African Nations Cup
+in Burkina Faso	+56
+-56	1537
+1616	+13
+-11	66
+48
+February 12
+1998	Togo
+Ghana	2
+1	African Nations Cup
+in Burkina Faso	+38
+-38	1381
+1499	+9
+-6	110
+71
+February 16
+1998	Dem. Rep. of Congo
+Ghana	1
+0	African Nations Cup
+in Burkina Faso	+28
+-28	1485
+1471	+10
+-12	75
+81
+July 25
+1998	Ghana
+Benin	1
+0	Friendly tournament
+in Burkina Faso	+5
+-5	1476
+1201	0
+-2	79
+151
+September 06
+1998	Swaziland
+Ghana	0
+1	Friendly
+in Swaziland	-5
++5	1177
+1481	-2
++1	161
+78
+October 04
+1998	Cameroon
+Ghana	1
+3	African Nations Cup qualifier
+in Cameroon	-47
++47	1557
+1528	-4
++11	58
+66
+October 13
+1998	Netherlands
+Ghana	0
+0	Friendly
+in the Netherlands	-9
++9	1958
+1537	0
++1	4
+65
+December 03
+1998	Mali
+Ghana	0
+2	Friendly
+in Mali	-15
++15	1428
+1552	-3
++5	95
+61
+January 24
+1999	Ghana
+Mozambique	1
+0	African Nations Cup qualifier
+in Ghana	+5
+-5	1557
+1322	+1
+-2	59
+125
+February 28
+1999	Ghana
+Eritrea	5
+0	African Nations Cup qualifier
+in Ghana	+5
+-5	1562
+1199	+1
+-2	58
+153
+August 07
+1999	Ghana
+Jamaica	2
+1	Friendly
+in Ghana	+8
+-8	1570
+1577	+1
+0	58
+56
+August 28
+1999	Nigeria
+Ghana	0
+0	Friendly
+in Nigeria	-5
++5	1670
+1575	-1
+0	37
+58
+November 12
+1999	Egypt
+Ghana	1
+2	Friendly
+in Egypt	-15
++15	1632
+1590	-4
++4	47
+54
+December 14
+1999	Greece
+Ghana	1
+1	Friendly
+in Greece	-6
++6	1705
+1596	-2
+0	30
+54
+December 22
+1999	Tunisia
+Ghana	2
+0	Friendly
+in Tunisia	+9
+-9	1649
+1587	+1
+-1	43
+54
+January 18
+2000	Ghana
+Tunisia	2
+0	Friendly
+in Ghana	+14
+-14	1601
+1639	+4
+-2	52
+44
+January 22
+2000	Ghana
+Cameroon	1
+1	African Nations Cup
+in Ghana	-9
++9	1592
+1586	-3
+0	55
+58
+January 27
+2000	Ghana
+Togo	2
+0	African Nations Cup
+in Ghana	+10
+-10	1602
+1353	+2
+-3	52
+116
+January 31
+2000	Ghana
+Ivory Coast	0
+2	African Nations Cup
+in Ghana	-54
++54	1548
+1591	-10
++11	63
+54
+February 06
+2000	Ghana
+South Africa	0
+1	African Nations Cup
+in Ghana	-23
++23	1525
+1699	-3
++9	67
+31
+April 08
+2000	Tanzania
+Ghana	0
+1	World Cup qualifier
+in Tanzania	-12
++12	1261
+1537	-3
++3	141
+63
+April 23
+2000	Ghana
+Tanzania	3
+2	World Cup qualifier
+in Ghana	+4
+-4	1541
+1257	0
+-2	63
+142
+June 17
+2000	Egypt
+Ghana	2
+0	Friendly
+in Egypt	+7
+-7	1660
+1534	0
+-3	44
+64
+July 09
+2000	Ghana
+Sierra Leone	5
+0	World Cup qualifier
+in Ghana	+13
+-13	1547
+1338	+6
+-3	59
+122
+September 03
+2000	Lesotho
+Ghana	3
+3	African Nations Cup qualifier
+in Lesotho	+13
+-13	1183
+1534	+3
+-2	160
+65
+October 08
+2000	Ghana
+Zimbabwe	4
+1	African Nations Cup qualifier
+in Ghana	+25
+-25	1559
+1511	+3
+-8	62
+72
+October 25
+2000	Uganda
+Ghana	2
+1	Lager Cup
+in Kenya	+22
+-22	1416
+1537	+3
+-1	99
+64
+October 28
+2000	Tanzania
+Ghana	3
+2	Lager Cup
+in Kenya	+26
+-26	1245
+1511	+6
+-6	142
+70
+January 14
+2001	Dem. Rep. of Congo
+Ghana	2
+1	African Nations Cup qualifier
+in Dem. Rep. of Congo	+18
+-18	1472
+1493	+6
+-4	78
+75
+January 28
+2001	Ghana
+Liberia	1
+3	World Cup qualifier
+in Ghana	-41
++41	1452
+1494	-12
++11	86
+74
+February 25
+2001	Sudan
+Ghana	1
+0	World Cup qualifier
+in Sudan	+23
+-23	1323
+1429	+5
+-7	126
+92
+March 11
+2001	Ghana
+Nigeria	0
+0	World Cup qualifier
+in Ghana	+9
+-9	1438
+1691	+2
+-2	90
+36
+March 25
+2001	Ghana
+Dem. Rep. of Congo	3
+0	African Nations Cup qualifier
+in Ghana	+25
+-25	1463
+1415	+7
+-5	82
+93
+May 05
+2001	Sierra Leone
+Ghana	1
+1	World Cup qualifier
+in Sierra Leone	+2
+-2	1332
+1461	0
+-1	125
+84
+June 03
+2001	Zimbabwe
+Ghana	1
+2	African Nations Cup qualifier
+in Zimbabwe	-27
++27	1464
+1488	-9
++8	83
+75
+June 17
+2001	Ghana
+Lesotho	3
+1	African Nations Cup qualifier
+in Ghana	+7
+-7	1495
+1229	+2
+0	73
+150
+July 01
+2001	Liberia
+Ghana	1
+2	World Cup qualifier
+in Liberia	-27
++27	1486
+1522	-4
++6	76
+69
+July 15
+2001	Ghana
+Sudan	1
+0	World Cup qualifier
+in Ghana	+7
+-7	1529
+1356	+2
+-3	68
+120
+July 29
+2001	Nigeria
+Ghana	3
+0	World Cup qualifier
+in Nigeria	+12
+-12	1707
+1517	+3
+-3	31
+70
+December 05
+2001	Algeria
+Ghana	1
+1	Friendly
+in Algeria	-3
++3	1526
+1520	0
+0	69
+71
+December 25
+2001	Mali
+Ghana	1
+1	Friendly
+in Mali	0
+0	1432
+1520	+1
+0	95
+71
+January 04
+2002	Egypt
+Ghana	2
+0	Friendly
+in Egypt	+7
+-7	1650
+1513	+2
+-3	43
+73
+January 21
+2002	Morocco
+Ghana	0
+0	African Nations Cup
+in Mali	-10
++10	1645
+1523	-2
++4	44
+70
+January 24
+2002	South Africa
+Ghana	0
+0	African Nations Cup
+in Mali	-6
++6	1607
+1529	0
++1	52
+68
+January 30
+2002	Ghana
+Burkina Faso	2
+1	African Nations Cup
+in Mali	+16
+-16	1545
+1389	+5
+-3	63
+105
+February 03
+2002	Nigeria
+Ghana	1
+0	African Nations Cup
+in Mali	+13
+-13	1736
+1532	+2
+-4	28
+67
+May 17
+2002	Slovenia
+Ghana	2
+0	Friendly
+in Slovenia	+5
+-5	1709
+1527	+2
+-3	34
+68
+September 07
+2002	Uganda
+Ghana	1
+0	African Nations Cup qualifier
+in Uganda	+25
+-25	1365
+1502	+8
+-7	118
+72
+October 08
+2002	Ghana
+Lesotho	2
+1	Friendly
+in Ghana	+2
+-2	1504
+1169	0
+0	73
+159
+October 13
+2002	Ghana
+Rwanda	4
+2	African Nations Cup qualifier
+in Ghana	+11
+-11	1515
+1341	+4
+-4	68
+126
+October 19
+2002	Sierra Leone
+Ghana	2
+1	Friendly
+in Sierra Leone	+12
+-12	1347
+1503	+5
+-1	123
+70
+December 15
+2002	Ghana
+Nigeria	0
+1	Friendly
+in Ghana	-7
++7	1496
+1729	-2
++1	75
+32
+December 22
+2002	Egypt
+Ghana	0
+0	Friendly
+in Egypt	-5
++5	1603
+1501	-2
++2	54
+73
+January 26
+2003	Ghana
+Benin	3
+0	Friendly
+in Ghana	+5
+-5	1506
+1281	+2
+-2	71
+137
+February 15
+2003	Benin
+Ghana	1
+0	Friendly
+in Benin	+13
+-13	1294
+1493	+4
+-5	134
+76
+March 27
+2003	Tunisia
+Ghana	2
+2	Friendly tournament
+in Tunisia	-9
++9	1611
+1502	-2
++4	51
+73
+March 30
+2003	Ghana
+Madagascar	3
+3	Friendly tournament
+in Tunisia	-4
++4	1498
+1411	-3
++1	76
+102
+May 30
+2003	Nigeria
+Ghana	3
+1	Friendly tournament
+in Nigeria	+6
+-6	1732
+1492	+2
+-1	29
+76
+June 13
+2003	Ghana
+Kenya	1
+3	Friendly
+in Ghana	-19
++19	1473
+1507	-5
++5	80
+73
+June 22
+2003	Ghana
+Uganda	1
+1	African Nations Cup qualifier
+in Ghana	-10
++10	1463
+1385	-2
++5	84
+108
+July 06
+2003	Rwanda
+Ghana	1
+0	African Nations Cup qualifier
+in Rwanda	+19
+-19	1396
+1444	+8
+-7	104
+91
+November 16
+2003	Ghana
+Somalia	5
+0	World Cup qualifier
+in Ghana	+4
+-4	1448
+1036	0
+0	90
+186
+November 19
+2003	Ghana
+Somalia	2
+0	World Cup qualifier
+in Ghana	+3
+-3	1451
+1033	+1
+-1	87
+187
+April 28
+2004	Ghana
+Angola	1
+1	Friendly
+in Ghana	-3
++3	1448
+1460	-2
++3	91
+82
+June 05
+2004	Burkina Faso
+Ghana	1
+0	World Cup qualifier
+in Burkina Faso	+18
+-18	1406
+1430	+6
+-7	103
+95
+June 14
+2004	Ghana
+Togo	0
+0	Friendly
+in Ghana	-3
++3	1427
+1421	-1
++1	97
+99
+June 20
+2004	Ghana
+South Africa	3
+0	World Cup qualifier
+in Ghana	+39
+-39	1466
+1531	+13
+-9	85
+71
+June 25
+2004	Mozambique
+Ghana	0
+1	Friendly
+in Mozambique	-8
++8	1294
+1474	-4
++1	133
+84
+July 03
+2004	Uganda
+Ghana	1
+1	World Cup qualifier
+in Uganda	-2
++2	1404
+1476	-2
++3	106
+81
+September 05
+2004	Ghana
+Cape Verde	2
+0	World Cup qualifier
+in Ghana	+13
+-13	1489
+1348	+1
+-9	80
+121
+October 10
+2004	Ghana
+Dem. Rep. of Congo	0
+0	World Cup qualifier
+in Ghana	-9
++9	1480
+1437	-5
++2	85
+94
+March 23
+2005	Kenya
+Ghana	2
+2	Friendly
+in Kenya	-1
++1	1412
+1481	0
+0	97
+83
+March 27
+2005	Dem. Rep. of Congo
+Ghana	1
+1	World Cup qualifier
+in Dem. Rep. of Congo	-4
++4	1439
+1485	-1
++1	93
+81
+June 05
+2005	Ghana
+Burkina Faso	2
+1	World Cup qualifier
+in Ghana	+8
+-8	1493
+1338	+2
+-3	79
+120
+June 18
+2005	South Africa
+Ghana	0
+2	World Cup qualifier
+in South Africa	-47
++47	1562
+1540	-9
++8	64
+72
+August 17
+2005	Ghana
+Senegal	0
+0	Friendly
+in England	+3
+-3	1543
+1662	+2
+-1	69
+44
+September 04
+2005	Ghana
+Uganda	2
+0	World Cup qualifier
+in Ghana	+8
+-8	1551
+1319	+2
+-4	63
+126
+October 08
+2005	Cape Verde
+Ghana	0
+4	World Cup qualifier
+in Cape Verde	-26
++26	1318
+1577	-8
++2	125
+60
+November 14
+2005	Saudi Arabia
+Ghana	1
+3	Friendly
+in Saudi Arabia	-22
++22	1636
+1599	-5
++2	50
+57
+January 11
+2006	Togo
+Ghana	1
+0	Friendly
+in Tunisia	+11
+-11	1584
+1588	+1
+0	57
+56
+January 15
+2006	Tunisia
+Ghana	2
+0	Friendly
+in Tunisia	+6
+-6	1719
+1582	0
+-1	34
+57
+January 23
+2006	Nigeria
+Ghana	1
+0	African Nations Cup
+in Egypt	+14
+-14	1763
+1568	+4
+-1	24
+57
+January 27
+2006	Ghana
+Senegal	1
+0	African Nations Cup
+in Egypt	+35
+-35	1603
+1677	+2
+-7	56
+43
+January 31
+2006	Zimbabwe
+Ghana	2
+1	African Nations Cup
+in Egypt	+34
+-34	1501
+1569	+7
+-1	78
+58
+March 01
+2006	Mexico
+Ghana	1
+0	Friendly
+in the United States	+4
+-4	1810
+1565	-1
+-1	18
+61
+May 26
+2006	Ghana
+Turkey	1
+1	Friendly
+in Germany	+6
+-6	1571
+1797	+2
+0	61
+19
+May 29
+2006	Ghana
+Jamaica	4
+1	Friendly
+in England	+21
+-21	1592
+1617	+5
+-1	57
+51
+June 04
+2006	Ghana
+South Korea	3
+1	Friendly
+in Scotland	+20
+-20	1612
+1702	+4
+-2	52
+37
+June 12
+2006	Italy
+Ghana	2
+0	World Cup
+in Germany	+14
+-14	1927
+1598	+1
+-3	7
+55
+June 17
+2006	Ghana
+Czechia	2
+0	World Cup
+in Germany	+81
+-81	1679
+1893	+13
+-7	43
+10
+June 22
+2006	Ghana
+United States	2
+1	World Cup
+in Germany	+40
+-40	1719
+1754	+6
+-9	36
+28
+June 27
+2006	Brazil
+Ghana	3
+0	World Cup
+in Germany	+13
+-13	2075
+1706	0
+0	1
+35
+August 15
+2006	Ghana
+Togo	2
+0	Friendly
+in England	+6
+-6	1712
+1450	0
+-1	35
+91
+October 04
+2006	Japan
+Ghana	0
+1	Friendly
+in Japan	-13
++13	1697
+1725	-2
++1	38
+34
+October 08
+2006	South Korea
+Ghana	1
+3	Friendly
+in South Korea	-18
++18	1675
+1743	-3
++4	44
+28
+November 14
+2006	Australia
+Ghana	1
+1	Friendly
+in England	0
+0	1752
+1743	0
+0	26
+28
+February 06
+2007	Ghana
+Nigeria	4
+1	Friendly
+in England	+19
+-19	1762
+1760	+5
+-5	26
+27
+March 24
+2007	Austria
+Ghana	1
+1	Friendly
+in Austria	+2
+-2	1593
+1760	-1
+-1	55
+25
+March 27
+2007	Brazil
+Ghana	1
+0	Friendly
+in Sweden	+3
+-3	2043
+1757	0
+0	1
+26
+August 21
+2007	Ghana
+Senegal	1
+1	Friendly
+in England	-3
++3	1754
+1640	0
++1	27
+48
+September 08
+2007	Ghana
+Morocco	2
+0	Friendly
+in France	+12
+-12	1766
+1661	+6
+-2	22
+44
+September 11
+2007	Saudi Arabia
+Ghana	5
+0	Friendly
+in Saudi Arabia	+20
+-20	1693
+1746	+3
+-7	40
+29
+November 18
+2007	Ghana
+Togo	2
+0	Friendly tournament
+in Ghana	+3
+-3	1749
+1376	+2
+0	26
+108
+November 21
+2007	Ghana
+Benin	4
+2	Friendly tournament
+in Ghana	+3
+-3	1752
+1361	-2
+-2	28
+114
+January 20
+2008	Ghana
+Guinea	2
+1	African Nations Cup
+in Ghana	+11
+-11	1763
+1616	+5
+-2	24
+50
+January 24
+2008	Ghana
+Namibia	1
+0	African Nations Cup
+in Ghana	+2
+-2	1765
+1260	0
+0	24
+143
+January 28
+2008	Ghana
+Morocco	2
+0	African Nations Cup
+in Ghana	+19
+-19	1784
+1655	+5
+-1	18
+42
+February 03
+2008	Ghana
+Nigeria	2
+1	African Nations Cup
+in Ghana	+14
+-14	1798
+1712	0
+-5	18
+39
+February 07
+2008	Ghana
+Cameroon	0
+1	African Nations Cup
+in Ghana	-35
++35	1763
+1786	-10
++10	28
+19
+February 09
+2008	Ghana
+Ivory Coast	4
+2	African Nations Cup
+in Ghana	+30
+-30	1793
+1767	+10
+-10	18
+27
+March 26
+2008	Mexico
+Ghana	2
+1	Friendly
+in England	+8
+-8	1871
+1785	0
++1	11
+17
+May 23
+2008	Australia
+Ghana	1
+0	Friendly
+in Australia	+9
+-9	1722
+1776	+2
+-4	34
+21
+June 01
+2008	Ghana
+Libya	3
+0	World Cup qualifier
+in Ghana	+6
+-6	1782
+1459	+2
+-2	20
+93
+June 08
+2008	Ghana
+Lesotho	3
+2	World Cup qualifier
+in South Africa	+1
+-1	1783
+1168	0
+0	20
+164
+June 14
+2008	Gabon
+Ghana	2
+0	World Cup qualifier
+in Gabon	+49
+-49	1468
+1734	+8
+-9	92
+29
+June 22
+2008	Ghana
+Gabon	2
+0	World Cup qualifier
+in Ghana	+7
+-7	1741
+1461	+2
+-2	29
+92
+August 20
+2008	Tanzania
+Ghana	1
+1	Friendly
+in Tanzania	+7
+-7	1317
+1734	0
+-1	128
+31
+September 05
+2008	Libya
+Ghana	1
+0	World Cup qualifier
+in Libya	+28
+-28	1521
+1706	+6
+-6	78
+37
+October 11
+2008	Ghana
+Lesotho	3
+0	World Cup qualifier
+in Ghana	+1
+-1	1707
+1140	-1
+0	38
+169
+October 15
+2008	South Africa
+Ghana	2
+1	Friendly
+in South Africa	+14
+-14	1487
+1693	+1
+-3	89
+41
+November 19
+2008	Ghana
+Tunisia	0
+0	Friendly
+in Ghana	-5
++5	1688
+1613	-2
++1	42
+50
+February 11
+2009	Egypt
+Ghana	2
+2	Friendly
+in Egypt	-5
++5	1754
+1693	+1
++1	23
+41
+March 29
+2009	Ghana
+Benin	1
+0	World Cup qualifier
+in Ghana	+4
+-4	1697
+1392	+1
+-1	39
+109
+May 31
+2009	Ghana
+Uganda	2
+1	Friendly
+in Ghana	+3
+-3	1700
+1481	0
+-1	41
+87
+June 07
+2009	Mali
+Ghana	0
+2	World Cup qualifier
+in Mali	-26
++26	1530
+1726	-4
++7	71
+32
+June 20
+2009	Sudan
+Ghana	0
+2	World Cup qualifier
+in Sudan	-11
++11	1364
+1737	-3
++4	118
+31
+August 12
+2009	Ghana
+Zambia	4
+1	Friendly
+in England	+6
+-6	1743
+1445	+1
+0	30
+94
+September 06
+2009	Ghana
+Sudan	2
+0	World Cup qualifier
+in Ghana	+4
+-4	1747
+1360	+1
+-1	30
+119
+September 09
+2009	Japan
+Ghana	4
+3	Friendly
+in the Netherlands	+10
+-10	1761
+1737	+3
+-2	24
+32
+September 30
+2009	Argentina
+Ghana	2
+0	Friendly
+in Argentina	+7
+-7	1853
+1730	+1
+-2	10
+34
+October 11
+2009	Benin
+Ghana	1
+0	World Cup qualifier
+in Benin	+32
+-32	1432
+1698	+10
+-5	96
+38
+November 15
+2009	Ghana
+Mali	2
+2	World Cup qualifier
+in Ghana	-12
++12	1686
+1572	-2
++3	42
+60
+November 18
+2009	Angola
+Ghana	0
+0	Friendly
+in Angola	+2
+-2	1500
+1684	0
+-1	84
+43
+January 05
+2010	Ghana
+Malawi	0
+0	Friendly
+in Swaziland	-7
++7	1677
+1366	0
+0	42
+118
+January 15
+2010	Ivory Coast
+Ghana	3
+1	African Nations Cup
+in Angola	+30
+-30	1782
+1647	+7
+-3	17
+45
+January 19
+2010	Ghana
+Burkina Faso	1
+0	African Nations Cup
+in Angola	+15
+-15	1662
+1486	+1
+-3	43
+89
+January 24
+2010	Angola
+Ghana	0
+1	African Nations Cup
+in Angola	-21
++21	1480
+1683	-4
++1	89
+42
+January 28
+2010	Ghana
+Nigeria	1
+0	African Nations Cup
+in Angola	+27
+-27	1710
+1678	+5
+-6	36
+42
+January 31
+2010	Egypt
+Ghana	1
+0	African Nations Cup
+in Angola	+18
+-18	1834
+1692	+1
+-4	13
+40
+March 03
+2010	Bosnia and Herzegovina
+Ghana	2
+1	Friendly
+in Bosnia and Herzegovina	+9
+-9	1624
+1683	+1
+-1	50
+41
+June 01
+2010	Netherlands
+Ghana	4
+1	Friendly
+in the Netherlands	+3
+-3	2015
+1680	0
+-1	3
+42
+June 05
+2010	Ghana
+Latvia	1
+0	Friendly
+in England	+6
+-6	1686
+1536	+1
+-4	40
+77
+June 13
+2010	Ghana
+Serbia	1
+0	World Cup
+in South Africa	+41
+-41	1727
+1774	+11
+-3	28
+19
+June 19
+2010	Australia
+Ghana	1
+1	World Cup
+in South Africa	0
+0	1729
+1727	-1
+0	27
+28
+June 23
+2010	Germany
+Ghana	1
+0	World Cup
+in South Africa	+15
+-15	1930
+1712	0
+-4	6
+32
+June 26
+2010	Ghana
+United States	2
+1	World Cup
+in South Africa	+36
+-36	1748
+1749	+7
+-9	25
+24
+July 02
+2010	Uruguay
+Ghana	1
+1	World Cup
+in South Africa	-13
++13	1895
+1761	0
++4	6
+21
+August 11
+2010	South Africa
+Ghana	1
+0	Friendly
+in South Africa	+12
+-12	1616
+1749	+1
+-2	51
+23
+September 05
+2010	Swaziland
+Ghana	0
+3	African Nations Cup qualifier
+in Swaziland	-4
++4	1164
+1753	-1
+0	165
+24
+October 10
+2010	Ghana
+Sudan	0
+0	African Nations Cup qualifier
+in Ghana	-18
++18	1735
+1360	-3
++1	26
+120
+November 17
+2010	Ghana
+Saudi Arabia	0
+0	Friendly
+in United Arab Emirates	-2
++2	1733
+1673	-1
++1	26
+39
+February 08
+2011	Ghana
+Togo	4
+1	Friendly
+in Belgium	+4
+-4	1737
+1366	0
+0	27
+116
+March 27
+2011	Congo
+Ghana	0
+3	African Nations Cup qualifier
+in Congo	-11
++11	1333
+1748	-5
++2	126
+26
+March 29
+2011	England
+Ghana	1
+1	Friendly
+in England	-6
++6	1908
+1754	0
++1	6
+25
+June 03
+2011	Ghana
+Congo	3
+1	African Nations Cup qualifier
+in Ghana	+3
+-3	1757
+1330	+1
+-1	24
+126
+June 07
+2011	South Korea
+Ghana	2
+1	Friendly
+in South Korea	+6
+-6	1803
+1751	+1
+-3	16
+24
+September 02
+2011	Ghana
+Swaziland	2
+0	African Nations Cup qualifier
+in Ghana	+1
+-1	1752
+1137	+1
+0	24
+169
+September 05
+2011	Brazil
+Ghana	1
+0	Friendly
+in England	+4
+-4	2015
+1748	0
+-1	4
+26
+October 08
+2011	Sudan
+Ghana	0
+2	African Nations Cup qualifier
+in Sudan	-12
++12	1401
+1760	-4
+0	107
+26
+October 11
+2011	Ghana
+Nigeria	0
+0	Friendly
+in England	-3
++3	1757
+1656	+1
++1	25
+42
+November 15
+2011	Ghana
+Gabon	2
+1	Friendly
+in France	+4
+-4	1761
+1502	+2
+-1	23
+82
+January 15
+2012	South Africa
+Ghana	1
+1	Friendly
+in South Africa	+2
+-2	1586
+1759	0
+-1	58
+24
+January 24
+2012	Ghana
+Botswana	1
+0	African Nations Cup
+in Gabon	+6
+-6	1765
+1412	+3
+0	21
+101
+January 28
+2012	Ghana
+Mali	2
+0	African Nations Cup
+in Gabon	+16
+-16	1781
+1516	+1
+-6	20
+80
+February 01
+2012	Ghana
+Guinea	1
+1	African Nations Cup
+in Gabon	-16
++16	1765
+1541	-1
++3	21
+73
+February 05
+2012	Ghana
+Tunisia	2
+1	African Nations Cup
+in Gabon	+13
+-13	1778
+1573	+1
+-4	20
+61
+February 08
+2012	Zambia
+Ghana	1
+0	African Nations Cup
+in Equatorial Guinea	+37
+-37	1628
+1741	+6
+-7	50
+27
+February 11
+2012	Mali
+Ghana	2
+0	African Nations Cup
+in Equatorial Guinea	+58
+-58	1589
+1683	+20
+-10	57
+37
+February 29
+2012	Chile
+Ghana	1
+1	Friendly
+in the United States	-4
++4	1844
+1687	0
+0	12
+37
+June 01
+2012	Ghana
+Lesotho	7
+0	World Cup qualifier
+in Ghana	+2
+-2	1689
+1144	+1
+-1	37
+166
+June 09
+2012	Zambia
+Ghana	1
+0	World Cup qualifier
+in Zambia	+19
+-19	1620
+1670	+2
+-1	52
+40
+August 15
+2012	China
+Ghana	1
+1	Friendly
+in China	-2
++2	1628
+1672	-3
+-3	50
+42
+September 08
+2012	Ghana
+Malawi	2
+0	African Nations Cup qualifier
+in Ghana	+7
+-7	1679
+1405	+3
+-2	38
+106
+September 11
+2012	Liberia
+Ghana	2
+0	Friendly
+in Liberia	+25
+-25	1316
+1654	+8
+-5	131
+43
+October 13
+2012	Malawi
+Ghana	0
+1	African Nations Cup qualifier
+in Malawi	-12
++12	1393
+1666	-3
++3	108
+40
+November 14
+2012	Ghana
+Cape Verde	1
+0	Friendly
+in Portugal	+4
+-4	1670
+1428	+4
+-1	38
+101
+January 10
+2013	Ghana
+Egypt	3
+0	Friendly
+in United Arab Emirates	+19
+-19	1689
+1688	+4
+-5	35
+36
+January 13
+2013	Ghana
+Tunisia	4
+2	Friendly
+in United Arab Emirates	+11
+-11	1700
+1580	+3
+-1	32
+59
+January 20
+2013	Dem. Rep. of Congo
+Ghana	2
+2	African Nations Cup
+in South Africa	+16
+-16	1451
+1684	+4
+-4	94
+36
+January 24
+2013	Ghana
+Mali	1
+0	African Nations Cup
+in South Africa	+20
+-20	1704
+1596	+5
+-2	31
+55
+January 28
+2013	Ghana
+Niger	3
+0	African Nations Cup
+in South Africa	+11
+-11	1715
+1347	0
+-2	31
+124
+February 02
+2013	Ghana
+Cape Verde	2
+0	African Nations Cup
+in South Africa	+16
+-16	1731
+1466	+2
+-5	29
+91
+February 06
+2013	Burkina Faso
+Ghana	1
+1	African Nations Cup
+in South Africa	+13
+-13	1542
+1718	+3
+-1	73
+30
+February 09
+2013	Mali
+Ghana	3
+1	African Nations Cup
+in South Africa	+54
+-54	1611
+1664	+18
+-13	51
+43
+March 24
+2013	Ghana
+Sudan	4
+0	World Cup qualifier
+in Ghana	+7
+-7	1671
+1368	0
+-4	39
+119
+June 07
+2013	Sudan
+Ghana	1
+3	World Cup qualifier
+in Sudan	-14
++14	1343
+1685	-5
++4	124
+37
+June 12
+2013	Ghana
+Ivory Coast	2
+1	Friendly
+in Ghana	+11
+-11	1696
+1819	+2
+-3	35
+18
+June 14
+2013	Ghana
+Ivory Coast	1
+1	Friendly
+in Ghana	+1
+-1	1697
+1818	0
+0	35
+18
+June 16
+2013	Lesotho
+Ghana	0
+2	World Cup qualifier
+in Lesotho	-4
++4	1150
+1701	-1
+0	166
+35
+August 14
+2013	Turkey
+Ghana	2
+2	Friendly
+in Turkey	-1
++1	1630
+1702	0
++1	48
+32
+August 30
+2013	Libya
+Ghana	1
+0	Friendly
+in Tunisia	+14
+-14	1570
+1688	+4
+-4	64
+36
+September 06
+2013	Ghana
+Zambia	2
+1	World Cup qualifier
+in Ghana	+8
+-8	1696
+1536	0
+-1	36
+74
+September 10
+2013	Japan
+Ghana	3
+1	Friendly
+in Japan	+9
+-9	1751
+1687	0
+-1	24
+37
+October 15
+2013	Ghana
+Egypt	6
+1	World Cup qualifier
+in Ghana	+30
+-30	1717
+1672	+6
+-9	31
+41
+November 19
+2013	Egypt
+Ghana	2
+1	World Cup qualifier
+in Egypt	+17
+-17	1695
+1700	+7
+-2	35
+33
+March 05
+2014	Montenegro
+Ghana	1
+0	Friendly
+in Montenegro	+11
+-11	1577
+1689	+2
+-5	60
+37

@@ -1,0 +1,729 @@
+1905 123 away Holland Belgium 1 4 Friendly
+1905 138 home Holland Belgium 4 0 Friendly
+1906 122 away Holland Belgium 5 0 Friendly
+1906 137 home Holland Belgium 2 3 Friendly
+1907 107 away Holland Belgium 1 3 Friendly
+1907 133 home Holland Belgium 1 2 Friendly
+1908 91 away Holland Belgium 1 4 Friendly
+1908 119 home Holland Belgium 3 1 Friendly
+1908 134 home Holland France 4 1 Friendly
+1908 301 away Holland GreatBritain 4 0 Olympic Games
+1908 302 home Holland Sweden 2 0 Olympic Games
+1908 304 home Holland Sweden 5 3 Friendly
+1909 83 away Holland Belgium 1 4 Friendly
+1909 118 home Holland Belgium 4 1 Friendly
+1910 75 away Holland Belgium 3 2 Friendly
+1910 103 home Holland Belgium 7 0 Friendly
+1910 117 home Holland Germany 4 2 Friendly
+1910 295 away Holland Germany 1 2 Friendly
+1911 81 away Holland Belgium 1 5 Friendly
+1911 95 home Holland Belgium 3 1 Friendly
+1912 72 away Holland Belgium 1 2 Friendly
+1912 86 home Holland Germany 5 5 Friendly
+1912 121 home Holland Belgium 4 3 Friendly
+1912 184 away Holland Sweden 3 4 Olympic Games
+1912 185 home Holland Austria 3 1 Olympic Games
+1912 188 away Holland Denmark 4 1 Olympic Games
+1912 190 home Holland Finland 9 0 Olympic Games
+1912 327 away Holland Germany 2 3 Friendly
+1913 71 away Holland Belgium 3 3 Friendly
+1913 113 home Holland Belgium 2 4 Friendly
+1914 77 away Holland Belgium 2 4 Friendly
+1914 98 home Holland Germany 4 4 Friendly
+1914 119 home Holland Belgium 4 2 Friendly
+1914 141 away Holland Denmark 4 3 Friendly
+1919 164 home Holland Sweden 3 1 Friendly
+1919 241 away Holland Sweden 4 1 Friendly
+1919 248 away Holland Norway 1 1 Friendly
+1920 98 home Holland Denmark 2 0 Friendly
+1920 137 away Holland Italy 1 1 Friendly
+1920 140 away Holland Switzerland 2 1 Friendly
+1920 245 home Holland Luxembourg 3 0 Olympic Games
+1920 246 home Holland Sweden 5 4 Olympic Games
+1920 248 away Holland Belgium 3 0 Olympic Games
+1920 253 away Holland Spain 3 1 Olympic Games
+1921 90 home Holland Switzerland 2 0 Friendly
+1921 132 home Holland Italy 2 2 Friendly
+1921 139 away Holland Belgium 1 1 Friendly
+1921 167 away Holland Denmark 1 1 Friendly
+1921 323 away Holland France 0 5 Friendly
+1922 88 away Holland Belgium 4 0 Friendly
+1922 110 home Holland Denmark 2 0 Friendly
+1922 131 home Holland Belgium 1 2 Friendly
+1922 329 away Holland Switzerland 5 0 Friendly
+1923 95 home Holland France 8 1 Friendly
+1923 122 home Holland Belgium 1 1 Friendly
+1923 134 away Holland Germany 0 0 Friendly
+1923 335 home Holland Switzerland 4 1 Friendly
+1924 85 home Holland Belgium 1 1 Friendly
+1924 114 home Holland Germany 0 1 Friendly
+1924 120 away Holland Belgium 1 1 Friendly
+1924 151 home Holland Romania 6 0 Olympic Games
+1924 157 home Holland Ireland 2 1 Olympic Games
+1924 161 away Holland Uruguay 2 1 Olympic Games
+1924 163 home Holland Sweden 1 1 Olympic Games
+1924 164 away Holland Sweden 3 1 Olympic Games
+1924 312 home Holland SouthAfrica 2 1 Friendly
+1925 77 away Holland Belgium 0 1 Friendly
+1925 91 home Holland Germany 2 1 Friendly
+1925 112 away Holland Switzerland 4 1 Friendly
+1925 127 home Holland Belgium 5 0 Friendly
+1925 304 home Holland Denmark 4 2 Friendly
+1926 76 away Holland Belgium 1 1 Friendly
+1926 90 home Holland Switzerland 5 0 Friendly
+1926 111 away Holland Germany 4 2 Friendly
+1926 126 home Holland Belgium 1 5 Friendly
+1926 168 away Holland Denmark 4 1 Friendly
+1926 310 home Holland Germany 2 3 Friendly
+1927 75 away Holland Belgium 2 0 Friendly
+1927 125 home Holland Belgium 3 2 Friendly
+1927 167 away Holland Denmark 1 1 Friendly
+1927 323 home Holland Sweden 1 0 Friendly
+1927 330 away Holland Germany 2 2 Friendly
+1928 73 home Holland Belgium 1 1 Friendly
+1928 94 away Holland Belgium 1 0 Friendly
+1928 115 home Holland Denmark 2 0 Friendly
+1928 130 away Holland Switzerland 2 1 Friendly
+1928 154 home Holland Uruguay 0 2 Olympic Games
+1928 160 home Holland Belgium 3 1 Olympic Games Consolation Tournament
+1928 163 home Holland Chile 2 2 Olympic Games Consolation Tournament
+1928 169 home Holland Egypt 1 2 Friendly
+1928 314 home Holland Belgium 1 1 Friendly
+1928 343 away Holland Italy 3 2 Friendly
+1929 79 home Holland Switzerland 3 2 Friendly
+1929 129 away Holland Belgium 3 1 Friendly
+1929 159 home Holland Scotland 0 2 Friendly
+1929 164 away Holland Sweden 6 2 Friendly
+1929 167 away Holland Norway 4 4 Friendly
+1929 313 home Holland Norway 1 4 Friendly
+1930 99 home Holland Italy 1 1 Friendly
+1930 128 home Holland Belgium 2 2 Friendly
+1930 142 away Holland Belgium 3 1 Friendly
+1930 163 away Holland Hungary 6 2 Friendly
+1930 312 away Holland Switzerland 6 3 Friendly
+1931 91 home Holland Belgium 3 2 Friendly
+1931 119 home Holland Germany 1 1 Friendly
+1931 127 away Holland Belgium 4 2 Friendly
+1931 169 away Holland Denmark 0 2 Friendly
+1931 339 away Holland France 3 4 Friendly
+1932 82 away Holland Belgium 1 4 Friendly
+1932 110 home Holland Belgium 2 1 Friendly
+1932 132 home Holland Ireland 0 2 Friendly
+1932 153 home Holland Czechoslovakia 1 2 Friendly
+1932 345 away Holland Germany 0 2 Friendly
+1933 22 home Holland Switzerland 0 2 Friendly
+1933 67 home Holland Hungary 1 2 Friendly
+1933 102 away Holland Belgium 1 3 Friendly
+1933 131 home Holland Belgium 1 2 Friendly
+1933 351 home Holland Austria 0 1 Friendly
+1934 73 home Holland Belgium 9 3 Friendly
+1934 101 home Holland Ireland 5 2 World Cup qualifier
+1934 122 away Holland Belgium 2 4 World Cup qualifier
+1934 134 home Holland France 4 5 Friendly
+1934 151 away Holland Switzerland 3 2 World Cup
+1934 314 away Holland Switzerland 2 4 Friendly
+1935 48 home Holland Germany 2 3 Friendly
+1935 93 home Holland Belgium 4 2 Friendly
+1935 136 away Holland Belgium 0 2 Friendly
+1935 142 home Holland England 0 1 Friendly
+1935 313 home Holland Denmark 3 0 Friendly
+1935 349 away Holland Ireland 3 5 Friendly
+1936 12 away Holland France 1 6 Friendly
+1936 91 home Holland Belgium 8 0 Friendly
+1936 127 away Holland Belgium 1 1 Friendly
+1936 311 home Holland Norway 3 3 Friendly
+1937 31 away Holland Germany 2 2 Friendly
+1937 69 home Holland Switzerland 2 1 Friendly
+1937 97 away Holland Belgium 2 1 Friendly
+1937 126 home Holland Belgium 1 0 Friendly
+1937 310 home Holland France 2 3 Friendly
+1937 338 home Holland Luxembourg 4 0 World Cup qualifier
+1938 58 home Holland Belgium 7 2 Friendly
+1938 96 away Holland Belgium 1 1 World Cup qualifier
+1938 145 home Holland Scotland 1 3 Friendly
+1938 160 away Holland Czechoslovakia 3 0 World Cup
+1938 181 home Holland DutchEast 9 2 Friendly
+1938 302 away Holland Denmark 2 2 Friendly
+1939 57 home Holland Hungary 3 2 Friendly
+1939 81 away Holland Belgium 5 4 Friendly
+1939 116 home Holland Belgium 3 2 Friendly
+1939 131 away Holland Switzerland 2 1 Friendly
+1940 79 away Holland Belgium 7 1 Friendly
+1940 93 home Holland Luxembourg 4 5 Friendly
+1940 114 home Holland Belgium 4 2 Friendly
+1946 72 away Holland Luxembourg 2 6 Friendly
+1946 136 home Holland Belgium 6 3 Friendly
+1946 154 away Holland Belgium 2 2 Friendly
+1946 337 away Holland England 8 2 Friendly
+1947 100 home Holland Belgium 2 1 Friendly
+1947 128 away Holland Belgium 1 2 Friendly
+1947 150 away Holland France 4 0 Friendly
+1947 269 home Holland Switzerland 6 2 Friendly
+1948 76 away Holland Belgium 1 1 Friendly
+1948 111 home Holland Belgium 2 2 Friendly
+1948 150 away Holland Norway 1 2 Friendly
+1948 164 home Holland Sweden 1 0 Friendly
+1948 331 away Holland Belgium 1 1 Friendly
+1949 75 home Holland Belgium 3 3 Friendly
+1949 116 home Holland France 4 1 Friendly
+1949 167 away Holland Denmark 1 2 Friendly
+1949 171 away Holland Finland 1 4 Friendly
+1949 316 home Holland Belgium 0 1 Friendly
+1949 352 home Holland Denmark 0 1 Friendly
+1950 109 away Holland Belgium 2 0 Friendly
+1950 163 away Holland Sweden 4 1 Friendly
+1950 166 away Holland Finland 4 1 Friendly
+1950 294 away Holland Switzerland 7 5 Friendly
+1950 322 away Holland Belgium 7 2 Friendly
+1950 351 away Holland France 5 2 Friendly
+1951 108 home Holland Belgium 5 4 Friendly
+1951 161 home Holland Norway 2 3 Friendly
+1951 306 home Holland Finland 4 4 Friendly
+1951 335 home Holland Belgium 6 7 Friendly
+1952 99 away Holland Belgium 4 2 Friendly
+1952 138 home Holland Sweden 0 0 Friendly
+1952 269 away Holland Denmark 3 2 Friendly
+1952 298 away Holland Belgium 2 1 Friendly
+1953 69 home Holland Denmark 1 2 Friendly
+1953 84 home Holland Switzerland 1 2 Friendly
+1953 112 home Holland Belgium 0 2 Friendly
+1953 275 away Holland Norway 4 0 Friendly
+1953 304 home Holland Belgium 1 0 Friendly
+1954 97 away Holland Belgium 4 0 Friendly
+1954 143 away Holland Sweden 6 1 Friendly
+1954 154 away Holland Switzerland 3 1 Friendly
+1954 303 away Holland Belgium 4 3 Friendly
+1955 75 home Holland Denmark 1 1 Friendly
+1955 96 home Holland Belgium 1 0 Friendly
+1955 125 away Holland Ireland 1 0 Friendly
+1955 143 home Holland Switzerland 4 1 Friendly
+1955 295 home Holland Belgium 2 2 Friendly
+1955 316 home Holland Norway 3 0 Friendly
+1955 326 away Holland Saar 1 2 Friendly
+1956 76 away Holland Germany 1 2 Friendly
+1956 101 away Holland Belgium 0 1 Friendly
+1956 134 home Holland Ireland 1 4 Friendly
+1956 161 home Holland Saar 3 2 Friendly
+1956 263 away Holland Switzerland 2 3 Friendly
+1956 293 away Holland Belgium 2 3 Friendly
+1956 314 away Holland Denmark 2 2 Friendly
+1957 30 away Holland Spain 5 1 Friendly
+1957 82 home Holland Luxembourg 4 1 World Cup qualifier
+1957 96 home Holland Germany 1 2 Friendly
+1957 121 home Holland Belgium 1 1 Friendly
+1957 150 away Holland Austria 3 2 World Cup qualifier
+1957 259 home Holland Luxembourg 5 2 World Cup qualifier
+1957 273 home Holland Austria 1 1 World Cup qualifier
+1957 327 home Holland Belgium 5 2 Friendly
+1958 106 away Holland Belgium 2 7 Friendly
+1958 116 home Holland Curacao 8 1 Friendly
+1958 128 home Holland Turkey 1 2 Friendly
+1958 152 away Holland Norway 0 0 Friendly
+1958 276 away Holland Belgium 2 3 Friendly
+1958 294 home Holland Denmark 5 1 Friendly
+1958 312 home Holland Switzerland 2 0 Friendly
+1959 112 home Holland Belgium 2 2 Friendly
+1959 134 away Holland Turkey 0 0 Friendly
+1959 137 away Holland Bulgaria 3 2 Friendly
+1959 151 home Holland Scotland 1 2 Friendly
+1959 283 home Holland Belgium 9 1 Friendly
+1959 300 away Holland Germany 7 0 Friendly
+1959 314 home Holland Norway 7 1 Friendly
+1960 96 home Holland Bulgaria 4 2 Friendly
+1960 117 away Holland Belgium 2 1 Friendly
+1960 142 away Holland Switzerland 3 1 Friendly
+1960 181 away Holland Mexico 3 1 Friendly
+1960 184 away Holland NetherlandsAntilles 0 0 Friendly
+1960 189 away Holland DutchGuiana 3 4 Friendly
+1960 281 away Holland Belgium 1 4 Friendly
+1960 309 away Holland Czechoslovakia 4 0 Friendly
+1961 84 home Holland Belgium 6 2 Friendly
+1961 112 home Holland Mexico 1 2 Friendly
+1961 123 home Holland Hungary 0 3 World Cup qualifier
+1961 138 away Holland EastGermany 1 1 World Cup qualifier
+1961 301 away Holland Hungary 3 3 World Cup qualifier
+1961 322 home Holland Belgium 0 4 Friendly
+1962 94 away Holland Belgium 3 1 Friendly
+1962 133 home Holland NorthernIreland 4 0 Friendly
+1962 140 away Holland Norway 2 1 Friendly
+1962 253 home Holland NetherlandsAntilles 8 0 Friendly
+1962 274 away Holland Denmark 4 1 Friendly
+1962 293 away Holland Belgium 2 0 Friendly
+1962 321 home Holland Switzerland 3 1 European Cup qualifier
+1963 65 home Holland Belgium 0 1 Friendly
+1963 93 away Holland Switzerland 1 1 European Cup qualifier
+1963 110 home Holland France 1 0 Friendly
+1963 126 home Holland Brazil 1 0 Friendly
+1963 259 home Holland Luxembourg 1 1 European Cup qualifier
+1963 299 home Holland Belgium 1 1 Friendly
+1963 309 away Holland Luxembourg 2 1 European Cup qualifier
+1964 84 away Holland Belgium 0 0 Friendly
+1964 105 home Holland Austria 1 1 Friendly
+1964 122 home Holland Sweden 0 1 Friendly
+1964 148 home Holland Albania 2 0 World Cup qualifier
+1964 278 away Holland Belgium 1 0 Friendly
+1964 304 away Holland Albania 0 2 World Cup qualifier
+1964 350 home Holland England 1 1 Friendly
+1965 26 away Holland Israel 0 1 Friendly
+1965 79 away Holland NorthernIreland 2 1 World Cup qualifier
+1965 100 home Holland NorthernIreland 0 0 World Cup qualifier
+1965 296 home Holland Switzerland 0 0 World Cup qualifier
+1965 324 away Holland Switzerland 2 1 World Cup qualifier
+1966 85 home Holland Germany 2 4 Friendly
+1966 110 home Holland Belgium 3 1 Friendly
+1966 135 away Holland Scotland 0 3 Friendly
+1966 255 home Holland Hungary 2 2 European Cup qualifier
+1966 266 away Holland Austria 2 1 Friendly
+1966 316 home Holland Czechoslovakia 1 2 Friendly
+1966 340 home Holland Denmark 2 0 European Cup qualifier
+1967 98 away Holland EastGermany 4 3 European Cup qualifier
+1967 109 away Holland Belgium 1 0 Friendly
+1967 134 away Holland Hungary 2 1 European Cup qualifier
+1967 261 home Holland EastGermany 1 0 European Cup qualifier
+1967 283 away Holland Denmark 3 2 European Cup qualifier
+1967 311 home Holland Yugoslavia 1 2 Friendly
+1967 339 home Holland SovietUnion 3 1 Friendly
+1968 100 home Holland Belgium 1 2 Friendly
+1968 125 away Holland Poland 0 0 Friendly
+1968 154 home Holland Scotland 0 0 Friendly
+1968 160 away Holland Romania 0 0 Friendly
+1968 252 home Holland Luxembourg 2 0 World Cup qualifier
+1968 306 away Holland Bulgaria 2 0 World Cup qualifier
+1969 88 home Holland Luxembourg 4 0 World Cup qualifier
+1969 109 home Holland Czechoslovakia 2 0 Friendly
+1969 131 home Holland Poland 1 0 World Cup qualifier
+1969 255 away Holland Poland 2 1 World Cup qualifier
+1969 301 home Holland Bulgaria 1 1 World Cup qualifier
+1969 315 home Holland England 0 1 Friendly
+1970 14 away Holland England 0 0 Friendly
+1970 28 away Holland Israel 0 1 Friendly
+1970 290 home Holland Yugoslavia 1 1 European Cup qualifier
+1970 321 away Holland EastGermany 1 0 European Cup qualifier
+1970 343 home Holland Romania 2 0 Friendly
+1971 55 home Holland Luxembourg 6 0 European Cup qualifier
+1971 97 away Holland Yugoslavia 2 0 European Cup qualifier
+1971 289 home Holland EastGermany 3 2 European Cup qualifier
+1971 327 away Holland Luxembourg 0 8 European Cup qualifier
+1971 342 home Holland Scotland 2 1 Friendly
+1972 47 away Holland Greece 0 5 Friendly
+1972 127 home Holland Peru 3 0 Friendly
+1972 247 away Holland Czechoslovakia 1 2 Friendly
+1972 311 home Holland Norway 9 0 World Cup qualifier
+1972 329 away Holland Belgium 0 0 World Cup qualifier
+1973 90 away Holland Austria 1 0 Friendly
+1973 126 home Holland Spain 3 2 Friendly
+1973 239 home Holland Iceland 5 0 World Cup qualifier
+1973 246 home Holland Iceland 8 1 World Cup qualifier
+1973 260 away Holland Norway 1 2 World Cup qualifier
+1973 289 home Holland Poland 1 1 Friendly
+1973 328 home Holland Belgium 0 0 World Cup qualifier
+1974 89 home Holland Austria 1 1 Friendly
+1974 150 home Holland Argentina 4 1 Friendly
+1974 160 home Holland Romania 0 0 Friendly
+1974 170 home Holland Uruguay 2 0 World Cup
+1974 174 home Holland Sweden 0 0 World Cup
+1974 178 home Holland Bulgaria 4 1 World Cup
+1974 181 home Holland Argentina 4 0 World Cup
+1974 185 home Holland EastGermany 2 0 World Cup
+1974 189 home Holland Brazil 2 0 World Cup
+1974 193 away Holland Germany 2 1 World Cup
+1974 252 away Holland Sweden 1 5 Friendly
+1974 273 away Holland Finland 1 3 European Cup qualifier
+1974 288 home Holland Switzerland 1 0 Friendly
+1974 330 home Holland Italy 3 1 European Cup qualifier
+1975 123 away Holland Belgium 1 0 Friendly
+1975 141 away Holland Germany 1 1 Friendly
+1975 155 away Holland Yugoslavia 3 0 Friendly
+1975 251 home Holland Finland 4 1 European Cup qualifier
+1975 258 away Holland Poland 4 1 European Cup qualifier
+1975 294 home Holland Poland 3 0 European Cup qualifier
+1975 332 away Holland Italy 1 0 European Cup qualifier
+1976 118 home Holland Belgium 5 0 European Cup qualifier
+1976 146 away Holland Belgium 1 2 European Cup qualifier
+1976 171 away Holland Czechoslovakia 3 1 European Cup
+1976 174 away Holland Yugoslavia 2 3 European Cup
+1976 256 away Holland Iceland 0 1 World Cup qualifier
+1976 292 home Holland NorthernIreland 2 2 World Cup qualifier
+1977 40 away Holland England 0 2 Friendly
+1977 88 away Holland Belgium 0 2 World Cup qualifier
+1977 248 home Holland Iceland 4 1 World Cup qualifier
+1977 284 home Holland SovietUnion 0 0 Friendly
+1977 291 away Holland NorthernIreland 0 1 World Cup qualifier
+1977 305 home Holland Belgium 1 0 World Cup qualifier
+1978 53 away Holland Israel 1 2 Friendly
+1978 98 away Holland Tunisia 0 4 Friendly
+1978 144 away Holland Austria 0 1 Friendly
+1978 158 home Holland Iran 3 0 World Cup
+1978 162 home Holland Peru 0 0 World Cup
+1978 166 away Holland Scotland 3 2 World Cup
+1978 169 home Holland Austria 5 1 World Cup
+1978 173 home Holland Germany 2 2 World Cup
+1978 176 home Holland Italy 2 1 World Cup
+1978 180 away Holland Argentina 3 1 World Cup
+1978 268 home Holland Iceland 3 0 European Cup qualifier
+1978 290 away Holland Switzerland 1 3 European Cup qualifier
+1978 325 home Holland EastGermany 3 0 European Cup qualifier
+1978 361 away Holland Germany 3 1 Friendly
+1979 55 away Holland Italy 3 0 Friendly
+1979 90 home Holland Switzerland 3 0 European Cup qualifier
+1979 126 away Holland Poland 2 0 European Cup qualifier
+1979 146 away Holland Argentina 0 0 Friendly
+1979 253 away Holland Iceland 0 4 European Cup qualifier
+1979 274 home Holland Belgium 1 0 Friendly
+1979 296 home Holland Poland 1 1 European Cup qualifier
+1979 331 away Holland EastGermany 2 3 European Cup qualifier
+1980 23 away Holland Spain 1 0 Friendly
+1980 88 away Holland France 0 0 Friendly
+1980 166 home Holland Greece 1 0 European Cup
+1980 169 away Holland Germany 3 2 European Cup
+1980 172 away Holland Czechoslovakia 1 1 European Cup
+1980 258 away Holland Ireland 2 1 World Cup qualifier
+1980 290 home Holland Germany 1 1 Friendly
+1980 329 away Holland Belgium 1 0 World Cup qualifier
+1980 371 away Holland Uruguay 2 0 Mundialito
+1981 6 away Holland Italy 1 1 Mundialito
+1981 53 home Holland Cyprus 3 0 World Cup qualifier
+1981 87 home Holland France 1 0 World Cup qualifier
+1981 122 away Holland Cyprus 0 1 World Cup qualifier
+1981 249 away Holland Switzerland 2 1 Friendly
+1981 257 home Holland Ireland 2 2 World Cup qualifier
+1981 293 home Holland Belgium 3 0 World Cup qualifier
+1981 328 away Holland France 2 0 World Cup qualifier
+1982 85 away Holland Scotland 2 1 Friendly
+1982 107 home Holland Greece 1 0 Friendly
+1982 149 away Holland England 2 0 Friendly
+1982 249 away Holland Iceland 1 1 European Cup qualifier
+1982 270 home Holland Ireland 2 1 European Cup qualifier
+1982 320 home Holland France 1 2 Friendly
+1982 360 away Holland Malta 0 6 European Cup qualifier
+1983 47 away Holland Spain 1 0 European Cup qualifier
+1983 120 home Holland Sweden 0 3 Friendly
+1983 255 home Holland Iceland 3 0 European Cup qualifier
+1983 269 away Holland Belgium 1 1 Friendly
+1983 291 away Holland Ireland 2 3 European Cup qualifier
+1983 326 home Holland Spain 2 1 European Cup qualifier
+1983 358 home Holland Malta 5 0 European Cup qualifier
+1984 76 home Holland Denmark 6 0 Friendly
+1984 296 home Holland Hungary 1 2 World Cup qualifier
+1984 324 away Holland Austria 1 0 World Cup qualifier
+1984 364 away Holland Cyprus 0 1 World Cup qualifier
+1985 58 home Holland Cyprus 7 1 World Cup qualifier
+1985 125 home Holland Austria 1 1 World Cup qualifier
+1985 138 away Holland Hungary 0 1 World Cup qualifier
+1985 252 home Holland Bulgaria 1 0 Friendly
+1985 295 away Holland Belgium 1 0 World Cup qualifier
+1985 330 home Holland Belgium 2 1 World Cup qualifier
+1986 74 away Holland EastGermany 0 1 Friendly
+1986 122 home Holland Scotland 0 0 Friendly
+1986 138 away Holland Germany 3 1 Friendly
+1986 258 away Holland Czechoslovakia 1 0 Friendly
+1986 294 away Holland Hungary 0 1 European Cup qualifier
+1986 329 home Holland Poland 0 0 European Cup qualifier
+1986 362 away Holland Cyprus 0 2 European Cup qualifier
+1987 21 away Holland Spain 1 1 Friendly
+1987 87 home Holland Greece 1 1 European Cup qualifier
+1987 122 home Holland Hungary 2 0 European Cup qualifier
+1987 257 home Holland Belgium 0 0 Friendly
+1987 293 away Holland Poland 0 2 European Cup qualifier
+1987 307 home Holland Cyprus 8 0 Friendly
+1987 350 home Holland Cyprus 4 0 European Cup qualifier
+1987 357 away Holland Greece 0 3 European Cup qualifier
+1988 85 away Holland England 2 2 Friendly
+1988 148 home Holland Bulgaria 1 2 Friendly
+1988 156 home Holland Romania 2 0 Friendly
+1988 167 home Holland SovietUnion 0 1 European Cup
+1988 170 away Holland England 1 3 European Cup
+1988 173 away Holland Ireland 0 1 European Cup
+1988 176 away Holland Germany 1 2 European Cup
+1988 180 home Holland SovietUnion 2 0 European Cup
+1988 262 home Holland Wales 1 0 World Cup qualifier
+1988 298 away Holland Germany 0 0 World Cup qualifier
+1988 326 away Holland Italy 1 0 Friendly
+1989 4 away Holland Israel 0 2 Friendly
+1989 84 home Holland SovietUnion 2 0 Friendly
+1989 119 home Holland Germany 1 1 World Cup qualifier
+1989 155 away Holland Finland 0 1 World Cup qualifier
+1989 254 home Holland Denmark 2 2 Friendly
+1989 290 away Holland Wales 1 2 World Cup qualifier
+1989 325 home Holland Finland 3 0 World Cup qualifier
+1989 361 home Holland Brazil 0 1 Friendly
+1990 52 home Holland Italy 0 0 Friendly
+1990 90 away Holland SovietUnion 2 1 Friendly
+1990 154 away Holland Austria 3 2 Friendly
+1990 158 away Holland Yugoslavia 0 2 Friendly
+1990 167 away Holland Egypt 1 1 World Cup
+1990 171 away Holland England 0 0 World Cup
+1990 176 away Holland Ireland 1 1 World Cup
+1990 179 home Holland Germany 1 2 World Cup
+1990 274 away Holland Italy 1 0 Friendly
+1990 296 away Holland Portugal 1 0 European Cup qualifier
+1990 331 home Holland Greece 2 0 European Cup qualifier
+1990 360 away Holland Malta 0 8 European Cup qualifier
+1991 75 home Holland Malta 1 0 European Cup qualifier
+1991 110 home Holland Finland 2 0 European Cup qualifier
+1991 160 away Holland Finland 1 1 European Cup qualifier
+1991 259 home Holland Poland 1 1 Friendly
+1991 295 home Holland Portugal 1 0 European Cup qualifier
+1991 345 away Holland Greece 0 2 European Cup qualifier
+1992 43 away Holland Portugal 2 0 Friendly
+1992 87 home Holland Yugoslavia 2 0 Friendly
+1992 151 home Holland Austria 3 2 Friendly
+1992 154 home Holland Wales 4 0 Friendly
+1992 160 away Holland France 1 1 Friendly
+1992 167 home Holland Scotland 1 0 European Cup
+1992 170 home Holland IndependentStates 0 0 European Cup
+1992 173 home Holland Germany 3 1 European Cup
+1992 177 away Holland Denmark 2 2 European Cup
+1992 257 home Holland Italy 2 3 Friendly
+1992 271 away Holland Norway 2 1 World Cup qualifier
+1992 293 home Holland Poland 2 2 World Cup qualifier
+1992 357 away Holland Turkey 1 3 World Cup qualifier
+1993 55 home Holland Turkey 3 1 World Cup qualifier
+1993 86 home Holland SanMarino 6 0 World Cup qualifier
+1993 121 away Holland England 2 2 World Cup qualifier
+1993 164 home Holland Norway 0 0 World Cup qualifier
+1993 270 away Holland SanMarino 0 7 World Cup qualifier
+1993 292 home Holland England 2 0 World Cup qualifier
+1993 327 away Holland Poland 1 3 World Cup qualifier
+1994 19 away Holland Tunisia 2 2 Friendly
+1994 85 away Holland Scotland 0 1 Friendly
+1994 113 home Holland Ireland 0 1 Friendly
+1994 151 home Holland Scotland 3 1 Friendly
+1994 156 home Holland Hungary 7 1 Friendly
+1994 167 away Holland Canada 0 3 Friendly
+1994 175 home Holland SaudiArabia 2 1 World Cup
+1994 180 away Holland Belgium 1 0 World Cup
+1994 184 home Holland Morocco 2 1 World Cup
+1994 190 home Holland Ireland 2 0 World Cup
+1994 195 away Holland Brazil 3 2 World Cup
+1994 255 away Holland Luxembourg 0 4 European Cup qualifier
+1994 291 away Holland Norway 1 1 European Cup qualifier
+1994 326 home Holland Czechia 0 0 European Cup qualifier
+1994 355 home Holland Luxembourg 5 0 European Cup qualifier
+1995 18 home Holland France 0 1 Friendly
+1995 53 home Holland Portugal 0 1 Friendly
+1995 91 home Holland Malta 4 0 European Cup qualifier
+1995 119 away Holland Czechia 3 1 European Cup qualifier
+1995 162 away Holland Belarus 1 0 European Cup qualifier
+1995 254 home Holland Belarus 1 0 European Cup qualifier
+1995 290 away Holland Malta 0 4 European Cup qualifier
+1995 325 home Holland Norway 3 0 European Cup qualifier
+1995 354 home Holland Ireland 2 0 European Cup qualifier
+1996 117 home Holland Germany 0 1 Friendly
+1996 153 home Holland China 2 0 Friendly
+1996 159 home Holland Ireland 3 1 Friendly
+1996 166 home Holland Scotland 0 0 European Cup
+1996 168 home Holland Switzerland 2 0 European Cup
+1996 173 away Holland England 4 1 European Cup
+1996 177 away Holland France 0 0 European Cup
+1996 248 home Holland Brazil 2 2 Friendly
+1996 284 away Holland Wales 1 3 World Cup qualifier
+1996 319 home Holland Wales 7 1 World Cup qualifier
+1996 355 away Holland Belgium 0 3 World Cup qualifier
+1997 57 away Holland France 2 1 Friendly
+1997 91 home Holland SanMarino 4 0 World Cup qualifier
+1997 95 away Holland Turkey 1 0 World Cup qualifier
+1997 123 away Holland SanMarino 0 6 World Cup qualifier
+1997 159 away Holland SouthAfrica 0 2 Friendly tournament
+1997 254 home Holland Belgium 3 1 World Cup qualifier
+1997 290 home Holland Turkey 0 0 World Cup qualifier
+1998 52 away Holland UnitedStates 0 2 Friendly
+1998 55 home Holland Mexico 3 2 Friendly
+1998 151 home Holland Cameroon 0 0 Friendly
+1998 156 home Holland Paraguay 5 1 Friendly
+1998 160 home Holland Nigeria 5 1 Friendly
+1998 168 home Holland Belgium 0 0 World Cup
+1998 175 home Holland SouthKorea 5 0 World Cup
+1998 180 away Holland Mexico 2 2 World Cup
+1998 184 home Holland Yugoslavia 2 1 World Cup
+1998 190 home Holland Argentina 2 1 World Cup
+1998 193 away Holland Brazil 1 1 World Cup
+1998 197 away Holland Croatia 2 1 World Cup
+1998 289 home Holland Peru 2 0 Friendly
+1998 292 home Holland Ghana 0 0 Friendly
+1998 328 away Holland Germany 1 1 Friendly
+1999 41 away Holland Portugal 0 0 Friendly
+1999 93 home Holland Argentina 1 1 Friendly
+1999 121 home Holland Morocco 1 2 Friendly
+1999 160 away Holland Brazil 2 2 Friendly
+1999 163 away Holland Brazil 3 1 Friendly
+1999 235 away Holland Denmark 0 0 Friendly
+1999 252 home Holland Belgium 5 5 Friendly
+1999 288 home Holland Brazil 2 2 Friendly
+1999 323 home Holland Czechia 1 1 Friendly
+2000 54 home Holland Germany 2 1 Friendly
+2000 91 away Holland Belgium 2 2 Friendly
+2000 119 home Holland Scotland 0 0 Friendly
+2000 151 home Holland Romania 2 1 Friendly
+2000 159 home Holland Poland 3 1 Friendly
+2000 166 home Holland Czechia 1 0 European Cup
+2000 171 home Holland Denmark 3 0 European Cup
+2000 176 home Holland France 3 2 European Cup
+2000 180 home Holland Yugoslavia 6 1 European Cup
+2000 184 home Holland Italy 0 0 European Cup
+2000 250 home Holland Ireland 2 2 World Cup qualifier
+2000 286 away Holland Cyprus 0 4 World Cup qualifier
+2000 290 home Holland Portugal 0 2 World Cup qualifier
+2000 325 away Holland Spain 1 2 Friendly
+2001 59 home Holland Turkey 0 0 Friendly
+2001 86 away Holland Andorra 0 5 World Cup qualifier
+2001 90 away Holland Portugal 2 2 World Cup qualifier
+2001 118 home Holland Cyprus 4 0 World Cup qualifier
+2001 157 away Holland Estonia 2 4 World Cup qualifier
+2001 232 away Holland England 0 2 Friendly
+2001 249 away Holland Ireland 1 0 World Cup qualifier
+2001 253 home Holland Estonia 5 0 World Cup qualifier
+2001 285 home Holland Andorra 4 0 World Cup qualifier
+2001 320 away Holland Denmark 1 1 Friendly
+2002 44 home Holland England 1 1 Friendly
+2002 89 home Holland Spain 1 0 Friendly
+2002 143 away Holland UnitedStates 0 2 Friendly
+2002 238 away Holland Norway 0 1 Friendly
+2002 255 home Holland Belarus 3 0 European Cup qualifier
+2002 295 away Holland Austria 0 3 European Cup qualifier
+2002 330 away Holland Germany 1 3 Friendly
+2003 43 home Holland Argentina 1 0 Friendly
+2003 91 home Holland Czechia 1 1 European Cup qualifier
+2003 95 away Holland Moldova 1 2 European Cup qualifier
+2003 123 home Holland Portugal 1 1 Friendly
+2003 162 away Holland Belarus 0 2 European Cup qualifier
+2003 237 away Holland Belgium 1 1 Friendly
+2003 254 home Holland Austria 3 1 European Cup qualifier
+2003 258 away Holland Czechia 3 1 European Cup qualifier
+2003 290 home Holland Moldova 5 0 European Cup qualifier
+2003 325 away Holland Scotland 1 0 European Cup qualifier
+2003 329 home Holland Scotland 6 0 European Cup qualifier
+2004 49 home Holland UnitedStates 1 0 Friendly
+2004 93 home Holland France 0 0 Friendly
+2004 121 home Holland Greece 4 0 Friendly
+2004 153 home Holland Belgium 0 1 Friendly
+2004 156 home Holland FaroeIslands 3 0 Friendly
+2004 160 home Holland Ireland 0 1 Friendly
+2004 170 away Holland Germany 1 1 European Cup
+2004 174 away Holland Czechia 3 2 European Cup
+2004 178 home Holland Latvia 3 0 European Cup
+2004 181 home Holland Sweden 0 0 European Cup
+2004 185 away Holland Portugal 2 1 European Cup
+2004 235 away Holland Sweden 2 2 Friendly
+2004 251 home Holland Liechtenstein 3 0 Friendly
+2004 256 home Holland Czechia 2 0 World Cup qualifier
+2004 288 away Holland Macedonia 2 2 World Cup qualifier
+2004 292 home Holland Finland 3 1 World Cup qualifier
+2004 327 away Holland Andorra 0 3 World Cup qualifier
+2005 40 away Holland England 0 0 Friendly
+2005 88 away Holland Romania 0 2 World Cup qualifier
+2005 92 home Holland Armenia 2 0 World Cup qualifier
+2005 159 home Holland Romania 2 0 World Cup qualifier
+2005 163 away Holland Finland 0 4 World Cup qualifier
+2005 234 home Holland Germany 2 2 Friendly
+2005 251 away Holland Armenia 0 1 World Cup qualifier
+2005 255 home Holland Andorra 4 0 World Cup qualifier
+2005 287 away Holland Czechia 0 2 World Cup qualifier
+2005 291 home Holland Macedonia 0 0 World Cup qualifier
+2005 322 home Holland Italy 1 3 Friendly
+2006 63 home Holland Ecuador 1 0 Friendly
+2006 151 home Holland Cameroon 1 0 Friendly
+2006 156 home Holland Mexico 2 1 Friendly
+2006 159 home Holland Australia 1 1 Friendly
+2006 166 home Holland Serbia and Montenegro 1 0 World Cup
+2006 171 home Holland IvoryCoast 2 1 World Cup
+2006 176 away Holland Argentina 0 0 World Cup
+2006 180 away Holland Portugal 1 0 World Cup
+2006 233 away Holland Ireland 0 4 Friendly
+2006 250 away Holland Luxembourg 0 1 European Cup qualifier
+2006 254 home Holland Belarus 3 0 European Cup qualifier
+2006 286 away Holland Bulgaria 1 1 European Cup qualifier
+2006 290 home Holland Albania 2 1 European Cup qualifier
+2006 325 home Holland England 1 1 Friendly
+2007 38 home Holland Russia 4 1 Friendly
+2007 86 home Holland Romania 0 0 European Cup qualifier
+2007 90 away Holland Slovenia 0 1 European Cup qualifier
+2007 157 away Holland SouthKorea 0 2 Friendly
+2007 161 away Holland Thailand 1 3 Friendly
+2007 239 away Holland Switzerland 2 1 Friendly
+2007 256 home Holland Bulgaria 2 0 European Cup qualifier
+2007 260 away Holland Albania 0 1 European Cup qualifier
+2007 292 away Holland Romania 1 0 European Cup qualifier
+2007 296 home Holland Slovenia 2 0 European Cup qualifier
+2007 327 home Holland Luxembourg 1 0 European Cup qualifier
+2007 331 away Holland Belarus 2 1 European Cup qualifier
+2008 37 away Holland Croatia 0 3 Friendly
+2008 88 away Holland Austria 3 4 Friendly
+2008 148 home Holland Ukraine 3 0 Friendly
+2008 153 home Holland Denmark 1 1 Friendly
+2008 156 home Holland Wales 2 0 Friendly
+2008 164 home Holland Italy 3 0 European Cup
+2008 168 home Holland France 4 1 European Cup
+2008 172 home Holland Romania 2 0 European Cup
+2008 176 away Holland Russia 3 1 European Cup
+2008 237 away Holland Russia 1 1 Friendly
+2008 254 home Holland Australia 1 2 Friendly
+2008 258 away Holland Macedonia 1 2 World Cup qualifier
+2008 290 home Holland Iceland 2 0 World Cup qualifier
+2008 294 away Holland Norway 0 1 World Cup qualifier
+2008 329 home Holland Sweden 3 1 Friendly
+2009 42 away Holland Tunisia 1 1 Friendly
+2009 90 home Holland Scotland 3 0 World Cup qualifier
+2009 94 home Holland Macedonia 4 0 World Cup qualifier
+2009 161 away Holland Iceland 1 2 World Cup qualifier
+2009 165 home Holland Norway 2 0 World Cup qualifier
+2009 229 home Holland England 2 2 Friendly
+2009 253 home Holland Japan 3 0 Friendly
+2009 257 away Holland Scotland 0 1 World Cup qualifier
+2009 289 away Holland Australia 0 0 Friendly
+2009 324 away Holland Italy 0 0 Friendly
+2009 328 home Holland Paraguay 0 0 Friendly
+2010 65 home Holland UnitedStates 2 1 Friendly
+2010 150 home Holland Mexico 2 1 Friendly
+2010 156 home Holland Ghana 4 1 Friendly
+2010 160 home Holland Hungary 6 1 Friendly
+2010 169 home Holland Denmark 2 0 World Cup
+2010 174 home Holland Japan 1 0 World Cup
+2010 179 home Holland Cameroon 2 1 World Cup
+2010 183 home Holland Slovakia 2 1 World Cup
+2010 188 home Holland Brazil 2 1 World Cup
+2010 192 home Holland Uruguay 3 2 World Cup
+2010 197 away Holland Spain 1 0 World Cup
+2010 228 away Holland Ukraine 1 1 Friendly
+2010 251 away Holland SanMarino 0 5 European Cup qualifier
+2010 255 home Holland Finland 2 1 European Cup qualifier
+2010 287 away Holland Moldova 0 1 European Cup qualifier
+2010 291 home Holland Sweden 4 1 European Cup qualifier
+2010 327 home Holland Turkey 1 0 Friendly
+2011 40 home Holland Austria 3 1 Friendly
+2011 87 away Holland Hungary 0 4 European Cup qualifier
+2011 91 home Holland Hungary 5 3 European Cup qualifier
+2011 159 away Holland Brazil 0 0 Friendly
+2011 163 away Holland Uruguay 1 1 Friendly
+2011 250 home Holland SanMarino 11 0 European Cup qualifier
+2011 254 away Holland Finland 0 2 European Cup qualifier
+2011 286 home Holland Moldova 1 0 European Cup qualifier
+2011 290 away Holland Sweden 3 2 European Cup qualifier
+2011 321 home Holland Switzerland 0 0 Friendly
+2011 325 away Holland Germany 3 0 Friendly
+2012 60 away Holland England 2 3 Friendly
+2012 150 home Holland Bulgaria 1 2 Friendly
+2012 154 home Holland Slovakia 2 0 Friendly
+2012 157 home Holland NorthernIreland 6 0 Friendly
+2012 164 away Holland Denmark 1 0 European Cup
+2012 168 away Holland Germany 2 1 European Cup
+2012 172 away Holland Portugal 2 1 European Cup
+2012 232 away Holland Belgium 4 2 Friendly
+2012 255 home Holland Turkey 2 0 World Cup qualifier
+2012 259 away Holland Hungary 1 4 World Cup qualifier
+2012 291 home Holland Andorra 3 0 World Cup qualifier
+2012 295 away Holland Romania 1 4 World Cup qualifier
+2012 324 home Holland Germany 0 0 Friendly
+2013 37 home Holland Italy 1 1 Friendly
+2013 84 home Holland Estonia 3 0 World Cup qualifier
+2013 88 home Holland Romania 4 0 World Cup qualifier
+2013 162 away Holland Indonesia 0 3 Friendly
+2013 166 away Holland China 0 2 Friendly
+2013 231 away Holland Portugal 1 1 Friendly
+2013 254 away Holland Estonia 2 2 World Cup qualifier
+2013 258 away Holland Andorra 0 2 World Cup qualifier
+2013 290 home Holland Hungary 8 1 World Cup qualifier
+2013 294 away Holland Turkey 0 2 World Cup qualifier
+2013 326 home Holland Japan 2 2 Friendly
+2013 329 home Holland Colombia 0 0 Friendly
+2014 67 away Holland France 2 0 Friendly

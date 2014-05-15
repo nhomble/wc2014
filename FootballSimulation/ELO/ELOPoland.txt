@@ -1,0 +1,6966 @@
+December 18
+1921	Hungary
+Poland	1
+0	Friendly
+in Hungary	+3
+-3	1774
+1597	+1
+-	9
+21
+May 14
+1922	Poland
+Hungary	0
+3	Friendly
+in Poland	-14
++14	1583
+1783	-4
++1	25
+8
+May 28
+1922	Sweden
+Poland	1
+2	Friendly
+in Sweden	-12
++12	1555
+1595	-1
++3	27
+22
+September 03
+1922	Poland
+Romania	1
+1	Friendly
+in Poland	0
+0	1595
+1708	0
+0	25
+14
+October 01
+1922	Yugoslavia
+Poland	1
+3	Friendly
+in Yugoslavia	-17
++17	1513
+1612	-1
++5	32
+20
+June 03
+1923	Poland
+Yugoslavia	1
+2	Friendly
+in Poland	-15
++15	1597
+1528	-5
++1	25
+33
+September 02
+1923	Poland
+Romania	1
+1	Friendly
+in Poland	-1
++1	1596
+1673	0
+0	24
+18
+September 23
+1923	Finland
+Poland	5
+3	Friendly
+in Finland	+15
+-15	1516
+1581	+1
+-1	35
+25
+September 25
+1923	Estonia
+Poland	1
+4	Friendly
+in Estonia	-9
++9	1290
+1590	0
++1	45
+24
+November 01
+1923	Poland
+Sweden	2
+2	Friendly
+in Poland	-2
++2	1588
+1609	0
++1	26
+21
+May 18
+1924	Sweden
+Poland	5
+1	Friendly
+in Sweden	+12
+-12	1621
+1576	0
+0	22
+29
+May 26
+1924	Hungary
+Poland	5
+0	Olympic Games
+in France	+29
+-29	1802
+1547	+1
+-3	5
+32
+June 10
+1924	Poland
+United States	2
+3	Friendly
+in Poland	-11
++11	1536
+1609	0
+0	34
+25
+June 29
+1924	Poland
+Turkey	2
+0	Friendly
+in Poland	+14
+-14	1550
+1597	+1
+-1	33
+26
+August 10
+1924	Poland
+Finland	1
+0	Friendly
+in Poland	+5
+-5	1555
+1476	+1
+0	31
+39
+August 31
+1924	Hungary
+Poland	4
+0	Friendly
+in Hungary	+6
+-6	1736
+1549	+2
+0	12
+31
+July 19
+1925	Poland
+Hungary	0
+2	Friendly
+in Poland	-12
++12	1537
+1730	-2
+0	33
+14
+August 30
+1925	Finland
+Poland	2
+2	Friendly
+in Finland	-1
++1	1466
+1538	0
+0	42
+33
+September 01
+1925	Estonia
+Poland	0
+0	Friendly
+in Estonia	+4
+-4	1295
+1534	0
+0	50
+33
+October 02
+1925	Turkey
+Poland	1
+2	Friendly
+in Turkey	-14
++14	1566
+1548	0
++2	28
+31
+November 01
+1925	Poland
+Sweden	2
+6	Friendly
+in Poland	-10
++10	1538
+1827	-2
+0	33
+6
+July 04
+1926	Poland
+Estonia	2
+0	Friendly
+in Poland	+4
+-4	1542
+1300	+3
+0	32
+54
+August 08
+1926	Poland
+Finland	7
+1	Friendly
+in Poland	+11
+-11	1553
+1455	+2
+-1	30
+44
+August 20
+1926	Hungary
+Poland	4
+1	Friendly
+in Hungary	+6
+-6	1724
+1547	+1
+-2	12
+32
+September 12
+1926	Poland
+Turkey	6
+1	Friendly
+in Poland	+15
+-15	1562
+1534	+3
+-4	29
+35
+October 03
+1926	Sweden
+Poland	3
+1	Friendly
+in Sweden	+4
+-4	1787
+1558	0
+0	8
+29
+October 07
+1926	Norway
+Poland	3
+4	Friendly
+in Norway	-12
++12	1531
+1570	-3
+0	35
+29
+June 19
+1927	Romania
+Poland	3
+3	Friendly
+in Romania	-4
++4	1609
+1574	0
+0	23
+28
+June 10
+1928	Poland
+United States	3
+3	Friendly
+in Poland	-2
++2	1572
+1609	-1
+0	28
+23
+July 01
+1928	Poland
+Sweden	2
+1	Friendly
+in Poland	+13
+-13	1585
+1763	+2
+-1	26
+11
+October 27
+1928	Czechoslovakia
+Poland	3
+2	Friendly
+in Czechoslovakia	+2
+-2	1868
+1583	0
+0	5
+27
+September 28
+1930	Sweden
+Poland	0
+3	Friendly
+in Sweden	-29
++29	1723
+1612	-2
++7	14
+22
+October 26
+1930	Poland
+Latvia	6
+0	Friendly
+in Poland	+6
+-6	1618
+1377	0
+-2	20
+51
+June 14
+1931	Poland
+Czechoslovakia	0
+4	Friendly
+in Poland	-13
++13	1605
+1841	-3
++1	24
+7
+August 05
+1931	Latvia
+Poland	0
+5	Friendly
+in Latvia	-12
++12	1354
+1617	-1
++2	55
+22
+August 23
+1931	Poland
+Romania	2
+3	Friendly
+in Poland	-12
++12	1605
+1664	-2
+0	24
+18
+October 11
+1931	Belgium
+Poland	2
+1	Friendly
+in Belgium	+10
+-10	1521
+1595	+1
+-2	35
+25
+October 25
+1931	Poland
+Yugoslavia	6
+3	Friendly
+in Poland	+13
+-13	1608
+1582	+2
+-4	23
+29
+May 29
+1932	Yugoslavia
+Poland	0
+3	Friendly
+in Yugoslavia	-21
++21	1553
+1629	0
++3	30
+21
+July 10
+1932	Poland
+Sweden	2
+0	Friendly
+in Poland	+13
+-13	1642
+1677	+1
+0	19
+16
+October 02
+1932	Poland
+Latvia	2
+1	Friendly
+in Poland	+2
+-2	1644
+1352	+2
+0	17
+56
+October 02
+1932	Romania
+Poland	0
+5	Friendly
+in Romania	-25
++25	1601
+1669	-5
++2	26
+17
+June 04
+1933	Poland
+Belgium	0
+1	Friendly
+in Poland	-16
++16	1653
+1526	-2
++1	19
+37
+September 10
+1933	Poland
+Yugoslavia	4
+3	Friendly
+in Poland	+6
+-6	1659
+1587	+2
+-2	18
+30
+October 15
+1933	Poland
+Czechoslovakia	1
+2	World Cup qualifier
+in Poland	-20
++20	1639
+1778	-4
++2	22
+9
+December 03
+1933	Germany
+Poland	1
+0	Friendly
+in Germany	+5
+-5	1714
+1634	0
+0	12
+22
+May 21
+1934	Denmark
+Poland	4
+2	Friendly
+in Denmark	+8
+-8	1708
+1626	+1
+-2	13
+24
+May 23
+1934	Sweden
+Poland	4
+2	Friendly
+in Sweden	+9
+-9	1694
+1617	+2
+-1	15
+25
+August 26
+1934	Yugoslavia
+Poland	4
+1	Friendly
+in Yugoslavia	+14
+-14	1603
+1603	+3
+-1	25
+25
+September 09
+1934	Poland
+Germany	2
+5	Friendly
+in Poland	-13
++13	1590
+1802	-3
+0	28
+8
+October 14
+1934	Latvia
+Poland	2
+6	Friendly
+in Latvia	-10
++10	1312
+1600	0
+0	60
+28
+October 14
+1934	Poland
+Romania	3
+3	Friendly
+in Poland	-2
++2	1598
+1649	0
++1	28
+18
+May 12
+1935	Austria
+Poland	5
+2	Friendly
+in Austria	+4
+-4	1867
+1594	-1
+0	7
+29
+August 18
+1935	Poland
+Yugoslavia	2
+3	Friendly
+in Poland	-11
++11	1583
+1669	0
+0	28
+19
+September 15
+1935	Poland
+Germany	0
+1	Friendly
+in Poland	-6
++6	1577
+1838	-3
+0	31
+8
+September 15
+1935	Poland
+Latvia	3
+3	Friendly
+in Poland	-8
++8	1569
+1315	-3
+0	31
+60
+October 06
+1935	Poland
+Austria	1
+0	Friendly
+in Poland	+15
+-15	1584
+1825	+3
+-1	28
+7
+November 03
+1935	Romania
+Poland	4
+1	Friendly
+in Romania	+16
+-16	1533
+1568	0
+-2	35
+30
+February 16
+1936	Belgium
+Poland	0
+2	Friendly
+in Belgium	-15
++15	1449
+1583	0
++2	43
+28
+August 05
+1936	Poland
+Hungary	3
+0	Olympic Games
+in Germany	+84
+-84	1667
+1739	+10
+-3	19
+12
+August 08
+1936	Poland
+Great Britain	5
+4	Olympic Games
+in Germany	+45
+-45	1712
+1817	+6
+0	14
+6
+August 11
+1936	Austria
+Poland	3
+1	Olympic Games
+in Germany	+36
+-36	1815
+1676	+1
+-5	7
+19
+August 13
+1936	Norway
+Poland	3
+2	Olympic Games
+in Germany	+27
+-27	1742
+1649	+1
+-3	12
+22
+September 06
+1936	Latvia
+Poland	3
+3	Friendly
+in Latvia	+5
+-5	1363
+1644	+1
+-2	55
+24
+September 06
+1936	Yugoslavia
+Poland	9
+3	Friendly
+in Yugoslavia	+15
+-15	1671
+1629	+1
+-2	20
+24
+September 13
+1936	Poland
+Germany	1
+1	Friendly
+in Poland	+1
+-1	1630
+1774	0
+0	24
+9
+October 04
+1936	Denmark
+Poland	2
+1	Friendly
+in Denmark	+6
+-6	1667
+1624	0
+0	21
+24
+June 23
+1937	Poland
+Sweden	3
+1	Friendly
+in Poland	+12
+-12	1636
+1640	+1
+0	23
+22
+July 04
+1937	Poland
+Romania	2
+4	Friendly
+in Poland	-21
++21	1615
+1599	-2
++1	25
+31
+September 12
+1937	Bulgaria
+Poland	3
+3	Friendly
+in Bulgaria	0
+0	1520
+1615	0
++1	37
+24
+September 12
+1937	Poland
+Denmark	3
+1	Friendly
+in Poland	+13
+-13	1628
+1658	+1
+-1	24
+20
+October 10
+1937	Poland
+Latvia	2
+1	Friendly
+in Poland	+3
+-3	1631
+1417	+3
+0	20
+46
+October 10
+1937	Poland
+Yugoslavia	4
+0	World Cup qualifier
+in Poland	+28
+-28	1659
+1614	+3
+-5	20
+26
+March 13
+1938	Switzerland
+Poland	3
+3	Friendly
+in Switzerland	+1
+-1	1536
+1658	0
+0	37
+20
+April 03
+1938	Yugoslavia
+Poland	1
+0	World Cup qualifier
+in Yugoslavia	+17
+-17	1631
+1641	+1
+-1	24
+21
+May 22
+1938	Poland
+Ireland	6
+0	Friendly
+in Poland	+13
+-13	1654
+1590	+3
+-3	19
+32
+June 05
+1938	Brazil
+Poland	6
+5	World Cup
+in France	+16
+-16	1845
+1638	0
+-2	6
+21
+September 18
+1938	Germany
+Poland	4
+1	Friendly
+in Germany	+10
+-10	1713
+1628	+1
+0	14
+22
+September 25
+1938	Latvia
+Poland	2
+1	Friendly
+in Latvia	+13
+-13	1441
+1615	+3
+-4	45
+26
+September 25
+1938	Poland
+Yugoslavia	4
+4	Friendly
+in Poland	-3
++3	1612
+1624	-4
++2	26
+22
+October 23
+1938	Poland
+Norway	2
+2	Friendly
+in Poland	-1
++1	1611
+1694	-1
+0	26
+16
+November 13
+1938	Ireland
+Poland	3
+2	Friendly
+in Ireland	+7
+-7	1614
+1604	+3
+-3	25
+29
+January 22
+1939	France
+Poland	4
+0	Friendly
+in France	+15
+-15	1598
+1589	+1
+-3	31
+32
+May 27
+1939	Poland
+Belgium	3
+3	Friendly
+in Poland	-6
++6	1583
+1461	0
+0	32
+44
+June 04
+1939	Poland
+Switzerland	1
+1	Friendly
+in Poland	0
+0	1583
+1688	0
+0	32
+17
+August 27
+1939	Poland
+Hungary	4
+2	Friendly
+in Poland	+20
+-20	1603
+1773	+1
+-4	31
+12
+June 11
+1947	Norway
+Poland	3
+1	Friendly
+in Norway	+13
+-13	1561
+1590	+2
+-3	37
+33
+July 19
+1947	Poland
+Romania	1
+2	Friendly
+in Poland	-14
++14	1576
+1571	0
++4	33
+34
+August 31
+1947	Czechoslovakia
+Poland	6
+3	Friendly
+in Czechoslovakia	+6
+-6	1763
+1570	0
+-1	13
+33
+September 14
+1947	Sweden
+Poland	5
+4	Friendly
+in Sweden	+3
+-3	1788
+1567	0
+-2	12
+35
+September 17
+1947	Finland
+Poland	1
+4	Friendly
+in Finland	-9
++9	1280
+1576	-2
++3	76
+32
+October 19
+1947	Yugoslavia
+Poland	7
+1	Friendly
+in Yugoslavia	+10
+-10	1692
+1566	0
+-2	18
+35
+October 26
+1947	Romania
+Poland	0
+0	Friendly
+in Romania	-2
++2	1537
+1568	0
++1	39
+34
+April 04
+1948	Bulgaria
+Poland	1
+1	Balkan Cup
+in Bulgaria	+3
+-3	1424
+1565	0
+-1	56
+35
+April 18
+1948	Poland
+Czechoslovakia	3
+1	Balkan Cup
+in Poland	+40
+-40	1605
+1739	+6
+-3	29
+16
+June 26
+1948	Denmark
+Poland	8
+0	Friendly
+in Denmark	+13
+-13	1681
+1592	+1
+-2	21
+32
+August 25
+1948	Poland
+Yugoslavia	0
+1	Balkan Cup
+in Poland	-19
++19	1573
+1721	-1
+0	32
+16
+September 19
+1948	Poland
+Hungary	2
+6	Balkan Cup
+in Poland	-20
++20	1553
+1870	-3
+0	36
+6
+October 10
+1948	Poland
+Romania	0
+0	Balkan Cup
+in Poland	-7
++7	1546
+1540	-1
++1	37
+39
+October 17
+1948	Poland
+Finland	1
+0	Friendly
+in Poland	+2
+-2	1548
+1269	0
+0	37
+78
+May 08
+1949	Romania
+Poland	2
+1	Friendly
+in Romania	+8
+-8	1533
+1540	+1
+-1	40
+39
+June 19
+1949	Poland
+Denmark	1
+2	Friendly
+in Poland	-9
++9	1531
+1692	-2
++1	41
+20
+July 10
+1949	Hungary
+Poland	8
+2	Friendly
+in Hungary	+4
+-4	1844
+1527	0
+-2	8
+43
+October 02
+1949	Poland
+Bulgaria	3
+2	Friendly
+in Poland	+6
+-6	1533
+1483	+3
+0	40
+46
+October 30
+1949	Czechoslovakia
+Poland	2
+0	Friendly
+in Czechoslovakia	+6
+-6	1677
+1527	0
+-2	20
+42
+November 06
+1949	Poland
+Albania	2
+1	Friendly
+in Poland	+5
+-5	1532
+1427	+2
+-2	40
+58
+May 01
+1950	Albania
+Poland	0
+0	Friendly
+in Albania	+1
+-1	1414
+1531	0
+0	59
+42
+May 14
+1950	Poland
+Romania	3
+3	Friendly
+in Poland	-2
++2	1529
+1545	0
+0	42
+39
+June 04
+1950	Poland
+Hungary	2
+5	Friendly
+in Poland	-7
++7	1522
+1872	-1
+0	44
+6
+October 22
+1950	Poland
+Czechoslovakia	1
+4	Friendly
+in Poland	-15
++15	1507
+1688	0
++2	44
+20
+October 30
+1950	Bulgaria
+Poland	0
+1	Friendly
+in Bulgaria	-12
++12	1449
+1519	0
+0	55
+44
+May 27
+1951	Hungary
+Poland	6
+0	Friendly
+in Hungary	+3
+-3	1875
+1516	0
+0	7
+43
+May 11
+1952	Soviet Union
+Poland	0
+1	Friendly
+in the Soviet Union	-14
++14	1556
+1530	-3
++3	36
+41
+May 14
+1952	Soviet Union
+Poland	2
+1	Friendly
+in the Soviet Union	+7
+-7	1563
+1523	+1
+-3	35
+44
+May 18
+1952	Poland
+Bulgaria	0
+1	Friendly
+in Poland	-14
++14	1509
+1470	-1
+-1	45
+56
+May 25
+1952	Romania
+Poland	1
+0	Friendly
+in Romania	+6
+-6	1583
+1503	0
+0	32
+45
+June 15
+1952	Poland
+Hungary	1
+5	Friendly
+in Poland	-7
++7	1496
+1873	-1
+0	46
+5
+July 21
+1952	Denmark
+Poland	2
+0	Olympic Games
+in Finland	+24
+-24	1692
+1472	+1
+-7	21
+53
+September 14
+1952	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	-7
++7	1643
+1479	0
++3	25
+50
+September 21
+1952	Poland
+East Germany	3
+0	Friendly
+in Poland	+18
+-18	1497
+1578	+4
+-1	46
+32
+May 10
+1953	Poland
+Czechoslovakia	1
+1	Friendly
+in Poland	+2
+-2	1499
+1657	0
+0	47
+22
+September 13
+1953	Bulgaria
+Poland	2
+2	Friendly
+in Bulgaria	-1
++1	1436
+1500	0
++1	60
+47
+November 29
+1953	Albania
+Poland	2
+0	Friendly
+in Albania	+13
+-13	1448
+1487	+2
+-5	60
+52
+August 08
+1954	Poland
+Bulgaria	2
+2	Friendly
+in Poland	-4
++4	1483
+1447	-1
++1	54
+63
+September 26
+1954	East Germany
+Poland	0
+1	Friendly
+in East Germany	-14
++14	1535
+1497	-1
++6	42
+48
+May 29
+1955	Romania
+Poland	2
+2	Friendly
+in Romania	-5
++5	1579
+1502	0
++2	35
+46
+June 26
+1955	Bulgaria
+Poland	1
+1	Friendly
+in Bulgaria	-2
++2	1476
+1504	0
+0	55
+46
+September 11
+1955	Finland
+Poland	1
+3	Friendly
+in Finland	-12
++12	1329
+1516	0
++1	88
+45
+May 30
+1956	Norway
+Poland	0
+0	Friendly
+in Norway	-3
++3	1536
+1519	-1
++1	43
+46
+July 15
+1956	Hungary
+Poland	4
+1	Friendly
+in Hungary	+1
+-1	2028
+1518	0
+0	2
+47
+July 22
+1956	Poland
+East Germany	0
+2	Friendly
+in Poland	-18
++18	1500
+1559	-1
++4	48
+38
+August 26
+1956	Poland
+Bulgaria	1
+2	Friendly
+in Poland	-13
++13	1487
+1510	-7
++2	55
+49
+October 28
+1956	Poland
+Norway	5
+3	Friendly
+in Poland	+13
+-13	1500
+1536	+5
+-4	51
+46
+November 04
+1956	Poland
+Finland	5
+0	Friendly
+in Poland	+7
+-7	1507
+1321	0
+-1	51
+91
+November 16
+1956	Turkey
+Poland	1
+1	Friendly
+in Turkey	-6
++6	1631
+1513	-3
++1	26
+50
+May 19
+1957	Poland
+Turkey	0
+1	Friendly
+in Poland	-8
++8	1505
+1691	0
++1	47
+21
+June 23
+1957	Soviet Union
+Poland	3
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1819
+1499	+1
+-2	8
+50
+July 05
+1957	Finland
+Poland	1
+3	World Cup qualifier
+in Finland	-25
++25	1311
+1524	-3
++2	95
+48
+September 29
+1957	Bulgaria
+Poland	1
+1	Friendly
+in Bulgaria	-4
++4	1576
+1528	0
+-1	37
+48
+October 20
+1957	Poland
+Soviet Union	2
+1	World Cup qualifier
+in Poland	+32
+-32	1560
+1826	+5
+-2	45
+8
+November 03
+1957	Poland
+Finland	4
+0	World Cup qualifier
+in Poland	+8
+-8	1568
+1276	+1
+-1	44
+103
+November 24
+1957	Soviet Union
+Poland	2
+0	World Cup qualifier
+in East Germany	+11
+-11	1837
+1557	+2
+-1	7
+45
+May 11
+1958	Poland
+Ireland	2
+2	Friendly
+in Poland	+1
+-1	1558
+1692	0
+0	45
+23
+May 25
+1958	Denmark
+Poland	3
+2	Friendly
+in Denmark	+7
+-7	1560
+1551	+1
+-2	45
+47
+June 01
+1958	Poland
+Scotland	1
+2	Friendly
+in Poland	-7
++7	1544
+1755	0
++1	47
+17
+June 28
+1958	East Germany
+Poland	1
+1	Friendly
+in East Germany	-2
++2	1523
+1546	-1
+0	49
+47
+September 14
+1958	Poland
+Hungary	1
+3	Friendly
+in Poland	-5
++5	1541
+1933	-1
+0	47
+2
+October 05
+1958	Ireland
+Poland	2
+2	Friendly
+in Ireland	-6
++6	1680
+1547	0
+0	26
+47
+May 20
+1959	West Germany
+Poland	1
+1	Friendly
+in West Germany	-8
++8	1795
+1555	-1
+0	12
+45
+June 21
+1959	Poland
+Israel	7
+2	Friendly
+in Poland	+10
+-10	1565
+1448	+2
+-1	43
+65
+June 28
+1959	Poland
+Spain	2
+4	European Cup qualifier
+in Poland	-17
++17	1548
+1844	-1
+0	45
+9
+August 30
+1959	Poland
+Romania	2
+3	Friendly
+in Poland	-11
++11	1537
+1623	0
++3	45
+33
+October 14
+1959	Spain
+Poland	3
+0	European Cup qualifier
+in Spain	+6
+-6	1850
+1531	0
+-1	8
+46
+October 18
+1959	Finland
+Poland	1
+3	Olympic Games qualifier
+in Finland	-16
++16	1245
+1547	-3
++1	106
+45
+November 08
+1959	Poland
+Finland	6
+2	Olympic Games qualifier
+in Poland	+7
+-7	1554
+1238	0
+-1	45
+107
+November 29
+1959	Israel
+Poland	1
+1	Friendly
+in Israel	0
+0	1462
+1554	0
+0	61
+45
+May 04
+1960	Scotland
+Poland	2
+3	Friendly
+in Scotland	-17
++17	1758
+1571	0
++1	17
+45
+May 19
+1960	Soviet Union
+Poland	7
+1	Friendly
+in the Soviet Union	+4
+-4	1875
+1567	+1
+0	6
+45
+June 26
+1960	Poland
+Bulgaria	4
+0	Friendly
+in Poland	+20
+-20	1587
+1661	+1
+-4	44
+29
+August 26
+1960	Poland
+Tunisia	6
+1	Olympic Games
+in Italy	+43
+-43	1630
+1444	+10
+-9	34
+68
+August 29
+1960	Denmark
+Poland	2
+1	Olympic Games
+in Italy	+30
+-30	1661
+1600	+5
+-5	28
+39
+September 28
+1960	Poland
+France	2
+2	Friendly
+in Poland	+3
+-3	1603
+1823	0
+0	39
+11
+November 13
+1960	Hungary
+Poland	4
+1	Friendly
+in Hungary	+3
+-3	1894
+1600	0
+-1	5
+39
+May 21
+1961	Poland
+Soviet Union	1
+0	Friendly
+in Poland	+16
+-16	1616
+1904	+3
+-2	37
+6
+June 04
+1961	Yugoslavia
+Poland	2
+1	World Cup qualifier
+in Yugoslavia	+5
+-5	1876
+1611	0
+-2	9
+38
+June 25
+1961	Poland
+Yugoslavia	1
+1	World Cup qualifier
+in Poland	+9
+-9	1620
+1869	+2
+-1	36
+10
+October 08
+1961	Poland
+West Germany	0
+2	Friendly
+in Poland	-11
++11	1609
+1829	-3
+0	40
+12
+October 22
+1961	Poland
+East Germany	3
+1	Friendly
+in Poland	+7
+-7	1616
+1496	+3
+-1	37
+57
+November 05
+1961	Poland
+Denmark	5
+0	Friendly
+in Poland	+16
+-16	1632
+1631	+9
+-3	30
+31
+April 11
+1962	France
+Poland	1
+3	Friendly
+in France	-23
++23	1710
+1655	0
++1	21
+28
+April 15
+1962	Morocco
+Poland	1
+3	Friendly
+in Morocco	-17
++17	1595
+1672	-5
++3	43
+25
+May 23
+1962	Poland
+Belgium	2
+0	Friendly
+in Poland	+9
+-9	1681
+1603	+3
+-2	23
+40
+September 02
+1962	Poland
+Hungary	0
+2	Friendly
+in Poland	-9
++9	1672
+1929	-3
+0	26
+4
+September 30
+1962	Bulgaria
+Poland	2
+1	Friendly
+in Bulgaria	+6
+-6	1711
+1666	0
+0	21
+26
+October 10
+1962	Poland
+Northern Ireland	0
+2	European Cup qualifier
+in Poland	-48
++48	1618
+1574	-7
++5	33
+46
+October 11
+1962	Poland
+Morocco	1
+1	Friendly
+in Poland	-4
++4	1614
+1582	-1
+0	34
+43
+October 28
+1962	Czechoslovakia
+Poland	2
+1	Friendly
+in Czechoslovakia	+1
+-1	1970
+1613	0
+-1	2
+35
+November 28
+1962	Northern Ireland
+Poland	2
+0	European Cup qualifier
+in Northern Ireland	+27
+-27	1579
+1586	+6
+-7	43
+41
+May 15
+1963	Norway
+Poland	2
+5	Friendly
+in Norway	-16
++16	1449
+1602	-3
++5	74
+40
+May 22
+1963	Poland
+Greece	4
+0	Friendly
+in Poland	+7
+-7	1609
+1430	+2
+-1	38
+78
+June 02
+1963	Poland
+Romania	1
+1	Friendly
+in Poland	-2
++2	1607
+1657	0
+0	38
+27
+September 04
+1963	Poland
+Norway	9
+0	Friendly
+in Poland	+9
+-9	1616
+1446	+3
+0	36
+74
+September 22
+1963	Poland
+Turkey	0
+0	Friendly
+in Poland	-2
++2	1614
+1652	-2
+0	36
+28
+October 16
+1963	Greece
+Poland	3
+1	Friendly
+in Greece	+19
+-19	1449
+1595	+4
+-4	73
+41
+May 10
+1964	Poland
+Ireland	3
+1	Friendly
+in Poland	+12
+-12	1607
+1605	+3
+-5	38
+39
+September 13
+1964	Poland
+Czechoslovakia	2
+1	Friendly
+in Poland	+14
+-14	1621
+1845	+5
+-1	35
+11
+September 27
+1964	Turkey
+Poland	2
+3	Friendly
+in Turkey	-14
++14	1637
+1635	-2
++2	32
+33
+October 07
+1964	Sweden
+Poland	3
+3	Friendly
+in Sweden	-7
++7	1816
+1642	0
++2	12
+31
+October 25
+1964	Ireland
+Poland	3
+2	Friendly
+in Ireland	+8
+-8	1620
+1634	+4
+-2	35
+32
+April 07
+1965	Belgium
+Poland	0
+0	Friendly
+in Belgium	-4
++4	1683
+1638	0
++1	28
+32
+April 18
+1965	Poland
+Italy	0
+0	World Cup qualifier
+in Poland	+7
+-7	1645
+1866	+1
+-1	31
+6
+May 16
+1965	Poland
+Bulgaria	1
+1	Friendly
+in Poland	-2
++2	1643
+1693	0
++1	31
+26
+May 23
+1965	Poland
+Scotland	1
+1	World Cup qualifier
+in Poland	+6
+-6	1649
+1851	0
+-1	31
+7
+September 26
+1965	Finland
+Poland	2
+0	World Cup qualifier
+in Finland	+47
+-47	1377
+1602	+13
+-7	94
+39
+October 13
+1965	Scotland
+Poland	1
+2	World Cup qualifier
+in Scotland	-35
++35	1790
+1637	-5
++6	16
+34
+October 24
+1965	Poland
+Finland	7
+0	World Cup qualifier
+in Poland	+10
+-10	1647
+1367	+2
+-1	32
+95
+November 01
+1965	Italy
+Poland	6
+1	World Cup qualifier
+in Italy	+11
+-11	1882
+1636	+1
+-1	4
+34
+January 05
+1966	England
+Poland	1
+1	Friendly
+in England	-8
++8	1891
+1644	0
+0	4
+34
+May 03
+1966	Poland
+Hungary	1
+1	Friendly
+in Poland	+5
+-5	1649
+1950	0
+0	35
+2
+May 18
+1966	Poland
+Sweden	1
+1	Friendly
+in Poland	0
+0	1649
+1756	0
+0	33
+18
+June 05
+1966	Brazil
+Poland	4
+1	Friendly
+in Brazil	+3
+-3	1950
+1646	0
+0	2
+33
+June 08
+1966	Brazil
+Poland	2
+1	Friendly
+in Brazil	+2
+-2	1954
+1644	0
+-1	2
+34
+June 11
+1966	Argentina
+Poland	1
+1	Friendly
+in Argentina	-8
++8	1951
+1652	-1
++1	2
+33
+July 05
+1966	Poland
+England	0
+1	Friendly
+in Poland	-5
++5	1647
+1939	0
+0	34
+3
+September 11
+1966	East Germany
+Poland	2
+0	Friendly
+in East Germany	+4
+-4	1861
+1643	0
+0	9
+34
+October 02
+1966	Poland
+Luxembourg	4
+0	European Cup qualifier
+in Poland	+5
+-5	1648
+1269	0
+-1	34
+121
+October 22
+1966	France
+Poland	2
+1	European Cup qualifier
+in France	+13
+-13	1691
+1635	+3
+-1	26
+35
+November 17
+1966	Romania
+Poland	4
+3	Friendly
+in Romania	+4
+-4	1786
+1631	+1
+-2	17
+36
+April 16
+1967	Luxembourg
+Poland	0
+0	European Cup qualifier
+in Luxembourg	+13
+-13	1263
+1618	+2
+-2	123
+36
+May 21
+1967	Poland
+Belgium	3
+1	European Cup qualifier
+in Poland	+31
+-31	1649
+1698	+3
+-4	32
+27
+July 20
+1967	Poland
+Soviet Union	0
+1	Olympic Games qualifier
+in Poland	-10
++10	1639
+1949	-1
+0	33
+4
+August 04
+1967	Soviet Union
+Poland	2
+1	Olympic Games qualifier
+in the Soviet Union	+3
+-3	1952
+1636	0
+-1	4
+34
+September 17
+1967	Poland
+France	1
+4	European Cup qualifier
+in Poland	-42
++42	1594
+1710	-4
++6	39
+25
+October 08
+1967	Belgium
+Poland	2
+4	European Cup qualifier
+in Belgium	-46
++46	1652
+1640	-3
++6	30
+33
+October 29
+1967	Poland
+Romania	0
+0	Friendly
+in Poland	0
+0	1640
+1732	0
+0	33
+21
+April 24
+1968	Poland
+Turkey	8
+0	Friendly
+in Poland	+16
+-16	1656
+1614	+1
+-2	33
+38
+May 01
+1968	Poland
+Netherlands	0
+0	Friendly
+in Poland	-4
++4	1652
+1631	0
+0	33
+36
+May 15
+1968	Ireland
+Poland	2
+2	Friendly
+in Ireland	-2
++2	1624
+1654	0
+0	37
+33
+June 09
+1968	Norway
+Poland	1
+6	Friendly
+in Norway	-18
++18	1494
+1672	-4
++3	67
+30
+June 20
+1968	Poland
+Brazil	3
+6	Friendly
+in Poland	-11
++11	1661
+1912	-2
++3	32
+4
+October 20
+1968	Poland
+East Germany	1
+1	Friendly
+in Poland	+3
+-3	1664
+1864	0
+-1	29
+9
+October 30
+1968	Poland
+Ireland	1
+0	Friendly
+in Poland	+6
+-6	1670
+1618	+2
+-2	28
+39
+April 20
+1969	Poland
+Luxembourg	8
+1	World Cup qualifier
+in Poland	+5
+-5	1675
+1259	0
+-2	29
+123
+April 30
+1969	Turkey
+Poland	1
+3	Friendly
+in Turkey	-14
++14	1547
+1689	-6
++1	56
+28
+May 07
+1969	Netherlands
+Poland	1
+0	World Cup qualifier
+in the Netherlands	+16
+-16	1672
+1673	0
+-1	30
+29
+June 15
+1969	Bulgaria
+Poland	4
+1	World Cup qualifier
+in Bulgaria	+12
+-12	1856
+1661	+2
+-1	8
+30
+August 27
+1969	Poland
+Norway	6
+1	Friendly
+in Poland	+7
+-7	1668
+1487	+1
+-1	30
+71
+September 07
+1969	Poland
+Netherlands	2
+1	World Cup qualifier
+in Poland	+15
+-15	1683
+1657	+3
+-1	28
+31
+October 12
+1969	Luxembourg
+Poland	1
+5	World Cup qualifier
+in Luxembourg	-10
++10	1248
+1693	-5
++1	126
+27
+November 09
+1969	Poland
+Bulgaria	3
+0	World Cup qualifier
+in Poland	+40
+-40	1733
+1801	+6
+-2	22
+11
+May 02
+1970	Hungary
+Poland	2
+0	Friendly
+in Hungary	+6
+-6	1881
+1727	0
+-1	7
+21
+May 06
+1970	Poland
+Ireland	2
+1	Friendly
+in Poland	+4
+-4	1731
+1555	+1
+0	20
+56
+May 16
+1970	Poland
+East Germany	1
+1	Friendly
+in Poland	+1
+-1	1732
+1867	0
++1	20
+7
+May 19
+1970	Denmark
+Poland	0
+2	Friendly
+in Denmark	-14
++14	1589
+1746	-5
+0	47
+20
+July 22
+1970	Poland
+Iraq	2
+0	Friendly
+in Poland	+4
+-4	1750
+1501	+1
+0	19
+64
+September 02
+1970	Poland
+Denmark	5
+0	Friendly
+in Poland	+7
+-7	1757
+1579	+2
+-1	17
+48
+September 06
+1970	East Germany
+Poland	5
+0	Friendly
+in East Germany	+9
+-9	1879
+1748	0
+-2	6
+19
+September 23
+1970	Ireland
+Poland	0
+2	Friendly
+in Ireland	-11
++11	1543
+1759	-1
++2	56
+17
+October 14
+1970	Poland
+Albania	3
+0	European Cup qualifier
+in Poland	+4
+-4	1763
+1369	0
+-1	17
+95
+October 25
+1970	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	-3
++3	1768
+1766	0
+0	16
+17
+May 05
+1971	Switzerland
+Poland	2
+4	Friendly
+in Switzerland	-14
++14	1624
+1780	0
+0	38
+16
+May 12
+1971	Albania
+Poland	1
+1	European Cup qualifier
+in Albania	+15
+-15	1375
+1765	+4
+-1	93
+17
+September 22
+1971	Poland
+Turkey	5
+1	European Cup qualifier
+in Poland	+13
+-13	1778
+1578	+3
+-1	16
+46
+October 10
+1971	Poland
+West Germany	1
+3	European Cup qualifier
+in Poland	-20
++20	1758
+2014	-2
+0	18
+2
+November 17
+1971	West Germany
+Poland	0
+0	European Cup qualifier
+in West Germany	-15
++15	1999
+1773	0
++1	2
+15
+December 05
+1971	Turkey
+Poland	1
+0	European Cup qualifier
+in Turkey	+28
+-28	1550
+1745	+3
+-3	56
+18
+April 16
+1972	Bulgaria
+Poland	3
+1	Olympic Games qualifier
+in Bulgaria	+22
+-22	1765
+1723	+3
+-5	17
+24
+May 07
+1972	Poland
+Bulgaria	3
+0	Olympic Games qualifier
+in Poland	+29
+-29	1752
+1736	+6
+-4	18
+22
+May 10
+1972	Poland
+Switzerland	0
+0	Friendly
+in Poland	-5
++5	1747
+1662	-1
+0	19
+35
+August 30
+1972	Poland
+Ghana	4
+0	Olympic Games
+in West Germany	+41
+-41	1788
+1609	+4
+-5	16
+39
+September 01
+1972	Poland
+East Germany	2
+1	Olympic Games
+in West Germany	+34
+-34	1822
+1801	+6
+-5	10
+14
+September 05
+1972	Poland
+Soviet Union	2
+1	Olympic Games
+in West Germany	+38
+-38	1860
+1885	+1
+-2	9
+6
+September 08
+1972	Poland
+Morocco	5
+0	Olympic Games
+in West Germany	+32
+-32	1892
+1653	+3
+-2	6
+33
+September 10
+1972	Poland
+Hungary	2
+1	Olympic Games
+in West Germany	+32
+-32	1924
+1879	+2
+-2	4
+6
+October 15
+1972	Poland
+Czechoslovakia	3
+0	Friendly
+in Poland	+8
+-8	1932
+1793	0
+-1	4
+16
+March 20
+1973	Poland
+United States	4
+0	Friendly
+in Poland	+1
+-1	1933
+1443	0
+-1	4
+73
+March 28
+1973	Wales
+Poland	2
+0	World Cup qualifier
+in Wales	+47
+-47	1654
+1886	+8
+-1	34
+5
+May 13
+1973	Poland
+Yugoslavia	2
+2	Friendly
+in Poland	-3
++3	1883
+1899	0
+0	6
+5
+May 16
+1973	Poland
+Ireland	2
+0	Friendly
+in Poland	+2
+-2	1885
+1536	0
+-1	6
+59
+June 06
+1973	Poland
+England	2
+0	World Cup qualifier
+in Poland	+29
+-29	1914
+1940	+2
+0	4
+3
+August 01
+1973	Canada
+Poland	1
+3	Friendly
+in Canada	-5
++5	1543
+1919	-1
+0	57
+5
+August 03
+1973	United States
+Poland	0
+1	Friendly
+in the United States	-2
++2	1441
+1921	-3
+0	76
+5
+August 05
+1973	Poland
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1927
+1755	0
+0	5
+22
+August 08
+1973	Mexico
+Poland	1
+2	Friendly
+in Mexico	-8
++8	1747
+1935	0
++1	22
+4
+August 10
+1973	United States
+Poland	0
+4	Friendly
+in the United States	-4
++4	1460
+1939	-1
++1	70
+3
+August 12
+1973	United States
+Poland	1
+0	Friendly
+in the United States	+18
+-18	1478
+1921	+1
+-2	69
+5
+August 19
+1973	Bulgaria
+Poland	0
+2	Friendly
+in Bulgaria	-13
++13	1772
+1934	-3
++1	20
+4
+September 26
+1973	Poland
+Wales	3
+0	World Cup qualifier
+in Poland	+5
+-5	1939
+1599	0
+-1	4
+41
+October 10
+1973	Netherlands
+Poland	1
+1	Friendly
+in the Netherlands	+1
+-1	1793
+1938	0
+0	17
+4
+October 17
+1973	England
+Poland	1
+1	World Cup qualifier
+in England	-6
++6	1941
+1944	-1
++1	4
+3
+October 21
+1973	Ireland
+Poland	1
+0	Friendly
+in Ireland	+17
+-17	1566
+1927	+7
+-1	49
+5
+April 17
+1974	Belgium
+Poland	1
+1	Friendly
+in Belgium	0
+0	1825
+1927	0
+0	13
+5
+May 15
+1974	Poland
+Greece	2
+0	Friendly
+in Poland	+2
+-2	1929
+1533	0
+-1	5
+59
+June 15
+1974	Poland
+Argentina	3
+2	World Cup
+in West Germany	+24
+-24	1953
+1834	0
+-3	4
+11
+June 19
+1974	Poland
+Haiti	7
+0	World Cup
+in West Germany	+12
+-12	1965
+1540	+1
+-3	3
+54
+June 23
+1974	Poland
+Italy	2
+1	World Cup
+in West Germany	+29
+-29	1994
+1923	0
+-2	3
+6
+June 26
+1974	Poland
+Sweden	1
+0	World Cup
+in West Germany	+19
+-19	2013
+1838	0
+-2	3
+12
+June 30
+1974	Poland
+Yugoslavia	2
+1	World Cup
+in West Germany	+21
+-21	2034
+1890	0
++1	3
+7
+July 03
+1974	West Germany
+Poland	1
+0	World Cup
+in West Germany	+20
+-20	2079
+2014	+1
+-1	1
+4
+July 06
+1974	Poland
+Brazil	1
+0	World Cup
+in West Germany	+31
+-31	2045
+1994	+2
+-1	2
+4
+September 01
+1974	Finland
+Poland	1
+2	European Cup qualifier
+in Finland	-1
++1	1363
+2046	0
+0	98
+2
+September 04
+1974	Poland
+East Germany	1
+3	Friendly
+in Poland	-25
++25	2021
+1901	-1
+0	3
+7
+September 07
+1974	Poland
+France	0
+2	Friendly
+in Poland	-27
++27	1994
+1748	0
++3	3
+22
+October 09
+1974	Poland
+Finland	3
+0	European Cup qualifier
+in Poland	+1
+-1	1995
+1360	0
+0	3
+98
+October 31
+1974	Poland
+Canada	2
+0	Friendly
+in Poland	+1
+-1	1996
+1504	0
+0	3
+64
+November 13
+1974	Czechoslovakia
+Poland	2
+2	Friendly
+in Czechoslovakia	+2
+-2	1810
+1994	+1
+0	13
+3
+March 26
+1975	Poland
+United States	7
+0	Friendly
+in Poland	+1
+-1	1995
+1447	0
+0	3
+73
+April 19
+1975	Italy
+Poland	0
+0	European Cup qualifier
+in Italy	0
+0	1894
+1995	0
+0	6
+3
+May 28
+1975	East Germany
+Poland	1
+2	Friendly
+in East Germany	-8
++8	1834
+2003	-2
+0	12
+3
+June 24
+1975	United States
+Poland	0
+4	Friendly
+in the United States	-3
++3	1444
+2006	-1
+0	74
+3
+July 06
+1975	Canada
+Poland	1
+8	Friendly
+in Canada	-4
++4	1481
+2010	0
+0	69
+3
+July 09
+1975	Canada
+Poland	1
+4	Friendly
+in Canada	-3
++3	1478
+2013	0
+0	69
+3
+September 10
+1975	Poland
+Netherlands	4
+1	European Cup qualifier
+in Poland	+26
+-26	2039
+1992	+2
+-1	2
+4
+October 08
+1975	Poland
+Hungary	4
+2	Friendly
+in Poland	+4
+-4	2043
+1785	0
+0	2
+19
+October 15
+1975	Netherlands
+Poland	3
+0	European Cup qualifier
+in the Netherlands	+30
+-30	2022
+2013	+1
+-2	2
+3
+October 26
+1975	Poland
+Italy	0
+0	European Cup qualifier
+in Poland	-12
++12	2001
+1880	0
+0	3
+7
+March 24
+1976	Poland
+Argentina	1
+2	Friendly
+in Poland	-16
++16	1985
+1861	-1
++2	4
+9
+April 24
+1976	France
+Poland	2
+0	Friendly
+in France	+22
+-22	1739
+1963	+2
+0	25
+4
+May 06
+1976	Greece
+Poland	1
+0	Friendly
+in Greece	+17
+-17	1590
+1946	+1
+0	46
+4
+May 11
+1976	Switzerland
+Poland	2
+1	Friendly
+in Switzerland	+16
+-16	1616
+1930	+1
+-1	43
+5
+May 26
+1976	Poland
+Ireland	0
+2	Friendly
+in Poland	-27
++27	1903
+1680	-3
++3	7
+31
+July 18
+1976	Cuba
+Poland	0
+0	Olympic Games
+in Canada	+25
+-25	1520
+1878	+8
+-2	61
+8
+July 22
+1976	Poland
+Iran	3
+2	Olympic Games
+in Canada	+17
+-17	1895
+1703	+1
+-1	7
+28
+July 25
+1976	Poland
+North Korea	5
+0	Olympic Games
+in Canada	+20
+-20	1915
+1591	+1
+-2	6
+46
+July 31
+1976	East Germany
+Poland	3
+1	Olympic Games
+in Canada	+53
+-53	1909
+1862	+5
+-4	6
+10
+October 16
+1976	Portugal
+Poland	0
+2	World Cup qualifier
+in Portugal	-33
++33	1759
+1895	-1
++3	19
+8
+October 31
+1976	Poland
+Cyprus	5
+0	World Cup qualifier
+in Poland	+1
+-1	1896
+1255	0
+0	8
+125
+April 13
+1977	Hungary
+Poland	2
+1	Friendly
+in Hungary	+9
+-9	1845
+1887	0
+-2	13
+10
+April 24
+1977	Ireland
+Poland	0
+0	Friendly
+in Ireland	+3
+-3	1688
+1884	0
+0	30
+10
+May 01
+1977	Denmark
+Poland	1
+2	World Cup qualifier
+in Denmark	-10
++10	1587
+1894	-1
++3	47
+7
+May 15
+1977	Cyprus
+Poland	1
+3	World Cup qualifier
+in Cyprus	-3
++3	1247
+1897	-2
+0	129
+7
+May 29
+1977	Argentina
+Poland	3
+1	Friendly
+in Argentina	+11
+-11	1903
+1886	+1
+-1	7
+8
+June 10
+1977	Peru
+Poland	1
+3	Friendly
+in Peru	-13
++13	1728
+1899	-1
++1	26
+7
+June 12
+1977	Bolivia
+Poland	1
+2	Friendly
+in Bolivia	-4
++4	1532
+1903	0
+0	57
+7
+June 19
+1977	Brazil
+Poland	3
+1	Friendly
+in Brazil	+7
+-7	2022
+1896	0
+0	3
+7
+August 24
+1977	Austria
+Poland	2
+1	Friendly
+in Austria	+10
+-10	1793
+1886	+1
+-1	18
+8
+September 07
+1977	Soviet Union
+Poland	4
+1	Friendly
+in the Soviet Union	+13
+-13	1888
+1873	+2
+-2	7
+9
+September 21
+1977	Poland
+Denmark	4
+1	World Cup qualifier
+in Poland	+8
+-8	1881
+1611	+1
+-4	8
+44
+October 29
+1977	Poland
+Portugal	1
+1	World Cup qualifier
+in Poland	-9
++9	1872
+1816	-2
+0	10
+15
+November 12
+1977	Poland
+Sweden	2
+1	Friendly
+in Poland	+4
+-4	1876
+1714	0
+0	10
+27
+March 22
+1978	Luxembourg
+Poland	1
+3	Friendly
+in Luxembourg	-1
++1	1195
+1877	0
+0	142
+10
+April 05
+1978	Poland
+Greece	5
+2	Friendly
+in Poland	+4
+-4	1881
+1596	+1
+-1	10
+45
+April 12
+1978	Poland
+Ireland	3
+0	Friendly
+in Poland	+5
+-5	1886
+1673	0
+-2	10
+35
+April 26
+1978	Poland
+Bulgaria	1
+0	Friendly
+in Poland	+3
+-3	1889
+1689	0
+0	9
+29
+June 01
+1978	Poland
+West Germany	0
+0	World Cup
+in Argentina	+13
+-13	1902
+2038	+4
+-1	7
+2
+June 06
+1978	Poland
+Tunisia	1
+0	World Cup
+in Argentina	+16
+-16	1918
+1712	+1
+-1	7
+27
+June 10
+1978	Poland
+Mexico	3
+1	World Cup
+in Argentina	+17
+-17	1935
+1647	+1
+-2	6
+38
+June 14
+1978	Argentina
+Poland	2
+0	World Cup
+in Argentina	+38
+-38	1927
+1897	+4
+-3	6
+9
+June 18
+1978	Poland
+Peru	1
+0	World Cup
+in Argentina	+24
+-24	1921
+1803	+2
+-1	7
+15
+June 21
+1978	Brazil
+Poland	3
+1	World Cup
+in Argentina	+29
+-29	2076
+1892	0
+-3	1
+10
+August 30
+1978	Finland
+Poland	0
+1	Friendly
+in Finland	-2
++2	1445
+1894	0
++1	77
+9
+September 06
+1978	Iceland
+Poland	0
+2	European Cup qualifier
+in Iceland	-5
++5	1355
+1899	-2
+0	98
+9
+October 11
+1978	Romania
+Poland	1
+0	Friendly
+in Romania	+11
+-11	1787
+1888	0
+-1	18
+10
+November 15
+1978	Poland
+Switzerland	2
+0	European Cup qualifier
+in Poland	+5
+-5	1893
+1552	+2
+-1	8
+58
+February 18
+1979	Tunisia
+Poland	0
+2	Friendly
+in Tunisia	-13
++13	1722
+1906	0
+0	26
+8
+March 21
+1979	Algeria
+Poland	0
+1	Friendly
+in Algeria	-5
++5	1597
+1911	0
++1	48
+7
+April 04
+1979	Poland
+Hungary	1
+1	Friendly
+in Poland	-6
++6	1905
+1762	-1
++1	8
+23
+April 18
+1979	East Germany
+Poland	2
+1	European Cup qualifier
+in East Germany	+19
+-19	1849
+1886	+2
+-2	12
+10
+May 02
+1979	Poland
+Netherlands	2
+0	European Cup qualifier
+in Poland	+32
+-32	1918
+1980	+3
+-2	7
+4
+August 19
+1979	Poland
+Libya	5
+0	Friendly
+in Poland	+1
+-1	1919
+1382	0
+-1	7
+96
+August 29
+1979	Poland
+Romania	3
+0	Friendly
+in Poland	+7
+-7	1926
+1758	0
+-1	7
+22
+September 12
+1979	Switzerland
+Poland	0
+2	European Cup qualifier
+in Switzerland	-11
++11	1548
+1937	-1
+0	61
+7
+September 26
+1979	Poland
+East Germany	1
+1	European Cup qualifier
+in Poland	-9
++9	1928
+1876	-1
+0	7
+11
+October 10
+1979	Poland
+Iceland	2
+0	European Cup qualifier
+in Poland	+1
+-1	1929
+1319	0
+0	7
+110
+October 17
+1979	Netherlands
+Poland	1
+1	European Cup qualifier
+in the Netherlands	-9
++9	1978
+1938	-1
++1	4
+6
+February 27
+1980	Iraq
+Poland	1
+1	Friendly
+in Iraq	+4
+-4	1675
+1934	0
+-1	30
+7
+March 26
+1980	Hungary
+Poland	2
+1	Friendly
+in Hungary	+13
+-13	1756
+1921	+1
+0	22
+7
+April 02
+1980	Belgium
+Poland	2
+1	Friendly
+in Belgium	+9
+-9	1864
+1912	+1
+0	12
+7
+April 19
+1980	Italy
+Poland	2
+2	Friendly
+in Italy	-4
++4	1952
+1916	0
+0	5
+7
+April 26
+1980	Yugoslavia
+Poland	2
+1	Friendly
+in Yugoslavia	+9
+-9	1877
+1907	+1
+0	10
+7
+May 13
+1980	West Germany
+Poland	3
+1	Friendly
+in West Germany	+6
+-6	2037
+1901	0
+0	1
+7
+May 28
+1980	Poland
+Scotland	1
+0	Friendly
+in Poland	+4
+-4	1905
+1746	0
+0	7
+22
+June 22
+1980	Poland
+Iraq	3
+0	Friendly
+in Poland	+5
+-5	1910
+1670	+1
+-2	7
+34
+June 29
+1980	Brazil
+Poland	1
+1	Friendly
+in Brazil	-5
++5	1992
+1915	0
+0	2
+7
+July 02
+1980	Bolivia
+Poland	0
+1	Friendly
+in Bolivia	-4
++4	1587
+1919	-1
+0	51
+7
+July 09
+1980	Colombia
+Poland	1
+4	Friendly
+in Colombia	-6
++6	1555
+1925	-2
+0	59
+7
+September 24
+1980	Poland
+Czechoslovakia	1
+1	Friendly
+in Poland	-4
++4	1921
+1891	-1
+0	8
+10
+October 12
+1980	Argentina
+Poland	2
+1	Friendly
+in Argentina	+6
+-6	1955
+1915	0
+0	4
+8
+November 12
+1980	Spain
+Poland	1
+2	Friendly
+in Spain	-10
++10	1801
+1925	-1
+0	16
+8
+November 19
+1980	Poland
+Algeria	5
+1	Friendly
+in Poland	+3
+-3	1928
+1608	+2
+-1	6
+44
+December 07
+1980	Malta
+Poland	0
+2	World Cup qualifier
+in Malta	-2
++2	1247
+1930	-1
++1	134
+6
+March 25
+1981	Romania
+Poland	2
+0	Friendly
+in Romania	+17
+-17	1802
+1913	+2
+-3	18
+8
+May 02
+1981	Poland
+East Germany	1
+0	World Cup qualifier
+in Poland	+13
+-13	1926
+1881	+2
+0	5
+10
+May 24
+1981	Poland
+Ireland	3
+0	Friendly
+in Poland	+5
+-5	1931
+1694	+1
+-1	4
+29
+September 02
+1981	Poland
+West Germany	0
+2	Friendly
+in Poland	-15
++15	1916
+2035	0
+0	5
+2
+September 23
+1981	Portugal
+Poland	2
+0	Friendly
+in Portugal	+18
+-18	1762
+1898	+4
+-1	20
+6
+October 10
+1981	East Germany
+Poland	2
+3	World Cup qualifier
+in East Germany	-25
++25	1859
+1923	-4
++1	11
+5
+October 28
+1981	Argentina
+Poland	1
+2	Friendly
+in Argentina	-14
++14	1972
+1937	0
+0	3
+5
+November 15
+1981	Poland
+Malta	6
+0	World Cup qualifier
+in Poland	+1
+-1	1938
+1321	0
+0	5
+109
+November 18
+1981	Poland
+Spain	2
+3	Friendly
+in Poland	-16
++16	1922
+1822	0
++2	5
+15
+June 14
+1982	Italy
+Poland	0
+0	World Cup
+in Spain	+6
+-6	1854
+1916	+2
+-1	11
+6
+June 19
+1982	Cameroon
+Poland	0
+0	World Cup
+in Spain	+20
+-20	1656
+1896	+2
+-1	36
+7
+June 22
+1982	Poland
+Peru	5
+1	World Cup
+in Spain	+33
+-33	1929
+1708	+2
+-1	6
+24
+June 28
+1982	Poland
+Belgium	3
+0	World Cup
+in Spain	+48
+-48	1977
+1852	+2
+-3	4
+10
+July 04
+1982	Poland
+Soviet Union	0
+0	World Cup
+in Spain	0
+0	1977
+1974	0
+0	4
+5
+July 08
+1982	Italy
+Poland	2
+0	World Cup
+in Spain	+52
+-52	1971
+1925	+1
+-2	5
+6
+July 10
+1982	Poland
+France	3
+2	World Cup
+in Spain	+29
+-29	1954
+1882	0
+-1	6
+8
+August 31
+1982	France
+Poland	0
+4	Friendly
+in France	-20
++20	1862
+1974	0
++1	8
+5
+September 08
+1982	Finland
+Poland	2
+3	European Cup qualifier
+in Finland	-3
++3	1432
+1977	0
+0	84
+5
+October 10
+1982	Portugal
+Poland	2
+1	European Cup qualifier
+in Portugal	+29
+-29	1746
+1948	+2
+-2	24
+6
+March 23
+1983	Poland
+Bulgaria	3
+1	Friendly
+in Poland	+3
+-3	1951
+1643	0
+0	6
+40
+April 17
+1983	Poland
+Finland	1
+1	European Cup qualifier
+in Poland	-19
++19	1932
+1432	-1
++2	6
+86
+May 22
+1983	Poland
+Soviet Union	1
+1	European Cup qualifier
+in Poland	-2
++2	1930
+1993	0
+0	6
+2
+September 07
+1983	Poland
+Romania	2
+2	Friendly
+in Poland	-6
++6	1924
+1787	0
+0	5
+20
+October 09
+1983	Soviet Union
+Poland	2
+0	European Cup qualifier
+in the Soviet Union	+16
+-16	2023
+1908	0
+0	2
+5
+October 28
+1983	Poland
+Portugal	0
+1	European Cup qualifier
+in Poland	-33
++33	1875
+1765	-3
++2	8
+23
+January 11
+1984	India
+Poland	1
+2	Nehru Gold Cup
+in India	-2
++2	1251
+1877	0
+0	136
+7
+January 15
+1984	Poland
+China	1
+0	Nehru Gold Cup
+in India	+5
+-5	1882
+1547	+1
+-2	6
+57
+January 17
+1984	Argentina
+Poland	1
+1	Nehru Gold Cup
+in India	0
+0	1887
+1882	0
+0	5
+6
+January 27
+1984	Poland
+China	1
+0	Nehru Gold Cup
+in India	+6
+-6	1888
+1576	0
+-2	5
+51
+March 27
+1984	Switzerland
+Poland	1
+1	Friendly
+in Switzerland	+2
+-2	1722
+1886	0
+0	29
+6
+April 17
+1984	Poland
+Belgium	1
+0	Friendly
+in Poland	+6
+-6	1892
+1837	0
+0	6
+9
+May 23
+1984	Ireland
+Poland	0
+0	Friendly
+in Ireland	+3
+-3	1679
+1889	0
+0	34
+6
+August 29
+1984	Norway
+Poland	1
+1	Friendly
+in Norway	+5
+-5	1583
+1884	0
+0	51
+6
+September 12
+1984	Finland
+Poland	0
+2	Friendly
+in Finland	-3
++3	1429
+1887	-1
+0	84
+6
+September 26
+1984	Poland
+Turkey	2
+0	Friendly
+in Poland	+2
+-2	1889
+1534	0
+0	6
+58
+October 17
+1984	Poland
+Greece	3
+1	World Cup qualifier
+in Poland	+5
+-5	1894
+1558	0
+-1	6
+55
+October 31
+1984	Poland
+Albania	2
+2	World Cup qualifier
+in Poland	-19
++19	1875
+1382	0
++3	6
+95
+December 08
+1984	Italy
+Poland	2
+0	Friendly
+in Italy	+13
+-13	1838
+1862	+2
+-1	10
+7
+February 05
+1985	Mexico
+Poland	5
+0	Friendly tournament
+in Mexico	+32
+-32	1776
+1830	+3
+-2	22
+10
+February 06
+1985	Bulgaria
+Poland	2
+2	Friendly tournament
+in Mexico	+5
+-5	1715
+1825	-1
+-1	32
+11
+February 10
+1985	Colombia
+Poland	1
+2	Friendly
+in Colombia	-6
++6	1566
+1831	-1
++1	56
+10
+February 14
+1985	Colombia
+Poland	1
+0	Friendly
+in Colombia	+14
+-14	1580
+1817	+3
+-1	53
+11
+March 27
+1985	Romania
+Poland	0
+0	Friendly
+in Romania	-1
++1	1754
+1818	+1
++1	25
+10
+April 17
+1985	Poland
+Finland	2
+1	Friendly
+in Poland	+1
+-1	1819
+1434	-1
+0	11
+83
+May 01
+1985	Belgium
+Poland	2
+0	World Cup qualifier
+in Belgium	+27
+-27	1780
+1792	+5
+-6	20
+16
+May 19
+1985	Greece
+Poland	1
+4	World Cup qualifier
+in Greece	-25
++25	1567
+1817	-7
++5	56
+11
+May 30
+1985	Albania
+Poland	0
+1	World Cup qualifier
+in Albania	-6
++6	1415
+1823	-1
++1	86
+10
+August 21
+1985	Sweden
+Poland	1
+0	Friendly
+in Sweden	+7
+-7	1821
+1816	+2
+-1	11
+12
+September 04
+1985	Czechoslovakia
+Poland	3
+1	Friendly
+in Czechoslovakia	+14
+-14	1743
+1802	0
+-5	29
+17
+September 11
+1985	Poland
+Belgium	0
+0	World Cup qualifier
+in Poland	-7
++7	1795
+1787	0
++1	17
+20
+November 16
+1985	Poland
+Italy	1
+0	Friendly
+in Poland	+9
+-9	1804
+1842	+3
+-1	16
+8
+December 08
+1985	Tunisia
+Poland	1
+0	Friendly
+in Tunisia	+13
+-13	1602
+1791	+4
+-3	44
+19
+December 11
+1985	Turkey
+Poland	1
+1	Friendly
+in Turkey	+6
+-6	1465
+1785	0
+-4	82
+23
+February 16
+1986	Uruguay
+Poland	2
+2	Friendly
+in Uruguay	-4
++4	1824
+1789	-1
++1	15
+21
+March 26
+1986	Spain
+Poland	3
+0	Friendly
+in Spain	+10
+-10	1857
+1779	+3
+-1	7
+21
+May 16
+1986	Denmark
+Poland	1
+0	Friendly
+in Denmark	+6
+-6	1846
+1773	+1
+-1	8
+23
+June 02
+1986	Morocco
+Poland	0
+0	World Cup
+in Mexico	+13
+-13	1631
+1760	+2
+-4	39
+27
+June 07
+1986	Poland
+Portugal	1
+0	World Cup
+in Mexico	+34
+-34	1794
+1774	+6
+-9	20
+24
+June 11
+1986	England
+Poland	3
+0	World Cup
+in Mexico	+39
+-39	1921
+1755	+4
+-10	3
+27
+June 16
+1986	Brazil
+Poland	4
+0	World Cup
+in Mexico	+28
+-28	1978
+1727	+1
+-1	2
+27
+October 07
+1986	Poland
+North Korea	2
+2	Friendly
+in Poland	-5
++5	1722
+1623	-1
++1	28
+43
+October 15
+1986	Poland
+Greece	2
+1	European Cup qualifier
+in Poland	+8
+-8	1730
+1575	+1
+-3	27
+56
+November 12
+1986	Poland
+Ireland	1
+0	Friendly
+in Poland	+6
+-6	1736
+1690	+2
+-1	25
+32
+November 19
+1986	Netherlands
+Poland	0
+0	European Cup qualifier
+in the Netherlands	-11
++11	1837
+1747	-2
+0	11
+25
+March 18
+1987	Poland
+Finland	3
+1	Friendly
+in Poland	+4
+-4	1751
+1517	+2
+-2	22
+66
+March 24
+1987	Poland
+Norway	4
+1	Friendly
+in Poland	+8
+-8	1759
+1645	+2
+0	20
+39
+April 12
+1987	Poland
+Cyprus	0
+0	European Cup qualifier
+in Poland	-19
++19	1740
+1252	-4
++5	25
+128
+April 29
+1987	Greece
+Poland	1
+0	European Cup qualifier
+in Greece	+20
+-20	1658
+1720	+2
+-2	38
+27
+May 17
+1987	Hungary
+Poland	5
+3	European Cup qualifier
+in Hungary	+21
+-21	1745
+1699	0
+-3	25
+30
+August 19
+1987	Poland
+East Germany	2
+0	Friendly
+in Poland	+14
+-14	1713
+1756	+2
+-2	28
+23
+September 02
+1987	Poland
+Romania	3
+1	Friendly
+in Poland	+16
+-16	1729
+1829	+2
+-2	26
+14
+September 23
+1987	Poland
+Hungary	3
+2	European Cup qualifier
+in Poland	+15
+-15	1744
+1722	+2
+-4	24
+28
+October 14
+1987	Poland
+Netherlands	0
+2	European Cup qualifier
+in Poland	-30
++30	1714
+1871	-5
++5	29
+7
+October 27
+1987	Czechoslovakia
+Poland	3
+1	Friendly
+in Czechoslovakia	+9
+-9	1784
+1705	0
+-2	19
+31
+November 11
+1987	Cyprus
+Poland	0
+1	European Cup qualifier
+in Cyprus	-5
++5	1246
+1710	-3
++2	132
+29
+February 06
+1988	Poland
+Romania	2
+2	Friendly tournament
+in Israel	+5
+-5	1715
+1833	0
+0	28
+12
+February 10
+1988	Israel
+Poland	1
+3	Friendly tournament
+in Israel	-17
++17	1518
+1732	-4
++1	64
+27
+March 23
+1988	Northern Ireland
+Poland	1
+1	Friendly
+in Northern Ireland	-1
++1	1660
+1733	+1
+0	37
+27
+May 22
+1988	Ireland
+Poland	3
+1	Friendly
+in Ireland	+9
+-9	1793
+1724	+2
+0	18
+27
+June 01
+1988	Soviet Union
+Poland	2
+1	Friendly
+in the Soviet Union	+3
+-3	1931
+1721	+1
+0	2
+27
+July 13
+1988	United States
+Poland	0
+2	Friendly
+in the United States	-9
++9	1458
+1730	0
+0	78
+27
+July 15
+1988	Canada
+Poland	1
+2	Friendly
+in Canada	-7
++7	1524
+1737	0
+0	63
+27
+August 24
+1988	Poland
+Bulgaria	3
+2	Friendly
+in Poland	+8
+-8	1745
+1763	+1
+0	26
+22
+September 21
+1988	East Germany
+Poland	1
+2	Friendly
+in East Germany	-13
++13	1755
+1758	-3
++3	25
+24
+October 19
+1988	Poland
+Albania	1
+0	World Cup qualifier
+in Poland	+2
+-2	1760
+1382	0
+0	25
+97
+February 08
+1989	Costa Rica
+Poland	2
+4	Friendly
+in Costa Rica	-10
++10	1535
+1770	-3
++1	61
+22
+February 12
+1989	Guatemala
+Poland	0
+1	Friendly
+in Guatemala	-6
++6	1527
+1776	-3
++2	65
+20
+February 14
+1989	Mexico
+Poland	3
+1	Friendly
+in Mexico	+8
+-8	1850
+1768	+1
+-2	10
+22
+April 12
+1989	Poland
+Romania	2
+1	Friendly
+in Poland	+10
+-10	1778
+1862	+2
+0	21
+8
+May 02
+1989	Norway
+Poland	0
+3	Friendly
+in Norway	-14
++14	1593
+1792	-1
++2	47
+20
+May 07
+1989	Sweden
+Poland	2
+1	World Cup qualifier
+in Sweden	+9
+-9	1927
+1783	0
+-2	6
+22
+June 03
+1989	England
+Poland	3
+0	World Cup qualifier
+in England	+17
+-17	1894
+1766	0
+-2	7
+23
+August 23
+1989	Poland
+Soviet Union	1
+1	Friendly
+in Poland	+2
+-2	1768
+1943	+1
+0	22
+4
+September 05
+1989	Poland
+Greece	3
+0	Friendly
+in Poland	+7
+-7	1775
+1617	0
+0	22
+41
+September 20
+1989	Spain
+Poland	1
+0	Friendly
+in Spain	+5
+-5	1873
+1770	+2
+0	9
+21
+October 11
+1989	Poland
+England	0
+0	World Cup qualifier
+in Poland	+2
+-2	1772
+1898	0
+0	21
+6
+October 25
+1989	Poland
+Sweden	0
+2	World Cup qualifier
+in Poland	-29
++29	1743
+1918	-3
++3	24
+5
+November 15
+1989	Albania
+Poland	1
+2	World Cup qualifier
+in Albania	-7
++7	1366
+1750	-1
++1	103
+23
+February 02
+1990	Iran
+Poland	0
+2	Friendly
+in Iran	-11
++11	1556
+1761	-4
++2	54
+21
+February 04
+1990	Iran
+Poland	0
+1	Friendly
+in Iran	-7
++7	1549
+1768	-2
+0	56
+21
+February 11
+1990	Kuwait
+Poland	1
+1	Friendly
+in Egypt	+7
+-7	1497
+1761	+1
+0	71
+21
+March 28
+1990	Poland
+Yugoslavia	0
+0	Friendly
+in Poland	+1
+-1	1762
+1880	0
++1	22
+9
+May 04
+1990	Colombia
+Poland	2
+1	Friendly tournament
+in the United States	+15
+-15	1786
+1747	0
+-2	20
+24
+May 06
+1990	Poland
+Costa Rica	2
+0	Friendly tournament
+in the United States	+12
+-12	1759
+1558	+2
+-3	22
+53
+May 09
+1990	United States
+Poland	3
+1	Friendly
+in the United States	+21
+-21	1543
+1738	+4
+-4	59
+26
+May 19
+1990	Scotland
+Poland	1
+1	Friendly
+in Scotland	-2
++2	1694
+1740	0
++1	30
+25
+May 21
+1990	Poland
+United Arab Emirates	4
+0	Friendly
+in France	+7
+-7	1747
+1466	+1
+-3	24
+76
+June 06
+1990	Belgium
+Poland	1
+1	Friendly
+in Belgium	-4
++4	1805
+1751	0
++1	17
+23
+August 15
+1990	France
+Poland	0
+0	Friendly
+in France	-5
++5	1860
+1756	0
+0	8
+22
+September 26
+1990	Romania
+Poland	2
+1	Friendly
+in Romania	+5
+-5	1844
+1751	+1
+0	10
+22
+October 10
+1990	Poland
+United States	2
+3	Friendly
+in Poland	-18
++18	1733
+1528	-2
++5	24
+60
+October 17
+1990	England
+Poland	2
+0	European Cup qualifier
+in England	+9
+-9	1950
+1724	0
+-2	3
+26
+November 14
+1990	Turkey
+Poland	0
+1	European Cup qualifier
+in Turkey	-18
++18	1569
+1742	-2
++2	52
+24
+December 19
+1990	Greece
+Poland	1
+2	Friendly
+in Greece	-11
++11	1654
+1753	0
+0	33
+24
+February 06
+1991	Northern Ireland
+Poland	3
+1	Friendly
+in Northern Ireland	+17
+-17	1624
+1736	+8
+0	37
+24
+March 13
+1991	Poland
+Finland	1
+1	Friendly
+in Poland	-6
++6	1730
+1585	0
++1	24
+49
+March 27
+1991	Czechoslovakia
+Poland	4
+0	Friendly
+in Czechoslovakia	+8
+-8	1869
+1722	+1
+-1	9
+25
+April 17
+1991	Poland
+Turkey	3
+0	European Cup qualifier
+in Poland	+14
+-14	1736
+1562	+1
+-2	24
+53
+May 01
+1991	Ireland
+Poland	0
+0	European Cup qualifier
+in Ireland	-12
++12	1862
+1748	-2
++1	10
+23
+May 29
+1991	Poland
+Wales	0
+0	Friendly
+in Poland	-4
++4	1744
+1720	-1
++2	24
+27
+August 14
+1991	Poland
+France	1
+5	Friendly
+in Poland	-15
++15	1729
+1923	-3
++1	27
+5
+August 21
+1991	Poland
+Sweden	2
+0	Friendly
+in Poland	+14
+-14	1743
+1793	+3
+-1	24
+17
+September 11
+1991	Netherlands
+Poland	1
+1	Friendly
+in the Netherlands	-6
++6	1896
+1749	-1
++1	8
+23
+October 16
+1991	Poland
+Ireland	3
+3	European Cup qualifier
+in Poland	+1
+-1	1750
+1860	+2
+-1	22
+11
+November 13
+1991	Poland
+England	1
+1	European Cup qualifier
+in Poland	+6
+-6	1756
+1951	0
+0	22
+3
+December 03
+1991	Egypt
+Poland	4
+0	Friendly
+in Egypt	+21
+-21	1640
+1735	+2
+-3	39
+25
+December 05
+1991	Egypt
+Poland	0
+0	Friendly
+in Egypt	0
+0	1640
+1735	0
+0	38
+25
+December 09
+1991	Kuwait
+Poland	0
+2	Friendly
+in Kuwait	-9
++9	1482
+1744	-2
++2	70
+23
+March 25
+1992	Poland
+Lithuania	2
+0	Friendly
+in Poland	+1
+-1	1745
+1194	0
+0	23
+149
+May 07
+1992	Sweden
+Poland	5
+0	Friendly
+in Sweden	+13
+-13	1786
+1732	+1
+-2	18
+25
+May 19
+1992	Austria
+Poland	2
+4	Friendly
+in Austria	-12
++12	1560
+1744	-1
++2	53
+24
+May 27
+1992	Poland
+Czechoslovakia	1
+0	Friendly
+in Poland	+9
+-9	1753
+1814	+1
+-1	22
+13
+July 05
+1992	Guatemala
+Poland	2
+2	Friendly
+in Guatemala	+5
+-5	1454
+1748	0
+-1	79
+23
+August 26
+1992	Finland
+Poland	0
+0	Friendly
+in Finland	+3
+-3	1546
+1745	0
++1	59
+21
+September 09
+1992	Poland
+Israel	1
+1	Friendly
+in Poland	-6
++6	1739
+1615	-4
++2	25
+45
+September 23
+1992	Poland
+Turkey	1
+0	World Cup qualifier
+in Poland	+6
+-6	1745
+1547	+2
+-1	23
+59
+October 14
+1992	Netherlands
+Poland	2
+2	World Cup qualifier
+in the Netherlands	-13
++13	1916
+1758	0
++2	5
+21
+November 18
+1992	Poland
+Latvia	1
+0	Friendly
+in Poland	+1
+-1	1759
+1399	0
+-1	21
+99
+November 26
+1992	Argentina
+Poland	2
+0	Friendly
+in Argentina	+4
+-4	1998
+1755	0
+-1	1
+22
+November 29
+1992	Uruguay
+Poland	0
+1	Friendly
+in Uruguay	-15
++15	1831
+1770	-2
++2	14
+20
+February 01
+1993	Cyprus
+Poland	0
+0	Friendly
+in Cyprus	+8
+-8	1301
+1762	+3
+0	122
+20
+February 03
+1993	Israel
+Poland	0
+0	Friendly
+in Israel	+3
+-3	1550
+1759	+1
+0	59
+20
+March 17
+1993	Brazil
+Poland	2
+2	Friendly
+in Brazil	-7
++7	1958
+1766	0
++1	3
+19
+March 31
+1993	Poland
+Lithuania	1
+1	Friendly
+in Poland	-9
++9	1757
+1319	-1
++4	20
+120
+April 13
+1993	Poland
+Finland	2
+1	Friendly
+in Poland	+2
+-2	1759
+1493	0
+0	19
+73
+April 28
+1993	Poland
+San Marino	1
+0	World Cup qualifier
+in Poland	0
+0	1759
+1000	-2
+0	22
+183
+May 19
+1993	San Marino
+Poland	0
+3	World Cup qualifier
+in San Marino	-2
++2	998
+1761	0
++1	183
+21
+May 29
+1993	Poland
+England	1
+1	World Cup qualifier
+in Poland	+3
+-3	1764
+1908	+1
+0	20
+6
+September 08
+1993	England
+Poland	3
+0	World Cup qualifier
+in England	+19
+-19	1852
+1745	+2
+-1	11
+24
+September 22
+1993	Norway
+Poland	1
+0	World Cup qualifier
+in Norway	+12
+-12	1797
+1733	+1
+0	19
+24
+October 13
+1993	Poland
+Norway	0
+3	World Cup qualifier
+in Poland	-39
++39	1694
+1836	-6
++6	30
+13
+October 27
+1993	Turkey
+Poland	2
+1	World Cup qualifier
+in Turkey	+25
+-25	1522
+1669	+11
+-2	64
+32
+November 17
+1993	Poland
+Netherlands	1
+3	World Cup qualifier
+in Poland	-16
++16	1653
+1954	-5
+0	37
+3
+February 09
+1994	Spain
+Poland	1
+1	Friendly
+in Spain	-7
++7	1862
+1660	0
++2	9
+35
+March 23
+1994	Greece
+Poland	0
+0	Friendly
+in Greece	-4
++4	1693
+1664	0
++2	29
+33
+April 13
+1994	Poland
+Saudi Arabia	1
+0	Friendly
+in France	+10
+-10	1674
+1651	+1
+0	33
+37
+May 04
+1994	Poland
+Hungary	3
+2	Friendly
+in Poland	+5
+-5	1679
+1580	+1
+-1	32
+52
+May 17
+1994	Poland
+Austria	3
+4	Friendly
+in Poland	-15
++15	1664
+1611	-2
++1	33
+47
+August 17
+1994	Poland
+Belarus	1
+1	Friendly
+in Poland	-8
++8	1656
+1403	-2
+0	35
+102
+September 04
+1994	Israel
+Poland	2
+1	European Cup qualifier
+in Israel	+22
+-22	1551
+1634	+3
+-2	59
+37
+October 12
+1994	Poland
+Azerbaijan	1
+0	European Cup qualifier
+in Poland	+4
+-4	1638
+1365	-1
+-1	37
+113
+November 16
+1994	Poland
+France	0
+0	European Cup qualifier
+in Poland	+7
+-7	1645
+1861	+3
+-1	35
+11
+December 07
+1994	Saudi Arabia
+Poland	0
+2	Friendly
+in Saudi Arabia	-22
++22	1705
+1667	0
++4	28
+31
+December 10
+1994	Saudi Arabia
+Poland	1
+2	Friendly
+in Saudi Arabia	-14
++14	1691
+1681	0
++1	28
+30
+March 15
+1995	Poland
+Lithuania	4
+1	Friendly
+in Poland	+4
+-4	1685
+1410	+1
+-1	28
+102
+March 29
+1995	Romania
+Poland	2
+1	European Cup qualifier
+in Romania	+8
+-8	1841
+1677	+2
+-1	16
+29
+April 25
+1995	Poland
+Israel	4
+3	European Cup qualifier
+in Poland	+10
+-10	1687
+1573	+1
+-3	28
+53
+June 07
+1995	Poland
+Slovakia	5
+0	European Cup qualifier
+in Poland	+21
+-21	1708
+1584	0
+-1	28
+47
+June 29
+1995	Brazil
+Poland	2
+1	Friendly
+in Brazil	+1
+-1	2056
+1707	0
+0	1
+28
+August 16
+1995	France
+Poland	1
+1	European Cup qualifier
+in France	-13
++13	1865
+1720	-1
+0	7
+28
+September 06
+1995	Poland
+Romania	0
+0	European Cup qualifier
+in Poland	+2
+-2	1722
+1847	0
+0	28
+8
+October 11
+1995	Slovakia
+Poland	4
+1	European Cup qualifier
+in Slovakia	+38
+-38	1632
+1684	+7
+-1	39
+29
+November 15
+1995	Azerbaijan
+Poland	0
+0	European Cup qualifier
+in Turkey	+16
+-16	1333
+1668	+3
+-3	122
+32
+February 19
+1996	Japan
+Poland	5
+0	Carlsberg Cup
+in Hong Kong	+33
+-33	1670
+1635	+3
+-2	34
+37
+February 28
+1996	Croatia
+Poland	2
+1	Friendly
+in Croatia	+3
+-3	1827
+1632	0
+-1	15
+39
+March 27
+1996	Poland
+Slovenia	0
+0	Friendly
+in Poland	-5
++5	1627
+1545	-2
++1	41
+62
+May 01
+1996	Poland
+Belarus	1
+1	Friendly
+in Poland	-7
++7	1620
+1437	0
++3	41
+91
+June 02
+1996	Russia
+Poland	2
+0	Friendly
+in Russia	+3
+-3	1879
+1617	0
+-1	8
+40
+June 20
+1996	Argentina
+Poland	2
+0	Friendly
+in Argentina	+5
+-5	1803
+1612	0
+-1	18
+42
+June 27
+1996	Brazil
+Poland	3
+1	Friendly
+in Brazil	+1
+-1	2041
+1611	0
+0	2
+42
+August 27
+1996	Poland
+Cyprus	2
+2	Friendly
+in Poland	-8
++8	1603
+1361	-4
+0	47
+115
+September 04
+1996	Poland
+Germany	0
+2	Friendly
+in Poland	-3
++3	1600
+2064	0
+0	47
+1
+September 25
+1996	Poland
+United Arab Emirates	1
+0	Friendly
+in Poland	+6
+-6	1606
+1551	+2
+-1	45
+61
+October 09
+1996	England
+Poland	2
+1	World Cup qualifier
+in England	+4
+-4	1907
+1602	0
+-3	7
+49
+November 10
+1996	Poland
+Moldova	2
+1	World Cup qualifier
+in Poland	+6
+-6	1608
+1383	+4
+-6	46
+110
+February 14
+1997	Lithuania
+Poland	0
+0	Friendly tournament
+in Cyprus	+6
+-6	1458
+1602	0
+-3	88
+52
+February 15
+1997	Cyprus
+Poland	2
+3	Friendly tournament
+in Cyprus	-11
++11	1398
+1613	-5
++5	104
+47
+February 17
+1997	Poland
+Latvia	3
+2	Friendly tournament
+in Cyprus	+6
+-6	1619
+1375	+3
+-5	44
+116
+February 26
+1997	Brazil
+Poland	4
+2	Friendly
+in Brazil	+1
+-1	2040
+1618	0
+-1	2
+46
+March 12
+1997	Czechia
+Poland	2
+1	Friendly
+in Czechia	+2
+-2	1888
+1616	0
+-1	10
+49
+April 02
+1997	Poland
+Italy	0
+0	World Cup qualifier
+in Poland	+12
+-12	1628
+1947	+5
+0	45
+5
+April 30
+1997	Italy
+Poland	3
+0	World Cup qualifier
+in Italy	+6
+-6	1953
+1622	0
+-1	5
+49
+May 22
+1997	Sweden
+Poland	2
+2	Friendly
+in Sweden	-7
++7	1806
+1629	0
++1	16
+48
+May 31
+1997	Poland
+England	0
+2	World Cup qualifier
+in Poland	-16
++16	1613
+1924	-2
++2	50
+6
+June 14
+1997	Poland
+Georgia	4
+1	World Cup qualifier
+in Poland	+18
+-18	1631
+1515	+3
+-5	46
+70
+September 06
+1997	Poland
+Hungary	1
+0	Friendly
+in Poland	+6
+-6	1637
+1567	0
+-1	45
+60
+September 24
+1997	Poland
+Lithuania	2
+0	Friendly
+in Poland	+5
+-5	1642
+1471	0
+-1	45
+79
+October 07
+1997	Moldova
+Poland	0
+3	World Cup qualifier
+in Moldova	-17
++17	1333
+1659	-4
++4	121
+40
+October 11
+1997	Georgia
+Poland	3
+0	World Cup qualifier
+in Georgia	+36
+-36	1582
+1623	+9
+-9	54
+49
+February 08
+1998	Paraguay
+Poland	4
+0	Friendly
+in Paraguay	+9
+-9	1729
+1614	+1
+0	29
+49
+February 25
+1998	Israel
+Poland	2
+0	Friendly
+in Israel	+12
+-12	1600
+1602	+2
+-2	54
+52
+March 25
+1998	Poland
+Slovenia	2
+0	Friendly
+in Poland	+6
+-6	1608
+1469	0
+-4	54
+81
+April 22
+1998	Croatia
+Poland	4
+1	Friendly
+in Croatia	+5
+-5	1825
+1603	0
+-1	16
+55
+May 27
+1998	Poland
+Russia	3
+1	Friendly
+in Poland	+21
+-21	1624
+1821	+3
+-2	51
+16
+July 15
+1998	Ukraine
+Poland	1
+2	Friendly
+in Ukraine	-14
++14	1641
+1638	-3
++4	42
+44
+August 18
+1998	Poland
+Israel	2
+0	Friendly
+in Poland	+11
+-11	1649
+1629	+5
+-3	40
+47
+September 06
+1998	Bulgaria
+Poland	0
+3	European Cup qualifier
+in Bulgaria	-49
++49	1652
+1698	-12
++12	41
+29
+October 10
+1998	Poland
+Luxembourg	3
+0	European Cup qualifier
+in Poland	+2
+-2	1700
+1164	0
+0	28
+162
+November 10
+1998	Slovakia
+Poland	1
+3	Friendly
+in Slovakia	-17
++17	1628
+1717	-4
++3	50
+26
+February 03
+1999	Malta
+Poland	0
+1	Friendly
+in Malta	-2
++2	1184
+1719	0
+0	155
+27
+February 10
+1999	Finland
+Poland	1
+1	Friendly
+in Malta	+5
+-5	1534
+1714	0
+-1	64
+29
+March 03
+1999	Poland
+Armenia	1
+0	Friendly
+in Poland	+2
+-2	1716
+1396	+1
+0	28
+107
+March 27
+1999	England
+Poland	3
+1	European Cup qualifier
+in England	+10
+-10	1907
+1706	0
+-1	9
+30
+March 31
+1999	Poland
+Sweden	0
+1	European Cup qualifier
+in Poland	-17
++17	1689
+1876	-6
++2	36
+12
+April 28
+1999	Poland
+Czechia	2
+1	Friendly
+in Poland	+13
+-13	1702
+1879	+6
+0	30
+11
+June 04
+1999	Poland
+Bulgaria	2
+0	European Cup qualifier
+in Poland	+17
+-17	1719
+1623	+4
+-8	26
+53
+June 09
+1999	Luxembourg
+Poland	2
+3	European Cup qualifier
+in Luxembourg	-3
++3	1157
+1722	-1
+-1	164
+28
+June 19
+1999	New Zealand
+Poland	0
+0	Friendly tournament
+in Thailand	+7
+-7	1551
+1715	+1
+0	61
+27
+August 18
+1999	Poland
+Spain	1
+2	Friendly
+in Poland	-6
++6	1709
+1968	-1
++1	30
+3
+September 08
+1999	Poland
+England	0
+0	European Cup qualifier
+in Poland	+4
+-4	1713
+1882	+1
+-2	29
+11
+October 09
+1999	Sweden
+Poland	2
+0	European Cup qualifier
+in Sweden	+11
+-11	1879
+1702	+1
+-2	12
+31
+January 26
+2000	Spain
+Poland	3
+0	Friendly
+in Spain	+4
+-4	1972
+1698	0
+-1	3
+31
+February 23
+2000	France
+Poland	1
+0	Friendly
+in France	+2
+-2	2008
+1696	0
++2	2
+30
+March 29
+2000	Hungary
+Poland	0
+0	Friendly
+in Hungary	+1
+-1	1562
+1695	0
+-1	59
+31
+April 26
+2000	Poland
+Finland	0
+0	Friendly
+in Poland	-6
++6	1689
+1549	-5
++1	36
+61
+June 04
+2000	Netherlands
+Poland	3
+1	Friendly
+in Switzerland	+6
+-6	1930
+1683	0
+0	4
+37
+August 16
+2000	Romania
+Poland	1
+1	Friendly
+in Romania	-6
++6	1796
+1689	-1
++2	16
+36
+September 02
+2000	Ukraine
+Poland	1
+3	World Cup qualifier
+in Ukraine	-38
++38	1652
+1727	-11
++11	46
+25
+October 07
+2000	Poland
+Belarus	3
+1	World Cup qualifier
+in Poland	+4
+-4	1731
+1379	-1
+0	27
+109
+October 11
+2000	Poland
+Wales	0
+0	World Cup qualifier
+in Poland	-15
++15	1716
+1519	-4
++7	31
+67
+November 15
+2000	Poland
+Iceland	1
+0	Friendly
+in Poland	+4
+-4	1720
+1563	+3
+0	28
+61
+February 28
+2001	Switzerland
+Poland	0
+4	Friendly
+in Cyprus	-16
++16	1658
+1736	-3
+0	46
+30
+March 24
+2001	Norway
+Poland	2
+3	World Cup qualifier
+in Norway	-29
++29	1766
+1765	-7
++7	22
+23
+March 28
+2001	Poland
+Armenia	4
+0	World Cup qualifier
+in Poland	+5
+-5	1770
+1403	+2
+-1	22
+99
+April 25
+2001	Poland
+Scotland	1
+1	Friendly
+in Poland	-4
++4	1766
+1715	0
++1	22
+33
+June 02
+2001	Wales
+Poland	1
+2	World Cup qualifier
+in Wales	-12
++12	1508
+1778	-5
+0	72
+22
+June 06
+2001	Armenia
+Poland	1
+1	World Cup qualifier
+in Armenia	+13
+-13	1410
+1765	+1
+-1	99
+24
+August 15
+2001	Iceland
+Poland	1
+1	Friendly
+in Iceland	+3
+-3	1567
+1762	0
++1	60
+24
+September 01
+2001	Poland
+Norway	3
+0	World Cup qualifier
+in Poland	+21
+-21	1783
+1697	+5
+-6	19
+35
+September 05
+2001	Belarus
+Poland	4
+1	World Cup qualifier
+in Belarus	+58
+-58	1463
+1725	+14
+-11	86
+30
+October 06
+2001	Poland
+Ukraine	1
+1	World Cup qualifier
+in Poland	-8
++8	1717
+1676	-1
++1	32
+42
+November 14
+2001	Poland
+Cameroon	0
+0	Friendly
+in Poland	-3
++3	1714
+1708	0
++1	31
+37
+February 10
+2002	Poland
+Faroe Islands	2
+1	Friendly
+in Cyprus	+1
+-1	1715
+1199	0
+-1	33
+154
+February 13
+2002	Poland
+Northern Ireland	4
+1	Friendly
+in Cyprus	+8
+-8	1723
+1499	+4
+0	29
+74
+March 27
+2002	Poland
+Japan	0
+2	Friendly
+in Poland	-14
++14	1709
+1855	-4
++3	34
+8
+April 17
+2002	Poland
+Romania	1
+2	Friendly
+in Poland	-11
++11	1698
+1785	-3
++1	37
+22
+May 18
+2002	Poland
+Estonia	1
+0	Friendly
+in Poland	+2
+-2	1700
+1361	0
+-1	39
+116
+June 04
+2002	South Korea
+Poland	2
+0	World Cup
+in South Korea	+31
+-31	1743
+1669	+3
+-3	29
+38
+June 10
+2002	Portugal
+Poland	4
+0	World Cup
+in South Korea	+23
+-23	1926
+1646	+1
+-4	6
+42
+June 14
+2002	Poland
+United States	3
+1	World Cup
+in South Korea	+66
+-66	1712
+1758	+5
+-10	36
+26
+August 21
+2002	Poland
+Belgium	1
+1	Friendly
+in Poland	-1
++1	1711
+1795	-1
+0	36
+21
+September 07
+2002	San Marino
+Poland	0
+2	European Cup qualifier
+in San Marino	-1
++1	925
+1712	0
++1	195
+35
+October 12
+2002	Poland
+Latvia	0
+1	European Cup qualifier
+in Poland	-37
++37	1675
+1432	-2
++14	37
+94
+October 16
+2002	Poland
+New Zealand	2
+0	Friendly
+in Poland	+8
+-8	1683
+1587	+1
+-2	37
+57
+November 20
+2002	Denmark
+Poland	2
+0	Friendly
+in Denmark	+5
+-5	1865
+1678	+1
+0	9
+37
+February 12
+2003	Croatia
+Poland	0
+0	Friendly
+in Croatia	-5
++5	1757
+1683	-2
+-1	26
+38
+February 14
+2003	Poland
+Macedonia	3
+0	Friendly
+in Croatia	+7
+-7	1690
+1430	0
+-1	38
+96
+March 29
+2003	Poland
+Hungary	0
+0	European Cup qualifier
+in Poland	-12
++12	1678
+1563	0
+0	37
+61
+April 02
+2003	Poland
+San Marino	5
+0	European Cup qualifier
+in Poland	+1
+-1	1679
+920	0
+0	37
+196
+April 30
+2003	Belgium
+Poland	3
+1	Friendly
+in Belgium	+9
+-9	1745
+1670	+5
+-2	24
+40
+June 06
+2003	Poland
+Kazakhstan	3
+0	Friendly
+in Poland	+4
+-4	1674
+1396	0
+-1	40
+108
+June 11
+2003	Sweden
+Poland	3
+0	European Cup qualifier
+in Sweden	+15
+-15	1815
+1659	+2
++1	16
+39
+August 20
+2003	Estonia
+Poland	1
+2	Friendly
+in Estonia	-5
++5	1384
+1664	-3
++1	109
+39
+September 06
+2003	Latvia
+Poland	0
+2	European Cup qualifier
+in Latvia	-18
++18	1402
+1682	-4
++3	102
+36
+September 10
+2003	Poland
+Sweden	0
+2	European Cup qualifier
+in Poland	-28
++28	1654
+1828	-4
++4	40
+15
+October 11
+2003	Hungary
+Poland	1
+2	European Cup qualifier
+in Hungary	-19
++19	1509
+1673	-2
++1	72
+39
+November 12
+2003	Poland
+Italy	3
+1	Friendly
+in Poland	+21
+-21	1694
+1889	+2
+-1	36
+9
+November 16
+2003	Poland
+Serbia and Montenegro	4
+3	Friendly
+in Poland	+8
+-8	1702
+1702	+3
+-2	32
+32
+December 11
+2003	Malta
+Poland	0
+4	Friendly
+in Malta	-3
++3	1196
+1705	-2
+0	156
+32
+December 14
+2003	Poland
+Lithuania	3
+1	Friendly
+in Malta	+4
+-4	1709
+1391	+1
+-1	31
+107
+February 18
+2004	Poland
+Slovenia	2
+0	Friendly
+in Spain	+12
+-12	1721
+1621	+4
+-2	29
+49
+February 21
+2004	Poland
+Faroe Islands	6
+0	Friendly
+in Spain	+2
+-2	1723
+1191	0
+0	29
+158
+March 31
+2004	Poland
+United States	0
+1	Friendly
+in Poland	-11
++11	1712
+1804	-4
++2	33
+15
+April 28
+2004	Poland
+Ireland	0
+0	Friendly
+in Poland	0
+0	1712
+1816	0
+0	33
+14
+May 29
+2004	Poland
+Greece	1
+0	Friendly
+in Poland	+9
+-9	1721
+1758	+1
+-2	32
+24
+June 05
+2004	Sweden
+Poland	3
+1	Friendly
+in Sweden	+9
+-9	1773
+1712	0
+-1	21
+31
+July 11
+2004	United States
+Poland	1
+1	Friendly
+in the United States	-5
++5	1818
+1717	0
++1	15
+30
+August 18
+2004	Poland
+Denmark	1
+5	Friendly
+in Poland	-18
++18	1699
+1849	0
++3	31
+11
+September 04
+2004	Northern Ireland
+Poland	0
+3	World Cup qualifier
+in Northern Ireland	-24
++24	1458
+1723	-10
+0	91
+31
+September 08
+2004	Poland
+England	1
+2	World Cup qualifier
+in Poland	-14
++14	1709
+1947	-1
++2	31
+4
+October 09
+2004	Austria
+Poland	1
+3	World Cup qualifier
+in Austria	-33
++33	1615
+1742	-10
++2	53
+29
+October 13
+2004	Wales
+Poland	2
+3	World Cup qualifier
+in Wales	-18
++18	1593
+1760	-4
++1	58
+28
+November 17
+2004	France
+Poland	0
+0	Friendly
+in France	-7
++7	1957
+1767	+1
++3	2
+25
+February 09
+2005	Poland
+Belarus	1
+3	Friendly
+in Poland	-25
++25	1742
+1594	-3
++6	28
+59
+March 26
+2005	Poland
+Azerbaijan	8
+0	World Cup qualifier
+in Poland	+5
+-5	1747
+1336	0
+-2	28
+123
+March 30
+2005	Poland
+Northern Ireland	1
+0	World Cup qualifier
+in Poland	+4
+-4	1751
+1455	0
+-1	27
+89
+April 27
+2005	Poland
+Mexico	1
+1	Friendly
+in the United States	+3
+-3	1754
+1870	0
+0	27
+11
+May 29
+2005	Poland
+Albania	1
+0	Friendly
+in Poland	+2
+-2	1756
+1468	0
+0	27
+84
+June 04
+2005	Azerbaijan
+Poland	0
+3	World Cup qualifier
+in Azerbaijan	-9
++9	1325
+1765	-2
++2	124
+25
+August 15
+2005	Poland
+Serbia and Montenegro	3
+2	Friendly tournament
+in Ukraine	+14
+-14	1779
+1729	+1
+-2	23
+28
+August 17
+2005	Poland
+Israel	3
+2	Friendly tournament
+in Ukraine	+11
+-11	1790
+1677	+4
+-1	19
+43
+September 03
+2005	Poland
+Austria	3
+2	World Cup qualifier
+in Poland	+8
+-8	1798
+1639	-1
+-1	20
+50
+September 07
+2005	Poland
+Wales	1
+0	World Cup qualifier
+in Poland	+5
+-5	1803
+1541	+2
+-1	18
+65
+October 07
+2005	Poland
+Iceland	3
+2	Friendly
+in Poland	+2
+-2	1805
+1477	0
+0	18
+86
+October 12
+2005	England
+Poland	2
+1	World Cup qualifier
+in England	+9
+-9	1923
+1796	+1
+0	5
+19
+November 13
+2005	Poland
+Ecuador	3
+0	Friendly
+in Spain	+15
+-15	1811
+1735	+1
+-5	17
+33
+November 16
+2005	Poland
+Estonia	3
+1	Friendly
+in Poland	+1
+-1	1812
+1397	+1
+0	16
+99
+March 01
+2006	United States
+Poland	1
+0	Friendly
+in Germany	+9
+-9	1842
+1803	0
+-5	13
+20
+March 28
+2006	Saudi Arabia
+Poland	1
+2	Friendly
+in Saudi Arabia	-7
++7	1605
+1810	-1
++2	54
+18
+May 02
+2006	Poland
+Lithuania	0
+1	Friendly
+in Poland	-19
++19	1791
+1463	-4
++5	22
+88
+May 14
+2006	Poland
+Faroe Islands	4
+0	Friendly
+in Poland	+1
+-1	1792
+1176	0
+0	21
+162
+May 30
+2006	Poland
+Colombia	1
+2	Friendly
+in Poland	-14
++14	1778
+1753	-2
++3	22
+30
+June 03
+2006	Poland
+Croatia	1
+0	Friendly
+in Germany	+11
+-11	1789
+1814	+1
+-2	21
+15
+June 09
+2006	Ecuador
+Poland	2
+0	World Cup
+in Germany	+59
+-59	1736
+1730	+11
+-13	33
+34
+June 14
+2006	Germany
+Poland	1
+0	World Cup
+in Germany	+11
+-11	1899
+1719	+1
+-2	9
+35
+June 20
+2006	Poland
+Costa Rica	2
+1	World Cup
+in Germany	+23
+-23	1742
+1616	+5
+-1	29
+51
+August 16
+2006	Denmark
+Poland	2
+0	Friendly
+in Denmark	+6
+-6	1872
+1736	0
+0	10
+30
+September 02
+2006	Poland
+Finland	1
+3	European Cup qualifier
+in Poland	-48
++48	1688
+1642	-11
++6	41
+48
+September 06
+2006	Poland
+Serbia	1
+1	European Cup qualifier
+in Poland	-4
++4	1684
+1721	-1
+0	42
+34
+October 07
+2006	Kazakhstan
+Poland	0
+1	European Cup qualifier
+in Kazakhstan	-8
++8	1331
+1692	-2
+0	121
+42
+October 11
+2006	Poland
+Portugal	2
+1	European Cup qualifier
+in Poland	+26
+-26	1718
+1867	+7
+-2	34
+10
+November 15
+2006	Belgium
+Poland	0
+1	European Cup qualifier
+in Belgium	-23
++23	1646
+1741	-4
++4	47
+30
+December 06
+2006	United Arab Emirates
+Poland	2
+5	Friendly
+in United Arab Emirates	-10
++10	1481
+1751	-2
++2	83
+28
+February 03
+2007	Poland
+Estonia	4
+0	Friendly
+in Spain	+4
+-4	1755
+1374	+1
+0	27
+104
+February 07
+2007	Poland
+Slovakia	2
+2	Friendly
+in Spain	-2
++2	1753
+1688	+1
+0	27
+42
+March 24
+2007	Poland
+Azerbaijan	5
+0	European Cup qualifier
+in Poland	+4
+-4	1757
+1341	+1
+-4	26
+119
+March 28
+2007	Poland
+Armenia	1
+0	European Cup qualifier
+in Poland	+2
+-2	1759
+1357	0
+0	26
+113
+June 02
+2007	Azerbaijan
+Poland	1
+3	European Cup qualifier
+in Azerbaijan	-10
++10	1362
+1769	-5
++2	111
+24
+June 06
+2007	Armenia
+Poland	1
+0	European Cup qualifier
+in Armenia	+34
+-34	1417
+1735	+7
+-8	98
+32
+August 22
+2007	Russia
+Poland	2
+2	Friendly
+in Russia	-4
++4	1759
+1739	-1
++2	26
+30
+September 08
+2007	Portugal
+Poland	2
+2	European Cup qualifier
+in Portugal	-12
++12	1869
+1751	-2
++1	12
+29
+September 12
+2007	Finland
+Poland	0
+0	European Cup qualifier
+in Finland	+1
+-1	1634
+1750	0
+0	49
+27
+October 13
+2007	Poland
+Kazakhstan	3
+1	European Cup qualifier
+in Poland	+3
+-3	1753
+1329	+1
+-1	26
+127
+October 17
+2007	Poland
+Hungary	0
+1	Friendly
+in Poland	-17
++17	1736
+1594	-8
++1	34
+58
+November 17
+2007	Poland
+Belgium	2
+0	European Cup qualifier
+in Poland	+13
+-13	1749
+1602	+8
+-2	26
+55
+November 21
+2007	Serbia
+Poland	2
+2	European Cup qualifier
+in Serbia	-4
++4	1721
+1753	+1
+-1	35
+27
+December 15
+2007	Poland
+Bosnia and Herzegovina	1
+0	Friendly
+in Turkey	+4
+-4	1757
+1511	0
+0	27
+75
+February 02
+2008	Poland
+Finland	1
+0	Friendly
+in Cyprus	+7
+-7	1764
+1655	+3
+0	25
+41
+February 06
+2008	Poland
+Czechia	2
+0	Friendly
+in Cyprus	+21
+-21	1785
+1881	+6
+-1	19
+9
+February 27
+2008	Poland
+Estonia	2
+0	Friendly
+in Poland	+1
+-1	1786
+1371	0
+0	19
+111
+March 26
+2008	Poland
+United States	0
+3	Friendly
+in Poland	-24
++24	1762
+1784	-6
++11	25
+18
+May 26
+2008	Macedonia
+Poland	1
+1	Friendly
+in Germany	+6
+-6	1538
+1756	+1
+-1	72
+27
+May 27
+2008	Poland
+Albania	1
+0	Friendly
+in Germany	+3
+-3	1759
+1450	0
+-1	27
+95
+June 01
+2008	Poland
+Denmark	1
+1	Friendly
+in Poland	-2
++2	1757
+1790	+1
+0	27
+17
+June 08
+2008	Germany
+Poland	2
+0	European Cup
+in Austria	+20
+-20	1952
+1737	+1
+-5	6
+30
+June 12
+2008	Austria
+Poland	1
+1	European Cup
+in Austria	+5
+-5	1565
+1732	+1
+0	61
+29
+June 16
+2008	Croatia
+Poland	1
+0	European Cup
+in Austria	+14
+-14	1903
+1718	+1
+-5	8
+37
+August 20
+2008	Ukraine
+Poland	1
+0	Friendly
+in Ukraine	+7
+-7	1729
+1711	+3
+-1	32
+37
+September 06
+2008	Poland
+Slovenia	1
+1	World Cup qualifier
+in Poland	-14
++14	1697
+1526	-2
++2	38
+78
+September 10
+2008	San Marino
+Poland	0
+2	World Cup qualifier
+in San Marino	-1
++1	901
+1698	0
+-1	196
+39
+October 11
+2008	Poland
+Czechia	2
+1	World Cup qualifier
+in Poland	+22
+-22	1720
+1811	+6
+-3	33
+15
+October 15
+2008	Slovakia
+Poland	2
+1	World Cup qualifier
+in Slovakia	+22
+-22	1600
+1698	+3
+-3	55
+37
+November 19
+2008	Ireland
+Poland	2
+3	Friendly
+in Ireland	-14
++14	1741
+1712	-6
++1	31
+37
+December 14
+2008	Poland
+Serbia	1
+0	Friendly
+in Turkey	+11
+-11	1723
+1746	+2
+-3	35
+28
+February 07
+2009	Lithuania
+Poland	1
+1	Friendly
+in Portugal	+3
+-3	1607
+1720	+1
+0	53
+35
+February 11
+2009	Poland
+Wales	1
+0	Friendly
+in Portugal	+7
+-7	1727
+1617	-1
+-2	36
+51
+March 28
+2009	Northern Ireland
+Poland	3
+2	World Cup qualifier
+in Northern Ireland	+26
+-26	1545
+1701	+5
+-3	69
+38
+April 01
+2009	Poland
+San Marino	10
+0	World Cup qualifier
+in Poland	+1
+-1	1702
+893	-2
+0	40
+198
+June 06
+2009	South Africa
+Poland	1
+0	Friendly
+in South Africa	+13
+-13	1521
+1689	+2
+-1	78
+41
+June 09
+2009	Iraq
+Poland	1
+1	Friendly
+in South Africa	+5
+-5	1508
+1684	0
+-4	82
+45
+August 12
+2009	Poland
+Greece	2
+0	Friendly
+in Poland	+14
+-14	1698
+1751	+1
+-5	42
+28
+September 05
+2009	Poland
+Northern Ireland	1
+1	World Cup qualifier
+in Poland	-12
++12	1686
+1571	-2
+0	43
+62
+September 09
+2009	Slovenia
+Poland	3
+0	World Cup qualifier
+in Slovenia	+40
+-40	1572
+1646	+14
+-5	58
+48
+October 10
+2009	Czechia
+Poland	2
+0	World Cup qualifier
+in Czechia	+13
+-13	1784
+1633	+1
+-1	20
+49
+October 14
+2009	Poland
+Slovakia	0
+1	World Cup qualifier
+in Poland	-27
++27	1606
+1631	-5
++5	54
+49
+November 14
+2009	Poland
+Romania	0
+1	Friendly
+in Poland	-9
++9	1597
+1743	0
++4	54
+28
+November 18
+2009	Poland
+Canada	1
+0	Friendly
+in Poland	+7
+-7	1604
+1588	0
+0	54
+55
+January 20
+2010	Thailand
+Poland	1
+3	King's Cup
+in Thailand	-20
++20	1451
+1624	-3
++4	95
+49
+January 23
+2010	Poland
+Singapore	6
+1	King's Cup
+in Thailand	+11
+-11	1635
+1355	0
+0	49
+118
+March 03
+2010	Poland
+Bulgaria	2
+0	Friendly
+in Poland	+14
+-14	1649
+1707	+3
+-3	46
+36
+May 29
+2010	Poland
+Finland	0
+0	Friendly
+in Poland	-4
++4	1645
+1625	-1
++1	47
+49
+June 02
+2010	Poland
+Serbia	0
+0	Friendly
+in Austria	+5
+-5	1650
+1811	+1
+0	46
+16
+June 08
+2010	Spain
+Poland	6
+0	Friendly
+in Spain	+2
+-2	2085
+1648	0
+0	2
+47
+August 11
+2010	Poland
+Cameroon	0
+3	Friendly
+in Poland	-23
++23	1625
+1649	-4
++3	50
+46
+September 04
+2010	Poland
+Ukraine	1
+1	Friendly
+in Poland	+2
+-2	1627
+1784	0
+0	48
+17
+September 07
+2010	Poland
+Australia	1
+2	Friendly
+in Poland	-9
++9	1618
+1764	-3
++3	51
+19
+October 09
+2010	United States
+Poland	2
+2	Friendly
+in the United States	-6
++6	1737
+1624	-1
++1	26
+49
+October 12
+2010	Ecuador
+Poland	2
+2	Friendly
+in Canada	-2
++2	1692
+1626	-1
+0	35
+49
+November 17
+2010	Poland
+Ivory Coast	3
+1	Friendly
+in Poland	+17
+-17	1643
+1759	+4
+-5	45
+21
+December 10
+2010	Bosnia and Herzegovina
+Poland	2
+2	Friendly
+in Turkey	+1
+-1	1602
+1642	0
+0	56
+46
+February 06
+2011	Poland
+Moldova	1
+0	Friendly
+in Portugal	+5
+-5	1647
+1433	+2
+-1	43
+100
+February 09
+2011	Poland
+Norway	1
+0	Friendly
+in Portugal	+14
+-14	1661
+1767	+1
+-4	42
+21
+March 25
+2011	Lithuania
+Poland	2
+0	Friendly
+in Lithuania	+15
+-15	1577
+1646	+5
+-2	61
+44
+March 29
+2011	Greece
+Poland	0
+0	Friendly
+in Greece	-5
++5	1729
+1651	0
++1	29
+44
+June 05
+2011	Poland
+Argentina	2
+1	Friendly
+in Poland	+15
+-15	1666
+1925	+3
+0	43
+5
+June 09
+2011	Poland
+France	0
+1	Friendly
+in Poland	-9
++9	1657
+1818	-2
+0	44
+14
+August 10
+2011	Poland
+Georgia	1
+0	Friendly
+in Poland	+4
+-4	1661
+1500	+3
+0	42
+80
+September 02
+2011	Poland
+Mexico	1
+1	Friendly
+in Poland	+2
+-2	1663
+1834	+2
+0	40
+12
+September 06
+2011	Poland
+Germany	2
+2	Friendly
+in Poland	+7
+-7	1670
+2031	+1
+0	39
+3
+October 07
+2011	South Korea
+Poland	2
+2	Friendly
+in South Korea	-6
++6	1781
+1676	0
++2	19
+37
+October 11
+2011	Poland
+Belarus	2
+0	Friendly
+in Germany	+11
+-11	1687
+1562	0
+-5	37
+67
+November 11
+2011	Poland
+Italy	0
+2	Friendly
+in Poland	-12
++12	1675
+1872	-2
++1	39
+9
+November 15
+2011	Poland
+Hungary	2
+1	Friendly
+in Poland	+7
+-7	1682
+1646	+1
+-4	38
+46
+February 29
+2012	Poland
+Portugal	0
+0	Friendly
+in Poland	+3
+-3	1685
+1871	0
+0	38
+8
+May 22
+2012	Poland
+Latvia	1
+0	Friendly
+in Austria	+5
+-5	1690
+1492	+2
+-2	36
+89
+May 26
+2012	Poland
+Slovakia	1
+0	Friendly
+in Austria	+7
+-7	1697
+1562	+2
+-3	34
+67
+June 02
+2012	Poland
+Andorra	4
+0	Friendly
+in Poland	0
+0	1697
+984	0
+0	36
+187
+June 08
+2012	Poland
+Greece	1
+1	European Cup
+in Poland	-3
++3	1694
+1758	-2
++1	37
+24
+June 12
+2012	Poland
+Russia	1
+1	European Cup
+in Poland	+5
+-5	1699
+1854	+1
+0	35
+11
+June 16
+2012	Poland
+Czechia	0
+1	European Cup
+in Poland	-29
++29	1670
+1779	-4
++2	39
+21
+August 15
+2012	Estonia
+Poland	1
+0	Friendly
+in Estonia	+12
+-12	1509
+1658	+4
+-4	83
+43
+September 07
+2012	Montenegro
+Poland	2
+2	World Cup qualifier
+in Montenegro	-3
++3	1607
+1661	-2
+0	55
+43
+September 11
+2012	Poland
+Moldova	2
+0	World Cup qualifier
+in Poland	+6
+-6	1667
+1365	+3
+-4	40
+116
+October 12
+2012	Poland
+South Africa	1
+0	Friendly
+in Poland	+5
+-5	1672
+1569	+1
+-2	39
+66
+October 17
+2012	Poland
+England	1
+1	World Cup qualifier
+in Poland	+9
+-9	1681
+1939	+3
+0	37
+6
+November 14
+2012	Poland
+Uruguay	1
+3	Friendly
+in Poland	-13
++13	1668
+1832	-2
++1	39
+16
+December 14
+2012	Poland
+Macedonia	4
+1	Friendly
+in Turkey	+10
+-10	1678
+1503	+2
+-1	37
+82
+February 02
+2013	Poland
+Romania	4
+1	Friendly
+in Spain	+20
+-20	1698
+1707	+5
+-2	34
+31
+February 06
+2013	Ireland
+Poland	2
+0	Friendly
+in Ireland	+11
+-11	1712
+1687	0
+-4	32
+38
+March 22
+2013	Poland
+Ukraine	1
+3	World Cup qualifier
+in Poland	-37
++37	1650
+1740	-8
++9	45
+26
+March 26
+2013	Poland
+San Marino	5
+0	World Cup qualifier
+in Poland	0
+0	1650
+860	-1
+0	46
+205
+June 04
+2013	Poland
+Liechtenstein	2
+0	Friendly
+in Poland	+1
+-1	1651
+1161	+1
+0	44
+163
+June 07
+2013	Moldova
+Poland	1
+1	World Cup qualifier
+in Moldova	+10
+-10	1361
+1641	+2
+-2	119
+46
+August 14
+2013	Poland
+Denmark	3
+2	Friendly
+in Poland	+9
+-9	1650
+1695	+1
+-3	45
+35
+September 06
+2013	Poland
+Montenegro	1
+1	World Cup qualifier
+in Poland	-7
++7	1643
+1629	-1
++1	46
+50
+September 10
+2013	San Marino
+Poland	1
+5	World Cup qualifier
+in San Marino	-1
++1	859
+1644	0
+-2	204
+48
+October 11
+2013	Ukraine
+Poland	1
+0	World Cup qualifier
+in Ukraine	+8
+-8	1793
+1636	+1
++2	21
+46
+October 15
+2013	England
+Poland	2
+0	World Cup qualifier
+in England	+6
+-6	1937
+1630	0
+-2	6
+48
+November 15
+2013	Poland
+Slovakia	0
+2	Friendly
+in Poland	-22
++22	1608
+1589	-6
++5	54
+57
+November 19
+2013	Poland
+Ireland	0
+0	Friendly
+in Poland	-1
++1	1607
+1687	+1
+-1	53
+36
+January 18
+2014	Poland
+Norway	3
+0	Friendly
+in United Arab Emirates	+17
+-17	1624
+1587	+2
+-2	51
+56
+January 20
+2014	Poland
+Moldova	1
+0	Friendly
+in United Arab Emirates	+4
+-4	1628
+1404	0
+0	51
+106
+March 05
+2014	Poland
+Scotland	0
+1	Friendly
+in Poland	-12
++12	1616
+1683	-1
++3	52
+39

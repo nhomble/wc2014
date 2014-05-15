@@ -1,0 +1,225 @@
+Bastian Schweinsteiger Bastian Schweinsteiger 
+Bayern München / Bundesliga 
+88	CM	63	81	86	83	80	74	3 	3 	 / 	 Right	37,500	2,139		
+Philipp Lahm Philipp Lahm 
+Bayern München / Bundesliga 
+87	RB	79	57	84	81	82	66	3 	3 	 / 	 Right	11,250	2,029		
+Mesut Ozil Mesut Ozil 
+Arsenal / Barclays PL 
+87	CAM	76	74	85	87	44	55	4 	2 	 / 	 Left	17,500	1,861		
+Mario Gomez Mario Gomez 
+Fiorentina / Serie A 
+86	ST	79	79	60	72	48	84	3 	4 	 / 	 Right	850	1,779		
+Manuel Neuer Manuel Neuer 
+Bayern München / Bundesliga 
+86	GK	85	82	91	87	50	82	1 	4 	 / 	 Right	35,500	981		
+Mats Hummels Mats Hummels 
+Borussia Dortmund / Bundesliga 
+85	CB	65	58	75	68	86	85	2 	3 	 / 	 Right	1,300	1,912		
+Marco Reus Marco Reus 
+Borussia Dortmund / Bundesliga 
+85	LM	91	86	80	86	47	60	4 	4 	 / 	 Right	46,000	1,953		
+Thomas Muller Thomas Muller 
+Bayern München / Bundesliga 
+85	RM	82	81	81	80	53	74	3 	4 	 / 	 Right	1,500	1,953		
+Mario Gotze Mario Gotze 
+Bayern München / Bundesliga 
+85	CAM	82	72	80	90	51	62	4 	4 	 / 	 Right	21,500	1,888		
+Rene Adler Rene Adler 
+Hamburger SV / Bundesliga 
+84	GK	86	81	76	86	46	83	1 	3 	 / 	 Right	1,100	937		
+Sami Khedira Sami Khedira 
+Real Madrid / Liga BBVA 
+84	CDM	59	71	74	64	84	78	2 	4 	 / 	 Right	700	1,932		
+Toni Kroos Toni Kroos 
+Bayern München / Bundesliga 
+84	CAM	57	83	85	83	62	56	3 	5 	 / 	 Right	1,600	1,962		
+Ilkay Gundogan Ilkay Gundogan 
+Borussia Dortmund / Bundesliga 
+84	CM	82	73	84	87	74	62	4 	4 	 / 	 Right	6,300	2,065		
+Roman Weidenfeller Roman Weidenfeller 
+Borussia Dortmund / Bundesliga 
+83	GK	83	84	60	85	38	86	1 	1 	 / 	 Left	1,000	929		
+Miroslav Klose Miroslav Klose 
+Lazio / Serie A 
+83	ST	75	75	62	75	46	86	2 	4 	 / 	 Right	850	1,765		
+Jerome Boateng Jerome Boateng 
+Bayern München / Bundesliga 
+83	CB	75	51	72	67	82	82	3 	4 	 / 	 Right	1,200	1,847		
+Benedikt Howedes Benedikt Howedes 
+FC Schalke 04 / Bundesliga 
+82	CB	65	47	68	64	83	82	2 	4 	 / 	 Right	850	1,751		
+Per Mertesacker Per Mertesacker 
+Arsenal / Barclays PL 
+82	CB	35	42	59	46	86	78	2 	3 	 / 	 Right	900	0		
+Stefan Kiessling Stefan Kiessling 
+Bayer 04 Leverkusen / Bundesliga 
+81	ST	67	79	70	69	58	83	3 	3 	 / 	 Right	700	1,831		
+Lars Bender Lars Bender 
+Bayer 04 Leverkusen / Bundesliga 
+81	CM	70	63	80	73	82	74	2 	3 	 / 	 Right	900	1,930		
+Sven Bender Sven Bender 
+Borussia Dortmund / Bundesliga 
+81	CDM	66	55	74	65	83	75	2 	4 	 / 	 Right	1,000	1,840		
+Jerome Boateng Jerome Boateng 
+Bayern München / Bundesliga 
+81	CB	75	50	72	67	79	82	3 	4 	 / 	 Right	1,200	1,769		
+Holger Badstuber Holger Badstuber 
+Bayern München / Bundesliga 
+81	CB	62	55	74	53	82	76	2 	3 	 / 	 Left	750	1,800		
+Per Mertesacker Per Mertesacker 
+Arsenal / Barclays PL 
+80	CB	34	41	57	39	84	75	2 	3 	 / 	 Right	700	1,464		
+Lukas Podolski Lukas Podolski 
+Arsenal / Barclays PL 
+80	LW	81	87	69	79	46	67	3 	2 	 / 	 Left	1,100	1,882		
+Andre Schurrle Andre Schurrle 
+Chelsea / Barclays PL 
+80	LM	88	82	75	84	50	68	4 	4 	 / 	 Right	2,200	1,935		
+Sebastian Kehl Sebastian Kehl 
+Borussia Dortmund / Bundesliga 
+79	CDM	56	61	74	65	81	79	2 	3 	 / 	 Left	700	1,855		
+Sidney Sam Sidney Sam 
+Bayer 04 Leverkusen / Bundesliga 
+78	RM	90	78	73	82	49	66	4 	3 	 / 	 Left	1,300	1,881		
+Marko Marin Marko Marin 
+Sevilla FC / Liga BBVA 
+78	CAM	81	70	75	86	35	42	4 	4 	 / 	 Right	650	1,712		
+Stefan Reinartz Stefan Reinartz 
+Bayer 04 Leverkusen / Bundesliga 
+78	CDM	60	53	71	49	82	75	2 	3 	 / 	 Right	700	1,711		
+Philipp Wollscheid Philipp Wollscheid 
+Bayer 04 Leverkusen / Bundesliga 
+78	CB	59	37	55	48	79	80	2 	4 	 / 	 Right	700	1,480		
+Robert Huth Robert Huth 
+Stoke City / Barclays PL 
+77	CB	51	54	55	37	79	78	2 	3 	 / 	 Right	700	1,547		
+Patrick Herrmann Patrick Herrmann 
+Borussia Mgladbach / Bundesliga 
+77	RM	91	71	71	80	44	60	3 	3 	 / 	 Right	900	1,807		
+Alexander Meier Alexander Meier 
+Eintracht Frankfurt / Bundesliga 
+76	CAM	61	79	75	73	62	70	3 	2 	 / 	 Right	650	1,864		
+Hanno Balitsch Hanno Balitsch 
+1. FC Nürnberg / Bundesliga 
+74	CDM	55	60	70	60	76	74	2 	4 	 / 	 Right	350	1,794		
+ Heinz Muller Heinz Muller 
+1. FSV Mainz 05 / Bundesliga 	
+74	GK	79	69	73	74	37	76	1 	4 	 / 	 Right	550	873		
+Mike Hanke Mike Hanke 
+SC Freiburg / Bundesliga 
+74	ST	67	71	69	69	53	79	2 	3 	 / 	 Right	2,900	1,752		
+Clemens Fritz Clemens Fritz 
+Werder Bremen / Bundesliga 
+74	RB	72	61	76	74	73	71	3 	3 	 / 	 Right	600	1,879		
+Christian Lell Christian Lell 
+Levante UD / Liga BBVA 
+74	RB	83	56	69	67	73	67	2 	2 	 / 	 Right	3,200	1,776		
+Daniel Baier Daniel Baier 
+FC Augsburg / Bundesliga 
+74	CDM	68	60	75	75	72	67	3 	3 	 / 	 Right	350	1,866		
+Christian Pander Christian Pander 
+Hannover 96 / Bundesliga 
+74	LB	71	75	79	72	73	70	3 	2 	 / 	 Left	1,700	1,974		
+Alexander Baumjohann Alexander Baumjohann 
+Hertha BSC / Bundesliga 
+74	CAM	68	69	71	76	47	61	3 	4 	 / 	 Right	450	1,718		
+Andreas Beck Andreas Beck 
+1899 Hoffenheim / Bundesliga 
+74	RB	76	49	74	73	72	68	3 	3 	 / 	 Right	600	1,780		
+Daniel Schwaab Daniel Schwaab 
+VfB Stuttgart / Bundesliga 
+74	CB	72	39	66	65	74	72	2 	4 	 / 	 Right	1,000	1,655		
+Johannes Flum Johannes Flum 
+Eintracht Frankfurt / Bundesliga 
+74	CDM	68	67	74	70	74	67	2 	3 	 / 	 Right	1,000	1,840		
+Jens Hegeler Jens Hegeler 
+Bayer 04 Leverkusen / Bundesliga 
+74	CM	62	56	77	73	70	72	3 	3 	 / 	 Right	1,000	1,735		
+Bastian Oczipka Bastian Oczipka 
+Eintracht Frankfurt / Bundesliga 
+74	LB	72	54	75	72	72	73	2 	3 	 / 	 Left	800	1,818		
+Tony Jantschke Tony Jantschke 
+Borussia Mgladbach / Bundesliga 
+74	RB	69	43	70	70	74	68	2 	3 	 / 	 Right	750	1,730		
+Sebastian Mielitz Sebastian Mielitz 
+Werder Bremen / Bundesliga 
+74	GK	76	72	72	76	39	71	1 	2 	 / 	 Right	900	901		
+Pierre-Michel Lasogga Pierre-Michel Lasogga 
+Hamburger SV / Bundesliga 
+74	ST	64	72	47	64	48	80	3 	3 	 / 	 Right	450	1,587
+Gonzalo Castro Gonzalo Castro 
+Bayer 04 Leverkusen / Bundesliga 
+80	RM	77	67	80	79	76	69	3 	4 	 / 	 Right	400	2,005		
+Patrick Ebert Patrick Ebert 
+Real Valladolid / Liga BBVA 
+80	RM	80	76	83	80	59	66	3 	4 	 / 	 Right	1,100	1,918		
+Marc-Andre ter Stegen Marc-Andre ter Stegen 
+Borussia Mgladbach / Bundesliga 
+80	GK	80	83	78	83	38	76	1 	4 	 / 	 Right	500	964		
+Bernd Leno Bernd Leno 
+Bayer 04 Leverkusen / Bundesliga 
+80	GK	82	78	84	84	46	77	1 	3 	 / 	 Right	600	952		
+Julian Draxler Julian Draxler 
+FC Schalke 04 / Bundesliga 
+80	CAM	78	78	79	85	45	54	4 	5 	 / 	 Right	800	1,819		
+Patrick Ebert Patrick Ebert 
+Spartak Moskva / Russian League 
+80	RM	80	76	83	80	59	66	3 	4 	 / 	 Right	400	1,918		
+Simon Rolfes Simon Rolfes 
+Bayer 04 Leverkusen / Bundesliga 
+79	CDM	58	65	79	66	79	76	2 	4 	 / 	 Left	400	1,894		
+Aaron Hunt Aaron Hunt 
+Werder Bremen / Bundesliga 
+79	CAM	78	76	76	79	55	67	3 	4 	 / 	 Left	400	1,893		
+Sven Ulreich Sven Ulreich 
+VfB Stuttgart / Bundesliga 
+79	GK	82	77	74	83	44	76	1 	3 	 / 	 Right	400	883		
+Kevin Trapp Kevin Trapp 
+Eintracht Frankfurt / Bundesliga 
+79	GK	80	78	77	82	45	78	1 	3 	 / 	 Right	400	911		
+ Max Kruse Max Kruse 
+Borussia Mgladbach / Bundesliga 	
+79	CF	75	81	75	80	54	66	3 	4 	 / 	 Left	400	0		
+Kevin Kuranyi Kevin Kuranyi 
+Dinamo Moskva / Russian League 
+78	ST	74	73	65	67	51	81	2 	3 	 / 	 Right	350	1,699		
+Patrick Helmes Patrick Helmes 
+1. FC Köln / Bundesliga 2 
+78	ST	77	79	62	73	45	72	2 	4 	 / 	 Right	350	1,750		
+Max Kruse Max Kruse 
+Borussia Mgladbach / Bundesliga 
+78	CF	74	79	74	79	54	65	3 	4 	 / 	 Left	500	1,880		
+Ron-Robert Zieler Ron-Robert Zieler 
+Hannover 96 / Bundesliga 
+78	GK	80	76	75	79	46	77	1 	2 	 / 	 Right	400	892		
+Lewis Holtby Lewis Holtby 
+Tottenham Hotspur / Barclays PL 
+78	CAM	72	72	78	80	65	66	4 	4 	 / 	 Left	700	1,941		
+Marcel Schmelzer Marcel Schmelzer 
+Borussia Dortmund / Bundesliga 
+78	LB	78	59	72	70	78	72	2 	2 	 / 	 Left	800	1,899		
+Oliver Baumann Oliver Baumann 
+SC Freiburg / Bundesliga 
+78	GK	80	75	73	81	47	75	1 	2 	 / 	 Right	400	907		
+Lewis Holtby Lewis Holtby 
+Fulham / Barclays PL 
+78	CAM	72	72	78	80	65	66	4 	4 	 / 	 Left	0	1,941		
+Heiko Westermann Heiko Westermann 
+Hamburger SV / Bundesliga 
+77	CB	68	56	68	58	79	80	2 	3 	 / 	 Right	400	1,768		
+Tim Wiese Tim Wiese 
+1899 Hoffenheim / Bundesliga 
+77	GK	81	74	56	85	38	72	1 	2 	 / 	 Right	1,100	932		
+Cacau Cacau 
+VfB Stuttgart / Bundesliga 
+77	ST	77	76	64	78	46	74	3 	3 	 / 	 Right	400	1,762		
+Jan Schlaudraff Jan Schlaudraff 
+Hannover 96 / Bundesliga 
+77	CF	79	76	76	80	42	56	4 	4 	 / 	 Right	400	1,786		
+Christian Gentner Christian Gentner 
+VfB Stuttgart / Bundesliga 
+77	CM	70	71	77	71	75	70	2 	4 	 / 	 Left	400	1,897		
+Serdar Tasci Serdar Tasci 
+Spartak Moskva / Russian League 
+77	CB	66	42	67	65	78	79	2 	4 	 / 	 Right	400	1,670

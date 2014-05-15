@@ -1,0 +1,225 @@
+Falcao Falcao 
+AS Monaco / Ligue 1 
+90	ST	78	86	61	81	54	89	4 	4 	 / 	 Right	30,500	1,961		
+James Rodriguez James Rodriguez 
+AS Monaco / Ligue 1 
+83	RW	79	79	82	85	55	66	4 	3 	 / 	 Left	1,200	1,952		
+Fredy Guarin Fredy Guarin 
+Inter / Serie A 
+81	CM	78	82	82	83	76	78	3 	3 	 / 	 Right	900	2,130		
+Juan Cuadrado Juan Cuadrado 
+Fiorentina / Serie A 
+81	RM	93	66	76	87	62	58	4 	3 	 / 	 Right	1,800	1,945		
+Jackson Martinez Jackson Martinez 
+FC Porto / Liga Portuguesa 
+81	ST	82	75	67	78	59	86	4 	4 	 / 	 Right	700	1,893		
+Luis Muriel Luis Muriel 
+Udinese / Serie A 
+80	ST	89	78	65	86	43	63	4 	4 	 / 	 Right	950	1,801		
+Cristian Zapata Cristian Zapata 
+Milan / Serie A 
+79	CB	73	38	60	51	81	80	2 	2 	 / 	 Right	750	1,591		
+Mario Yepes Mario Yepes 
+Atalanta / Serie A 
+78	CB	34	36	50	38	81	79	2 	3 	 / 	 Left	650	1,456		
+Pablo Armero Pablo Armero 
+Napoli / Serie A 
+78	LM	90	67	77	78	74	65	2 	2 	 / 	 Left	1,800	1,992		
+Pablo Armero Pablo Armero 
+West Ham United / Barclays PL 
+78	LB	90	67	77	78	74	65	2 	2 	 / 	 Left	700	1,992		
+Victor Ibarbo Victor Ibarbo 
+Cagliari / Serie A 
+77	ST	93	73	68	85	52	75	3 	3 	 / 	 Right	1,800	1,858		
+Luis Amaranto Perea Luis Amaranto Perea 
+Cruz Azul / LIGA Bancomer MX 
+74	CB	84	40	52	52	75	76	2 	3 	 / 	 Right	4,100	1,603		
+Elkin Soto Elkin Soto 
+1. FSV Mainz 05 / Bundesliga 
+74	CDM	62	65	76	77	72	60	3 	2 	 / 	 Left	1,300	1,890		
+Hugo Rodallega Hugo Rodallega 
+Fulham / Barclays PL 
+74	ST	78	74	66	75	48	78	3 	3 	 / 	 Right	700	1,816		
+Aquivaldo Mosquera Aquivaldo Mosquera 
+América / LIGA Bancomer MX 
+74	CB	63	44	60	58	74	78	2 	3 	 / 	 Right	750	1,586		
+Wason Renteria Wason Renteria 
+Millonarios FC / Liga Postobon 
+74	ST	83	70	60	77	50	71	3 	4 	 / 	 Left	2,900	1,694		
+Carlos Sanchez Carlos Sanchez 
+Elche CF / Liga BBVA 
+74	CDM	66	57	71	70	74	75	2 	3 	 / 	 Left	1,000	1,778		
+Carlos Darwin Quintero Carlos Darwin Quintero 
+Santos Laguna / LIGA Bancomer MX 
+74	CF	87	71	66	79	40	58	4 	4 	 / 	 Right	2,000	1,731		
+Fredy Montero Fredy Montero 
+Sporting CP / Liga Portuguesa 
+74	ST	78	75	64	77	48	61	4 	4 	 / 	 Right	500	1,802		
+Teofilo Gutierrez Teofilo Gutierrez 
+River Plate / Primera Division 
+74	ST	73	71	65	74	45	80	3 	3 	 / 	 Right	300	1,755		
+Wason Renteria Wason Renteria 
+Racing Club de Avellaneda / Primera Division 
+74	ST	83	70	60	77	50	71	3 	4 	 / 	 Left	0	1,694		
+Mauricio Molina Mauricio Molina 
+FC Seoul / K LEAGUE 
+73	CAM	58	74	73	73	39	52	4 	2 	 / 	 Left	800	1,664		
+Macnelly Torres Macnelly Torres 
+Al Shabab (Riyadh) / ALJ League 
+73	CAM	73	66	65	74	43	62	5 	4 	 / 	 Right	550	1,693		
+Jeison Murillo Jeison Murillo 
+Granada CF / Liga BBVA 
+73	CB	67	37	48	48	72	82	2 	2 	 / 	 Right	500	1,539		
+Duvier Riascos Duvier Riascos 
+Pachuca / LIGA Bancomer MX 
+73	ST	87	68	61	73	46	76	4 	3 	 / 	 Right	11,500	1,714
+Duvier Riascos Duvier Riascos 
+Monarcas Morelia / LIGA Bancomer MX 
+73	RW	87	68	61	73	46	76	4 	3 	 / 	 Right	1,100	1,714		
+Robinson Zapata Robinson Zapata 
+Millonarios FC / Liga Postobon 
+72	GK	71	67	65	79	45	75	1 	2 	 / 	 Right	2,500	845		
+Diego Arias Diego Arias 
+Atlético Nacional / Liga Postobon 
+72	CM	73	69	74	69	71	63	2 	4 	 / 	 Right	500	1,895		
+Robinson Zapata Robinson Zapata 
+Independiente Santa Fe / Liga Postobon 
+72	GK	71	67	65	79	45	75	1 	2 	 / 	 Right	400	845		
+Marco Perez Marco Perez 
+Independiente Medellín / Liga Postobon 
+72	ST	82	73	52	64	51	70	3 	3 	 / 	 Right	450	1,698		
+Edwin Valencia Edwin Valencia 
+Fluminense / Liga do Brasil 
+71	CDM	58	53	67	62	76	75	2 	3 	 / 	 Right	500	1,699		
+Jamison Olave Jamison Olave 
+New York Red Bulls / MLS 
+71	CB	75	44	52	49	74	75	2 	3 	 / 	 Right	1,900	1,541		
+Alexis Henriquez Alexis Henriquez 
+Atlético Nacional / Liga Postobon 
+71	CB	30	34	49	32	77	69	2 	3 	 / 	 Left	1,000	1,273		
+Faryd Mondragon Faryd Mondragon 
+Deportivo Cali / Liga Postobon 
+69	GK	62	76	62	63	23	80	1 	1 	 / 	 Right	500	816		
+Bernardo Espinosa Bernardo Espinosa 
+Real Sporting de Gijón / Liga Adelante 
+69	CB	44	26	36	33	69	72	2 	3 	 / 	 Right	450	1,218		
+Hernan Dario Burbano Hernan Dario Burbano 
+León / LIGA Bancomer MX 
+69	LM	92	62	61	74	44	52	4 	3 	 / 	 Left	2,200	1,650		
+Hernan Dario Burbano Hernan Dario Burbano 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+69	LM	92	62	61	74	44	52	4 	3 	 / 	 Left	550	1,650		
+Michael Ortega Michael Ortega 
+Junior Barranquilla / Liga Postobon 
+68	CAM	89	53	68	79	38	57	5 	3 	 / 	 Right	1,000	1,579		
+Jorge Perlaza Jorge Perlaza 
+Millonarios FC / Liga Postobon 
+68	ST	91	63	58	65	49	66	3 	4 	 / 	 Right	3,700	1,644		
+Jhon Alexander Valencia Jhon Alexander Valencia 
+Deportes Tolima / Liga Postobon 
+68	CB	49	26	47	40	72	74	2 	3 	 / 	 Right	800	1,246		
+Giovanni Hernandez Giovanni Hernandez 
+Independiente Medellín / Liga Postobon 
+67	CAM	59	66	65	70	41	52	3 	4 	 / 	 Right	300	1,620		
+Luis Fernando Mosquera Luis Fernando Mosquera 
+Deportivo Cali / Liga Postobon 
+67	ST	75	69	63	66	42	60	4 	4 	 / 	 Right	300	1,593		
+Jhon Viafara Jhon Viafara 
+Deportivo Cali / Liga Postobon 
+66	CM	64	57	64	60	72	71	2 	2 	 / 	 Right	500	1,680		
+Manuel Arboleda Manuel Arboleda 
+Lech Poznań / Ekstraklasa 
+66	CB	69	42	59	52	65	71	2 	3 	 / 	 Left	700	1,472		
+Juan Pablo Pino Juan Pablo Pino 
+Independiente Medellín / Liga Postobon 
+66	CAM	86	63	59	73	39	56	3 	4 	 / 	 Right	1,000	1,589		
+John Jairo Mosquera John Jairo Mosquera 
+Energie Cottbus / Bundesliga 2 
+65	ST	73	62	54	67	39	66	3 	4 	 / 	 Right	300	1,483		
+Fabian Castillo Fabian Castillo 
+FC Dallas / MLS 
+65	LM	88	60	57	75	47	56	4 	3 	 / 	 Left	500	1,621		
+Vladimir Marin Vladimir Marin 
+Deportivo Cali / Liga Postobon 
+64	LB	66	67	64	70	60	53	3 	2 	 / 	 Left	550	1,823		
+Juan Carlos Escobar Juan Carlos Escobar 
+Alianza Petrolera / Liga Postobon 
+64	RM	66	68	63	65	60	62	3 	3 	 / 	 Right	1,000,000	1,674		
+Marco Perez Marco Perez 
+Independiente Medellín / Liga Postobon 
+64	ST	82	64	52	57	46	68	3 	3 	 / 	 Right	5,300	1,537			
+Juan Camilo Zuniga Juan Camilo Zuniga 
+Napoli / Serie A 
+79	LM	88	66	77	82	73	62	3 	2 	 / 	 Right	750	1,997		
+Juan Fernando Quintero Juan Fernando Quintero 
+FC Porto / Liga Portuguesa 
+78	CAM	75	71	74	84	39	43	4 	2 	 / 	 Left	1,100	1,719		
+Adrian Ramos Adrian Ramos 
+Hertha BSC / Bundesliga 
+78	ST	86	71	70	77	49	86	3 	3 	 / 	 Right	550	1,867		
+Adrian Ramos Adrian Ramos 
+Hertha BSC / Bundesliga 
+76	ST	85	68	67	75	48	85	3 	3 	 / 	 Right	1,200	1,772		
+Abel Aguilar Abel Aguilar 
+Toulouse FC / Ligue 1 
+76	CDM	54	64	73	66	74	77	3 	3 	 / 	 Right	350	1,826		
+Carlos Bacca Carlos Bacca 
+Sevilla FC / Liga BBVA 
+76	ST	81	74	58	74	44	70	2 	2 	 / 	 Right	400	1,711		
+ Aldo Leao Ramirez Aldo Leao Ramirez 
+Monarcas Morelia / LIGA Bancomer MX 	
+75	CM	71	67	75	78	70	60	3 	3 	 / 	 Right	300	1,882		
+David Ferreira David Ferreira 
+FC Dallas / MLS 
+75	CAM	69	70	72	74	51	61	3 	4 	 / 	 Right	450	1,790		
+David Ospina David Ospina 
+OGC Nice / Ligue 1 
+75	GK	81	70	77	82	34	72	1 	3 	 / 	 Right	450	817		
+Dayro Moreno Dayro Moreno 
+Millonarios FC / Liga Postobon 
+75	CF	83	73	67	79	46	62	5 	4 	 / 	 Right	400	1,750		
+Dorlan Pabon Dorlan Pabon 
+Valencia CF / Liga BBVA 
+75	ST	85	74	59	78	41	62	4 	3 	 / 	 Right	1,600	1,720		
+David Ferreira David Ferreira 
+Independiente Santa Fe / Liga Postobon 
+75	CAM	69	70	72	74	51	61	3 	4 	 / 	 Right	350	1,790		
+Fernando Uribe Fernando Uribe 
+Atlético Nacional / Liga Postobon 
+73	ST	78	68	57	72	46	68	2 	4 	 / 	 Left	80,000	1,658		
+Juan Pablo Angel Juan Pablo Angel 
+Atlético Nacional / Liga Postobon 
+72	ST	47	70	51	65	51	70	3 	4 	 / 	 Right	200	1,600		
+Victor Hugo Montano Victor Hugo Montano 
+Montpellier HSC / Ligue 1 
+72	ST	77	70	64	72	53	72	3 	3 	 / 	 Right	650	1,749		
+Julian Viafara Julian Viafara 
+Deportes Quindío / Liga Postobon 
+71	GK	72	73	67	69	35	75	1 	2 	 / 	 Right	29,750	1,046		
+Carlos Valdes Carlos Valdes 
+Independiente Santa Fe / Liga Postobon 
+71	CB	67	37	48	60	74	69	2 	3 	 / 	 Right	3,900	1,515		
+Alvaro Dominguez Alvaro Dominguez 
+Deportivo Cali / Liga Postobon 
+71	CAM	48	70	68	76	46	68	3 	4 	 / 	 Right	250	1,679		
+Hanyer Mosquera Hanyer Mosquera 
+Once Caldas / Liga Postobon 
+71	CB	41	39	52	42	73	73	2 	2 	 / 	 Right	1,900	1,390		
+Santiago Arias Santiago Arias 
+PSV / Eredivisie 
+71	RB	81	42	64	71	70	67	2 	3 	 / 	 Right	3,300	1,680		
+Carlos Valdes Carlos Valdes 
+Philadelphia Union / MLS 
+71	CB	67	37	48	60	74	69	2 	3 	 / 	 Right	4,900	1,515		
+Carlos Valdes Carlos Valdes 
+San Lorenzo de Almagro / Primera Division 
+71	CB	67	37	48	60	74	69	2 	3 	 / 	 Right	400	1,515		
+Tressor Moreno Tressor Moreno 
+Junior Barranquilla / Liga Postobon 
+70	CAM	55	70	70	71	58	66	4 	4 	 / 	 Right	250	1,765		
+Luis Gabriel Rey Luis Gabriel Rey 
+América / LIGA Bancomer MX 
+70	ST	71	68	60	68	42	70	3 	3 	 / 	 Left	1,100	1,622		
+Jose Moreno Jose Moreno 
+La Equidad / Liga Postobon 
+70	ST	66	68	58	69	44	72	3 	2 	 / 	 Right	200	1,600		

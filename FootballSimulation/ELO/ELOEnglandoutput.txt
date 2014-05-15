@@ -1,0 +1,926 @@
+1872 340 away England Scotland 0 0 Friendly
+1873 70 home England Scotland 4 2 Friendly
+1874 69 away England Scotland 2 1 Friendly
+1875 68 home England Scotland 2 2 Friendly
+1876 66 away England Scotland 3 0 Friendly
+1877 65 home England Scotland 1 3 Friendly
+1878 64 away England Scotland 7 2 Friendly
+1879 18 home England Wales 2 1 Friendly
+1879 98 home England Scotland 5 4 Friendly
+1880 75 away England Scotland 5 4 Friendly
+1880 77 away England Wales 2 3 Friendly
+1881 57 home England Wales 0 1 Friendly
+1881 74 home England Scotland 1 6 Friendly
+1882 49 away England Ireland 0 13 Friendly
+1882 73 away England Scotland 5 1 Friendly
+1882 75 away England Wales 5 3 Friendly
+1883 34 home England Wales 5 0 Friendly
+1883 55 home England Ireland 7 0 Friendly
+1883 72 home England Scotland 2 3 Friendly
+1884 54 away England Ireland 1 8 British International Championship
+1884 77 away England Scotland 1 0 British International Championship
+1884 79 away England Wales 0 4 British International Championship
+1885 59 home England Ireland 4 0 British International Championship
+1885 76 home England Wales 1 1 British International Championship
+1885 83 home England Scotland 1 1 British International Championship
+1886 75 away England Ireland 1 6 British International Championship
+1886 89 away England Scotland 1 1 British International Championship
+1886 91 away England Wales 1 3 British International Championship
+1887 36 home England Ireland 7 0 British International Championship
+1887 57 home England Wales 4 0 British International Championship
+1887 81 home England Scotland 2 3 British International Championship
+1888 35 home England Wales 5 1 British International Championship
+1888 79 away England Scotland 0 5 British International Championship
+1888 93 away England Ireland 1 5 British International Championship
+1889 54 home England Wales 4 1 British International Championship
+1889 64 home England Ireland 6 1 British International Championship
+1889 106 home England Scotland 2 3 British International Championship
+1890 77 away England Ireland 1 9 British International Championship
+1890 77 away England Wales 1 3 British International Championship
+1890 98 away England Scotland 1 1 British International Championship
+1891 69 home England Ireland 6 1 British International Championship
+1891 69 home England Wales 4 1 British International Championship
+1891 99 home England Scotland 2 1 British International Championship
+1892 67 away England Ireland 0 2 British International Championship
+1892 67 away England Wales 0 2 British International Championship
+1892 95 away England Scotland 1 4 British International Championship
+1893 56 home England Ireland 6 1 British International Championship
+1893 75 home England Wales 6 0 British International Championship
+1893 94 home England Scotland 5 2 British International Championship
+1894 65 away England Ireland 2 2 British International Championship
+1894 74 away England Wales 1 5 British International Championship
+1894 100 away England Scotland 2 2 British International Championship
+1895 71 home England Ireland 9 0 British International Championship
+1895 80 home England Wales 1 1 British International Championship
+1895 99 home England Scotland 3 0 British International Championship
+1896 69 away England Ireland 0 2 British International Championship
+1896 78 away England Wales 1 9 British International Championship
+1896 97 away England Scotland 2 1 British International Championship
+1897 51 home England Ireland 6 0 British International Championship
+1897 91 home England Wales 4 0 British International Championship
+1897 96 home England Scotland 1 2 British International Championship
+1898 67 away England Ireland 2 3 British International Championship
+1898 90 away England Wales 0 3 British International Championship
+1898 95 away England Scotland 1 3 British International Championship
+1899 49 home England Ireland 13 2 British International Championship
+1899 82 home England Wales 4 0 British International Championship
+1899 101 home England Scotland 2 1 British International Championship
+1900 79 away England Ireland 0 2 British International Championship
+1900 88 away England Wales 1 1 British International Championship
+1900 100 away England Scotland 4 1 British International Championship
+1901 71 home England Ireland 3 0 British International Championship
+1901 80 home England Wales 6 0 British International Championship
+1901 92 home England Scotland 2 2 British International Championship
+1902 65 away England Wales 0 0 British International Championship
+1902 84 away England Ireland 0 1 British International Championship
+1902 127 home England Scotland 2 2 British International Championship
+1903 45 home England Ireland 4 0 British International Championship
+1903 64 home England Wales 2 1 British International Championship
+1903 97 home England Scotland 1 2 British International Championship
+1904 60 away England Wales 2 2 British International Championship
+1904 74 away England Ireland 1 3 British International Championship
+1904 102 away England Scotland 0 1 British International Championship
+1905 56 home England Ireland 1 1 British International Championship
+1905 89 home England Wales 3 1 British International Championship
+1905 94 home England Scotland 1 0 British International Championship
+1906 48 away England Ireland 0 5 British International Championship
+1906 81 away England Wales 0 1 British International Championship
+1906 100 away England Scotland 2 1 British International Championship
+1907 47 home England Ireland 1 0 British International Championship
+1907 80 home England Wales 1 1 British International Championship
+1907 99 home England Scotland 1 1 British International Championship
+1908 46 away England Ireland 1 3 British International Championship
+1908 78 away England Wales 1 7 British International Championship
+1908 97 away England Scotland 1 1 British International Championship
+1908 161 away England Austria 1 6 Friendly
+1908 163 away England Austria 1 11 Friendly
+1908 165 away England Hungary 0 7 Friendly
+1908 168 away England Bohemia 0 4 Friendly
+1909 44 home England Ireland 4 0 British International Championship
+1909 77 home England Wales 2 0 British International Championship
+1909 96 home England Scotland 2 0 British International Championship
+1909 153 away England Hungary 2 4 Friendly
+1909 155 away England Hungary 2 8 Friendly
+1909 156 away England Austria 1 8 Friendly
+1910 43 away England Ireland 1 1 British International Championship
+1910 76 away England Wales 0 1 British International Championship
+1910 95 away England Scotland 2 0 British International Championship
+1911 42 home England Ireland 2 1 British International Championship
+1911 75 home England Wales 3 0 British International Championship
+1911 94 home England Scotland 1 1 British International Championship
+1911 239 away England Russia 0 11 Friendly
+1912 41 away England Ireland 1 6 British International Championship
+1912 73 away England Wales 0 2 British International Championship
+1912 85 away England Scotland 1 1 British International Championship
+1913 46 away England Ireland 2 1 British International Championship
+1913 79 home England Wales 4 3 British International Championship
+1913 98 home England Scotland 1 0 British International Championship
+1914 45 home England Ireland 0 3 British International Championship
+1914 78 away England Wales 0 2 British International Championship
+1914 97 away England Scotland 3 1 British International Championship
+1919 304 away England Ireland 1 1 British International Championship
+1920 77 home England Wales 1 2 British International Championship
+1920 103 home England Scotland 5 4 British International Championship
+1920 302 home England Ireland 2 0 British International Championship
+1921 76 away England Wales 0 0 British International Championship
+1921 102 away England Scotland 3 0 British International Championship
+1921 145 away England Belgium 0 2 Friendly
+1921 301 away England Ireland 1 1 British International Championship
+1922 75 home England Wales 1 0 British International Championship
+1922 101 home England Scotland 0 1 British International Championship
+1922 300 home England Ireland 2 0 British International Championship
+1923 67 away England Wales 2 2 British International Championship
+1923 81 home England Belgium 6 1 Friendly
+1923 107 away England Scotland 2 2 British International Championship
+1923 134 away England France 1 4 Friendly
+1923 145 away England Sweden 2 4 Friendly
+1923 299 away England NorthernIreland 2 1 British International Championship
+1923 311 away England Belgium 2 2 Friendly
+1924 65 home England Wales 1 2 British International Championship
+1924 105 home England Scotland 1 1 British International Championship
+1924 141 away England France 1 3 Friendly
+1924 301 home England NorthernIreland 3 1 British International Championship
+1924 349 home England Belgium 4 0 Friendly
+1925 59 away England Wales 1 2 British International Championship
+1925 97 away England Scotland 2 0 British International Championship
+1925 145 away England France 2 3 Friendly
+1925 303 away England NorthernIreland 0 0 British International Championship
+1926 63 home England Wales 1 3 British International Championship
+1926 110 home England Scotland 0 1 British International Championship
+1926 148 away England Belgium 3 5 Friendly
+1926 299 home England NorthernIreland 3 3 British International Championship
+1927 43 away England Wales 3 3 British International Championship
+1927 95 away England Scotland 1 2 British International Championship
+1927 135 away England Belgium 1 9 Friendly
+1927 145 away England Luxembourg 2 5 Friendly
+1927 150 away England France 0 6 Friendly
+1927 301 away England NorthernIreland 2 0 British International Championship
+1927 338 home England Wales 1 2 British International Championship
+1928 93 home England Scotland 1 5 British International Championship
+1928 141 away England France 1 5 Friendly
+1928 143 away England Belgium 1 3 Friendly
+1928 301 home England NorthernIreland 2 1 British International Championship
+1928 327 away England Wales 2 3 British International Championship
+1929 106 away England Scotland 1 0 British International Championship
+1929 133 away England France 1 4 Friendly
+1929 135 away England Belgium 1 5 Friendly
+1929 139 away England Spain 4 3 Friendly
+1929 298 away England NorthernIreland 0 3 British International Championship
+1929 330 home England Wales 6 0 British International Championship
+1930 98 home England Scotland 5 2 British International Championship
+1930 134 away England Germany 3 3 Friendly
+1930 138 away England Austria 0 0 Friendly
+1930 299 home England NorthernIreland 5 1 British International Championship
+1930 332 away England Wales 0 4 British International Championship
+1931 90 away England Scotland 2 0 British International Championship
+1931 138 away England France 5 2 Friendly
+1931 140 away England Belgium 1 4 Friendly
+1931 296 away England NorthernIreland 2 6 British International Championship
+1931 328 home England Wales 3 1 British International Championship
+1931 350 home England Spain 7 1 Friendly
+1932 102 home England Scotland 3 0 British International Championship
+1932 296 home England NorthernIreland 1 0 British International Championship
+1932 326 away England Wales 0 0 British International Championship
+1932 348 home England Austria 4 3 Friendly
+1933 94 away England Scotland 2 1 British International Championship
+1933 137 away England Italy 1 1 Friendly
+1933 144 away England Switzerland 0 4 Friendly
+1933 293 away England NorthernIreland 0 3 British International Championship
+1933 325 home England Wales 1 2 British International Championship
+1933 347 home England France 4 1 Friendly
+1934 107 home England Scotland 3 0 British International Championship
+1934 134 away England Hungary 2 1 Friendly
+1934 140 away England Czechoslovakia 2 1 Friendly
+1934 277 away England Wales 0 4 British International Championship
+1934 324 home England Italy 3 2 Friendly
+1935 37 home England NorthernIreland 2 1 British International Championship
+1935 99 away England Scotland 2 0 British International Championship
+1935 142 away England Holland 0 1 Friendly
+1935 298 away England NorthernIreland 1 3 British International Championship
+1935 345 home England Germany 3 0 Friendly
+1936 36 home England Wales 1 2 British International Championship
+1936 97 home England Scotland 1 1 British International Championship
+1936 130 away England Austria 2 1 Friendly
+1936 133 away England Belgium 3 2 Friendly
+1936 296 away England Wales 2 1 British International Championship
+1936 328 home England NorthernIreland 3 1 British International Championship
+1936 343 home England Hungary 6 2 Friendly
+1937 110 away England Scotland 3 1 British International Championship
+1937 138 away England Norway 0 6 Friendly
+1937 141 away England Sweden 0 4 Friendly
+1937 144 away England Finland 0 8 Friendly
+1937 302 away England NorthernIreland 1 5 British International Championship
+1937 327 home England Wales 2 1 British International Championship
+1937 342 home England Czechoslovakia 5 4 Friendly
+1938 102 home England Scotland 0 1 British International Championship
+1938 138 away England Germany 3 6 Friendly
+1938 145 away England Switzerland 2 1 Friendly
+1938 150 away England France 2 4 Friendly
+1938 301 away England Wales 4 2 British International Championship
+1938 319 home England Norway 4 0 Friendly
+1938 326 home England NorthernIreland 7 0 British International Championship
+1939 108 away England Scotland 1 2 British International Championship
+1939 137 away England Italy 2 2 Friendly
+1939 142 away England Yugoslavia 2 1 Friendly
+1939 148 away England Romania 0 2 Friendly
+1946 276 away England NorthernIreland 2 7 British International Championship
+1946 278 away England Ireland 0 1 Friendly
+1946 323 home England Wales 3 0 British International Championship
+1946 337 home England Holland 8 2 Friendly
+1947 105 home England Scotland 1 1 British International Championship
+1947 127 home England France 3 0 Friendly
+1947 142 away England Switzerland 1 0 Friendly
+1947 149 away England Portugal 0 10 Friendly
+1947 269 away England Belgium 2 5 Friendly
+1947 297 away England Wales 0 3 British International Championship
+1947 315 home England NorthernIreland 2 2 British International Championship
+1947 329 home England Sweden 4 2 Friendly
+1948 103 away England Scotland 0 2 British International Championship
+1948 140 away England Italy 0 4 Friendly
+1948 274 away England Denmark 0 0 Friendly
+1948 288 away England NorthernIreland 2 6 British International Championship
+1948 320 home England Wales 1 0 British International Championship
+1948 343 home England Switzerland 6 0 Friendly
+1949 102 home England Scotland 1 3 British International Championship
+1949 137 away England Sweden 3 1 Friendly
+1949 142 away England Norway 1 4 Friendly
+1949 146 away England France 1 3 Friendly
+1949 269 home England Ireland 0 2 Friendly
+1949 294 away England Wales 1 4 World Cup qualifier
+1949 326 home England NorthernIreland 9 2 World Cup qualifier
+1949 340 home England Italy 2 0 Friendly
+1950 108 away England Scotland 0 1 World Cup qualifier
+1950 138 away England Portugal 3 5 Friendly
+1950 142 away England Belgium 1 4 Friendly
+1950 180 home England Chile 2 0 World Cup
+1950 184 away England UnitedStates 1 0 World Cup
+1950 188 away England Spain 1 0 World Cup
+1950 286 away England NorthernIreland 1 4 British International Championship
+1950 325 home England Wales 4 2 British International Championship
+1950 332 home England Yugoslavia 2 2 Friendly
+1951 107 home England Scotland 2 3 British International Championship
+1951 133 home England Argentina 2 1 Friendly
+1951 143 home England Portugal 5 2 Friendly
+1951 282 home England France 2 2 Friendly
+1951 299 away England Wales 1 1 British International Championship
+1951 324 home England NorthernIreland 2 0 British International Championship
+1951 338 home England Austria 2 2 Friendly
+1952 98 away England Scotland 1 2 British International Championship
+1952 142 away England Italy 1 1 Friendly
+1952 149 away England Austria 2 3 Friendly
+1952 152 away England Switzerland 0 3 Friendly
+1952 283 away England NorthernIreland 2 2 British International Championship
+1952 322 home England Wales 5 2 British International Championship
+1952 336 home England Belgium 5 0 Friendly
+1953 111 home England Scotland 2 2 British International Championship
+1953 138 away England Argentina 3 1 Friendly
+1953 141 away England Argentina 0 0 Friendly
+1953 148 away England Chile 1 2 Friendly
+1953 155 away England Uruguay 2 1 Friendly
+1953 163 away England UnitedStates 3 6 Friendly
+1953 289 away England Wales 1 4 World Cup qualifier
+1953 321 home England NorthernIreland 3 1 World Cup qualifier
+1953 335 home England Hungary 3 6 Friendly
+1954 96 away England Scotland 2 4 World Cup qualifier
+1954 140 away England Yugoslavia 1 0 Friendly
+1954 147 away England Hungary 7 1 Friendly
+1954 172 away England Belgium 4 4 World Cup
+1954 175 away England Switzerland 0 2 World Cup
+1954 181 away England Uruguay 4 2 World Cup
+1954 281 away England NorthernIreland 0 2 British International Championship
+1954 320 home England Wales 3 2 British International Championship
+1954 342 home England Germany 3 1 Friendly
+1955 95 home England Scotland 7 2 British International Championship
+1955 139 away England France 1 0 Friendly
+1955 142 away England Spain 1 1 Friendly
+1955 146 away England Portugal 3 1 Friendly
+1955 281 away England Denmark 1 5 Friendly
+1955 301 away England Wales 2 1 British International Championship
+1955 312 home England NorthernIreland 3 0 British International Championship
+1955 340 home England Spain 4 1 Friendly
+1956 107 away England Scotland 1 1 British International Championship
+1956 133 home England Brazil 4 2 Friendly
+1956 140 away England Sweden 0 0 Friendly
+1956 144 away England Finland 1 5 Friendly
+1956 149 away England Germany 1 3 Friendly
+1956 285 away England NorthernIreland 1 1 British International Championship
+1956 324 home England Wales 3 1 British International Championship
+1956 338 home England Yugoslavia 3 0 Friendly
+1956 346 home England Denmark 5 2 World Cup qualifier
+1957 99 home England Scotland 2 1 British International Championship
+1957 132 home England Ireland 5 1 World Cup qualifier
+1957 139 away England Denmark 1 4 World Cup qualifier
+1957 143 away England Ireland 1 1 World Cup qualifier
+1957 298 away England Wales 0 4 British International Championship
+1957 316 home England NorthernIreland 2 3 British International Championship
+1957 337 home England France 4 0 Friendly
+1958 112 away England Scotland 0 4 British International Championship
+1958 131 home England Portugal 2 1 Friendly
+1958 135 away England Yugoslavia 5 0 Friendly
+1958 142 away England SovietUnion 1 1 Friendly
+1958 163 home England SovietUnion 2 2 World Cup
+1958 166 away England Brazil 0 0 World Cup
+1958 170 away England Austria 2 2 World Cup
+1958 172 away England SovietUnion 1 0 World Cup
+1958 283 away England NorthernIreland 3 3 British International Championship
+1958 301 home England SovietUnion 5 0 Friendly
+1958 336 home England Wales 2 2 British International Championship
+1959 104 home England Scotland 1 0 British International Championship
+1959 130 home England Italy 2 2 Friendly
+1959 137 away England Brazil 2 0 Friendly
+1959 141 away England Peru 4 1 Friendly
+1959 148 away England Mexico 2 1 Friendly
+1959 152 away England UnitedStates 1 8 Friendly
+1959 296 away England Wales 1 1 British International Championship
+1959 307 home England Sweden 2 3 Friendly
+1959 328 home England NorthernIreland 2 1 British International Championship
+1960 102 away England Scotland 1 1 British International Championship
+1960 135 home England Yugoslavia 3 3 Friendly
+1960 139 away England Spain 3 0 Friendly
+1960 146 away England Hungary 2 0 Friendly
+1960 287 away England NorthernIreland 2 5 British International Championship
+1960 298 away England Luxembourg 0 9 World Cup qualifier
+1960 305 home England Spain 4 2 Friendly
+1960 333 home England Wales 5 1 British International Championship
+1961 108 home England Scotland 9 3 British International Championship
+1961 134 home England Mexico 8 0 Friendly
+1961 145 away England Portugal 1 1 World Cup qualifier
+1961 148 away England Italy 2 3 Friendly
+1961 151 away England Austria 3 1 Friendly
+1961 276 home England Luxembourg 4 1 World Cup qualifier
+1961 293 away England Wales 1 1 British International Championship
+1961 304 home England Portugal 2 0 World Cup qualifier
+1961 332 home England NorthernIreland 1 1 British International Championship
+1962 97 home England Austria 3 1 Friendly
+1962 107 away England Scotland 2 0 British International Championship
+1962 133 home England Switzerland 3 1 Friendly
+1962 144 away England Peru 0 4 Friendly
+1962 155 away England Hungary 2 1 World Cup
+1962 157 home England Argentina 3 1 World Cup
+1962 162 away England Bulgaria 0 0 World Cup
+1962 165 away England Brazil 3 1 World Cup
+1962 282 home England France 1 1 European Cup qualifier
+1962 299 away England NorthernIreland 1 3 British International Championship
+1962 331 home England Wales 4 0 British International Championship
+1963 58 away England France 5 2 European Cup qualifier
+1963 99 home England Scotland 1 2 British International Championship
+1963 132 home England Brazil 1 1 Friendly
+1963 153 away England Czechoslovakia 2 4 Friendly
+1963 157 away England EastGermany 1 2 Friendly
+1963 160 away England Switzerland 1 8 Friendly
+1963 291 away England Wales 0 4 British International Championship
+1963 330 home England NorthernIreland 8 3 British International Championship
+1964 104 away England Scotland 1 0 British International Championship
+1964 130 home England Uruguay 2 1 Friendly
+1964 141 away England Portugal 3 4 Friendly
+1964 148 away England Ireland 1 3 Friendly
+1964 151 away England UnitedStates 0 10 Friendly
+1964 154 away England Brazil 5 1 Nations Cup
+1964 159 home England Portugal 1 1 Nations Cup
+1964 161 away England Argentina 1 0 Nations Cup
+1964 282 away England NorthernIreland 3 4 British International Championship
+1964 300 home England Belgium 2 2 Friendly
+1964 328 home England Wales 2 1 British International Championship
+1964 350 away England Holland 1 1 Friendly
+1965 103 home England Scotland 2 2 British International Championship
+1965 129 home England Hungary 1 0 Friendly
+1965 133 away England Yugoslavia 1 1 Friendly
+1965 136 away England Germany 0 1 Friendly
+1965 140 away England Sweden 1 2 Friendly
+1965 281 away England Wales 0 0 British International Championship
+1965 299 home England Austria 2 3 Friendly
+1965 320 home England NorthernIreland 2 1 British International Championship
+1965 349 away England Spain 0 2 Friendly
+1966 5 home England Poland 1 1 Friendly
+1966 54 home England Germany 1 0 Friendly
+1966 95 away England Scotland 3 4 British International Championship
+1966 128 home England Yugoslavia 2 0 Friendly
+1966 181 away England Finland 0 3 Friendly
+1966 184 away England Norway 1 6 Friendly
+1966 189 away England Denmark 0 2 Friendly
+1966 191 away England Poland 0 1 Friendly
+1966 197 home England Uruguay 0 0 World Cup
+1966 202 home England Mexico 2 0 World Cup
+1966 206 home England France 2 0 World Cup
+1966 209 home England Argentina 1 0 World Cup
+1966 212 home England Portugal 2 1 World Cup
+1966 216 home England Germany 4 2 World Cup
+1966 301 away England NorthernIreland 0 2 European Cup qualifier
+1966 312 home England Czechoslovakia 0 0 Friendly
+1966 326 home England Wales 5 1 European Cup qualifier
+1967 108 home England Scotland 2 3 European Cup qualifier
+1967 148 home England Spain 2 0 Friendly
+1967 151 away England Austria 0 1 Friendly
+1967 300 away England Wales 0 3 European Cup qualifier
+1967 332 home England NorthernIreland 2 0 European Cup qualifier
+1967 347 home England SovietUnion 2 2 Friendly
+1968 55 away England Scotland 1 1 European Cup qualifier
+1968 96 home England Spain 1 0 European Cup qualifier
+1968 132 away England Spain 1 2 European Cup qualifier
+1968 146 home England Sweden 3 1 Friendly
+1968 156 away England Germany 1 0 Friendly
+1968 160 away England Yugoslavia 1 0 European Cup
+1968 163 home England SovietUnion 2 0 European Cup
+1968 316 away England Romania 0 0 Friendly
+1968 352 home England Bulgaria 1 1 Friendly
+1969 15 home England Romania 1 1 Friendly
+1969 74 home England France 5 0 Friendly
+1969 127 away England NorthernIreland 1 3 British International Championship
+1969 131 home England Wales 2 1 British International Championship
+1969 134 home England Scotland 4 1 British International Championship
+1969 156 away England Mexico 0 0 Friendly
+1969 158 away England Mexico 0 4 Friendly
+1969 163 away England Uruguay 1 2 Friendly
+1969 167 away England Brazil 2 1 Friendly
+1969 315 away England Holland 0 1 Friendly
+1969 351 home England Portugal 1 0 Friendly
+1970 14 home England Holland 0 0 Friendly
+1970 56 away England Belgium 1 3 Friendly
+1970 111 away England Wales 1 1 British International Championship
+1970 114 home England NorthernIreland 3 1 British International Championship
+1970 118 away England Scotland 0 0 British International Championship
+1970 144 away England Colombia 0 4 Friendly
+1970 148 away England Ecuador 0 2 Friendly
+1970 157 home England Romania 1 0 World Cup
+1970 162 away England Brazil 1 0 World Cup
+1970 166 home England Czechoslovakia 1 0 World Cup
+1970 169 away England Germany 3 2 World Cup
+1970 335 home England EastGermany 3 1 Friendly
+1971 34 away England Malta 0 1 European Cup qualifier
+1971 114 home England Greece 3 0 European Cup qualifier
+1971 136 home England Malta 5 0 European Cup qualifier
+1971 139 away England NorthernIreland 0 1 British International Championship
+1971 143 home England Wales 0 0 British International Championship
+1971 146 home England Scotland 3 1 British International Championship
+1971 292 away England Switzerland 2 3 European Cup qualifier
+1971 320 home England Switzerland 1 1 European Cup qualifier
+1971 342 away England Greece 0 2 European Cup qualifier
+1972 122 home England Germany 1 3 European Cup qualifier
+1972 137 away England Germany 0 0 European Cup qualifier
+1972 144 away England Wales 0 3 British International Championship
+1972 147 home England NorthernIreland 0 1 British International Championship
+1972 151 away England Scotland 0 1 British International Championship
+1972 290 home England Yugoslavia 1 1 Friendly
+1972 325 away England Wales 0 1 World Cup qualifier
+1973 24 home England Wales 1 1 World Cup qualifier
+1973 45 away England Scotland 0 5 Friendly
+1973 136 home England NorthernIreland 2 1 British International Championship
+1973 139 home England Wales 3 0 British International Championship
+1973 143 home England Scotland 1 0 British International Championship
+1973 151 away England Czechoslovakia 1 1 Friendly
+1973 161 away England Poland 2 0 World Cup qualifier
+1973 165 away England SovietUnion 1 2 Friendly
+1973 169 away England Italy 2 0 Friendly
+1973 274 home England Austria 7 0 Friendly
+1973 296 home England Poland 1 1 World Cup qualifier
+1973 324 home England Italy 0 1 Friendly
+1974 96 away England Portugal 0 0 Friendly
+1974 135 away England Wales 0 2 British International Championship
+1974 139 home England NorthernIreland 1 0 British International Championship
+1974 142 away England Scotland 2 0 British International Championship
+1974 146 home England Argentina 2 2 Friendly
+1974 153 away England EastGermany 1 1 Friendly
+1974 156 away England Bulgaria 0 1 Friendly
+1974 160 away England Yugoslavia 2 2 Friendly
+1974 309 home England Czechoslovakia 3 0 European Cup qualifier
+1974 330 home England Portugal 0 0 European Cup qualifier
+1975 74 home England Germany 2 0 Friendly
+1975 109 home England Cyprus 5 0 European Cup qualifier
+1975 135 away England Cyprus 0 1 European Cup qualifier
+1975 141 away England NorthernIreland 0 0 British International Championship
+1975 145 home England Wales 2 2 British International Championship
+1975 148 home England Scotland 5 1 British International Championship
+1975 251 away England Switzerland 1 2 Friendly
+1975 309 away England Czechoslovakia 2 1 European Cup qualifier
+1975 329 away England Portugal 1 1 European Cup qualifier
+1976 86 away England Wales 1 2 Friendly
+1976 132 away England Wales 0 1 British International Championship
+1976 135 home England NorthernIreland 4 0 British International Championship
+1976 139 away England Scotland 2 1 British International Championship
+1976 147 away England Brazil 1 0 Friendly
+1976 152 home England Italy 3 2 Friendly
+1976 168 away England Finland 1 4 World Cup qualifier
+1976 256 home England Ireland 1 1 Friendly
+1976 292 home England Finland 2 1 World Cup qualifier
+1976 327 away England Italy 2 0 World Cup qualifier
+1977 40 home England Holland 0 2 Friendly
+1977 92 home England Luxembourg 5 0 World Cup qualifier
+1977 152 away England NorthernIreland 1 2 British International Championship
+1977 155 home England Wales 0 1 British International Championship
+1977 159 home England Scotland 1 2 British International Championship
+1977 163 away England Brazil 0 0 Friendly
+1977 167 away England Argentina 1 1 Friendly
+1977 170 away England Uruguay 0 0 Friendly
+1977 255 home England Switzerland 0 0 Friendly
+1977 291 away England Luxembourg 0 2 World Cup qualifier
+1977 326 home England Italy 2 0 World Cup qualifier
+1978 53 away England Germany 2 1 Friendly
+1978 112 home England Brazil 1 1 Friendly
+1978 137 away England Wales 1 3 British International Championship
+1978 140 home England NorthernIreland 1 0 British International Championship
+1978 144 away England Scotland 0 1 British International Championship
+1978 148 home England Hungary 4 1 Friendly
+1978 268 away England Denmark 3 4 European Cup qualifier
+1978 304 away England Ireland 1 1 European Cup qualifier
+1978 339 home England Czechoslovakia 1 0 Friendly
+1979 38 home England NorthernIreland 4 0 European Cup qualifier
+1979 143 away England NorthernIreland 0 2 British International Championship
+1979 147 home England Wales 0 0 British International Championship
+1979 150 home England Scotland 3 1 British International Championship
+1979 161 away England Bulgaria 0 3 European Cup qualifier
+1979 165 away England Sweden 0 0 Friendly
+1979 168 away England Austria 4 3 Friendly
+1979 260 home England Denmark 1 0 European Cup qualifier
+1979 296 away England NorthernIreland 1 5 European Cup qualifier
+1979 332 home England Bulgaria 2 0 European Cup qualifier
+1980 37 home England Ireland 2 0 European Cup qualifier
+1980 88 away England Spain 0 2 Friendly
+1980 137 home England Argentina 3 1 Friendly
+1980 141 away England Wales 4 1 British International Championship
+1980 144 home England NorthernIreland 1 1 British International Championship
+1980 148 away England Scotland 0 2 British International Championship
+1980 155 away England Australia 1 2 Friendly
+1980 167 away England Belgium 1 1 European Cup
+1980 170 away England Italy 1 0 European Cup
+1980 173 home England Spain 2 1 European Cup
+1980 258 home England Norway 4 0 World Cup qualifier
+1980 294 away England Romania 2 1 World Cup qualifier
+1980 329 home England Switzerland 2 1 World Cup qualifier
+1981 87 home England Spain 1 2 Friendly
+1981 122 home England Romania 0 0 World Cup qualifier
+1981 136 home England Brazil 0 1 Friendly
+1981 144 home England Wales 0 0 British International Championship
+1981 147 home England Scotland 0 1 British International Championship
+1981 154 away England Switzerland 2 1 World Cup qualifier
+1981 161 away England Hungary 1 3 World Cup qualifier
+1981 257 away England Norway 2 1 World Cup qualifier
+1981 328 home England Hungary 1 0 World Cup qualifier
+1982 54 home England NorthernIreland 4 0 British International Championship
+1982 120 away England Wales 0 1 British International Championship
+1982 149 home England Holland 2 0 Friendly
+1982 153 away England Scotland 0 1 British International Championship
+1982 157 away England Iceland 1 1 Friendly
+1982 158 away England Finland 1 4 Friendly
+1982 171 home England France 3 1 World Cup
+1982 175 home England Czechoslovakia 2 0 World Cup
+1982 180 home England Kuwait 1 0 World Cup
+1982 184 home England Germany 0 0 World Cup
+1982 191 away England Spain 0 0 World Cup
+1982 270 away England Denmark 2 2 European Cup qualifier
+1982 292 home England Germany 1 2 Friendly
+1982 327 away England Greece 0 3 European Cup qualifier
+1982 356 home England Luxembourg 9 0 European Cup qualifier
+1983 54 home England Wales 2 1 British International Championship
+1983 92 home England Greece 0 0 European Cup qualifier
+1983 120 home England Hungary 2 0 European Cup qualifier
+1983 152 away England NorthernIreland 0 0 British International Championship
+1983 156 home England Scotland 2 0 British International Championship
+1983 167 away England Australia 0 0 Friendly
+1983 170 away England Australia 0 1 Friendly
+1983 174 away England Australia 1 1 Friendly
+1983 269 home England Denmark 0 1 European Cup qualifier
+1983 291 away England Hungary 0 3 European Cup qualifier
+1983 326 away England Luxembourg 0 4 European Cup qualifier
+1984 60 away England France 2 0 Friendly
+1984 97 home England NorthernIreland 1 0 British International Championship
+1984 126 away England Wales 1 0 British International Championship
+1984 150 away England Scotland 1 1 British International Championship
+1984 157 home England SovietUnion 0 2 Friendly
+1984 165 away England Brazil 0 2 Friendly
+1984 168 away England Uruguay 2 0 Friendly
+1984 172 away England Chile 0 0 Friendly
+1984 260 home England EastGermany 1 0 Friendly
+1984 296 home England Finland 5 0 World Cup qualifier
+1984 324 away England Turkey 0 8 World Cup qualifier
+1985 58 away England NorthernIreland 0 1 World Cup qualifier
+1985 88 home England Ireland 2 1 Friendly
+1985 125 away England Romania 0 0 World Cup qualifier
+1985 146 away England Finland 1 1 World Cup qualifier
+1985 149 away England Scotland 1 0 Friendly tournament
+1985 161 away England Italy 2 1 Copa Ciudad de Mexico
+1985 164 away England Mexico 1 0 Copa Ciudad de Mexico
+1985 167 home England Germany 3 0 Copa Ciudad de Mexico
+1985 171 away England UnitedStates 0 5 Friendly
+1985 259 home England Romania 1 1 World Cup qualifier
+1985 295 home England Turkey 5 0 World Cup qualifier
+1985 323 home England NorthernIreland 0 0 World Cup qualifier
+1986 29 away England Egypt 0 4 Friendly
+1986 57 away England Israel 1 2 Friendly
+1986 88 away England SovietUnion 0 1 Friendly
+1986 116 home England Scotland 2 1 Friendly tournament
+1986 141 home England Mexico 3 0 Friendly
+1986 148 away England Canada 0 1 Friendly
+1986 158 away England Portugal 1 0 World Cup
+1986 161 home England Morocco 0 0 World Cup
+1986 166 home England Poland 3 0 World Cup
+1986 173 home England Paraguay 3 0 World Cup
+1986 177 away England Argentina 2 1 World Cup
+1986 258 away England Sweden 1 0 Friendly
+1986 294 home England NorthernIreland 3 0 European Cup qualifier
+1986 322 home England Yugoslavia 2 0 European Cup qualifier
+1987 49 away England Spain 2 4 Friendly
+1987 94 away England NorthernIreland 0 2 European Cup qualifier
+1987 122 away England Turkey 0 0 European Cup qualifier
+1987 143 home England Brazil 1 1 Friendly tournament
+1987 147 away England Scotland 0 0 Friendly tournament
+1987 257 away England Germany 3 1 Friendly
+1987 293 home England Turkey 8 0 European Cup qualifier
+1987 321 away England Yugoslavia 1 4 European Cup qualifier
+1988 48 away England Israel 0 0 Friendly
+1988 85 home England Holland 2 2 Friendly
+1988 120 away England Hungary 0 0 Friendly
+1988 145 home England Scotland 1 0 Friendly tournament
+1988 148 home England Colombia 1 1 Friendly tournament
+1988 152 away England Switzerland 0 1 Friendly
+1988 167 home England Ireland 0 1 European Cup
+1988 170 home England Holland 1 3 European Cup
+1988 173 home England SovietUnion 1 3 European Cup
+1988 262 home England Denmark 1 0 Friendly
+1988 298 home England Sweden 0 0 World Cup qualifier
+1988 326 away England SaudiArabia 1 1 Friendly
+1989 39 away England Greece 1 2 Friendly
+1989 70 away England Albania 0 2 World Cup qualifier
+1989 119 home England Albania 5 0 World Cup qualifier
+1989 147 home England Chile 0 0 Friendly tournament
+1989 151 away England Scotland 0 2 Friendly tournament
+1989 158 home England Poland 3 0 World Cup qualifier
+1989 162 away England Denmark 1 1 Friendly
+1989 254 away England Sweden 0 0 World Cup qualifier
+1989 290 away England Poland 0 0 World Cup qualifier
+1989 325 home England Italy 0 0 Friendly
+1989 354 home England Yugoslavia 2 1 Friendly
+1990 90 home England Brazil 1 0 Friendly
+1990 118 home England Czechoslovakia 4 2 Friendly
+1990 139 home England Denmark 1 0 Friendly
+1990 146 home England Uruguay 1 2 Friendly
+1990 157 away England Tunisia 1 1 Friendly
+1990 166 home England Ireland 1 1 World Cup
+1990 171 home England Holland 0 0 World Cup
+1990 176 away England Egypt 0 1 World Cup
+1990 181 away England Belgium 0 1 World Cup
+1990 187 away England Cameroon 2 3 World Cup
+1990 190 home England Germany 1 1 World Cup
+1990 193 away England Italy 2 1 World Cup
+1990 260 home England Hungary 1 0 Friendly
+1990 296 home England Poland 2 0 European Cup qualifier
+1990 324 away England Ireland 1 1 European Cup qualifier
+1991 37 home England Cameroon 2 0 Friendly
+1991 89 home England Ireland 1 1 European Cup qualifier
+1991 125 away England Turkey 0 1 European Cup qualifier
+1991 145 home England SovietUnion 3 1 Friendly tournament
+1991 149 home England Argentina 2 2 Friendly tournament
+1991 156 away England Australia 0 1 Friendly
+1991 158 away England NewZealand 0 1 Friendly
+1991 163 away England NewZealand 0 2 Friendly
+1991 167 away England Malaysia 2 4 Friendly
+1991 259 home England Germany 0 1 Friendly
+1991 295 home England Turkey 1 0 European Cup qualifier
+1991 323 away England Poland 1 1 European Cup qualifier
+1992 50 home England France 2 0 Friendly
+1992 87 away England Czechoslovakia 2 2 Friendly
+1992 122 away England IndependentStates 2 2 Friendly
+1992 136 away England Hungary 0 1 Friendly
+1992 141 home England Brazil 1 1 Friendly
+1992 158 away England Finland 1 2 Friendly
+1992 166 away England Denmark 0 0 European Cup
+1992 169 away England France 0 0 European Cup
+1992 172 away England Sweden 2 1 European Cup
+1992 257 away England Spain 1 0 Friendly
+1992 293 home England Norway 1 1 World Cup qualifier
+1992 328 home England Turkey 4 0 World Cup qualifier
+1993 48 home England SanMarino 6 0 World Cup qualifier
+1993 93 away England Turkey 0 2 World Cup qualifier
+1993 121 home England Holland 2 2 World Cup qualifier
+1993 153 away England Poland 1 1 World Cup qualifier
+1993 157 away England Norway 2 0 World Cup qualifier
+1993 164 away England UnitedStates 2 0 US Cup
+1993 168 away England Brazil 1 1 US Cup
+1993 174 away England Germany 2 1 US Cup
+1993 256 home England Poland 3 0 World Cup qualifier
+1993 292 away England Holland 2 0 World Cup qualifier
+1993 327 away England SanMarino 1 7 World Cup qualifier
+1994 71 home England Denmark 1 0 Friendly
+1994 141 home England Greece 5 0 Friendly
+1994 146 home England Norway 0 0 Friendly
+1994 255 home England UnitedStates 2 0 Friendly
+1994 291 home England Romania 1 1 Friendly
+1994 326 home England Nigeria 1 0 Friendly
+1995 91 home England Uruguay 0 0 Friendly
+1995 158 home England Japan 2 1 Umbro Cup
+1995 163 home England Sweden 3 3 Umbro Cup
+1995 166 home England Brazil 1 3 Umbro Cup
+1995 254 home England Colombia 0 0 Friendly
+1995 290 away England Norway 0 0 Friendly
+1995 325 home England Switzerland 3 1 Friendly
+1995 353 home England Portugal 1 1 Friendly
+1996 89 home England Bulgaria 1 0 Friendly
+1996 117 home England Croatia 0 0 Friendly
+1996 142 home England Hungary 3 0 Friendly
+1996 147 away England China 0 3 Friendly
+1996 163 home England Switzerland 1 1 European Cup
+1996 170 home England Scotland 2 0 European Cup
+1996 173 home England Holland 4 1 European Cup
+1996 177 home England Spain 0 0 European Cup
+1996 181 home England Germany 1 1 European Cup
+1996 249 away England Moldova 0 3 World Cup qualifier
+1996 288 home England Poland 2 1 World Cup qualifier
+1996 319 away England Georgia 0 2 World Cup qualifier
+1997 43 home England Italy 0 1 World Cup qualifier
+1997 91 home England Mexico 2 0 Friendly
+1997 123 home England Georgia 2 0 World Cup qualifier
+1997 148 home England SouthAfrica 2 1 Friendly
+1997 155 away England Poland 0 2 World Cup qualifier
+1997 159 home England Italy 2 0 Friendly tournament
+1997 162 away England France 0 1 Friendly tournament
+1997 165 away England Brazil 1 0 Friendly tournament
+1997 258 home England Moldova 4 0 World Cup qualifier
+1997 290 away England Italy 0 0 World Cup qualifier
+1997 325 home England Cameroon 2 0 Friendly
+1998 42 home England Chile 0 2 Friendly
+1998 87 away England Switzerland 1 1 Friendly
+1998 115 home England Portugal 3 0 Friendly
+1998 147 home England SaudiArabia 0 0 Friendly
+1998 151 away England Morocco 0 1 King Hassan Cup
+1998 153 home England Belgium 0 0 King Hassan Cup
+1998 170 home England Tunisia 2 0 World Cup
+1998 177 away England Romania 2 1 World Cup
+1998 181 home England Colombia 2 0 World Cup
+1998 185 away England Argentina 2 2 World Cup
+1998 253 away England Sweden 2 1 European Cup qualifier
+1998 289 home England Bulgaria 0 0 European Cup qualifier
+1998 293 away England Luxembourg 0 3 European Cup qualifier
+1998 328 home England Czechia 2 0 Friendly
+1999 41 home England France 0 2 Friendly
+1999 89 home England Poland 3 1 European Cup qualifier
+1999 121 away England Hungary 1 1 Friendly
+1999 160 home England Sweden 0 0 European Cup qualifier
+1999 164 away England Bulgaria 1 1 European Cup qualifier
+1999 252 home England Luxembourg 6 0 European Cup qualifier
+1999 256 away England Poland 0 0 European Cup qualifier
+1999 289 home England Belgium 2 1 Friendly
+1999 323 away England Scotland 0 2 European Cup qualifier
+1999 327 home England Scotland 0 1 European Cup qualifier
+2000 54 home England Argentina 0 0 Friendly
+2000 151 home England Brazil 1 1 Friendly
+2000 155 home England Ukraine 2 0 Friendly
+2000 158 away England Malta 1 2 Friendly
+2000 167 away England Portugal 3 2 European Cup
+2000 172 home England Germany 1 0 European Cup
+2000 175 away England Romania 3 2 European Cup
+2000 250 away England France 1 1 Friendly
+2000 286 home England Germany 0 1 World Cup qualifier
+2000 290 away England Finland 0 0 World Cup qualifier
+2000 325 away England Italy 1 0 Friendly
+2001 59 home England Spain 3 0 Friendly
+2001 86 home England Finland 2 1 World Cup qualifier
+2001 90 away England Albania 1 3 World Cup qualifier
+2001 149 home England Mexico 4 0 Friendly
+2001 161 away England Greece 0 2 World Cup qualifier
+2001 232 home England Holland 0 2 Friendly
+2001 249 away England Germany 1 5 World Cup qualifier
+2001 253 home England Albania 2 0 World Cup qualifier
+2001 285 home England Greece 2 2 World Cup qualifier
+2001 320 home England Sweden 1 1 Friendly
+2002 44 away England Holland 1 1 Friendly
+2002 89 home England Italy 1 2 Friendly
+2002 110 home England Paraguay 4 0 Friendly
+2002 145 away England SouthKorea 1 1 Friendly
+2002 150 home England Cameroon 2 2 Friendly
+2002 157 away England Sweden 1 1 World Cup
+2002 162 home England Argentina 1 0 World Cup
+2002 167 away England Nigeria 0 0 World Cup
+2002 170 home England Denmark 3 0 World Cup
+2002 176 away England Brazil 2 1 World Cup
+2002 255 home England Portugal 1 1 Friendly
+2002 291 away England Slovakia 1 2 European Cup qualifier
+2002 295 home England Macedonia 2 2 European Cup qualifier
+2003 43 home England Australia 1 3 Friendly
+2003 91 away England Liechtenstein 0 2 European Cup qualifier
+2003 95 home England Turkey 2 0 European Cup qualifier
+2003 146 away England SouthAfrica 1 2 Friendly
+2003 158 home England Serbia and Montenegro 2 1 Friendly
+2003 166 home England Slovakia 2 1 European Cup qualifier
+2003 237 home England Croatia 3 1 Friendly
+2003 254 away England Macedonia 1 2 European Cup qualifier
+2003 258 home England Liechtenstein 2 0 European Cup qualifier
+2003 290 away England Turkey 0 0 European Cup qualifier
+2003 326 home England Denmark 2 3 Friendly
+2004 49 away England Portugal 1 1 Friendly
+2004 93 away England Sweden 1 0 Friendly
+2004 156 home England Japan 1 1 Friendly tournament
+2004 160 home England Iceland 6 1 Friendly tournament
+2004 168 away England France 2 1 European Cup
+2004 172 home England Switzerland 3 0 European Cup
+2004 176 home England Croatia 4 2 European Cup
+2004 179 away England Portugal 2 2 European Cup
+2004 235 home England Ukraine 3 0 Friendly
+2004 252 away England Austria 2 2 World Cup qualifier
+2004 256 away England Poland 1 2 World Cup qualifier
+2004 288 home England Wales 2 0 World Cup qualifier
+2004 292 away England Azerbaijan 0 1 World Cup qualifier
+2004 327 away England Spain 1 0 Friendly
+2005 40 home England Holland 0 0 Friendly
+2005 88 home England NorthernIreland 4 0 World Cup qualifier
+2005 92 home England Azerbaijan 2 0 World Cup qualifier
+2005 152 away England UnitedStates 1 2 Friendly
+2005 155 home England Colombia 3 2 Friendly
+2005 234 away England Denmark 4 1 Friendly
+2005 251 away England Wales 0 1 World Cup qualifier
+2005 255 away England NorthernIreland 1 0 World Cup qualifier
+2005 287 home England Austria 1 0 World Cup qualifier
+2005 291 home England Poland 2 1 World Cup qualifier
+2005 322 home England Argentina 3 2 Friendly
+2006 63 home England Uruguay 2 1 Friendly
+2006 154 home England Hungary 3 1 Friendly
+2006 158 home England Jamaica 6 0 Friendly
+2006 165 home England Paraguay 1 0 World Cup
+2006 170 home England TrinidadTobago 2 0 World Cup
+2006 175 away England Sweden 2 2 World Cup
+2006 180 home England Ecuador 1 0 World Cup
+2006 187 away England Portugal 0 0 World Cup
+2006 233 home England Greece 4 0 Friendly
+2006 250 home England Andorra 5 0 European Cup qualifier
+2006 254 away England Macedonia 0 1 European Cup qualifier
+2006 286 home England Macedonia 0 0 European Cup qualifier
+2006 290 away England Croatia 2 0 European Cup qualifier
+2006 325 away England Holland 1 1 Friendly
+2007 38 home England Spain 0 1 Friendly
+2007 86 away England Israel 0 0 European Cup qualifier
+2007 90 home England Andorra 3 0 European Cup qualifier
+2007 156 home England Brazil 1 1 Friendly
+2007 161 away England Estonia 0 3 European Cup qualifier
+2007 239 home England Germany 1 2 Friendly
+2007 256 home England Israel 3 0 European Cup qualifier
+2007 260 home England Russia 3 0 European Cup qualifier
+2007 292 home England Estonia 3 0 European Cup qualifier
+2007 296 away England Russia 2 1 European Cup qualifier
+2007 326 away England Austria 0 1 Friendly
+2007 331 home England Croatia 2 3 European Cup qualifier
+2008 37 home England Switzerland 2 1 Friendly
+2008 88 away England France 1 0 Friendly
+2008 152 home England UnitedStates 2 0 Friendly
+2008 156 away England TrinidadTobago 0 3 Friendly
+2008 237 home England Czechia 2 2 Friendly
+2008 254 home England Andorra 2 0 World Cup qualifier
+2008 258 away England Croatia 1 4 World Cup qualifier
+2008 290 home England Kazakhstan 5 1 World Cup qualifier
+2008 294 away England Belarus 1 3 World Cup qualifier
+2008 329 away England Germany 1 2 Friendly
+2009 42 away England Spain 2 0 Friendly
+2009 90 home England Slovakia 4 0 Friendly
+2009 94 home England Ukraine 2 1 World Cup qualifier
+2009 161 away England Kazakhstan 0 4 World Cup qualifier
+2009 165 home England Andorra 6 0 World Cup qualifier
+2009 229 away England Holland 2 2 Friendly
+2009 253 home England Slovenia 2 1 Friendly
+2009 257 home England Croatia 5 1 World Cup qualifier
+2009 289 away England Ukraine 1 0 World Cup qualifier
+2009 293 home England Belarus 3 0 World Cup qualifier
+2009 324 away England Brazil 1 0 Friendly
+2010 65 home England Egypt 3 1 Friendly
+2010 148 home England Mexico 3 1 Friendly
+2010 154 home England Japan 2 1 Friendly
+2010 167 away England UnitedStates 1 1 World Cup
+2010 173 away England Algeria 0 0 World Cup
+2010 178 home England Slovenia 1 0 World Cup
+2010 182 away England Germany 4 1 World Cup
+2010 228 home England Hungary 2 1 Friendly
+2010 251 home England Bulgaria 4 0 European Cup qualifier
+2010 255 away England Switzerland 1 3 European Cup qualifier
+2010 291 home England Montenegro 0 0 European Cup qualifier
+2010 327 home England France 1 2 Friendly
+2011 40 away England Denmark 1 2 Friendly
+2011 88 away England Wales 0 2 European Cup qualifier
+2011 91 home England Ghana 1 1 Friendly
+2011 159 home England Switzerland 2 2 European Cup qualifier
+2011 250 away England Bulgaria 0 3 European Cup qualifier
+2011 254 home England Wales 1 0 European Cup qualifier
+2011 286 away England Montenegro 2 2 European Cup qualifier
+2011 322 home England Spain 1 0 Friendly
+2011 325 home England Sweden 1 0 Friendly
+2012 60 home England Holland 2 3 Friendly
+2012 150 away England Norway 0 1 Friendly
+2012 157 home England Belgium 1 0 Friendly
+2012 166 home England France 1 1 European Cup
+2012 170 home England Sweden 3 2 European Cup
+2012 174 away England Ukraine 0 1 European Cup
+2012 179 away England Italy 0 0 European Cup
+2012 232 home England Italy 2 1 Friendly
+2012 255 away England Moldova 0 5 World Cup qualifier
+2012 259 home England Ukraine 1 1 World Cup qualifier
+2012 291 home England SanMarino 5 0 World Cup qualifier
+2012 296 away England Poland 1 1 World Cup qualifier
+2012 324 away England Sweden 4 2 Friendly
+2013 37 home England Brazil 2 1 Friendly
+2013 84 away England SanMarino 0 8 World Cup qualifier
+2013 88 away England Montenegro 1 1 World Cup qualifier
+2013 153 home England Ireland 1 1 Friendly
+2013 157 away England Brazil 2 2 Friendly
+2013 231 home England Scotland 3 2 Friendly
+2013 254 home England Moldova 4 0 World Cup qualifier
+2013 258 away England Ukraine 0 0 World Cup qualifier
+2013 290 home England Montenegro 4 1 World Cup qualifier
+2013 294 home England Poland 2 0 World Cup qualifier
+2013 325 home England Chile 0 2 Friendly
+2013 329 home England Germany 0 1 Friendly
+2014 67 home England Denmark 1 0 Friendly

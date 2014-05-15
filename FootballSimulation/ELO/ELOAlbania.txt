@@ -1,0 +1,2556 @@
+October 07
+1946	Albania
+Yugoslavia	2
+3	Balkan Cup
+in Albania	-11
++11	1389
+1673	-
+0	57
+20
+October 09
+1946	Albania
+Bulgaria	3
+1	Balkan Cup
+in Albania	+28
+-28	1417
+1442	+1
+-2	56
+49
+October 13
+1946	Albania
+Romania	1
+0	Balkan Cup
+in Albania	+22
+-22	1439
+1529	+4
+-1	52
+39
+May 25
+1947	Albania
+Romania	0
+4	Balkan Cup
+in Albania	-39
++39	1400
+1568	-7
++5	59
+35
+June 15
+1947	Bulgaria
+Albania	2
+0	Balkan Cup
+in Bulgaria	+19
+-19	1452
+1381	+3
+-3	49
+62
+August 20
+1947	Hungary
+Albania	3
+0	Balkan Cup
+in Hungary	+3
+-3	1850
+1378	0
+-1	5
+63
+September 14
+1947	Albania
+Yugoslavia	2
+4	Balkan Cup
+in Albania	-15
++15	1363
+1677	-1
+0	64
+19
+May 02
+1948	Romania
+Albania	0
+1	Balkan Cup
+in Romania	-33
++33	1504
+1396	-1
++4	41
+60
+May 23
+1948	Albania
+Hungary	0
+0	Balkan Cup
+in Albania	+15
+-15	1411
+1833	+2
+-1	58
+6
+June 27
+1948	Yugoslavia
+Albania	0
+0	Balkan Cup
+in Yugoslavia	-16
++16	1676
+1427	-1
++3	21
+55
+October 23
+1949	Romania
+Albania	1
+1	Friendly
+in Romania	-5
++5	1525
+1432	-1
++2	43
+56
+November 06
+1949	Poland
+Albania	2
+1	Friendly
+in Poland	+5
+-5	1532
+1427	+2
+-2	40
+58
+November 17
+1949	Bulgaria
+Albania	0
+0	Friendly
+in Bulgaria	-4
++4	1477
+1431	0
++2	46
+56
+November 29
+1949	Albania
+Romania	1
+4	Friendly
+in Albania	-18
++18	1413
+1543	-4
++4	61
+39
+May 01
+1950	Albania
+Poland	0
+0	Friendly
+in Albania	+1
+-1	1414
+1531	0
+0	59
+42
+June 04
+1950	Albania
+Bulgaria	2
+1	Friendly
+in Albania	+9
+-9	1423
+1468	0
+-3	61
+54
+September 01
+1950	Czechoslovakia
+Albania	3
+0	Friendly
+in Czechoslovakia	+4
+-4	1673
+1419	0
+0	22
+62
+September 24
+1950	Hungary
+Albania	12
+0	Friendly
+in Hungary	+2
+-2	1874
+1417	0
+0	6
+63
+October 08
+1950	Romania
+Albania	6
+0	Friendly
+in Romania	+9
+-9	1555
+1408	+1
+0	38
+63
+November 29
+1952	Albania
+Czechoslovakia	3
+2	Friendly
+in Albania	+14
+-14	1422
+1626	+1
+-2	65
+26
+December 09
+1952	Albania
+Czechoslovakia	2
+1	Friendly
+in Albania	+13
+-13	1435
+1613	+4
+-2	61
+28
+November 29
+1953	Albania
+Poland	2
+0	Friendly
+in Albania	+13
+-13	1448
+1487	+2
+-5	60
+52
+September 15
+1957	China
+Albania	3
+2	Friendly
+in China	+6
+-6	1496
+1442	+2
+-2	52
+68
+May 01
+1958	Albania
+East Germany	1
+1	Friendly
+in Albania	0
+0	1442
+1525	0
+0	68
+49
+February 06
+1963	Albania
+Bulgaria	0
+1	Olympic Games qualifier
+in Albania	-11
++11	1431
+1711	-4
+0	77
+21
+February 16
+1963	Bulgaria
+Albania	1
+0	Olympic Games qualifier
+in Bulgaria	+4
+-4	1715
+1427	0
+-1	21
+78
+June 29
+1963	Denmark
+Albania	4
+0	European Cup qualifier
+in Denmark	+12
+-12	1625
+1415	+5
+-3	32
+83
+October 30
+1963	Albania
+Denmark	1
+0	European Cup qualifier
+in Albania	+27
+-27	1442
+1616	+6
+-2	75
+34
+May 24
+1964	Netherlands
+Albania	2
+0	World Cup qualifier
+in the Netherlands	+12
+-12	1592
+1430	+2
+-7	43
+81
+October 11
+1964	Albania
+Algeria	1
+1	Friendly
+in Albania	+6
+-6	1436
+1773	+3
+0	79
+16
+October 25
+1964	Albania
+Netherlands	0
+2	World Cup qualifier
+in Albania	-26
++26	1410
+1612	-6
++3	85
+40
+April 11
+1965	Albania
+Switzerland	0
+2	World Cup qualifier
+in Albania	-29
++29	1381
+1555	-7
++5	93
+49
+May 02
+1965	Switzerland
+Albania	1
+0	World Cup qualifier
+in Switzerland	+7
+-7	1562
+1374	+2
+-1	47
+94
+May 07
+1965	Northern Ireland
+Albania	4
+1	World Cup qualifier
+in Northern Ireland	+11
+-11	1585
+1363	+4
+-6	41
+100
+November 24
+1965	Albania
+Northern Ireland	1
+1	World Cup qualifier
+in Albania	+8
+-8	1371
+1602	+4
+-2	93
+39
+April 08
+1967	West Germany
+Albania	6
+0	European Cup qualifier
+in West Germany	+1
+-1	1992
+1370	0
+0	2
+99
+May 14
+1967	Albania
+Yugoslavia	0
+2	European Cup qualifier
+in Albania	-11
++11	1359
+1748	-1
++1	101
+20
+November 12
+1967	Yugoslavia
+Albania	4
+0	European Cup qualifier
+in Yugoslavia	+4
+-4	1754
+1355	+1
+-4	18
+100
+December 17
+1967	Albania
+West Germany	0
+0	European Cup qualifier
+in Albania	+18
+-18	1373
+1942	+7
+0	93
+2
+October 14
+1970	Poland
+Albania	3
+0	European Cup qualifier
+in Poland	+4
+-4	1763
+1369	0
+-1	17
+95
+December 13
+1970	Turkey
+Albania	2
+1	European Cup qualifier
+in Turkey	+5
+-5	1603
+1364	+1
+-1	43
+96
+February 17
+1971	Albania
+West Germany	0
+1	European Cup qualifier
+in Albania	-2
++2	1362
+1985	0
+0	95
+3
+April 18
+1971	Romania
+Albania	2
+1	Olympic Games qualifier
+in Romania	+2
+-2	1743
+1360	0
+-1	19
+97
+May 12
+1971	Albania
+Poland	1
+1	European Cup qualifier
+in Albania	+15
+-15	1375
+1765	+4
+-1	93
+17
+May 26
+1971	Albania
+Romania	1
+2	Olympic Games qualifier
+in Albania	-7
++7	1368
+1752	0
++1	94
+19
+June 12
+1971	West Germany
+Albania	2
+0	European Cup qualifier
+in West Germany	+1
+-1	1998
+1367	0
+0	2
+95
+November 14
+1971	Albania
+Turkey	3
+0	European Cup qualifier
+in Albania	+45
+-45	1412
+1522	+6
+-6	88
+57
+June 21
+1972	Finland
+Albania	1
+0	World Cup qualifier
+in Finland	+19
+-19	1351
+1393	+6
+-3	100
+89
+October 29
+1972	Romania
+Albania	2
+0	World Cup qualifier
+in Romania	+4
+-4	1738
+1389	0
+0	26
+89
+April 07
+1973	East Germany
+Albania	2
+0	World Cup qualifier
+in East Germany	+3
+-3	1830
+1386	0
+-1	12
+90
+May 06
+1973	Albania
+Romania	1
+4	World Cup qualifier
+in Albania	-14
++14	1372
+1745	-7
++3	97
+23
+October 10
+1973	Albania
+Finland	1
+0	World Cup qualifier
+in Albania	+14
+-14	1386
+1354	+7
+-5	89
+102
+November 03
+1973	Albania
+East Germany	1
+4	World Cup qualifier
+in Albania	-8
++8	1378
+1851	-4
++2	95
+8
+November 08
+1973	Albania
+China	1
+1	Friendly
+in Albania	+1
+-1	1379
+1521	0
+0	95
+60
+October 10
+1976	Albania
+Algeria	3
+0	Friendly
+in Albania	+21
+-21	1400
+1534	+10
+-3	85
+58
+September 03
+1980	Albania
+Finland	2
+0	World Cup qualifier
+in Albania	+24
+-24	1424
+1400	+5
+-5	81
+86
+October 19
+1980	Bulgaria
+Albania	2
+1	World Cup qualifier
+in Bulgaria	+6
+-6	1622
+1418	+1
+-1	40
+84
+November 15
+1980	Austria
+Albania	5
+0	World Cup qualifier
+in Austria	+3
+-3	1881
+1415	0
+0	12
+85
+December 06
+1980	Albania
+Austria	0
+1	World Cup qualifier
+in Albania	-4
++4	1411
+1885	-1
++1	87
+11
+April 01
+1981	Albania
+West Germany	0
+2	World Cup qualifier
+in Albania	-3
++3	1408
+2015	-1
+0	87
+2
+September 02
+1981	Finland
+Albania	2
+1	World Cup qualifier
+in Finland	+15
+-15	1410
+1393	+7
+-7	85
+92
+October 14
+1981	Albania
+Bulgaria	0
+2	World Cup qualifier
+in Albania	-16
++16	1377
+1687	-1
++1	94
+31
+November 18
+1981	West Germany
+Albania	8
+0	World Cup qualifier
+in West Germany	+1
+-1	2062
+1376	0
+-1	1
+95
+September 22
+1982	Austria
+Albania	5
+0	European Cup qualifier
+in Austria	+3
+-3	1849
+1373	0
+0	10
+96
+October 27
+1982	Turkey
+Albania	1
+0	European Cup qualifier
+in Turkey	+10
+-10	1485
+1363	+2
+-1	72
+97
+December 15
+1982	Albania
+Northern Ireland	0
+0	European Cup qualifier
+in Albania	+13
+-13	1376
+1723	+2
+0	93
+24
+March 30
+1983	Albania
+West Germany	1
+2	European Cup qualifier
+in Albania	-2
++2	1374
+1956	0
+0	93
+5
+April 27
+1983	Northern Ireland
+Albania	1
+0	European Cup qualifier
+in Northern Ireland	+3
+-3	1731
+1371	0
+-1	24
+96
+May 11
+1983	Albania
+Turkey	1
+1	European Cup qualifier
+in Albania	0
+0	1371
+1470	0
+-1	96
+77
+June 08
+1983	Albania
+Austria	1
+2	European Cup qualifier
+in Albania	-4
++4	1367
+1872	0
+0	96
+10
+November 20
+1983	West Germany
+Albania	2
+1	European Cup qualifier
+in West Germany	+1
+-1	1950
+1366	0
+-2	3
+97
+October 17
+1984	Belgium
+Albania	3
+1	World Cup qualifier
+in Belgium	+3
+-3	1800
+1363	0
+-1	18
+98
+October 31
+1984	Poland
+Albania	2
+2	World Cup qualifier
+in Poland	-19
++19	1875
+1382	0
++3	6
+95
+December 22
+1984	Albania
+Belgium	2
+0	World Cup qualifier
+in Albania	+51
+-51	1433
+1741	+10
+-5	85
+25
+February 27
+1985	Greece
+Albania	2
+0	World Cup qualifier
+in Greece	+11
+-11	1600
+1422	+4
+-2	45
+87
+March 28
+1985	Albania
+Turkey	0
+0	Friendly
+in Albania	-1
++1	1421
+1493	0
+0	86
+73
+May 30
+1985	Albania
+Poland	0
+1	World Cup qualifier
+in Albania	-6
++6	1415
+1823	-1
++1	86
+10
+October 30
+1985	Albania
+Greece	1
+1	World Cup qualifier
+in Albania	+2
+-2	1417
+1555	0
+0	86
+60
+October 15
+1986	Austria
+Albania	3
+0	European Cup qualifier
+in Austria	+7
+-7	1698
+1410	+3
+-1	30
+88
+December 03
+1986	Albania
+Spain	1
+2	European Cup qualifier
+in Albania	-3
++3	1407
+1953	0
++1	88
+3
+March 25
+1987	Romania
+Albania	5
+1	European Cup qualifier
+in Romania	+4
+-4	1809
+1403	0
+-1	14
+89
+April 29
+1987	Albania
+Austria	0
+1	European Cup qualifier
+in Albania	-9
++9	1394
+1717	-2
+0	91
+28
+October 28
+1987	Albania
+Romania	0
+1	European Cup qualifier
+in Albania	-5
++5	1389
+1827	-1
++2	94
+13
+November 18
+1987	Spain
+Albania	5
+0	European Cup qualifier
+in Spain	+2
+-2	1921
+1387	0
+0	5
+94
+August 06
+1988	Albania
+Cuba	0
+0	Friendly
+in Albania	-1
++1	1386
+1440	0
+0	95
+80
+September 20
+1988	Romania
+Albania	3
+0	Friendly
+in Romania	+2
+-2	1814
+1384	+1
+0	13
+96
+October 19
+1988	Poland
+Albania	1
+0	World Cup qualifier
+in Poland	+2
+-2	1760
+1382	0
+0	25
+97
+November 05
+1988	Albania
+Sweden	1
+2	World Cup qualifier
+in Albania	-3
++3	1379
+1906	0
+0	97
+6
+January 18
+1989	Albania
+Greece	1
+1	Friendly
+in Albania	+5
+-5	1384
+1657	0
+-1	99
+37
+March 08
+1989	Albania
+England	0
+2	World Cup qualifier
+in Albania	-6
++6	1378
+1857	0
+0	99
+10
+April 26
+1989	England
+Albania	5
+0	World Cup qualifier
+in England	+3
+-3	1860
+1375	+2
+0	8
+99
+October 08
+1989	Sweden
+Albania	3
+1	World Cup qualifier
+in Sweden	+2
+-2	1889
+1373	0
+0	7
+102
+November 15
+1989	Albania
+Poland	1
+2	World Cup qualifier
+in Albania	-7
++7	1366
+1750	-1
++1	103
+23
+May 30
+1990	Iceland
+Albania	2
+0	European Cup qualifier
+in Iceland	+12
+-12	1518
+1354	+1
+-4	67
+106
+September 05
+1990	Greece
+Albania	1
+0	Friendly
+in Greece	+2
+-2	1655
+1352	0
+0	35
+106
+November 17
+1990	Albania
+France	0
+1	European Cup qualifier
+in Albania	-3
++3	1349
+1884	-1
+0	107
+8
+December 19
+1990	Spain
+Albania	9
+0	European Cup qualifier
+in Spain	+2
+-2	1899
+1347	0
+-1	7
+108
+March 30
+1991	France
+Albania	5
+0	European Cup qualifier
+in France	+2
+-2	1908
+1345	0
+-1	7
+110
+May 01
+1991	Albania
+Czechoslovakia	0
+2	European Cup qualifier
+in Albania	-5
++5	1340
+1874	0
++2	110
+8
+May 26
+1991	Albania
+Iceland	1
+0	European Cup qualifier
+in Albania	+24
+-24	1364
+1495	+7
+-5	103
+66
+September 04
+1991	Greece
+Albania	0
+2	Friendly
+in Greece	-27
++27	1641
+1391	-3
++7	38
+97
+October 16
+1991	Czechoslovakia
+Albania	2
+1	European Cup qualifier
+in Czechoslovakia	+1
+-1	1862
+1390	0
+0	10
+97
+January 29
+1992	Albania
+Greece	1
+0	Friendly
+in Albania	+14
+-14	1404
+1610	+7
+-4	89
+46
+April 22
+1992	Spain
+Albania	3
+0	World Cup qualifier
+in Spain	+4
+-4	1800
+1400	0
+-4	17
+93
+May 26
+1992	Ireland
+Albania	2
+0	World Cup qualifier
+in Ireland	+2
+-2	1868
+1398	0
+-1	9
+96
+June 03
+1992	Albania
+Lithuania	1
+0	World Cup qualifier
+in Albania	+7
+-7	1405
+1210	+5
+-4	91
+145
+September 09
+1992	Northern Ireland
+Albania	3
+0	World Cup qualifier
+in Northern Ireland	+11
+-11	1613
+1394	+1
+-5	47
+98
+November 11
+1992	Albania
+Latvia	1
+1	World Cup qualifier
+in Albania	-6
++6	1388
+1400	-1
++2	101
+98
+February 14
+1993	Albania
+Kosovo	3
+1	Friendly
+in Albania	+11
+-11	1399
+1389	+3
+-	97
+100
+February 17
+1993	Albania
+Northern Ireland	1
+2	World Cup qualifier
+in Albania	-14
++14	1385
+1620	-4
++7	101
+42
+April 14
+1993	Lithuania
+Albania	3
+1	World Cup qualifier
+in Lithuania	+27
+-27	1346
+1358	+10
+-5	110
+105
+May 15
+1993	Latvia
+Albania	0
+0	World Cup qualifier
+in Latvia	-7
++7	1381
+1365	-1
++1	101
+104
+May 26
+1993	Albania
+Ireland	1
+2	World Cup qualifier
+in Albania	-4
++4	1361
+1864	0
+0	105
+11
+June 02
+1993	Denmark
+Albania	4
+0	World Cup qualifier
+in Denmark	+2
+-2	1902
+1359	+1
+-1	6
+106
+September 08
+1993	Albania
+Denmark	0
+1	World Cup qualifier
+in Albania	-3
++3	1356
+1906	0
+0	111
+5
+September 22
+1993	Albania
+Spain	1
+5	World Cup qualifier
+in Albania	-9
++9	1347
+1816	-3
++1	114
+16
+May 14
+1994	Macedonia
+Albania	5
+1	Friendly
+in Macedonia	+6
+-6	1538
+1341	+3
+0	61
+119
+September 07
+1994	Wales
+Albania	2
+0	European Cup qualifier
+in Wales	+4
+-4	1713
+1337	0
+-2	28
+122
+November 16
+1994	Albania
+Germany	1
+2	European Cup qualifier
+in Albania	-2
++2	1335
+1952	0
++1	123
+2
+December 14
+1994	Albania
+Georgia	0
+1	European Cup qualifier
+in Albania	-15
++15	1320
+1530	-4
++6	127
+64
+December 18
+1994	Germany
+Albania	2
+1	European Cup qualifier
+in Germany	+1
+-1	1959
+1319	0
+0	2
+127
+March 29
+1995	Albania
+Moldova	3
+0	European Cup qualifier
+in Albania	+38
+-38	1357
+1412	+13
+-14	114
+101
+April 26
+1995	Georgia
+Albania	2
+0	European Cup qualifier
+in Georgia	+11
+-11	1533
+1346	+4
+-3	62
+118
+June 07
+1995	Moldova
+Albania	2
+3	European Cup qualifier
+in Moldova	-28
++28	1374
+1374	-12
++5	113
+113
+August 16
+1995	Malta
+Albania	2
+1	Friendly
+in Malta	+8
+-8	1346
+1366	+1
+-2	119
+115
+September 06
+1995	Albania
+Bulgaria	1
+1	European Cup qualifier
+in Albania	+16
+-16	1382
+1830	+3
+-4	112
+13
+October 07
+1995	Bulgaria
+Albania	3
+0	European Cup qualifier
+in Bulgaria	+3
+-3	1833
+1379	0
+0	12
+112
+November 15
+1995	Albania
+Wales	1
+1	European Cup qualifier
+in Albania	+6
+-6	1385
+1575	-1
+0	112
+50
+November 30
+1995	Albania
+Bosnia and Herzegovina	2
+0	Friendly
+in Albania	+17
+-17	1402
+1506	+7
+-1	104
+70
+April 24
+1996	Bosnia and Herzegovina
+Albania	0
+0	Friendly
+in Bosnia and Herzegovina	-5
++5	1496
+1407	-1
++1	72
+104
+August 14
+1996	Greece
+Albania	2
+1	Friendly
+in Greece	+3
+-3	1595
+1404	0
+-1	48
+104
+October 09
+1996	Albania
+Portugal	0
+3	World Cup qualifier
+in Albania	-9
++9	1395
+1846	-1
++1	104
+13
+November 09
+1996	Albania
+Armenia	1
+1	World Cup qualifier
+in Albania	-7
++7	1388
+1384	-5
++2	107
+110
+December 14
+1996	Northern Ireland
+Albania	2
+0	World Cup qualifier
+in Northern Ireland	+9
+-9	1593
+1379	+2
+-5	51
+111
+March 29
+1997	Albania
+Ukraine	0
+1	World Cup qualifier
+in Albania	-12
++12	1367
+1630	-3
++6	117
+42
+April 02
+1997	Germany
+Albania	3
+2	World Cup qualifier
+in Spain	+1
+-1	2045
+1366	0
+0	1
+117
+June 07
+1997	Portugal
+Albania	2
+0	World Cup qualifier
+in Portugal	+2
+-2	1834
+1364	0
+0	13
+114
+August 20
+1997	Ukraine
+Albania	1
+0	World Cup qualifier
+in Ukraine	+4
+-4	1644
+1360	+3
+-2	41
+117
+September 06
+1997	Armenia
+Albania	3
+0	World Cup qualifier
+in Armenia	+22
+-22	1414
+1338	+7
+-4	99
+121
+September 10
+1997	Albania
+Northern Ireland	1
+0	World Cup qualifier
+in Switzerland	+32
+-32	1370
+1555	+8
+-8	112
+62
+October 11
+1997	Germany
+Albania	4
+3	World Cup qualifier
+in Germany	+1
+-1	2028
+1369	0
+0	2
+112
+January 21
+1998	Turkey
+Albania	1
+4	Friendly
+in Turkey	-32
++32	1642
+1401	-7
++11	44
+103
+February 06
+1998	Malta
+Albania	1
+1	Rothmans Tournament
+in Malta	+5
+-5	1191
+1396	+1
+-1	154
+104
+February 08
+1998	Georgia
+Albania	3
+0	Rothmans Tournament
+in Malta	+13
+-13	1603
+1383	+3
+-4	50
+108
+February 10
+1998	Latvia
+Albania	2
+2	Rothmans Tournament
+in Malta	+1
+-1	1368
+1382	0
+0	113
+108
+August 19
+1998	Cyprus
+Albania	3
+2	Friendly
+in Cyprus	+6
+-6	1442
+1376	+2
+-3	93
+112
+September 05
+1998	Georgia
+Albania	1
+0	European Cup qualifier
+in Georgia	+6
+-6	1598
+1370	+1
+-1	57
+113
+October 14
+1998	Norway
+Albania	2
+2	European Cup qualifier
+in Norway	-18
++18	1803
+1388	0
++3	16
+109
+November 18
+1998	Albania
+Greece	0
+0	European Cup qualifier
+in Albania	+10
+-10	1398
+1672	+4
+-1	104
+37
+February 10
+1999	Albania
+Macedonia	2
+0	Friendly
+in Albania	+16
+-16	1414
+1504	+8
+-2	98
+69
+April 28
+1999	Latvia
+Albania	0
+0	European Cup qualifier
+in Latvia	-6
++6	1423
+1420	-1
+0	93
+95
+June 05
+1999	Albania
+Norway	1
+2	European Cup qualifier
+in Albania	-5
++5	1415
+1870	+1
+0	96
+13
+June 09
+1999	Albania
+Slovenia	0
+1	European Cup qualifier
+in Albania	-19
++19	1396
+1549	-8
++6	104
+60
+August 18
+1999	Slovenia
+Albania	2
+0	European Cup qualifier
+in Slovenia	+11
+-11	1560
+1385	0
+-1	61
+106
+September 04
+1999	Albania
+Latvia	3
+3	European Cup qualifier
+in Albania	-3
++3	1382
+1440	0
++2	107
+92
+October 06
+1999	Greece
+Albania	2
+0	European Cup qualifier
+in Greece	+6
+-6	1660
+1376	+1
+-1	40
+108
+October 09
+1999	Albania
+Georgia	2
+1	European Cup qualifier
+in Albania	+20
+-20	1396
+1464	+3
+-7	105
+86
+February 06
+2000	Albania
+Andorra	3
+0	Rothmans Tournament
+in Malta	+6
+-6	1402
+1023	+1
+0	103
+184
+February 08
+2000	Albania
+Azerbaijan	1
+0	Rothmans Tournament
+in Malta	+9
+-9	1411
+1237	+3
+-4	100
+147
+February 10
+2000	Malta
+Albania	0
+1	Rothmans Tournament
+in Malta	-11
++11	1208
+1422	-2
++4	153
+96
+April 26
+2000	Macedonia
+Albania	1
+0	Friendly
+in Macedonia	+5
+-5	1500
+1417	+2
+-1	74
+97
+August 15
+2000	Albania
+Cyprus	0
+0	Friendly
+in Albania	0
+0	1417
+1506	0
+0	97
+73
+September 02
+2000	Finland
+Albania	2
+1	World Cup qualifier
+in Finland	+7
+-7	1581
+1410	+3
+-4	57
+99
+October 11
+2000	Albania
+Greece	2
+0	World Cup qualifier
+in Albania	+47
+-47	1457
+1680	+14
+-10	85
+38
+November 15
+2000	Albania
+Malta	3
+0	Friendly
+in Albania	+4
+-4	1461
+1198	+2
+-2	81
+156
+March 24
+2001	Germany
+Albania	2
+1	World Cup qualifier
+in Germany	+2
+-2	1846
+1459	+1
+0	10
+82
+March 28
+2001	Albania
+England	1
+3	World Cup qualifier
+in Albania	-10
++10	1449
+1849	-2
+0	85
+12
+April 25
+2001	Turkey
+Albania	0
+2	Friendly
+in Turkey	-27
++27	1708
+1476	-5
++5	34
+80
+June 02
+2001	Greece
+Albania	1
+0	World Cup qualifier
+in Greece	+7
+-7	1656
+1469	+1
+0	44
+79
+June 06
+2001	Albania
+Germany	0
+2	World Cup qualifier
+in Albania	-9
++9	1460
+1875	-3
+-1	83
+9
+September 01
+2001	Albania
+Finland	0
+2	World Cup qualifier
+in Albania	-24
++24	1436
+1654	-10
++5	95
+46
+September 05
+2001	England
+Albania	2
+0	World Cup qualifier
+in England	+2
+-2	1916
+1434	0
+-1	7
+97
+January 05
+2002	Albania
+Macedonia	0
+0	Friendly tournament
+in Bahrain	-1
++1	1433
+1410	0
+0	96
+101
+January 07
+2002	Albania
+Finland	1
+1	Friendly tournament
+in Bahrain	+10
+-10	1443
+1700	+2
+-6	93
+39
+January 10
+2002	Bahrain
+Albania	3
+0	Friendly tournament
+in Bahrain	+17
+-17	1494
+1426	+2
+-4	80
+97
+February 13
+2002	Luxembourg
+Albania	0
+0	Friendly
+in Luxembourg	+6
+-6	1084
+1420	0
+-2	175
+98
+March 13
+2002	Mexico
+Albania	4
+0	Friendly
+in the United States	+4
+-4	1799
+1416	0
+0	21
+98
+March 27
+2002	Albania
+Azerbaijan	1
+0	Friendly
+in Albania	+4
+-4	1420
+1264	0
+0	98
+138
+April 17
+2002	Andorra
+Albania	2
+0	Friendly
+in Andorra	+25
+-25	1073
+1395	+2
+-5	176
+103
+September 07
+2002	Kosovo
+Albania	0
+1	Friendly
+in Kosovo	-13
++13	1376
+1408	-5
++3	112
+102
+October 12
+2002	Albania
+Switzerland	1
+1	European Cup qualifier
+in Albania	+8
+-8	1416
+1638	+4
+-4	97
+44
+October 16
+2002	Russia
+Albania	4
+1	European Cup qualifier
+in Russia	+5
+-5	1782
+1411	-1
+-2	22
+99
+March 29
+2003	Albania
+Russia	3
+1	European Cup qualifier
+in Albania	+51
+-51	1462
+1758	+13
+-7	87
+23
+April 02
+2003	Albania
+Ireland	0
+0	European Cup qualifier
+in Albania	+13
+-13	1475
+1828	+4
+-1	82
+14
+April 30
+2003	Bulgaria
+Albania	2
+0	Friendly
+in Bulgaria	+4
+-4	1722
+1471	0
+-1	32
+83
+June 07
+2003	Ireland
+Albania	2
+1	European Cup qualifier
+in Ireland	+3
+-3	1836
+1468	0
+0	13
+83
+June 11
+2003	Switzerland
+Albania	3
+2	European Cup qualifier
+in Switzerland	+6
+-6	1685
+1462	+1
+0	36
+83
+August 20
+2003	Macedonia
+Albania	3
+1	Friendly
+in Macedonia	+13
+-13	1423
+1449	+4
+-6	96
+89
+September 06
+2003	Georgia
+Albania	3
+0	European Cup qualifier
+in Georgia	+17
+-17	1566
+1432	0
+-2	62
+92
+September 10
+2003	Albania
+Georgia	3
+1	European Cup qualifier
+in Albania	+33
+-33	1465
+1533	+9
+-5	83
+67
+October 11
+2003	Portugal
+Albania	5
+3	Friendly
+in Portugal	+1
+-1	1891
+1464	0
+-2	9
+88
+November 15
+2003	Albania
+Estonia	2
+0	Friendly
+in Albania	+8
+-8	1472
+1369	+3
+-4	82
+115
+February 18
+2004	Albania
+Sweden	2
+1	Friendly
+in Albania	+15
+-15	1487
+1730	0
+-2	80
+28
+March 31
+2004	Albania
+Iceland	2
+1	Friendly
+in Albania	+9
+-9	1496
+1545	+1
+-2	77
+66
+April 28
+2004	Estonia
+Albania	1
+1	Friendly
+in Estonia	+1
+-1	1359
+1495	+1
++1	116
+76
+August 18
+2004	Cyprus
+Albania	2
+1	Friendly
+in Cyprus	+9
+-9	1446
+1486	+5
+0	90
+78
+September 04
+2004	Albania
+Greece	2
+1	World Cup qualifier
+in Albania	+34
+-34	1520
+1862	+2
+-3	76
+10
+September 08
+2004	Georgia
+Albania	2
+0	World Cup qualifier
+in Georgia	+26
+-26	1488
+1494	+6
+-3	82
+78
+October 09
+2004	Albania
+Denmark	0
+2	World Cup qualifier
+in Albania	-12
++12	1482
+1846	-5
++2	84
+11
+October 13
+2004	Kazakhstan
+Albania	0
+1	World Cup qualifier
+in Kazakhstan	-18
++18	1325
+1500	-4
++6	123
+78
+February 09
+2005	Albania
+Ukraine	0
+2	World Cup qualifier
+in Albania	-21
++21	1479
+1727	-7
+0	85
+31
+March 26
+2005	Turkey
+Albania	2
+0	World Cup qualifier
+in Turkey	+6
+-6	1771
+1473	+3
+-1	22
+84
+March 30
+2005	Greece
+Albania	2
+0	World Cup qualifier
+in Greece	+3
+-3	1876
+1470	+1
++1	10
+83
+May 29
+2005	Poland
+Albania	1
+0	Friendly
+in Poland	+2
+-2	1756
+1468	0
+0	27
+84
+June 04
+2005	Albania
+Georgia	3
+2	World Cup qualifier
+in Albania	+14
+-14	1482
+1452	+2
+-3	82
+88
+June 08
+2005	Denmark
+Albania	3
+1	World Cup qualifier
+in Denmark	+5
+-5	1811
+1477	+1
+-1	18
+83
+August 17
+2005	Albania
+Azerbaijan	2
+1	Friendly
+in Albania	+4
+-4	1481
+1321	-1
+0	84
+126
+September 03
+2005	Albania
+Kazakhstan	2
+1	World Cup qualifier
+in Albania	+6
+-6	1487
+1285	0
+-3	84
+136
+October 08
+2005	Ukraine
+Albania	2
+2	World Cup qualifier
+in Ukraine	-16
++16	1730
+1503	-5
++2	33
+82
+October 12
+2005	Albania
+Turkey	0
+1	World Cup qualifier
+in Albania	-9
++9	1494
+1819	0
++1	82
+17
+March 01
+2006	Albania
+Lithuania	1
+2	Friendly
+in Albania	-14
++14	1480
+1444	-6
++3	83
+93
+March 22
+2006	Albania
+Georgia	0
+0	Friendly
+in Albania	-3
++3	1477
+1479	-1
++1	84
+83
+August 16
+2006	San Marino
+Albania	0
+3	Friendly
+in San Marino	-2
++2	915
+1479	-1
+-3	196
+84
+September 02
+2006	Belarus
+Albania	2
+2	European Cup qualifier
+in Belarus	-8
++8	1524
+1487	-3
++2	75
+82
+September 06
+2006	Albania
+Romania	0
+2	European Cup qualifier
+in Albania	-13
++13	1474
+1819	-4
++1	86
+15
+October 11
+2006	Netherlands
+Albania	2
+1	European Cup qualifier
+in the Netherlands	+1
+-1	1964
+1473	0
++2	5
+86
+February 07
+2007	Albania
+Macedonia	0
+1	Friendly
+in Albania	-12
++12	1461
+1513	-3
++3	89
+77
+March 24
+2007	Albania
+Slovenia	0
+0	European Cup qualifier
+in Albania	-1
++1	1460
+1536	0
+-3	89
+72
+March 28
+2007	Bulgaria
+Albania	0
+0	European Cup qualifier
+in Bulgaria	-16
++16	1714
+1476	-2
++3	36
+87
+June 02
+2007	Albania
+Luxembourg	2
+0	European Cup qualifier
+in Albania	+2
+-2	1478
+972	+1
+0	86
+190
+June 06
+2007	Luxembourg
+Albania	0
+3	European Cup qualifier
+in Luxembourg	-6
++6	966
+1484	0
+0	190
+86
+August 22
+2007	Albania
+Malta	3
+0	Friendly
+in Albania	+4
+-4	1488
+1230	+2
+-1	79
+149
+September 12
+2007	Albania
+Netherlands	0
+1	European Cup qualifier
+in Albania	-4
++4	1484
+1968	0
+0	79
+6
+October 13
+2007	Slovenia
+Albania	0
+0	European Cup qualifier
+in Slovenia	-8
++8	1533
+1492	-1
++3	70
+77
+October 17
+2007	Albania
+Bulgaria	1
+1	European Cup qualifier
+in Albania	+7
+-7	1499
+1712	-2
+-1	79
+37
+November 17
+2007	Albania
+Belarus	2
+4	European Cup qualifier
+in Albania	-42
++42	1457
+1497	-12
++11	90
+79
+November 21
+2007	Romania
+Albania	6
+1	European Cup qualifier
+in Romania	+4
+-4	1876
+1453	0
+-1	10
+91
+May 27
+2008	Poland
+Albania	1
+0	Friendly
+in Germany	+3
+-3	1759
+1450	0
+-1	27
+95
+August 20
+2008	Albania
+Liechtenstein	2
+0	Friendly
+in Albania	+3
+-3	1453
+1153	+2
+-1	93
+169
+September 06
+2008	Albania
+Sweden	0
+0	World Cup qualifier
+in Albania	+10
+-10	1463
+1729	+3
+-2	90
+32
+September 10
+2008	Albania
+Malta	3
+0	World Cup qualifier
+in Albania	+8
+-8	1471
+1205	0
+-2	89
+155
+October 11
+2008	Hungary
+Albania	2
+0	World Cup qualifier
+in Hungary	+16
+-16	1563
+1455	+4
+-3	62
+92
+October 15
+2008	Portugal
+Albania	0
+0	World Cup qualifier
+in Portugal	-17
++17	1799
+1472	-4
+0	17
+92
+November 19
+2008	Azerbaijan
+Albania	1
+1	Friendly
+in Azerbaijan	+1
+-1	1338
+1471	-1
+0	124
+92
+February 11
+2009	Malta
+Albania	0
+0	World Cup qualifier
+in Malta	+10
+-10	1200
+1461	+2
+-3	156
+90
+March 28
+2009	Albania
+Hungary	0
+1	World Cup qualifier
+in Albania	-19
++19	1442
+1603	-7
++5	97
+51
+April 01
+2009	Denmark
+Albania	3
+0	World Cup qualifier
+in Denmark	+5
+-5	1797
+1437	+4
+-1	14
+98
+June 06
+2009	Albania
+Portugal	1
+2	World Cup qualifier
+in Albania	-7
++7	1430
+1801	+1
++1	97
+13
+June 10
+2009	Albania
+Georgia	1
+1	Friendly
+in Albania	-2
++2	1428
+1454	-2
+0	99
+94
+August 12
+2009	Albania
+Cyprus	6
+1	Friendly
+in Albania	+18
+-18	1446
+1479	+6
+-3	93
+88
+September 09
+2009	Albania
+Denmark	1
+1	World Cup qualifier
+in Albania	+13
+-13	1459
+1788	+3
+-4	90
+18
+October 14
+2009	Sweden
+Albania	4
+1	World Cup qualifier
+in Sweden	+7
+-7	1747
+1452	+2
+-1	26
+92
+November 14
+2009	Estonia
+Albania	0
+0	Friendly
+in Estonia	-2
++2	1409
+1454	-3
+0	107
+93
+February 17
+2010	Kosovo
+Albania	2
+3	Friendly
+in Kosovo	-11
++11	1371
+1465	-2
++1	113
+92
+March 03
+2010	Albania
+Northern Ireland	1
+0	Friendly
+in Albania	+9
+-9	1474
+1536	+1
+-5	92
+76
+May 25
+2010	Montenegro
+Albania	0
+1	Friendly
+in Montenegro	-16
++16	1582
+1490	-1
++4	54
+87
+June 02
+2010	Albania
+Andorra	1
+0	Friendly
+in Albania	+1
+-1	1491
+1002	0
+0	87
+185
+August 11
+2010	Albania
+Uzbekistan	1
+0	Friendly
+in Albania	+7
+-7	1498
+1479	0
+-4	86
+91
+September 03
+2010	Romania
+Albania	1
+1	European Cup qualifier
+in Romania	-14
++14	1697
+1512	-1
++4	33
+82
+September 07
+2010	Albania
+Luxembourg	1
+0	European Cup qualifier
+in Albania	+2
+-2	1514
+1060	+1
+-1	80
+180
+October 08
+2010	Albania
+Bosnia and Herzegovina	1
+1	European Cup qualifier
+in Albania	-2
++2	1512
+1587	0
++1	80
+56
+October 12
+2010	Belarus
+Albania	2
+0	European Cup qualifier
+in Belarus	+15
+-15	1618
+1497	+4
+-1	50
+85
+November 17
+2010	Albania
+Macedonia	0
+0	Friendly
+in Albania	-2
++2	1495
+1544	-1
++1	88
+71
+February 09
+2011	Albania
+Slovenia	1
+2	Friendly
+in Albania	-8
++8	1487
+1673	-2
++2	90
+39
+March 26
+2011	Albania
+Belarus	1
+0	European Cup qualifier
+in Albania	+22
+-22	1509
+1607	+6
+-9	83
+57
+June 07
+2011	Bosnia and Herzegovina
+Albania	2
+0	European Cup qualifier
+in Bosnia and Herzegovina	+15
+-15	1609
+1494	+2
+-6	56
+85
+June 20
+2011	Argentina
+Albania	4
+0	Friendly
+in Argentina	+2
+-2	1927
+1492	0
+0	5
+86
+August 10
+2011	Albania
+Montenegro	3
+2	Friendly
+in Albania	+12
+-12	1504
+1657	+5
+-3	79
+44
+September 02
+2011	Albania
+France	1
+2	European Cup qualifier
+in Albania	-9
++9	1495
+1826	-5
++2	84
+13
+September 06
+2011	Luxembourg
+Albania	2
+1	European Cup qualifier
+in Luxembourg	+34
+-34	1126
+1461	+5
+-10	171
+94
+October 07
+2011	France
+Albania	3
+0	European Cup qualifier
+in France	+5
+-5	1828
+1456	0
+-2	13
+96
+October 11
+2011	Albania
+Romania	1
+1	European Cup qualifier
+in Albania	+7
+-7	1463
+1667	+2
+-2	94
+41
+November 11
+2011	Albania
+Azerbaijan	0
+1	Friendly
+in Albania	-15
++15	1448
+1380	-2
++6	96
+110
+November 15
+2011	Macedonia
+Albania	0
+0	Friendly
+in Macedonia	-4
++4	1475
+1452	-2
+0	92
+96
+February 29
+2012	Georgia
+Albania	2
+1	Friendly
+in Georgia	+7
+-7	1469
+1445	+2
+0	92
+96
+May 22
+2012	Albania
+Qatar	2
+1	Friendly
+in Spain	+12
+-12	1457
+1495	+1
+-3	94
+87
+May 27
+2012	Albania
+Iran	1
+0	Friendly
+in Turkey	+16
+-16	1473
+1699	+2
+-1	92
+33
+August 15
+2012	Albania
+Moldova	0
+0	Friendly
+in Albania	-5
++5	1468
+1376	-1
++1	92
+109
+September 07
+2012	Albania
+Cyprus	3
+1	World Cup qualifier
+in Albania	+19
+-19	1487
+1415	+5
+-2	86
+101
+September 11
+2012	Switzerland
+Albania	2
+0	World Cup qualifier
+in Switzerland	+5
+-5	1791
+1482	+1
+-2	19
+87
+October 12
+2012	Albania
+Iceland	1
+2	World Cup qualifier
+in Albania	-28
++28	1454
+1465	-9
++5	96
+93
+October 16
+2012	Albania
+Slovenia	1
+0	World Cup qualifier
+in Albania	+23
+-23	1477
+1582	+5
+-8	89
+62
+November 14
+2012	Albania
+Cameroon	0
+0	Friendly
+in Switzerland	+3
+-3	1480
+1587	+2
+-2	88
+60
+February 06
+2013	Albania
+Georgia	1
+2	Friendly
+in Albania	-13
++13	1467
+1493	-4
++2	91
+85
+March 22
+2013	Norway
+Albania	0
+1	World Cup qualifier
+in Norway	-35
++35	1685
+1502	-6
++8	35
+84
+March 26
+2013	Albania
+Lithuania	4
+1	Friendly
+in Albania	+10
+-10	1512
+1444	+3
+-2	80
+97
+June 07
+2013	Albania
+Norway	1
+1	World Cup qualifier
+in Albania	+4
+-4	1516
+1681	0
+-1	79
+38
+August 14
+2013	Albania
+Armenia	2
+0	Friendly
+in Albania	+10
+-10	1526
+1497	+2
+-4	77
+86
+September 06
+2013	Slovenia
+Albania	1
+0	World Cup qualifier
+in Slovenia	+12
+-12	1583
+1514	+4
+-4	59
+82
+September 10
+2013	Iceland
+Albania	2
+1	World Cup qualifier
+in Iceland	+17
+-17	1486
+1497	+5
+-3	86
+84
+October 11
+2013	Albania
+Switzerland	1
+2	World Cup qualifier
+in Albania	-9
++9	1488
+1828	-2
++1	86
+17
+October 15
+2013	Cyprus
+Albania	0
+0	World Cup qualifier
+in Cyprus	+2
+-2	1360
+1486	-1
+0	120
+86
+November 15
+2013	Belarus
+Albania	0
+0	Friendly
+in Turkey	-2
++2	1566
+1488	-3
++2	63
+84
+March 05
+2014	Albania
+Malta	2
+0	Friendly
+in Albania	+3
+-3	1491
+1223	0
+-1	86
+149

@@ -1,0 +1,5949 @@
+May 09
+1917	Japan
+China	0
+5	Far Eastern Games
+in Japan	-20
++20	1180
+1509	-
+0	29
+23
+May 10
+1917	Japan
+Philippines	2
+15	Far Eastern Games
+in Japan	-55
++55	1125
+1366	0
+0	29
+27
+May 30
+1921	Philippines
+Japan	3
+0	Far Eastern Games
+in China	+15
+-15	1369
+1110	0
+0	32
+35
+June 02
+1921	China
+Japan	4
+1	Far Eastern Games
+in China	+3
+-3	1532
+1107	0
+0	26
+35
+May 23
+1923	Japan
+Philippines	1
+2	Far Eastern Games
+in Japan	-13
++13	1094
+1355	0
+0	48
+44
+May 24
+1923	Japan
+China	1
+5	Far Eastern Games
+in Japan	-9
++9	1085
+1560	0
++1	48
+29
+May 20
+1925	China
+Japan	2
+0	Far Eastern Games
+in the Philippines	+3
+-3	1589
+1082	0
+0	27
+54
+May 23
+1925	Philippines
+Japan	4
+0	Far Eastern Games
+in the Philippines	+9
+-9	1338
+1073	0
+0	48
+54
+August 27
+1927	China
+Japan	5
+1	Far Eastern Games
+in China	+2
+-2	1591
+1071	0
+0	27
+61
+August 29
+1927	Japan
+Philippines	2
+1	Far Eastern Games
+in China	+33
+-33	1104
+1305	0
+-1	61
+56
+May 25
+1930	Japan
+Philippines	7
+2	Far Eastern Games
+in Japan	+51
+-51	1155
+1248	+1
+-1	63
+61
+May 29
+1930	Japan
+China	3
+3	Far Eastern Games
+in Japan	+15
+-15	1170
+1591	0
+-1	63
+26
+May 13
+1934	Dutch East Indies
+Japan	7
+1	Far Eastern Games
+in the Philippines	+18
+-18	1418
+1152	-
+-1	48
+68
+May 15
+1934	Philippines
+Japan	3
+4	Far Eastern Games
+in the Philippines	-29
++29	1199
+1181	0
++1	64
+67
+May 19
+1934	China
+Japan	4
+3	Far Eastern Games
+in the Philippines	+3
+-3	1620
+1178	0
+0	25
+67
+August 04
+1936	Japan
+Sweden	3
+2	Olympic Games
+in Germany	+57
+-57	1235
+1648	+3
+-7	66
+22
+August 07
+1936	Italy
+Japan	8
+0	Olympic Games
+in Germany	+2
+-2	1989
+1233	0
+0	1
+66
+March 07
+1951	Iran
+Japan	0
+0	Asian Games
+in India	-15
++15	1550
+1248	-5
++1	38
+93
+March 08
+1951	Iran
+Japan	3
+2	Asian Games
+in India	+6
+-6	1556
+1242	+2
+0	36
+93
+March 09
+1951	Japan
+Afghanistan	2
+0	Asian Games
+in India	+15
+-15	1257
+1043	+1
+0	92
+102
+March 07
+1954	Japan
+South Korea	1
+5	World Cup qualifier
+in Japan	-13
++13	1244
+1646	-1
+0	99
+27
+March 14
+1954	Japan
+South Korea	2
+2	World Cup qualifier
+in Japan	+14
+-14	1258
+1632	+1
+0	98
+27
+May 01
+1954	India
+Japan	3
+2	Asian Games
+in the Philippines	+8
+-8	1513
+1250	0
+-1	47
+99
+May 02
+1954	Indonesia
+Japan	5
+3	Asian Games
+in the Philippines	+23
+-23	1361
+1227	+4
+-4	82
+103
+January 11
+1955	Burma
+Japan	0
+1	Friendly
+in Burma	-14
++14	1261
+1241	-2
++2	100
+103
+October 19
+1955	Japan
+Burma	0
+0	Friendly
+in Japan	-2
++2	1239
+1263	0
+0	102
+98
+June 01
+1956	Philippines
+Japan	0
+2	South East Asian Games
+in the Philippines	-34
++34	1156
+1273	-3
++10	113
+92
+June 02
+1956	Philippines
+Japan	0
+3	South East Asian Games
+in the Philippines	-33
++33	1123
+1306	-3
++10	113
+92
+June 03
+1956	Japan
+South Korea	2
+0	Olympic Games qualifier
+in Japan	+39
+-39	1345
+1471	+4
+-6	88
+55
+June 10
+1956	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-28
++28	1317
+1499	-2
++5	90
+50
+November 27
+1956	Australia
+Japan	2
+0	Olympic Games
+in Australia	+9
+-9	1610
+1308	0
+-2	33
+95
+May 25
+1958	Japan
+Hong Kong	0
+2	Asian Games
+in Japan	-25
++25	1283
+1491	-2
++5	101
+56
+May 27
+1958	Japan
+Philippines	0
+1	Asian Games
+in Japan	-33
++33	1250
+1135	-3
++1	104
+122
+December 28
+1958	Malaya
+Japan	6
+2	Friendly
+in Malaya	+8
+-8	1374
+1242	+1
+-3	84
+107
+January 04
+1959	Malaya
+Japan	1
+3	Friendly
+in Malaya	-24
++24	1350
+1266	-7
++4	91
+103
+January 10
+1959	Singapore
+Japan	3
+4	Friendly
+in Singapore	-13
++13	1266
+1279	-3
++3	103
+100
+January 11
+1959	Singapore
+Japan	3
+2	Friendly
+in Singapore	+8
+-8	1274
+1271	+1
+-3	102
+103
+August 30
+1959	Hong Kong
+Japan	1
+1	Merdeka Tournament
+in Malaya	-8
++8	1467
+1279	-4
++3	62
+100
+September 01
+1959	Hong Kong
+Japan	4
+2	Merdeka Tournament
+in Malaya	+11
+-11	1478
+1268	+4
+-2	58
+102
+September 03
+1959	Japan
+Singapore	4
+1	Merdeka Tournament
+in Malaya	+26
+-26	1294
+1235	+4
+-5	98
+108
+September 07
+1959	Japan
+South Korea	0
+0	Merdeka Tournament
+in Malaya	+10
+-10	1304
+1562	0
+-2	98
+44
+September 08
+1959	South Korea
+Japan	3
+1	Merdeka Tournament
+in Malaya	+8
+-8	1570
+1296	+2
+0	42
+98
+December 13
+1959	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-16
++16	1280
+1593	-3
++1	101
+40
+December 20
+1959	Japan
+South Korea	1
+0	Olympic Games qualifier
+in Japan	+31
+-31	1311
+1562	+4
+-4	97
+44
+August 05
+1960	Malaya
+Japan	3
+0	Merdeka Tournament
+in Malaya	+12
+-12	1426
+1299	+1
+-1	76
+105
+August 08
+1960	Japan
+Thailand	3
+1	Merdeka Tournament
+in Malaya	+17
+-17	1316
+1189	+1
+-4	104
+123
+August 11
+1960	Pakistan
+Japan	3
+1	Merdeka Tournament
+in Malaya	+17
+-17	1412
+1299	+4
+-1	80
+105
+November 06
+1960	South Korea
+Japan	2
+1	World Cup qualifier
+in South Korea	+3
+-3	1656
+1296	0
+0	28
+105
+May 28
+1961	Japan
+Malaya	3
+2	Friendly
+in Japan	+11
+-11	1307
+1435	0
+-2	105
+73
+June 11
+1961	Japan
+South Korea	0
+2	World Cup qualifier
+in Japan	-12
++12	1295
+1668	0
++1	105
+27
+August 03
+1961	Malaya
+Japan	3
+2	Merdeka Tournament
+in Malaya	+6
+-6	1441
+1289	0
+-1	72
+106
+August 05
+1961	South Vietnam
+Japan	3
+2	Merdeka Tournament
+in Malaya	+11
+-11	1401
+1278	+3
+-5	83
+111
+August 09
+1961	Japan
+India	3
+1	Merdeka Tournament
+in Malaya	+34
+-34	1312
+1438	+7
+-9	104
+71
+August 15
+1961	Indonesia
+Japan	2
+0	Friendly
+in Singapore	+7
+-7	1532
+1305	0
+-1	50
+105
+November 29
+1961	Japan
+Yugoslavia	0
+1	Friendly
+in Japan	-1
++1	1304
+1902	0
++1	106
+7
+August 24
+1962	Japan
+Thailand	3
+1	Asian Games
+in Indonesia	+21
+-21	1325
+1175	+5
+-2	102
+127
+August 27
+1962	India
+Japan	2
+0	Asian Games
+in Indonesia	+22
+-22	1444
+1303	+8
+-5	71
+107
+August 30
+1962	South Korea
+Japan	1
+0	Asian Games
+in Indonesia	+5
+-5	1631
+1298	+2
+-1	29
+108
+September 09
+1962	Burma
+Japan	3
+1	Merdeka Tournament
+in Malaya	+29
+-29	1224
+1269	+5
+-5	120
+113
+September 12
+1962	Malaya
+Japan	2
+2	Merdeka Tournament
+in Malaya	-10
++10	1450
+1279	-2
++2	70
+111
+September 15
+1962	Japan
+Pakistan	1
+1	Merdeka Tournament
+in Malaya	+5
+-5	1284
+1399	0
+-4	111
+87
+September 21
+1962	Singapore
+Japan	2
+1	Friendly
+in Singapore	+9
+-9	1245
+1275	+1
+-2	117
+113
+August 10
+1963	Malaysia
+Japan	3
+4	Merdeka Tournament
+in Malaysia	-24
++24	1397
+1299	-7
++6	88
+112
+August 12
+1963	Japan
+South Vietnam	5
+1	Merdeka Tournament
+in Malaysia	+34
+-34	1333
+1344	+6
+-8	106
+102
+August 13
+1963	Japan
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+9
+-9	1342
+1572	+3
+-1	103
+47
+August 15
+1963	Taiwan
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1583
+1333	0
+-3	45
+106
+August 17
+1963	Japan
+Thailand	4
+1	Merdeka Tournament
+in Malaysia	+18
+-18	1351
+1196	+6
+-3	100
+132
+October 13
+1963	Japan
+South Vietnam	2
+1	Friendly tournament
+in Japan	+12
+-12	1363
+1366	+3
+-4	98
+97
+March 03
+1964	Singapore
+Japan	1
+2	Friendly
+in Singapore	-9
++9	1236
+1372	-3
++3	126
+95
+August 22
+1964	South Vietnam
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+21
+-21	1409
+1351	+8
+-8	86
+104
+August 25
+1964	India
+Japan	3
+2	Merdeka Tournament
+in Malaysia	+9
+-9	1496
+1342	+4
+-1	63
+105
+August 28
+1964	Japan
+Khmer	4
+0	Merdeka Tournament
+in Malaysia	+8
+-8	1350
+1028	+1
+0	104
+151
+August 31
+1964	Japan
+Thailand	2
+2	Merdeka Tournament
+in Malaysia	-7
++7	1343
+1173	-1
++1	104
+138
+September 03
+1964	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1525
+1328	+6
+-3	55
+108
+September 05
+1964	Japan
+Taiwan	2
+2	Merdeka Tournament
+in Malaysia	+9
+-9	1337
+1545	+2
+-2	106
+52
+October 16
+1964	Japan
+Ghana	2
+3	Olympic Games
+in Japan	-12
++12	1325
+1698	-1
++2	107
+26
+October 20
+1964	Japan
+Yugoslavia	1
+6	Olympic Games Consolation Tournament
+in Japan	-7
++7	1318
+1845	-3
+0	110
+11
+March 11
+1965	Hong Kong
+Japan	1
+4	Friendly
+in Hong Kong	-23
++23	1315
+1341	-5
++4	109
+104
+March 15
+1965	Hong Kong
+Japan	1
+2	Friendly
+in Hong Kong	-12
++12	1303
+1353	-3
++2	112
+102
+March 22
+1965	Burma
+Japan	1
+1	Friendly
+in Burma	-1
++1	1296
+1354	0
+0	114
+102
+March 25
+1965	Singapore
+Japan	1
+4	Friendly
+in Singapore	-17
++17	1219
+1371	-1
++6	129
+96
+March 27
+1965	Malaysia
+Japan	1
+1	Friendly
+in Malaysia	-2
++2	1351
+1373	0
++1	103
+95
+August 14
+1965	Malaysia
+Japan	2
+2	Merdeka Tournament
+in Malaysia	-3
++3	1348
+1376	-1
+0	102
+93
+August 15
+1965	India
+Japan	1
+1	Merdeka Tournament
+in Malaysia	-5
++5	1490
+1381	-3
++2	67
+91
+August 19
+1965	Taiwan
+Japan	4
+0	Merdeka Tournament
+in Malaysia	+21
+-21	1496
+1360	+7
+-8	63
+99
+August 23
+1965	Japan
+Burma	3
+1	Merdeka Tournament
+in Malaysia	+22
+-22	1382
+1325	+8
+-5	91
+107
+August 25
+1965	Japan
+Thailand	0
+0	Merdeka Tournament
+in Malaysia	-7
++7	1375
+1207	-2
++3	93
+131
+August 28
+1965	Japan
+South Vietnam	2
+1	Merdeka Tournament
+in Malaysia	+17
+-17	1392
+1411	+4
+-5	89
+86
+August 14
+1966	South Korea
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1524
+1377	+5
+-7	56
+92
+August 18
+1966	South Vietnam
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+24
+-24	1381
+1353	+9
+-10	90
+102
+August 20
+1966	India
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+14
+-14	1539
+1339	+5
+-1	51
+103
+August 22
+1966	Japan
+Singapore	1
+0	Merdeka Tournament
+in Malaysia	+10
+-10	1349
+1216	+1
+-1	102
+132
+August 24
+1966	Japan
+Taiwan	5
+2	Merdeka Tournament
+in Malaysia	+30
+-30	1379
+1369	+11
+-11	91
+97
+December 10
+1966	Japan
+India	2
+1	Asian Games
+in Thailand	+27
+-27	1406
+1481	+8
+-9	86
+67
+December 11
+1966	Japan
+Iran	3
+1	Asian Games
+in Thailand	+41
+-41	1447
+1504	+10
+-7	76
+57
+December 14
+1966	Japan
+Malaysia	1
+0	Asian Games
+in Thailand	+9
+-9	1456
+1215	+2
+-2	74
+133
+December 16
+1966	Japan
+Singapore	5
+1	Asian Games
+in Thailand	+25
+-25	1481
+1308	+7
+-8	67
+113
+December 17
+1966	Thailand
+Japan	1
+5	Asian Games
+in Thailand	-25
++25	1233
+1506	-4
++9	129
+58
+December 18
+1966	Iran
+Japan	1
+0	Asian Games
+in Thailand	+19
+-19	1551
+1487	+4
+-10	49
+68
+December 19
+1966	Japan
+Singapore	2
+0	Asian Games
+in Thailand	+15
+-15	1502
+1276	+10
+-3	58
+120
+July 29
+1967	Taiwan
+Japan	2
+2	Asian Cup qualifier
+in Taiwan	+1
+-1	1381
+1501	0
+0	93
+62
+August 01
+1967	Japan
+South Korea	2
+1	Asian Cup qualifier
+in Taiwan	+17
+-17	1518
+1437	+4
+-1	58
+75
+August 03
+1967	Japan
+Philippines	2
+0	Asian Cup qualifier
+in Taiwan	+4
+-4	1522
+1034	+1
+0	56
+156
+August 05
+1967	Japan
+Indonesia	2
+1	Asian Cup qualifier
+in Taiwan	+16
+-16	1538
+1441	+4
+-1	52
+75
+September 27
+1967	Japan
+Philippines	15
+0	Olympic Games qualifier
+in Japan	+4
+-4	1542
+1015	+1
+0	51
+157
+September 30
+1967	Japan
+Taiwan	4
+0	Olympic Games qualifier
+in Japan	+15
+-15	1557
+1384	+4
+-4	47
+90
+October 03
+1967	Japan
+Lebanon	3
+1	Olympic Games qualifier
+in Japan	+11
+-11	1568
+1393	+3
+0	44
+85
+October 07
+1967	Japan
+South Korea	3
+3	Olympic Games qualifier
+in Japan	-5
++5	1563
+1581	-3
+0	47
+41
+October 10
+1967	Japan
+South Vietnam	1
+0	Olympic Games qualifier
+in Japan	+8
+-8	1571
+1415	+3
+0	44
+85
+March 26
+1968	Mexico
+Japan	4
+0	Friendly
+in Mexico	+6
+-6	1779
+1565	0
+-1	16
+47
+March 30
+1968	Australia
+Japan	2
+2	Friendly
+in Australia	-4
++4	1595
+1569	-1
+0	41
+47
+March 31
+1968	Australia
+Japan	3
+1	Friendly
+in Australia	+10
+-10	1605
+1559	+2
+-3	39
+50
+April 04
+1968	Australia
+Japan	1
+3	Friendly
+in Australia	-21
++21	1584
+1580	-4
++5	43
+45
+August 09
+1968	Indonesia
+Japan	7
+0	Merdeka Tournament
+in Malaysia	+47
+-47	1483
+1533	+7
+-13	70
+58
+August 12
+1968	Japan
+Singapore	2
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1536
+1156	0
+0	58
+142
+August 15
+1968	Japan
+Taiwan	1
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1541
+1262	0
+-1	58
+121
+August 18
+1968	South Korea
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1599
+1521	+4
+-5	41
+63
+August 21
+1968	India
+Japan	1
+0	Merdeka Tournament
+in Malaysia	+21
+-21	1393
+1500	+6
+-3	88
+66
+August 23
+1968	Japan
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+6
+-6	1506
+1249	+1
+-2	65
+125
+October 14
+1968	Japan
+Nigeria	3
+1	Olympic Games
+in Mexico	+48
+-48	1554
+1484	+13
+-10	53
+69
+October 10
+1969	Australia
+Japan	3
+1	World Cup qualifier
+in South Korea	+28
+-28	1600
+1526	+8
+-4	42
+59
+October 12
+1969	South Korea
+Japan	2
+2	World Cup qualifier
+in South Korea	-9
++9	1583
+1535	-4
++1	49
+58
+October 16
+1969	Australia
+Japan	1
+1	World Cup qualifier
+in South Korea	-5
++5	1620
+1540	-1
++2	38
+56
+October 18
+1969	South Korea
+Japan	2
+0	World Cup qualifier
+in South Korea	+20
+-20	1578
+1520	+3
+-5	50
+61
+July 31
+1970	Japan
+Singapore	4
+0	Merdeka Tournament
+in Malaysia	+6
+-6	1526
+1131	+1
+0	60
+145
+August 01
+1970	Japan
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+3
+-3	1529
+1595	0
+-1	60
+44
+August 03
+1970	Hong Kong
+Japan	2
+1	Merdeka Tournament
+in Malaysia	+25
+-25	1265
+1504	+8
+-3	121
+63
+August 05
+1970	Japan
+Indonesia	4
+3	Merdeka Tournament
+in Malaysia	+19
+-19	1523
+1575	+4
+-5	60
+49
+August 07
+1970	Japan
+Thailand	0
+0	Merdeka Tournament
+in Malaysia	-9
++9	1514
+1291	-3
++4	64
+117
+August 11
+1970	Japan
+Taiwan	3
+2	Merdeka Tournament
+in Malaysia	+7
+-7	1521
+1295	+2
+-2	62
+114
+December 11
+1970	Japan
+Khmer Republic	1
+0	Asian Games
+in Thailand	+4
+-4	1525
+1117	+1
+-1	60
+148
+December 12
+1970	Japan
+Burma	2
+1	Asian Games
+in Thailand	+21
+-21	1546
+1513	+5
+-5	55
+61
+December 13
+1970	Japan
+Malaysia	1
+0	Asian Games
+in Thailand	+7
+-7	1553
+1261	+2
+-1	53
+121
+December 15
+1970	Japan
+India	1
+0	Asian Games
+in Thailand	+11
+-11	1564
+1382	+3
+-1	50
+90
+December 17
+1970	Japan
+Indonesia	2
+1	Asian Games
+in Thailand	+15
+-15	1579
+1452	+3
+-3	47
+75
+December 18
+1970	South Korea
+Japan	2
+1	Asian Games
+in Thailand	+18
+-18	1630
+1561	+2
+-6	39
+53
+December 20
+1970	India
+Japan	1
+0	Asian Games
+in Thailand	+28
+-28	1437
+1533	+7
+-4	81
+57
+
+1971	Japan
+Taiwan	5
+1	Olympic Games qualifier
+in South Korea	+15
+-15	1548
+1280	+2
+-26	55
+138
+
+1971	Japan
+Philippines	8
+1	Olympic Games qualifier
+in South Korea	+4
+-4	1552
+989	+2
++2	55
+160
+July 28
+1971	Denmark
+Japan	3
+2	Friendly
+in Denmark	+8
+-8	1531
+1544	0
+-1	57
+55
+August 06
+1971	Japan
+Taiwan	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1549
+1180	0
+0	55
+139
+August 09
+1971	Malaysia
+Japan	4
+1	Merdeka Tournament
+in Malaysia	+32
+-32	1405
+1517	+4
+-3	90
+58
+August 12
+1971	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+17
+-17	1658
+1500	+3
+-4	36
+62
+August 13
+1971	Iceland
+Japan	0
+2	Friendly
+in Iceland	-10
++10	1270
+1510	-1
++2	120
+60
+August 16
+1971	Japan
+Thailand	3
+2	Merdeka Tournament
+in Malaysia	+7
+-7	1517
+1283	+2
+-3	58
+119
+August 17
+1971	South Vietnam
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+39
+-39	1237
+1478	+9
+-10	126
+68
+August 21
+1971	Japan
+India	1
+0	Merdeka Tournament
+in Malaysia	+10
+-10	1488
+1357	+1
+-3	67
+97
+September 23
+1971	Malaysia
+Japan	3
+0	Olympic Games qualifier
+in South Korea	+46
+-46	1420
+1442	+8
+-9	85
+77
+October 02
+1971	South Korea
+Japan	2
+1	Olympic Games qualifier
+in South Korea	+8
+-8	1591
+1434	0
+-2	44
+79
+July 25
+1972	Japan
+Burma	6
+1	Merdeka Tournament
+in Malaysia	+48
+-48	1482
+1627	+5
+-4	70
+37
+July 29
+1972	Japan
+Sri Lanka	5
+0	Merdeka Tournament
+in Malaysia	+3
+-3	1485
+966	0
+0	69
+165
+July 30
+1972	Japan
+Philippines	5
+1	Merdeka Tournament
+in Malaysia	+5
+-5	1490
+1066	+1
+-1	68
+158
+August 03
+1972	Malaysia
+Japan	3
+1	Merdeka Tournament
+in Malaysia	+16
+-16	1510
+1474	+4
+-1	64
+70
+August 06
+1972	Japan
+Khmer Republic	4
+1	Merdeka Tournament
+in Malaysia	+13
+-13	1487
+1273	+1
+-1	69
+122
+August 08
+1972	South Korea
+Japan	3
+0	Merdeka Tournament
+in Malaysia	+22
+-22	1569
+1465	+6
+-1	50
+70
+September 14
+1972	Japan
+South Korea	2
+2	Friendly
+in Japan	+1
+-1	1466
+1585	0
+0	70
+47
+May 16
+1973	Israel
+Japan	2
+1	World Cup qualifier
+in South Korea	+10
+-10	1677
+1456	0
+0	31
+69
+May 20
+1973	Japan
+South Vietnam	4
+0	World Cup qualifier
+in South Korea	+22
+-22	1478
+1277	0
+-8	69
+123
+May 22
+1973	Hong Kong
+Japan	1
+0	World Cup qualifier
+in South Korea	+32
+-32	1278
+1446	+8
+-2	122
+71
+May 26
+1973	Israel
+Japan	1
+0	World Cup qualifier
+in South Korea	+8
+-8	1700
+1438	0
+-3	28
+74
+June 23
+1973	South Korea
+Japan	2
+0	Friendly
+in South Korea	+6
+-6	1582
+1432	+1
+-2	47
+77
+May 11
+1974	South Korea
+Japan	3
+0	Presidents Cup
+in South Korea	+13
+-13	1606
+1419	+2
+-3	40
+82
+May 13
+1974	Japan
+Malaysia	2
+2	Presidents Cup
+in South Korea	+2
+-2	1421
+1453	0
+0	82
+73
+May 15
+1974	Japan
+Khmer Republic	1
+1	Presidents Cup
+in South Korea	-6
++6	1415
+1312	-2
++2	84
+112
+July 28
+1974	Romania
+Japan	4
+1	Friendly
+in Romania	+3
+-3	1754
+1412	0
+0	21
+84
+September 03
+1974	Japan
+Philippines	4
+0	Asian Games
+in Iran	+7
+-7	1419
+1003	+4
+0	81
+163
+September 05
+1974	Japan
+Malaysia	1
+1	Asian Games
+in Iran	+3
+-3	1422
+1471	0
+0	82
+70
+September 07
+1974	Israel
+Japan	3
+0	Asian Games
+in Iran	+12
+-12	1715
+1410	0
+-2	26
+84
+September 28
+1974	Japan
+South Korea	4
+1	Friendly
+in Japan	+17
+-17	1427
+1475	+3
+0	81
+70
+
+1975	Japan
+Philippines	3
+0	Olympic Games qualifier
+in Japan	+3
+-3	1430
+991	+4
+-1	77
+167
+
+1975	Philippines
+Japan	0
+3	Olympic Games qualifier
+in the Philippines	-9
++9	982
+1439	-1
++4	167
+77
+May 02
+1975	Japan
+Singapore	2
+1	Asian Cup qualifier
+in Hong Kong	+7
+-7	1446
+1171	+1
+-4	75
+145
+May 05
+1975	Hong Kong
+Japan	0
+0	Asian Cup qualifier
+in Hong Kong	+4
+-4	1285
+1442	+3
+0	121
+75
+May 08
+1975	North Korea
+Japan	1
+0	Asian Cup qualifier
+in Hong Kong	+15
+-15	1550
+1427	+4
+-5	53
+80
+May 10
+1975	South Korea
+Japan	1
+0	Presidents Cup
+in South Korea	+11
+-11	1501
+1416	+6
+-2	63
+82
+May 12
+1975	China
+Japan	2
+1	Asian Cup qualifier
+in Hong Kong	+13
+-13	1556
+1403	+3
+-3	51
+85
+May 16
+1975	Indonesia
+Japan	1
+1	Presidents Cup
+in South Korea	+5
+-5	1312
+1398	+2
+-2	111
+87
+May 18
+1975	Japan
+Lebanon	1
+0	Presidents Cup
+in South Korea	+19
+-19	1417
+1369	+5
+-7	82
+97
+May 19
+1975	Burma
+Japan	1
+0	Presidents Cup
+in South Korea	+12
+-12	1574
+1405	+4
+-3	47
+85
+May 22
+1975	Iran
+Japan	3
+0	Presidents Cup
+in South Korea	+14
+-14	1653
+1391	+3
+-3	33
+88
+July 30
+1975	Japan
+Bangladesh	3
+0	Merdeka Tournament
+in Malaysia	+12
+-12	1403
+1163	+4
+-4	85
+146
+August 01
+1975	Japan
+Thailand	4
+0	Merdeka Tournament
+in Malaysia	+22
+-22	1425
+1309	+5
+-5	80
+111
+August 03
+1975	South Korea
+Japan	3
+1	Merdeka Tournament
+in Malaysia	+13
+-13	1587
+1412	+2
+-3	46
+83
+August 05
+1975	Malaysia
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+13
+-13	1486
+1399	0
+-5	70
+88
+August 09
+1975	Japan
+Indonesia	4
+1	Merdeka Tournament
+in Malaysia	+20
+-20	1419
+1296	+6
+-6	81
+116
+August 11
+1975	Hong Kong
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+30
+-30	1337
+1389	+8
+-8	103
+89
+August 13
+1975	Japan
+Burma	2
+0	Merdeka Tournament
+in Malaysia	+33
+-33	1422
+1529	+9
+-7	80
+60
+September 28
+1975	South Korea
+Japan	3
+0	Friendly
+in South Korea	+5
+-5	1650
+1417	+1
+-3	33
+83
+January 25
+1976	Japan
+Bulgaria	1
+3	Friendly
+in Japan	-7
++7	1410
+1735	-2
++1	83
+23
+January 28
+1976	Japan
+Bulgaria	1
+1	Friendly
+in Japan	+6
+-6	1416
+1729	+2
+-1	81
+24
+February 01
+1976	Japan
+Bulgaria	0
+3	Friendly
+in Japan	-8
++8	1408
+1737	-2
++1	83
+23
+March 21
+1976	Japan
+South Korea	0
+2	Olympic Games qualifier
+in Japan	-16
++16	1392
+1698	-3
++2	85
+29
+March 27
+1976	South Korea
+Japan	2
+2	Olympic Games qualifier
+in South Korea	-16
++16	1682
+1408	-3
++3	31
+82
+March 31
+1976	Japan
+Israel	0
+3	Olympic Games qualifier
+in Japan	-18
++18	1390
+1710	-3
++2	85
+27
+April 11
+1976	Israel
+Japan	4
+1	Olympic Games qualifier
+in Israel	+5
+-5	1751
+1385	0
+-4	23
+89
+August 08
+1976	Japan
+India	5
+1	Merdeka Tournament
+in Malaysia	+18
+-18	1403
+1241	+7
+-2	81
+131
+August 09
+1976	Japan
+Thailand	2
+2	Merdeka Tournament
+in Malaysia	-3
++3	1400
+1327	-1
++1	82
+106
+August 11
+1976	Japan
+Burma	2
+2	Merdeka Tournament
+in Malaysia	+4
+-4	1404
+1488	0
+0	82
+69
+August 12
+1976	Japan
+South Korea	0
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1413
+1633	+3
+-2	79
+39
+August 14
+1976	Malaysia
+Japan	2
+2	Merdeka Tournament
+in Malaysia	-6
++6	1458
+1419	0
++2	73
+77
+August 16
+1976	Japan
+Indonesia	6
+0	Merdeka Tournament
+in Malaysia	+17
+-17	1436
+1227	+1
+-5	76
+134
+August 20
+1976	Malaysia
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1465
+1421	0
+-1	73
+77
+November 04
+1976	Japan
+South Korea	1
+2	Friendly
+in Japan	-7
++7	1414
+1654	-2
++1	81
+36
+March 06
+1977	Israel
+Japan	2
+0	World Cup qualifier
+in Israel	+6
+-6	1704
+1408	0
+0	27
+84
+March 10
+1977	Israel
+Japan	2
+0	World Cup qualifier
+in Israel	+6
+-6	1710
+1402	0
+-2	27
+86
+March 26
+1977	Japan
+South Korea	0
+0	World Cup qualifier
+in Japan	+9
+-9	1411
+1660	+2
+-2	84
+35
+April 03
+1977	South Korea
+Japan	1
+0	World Cup qualifier
+in South Korea	+5
+-5	1665
+1406	0
+-1	35
+85
+June 15
+1977	South Korea
+Japan	2
+1	Friendly
+in South Korea	+2
+-2	1667
+1404	0
+-1	35
+87
+May 23
+1978	Japan
+Thailand	3
+0	Friendly tournament
+in Japan	+12
+-12	1416
+1287	+3
+-4	83
+120
+May 25
+1978	Japan
+South Korea	0
+3	Friendly
+in Japan	-10
++10	1406
+1687	-1
++2	85
+29
+July 12
+1978	South Korea
+Japan	4
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1696
+1397	+1
+-2	28
+87
+July 14
+1978	Iraq
+Japan	0
+0	Merdeka Tournament
+in Malaysia	-7
++7	1560
+1404	-3
++1	55
+85
+July 18
+1978	Japan
+Syria	3
+2	Merdeka Tournament
+in Malaysia	+13
+-13	1417
+1355	+3
+-3	82
+99
+July 20
+1978	Singapore
+Japan	2
+1	Merdeka Tournament
+in Malaysia	+25
+-25	1166
+1392	+3
+-6	147
+88
+July 22
+1978	Indonesia
+Japan	2
+1	Merdeka Tournament
+in Malaysia	+21
+-21	1276
+1371	+4
+-7	122
+95
+July 25
+1978	Malaysia
+Japan	4
+1	Merdeka Tournament
+in Malaysia	+9
+-9	1551
+1362	+1
+0	57
+95
+July 27
+1978	Japan
+Thailand	4
+0	Merdeka Tournament
+in Malaysia	+26
+-26	1388
+1305	+6
+-7	89
+112
+November 19
+1978	Japan
+Soviet Union	1
+4	Friendly
+in Japan	-3
++3	1385
+1895	-2
++1	91
+8
+November 23
+1978	Japan
+Soviet Union	1
+4	Friendly
+in Japan	-3
++3	1382
+1898	-5
+0	96
+8
+November 26
+1978	Japan
+Soviet Union	0
+3	Friendly
+in Japan	-3
++3	1379
+1901	0
+0	96
+8
+December 10
+1978	Kuwait
+Japan	2
+0	Asian Games
+in Thailand	+8
+-8	1700
+1371	+1
+0	30
+96
+December 12
+1978	Japan
+Bahrain	4
+0	Asian Games
+in Thailand	+24
+-24	1395
+1216	+8
+-6	88
+136
+December 14
+1978	South Korea
+Japan	3
+1	Asian Games
+in Thailand	+6
+-6	1781
+1389	+2
+-1	18
+89
+March 04
+1979	Japan
+South Korea	2
+1	Friendly
+in Japan	+17
+-17	1406
+1790	+2
+-2	87
+18
+May 31
+1979	Japan
+Indonesia	4
+0	Friendly tournament
+in Japan	+9
+-9	1415
+1199	+3
+-1	83
+140
+June 16
+1979	South Korea
+Japan	4
+1	Friendly
+in South Korea	+2
+-2	1765
+1413	+1
+0	21
+82
+June 30
+1979	Japan
+Thailand	2
+0	Merdeka Tournament
+in Malaysia	+16
+-16	1429
+1296	+2
+-8	80
+118
+July 02
+1979	Malaysia
+Japan	1
+1	Merdeka Tournament
+in Malaysia	-7
++7	1487
+1436	-2
++2	71
+78
+July 04
+1979	South Korea
+Japan	1
+0	Merdeka Tournament
+in Malaysia	+4
+-4	1762
+1432	0
+-2	23
+80
+July 06
+1979	Japan
+Burma	1
+0	Merdeka Tournament
+in Malaysia	+15
+-15	1447
+1419	+4
+-4	76
+82
+July 09
+1979	Indonesia
+Japan	0
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1232
+1438	+2
+-1	135
+77
+July 11
+1979	Japan
+Singapore	3
+1	Merdeka Tournament
+in Malaysia	+6
+-6	1444
+1105	+1
+-1	76
+159
+May 11
+1980	Japan
+Luxembourg	1
+0	Friendly
+in Indonesia	+5
+-5	1449
+1225	+2
+0	73
+136
+December 22
+1980	Japan
+Singapore	1
+0	World Cup qualifier
+in Hong Kong	+7
+-7	1456
+1179	+2
+0	78
+145
+December 26
+1980	China
+Japan	1
+0	World Cup qualifier
+in Hong Kong	+16
+-16	1540
+1440	+5
+-4	56
+82
+December 28
+1980	Japan
+Macao	3
+0	World Cup qualifier
+in Hong Kong	+9
+-9	1449
+1108	+3
+-3	79
+159
+December 30
+1980	North Korea
+Japan	1
+0	World Cup qualifier
+in Hong Kong	+11
+-11	1639
+1438	+2
+-2	38
+81
+March 08
+1981	Japan
+South Korea	0
+1	Friendly
+in Japan	-6
++6	1432
+1692	-1
+0	81
+29
+June 02
+1981	Japan
+China	0
+0	Friendly tournament
+in Japan	+2
+-2	1434
+1572	0
+-2	80
+53
+June 19
+1981	Japan
+Malaysia	2
+0	Presidents Cup
+in South Korea	+23
+-23	1457
+1328	+2
+-3	79
+107
+June 21
+1981	South Korea
+Japan	2
+0	Presidents Cup
+in South Korea	+8
+-8	1690
+1449	+1
+-2	30
+81
+September 04
+1981	Japan
+United Arab Emirates	3
+2	Merdeka Tournament
+in Malaysia	+5
+-5	1454
+1159	0
+-1	80
+149
+September 06
+1981	Japan
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+9
+-9	1463
+1207	+4
+0	76
+139
+September 09
+1981	Japan
+India	3
+2	Merdeka Tournament
+in Malaysia	+9
+-9	1472
+1293	+2
+-3	74
+119
+September 12
+1981	New Zealand
+Japan	1
+0	Merdeka Tournament
+in Malaysia	+12
+-12	1543
+1460	0
+-5	62
+79
+September 14
+1981	Malaysia
+Japan	0
+2	Merdeka Tournament
+in Malaysia	-19
++19	1282
+1479	-5
++7	122
+72
+September 17
+1981	Iraq
+Japan	2
+0	Merdeka Tournament
+in Malaysia	+11
+-11	1686
+1468	+1
+-4	30
+76
+March 21
+1982	South Korea
+Japan	3
+0	Friendly
+in South Korea	+5
+-5	1665
+1463	0
+-1	34
+77
+June 02
+1982	Japan
+Singapore	2
+0	Friendly tournament
+in Japan	+7
+-7	1470
+1255	+1
+-3	76
+132
+July 14
+1982	Romania
+Japan	4
+0	Friendly
+in Romania	+4
+-4	1734
+1466	0
+-1	23
+76
+July 18
+1982	Romania
+Japan	3
+1	Friendly
+in Romania	+3
+-3	1737
+1463	0
+-1	23
+77
+August 30
+1982	Japan
+Malaysia	1
+0	Lion City Cup
+in Singapore	+7
+-7	1470
+1257	+2
+-3	75
+132
+August 31
+1982	Singapore
+Japan	1
+4	Lion City Cup
+in Singapore	-22
++22	1290
+1492	-7
++4	118
+71
+September 04
+1982	Japan
+Brunei	8
+0	Lion City Cup
+in Singapore	+1
+-1	1493
+818	0
+0	71
+187
+September 06
+1982	Saudi Arabia
+Japan	3
+0	Lion City Cup
+in Singapore	+33
+-33	1437
+1460	+8
+-8	83
+79
+September 09
+1982	Thailand
+Japan	1
+0	Lion City Cup
+in Singapore	+15
+-15	1466
+1445	+5
+-4	76
+83
+September 11
+1982	Japan
+Qatar	1
+0	Lion City Cup
+in Singapore	+9
+-9	1454
+1283	+2
+-3	81
+120
+November 19
+1982	Japan
+Iran	1
+0	Asian Games
+in India	+34
+-34	1488
+1718	+11
+-3	72
+25
+November 23
+1982	Japan
+South Korea	2
+1	Asian Games
+in India	+27
+-27	1515
+1581	+7
+-6	65
+48
+November 25
+1982	Japan
+South Yemen	3
+1	Asian Games
+in India	+7
+-7	1522
+1160	+1
+-4	64
+150
+November 28
+1982	Iraq
+Japan	1
+0	Asian Games
+in India	+12
+-12	1687
+1510	+1
+-2	31
+65
+March 06
+1983	Japan
+South Korea	1
+1	Friendly
+in Japan	-1
++1	1509
+1570	0
+0	66
+52
+June 07
+1983	Japan
+Syria	1
+0	Friendly
+in Japan	+3
+-3	1512
+1289	0
+-1	67
+118
+March 06
+1984	Japan
+Brunei	7
+1	Friendly
+in Japan	+1
+-1	1513
+848	+2
+0	62
+187
+May 31
+1984	Japan
+China	1
+0	Friendly
+in Japan	+9
+-9	1522
+1558	+1
+-2	62
+53
+September 30
+1984	South Korea
+Japan	1
+2	Friendly
+in South Korea	-13
++13	1516
+1535	-2
++3	61
+58
+February 23
+1985	Singapore
+Japan	1
+3	World Cup qualifier
+in Singapore	-16
++16	1246
+1551	-3
++1	135
+59
+March 21
+1985	Japan
+North Korea	1
+0	World Cup qualifier
+in Japan	+16
+-16	1567
+1563	+3
+-3	56
+58
+April 30
+1985	North Korea
+Japan	0
+0	World Cup qualifier
+in North Korea	-5
++5	1560
+1572	-1
++2	58
+54
+May 18
+1985	Japan
+Singapore	5
+0	World Cup qualifier
+in Japan	+6
+-6	1578
+1240	+1
+-2	54
+135
+May 25
+1985	Japan
+Uruguay	1
+4	Friendly
+in Japan	-10
++10	1568
+1852	-2
++1	54
+7
+June 05
+1985	Japan
+Malaysia	3
+0	Friendly
+in Japan	+4
+-4	1572
+1294	+1
+-1	54
+119
+August 11
+1985	Japan
+Hong Kong	3
+0	World Cup qualifier
+in Japan	+12
+-12	1584
+1385	+5
+-1	50
+93
+September 22
+1985	Hong Kong
+Japan	1
+2	World Cup qualifier
+in Hong Kong	-14
++14	1371
+1598	-4
++3	96
+47
+October 26
+1985	Japan
+South Korea	1
+2	World Cup qualifier
+in Japan	-28
++28	1570
+1584	-10
++9	56
+51
+November 03
+1985	South Korea
+Japan	1
+0	World Cup qualifier
+in South Korea	+14
+-14	1598
+1556	+5
+-3	46
+59
+September 20
+1986	Japan
+Nepal	5
+0	Asian Games
+in South Korea	+2
+-2	1558
+940	0
+0	60
+176
+September 22
+1986	Iran
+Japan	2
+0	Asian Games
+in South Korea	+21
+-21	1681
+1537	0
+-4	34
+64
+September 24
+1986	Kuwait
+Japan	2
+0	Asian Games
+in South Korea	+25
+-25	1621
+1512	+8
+-5	41
+69
+September 28
+1986	Japan
+Bangladesh	4
+0	Asian Games
+in South Korea	+9
+-9	1521
+1154	+1
+-5	68
+152
+May 27
+1987	Japan
+Senegal	2
+0	Friendly
+in Japan	+14
+-14	1535
+1580	+1
+-4	62
+53
+June 02
+1988	Japan
+China	0
+3	Friendly
+in Japan	-26
++26	1509
+1483	-6
++4	68
+75
+June 15
+1988	Japan
+Kuwait	0
+1	Asian Cup qualifier
+in Malaysia	-19
++19	1490
+1547	-2
++2	70
+61
+June 17
+1988	Japan
+Pakistan	4
+1	Asian Cup qualifier
+in Malaysia	+8
+-8	1498
+1134	+2
+-2	68
+153
+June 21
+1988	Malaysia
+Japan	0
+1	Asian Cup qualifier
+in Malaysia	-13
++13	1257
+1511	-7
++1	127
+67
+June 23
+1988	Japan
+Jordan	1
+1	Asian Cup qualifier
+in Malaysia	-12
++12	1499
+1271	-2
++6	69
+120
+September 08
+1988	Japan
+Argentina	0
+1	Friendly
+in Japan	-4
++4	1495
+1824	-1
+0	71
+11
+September 11
+1988	Japan
+Soviet Union	0
+6	Friendly
+in Japan	-5
++5	1490
+1950	0
+0	71
+3
+September 13
+1988	Japan
+Soviet Union	2
+2	Friendly
+in Japan	+8
+-8	1498
+1942	+1
+0	70
+3
+October 26
+1988	Japan
+South Korea	0
+1	Friendly
+in Japan	-10
++10	1488
+1620	-2
++2	72
+43
+December 04
+1988	Iran
+Japan	0
+0	Asian Cup
+in Qatar	-13
++13	1668
+1501	-3
++3	36
+69
+December 06
+1988	Japan
+South Korea	0
+2	Asian Cup
+in Qatar	-23
++23	1478
+1662	-5
++4	73
+37
+December 10
+1988	Japan
+United Arab Emirates	0
+1	Asian Cup
+in Qatar	-26
++26	1452
+1497	-10
++7	81
+67
+December 12
+1988	Qatar
+Japan	3
+0	Asian Cup
+in Qatar	+36
+-36	1451
+1416	+8
+-8	82
+90
+January 20
+1989	Iran
+Japan	2
+2	Friendly
+in Iran	-7
++7	1592
+1423	0
++2	47
+88
+January 22
+1989	Iran
+Japan	1
+3	Friendly
+in Iran	-25
++25	1567
+1448	-2
++6	49
+82
+May 05
+1989	South Korea
+Japan	1
+0	Friendly
+in South Korea	+2
+-2	1725
+1446	0
+0	27
+82
+May 21
+1989	Hong Kong
+Japan	0
+0	World Cup qualifier
+in Hong Kong	+5
+-5	1262
+1441	+2
+-2	123
+84
+May 28
+1989	Indonesia
+Japan	0
+0	World Cup qualifier
+in Indonesia	+4
+-4	1271
+1437	0
+-1	121
+85
+June 04
+1989	Japan
+North Korea	2
+1	World Cup qualifier
+in Japan	+24
+-24	1461
+1582	+7
+-3	79
+49
+June 11
+1989	Japan
+Indonesia	5
+0	World Cup qualifier
+in Japan	+13
+-13	1474
+1263	+4
+-2	76
+124
+June 18
+1989	Japan
+Hong Kong	0
+0	World Cup qualifier
+in Japan	-15
++15	1459
+1264	-4
++6	80
+125
+June 25
+1989	North Korea
+Japan	2
+0	World Cup qualifier
+in North Korea	+13
+-13	1595
+1446	+4
+-1	46
+81
+July 23
+1989	Brazil
+Japan	1
+0	Friendly
+in Brazil	+1
+-1	1945
+1445	+1
+-2	3
+83
+July 28
+1990	Japan
+South Korea	0
+2	Dynasty Cup
+in China	-10
++10	1435
+1672	-3
+0	84
+34
+July 29
+1990	China
+Japan	1
+0	Dynasty Cup
+in China	+7
+-7	1547
+1428	+1
+-2	58
+86
+August 01
+1990	North Korea
+Japan	1
+0	Dynasty Cup
+in China	+11
+-11	1534
+1417	+2
+-5	62
+91
+September 26
+1990	Japan
+Bangladesh	3
+0	Asian Games
+in China	+11
+-11	1428
+1105	+4
+-3	87
+164
+September 28
+1990	Saudi Arabia
+Japan	2
+0	Asian Games
+in China	+18
+-18	1594
+1410	+3
+-5	48
+92
+October 01
+1990	Iran
+Japan	1
+0	Asian Games
+in China	+11
+-11	1592
+1399	+4
+-1	47
+93
+June 02
+1991	Japan
+Thailand	1
+0	Kirin Cup
+in Japan	+10
+-10	1409
+1363	+3
+-4	88
+103
+July 27
+1991	Japan
+South Korea	0
+1	Friendly
+in Japan	-5
++5	1404
+1703	+1
+0	90
+30
+May 31
+1992	Japan
+Argentina	0
+1	Kirin Cup
+in Japan	-2
++2	1402
+1951	-2
+0	93
+3
+June 07
+1992	Japan
+Wales	0
+1	Kirin Cup
+in Japan	-6
++6	1396
+1736	-3
++3	97
+25
+August 22
+1992	Japan
+South Korea	0
+0	Dynasty Cup
+in China	+10
+-10	1406
+1653	+7
+-1	93
+35
+August 24
+1992	China
+Japan	0
+2	Dynasty Cup
+in China	-35
++35	1494
+1441	-7
++7	70
+86
+August 26
+1992	Japan
+North Korea	4
+1	Dynasty Cup
+in China	+34
+-34	1475
+1516	+8
+-7	78
+64
+August 29
+1992	Japan
+South Korea	2
+2	Dynasty Cup
+in China	+8
+-8	1483
+1660	+2
+-2	76
+35
+October 30
+1992	Japan
+United Arab Emirates	0
+0	Asian Cup
+in Japan	-9
++9	1474
+1466	-3
++2	80
+83
+November 01
+1992	Japan
+North Korea	1
+1	Asian Cup
+in Japan	-6
++6	1468
+1497	-2
++3	82
+68
+November 03
+1992	Japan
+Iran	1
+0	Asian Cup
+in Japan	+30
+-30	1498
+1615	+11
+-8	70
+46
+November 06
+1992	Japan
+China	3
+2	Asian Cup
+in Japan	+18
+-18	1516
+1485	+4
+-7	66
+76
+November 08
+1992	Japan
+Saudi Arabia	1
+0	Asian Cup
+in Japan	+28
+-28	1544
+1632	+7
+-8	59
+42
+January 23
+1993	Switzerland
+Japan	1
+1	Carlsberg Cup
+in Hong Kong	-9
++9	1772
+1553	0
++1	19
+57
+March 07
+1993	Japan
+Hungary	0
+1	Kirin Cup
+in Japan	-14
++14	1539
+1695	0
++2	58
+31
+March 14
+1993	Japan
+United States	3
+1	Kirin Cup
+in Japan	+23
+-23	1562
+1622	+1
+-5	57
+41
+April 08
+1993	Japan
+Thailand	1
+0	World Cup qualifier
+in Japan	+6
+-6	1568
+1345	+2
+-2	53
+112
+April 11
+1993	Japan
+Bangladesh	8
+0	World Cup qualifier
+in Japan	+4
+-4	1572
+1111	+1
+0	52
+169
+April 15
+1993	Japan
+Sri Lanka	5
+0	World Cup qualifier
+in Japan	+1
+-1	1573
+906	0
+0	52
+192
+April 18
+1993	Japan
+United Arab Emirates	2
+0	World Cup qualifier
+in Japan	+17
+-17	1590
+1501	+1
+-6	51
+73
+April 28
+1993	Japan
+Thailand	1
+0	World Cup qualifier
+in United Arab Emirates	+8
+-8	1598
+1343	+1
+-2	50
+113
+April 30
+1993	Japan
+Bangladesh	4
+1	World Cup qualifier
+in United Arab Emirates	+4
+-4	1602
+1098	+1
+-1	49
+170
+May 05
+1993	Japan
+Sri Lanka	6
+0	World Cup qualifier
+in United Arab Emirates	+1
+-1	1603
+899	0
+0	48
+193
+May 07
+1993	United Arab Emirates
+Japan	1
+1	World Cup qualifier
+in United Arab Emirates	-1
++1	1513
+1604	0
+0	68
+48
+October 04
+1993	Japan
+Ivory Coast	1
+0	Afro-Asian Championship
+in Japan	+20
+-20	1624
+1611	+7
+-6	43
+48
+October 15
+1993	Saudi Arabia
+Japan	0
+0	World Cup qualifier
+in Qatar	-2
++2	1654
+1626	-1
++1	36
+42
+October 18
+1993	Japan
+Iran	1
+2	World Cup qualifier
+in Qatar	-24
++24	1602
+1576	-5
++4	48
+56
+October 21
+1993	North Korea
+Japan	0
+3	World Cup qualifier
+in Qatar	-40
++40	1609
+1642	-9
++9	47
+39
+October 25
+1993	Japan
+South Korea	1
+0	World Cup qualifier
+in Qatar	+20
+-20	1662
+1627	+5
+-5	34
+43
+October 28
+1993	Iraq
+Japan	2
+2	World Cup qualifier
+in Qatar	+2
+-2	1634
+1660	-1
+-2	41
+36
+February 04
+1994	Norway
+Japan	3
+2	Dunhill Cup
+in Malaysia	+10
+-10	1801
+1650	+2
+-3	18
+38
+February 06
+1994	Denmark
+Japan	6
+1	Dunhill Cup
+in Malaysia	+12
+-12	1904
+1638	+2
+-1	5
+39
+May 22
+1994	Japan
+Australia	1
+1	Kirin Cup
+in Japan	-2
++2	1636
+1688	0
+0	43
+29
+May 29
+1994	Japan
+France	1
+4	Kirin Cup
+in Japan	-16
++16	1620
+1888	-2
++1	45
+8
+July 08
+1994	Japan
+Ghana	3
+2	Friendly
+in Japan	+7
+-7	1627
+1606	+2
+-1	41
+46
+July 14
+1994	Japan
+Ghana	2
+1	Friendly
+in Japan	+7
+-7	1634
+1599	+2
+-3	39
+49
+September 27
+1994	Japan
+Australia	0
+0	Friendly
+in Japan	-1
++1	1633
+1689	-2
+0	38
+30
+October 03
+1994	Japan
+United Arab Emirates	1
+1	Asian Games
+in Japan	-13
++13	1620
+1479	-1
++3	39
+80
+October 05
+1994	Japan
+Qatar	1
+1	Asian Games
+in Japan	-14
++14	1606
+1430	-4
++7	43
+93
+October 09
+1994	Japan
+Myanmar	5
+0	Asian Games
+in Japan	+3
+-3	1609
+1160	+1
+0	42
+160
+October 11
+1994	Japan
+South Korea	2
+3	Asian Games
+in Japan	-24
++24	1585
+1669	-7
++2	49
+33
+January 06
+1995	Nigeria
+Japan	3
+0	Intercontinental Cup
+in Saudi Arabia	+25
+-25	1769
+1560	0
+-7	24
+56
+January 08
+1995	Argentina
+Japan	5
+1	Intercontinental Cup
+in Saudi Arabia	+14
+-14	1872
+1546	+3
+-3	9
+59
+January 24
+1995	United Arab Emirates
+Japan	1
+1	Friendly
+in United Arab Emirates	-2
++2	1522
+1548	-1
++1	67
+59
+February 15
+1995	Australia
+Japan	2
+1	Friendly
+in Australia	+4
+-4	1685
+1544	0
+0	28
+60
+February 19
+1995	Hong Kong
+Japan	0
+3	Dynasty Cup
+in Hong Kong	-11
++11	1202
+1555	-3
++5	154
+55
+February 21
+1995	Japan
+South Korea	1
+1	Dynasty Cup
+in Hong Kong	+4
+-4	1559
+1643	+1
+0	54
+35
+February 23
+1995	Japan
+China	2
+1	Dynasty Cup
+in Hong Kong	+15
+-15	1574
+1538	+2
+-4	52
+61
+February 26
+1995	Japan
+South Korea	2
+2	Dynasty Cup
+in Hong Kong	+3
+-3	1577
+1644	+1
+0	51
+35
+May 21
+1995	Japan
+Scotland	0
+0	Kirin Cup
+in Japan	+2
+-2	1579
+1732	0
+0	52
+26
+May 28
+1995	Japan
+Ecuador	3
+0	Kirin Cup
+in Japan	+20
+-20	1599
+1574	+5
+-4	47
+52
+June 03
+1995	England
+Japan	2
+1	Umbro Cup
+in England	+4
+-4	1854
+1595	+3
+0	10
+47
+June 06
+1995	Brazil
+Japan	3
+0	Umbro Cup
+in England	+4
+-4	2038
+1591	0
+0	1
+48
+June 10
+1995	Sweden
+Japan	2
+2	Umbro Cup
+in England	-9
++9	1819
+1600	-1
++1	19
+44
+August 01
+1995	Japan
+Russia	3
+2	Friendly
+in Japan	+13
+-13	1613
+1810	+1
+-3	44
+20
+August 06
+1995	Japan
+Costa Rica	3
+0	Friendly
+in Japan	+12
+-12	1625
+1581	0
+-1	44
+47
+August 09
+1995	Japan
+Brazil	1
+5	Friendly
+in Japan	-5
++5	1620
+2069	0
+0	44
+1
+September 20
+1995	Japan
+Paraguay	1
+2	Friendly
+in Japan	-10
++10	1610
+1736	-1
++1	44
+26
+October 24
+1995	Japan
+Saudi Arabia	2
+1	Friendly
+in Japan	+7
+-7	1617
+1591	0
+-1	45
+48
+October 28
+1995	Japan
+Saudi Arabia	2
+1	Friendly
+in Japan	+7
+-7	1624
+1584	+1
+-1	44
+49
+February 10
+1996	Australia
+Japan	1
+4	Friendly
+in Australia	-25
++25	1662
+1649	-4
++5	35
+36
+February 14
+1996	Australia
+Japan	3
+0	Friendly
+in Australia	+12
+-12	1674
+1637	+2
+0	33
+37
+February 19
+1996	Japan
+Poland	5
+0	Carlsberg Cup
+in Hong Kong	+33
+-33	1670
+1635	+3
+-2	34
+37
+February 22
+1996	Japan
+Sweden	1
+1	Carlsberg Cup
+in Hong Kong	+6
+-6	1676
+1807	+1
+-1	33
+18
+May 26
+1996	Japan
+Yugoslavia	1
+0	Kirin Cup
+in Japan	+20
+-20	1696
+1888	+1
+0	31
+7
+May 29
+1996	Japan
+Mexico	3
+2	Kirin Cup
+in Japan	+17
+-17	1713
+1823	+1
+-5	30
+18
+August 25
+1996	Japan
+Uruguay	5
+3	Friendly
+in Japan	+12
+-12	1725
+1734	+2
+-1	27
+26
+September 11
+1996	Japan
+Uzbekistan	1
+0	Friendly
+in Japan	+4
+-4	1729
+1602	0
+0	27
+46
+October 13
+1996	Japan
+Tunisia	1
+0	Friendly
+in Japan	+5
+-5	1734
+1625	0
+0	27
+39
+December 06
+1996	Japan
+Syria	2
+1	Asian Cup
+in United Arab Emirates	+9
+-9	1743
+1464	+1
+-3	26
+86
+December 09
+1996	Japan
+Uzbekistan	4
+0	Asian Cup
+in United Arab Emirates	+29
+-29	1772
+1578	+4
+-5	22
+54
+December 12
+1996	Japan
+China	1
+0	Asian Cup
+in United Arab Emirates	+10
+-10	1782
+1526	+2
+-3	20
+67
+December 15
+1996	Kuwait
+Japan	2
+0	Asian Cup
+in United Arab Emirates	+58
+-58	1625
+1724	+14
+-5	42
+26
+February 09
+1997	Thailand
+Japan	1
+1	King's Cup
+in Thailand	+8
+-8	1422
+1716	+1
+-1	96
+27
+February 13
+1997	Sweden
+Japan	1
+0	King's Cup
+in Thailand	+12
+-12	1789
+1704	+1
+-2	20
+27
+March 15
+1997	Thailand
+Japan	3
+1	Friendly
+in Thailand	+23
+-23	1435
+1681	+6
+-4	92
+31
+March 23
+1997	Oman
+Japan	0
+1	World Cup qualifier
+in Oman	-6
++6	1258
+1687	0
+0	138
+30
+March 25
+1997	Japan
+Macao	10
+0	World Cup qualifier
+in Oman	+3
+-3	1690
+1057	0
+0	30
+182
+March 27
+1997	Japan
+Nepal	6
+0	World Cup qualifier
+in Oman	+1
+-1	1691
+878	0
+0	30
+204
+May 21
+1997	Japan
+South Korea	1
+1	Friendly
+in Japan	-4
++4	1687
+1642	-3
++2	32
+41
+June 08
+1997	Japan
+Croatia	4
+3	Kirin Cup
+in Japan	+17
+-17	1704
+1819	+1
+-3	30
+15
+June 15
+1997	Japan
+Turkey	1
+0	Kirin Cup
+in Japan	+9
+-9	1713
+1641	+1
+0	28
+40
+June 22
+1997	Japan
+Macao	10
+0	World Cup qualifier
+in Japan	+1
+-1	1714
+1045	-1
+0	30
+182
+June 25
+1997	Japan
+Nepal	3
+0	World Cup qualifier
+in Japan	0
+0	1714
+870	0
+0	30
+205
+June 28
+1997	Japan
+Oman	1
+1	World Cup qualifier
+in Japan	-18
++18	1696
+1309	0
++1	30
+130
+August 13
+1997	Japan
+Brazil	0
+3	Friendly
+in Japan	-5
++5	1691
+2117	-1
+0	32
+1
+September 07
+1997	Japan
+Uzbekistan	6
+3	World Cup qualifier
+in Japan	+13
+-13	1704
+1516	+1
+-2	30
+68
+September 19
+1997	United Arab Emirates
+Japan	0
+0	World Cup qualifier
+in United Arab Emirates	-2
++2	1636
+1706	-3
+0	47
+31
+September 28
+1997	Japan
+South Korea	1
+2	World Cup qualifier
+in Japan	-27
++27	1679
+1714	-4
++5	35
+28
+October 04
+1997	Kazakhstan
+Japan	1
+1	World Cup qualifier
+in Kazakhstan	+7
+-7	1462
+1672	+1
+-1	83
+36
+October 11
+1997	Uzbekistan
+Japan	1
+1	World Cup qualifier
+in Uzbekistan	+4
+-4	1497
+1668	0
+-1	71
+37
+October 26
+1997	Japan
+United Arab Emirates	1
+1	World Cup qualifier
+in Japan	-9
++9	1659
+1606	-3
++1	41
+52
+November 01
+1997	South Korea
+Japan	0
+2	World Cup qualifier
+in South Korea	-45
++45	1704
+1704	-7
++10	30
+30
+November 08
+1997	Japan
+Kazakhstan	5
+1	World Cup qualifier
+in Japan	+10
+-10	1714
+1472	0
+-1	29
+77
+November 16
+1997	Japan
+Iran	3
+2	World Cup qualifier
+in Malaysia	+18
+-18	1732
+1653	+3
+-5	27
+44
+February 15
+1998	Australia
+Japan	0
+3	Friendly
+in Australia	-26
++26	1798
+1758	-3
++5	18
+24
+March 01
+1998	Japan
+South Korea	2
+1	Dynasty Cup
+in Japan	+10
+-10	1768
+1740	+2
+-1	22
+26
+March 04
+1998	Japan
+Hong Kong	5
+1	Dynasty Cup
+in Japan	+1
+-1	1769
+1222	+1
+0	21
+144
+March 07
+1998	Japan
+China	0
+2	Dynasty Cup
+in Japan	-38
++38	1731
+1626	-7
++10	28
+46
+April 01
+1998	South Korea
+Japan	2
+1	Friendly
+in South Korea	+7
+-7	1757
+1724	+1
+-1	23
+30
+May 17
+1998	Japan
+Paraguay	1
+1	Kirin Cup
+in Japan	-4
++4	1720
+1735	0
++1	31
+26
+May 24
+1998	Japan
+Czechia	0
+0	Kirin Cup
+in Japan	+1
+-1	1721
+1852	0
+0	31
+12
+May 31
+1998	Mexico
+Japan	2
+1	Friendly
+in Switzerland	+7
+-7	1831
+1714	0
+0	14
+31
+June 03
+1998	Yugoslavia
+Japan	1
+0	Friendly
+in Switzerland	+4
+-4	1939
+1710	+1
+0	5
+31
+June 14
+1998	Argentina
+Japan	1
+0	World Cup
+in France	+17
+-17	1890
+1693	0
+-2	9
+33
+June 20
+1998	Croatia
+Japan	1
+0	World Cup
+in France	+17
+-17	1866
+1676	+3
+-3	10
+36
+June 26
+1998	Jamaica
+Japan	2
+1	World Cup
+in France	+38
+-38	1624
+1638	+10
+-9	48
+43
+October 28
+1998	Japan
+Egypt	1
+0	Friendly
+in Japan	+9
+-9	1647
+1681	+3
+-6	44
+36
+March 31
+1999	Japan
+Brazil	0
+2	Friendly
+in Japan	-6
++6	1641
+2012	-4
+0	48
+2
+June 03
+1999	Japan
+Belgium	0
+0	Kirin Cup
+in Japan	-1
++1	1640
+1724	0
+0	45
+25
+June 06
+1999	Japan
+Peru	0
+0	Kirin Cup
+in Japan	-2
++2	1638
+1694	0
+0	47
+34
+June 29
+1999	Peru
+Japan	3
+2	Copa América
+in Paraguay	+22
+-22	1695
+1616	+7
+-3	32
+51
+July 02
+1999	Paraguay
+Japan	4
+0	Copa América
+in Paraguay	+20
+-20	1766
+1596	+1
+-3	20
+54
+July 05
+1999	Bolivia
+Japan	1
+1	Copa América
+in Paraguay	-2
++2	1622
+1598	0
+0	50
+54
+September 08
+1999	Japan
+Iran	1
+1	Friendly
+in Japan	+1
+-1	1599
+1734	0
+0	52
+26
+February 05
+2000	Mexico
+Japan	1
+0	Carlsberg Cup
+in Hong Kong	+5
+-5	1892
+1594	0
+-1	9
+53
+February 13
+2000	Japan
+Singapore	3
+0	Asian Cup qualifier
+in Macao	+12
+-12	1606
+1300	+1
+-2	53
+130
+February 16
+2000	Japan
+Brunei	9
+0	Asian Cup qualifier
+in Macao	+1
+-1	1607
+763	0
+0	54
+212
+February 20
+2000	Macao
+Japan	0
+3	Asian Cup qualifier
+in Macao	-4
++4	1032
+1611	0
++1	184
+53
+March 15
+2000	Japan
+China	0
+0	Friendly
+in Japan	-1
++1	1610
+1694	0
+0	54
+33
+April 26
+2000	South Korea
+Japan	1
+0	Friendly
+in South Korea	+5
+-5	1687
+1605	+2
+0	37
+54
+June 04
+2000	France
+Japan	2
+2	King Hassan Cup
+in Morocco	-13
++13	2016
+1618	0
++1	2
+53
+June 06
+2000	Japan
+Jamaica	4
+0	King Hassan Cup
+in Morocco	+19
+-19	1637
+1488	+5
+-8	48
+78
+June 11
+2000	Japan
+Slovakia	1
+1	Kirin Cup
+in Japan	-4
++4	1633
+1655	-2
++3	50
+43
+June 18
+2000	Japan
+Bolivia	2
+0	Kirin Cup
+in Japan	+14
+-14	1647
+1579	+2
+-4	48
+59
+August 16
+2000	Japan
+United Arab Emirates	3
+1	Friendly
+in Japan	+6
+-6	1653
+1494	+3
+-1	44
+77
+October 14
+2000	Japan
+Saudi Arabia	4
+1	Asian Cup
+in Lebanon	+45
+-45	1698
+1614	+14
+-9	33
+54
+October 17
+2000	Japan
+Uzbekistan	8
+1	Asian Cup
+in Lebanon	+28
+-28	1726
+1477	+5
+-7	28
+80
+October 20
+2000	Japan
+Qatar	1
+1	Asian Cup
+in Lebanon	-13
++13	1713
+1537	-3
++2	32
+65
+October 24
+2000	Japan
+Iraq	4
+1	Asian Cup
+in Lebanon	+35
+-35	1748
+1605	+10
+-6	22
+55
+October 26
+2000	Japan
+China	3
+2	Asian Cup
+in Lebanon	+22
+-22	1770
+1690	+4
+-5	19
+38
+October 29
+2000	Japan
+Saudi Arabia	1
+0	Asian Cup
+in Lebanon	+20
+-20	1790
+1675	+2
+-6	17
+42
+December 20
+2000	Japan
+South Korea	1
+1	Friendly
+in Japan	-4
++4	1786
+1743	0
++1	18
+24
+March 24
+2001	France
+Japan	5
+0	Friendly
+in France	+4
+-4	2082
+1782	0
+0	1
+17
+April 25
+2001	Spain
+Japan	1
+0	Friendly
+in Spain	+4
+-4	1923
+1778	0
+-1	7
+19
+May 31
+2001	Japan
+Canada	3
+0	Confederations Cup
+in Japan	+16
+-16	1794
+1597	0
+-2	20
+57
+June 02
+2001	Japan
+Cameroon	2
+0	Confederations Cup
+in Japan	+18
+-18	1812
+1673	+4
+-3	16
+40
+June 04
+2001	Japan
+Brazil	0
+0	Confederations Cup
+in Japan	+3
+-3	1815
+1946	+1
+0	15
+6
+June 07
+2001	Japan
+Australia	1
+0	Confederations Cup
+in Japan	+19
+-19	1834
+1809	+3
+-4	13
+17
+June 10
+2001	Japan
+France	0
+1	Confederations Cup
+in Japan	-15
++15	1819
+2103	-1
+0	15
+1
+July 01
+2001	Japan
+Paraguay	2
+0	Kirin Cup
+in Japan	+19
+-19	1838
+1838	+2
+-2	13
+13
+July 04
+2001	Japan
+Yugoslavia	1
+0	Kirin Cup
+in Japan	+9
+-9	1847
+1788	0
+-1	13
+20
+August 15
+2001	Japan
+Australia	3
+0	AFC-OFC Challenge Cup
+in Japan	+20
+-20	1867
+1843	+5
+-5	8
+14
+October 04
+2001	Senegal
+Japan	2
+0	Friendly
+in France	+26
+-26	1589
+1841	+6
+-4	53
+12
+October 07
+2001	Nigeria
+Japan	2
+2	Friendly
+in England	+4
+-4	1710
+1837	+1
+0	35
+12
+November 07
+2001	Japan
+Italy	1
+1	Friendly
+in Japan	+1
+-1	1838
+1985	+1
+0	11
+3
+March 21
+2002	Japan
+Ukraine	1
+0	Friendly
+in Japan	+3
+-3	1841
+1662	+1
+0	11
+42
+March 27
+2002	Poland
+Japan	0
+2	Friendly
+in Poland	-14
++14	1709
+1855	-4
++3	34
+8
+April 17
+2002	Japan
+Costa Rica	1
+1	Friendly
+in Japan	-5
++5	1850
+1763	-2
+0	10
+26
+April 29
+2002	Japan
+Slovakia	1
+0	Kirin Cup
+in Japan	+4
+-4	1854
+1629	+1
+-1	9
+47
+May 02
+2002	Japan
+Honduras	3
+3	Kirin Cup
+in Japan	-9
++9	1845
+1736	-2
++2	11
+28
+May 14
+2002	Norway
+Japan	3
+0	Friendly
+in Norway	+19
+-19	1735
+1826	+2
+-2	30
+14
+May 25
+2002	Japan
+Sweden	1
+1	Friendly
+in Japan	-3
++3	1823
+1835	0
++1	14
+12
+June 04
+2002	Japan
+Belgium	2
+2	World Cup
+in Japan	-10
++10	1813
+1817	-3
++2	18
+16
+June 09
+2002	Japan
+Russia	1
+0	World Cup
+in Japan	+20
+-20	1833
+1770	+4
+-2	16
+24
+June 14
+2002	Japan
+Tunisia	2
+0	World Cup
+in Japan	+12
+-12	1845
+1597	0
+-1	15
+53
+June 18
+2002	Japan
+Turkey	0
+1	World Cup
+in Japan	-45
++45	1800
+1793	-8
++4	21
+23
+October 16
+2002	Japan
+Jamaica	1
+1	Friendly
+in Japan	-8
++8	1792
+1529	-1
++2	18
+64
+November 20
+2002	Japan
+Argentina	0
+2	Friendly
+in Japan	-12
++12	1780
+1964	-3
++1	21
+3
+March 28
+2003	Japan
+Uruguay	2
+2	Friendly
+in Japan	-3
++3	1777
+1761	0
+0	20
+23
+April 16
+2003	South Korea
+Japan	0
+1	Friendly
+in South Korea	-12
++12	1728
+1789	-3
++1	31
+19
+May 31
+2003	Japan
+South Korea	0
+1	Friendly
+in Japan	-14
++14	1775
+1742	0
++5	20
+26
+June 08
+2003	Japan
+Argentina	1
+4	Kirin Cup
+in Japan	-18
++18	1757
+2001	-1
+0	21
+3
+June 11
+2003	Japan
+Paraguay	0
+0	Kirin Cup
+in Japan	-5
++5	1752
+1753	-1
++3	22
+21
+June 18
+2003	Japan
+New Zealand	3
+0	Confederations Cup
+in France	+24
+-24	1776
+1563	+2
+-1	21
+61
+June 20
+2003	France
+Japan	2
+1	Confederations Cup
+in France	+9
+-9	1955
+1767	0
+0	4
+22
+June 22
+2003	Colombia
+Japan	1
+0	Confederations Cup
+in France	+20
+-20	1852
+1747	+2
+-2	12
+24
+August 20
+2003	Japan
+Nigeria	3
+0	Friendly
+in Japan	+11
+-11	1758
+1708	+1
+-2	22
+33
+September 10
+2003	Japan
+Senegal	0
+1	Friendly
+in Japan	-13
++13	1745
+1753	-5
++3	26
+23
+October 08
+2003	Tunisia
+Japan	0
+1	Friendly
+in Tunisia	-10
++10	1629
+1755	-2
++3	47
+23
+October 11
+2003	Romania
+Japan	1
+1	Friendly
+in Romania	-3
++3	1755
+1758	-2
+0	24
+23
+November 19
+2003	Japan
+Cameroon	0
+0	Friendly
+in Japan	-2
++2	1756
+1781	-2
+0	25
+19
+December 04
+2003	Japan
+China	2
+0	East Asian Championship
+in Japan	+10
+-10	1766
+1567	+2
+-2	23
+62
+December 07
+2003	Japan
+Hong Kong	1
+0	East Asian Championship
+in Japan	+1
+-1	1767
+1188	+1
+0	22
+157
+December 10
+2003	Japan
+South Korea	0
+0	East Asian Championship
+in Japan	-11
++11	1756
+1673	-3
++1	25
+39
+February 07
+2004	Japan
+Malaysia	4
+0	Friendly
+in Japan	+1
+-1	1757
+1277	0
+0	24
+137
+February 12
+2004	Japan
+Iraq	2
+0	Friendly
+in Japan	+6
+-6	1763
+1605	+1
+-1	22
+54
+February 18
+2004	Japan
+Oman	1
+0	World Cup qualifier
+in Japan	+5
+-5	1768
+1533	+4
+0	19
+67
+March 31
+2004	Singapore
+Japan	1
+2	World Cup qualifier
+in Singapore	-2
++2	1166
+1770	-1
+-1	162
+21
+April 25
+2004	Hungary
+Japan	3
+2	Friendly
+in Hungary	+14
+-14	1521
+1756	+1
+-4	72
+25
+April 28
+2004	Czechia
+Japan	0
+1	Friendly
+in Czechia	-17
++17	1917
+1773	0
++6	6
+19
+May 30
+2004	Japan
+Iceland	3
+2	Friendly tournament
+in England	+6
+-6	1779
+1541	0
+-1	20
+66
+June 01
+2004	England
+Japan	1
+1	Friendly tournament
+in England	-9
++9	1904
+1788	0
+0	8
+20
+June 09
+2004	Japan
+India	7
+0	World Cup qualifier
+in Japan	+2
+-2	1790
+1225	0
+-2	19
+152
+July 09
+2004	Japan
+Slovakia	3
+1	Kirin Cup
+in Japan	+8
+-8	1798
+1615	0
+0	19
+53
+July 13
+2004	Japan
+Serbia and Montenegro	1
+0	Kirin Cup
+in Japan	+7
+-7	1805
+1697	+1
+0	18
+32
+July 20
+2004	Japan
+Oman	1
+0	Asian Cup
+in China	+10
+-10	1815
+1549	+2
+-1	17
+63
+July 24
+2004	Japan
+Thailand	4
+1	Asian Cup
+in China	+7
+-7	1822
+1386	+2
+0	15
+107
+July 28
+2004	Japan
+Iran	0
+0	Asian Cup
+in China	-7
++7	1815
+1727	-2
+0	17
+30
+July 31
+2004	Japan
+Jordan	1
+1	Asian Cup
+in China	-11
++11	1804
+1654	-1
++4	18
+40
+August 03
+2004	Japan
+Bahrain	4
+3	Asian Cup
+in China	+11
+-11	1815
+1571	+1
+-3	17
+63
+August 07
+2004	China
+Japan	1
+3	Asian Cup
+in China	-30
++30	1610
+1845	-5
++6	52
+11
+August 18
+2004	Japan
+Argentina	1
+2	Friendly
+in Japan	-9
++9	1836
+1992	-1
++1	12
+1
+September 08
+2004	India
+Japan	0
+4	World Cup qualifier
+in India	-4
++4	1224
+1840	-2
+-1	151
+12
+October 13
+2004	Oman
+Japan	0
+1	World Cup qualifier
+in Oman	-12
++12	1585
+1852	-3
++4	61
+10
+November 17
+2004	Japan
+Singapore	1
+0	World Cup qualifier
+in Japan	0
+0	1852
+1170	0
+-1	11
+163
+December 16
+2004	Japan
+Germany	0
+3	Friendly
+in Japan	-23
++23	1829
+1872	-4
++2	15
+10
+January 29
+2005	Japan
+Kazakhstan	4
+0	Friendly
+in Japan	+1
+-1	1830
+1322	0
+0	15
+125
+February 02
+2005	Japan
+Syria	3
+0	Friendly
+in Japan	+2
+-2	1832
+1421	+1
+0	14
+96
+February 09
+2005	Japan
+North Korea	2
+1	World Cup qualifier
+in Japan	+3
+-3	1835
+1471	-1
++1	15
+86
+March 25
+2005	Iran
+Japan	2
+1	World Cup qualifier
+in Iran	+17
+-17	1803
+1818	+1
+-1	20
+16
+March 30
+2005	Japan
+Bahrain	1
+0	World Cup qualifier
+in Japan	+6
+-6	1824
+1598	0
+-1	15
+55
+May 22
+2005	Japan
+Peru	0
+1	Kirin Cup
+in Japan	-25
++25	1799
+1675	-4
++4	19
+42
+May 27
+2005	Japan
+United Arab Emirates	0
+1	Kirin Cup
+in Japan	-28
++28	1771
+1422	-3
++5	22
+95
+June 03
+2005	Bahrain
+Japan	0
+1	World Cup qualifier
+in Bahrain	-16
++16	1585
+1787	-5
+0	59
+22
+June 08
+2005	Japan
+North Korea	2
+0	World Cup qualifier
+in Thailand	+8
+-8	1795
+1448	-1
+-3	22
+90
+June 16
+2005	Mexico
+Japan	2
+1	Confederations Cup
+in Germany	+18
+-18	1906
+1777	0
+-3	8
+25
+June 19
+2005	Japan
+Greece	1
+0	Confederations Cup
+in Germany	+28
+-28	1805
+1785	+7
+-5	18
+22
+June 22
+2005	Japan
+Brazil	2
+2	Confederations Cup
+in Germany	+9
+-9	1814
+1932	+1
+0	17
+5
+July 31
+2005	North Korea
+Japan	1
+0	East Asian Championship
+in South Korea	+36
+-36	1484
+1778	+8
+-6	82
+23
+August 03
+2005	China
+Japan	2
+2	East Asian Championship
+in South Korea	+9
+-9	1627
+1769	+1
+0	53
+23
+August 07
+2005	South Korea
+Japan	0
+1	East Asian Championship
+in South Korea	-20
++20	1653
+1789	-3
++3	46
+20
+August 17
+2005	Japan
+Iran	2
+1	World Cup qualifier
+in Japan	+16
+-16	1805
+1808	+2
+-1	18
+17
+September 07
+2005	Japan
+Honduras	5
+4	Friendly
+in Japan	+5
+-5	1810
+1701	+1
+0	17
+37
+October 08
+2005	Latvia
+Japan	2
+2	Friendly
+in Latvia	+7
+-7	1447
+1803	0
+-4	90
+21
+October 12
+2005	Ukraine
+Japan	1
+0	Friendly
+in Ukraine	+9
+-9	1739
+1794	+1
+0	32
+21
+November 16
+2005	Japan
+Angola	1
+0	Friendly
+in Japan	+2
+-2	1796
+1545	0
+-2	21
+68
+February 10
+2006	United States
+Japan	3
+2	Friendly
+in the United States	+6
+-6	1829
+1790	0
+-1	13
+22
+February 18
+2006	Japan
+Finland	2
+0	Friendly
+in Japan	+5
+-5	1795
+1616	+1
+-2	21
+54
+February 22
+2006	Japan
+India	6
+0	Asian Cup qualifier
+in Japan	+2
+-2	1797
+1228	0
++1	21
+148
+February 28
+2006	Bosnia and Herzegovina
+Japan	2
+2	Friendly
+in Germany	+5
+-5	1614
+1792	+1
+-1	55
+22
+March 30
+2006	Japan
+Ecuador	1
+0	Friendly
+in Japan	+5
+-5	1797
+1692	+1
+0	21
+39
+May 09
+2006	Japan
+Bulgaria	1
+2	Kirin Cup
+in Japan	-23
++23	1774
+1715	-6
++2	26
+37
+May 13
+2006	Japan
+Scotland	0
+0	Kirin Cup
+in Japan	-8
++8	1766
+1676	-1
++1	27
+44
+May 30
+2006	Germany
+Japan	2
+2	Friendly
+in Germany	-5
++5	1864
+1771	0
++1	11
+26
+June 04
+2006	Japan
+Malta	1
+0	Friendly
+in Germany	+1
+-1	1772
+1217	0
+-1	26
+150
+June 12
+2006	Australia
+Japan	3
+1	World Cup
+in Germany	+42
+-42	1837
+1730	+5
+-9	13
+33
+June 18
+2006	Croatia
+Japan	0
+0	World Cup
+in Germany	-5
++5	1788
+1735	0
++1	19
+29
+June 22
+2006	Brazil
+Japan	4
+1	World Cup
+in Germany	+15
+-15	2062
+1720	0
+-3	1
+35
+August 09
+2006	Japan
+Trinidad and Tobago	2
+0	Friendly
+in Japan	+5
+-5	1725
+1528	0
+-4	34
+74
+August 16
+2006	Japan
+Yemen	2
+0	Asian Cup qualifier
+in Japan	+2
+-2	1727
+1255	+2
+-1	32
+141
+September 03
+2006	Saudi Arabia
+Japan	1
+0	Asian Cup qualifier
+in Saudi Arabia	+22
+-22	1606
+1705	+3
+-3	55
+36
+September 06
+2006	Yemen
+Japan	0
+1	Asian Cup qualifier
+in Yemen	-5
++5	1246
+1710	-1
+0	141
+36
+October 04
+2006	Japan
+Ghana	0
+1	Friendly
+in Japan	-13
++13	1697
+1725	-2
++1	38
+34
+October 11
+2006	India
+Japan	0
+3	Asian Cup qualifier
+in India	-5
++5	1162
+1702	0
+0	167
+40
+November 15
+2006	Japan
+Saudi Arabia	3
+1	Asian Cup qualifier
+in Japan	+16
+-16	1718
+1604	+5
+-2	35
+52
+March 24
+2007	Japan
+Peru	2
+0	Friendly
+in Japan	+7
+-7	1725
+1608	+2
+-2	36
+53
+June 01
+2007	Japan
+Montenegro	2
+0	Kirin Cup
+in Japan	+10
+-10	1735
+1596	+2
+0	31
+54
+June 05
+2007	Japan
+Colombia	0
+0	Kirin Cup
+in Japan	-2
++2	1733
+1798	-2
+0	34
+18
+July 09
+2007	Qatar
+Japan	1
+1	Asian Cup
+in Vietnam	+15
+-15	1499
+1718	+4
+-3	77
+38
+July 13
+2007	Japan
+United Arab Emirates	3
+1	Asian Cup
+in Vietnam	+14
+-14	1732
+1450	+4
+-1	34
+88
+July 16
+2007	Vietnam
+Japan	1
+4	Asian Cup
+in Vietnam	-14
++14	1325
+1746	-6
++6	127
+28
+July 21
+2007	Japan
+Australia	1
+1	Asian Cup
+in Vietnam	-3
++3	1743
+1709	0
+0	28
+40
+July 25
+2007	Saudi Arabia
+Japan	3
+2	Asian Cup
+in Vietnam	+30
+-30	1704
+1713	+1
+-9	41
+37
+July 28
+2007	South Korea
+Japan	0
+0	Asian Cup
+in Indonesia	+6
+-6	1639
+1707	+1
+-3	47
+40
+August 22
+2007	Japan
+Cameroon	2
+0	Friendly
+in Japan	+14
+-14	1721
+1766	+5
+-2	35
+22
+September 07
+2007	Austria
+Japan	0
+0	Friendly tournament
+in Austria	+1
+-1	1588
+1720	0
+0	58
+35
+September 11
+2007	Japan
+Switzerland	4
+3	Friendly tournament
+in Austria	+19
+-19	1739
+1806	+4
+0	30
+15
+October 17
+2007	Japan
+Egypt	4
+1	Afro-Asian Championship
+in Japan	+27
+-27	1766
+1674	+10
+-2	21
+41
+January 26
+2008	Japan
+Chile	0
+0	Friendly
+in Japan	-4
++4	1762
+1710	-1
+-1	24
+39
+January 30
+2008	Japan
+Bosnia and Herzegovina	3
+0	Friendly
+in Japan	+4
+-4	1766
+1507	0
+-2	24
+78
+February 06
+2008	Japan
+Thailand	4
+1	World Cup qualifier
+in Japan	+5
+-5	1771
+1420	0
+0	24
+98
+February 17
+2008	North Korea
+Japan	1
+1	East Asian Championship
+in China	+13
+-13	1516
+1758	+2
+-6	75
+30
+February 20
+2008	China
+Japan	0
+1	East Asian Championship
+in China	-14
++14	1531
+1772	-3
++6	71
+24
+February 23
+2008	South Korea
+Japan	1
+1	East Asian Championship
+in China	+7
+-7	1657
+1765	+2
+-2	42
+26
+March 26
+2008	Bahrain
+Japan	1
+0	World Cup qualifier
+in Bahrain	+29
+-29	1523
+1736	+6
+-4	74
+30
+May 24
+2008	Japan
+Ivory Coast	1
+0	Kirin Cup
+in Japan	+11
+-11	1747
+1736	+1
+-1	29
+30
+May 27
+2008	Japan
+Paraguay	0
+0	Kirin Cup
+in Japan	-3
++3	1744
+1780	0
+0	29
+20
+June 02
+2008	Japan
+Oman	3
+0	World Cup qualifier
+in Japan	+8
+-8	1752
+1491	0
+-1	29
+84
+June 07
+2008	Oman
+Japan	1
+1	World Cup qualifier
+in Oman	+9
+-9	1500
+1743	+2
+0	83
+29
+June 14
+2008	Thailand
+Japan	0
+3	World Cup qualifier
+in Thailand	-15
++15	1395
+1758	-3
++4	105
+24
+June 22
+2008	Japan
+Bahrain	1
+0	World Cup qualifier
+in Japan	+5
+-5	1763
+1526	+2
+-2	23
+75
+August 20
+2008	Japan
+Uruguay	1
+3	Friendly
+in Japan	-18
++18	1745
+1807	-4
++1	28
+16
+September 06
+2008	Bahrain
+Japan	2
+3	World Cup qualifier
+in Bahrain	-14
++14	1529
+1759	-9
++4	76
+24
+October 09
+2008	Japan
+United Arab Emirates	1
+1	Friendly
+in Japan	-9
++9	1750
+1404	-1
++1	26
+105
+October 15
+2008	Japan
+Uzbekistan	1
+1	World Cup qualifier
+in Japan	-15
++15	1735
+1545	-5
++8	31
+67
+November 13
+2008	Japan
+Syria	3
+1	Friendly
+in Japan	+4
+-4	1739
+1512	0
+0	31
+79
+November 19
+2008	Qatar
+Japan	0
+3	World Cup qualifier
+in Qatar	-22
++22	1483
+1761	-7
++8	89
+23
+January 20
+2009	Japan
+Yemen	2
+1	Asian Cup qualifier
+in Japan	+1
+-1	1762
+1206	0
+0	22
+155
+January 28
+2009	Bahrain
+Japan	1
+0	Asian Cup qualifier
+in Bahrain	+28
+-28	1543
+1734	+9
+-10	68
+32
+February 04
+2009	Japan
+Finland	5
+1	Friendly
+in Japan	+9
+-9	1743
+1634	+3
+-1	29
+48
+February 11
+2009	Japan
+Australia	0
+0	World Cup qualifier
+in Japan	-6
++6	1737
+1732	-2
+0	31
+33
+March 28
+2009	Japan
+Bahrain	1
+0	World Cup qualifier
+in Japan	+7
+-7	1744
+1572	+3
+-1	28
+58
+May 27
+2009	Japan
+Chile	4
+0	Kirin Cup
+in Japan	+24
+-24	1768
+1764	+5
+-9	22
+25
+May 31
+2009	Japan
+Belgium	4
+0	Kirin Cup
+in Japan	+8
+-8	1776
+1559	+4
+-4	18
+64
+June 06
+2009	Uzbekistan
+Japan	0
+1	World Cup qualifier
+in Uzbekistan	-13
++13	1531
+1789	-3
++2	73
+16
+June 10
+2009	Japan
+Qatar	1
+1	World Cup qualifier
+in Japan	-16
++16	1773
+1515	-4
++4	20
+80
+June 17
+2009	Australia
+Japan	2
+1	World Cup qualifier
+in Australia	+18
+-18	1733
+1755	+4
+-6	31
+26
+September 05
+2009	Netherlands
+Japan	3
+0	Friendly
+in the Netherlands	+4
+-4	2008
+1751	0
+-1	3
+27
+September 09
+2009	Japan
+Ghana	4
+3	Friendly
+in the Netherlands	+10
+-10	1761
+1737	+3
+-2	24
+32
+October 08
+2009	Japan
+Hong Kong	6
+0	Asian Cup qualifier
+in Japan	+2
+-2	1763
+1235	+2
+0	22
+149
+October 10
+2009	Japan
+Scotland	2
+0	Friendly
+in Japan	+7
+-7	1770
+1659	0
+-1	22
+45
+October 14
+2009	Japan
+Togo	5
+0	Friendly
+in Japan	+3
+-3	1773
+1432	+3
+0	19
+95
+November 14
+2009	South Africa
+Japan	0
+0	Friendly
+in South Africa	+4
+-4	1509
+1769	0
+-1	83
+20
+November 18
+2009	Hong Kong
+Japan	0
+4	Asian Cup qualifier
+in Hong Kong	-6
++6	1229
+1775	-1
++3	149
+17
+January 06
+2010	Yemen
+Japan	2
+3	Asian Cup qualifier
+in Yemen	-3
++3	1223
+1778	-2
+0	152
+17
+February 02
+2010	Japan
+Venezuela	0
+0	Friendly
+in Japan	-5
++5	1773
+1707	-1
+0	18
+36
+February 06
+2010	Japan
+China	0
+0	East Asian Championship
+in Japan	-15
++15	1758
+1561	-3
++9	21
+62
+February 11
+2010	Japan
+Hong Kong	3
+0	East Asian Championship
+in Japan	+2
+-2	1760
+1219	0
+0	21
+152
+February 14
+2010	Japan
+South Korea	1
+3	East Asian Championship
+in Japan	-44
++44	1716
+1725	-14
++11	35
+31
+March 03
+2010	Japan
+Bahrain	2
+0	Asian Cup qualifier
+in Japan	+10
+-10	1726
+1522	+4
+-3	31
+81
+April 07
+2010	Japan
+Serbia	0
+3	Friendly
+in Japan	-18
++18	1708
+1833	-4
++2	35
+13
+May 24
+2010	Japan
+South Korea	0
+2	Friendly
+in Japan	-17
++17	1691
+1767	-5
++5	40
+18
+May 30
+2010	England
+Japan	2
+1	Friendly
+in Austria	+3
+-3	1975
+1688	0
+0	4
+40
+June 04
+2010	Ivory Coast
+Japan	2
+0	Friendly
+in Switzerland	+13
+-13	1739
+1675	+1
+-2	26
+43
+June 10
+2010	Japan
+Zimbabwe	0
+0	Friendly
+in South Africa	-7
++7	1668
+1394	0
++1	43
+109
+June 14
+2010	Japan
+Cameroon	1
+0	World Cup
+in South Africa	+32
+-32	1700
+1655	+10
+-6	34
+45
+June 19
+2010	Netherlands
+Japan	1
+0	World Cup
+in South Africa	+8
+-8	2040
+1692	0
+-3	2
+38
+June 24
+2010	Japan
+Denmark	3
+1	World Cup
+in South Africa	+53
+-53	1745
+1699	+12
+-10	25
+34
+June 29
+2010	Paraguay
+Japan	0
+0	World Cup
+in South Africa	-2
++2	1769
+1747	-1
+0	19
+26
+September 04
+2010	Japan
+Paraguay	1
+0	Friendly
+in Japan	+8
+-8	1755
+1760	+2
+-1	22
+21
+September 07
+2010	Japan
+Guatemala	2
+1	Friendly
+in Japan	+2
+-2	1757
+1417	-1
++3	23
+100
+October 08
+2010	Japan
+Argentina	1
+0	Friendly
+in Japan	+13
+-13	1770
+1956	+3
+0	20
+5
+October 12
+2010	South Korea
+Japan	0
+0	Friendly
+in South Korea	-1
++1	1720
+1771	-2
++3	29
+18
+January 09
+2011	Jordan
+Japan	1
+1	Asian Cup
+in Qatar	+18
+-18	1476
+1753	+3
+-2	92
+21
+January 13
+2011	Japan
+Syria	2
+1	Asian Cup
+in Qatar	+11
+-11	1764
+1532	+2
+-1	20
+74
+January 17
+2011	Japan
+Saudi Arabia	5
+0	Asian Cup
+in Qatar	+25
+-25	1789
+1549	+6
+-8	14
+70
+January 21
+2011	Qatar
+Japan	2
+3	Asian Cup
+in Qatar	-15
++15	1526
+1804	-1
++1	73
+13
+January 25
+2011	Japan
+South Korea	2
+2	Asian Cup
+in Qatar	-3
++3	1801
+1767	-1
++1	14
+21
+January 29
+2011	Japan
+Australia	1
+0	Asian Cup
+in Qatar	+25
+-25	1826
+1780	+2
+-6	12
+19
+June 01
+2011	Japan
+Peru	0
+0	Kirin Cup
+in Japan	-11
++11	1815
+1629	0
++1	13
+51
+June 07
+2011	Japan
+Czechia	0
+0	Kirin Cup
+in Japan	-8
++8	1807
+1712	-2
++1	15
+34
+August 10
+2011	Japan
+South Korea	3
+0	Friendly
+in Japan	+12
+-12	1819
+1791	+1
+-1	14
+17
+September 02
+2011	Japan
+North Korea	1
+0	World Cup qualifier
+in Japan	+3
+-3	1822
+1483	0
++1	14
+87
+September 06
+2011	Uzbekistan
+Japan	1
+1	World Cup qualifier
+in Uzbekistan	+8
+-8	1574
+1814	+5
+-1	61
+15
+October 07
+2011	Japan
+Vietnam	1
+0	Friendly
+in Japan	+1
+-1	1815
+1286	-1
+-1	16
+139
+October 11
+2011	Japan
+Tajikistan	8
+0	World Cup qualifier
+in Japan	+2
+-2	1817
+1252	+1
++1	15
+142
+November 11
+2011	Tajikistan
+Japan	0
+4	World Cup qualifier
+in Tajikistan	-5
++5	1247
+1822	-3
++1	145
+14
+November 15
+2011	North Korea
+Japan	1
+0	World Cup qualifier
+in North Korea	+33
+-33	1492
+1789	+4
+-4	89
+18
+February 24
+2012	Japan
+Iceland	3
+1	Friendly
+in Japan	+2
+-2	1791
+1409	0
+-1	18
+103
+February 29
+2012	Japan
+Uzbekistan	0
+1	World Cup qualifier
+in Japan	-34
++34	1757
+1614	-7
++6	25
+54
+May 23
+2012	Japan
+Azerbaijan	2
+0	Friendly
+in Japan	+2
+-2	1759
+1363	0
+-1	25
+115
+June 03
+2012	Japan
+Oman	3
+0	World Cup qualifier
+in Japan	+9
+-9	1768
+1520	+1
+-3	22
+80
+June 08
+2012	Japan
+Jordan	6
+0	World Cup qualifier
+in Japan	+12
+-12	1780
+1538	0
+-2	22
+73
+June 12
+2012	Australia
+Japan	1
+1	World Cup qualifier
+in Australia	-6
++6	1783
+1786	-2
++2	20
+18
+August 15
+2012	Japan
+Venezuela	1
+1	Friendly
+in Japan	-5
++5	1781
+1679	-1
+-1	19
+39
+September 06
+2012	Japan
+United Arab Emirates	1
+0	Friendly
+in Japan	+1
+-1	1782
+1415	0
+0	19
+101
+September 11
+2012	Japan
+Iraq	1
+0	World Cup qualifier
+in Japan	+6
+-6	1788
+1577	+1
+0	20
+64
+October 12
+2012	France
+Japan	0
+1	Friendly
+in France	-14
++14	1833
+1802	-2
++1	15
+19
+October 16
+2012	Brazil
+Japan	4
+0	Friendly
+in Poland	+7
+-7	2051
+1795	0
++1	2
+18
+November 14
+2012	Oman
+Japan	1
+2	World Cup qualifier
+in Oman	-11
++11	1521
+1806	0
+0	75
+18
+February 06
+2013	Japan
+Latvia	3
+0	Friendly
+in Japan	+3
+-3	1809
+1484	0
+-3	18
+87
+March 22
+2013	Japan
+Canada	2
+1	Friendly
+in Qatar	+4
+-4	1813
+1562	0
+-2	18
+66
+March 26
+2013	Jordan
+Japan	2
+1	World Cup qualifier
+in Jordan	+31
+-31	1532
+1782	+11
+-3	73
+21
+May 30
+2013	Japan
+Bulgaria	0
+2	Friendly
+in Japan	-24
++24	1758
+1669	-3
++6	24
+41
+June 04
+2013	Japan
+Australia	1
+1	World Cup qualifier
+in Japan	-7
++7	1751
+1740	0
++3	24
+27
+June 11
+2013	Iraq
+Japan	0
+1	World Cup qualifier
+in Qatar	-10
++10	1543
+1761	-4
++2	70
+25
+June 15
+2013	Brazil
+Japan	3
+0	Confederations Cup
+in Brazil	+10
+-10	2028
+1751	0
+0	3
+25
+June 19
+2013	Italy
+Japan	4
+3	Confederations Cup
+in Brazil	+14
+-14	1921
+1737	0
+-2	7
+28
+June 22
+2013	Mexico
+Japan	2
+1	Confederations Cup
+in Brazil	+20
+-20	1827
+1717	+4
+-2	15
+30
+July 21
+2013	China
+Japan	3
+3	East Asian Championship
+in South Korea	+9
+-9	1557
+1708	+2
+0	67
+30
+July 25
+2013	Japan
+Australia	3
+2	East Asian Championship
+in South Korea	+23
+-23	1731
+1737	+2
+-3	29
+28
+July 28
+2013	South Korea
+Japan	1
+2	East Asian Championship
+in South Korea	-23
++23	1669
+1754	-7
++4	42
+25
+August 14
+2013	Japan
+Uruguay	2
+4	Friendly
+in Japan	-16
++16	1738
+1850	-2
++3	27
+11
+September 06
+2013	Japan
+Guatemala	3
+0	Friendly
+in Japan	+4
+-4	1742
+1460	+3
+-5	24
+94
+September 10
+2013	Japan
+Ghana	3
+1	Friendly
+in Japan	+9
+-9	1751
+1687	0
+-1	24
+37
+October 11
+2013	Serbia
+Japan	2
+0	Friendly
+in Serbia	+13
+-13	1714
+1738	+7
+-1	27
+25
+October 15
+2013	Belarus
+Japan	1
+0	Friendly
+in Belarus	+12
+-12	1568
+1726	+8
+-1	60
+26
+November 16
+2013	Netherlands
+Japan	2
+2	Friendly
+in Belgium	-6
++6	1984
+1732	-1
++2	5
+26
+November 19
+2013	Belgium
+Japan	2
+3	Friendly
+in Belgium	-15
++15	1808
+1747	-4
++1	18
+25
+March 05
+2014	Japan
+New Zealand	4
+2	Friendly
+in Japan	+5
+-5	1752
+1555	+1
+-4	24
+69

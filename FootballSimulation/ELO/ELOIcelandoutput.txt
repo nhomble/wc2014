@@ -1,0 +1,381 @@
+1930 215 away Iceland FaroeIslands 0 1 Friendly
+1946 203 home Iceland Denmark 0 3 Friendly
+1947 210 home Iceland Norway 2 4 Friendly
+1948 188 home Iceland Finland 2 0 Friendly
+1949 224 away Iceland Denmark 5 1 Friendly
+1951 184 home Iceland Sweden 4 3 Friendly
+1951 212 away Iceland Norway 3 1 Friendly
+1953 226 away Iceland Denmark 4 0 Friendly
+1953 230 away Iceland Norway 3 1 Friendly
+1954 190 home Iceland Norway 1 0 Friendly
+1954 241 away Iceland Sweden 3 2 Friendly
+1955 189 home Iceland Denmark 0 4 Friendly
+1955 242 home Iceland UnitedStates 3 2 Friendly
+1956 184 away Iceland Finland 2 1 Friendly
+1957 157 away Iceland France 8 0 World Cup qualifier
+1957 160 away Iceland Belgium 8 3 World Cup qualifier
+1957 194 home Iceland Norway 0 3 Friendly
+1957 196 home Iceland Denmark 2 6 Friendly
+1957 249 home Iceland France 1 5 World Cup qualifier
+1957 252 home Iceland Belgium 2 5 World Cup qualifier
+1959 181 home Iceland Denmark 2 4 Olympic Games qualifier
+1959 193 home Iceland Norway 1 0 Olympic Games qualifier
+1959 235 away Iceland Denmark 1 1 Olympic Games qualifier
+1959 238 away Iceland Norway 2 1 Olympic Games qualifier
+1960 164 away Iceland Norway 4 0 Friendly
+1960 220 home Iceland Germany 0 5 Friendly
+1962 195 home Iceland Norway 1 3 Friendly
+1962 229 away Iceland Ireland 4 2 European Cup qualifier
+1962 250 home Iceland Ireland 1 1 European Cup qualifier
+1964 227 home Iceland Bermuda 4 3 Friendly
+1964 240 home Iceland Finland 0 2 Friendly
+1965 191 home Iceland Denmark 1 3 Friendly
+1967 240 away Iceland Denmark 14 2 Friendly
+1968 204 home Iceland Norway 0 4 Friendly
+1969 178 home Iceland Bermuda 2 1 Friendly
+1969 207 away Iceland Norway 2 1 Friendly
+1969 210 away Iceland Finland 3 1 Friendly
+1969 321 away Iceland Bermuda 3 2 Friendly
+1970 193 home Iceland Denmark 0 0 Friendly
+1970 206 home Iceland Norway 2 0 Friendly
+1971 150 away Iceland Norway 3 1 Friendly
+1971 230 home Iceland Japan 0 2 Friendly
+1972 142 away Iceland Belgium 4 0 World Cup qualifier
+1972 146 away Iceland Belgium 4 0 World Cup qualifier
+1972 189 home Iceland Denmark 2 5 Friendly
+1972 198 home Iceland FaroeIslands 3 0 Friendly
+1972 220 away Iceland Norway 4 1 World Cup qualifier
+1973 163 away Iceland FaroeIslands 0 4 Friendly
+1973 197 away Iceland Sweden 1 0 Friendly
+1973 203 home Iceland EastGermany 1 2 Friendly
+1973 205 home Iceland EastGermany 0 2 Friendly
+1973 220 home Iceland Norway 0 4 World Cup qualifier
+1973 239 away Iceland Holland 5 0 World Cup qualifier
+1973 246 away Iceland Holland 8 1 World Cup qualifier
+1974 189 away Iceland FaroeIslands 2 3 Friendly
+1974 236 home Iceland Finland 2 2 Friendly
+1974 256 home Iceland Belgium 0 2 European Cup qualifier
+1974 288 away Iceland Denmark 2 1 Friendly
+1974 291 away Iceland EastGermany 1 1 European Cup qualifier
+1975 149 home Iceland France 0 0 European Cup qualifier
+1975 160 home Iceland EastGermany 2 1 European Cup qualifier
+1975 178 home Iceland FaroeIslands 6 0 Friendly
+1975 193 home Iceland Norway 1 1 Olympic Games qualifier
+1975 203 away Iceland Norway 3 2 Olympic Games qualifier
+1975 216 home Iceland SovietUnion 0 2 Olympic Games qualifier
+1975 251 away Iceland France 3 0 European Cup qualifier
+1975 254 away Iceland Belgium 1 0 European Cup qualifier
+1975 258 away Iceland SovietUnion 1 0 Olympic Games qualifier
+1976 143 away Iceland Norway 0 1 Friendly
+1976 171 away Iceland FaroeIslands 1 6 Friendly
+1976 200 away Iceland Finland 1 0 Friendly
+1976 238 home Iceland Luxembourg 3 1 Friendly
+1976 253 home Iceland Belgium 0 1 World Cup qualifier
+1976 256 home Iceland Holland 0 1 World Cup qualifier
+1977 166 home Iceland NorthernIreland 1 0 World Cup qualifier
+1977 185 home Iceland Norway 2 1 Friendly
+1977 206 home Iceland Sweden 0 1 Friendly
+1977 248 away Iceland Holland 4 1 World Cup qualifier
+1977 251 away Iceland Belgium 4 0 World Cup qualifier
+1977 269 away Iceland NorthernIreland 2 0 World Cup qualifier
+1978 183 home Iceland Denmark 0 0 Friendly
+1978 251 home Iceland UnitedStates 0 0 Friendly
+1978 254 home Iceland Poland 0 2 European Cup qualifier
+1978 268 away Iceland Holland 3 0 European Cup qualifier
+1978 283 away Iceland EastGermany 3 1 European Cup qualifier
+1979 146 away Iceland Switzerland 2 0 European Cup qualifier
+1979 150 home Iceland Germany 1 3 Friendly
+1979 164 home Iceland Switzerland 1 2 European Cup qualifier
+1979 253 home Iceland Holland 0 4 European Cup qualifier
+1979 260 home Iceland EastGermany 0 3 European Cup qualifier
+1979 289 away Iceland Poland 2 0 European Cup qualifier
+1980 157 home Iceland Wales 0 4 World Cup qualifier
+1980 180 home Iceland Finland 1 1 Friendly
+1980 185 home Iceland FaroeIslands 2 1 Friendly tournament
+1980 189 home Iceland Greenland 4 1 Friendly tournament
+1980 200 away Iceland Norway 3 1 Friendly
+1980 203 away Iceland Sweden 1 1 Friendly
+1980 251 home Iceland SovietUnion 1 2 World Cup qualifier
+1980 272 away Iceland Turkey 1 3 World Cup qualifier
+1980 294 away Iceland SovietUnion 5 0 World Cup qualifier
+1981 151 away Iceland Czechoslovakia 6 1 World Cup qualifier
+1981 239 home Iceland Nigeria 3 0 Friendly
+1981 243 away Iceland Denmark 3 0 Friendly
+1981 257 home Iceland Turkey 2 0 World Cup qualifier
+1981 271 home Iceland Czechoslovakia 1 1 World Cup qualifier
+1981 293 away Iceland Wales 2 2 World Cup qualifier
+1982 76 away Iceland Kuwait 0 0 Friendly
+1982 157 home Iceland England 1 1 Friendly
+1982 160 away Iceland Malta 2 1 European Cup qualifier
+1982 197 away Iceland Finland 3 2 Friendly
+1982 218 away Iceland FaroeIslands 1 4 Friendly
+1982 219 away Iceland FaroeIslands 0 4 Friendly
+1982 249 home Iceland Holland 1 1 European Cup qualifier
+1982 256 home Iceland EastGermany 0 1 Friendly
+1982 292 away Iceland Ireland 2 0 European Cup qualifier
+1982 306 away Iceland Spain 1 0 European Cup qualifier
+1983 153 home Iceland Spain 0 1 European Cup qualifier
+1983 160 home Iceland Malta 1 0 European Cup qualifier
+1983 225 home Iceland FaroeIslands 6 0 Friendly
+1983 234 home Iceland Sweden 0 4 Friendly
+1983 255 away Iceland Holland 3 0 European Cup qualifier
+1983 269 home Iceland Ireland 0 3 European Cup qualifier
+1984 175 home Iceland Norway 0 1 Friendly
+1984 218 away Iceland FaroeIslands 0 0 Friendly tournament
+1984 220 home Iceland Greenland 1 0 Friendly tournament
+1984 260 home Iceland Wales 1 0 World Cup qualifier
+1984 273 away Iceland SaudiArabia 1 2 Friendly
+1984 296 away Iceland Scotland 3 0 World Cup qualifier
+1984 324 away Iceland Wales 2 1 World Cup qualifier
+1985 93 away Iceland Kuwait 1 1 Friendly
+1985 117 away Iceland Luxembourg 0 0 Friendly
+1985 152 home Iceland Scotland 0 1 World Cup qualifier
+1985 167 home Iceland Spain 1 2 World Cup qualifier
+1985 196 home Iceland FaroeIslands 9 0 Friendly
+1985 198 home Iceland FaroeIslands 1 0 Friendly
+1985 273 away Iceland Spain 2 1 World Cup qualifier
+1986 73 away Iceland Bahrain 2 1 Friendly
+1986 77 away Iceland Bahrain 0 2 Friendly
+1986 81 away Iceland Kuwait 1 0 Friendly
+1986 149 home Iceland Ireland 1 2 Friendly tournament
+1986 153 home Iceland Czechoslovakia 1 2 Friendly tournament
+1986 258 home Iceland France 0 0 European Cup qualifier
+1986 272 home Iceland SovietUnion 1 1 European Cup qualifier
+1986 308 away Iceland EastGermany 2 0 European Cup qualifier
+1987 57 away Iceland Kuwait 1 1 Friendly
+1987 59 away Iceland Kuwait 0 1 Friendly
+1987 122 away Iceland France 2 0 European Cup qualifier
+1987 158 home Iceland EastGermany 0 6 European Cup qualifier
+1987 257 home Iceland Norway 2 1 European Cup qualifier
+1987 271 away Iceland Norway 0 1 European Cup qualifier
+1987 307 away Iceland SovietUnion 2 0 European Cup qualifier
+1988 128 away Iceland Hungary 3 0 Friendly
+1988 224 home Iceland Bulgaria 2 3 Friendly
+1988 241 home Iceland FaroeIslands 1 0 Friendly
+1988 248 home Iceland SovietUnion 1 1 World Cup qualifier
+1988 269 home Iceland Hungary 0 3 Friendly
+1988 276 away Iceland Denmark 1 0 Friendly
+1988 291 away Iceland Turkey 1 1 World Cup qualifier
+1988 298 away Iceland EastGermany 2 0 World Cup qualifier
+1989 155 away Iceland SovietUnion 1 1 World Cup qualifier
+1989 169 home Iceland Austria 0 0 World Cup qualifier
+1989 240 away Iceland Austria 2 1 World Cup qualifier
+1989 254 home Iceland EastGermany 0 3 World Cup qualifier
+1989 268 home Iceland Turkey 2 1 World Cup qualifier
+1990 90 away Iceland Luxembourg 1 2 Friendly
+1990 96 away Iceland Bermuda 0 4 Friendly
+1990 101 away Iceland UnitedStates 4 1 Friendly
+1990 154 home Iceland Albania 2 0 European Cup qualifier
+1990 225 away Iceland FaroeIslands 2 3 Friendly
+1990 253 home Iceland France 1 2 European Cup qualifier
+1990 274 away Iceland Czechoslovakia 1 0 European Cup qualifier
+1990 289 away Iceland Spain 2 1 European Cup qualifier
+1991 125 away Iceland Wales 1 0 Friendly
+1991 131 away Iceland Malta 1 4 Friendly
+1991 150 away Iceland Albania 1 0 European Cup qualifier
+1991 160 home Iceland Czechoslovakia 0 1 European Cup qualifier
+1991 203 home Iceland Turkey 5 1 Friendly
+1991 252 home Iceland Denmark 0 0 Friendly
+1991 273 home Iceland Spain 2 0 European Cup qualifier
+1991 295 away Iceland Cyprus 1 1 Friendly
+1991 330 away Iceland France 3 1 European Cup qualifier
+1992 41 away Iceland Malta 1 0 Rothmans Tournament
+1992 64 away Iceland UnitedArab 0 1 Friendly
+1992 101 away Iceland Israel 2 2 Friendly
+1992 137 away Iceland Greece 1 0 World Cup qualifier
+1992 158 away Iceland Hungary 1 2 World Cup qualifier
+1992 226 home Iceland Israel 0 2 Friendly
+1992 286 home Iceland Greece 0 1 World Cup qualifier
+1992 293 away Iceland Russia 1 0 World Cup qualifier
+1993 110 away Iceland UnitedStates 1 1 Friendly
+1993 144 away Iceland Luxembourg 1 1 World Cup qualifier
+1993 157 home Iceland Russia 1 1 World Cup qualifier
+1993 171 home Iceland Hungary 2 0 World Cup qualifier
+1993 248 home Iceland UnitedStates 0 1 Friendly
+1993 256 home Iceland Luxembourg 1 0 World Cup qualifier
+1993 296 away Iceland Tunisia 3 1 Friendly
+1994 113 away Iceland SaudiArabia 2 0 Friendly
+1994 117 away Iceland UnitedStates 1 2 Friendly
+1994 128 away Iceland Brazil 3 0 Friendly
+1994 143 home Iceland Bolivia 1 0 Friendly
+1994 233 home Iceland Estonia 4 0 Friendly
+1994 247 home Iceland UnitedArab 1 0 Friendly
+1994 255 home Iceland Sweden 0 1 European Cup qualifier
+1994 291 away Iceland Turkey 5 0 European Cup qualifier
+1994 308 away Iceland Kuwait 0 1 Friendly
+1994 326 away Iceland Switzerland 1 0 European Cup qualifier
+1995 115 away Iceland Chile 1 1 Friendly
+1995 156 away Iceland Sweden 1 1 European Cup qualifier
+1995 166 home Iceland Hungary 2 1 European Cup qualifier
+1995 188 home Iceland FaroeIslands 2 0 Friendly
+1995 233 home Iceland Switzerland 0 2 European Cup qualifier
+1995 290 home Iceland Turkey 0 0 European Cup qualifier
+1995 321 away Iceland Hungary 1 0 European Cup qualifier
+1996 38 away Iceland Slovenia 7 1 Rothmans Tournament
+1996 40 away Iceland Russia 3 0 Rothmans Tournament
+1996 42 away Iceland Malta 1 4 Rothmans Tournament
+1996 117 away Iceland Estonia 0 3 Friendly
+1996 156 home Iceland Macedonia 1 1 World Cup qualifier
+1996 160 home Iceland Cyprus 2 1 Friendly
+1996 231 home Iceland Malta 2 1 Friendly
+1996 252 away Iceland Czechia 2 1 Friendly
+1996 284 away Iceland Lithuania 2 0 World Cup qualifier
+1996 288 home Iceland Romania 0 4 World Cup qualifier
+1996 320 away Iceland Ireland 0 0 World Cup qualifier
+1997 122 away Iceland Slovakia 3 1 Friendly
+1997 162 away Iceland Macedonia 1 0 World Cup qualifier
+1997 166 home Iceland Lithuania 0 0 World Cup qualifier
+1997 206 home Iceland Norway 0 1 Friendly
+1997 213 home Iceland FaroeIslands 1 0 Friendly
+1997 237 away Iceland Liechtenstein 0 4 World Cup qualifier
+1997 254 home Iceland Ireland 2 4 World Cup qualifier
+1997 258 away Iceland Romania 4 0 World Cup qualifier
+1997 290 home Iceland Liechtenstein 4 0 World Cup qualifier
+1997 348 away Iceland SaudiArabia 0 0 Friendly
+1998 36 away Iceland Slovenia 3 2 Friendly tournament
+1998 38 away Iceland Slovakia 2 1 Friendly tournament
+1998 136 away Iceland SaudiArabia 1 1 Friendly
+1998 161 away Iceland SouthAfrica 1 1 Friendly
+1998 236 home Iceland Latvia 4 1 Friendly
+1998 253 home Iceland France 1 1 European Cup qualifier
+1998 289 away Iceland Armenia 0 0 European Cup qualifier
+1998 293 home Iceland Russia 1 0 European Cup qualifier
+1999 72 away Iceland Luxembourg 1 2 Friendly
+1999 89 away Iceland Andorra 0 2 European Cup qualifier
+1999 93 away Iceland Ukraine 1 1 European Cup qualifier
+1999 121 away Iceland Malta 1 2 Friendly
+1999 160 home Iceland Armenia 2 0 European Cup qualifier
+1999 164 away Iceland Russia 1 0 European Cup qualifier
+1999 235 away Iceland FaroeIslands 0 1 Friendly
+1999 252 home Iceland Andorra 3 0 European Cup qualifier
+1999 256 home Iceland Ukraine 0 1 European Cup qualifier
+1999 288 away Iceland France 3 2 European Cup qualifier
+2000 31 home Iceland Norway 0 0 Nordic Tournament
+2000 33 home Iceland Finland 1 0 Nordic Tournament
+2000 35 home Iceland FaroeIslands 3 2 Nordic Tournament
+2000 213 home Iceland Malta 5 0 Friendly
+2000 233 home Iceland Sweden 2 1 Nordic Tournament
+2000 250 home Iceland Denmark 1 2 World Cup qualifier
+2000 286 away Iceland Czechia 4 0 World Cup qualifier
+2000 290 home Iceland NorthernIreland 1 0 World Cup qualifier
+2000 325 away Iceland Poland 1 0 Friendly
+2001 13 away Iceland India 0 3 Millenium Cup
+2001 20 away Iceland Chile 2 0 Millenium Cup
+2001 86 away Iceland Bulgaria 2 1 World Cup qualifier
+2001 118 away Iceland Malta 1 4 World Cup qualifier
+2001 157 home Iceland Malta 3 0 World Cup qualifier
+2001 161 home Iceland Bulgaria 1 1 World Cup qualifier
+2001 232 home Iceland Poland 1 1 Friendly
+2001 249 home Iceland Czechia 3 1 World Cup qualifier
+2001 253 away Iceland NorthernIreland 3 0 World Cup qualifier
+2001 285 away Iceland Denmark 6 0 World Cup qualifier
+2002 8 home Iceland Kuwait 0 0 Friendly
+2002 10 away Iceland SaudiArabia 1 0 Friendly
+2002 69 away Iceland Brazil 6 1 Friendly
+2002 146 away Iceland Norway 1 1 Friendly
+2002 238 home Iceland Andorra 3 0 Friendly
+2002 255 home Iceland Hungary 0 2 Friendly
+2002 291 home Iceland Scotland 0 2 European Cup qualifier
+2002 295 home Iceland Lithuania 3 0 European Cup qualifier
+2002 330 away Iceland Estonia 2 0 Friendly
+2003 91 away Iceland Scotland 2 1 European Cup qualifier
+2003 123 away Iceland Finland 3 0 Friendly
+2003 162 home Iceland FaroeIslands 2 1 European Cup qualifier
+2003 166 away Iceland Lithuania 0 3 European Cup qualifier
+2003 237 away Iceland FaroeIslands 1 2 European Cup qualifier
+2003 254 home Iceland Germany 0 0 European Cup qualifier
+2003 290 away Iceland Germany 3 0 European Cup qualifier
+2003 329 home Iceland Mexico 0 0 Friendly
+2004 93 away Iceland Albania 2 1 Friendly
+2004 121 away Iceland Latvia 0 0 Friendly
+2004 154 away Iceland Japan 3 2 Friendly tournament
+2004 160 away Iceland England 6 1 Friendly tournament
+2004 235 home Iceland Italy 2 0 Friendly
+2004 252 home Iceland Bulgaria 1 3 World Cup qualifier
+2004 256 away Iceland Hungary 3 2 World Cup qualifier
+2004 288 away Iceland Malta 0 0 World Cup qualifier
+2004 292 home Iceland Sweden 1 4 World Cup qualifier
+2005 88 away Iceland Croatia 4 0 World Cup qualifier
+2005 92 away Iceland Italy 0 0 Friendly
+2005 159 home Iceland Hungary 2 3 World Cup qualifier
+2005 163 home Iceland Malta 4 1 World Cup qualifier
+2005 234 home Iceland SouthAfrica 4 1 Friendly
+2005 251 home Iceland Croatia 1 3 World Cup qualifier
+2005 255 away Iceland Bulgaria 3 2 World Cup qualifier
+2005 286 away Iceland Poland 3 2 Friendly
+2005 291 away Iceland Sweden 3 1 World Cup qualifier
+2006 59 away Iceland TrinidadTobago 2 0 Friendly
+2006 232 home Iceland Spain 0 0 Friendly
+2006 250 away Iceland NorthernIreland 0 3 European Cup qualifier
+2006 254 home Iceland Denmark 0 2 European Cup qualifier
+2006 286 away Iceland Latvia 4 0 European Cup qualifier
+2006 290 home Iceland Sweden 1 2 European Cup qualifier
+2007 90 away Iceland Spain 1 0 European Cup qualifier
+2007 157 home Iceland Liechtenstein 1 1 European Cup qualifier
+2007 161 away Iceland Sweden 5 0 European Cup qualifier
+2007 239 home Iceland Canada 1 1 Friendly
+2007 256 home Iceland Spain 1 1 European Cup qualifier
+2007 260 home Iceland NorthernIreland 2 1 European Cup qualifier
+2007 292 home Iceland Latvia 2 4 European Cup qualifier
+2007 296 away Iceland Liechtenstein 3 0 European Cup qualifier
+2007 331 away Iceland Denmark 3 0 European Cup qualifier
+2008 33 away Iceland Belarus 2 0 Friendly tournament
+2008 35 away Iceland Malta 1 0 Friendly tournament
+2008 37 home Iceland Armenia 2 0 Friendly tournament
+2008 78 home Iceland FaroeIslands 3 0 Friendly
+2008 88 away Iceland Slovakia 1 2 Friendly
+2008 152 home Iceland Wales 0 1 Friendly
+2008 237 home Iceland Azerbaijan 1 1 Friendly
+2008 254 away Iceland Norway 2 2 World Cup qualifier
+2008 258 home Iceland Scotland 1 2 World Cup qualifier
+2008 290 away Iceland Holland 2 0 World Cup qualifier
+2008 294 home Iceland Macedonia 1 0 World Cup qualifier
+2008 329 away Iceland Malta 0 1 Friendly
+2009 42 home Iceland Liechtenstein 2 0 Friendly
+2009 84 home Iceland FaroeIslands 1 2 Friendly
+2009 94 away Iceland Scotland 2 1 World Cup qualifier
+2009 161 home Iceland Holland 1 2 World Cup qualifier
+2009 165 away Iceland Macedonia 2 0 World Cup qualifier
+2009 229 home Iceland Slovakia 1 1 Friendly
+2009 253 home Iceland Norway 1 1 World Cup qualifier
+2009 257 home Iceland Georgia 3 1 Friendly
+2009 292 home Iceland SouthAfrica 1 0 Friendly
+2009 320 away Iceland Iran 1 0 Friendly
+2009 324 away Iceland Luxembourg 1 1 Friendly
+2010 65 away Iceland Cyprus 0 0 Friendly
+2010 83 home Iceland FaroeIslands 2 0 Friendly
+2010 86 home Iceland Mexico 0 0 Friendly
+2010 153 home Iceland Andorra 4 0 Friendly
+2010 228 home Iceland Liechtenstein 1 1 Friendly
+2010 251 home Iceland Norway 1 2 European Cup qualifier
+2010 255 away Iceland Denmark 1 0 European Cup qualifier
+2010 291 home Iceland Portugal 1 3 European Cup qualifier
+2010 327 away Iceland Israel 3 2 Friendly
+2011 88 away Iceland Cyprus 0 0 European Cup qualifier
+2011 159 home Iceland Denmark 0 2 European Cup qualifier
+2011 227 away Iceland Hungary 4 0 Friendly
+2011 250 away Iceland Norway 1 0 European Cup qualifier
+2011 254 home Iceland Cyprus 1 0 European Cup qualifier
+2011 286 away Iceland Portugal 5 3 European Cup qualifier
+2012 55 away Iceland Japan 3 1 Friendly
+2012 60 away Iceland Montenegro 2 1 Friendly
+2012 151 away Iceland France 3 2 Friendly
+2012 154 away Iceland Sweden 3 2 Friendly
+2012 232 home Iceland FaroeIslands 2 0 Friendly
+2012 255 home Iceland Norway 2 0 World Cup qualifier
+2012 259 away Iceland Cyprus 1 0 World Cup qualifier
+2012 291 away Iceland Albania 1 2 World Cup qualifier
+2012 295 home Iceland Switzerland 0 2 World Cup qualifier
+2012 324 away Iceland Andorra 0 2 Friendly
+2013 37 away Iceland Russia 2 0 Friendly
+2013 84 away Iceland Slovenia 1 2 World Cup qualifier
+2013 162 home Iceland Slovenia 2 4 World Cup qualifier
+2013 231 home Iceland FaroeIslands 1 0 Friendly
+2013 254 away Iceland Switzerland 4 4 World Cup qualifier
+2013 258 home Iceland Albania 2 1 World Cup qualifier
+2013 290 home Iceland Cyprus 2 0 World Cup qualifier
+2013 294 away Iceland Norway 1 1 World Cup qualifier
+2013 325 home Iceland Croatia 0 0 World Cup qualifier
+2013 329 away Iceland Croatia 2 0 World Cup qualifier
+2014 21 away Iceland Sweden 2 0 Friendly
+2014 67 away Iceland Wales 3 1 Friendly

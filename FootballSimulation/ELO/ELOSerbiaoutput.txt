@@ -1,0 +1,86 @@
+2006 233 away Serbia Czechia 1 3 Friendly
+2006 250 home Serbia Azerbaijan 1 0 European Cup qualifier
+2006 254 away Serbia Poland 1 1 European Cup qualifier
+2006 286 home Serbia Belgium 1 0 European Cup qualifier
+2006 290 home Serbia Armenia 3 0 European Cup qualifier
+2006 325 home Serbia Norway 1 1 Friendly
+2007 86 away Serbia Kazakhstan 2 1 European Cup qualifier
+2007 90 home Serbia Portugal 1 1 European Cup qualifier
+2007 157 away Serbia Finland 0 2 European Cup qualifier
+2007 239 away Serbia Belgium 3 2 European Cup qualifier
+2007 256 home Serbia Finland 0 0 European Cup qualifier
+2007 260 away Serbia Portugal 1 1 European Cup qualifier
+2007 292 away Serbia Armenia 0 0 European Cup qualifier
+2007 296 away Serbia Azerbaijan 1 6 European Cup qualifier
+2007 331 home Serbia Poland 2 2 European Cup qualifier
+2007 334 home Serbia Kazakhstan 1 0 European Cup qualifier
+2008 37 away Serbia Macedonia 1 1 Friendly
+2008 88 away Serbia Ukraine 2 0 Friendly
+2008 148 away Serbia Ireland 1 1 Friendly
+2008 152 away Serbia Russia 2 1 Friendly
+2008 155 away Serbia Germany 2 1 Friendly
+2008 254 home Serbia FaroeIslands 2 0 World Cup qualifier
+2008 258 away Serbia France 2 1 World Cup qualifier
+2008 290 home Serbia Lithuania 3 0 World Cup qualifier
+2008 294 away Serbia Austria 1 3 World Cup qualifier
+2008 329 home Serbia Bulgaria 6 1 Friendly
+2008 355 away Serbia Poland 1 0 Friendly
+2009 41 away Serbia Cyprus 0 2 Friendly tournament
+2009 42 away Serbia Ukraine 1 0 Friendly tournament
+2009 90 away Serbia Romania 2 3 World Cup qualifier
+2009 94 home Serbia Sweden 2 0 Friendly
+2009 161 home Serbia Austria 1 0 World Cup qualifier
+2009 165 away Serbia FaroeIslands 0 2 World Cup qualifier
+2009 229 away Serbia SouthAfrica 1 3 Friendly
+2009 257 home Serbia France 1 1 World Cup qualifier
+2009 289 home Serbia Romania 5 0 World Cup qualifier
+2009 293 away Serbia Lithuania 2 1 World Cup qualifier
+2009 324 away Serbia NorthernIreland 0 1 Friendly
+2009 328 home Serbia SouthKorea 1 0 Friendly
+2010 65 away Serbia Algeria 0 3 Friendly
+2010 100 away Serbia Japan 0 3 Friendly
+2010 153 away Serbia NewZealand 1 0 Friendly
+2010 157 away Serbia Poland 0 0 Friendly
+2010 160 home Serbia Cameroon 4 3 Friendly
+2010 168 away Serbia Ghana 1 0 World Cup
+2010 173 home Serbia Germany 1 0 World Cup
+2010 178 away Serbia Australia 2 1 World Cup
+2010 228 home Serbia Greece 0 1 Friendly
+2010 251 away Serbia FaroeIslands 0 3 European Cup qualifier
+2010 255 home Serbia Slovenia 1 1 European Cup qualifier
+2010 287 home Serbia Estonia 1 3 European Cup qualifier
+2010 327 away Serbia Bulgaria 0 1 Friendly
+2011 40 away Serbia Israel 0 2 Friendly
+2011 87 home Serbia NorthernIreland 2 1 European Cup qualifier
+2011 91 away Serbia Estonia 1 1 European Cup qualifier
+2011 158 away Serbia SouthKorea 2 1 Friendly
+2011 162 away Serbia Australia 0 0 Friendly
+2011 227 away Serbia Russia 1 0 Friendly
+2011 250 away Serbia NorthernIreland 0 1 European Cup qualifier
+2011 254 home Serbia FaroeIslands 3 1 European Cup qualifier
+2011 286 home Serbia Italy 1 1 European Cup qualifier
+2011 290 away Serbia Slovenia 1 0 European Cup qualifier
+2011 321 away Serbia Mexico 2 0 Friendly
+2011 324 away Serbia Honduras 2 0 Friendly
+2012 59 home Serbia Armenia 2 0 Friendly
+2012 60 away Serbia Cyprus 0 0 Friendly
+2012 150 away Serbia Spain 2 0 Friendly
+2012 155 away Serbia France 2 0 Friendly
+2012 160 away Serbia Sweden 2 1 Friendly
+2012 232 home Serbia Ireland 0 0 Friendly
+2012 256 away Serbia Scotland 0 0 World Cup qualifier
+2012 259 home Serbia Wales 6 1 World Cup qualifier
+2012 291 home Serbia Belgium 0 3 World Cup qualifier
+2012 295 away Serbia Macedonia 1 0 World Cup qualifier
+2012 324 home Serbia Chile 3 1 Friendly
+2013 37 away Serbia Cyprus 1 3 Friendly
+2013 84 away Serbia Croatia 2 0 World Cup qualifier
+2013 88 home Serbia Scotland 2 0 World Cup qualifier
+2013 162 away Serbia Belgium 2 1 World Cup qualifier
+2013 231 away Serbia Colombia 1 0 Friendly
+2013 254 home Serbia Croatia 1 1 World Cup qualifier
+2013 258 away Serbia Wales 0 3 World Cup qualifier
+2013 290 home Serbia Japan 2 0 Friendly
+2013 294 home Serbia Macedonia 5 1 World Cup qualifier
+2013 325 away Serbia Russia 1 1 Friendly
+2014 67 away Serbia Ireland 1 2 Friendly

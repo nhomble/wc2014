@@ -1,0 +1,966 @@
+1908 198 home Sweden Norway 11 3 Friendly
+1908 299 away Sweden GreatBritain 12 1 Olympic Games
+1908 302 away Sweden Holland 2 0 Olympic Games
+1908 304 away Sweden Holland 5 3 Friendly
+1908 305 away Sweden Belgium 2 1 Friendly
+1910 259 away Sweden Norway 0 4 Friendly
+1911 173 home Sweden Germany 2 4 Friendly
+1911 265 home Sweden Norway 4 1 Friendly
+1911 301 away Sweden Finland 2 5 Friendly
+1911 308 away Sweden Germany 1 3 Friendly
+1912 171 away Sweden Norway 1 2 Friendly
+1912 175 home Sweden Hungary 2 2 Friendly
+1912 182 home Sweden Finland 7 1 Friendly
+1912 184 home Sweden Holland 3 4 Olympic Games
+1912 187 home Sweden Italy 0 1 Olympic Games Consolation Tournament
+1912 313 home Sweden Norway 4 2 Friendly
+1913 128 away Sweden Russia 1 4 Friendly
+1913 142 away Sweden Hungary 2 0 Friendly
+1913 149 away Sweden Denmark 8 0 Friendly
+1913 163 home Sweden Norway 9 0 Friendly
+1913 284 home Sweden Denmark 0 10 Friendly
+1913 305 away Sweden Norway 1 1 Friendly
+1914 148 home Sweden Finland 4 3 Friendly
+1914 176 home Sweden Hungary 1 1 Friendly
+1914 183 away Sweden Norway 0 1 Friendly
+1914 191 home Sweden Russia 2 2 Friendly
+1914 304 home Sweden Norway 7 0 Friendly
+1915 161 away Sweden Denmark 2 0 Friendly
+1915 182 away Sweden Norway 1 1 Friendly
+1915 303 home Sweden Norway 5 2 Friendly
+1915 310 home Sweden Denmark 0 2 Friendly
+1916 159 away Sweden Denmark 2 0 Friendly
+1916 188 home Sweden Norway 6 0 Friendly
+1916 237 home Sweden UnitedStates 2 3 Friendly
+1916 280 away Sweden Norway 0 0 Friendly
+1916 287 home Sweden Denmark 4 0 Friendly
+1917 158 away Sweden Denmark 1 1 Friendly
+1917 236 home Sweden Norway 3 3 Friendly
+1917 264 away Sweden Norway 0 2 Friendly
+1917 293 home Sweden Denmark 1 2 Friendly
+1918 150 home Sweden Norway 2 0 Friendly
+1918 157 away Sweden Denmark 3 0 Friendly
+1918 263 away Sweden Norway 2 1 Friendly
+1918 299 home Sweden Denmark 1 2 Friendly
+1919 153 home Sweden Finland 1 0 Friendly
+1919 160 away Sweden Denmark 3 0 Friendly
+1919 164 away Sweden Holland 3 1 Friendly
+1919 184 away Sweden Norway 4 3 Friendly
+1919 241 home Sweden Holland 4 1 Friendly
+1919 262 home Sweden Norway 1 5 Friendly
+1919 276 away Sweden Finland 3 3 Friendly
+1919 291 home Sweden Denmark 3 0 Friendly
+1920 154 home Sweden Finland 4 0 Friendly
+1920 161 home Sweden Switzerland 0 1 Friendly
+1920 182 away Sweden Norway 0 3 Friendly
+1920 245 home Sweden Greece 9 0 Olympic Games
+1920 246 away Sweden Holland 5 4 Olympic Games
+1920 249 away Sweden Spain 2 1 Olympic Games
+1920 267 away Sweden Finland 1 0 Friendly
+1920 274 home Sweden Norway 0 0 Friendly
+1920 289 home Sweden Denmark 0 2 Friendly
+1921 87 away Sweden Austria 2 2 Friendly
+1921 153 home Sweden Finland 0 3 Friendly
+1921 174 away Sweden Norway 3 1 Friendly
+1921 208 away Sweden Estonia 0 0 Friendly
+1921 210 home Sweden Austria 1 3 Friendly
+1921 266 home Sweden Norway 0 3 Friendly
+1921 288 home Sweden Denmark 0 0 Friendly
+1921 316 away Sweden Hungary 4 2 Friendly
+1921 323 away Sweden Czechoslovakia 2 2 Friendly
+1922 152 home Sweden Poland 1 2 Friendly
+1922 160 away Sweden Finland 1 4 Friendly
+1922 195 home Sweden Hungary 1 1 Friendly
+1922 230 home Sweden Czechoslovakia 0 2 Friendly
+1922 240 home Sweden Norway 0 0 Friendly
+1922 272 away Sweden Norway 0 5 Friendly
+1922 280 away Sweden Denmark 1 2 Friendly
+1923 145 home Sweden England 2 4 Friendly
+1923 165 home Sweden Austria 4 2 Friendly
+1923 175 home Sweden Finland 5 4 Friendly
+1923 183 home Sweden Germany 2 1 Friendly
+1923 238 home Sweden Russia 1 2 Friendly
+1923 264 away Sweden Norway 2 3 Friendly
+1923 293 home Sweden Denmark 1 3 Friendly
+1923 307 away Sweden Hungary 2 1 Friendly
+1923 311 away Sweden Poland 2 2 Friendly
+1924 142 home Sweden Poland 5 1 Friendly
+1924 153 home Sweden Belgium 8 1 Olympic Games
+1924 156 home Sweden Egypt 5 0 Olympic Games
+1924 160 away Sweden Switzerland 2 1 Olympic Games
+1924 163 away Sweden Holland 1 1 Olympic Games
+1924 164 home Sweden Holland 3 1 Olympic Games
+1924 170 away Sweden Denmark 2 3 Friendly
+1924 184 home Sweden Egypt 5 0 Friendly
+1924 211 home Sweden Estonia 5 2 Friendly
+1924 214 away Sweden Finland 5 7 Friendly
+1924 248 away Sweden Germany 1 4 Friendly
+1924 269 home Sweden Norway 6 1 Friendly
+1924 319 away Sweden Austria 1 1 Friendly
+1924 326 away Sweden Italy 2 2 Friendly
+1925 164 home Sweden Finland 4 0 Friendly
+1925 169 home Sweden Denmark 0 2 Friendly
+1925 176 home Sweden Germany 1 0 Friendly
+1925 191 home Sweden Austria 2 4 Friendly
+1925 198 home Sweden Hungary 6 2 Friendly
+1925 240 away Sweden Norway 3 7 Friendly
+1925 311 away Sweden Poland 2 6 Friendly
+1926 164 home Sweden Norway 3 2 Friendly
+1926 168 home Sweden Czechoslovakia 2 2 Friendly
+1926 175 away Sweden Germany 3 3 Friendly
+1926 189 away Sweden Czechoslovakia 4 2 Friendly
+1926 204 home Sweden Italy 5 3 Friendly
+1926 206 away Sweden Latvia 4 1 Friendly
+1926 209 away Sweden Estonia 1 7 Friendly
+1926 212 away Sweden Finland 2 3 Friendly
+1926 282 away Sweden Denmark 2 0 Friendly
+1926 282 home Sweden Poland 3 1 Friendly
+1926 317 away Sweden Austria 3 1 Friendly
+1926 324 away Sweden Hungary 3 1 Friendly
+1927 96 away Sweden Belgium 2 1 Friendly
+1927 153 home Sweden Latvia 12 0 Friendly
+1927 167 home Sweden Finland 6 2 Friendly
+1927 174 home Sweden Denmark 0 0 Friendly
+1927 181 away Sweden Norway 3 5 Friendly
+1927 187 home Sweden Estonia 3 1 Friendly
+1927 252 home Sweden Belgium 7 0 Friendly
+1927 316 away Sweden Switzerland 2 2 Friendly
+1927 323 away Sweden Holland 1 0 Friendly
+1928 162 home Sweden Norway 6 1 Friendly
+1928 187 away Sweden Poland 2 1 Friendly
+1928 192 away Sweden Latvia 0 4 Friendly
+1928 195 away Sweden Estonia 0 1 Friendly
+1928 215 home Sweden Austria 2 3 Friendly
+1928 250 away Sweden Finland 2 3 Friendly
+1928 278 home Sweden Germany 2 0 Friendly
+1928 286 away Sweden Denmark 3 1 Friendly
+1929 164 home Sweden Holland 6 2 Friendly
+1929 169 home Sweden Finland 3 1 Friendly
+1929 171 home Sweden Denmark 3 2 Friendly
+1929 178 away Sweden Germany 3 0 Friendly
+1929 193 home Sweden Estonia 4 1 Friendly
+1929 214 home Sweden Latvia 10 0 Friendly
+1929 277 away Sweden Norway 2 1 Friendly
+1930 170 home Sweden Switzerland 1 0 Friendly
+1930 177 away Sweden Denmark 6 1 Friendly
+1930 192 home Sweden Norway 6 3 Friendly
+1930 204 away Sweden Estonia 1 5 Friendly
+1930 208 away Sweden Latvia 0 5 Friendly
+1930 276 away Sweden Belgium 2 2 Friendly
+1930 276 away Sweden Finland 4 4 Friendly
+1930 276 home Sweden Poland 0 3 Friendly
+1930 326 away Sweden Austria 4 1 Friendly
+1931 172 home Sweden Germany 0 0 Friendly
+1931 183 home Sweden Denmark 3 1 Friendly
+1931 189 home Sweden Finland 8 2 Friendly
+1931 194 home Sweden Estonia 3 1 Friendly
+1931 212 home Sweden Latvia 6 0 Friendly
+1931 275 away Sweden Norway 2 1 Friendly
+1931 318 away Sweden Hungary 3 1 Friendly
+1932 140 home Sweden Finland 7 1 Friendly
+1932 165 away Sweden Finland 1 3 Friendly
+1932 167 home Sweden Belgium 3 1 Friendly
+1932 174 away Sweden Denmark 3 1 Friendly
+1932 187 home Sweden Norway 1 4 Friendly
+1932 196 away Sweden Poland 2 0 Friendly
+1932 199 away Sweden Latvia 0 0 Friendly
+1932 201 away Sweden Estonia 1 3 Friendly
+1932 203 home Sweden Austria 3 4 Friendly
+1932 273 away Sweden Germany 4 3 Friendly
+1932 273 home Sweden Lithuania 8 1 Friendly
+1932 316 away Sweden Switzerland 2 1 Friendly
+1933 166 home Sweden Estonia 6 2 World Cup qualifier
+1933 173 home Sweden Denmark 2 3 Friendly
+1933 184 away Sweden Lithuania 0 2 World Cup qualifier
+1933 188 home Sweden Hungary 5 2 Friendly
+1933 190 away Sweden Latvia 1 1 Friendly
+1933 200 home Sweden Finland 2 0 Friendly
+1933 272 away Sweden Norway 0 1 Friendly
+1934 147 home Sweden Poland 4 2 Friendly
+1934 151 home Sweden Argentina 3 2 World Cup
+1934 155 away Sweden Germany 2 1 World Cup
+1934 172 away Sweden Denmark 3 5 Friendly
+1934 187 home Sweden Norway 3 3 Friendly
+1934 271 away Sweden Finland 5 4 Friendly
+1934 271 home Sweden Latvia 3 1 Friendly
+1935 167 home Sweden Finland 2 2 Friendly
+1935 171 home Sweden Denmark 3 1 Friendly
+1935 185 home Sweden Germany 3 1 Friendly
+1935 191 away Sweden Latvia 0 3 Friendly
+1935 195 away Sweden Estonia 1 2 Friendly
+1935 249 home Sweden Romania 7 1 Friendly
+1935 270 away Sweden Norway 0 2 Friendly
+1935 320 away Sweden France 2 0 Friendly
+1935 327 away Sweden Belgium 5 1 Friendly
+1936 169 away Sweden Denmark 4 3 Friendly
+1936 176 home Sweden Switzerland 5 2 Friendly
+1936 191 home Sweden Norway 2 0 Friendly
+1936 212 home Sweden Norway 3 4 Friendly
+1936 221 away Sweden Japan 3 2 Olympic Games
+1936 275 away Sweden Finland 1 2 Friendly
+1937 141 home Sweden England 0 4 Friendly
+1937 171 home Sweden Finland 4 0 World Cup qualifier
+1937 175 home Sweden Estonia 7 2 World Cup qualifier
+1937 178 away Sweden Poland 3 1 Friendly
+1937 182 away Sweden Romania 2 2 Friendly
+1937 267 away Sweden Norway 3 2 Friendly
+1937 282 home Sweden Denmark 1 2 Friendly
+1937 331 away Sweden Germany 5 0 World Cup qualifier
+1938 165 home Sweden Latvia 3 3 Friendly
+1938 167 home Sweden Cuba 8 0 World Cup
+1938 170 home Sweden Finland 2 0 Friendly
+1938 171 away Sweden Hungary 5 1 World Cup
+1938 174 away Sweden Brazil 4 2 World Cup
+1938 176 away Sweden Denmark 0 1 Friendly
+1938 190 away Sweden Finland 2 4 Friendly
+1938 224 home Sweden Czechoslovakia 2 6 Friendly
+1938 252 away Sweden Norway 2 1 Friendly
+1938 281 home Sweden Norway 2 3 Friendly
+1939 158 home Sweden Norway 3 2 Friendly
+1939 164 home Sweden Finland 5 1 Friendly
+1939 166 home Sweden Lithuania 7 0 Friendly
+1939 169 away Sweden Norway 1 0 Friendly
+1939 265 away Sweden Norway 2 3 Friendly
+1939 280 home Sweden Denmark 4 1 Friendly
+1940 246 away Sweden Finland 2 3 Friendly
+1940 270 home Sweden Finland 5 0 Friendly
+1940 285 home Sweden Denmark 1 1 Friendly
+1940 299 away Sweden Denmark 3 3 Friendly
+1941 262 home Sweden Denmark 2 2 Friendly
+1941 284 home Sweden Germany 4 2 Friendly
+1941 298 away Sweden Denmark 2 1 Friendly
+1942 183 away Sweden Denmark 0 3 Friendly
+1942 268 away Sweden Germany 2 3 Friendly
+1942 283 home Sweden Denmark 2 1 Friendly
+1942 325 away Sweden Switzerland 3 1 Friendly
+1943 169 home Sweden Switzerland 1 0 Friendly
+1943 175 away Sweden Denmark 3 2 Friendly
+1943 260 home Sweden Hungary 2 3 Friendly
+1943 282 away Sweden Finland 1 1 Friendly
+1943 317 away Sweden Hungary 2 7 Friendly
+1945 179 home Sweden Denmark 2 1 Friendly
+1945 187 away Sweden Denmark 3 4 Friendly
+1945 243 home Sweden Finland 7 2 Friendly
+1945 278 away Sweden Finland 1 6 Friendly
+1945 278 home Sweden Denmark 4 1 Friendly
+1945 300 home Sweden Norway 10 0 Friendly
+1945 335 away Sweden Switzerland 3 0 Friendly
+1946 179 away Sweden Denmark 3 1 Friendly
+1946 193 home Sweden Switzerland 7 2 Friendly
+1946 263 away Sweden Finland 0 7 Friendly
+1946 263 away Sweden Norway 0 3 Friendly
+1946 285 home Sweden Denmark 3 3 Friendly
+1947 170 away Sweden Denmark 1 4 Friendly
+1947 181 home Sweden Denmark 6 1 Friendly
+1947 183 home Sweden Norway 5 1 Friendly
+1947 241 home Sweden Finland 7 0 Friendly
+1947 262 home Sweden Poland 5 4 Friendly
+1947 284 home Sweden Norway 4 1 Friendly
+1947 329 away Sweden England 4 2 Friendly
+1948 164 away Sweden Holland 1 0 Friendly
+1948 197 home Sweden Austria 3 2 Friendly
+1948 219 home Sweden Austria 3 0 Olympic Games
+1948 222 home Sweden SouthKorea 12 0 Olympic Games
+1948 227 home Sweden Denmark 4 2 Olympic Games
+1948 230 home Sweden Yugoslavia 3 1 Olympic Games
+1948 267 away Sweden Finland 2 2 Friendly
+1948 267 away Sweden Norway 3 5 Friendly
+1948 289 home Sweden Denmark 1 0 Friendly
+1948 324 away Sweden Austria 2 1 Friendly
+1949 137 home Sweden England 3 1 Friendly
+1949 157 home Sweden Ireland 3 1 World Cup qualifier
+1949 174 home Sweden Hungary 2 2 Friendly
+1949 281 home Sweden Finland 8 1 Friendly
+1949 281 home Sweden Norway 3 3 Friendly
+1949 302 away Sweden Denmark 3 2 Friendly
+1949 323 away Sweden Ireland 1 3 World Cup qualifier
+1949 330 away Sweden Hungary 5 0 Friendly
+1950 163 home Sweden Holland 4 1 Friendly
+1950 180 home Sweden Italy 3 2 World Cup
+1950 184 away Sweden Paraguay 2 2 World Cup
+1950 195 away Sweden Brazil 7 1 World Cup
+1950 199 away Sweden Uruguay 3 2 World Cup
+1950 202 home Sweden Spain 3 1 World Cup
+1950 251 home Sweden Yugoslavia 1 2 Friendly
+1950 272 away Sweden Finland 0 1 Friendly
+1950 272 away Sweden Norway 1 3 Friendly
+1950 294 home Sweden Denmark 4 0 Friendly
+1950 322 away Sweden Switzerland 4 2 Friendly
+1951 165 home Sweden Turkey 3 1 Friendly
+1951 172 home Sweden Spain 0 0 Friendly
+1951 184 away Sweden Iceland 4 3 Friendly
+1951 250 home Sweden Finland 3 2 Friendly
+1951 250 away Sweden Yugoslavia 2 1 Friendly
+1951 278 home Sweden Norway 3 4 Friendly
+1951 300 away Sweden Denmark 3 1 Friendly
+1951 321 away Sweden Italy 1 1 Friendly
+1951 324 away Sweden Turkey 1 0 Friendly
+1952 88 away Sweden France 0 1 Friendly
+1952 138 away Sweden Holland 0 0 Friendly
+1952 154 home Sweden Scotland 3 1 Friendly
+1952 166 home Sweden Denmark 2 0 Friendly
+1952 168 away Sweden Finland 3 1 Friendly
+1952 177 home Sweden Denmark 4 3 Friendly
+1952 207 home Sweden Norway 4 1 Olympic Games
+1952 214 away Sweden Hungary 6 0 Olympic Games
+1952 269 away Sweden Finland 1 8 Friendly
+1952 284 away Sweden Norway 1 2 Friendly
+1952 305 home Sweden Italy 1 1 Friendly
+1953 130 away Sweden Scotland 1 2 Friendly
+1953 152 home Sweden Belgium 2 3 World Cup qualifier
+1953 166 home Sweden France 1 0 Friendly
+1953 176 away Sweden Denmark 1 3 Friendly
+1953 191 home Sweden Hungary 2 4 Friendly
+1953 222 away Sweden Finland 3 3 World Cup qualifier
+1953 233 home Sweden Finland 4 0 World Cup qualifier
+1953 287 away Sweden Belgium 2 0 World Cup qualifier
+1953 297 home Sweden Norway 0 0 Friendly
+1953 318 away Sweden Spain 2 2 Friendly
+1953 325 away Sweden Hungary 2 2 Friendly
+1954 143 home Sweden Holland 6 1 Friendly
+1954 159 home Sweden Finland 6 0 Friendly
+1954 162 home Sweden Norway 3 0 Friendly
+1954 232 away Sweden Finland 1 10 Friendly
+1954 241 home Sweden Iceland 3 2 Friendly
+1954 256 away Sweden SovietUnion 7 0 Friendly
+1954 267 away Sweden Norway 1 1 Friendly
+1954 289 home Sweden Denmark 5 2 Friendly
+1954 310 home Sweden Austria 2 1 Friendly
+1955 96 away Sweden France 2 0 Friendly
+1955 135 home Sweden Hungary 3 7 Friendly
+1955 170 home Sweden Romania 4 1 Friendly
+1955 181 home Sweden SovietUnion 0 6 Friendly
+1955 245 home Sweden Finland 3 0 Friendly
+1955 273 home Sweden Norway 1 1 Friendly
+1955 295 away Sweden Denmark 3 3 Friendly
+1955 323 away Sweden Hungary 4 2 Friendly
+1955 330 away Sweden Portugal 2 6 Friendly
+1956 140 home Sweden England 0 0 Friendly
+1956 165 away Sweden Finland 1 3 Friendly
+1956 172 away Sweden Romania 0 2 Friendly
+1956 185 home Sweden Germany 2 2 Friendly
+1956 264 away Sweden Norway 3 1 Friendly
+1956 300 home Sweden Denmark 1 1 Friendly
+1957 129 away Sweden Austria 1 0 Friendly
+1957 171 home Sweden Hungary 0 0 Friendly
+1957 173 away Sweden Norway 0 0 Friendly
+1957 174 away Sweden Finland 1 5 Friendly
+1957 185 away Sweden Denmark 1 2 Friendly
+1957 270 home Sweden Finland 5 1 Friendly
+1957 292 home Sweden Norway 5 2 Friendly
+1957 330 away Sweden Germany 1 0 Friendly
+1958 131 home Sweden Switzerland 3 2 Friendly
+1958 163 home Sweden Mexico 3 0 World Cup
+1958 167 home Sweden Hungary 2 1 World Cup
+1958 170 home Sweden Wales 0 0 World Cup
+1958 174 home Sweden SovietUnion 2 0 World Cup
+1958 179 home Sweden Germany 3 1 World Cup
+1958 184 home Sweden Brazil 2 5 World Cup
+1958 237 away Sweden Finland 1 7 Friendly
+1958 262 away Sweden Norway 0 2 Friendly
+1958 305 home Sweden Denmark 4 4 Friendly
+1959 145 home Sweden Portugal 2 0 Friendly
+1959 176 away Sweden Denmark 0 6 Friendly
+1959 183 away Sweden Hungary 3 2 Friendly
+1959 219 home Sweden Finland 3 1 Friendly
+1959 297 home Sweden Norway 6 2 Friendly
+1959 307 away Sweden England 2 3 Friendly
+1959 311 away Sweden Ireland 3 2 Friendly
+1960 142 home Sweden Ireland 4 1 Friendly
+1960 177 away Sweden Finland 0 3 Friendly
+1960 266 away Sweden Norway 3 1 Friendly
+1960 298 home Sweden Belgium 2 0 World Cup qualifier
+1960 302 home Sweden Denmark 2 0 Friendly
+1960 309 home Sweden France 1 0 Friendly
+1961 88 away Sweden Czechoslovakia 2 1 Friendly
+1961 152 home Sweden Switzerland 4 0 World Cup qualifier
+1961 173 away Sweden Denmark 1 2 Friendly
+1961 226 home Sweden Finland 4 0 Friendly
+1961 283 away Sweden Belgium 0 2 World Cup qualifier
+1961 301 home Sweden Norway 2 0 Friendly
+1961 308 away Sweden Switzerland 3 2 World Cup qualifier
+1961 322 away Sweden Switzerland 2 1 World Cup qualifier
+1962 100 home Sweden Czechoslovakia 3 1 Friendly
+1962 111 home Sweden SovietUnion 0 2 Friendly
+1962 174 away Sweden Finland 0 3 Friendly
+1962 176 away Sweden Norway 0 2 European Cup qualifier
+1962 264 away Sweden Norway 2 1 Friendly
+1962 307 home Sweden Denmark 4 2 Friendly
+1962 314 home Sweden Norway 1 1 European Cup qualifier
+1962 323 away Sweden Israel 0 4 Friendly
+1962 326 away Sweden Thailand 1 2 Friendly
+1963 129 home Sweden Hungary 2 1 Friendly
+1963 146 away Sweden SovietUnion 0 1 Friendly
+1963 174 away Sweden Yugoslavia 0 0 European Cup qualifier
+1963 231 home Sweden Norway 0 0 Friendly
+1963 231 home Sweden Finland 0 0 Friendly
+1963 266 home Sweden Yugoslavia 3 2 European Cup qualifier
+1963 285 away Sweden Denmark 2 2 Friendly
+1963 313 home Sweden Germany 2 1 Friendly
+1964 122 away Sweden Holland 0 1 Friendly
+1964 137 home Sweden SovietUnion 1 1 European Cup qualifier
+1964 151 away Sweden SovietUnion 3 1 European Cup qualifier
+1964 183 home Sweden Denmark 4 1 Friendly
+1964 219 away Sweden Finland 1 0 Friendly
+1964 268 away Sweden Norway 1 1 Friendly
+1964 286 home Sweden Poland 3 3 Friendly
+1964 314 away Sweden Germany 1 1 World Cup qualifier
+1965 129 home Sweden Cyprus 3 0 World Cup qualifier
+1965 140 home Sweden England 1 2 Friendly
+1965 171 home Sweden Italy 2 2 Friendly
+1965 175 away Sweden Denmark 2 1 Friendly
+1965 185 home Sweden Brazil 1 2 Friendly
+1965 239 home Sweden Finland 2 2 Friendly
+1965 274 home Sweden Germany 1 2 World Cup qualifier
+1965 310 home Sweden Norway 0 0 Friendly
+1965 317 away Sweden Cyprus 0 5 World Cup qualifier
+1966 120 away Sweden EastGermany 4 1 Friendly
+1966 142 away Sweden Poland 1 1 Friendly
+1966 159 away Sweden Finland 1 0 Friendly
+1966 182 home Sweden Yugoslavia 1 1 Friendly
+1966 185 home Sweden Brazil 2 3 Friendly
+1966 266 away Sweden Norway 2 4 Friendly
+1966 284 home Sweden Austria 4 1 Friendly
+1966 316 home Sweden Denmark 2 1 Friendly
+1966 323 away Sweden Portugal 1 2 European Cup qualifier
+1967 141 home Sweden EastGermany 0 1 Friendly
+1967 156 home Sweden Portugal 1 1 European Cup qualifier
+1967 166 home Sweden Bulgaria 0 2 European Cup qualifier
+1967 180 away Sweden Denmark 1 1 Friendly
+1967 227 home Sweden Finland 2 0 Friendly
+1967 251 away Sweden Norway 3 1 European Cup qualifier
+1967 315 home Sweden Norway 5 2 European Cup qualifier
+1967 322 away Sweden Bulgaria 3 0 European Cup qualifier
+1968 50 away Sweden Israel 0 3 Friendly
+1968 59 away Sweden Spain 3 1 Friendly
+1968 126 home Sweden Spain 1 1 Friendly
+1968 146 away Sweden England 3 1 Friendly
+1968 182 home Sweden Denmark 2 1 Friendly
+1968 218 home Sweden SovietUnion 2 2 Friendly
+1968 259 away Sweden Finland 0 3 Friendly
+1968 263 away Sweden Norway 1 1 Friendly
+1968 288 home Sweden Norway 5 0 World Cup qualifier
+1969 50 away Sweden Israel 2 3 Friendly
+1969 57 away Sweden Yugoslavia 2 1 Friendly
+1969 125 home Sweden Mexico 1 0 Friendly
+1969 146 home Sweden Finland 4 0 Friendly
+1969 156 home Sweden Norway 4 2 Friendly
+1969 174 away Sweden Norway 2 5 World Cup qualifier
+1969 180 away Sweden Denmark 0 1 Friendly
+1969 223 away Sweden SovietUnion 0 1 Friendly
+1969 242 home Sweden Israel 3 1 Friendly
+1969 272 home Sweden Hungary 2 0 Friendly
+1969 294 home Sweden France 2 0 World Cup qualifier
+1969 311 away Sweden France 3 0 World Cup qualifier
+1970 53 away Sweden Mexico 0 0 Friendly
+1970 63 away Sweden Mexico 0 1 Friendly
+1970 140 away Sweden Hungary 1 2 Friendly
+1970 158 away Sweden Italy 1 0 World Cup
+1970 162 away Sweden Israel 1 1 World Cup
+1970 165 home Sweden Uruguay 1 0 World Cup
+1970 180 home Sweden Denmark 1 1 Friendly
+1970 243 away Sweden Finland 1 2 Friendly
+1970 261 away Sweden Norway 2 4 Friendly
+1970 293 away Sweden Ireland 1 1 European Cup qualifier
+1970 307 home Sweden Ireland 1 0 European Cup qualifier
+1971 74 away Sweden Israel 2 1 Friendly
+1971 144 home Sweden Finland 4 1 Friendly
+1971 150 home Sweden Austria 1 0 European Cup qualifier
+1971 164 home Sweden Italy 0 0 European Cup qualifier
+1971 175 away Sweden Denmark 1 3 Friendly
+1971 182 home Sweden Germany 1 0 Friendly
+1971 225 home Sweden Norway 3 0 Friendly
+1971 252 away Sweden Austria 1 0 European Cup qualifier
+1971 288 away Sweden Italy 3 0 European Cup qualifier
+1972 119 away Sweden Switzerland 1 1 Friendly
+1972 138 home Sweden Czechoslovakia 1 2 Friendly
+1972 149 home Sweden Hungary 0 0 World Cup qualifier
+1972 165 away Sweden Austria 2 0 World Cup qualifier
+1972 184 home Sweden Denmark 2 0 Friendly
+1972 223 home Sweden SovietUnion 4 4 Friendly
+1972 265 away Sweden Norway 1 3 Friendly
+1972 294 home Sweden Malta 7 0 World Cup qualifier
+1973 119 away Sweden Denmark 1 2 Friendly
+1973 147 home Sweden Austria 3 2 World Cup qualifier
+1973 168 away Sweden Hungary 3 3 World Cup qualifier
+1973 180 home Sweden Brazil 1 0 Friendly
+1973 194 home Sweden Finland 1 1 Friendly
+1973 197 home Sweden Iceland 1 0 Friendly
+1973 222 away Sweden SovietUnion 0 0 Friendly
+1973 246 away Sweden Finland 1 2 Friendly
+1973 277 away Sweden Italy 2 0 Friendly
+1973 321 away Sweden Malta 1 2 World Cup qualifier
+1973 337 home Sweden Austria 2 1 World Cup qualifier
+1974 125 away Sweden Germany 2 0 Friendly
+1974 158 away Sweden Denmark 0 2 Friendly
+1974 164 home Sweden Switzerland 0 0 Friendly
+1974 170 away Sweden Bulgaria 0 0 World Cup
+1974 174 away Sweden Holland 0 0 World Cup
+1974 178 home Sweden Uruguay 3 0 World Cup
+1974 181 away Sweden Poland 1 0 World Cup
+1974 185 away Sweden Germany 4 2 World Cup
+1974 189 home Sweden Yugoslavia 2 1 World Cup
+1974 225 home Sweden Norway 2 1 Friendly
+1974 252 home Sweden Holland 1 5 Friendly
+1974 292 away Sweden Czechoslovakia 4 0 Friendly
+1974 309 home Sweden NorthernIreland 0 2 European Cup qualifier
+1975 109 home Sweden Scotland 1 1 Friendly
+1975 143 home Sweden Algeria 4 0 Friendly
+1975 159 home Sweden Yugoslavia 1 2 European Cup qualifier
+1975 185 home Sweden Norway 3 1 European Cup qualifier
+1975 230 away Sweden Norway 0 2 European Cup qualifier
+1975 251 away Sweden NorthernIreland 1 2 European Cup qualifier
+1975 273 home Sweden Denmark 0 0 Friendly
+1975 294 away Sweden Yugoslavia 3 0 European Cup qualifier
+1976 59 away Sweden Tunisia 1 1 Friendly
+1976 64 away Sweden Algeria 0 2 Friendly
+1976 121 away Sweden Austria 1 0 Friendly
+1976 135 home Sweden Denmark 1 2 Friendly
+1976 156 away Sweden Finland 0 2 Friendly
+1976 171 home Sweden Norway 2 0 World Cup qualifier
+1976 228 home Sweden Finland 6 0 Friendly
+1976 256 home Sweden Hungary 1 1 Friendly
+1976 270 away Sweden Norway 3 2 Friendly
+1976 288 away Sweden Switzerland 1 2 World Cup qualifier
+1977 120 away Sweden Scotland 3 1 Friendly
+1977 150 home Sweden Norway 1 0 Friendly
+1977 163 home Sweden Switzerland 2 1 World Cup qualifier
+1977 170 away Sweden Denmark 2 1 Friendly
+1977 206 away Sweden Iceland 0 1 Friendly
+1977 234 home Sweden EastGermany 0 1 Friendly
+1977 255 away Sweden Norway 2 1 World Cup qualifier
+1977 284 home Sweden Denmark 1 0 Friendly
+1977 291 away Sweden Hungary 3 0 Friendly
+1977 322 away Sweden Poland 2 1 Friendly
+1978 97 away Sweden EastGermany 0 1 Friendly
+1978 112 home Sweden Germany 3 1 Friendly
+1978 145 home Sweden Czechoslovakia 0 0 Friendly
+1978 158 away Sweden Brazil 1 1 World Cup
+1978 162 away Sweden Austria 1 0 World Cup
+1978 166 away Sweden Spain 1 0 World Cup
+1978 183 home Sweden Finland 2 1 Friendly
+1978 233 away Sweden Denmark 2 1 Friendly
+1978 249 away Sweden France 2 2 European Cup qualifier
+1978 283 home Sweden Czechoslovakia 1 3 European Cup qualifier
+1979 112 away Sweden SovietUnion 2 0 Friendly
+1979 133 away Sweden Denmark 2 2 Friendly
+1979 162 home Sweden Luxembourg 3 0 European Cup qualifier
+1979 165 home Sweden England 0 0 Friendly
+1979 183 home Sweden Norway 2 0 Friendly
+1979 232 away Sweden Norway 2 0 Friendly
+1979 253 home Sweden France 1 3 European Cup qualifier
+1979 274 away Sweden Italy 1 0 Friendly
+1979 289 away Sweden Czechoslovakia 4 1 European Cup qualifier
+1979 302 away Sweden Luxembourg 1 1 European Cup qualifier
+1979 324 away Sweden Malaysia 1 3 Friendly
+1979 327 away Sweden Singapore 0 5 Friendly
+1980 122 home Sweden SovietUnion 1 5 Friendly
+1980 131 home Sweden Denmark 0 1 Friendly
+1980 146 away Sweden Finland 0 2 Friendly
+1980 173 home Sweden Israel 1 1 World Cup qualifier
+1980 203 home Sweden Iceland 1 1 Friendly
+1980 237 away Sweden Hungary 2 0 Friendly
+1980 258 home Sweden Scotland 0 1 World Cup qualifier
+1980 272 away Sweden Bulgaria 2 3 Friendly
+1980 294 away Sweden NorthernIreland 3 0 World Cup qualifier
+1980 322 away Sweden Israel 0 0 World Cup qualifier
+1981 59 home Sweden Norway 4 2 Friendly
+1981 63 away Sweden Finland 2 1 Friendly
+1981 138 home Sweden Denmark 1 2 Friendly
+1981 158 home Sweden NorthernIreland 1 0 World Cup qualifier
+1981 179 home Sweden Portugal 3 0 World Cup qualifier
+1981 215 home Sweden Finland 1 0 Friendly
+1981 229 home Sweden Bulgaria 1 0 Friendly
+1981 257 away Sweden Scotland 2 0 World Cup qualifier
+1981 271 away Sweden Greece 2 1 Friendly
+1981 293 away Sweden Portugal 1 2 World Cup qualifier
+1981 307 away Sweden SaudiArabia 1 2 Friendly
+1982 51 away Sweden Finland 2 2 Friendly
+1982 52 away Sweden Finland 2 1 Friendly
+1982 129 away Sweden Denmark 1 1 Friendly
+1982 143 home Sweden EastGermany 2 2 Friendly
+1982 158 home Sweden SovietUnion 1 1 Friendly
+1982 228 away Sweden Norway 1 0 Friendly
+1982 256 away Sweden Romania 2 0 European Cup qualifier
+1982 285 away Sweden Czechoslovakia 2 2 European Cup qualifier
+1982 323 away Sweden Cyprus 0 1 European Cup qualifier
+1983 120 away Sweden Holland 0 3 Friendly
+1983 139 home Sweden Cyprus 5 0 European Cup qualifier
+1983 153 home Sweden Italy 2 0 European Cup qualifier
+1983 164 home Sweden Romania 0 1 European Cup qualifier
+1983 177 home Sweden Brazil 3 3 Friendly
+1983 234 away Sweden Iceland 0 4 Friendly
+1983 255 away Sweden Finland 0 3 Friendly
+1983 269 home Sweden Czechoslovakia 1 0 European Cup qualifier
+1983 294 away Sweden Italy 0 3 European Cup qualifier
+1983 326 away Sweden TrinidadTobago 0 5 Friendly
+1983 329 away Sweden Barbados 0 4 Friendly
+1983 332 away Sweden Mexico 2 0 Friendly
+1984 126 away Sweden Switzerland 0 0 Friendly
+1984 147 home Sweden Malta 4 0 World Cup qualifier
+1984 161 home Sweden Denmark 0 1 Friendly
+1984 239 home Sweden Mexico 1 1 Friendly
+1984 260 home Sweden Portugal 0 1 World Cup qualifier
+1984 274 away Sweden Italy 1 0 Friendly
+1984 296 away Sweden Germany 2 0 World Cup qualifier
+1984 324 away Sweden Portugal 1 3 World Cup qualifier
+1985 125 away Sweden Israel 1 1 Friendly
+1985 146 home Sweden Norway 1 0 Friendly
+1985 160 home Sweden Czechoslovakia 2 0 World Cup qualifier
+1985 238 home Sweden Poland 1 0 Friendly
+1985 259 away Sweden Denmark 0 3 Friendly
+1985 273 home Sweden Germany 2 2 World Cup qualifier
+1985 295 away Sweden Czechoslovakia 2 1 World Cup qualifier
+1985 327 away Sweden Malta 1 2 World Cup qualifier
+1986 125 home Sweden Greece 0 0 Friendly
+1986 138 away Sweden Austria 1 0 Friendly
+1986 223 away Sweden Finland 1 3 Friendly
+1986 237 home Sweden SovietUnion 0 0 Friendly
+1986 258 home Sweden England 1 0 Friendly
+1986 272 home Sweden Switzerland 2 0 European Cup qualifier
+1986 291 away Sweden Portugal 1 1 European Cup qualifier
+1986 326 away Sweden Malta 0 5 European Cup qualifier
+1987 111 away Sweden SovietUnion 1 3 Friendly
+1987 148 home Sweden Malta 1 0 European Cup qualifier
+1987 158 home Sweden Italy 1 0 European Cup qualifier
+1987 172 away Sweden Switzerland 1 1 European Cup qualifier
+1987 229 away Sweden Norway 0 0 Friendly
+1987 243 home Sweden Denmark 1 0 Friendly
+1987 271 home Sweden Portugal 0 1 European Cup qualifier
+1987 292 away Sweden Germany 1 1 Friendly
+1987 324 away Sweden Italy 2 1 European Cup qualifier
+1988 13 away Sweden EastGermany 1 4 Friendly tournament
+1988 15 away Sweden Finland 0 1 Friendly tournament
+1988 93 away Sweden Germany 1 1 Friendly tournament
+1988 95 away Sweden SovietUnion 0 2 Friendly tournament
+1988 120 home Sweden Wales 4 1 Friendly
+1988 156 away Sweden Spain 1 3 Friendly
+1988 217 home Sweden Brazil 1 1 Friendly
+1988 248 home Sweden Denmark 1 2 Friendly
+1988 291 home Sweden Portugal 0 0 Friendly
+1988 298 away Sweden England 0 0 World Cup qualifier
+1988 315 away Sweden Albania 1 2 World Cup qualifier
+1989 119 away Sweden Wales 0 2 Friendly
+1989 131 home Sweden Poland 2 1 World Cup qualifier
+1989 155 home Sweden Algeria 2 0 Friendly
+1989 169 away Sweden Denmark 6 0 Friendly tournament
+1989 171 home Sweden Brazil 2 1 Friendly tournament
+1989 233 home Sweden France 2 4 Friendly
+1989 254 home Sweden England 0 0 World Cup qualifier
+1989 287 home Sweden Albania 3 1 World Cup qualifier
+1989 304 away Sweden Poland 0 2 World Cup qualifier
+1990 45 away Sweden UnitedArab 2 1 Friendly
+1990 48 away Sweden UnitedArab 0 2 Friendly
+1990 52 away Sweden Belgium 0 0 Friendly
+1990 104 away Sweden Algeria 1 1 Friendly
+1990 118 home Sweden Wales 4 2 Friendly
+1990 151 home Sweden Finland 6 0 Friendly
+1990 165 away Sweden Brazil 2 1 World Cup
+1990 171 away Sweden Scotland 2 1 World Cup
+1990 175 away Sweden CostaRica 2 1 World Cup
+1990 239 away Sweden Norway 1 2 Friendly
+1990 253 home Sweden Denmark 0 1 Friendly
+1990 274 home Sweden Bulgaria 2 0 Friendly
+1990 289 home Sweden Germany 1 3 Friendly
+1991 110 away Sweden Greece 2 2 Friendly
+1991 125 home Sweden Austria 6 0 Friendly
+1991 160 home Sweden Colombia 2 2 Friendly
+1991 168 home Sweden SovietUnion 2 3 Friendly tournament
+1991 170 home Sweden Denmark 4 0 Friendly tournament
+1991 225 away Sweden Norway 1 2 Friendly
+1991 238 away Sweden Poland 2 0 Friendly
+1991 252 home Sweden Yugoslavia 4 3 Friendly
+1991 288 away Sweden Switzerland 3 1 Friendly
+1992 26 away Sweden Australia 0 0 Friendly
+1992 29 away Sweden Australia 1 0 Friendly
+1992 33 away Sweden Australia 1 0 Friendly
+1992 115 away Sweden Tunisia 0 1 Friendly
+1992 131 home Sweden Poland 5 0 Friendly
+1992 151 home Sweden Hungary 2 1 Friendly
+1992 165 home Sweden France 1 1 European Cup
+1992 169 home Sweden Denmark 1 0 European Cup
+1992 172 home Sweden England 2 1 European Cup
+1992 176 home Sweden Germany 2 3 European Cup
+1992 243 away Sweden Norway 2 2 Friendly
+1992 257 away Sweden Finland 0 1 World Cup qualifier
+1992 286 home Sweden Bulgaria 2 0 World Cup qualifier
+1992 321 away Sweden Israel 1 3 World Cup qualifier
+1993 108 away Sweden Hungary 0 2 Friendly
+1993 121 away Sweden France 2 1 World Cup qualifier
+1993 143 home Sweden Austria 1 0 World Cup qualifier
+1993 157 home Sweden Israel 5 0 World Cup qualifier
+1993 228 home Sweden Switzerland 1 2 Friendly
+1993 239 home Sweden France 1 1 World Cup qualifier
+1993 256 away Sweden Bulgaria 1 1 World Cup qualifier
+1993 292 home Sweden Finland 3 2 World Cup qualifier
+1993 320 away Sweden Austria 1 1 World Cup qualifier
+1994 49 away Sweden Colombia 0 0 Friendly tournament
+1994 51 away Sweden UnitedStates 1 3 Friendly tournament
+1994 55 away Sweden Mexico 2 1 Friendly
+1994 113 away Sweden Wales 0 2 Friendly
+1994 129 home Sweden Nigeria 3 1 Friendly
+1994 150 away Sweden Denmark 1 0 Friendly
+1994 160 home Sweden Norway 2 0 Friendly
+1994 167 home Sweden Romania 1 1 Friendly
+1994 174 away Sweden Cameroon 2 2 World Cup
+1994 179 home Sweden Russia 3 1 World Cup
+1994 183 away Sweden Brazil 1 1 World Cup
+1994 189 home Sweden SaudiArabia 3 1 World Cup
+1994 196 home Sweden Romania 2 2 World Cup
+1994 199 away Sweden Brazil 1 0 World Cup
+1994 202 home Sweden Bulgaria 4 0 World Cup
+1994 234 home Sweden Lithuania 4 2 Friendly
+1994 255 away Sweden Iceland 0 1 European Cup qualifier
+1994 291 away Sweden Switzerland 4 2 European Cup qualifier
+1994 326 home Sweden Hungary 2 0 European Cup qualifier
+1995 70 away Sweden Cyprus 3 3 Friendly
+1995 91 away Sweden Turkey 2 1 European Cup qualifier
+1995 119 away Sweden Hungary 1 0 European Cup qualifier
+1995 156 home Sweden Iceland 1 1 European Cup qualifier
+1995 159 away Sweden Brazil 1 0 Umbro Cup
+1995 163 away Sweden England 3 3 Umbro Cup
+1995 165 home Sweden Japan 2 2 Umbro Cup
+1995 233 home Sweden UnitedStates 1 0 Friendly
+1995 254 home Sweden Switzerland 0 0 European Cup qualifier
+1995 290 home Sweden Scotland 2 0 Friendly
+1995 325 home Sweden Turkey 2 2 European Cup qualifier
+1996 53 away Sweden Japan 1 1 Carlsberg Cup
+1996 56 away Sweden Australia 0 2 Friendly
+1996 59 away Sweden Australia 0 0 Friendly
+1996 117 away Sweden NorthernIreland 1 2 Friendly
+1996 133 home Sweden Slovakia 2 1 Friendly
+1996 140 away Sweden SouthKorea 0 2 Friendly
+1996 156 home Sweden Belarus 5 1 World Cup qualifier
+1996 231 home Sweden Denmark 0 1 Friendly
+1996 249 away Sweden Latvia 1 2 World Cup qualifier
+1996 288 home Sweden Austria 0 1 World Cup qualifier
+1996 320 away Sweden Scotland 1 0 World Cup qualifier
+1997 42 away Sweden Thailand 0 0 King's Cup
+1997 44 home Sweden Japan 1 0 King's Cup
+1997 47 away Sweden Thailand 1 3 King's Cup
+1997 74 away Sweden Israel 0 1 Friendly
+1997 95 away Sweden France 1 0 Friendly
+1997 123 home Sweden Scotland 2 1 World Cup qualifier
+1997 146 home Sweden Poland 2 2 Friendly
+1997 163 away Sweden Estonia 2 3 World Cup qualifier
+1997 223 home Sweden Lithuania 1 0 Friendly
+1997 237 away Sweden Belarus 1 2 World Cup qualifier
+1997 254 away Sweden Austria 1 0 World Cup qualifier
+1997 258 home Sweden Latvia 1 0 World Cup qualifier
+1997 290 home Sweden Estonia 1 0 World Cup qualifier
+1998 24 away Sweden UnitedStates 1 0 Friendly
+1998 29 away Sweden Jamaica 0 0 Friendly
+1998 87 away Sweden Spain 4 0 Friendly
+1998 115 home Sweden France 0 0 Friendly
+1998 152 home Sweden Denmark 3 0 Friendly
+1998 157 home Sweden Italy 1 0 Friendly
+1998 236 home Sweden Russia 1 0 Friendly
+1998 253 home Sweden England 2 1 European Cup qualifier
+1998 293 away Sweden Bulgaria 0 1 European Cup qualifier
+1999 41 away Sweden Tunisia 0 1 Friendly
+1999 89 home Sweden Luxembourg 2 0 European Cup qualifier
+1999 93 away Sweden Poland 0 1 European Cup qualifier
+1999 121 away Sweden Ireland 2 0 Friendly
+1999 151 home Sweden Jamaica 2 1 Friendly
+1999 160 away Sweden England 0 0 European Cup qualifier
+1999 235 home Sweden Austria 0 0 Friendly
+1999 252 home Sweden Bulgaria 1 0 European Cup qualifier
+1999 256 away Sweden Luxembourg 0 1 European Cup qualifier
+1999 288 home Sweden Poland 2 0 European Cup qualifier
+1999 337 away Sweden SouthAfrica 1 0 Friendly tournament
+2000 31 home Sweden Denmark 1 0 Nordic Tournament
+2000 35 away Sweden Norway 1 1 Nordic Tournament
+2000 54 away Sweden Italy 1 0 Friendly
+2000 91 away Sweden Austria 1 1 Friendly
+2000 119 away Sweden Denmark 0 1 Friendly
+2000 158 home Sweden Spain 1 1 Friendly
+2000 165 away Sweden Belgium 2 1 European Cup
+2000 170 away Sweden Turkey 0 0 European Cup
+2000 174 away Sweden Italy 2 1 European Cup
+2000 233 away Sweden Iceland 2 1 Nordic Tournament
+2000 250 away Sweden Azerbaijan 0 1 World Cup qualifier
+2000 286 home Sweden Turkey 1 1 World Cup qualifier
+2000 290 away Sweden Slovakia 0 0 World Cup qualifier
+2001 31 home Sweden FaroeIslands 0 0 Nordic Tournament
+2001 32 home Sweden Finland 0 1 Nordic Tournament
+2001 41 away Sweden Thailand 1 4 King's Cup
+2001 43 away Sweden China 2 2 King's Cup
+2001 45 away Sweden Qatar 0 0 King's Cup
+2001 48 home Sweden China 3 0 King's Cup
+2001 59 away Sweden Malta 0 3 Friendly
+2001 86 home Sweden Macedonia 1 0 World Cup qualifier
+2001 90 away Sweden Moldova 0 2 World Cup qualifier
+2001 118 away Sweden Switzerland 0 2 Friendly
+2001 157 home Sweden Slovakia 2 0 World Cup qualifier
+2001 161 home Sweden Moldova 6 0 World Cup qualifier
+2001 232 home Sweden SouthAfrica 3 0 Friendly
+2001 249 away Sweden Macedonia 1 2 World Cup qualifier
+2001 253 away Sweden Turkey 1 2 World Cup qualifier
+2001 286 home Sweden Azerbaijan 3 0 World Cup qualifier
+2001 320 away Sweden England 1 1 Friendly
+2002 44 away Sweden Greece 2 2 Friendly
+2002 89 home Sweden Switzerland 1 1 Friendly
+2002 110 away Sweden Norway 0 0 Friendly
+2002 141 home Sweden Paraguay 1 2 Friendly
+2002 149 away Sweden Japan 1 1 Friendly
+2002 157 home Sweden England 1 1 World Cup
+2002 162 home Sweden Nigeria 2 1 World Cup
+2002 167 home Sweden Argentina 1 1 World Cup
+2002 171 away Sweden Senegal 2 1 World Cup
+2002 238 away Sweden Russia 1 1 Friendly
+2002 255 away Sweden Latvia 0 0 European Cup qualifier
+2002 291 home Sweden Hungary 1 1 European Cup qualifier
+2002 295 home Sweden Portugal 2 3 Friendly
+2002 330 away Sweden Czechia 3 3 Friendly
+2003 43 away Sweden Tunisia 1 0 Friendly
+2003 47 home Sweden Qatar 3 2 King's Cup
+2003 49 away Sweden NorthKorea 1 1 King's Cup
+2003 51 away Sweden Thailand 1 4 King's Cup
+2003 53 home Sweden NorthKorea 4 0 King's Cup
+2003 95 away Sweden Hungary 1 2 European Cup qualifier
+2003 123 home Sweden Croatia 1 2 Friendly
+2003 162 away Sweden SanMarino 0 6 European Cup qualifier
+2003 166 home Sweden Poland 3 0 European Cup qualifier
+2003 237 home Sweden Greece 1 2 Friendly
+2003 254 home Sweden SanMarino 5 0 European Cup qualifier
+2003 258 away Sweden Poland 0 2 European Cup qualifier
+2003 290 home Sweden Latvia 0 1 European Cup qualifier
+2003 328 away Sweden Egypt 1 0 Friendly
+2004 22 away Sweden Norway 3 0 Carlsberg Cup
+2004 49 away Sweden Albania 2 1 Friendly
+2004 93 home Sweden England 1 0 Friendly
+2004 121 away Sweden Portugal 2 2 Friendly
+2004 152 away Sweden Finland 1 3 Friendly
+2004 160 home Sweden Poland 3 1 Friendly
+2004 169 home Sweden Bulgaria 5 0 European Cup
+2004 173 away Sweden Italy 1 1 European Cup
+2004 177 away Sweden Denmark 2 2 European Cup
+2004 181 away Sweden Holland 0 0 European Cup
+2004 235 home Sweden Holland 2 2 Friendly
+2004 252 away Sweden Malta 0 7 World Cup qualifier
+2004 256 home Sweden Croatia 0 1 World Cup qualifier
+2004 288 home Sweden Hungary 3 0 World Cup qualifier
+2004 292 away Sweden Iceland 1 4 World Cup qualifier
+2004 327 away Sweden Scotland 1 4 Friendly
+2005 22 home Sweden SouthKorea 1 1 Friendly
+2005 26 away Sweden Mexico 0 0 Friendly
+2005 40 away Sweden France 1 1 Friendly
+2005 88 away Sweden Bulgaria 0 3 World Cup qualifier
+2005 159 home Sweden Malta 6 0 World Cup qualifier
+2005 163 home Sweden Norway 2 3 Friendly
+2005 234 home Sweden Czechia 2 1 Friendly
+2005 251 home Sweden Bulgaria 3 0 World Cup qualifier
+2005 255 away Sweden Hungary 0 1 World Cup qualifier
+2005 287 away Sweden Croatia 1 0 World Cup qualifier
+2005 291 home Sweden Iceland 3 1 World Cup qualifier
+2005 322 away Sweden SouthKorea 2 2 Friendly
+2006 18 away Sweden SaudiArabia 1 1 Friendly
+2006 23 away Sweden Jordan 0 0 Friendly
+2006 63 away Sweden Ireland 3 0 Friendly
+2006 149 home Sweden Finland 0 0 Friendly
+2006 157 home Sweden Chile 1 1 Friendly
+2006 165 away Sweden TrinidadTobago 0 0 World Cup
+2006 170 home Sweden Paraguay 1 0 World Cup
+2006 175 home Sweden England 2 2 World Cup
+2006 179 away Sweden Germany 2 0 World Cup
+2006 233 away Sweden Germany 3 0 Friendly
+2006 250 away Sweden Latvia 0 1 European Cup qualifier
+2006 254 home Sweden Liechtenstein 3 1 European Cup qualifier
+2006 286 home Sweden Spain 2 0 European Cup qualifier
+2006 290 away Sweden Iceland 1 2 European Cup qualifier
+2006 325 away Sweden IvoryCoast 1 0 Friendly
+2007 14 away Sweden Venezuela 2 0 Friendly
+2007 18 away Sweden Ecuador 2 1 Friendly
+2007 21 away Sweden Ecuador 1 1 Friendly
+2007 38 away Sweden Egypt 2 0 Friendly
+2007 90 away Sweden NorthernIreland 2 1 European Cup qualifier
+2007 157 away Sweden Denmark 3 3 European Cup qualifier
+2007 161 home Sweden Iceland 5 0 European Cup qualifier
+2007 239 home Sweden UnitedStates 1 0 Friendly
+2007 256 home Sweden Denmark 0 0 European Cup qualifier
+2007 260 away Sweden Montenegro 1 2 Friendly
+2007 292 away Sweden Liechtenstein 0 3 European Cup qualifier
+2007 296 home Sweden NorthernIreland 1 1 European Cup qualifier
+2007 327 away Sweden Spain 3 0 European Cup qualifier
+2007 331 home Sweden Latvia 2 1 European Cup qualifier
+2008 13 away Sweden CostaRica 0 1 Friendly
+2008 19 away Sweden UnitedStates 2 0 Friendly
+2008 37 away Sweden Turkey 0 0 Friendly
+2008 88 away Sweden Brazil 1 0 Friendly
+2008 150 home Sweden Slovenia 1 0 Friendly
+2008 156 home Sweden Ukraine 0 1 Friendly
+2008 165 home Sweden Greece 2 0 European Cup
+2008 169 away Sweden Spain 2 1 European Cup
+2008 173 away Sweden Russia 2 0 European Cup
+2008 237 home Sweden France 2 3 Friendly
+2008 254 away Sweden Albania 0 0 World Cup qualifier
+2008 258 home Sweden Hungary 2 1 World Cup qualifier
+2008 290 home Sweden Portugal 0 0 World Cup qualifier
+2008 329 away Sweden Holland 3 1 Friendly
+2009 24 away Sweden UnitedStates 3 2 Friendly
+2009 28 home Sweden Mexico 1 0 Friendly
+2009 42 away Sweden Austria 0 2 Friendly
+2009 90 away Sweden Portugal 0 0 World Cup qualifier
+2009 94 away Sweden Serbia 2 0 Friendly
+2009 161 home Sweden Denmark 0 1 World Cup qualifier
+2009 165 home Sweden Malta 4 0 World Cup qualifier
+2009 229 home Sweden Finland 1 0 Friendly
+2009 253 away Sweden Hungary 1 2 World Cup qualifier
+2009 257 away Sweden Malta 0 1 World Cup qualifier
+2009 289 away Sweden Denmark 1 0 World Cup qualifier
+2009 293 home Sweden Albania 4 1 World Cup qualifier
+2009 328 away Sweden Italy 1 0 Friendly
+2010 20 away Sweden Oman 0 1 Friendly
+2010 23 away Sweden Syria 1 1 Friendly
+2010 65 away Sweden Wales 0 1 Friendly
+2010 153 home Sweden Bosnia 4 2 Friendly
+2010 157 away Sweden Belarus 0 1 Friendly
+2010 228 home Sweden Scotland 3 0 Friendly
+2010 251 home Sweden Hungary 2 0 European Cup qualifier
+2010 255 home Sweden SanMarino 6 0 European Cup qualifier
+2010 291 away Sweden Holland 4 1 European Cup qualifier
+2010 327 home Sweden Germany 0 0 Friendly
+2011 19 home Sweden Botswana 2 1 Friendly
+2011 39 away Sweden Cyprus 0 2 Friendly tournament
+2011 40 away Sweden Ukraine 1 1 Friendly tournament
+2011 91 home Sweden Moldova 2 1 European Cup qualifier
+2011 158 away Sweden Moldova 1 4 European Cup qualifier
+2011 162 home Sweden Finland 5 0 European Cup qualifier
+2011 227 away Sweden Ukraine 0 1 Friendly
+2011 250 away Sweden Hungary 2 1 European Cup qualifier
+2011 254 away Sweden SanMarino 0 5 European Cup qualifier
+2011 286 away Sweden Finland 1 2 European Cup qualifier
+2011 290 home Sweden Holland 3 2 European Cup qualifier
+2011 321 away Sweden Denmark 2 0 Friendly
+2011 325 away Sweden England 1 0 Friendly
+2012 18 home Sweden Bahrain 2 0 Friendly
+2012 60 away Sweden Croatia 1 3 Friendly
+2012 154 home Sweden Iceland 3 2 Friendly
+2012 160 home Sweden Serbia 2 1 Friendly
+2012 166 away Sweden Ukraine 2 1 European Cup
+2012 170 away Sweden England 3 2 European Cup
+2012 174 home Sweden France 2 0 European Cup
+2012 232 home Sweden Brazil 0 3 Friendly
+2012 254 home Sweden China 1 0 Friendly
+2012 259 home Sweden Kazakhstan 2 0 World Cup qualifier
+2012 291 away Sweden FaroeIslands 1 2 World Cup qualifier
+2012 295 away Sweden Germany 4 4 World Cup qualifier
+2012 324 home Sweden England 4 2 Friendly
+2013 23 away Sweden NorthKorea 1 1 King's Cup
+2013 26 home Sweden Finland 3 0 King's Cup
+2013 37 home Sweden Argentina 2 3 Friendly
+2013 84 home Sweden Ireland 0 0 World Cup qualifier
+2013 88 away Sweden Slovakia 0 0 Friendly
+2013 158 home Sweden Macedonia 1 0 Friendly
+2013 162 away Sweden Austria 2 1 World Cup qualifier
+2013 166 home Sweden FaroeIslands 2 0 World Cup qualifier
+2013 231 home Sweden Norway 4 2 Friendly
+2013 254 away Sweden Ireland 1 2 World Cup qualifier
+2013 258 away Sweden Kazakhstan 0 1 World Cup qualifier
+2013 290 home Sweden Austria 2 1 World Cup qualifier
+2013 294 home Sweden Germany 3 5 World Cup qualifier
+2013 325 away Sweden Portugal 1 0 World Cup qualifier
+2013 329 home Sweden Portugal 2 3 World Cup qualifier
+2014 17 home Sweden Moldova 2 1 Friendly
+2014 21 home Sweden Iceland 2 0 Friendly
+2014 67 away Sweden Turkey 2 1 Friendly

@@ -1,0 +1,4896 @@
+February 01
+1913	Philippines
+China	0
+1	Far Eastern Games
+in the Philippines	-14
++14	1286
+1514	-
+-	26
+21
+February 04
+1913	Philippines
+China	2
+1	Far Eastern Games
+in the Philippines	+27
+-27	1313
+1487	0
+-1	26
+22
+May
+1915	China
+Philippines	1
+0	Far Eastern Games
+in China	+7
+-7	1494
+1306	-1
+0	24
+27
+May
+1915	China
+Philippines	0
+0	Far Eastern Games
+in China	-14
++14	1480
+1320	-1
+0	24
+27
+May
+1915	China
+Philippines	1
+1	Far Eastern Games
+in China	-13
++13	1467
+1333	-1
+0	24
+27
+May 08
+1917	China
+Philippines	3
+0	Far Eastern Games
+in Japan	+22
+-22	1489
+1311	0
+0	23
+27
+May 09
+1917	Japan
+China	0
+5	Far Eastern Games
+in Japan	-20
++20	1180
+1509	-
+0	29
+23
+May 12
+1919	Philippines
+China	1
+2	Far Eastern Games
+in the Philippines	-18
++18	1348
+1527	0
++3	28
+21
+May 13
+1919	Philippines
+China	2
+1	Far Eastern Games
+in the Philippines	+24
+-24	1372
+1503	0
+-3	28
+24
+May 15
+1919	Philippines
+China	2
+3	Far Eastern Games
+in the Philippines	-18
++18	1354
+1521	0
++2	28
+22
+June 01
+1921	China
+Philippines	1
+0	Far Eastern Games
+in China	+8
+-8	1529
+1361	+1
+0	26
+32
+June 02
+1921	China
+Japan	4
+1	Far Eastern Games
+in China	+3
+-3	1532
+1107	0
+0	26
+35
+May 22
+1923	China
+Philippines	3
+0	Far Eastern Games
+in Japan	+19
+-19	1551
+1342	+2
+0	30
+44
+May 24
+1923	Japan
+China	1
+5	Far Eastern Games
+in Japan	-9
++9	1085
+1560	0
++1	48
+29
+May 17
+1925	Philippines
+China	1
+5	Far Eastern Games
+in the Philippines	-26
++26	1329
+1586	0
++2	48
+27
+May 20
+1925	China
+Japan	2
+0	Far Eastern Games
+in the Philippines	+3
+-3	1589
+1082	0
+0	27
+54
+August 27
+1927	China
+Japan	5
+1	Far Eastern Games
+in China	+2
+-2	1591
+1071	0
+0	27
+61
+September 03
+1927	China
+Philippines	3
+1	Far Eastern Games
+in China	+6
+-6	1597
+1299	+1
+-1	26
+57
+May 27
+1930	China
+Philippines	5
+0	Far Eastern Games
+in Japan	+9
+-9	1606
+1239	0
+0	25
+61
+May 29
+1930	Japan
+China	3
+3	Far Eastern Games
+in Japan	+15
+-15	1170
+1591	0
+-1	63
+26
+May 13
+1934	Philippines
+China	0
+2	Far Eastern Games
+in the Philippines	-11
++11	1228
+1602	-1
++1	64
+26
+May 15
+1934	China
+Dutch East Indies	2
+0	Far Eastern Games
+in the Philippines	+15
+-15	1617
+1403	+1
+-3	25
+51
+May 19
+1934	China
+Japan	4
+3	Far Eastern Games
+in the Philippines	+3
+-3	1620
+1178	0
+0	25
+67
+August 06
+1936	Great Britain
+China	2
+0	Olympic Games
+in Germany	+20
+-20	1862
+1600	+2
+-3	6
+28
+August 02
+1948	Turkey
+China	4
+0	Olympic Games
+in England	+83
+-83	1504
+1517	+15
+-12	42
+41
+January 02
+1949	China
+South Korea	3
+2	Friendly
+in Hong Kong	+15
+-15	1532
+1686	+1
+-3	40
+21
+April 16
+1950	South Korea
+China	3
+1	Friendly
+in Hong Kong	+8
+-8	1713
+1524	+1
+-1	17
+43
+August 04
+1952	Finland
+China	4
+0	Friendly
+in Finland	+22
+-22	1378
+1502	+4
+-1	73
+44
+April 06
+1953	South Korea
+China	4
+0	Friendly
+in Hong Kong	+10
+-10	1695
+1492	0
+-5	20
+51
+April 08
+1953	South Korea
+China	2
+4	Friendly
+in Hong Kong	-22
++22	1650
+1514	-2
++7	23
+44
+June 25
+1956	Burma
+China	2
+3	Friendly
+in Burma	-6
++6	1257
+1520	0
++2	100
+46
+October 04
+1956	China
+North Vietnam	5
+3	Friendly tournament
+in China	+4
+-4	1524
+1196	+1
+-	47
+109
+October 07
+1956	China
+North Korea	0
+1	Friendly tournament
+in China	-16
++16	1508
+1616	-3
+-	50
+30
+May 12
+1957	Indonesia
+China	2
+0	World Cup qualifier
+in Indonesia	+33
+-33	1402
+1475	+10
+-8	71
+56
+June 02
+1957	China
+Indonesia	4
+3	World Cup qualifier
+in China	+11
+-11	1486
+1391	+1
+-3	57
+76
+June 23
+1957	China
+Indonesia	0
+0	World Cup qualifier
+in Burma	-5
++5	1481
+1396	0
++3	57
+73
+July 21
+1957	China
+Sudan	4
+1	Friendly
+in China	+9
+-9	1490
+1382	+2
+-3	54
+80
+September 15
+1957	China
+Albania	3
+2	Friendly
+in China	+6
+-6	1496
+1442	+2
+-2	52
+68
+October 03
+1959	China
+Soviet Union	0
+1	Friendly
+in China	-3
++3	1493
+1871	-2
+0	53
+5
+October 25
+1959	North Korea
+China	1
+0	Friendly tournament
+in North Korea	+6
+-6	1629
+1487	+1
+-1	32
+54
+October 28
+1959	China
+North Vietnam	2
+0	Friendly tournament
+in North Korea	+7
+-7	1494
+1182	+1
+0	53
+117
+October 04
+1960	China
+North Korea	1
+0	Friendly tournament
+in North Vietnam	+21
+-21	1515
+1608	+6
+-3	52
+37
+October 07
+1960	China
+Mongolia	6
+1	Friendly tournament
+in North Vietnam	+1
+-1	1516
+796	0
+0	52
+139
+October 11
+1960	North Vietnam
+China	3
+4	Friendly tournament
+in North Vietnam	-6
++6	1173
+1522	0
++2	124
+50
+November 08
+1973	Albania
+China	1
+1	Friendly
+in Albania	+1
+-1	1379
+1521	0
+0	95
+60
+March 24
+1975	China
+Panama	1
+1	Friendly
+in Taiwan	-7
++7	1514
+1209	0
++1	59
+137
+March 31
+1975	China
+Panama	1
+1	Friendly
+in China	-8
++8	1506
+1236	-3
++2	62
+131
+May 01
+1975	China
+North Korea	1
+0	Asian Cup qualifier
+in Hong Kong	+23
+-23	1529
+1531	+4
+-5	58
+57
+May 04
+1975	China
+Brunei	10
+1	Asian Cup qualifier
+in Hong Kong	+2
+-2	1531
+878	+1
+0	57
+172
+May 09
+1975	Hong Kong
+China	0
+1	Asian Cup qualifier
+in Hong Kong	-12
++12	1273
+1543	-3
++3	124
+55
+May 12
+1975	China
+Japan	2
+1	Asian Cup qualifier
+in Hong Kong	+13
+-13	1556
+1403	+3
+-3	51
+85
+May 15
+1975	North Korea
+China	2
+0	Asian Cup qualifier
+in Hong Kong	+31
+-31	1572
+1525	+9
+-8	48
+59
+July 20
+1975	New Zealand
+China	2
+1	Friendly
+in New Zealand	+10
+-10	1450
+1515	+4
+-4	72
+65
+July 23
+1975	New Zealand
+China	2
+2	Friendly
+in New Zealand	-1
++1	1449
+1516	0
+0	72
+65
+July 26
+1975	New Zealand
+China	2
+0	Friendly
+in New Zealand	+14
+-14	1463
+1502	+1
+0	72
+65
+August 06
+1975	Australia
+China	1
+0	Friendly
+in Australia	+4
+-4	1652
+1498	+1
+-2	33
+67
+August 14
+1975	China
+Kuwait	3
+3	Friendly
+in China	-1
++1	1497
+1557	0
++1	66
+53
+October 19
+1975	China
+New Zealand	2
+1	Friendly
+in China	+6
+-6	1503
+1457	+2
+-2	65
+75
+June 05
+1976	Kuwait
+China	1
+0	Asian Cup
+in Iran	+15
+-15	1664
+1488	+2
+-5	34
+69
+June 07
+1976	China
+Malaysia	1
+1	Asian Cup
+in Iran	-6
++6	1482
+1403	0
+0	69
+82
+June 10
+1976	Iran
+China	2
+0	Asian Cup
+in Iran	+12
+-12	1677
+1470	+1
+-1	33
+70
+June 12
+1976	China
+Iraq	1
+0	Asian Cup
+in Iran	+30
+-30	1500
+1507	+5
+-6	65
+63
+October 29
+1976	China
+Australia	0
+2	Friendly
+in China	-13
++13	1487
+1653	-2
++2	68
+35
+July 17
+1977	China
+Hong Kong	2
+1	Beijing Invitational Cup
+in China	+6
+-6	1493
+1357	+1
+-1	68
+101
+October 06
+1977	United States
+China	1
+1	Friendly
+in the United States	-1
++1	1423
+1494	0
+0	81
+69
+October 10
+1977	United States
+China	1
+0	Friendly
+in the United States	+9
+-9	1432
+1485	+3
+-2	78
+71
+October 16
+1977	United States
+China	2
+1	Friendly
+in the United States	+9
+-9	1441
+1476	+1
+-1	77
+72
+October 24
+1977	Jamaica
+China	0
+1	Friendly
+in Jamaica	-6
++6	1231
+1482	0
+0	131
+72
+November 01
+1977	Jamaica
+China	0
+3	Friendly
+in Jamaica	-10
++10	1221
+1492	-2
++3	134
+69
+March 31
+1978	Venezuela
+China	0
+1	Friendly
+in Venezuela	-8
++8	1303
+1500	-3
++3	114
+68
+April 22
+1978	Peru
+China	2
+1	Friendly
+in Peru	+3
+-3	1726
+1497	0
+-1	26
+69
+December 09
+1978	China
+Qatar	3
+0	Asian Games
+in Thailand	+13
+-13	1510
+1235	+3
+-4	63
+133
+December 11
+1978	China
+Saudi Arabia	1
+0	Asian Games
+in Thailand	+12
+-12	1522
+1358	+1
+-1	62
+98
+December 13
+1978	Iraq
+China	2
+0	Asian Games
+in Thailand	+26
+-26	1591
+1496	+7
+-4	46
+66
+December 16
+1978	South Korea
+China	1
+0	Asian Games
+in Thailand	+6
+-6	1787
+1490	0
+-3	18
+69
+December 18
+1978	Thailand
+China	1
+4	Asian Games
+in Thailand	-32
++32	1329
+1522	-8
++7	105
+62
+December 20
+1978	China
+Malaysia	7
+1	Asian Games
+in Thailand	+46
+-46	1568
+1502	+10
+-7	52
+64
+December 22
+1978	China
+Iraq	1
+0	Asian Games
+in Thailand	+23
+-23	1591
+1604	+5
+-3	47
+44
+December 25
+1978	Philippines
+China	0
+5	Asian Cup qualifier
+in the Philippines	-5
++5	1011
+1596	-1
++1	165
+46
+December 27
+1978	China
+Macao	2
+1	Asian Cup qualifier
+in the Philippines	+2
+-2	1598
+1108	0
+0	46
+156
+December 29
+1978	South Korea
+China	1
+0	Asian Cup qualifier
+in the Philippines	+10
+-10	1807
+1588	+1
+-2	16
+48
+September 17
+1980	China
+Bangladesh	6
+0	Asian Cup
+in Kuwait	+5
+-5	1593
+1065	0
+0	50
+162
+September 19
+1980	China
+Iran	2
+2	Asian Cup
+in Kuwait	+9
+-9	1602
+1714	+2
+0	48
+26
+September 22
+1980	Syria
+China	1
+0	Asian Cup
+in Kuwait	+41
+-41	1373
+1561	+12
+-9	96
+56
+September 25
+1980	North Korea
+China	2
+1	Asian Cup
+in Kuwait	+17
+-17	1687
+1544	+2
+-5	32
+60
+November
+1980	China
+Singapore	1
+1	King's Cup
+in Thailand	-12
++12	1532
+1186	-8
++1	64
+146
+November
+1980	China
+Singapore	2
+1	King's Cup
+in Thailand	+4
+-4	1536
+1182	-8
++1	64
+146
+November
+1980	China
+Brunei	6
+0	King's Cup
+in Thailand	+1
+-1	1537
+832	-8
+0	64
+186
+November
+1980	South Korea
+China	2
+1	King's Cup
+in Thailand	+8
+-8	1721
+1529	0
+-8	26
+64
+November
+1980	Thailand
+China	3
+1	King's Cup
+in Thailand	+23
+-23	1451
+1506	+17
+-8	73
+64
+December 05
+1980	Algeria
+China	4
+1	Friendly
+in Algeria	+8
+-8	1616
+1498	+3
+-4	41
+68
+December 21
+1980	Hong Kong
+China	0
+1	World Cup qualifier
+in Hong Kong	-19
++19	1355
+1517	-9
++8	103
+61
+December 24
+1980	China
+Macao	3
+0	World Cup qualifier
+in Hong Kong	+7
+-7	1524
+1117	0
+0	61
+156
+December 26
+1980	China
+Japan	1
+0	World Cup qualifier
+in Hong Kong	+16
+-16	1540
+1440	+5
+-4	56
+82
+December 31
+1980	Hong Kong
+China	0
+0	World Cup qualifier
+in Hong Kong	+5
+-5	1357
+1535	+4
+-2	101
+58
+January 04
+1981	China
+North Korea	4
+2	World Cup qualifier
+in Hong Kong	+39
+-39	1574
+1600	+9
+-6	49
+44
+June 02
+1981	Japan
+China	0
+0	Friendly tournament
+in Japan	+2
+-2	1434
+1572	0
+-2	80
+53
+September 24
+1981	China
+New Zealand	0
+0	World Cup qualifier
+in China	-7
++7	1565
+1550	-3
++4	54
+58
+October 03
+1981	New Zealand
+China	1
+0	World Cup qualifier
+in New Zealand	+15
+-15	1565
+1550	+5
+-5	54
+59
+October 18
+1981	China
+Kuwait	3
+0	World Cup qualifier
+in China	+32
+-32	1582
+1592	+6
+-7	51
+47
+November 09
+1981	China
+Malaysia	0
+0	King's Cup
+in Thailand	-11
++11	1571
+1281	-1
++3	50
+122
+November 11
+1981	China
+Indonesia	4
+2	King's Cup
+in Thailand	+6
+-6	1577
+1228	+1
+-1	49
+136
+November 12
+1981	China
+Saudi Arabia	4
+2	World Cup qualifier
+in Malaysia	+19
+-19	1596
+1429	+2
+0	47
+81
+November 13
+1981	China
+Singapore	1
+1	King's Cup
+in Thailand	-12
++12	1584
+1202	-2
++3	49
+140
+November 15
+1981	China
+Pakistan	1
+0	King's Cup
+in Thailand	+5
+-5	1589
+1304	0
+0	49
+113
+November 17
+1981	Thailand
+China	0
+1	King's Cup
+in Thailand	-13
++13	1425
+1602	-4
++4	85
+45
+November 19
+1981	China
+Saudi Arabia	2
+0	World Cup qualifier
+in Malaysia	+16
+-16	1618
+1413	+5
+-3	40
+86
+November 30
+1981	Kuwait
+China	1
+0	World Cup qualifier
+in Kuwait	+15
+-15	1626
+1603	+4
+-5	39
+45
+January 10
+1982	New Zealand
+China	2
+1	World Cup qualifier
+in Singapore	+21
+-21	1598
+1582	+5
+-5	46
+50
+February 15
+1982	China
+Iran	0
+0	Friendly tournament
+in Pakistan	+6
+-6	1588
+1736	+1
+-1	48
+24
+February 16
+1982	India
+China	1
+1	Nehru Gold Cup
+in India	+10
+-10	1303
+1578	+6
+-3	114
+51
+February 22
+1982	China
+Uruguay	0
+0	Nehru Gold Cup
+in India	+9
+-9	1587
+1743	+2
+-1	50
+23
+March 01
+1982	China
+South Korea	1
+1	Nehru Gold Cup
+in India	+5
+-5	1592
+1668	+5
+-1	45
+34
+March 04
+1982	Uruguay
+China	2
+0	Nehru Gold Cup
+in India	+17
+-17	1768
+1575	+1
+-7	21
+52
+May
+1982	China
+Singapore	1
+1	King's Cup
+in Thailand	-12
++12	1563
+1205	-7
++12	59
+131
+May
+1982	China
+Nepal	4
+0	King's Cup
+in Thailand	+2
+-2	1565
+1006	-7
+0	59
+168
+May
+1982	China
+Philippines	2
+0	King's Cup
+in Thailand	+1
+-1	1566
+944	-7
+-4	59
+179
+May
+1982	Singapore
+China	2
+1	King's Cup
+in Thailand	+26
+-26	1247
+1540	+12
+-7	131
+59
+May
+1982	Thailand
+China	1
+1	King's Cup
+in Thailand	0
+0	1439
+1540	0
+-7	82
+59
+June 06
+1982	Liechtenstein
+China	2
+0	Friendly
+in Liechtenstein	+26
+-26	1164
+1514	+5
+-4	149
+63
+June 22
+1982	Tunisia
+China	1
+0	Friendly
+in Tunisia	+5
+-5	1607
+1509	0
+-2	42
+65
+June 26
+1982	Tunisia
+China	1
+1	Friendly
+in Tunisia	-5
++5	1602
+1514	0
++2	42
+63
+July 21
+1982	China
+Hong Kong	2
+0	Beijing Invitational Cup
+in China	+8
+-8	1522
+1349	+1
+-3	62
+102
+July 23
+1982	China
+Morocco	3
+3	Beijing Invitational Cup
+in China	-1
++1	1521
+1589	0
+0	62
+48
+November 20
+1982	China
+Malaysia	1
+0	Asian Games
+in India	+7
+-7	1528
+1244	+4
+-3	60
+136
+November 24
+1982	China
+Bangladesh	1
+0	Asian Games
+in India	+2
+-2	1530
+1042	0
+0	60
+164
+November 26
+1982	India
+China	2
+2	Asian Games
+in India	+8
+-8	1289
+1522	+1
+-3	118
+63
+November 28
+1982	North Korea
+China	1
+0	Asian Games
+in India	+16
+-16	1613
+1506	+3
+-3	42
+66
+July 22
+1983	China
+Thailand	2
+1	Friendly tournament
+in China	+8
+-8	1514
+1426	+3
+-2	63
+88
+December 04
+1983	China
+Australia	2
+1	Merlion Tournament
+in Singapore	+18
+-18	1532
+1566	+2
+-3	61
+51
+January
+1984	India
+China	0
+3	Nehru Gold Cup
+in India	-20
++20	1253
+1552	-10
++6	136
+55
+January 15
+1984	Poland
+China	1
+0	Nehru Gold Cup
+in India	+5
+-5	1882
+1547	+1
+-2	6
+57
+January 20
+1984	China
+Argentina	1
+0	Nehru Gold Cup
+in India	+35
+-35	1582
+1852	+8
+-3	49
+8
+January 27
+1984	Poland
+China	1
+0	Nehru Gold Cup
+in India	+6
+-6	1888
+1576	0
+-2	5
+51
+April 12
+1984	Kenya
+China	1
+0	Friendly
+in Kenya	+9
+-9	1515
+1567	+5
+-2	62
+51
+May 31
+1984	Japan
+China	1
+0	Friendly
+in Japan	+9
+-9	1522
+1558	+1
+-2	62
+53
+June 03
+1984	Ireland
+China	1
+0	Friendly
+in Japan	+7
+-7	1686
+1551	0
+-3	34
+56
+July 29
+1984	Romania
+China	4
+2	Friendly
+in Romania	+4
+-4	1758
+1547	0
+-1	23
+56
+August 01
+1984	Romania
+China	1
+0	Friendly
+in Romania	+3
+-3	1761
+1544	0
+0	23
+56
+September 12
+1984	China
+Jordan	6
+0	Asian Cup qualifier
+in China	+7
+-7	1551
+1212	+1
+0	55
+143
+September 14
+1984	China
+Hong Kong	2
+0	Asian Cup qualifier
+in China	+9
+-9	1560
+1350	+2
+-2	53
+103
+September 17
+1984	China
+Afghanistan	6
+0	Asian Cup qualifier
+in China	+1
+-1	1561
+957	0
+0	53
+174
+September 19
+1984	China
+Qatar	1
+0	Asian Cup qualifier
+in China	+8
+-8	1569
+1414	+2
+-2	51
+90
+November 03
+1984	China
+Australia	3
+2	Friendly
+in China	+8
+-8	1577
+1599	+2
+0	51
+43
+December 03
+1984	Iran
+China	2
+0	Asian Cup
+in Singapore	+22
+-22	1756
+1555	+4
+-4	24
+55
+December 05
+1984	Singapore
+China	0
+2	Asian Cup
+in Singapore	-21
++21	1265
+1576	-6
++4	130
+51
+December 09
+1984	China
+India	3
+0	Asian Cup
+in Singapore	+12
+-12	1588
+1236	+1
+-4	50
+137
+December 11
+1984	China
+United Arab Emirates	5
+0	Asian Cup
+in Singapore	+20
+-20	1608
+1329	+6
+-6	44
+108
+December 14
+1984	China
+Kuwait	1
+0	Asian Cup
+in Singapore	+20
+-20	1628
+1522	+3
+-4	41
+61
+December 16
+1984	Saudi Arabia
+China	2
+0	Asian Cup
+in Singapore	+47
+-47	1589
+1581	+7
+-11	50
+51
+February 17
+1985	Hong Kong
+China	0
+0	World Cup qualifier
+in Hong Kong	+9
+-9	1320
+1572	+4
+-3	107
+55
+February 20
+1985	Macao
+China	0
+4	World Cup qualifier
+in Macao	-9
++9	1106
+1581	-1
++2	159
+53
+February 26
+1985	China
+Brunei	8
+0	World Cup qualifier
+in Macao	+1
+-1	1582
+844	0
+0	54
+189
+March 01
+1985	China
+Brunei	4
+0	World Cup qualifier
+in Hong Kong	+1
+-1	1583
+843	0
+0	54
+189
+May 12
+1985	China
+Macao	6
+0	World Cup qualifier
+in China	+3
+-3	1586
+1087	0
+0	52
+162
+May 19
+1985	China
+Hong Kong	1
+2	World Cup qualifier
+in China	-35
++35	1551
+1394	-8
++6	60
+93
+September 16
+1985	Papua New Guinea
+China	1
+4	Friendly
+in Papua New Guinea	-8
++8	1226
+1559	0
++3	138
+59
+September 19
+1985	Papua New Guinea
+China	1
+1	Friendly
+in Papua New Guinea	+6
+-6	1232
+1553	0
+-3	138
+62
+September 23
+1985	Australia
+China	2
+0	Friendly
+in Australia	+8
+-8	1625
+1545	0
+0	44
+62
+September 25
+1985	Australia
+China	1
+1	Friendly
+in Australia	-5
++5	1620
+1550	0
+0	44
+62
+September 27
+1985	Australia
+China	3
+0	Friendly
+in Australia	+10
+-10	1630
+1540	+1
+-1	43
+63
+
+1986	China
+Congo	1
+1	Friendly tournament
+in China	-7
++7	1533
+1478	-1
++3	64
+75
+January
+1986	India
+China	0
+0	Nehru Gold Cup
+in India	+10
+-10	1262
+1523	+2
+-1	129
+65
+January 28
+1986	China
+Peru	3
+1	Nehru Gold Cup
+in India	+41
+-41	1564
+1616	+8
+-3	58
+41
+March
+1986	Thailand
+China	1
+0	King's Cup
+in Thailand	+21
+-21	1331
+1543	+2
+-5	108
+62
+March 08
+1986	North Korea
+China	0
+0	King's Cup
+in Thailand	-2
++2	1581
+1545	0
+0	50
+62
+March 10
+1986	North Korea
+China	2
+0	King's Cup
+in Thailand	+20
+-20	1601
+1525	+6
+-3	44
+65
+March 12
+1986	Thailand
+China	1
+0	King's Cup
+in Thailand	+19
+-19	1341
+1506	0
+-4	108
+69
+May 11
+1986	Italy
+China	2
+0	Friendly
+in Italy	+2
+-2	1836
+1504	0
+0	12
+68
+May 28
+1986	China
+Iran	2
+1	Friendly
+in China	+12
+-12	1516
+1655	+2
+-2	66
+36
+June 08
+1986	China
+Hong Kong	4
+0	Friendly tournament
+in Nepal	+14
+-14	1530
+1313	+2
+-1	64
+109
+June 10
+1986	Nepal
+China	1
+3	Friendly tournament
+in Nepal	-3
++3	945
+1533	0
+0	176
+64
+June 14
+1986	Nepal
+China	1
+3	Friendly tournament
+in Nepal	-3
++3	942
+1536	0
+0	176
+64
+August 24
+1986	China
+North Korea	0
+0	Merlion Tournament
+in China	-2
++2	1534
+1597	0
+0	64
+45
+August 25
+1986	China
+Indonesia	3
+0	Merlion Tournament
+in Singapore	+5
+-5	1539
+1152	0
+-2	64
+153
+August 28
+1986	China
+Malaysia	4
+0	Merlion Tournament
+in Singapore	+10
+-10	1549
+1270	+3
+-2	61
+123
+August 31
+1986	China
+Canada	1
+0	Merlion Tournament
+in Singapore	+16
+-16	1565
+1563	+4
+-4	57
+59
+September 01
+1986	Singapore
+China	0
+3	Merlion Tournament
+in Singapore	-15
++15	1284
+1580	-1
++2	119
+55
+September 03
+1986	Singapore
+China	1
+2	Merlion Tournament
+in Singapore	-7
++7	1277
+1587	-2
++3	121
+52
+September 06
+1986	China
+North Korea	2
+1	Merlion Tournament
+in Singapore	+17
+-17	1604
+1618	+7
+-1	45
+42
+September 20
+1986	China
+Bahrain	5
+1	Asian Games
+in South Korea	+11
+-11	1615
+1285	+2
+-1	43
+119
+September 22
+1986	China
+India	2
+1	Asian Games
+in South Korea	+4
+-4	1619
+1236	+2
+0	41
+134
+September 28
+1986	South Korea
+China	4
+2	Asian Games
+in South Korea	+25
+-25	1605
+1594	+9
+-8	46
+50
+October 01
+1986	China
+Kuwait	1
+1	Asian Games
+in South Korea	+3
+-3	1597
+1642	+1
+-1	49
+40
+November 23
+1986	China
+Australia	0
+2	Friendly
+in China	-17
++17	1580
+1673	-6
++2	55
+34
+December 02
+1986	China
+South Korea	0
+0	Friendly tournament
+in Nepal	+2
+-2	1582
+1622	+2
+-1	53
+43
+December 04
+1986	China
+Malaysia	3
+0	Friendly tournament
+in Nepal	+6
+-6	1588
+1224	+2
+-4	51
+138
+December 10
+1986	Nepal
+China	0
+3	Friendly tournament
+in Nepal	-2
++2	955
+1590	0
++1	176
+50
+December 13
+1986	Denmark
+China	2
+0	Friendly tournament
+in Nepal	+7
+-7	1902
+1583	0
+-3	7
+53
+January 29
+1987	Bulgaria
+China	4
+0	Friendly
+in Bulgaria	+7
+-7	1745
+1576	0
+-2	26
+56
+February 20
+1987	Indonesia
+China	3
+1	King's Cup
+in Thailand	+41
+-41	1218
+1535	+6
+-4	139
+60
+February 22
+1987	China
+Oman	2
+0	King's Cup
+in Thailand	+3
+-3	1538
+1073	0
+-1	60
+165
+February 24
+1987	Thailand
+China	2
+0	King's Cup
+in Thailand	+30
+-30	1339
+1508	+5
+-8	107
+68
+March 07
+1987	Mexico
+China	3
+2	Friendly
+in Mexico	+1
+-1	1846
+1507	0
+0	10
+68
+January 12
+1988	Thailand
+China	3
+2	King's Cup
+in Thailand	+19
+-19	1324
+1488	+6
+-5	107
+75
+January 16
+1988	Oman
+China	2
+2	King's Cup
+in Thailand	+13
+-13	1073
+1475	+2
+-1	166
+76
+January 19
+1988	India
+China	0
+2	Nehru Gold Cup
+in India	-17
++17	1192
+1492	-2
++2	144
+74
+January 20
+1988	Indonesia
+China	2
+0	King's Cup
+in Thailand	+35
+-35	1311
+1457	+9
+-4	112
+78
+June 02
+1988	Japan
+China	0
+3	Friendly
+in Japan	-26
++26	1509
+1483	-6
++4	68
+75
+June 15
+1988	United Arab Emirates
+China	0
+0	Asian Cup qualifier
+in United Arab Emirates	-6
++6	1483
+1489	-3
++3	74
+71
+June 17
+1988	Bangladesh
+China	0
+4	Asian Cup qualifier
+in United Arab Emirates	-7
++7	1093
+1496	-1
++1	162
+70
+June 19
+1988	China
+India	1
+1	Asian Cup qualifier
+in United Arab Emirates	-15
++15	1481
+1189	-4
++2	74
+143
+June 21
+1988	China
+Thailand	5
+0	Asian Cup qualifier
+in United Arab Emirates	+22
+-22	1503
+1287	+5
+-5	69
+118
+June 23
+1988	China
+North Yemen	0
+0	Asian Cup qualifier
+in United Arab Emirates	-16
++16	1487
+1119	-4
++5	73
+156
+August 05
+1988	Australia
+China	2
+2	Friendly tournament
+in Indonesia	-9
++9	1705
+1496	-2
++4	31
+71
+August 11
+1988	China
+Thailand	2
+0	Friendly tournament
+in Indonesia	+11
+-11	1507
+1279	+3
+-1	67
+119
+August 15
+1988	China
+Australia	1
+0	Friendly tournament
+in Indonesia	+22
+-22	1529
+1670	+6
+-1	61
+35
+December 04
+1988	China
+Syria	3
+0	Asian Cup
+in Qatar	+33
+-33	1562
+1411	+10
+-10	53
+91
+December 06
+1988	Bahrain
+China	0
+1	Asian Cup
+in Qatar	-16
++16	1416
+1578	-5
++3	90
+50
+December 10
+1988	China
+Kuwait	2
+2	Asian Cup
+in Qatar	-7
++7	1571
+1484	0
++1	50
+71
+December 12
+1988	China
+Saudi Arabia	0
+1	Asian Cup
+in Qatar	-31
++31	1540
+1517	-9
++5	59
+65
+December 14
+1988	China
+South Korea	1
+2	Asian Cup
+in Qatar	-13
++13	1527
+1735	-6
++1	65
+27
+December 17
+1988	China
+Iran	0
+0	Asian Cup
+in Qatar	+5
+-5	1532
+1599	+2
+0	63
+46
+February 23
+1989	China
+Bangladesh	2
+0	World Cup qualifier
+in China	+3
+-3	1535
+1096	0
+0	62
+162
+February 28
+1989	Thailand
+China	0
+3	World Cup qualifier
+in Thailand	-22
++22	1272
+1557	-3
++7	120
+55
+March 04
+1989	Bangladesh
+China	0
+2	World Cup qualifier
+in Bangladesh	-7
++7	1085
+1564	-1
++4	163
+51
+July 15
+1989	China
+Iran	2
+0	World Cup qualifier
+in China	+24
+-24	1588
+1574	+5
+-6	48
+52
+July 22
+1989	Iran
+China	3
+2	World Cup qualifier
+in Iran	+15
+-15	1589
+1573	+3
+-3	49
+52
+July 29
+1989	China
+Thailand	2
+0	World Cup qualifier
+in China	+4
+-4	1577
+1226	+1
+0	51
+136
+September 20
+1989	Kuwait
+China	2
+0	Friendly
+in Kuwait	+14
+-14	1506
+1563	+2
+-3	67
+54
+October 12
+1989	China
+Saudi Arabia	2
+1	World Cup qualifier
+in Singapore	+21
+-21	1584
+1556	+5
+-5	49
+55
+October 17
+1989	China
+United Arab Emirates	1
+2	World Cup qualifier
+in Singapore	-24
++24	1560
+1538	-4
++3	53
+60
+October 20
+1989	China
+South Korea	0
+1	World Cup qualifier
+in Singapore	-10
++10	1550
+1754	-5
++1	58
+23
+October 24
+1989	China
+North Korea	1
+0	World Cup qualifier
+in Singapore	+23
+-23	1573
+1584	+6
+-8	52
+48
+October 28
+1989	China
+Qatar	1
+2	World Cup qualifier
+in Singapore	-25
++25	1548
+1502	-7
++3	58
+69
+January 29
+1990	China
+Indonesia	8
+0	King's Cup
+in Thailand	+11
+-11	1559
+1235	+5
+-3	53
+137
+February 01
+1990	Thailand
+China	4
+2	King's Cup
+in Thailand	+34
+-34	1301
+1525	+7
+-10	116
+63
+February 06
+1990	China
+Kenya	1
+1	King's Cup
+in Thailand	-3
++3	1522
+1449	0
++1	62
+81
+July 27
+1990	China
+North Korea	2
+0	Dynasty Cup
+in China	+18
+-18	1540
+1532	+5
+-7	59
+63
+July 29
+1990	China
+Japan	1
+0	Dynasty Cup
+in China	+7
+-7	1547
+1428	+1
+-2	58
+86
+July 31
+1990	China
+South Korea	0
+1	Dynasty Cup
+in China	-14
++14	1533
+1695	-4
++3	62
+30
+August 03
+1990	China
+South Korea	1
+1	Dynasty Cup
+in China	+3
+-3	1536
+1692	+2
+-1	61
+31
+August 16
+1990	New Zealand
+China	2
+1	Friendly
+in New Zealand	+7
+-7	1553
+1529	+2
+-3	55
+64
+August 24
+1990	New Zealand
+China	1
+0	Friendly
+in New Zealand	+7
+-7	1560
+1522	+1
+0	54
+64
+September 23
+1990	China
+Pakistan	3
+0	Asian Games
+in China	+3
+-3	1525
+1087	+1
+0	63
+166
+September 25
+1990	China
+Singapore	5
+1	Asian Games
+in China	+9
+-9	1534
+1262	+3
+-3	60
+126
+September 27
+1990	China
+South Korea	0
+2	Asian Games
+in China	-23
++23	1511
+1736	-4
++2	64
+26
+October 01
+1990	China
+Thailand	0
+1	Asian Games
+in China	-33
++33	1478
+1375	-8
++10	71
+99
+January 22
+1992	China
+Indonesia	2
+0	Friendly tournament
+in Thailand	+13
+-13	1491
+1301	+5
+-4	68
+120
+January 24
+1992	Thailand
+China	1
+1	Friendly tournament
+in Thailand	+1
+-1	1380
+1490	0
+0	100
+68
+February 08
+1992	China
+Indonesia	2
+1	Friendly tournament
+in Thailand	+7
+-7	1497
+1280	+1
+-3	67
+126
+February 10
+1992	Thailand
+China	1
+0	Friendly tournament
+in Thailand	+15
+-15	1416
+1482	+3
+-3	89
+70
+February 12
+1992	China
+Malaysia	3
+0	Friendly tournament
+in Thailand	+8
+-8	1490
+1166	+2
+-1	68
+151
+February 16
+1992	Thailand
+China	0
+4	Friendly tournament
+in Thailand	-31
++31	1395
+1521	-12
++6	96
+62
+April 02
+1992	Canada
+China	5
+2	Friendly
+in Canada	+15
+-15	1494
+1506	+4
+-4	69
+66
+April 04
+1992	United States
+China	5
+0	Friendly
+in the United States	+9
+-9	1622
+1497	+3
+-1	42
+67
+April 20
+1992	China
+Indonesia	2
+0	Asian Cup qualifier
+in Singapore	+13
+-13	1510
+1268	+1
+-2	66
+125
+April 23
+1992	China
+Malaysia	4
+0	Asian Cup qualifier
+in Singapore	+10
+-10	1520
+1169	+3
+0	63
+151
+April 26
+1992	Singapore
+China	0
+1	Asian Cup qualifier
+in Singapore	-13
++13	1272
+1533	-2
++4	125
+59
+August 22
+1992	China
+North Korea	2
+2	Dynasty Cup
+in China	-4
++4	1529
+1546	-1
++1	63
+58
+August 24
+1992	China
+Japan	0
+2	Dynasty Cup
+in China	-35
++35	1494
+1441	-7
++7	70
+86
+August 26
+1992	China
+South Korea	0
+2	Dynasty Cup
+in China	-19
++19	1475
+1668	-8
++2	78
+33
+October 29
+1992	Saudi Arabia
+China	1
+1	Asian Cup
+in Japan	-11
++11	1629
+1486	-5
++4	43
+75
+October 31
+1992	China
+Thailand	0
+0	Asian Cup
+in Japan	-9
++9	1477
+1359	-3
++3	78
+109
+November 02
+1992	China
+Qatar	2
+1	Asian Cup
+in Japan	+26
+-26	1503
+1467	+11
+-11	68
+82
+November 06
+1992	Japan
+China	3
+2	Asian Cup
+in Japan	+18
+-18	1516
+1485	+4
+-7	66
+76
+November 08
+1992	China
+United Arab Emirates	1
+1	Asian Cup
+in Japan	0
+0	1485
+1481	+1
++1	75
+76
+December 02
+1992	China
+Norway	2
+1	Carlsberg Cup
+in Hong Kong	+24
+-24	1509
+1703	+7
+-2	69
+29
+December 19
+1992	South Korea
+China	3
+1	Merlion Tournament
+in Singapore	+13
+-13	1671
+1496	+1
+-4	34
+72
+February 21
+1993	Thailand
+China	0
+4	King's Cup
+in Thailand	-27
++27	1351
+1523	-7
++11	111
+63
+May 22
+1993	China
+Pakistan	5
+0	World Cup qualifier
+in Jordan	+6
+-6	1529
+1074	+1
+0	62
+173
+May 26
+1993	Jordan
+China	0
+3	World Cup qualifier
+in Jordan	-22
++22	1272
+1551	-6
++3	132
+60
+May 28
+1993	Yemen
+China	1
+0	World Cup qualifier
+in Jordan	+36
+-36	1195
+1515	+5
+-9	151
+69
+May 30
+1993	Iraq
+China	1
+0	World Cup qualifier
+in Jordan	+14
+-14	1635
+1501	+2
+-5	40
+74
+June 12
+1993	China
+Pakistan	3
+0	World Cup qualifier
+in China	+3
+-3	1504
+1028	+1
+0	74
+184
+June 16
+1993	China
+Jordan	4
+1	World Cup qualifier
+in China	+9
+-9	1513
+1258	+2
+-2	72
+137
+June 18
+1993	China
+Yemen	1
+0	World Cup qualifier
+in China	+4
+-4	1517
+1209	+2
+0	69
+151
+June 20
+1993	China
+Iraq	2
+1	World Cup qualifier
+in China	+22
+-22	1539
+1629	+6
+-5	63
+41
+November 03
+1993	Mexico
+China	3
+0	Friendly
+in the United States	+5
+-5	1874
+1534	0
+-1	10
+62
+January 23
+1994	Saudi Arabia
+China	1
+0	Friendly
+in Saudi Arabia	+4
+-4	1690
+1530	0
+-1	30
+64
+January 26
+1994	Saudi Arabia
+China	1
+1	Friendly
+in Saudi Arabia	-6
++6	1684
+1536	-1
++1	31
+63
+October 01
+1994	Turkmenistan
+China	2
+2	Asian Games
+in Japan	+6
+-6	1433
+1530	+4
+-3	91
+65
+October 03
+1994	China
+Yemen	4
+0	Asian Games
+in Japan	+10
+-10	1540
+1193	+4
+-2	61
+154
+October 05
+1994	China
+Bahrain	3
+2	Asian Games
+in Japan	+14
+-14	1554
+1420	+5
+-10	56
+100
+October 07
+1994	China
+Iran	1
+0	Asian Games
+in Japan	+20
+-20	1574
+1531	+4
+-7	52
+65
+October 13
+1994	China
+Kuwait	2
+0	Asian Games
+in Japan	+30
+-30	1604
+1540	+11
+-4	44
+60
+October 16
+1994	Uzbekistan
+China	4
+2	Asian Games
+in Japan	+26
+-26	1673
+1578	+2
+-8	33
+52
+February 12
+1995	Thailand
+China	2
+1	King's Cup
+in Thailand	+19
+-19	1392
+1559	+4
+-4	105
+54
+February 19
+1995	China
+South Korea	0
+0	Dynasty Cup
+in Hong Kong	+4
+-4	1563
+1647	0
+0	54
+35
+February 21
+1995	Hong Kong
+China	0
+0	Dynasty Cup
+in Hong Kong	+10
+-10	1212
+1553	+3
+-3	151
+57
+February 23
+1995	Japan
+China	2
+1	Dynasty Cup
+in Hong Kong	+15
+-15	1574
+1538	+2
+-4	52
+61
+February 26
+1995	Hong Kong
+China	1
+1	Dynasty Cup
+in Hong Kong	+9
+-9	1217
+1529	+1
+-3	151
+64
+October 26
+1995	China
+Colombia	2
+1	Friendly
+in China	+15
+-15	1544
+1817	+2
+-5	64
+16
+January 30
+1996	China
+Macao	7
+1	Asian Cup qualifier
+in Hong Kong	+5
+-5	1549
+1066	0
+-1	61
+181
+February 01
+1996	China
+Philippines	7
+0	Asian Cup qualifier
+in Hong Kong	+2
+-2	1551
+840	0
+0	61
+208
+February 04
+1996	Hong Kong
+China	0
+2	Asian Cup qualifier
+in Hong Kong	-13
++13	1223
+1564	-1
++4	149
+57
+May 23
+1996	China
+England	0
+3	Friendly
+in China	-9
++9	1555
+1854	-2
+0	58
+11
+May 29
+1996	Netherlands
+China	2
+0	Friendly
+in the Netherlands	+2
+-2	1875
+1553	0
+-1	9
+59
+July 17
+1996	China
+Uruguay	1
+1	Friendly
+in China	+3
+-3	1556
+1746	+2
+0	58
+24
+August 08
+1996	China
+Paraguay	0
+2	Friendly
+in China	-11
++11	1545
+1758	-3
++3	61
+21
+September 25
+1996	South Korea
+China	3
+1	Friendly
+in South Korea	+8
+-8	1632
+1537	+1
+-2	38
+65
+November 26
+1996	China
+South Korea	2
+3	Friendly
+in China	-9
++9	1528
+1665	-2
+0	66
+35
+December 06
+1996	Uzbekistan
+China	2
+0	Asian Cup
+in United Arab Emirates	+32
+-32	1607
+1496	+5
+-11	49
+77
+December 09
+1996	China
+Syria	3
+0	Asian Cup
+in United Arab Emirates	+40
+-40	1536
+1424	+13
+-8	63
+95
+December 12
+1996	Japan
+China	1
+0	Asian Cup
+in United Arab Emirates	+10
+-10	1782
+1526	+2
+-3	20
+67
+December 16
+1996	Saudi Arabia
+China	4
+3	Asian Cup
+in United Arab Emirates	+20
+-20	1621
+1506	+7
+-4	44
+71
+January 29
+1997	China
+United States	2
+1	Friendly
+in China	+11
+-11	1517
+1615	+5
+-3	67
+45
+February 01
+1997	China
+United States	1
+1	Friendly
+in China	0
+0	1517
+1615	0
+0	67
+45
+February 21
+1997	China
+Singapore	3
+1	Dunhill Cup
+in Malaysia	+11
+-11	1528
+1305	+1
+-2	66
+130
+February 23
+1997	China
+Finland	2
+1	Dunhill Cup
+in Malaysia	+11
+-11	1539
+1418	0
+-3	66
+96
+February 25
+1997	Malaysia
+China	0
+2	Dunhill Cup
+in Malaysia	-16
++16	1321
+1555	-6
++6	128
+60
+March 02
+1997	China
+Bosnia and Herzegovina	3
+0	Dunhill Cup
+in Malaysia	+25
+-25	1580
+1519	+7
+-3	54
+68
+March 30
+1997	Iraq
+China	2
+0	Nehru Gold Cup
+in India	+25
+-25	1659
+1555	+6
+-3	35
+59
+April 01
+1997	India
+China	0
+0	Nehru Gold Cup
+in India	+16
+-16	1097
+1539	+3
+-5	174
+64
+April 06
+1997	China
+Uzbekistan	1
+1	Nehru Gold Cup
+in India	-2
++2	1537
+1503	0
+0	63
+73
+April 09
+1997	Uzbekistan
+China	2
+1	Nehru Gold Cup
+in India	+22
+-22	1525
+1515	+7
+-8	66
+71
+April 11
+1997	India
+China	1
+2	Nehru Gold Cup
+in India	-6
++6	1122
+1521	-1
++3	169
+68
+April 21
+1997	China
+Myanmar	5
+0	Friendly
+in China	+2
+-2	1523
+1147	0
+0	67
+166
+April 27
+1997	China
+Iran	0
+0	Friendly
+in China	+2
+-2	1525
+1690	+2
+-1	66
+31
+May 04
+1997	Turkmenistan
+China	1
+4	World Cup qualifier
+in Turkmenistan	-30
++30	1348
+1555	-4
++5	116
+60
+May 11
+1997	Tajikistan
+China	0
+1	World Cup qualifier
+in Tajikistan	-21
++21	1455
+1576	-7
++3	87
+57
+May 25
+1997	Vietnam
+China	1
+3	World Cup qualifier
+in Vietnam	-12
++12	1216
+1588	0
++4	146
+53
+June 01
+1997	China
+Turkmenistan	1
+0	World Cup qualifier
+in China	+5
+-5	1593
+1332	-1
+-2	54
+120
+June 08
+1997	China
+Tajikistan	0
+0	World Cup qualifier
+in China	-10
++10	1583
+1506	0
++4	54
+74
+June 22
+1997	China
+Vietnam	4
+0	World Cup qualifier
+in China	+4
+-4	1587
+1157	+1
+0	54
+163
+September 03
+1997	China
+Kazakhstan	3
+0	Friendly
+in China	+9
+-9	1596
+1483	+1
+0	52
+74
+September 13
+1997	China
+Iran	2
+4	World Cup qualifier
+in China	-31
++31	1565
+1721	-7
++4	59
+28
+September 26
+1997	Qatar
+China	1
+1	World Cup qualifier
+in Qatar	0
+0	1472
+1565	0
+0	78
+57
+October 03
+1997	China
+Saudi Arabia	1
+0	World Cup qualifier
+in China	+20
+-20	1585
+1639	+3
+-6	53
+46
+October 10
+1997	Kuwait
+China	1
+2	World Cup qualifier
+in Kuwait	-29
++29	1627
+1614	-6
++1	48
+52
+October 17
+1997	Iran
+China	4
+1	World Cup qualifier
+in Iran	+16
+-16	1739
+1598	+4
+-1	25
+53
+October 31
+1997	China
+Qatar	2
+3	World Cup qualifier
+in China	-31
++31	1567
+1521	-2
++4	55
+69
+November 06
+1997	Saudi Arabia
+China	1
+1	World Cup qualifier
+in Saudi Arabia	-10
++10	1641
+1577	-2
++1	44
+54
+November 12
+1997	China
+Kuwait	1
+0	World Cup qualifier
+in China	+17
+-17	1594
+1602	+1
+-2	52
+51
+March 01
+1998	China
+Hong Kong	1
+0	Dynasty Cup
+in Japan	+3
+-3	1597
+1223	0
+0	55
+145
+March 04
+1998	South Korea
+China	2
+1	Dynasty Cup
+in Japan	+9
+-9	1749
+1588	+1
+-1	25
+56
+March 07
+1998	Japan
+China	0
+2	Dynasty Cup
+in Japan	-38
++38	1731
+1626	-7
++10	28
+46
+June 04
+1998	South Korea
+China	1
+1	Friendly
+in South Korea	-6
++6	1739
+1632	-2
++3	25
+44
+June 27
+1998	Thailand
+China	0
+3	Friendly
+in Thailand	-14
++14	1445
+1646	-5
++4	89
+41
+November 13
+1998	China
+South Korea	0
+3	Friendly
+in China	-20
++20	1626
+1707	-6
++4	50
+29
+November 22
+1998	China
+South Korea	0
+0	Friendly
+in China	-1
++1	1625
+1708	0
+0	51
+28
+November 30
+1998	China
+Lebanon	4
+1	Asian Games
+in Thailand	+10
+-10	1635
+1305	+6
+-1	45
+128
+December 02
+1998	China
+Cambodia	4
+1	Asian Games
+in Thailand	+2
+-2	1637
+1014	0
+-1	46
+186
+December 08
+1998	China
+Tajikistan	3
+1	Asian Games
+in Thailand	+18
+-18	1655
+1478	+4
+-3	42
+79
+December 10
+1998	China
+Oman	6
+1	Asian Games
+in Thailand	+16
+-16	1671
+1392	+4
+-5	38
+107
+December 12
+1998	Iran
+China	2
+1	Asian Games
+in Thailand	+23
+-23	1650
+1648	+8
+-6	43
+44
+December 14
+1998	China
+Turkmenistan	3
+0	Asian Games
+in Thailand	+16
+-16	1664
+1414	+3
+-4	41
+99
+December 16
+1998	Iran
+China	1
+0	Asian Games
+in Thailand	+19
+-19	1695
+1645	+5
+-5	32
+46
+December 19
+1998	Thailand
+China	0
+3	Asian Games
+in Thailand	-23
++23	1402
+1668	-4
++6	101
+40
+March 14
+1999	China
+Iran	1
+0	Friendly
+in China	+9
+-9	1677
+1734	+3
+0	38
+22
+January 14
+2000	China
+New Zealand	1
+0	Friendly tournament
+in China	+5
+-5	1682
+1506	0
+0	37
+72
+January 23
+2000	China
+Philippines	8
+0	Asian Cup qualifier
+in Vietnam	0
+0	1682
+724	-1
+0	38
+214
+January 26
+2000	China
+Guam	19
+0	Asian Cup qualifier
+in Vietnam	+1
+-1	1683
+710	+1
+0	37
+217
+January 29
+2000	Vietnam
+China	0
+2	Asian Cup qualifier
+in Vietnam	-10
++10	1288
+1693	-2
++2	133
+35
+March 15
+2000	Japan
+China	0
+0	Friendly
+in Japan	-1
++1	1610
+1694	0
+0	54
+33
+March 28
+2000	Yugoslavia
+China	1
+0	Friendly
+in Yugoslavia	+3
+-3	1905
+1691	0
+-1	7
+34
+April 25
+2000	Hong Kong
+China	0
+1	Friendly
+in Hong Kong	-2
++2	1198
+1693	-3
+0	156
+32
+May 25
+2000	China
+Yugoslavia	0
+2	Friendly
+in China	-10
++10	1683
+1915	-5
+0	38
+7
+July 28
+2000	China
+South Korea	0
+1	Friendly
+in China	-12
++12	1671
+1727	-3
++3	41
+27
+September 01
+2000	China
+Thailand	3
+1	Friendly tournament
+in China	+8
+-8	1679
+1490	+1
+-2	39
+78
+September 03
+2000	China
+Iraq	4
+1	Friendly tournament
+in China	+18
+-18	1697
+1650	+1
+-6	35
+47
+October 04
+2000	Saudi Arabia
+China	2
+0	Friendly
+in Jordan	+18
+-18	1655
+1679	+5
+-1	44
+36
+October 07
+2000	Jordan
+China	1
+1	Friendly
+in Jordan	+4
+-4	1439
+1675	0
+-3	89
+39
+October 13
+2000	South Korea
+China	2
+2	Asian Cup
+in Lebanon	-5
++5	1744
+1680	0
++3	22
+38
+October 16
+2000	China
+Indonesia	4
+0	Asian Cup
+in Lebanon	+14
+-14	1694
+1367	+3
+-3	36
+112
+October 19
+2000	China
+Kuwait	0
+0	Asian Cup
+in Lebanon	-4
++4	1690
+1644	-1
++1	37
+47
+October 23
+2000	China
+Qatar	3
+1	Asian Cup
+in Lebanon	+22
+-22	1712
+1515	+4
+-4	33
+69
+October 26
+2000	Japan
+China	3
+2	Asian Cup
+in Lebanon	+22
+-22	1770
+1690	+4
+-5	19
+38
+October 29
+2000	South Korea
+China	1
+0	Asian Cup
+in Lebanon	+23
+-23	1739
+1667	+5
+-7	25
+45
+January 17
+2001	China
+Egypt	0
+0	Civilizations Cup
+in Iran	+1
+-1	1668
+1700	0
+0	43
+34
+January 19
+2001	Iran
+China	4
+0	Civilizations Cup
+in Iran	+16
+-16	1739
+1652	+2
+-3	26
+46
+January 27
+2001	United States
+China	2
+1	Friendly
+in the United States	+4
+-4	1773
+1648	0
+0	22
+47
+February 10
+2001	China
+Qatar	1
+1	King's Cup
+in Thailand	-5
++5	1643
+1538	0
++1	48
+64
+February 12
+2001	China
+Sweden	2
+2	King's Cup
+in Thailand	+5
+-5	1648
+1765	0
+0	48
+21
+February 14
+2001	Thailand
+China	1
+5	King's Cup
+in Thailand	-24
++24	1475
+1672	-7
++5	78
+43
+February 17
+2001	Sweden
+China	3
+0	King's Cup
+in Thailand	+20
+-20	1777
+1652	+4
+-4	19
+47
+April 22
+2001	China
+Maldives	10
+1	World Cup qualifier
+in China	+1
+-1	1653
+951	0
+0	43
+193
+April 28
+2001	Maldives
+China	0
+1	World Cup qualifier
+in Maldives	-1
++1	950
+1654	0
+0	191
+43
+May 06
+2001	Cambodia
+China	0
+4	World Cup qualifier
+in Cambodia	-2
++2	895
+1656	-1
+0	204
+44
+May 13
+2001	China
+Indonesia	5
+1	World Cup qualifier
+in China	+8
+-8	1664
+1374	+2
+-3	42
+112
+May 20
+2001	China
+Cambodia	3
+1	World Cup qualifier
+in China	0
+0	1664
+895	0
+0	42
+204
+May 27
+2001	Indonesia
+China	0
+2	World Cup qualifier
+in Indonesia	-15
++15	1359
+1679	-6
++2	119
+39
+August 03
+2001	China
+North Korea	2
+2	Friendly tournament
+in China	-11
++11	1668
+1486	-1
++2	41
+79
+August 05
+2001	China
+Trinidad and Tobago	3
+0	Friendly tournament
+in China	+12
+-12	1680
+1551	+1
+-3	40
+64
+August 25
+2001	China
+United Arab Emirates	3
+0	World Cup qualifier
+in China	+10
+-10	1690
+1457	+3
+-2	35
+86
+August 31
+2001	Oman
+China	0
+2	World Cup qualifier
+in Oman	-15
++15	1382
+1705	-7
++3	108
+32
+September 07
+2001	Qatar
+China	1
+1	World Cup qualifier
+in Qatar	+1
+-1	1596
+1704	0
+-1	53
+33
+September 15
+2001	China
+Uzbekistan	2
+0	World Cup qualifier
+in China	+10
+-10	1714
+1520	+2
+-3	31
+69
+September 27
+2001	United Arab Emirates
+China	0
+1	World Cup qualifier
+in United Arab Emirates	-13
++13	1471
+1727	-1
++3	82
+28
+October 07
+2001	China
+Oman	1
+0	World Cup qualifier
+in China	+2
+-2	1729
+1333	-1
+-1	29
+124
+October 13
+2001	China
+Qatar	3
+0	World Cup qualifier
+in China	+13
+-13	1742
+1559	+3
+-1	26
+59
+October 19
+2001	Uzbekistan
+China	1
+0	World Cup qualifier
+in Uzbekistan	+29
+-29	1495
+1713	+8
+-8	77
+34
+February 15
+2002	Slovenia
+China	0
+0	Carlsberg Cup
+in Hong Kong	+1
+-1	1693
+1712	+2
+0	38
+33
+April 27
+2002	South Korea
+China	0
+0	Friendly
+in South Korea	-3
++3	1702
+1715	-1
+0	35
+32
+May 11
+2002	China
+Thailand	3
+1	Friendly
+in China	+4
+-4	1719
+1461	+1
+-2	31
+89
+May 16
+2002	China
+Uruguay	0
+2	Friendly
+in China	-17
++17	1702
+1781	-5
++2	37
+23
+May 25
+2002	Portugal
+China	2
+0	Friendly
+in Macao	+6
+-6	1946
+1696	0
+-3	5
+40
+June 04
+2002	Costa Rica
+China	2
+0	World Cup
+in South Korea	+40
+-40	1771
+1656	+7
+-3	23
+40
+June 08
+2002	Brazil
+China	4
+0	World Cup
+in South Korea	+26
+-26	1888
+1630	+1
+-8	8
+47
+June 13
+2002	Turkey
+China	3
+0	World Cup
+in South Korea	+41
+-41	1748
+1589	+8
+-9	27
+54
+December 07
+2002	China
+Syria	3
+1	Friendly tournament
+in Bahrain	+12
+-12	1601
+1393	+2
+-5	54
+111
+December 09
+2002	Jordan
+China	0
+0	Friendly tournament
+in Bahrain	+5
+-5	1488
+1596	+3
+-2	76
+56
+December 12
+2002	Bahrain
+China	2
+2	Friendly tournament
+in Bahrain	+3
+-3	1435
+1593	+2
+0	94
+56
+February 12
+2003	China
+Brazil	0
+0	Friendly
+in China	+8
+-8	1601
+2024	+4
+0	53
+1
+February 16
+2003	China
+Estonia	1
+0	Friendly
+in China	+3
+-3	1604
+1402	0
+-1	54
+105
+August 20
+2003	China
+Chile	0
+0	Friendly
+in China	-3
++3	1601
+1592	-1
+0	56
+58
+August 31
+2003	Haiti
+China	4
+3	Friendly
+in the United States	+14
+-14	1459
+1587	+6
+-3	84
+59
+September 07
+2003	Costa Rica
+China	2
+0	Friendly
+in the United States	+10
+-10	1719
+1577	+3
+-1	29
+59
+December 04
+2003	Japan
+China	2
+0	East Asian Championship
+in Japan	+10
+-10	1766
+1567	+2
+-2	23
+62
+December 07
+2003	South Korea
+China	1
+0	East Asian Championship
+in Japan	+16
+-16	1662
+1551	+2
+-4	40
+66
+December 10
+2003	China
+Hong Kong	3
+1	East Asian Championship
+in Japan	+7
+-7	1558
+1181	+2
+-2	64
+159
+January 27
+2004	China
+Macedonia	0
+0	Friendly
+in China	-6
++6	1552
+1447	-1
++2	66
+89
+January 29
+2004	China
+Macedonia	1
+0	Friendly
+in China	+5
+-5	1557
+1442	0
+-2	66
+91
+February 03
+2004	China
+Finland	2
+1	Friendly
+in China	+11
+-11	1568
+1669	+3
+-1	63
+39
+February 07
+2004	China
+Finland	2
+1	Friendly
+in China	+10
+-10	1578
+1659	+1
+-3	62
+42
+February 18
+2004	China
+Kuwait	1
+0	World Cup qualifier
+in China	+8
+-8	1586
+1437	+3
+-3	59
+91
+March 17
+2004	China
+Myanmar	2
+0	Friendly
+in China	+1
+-1	1587
+1162	0
+0	59
+162
+March 31
+2004	Hong Kong
+China	0
+1	World Cup qualifier
+in Hong Kong	-7
++7	1219
+1594	0
++1	154
+59
+April 14
+2004	Andorra
+China	0
+0	Friendly
+in Spain	+9
+-9	1045
+1585	+2
+-1	184
+60
+April 28
+2004	China
+Algeria	1
+0	Friendly
+in France	+8
+-8	1593
+1494	+2
+-3	58
+78
+June 01
+2004	China
+Hungary	2
+1	Friendly
+in China	+5
+-5	1598
+1512	0
+0	57
+73
+June 09
+2004	China
+Malaysia	4
+0	World Cup qualifier
+in China	+4
+-4	1602
+1207	0
+0	56
+155
+July 03
+2004	China
+Lebanon	6
+0	Friendly
+in China	+5
+-5	1607
+1355	+1
+-2	55
+118
+July 10
+2004	China
+United Arab Emirates	2
+2	Friendly
+in China	-6
++6	1601
+1453	-1
++2	56
+90
+July 17
+2004	China
+Bahrain	2
+2	Asian Cup
+in China	-9
++9	1592
+1575	-3
+0	58
+61
+July 21
+2004	China
+Indonesia	5
+0	Asian Cup
+in China	+13
+-13	1605
+1342	+3
+-4	55
+122
+July 25
+2004	China
+Qatar	1
+0	Asian Cup
+in China	+10
+-10	1615
+1461	+2
+-2	53
+86
+July 30
+2004	China
+Iraq	3
+0	Asian Cup
+in China	+24
+-24	1639
+1523	+4
+-9	47
+74
+August 03
+2004	China
+Iran	1
+1	Asian Cup
+in China	+1
+-1	1640
+1749	0
+0	47
+29
+August 07
+2004	China
+Japan	1
+3	Asian Cup
+in China	-30
++30	1610
+1845	-5
++6	52
+11
+September 08
+2004	Malaysia
+China	0
+1	World Cup qualifier
+in Malaysia	-7
++7	1225
+1617	-3
++4	150
+50
+October 13
+2004	Kuwait
+China	1
+0	World Cup qualifier
+in Kuwait	+22
+-22	1502
+1595	+9
+-7	76
+57
+November 17
+2004	China
+Hong Kong	7
+0	World Cup qualifier
+in China	+5
+-5	1600
+1209	+1
+0	57
+155
+March 26
+2005	Spain
+China	3
+0	Friendly
+in Spain	+3
+-3	1938
+1597	+1
++2	5
+56
+March 29
+2005	Ireland
+China	1
+0	Friendly
+in Ireland	+3
+-3	1838
+1594	0
+-1	14
+57
+June 19
+2005	China
+Costa Rica	2
+2	Friendly
+in China	0
+0	1594
+1679	0
+-1	56
+41
+June 22
+2005	China
+Costa Rica	2
+0	Friendly
+in China	+14
+-14	1608
+1665	+1
+0	55
+42
+July 31
+2005	South Korea
+China	1
+1	East Asian Championship
+in South Korea	-10
++10	1687
+1618	-3
++1	42
+54
+August 03
+2005	China
+Japan	2
+2	East Asian Championship
+in South Korea	+9
+-9	1627
+1769	+1
+0	53
+23
+August 07
+2005	China
+North Korea	2
+0	East Asian Championship
+in South Korea	+19
+-19	1646
+1479	+4
+-1	49
+83
+October 12
+2005	Germany
+China	1
+0	Friendly
+in Germany	+3
+-3	1863
+1643	0
+-1	11
+50
+November 13
+2005	China
+Serbia and Montenegro	0
+2	Friendly
+in China	-14
++14	1629
+1777	-5
++2	54
+23
+February 12
+2006	China
+Honduras	0
+1	Friendly
+in China	-11
++11	1618
+1705	-3
++2	55
+37
+February 22
+2006	China
+Palestine	2
+0	Asian Cup qualifier
+in China	+4
+-4	1622
+1242	0
+0	53
+142
+March 01
+2006	Iraq
+China	2
+1	Asian Cup qualifier
+in United Arab Emirates	+29
+-29	1493
+1593	+8
+-3	77
+56
+June 03
+2006	Switzerland
+China	4
+1	Friendly
+in Switzerland	+6
+-6	1768
+1587	0
+-1	28
+57
+June 07
+2006	France
+China	3
+1	Friendly
+in France	+2
+-2	1944
+1585	0
+0	3
+57
+August 16
+2006	China
+Singapore	1
+0	Asian Cup qualifier
+in China	+5
+-5	1590
+1334	+2
+-3	55
+121
+September 06
+2006	Singapore
+China	0
+0	Asian Cup qualifier
+in Singapore	+8
+-8	1342
+1582	+1
+-2	117
+59
+October 11
+2006	China
+Palestine	2
+0	Asian Cup qualifier
+in Jordan	+8
+-8	1590
+1242	0
+-1	56
+144
+November 15
+2006	China
+Iraq	1
+1	Asian Cup qualifier
+in China	-8
++8	1582
+1543	-1
++4	57
+67
+February 07
+2007	China
+Kazakhstan	2
+1	Friendly
+in China	+2
+-2	1584
+1298	0
+0	57
+130
+February 09
+2007	China
+Kazakhstan	1
+0	Friendly
+in China	+2
+-2	1586
+1296	0
+-1	57
+131
+March 24
+2007	China
+Australia	0
+2	Friendly
+in China	-13
++13	1573
+1754	-3
++3	60
+27
+March 27
+2007	China
+Uzbekistan	3
+1	Friendly
+in Macao	+13
+-13	1586
+1521	+3
+-2	58
+75
+May 16
+2007	Thailand
+China	1
+0	Friendly
+in Thailand	+14
+-14	1332
+1572	+3
+-5	121
+62
+June 02
+2007	United States
+China	4
+1	Friendly
+in the United States	+5
+-5	1788
+1567	+1
+-1	19
+63
+July 10
+2007	Malaysia
+China	1
+5	Asian Cup
+in Malaysia	-16
++16	1179
+1583	-5
++2	164
+59
+July 15
+2007	China
+Iran	2
+2	Asian Cup
+in Malaysia	+13
+-13	1596
+1771	+2
+-4	57
+23
+July 18
+2007	Uzbekistan
+China	3
+0	Asian Cup
+in Malaysia	+50
+-50	1593
+1546	+11
+-9	57
+66
+October 21
+2007	China
+Myanmar	7
+0	World Cup qualifier
+in China	+6
+-6	1552
+1195	+2
+-2	65
+160
+October 28
+2007	Myanmar
+China	0
+4	World Cup qualifier
+in Myanmar	-14
++14	1181
+1566	-4
++1	164
+64
+January 10
+2008	United Arab Emirates
+China	0
+0	Friendly
+in United Arab Emirates	+1
+-1	1433
+1565	0
+0	98
+62
+January 20
+2008	China
+Lebanon	0
+0	Friendly
+in China	-7
++7	1558
+1343	-1
++3	63
+120
+January 27
+2008	China
+Syria	2
+1	Friendly
+in China	+6
+-6	1564
+1500	+1
+-2	61
+80
+February 06
+2008	Iraq
+China	1
+1	World Cup qualifier
+in United Arab Emirates	-3
++3	1617
+1567	-2
++2	52
+60
+February 17
+2008	China
+South Korea	2
+3	East Asian Championship
+in China	-22
++22	1545
+1658	-8
++5	68
+42
+February 20
+2008	China
+Japan	0
+1	East Asian Championship
+in China	-14
++14	1531
+1772	-3
++6	71
+24
+February 23
+2008	China
+North Korea	3
+1	East Asian Championship
+in China	+21
+-21	1552
+1503	+6
+-3	65
+77
+March 15
+2008	China
+Thailand	3
+3	Friendly
+in China	-6
++6	1546
+1426	-3
+0	68
+98
+March 26
+2008	China
+Australia	0
+0	World Cup qualifier
+in China	+4
+-4	1550
+1713	-1
++2	69
+36
+April 16
+2008	Mexico
+China	1
+0	Friendly
+in the United States	+3
+-3	1874
+1547	+1
+0	10
+69
+April 23
+2008	China
+El Salvador	2
+2	Friendly
+in the United States	-5
++5	1542
+1378	-1
++1	70
+110
+May 25
+2008	China
+Jordan	2
+0	Friendly
+in China	+9
+-9	1551
+1487	+3
+-3	68
+86
+June 02
+2008	Qatar
+China	0
+0	World Cup qualifier
+in Qatar	-2
++2	1490
+1553	0
+0	85
+65
+June 07
+2008	China
+Qatar	0
+1	World Cup qualifier
+in China	-29
++29	1524
+1519	-10
++10	75
+76
+June 14
+2008	China
+Iraq	1
+2	World Cup qualifier
+in China	-23
++23	1501
+1603	-5
++7	79
+52
+June 22
+2008	Australia
+China	0
+1	World Cup qualifier
+in Australia	-35
++35	1688
+1536	-5
++7	40
+71
+December 17
+2008	Oman
+China	3
+1	Friendly tournament
+in Oman	+19
+-19	1517
+1517	+9
+-7	76
+76
+December 19
+2008	Iran
+China	2
+0	Friendly tournament
+in Oman	+9
+-9	1759
+1508	+3
+-4	23
+80
+December 21
+2008	Jordan
+China	0
+1	Friendly
+in Jordan	-13
++13	1503
+1521	-6
++5	83
+75
+January 09
+2009	Iran
+China	3
+1	Friendly
+in Iran	+4
+-4	1763
+1517	+1
+-3	22
+76
+January 14
+2009	Syria
+China	3
+2	Asian Cup qualifier
+in Syria	+14
+-14	1535
+1503	+3
+-5	70
+81
+January 21
+2009	China
+Vietnam	6
+1	Asian Cup qualifier
+in China	+15
+-15	1518
+1334	+7
+-3	75
+125
+May 29
+2009	China
+Germany	1
+1	Friendly
+in China	+7
+-7	1525
+1926	+1
+0	76
+6
+June 01
+2009	China
+Iran	1
+0	Friendly
+in China	+13
+-13	1538
+1704	+4
+-3	72
+38
+June 04
+2009	China
+Saudi Arabia	1
+4	Friendly
+in China	-16
++16	1522
+1680	-5
++2	77
+44
+July 18
+2009	China
+Palestine	3
+1	Friendly
+in China	+2
+-2	1524
+1182	0
+0	76
+160
+July 25
+2009	China
+Kyrgyzstan	3
+0	Friendly
+in China	+2
+-2	1526
+1156	0
+0	76
+162
+August 12
+2009	Singapore
+China	1
+1	Friendly
+in Singapore	+1
+-1	1382
+1525	+1
++1	112
+75
+August 15
+2009	Malaysia
+China	0
+0	Friendly
+in Malaysia	+7
+-7	1157
+1518	+5
+-4	162
+79
+September 09
+2009	China
+Senegal	0
+0	Friendly
+in China	-3
++3	1515
+1527	-3
++4	81
+72
+September 30
+2009	China
+Botswana	4
+1	Friendly
+in China	+5
+-5	1520
+1289	+4
+0	77
+133
+November 08
+2009	Kuwait
+China	2
+2	Friendly
+in Kuwait	-1
++1	1468
+1521	0
++1	90
+78
+November 14
+2009	Lebanon
+China	0
+2	Asian Cup qualifier
+in Lebanon	-16
++16	1229
+1537	-9
++6	151
+73
+November 22
+2009	China
+Lebanon	1
+0	Asian Cup qualifier
+in China	+3
+-3	1540
+1226	+1
+-2	73
+151
+December 30
+2009	China
+Jordan	2
+2	Friendly
+in China	-5
++5	1535
+1446	-4
+0	77
+96
+January 06
+2010	China
+Syria	0
+0	Asian Cup qualifier
+in China	-5
++5	1530
+1552	-1
++2	78
+67
+January 17
+2010	Vietnam
+China	1
+2	Asian Cup qualifier
+in Vietnam	-16
++16	1340
+1546	-4
++11	123
+68
+February 06
+2010	Japan
+China	0
+0	East Asian Championship
+in Japan	-15
++15	1758
+1561	-3
++9	21
+62
+February 10
+2010	China
+South Korea	3
+0	East Asian Championship
+in Japan	+51
+-51	1612
+1681	+11
+-10	51
+42
+February 14
+2010	China
+Hong Kong	2
+0	East Asian Championship
+in Japan	+6
+-6	1618
+1213	+1
+-1	50
+153
+March 03
+2010	Portugal
+China	2
+0	Friendly
+in Portugal	+4
+-4	1847
+1614	0
+-1	12
+51
+June 04
+2010	China
+France	1
+0	Friendly
+in Reunion	+16
+-16	1630
+1836	+3
+-1	48
+12
+June 26
+2010	China
+Tajikistan	4
+0	Friendly
+in China	+3
+-3	1633
+1284	0
+0	48
+138
+August 11
+2010	China
+Bahrain	1
+1	Friendly
+in China	-5
++5	1628
+1527	-1
++4	49
+77
+September 03
+2010	China
+Iran	0
+2	Friendly
+in China	-18
++18	1610
+1683	-3
++6	52
+37
+September 07
+2010	China
+Paraguay	1
+1	Friendly
+in China	+1
+-1	1611
+1759	+1
+0	52
+21
+October 08
+2010	China
+Syria	2
+1	Friendly
+in China	+5
+-5	1616
+1506	+1
+0	51
+82
+October 12
+2010	China
+Uruguay	0
+4	Friendly
+in China	-11
++11	1605
+1877	-3
+0	53
+8
+November 17
+2010	China
+Latvia	1
+0	Friendly
+in China	+5
+-5	1610
+1508	+1
++1	52
+82
+December 18
+2010	China
+Estonia	3
+0	Friendly
+in China	+7
+-7	1617
+1455	0
+-2	52
+98
+December 22
+2010	China
+Macedonia	1
+0	Friendly
+in China	+5
+-5	1622
+1539	0
+0	52
+72
+January 02
+2011	China
+Iraq	3
+2	Friendly
+in Qatar	+9
+-9	1631
+1569	+3
+-3	50
+64
+January 08
+2011	China
+Kuwait	2
+0	Asian Cup
+in Qatar	+37
+-37	1668
+1589	+10
+-5	40
+58
+January 12
+2011	Qatar
+China	2
+0	Asian Cup
+in Qatar	+49
+-49	1503
+1619	+11
+-11	85
+51
+January 16
+2011	China
+Uzbekistan	2
+2	Asian Cup
+in Qatar	-3
++3	1616
+1575	0
++2	51
+61
+March 25
+2011	China
+New Zealand	1
+1	Friendly
+in China	-4
++4	1612
+1578	-1
++1	52
+60
+March 26
+2011	Costa Rica
+China	2
+2	Friendly
+in Costa Rica	-4
++4	1647
+1616	-2
++1	44
+51
+March 29
+2011	China
+Honduras	3
+0	Friendly
+in China	+16
+-16	1632
+1675	+2
+0	49
+37
+June 05
+2011	China
+Uzbekistan	1
+0	Friendly
+in China	+5
+-5	1637
+1543	+1
+-1	48
+68
+June 08
+2011	China
+North Korea	2
+0	Friendly
+in China	+6
+-6	1643
+1481	0
+-3	49
+91
+July 23
+2011	China
+Laos	7
+2	World Cup qualifier
+in China	0
+0	1643
+860	0
+0	48
+206
+July 28
+2011	Laos
+China	1
+6	World Cup qualifier
+in Laos	-2
++2	858
+1645	0
++1	206
+47
+August 10
+2011	China
+Jamaica	1
+0	Friendly
+in China	+8
+-8	1653
+1654	0
+-3	47
+46
+September 02
+2011	China
+Singapore	2
+1	World Cup qualifier
+in China	+3
+-3	1656
+1330	+5
+0	42
+124
+September 06
+2011	Jordan
+China	2
+1	World Cup qualifier
+in Jordan	+21
+-21	1556
+1635	+4
+-4	67
+46
+October 06
+2011	China
+United Arab Emirates	2
+1	Friendly
+in China	+3
+-3	1638
+1401	0
+-1	46
+108
+October 11
+2011	China
+Iraq	0
+1	World Cup qualifier
+in China	-31
++31	1607
+1560	-6
++5	54
+68
+November 11
+2011	Iraq
+China	1
+0	World Cup qualifier
+in Qatar	+23
+-23	1586
+1584	+9
+-5	58
+59
+November 15
+2011	Singapore
+China	0
+4	World Cup qualifier
+in Singapore	-18
++18	1264
+1602	-2
++3	142
+56
+February 22
+2012	China
+Kuwait	2
+0	Friendly
+in China	+8
+-8	1610
+1523	0
+0	54
+77
+February 29
+2012	China
+Jordan	3
+1	World Cup qualifier
+in China	+18
+-18	1628
+1543	+2
+-7	52
+74
+June 03
+2012	Spain
+China	1
+0	Friendly
+in Spain	+1
+-1	2104
+1627	0
+-1	1
+51
+June 08
+2012	China
+Vietnam	3
+0	Friendly
+in China	+3
+-3	1630
+1283	+2
+0	49
+139
+August 15
+2012	China
+Ghana	1
+1	Friendly
+in China	-2
++2	1628
+1672	-3
+-3	50
+42
+September 06
+2012	Sweden
+China	1
+0	Friendly
+in Sweden	+3
+-3	1849
+1625	0
+-1	12
+51
+September 10
+2012	Brazil
+China	8
+0	Friendly
+in Brazil	+2
+-2	2036
+1623	0
+-2	2
+48
+November 14
+2012	China
+New Zealand	1
+1	Friendly
+in China	-4
++4	1619
+1592	-1
++3	52
+58
+January 30
+2013	Oman
+China	1
+0	Friendly
+in Oman	+12
+-12	1478
+1607	+2
+-1	89
+52
+February 06
+2013	Saudi Arabia
+China	2
+1	Asian Cup qualifier
+in Saudi Arabia	+23
+-23	1484
+1584	+5
+-6	87
+58
+March 22
+2013	China
+Iraq	1
+0	Asian Cup qualifier
+in China	+15
+-15	1599
+1581	+4
+-5	55
+60
+June 06
+2013	China
+Uzbekistan	1
+2	Friendly
+in China	-13
++13	1586
+1618	-3
++2	59
+52
+June 11
+2013	China
+Netherlands	0
+2	Friendly
+in China	-5
++5	1581
+1983	-2
++1	60
+4
+June 15
+2013	China
+Thailand	1
+5	Friendly
+in China	-33
++33	1548
+1347	-9
++6	69
+124
+July 21
+2013	China
+Japan	3
+3	East Asian Championship
+in South Korea	+9
+-9	1557
+1708	+2
+0	67
+30
+July 24
+2013	South Korea
+China	0
+0	East Asian Championship
+in South Korea	-12
++12	1692
+1569	-3
++3	35
+64
+July 28
+2013	China
+Australia	4
+3	East Asian Championship
+in South Korea	+29
+-29	1598
+1708	+7
+-3	57
+31
+September 06
+2013	China
+Singapore	6
+1	Friendly
+in China	+3
+-3	1601
+1260	+2
+0	54
+141
+September 10
+2013	China
+Malaysia	2
+0	Friendly
+in China	+1
+-1	1602
+1178	-2
+-2	56
+164
+October 15
+2013	Indonesia
+China	1
+1	Asian Cup qualifier
+in Indonesia	+13
+-13	1235
+1589	+1
+-1	150
+57
+November 15
+2013	China
+Indonesia	1
+0	Asian Cup qualifier
+in China	+3
+-3	1592
+1241	0
+0	56
+147
+November 19
+2013	China
+Saudi Arabia	0
+0	Asian Cup qualifier
+in China	-10
++10	1582
+1518	-2
++3	59
+76
+March 05
+2014	Iraq
+China	3
+1	Asian Cup qualifier
+in United Arab Emirates	+35
+-35	1559
+1547	+10
+-14	65
+72

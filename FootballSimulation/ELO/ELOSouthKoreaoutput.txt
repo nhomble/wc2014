@@ -1,0 +1,958 @@
+1948 219 home SouthKorea Mexico 5 3 Olympic Games
+1948 222 away SouthKorea Sweden 12 0 Olympic Games
+1949 1 away SouthKorea HongKong 2 5 Friendly
+1949 2 away SouthKorea China 3 2 Friendly
+1949 9 away SouthKorea HongKong 2 4 Friendly
+1949 15 away SouthKorea SouthVietnam 2 4 Friendly
+1949 16 away SouthKorea SouthVietnam 3 3 Friendly
+1949 25 away SouthKorea Macao 1 5 Friendly
+1950 108 away SouthKorea HongKong 3 6 Friendly
+1950 109 home SouthKorea China 3 1 Friendly
+1953 98 away SouthKorea HongKong 3 0 Friendly
+1953 99 home SouthKorea China 4 0 Friendly
+1953 100 away SouthKorea HongKong 5 3 Friendly
+1953 101 home SouthKorea China 2 4 Friendly
+1953 104 away SouthKorea Singapore 2 3 Friendly
+1953 106 home SouthKorea Malaya 3 2 Friendly
+1953 107 away SouthKorea Singapore 3 1 Friendly
+1953 108 away SouthKorea Singapore 1 3 Friendly
+1953 109 home SouthKorea Malaya 0 0 Friendly
+1953 110 away SouthKorea Singapore 0 0 Friendly
+1953 111 home SouthKorea Indonesia 3 1 Friendly
+1954 69 away SouthKorea Japan 1 5 World Cup qualifier
+1954 76 away SouthKorea Japan 2 2 World Cup qualifier
+1954 125 away SouthKorea HongKong 3 3 Asian Games
+1954 126 home SouthKorea Afghanistan 8 2 Asian Games
+1954 130 away SouthKorea Burma 2 2 Asian Games
+1954 132 away SouthKorea Taiwan 5 2 Asian Games
+1954 172 away SouthKorea Hungary 9 0 World Cup
+1954 175 away SouthKorea Turkey 7 0 World Cup
+1956 56 away SouthKorea Philippines 0 2 Asian Cup qualifier
+1956 114 home SouthKorea Philippines 3 0 Asian Cup qualifier
+1956 158 away SouthKorea Japan 2 0 Olympic Games qualifier
+1956 165 away SouthKorea Japan 0 2 Olympic Games qualifier
+1956 243 home SouthKorea Taiwan 2 0 Asian Cup qualifier
+1956 250 away SouthKorea Taiwan 1 2 Asian Cup qualifier
+1956 254 away SouthKorea HongKong 2 2 Asian Cup
+1956 256 home SouthKorea Israel 2 1 Asian Cup
+1956 263 home SouthKorea SouthVietnam 5 3 Asian Cup
+1958 49 away SouthKorea HongKong 3 2 Friendly
+1958 56 away SouthKorea HongKong 1 1 Friendly
+1958 150 home SouthKorea Singapore 2 1 Asian Games
+1958 152 home SouthKorea Iran 5 0 Asian Games
+1958 154 home SouthKorea SouthVietnam 3 1 Asian Games
+1958 155 home SouthKorea India 3 1 Asian Games
+1958 156 away SouthKorea Taiwan 3 2 Asian Games
+1959 247 away SouthKorea Malaya 4 1 Merdeka Tournament
+1959 249 away SouthKorea SouthVietnam 3 2 Merdeka Tournament
+1959 253 home SouthKorea Singapore 4 1 Merdeka Tournament
+1959 255 away SouthKorea Japan 0 0 Merdeka Tournament
+1959 256 home SouthKorea Japan 3 1 Merdeka Tournament
+1959 261 away SouthKorea Singapore 0 4 Friendly
+1959 354 away SouthKorea Japan 0 2 Olympic Games qualifier
+1959 361 away SouthKorea Japan 1 0 Olympic Games qualifier
+1960 1 away SouthKorea Taiwan 1 2 Olympic Games qualifier
+1960 222 home SouthKorea SouthVietnam 0 0 Merdeka Tournament
+1960 226 home SouthKorea Indonesia 2 0 Merdeka Tournament
+1960 227 away SouthKorea Singapore 3 3 Merdeka Tournament
+1960 229 home SouthKorea HongKong 3 1 Merdeka Tournament
+1960 231 away SouthKorea Malaya 0 0 Merdeka Tournament
+1960 293 home SouthKorea SouthVietnam 5 1 Asian Cup
+1960 296 home SouthKorea Israel 3 0 Asian Cup
+1960 300 home SouthKorea Taiwan 1 0 Asian Cup
+1960 316 home SouthKorea Japan 2 1 World Cup qualifier
+1961 166 away SouthKorea Japan 0 2 World Cup qualifier
+1961 219 away SouthKorea HongKong 1 1 Merdeka Tournament
+1961 223 away SouthKorea Singapore 1 0 Merdeka Tournament
+1961 225 home SouthKorea Thailand 3 1 Merdeka Tournament
+1961 227 away SouthKorea Indonesia 1 1 Merdeka Tournament
+1961 287 away SouthKorea Yugoslavia 5 1 World Cup qualifier
+1961 297 away SouthKorea Turkey 1 0 Friendly
+1961 301 away SouthKorea Israel 1 1 Friendly
+1961 307 away SouthKorea Burma 0 3 Friendly
+1961 314 away SouthKorea Thailand 1 4 Friendly
+1961 336 home SouthKorea Yugoslavia 1 3 World Cup qualifier
+1962 241 home SouthKorea India 2 0 Asian Games
+1962 244 home SouthKorea Thailand 3 2 Asian Games
+1962 247 home SouthKorea Japan 1 0 Asian Games
+1962 249 home SouthKorea Malaya 2 1 Asian Games
+1962 252 away SouthKorea India 2 1 Asian Games
+1962 256 home SouthKorea SouthVietnam 3 0 Merdeka Tournament
+1962 260 home SouthKorea Singapore 2 0 Merdeka Tournament
+1962 262 home SouthKorea Philippines 3 2 Merdeka Tournament
+1962 264 away SouthKorea Indonesia 3 0 Merdeka Tournament
+1962 267 away SouthKorea Malaya 3 1 Merdeka Tournament
+1962 291 home SouthKorea Indonesia 2 0 Friendly
+1962 293 home SouthKorea Indonesia 2 0 Friendly
+1963 226 away SouthKorea Taiwan 1 0 Merdeka Tournament
+1963 228 home SouthKorea Thailand 5 1 Merdeka Tournament
+1963 230 away SouthKorea Japan 1 1 Merdeka Tournament
+1963 231 away SouthKorea Malaysia 3 2 Merdeka Tournament
+1963 233 home SouthKorea SouthVietnam 3 1 Merdeka Tournament
+1963 337 home SouthKorea Taiwan 2 1 Olympic Games qualifier
+1963 348 away SouthKorea Taiwan 1 0 Olympic Games qualifier
+1964 151 away SouthKorea India 2 0 Asian Cup
+1964 155 home SouthKorea SouthVietnam 3 0 Olympic Games qualifier
+1964 158 away SouthKorea Israel 2 1 Asian Cup
+1964 164 home SouthKorea HongKong 1 0 Asian Cup
+1964 183 away SouthKorea SouthVietnam 2 2 Olympic Games qualifier
+1964 239 home SouthKorea Burma 1 0 Merdeka Tournament
+1964 240 away SouthKorea India 0 0 Merdeka Tournament
+1964 243 away SouthKorea Khmer 2 2 Merdeka Tournament
+1964 246 home SouthKorea Thailand 2 0 Merdeka Tournament
+1964 249 away SouthKorea India 2 1 Merdeka Tournament
+1964 251 home SouthKorea Japan 3 0 Merdeka Tournament
+1964 253 home SouthKorea SouthVietnam 2 1 Merdeka Tournament
+1964 295 away SouthKorea Egypt 10 0 Olympic Games
+1965 231 away SouthKorea Thailand 3 2 Merdeka Tournament
+1965 234 home SouthKorea SouthVietnam 0 0 Merdeka Tournament
+1965 236 home SouthKorea HongKong 1 0 Merdeka Tournament
+1965 239 away SouthKorea Malaysia 0 2 Merdeka Tournament
+1965 241 home SouthKorea India 1 0 Merdeka Tournament
+1965 245 home SouthKorea Taiwan 1 1 Merdeka Tournament
+1966 231 home SouthKorea Japan 2 0 Merdeka Tournament
+1966 234 home SouthKorea HongKong 1 0 Merdeka Tournament
+1966 237 home SouthKorea Thailand 2 1 Merdeka Tournament
+1966 240 away SouthKorea Burma 2 0 Merdeka Tournament
+1966 242 away SouthKorea Malaysia 1 2 Merdeka Tournament
+1966 244 home SouthKorea India 1 0 Merdeka Tournament
+1966 350 away SouthKorea Thailand 3 0 Asian Games
+1966 352 away SouthKorea Burma 1 0 Asian Games
+1967 215 away SouthKorea Indonesia 1 1 Asian Cup qualifier
+1967 218 away SouthKorea Japan 2 1 Asian Cup qualifier
+1967 222 home SouthKorea Philippines 7 0 Asian Cup qualifier
+1967 224 away SouthKorea Taiwan 1 0 Asian Cup qualifier
+1967 227 home SouthKorea Indonesia 3 1 Merdeka Tournament
+1967 229 home SouthKorea Taiwan 2 1 Merdeka Tournament
+1967 232 home SouthKorea Singapore 3 0 Merdeka Tournament
+1967 234 home SouthKorea Burma 1 0 Merdeka Tournament
+1967 240 away SouthKorea Malaysia 1 3 Merdeka Tournament
+1967 243 away SouthKorea Burma 0 0 Merdeka Tournament
+1967 275 home SouthKorea Taiwan 4 2 Olympic Games qualifier
+1967 278 home SouthKorea Lebanon 2 0 Olympic Games qualifier
+1967 282 home SouthKorea SouthVietnam 3 0 Olympic Games qualifier
+1967 286 away SouthKorea Japan 3 3 Olympic Games qualifier
+1967 289 home SouthKorea Philippines 5 0 Olympic Games qualifier
+1967 315 home SouthKorea HongKong 1 0 Friendly tournament
+1967 317 home SouthKorea Thailand 3 1 Friendly tournament
+1967 321 home SouthKorea Malaysia 2 1 Friendly tournament
+1967 322 away SouthKorea SouthVietnam 0 3 Friendly tournament
+1967 324 away SouthKorea Australia 3 2 Friendly tournament
+1968 227 home SouthKorea Singapore 3 2 Merdeka Tournament
+1968 230 home SouthKorea Taiwan 2 1 Merdeka Tournament
+1968 233 away SouthKorea Indonesia 4 2 Merdeka Tournament
+1968 235 home SouthKorea Japan 2 0 Merdeka Tournament
+1968 238 home SouthKorea Thailand 2 1 Merdeka Tournament
+1968 240 home SouthKorea India 1 0 Merdeka Tournament
+1968 244 away SouthKorea Singapore 4 3 Friendly
+1969 291 home SouthKorea Japan 2 2 World Cup qualifier
+1969 293 home SouthKorea Australia 1 2 World Cup qualifier
+1969 297 home SouthKorea Japan 2 0 World Cup qualifier
+1969 299 home SouthKorea Australia 1 1 World Cup qualifier
+1969 309 away SouthKorea Indonesia 3 0 Merdeka Tournament
+1969 312 away SouthKorea Malaysia 4 1 Merdeka Tournament
+1969 314 home SouthKorea Thailand 3 0 Merdeka Tournament
+1969 329 home SouthKorea Laos 2 0 King's Cup
+1969 331 home SouthKorea Malaysia 2 0 King's Cup
+1969 333 away SouthKorea Thailand 0 0 King's Cup
+1969 336 home SouthKorea SouthVietnam 3 0 King's Cup
+1969 338 home SouthKorea Indonesia 1 0 King's Cup
+1969 346 away SouthKorea Algeria 1 3 Friendly
+1970 216 home SouthKorea Indonesia 2 1 Merdeka Tournament
+1970 218 away SouthKorea Japan 1 1 Merdeka Tournament
+1970 221 home SouthKorea Thailand 0 0 Merdeka Tournament
+1970 223 away SouthKorea HongKong 0 0 Merdeka Tournament
+1970 225 home SouthKorea Singapore 4 0 Merdeka Tournament
+1970 229 home SouthKorea India 3 2 Merdeka Tournament
+1970 233 home SouthKorea Burma 1 0 Merdeka Tournament
+1970 320 home SouthKorea HongKong 3 0 King's Cup
+1970 322 home SouthKorea Laos 4 0 King's Cup
+1970 324 away SouthKorea Thailand 0 0 King's Cup
+1970 326 home SouthKorea Singapore 4 0 King's Cup
+1970 328 home SouthKorea Malaysia 2 0 King's Cup
+1970 330 away SouthKorea Thailand 0 1 King's Cup
+1970 352 home SouthKorea Iran 1 0 Asian Games
+1970 354 away SouthKorea Indonesia 0 0 Asian Games
+1970 356 away SouthKorea Thailand 1 2 Asian Games
+1970 358 away SouthKorea Burma 1 0 Asian Games
+1970 359 home SouthKorea Japan 2 1 Asian Games
+1970 361 away SouthKorea Burma 0 0 Asian Games
+1971 41 away SouthKorea Peru 4 0 Friendly
+1971 126 home SouthKorea Thailand 1 0 Presidents Cup
+1971 130 home SouthKorea Malaysia 5 1 Presidents Cup
+1971 133 home SouthKorea KhmerRepublic 2 0 Presidents Cup
+1971 135 home SouthKorea Indonesia 3 0 Presidents Cup
+1971 137 home SouthKorea Burma 0 0 Presidents Cup
+1971 139 home SouthKorea Burma 0 0 Presidents Cup
+1971 222 away SouthKorea Malaysia 0 1 Merdeka Tournament
+1971 225 home SouthKorea SouthVietnam 1 0 Merdeka Tournament
+1971 229 home SouthKorea Japan 3 0 Merdeka Tournament
+1971 232 away SouthKorea Taiwan 1 0 Merdeka Tournament
+1971 235 home SouthKorea Thailand 4 0 Merdeka Tournament
+1971 237 away SouthKorea Burma 1 0 Merdeka Tournament
+1971 239 home SouthKorea Taiwan 2 0 Merdeka Tournament
+1971 244 home SouthKorea Philippines 2 1 Friendly
+1971 245 home SouthKorea Singapore 4 1 Friendly
+1971 258 home SouthKorea Iran 2 0 Friendly
+1971 260 home SouthKorea Iran 0 2 Friendly
+1971 273 home SouthKorea Malaysia 0 1 Olympic Games qualifier
+1971 275 home SouthKorea Philippines 6 0 Olympic Games qualifier
+1971 281 home SouthKorea Japan 2 1 Olympic Games qualifier
+1971 283 home SouthKorea Taiwan 8 0 Olympic Games qualifier
+1971 318 away SouthKorea Malaysia 2 2 King's Cup
+1971 322 away SouthKorea Indonesia 0 0 King's Cup
+1971 324 home SouthKorea SouthVietnam 1 1 King's Cup
+1971 326 away SouthKorea Thailand 0 1 King's Cup
+1972 131 away SouthKorea Iraq 0 0 Asian Cup
+1972 134 home SouthKorea KhmerRepublic 4 1 Asian Cup
+1972 136 away SouthKorea Kuwait 2 1 Asian Cup
+1972 141 away SouthKorea Thailand 1 1 Asian Cup
+1972 143 away SouthKorea Iran 2 1 Asian Cup
+1972 210 home SouthKorea Thailand 2 0 Merdeka Tournament
+1972 213 home SouthKorea Indonesia 2 0 Merdeka Tournament
+1972 217 home SouthKorea Singapore 4 1 Merdeka Tournament
+1972 220 away SouthKorea HongKong 0 0 Merdeka Tournament
+1972 225 home SouthKorea Japan 3 0 Merdeka Tournament
+1972 228 away SouthKorea Malaysia 1 2 Merdeka Tournament
+1972 262 away SouthKorea Japan 2 2 Friendly
+1972 268 home SouthKorea Thailand 3 0 Presidents Cup
+1972 270 home SouthKorea KhmerRepublic 3 1 Presidents Cup
+1972 272 home SouthKorea Malaysia 2 0 Presidents Cup
+1972 275 home SouthKorea Burma 0 1 Presidents Cup
+1972 278 home SouthKorea Malaysia 1 0 Presidents Cup
+1972 301 home SouthKorea Australia 1 1 Friendly
+1972 303 home SouthKorea Australia 0 2 Friendly
+1972 328 home SouthKorea Malaysia 4 1 King's Cup
+1972 332 away SouthKorea Indonesia 1 1 King's Cup
+1972 334 home SouthKorea Singapore 2 0 King's Cup
+1972 336 away SouthKorea Thailand 1 0 King's Cup
+1972 338 away SouthKorea Singapore 0 0 King's Cup
+1973 143 home SouthKorea Thailand 4 0 World Cup qualifier
+1973 145 home SouthKorea Malaysia 0 0 World Cup qualifier
+1973 147 home SouthKorea Israel 0 0 World Cup qualifier
+1973 150 home SouthKorea HongKong 3 1 World Cup qualifier
+1973 152 home SouthKorea Israel 1 0 World Cup qualifier
+1973 178 home SouthKorea Japan 2 0 Friendly
+1973 212 away SouthKorea Burma 0 0 Merdeka Tournament
+1973 215 away SouthKorea India 0 0 Merdeka Tournament
+1973 217 home SouthKorea Thailand 0 0 Merdeka Tournament
+1973 220 home SouthKorea KhmerRepublic 1 0 Merdeka Tournament
+1973 222 away SouthKorea Malaysia 1 2 Merdeka Tournament
+1973 226 away SouthKorea Kuwait 1 0 Merdeka Tournament
+1973 228 away SouthKorea Burma 2 1 Merdeka Tournament
+1973 270 home SouthKorea KhmerRepublic 6 0 Presidents Cup
+1973 272 home SouthKorea Indonesia 3 1 Presidents Cup
+1973 276 home SouthKorea Burma 0 1 Presidents Cup
+1973 278 home SouthKorea Malaysia 2 0 Presidents Cup
+1973 307 away SouthKorea Australia 0 0 World Cup qualifier
+1973 320 home SouthKorea Australia 2 2 World Cup qualifier
+1973 323 away SouthKorea Australia 1 0 World Cup qualifier
+1973 357 home SouthKorea KhmerRepublic 5 0 King's Cup
+1973 359 away SouthKorea Malaysia 0 0 King's Cup
+1973 363 home SouthKorea Burma 2 0 King's Cup
+1973 366 home SouthKorea Malaysia 2 1 King's Cup
+1974 135 home SouthKorea Japan 3 0 Presidents Cup
+1974 137 home SouthKorea KhmerRepublic 0 1 Presidents Cup
+1974 139 home SouthKorea Malaysia 4 0 Presidents Cup
+1974 142 home SouthKorea Burma 3 0 Presidents Cup
+1974 144 home SouthKorea Indonesia 7 1 Presidents Cup
+1974 209 away SouthKorea Malaysia 1 0 Merdeka Tournament
+1974 212 away SouthKorea Indonesia 0 0 Merdeka Tournament
+1974 214 home SouthKorea Singapore 1 0 Merdeka Tournament
+1974 216 home SouthKorea Thailand 1 1 Merdeka Tournament
+1974 218 away SouthKorea HongKong 3 3 Merdeka Tournament
+1974 221 away SouthKorea Malaysia 1 0 Merdeka Tournament
+1974 252 home SouthKorea Thailand 1 0 Asian Games
+1974 254 away SouthKorea Kuwait 4 0 Asian Games
+1974 258 away SouthKorea Iraq 1 1 Asian Games
+1974 260 away SouthKorea Iran 2 0 Asian Games
+1974 262 away SouthKorea Malaysia 3 2 Asian Games
+1974 276 away SouthKorea Japan 4 1 Friendly
+1974 352 home SouthKorea Indonesia 4 0 King's Cup
+1974 354 home SouthKorea KhmerRepublic 2 1 King's Cup
+1974 356 home SouthKorea SouthVietnam 2 2 King's Cup
+1974 359 away SouthKorea Malaysia 0 0 King's Cup
+1974 361 away SouthKorea Thailand 1 3 King's Cup
+1974 366 home SouthKorea Indonesia 3 1 Friendly
+1975 78 away SouthKorea Malaysia 2 1 Asian Cup qualifier
+1975 81 home SouthKorea SouthVietnam 1 0 Asian Cup qualifier
+1975 84 home SouthKorea Indonesia 1 0 Asian Cup qualifier
+1975 86 away SouthKorea Thailand 1 0 Asian Cup qualifier
+1975 134 home SouthKorea Japan 1 0 Presidents Cup
+1975 140 home SouthKorea Lebanon 1 0 Presidents Cup
+1975 142 home SouthKorea Indonesia 3 0 Presidents Cup
+1975 143 home SouthKorea Iran 1 0 Presidents Cup
+1975 146 home SouthKorea Burma 1 0 Presidents Cup
+1975 215 home SouthKorea HongKong 1 0 Merdeka Tournament
+1975 217 home SouthKorea Indonesia 5 1 Merdeka Tournament
+1975 220 home SouthKorea Japan 3 1 Merdeka Tournament
+1975 222 home SouthKorea Burma 3 2 Merdeka Tournament
+1975 225 home SouthKorea Thailand 6 0 Merdeka Tournament
+1975 227 home SouthKorea Bangladesh 4 0 Merdeka Tournament
+1975 230 away SouthKorea Malaysia 1 3 Merdeka Tournament
+1975 234 away SouthKorea Malaysia 0 1 Merdeka Tournament
+1975 276 home SouthKorea Japan 3 0 Friendly
+1975 355 away SouthKorea Taiwan 0 2 Olympic Games qualifier
+1975 362 home SouthKorea Burma 3 1 King's Cup
+1975 364 away SouthKorea Thailand 2 1 King's Cup
+1975 368 home SouthKorea Indonesia 2 0 King's Cup
+1975 371 home SouthKorea Singapore 5 0 King's Cup
+1976 2 home SouthKorea Malaysia 4 0 King's Cup
+1976 4 home SouthKorea Burma 1 0 King's Cup
+1976 68 home SouthKorea Taiwan 3 0 Olympic Games qualifier
+1976 83 away SouthKorea Japan 0 2 Olympic Games qualifier
+1976 89 home SouthKorea Japan 2 2 Olympic Games qualifier
+1976 97 home SouthKorea Israel 1 3 Olympic Games qualifier
+1976 121 away SouthKorea Israel 0 0 Olympic Games qualifier
+1976 225 away SouthKorea Malaysia 2 1 Merdeka Tournament
+1976 227 home SouthKorea Indonesia 2 0 Merdeka Tournament
+1976 229 away SouthKorea Japan 0 0 Merdeka Tournament
+1976 230 home SouthKorea Thailand 2 1 Merdeka Tournament
+1976 232 away SouthKorea Burma 2 2 Merdeka Tournament
+1976 233 home SouthKorea India 8 0 Merdeka Tournament
+1976 259 home SouthKorea Malaysia 4 4 Presidents Cup
+1976 261 home SouthKorea India 4 0 Presidents Cup
+1976 265 home SouthKorea Singapore 7 0 Presidents Cup
+1976 271 home SouthKorea NewZealand 2 0 Presidents Cup
+1976 314 away SouthKorea Japan 1 2 Friendly
+1976 356 away SouthKorea Thailand 2 1 King's Cup
+1976 358 home SouthKorea Singapore 4 0 King's Cup
+1976 363 away SouthKorea Malaysia 1 1 King's Cup
+1977 45 away SouthKorea Singapore 0 4 Friendly
+1977 49 away SouthKorea Bahrain 1 4 Friendly
+1977 51 away SouthKorea Bahrain 1 1 Friendly
+1977 58 away SouthKorea Israel 0 0 World Cup qualifier
+1977 82 home SouthKorea Israel 3 1 World Cup qualifier
+1977 88 away SouthKorea Japan 0 0 World Cup qualifier
+1977 96 home SouthKorea Japan 1 0 World Cup qualifier
+1977 170 home SouthKorea Japan 2 1 Friendly
+1977 181 away SouthKorea HongKong 0 1 World Cup qualifier
+1977 189 home SouthKorea Iran 0 0 World Cup qualifier
+1977 202 home SouthKorea Libya 4 0 Merdeka Tournament
+1977 203 away SouthKorea Malaysia 1 1 Merdeka Tournament
+1977 205 home SouthKorea Thailand 4 1 Merdeka Tournament
+1977 208 home SouthKorea Indonesia 5 1 Merdeka Tournament
+1977 211 away SouthKorea Iraq 1 1 Merdeka Tournament
+1977 212 home SouthKorea Burma 4 0 Merdeka Tournament
+1977 217 home SouthKorea Iraq 1 0 Merdeka Tournament
+1977 245 away SouthKorea Australia 2 1 World Cup qualifier
+1977 251 home SouthKorea Thailand 3 1 Presidents Cup
+1977 253 home SouthKorea India 3 0 Presidents Cup
+1977 255 home SouthKorea Lebanon 4 1 Presidents Cup
+1977 261 home SouthKorea Malaysia 3 0 Presidents Cup
+1977 288 home SouthKorea Kuwait 1 0 World Cup qualifier
+1977 302 home SouthKorea Australia 0 0 World Cup qualifier
+1977 308 away SouthKorea India 1 0 King's Cup
+1977 311 home SouthKorea Indonesia 3 0 King's Cup
+1977 314 home SouthKorea Malaysia 1 0 King's Cup
+1977 315 away SouthKorea Kuwait 2 2 World Cup qualifier
+1977 317 home SouthKorea Singapore 3 0 King's Cup
+1977 319 away SouthKorea Thailand 0 1 King's Cup
+1977 321 away SouthKorea Iran 2 2 World Cup qualifier
+1977 322 away SouthKorea Malaysia 0 0 King's Cup
+1977 345 home SouthKorea HongKong 5 2 World Cup qualifier
+1978 1 away SouthKorea Malaysia 3 0 King's Cup
+1978 128 away SouthKorea Kenya 2 2 Friendly
+1978 131 home SouthKorea Pakistan 5 0 Friendly
+1978 134 away SouthKorea SaudiArabia 0 2 Friendly
+1978 149 away SouthKorea Japan 0 3 Friendly
+1978 198 home SouthKorea Japan 4 0 Merdeka Tournament
+1978 200 home SouthKorea Singapore 2 0 Merdeka Tournament
+1978 203 home SouthKorea Thailand 3 0 Merdeka Tournament
+1978 205 home SouthKorea Iraq 2 0 Merdeka Tournament
+1978 207 away SouthKorea Malaysia 1 3 Merdeka Tournament
+1978 210 home SouthKorea Indonesia 2 0 Merdeka Tournament
+1978 212 home SouthKorea Syria 2 0 Merdeka Tournament
+1978 215 home SouthKorea Iraq 2 0 Merdeka Tournament
+1978 259 home SouthKorea Malaysia 2 2 Presidents Cup
+1978 261 home SouthKorea Bahrain 3 1 Presidents Cup
+1978 351 home SouthKorea Bahrain 5 1 Asian Games
+1978 353 home SouthKorea Kuwait 2 0 Asian Games
+1978 355 home SouthKorea Japan 3 1 Asian Games
+1978 357 home SouthKorea China 1 0 Asian Games
+1978 359 home SouthKorea Malaysia 1 0 Asian Games
+1978 361 away SouthKorea Thailand 1 3 Asian Games
+1978 363 away SouthKorea NorthKorea 0 0 Asian Games
+1978 366 home SouthKorea Macao 4 1 Asian Cup qualifier
+1978 368 away SouthKorea Philippines 0 5 Asian Cup qualifier
+1978 370 home SouthKorea China 1 0 Asian Cup qualifier
+1979 66 away SouthKorea Japan 2 1 Friendly
+1979 120 away SouthKorea Burma 1 0 Friendly tournament
+1979 171 home SouthKorea Japan 4 1 Friendly
+1979 182 home SouthKorea Indonesia 6 0 Merdeka Tournament
+1979 184 away SouthKorea Singapore 1 1 Merdeka Tournament
+1979 188 home SouthKorea Burma 3 2 Merdeka Tournament
+1979 190 home SouthKorea Japan 1 0 Merdeka Tournament
+1979 192 away SouthKorea Malaysia 1 4 Merdeka Tournament
+1979 198 home SouthKorea Thailand 2 1 Merdeka Tournament
+1979 201 away SouthKorea Malaysia 0 0 Merdeka Tournament
+1979 256 home SouthKorea Sudan 8 0 Presidents Cup
+1979 260 home SouthKorea SriLanka 6 0 Presidents Cup
+1979 262 home SouthKorea Bahrain 5 1 Presidents Cup
+1979 264 home SouthKorea Bangladesh 9 0 Presidents Cup
+1980 28 away SouthKorea SaudiArabia 1 3 Friendly
+1980 30 away SouthKorea SaudiArabia 1 0 Friendly
+1980 57 home SouthKorea Mexico 1 0 Friendly
+1980 133 away SouthKorea Luxembourg 3 2 Friendly
+1980 138 home SouthKorea Luxembourg 3 0 Friendly
+1980 240 home SouthKorea Malaysia 2 0 Presidents Cup
+1980 242 home SouthKorea Indonesia 3 0 Presidents Cup
+1980 244 home SouthKorea Thailand 4 0 Presidents Cup
+1980 246 home SouthKorea Bahrain 5 0 Presidents Cup
+1980 250 home SouthKorea Indonesia 2 0 Presidents Cup
+1980 257 away SouthKorea Singapore 0 2 Friendly
+1980 264 away SouthKorea Malaysia 1 1 Asian Cup
+1980 267 home SouthKorea Qatar 2 0 Asian Cup
+1980 269 away SouthKorea Kuwait 0 3 Asian Cup
+1980 272 home SouthKorea UnitedArab 4 1 Asian Cup
+1980 276 home SouthKorea NorthKorea 2 1 Asian Cup
+1980 278 away SouthKorea Kuwait 3 0 Asian Cup
+1980 295 home SouthKorea Indonesia 1 0 Merdeka Tournament
+1980 297 home SouthKorea Kuwait 3 0 Merdeka Tournament
+1980 298 away SouthKorea NewZealand 2 1 Merdeka Tournament
+1980 299 away SouthKorea Morocco 1 1 Merdeka Tournament
+1980 301 away SouthKorea Malaysia 1 1 Merdeka Tournament
+1980 303 home SouthKorea Thailand 0 0 Merdeka Tournament
+1980 309 away SouthKorea Burma 1 1 Merdeka Tournament
+1980 311 home SouthKorea China 2 1 King's Cup
+1980 312 home SouthKorea Indonesia 3 0 King's Cup
+1980 313 home SouthKorea Malaysia 3 0 King's Cup
+1980 314 home SouthKorea Singapore 3 1 King's Cup
+1980 315 away SouthKorea Thailand 2 1 King's Cup
+1980 344 away SouthKorea Thailand 0 0 King's Cup
+1981 41 away SouthKorea Mexico 4 0 Friendly
+1981 70 away SouthKorea Japan 0 1 Friendly
+1981 114 home SouthKorea Malaysia 2 1 World Cup qualifier
+1981 117 home SouthKorea Thailand 5 1 World Cup qualifier
+1981 122 away SouthKorea Kuwait 2 0 World Cup qualifier
+1981 172 home SouthKorea Malaysia 2 0 Presidents Cup
+1981 176 home SouthKorea Japan 2 0 Presidents Cup
+1981 247 away SouthKorea Iraq 1 1 Merdeka Tournament
+1981 255 home SouthKorea Singapore 2 0 Merdeka Tournament
+1981 262 home SouthKorea Thailand 1 1 Merdeka Tournament
+1982 49 away SouthKorea India 2 2 Nehru Gold Cup
+1982 51 away SouthKorea Uruguay 2 2 Nehru Gold Cup
+1982 63 away SouthKorea China 1 1 Nehru Gold Cup
+1982 69 away SouthKorea Iraq 3 0 Friendly
+1982 72 away SouthKorea Iraq 1 1 Friendly
+1982 83 home SouthKorea Japan 3 0 Friendly
+1982 125 home SouthKorea Malaysia 5 0 King's Cup
+1982 132 home SouthKorea Indonesia 1 0 King's Cup
+1982 133 away SouthKorea Thailand 0 3 King's Cup
+1982 134 home SouthKorea Indonesia 2 0 King's Cup
+1982 141 away SouthKorea Thailand 0 0 King's Cup
+1982 160 home SouthKorea Bahrain 3 0 Presidents Cup
+1982 162 home SouthKorea Indonesia 3 0 Presidents Cup
+1982 164 home SouthKorea India 1 0 Presidents Cup
+1982 222 away SouthKorea Malaysia 1 2 Merdeka Tournament
+1982 223 away SouthKorea Senegal 2 0 Merdeka Tournament
+1982 224 home SouthKorea Indonesia 4 0 Merdeka Tournament
+1982 227 home SouthKorea UnitedArab 3 2 Merdeka Tournament
+1982 233 away SouthKorea Ghana 1 0 Merdeka Tournament
+1982 235 away SouthKorea Senegal 1 1 Merdeka Tournament
+1982 246 away SouthKorea Qatar 2 1 Lion City Cup
+1982 249 home SouthKorea Indonesia 2 0 Lion City Cup
+1982 253 away SouthKorea Thailand 3 1 Lion City Cup
+1982 284 home SouthKorea Brunei 4 1 Merlion Tournament
+1982 286 home SouthKorea Malaysia 3 1 Merlion Tournament
+1982 289 away SouthKorea Singapore 0 2 Merlion Tournament
+1982 292 home SouthKorea Indonesia 1 0 Merlion Tournament
+1982 296 away SouthKorea Australia 3 2 Merlion Tournament
+1982 329 home SouthKorea SouthYemen 3 0 Asian Games
+1982 333 away SouthKorea Japan 2 1 Asian Games
+1982 335 away SouthKorea Iran 1 0 Asian Games
+1983 68 away SouthKorea Japan 1 1 Friendly
+1983 163 home SouthKorea Nigeria 0 0 Presidents Cup
+1983 167 home SouthKorea Indonesia 3 0 Presidents Cup
+1983 170 home SouthKorea Ghana 1 0 Presidents Cup
+1983 215 away SouthKorea Guatemala 1 1 Friendly
+1983 220 away SouthKorea Guatemala 2 1 Friendly
+1983 226 away SouthKorea CostaRica 1 1 Friendly
+1983 264 away SouthKorea Algeria 3 1 Merdeka Tournament
+1983 265 home SouthKorea Bangladesh 3 1 Merdeka Tournament
+1983 270 home SouthKorea Nepal 1 0 Merdeka Tournament
+1983 272 away SouthKorea Malaysia 1 1 Merdeka Tournament
+1983 356 away SouthKorea Australia 3 1 Merlion Tournament
+1984 158 home SouthKorea Guatemala 0 0 Presidents Cup
+1984 278 home SouthKorea Japan 1 2 Friendly
+1984 283 home SouthKorea Cameroon 5 0 Friendly
+1984 289 home SouthKorea NorthYemen 6 0 Asian Cup qualifier
+1984 292 home SouthKorea Pakistan 6 0 Asian Cup qualifier
+1984 295 away SouthKorea Malaysia 0 0 Asian Cup qualifier
+1984 298 away SouthKorea India 0 1 Asian Cup qualifier
+1984 343 away SouthKorea SaudiArabia 1 1 Asian Cup
+1984 346 away SouthKorea Kuwait 0 0 Asian Cup
+1984 348 away SouthKorea Syria 1 0 Asian Cup
+1984 351 away SouthKorea Qatar 1 0 Asian Cup
+1985 64 away SouthKorea Nepal 0 2 World Cup qualifier
+1985 67 away SouthKorea Kuwait 1 0 Friendly
+1985 69 away SouthKorea Bahrain 1 5 Friendly
+1985 72 away SouthKorea Malaysia 1 0 World Cup qualifier
+1985 99 home SouthKorea Nepal 4 0 World Cup qualifier
+1985 143 home SouthKorea Malaysia 2 0 World Cup qualifier
+1985 159 home SouthKorea Thailand 3 2 Presidents Cup
+1985 163 home SouthKorea Bahrain 3 0 Presidents Cup
+1985 170 home SouthKorea Iraq 2 0 Presidents Cup
+1985 207 home SouthKorea Indonesia 2 0 World Cup qualifier
+1985 216 away SouthKorea Indonesia 1 4 World Cup qualifier
+1985 216 away SouthKorea Thailand 3 2 Merdeka Tournament
+1985 218 away SouthKorea Malaysia 0 3 Merdeka Tournament
+1985 305 away SouthKorea Japan 1 2 World Cup qualifier
+1985 313 home SouthKorea Japan 1 0 World Cup qualifier
+1985 344 away SouthKorea Mexico 2 1 Friendly
+1985 349 away SouthKorea Hungary 1 0 Friendly tournament
+1985 351 away SouthKorea Mexico 2 1 Friendly tournament
+1985 355 home SouthKorea Algeria 2 0 Friendly tournament
+1986 40 away SouthKorea HongKong 0 2 Friendly tournament
+1986 45 away SouthKorea Paraguay 3 1 Friendly tournament
+1986 157 away SouthKorea Argentina 3 1 World Cup
+1986 160 away SouthKorea Bulgaria 1 1 World Cup
+1986 165 away SouthKorea Italy 3 2 World Cup
+1986 268 home SouthKorea India 3 0 Asian Games
+1986 272 home SouthKorea Bahrain 0 0 Asian Games
+1986 276 home SouthKorea China 4 2 Asian Games
+1986 280 home SouthKorea Iran 1 1 Asian Games
+1986 282 home SouthKorea Indonesia 4 0 Asian Games
+1986 284 home SouthKorea SaudiArabia 2 0 Asian Games
+1986 343 away SouthKorea China 0 0 Friendly tournament
+1986 347 home SouthKorea Malaysia 2 1 Friendly tournament
+1986 350 away SouthKorea Denmark 2 1 Friendly tournament
+1986 352 away SouthKorea Nepal 1 2 Friendly tournament
+1987 165 home SouthKorea Egypt 0 0 Presidents Cup
+1987 167 home SouthKorea UnitedStates 1 0 Presidents Cup
+1987 169 home SouthKorea Thailand 4 2 Presidents Cup
+1987 176 home SouthKorea Australia 1 1 Presidents Cup
+1988 6 away SouthKorea Egypt 1 1 Afro-Asian Championship
+1988 21 away SouthKorea Malaysia 0 0 King's Cup
+1988 172 away SouthKorea Bahrain 2 0 Asian Cup qualifier
+1988 174 home SouthKorea Zambia 4 0 Presidents Cup
+1988 174 home SouthKorea SouthYemen 1 1 Asian Cup qualifier
+1988 177 away SouthKorea Indonesia 0 4 Asian Cup qualifier
+1988 188 away SouthKorea Indonesia 0 4 Friendly
+1988 305 away SouthKorea Japan 0 1 Friendly
+1988 344 home SouthKorea UnitedArab 1 0 Asian Cup
+1988 347 away SouthKorea Japan 0 2 Asian Cup
+1988 350 away SouthKorea Qatar 2 3 Asian Cup
+1988 352 away SouthKorea Iran 0 3 Asian Cup
+1988 355 away SouthKorea China 1 2 Asian Cup
+1988 359 away SouthKorea SaudiArabia 0 0 Asian Cup
+1989 129 home SouthKorea Japan 1 0 Friendly
+1989 147 home SouthKorea Singapore 3 0 World Cup qualifier
+1989 149 home SouthKorea Nepal 9 0 World Cup qualifier
+1989 151 home SouthKorea Malaysia 3 0 World Cup qualifier
+1989 158 away SouthKorea Nepal 0 4 World Cup qualifier
+1989 160 away SouthKorea Malaysia 0 3 World Cup qualifier
+1989 162 away SouthKorea Singapore 0 3 World Cup qualifier
+1989 225 away SouthKorea Mexico 4 2 Friendly
+1989 230 away SouthKorea UnitedStates 1 2 Friendly
+1989 264 home SouthKorea Egypt 1 0 Friendly
+1989 292 away SouthKorea Qatar 0 0 World Cup qualifier
+1989 295 away SouthKorea NorthKorea 0 1 World Cup qualifier
+1989 299 away SouthKorea China 0 1 World Cup qualifier
+1989 304 away SouthKorea SaudiArabia 0 2 World Cup qualifier
+1989 307 home SouthKorea UnitedArab 1 1 World Cup qualifier
+1990 36 away SouthKorea Norway 3 2 Rothmans Tournament
+1990 41 away SouthKorea Malta 1 2 Rothmans Tournament
+1990 46 away SouthKorea Iraq 0 0 Friendly
+1990 49 away SouthKorea Egypt 0 0 Friendly
+1990 167 away SouthKorea Belgium 2 0 World Cup
+1990 172 home SouthKorea Spain 1 3 World Cup
+1990 176 home SouthKorea Uruguay 0 1 World Cup
+1990 214 away SouthKorea Japan 0 2 Dynasty Cup
+1990 216 home SouthKorea NorthKorea 1 0 Dynasty Cup
+1990 217 away SouthKorea China 0 1 Dynasty Cup
+1990 220 away SouthKorea China 1 1 Dynasty Cup
+1990 254 home SouthKorea Australia 1 0 Friendly
+1990 257 home SouthKorea Australia 1 0 Friendly
+1990 271 home SouthKorea Singapore 7 0 Asian Games
+1990 273 home SouthKorea Pakistan 7 0 Asian Games
+1990 275 away SouthKorea China 0 2 Asian Games
+1990 280 home SouthKorea Kuwait 1 0 Asian Games
+1990 282 away SouthKorea Iran 1 0 Asian Games
+1990 284 home SouthKorea Thailand 1 0 Asian Games
+1990 290 away SouthKorea NorthKorea 2 1 Friendly
+1990 302 home SouthKorea NorthKorea 1 0 Friendly
+1991 162 home SouthKorea Egypt 0 0 Presidents Cup
+1991 164 home SouthKorea Indonesia 3 0 Presidents Cup
+1991 166 home SouthKorea Malta 1 1 Presidents Cup
+1991 169 home SouthKorea Australia 0 0 Presidents Cup
+1991 171 home SouthKorea Egypt 2 0 Presidents Cup
+1991 213 away SouthKorea Japan 0 1 Friendly
+1991 252 home SouthKorea Australia 0 0 Friendly
+1992 174 home SouthKorea Bangladesh 6 0 Asian Cup qualifier
+1992 176 away SouthKorea Thailand 2 1 Asian Cup qualifier
+1992 227 away SouthKorea Indonesia 0 1 Independence Cup
+1992 230 home SouthKorea Australia 1 0 Independence Cup
+1992 231 home SouthKorea Malaysia 1 0 Independence Cup
+1992 233 away SouthKorea Malaysia 2 1 Independence Cup
+1992 239 away SouthKorea Japan 0 0 Dynasty Cup
+1992 241 away SouthKorea NorthKorea 1 1 Dynasty Cup
+1992 243 away SouthKorea China 0 2 Dynasty Cup
+1992 246 away SouthKorea Japan 2 2 Dynasty Cup
+1992 300 home SouthKorea UnitedArab 0 0 Friendly
+1992 357 away SouthKorea Singapore 0 1 Merlion Tournament
+1992 360 home SouthKorea China 3 1 Merlion Tournament
+1993 39 home SouthKorea Indonesia 5 0 Merdeka Tournament
+1993 41 home SouthKorea Ghana 3 1 Merdeka Tournament
+1993 45 away SouthKorea Malaysia 3 1 Merdeka Tournament
+1993 50 away SouthKorea Thailand 1 0 King's Cup
+1993 71 away SouthKorea Canada 0 2 Friendly
+1993 73 away SouthKorea Canada 2 0 Friendly
+1993 118 home SouthKorea Iraq 1 1 Friendly
+1993 121 home SouthKorea Iraq 2 2 Friendly
+1993 133 away SouthKorea Bahrain 0 0 World Cup qualifier
+1993 135 away SouthKorea Lebanon 0 1 World Cup qualifier
+1993 137 home SouthKorea India 3 0 World Cup qualifier
+1993 139 home SouthKorea HongKong 3 0 World Cup qualifier
+1993 160 home SouthKorea HongKong 3 0 World Cup qualifier
+1993 162 home SouthKorea Lebanon 2 0 World Cup qualifier
+1993 164 home SouthKorea India 7 0 World Cup qualifier
+1993 168 home SouthKorea Bahrain 3 0 World Cup qualifier
+1993 174 home SouthKorea Egypt 1 2 Presidents Cup
+1993 184 home SouthKorea Egypt 0 1 Presidents Cup
+1993 272 home SouthKorea Australia 1 1 Friendly
+1993 274 home SouthKorea Australia 1 0 Friendly
+1993 295 away SouthKorea Iran 0 3 World Cup qualifier
+1993 298 away SouthKorea Iraq 2 2 World Cup qualifier
+1993 301 home SouthKorea SaudiArabia 1 1 World Cup qualifier
+1993 304 away SouthKorea Japan 1 0 World Cup qualifier
+1993 307 home SouthKorea NorthKorea 3 0 World Cup qualifier
+1994 47 home SouthKorea Romania 1 2 Friendly
+1994 51 home SouthKorea Malaysia 5 1 Friendly
+1994 57 away SouthKorea Colombia 2 2 Friendly
+1994 67 away SouthKorea UnitedStates 1 0 Friendly
+1994 74 away SouthKorea UnitedStates 1 1 Friendly
+1994 125 home SouthKorea Cameroon 2 2 Friendly
+1994 127 home SouthKorea Cameroon 2 1 Friendly
+1994 160 away SouthKorea Ecuador 2 1 Friendly
+1994 166 home SouthKorea Honduras 3 0 Friendly
+1994 172 away SouthKorea Spain 2 2 World Cup
+1994 178 home SouthKorea Bolivia 0 0 World Cup
+1994 182 away SouthKorea Germany 3 2 World Cup
+1994 259 home SouthKorea Ukraine 1 0 Friendly
+1994 261 home SouthKorea Ukraine 2 0 Friendly
+1994 267 home SouthKorea UnitedArab 0 0 Friendly
+1994 280 home SouthKorea Nepal 11 0 Asian Games
+1994 284 home SouthKorea Oman 2 1 Asian Games
+1994 286 away SouthKorea Kuwait 1 0 Asian Games
+1994 290 away SouthKorea Japan 2 3 Asian Games
+1994 292 away SouthKorea Uzbekistan 1 0 Asian Games
+1994 294 away SouthKorea Kuwait 2 1 Asian Games
+1994 365 away SouthKorea SaudiArabia 0 1 Friendly
+1995 31 home SouthKorea Colombia 1 0 Carlsberg Cup
+1995 35 away SouthKorea Yugoslavia 1 0 Carlsberg Cup
+1995 50 away SouthKorea China 0 0 Dynasty Cup
+1995 52 away SouthKorea Japan 1 1 Dynasty Cup
+1995 54 away SouthKorea HongKong 2 3 Dynasty Cup
+1995 57 away SouthKorea Japan 2 2 Dynasty Cup
+1995 160 home SouthKorea CostaRica 1 0 Korea Cup
+1995 165 home SouthKorea Zambia 2 3 Korea Cup
+1995 229 home SouthKorea Brazil 0 1 Friendly
+1995 310 home SouthKorea SaudiArabia 1 1 Friendly
+1996 75 away SouthKorea Croatia 3 0 Friendly
+1996 81 away SouthKorea UnitedArab 3 2 Friendly tournament
+1996 85 away SouthKorea Morocco 2 2 Friendly tournament
+1996 87 home SouthKorea Egypt 1 1 Friendly tournament
+1996 123 away SouthKorea Israel 4 5 Friendly
+1996 140 home SouthKorea Sweden 0 2 Friendly
+1996 222 home SouthKorea Guam 9 0 Asian Cup qualifier
+1996 225 home SouthKorea Taiwan 4 0 Asian Cup qualifier
+1996 228 away SouthKorea Vietnam 0 4 Asian Cup qualifier
+1996 273 home SouthKorea China 3 1 Friendly
+1996 333 home SouthKorea Colombia 4 1 Friendly
+1996 336 away SouthKorea China 2 3 Friendly
+1996 345 away SouthKorea UnitedArab 1 1 Asian Cup
+1996 348 home SouthKorea Indonesia 4 2 Asian Cup
+1996 351 away SouthKorea Kuwait 2 0 Asian Cup
+1996 357 away SouthKorea Iran 6 2 Asian Cup
+1997 18 home SouthKorea Norway 1 0 Friendly tournament
+1997 22 away SouthKorea Australia 2 1 Friendly tournament
+1997 25 home SouthKorea NewZealand 3 1 Friendly tournament
+1997 53 away SouthKorea HongKong 0 2 World Cup qualifier
+1997 64 away SouthKorea Thailand 1 3 World Cup qualifier
+1997 145 away SouthKorea Japan 1 1 Friendly
+1997 152 home SouthKorea HongKong 4 0 World Cup qualifier
+1997 156 home SouthKorea Thailand 0 0 World Cup qualifier
+1997 167 home SouthKorea Egypt 3 1 Korea Cup
+1997 169 home SouthKorea Ghana 3 0 Korea Cup
+1997 171 home SouthKorea Yugoslavia 1 1 Korea Cup
+1997 227 home SouthKorea Brazil 1 2 Friendly
+1997 241 home SouthKorea Tajikistan 4 1 Friendly
+1997 254 home SouthKorea Kazakhstan 3 0 World Cup qualifier
+1997 260 home SouthKorea Uzbekistan 2 1 World Cup qualifier
+1997 276 away SouthKorea Japan 1 2 World Cup qualifier
+1997 283 home SouthKorea UnitedArab 3 0 World Cup qualifier
+1997 290 away SouthKorea Kazakhstan 1 1 World Cup qualifier
+1997 297 away SouthKorea Uzbekistan 1 5 World Cup qualifier
+1997 311 home SouthKorea Japan 0 2 World Cup qualifier
+1997 319 away SouthKorea UnitedArab 1 3 World Cup qualifier
+1998 27 home SouthKorea Egypt 2 0 King's Cup
+1998 29 away SouthKorea Thailand 0 2 King's Cup
+1998 31 home SouthKorea Egypt 1 1 King's Cup
+1998 38 away SouthKorea NewZealand 0 1 Friendly
+1998 42 away SouthKorea Australia 1 0 Friendly
+1998 63 away SouthKorea Japan 2 1 Dynasty Cup
+1998 66 home SouthKorea China 2 1 Dynasty Cup
+1998 69 home SouthKorea HongKong 1 0 Dynasty Cup
+1998 94 home SouthKorea Japan 2 1 Friendly
+1998 108 away SouthKorea Slovakia 0 0 Friendly
+1998 111 away SouthKorea Macedonia 2 2 Friendly
+1998 115 away SouthKorea Yugoslavia 3 1 Friendly
+1998 140 home SouthKorea Jamaica 2 1 Friendly
+1998 143 home SouthKorea Jamaica 0 0 Friendly
+1998 151 home SouthKorea Czechia 2 2 Friendly
+1998 159 home SouthKorea China 1 1 Friendly
+1998 168 away SouthKorea Mexico 3 1 World Cup
+1998 175 away SouthKorea Holland 5 0 World Cup
+1998 180 away SouthKorea Belgium 1 1 World Cup
+1998 323 away SouthKorea China 0 3 Friendly
+1998 332 away SouthKorea China 0 0 Friendly
+1998 343 away SouthKorea Turkmenistan 3 2 Asian Games
+1998 345 home SouthKorea Vietnam 4 0 Asian Games
+1998 350 home SouthKorea UnitedArab 2 1 Asian Games
+1998 352 home SouthKorea Kuwait 1 0 Asian Games
+1998 355 away SouthKorea Thailand 2 1 Asian Games
+1999 90 home SouthKorea Brazil 1 0 Friendly
+1999 160 home SouthKorea Belgium 1 2 Friendly
+1999 167 home SouthKorea Mexico 1 1 Korea Cup
+1999 170 home SouthKorea Egypt 0 0 Korea Cup
+1999 174 home SouthKorea Croatia 1 1 Korea Cup
+2000 21 away SouthKorea NewZealand 0 1 Friendly
+2000 23 away SouthKorea NewZealand 0 0 Friendly
+2000 46 away SouthKorea Canada 0 0 Concacaf Gold Cup
+2000 48 away SouthKorea CostaRica 2 2 Concacaf Gold Cup
+2000 98 home SouthKorea Laos 9 0 Asian Cup qualifier
+2000 100 home SouthKorea Mongolia 6 0 Asian Cup qualifier
+2000 102 home SouthKorea Myanmar 4 0 Asian Cup qualifier
+2000 119 home SouthKorea Japan 1 0 Friendly
+2000 152 home SouthKorea Yugoslavia 0 0 Friendly
+2000 154 home SouthKorea Yugoslavia 0 0 Friendly
+2000 162 home SouthKorea Macedonia 2 1 Friendly tournament
+2000 164 home SouthKorea Egypt 1 0 Friendly tournament
+2000 214 away SouthKorea China 0 1 Friendly
+2000 283 away SouthKorea UnitedArab 1 1 Friendly tournament
+2000 286 home SouthKorea Australia 4 2 Friendly tournament
+2000 292 home SouthKorea China 2 2 Asian Cup
+2000 295 away SouthKorea Kuwait 1 0 Asian Cup
+2000 298 home SouthKorea Indonesia 3 0 Asian Cup
+2000 302 home SouthKorea Iran 2 1 Asian Cup
+2000 305 away SouthKorea SaudiArabia 2 1 Asian Cup
+2000 308 home SouthKorea China 1 0 Asian Cup
+2000 361 away SouthKorea Japan 1 1 Friendly
+2001 24 away SouthKorea Norway 3 2 Carlsberg Cup
+2001 27 home SouthKorea Paraguay 1 1 Carlsberg Cup
+2001 39 away SouthKorea Morocco 1 1 Friendly tournament
+2001 42 away SouthKorea UnitedArab 1 4 Friendly tournament
+2001 117 home SouthKorea Iran 1 0 Friendly tournament
+2001 119 away SouthKorea Egypt 1 2 Friendly tournament
+2001 149 home SouthKorea Cameroon 0 0 Friendly
+2001 154 home SouthKorea France 0 5 Confederations Cup
+2001 156 home SouthKorea Mexico 2 1 Confederations Cup
+2001 158 home SouthKorea Australia 1 0 Confederations Cup
+2001 232 away SouthKorea Czechia 5 0 Friendly
+2001 261 home SouthKorea Nigeria 2 2 Friendly
+2001 264 home SouthKorea Nigeria 2 1 Friendly
+2001 318 home SouthKorea Senegal 0 1 Friendly
+2001 320 home SouthKorea Croatia 2 0 Friendly
+2001 323 home SouthKorea Croatia 1 1 Friendly
+2001 350 home SouthKorea UnitedStates 1 0 Friendly
+2002 19 away SouthKorea UnitedStates 2 1 Concacaf Gold Cup
+2002 23 away SouthKorea Cuba 0 0 Concacaf Gold Cup
+2002 27 home SouthKorea Mexico 0 0 Concacaf Gold Cup
+2002 30 away SouthKorea CostaRica 3 1 Concacaf Gold Cup
+2002 33 away SouthKorea Canada 2 1 Concacaf Gold Cup
+2002 44 away SouthKorea Uruguay 2 1 Friendly
+2002 75 away SouthKorea Tunisia 0 0 Friendly
+2002 82 away SouthKorea Finland 0 2 Friendly
+2002 88 away SouthKorea Turkey 0 0 Friendly
+2002 113 home SouthKorea CostaRica 2 0 Friendly
+2002 120 home SouthKorea China 0 0 Friendly
+2002 140 home SouthKorea Scotland 4 1 Friendly
+2002 145 home SouthKorea England 1 1 Friendly
+2002 150 home SouthKorea France 2 3 Friendly
+2002 159 home SouthKorea Poland 2 0 World Cup
+2002 165 home SouthKorea UnitedStates 1 1 World Cup
+2002 169 home SouthKorea Portugal 1 0 World Cup
+2002 173 home SouthKorea Italy 2 1 World Cup
+2002 177 home SouthKorea Spain 0 0 World Cup
+2002 180 home SouthKorea Germany 0 1 World Cup
+2002 184 home SouthKorea Turkey 2 3 World Cup
+2002 255 home SouthKorea NorthKorea 0 0 Friendly
+2002 330 home SouthKorea Brazil 2 3 Friendly
+2003 91 home SouthKorea Colombia 0 0 Friendly
+2003 109 home SouthKorea Japan 0 1 Friendly
+2003 155 away SouthKorea Japan 0 1 Friendly
+2003 163 home SouthKorea Uruguay 0 2 Friendly
+2003 166 home SouthKorea Argentina 0 1 Friendly
+2003 273 home SouthKorea Vietnam 5 0 Asian Cup qualifier
+2003 275 home SouthKorea Oman 1 0 Asian Cup qualifier
+2003 277 home SouthKorea Nepal 16 0 Asian Cup qualifier
+2003 298 away SouthKorea Vietnam 1 0 Asian Cup qualifier
+2003 300 away SouthKorea Oman 3 1 Asian Cup qualifier
+2003 303 home SouthKorea Nepal 7 0 Asian Cup qualifier
+2003 328 home SouthKorea Bulgaria 0 1 Friendly
+2003 345 home SouthKorea HongKong 3 1 East Asian Championship
+2003 348 home SouthKorea China 1 0 East Asian Championship
+2003 351 away SouthKorea Japan 0 0 East Asian Championship
+2004 45 home SouthKorea Oman 5 0 Friendly
+2004 49 home SouthKorea Lebanon 2 0 World Cup qualifier
+2004 93 away SouthKorea Maldives 0 0 World Cup qualifier
+2004 121 home SouthKorea Paraguay 0 0 Friendly
+2004 157 home SouthKorea Turkey 0 1 Friendly
+2004 160 home SouthKorea Turkey 2 1 Friendly
+2004 164 home SouthKorea Vietnam 2 0 World Cup qualifier
+2004 196 home SouthKorea Bahrain 2 0 Friendly
+2004 200 home SouthKorea TrinidadTobago 1 1 Friendly
+2004 205 away SouthKorea Jordan 0 0 Asian Cup
+2004 209 home SouthKorea UnitedArab 2 0 Asian Cup
+2004 213 home SouthKorea Kuwait 4 0 Asian Cup
+2004 217 away SouthKorea Iran 4 3 Asian Cup
+2004 256 away SouthKorea Vietnam 1 2 World Cup qualifier
+2004 292 away SouthKorea Lebanon 1 1 World Cup qualifier
+2004 327 home SouthKorea Maldives 2 0 World Cup qualifier
+2004 360 home SouthKorea Germany 3 1 Friendly
+2005 15 away SouthKorea Colombia 2 1 Friendly
+2005 19 away SouthKorea Paraguay 1 1 Friendly
+2005 22 away SouthKorea Sweden 1 1 Friendly
+2005 35 home SouthKorea Egypt 0 1 Friendly
+2005 40 home SouthKorea Kuwait 2 0 World Cup qualifier
+2005 82 home SouthKorea BurkinaFaso 1 0 Friendly
+2005 87 away SouthKorea SaudiArabia 2 0 World Cup qualifier
+2005 92 home SouthKorea Uzbekistan 2 1 World Cup qualifier
+2005 158 away SouthKorea Uzbekistan 1 1 World Cup qualifier
+2005 163 away SouthKorea Kuwait 0 4 World Cup qualifier
+2005 217 home SouthKorea China 1 1 East Asian Championship
+2005 221 home SouthKorea NorthKorea 0 0 East Asian Championship
+2005 224 home SouthKorea Japan 0 1 East Asian Championship
+2005 231 home SouthKorea NorthKorea 3 0 Friendly
+2005 234 home SouthKorea SaudiArabia 0 1 World Cup qualifier
+2005 291 home SouthKorea Iran 2 0 Friendly
+2005 322 home SouthKorea Sweden 2 2 Friendly
+2005 326 home SouthKorea Serbia and Montenegro 2 0 Friendly
+2006 18 away SouthKorea UnitedArab 1 0 Friendly
+2006 21 away SouthKorea Greece 1 1 Friendly tournament
+2006 25 home SouthKorea Finland 1 0 Friendly tournament
+2006 29 home SouthKorea Croatia 2 0 Carlsberg Cup
+2006 32 away SouthKorea Denmark 3 1 Carlsberg Cup
+2006 42 away SouthKorea CostaRica 1 0 Friendly
+2006 46 home SouthKorea Mexico 1 0 Friendly
+2006 53 away SouthKorea Syria 1 2 Asian Cup qualifier
+2006 63 home SouthKorea Angola 1 0 Friendly
+2006 147 home SouthKorea Senegal 1 1 Friendly
+2006 150 home SouthKorea Bosnia 2 0 Friendly
+2006 156 away SouthKorea Norway 0 0 Friendly
+2006 159 away SouthKorea Ghana 3 1 Friendly
+2006 168 home SouthKorea Togo 2 1 World Cup
+2006 173 away SouthKorea France 1 1 World Cup
+2006 178 away SouthKorea Switzerland 2 0 World Cup
+2006 233 away SouthKorea Taiwan 0 3 Asian Cup qualifier
+2006 250 home SouthKorea Iran 1 1 Asian Cup qualifier
+2006 254 home SouthKorea Taiwan 8 0 Asian Cup qualifier
+2006 287 home SouthKorea Ghana 1 3 Friendly
+2006 290 home SouthKorea Syria 1 1 Asian Cup qualifier
+2006 325 away SouthKorea Iran 2 0 Asian Cup qualifier
+2007 37 home SouthKorea Greece 1 0 Friendly
+2007 86 home SouthKorea Uruguay 0 2 Friendly
+2007 157 home SouthKorea Holland 0 2 Friendly
+2007 184 home SouthKorea Iraq 3 0 Friendly
+2007 191 home SouthKorea Uzbekistan 2 1 Friendly
+2007 197 away SouthKorea SaudiArabia 1 1 Asian Cup
+2007 201 away SouthKorea Bahrain 2 1 Asian Cup
+2007 204 away SouthKorea Indonesia 0 1 Asian Cup
+2007 208 away SouthKorea Iran 0 0 Asian Cup
+2007 211 away SouthKorea Iraq 0 0 Asian Cup
+2007 214 home SouthKorea Japan 0 0 Asian Cup
+2008 30 home SouthKorea Chile 0 1 Friendly
+2008 37 home SouthKorea Turkmenistan 4 0 World Cup qualifier
+2008 48 away SouthKorea China 2 3 East Asian Championship
+2008 51 away SouthKorea NorthKorea 1 1 East Asian Championship
+2008 54 home SouthKorea Japan 1 1 East Asian Championship
+2008 88 away SouthKorea NorthKorea 0 0 World Cup qualifier
+2008 155 home SouthKorea Jordan 2 2 World Cup qualifier
+2008 162 away SouthKorea Jordan 0 1 World Cup qualifier
+2008 169 away SouthKorea Turkmenistan 1 3 World Cup qualifier
+2008 177 home SouthKorea NorthKorea 0 0 World Cup qualifier
+2008 253 home SouthKorea Jordan 1 0 Friendly
+2008 258 away SouthKorea NorthKorea 1 1 World Cup qualifier
+2008 290 home SouthKorea Uzbekistan 3 0 Friendly
+2008 294 home SouthKorea UnitedArab 4 1 World Cup qualifier
+2008 324 away SouthKorea Qatar 1 1 Friendly
+2008 329 away SouthKorea SaudiArabia 0 2 World Cup qualifier
+2009 32 home SouthKorea Syria 1 1 Friendly
+2009 35 away SouthKorea Bahrain 2 2 Friendly
+2009 42 away SouthKorea Iran 1 1 World Cup qualifier
+2009 90 home SouthKorea Iraq 2 1 Friendly
+2009 94 home SouthKorea NorthKorea 1 0 World Cup qualifier
+2009 157 away SouthKorea Oman 0 0 Friendly
+2009 161 away SouthKorea UnitedArab 0 2 World Cup qualifier
+2009 165 home SouthKorea SaudiArabia 0 0 World Cup qualifier
+2009 172 home SouthKorea Iran 1 1 World Cup qualifier
+2009 229 home SouthKorea Paraguay 1 0 Friendly
+2009 253 home SouthKorea Australia 3 1 Friendly
+2009 293 home SouthKorea Senegal 2 0 Friendly
+2009 324 away SouthKorea Denmark 0 0 Friendly
+2009 328 away SouthKorea Serbia 1 0 Friendly
+2010 9 away SouthKorea Zambia 4 2 Friendly
+2010 18 home SouthKorea Finland 2 0 Friendly
+2010 22 home SouthKorea Latvia 1 0 Friendly
+2010 38 home SouthKorea HongKong 5 0 East Asian Championship
+2010 41 away SouthKorea China 3 0 East Asian Championship
+2010 45 away SouthKorea Japan 1 3 East Asian Championship
+2010 65 home SouthKorea IvoryCoast 2 0 Friendly
+2010 140 home SouthKorea Ecuador 2 0 Friendly
+2010 148 away SouthKorea Japan 0 2 Friendly
+2010 154 away SouthKorea Belarus 1 0 Friendly
+2010 158 away SouthKorea Spain 1 0 Friendly
+2010 167 home SouthKorea Greece 2 0 World Cup
+2010 172 away SouthKorea Argentina 4 1 World Cup
+2010 177 away SouthKorea Nigeria 2 2 World Cup
+2010 181 away SouthKorea Uruguay 2 1 World Cup
+2010 228 home SouthKorea Nigeria 2 1 Friendly
+2010 255 home SouthKorea Iran 0 1 Friendly
+2010 291 home SouthKorea Japan 0 0 Friendly
+2010 371 home SouthKorea Syria 1 0 Friendly
+2011 10 home SouthKorea Bahrain 2 1 Asian Cup
+2011 14 away SouthKorea Australia 1 1 Asian Cup
+2011 18 home SouthKorea India 4 1 Asian Cup
+2011 22 home SouthKorea Iran 1 0 Asian Cup
+2011 25 away SouthKorea Japan 2 2 Asian Cup
+2011 28 home SouthKorea Uzbekistan 3 2 Asian Cup
+2011 40 away SouthKorea Turkey 0 0 Friendly
+2011 87 home SouthKorea Honduras 4 0 Friendly
+2011 158 home SouthKorea Serbia 2 1 Friendly
+2011 162 home SouthKorea Ghana 2 1 Friendly
+2011 227 away SouthKorea Japan 3 0 Friendly
+2011 250 home SouthKorea Lebanon 6 0 World Cup qualifier
+2011 254 away SouthKorea Kuwait 1 1 World Cup qualifier
+2011 286 home SouthKorea Poland 2 2 Friendly
+2011 290 home SouthKorea UnitedArab 2 1 World Cup qualifier
+2011 321 away SouthKorea UnitedArab 0 2 World Cup qualifier
+2011 325 away SouthKorea Lebanon 2 1 World Cup qualifier
+2012 56 home SouthKorea Uzbekistan 4 2 Friendly
+2012 60 home SouthKorea Kuwait 2 0 World Cup qualifier
+2012 154 away SouthKorea Spain 4 1 Friendly
+2012 163 away SouthKorea Qatar 1 4 World Cup qualifier
+2012 167 home SouthKorea Lebanon 3 0 World Cup qualifier
+2012 232 home SouthKorea Zambia 2 1 Friendly
+2012 259 away SouthKorea Uzbekistan 2 2 World Cup qualifier
+2012 295 away SouthKorea Iran 1 0 World Cup qualifier
+2012 324 home SouthKorea Australia 1 2 Friendly
+2013 37 away SouthKorea Croatia 4 0 Friendly
+2013 88 home SouthKorea Qatar 2 1 World Cup qualifier
+2013 159 away SouthKorea Lebanon 1 1 World Cup qualifier
+2013 166 home SouthKorea Uzbekistan 1 0 World Cup qualifier
+2013 173 home SouthKorea Iran 0 1 World Cup qualifier
+2013 206 home SouthKorea Australia 0 0 East Asian Championship
+2013 210 home SouthKorea China 0 0 East Asian Championship
+2013 214 home SouthKorea Japan 1 2 East Asian Championship
+2013 231 home SouthKorea Peru 0 0 Friendly
+2013 254 home SouthKorea Haiti 4 1 Friendly
+2013 258 home SouthKorea Croatia 1 2 Friendly
+2013 291 home SouthKorea Brazil 0 2 Friendly
+2013 294 home SouthKorea Mali 3 1 Friendly
+2013 325 home SouthKorea Switzerland 2 1 Friendly
+2013 329 away SouthKorea Russia 2 1 Friendly
+2014 25 home SouthKorea CostaRica 1 0 Friendly
+2014 29 away SouthKorea Mexico 4 0 Friendly
+2014 32 away SouthKorea UnitedStates 2 0 Friendly
+2014 67 away SouthKorea Greece 0 2 Friendly

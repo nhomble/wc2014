@@ -1,0 +1,120 @@
+Sofiane Feghouli Sofiane Feghouli 
+Valencia CF / Liga BBVA 
+81	RM	84	72	77	86	50	58	3 	3 	 / 	 Right	800	1,819		
+Saphir Taider Saphir Taider 
+Inter / Serie A 
+74	CM	72	67	76	77	69	54	3 	3 	 / 	 Right	400	1,875		
+Mehdi Lacen Mehdi Lacen 
+Getafe CF / Liga BBVA 
+73	CM	68	64	75	76	66	64	2 	3 	 / 	 Left	350	1,858		
+Yacine Brahimi Yacine Brahimi 
+Granada CF / Liga BBVA 
+73	CAM	76	62	72	83	50	60	3 	3 	 / 	 Right	600	1,722		
+Hassan Yebda Hassan Yebda 
+Granada CF / Liga BBVA 
+71	CM	41	61	71	69	71	72	3 	3 	 / 	 Right	3,500	1,732		
+Adlene Guedioura Adlene Guedioura 
+Crystal Palace / Barclays PL 
+71	CM	74	68	72	73	66	71	3 	4 	 / 	 Right	450	1,836		
+Hassan Yebda Hassan Yebda 
+Udinese / Serie A 
+71	CM	41	61	71	69	71	72	3 	3 	 / 	 Right	1,300	1,732		
+Karim Matmour Karim Matmour 
+1. FC Kaiserslautern / Bundesliga 2 
+69	ST	83	66	65	75	39	58	3 	3 	 / 	 Right	450	1,628		
+Ziri Hammar Ziri Hammar 
+AS Nancy / Ligue 2 
+64	CAM	68	60	68	68	36	62	3 	4 	 / 	 Right	200	1,502		
+Farid Cheklam Farid Cheklam 
+Najran SC / ALJ League 
+64	CB	51	38	30	33	66	77	2 	3 	 / 	 Right	200	1,269		
+Fethi Harek Fethi Harek 
+SC Bastia / Ligue 1 
+63	CB	64	39	66	63	61	56	2 	2 	 / 	 Left	200	1,581		
+Mehdi Abeid Mehdi Abeid 
+Panathinaikos / Hellas Liga 
+63	CM	69	59	65	71	56	54	3 	3 	 / 	 Right	200	1,638		
+Youcef Touati Youcef Touati 
+Tours FC / Ligue 2 
+51	CM	72	44	56	68	32	29	3 	3 	 / 	 Right	200	1,320		
+Rafik Djebbour Rafik Djebbour 
+Olympiakos CFP / Hellas Liga 
+77	ST	77	74	58	76	44	76	3 	4 	 / 	 Right	400	1,749		
+Rafik Djebbour Rafik Djebbour 
+Nottingham Forest / FL Championship 
+77	ST	77	74	58	76	44	76	3 	4 	 / 	 Right	0	1,749		
+Ryad Boudebouz Ryad Boudebouz 
+SC Bastia / Ligue 1 
+76	RM	77	72	77	80	41	46	4 	4 	 / 	 Left	350	1,750		
+Ishak Belfodil Ishak Belfodil 
+Inter / Serie A 
+75	ST	73	66	63	79	45	76	3 	2 	 / 	 Right	350	1,658		
+Ishak Belfodil Ishak Belfodil 
+Livorno / Serie A 
+75	ST	73	66	63	79	45	76	3 	2 	 / 	 Right	400	1,658		
+Djamel Abdoun Djamel Abdoun 
+Nottingham Forest / FL Championship 
+74	RM	76	69	73	77	51	55	4 	4 	 / 	 Right	2,000	1,767		
+Foued Kadir Foued Kadir 
+Stade Rennais / Ligue 1 
+74	CAM	76	66	72	74	51	57	2 	3 	 / 	 Right	400	1,697		
+Liassine Cadamuro Liassine Cadamuro 
+Real Sociedad / Liga BBVA 
+73	CB	71	37	66	58	73	71	2 	4 	 / 	 Right	1,600	1,604		
+Liassine Cadamuro Liassine Cadamuro 
+RCD Mallorca / Liga Adelante 
+73	LB	71	37	66	58	73	71	2 	4 	 / 	 Right	200	1,604		
+Faouzi Ghoulam Faouzi Ghoulam 
+AS Saint-Etienne / Ligue 1 
+72	LB	77	55	69	69	71	70	2 	4 	 / 	 Left	1,200	1,780		
+Faouzi Ghoulam Faouzi Ghoulam 
+Napoli / Serie A 
+72	LB	77	55	69	69	71	70	2 	4 	 / 	 Left	1,000	1,780		
+Djamel Mesbah Djamel Mesbah 
+Parma / Serie A 
+71	LB	77	61	72	71	68	64	2 	3 	 / 	 Left	750	1,842		
+Djamel Mesbah Djamel Mesbah 
+Livorno / Serie A 
+71	LB	77	61	72	71	68	64	2 	3 	 / 	 Left	150,000	1,842		
+Carl Medjani Carl Medjani 
+Olympiakos CFP / Hellas Liga 
+69	CB	55	45	52	48	70	73	2 	3 	 / 	 Right	500	1,541		
+Carl Medjani Carl Medjani 
+Valenciennes FC / Ligue 1 
+69	CB	55	45	52	48	70	73	2 	3 	 / 	 Right	250	1,541		
+Abdelkader Ghezzal Abdelkader Ghezzal 
+Latina / Serie B 
+68	LW	74	66	63	70	48	68	3 	4 	 / 	 Right	250	1,656		
+Mehdi Mostefa Mehdi Mostefa 
+AC Ajaccio / Ligue 1 
+68	CDM	63	49	62	44	68	72	2 	3 	 / 	 Right	200	1,595		
+Florian Raspentino Florian Raspentino 
+SC Bastia / Ligue 1 
+68	RM	75	67	65	70	40	66	2 	3 	 / 	 Right	250	1,612		
+Kamel Ghilas Kamel Ghilas 
+Stade de Reims / Ligue 1 
+67	ST	71	67	62	71	47	55	3 	3 	 / 	 Right	200	1,625		
+Rafik Halliche Rafik Halliche 
+Académica / Liga Portuguesa 
+67	CB	60	41	55	49	68	71	2 	3 	 / 	 Right	600	1,480		
+Kamel Ghilas Kamel Ghilas 
+Charleroi / Pro League 
+67	ST	71	67	62	71	47	55	3 	3 	 / 	 Right	0	1,625		
+Walid Mesloub Walid Mesloub 
+Le Havre AC / Ligue 2 
+66	CAM	73	64	65	68	46	58	3 	3 	 / 	 Right	200	1,624		
+Salim Arrache Salim Arrache 
+AC Ajaccio / Ligue 1 
+65	CAM	71	57	68	67	46	52	3 	3 	 / 	 Left	200	1,531		
+Brahim Ferradj Brahim Ferradj 
+Stade Brestois / Ligue 2 
+62	LB	58	44	59	56	64	58	2 	3 	 / 	 Right	200	1,554		
+Najib Baouia Najib Baouia 
+Évian Thonon Gaillard FC / Ligue 1 
+60	RM	70	44	61	61	45	49	3 	3 	 / 	 Right	200	1,428			
+Bilal Ouali Bilal Ouali 
+Stade de Reims / Ligue 1 
+58	RW	74	43	49	62	36	44	3 	2 	 / 	 Right	200	1,253		
+Farid Boulaya Farid Boulaya 
+FC Istres / Ligue 2 
+56	CAM	70	49	52	64	38	46	3 	3 	 / 	 Right	200	1,396

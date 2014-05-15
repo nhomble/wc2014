@@ -1,0 +1,208 @@
+1992 122 home Ukraine Hungary 1 3 Friendly
+1992 182 away Ukraine UnitedStates 0 0 Friendly
+1992 243 away Ukraine Hungary 2 1 Friendly
+1992 307 away Ukraine Belarus 1 1 Friendly
+1993 120 home Ukraine Israel 1 1 Friendly
+1993 142 away Ukraine Lithuania 1 2 Friendly
+1993 180 away Ukraine Croatia 3 1 Friendly
+1993 295 away Ukraine UnitedStates 1 2 Friendly
+1993 299 away Ukraine Mexico 2 1 Friendly
+1993 302 away Ukraine UnitedStates 0 1 Friendly
+1994 77 away Ukraine Israel 1 0 Friendly
+1994 149 home Ukraine Belarus 3 1 Friendly
+1994 158 away Ukraine Bulgaria 1 1 Friendly
+1994 244 away Ukraine UnitedArab 1 1 Friendly
+1994 255 home Ukraine Lithuania 0 2 European Cup qualifier
+1994 259 away Ukraine SouthKorea 1 0 Friendly
+1994 261 away Ukraine SouthKorea 2 0 Friendly
+1994 291 home Ukraine Slovenia 0 0 European Cup qualifier
+1994 323 home Ukraine Estonia 3 0 European Cup qualifier
+1995 87 away Ukraine Croatia 4 0 European Cup qualifier
+1995 91 home Ukraine Italy 0 2 European Cup qualifier
+1995 119 away Ukraine Estonia 0 1 European Cup qualifier
+1995 166 home Ukraine Croatia 1 0 European Cup qualifier
+1995 254 away Ukraine Lithuania 1 3 European Cup qualifier
+1995 290 away Ukraine Slovenia 3 2 European Cup qualifier
+1995 321 away Ukraine Italy 3 1 European Cup qualifier
+1996 102 away Ukraine Moldova 2 2 Friendly
+1996 125 away Ukraine Turkey 3 2 Friendly
+1996 230 home Ukraine Lithuania 5 2 Friendly
+1996 248 away Ukraine NorthernIreland 0 1 World Cup qualifier
+1996 284 home Ukraine Portugal 2 1 World Cup qualifier
+1996 319 away Ukraine Portugal 1 0 World Cup qualifier
+1997 85 home Ukraine Moldova 1 0 Friendly
+1997 91 away Ukraine Albania 0 1 World Cup qualifier
+1997 95 home Ukraine NorthernIreland 2 1 World Cup qualifier
+1997 123 away Ukraine Germany 2 0 World Cup qualifier
+1997 131 home Ukraine Armenia 1 1 World Cup qualifier
+1997 162 home Ukraine Germany 0 0 World Cup qualifier
+1997 237 home Ukraine Albania 1 0 World Cup qualifier
+1997 290 away Ukraine Armenia 0 2 World Cup qualifier
+1997 308 away Ukraine Croatia 2 0 World Cup qualifier
+1997 325 home Ukraine Croatia 1 1 World Cup qualifier
+1998 201 home Ukraine Poland 1 2 Friendly
+1998 236 home Ukraine Georgia 4 0 Friendly
+1998 253 home Ukraine Russia 3 2 European Cup qualifier
+1998 289 away Ukraine Andorra 0 2 European Cup qualifier
+1998 293 home Ukraine Armenia 2 0 European Cup qualifier
+1999 82 away Ukraine Georgia 0 1 Friendly
+1999 89 away Ukraine France 0 0 European Cup qualifier
+1999 93 home Ukraine Iceland 1 1 European Cup qualifier
+1999 160 home Ukraine Andorra 4 0 European Cup qualifier
+1999 164 away Ukraine Armenia 0 0 European Cup qualifier
+1999 235 home Ukraine Bulgaria 1 1 Friendly
+1999 252 home Ukraine France 0 0 European Cup qualifier
+1999 256 away Ukraine Iceland 0 1 European Cup qualifier
+1999 288 away Ukraine Russia 1 1 European Cup qualifier
+1999 323 away Ukraine Slovenia 2 1 European Cup qualifier
+1999 327 home Ukraine Slovenia 1 1 European Cup qualifier
+2000 119 away Ukraine Bulgaria 0 1 Friendly
+2000 155 away Ukraine England 2 0 Friendly
+2000 250 home Ukraine Poland 1 3 World Cup qualifier
+2000 286 away Ukraine Armenia 2 3 World Cup qualifier
+2000 290 away Ukraine Norway 0 1 World Cup qualifier
+2001 45 away Ukraine Georgia 0 0 Friendly
+2001 57 away Ukraine Romania 1 0 Friendly tournament
+2001 59 away Ukraine Cyprus 4 3 Friendly tournament
+2001 86 home Ukraine Belarus 0 0 World Cup qualifier
+2001 90 away Ukraine Wales 1 1 World Cup qualifier
+2001 157 home Ukraine Norway 0 0 World Cup qualifier
+2001 161 home Ukraine Wales 1 1 World Cup qualifier
+2001 232 away Ukraine Latvia 0 1 Friendly
+2001 249 away Ukraine Belarus 0 2 World Cup qualifier
+2001 253 home Ukraine Armenia 3 0 World Cup qualifier
+2001 285 away Ukraine Poland 1 1 World Cup qualifier
+2001 320 home Ukraine Germany 1 1 World Cup qualifier
+2001 324 away Ukraine Germany 4 1 World Cup qualifier
+2002 83 away Ukraine Japan 1 0 Friendly
+2002 89 away Ukraine Romania 4 1 Friendly
+2002 110 home Ukraine Georgia 2 1 Friendly
+2002 141 home Ukraine Yugoslavia 2 0 Friendly tournament
+2002 143 away Ukraine Belarus 2 0 Friendly tournament
+2002 238 home Ukraine Iran 0 1 Friendly
+2002 255 away Ukraine Armenia 2 2 European Cup qualifier
+2002 291 home Ukraine Greece 2 0 European Cup qualifier
+2002 295 away Ukraine NorthernIreland 0 0 European Cup qualifier
+2002 330 away Ukraine Slovakia 1 1 Friendly
+2003 43 away Ukraine Turkey 0 0 Friendly
+2003 91 home Ukraine Spain 2 2 European Cup qualifier
+2003 95 home Ukraine Latvia 1 0 Friendly
+2003 123 away Ukraine Denmark 1 0 Friendly
+2003 162 home Ukraine Armenia 4 3 European Cup qualifier
+2003 166 away Ukraine Greece 1 0 European Cup qualifier
+2003 237 home Ukraine Romania 0 2 Friendly
+2003 254 home Ukraine NorthernIreland 0 0 European Cup qualifier
+2003 258 away Ukraine Spain 2 1 European Cup qualifier
+2003 290 home Ukraine Macedonia 0 0 Friendly
+2004 49 away Ukraine Libya 1 1 Friendly
+2004 93 away Ukraine Macedonia 1 0 Friendly
+2004 121 home Ukraine Slovakia 1 1 Friendly
+2004 161 away Ukraine France 1 0 Friendly
+2004 235 away Ukraine England 3 0 Friendly
+2004 252 away Ukraine Denmark 1 1 World Cup qualifier
+2004 256 away Ukraine Kazakhstan 1 2 World Cup qualifier
+2004 288 home Ukraine Greece 1 1 World Cup qualifier
+2004 292 home Ukraine Georgia 2 0 World Cup qualifier
+2004 327 away Ukraine Turkey 0 3 World Cup qualifier
+2005 40 away Ukraine Albania 0 2 World Cup qualifier
+2005 92 home Ukraine Denmark 1 0 World Cup qualifier
+2005 159 home Ukraine Kazakhstan 2 0 World Cup qualifier
+2005 163 away Ukraine Greece 0 1 World Cup qualifier
+2005 232 home Ukraine Israel 0 0 Friendly tournament
+2005 234 home Ukraine Serbia and Montenegro 2 1 Friendly tournament
+2005 251 away Ukraine Georgia 1 1 World Cup qualifier
+2005 255 home Ukraine Turkey 0 1 World Cup qualifier
+2005 287 home Ukraine Albania 2 2 World Cup qualifier
+2005 291 home Ukraine Japan 1 0 Friendly
+2006 59 away Ukraine Azerbaijan 0 0 Friendly
+2006 152 home Ukraine CostaRica 4 0 Friendly
+2006 157 away Ukraine Italy 0 0 Friendly
+2006 160 home Ukraine Libya 3 0 Friendly
+2006 163 away Ukraine Luxembourg 0 3 Friendly
+2006 169 away Ukraine Spain 4 0 World Cup
+2006 174 home Ukraine SaudiArabia 4 0 World Cup
+2006 178 home Ukraine Tunisia 1 0 World Cup
+2006 181 home Ukraine Switzerland 0 0 World Cup
+2006 185 away Ukraine Italy 3 0 World Cup
+2006 232 home Ukraine Azerbaijan 6 0 Friendly
+2006 254 home Ukraine Georgia 3 2 European Cup qualifier
+2006 286 away Ukraine Italy 2 0 European Cup qualifier
+2006 290 home Ukraine Scotland 2 0 European Cup qualifier
+2007 38 away Ukraine Israel 1 1 Friendly
+2007 86 away Ukraine FaroeIslands 0 2 European Cup qualifier
+2007 90 home Ukraine Lithuania 1 0 European Cup qualifier
+2007 157 away Ukraine France 2 0 European Cup qualifier
+2007 239 home Ukraine Uzbekistan 2 1 Friendly
+2007 256 away Ukraine Georgia 1 1 European Cup qualifier
+2007 260 home Ukraine Italy 1 2 European Cup qualifier
+2007 292 away Ukraine Scotland 3 1 European Cup qualifier
+2007 296 home Ukraine FaroeIslands 5 0 European Cup qualifier
+2007 327 away Ukraine Lithuania 2 0 European Cup qualifier
+2007 331 home Ukraine France 2 2 European Cup qualifier
+2008 37 away Ukraine Cyprus 1 1 Friendly
+2008 88 home Ukraine Serbia 2 0 Friendly
+2008 148 away Ukraine Holland 3 0 Friendly
+2008 156 away Ukraine Sweden 0 1 Friendly
+2008 237 home Ukraine Poland 1 0 Friendly
+2008 254 home Ukraine Belarus 1 0 World Cup qualifier
+2008 258 away Ukraine Kazakhstan 1 3 World Cup qualifier
+2008 290 home Ukraine Croatia 0 0 World Cup qualifier
+2008 329 home Ukraine Norway 1 0 Friendly
+2009 41 home Ukraine Slovakia 3 2 Friendly tournament
+2009 42 home Ukraine Serbia 1 0 Friendly tournament
+2009 94 away Ukraine England 2 1 World Cup qualifier
+2009 161 away Ukraine Croatia 2 2 World Cup qualifier
+2009 165 home Ukraine Kazakhstan 2 1 World Cup qualifier
+2009 229 home Ukraine Turkey 0 3 Friendly
+2009 253 home Ukraine Andorra 5 0 World Cup qualifier
+2009 257 away Ukraine Belarus 0 0 World Cup qualifier
+2009 289 home Ukraine England 1 0 World Cup qualifier
+2009 293 away Ukraine Andorra 0 6 World Cup qualifier
+2009 324 away Ukraine Greece 0 0 World Cup qualifier
+2009 328 home Ukraine Greece 0 1 World Cup qualifier
+2010 149 home Ukraine Lithuania 4 0 Friendly
+2010 153 home Ukraine Romania 3 2 Friendly
+2010 157 away Ukraine Norway 0 1 Friendly
+2010 228 home Ukraine Holland 1 1 Friendly
+2010 252 away Ukraine Poland 1 1 Friendly
+2010 255 home Ukraine Chile 2 1 Friendly
+2010 287 home Ukraine Canada 2 2 Friendly
+2010 290 away Ukraine Brazil 2 0 Friendly
+2010 327 away Ukraine Switzerland 2 2 Friendly
+2011 39 home Ukraine Romania 2 2 Friendly tournament
+2011 40 home Ukraine Sweden 1 1 Friendly tournament
+2011 91 home Ukraine Italy 0 2 Friendly
+2011 156 home Ukraine Uzbekistan 2 0 Friendly
+2011 161 home Ukraine France 1 4 Friendly
+2011 227 home Ukraine Sweden 0 1 Friendly
+2011 250 home Ukraine Uruguay 2 3 Friendly
+2011 254 away Ukraine Czechia 4 0 Friendly
+2011 286 home Ukraine Bulgaria 3 0 Friendly
+2011 290 away Ukraine Estonia 0 2 Friendly
+2011 321 home Ukraine Germany 3 3 Friendly
+2011 325 home Ukraine Austria 2 1 Friendly
+2012 60 away Ukraine Israel 2 3 Friendly
+2012 152 home Ukraine Estonia 4 0 Friendly
+2012 156 away Ukraine Austria 3 2 Friendly
+2012 160 away Ukraine Turkey 2 0 Friendly
+2012 166 home Ukraine Sweden 2 1 European Cup
+2012 170 home Ukraine France 0 2 European Cup
+2012 174 home Ukraine England 0 1 European Cup
+2012 232 home Ukraine Czechia 0 0 Friendly
+2012 259 away Ukraine England 1 1 World Cup qualifier
+2012 291 away Ukraine Moldova 0 0 World Cup qualifier
+2012 295 home Ukraine Montenegro 0 1 World Cup qualifier
+2012 324 away Ukraine Bulgaria 0 1 Friendly
+2013 37 away Ukraine Norway 0 2 Friendly
+2013 84 away Ukraine Poland 1 3 World Cup qualifier
+2013 88 home Ukraine Moldova 2 1 World Cup qualifier
+2013 157 home Ukraine Cameroon 0 0 Friendly
+2013 162 away Ukraine Montenegro 0 4 World Cup qualifier
+2013 231 home Ukraine Israel 2 0 Friendly
+2013 254 home Ukraine SanMarino 9 0 World Cup qualifier
+2013 258 home Ukraine England 0 0 World Cup qualifier
+2013 290 home Ukraine Poland 1 0 World Cup qualifier
+2013 294 away Ukraine SanMarino 0 8 World Cup qualifier
+2013 325 home Ukraine France 2 0 World Cup qualifier
+2013 329 away Ukraine France 3 0 World Cup qualifier
+2014 67 home Ukraine UnitedStates 2 0 Friendly

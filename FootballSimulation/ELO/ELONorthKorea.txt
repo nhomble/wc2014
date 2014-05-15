@@ -1,0 +1,2880 @@
+October 07
+1956	China
+North Korea	0
+1	Friendly tournament
+in China	-16
++16	1508
+1616	-3
+-	50
+30
+October 10
+1956	North Korea
+North Vietnam	3
+0	Friendly tournament
+in China	+4
+-4	1620
+1192	+1
+-1	29
+111
+October 22
+1959	North Korea
+North Vietnam	5
+0	Friendly tournament
+in North Korea	+3
+-3	1623
+1189	+2
+0	33
+117
+October 25
+1959	North Korea
+China	1
+0	Friendly tournament
+in North Korea	+6
+-6	1629
+1487	+1
+-1	32
+54
+October 04
+1960	China
+North Korea	1
+0	Friendly tournament
+in North Vietnam	+21
+-21	1515
+1608	+6
+-3	52
+37
+October 08
+1960	North Vietnam
+North Korea	1
+3	Friendly tournament
+in North Vietnam	-6
++6	1179
+1614	-1
++1	124
+36
+October 10
+1960	North Korea
+Mongolia	10
+1	Friendly tournament
+in North Vietnam	+1
+-1	1615
+795	0
+-1	36
+140
+March 22
+1964	Burma
+North Korea	0
+0	Olympic Games qualifier
+in Burma	+14
+-14	1220
+1601	+1
+-4	127
+38
+April 02
+1964	North Korea
+Burma	1
+0	Olympic Games qualifier
+in North Korea	+2
+-2	1603
+1218	0
+0	38
+127
+May 31
+1964	North Korea
+Thailand	2
+0	Olympic Games qualifier
+in Burma	+5
+-5	1608
+1191	0
+-1	40
+134
+June 28
+1964	North Korea
+Thailand	5
+0	Olympic Games qualifier
+in Burma	+7
+-7	1615
+1184	+2
+0	37
+134
+November 21
+1965	North Korea
+Australia	6
+1	World Cup qualifier
+in Cambodia	+29
+-29	1644
+1489	+1
+-10	33
+69
+November 24
+1965	North Korea
+Australia	3
+1	World Cup qualifier
+in Cambodia	+17
+-17	1661
+1472	0
+-3	33
+72
+July 12
+1966	Soviet Union
+North Korea	3
+0	World Cup
+in England	+20
+-20	1929
+1641	+2
+-1	4
+34
+July 15
+1966	Chile
+North Korea	1
+1	World Cup
+in England	-5
++5	1693
+1646	0
+0	27
+34
+July 19
+1966	North Korea
+Italy	1
+0	World Cup
+in England	+49
+-49	1695
+1862	+8
+-1	26
+8
+July 23
+1966	Portugal
+North Korea	5
+3	World Cup
+in England	+19
+-19	1946
+1676	+2
+-4	4
+30
+October 10
+1971	Syria
+North Korea	0
+0	Olympic Games qualifier
+in Syria	+6
+-6	1468
+1670	+1
+-2	69
+33
+October 17
+1971	North Korea
+Syria	1
+0	Olympic Games qualifier
+in North Korea	+6
+-6	1676
+1448	0
+-4	33
+75
+November 12
+1971	Iraq
+North Korea	1
+0	Olympic Games qualifier
+in Iraq	+25
+-25	1520
+1651	+6
+-5	59
+37
+November 19
+1971	North Korea
+Iraq	3
+0	Olympic Games qualifier
+in North Korea	+15
+-15	1666
+1505	+3
+-2	34
+61
+May 04
+1972	North Korea
+Iran	0
+0	Olympic Games qualifier
+in North Korea	-9
++9	1657
+1611	-1
++1	35
+41
+May 30
+1972	Iran
+North Korea	0
+0	Olympic Games qualifier
+in Iran	-7
++7	1678
+1664	-1
++1	32
+35
+June 01
+1972	Iran
+North Korea	2
+0	Olympic Games qualifier
+in Pakistan	+29
+-29	1707
+1635	+4
+-3	28
+38
+May 04
+1973	Iran
+North Korea	0
+0	World Cup qualifier
+in Iran	-3
++3	1589
+1638	-2
+0	45
+37
+May 06
+1973	North Korea
+Syria	1
+1	World Cup qualifier
+in Iran	-10
++10	1628
+1448	-3
++3	40
+71
+May 08
+1973	Kuwait
+North Korea	0
+0	World Cup qualifier
+in Iran	+11
+-11	1412
+1617	+3
+-1	83
+41
+May 11
+1973	Iran
+North Korea	2
+1	World Cup qualifier
+in Iran	+15
+-15	1619
+1602	+2
+-2	41
+43
+May 13
+1973	North Korea
+Syria	3
+0	World Cup qualifier
+in Iran	+22
+-22	1624
+1446	+2
+-3	41
+71
+May 15
+1973	Kuwait
+North Korea	2
+0	World Cup qualifier
+in Iran	+48
+-48	1424
+1576	+16
+-7	79
+48
+July 25
+1973	Norway
+North Korea	3
+0	Friendly
+in Norway	+21
+-21	1426
+1555	+6
+-2	79
+51
+May 25
+1974	Bulgaria
+North Korea	6
+1	Friendly
+in Bulgaria	+5
+-5	1795
+1550	+2
+-1	16
+53
+September 03
+1974	North Korea
+Taiwan	2
+0	Asian Games
+in Iran	+9
+-9	1559
+1239	+2
+-1	50
+129
+September 05
+1974	North Korea
+India	4
+1	Asian Games
+in Iran	+15
+-15	1574
+1311	+5
+-1	46
+112
+September 07
+1974	Iraq
+North Korea	1
+0	Asian Games
+in Iran	+19
+-19	1605
+1555	+2
+-5	41
+51
+September 09
+1974	North Korea
+Kuwait	2
+0	Asian Games
+in Iran	+29
+-29	1584
+1519	+7
+-8	44
+61
+September 13
+1974	Burma
+North Korea	2
+2	Asian Games
+in Iran	+5
+-5	1508
+1579	+1
+-1	63
+45
+September 16
+1974	Malaysia
+North Korea	2
+1	Asian Games
+in Iran	+25
+-25	1524
+1554	+7
+-7	58
+52
+May 01
+1975	China
+North Korea	1
+0	Asian Cup qualifier
+in Hong Kong	+23
+-23	1529
+1531	+4
+-5	58
+57
+May 05
+1975	North Korea
+Singapore	1
+0	Asian Cup qualifier
+in Hong Kong	+4
+-4	1535
+1167	0
+-1	57
+146
+May 08
+1975	North Korea
+Japan	1
+0	Asian Cup qualifier
+in Hong Kong	+15
+-15	1550
+1427	+4
+-5	53
+80
+May 12
+1975	Hong Kong
+North Korea	3
+3	Asian Cup qualifier
+in Hong Kong	+9
+-9	1282
+1541	+1
+-4	123
+56
+May 15
+1975	North Korea
+China	2
+0	Asian Cup qualifier
+in Hong Kong	+31
+-31	1572
+1525	+9
+-8	48
+59
+May 05
+1976	Bulgaria
+North Korea	3
+0	Friendly
+in Bulgaria	+7
+-7	1725
+1565	0
+-1	27
+49
+June
+1976	Indonesia
+North Korea	0
+0	Olympic Games qualifier
+in Indonesia	+9
+-9	1295
+1556	+11
++5	110
+45
+June
+1976	Indonesia
+North Korea	1
+2	Olympic Games qualifier
+in Indonesia	-11
++11	1274
+1567	+11
++5	110
+45
+June
+1976	North Korea
+Malaysia	2
+0	Olympic Games qualifier
+in Indonesia	+19
+-19	1586
+1413	+5
+0	45
+80
+June
+1976	North Korea
+Singapore	2
+0	Olympic Games qualifier
+in Indonesia	+6
+-6	1592
+1189	+5
++3	45
+134
+June
+1976	North Korea
+Papua New Guinea	4
+0	Olympic Games qualifier
+in Indonesia	+6
+-6	1598
+1148	+5
+-15	45
+155
+July 21
+1976	Canada
+North Korea	1
+3	Olympic Games
+in Canada	-39
++39	1411
+1637	-5
++6	78
+40
+July 23
+1976	Soviet Union
+North Korea	3
+0	Olympic Games
+in Canada	+26
+-26	1853
+1611	+1
+-4	12
+44
+July 25
+1976	Poland
+North Korea	5
+0	Olympic Games
+in Canada	+20
+-20	1915
+1591	+1
+-2	6
+46
+December 09
+1978	Thailand
+North Korea	0
+3	Asian Games
+in Thailand	-20
++20	1312
+1611	-3
++3	108
+42
+December 11
+1978	North Korea
+Burma	3
+0	Asian Games
+in Thailand	+20
+-20	1631
+1434	+4
+-2	38
+78
+December 16
+1978	North Korea
+Iraq	1
+0	Asian Games
+in Thailand	+18
+-18	1649
+1573	+3
+-5	36
+51
+December 18
+1978	North Korea
+India	3
+1	Asian Games
+in Thailand	+6
+-6	1655
+1266	+2
+0	34
+122
+December 20
+1978	Kuwait
+North Korea	2
+2	Asian Games
+in Thailand	+1
+-1	1641
+1654	+1
+-1	36
+35
+December 22
+1978	North Korea
+South Korea	0
+0	Asian Games
+in Thailand	+8
+-8	1662
+1794	+2
+-1	33
+18
+January 09
+1979	North Korea
+Hong Kong	3
+0	Asian Cup qualifier
+in Thailand	+8
+-8	1670
+1308	0
+-3	33
+112
+January 11
+1979	Malaysia
+North Korea	1
+1	Asian Cup qualifier
+in Thailand	+9
+-9	1513
+1661	+1
+0	63
+33
+January 16
+1979	North Korea
+Indonesia	3
+1	Asian Cup qualifier
+in Thailand	+4
+-4	1665
+1208	0
+-2	32
+139
+January 19
+1979	Thailand
+North Korea	0
+1	Asian Cup qualifier
+in Thailand	-10
++10	1354
+1675	-2
++1	99
+31
+January 23
+1979	North Korea
+Malaysia	1
+0	Asian Cup qualifier
+in Thailand	+11
+-11	1686
+1503	+1
+-1	30
+64
+September 15
+1980	North Korea
+Bangladesh	3
+2	Asian Cup
+in Kuwait	+1
+-1	1687
+1070	0
+0	32
+162
+September 18
+1980	North Korea
+Syria	2
+1	Asian Cup
+in Kuwait	+6
+-6	1693
+1323	+1
+-1	31
+109
+September 21
+1980	Iran
+North Korea	3
+2	Asian Cup
+in Kuwait	+23
+-23	1737
+1670	0
+-3	26
+34
+September 25
+1980	North Korea
+China	2
+1	Asian Cup
+in Kuwait	+17
+-17	1687
+1544	+2
+-5	32
+60
+September 28
+1980	South Korea
+North Korea	2
+1	Asian Cup
+in Kuwait	+17
+-17	1817
+1670	+2
+-2	15
+34
+September 30
+1980	Iran
+North Korea	3
+0	Asian Cup
+in Kuwait	+39
+-39	1749
+1631	0
+-5	26
+39
+December 22
+1980	North Korea
+Macao	3
+0	World Cup qualifier
+in Hong Kong	+4
+-4	1635
+1124	+1
+-2	39
+156
+December 26
+1980	North Korea
+Singapore	1
+0	World Cup qualifier
+in Hong Kong	+3
+-3	1638
+1189	+1
+0	38
+145
+December 28
+1980	Hong Kong
+North Korea	2
+2	World Cup qualifier
+in Hong Kong	+10
+-10	1352
+1628	+1
+-2	105
+40
+December 30
+1980	North Korea
+Japan	1
+0	World Cup qualifier
+in Hong Kong	+11
+-11	1639
+1438	+2
+-2	38
+81
+January 04
+1981	China
+North Korea	4
+2	World Cup qualifier
+in Hong Kong	+39
+-39	1574
+1600	+9
+-6	49
+44
+March 06
+1982	Iran
+North Korea	2
+0	Friendly
+in Iran	+6
+-6	1752
+1594	0
+0	23
+44
+November 19
+1982	North Korea
+Syria	1
+1	Asian Games
+in India	-14
++14	1580
+1301	-3
++2	49
+115
+November 22
+1982	North Korea
+Saudi Arabia	2
+2	Asian Games
+in India	-6
++6	1574
+1473	0
++2	49
+77
+November 25
+1982	North Korea
+Thailand	3
+0	Asian Games
+in India	+23
+-23	1597
+1427	+4
+-1	45
+86
+November 28
+1982	North Korea
+China	1
+0	Asian Games
+in India	+16
+-16	1613
+1506	+3
+-3	42
+66
+December 01
+1982	Kuwait
+North Korea	3
+2	Asian Games
+in India	+17
+-17	1678
+1596	+3
+-3	33
+45
+January 19
+1985	Singapore
+North Korea	1
+1	World Cup qualifier
+in Singapore	+12
+-12	1262
+1584	+1
+-6	131
+52
+February 05
+1985	Iran
+North Korea	1
+0	Friendly
+in Iran	+5
+-5	1659
+1579	+1
+-2	35
+53
+March 21
+1985	Japan
+North Korea	1
+0	World Cup qualifier
+in Japan	+16
+-16	1567
+1563	+3
+-3	56
+58
+April 29
+1985	North Korea
+Nepal	8
+1	Friendly tournament
+in Pakistan	+2
+-2	1565
+916	+1
+0	57
+179
+April 30
+1985	North Korea
+Japan	0
+0	World Cup qualifier
+in North Korea	-5
++5	1560
+1572	-1
++2	58
+54
+May 02
+1985	North Korea
+Indonesia	7
+0	Friendly tournament
+in Pakistan	+11
+-11	1571
+1260	+2
+-5	56
+129
+May 04
+1985	North Korea
+Bangladesh	1
+0	Friendly tournament
+in Pakistan	+2
+-2	1573
+1137	+2
+-1	54
+155
+May 25
+1985	North Korea
+Singapore	2
+0	World Cup qualifier
+in North Korea	+5
+-5	1578
+1235	+1
+-2	52
+137
+July 12
+1985	Syria
+North Korea	2
+2	Friendly tournament
+in Syria	+4
+-4	1379
+1574	+1
+0	94
+52
+March 02
+1986	Thailand
+North Korea	0
+2	Friendly
+in Thailand	-9
++9	1322
+1583	0
++4	108
+50
+March 08
+1986	North Korea
+China	0
+0	King's Cup
+in Thailand	-2
++2	1581
+1545	0
+0	50
+62
+March 10
+1986	North Korea
+China	2
+0	King's Cup
+in Thailand	+20
+-20	1601
+1525	+6
+-3	44
+65
+April 30
+1986	Bulgaria
+North Korea	3
+0	Friendly
+in Bulgaria	+6
+-6	1776
+1595	+1
+0	23
+47
+August 24
+1986	China
+North Korea	0
+0	Merlion Tournament
+in China	-2
++2	1534
+1597	0
+0	64
+45
+August 26
+1986	North Korea
+Indonesia	2
+1	Merlion Tournament
+in Singapore	+2
+-2	1599
+1150	+1
+0	44
+153
+August 27
+1986	Canada
+North Korea	0
+0	Merlion Tournament
+in Singapore	+1
+-1	1575
+1598	0
+-1	56
+45
+August 30
+1986	Singapore
+North Korea	0
+2	Merlion Tournament
+in Singapore	-11
++11	1299
+1609	-6
++1	117
+44
+August 31
+1986	North Korea
+Malaysia	4
+0	Merlion Tournament
+in Singapore	+7
+-7	1616
+1263	+2
+-5	42
+128
+September 04
+1986	North Korea
+Canada	2
+0	Merlion Tournament
+in Singapore	+19
+-19	1635
+1544	+1
+-2	41
+61
+September 06
+1986	China
+North Korea	2
+1	Merlion Tournament
+in Singapore	+17
+-17	1604
+1618	+7
+-1	45
+42
+October 07
+1986	Poland
+North Korea	2
+2	Friendly
+in Poland	-5
++5	1722
+1623	-1
++1	28
+43
+February 27
+1987	North Korea
+Indonesia	2
+0	King's Cup
+in Thailand	+4
+-4	1627
+1235	0
+0	42
+134
+June 15
+1988	Hong Kong
+North Korea	0
+1	Asian Cup qualifier
+in Nepal	-6
++6	1307
+1633	-3
++1	114
+42
+June 17
+1988	North Korea
+Syria	1
+2	Asian Cup qualifier
+in Nepal	-32
++32	1601
+1425	-4
++7	46
+84
+June 19
+1988	Nepal
+North Korea	0
+1	Asian Cup qualifier
+in Nepal	-2
++2	995
+1603	-1
+0	173
+46
+June 23
+1988	Iran
+North Korea	0
+0	Asian Cup qualifier
+in Nepal	-3
++3	1657
+1606	0
+0	39
+46
+January
+1989	India
+North Korea	1
+2	Nehru Gold Cup
+in India	-5
++5	1150
+1611	-2
++2	151
+43
+May 21
+1989	Indonesia
+North Korea	0
+0	World Cup qualifier
+in Indonesia	+13
+-13	1267
+1598	+7
+0	120
+45
+May 27
+1989	Hong Kong
+North Korea	1
+2	World Cup qualifier
+in Hong Kong	-8
++8	1254
+1606	-4
+0	128
+45
+June 04
+1989	Japan
+North Korea	2
+1	World Cup qualifier
+in Japan	+24
+-24	1461
+1582	+7
+-3	79
+49
+June 25
+1989	North Korea
+Japan	2
+0	World Cup qualifier
+in North Korea	+13
+-13	1595
+1446	+4
+-1	46
+81
+July 02
+1989	North Korea
+Hong Kong	4
+1	World Cup qualifier
+in North Korea	+5
+-5	1600
+1245	+1
+-2	45
+133
+July 09
+1989	North Korea
+Indonesia	2
+1	World Cup qualifier
+in North Korea	+3
+-3	1603
+1274	+1
+0	44
+123
+October 12
+1989	North Korea
+United Arab Emirates	0
+0	World Cup qualifier
+in Singapore	-5
++5	1598
+1514	-2
++2	43
+63
+October 16
+1989	North Korea
+South Korea	0
+1	World Cup qualifier
+in Singapore	-13
++13	1585
+1744	-5
++2	48
+24
+October 20
+1989	North Korea
+Qatar	2
+0	World Cup qualifier
+in Singapore	+22
+-22	1607
+1473	+8
+-2	40
+73
+October 24
+1989	China
+North Korea	1
+0	World Cup qualifier
+in Singapore	+23
+-23	1573
+1584	+6
+-8	52
+48
+October 28
+1989	North Korea
+Saudi Arabia	0
+2	World Cup qualifier
+in Singapore	-34
++34	1550
+1571	-8
++10	57
+50
+July 27
+1990	China
+North Korea	2
+0	Dynasty Cup
+in China	+18
+-18	1540
+1532	+5
+-7	59
+63
+July 30
+1990	South Korea
+North Korea	1
+0	Dynasty Cup
+in China	+9
+-9	1681
+1523	+1
+-1	33
+64
+August 01
+1990	North Korea
+Japan	1
+0	Dynasty Cup
+in China	+11
+-11	1534
+1417	+2
+-5	62
+91
+September 26
+1990	North Korea
+Malaysia	0
+0	Asian Games
+in China	-12
++12	1522
+1306	-4
++5	64
+114
+September 28
+1990	Iran
+North Korea	2
+1	Asian Games
+in China	+18
+-18	1581
+1504	+3
+-5	51
+67
+October 01
+1990	North Korea
+Saudi Arabia	0
+0	Asian Games
+in China	+5
+-5	1509
+1589	+3
+-1	65
+49
+October 03
+1990	North Korea
+Thailand	1
+0	Asian Games
+in China	+13
+-13	1522
+1362	+4
+-3	61
+102
+October 06
+1990	Iran
+North Korea	0
+0	Asian Games
+in China	-5
++5	1615
+1527	-1
++1	41
+60
+October 11
+1990	North Korea
+South Korea	2
+1	Friendly
+in North Korea	+13
+-13	1540
+1708	+4
+-2	57
+28
+October 23
+1990	South Korea
+North Korea	1
+0	Friendly
+in South Korea	+4
+-4	1712
+1536	+1
+-2	30
+59
+October 19
+1991	United States
+North Korea	1
+2	Friendly
+in the United States	-16
++16	1655
+1552	-2
++3	35
+54
+June 04
+1992	North Korea
+Taiwan	6
+0	Asian Cup qualifier
+in North Korea	+5
+-5	1557
+1160	0
+0	56
+154
+June 05
+1992	North Korea
+Macao	2
+0	Asian Cup qualifier
+in North Korea	+2
+-2	1559
+1090	+1
+0	55
+172
+June 07
+1992	North Korea
+Hong Kong	0
+0	Asian Cup qualifier
+in North Korea	-17
++17	1542
+1242	-3
++1	58
+135
+August 22
+1992	China
+North Korea	2
+2	Dynasty Cup
+in China	-4
++4	1529
+1546	-1
++1	63
+58
+August 24
+1992	North Korea
+South Korea	1
+1	Dynasty Cup
+in China	+4
+-4	1550
+1649	+1
+0	57
+35
+August 26
+1992	Japan
+North Korea	4
+1	Dynasty Cup
+in China	+34
+-34	1475
+1516	+8
+-7	78
+64
+October 30
+1992	Iran
+North Korea	2
+0	Asian Cup
+in Japan	+25
+-25	1658
+1491	+7
+-4	34
+70
+November 01
+1992	Japan
+North Korea	1
+1	Asian Cup
+in Japan	-6
++6	1468
+1497	-2
++3	82
+68
+November 03
+1992	United Arab Emirates
+North Korea	2
+1	Asian Cup
+in Japan	+26
+-26	1505
+1471	+9
+-12	68
+81
+January 19
+1993	North Korea
+Bolivia	2
+1	Nehru Gold Cup
+in India	+23
+-23	1494
+1498	+8
+-6	75
+72
+January 27
+1993	Romania
+North Korea	3
+3	Nehru Gold Cup
+in India	-14
++14	1787
+1508	-2
++8	17
+66
+January 29
+1993	North Korea
+Russia	1
+0	Nehru Gold Cup
+in India	+35
+-35	1543
+1801	+7
+-1	59
+14
+January 31
+1993	North Korea
+Finland	3
+2	Nehru Gold Cup
+in India	+18
+-18	1561
+1498	+4
+-7	55
+73
+February 01
+1993	North Korea
+Romania	2
+0	Nehru Gold Cup
+in India	+47
+-47	1608
+1743	+7
+-7	48
+23
+April 09
+1993	North Korea
+Vietnam	3
+0	World Cup qualifier
+in Qatar	+4
+-4	1612
+1126	+2
+-2	46
+163
+April 11
+1993	North Korea
+Singapore	2
+1	World Cup qualifier
+in Qatar	+5
+-5	1617
+1270	+2
+-2	44
+131
+April 13
+1993	North Korea
+Indonesia	4
+0	World Cup qualifier
+in Qatar	+9
+-9	1626
+1256	+3
+-4	41
+137
+April 18
+1993	Qatar
+North Korea	1
+2	World Cup qualifier
+in Qatar	-19
++19	1482
+1645	-6
++6	80
+35
+April 24
+1993	North Korea
+Vietnam	1
+0	World Cup qualifier
+in Singapore	+2
+-2	1647
+1135	0
+0	35
+160
+April 26
+1993	Singapore
+North Korea	1
+3	World Cup qualifier
+in Singapore	-11
++11	1279
+1658	-3
++3	129
+32
+April 28
+1993	Indonesia
+North Korea	1
+2	World Cup qualifier
+in Singapore	-3
++3	1187
+1661	0
+0	154
+32
+May 02
+1993	North Korea
+Qatar	2
+2	World Cup qualifier
+in Singapore	-10
++10	1651
+1486	-2
++4	34
+78
+October 15
+1993	North Korea
+Iraq	3
+2	World Cup qualifier
+in Qatar	+19
+-19	1670
+1610	+6
+-7	32
+48
+October 18
+1993	North Korea
+Saudi Arabia	1
+2	World Cup qualifier
+in Qatar	-21
++21	1649
+1675	-6
++4	38
+32
+October 21
+1993	North Korea
+Japan	0
+3	World Cup qualifier
+in Qatar	-40
++40	1609
+1642	-9
++9	47
+39
+October 25
+1993	Iran
+North Korea	2
+1	World Cup qualifier
+in Qatar	+23
+-23	1581
+1586	+4
+-5	55
+52
+October 28
+1993	South Korea
+North Korea	3
+0	World Cup qualifier
+in Qatar	+31
+-31	1658
+1555	+6
+-8	37
+60
+September 13
+1998	Kuwait
+North Korea	4
+0	Friendly
+in Kuwait	+12
+-12	1603
+1543	+2
+-1	55
+61
+December 02
+1998	United Arab Emirates
+North Korea	3
+3	Asian Games
+in Thailand	0
+0	1551
+1543	0
+0	61
+65
+December 07
+1998	Uzbekistan
+North Korea	4
+0	Asian Games
+in Thailand	+42
+-42	1542
+1501	+9
+-7	65
+73
+December 09
+1998	North Korea
+Turkmenistan	1
+1	Asian Games
+in Thailand	-5
++5	1496
+1423	-2
+0	75
+99
+December 11
+1998	North Korea
+India	2
+0	Asian Games
+in Thailand	+7
+-7	1503
+1141	+4
+-2	70
+167
+February 23
+1999	Thailand
+North Korea	2
+2	King's Cup
+in Thailand	0
+0	1402
+1503	0
+0	104
+70
+February 08
+2000	Syria
+North Korea	5
+1	Friendly
+in Syria	+18
+-18	1438
+1485	+8
+-6	90
+79
+February 13
+2000	Syria
+North Korea	0
+0	Friendly
+in Syria	-2
++2	1436
+1487	-1
++2	91
+77
+February 16
+2000	Lebanon
+North Korea	1
+0	Friendly
+in Lebanon	+11
+-11	1354
+1476	+2
+-6	116
+82
+March 25
+2000	Thailand
+North Korea	0
+0	Asian Cup qualifier
+in Malaysia	-1
++1	1495
+1477	0
++1	74
+83
+March 27
+2000	Malaysia
+North Korea	1
+1	Asian Cup qualifier
+in Malaysia	+8
+-8	1237
+1469	+3
+-1	146
+84
+March 29
+2000	North Korea
+Taiwan	2
+0	Asian Cup qualifier
+in Malaysia	+5
+-5	1474
+1030	+1
+-1	83
+185
+April 04
+2000	Thailand
+North Korea	5
+3	Asian Cup qualifier
+in Thailand	+22
+-22	1492
+1452	+6
+-4	77
+86
+April 06
+2000	North Korea
+Malaysia	4
+1	Asian Cup qualifier
+in Thailand	+16
+-16	1468
+1218	+2
+-3	84
+151
+April 08
+2000	North Korea
+Taiwan	1
+0	Asian Cup qualifier
+in Thailand	+3
+-3	1471
+1057	+1
+-1	83
+182
+January 23
+2001	Egypt
+North Korea	1
+0	Friendly
+in Egypt	+3
+-3	1703
+1468	0
+0	34
+79
+January 28
+2001	Jordan
+North Korea	1
+0	Friendly
+in Jordan	+8
+-8	1449
+1460	+3
+-3	87
+82
+January 30
+2001	Jordan
+North Korea	0
+2	Friendly
+in Jordan	-19
++19	1430
+1479	-6
++4	93
+78
+July 23
+2001	Saudi Arabia
+North Korea	1
+0	Friendly
+in Malaysia	+4
+-4	1705
+1475	+1
+0	31
+79
+August 03
+2001	China
+North Korea	2
+2	Friendly tournament
+in China	-11
++11	1668
+1486	-1
++2	41
+79
+August 05
+2001	North Korea
+Kuwait	1
+1	Friendly tournament
+in China	+4
+-4	1490
+1581	0
+-1	79
+58
+February 07
+2002	Singapore
+North Korea	2
+1	Friendly
+in Singapore	+14
+-14	1239
+1476	+1
+-4	150
+83
+February 10
+2002	North Korea
+Qatar	1
+1	King's Cup
+in Thailand	+4
+-4	1480
+1577	+2
+0	81
+55
+February 12
+2002	North Korea
+Singapore	4
+2	King's Cup
+in Thailand	+9
+-9	1489
+1223	+2
+-1	79
+151
+February 14
+2002	Thailand
+North Korea	0
+1	King's Cup
+in Thailand	-19
++19	1468
+1508	-6
++5	86
+74
+February 16
+2002	Thailand
+North Korea	0
+0	King's Cup
+in Thailand	-3
++3	1465
+1511	0
+0	86
+74
+September 07
+2002	South Korea
+North Korea	0
+0	Friendly
+in South Korea	-8
++8	1745
+1519	-1
++2	28
+69
+February 16
+2003	Thailand
+North Korea	2
+2	King's Cup
+in Thailand	-1
++1	1441
+1520	-1
++1	93
+67
+February 18
+2003	North Korea
+Sweden	1
+1	King's Cup
+in Thailand	+10
+-10	1530
+1779	+2
+-1	65
+20
+February 20
+2003	North Korea
+Qatar	2
+2	King's Cup
+in Thailand	+2
+-2	1532
+1572	0
+0	65
+60
+February 22
+2003	Sweden
+North Korea	4
+0	King's Cup
+in Thailand	+10
+-10	1800
+1522	0
+0	19
+65
+March 24
+2003	North Korea
+India	2
+0	Asian Cup qualifier
+in North Korea	+3
+-3	1525
+1124	0
+0	66
+168
+March 30
+2003	India
+North Korea	1
+1	Asian Cup qualifier
+in India	+14
+-14	1138
+1511	+2
+-5	166
+70
+September 04
+2003	North Korea
+Lebanon	0
+1	Asian Cup qualifier
+in North Korea	-31
++31	1480
+1425	-9
++12	81
+94
+October 27
+2003	North Korea
+Iran	1
+3	Asian Cup qualifier
+in North Korea	-21
++21	1459
+1713	-4
++6	86
+30
+November 03
+2003	Lebanon
+North Korea	1
+1	Asian Cup qualifier
+in Lebanon	-3
++3	1406
+1462	-1
+0	103
+86
+November 18
+2003	Jordan
+North Korea	3
+0	Asian Cup qualifier
+in Jordan	+17
+-17	1576
+1445	+2
+-4	61
+89
+February 18
+2004	Yemen
+North Korea	1
+1	World Cup qualifier
+in Yemen	+11
+-11	1150
+1434	+1
+-5	167
+93
+March 31
+2004	North Korea
+United Arab Emirates	0
+0	World Cup qualifier
+in North Korea	-5
++5	1429
+1451	-4
++1	98
+89
+June 09
+2004	Thailand
+North Korea	1
+4	World Cup qualifier
+in Thailand	-47
++47	1406
+1476	-14
++16	101
+81
+September 08
+2004	North Korea
+Thailand	4
+1	World Cup qualifier
+in North Korea	+15
+-15	1491
+1335	+2
+-3	80
+123
+October 13
+2004	North Korea
+Yemen	2
+1	World Cup qualifier
+in North Korea	+3
+-3	1494
+1174	0
+-1	81
+161
+November 17
+2004	United Arab Emirates
+North Korea	1
+0	World Cup qualifier
+in United Arab Emirates	+21
+-21	1397
+1473	+6
+-8	101
+87
+February 02
+2005	Kuwait
+North Korea	0
+0	Friendly
+in China	-1
++1	1502
+1474	0
+0	77
+87
+February 09
+2005	Japan
+North Korea	2
+1	World Cup qualifier
+in Japan	+3
+-3	1835
+1471	-1
++1	15
+86
+March 07
+2005	North Korea
+Mongolia	6
+0	East Asian Championship qualifier
+in Taiwan	+1
+-1	1472
+735	0
+0	85
+214
+March 09
+2005	Taiwan
+North Korea	0
+2	East Asian Championship qualifier
+in Taiwan	-7
++7	1025
+1479	-1
++1	185
+84
+March 11
+2005	North Korea
+Guam	21
+0	East Asian Championship qualifier
+in Taiwan	+1
+-1	1480
+548	+1
+0	83
+227
+March 13
+2005	North Korea
+Hong Kong	2
+0	East Asian Championship qualifier
+in Taiwan	+12
+-12	1492
+1233	+4
+0	79
+144
+March 25
+2005	North Korea
+Bahrain	1
+2	World Cup qualifier
+in North Korea	-21
++21	1471
+1604	-5
++9	85
+53
+March 30
+2005	North Korea
+Iran	0
+2	World Cup qualifier
+in North Korea	-12
++12	1459
+1815	-3
++3	88
+17
+June 03
+2005	Iran
+North Korea	1
+0	World Cup qualifier
+in Iran	+3
+-3	1819
+1456	0
+-1	15
+88
+June 08
+2005	Japan
+North Korea	2
+0	World Cup qualifier
+in Thailand	+8
+-8	1795
+1448	-1
+-3	22
+90
+July 31
+2005	North Korea
+Japan	1
+0	East Asian Championship
+in South Korea	+36
+-36	1484
+1778	+8
+-6	82
+23
+August 04
+2005	South Korea
+North Korea	0
+0	East Asian Championship
+in South Korea	-14
++14	1673
+1498	-1
+0	43
+82
+August 07
+2005	China
+North Korea	2
+0	East Asian Championship
+in South Korea	+19
+-19	1646
+1479	+4
+-1	49
+83
+August 14
+2005	South Korea
+North Korea	3
+0	Friendly
+in South Korea	+6
+-6	1659
+1473	0
+-2	46
+85
+August 17
+2005	Bahrain
+North Korea	2
+3	World Cup qualifier
+in Bahrain	-31
++31	1550
+1504	-6
++4	67
+81
+December 24
+2005	Oman
+North Korea	2
+1	King's Cup
+in Thailand	+12
+-12	1579
+1492	0
+-1	59
+82
+December 26
+2005	Latvia
+North Korea	1
+1	King's Cup
+in Thailand	+2
+-2	1438
+1490	0
+0	94
+82
+December 28
+2005	Thailand
+North Korea	0
+2	King's Cup
+in Thailand	-19
++19	1323
+1509	-6
++5	123
+77
+December 30
+2005	Latvia
+North Korea	2
+1	King's Cup
+in Thailand	+17
+-17	1475
+1492	+4
+-5	84
+82
+June 19
+2007	North Korea
+Mongolia	7
+0	East Asian Championship qualifier
+in Macao	+1
+-1	1493
+777	0
+0	81
+213
+June 21
+2007	Macao
+North Korea	1
+7	East Asian Championship qualifier
+in Macao	-3
++3	816
+1496	-1
++1	210
+80
+June 24
+2007	Singapore
+North Korea	2
+1	Friendly tournament
+in Singapore	+19
+-19	1312
+1477	+4
+-3	128
+83
+June 24
+2007	North Korea
+Hong Kong	1
+0	East Asian Championship qualifier
+in Macao	+8
+-8	1485
+1219	-3
+-2	83
+151
+June 28
+2007	North Korea
+Oman	2
+2	Friendly tournament
+in Singapore	+4
+-4	1489
+1580	0
+-1	83
+59
+July 01
+2007	United Arab Emirates
+North Korea	1
+0	Friendly
+in Singapore	+10
+-10	1515
+1479	+2
+-3	74
+86
+July 04
+2007	North Korea
+Saudi Arabia	1
+1	Friendly
+in Singapore	+4
+-4	1483
+1609	+1
+0	85
+53
+October 21
+2007	Mongolia
+North Korea	1
+4	World Cup qualifier
+in Mongolia	-2
++2	794
+1485	0
++1	211
+79
+October 28
+2007	North Korea
+Mongolia	5
+1	World Cup qualifier
+in North Korea	+1
+-1	1486
+793	-1
+0	80
+211
+December 24
+2007	North Korea
+Uzbekistan	2
+2	King's Cup
+in Thailand	+3
+-3	1489
+1547	+1
+-3	82
+68
+December 26
+2007	Thailand
+North Korea	1
+0	King's Cup
+in Thailand	+14
+-14	1425
+1475	+2
+-4	100
+86
+February 06
+2008	Jordan
+North Korea	0
+1	World Cup qualifier
+in Jordan	-28
++28	1484
+1503	-6
++9	82
+77
+February 17
+2008	North Korea
+Japan	1
+1	East Asian Championship
+in China	+13
+-13	1516
+1758	+2
+-6	75
+30
+February 20
+2008	North Korea
+South Korea	1
+1	East Asian Championship
+in China	+8
+-8	1524
+1650	+1
+-2	74
+44
+February 23
+2008	China
+North Korea	3
+1	East Asian Championship
+in China	+21
+-21	1552
+1503	+6
+-3	65
+77
+March 26
+2008	North Korea
+South Korea	0
+0	World Cup qualifier
+in China	+8
+-8	1511
+1649	-1
+-2	78
+44
+June 02
+2008	Turkmenistan
+North Korea	0
+0	World Cup qualifier
+in Turkmenistan	+5
+-5	1330
+1506	+1
+-2	122
+79
+June 07
+2008	North Korea
+Turkmenistan	1
+0	World Cup qualifier
+in North Korea	+7
+-7	1513
+1323	0
+-2	79
+124
+June 14
+2008	North Korea
+Jordan	2
+0	World Cup qualifier
+in North Korea	+19
+-19	1532
+1463	+5
+-7	73
+93
+June 22
+2008	South Korea
+North Korea	0
+0	World Cup qualifier
+in South Korea	-12
++12	1655
+1544	-2
++4	44
+68
+July 31
+2008	North Korea
+Sri Lanka	3
+0	Asian Challenge Cup
+in India	+3
+-3	1547
+1000	0
+0	67
+186
+August 02
+2008	North Korea
+Nepal	1
+0	Asian Challenge Cup
+in India	+1
+-1	1548
+902	+1
+0	66
+195
+August 04
+2008	North Korea
+Myanmar	1
+0	Asian Challenge Cup
+in India	+5
+-5	1553
+1203	+3
+0	63
+156
+August 07
+2008	Tajikistan
+North Korea	1
+0	Asian Challenge Cup
+in India	+33
+-33	1328
+1520	+4
+-13	125
+76
+August 13
+2008	North Korea
+Myanmar	4
+0	Asian Challenge Cup
+in India	+10
+-10	1530
+1180	+1
+-2	75
+161
+August 24
+2008	Qatar
+North Korea	2
+1	Friendly
+in Qatar	+8
+-8	1494
+1522	+1
+-1	84
+77
+August 29
+2008	Uzbekistan
+North Korea	0
+0	Friendly
+in Uzbekistan	-5
++5	1590
+1527	0
+0	54
+77
+September 06
+2008	United Arab Emirates
+North Korea	1
+2	World Cup qualifier
+in United Arab Emirates	-20
++20	1406
+1547	-7
++10	105
+67
+September 10
+2008	North Korea
+South Korea	1
+1	World Cup qualifier
+in China	+6
+-6	1553
+1653	+1
+-1	65
+45
+October 15
+2008	Iran
+North Korea	2
+1	World Cup qualifier
+in Iran	+6
+-6	1776
+1547	+1
++1	21
+66
+October 28
+2008	Thailand
+North Korea	1
+0	Friendly tournament
+in Vietnam	+21
+-21	1407
+1526	+9
+-11	104
+77
+October 30
+2008	Vietnam
+North Korea	0
+0	Friendly tournament
+in Vietnam	+7
+-7	1243
+1519	+4
+0	143
+77
+January 23
+2009	Lebanon
+North Korea	1
+0	King's Cup
+in Thailand	+24
+-24	1285
+1495	+6
+-11	135
+85
+February 11
+2009	North Korea
+Saudi Arabia	1
+0	World Cup qualifier
+in North Korea	+24
+-24	1519
+1648	+9
+-1	74
+46
+March 28
+2009	North Korea
+United Arab Emirates	2
+0	World Cup qualifier
+in North Korea	+14
+-14	1533
+1403	0
+-4	74
+105
+April 01
+2009	South Korea
+North Korea	1
+0	World Cup qualifier
+in South Korea	+7
+-7	1718
+1526	+2
+-1	34
+75
+June 06
+2009	North Korea
+Iran	0
+0	World Cup qualifier
+in North Korea	+4
+-4	1530
+1700	0
+-1	74
+39
+June 17
+2009	Saudi Arabia
+North Korea	0
+0	World Cup qualifier
+in Saudi Arabia	-13
++13	1675
+1543	-2
++4	46
+68
+August 23
+2009	North Korea
+Guam	9
+2	East Asian Championship qualifier
+in Taiwan	0
+0	1543
+622	0
+0	69
+222
+August 25
+2009	Hong Kong
+North Korea	0
+0	East Asian Championship qualifier
+in Taiwan	+15
+-15	1234
+1528	+2
+-5	150
+74
+August 27
+2009	Taiwan
+North Korea	1
+2	East Asian Championship qualifier
+in Taiwan	-2
++2	943
+1530	0
+0	192
+74
+October 13
+2009	Congo
+North Korea	0
+0	Friendly
+in France	+3
+-3	1418
+1527	+1
+-1	102
+74
+November 21
+2009	Zambia
+North Korea	4
+1	Friendly
+in Zambia	+17
+-17	1455
+1510	+4
+-3	93
+82
+December 27
+2009	North Korea
+Mali	1
+0	Friendly tournament
+in Qatar	+18
+-18	1528
+1554	+3
+-7	79
+67
+December 30
+2009	Qatar
+North Korea	0
+1	Friendly tournament
+in Qatar	-19
++19	1512
+1547	-4
++11	82
+69
+January 02
+2010	Iran
+North Korea	1
+0	Friendly tournament
+in Qatar	+12
+-12	1634
+1535	0
+-8	48
+77
+February 17
+2010	North Korea
+Turkmenistan	1
+1	Asian Challenge Cup
+in Sri Lanka	-12
++12	1523
+1315	-2
++3	80
+128
+February 19
+2010	North Korea
+Kyrgyzstan	4
+0	Asian Challenge Cup
+in Sri Lanka	+9
+-9	1532
+1158	+1
+0	79
+166
+February 24
+2010	North Korea
+Myanmar	5
+0	Asian Challenge Cup
+in Sri Lanka	+10
+-10	1542
+1192	+6
+-1	73
+157
+February 27
+2010	North Korea
+Turkmenistan	1
+1	Asian Challenge Cup
+in Sri Lanka	-10
++10	1532
+1365	-6
+0	78
+118
+March 04
+2010	Venezuela
+North Korea	1
+1	Friendly
+in Venezuela	-6
++6	1684
+1538	0
++3	40
+75
+March 06
+2010	Venezuela
+North Korea	2
+1	Friendly
+in Venezuela	+4
+-4	1688
+1534	0
+-3	40
+78
+March 17
+2010	Mexico
+North Korea	2
+1	Friendly
+in Mexico	+1
+-1	1886
+1533	0
+0	8
+78
+April 22
+2010	North Korea
+South Africa	0
+0	Friendly
+in Germany	0
+0	1533
+1520	0
+0	78
+82
+May 15
+2010	Paraguay
+North Korea	1
+0	Friendly
+in Switzerland	+5
+-5	1737
+1528	0
+0	26
+79
+May 25
+2010	Greece
+North Korea	2
+2	Friendly
+in Austria	-5
++5	1726
+1533	-1
++1	29
+78
+June 06
+2010	Nigeria
+North Korea	3
+1	Friendly
+in South Africa	+8
+-8	1707
+1525	+1
+-1	33
+79
+June 15
+2010	Brazil
+North Korea	2
+1	World Cup
+in South Africa	+2
+-2	2090
+1523	0
+-1	1
+79
+June 21
+2010	Portugal
+North Korea	7
+0	World Cup
+in South Africa	+19
+-19	1856
+1504	+1
+-4	11
+84
+June 25
+2010	Ivory Coast
+North Korea	3
+0	World Cup
+in South Africa	+22
+-22	1759
+1482	+5
+-6	22
+90
+September 24
+2010	Vietnam
+North Korea	0
+0	Friendly tournament
+in Vietnam	+2
+-2	1342
+1480	+3
+-1	122
+90
+November 02
+2010	North Korea
+Singapore	2
+1	Friendly tournament
+in Vietnam	+9
+-9	1489
+1330	0
+-2	90
+127
+November 06
+2010	Vietnam
+North Korea	0
+2	Friendly tournament
+in Vietnam	-18
++18	1301
+1507	-3
++5	134
+85
+November 10
+2010	Yemen
+North Korea	1
+1	Friendly
+in Yemen	+2
+-2	1347
+1505	0
+-1	121
+86
+December 24
+2010	Kuwait
+North Korea	2
+1	Friendly
+in Egypt	+7
+-7	1616
+1498	+1
+-2	53
+86
+December 27
+2010	Kuwait
+North Korea	2
+2	Friendly
+in Egypt	-3
++3	1613
+1501	0
+0	53
+86
+December 31
+2010	Qatar
+North Korea	0
+1	Friendly
+in Qatar	-13
++13	1503
+1514	-5
++7	84
+79
+January 04
+2011	Bahrain
+North Korea	0
+1	Friendly
+in Bahrain	-11
++11	1448
+1525	-2
++4	97
+74
+January 11
+2011	North Korea
+United Arab Emirates	0
+0	Asian Cup
+in Qatar	-3
++3	1522
+1485	-1
+0	77
+89
+January 15
+2011	Iran
+North Korea	1
+0	Asian Cup
+in Qatar	+13
+-13	1717
+1509	+4
+-5	30
+82
+January 19
+2011	Iraq
+North Korea	1
+0	Asian Cup
+in Qatar	+21
+-21	1593
+1488	+7
+-8	56
+90
+March 26
+2011	Iraq
+North Korea	2
+0	Friendly
+in United Arab Emirates	+11
+-11	1590
+1477	+1
+-5	58
+93
+March 29
+2011	Jordan
+North Korea	1
+1	Friendly
+in United Arab Emirates	-1
++1	1514
+1478	-2
++1	80
+93
+April 07
+2011	North Korea
+Sri Lanka	4
+0	Asian Challenge Cup
+in Nepal	+3
+-3	1481
+949	+1
+0	92
+192
+April 09
+2011	Nepal
+North Korea	0
+1	Asian Challenge Cup
+in Nepal	-4
++4	997
+1485	0
++1	188
+91
+April 11
+2011	North Korea
+Afghanistan	2
+0	Asian Challenge Cup
+in Nepal	+2
+-2	1487
+869	+1
+0	90
+205
+June 08
+2011	China
+North Korea	2
+0	Friendly
+in China	+6
+-6	1643
+1481	0
+-3	49
+91
+August 10
+2011	Kuwait
+North Korea	0
+0	Friendly
+in Kuwait	-5
++5	1583
+1486	-1
++2	61
+89
+September 02
+2011	Japan
+North Korea	1
+0	World Cup qualifier
+in Japan	+3
+-3	1822
+1483	0
++1	14
+87
+September 06
+2011	North Korea
+Tajikistan	1
+0	World Cup qualifier
+in North Korea	+5
+-5	1488
+1254	+1
+0	86
+142
+October 11
+2011	North Korea
+Uzbekistan	0
+1	World Cup qualifier
+in North Korea	-21
++21	1467
+1595	-7
++4	93
+57
+November 11
+2011	Uzbekistan
+North Korea	1
+0	World Cup qualifier
+in Uzbekistan	+8
+-8	1603
+1459	+2
+0	55
+93
+November 15
+2011	North Korea
+Japan	1
+0	World Cup qualifier
+in North Korea	+33
+-33	1492
+1789	+4
+-4	89
+18
+February 17
+2012	Kuwait
+North Korea	1
+1	Friendly
+in China	-1
++1	1531
+1493	0
+0	77
+87
+February 29
+2012	Tajikistan
+North Korea	1
+1	World Cup qualifier
+in Tajikistan	+8
+-8	1250
+1485	0
+-2	146
+89
+March 09
+2012	North Korea
+Philippines	2
+0	Asian Challenge Cup
+in Nepal	+5
+-5	1490
+1046	0
+0	89
+181
+March 11
+2012	North Korea
+Tajikistan	2
+0	Asian Challenge Cup
+in Nepal	+14
+-14	1504
+1264	+4
+-1	85
+142
+March 13
+2012	North Korea
+India	4
+0	Asian Challenge Cup
+in Nepal	+9
+-9	1513
+1147	+3
+-3	82
+165
+March 16
+2012	North Korea
+Palestine	2
+0	Asian Challenge Cup
+in Nepal	+11
+-11	1524
+1241	+4
+-1	78
+147
+March 19
+2012	North Korea
+Turkmenistan	2
+1	Asian Challenge Cup
+in Nepal	+11
+-11	1535
+1349	+1
+-3	77
+119
+September 10
+2012	Indonesia
+North Korea	0
+2	Friendly
+in Indonesia	-8
++8	1250
+1543	-4
++4	148
+71
+December 01
+2012	North Korea
+Taiwan	6
+1	East Asian Championship qualifier
+in Hong Kong	+2
+-2	1545
+908	0
+0	71
+197
+December 03
+2012	North Korea
+Guam	5
+0	East Asian Championship qualifier
+in Hong Kong	+1
+-1	1546
+708	0
+-1	71
+219
+December 05
+2012	North Korea
+Australia	1
+1	East Asian Championship qualifier
+in Hong Kong	+11
+-11	1557
+1758	+2
+-1	70
+23
+December 09
+2012	Hong Kong
+North Korea	0
+4	East Asian Championship qualifier
+in Hong Kong	-13
++13	1170
+1570	-3
++7	163
+64
+January 23
+2013	North Korea
+Sweden	1
+1	King's Cup
+in Thailand	+11
+-11	1581
+1869	+3
+-1	61
+11
+January 26
+2013	Thailand
+North Korea	2
+2	King's Cup
+in Thailand	+5
+-5	1373
+1576	+4
+-1	114
+62
+January 31
+2013	North Korea
+United Arab Emirates	1
+0	Friendly
+in China	+10
+-10	1586
+1580	+4
+-4	58
+60
+February 06
+2013	North Korea
+Laos	1
+0	Friendly
+in China	0
+0	1586
+868	+2
+0	57
+204
+June 11
+2013	Qatar
+North Korea	0
+0	Friendly
+in Qatar	+1
+-1	1457
+1585	0
+0	93
+58
+September 06
+2013	Kuwait
+North Korea	2
+1	Friendly
+in Kuwait	+8
+-8	1548
+1577	+2
+-3	72
+61
+February 21
+2014	Iraq
+North Korea	2
+0	Friendly
+in United Arab Emirates	+18
+-18	1524
+1559	+6
+-5	75
+66

@@ -1,0 +1,198 @@
+1991 174 home Slovenia Croatia 0 1 Friendly
+1992 158 away Slovenia Estonia 1 1 Friendly
+1992 328 away Slovenia Cyprus 1 1 Friendly
+1993 100 home Slovenia Estonia 2 0 Friendly
+1993 292 home Slovenia Macedonia 1 4 Friendly
+1993 326 away Slovenia Slovakia 2 0 Friendly
+1994 39 home Slovenia Georgia 1 0 Rothmans Tournament
+1994 41 home Slovenia Tunisia 2 2 Rothmans Tournament
+1994 43 away Slovenia Malta 0 1 Rothmans Tournament
+1994 85 away Slovenia Macedonia 2 0 Friendly
+1994 99 away Slovenia Hungary 0 1 Friendly
+1994 120 home Slovenia Cyprus 3 0 Friendly
+1994 156 away Slovenia Romania 0 0 Friendly
+1994 255 home Slovenia Italy 1 1 European Cup qualifier
+1994 291 away Slovenia Ukraine 0 0 European Cup qualifier
+1994 326 home Slovenia Lithuania 1 2 European Cup qualifier
+1995 91 home Slovenia Estonia 3 0 European Cup qualifier
+1995 119 away Slovenia Croatia 2 0 European Cup qualifier
+1995 162 away Slovenia Lithuania 2 1 European Cup qualifier
+1995 166 away Slovenia Estonia 1 3 European Cup qualifier
+1995 254 away Slovenia Italy 1 0 European Cup qualifier
+1995 290 home Slovenia Ukraine 3 2 European Cup qualifier
+1995 325 home Slovenia Croatia 1 2 European Cup qualifier
+1995 347 away Slovenia Mexico 1 2 Friendly
+1996 38 home Slovenia Iceland 7 1 Rothmans Tournament
+1996 40 away Slovenia Malta 0 0 Rothmans Tournament
+1996 42 away Slovenia Russia 3 1 Rothmans Tournament
+1996 89 away Slovenia Poland 0 0 Friendly
+1996 117 away Slovenia Greece 2 0 World Cup qualifier
+1996 145 home Slovenia UnitedArab 2 2 Friendly
+1996 249 home Slovenia Denmark 0 2 World Cup qualifier
+1996 320 home Slovenia Bosnia 1 2 World Cup qualifier
+1997 80 away Slovenia Austria 0 2 Friendly
+1997 95 away Slovenia Croatia 3 3 World Cup qualifier
+1997 123 away Slovenia Denmark 4 0 World Cup qualifier
+1997 254 home Slovenia Greece 0 3 World Cup qualifier
+1997 258 away Slovenia Bosnia 1 0 World Cup qualifier
+1997 290 home Slovenia Croatia 1 3 World Cup qualifier
+1998 36 home Slovenia Iceland 3 2 Friendly tournament
+1998 37 home Slovenia Slovakia 1 1 Friendly tournament
+1998 40 away Slovenia Cyprus 1 0 Friendly tournament
+1998 87 away Slovenia Poland 2 0 Friendly
+1998 115 home Slovenia Czechia 1 3 Friendly
+1998 236 away Slovenia Hungary 2 1 Friendly
+1998 254 away Slovenia Greece 2 2 European Cup qualifier
+1998 289 home Slovenia Norway 1 2 European Cup qualifier
+1998 293 home Slovenia Latvia 1 0 European Cup qualifier
+1999 37 away Slovenia Switzerland 2 0 Friendly tournament
+1999 39 away Slovenia Oman 0 7 Friendly tournament
+1999 89 away Slovenia Georgia 1 1 European Cup qualifier
+1999 121 home Slovenia Finland 1 1 Friendly
+1999 160 away Slovenia Latvia 1 2 European Cup qualifier
+1999 164 away Slovenia Albania 0 1 European Cup qualifier
+1999 235 home Slovenia Albania 2 0 European Cup qualifier
+1999 252 home Slovenia Georgia 2 1 European Cup qualifier
+1999 256 away Slovenia Norway 4 0 European Cup qualifier
+1999 288 home Slovenia Greece 0 3 European Cup qualifier
+1999 323 home Slovenia Ukraine 2 1 European Cup qualifier
+1999 327 away Slovenia Ukraine 1 1 European Cup qualifier
+2000 50 home Slovenia UnitedArab 1 1 Friendly tournament
+2000 54 away Slovenia Oman 0 4 Friendly tournament
+2000 119 away Slovenia France 3 2 Friendly
+2000 158 home Slovenia SaudiArabia 2 0 Friendly
+2000 168 away Slovenia Yugoslavia 3 3 European Cup
+2000 173 away Slovenia Spain 2 1 European Cup
+2000 176 home Slovenia Norway 0 0 European Cup
+2000 233 away Slovenia Czechia 0 1 Friendly
+2000 251 away Slovenia FaroeIslands 2 2 World Cup qualifier
+2000 286 away Slovenia Luxembourg 1 2 World Cup qualifier
+2000 290 home Slovenia Switzerland 2 2 World Cup qualifier
+2001 59 home Slovenia Uruguay 0 2 Friendly
+2001 86 away Slovenia Russia 1 1 World Cup qualifier
+2001 90 home Slovenia Yugoslavia 1 1 World Cup qualifier
+2001 118 away Slovenia Denmark 3 0 Friendly
+2001 157 home Slovenia Luxembourg 2 0 World Cup qualifier
+2001 161 away Slovenia Switzerland 0 1 World Cup qualifier
+2001 232 home Slovenia Romania 2 2 Friendly
+2001 249 home Slovenia Russia 2 1 World Cup qualifier
+2001 253 away Slovenia Yugoslavia 1 1 World Cup qualifier
+2001 285 home Slovenia FaroeIslands 3 0 World Cup qualifier
+2001 320 home Slovenia Romania 2 1 World Cup qualifier
+2001 324 away Slovenia Romania 1 1 World Cup qualifier
+2002 43 away Slovenia Honduras 5 1 Carlsberg Cup
+2002 46 home Slovenia China 0 0 Carlsberg Cup
+2002 89 away Slovenia Croatia 0 0 Friendly
+2002 110 home Slovenia Tunisia 1 0 Friendly
+2002 141 home Slovenia Ghana 2 0 Friendly
+2002 157 away Slovenia Spain 3 1 World Cup
+2002 163 away Slovenia SouthAfrica 1 0 World Cup
+2002 167 away Slovenia Paraguay 3 1 World Cup
+2002 238 away Slovenia Italy 0 1 Friendly
+2002 255 home Slovenia Malta 3 0 European Cup qualifier
+2002 291 away Slovenia France 5 0 European Cup qualifier
+2003 43 home Slovenia Switzerland 1 5 Friendly
+2003 95 home Slovenia Cyprus 4 1 European Cup qualifier
+2003 123 away Slovenia Malta 1 3 European Cup qualifier
+2003 162 away Slovenia Israel 0 0 European Cup qualifier
+2003 237 home Slovenia Hungary 2 1 Friendly
+2003 254 home Slovenia Israel 3 1 European Cup qualifier
+2003 258 home Slovenia France 0 2 European Cup qualifier
+2003 290 away Slovenia Cyprus 2 2 European Cup qualifier
+2003 325 away Slovenia Croatia 1 1 European Cup qualifier
+2003 329 home Slovenia Croatia 0 1 European Cup qualifier
+2004 49 away Slovenia Poland 2 0 Friendly
+2004 93 home Slovenia Latvia 0 1 Friendly
+2004 121 away Slovenia Switzerland 2 1 Friendly
+2004 235 home Slovenia Serbia and Montenegro 1 1 Friendly
+2004 252 home Slovenia Moldova 3 0 World Cup qualifier
+2004 256 away Slovenia Scotland 0 0 World Cup qualifier
+2004 288 home Slovenia Italy 1 0 World Cup qualifier
+2004 292 away Slovenia Norway 3 0 World Cup qualifier
+2004 327 away Slovenia Slovakia 0 0 Friendly
+2005 40 home Slovenia Czechia 0 3 Friendly
+2005 88 home Slovenia Germany 0 1 Friendly
+2005 92 home Slovenia Belarus 1 1 World Cup qualifier
+2005 159 away Slovenia Belarus 1 1 World Cup qualifier
+2005 234 away Slovenia Wales 0 0 Friendly
+2005 251 home Slovenia Norway 2 3 World Cup qualifier
+2005 255 away Slovenia Moldova 1 2 World Cup qualifier
+2005 287 away Slovenia Italy 1 0 World Cup qualifier
+2005 291 home Slovenia Scotland 0 3 World Cup qualifier
+2006 59 away Slovenia Cyprus 0 1 Friendly tournament
+2006 63 away Slovenia Romania 2 0 Friendly tournament
+2006 155 home Slovenia TrinidadTobago 3 1 Friendly
+2006 159 away Slovenia IvoryCoast 3 0 Friendly
+2006 232 home Slovenia Israel 1 1 Friendly
+2006 254 away Slovenia Bulgaria 3 0 European Cup qualifier
+2006 286 home Slovenia Luxembourg 2 0 European Cup qualifier
+2006 290 away Slovenia Belarus 4 2 European Cup qualifier
+2007 38 home Slovenia Estonia 1 0 Friendly
+2007 86 away Slovenia Albania 0 0 European Cup qualifier
+2007 90 home Slovenia Holland 0 1 European Cup qualifier
+2007 157 home Slovenia Romania 1 2 European Cup qualifier
+2007 161 away Slovenia Romania 2 0 European Cup qualifier
+2007 239 away Slovenia Montenegro 1 1 Friendly
+2007 256 away Slovenia Luxembourg 0 3 European Cup qualifier
+2007 260 home Slovenia Belarus 1 0 European Cup qualifier
+2007 292 home Slovenia Albania 0 0 European Cup qualifier
+2007 296 away Slovenia Holland 2 0 European Cup qualifier
+2007 331 home Slovenia Bulgaria 0 2 European Cup qualifier
+2008 37 home Slovenia Denmark 1 2 Friendly
+2008 88 away Slovenia Hungary 0 1 Friendly
+2008 150 away Slovenia Sweden 1 0 Friendly
+2008 237 home Slovenia Croatia 2 3 Friendly
+2008 254 away Slovenia Poland 1 1 World Cup qualifier
+2008 258 home Slovenia Slovakia 2 1 World Cup qualifier
+2008 290 home Slovenia NorthernIreland 2 0 World Cup qualifier
+2008 294 away Slovenia Czechia 1 0 World Cup qualifier
+2008 329 home Slovenia Bosnia 3 4 Friendly
+2009 42 away Slovenia Belgium 2 0 Friendly
+2009 90 home Slovenia Czechia 0 0 World Cup qualifier
+2009 94 away Slovenia NorthernIreland 1 0 World Cup qualifier
+2009 229 home Slovenia SanMarino 5 0 World Cup qualifier
+2009 253 away Slovenia England 2 1 Friendly
+2009 257 home Slovenia Poland 3 0 World Cup qualifier
+2009 289 away Slovenia Slovakia 0 2 World Cup qualifier
+2009 293 away Slovenia SanMarino 0 3 World Cup qualifier
+2009 324 away Slovenia Russia 2 1 World Cup qualifier
+2009 328 home Slovenia Russia 1 0 World Cup qualifier
+2010 65 home Slovenia Qatar 4 1 Friendly
+2010 159 home Slovenia NewZealand 3 1 Friendly
+2010 168 home Slovenia Algeria 1 0 World Cup
+2010 173 home Slovenia UnitedStates 2 2 World Cup
+2010 178 away Slovenia England 1 0 World Cup
+2010 228 home Slovenia Australia 2 0 Friendly
+2010 251 home Slovenia NorthernIreland 0 1 European Cup qualifier
+2010 255 away Slovenia Serbia 1 1 European Cup qualifier
+2010 287 home Slovenia FaroeIslands 5 1 European Cup qualifier
+2010 291 away Slovenia Estonia 0 1 European Cup qualifier
+2010 327 home Slovenia Georgia 1 2 Friendly
+2011 40 away Slovenia Albania 1 2 Friendly
+2011 87 home Slovenia Italy 0 1 European Cup qualifier
+2011 91 away Slovenia NorthernIreland 0 0 European Cup qualifier
+2011 158 away Slovenia FaroeIslands 0 2 European Cup qualifier
+2011 227 home Slovenia Belgium 0 0 Friendly
+2011 250 home Slovenia Estonia 1 2 European Cup qualifier
+2011 254 away Slovenia Italy 1 0 European Cup qualifier
+2011 290 home Slovenia Serbia 1 0 European Cup qualifier
+2011 325 home Slovenia UnitedStates 2 3 Friendly
+2012 60 home Slovenia Scotland 1 1 Friendly
+2012 150 away Slovenia Greece 1 1 Friendly
+2012 232 home Slovenia Romania 4 3 Friendly
+2012 255 home Slovenia Switzerland 0 2 World Cup qualifier
+2012 259 away Slovenia Norway 2 1 World Cup qualifier
+2012 291 home Slovenia Cyprus 2 1 World Cup qualifier
+2012 295 away Slovenia Albania 1 0 World Cup qualifier
+2012 324 away Slovenia Macedonia 3 2 Friendly
+2013 37 home Slovenia Bosnia 0 3 Friendly
+2013 84 home Slovenia Iceland 1 2 World Cup qualifier
+2013 155 home Slovenia Turkey 2 0 Friendly
+2013 162 away Slovenia Iceland 2 4 World Cup qualifier
+2013 231 away Slovenia Finland 2 0 Friendly
+2013 254 home Slovenia Albania 1 0 World Cup qualifier
+2013 258 away Slovenia Cyprus 0 2 World Cup qualifier
+2013 290 home Slovenia Norway 3 0 World Cup qualifier
+2013 294 away Slovenia Switzerland 1 0 World Cup qualifier
+2013 329 home Slovenia Canada 1 0 Friendly
+2014 67 away Slovenia Algeria 2 0 Friendly

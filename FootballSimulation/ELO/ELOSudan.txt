@@ -1,0 +1,3448 @@
+November 16
+1956	Ethiopia
+Sudan	2
+1	Friendly
+in Ethiopia	+8
+-8	1367
+1392	+2
+-	82
+76
+February 10
+1957	Sudan
+Egypt	1
+2	African Nations Cup
+in Sudan	-19
++19	1373
+1600	-4
++2	78
+33
+March 08
+1957	Sudan
+Syria	1
+0	World Cup qualifier
+in Sudan	+14
+-14	1387
+1353	+3
+-4	75
+86
+May 24
+1957	Syria
+Sudan	1
+1	World Cup qualifier
+in Syria	-4
++4	1349
+1391	-1
++1	87
+76
+July 21
+1957	China
+Sudan	4
+1	Friendly
+in China	+9
+-9	1490
+1382	+2
+-3	54
+80
+May 25
+1959	Sudan
+Ethiopia	1
+0	African Nations Cup
+in Egypt	+22
+-22	1404
+1314	+9
+-4	75
+96
+May 29
+1959	Egypt
+Sudan	2
+1	African Nations Cup
+in Egypt	+8
+-8	1601
+1396	+2
+-3	38
+78
+1960	Egypt
+Sudan	3
+0	Olympic Games qualifier
+in Egypt	+9
+-9	1628
+1387	+13
++13	26
+68
+1960	Ethiopia
+Sudan	1
+1	Olympic Games qualifier
+in Ethiopia	-2
++2	1312
+1389	+2
++13	95
+68
+1960	Sudan
+Ethiopia	3
+1	Olympic Games qualifier
+in Sudan	+16
+-16	1405
+1298	+13
++2	68
+95
+1960	Sudan
+Uganda	1
+0	Olympic Games qualifier
+in Sudan	+17
+-17	1422
+1429	+13
+-26	68
+89
+1960	Sudan
+Egypt	0
+1	Olympic Games qualifier
+in Sudan	-12
++12	1410
+1680	+13
++13	68
+26
+1960	Uganda
+Sudan	0
+1	Olympic Games qualifier
+in Uganda	-27
++27	1402
+1437	-26
++13	89
+68
+February 14
+1960	Sudan
+Tunisia	1
+0	Olympic Games qualifier
+in Sudan	+17
+-17	1454
+1459	+5
+-2	63
+61
+April 17
+1960	Tunisia
+Sudan	2
+0	Olympic Games qualifier
+in Tunisia	+21
+-21	1479
+1433	+4
+-4	61
+72
+1963	Ethiopia
+Sudan	4
+0	Friendly
+in Ethiopia	+15
+-15	1424
+1418	+3
+-4	79
+81
+September 18
+1963	Bulgaria
+Sudan	1
+1	Friendly
+in Bulgaria	-8
++8	1718
+1426	0
++1	24
+80
+November 26
+1963	Egypt
+Sudan	2
+2	African Nations Cup
+in Ghana	-16
++16	1675
+1442	-1
++5	26
+76
+November 28
+1963	Sudan
+Nigeria	4
+0	African Nations Cup
+in Ghana	+58
+-58	1500
+1467	+14
+-18	61
+73
+December 01
+1963	Ghana
+Sudan	3
+0	African Nations Cup
+in Ghana	+15
+-15	1683
+1485	+1
+-5	27
+66
+April 17
+1964	Sudan
+Egypt	3
+3	Olympic Games qualifier
+in Sudan	+7
+-7	1492
+1700	+2
+-1	65
+25
+May 27
+1964	Egypt
+Sudan	4
+1	Olympic Games qualifier
+in Egypt	+10
+-10	1710
+1482	+1
+-2	22
+67
+April 07
+1965	Sudan
+Kenya	4
+2	African Nations Cup qualifier
+in Sudan	+9
+-9	1491
+1272	+1
+-1	70
+122
+September
+1965	Sudan
+Libya	4
+2	Pan Arab Games
+in Egypt	+35
+-35	1526
+1516	+22
++13	46
+57
+September
+1965	Sudan
+Oman	15
+0	Pan Arab Games
+in Egypt	+14
+-14	1540
+1146	+22
+-	46
+146
+September
+1965	Sudan
+North Yemen	9
+0	Pan Arab Games
+in Egypt	+12
+-12	1552
+1189	+22
+-	46
+140
+September
+1965	Sudan
+Syria	2
+0	Pan Arab Games
+in Egypt	+18
+-18	1570
+1386	+22
+-2	46
+80
+September
+1965	Sudan
+Palestine	2
+1	Pan Arab Games
+in Egypt	+7
+-7	1577
+1285	+22
++4	46
+123
+September 11
+1965	Egypt
+Sudan	0
+0	Pan Arab Games
+in Egypt	-14
++14	1761
+1591	0
++4	18
+42
+January 29
+1967	Sudan
+East Germany	1
+2	Friendly
+in Sudan	-5
++5	1586
+1878	-1
+0	42
+8
+February 21
+1967	Sudan
+Tanzania	1
+0	East African Friendship Cup
+in Sudan	+3
+-3	1589
+1290	+1
+-4	41
+117
+February 24
+1967	Sudan
+Ethiopia	1
+1	East African Friendship Cup
+in Sudan	-11
++11	1578
+1386	-3
++10	44
+89
+February 26
+1967	Sudan
+Ethiopia	5
+3	East African Friendship Cup
+in Sudan	+7
+-7	1585
+1379	+2
+-8	42
+97
+March 07
+1967	Libya
+Sudan	1
+1	Friendly tournament
+in Libya	-1
++1	1503
+1586	0
+0	58
+42
+March 10
+1967	Iraq
+Sudan	2
+2	Friendly tournament
+in Libya	0
+0	1582
+1586	0
+0	43
+42
+August 02
+1967	Congo (Kinshasa)
+Sudan	3
+2	African Nations Cup qualifier
+in Congo (Kinshasa)	+16
+-16	1569
+1570	+4
+-2	45
+44
+August 16
+1967	Sudan
+Congo (Kinshasa)	1
+0	African Nations Cup qualifier
+in Sudan	+14
+-14	1584
+1555	+2
+-3	42
+48
+September 27
+1967	Congo (Kinshasa)
+Sudan	2
+1	African Nations Cup qualifier
+in Congo (Kinshasa)	+16
+-16	1567
+1568	+4
+-2	44
+43
+November 05
+1967	Nigeria
+Sudan	1
+0	Olympic Games qualifier
+in Nigeria	+21
+-21	1480
+1547	+6
+-10	69
+55
+November 19
+1967	Sudan
+Nigeria	2
+1	Olympic Games qualifier
+in Sudan	+11
+-11	1558
+1469	+6
+-4	51
+73
+October 27
+1968	Zambia
+Sudan	4
+2	World Cup qualifier
+in Zambia	+19
+-19	1610
+1539	+3
+-8	40
+58
+November 08
+1968	Sudan
+Zambia	4
+2	World Cup qualifier
+in Sudan	+28
+-28	1567
+1582	+9
+-4	48
+44
+December 12
+1968	Kenya
+Sudan	1
+1	Friendly tournament
+in Kenya	+6
+-6	1333
+1561	0
+-2	105
+50
+January 08
+1969	Sudan
+Kenya	1
+0	East African Friendship Cup
+in Ethiopia	+7
+-7	1568
+1335	+1
+-1	48
+105
+January 10
+1969	Sudan
+Tanzania	3
+0	East African Friendship Cup
+in Ethiopia	+5
+-5	1573
+1184	+1
+0	47
+136
+January 12
+1969	Ethiopia
+Sudan	0
+1	East African Friendship Cup
+in Ethiopia	-14
++14	1432
+1587	-1
++2	80
+45
+May 04
+1969	Ethiopia
+Sudan	1
+1	World Cup qualifier
+in Ethiopia	+2
+-2	1451
+1585	0
+0	79
+45
+May 11
+1969	Sudan
+Ethiopia	3
+1	World Cup qualifier
+in Sudan	+12
+-12	1597
+1439	+2
+-2	43
+81
+September 13
+1969	Nigeria
+Sudan	2
+2	World Cup qualifier
+in Nigeria	-3
++3	1538
+1600	0
+0	57
+44
+October 03
+1969	Sudan
+Nigeria	3
+3	World Cup qualifier
+in Sudan	-9
++9	1591
+1537	-4
++2	47
+57
+October 10
+1969	Sudan
+Morocco	0
+0	World Cup qualifier
+in Sudan	-3
++3	1588
+1633	-2
++1	49
+35
+October 26
+1969	Morocco
+Sudan	3
+0	World Cup qualifier
+in Morocco	+21
+-21	1654
+1567	+2
+-5	34
+51
+November 02
+1969	Egypt
+Sudan	3
+1	Friendly
+in Egypt	+6
+-6	1729
+1561	+1
+-2	22
+52
+February 06
+1970	Sudan
+Ethiopia	3
+0	African Nations Cup
+in Sudan	+22
+-22	1583
+1446	+5
+-3	48
+78
+February 08
+1970	Sudan
+Ivory Coast	0
+1	African Nations Cup
+in Sudan	-26
++26	1557
+1696	-8
++8	56
+25
+February 10
+1970	Sudan
+Cameroon	2
+1	African Nations Cup
+in Sudan	+20
+-20	1577
+1564	+7
+-5	49
+53
+February 14
+1970	Sudan
+Egypt	2
+1	African Nations Cup
+in Sudan	+31
+-31	1608
+1724	+10
+-5	39
+23
+February 16
+1970	Sudan
+Ghana	1
+0	African Nations Cup
+in Sudan	+25
+-25	1633
+1677	+1
+-6	38
+30
+June 30
+1970	Congo (Kinshasa)
+Sudan	3
+0	Friendly
+in Congo (Kinshasa)	+12
+-12	1650
+1621	+4
+0	34
+39
+June 04
+1971	Sudan
+Uganda	4
+0	Olympic Games qualifier
+in Sudan	+8
+-8	1629
+1353	+1
+-3	41
+100
+June 19
+1971	Uganda
+Sudan	1
+1	Olympic Games qualifier
+in Uganda	+9
+-9	1362
+1620	+2
+-2	97
+43
+July 16
+1971	Libya
+Sudan	4
+6	Friendly
+in Libya	-12
++12	1443
+1632	-3
++3	77
+40
+February 25
+1972	Sudan
+Zaire	1
+1	African Nations Cup
+in Cameroon	+2
+-2	1634
+1664	0
+-2	39
+34
+February 27
+1972	Morocco
+Sudan	1
+1	African Nations Cup
+in Cameroon	-4
++4	1687
+1638	-1
+0	32
+39
+February 29
+1972	Congo
+Sudan	4
+2	African Nations Cup
+in Cameroon	+50
+-50	1567
+1588	+10
+-5	52
+44
+May 02
+1972	Ethiopia
+Sudan	2
+2	Olympic Games qualifier
+in Ethiopia	+3
+-3	1434
+1585	+1
+-1	77
+47
+May 07
+1972	Sudan
+Madagascar	3
+0	Olympic Games qualifier
+in Sudan	+12
+-12	1597
+1399	+4
+-1	43
+90
+May 21
+1972	Sudan
+Ethiopia	1
+0	Olympic Games qualifier
+in Sudan	+7
+-7	1604
+1431	+2
+-2	42
+77
+July 16
+1972	Kenya
+Sudan	2
+0	World Cup qualifier
+in Kenya	+43
+-43	1379
+1561	+12
+-9	94
+52
+July 23
+1972	Sudan
+Kenya	1
+0	World Cup qualifier
+in Sudan	+7
+-7	1568
+1372	+1
+-1	51
+95
+August 30
+1972	Soviet Union
+Sudan	2
+1	Olympic Games
+in West Germany	+8
+-8	1896
+1560	0
+-1	5
+53
+September 01
+1972	Burma
+Sudan	2
+0	Olympic Games
+in West Germany	+48
+-48	1582
+1512	+10
+-10	49
+63
+1973	Sudan
+Ethiopia	1
+0	Friendly tournament
+in Sudan	+8
+-8	1520
+1434	0
+-1	62
+74
+September 16
+1973	Sudan
+Nigeria	1
+1	African Nations Cup qualifier
+in Sudan	0
+0	1520
+1626	-1
+0	61
+38
+September 30
+1973	Nigeria
+Sudan	2
+1	African Nations Cup qualifier
+in Nigeria	+9
+-9	1635
+1511	0
+0	37
+61
+September 30
+1974	Syria
+Sudan	2
+0	Kuneitra Cup
+in Syria	+17
+-17	1514
+1494	+6
+-7	61
+69
+October 04
+1974	Sudan
+Libya	3
+1	Kuneitra Cup
+in Syria	+17
+-17	1511
+1384	+6
+-4	63
+93
+October 06
+1974	Morocco
+Sudan	2
+0	Kuneitra Cup
+in Syria	+11
+-11	1715
+1500	0
+-2	27
+65
+October 09
+1974	Tunisia
+Sudan	3
+1	Kuneitra Cup
+in Syria	+14
+-14	1649
+1486	+3
+-4	34
+69
+May 02
+1975	Egypt
+Sudan	1
+1	Olympic Games qualifier
+in Egypt	-12
++12	1626
+1498	-4
++4	41
+65
+May 30
+1975	Sudan
+Egypt	1
+0	Olympic Games qualifier
+in Sudan	+22
+-22	1520
+1604	+2
+-2	64
+42
+September 14
+1975	Sudan
+Kenya	1
+0	African Nations Cup qualifier
+in Sudan	+6
+-6	1526
+1326	+2
+-3	61
+107
+September 28
+1975	Kenya
+Sudan	0
+2	African Nations Cup qualifier
+in Kenya	-22
++22	1304
+1548	-4
++4	111
+57
+October 26
+1975	Tunisia
+Sudan	3
+2	African Nations Cup qualifier
+in Tunisia	+10
+-10	1642
+1538	+2
+-2	37
+59
+November 09
+1975	Sudan
+Tunisia	2
+1	African Nations Cup qualifier
+in Sudan	+20
+-20	1558
+1622	+3
+-3	54
+41
+November 22
+1975	Tanzania
+Sudan	1
+0	Olympic Games qualifier
+in Tanzania	+26
+-26	1373
+1532	+9
+-5	92
+59
+December 05
+1975	Sudan
+Tanzania	2
+0	Olympic Games qualifier
+in Sudan	+11
+-11	1543
+1362	+3
+-4	57
+96
+December 26
+1975	Egypt
+Sudan	3
+0	Palestine Cup
+in Tunisia	+26
+-26	1657
+1517	+7
+-2	33
+60
+December 28
+1975	Sudan
+Syria	1
+0	Palestine Cup
+in Tunisia	+20
+-20	1537
+1503	+2
+-4	58
+63
+March 01
+1976	Morocco
+Sudan	2
+2	African Nations Cup
+in Ethiopia	-9
++9	1656
+1546	-3
+0	33
+59
+March 04
+1976	Nigeria
+Sudan	1
+0	African Nations Cup
+in Ethiopia	+15
+-15	1713
+1531	+1
+0	26
+59
+March 06
+1976	Sudan
+Zaire	1
+1	African Nations Cup
+in Ethiopia	+5
+-5	1536
+1595	0
+0	59
+45
+March 28
+1976	Zambia
+Sudan	2
+2	Olympic Games qualifier
+in Zambia	-3
++3	1490
+1539	0
++1	69
+58
+April 04
+1976	Sudan
+Zambia	0
+0	Olympic Games qualifier
+in Sudan	-8
++8	1531
+1498	0
++2	58
+67
+September
+1979	Sudan
+Bangladesh	4
+1	Presidents Cup
+in South Korea	+5
+-5	1536
+1087	0
++1	62
+160
+September
+1979	Sudan
+Sri Lanka	1
+0	Presidents Cup
+in South Korea	+1
+-1	1537
+955	0
+-3	62
+175
+September 08
+1979	South Korea
+Sudan	8
+0	Presidents Cup
+in South Korea	+12
+-12	1783
+1525	0
+-1	20
+63
+September 09
+1979	Bahrain
+Sudan	1
+0	Presidents Cup
+in South Korea	+33
+-33	1283
+1492	+11
+-8	120
+71
+October 28
+1979	Sudan
+Ivory Coast	2
+0	African Nations Cup qualifier
+in Sudan	+29
+-29	1521
+1556	+6
+-8	65
+60
+November 07
+1979	Malawi
+Sudan	4
+0	Cecafa Cup
+in Kenya	+51
+-51	1438
+1470	+11
+-6	79
+71
+November 09
+1979	Sudan
+Zanzibar	1
+1	Cecafa Cup
+in Kenya	-17
++17	1453
+1022	-3
++1	74
+165
+November 11
+1979	Ivory Coast
+Sudan	4
+0	African Nations Cup qualifier
+in Ivory Coast	+18
+-18	1574
+1435	+5
+-6	54
+80
+November 14
+1980	Sudan
+Tanzania	0
+1	Cecafa Cup
+in Sudan	-28
++28	1407
+1424	-7
++6	89
+83
+November 20
+1980	Sudan
+Somalia	2
+0	Cecafa Cup
+in Sudan	+4
+-4	1411
+1054	+3
+0	86
+162
+November 26
+1980	Sudan
+Zambia	2
+1	Cecafa Cup
+in Sudan	+22
+-22	1433
+1523	+4
+-6	82
+61
+November 28
+1980	Sudan
+Tanzania	1
+0	Cecafa Cup
+in Sudan	+14
+-14	1447
+1417	+2
+-2	80
+85
+December 12
+1980	Algeria
+Sudan	2
+0	World Cup qualifier
+in Algeria	+11
+-11	1627
+1436	0
+-2	41
+82
+December 24
+1980	Sudan
+Algeria	1
+1	World Cup qualifier
+in Sudan	+5
+-5	1441
+1622	0
+0	82
+41
+April 19
+1981	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	0
+0	1351
+1441	0
+0	105
+80
+April 21
+1981	Ethiopia
+Sudan	2
+0	Friendly
+in Ethiopia	+15
+-15	1366
+1426	+8
+-3	97
+83
+November 15
+1981	Sudan
+Uganda	2
+2	Cecafa Cup
+in Tanzania	0
+0	1426
+1421	0
+0	84
+86
+November 17
+1981	Sudan
+Zimbabwe	0
+0	Cecafa Cup
+in Tanzania	+7
+-7	1433
+1545	+2
+-2	82
+60
+November 21
+1981	Zambia
+Sudan	2
+0	Cecafa Cup
+in Tanzania	+19
+-19	1591
+1414	+2
+-3	48
+85
+November 14
+1982	Kenya
+Sudan	2
+0	Cecafa Cup
+in Uganda	+28
+-28	1460
+1386	+6
+-6	79
+95
+November 18
+1982	Zanzibar
+Sudan	1
+0	Cecafa Cup
+in Uganda	+35
+-35	1067
+1351	+3
+-6	163
+100
+April 10
+1983	Sudan
+Zambia	2
+1	African Nations Cup qualifier
+in Sudan	+31
+-31	1382
+1623	+7
+-3	94
+40
+April 24
+1983	Zambia
+Sudan	0
+0	African Nations Cup qualifier
+in Zambia	-15
++15	1608
+1397	-2
++2	42
+92
+June 05
+1983	Ghana
+Sudan	3
+1	Presidents Cup
+in South Korea	+8
+-8	1741
+1389	0
+0	23
+92
+June 09
+1983	New Zealand
+Sudan	1
+1	Presidents Cup
+in South Korea	-12
++12	1619
+1401	-2
++1	41
+91
+July 08
+1983	Qatar
+Sudan	3
+1	Friendly
+in Qatar	+16
+-16	1299
+1385	+5
+-2	116
+93
+August 14
+1983	Cameroon
+Sudan	5
+0	African Nations Cup qualifier
+in Cameroon	+11
+-11	1622
+1374	+1
+-1	41
+94
+August 28
+1983	Sudan
+Cameroon	2
+0	African Nations Cup qualifier
+in Sudan	+42
+-42	1416
+1580	+5
+-8	89
+49
+November 14
+1983	Uganda
+Sudan	2
+1	Cecafa Cup
+in Kenya	+18
+-18	1463
+1398	+1
+-3	81
+91
+November 16
+1983	Sudan
+Tanzania	1
+0	Cecafa Cup
+in Kenya	+18
+-18	1416
+1352	+3
+-7	88
+102
+November 19
+1983	Sudan
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+23
+-23	1439
+1309	+4
+-3	84
+110
+November 21
+1983	Kenya
+Sudan	1
+0	Cecafa Cup
+in Kenya	+13
+-13	1486
+1426	+5
+-1	74
+85
+October 13
+1984	Tanzania
+Sudan	1
+1	World Cup qualifier
+in Tanzania	-4
++4	1387
+1430	0
++3	94
+84
+October 27
+1984	Sudan
+Tanzania	0
+0	World Cup qualifier
+in Sudan	-8
++8	1422
+1395	-4
++1	88
+93
+February 22
+1985	Sudan
+Libya	0
+0	World Cup qualifier
+in Sudan	-1
++1	1421
+1514	0
+0	88
+64
+March 08
+1985	Libya
+Sudan	4
+0	World Cup qualifier
+in Libya	+19
+-19	1533
+1402	+2
+-3	62
+90
+March 29
+1987	Sudan
+Tanzania	1
+0	African Nations Cup qualifier
+in Sudan	+11
+-11	1413
+1333	+2
+-1	87
+107
+April 11
+1987	Tanzania
+Sudan	1
+1	African Nations Cup qualifier
+in Tanzania	0
+0	1317
+1413	0
+0	108
+87
+July 05
+1987	Cameroon
+Sudan	2
+0	African Nations Cup qualifier
+in Cameroon	+5
+-5	1717
+1408	+3
+0	26
+89
+July 18
+1987	Sudan
+Cameroon	1
+0	African Nations Cup qualifier
+in Sudan	+31
+-31	1439
+1686	+7
+-6	82
+33
+August 07
+1988	Angola
+Sudan	0
+0	World Cup qualifier
+in Angola	-8
++8	1480
+1447	-2
++1	75
+80
+November 11
+1988	Sudan
+Angola	1
+2	World Cup qualifier
+in Sudan	-25
++25	1422
+1483	-8
++4	89
+74
+April 07
+1989	Sudan
+Kenya	1
+0	African Nations Cup qualifier
+in Sudan	+13
+-13	1435
+1385	+3
+-3	86
+99
+April 23
+1989	Kenya
+Sudan	1
+0	African Nations Cup qualifier
+in Kenya	+17
+-17	1402
+1418	+5
+-4	93
+91
+August 17
+1990	Sudan
+Mozambique	1
+0	African Nations Cup qualifier
+in Sudan	+14
+-14	1432
+1399	+4
+-1	84
+95
+December 12
+1990	Kenya
+Sudan	1
+2	Cecafa Cup
+in Zanzibar	-19
++19	1387
+1451	-7
++6	97
+79
+December 14
+1990	Sudan
+Uganda	2
+2	Cecafa Cup
+in Zanzibar	+3
+-3	1454
+1509	+1
+-1	78
+65
+December 17
+1990	Zanzibar
+Sudan	0
+1	Cecafa Cup
+in Zanzibar	-10
++10	1146
+1464	-2
++1	154
+76
+December 20
+1990	Sudan
+Uganda	0
+2	Cecafa Cup
+in Zanzibar	-27
++27	1437
+1524	-5
++5	81
+63
+March 09
+1991	Uganda
+Sudan	0
+1	Friendly
+in Uganda	-15
++15	1509
+1452	-2
++4	65
+77
+April 07
+1991	Sudan
+Uganda	1
+1	Friendly
+in Sudan	-1
++1	1451
+1510	0
+0	77
+65
+April 14
+1991	Sudan
+Kenya	1
+0	African Nations Cup qualifier
+in Sudan	+11
+-11	1462
+1376	0
+0	77
+97
+April 28
+1991	Mozambique
+Sudan	1
+0	African Nations Cup qualifier
+in Mozambique	+20
+-20	1388
+1442	+6
+0	96
+77
+July 27
+1991	Kenya
+Sudan	2
+1	African Nations Cup qualifier
+in Kenya	+16
+-16	1429
+1426	+6
+-6	83
+85
+November 24
+1991	Sudan
+Tanzania	1
+1	Cecafa Cup
+in Uganda	-7
++7	1419
+1306	-4
++7	89
+115
+November 27
+1991	Uganda
+Sudan	2
+0	Cecafa Cup
+in Uganda	+17
+-17	1502
+1402	+1
+-3	66
+92
+December 05
+1991	Sudan
+Zambia	2
+3	Cecafa Cup
+in Uganda	-10
++10	1392
+1594	-4
++3	95
+46
+December 07
+1991	Uganda
+Sudan	3
+1	Cecafa Cup
+in Uganda	+16
+-16	1487
+1376	+5
+-6	69
+101
+May 26
+1992	Ethiopia
+Sudan	5
+1	Friendly
+in Ethiopia	+12
+-12	1413
+1364	+3
+-2	90
+106
+June 30
+1992	Sudan
+Chad	1
+0	Friendly
+in Sudan	+5
+-5	1369
+1282	+2
+0	106
+122
+August 16
+1992	Sudan
+Nigeria	0
+0	African Nations Cup qualifier
+in Sudan	+10
+-10	1379
+1646	+2
+-1	105
+37
+August 30
+1992	Ethiopia
+Sudan	3
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1421
+1355	+8
+-4	90
+109
+April 11
+1993	Sudan
+Uganda	1
+1	African Nations Cup qualifier
+in Sudan	+3
+-3	1358
+1504	0
+-2	107
+71
+April 24
+1993	Nigeria
+Sudan	4
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1687
+1352	0
+-4	31
+109
+May 26
+1993	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	-3
++3	1361
+1355	+1
++4	105
+109
+July 10
+1993	Sudan
+Ethiopia	1
+0	African Nations Cup qualifier
+in Sudan	+15
+-15	1370
+1346	+3
+-7	110
+117
+July 24
+1993	Uganda
+Sudan	1
+0	African Nations Cup qualifier
+in Uganda	+8
+-8	1515
+1362	+6
+0	67
+110
+September 04
+1994	Sudan
+Egypt	0
+0	African Nations Cup qualifier
+in Sudan	+8
+-8	1370
+1599	+1
+-3	111
+47
+September 17
+1994	Qatar
+Sudan	2
+0	Independence Cup
+in Qatar	+17
+-17	1455
+1353	+2
+-7	85
+118
+September 19
+1994	Oman
+Sudan	1
+1	Independence Cup
+in Qatar	+5
+-5	1275
+1348	+2
+-2	136
+120
+October 14
+1994	Algeria
+Sudan	1
+1	African Nations Cup qualifier
+in Algeria	-16
++16	1595
+1364	-5
++4	47
+114
+November 12
+1994	Tanzania
+Sudan	2
+0	African Nations Cup qualifier
+in Tanzania	+21
+-21	1398
+1343	+4
+-3	104
+117
+January 07
+1995	Sudan
+Uganda	3
+1	African Nations Cup qualifier
+in Sudan	+32
+-32	1375
+1430	+10
+-13	109
+95
+January 22
+1995	Ethiopia
+Sudan	2
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1369
+1351	+8
+-8	111
+117
+April 07
+1995	Egypt
+Sudan	3
+1	African Nations Cup qualifier
+in Egypt	+8
+-8	1588
+1343	+2
+-3	49
+120
+April 24
+1995	Sudan
+Algeria	2
+0	African Nations Cup qualifier
+in Sudan	+42
+-42	1385
+1542	+7
+-9	111
+59
+June 03
+1995	Sudan
+Tanzania	2
+1	African Nations Cup qualifier
+in Sudan	+16
+-16	1401
+1398	+8
+-5	102
+104
+July 15
+1995	Uganda
+Sudan	2
+0	African Nations Cup qualifier
+in Uganda	+17
+-17	1483
+1384	+5
+-9	82
+112
+July 30
+1995	Sudan
+Ethiopia	3
+0	African Nations Cup qualifier
+in Sudan	+20
+-20	1404
+1305	+8
+-5	103
+130
+June 01
+1996	Sudan
+Zambia	2
+0	World Cup qualifier
+in Sudan	+44
+-44	1448
+1631	+13
+-5	90
+37
+June 12
+1996	Tanzania
+Sudan	0
+0	Friendly
+in Tanzania	-2
++2	1425
+1450	-2
++1	96
+89
+June 16
+1996	Zambia
+Sudan	3
+0	World Cup qualifier
+in Zambia	+12
+-12	1643
+1438	+1
+-4	36
+92
+August 28
+1996	Oman
+Sudan	0
+0	Friendly
+in Oman	+1
+-1	1321
+1437	0
+0	126
+92
+August 31
+1996	Oman
+Sudan	0
+1	Friendly
+in Oman	-10
++10	1311
+1447	-2
++3	128
+89
+September 25
+1996	Syria
+Sudan	1
+2	Friendly
+in Syria	-13
++13	1458
+1460	-4
++2	88
+86
+September 29
+1996	Syria
+Sudan	1
+0	Friendly tournament
+in Syria	+11
+-11	1469
+1449	+4
+-2	84
+88
+October 06
+1996	Sudan
+Zimbabwe	0
+3	African Nations Cup qualifier
+in Sudan	-39
++39	1410
+1546	-12
++10	100
+63
+November 17
+1996	Sudan
+Uganda	1
+1	Cecafa Cup
+in Sudan	-9
++9	1401
+1346	-3
+0	100
+121
+November 24
+1996	Sudan
+Tanzania	3
+2	Cecafa Cup
+in Sudan	+13
+-13	1414
+1354	+3
+-2	97
+119
+November 29
+1996	Sudan
+Kenya	1
+1	Cecafa Cup
+in Sudan	-8
++8	1406
+1376	-1
++4	98
+113
+March 03
+1997	Saudi Arabia
+Sudan	3
+0	Friendly
+in Saudi Arabia	+5
+-5	1636
+1401	+2
+-3	39
+103
+September 14
+1998	Saudi Arabia
+Sudan	2
+1	Friendly
+in Saudi Arabia	+3
+-3	1621
+1398	0
+-2	50
+107
+September 16
+1998	Qatar
+Sudan	1
+1	Friendly
+in Qatar	-6
++6	1531
+1404	0
++3	65
+104
+September 27
+1998	United Arab Emirates
+Sudan	4
+1	Arab Nations Cup
+in Qatar	+20
+-20	1584
+1384	0
+-5	59
+109
+October 03
+1998	Bahrain
+Sudan	2
+3	Friendly
+in Bahrain	-12
++12	1336
+1396	-2
++3	120
+106
+October 17
+1998	United Arab Emirates
+Sudan	2
+1	Friendly tournament
+in United Arab Emirates	+6
+-6	1543
+1390	+3
+-2	63
+107
+October 19
+1998	Sudan
+Lebanon	1
+1	Friendly tournament
+in United Arab Emirates	-3
++3	1387
+1326	-2
+0	109
+123
+October 21
+1998	Syria
+Sudan	3
+2	Friendly tournament
+in United Arab Emirates	+13
+-13	1458
+1374	+6
+-2	86
+111
+July 27
+1999	Sudan
+Ethiopia	0
+0	Cecafa Cup
+in Rwanda	-4
++4	1370
+1315	-3
+0	113
+127
+July 29
+1999	Sudan
+Zanzibar	1
+1	Cecafa Cup
+in Rwanda	-11
++11	1359
+1174	-4
++2	117
+160
+August 01
+1999	Kenya
+Sudan	3
+0	Cecafa Cup
+in Rwanda	+30
+-30	1439
+1329	+10
+-5	90
+122
+March 05
+2000	Ethiopia
+Sudan	1
+0	Friendly
+in Ethiopia	+8
+-8	1323
+1321	+3
+-3	123
+125
+March 10
+2000	Qatar
+Sudan	3
+0	Friendly
+in Qatar	+6
+-6	1503
+1315	+5
+0	71
+125
+April 09
+2000	Sudan
+Mozambique	1
+0	World Cup qualifier
+in Sudan	+12
+-12	1327
+1265	+2
+-3	124
+138
+April 23
+2000	Mozambique
+Sudan	2
+1	World Cup qualifier
+in Mozambique	+19
+-19	1271
+1308	+3
+-3	139
+128
+June 18
+2000	Sudan
+Liberia	2
+0	World Cup qualifier
+in Sudan	+30
+-30	1338
+1379	+7
+-8	123
+109
+July 02
+2000	Sudan
+Eritrea	5
+1	African Nations Cup qualifier
+in Sudan	+14
+-14	1352
+1168	+5
+-6	117
+164
+July 16
+2000	Eritrea
+Sudan	2
+1	African Nations Cup qualifier
+in Eritrea	+25
+-25	1193
+1327	+7
+-6	157
+124
+September 10
+2000	Libya
+Sudan	1
+0	African Nations Cup qualifier
+in Libya	+10
+-10	1429
+1317	+7
+-3	90
+127
+October 08
+2000	Sudan
+Egypt	0
+1	African Nations Cup qualifier
+in Sudan	-7
++7	1310
+1685	0
++1	127
+36
+January 20
+2001	Ivory Coast
+Sudan	2
+0	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1603
+1304	0
+-2	58
+130
+January 27
+2001	Nigeria
+Sudan	3
+0	World Cup qualifier
+in Nigeria	+4
+-4	1700
+1300	0
+-2	35
+132
+February 25
+2001	Sudan
+Ghana	1
+0	World Cup qualifier
+in Sudan	+23
+-23	1323
+1429	+5
+-7	126
+92
+March 10
+2001	Sierra Leone
+Sudan	0
+2	World Cup qualifier
+in Sierra Leone	-39
++39	1296
+1362	-9
++12	132
+115
+March 25
+2001	Sudan
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Sudan	+10
+-10	1372
+1635	+5
+-4	112
+51
+April 05
+2001	Oman
+Sudan	0
+1	Friendly
+in Oman	-11
++11	1299
+1383	-3
++7	131
+107
+April 07
+2001	Oman
+Sudan	1
+1	Friendly
+in Oman	0
+0	1299
+1383	0
+0	131
+107
+April 22
+2001	Liberia
+Sudan	2
+0	World Cup qualifier
+in Liberia	+14
+-14	1500
+1369	+6
+-7	70
+115
+June 03
+2001	Egypt
+Sudan	3
+2	African Nations Cup qualifier
+in Egypt	+4
+-4	1658
+1365	+1
+-4	44
+118
+June 17
+2001	Sudan
+Libya	1
+0	African Nations Cup qualifier
+in Sudan	+16
+-16	1381
+1381	+7
+-8	109
+109
+July 01
+2001	Sudan
+Nigeria	0
+4	World Cup qualifier
+in Sudan	-18
++18	1363
+1695	-7
++7	117
+32
+July 15
+2001	Ghana
+Sudan	1
+0	World Cup qualifier
+in Ghana	+7
+-7	1529
+1356	+2
+-3	68
+120
+July 29
+2001	Sudan
+Sierra Leone	3
+0	World Cup qualifier
+in Sudan	+21
+-21	1377
+1291	+9
+-5	110
+132
+July 26
+2002	Sudan
+Chad	2
+0	Friendly tournament
+in Sudan	+12
+-12	1389
+1280	+2
+-2	108
+136
+July 28
+2002	Sudan
+Uganda	2
+1	Friendly tournament
+in Sudan	+8
+-8	1397
+1317	+4
+-2	104
+128
+July 30
+2002	Sudan
+Ethiopia	3
+0	Friendly tournament
+in Sudan	+18
+-18	1415
+1372	+7
+-5	97
+113
+August 19
+2002	Jordan
+Sudan	0
+0	Friendly
+in Jordan	-2
++2	1366
+1417	-1
+0	114
+97
+August 23
+2002	Egypt
+Sudan	3
+0	Friendly
+in Egypt	+5
+-5	1638
+1412	+1
+-1	43
+98
+September 08
+2002	Sudan
+Zambia	0
+1	African Nations Cup qualifier
+in Sudan	-23
++23	1389
+1480	-11
++9	110
+78
+October 12
+2002	Tanzania
+Sudan	1
+2	African Nations Cup qualifier
+in Tanzania	-18
++18	1242
+1407	-2
++6	145
+104
+December 02
+2002	Tanzania
+Sudan	1
+1	Cecafa Cup
+in Tanzania	+3
+-3	1262
+1404	0
+-2	141
+106
+December 04
+2002	Eritrea
+Sudan	2
+1	Cecafa Cup
+in Tanzania	+33
+-33	1178
+1371	+7
+-10	158
+116
+December 07
+2002	Sudan
+Burundi	2
+1	Cecafa Cup
+in Tanzania	+17
+-17	1388
+1307	+4
+-2	112
+130
+December 09
+2002	Kenya
+Sudan	1
+0	Cecafa Cup
+in Tanzania	+17
+-17	1459
+1371	+6
+-4	88
+116
+December 18
+2002	Kuwait
+Sudan	1
+0	Arab Nations Cup
+in Kuwait	+8
+-8	1530
+1363	0
+-1	65
+118
+December 20
+2002	Jordan
+Sudan	2
+1	Arab Nations Cup
+in Kuwait	+13
+-13	1509
+1350	+5
+-4	69
+122
+December 23
+2002	Palestine
+Sudan	2
+2	Arab Nations Cup
+in Kuwait	+5
+-5	1260
+1345	+1
+-2	143
+123
+March 05
+2003	Sudan
+Dem. Rep. of Congo	1
+3	Friendly
+in Sudan	-14
++14	1331
+1477	-4
++6	127
+81
+March 29
+2003	Sudan
+Benin	3
+0	African Nations Cup qualifier
+in Sudan	+21
+-21	1352
+1258	+7
+-3	120
+143
+May 21
+2003	Uganda
+Sudan	0
+0	Friendly
+in Uganda	-4
++4	1386
+1356	-2
++1	110
+118
+May 24
+2003	Sudan
+Kenya	1
+1	Friendly
+in Sudan	+2
+-2	1358
+1507	0
+0	118
+74
+June 08
+2003	Benin
+Sudan	3
+0	African Nations Cup qualifier
+in Benin	+35
+-35	1293
+1323	+8
+-9	134
+129
+June 21
+2003	Zambia
+Sudan	1
+1	African Nations Cup qualifier
+in Zambia	-13
++13	1491
+1336	-2
++2	76
+127
+September 17
+2003	Yemen
+Sudan	3
+2	Friendly
+in Yemen	+12
+-12	1187
+1324	+3
+-3	157
+127
+September 19
+2003	Yemen
+Sudan	1
+2	Friendly
+in Yemen	-9
++9	1178
+1333	-3
++1	160
+126
+October 12
+2003	Sudan
+Eritrea	3
+0	World Cup qualifier
+in Sudan	+12
+-12	1345
+1153	+3
+-1	122
+162
+November 16
+2003	Eritrea
+Sudan	0
+0	World Cup qualifier
+in Eritrea	+5
+-5	1158
+1340	+1
+-2	164
+123
+November 30
+2003	Sudan
+Zanzibar	4
+0	Cecafa Cup
+in Sudan	+12
+-12	1352
+1141	+3
+-1	120
+167
+December 04
+2003	Sudan
+Rwanda	3
+0	Cecafa Cup
+in Sudan	+25
+-25	1377
+1320	+8
+-5	111
+127
+December 08
+2003	Sudan
+Uganda	0
+0	Cecafa Cup
+in Sudan	-5
++5	1372
+1394	-3
+0	114
+108
+December 10
+2003	Sudan
+Kenya	1
+2	Cecafa Cup
+in Sudan	-19
++19	1353
+1505	-4
++4	118
+77
+April 19
+2004	Sudan
+Syria	1
+2	Friendly
+in Sudan	-13
++13	1340
+1359	-2
++7	123
+116
+April 21
+2004	Sudan
+Syria	0
+0	Friendly
+in Sudan	-2
++2	1338
+1361	0
++2	123
+114
+May 22
+2004	Sudan
+Uganda	2
+1	Friendly
+in Sudan	+9
+-9	1347
+1409	0
+-3	123
+103
+May 25
+2004	Sudan
+Zambia	0
+2	Friendly
+in Sudan	-16
++16	1331
+1444	-2
++6	125
+93
+June 06
+2004	Sudan
+Egypt	0
+3	World Cup qualifier
+in Sudan	-14
++14	1317
+1690	-1
++3	127
+36
+June 20
+2004	Benin
+Sudan	1
+1	World Cup qualifier
+in Benin	-5
++5	1295
+1322	-1
++2	133
+125
+July 03
+2004	Sudan
+Libya	0
+1	World Cup qualifier
+in Sudan	-19
++19	1303
+1461	-4
++5	129
+87
+September 05
+2004	Ivory Coast
+Sudan	5
+0	World Cup qualifier
+in Ivory Coast	+5
+-5	1673
+1298	+1
+-2	36
+130
+October 09
+2004	Sudan
+Cameroon	1
+1	World Cup qualifier
+in Sudan	+14
+-14	1312
+1702	+3
+-1	126
+31
+December 12
+2004	Kenya
+Sudan	2
+2	Cecafa Cup
+in Ethiopia	-8
++8	1460
+1320	-2
++1	91
+125
+December 14
+2004	Sudan
+Uganda	2
+1	Cecafa Cup
+in Ethiopia	+22
+-22	1342
+1325	+4
+-2	120
+122
+December 18
+2004	Sudan
+Somalia	4
+0	Cecafa Cup
+in Ethiopia	+10
+-10	1352
+1011	+2
+-3	118
+190
+December 22
+2004	Burundi
+Sudan	2
+1	Cecafa Cup
+in Ethiopia	+22
+-22	1345
+1330	+5
+-8	120
+125
+December 25
+2004	Sudan
+Kenya	2
+1	Cecafa Cup
+in Ethiopia	+27
+-27	1357
+1426	+13
+-2	112
+94
+March 12
+2005	Sudan
+Ethiopia	3
+1	Friendly
+in Sudan	+10
+-10	1367
+1338	+5
+-5	108
+123
+March 27
+2005	Cameroon
+Sudan	2
+1	World Cup qualifier
+in Cameroon	+3
+-3	1708
+1364	0
+-4	32
+110
+April 10
+2005	Oman
+Sudan	4
+1	Islamic Solidarity Games
+in Saudi Arabia	+13
+-13	1628
+1351	+1
+-5	51
+115
+April 14
+2005	Sudan
+Tajikistan	4
+0	Islamic Solidarity Games
+in Saudi Arabia	+39
+-39	1390
+1327	+14
+-16	101
+123
+May 23
+2005	Sudan
+Chad	4
+1	Friendly
+in Sudan	+10
+-10	1400
+1310	+2
+-4	99
+129
+May 26
+2005	Sudan
+Chad	1
+1	Friendly
+in Sudan	-5
++5	1395
+1315	0
+0	99
+129
+June 05
+2005	Egypt
+Sudan	6
+1	World Cup qualifier
+in Egypt	+7
+-7	1712
+1388	+3
+0	33
+100
+August 17
+2005	Sudan
+Benin	1
+0	World Cup qualifier
+in Sudan	+9
+-9	1397
+1260	0
+-3	101
+141
+September 02
+2005	Libya
+Sudan	0
+0	World Cup qualifier
+in Libya	-11
++11	1493
+1408	-3
+0	83
+101
+October 08
+2005	Sudan
+Ivory Coast	1
+3	World Cup qualifier
+in Sudan	-17
++17	1391
+1687	-3
++2	100
+42
+November 24
+2005	Sudan
+Ethiopia	1
+5	Friendly
+in Sudan	-27
++27	1364
+1365	-9
++9	110
+108
+November 29
+2005	Sudan
+Somalia	4
+1	Cecafa Cup
+in Rwanda	+9
+-9	1373
+1015	+4
+-1	105
+186
+December 01
+2005	Ethiopia
+Sudan	3
+1	Cecafa Cup
+in Rwanda	+31
+-31	1393
+1342	+9
+-11	101
+116
+December 03
+2005	Uganda
+Sudan	3
+0	Cecafa Cup
+in Rwanda	+35
+-35	1374
+1307	+11
+-12	106
+128
+December 05
+2005	Sudan
+Djibouti	4
+0	Cecafa Cup
+in Rwanda	+5
+-5	1312
+848	+1
+-2	127
+205
+June 04
+2006	Algeria
+Sudan	1
+0	Friendly
+in Algeria	+5
+-5	1416
+1307	0
+0	98
+129
+September 03
+2006	Sudan
+Seychelles	3
+0	African Nations Cup qualifier
+in Sudan	+11
+-11	1318
+1097	+3
+0	123
+174
+October 01
+2006	Libya
+Sudan	1
+0	Friendly
+in Libya	+4
+-4	1446
+1314	+1
+0	94
+123
+October 07
+2006	Tunisia
+Sudan	1
+0	African Nations Cup qualifier
+in Tunisia	+3
+-3	1629
+1311	0
+-2	49
+125
+November 27
+2006	Uganda
+Sudan	2
+1	Cecafa Cup
+in Ethiopia	+16
+-16	1389
+1295	+5
+-3	102
+130
+November 30
+2006	Sudan
+Somalia	3
+0	Cecafa Cup
+in Ethiopia	+10
+-10	1305
+974	+3
+0	128
+188
+December 03
+2006	Rwanda
+Sudan	0
+0	Cecafa Cup
+in Ethiopia	+2
+-2	1277
+1303	0
+-2	140
+130
+December 06
+2006	Sudan
+Burundi	1
+0	Cecafa Cup
+in Ethiopia	+19
+-19	1322
+1263	+9
+-5	120
+141
+December 08
+2006	Sudan
+Uganda	2
+2	Cecafa Cup
+in Ethiopia	+5
+-5	1327
+1397	+1
+-1	119
+100
+December 10
+2006	Zambia
+Sudan	0
+0	Cecafa Cup
+in Ethiopia	-12
++12	1546
+1339	-1
++1	64
+118
+December 21
+2006	Sudan
+Somalia	6
+1	Arab Nations Cup qualifier
+in Lebanon	+8
+-8	1347
+961	+2
+0	116
+189
+December 24
+2006	Sudan
+Mauritania	2
+0	Arab Nations Cup qualifier
+in Lebanon	+17
+-17	1364
+1174	+5
+-6	111
+166
+December 27
+2006	Lebanon
+Sudan	0
+0	Arab Nations Cup qualifier
+in Lebanon	-5
++5	1349
+1369	-2
++2	116
+109
+March 25
+2007	Mauritius
+Sudan	1
+2	African Nations Cup qualifier
+in Mauritius	-20
++20	1241
+1389	-6
++5	148
+102
+May 21
+2007	Eritrea
+Sudan	1
+0	Friendly
+in Eritrea	+15
+-15	1135
+1374	0
+-4	171
+105
+May 26
+2007	Eritrea
+Sudan	1
+1	Friendly
+in Eritrea	+4
+-4	1139
+1370	+1
+-2	170
+107
+June 02
+2007	Sudan
+Mauritius	3
+0	African Nations Cup qualifier
+in Sudan	+14
+-14	1384
+1215	+3
+-2	104
+152
+June 16
+2007	Seychelles
+Sudan	0
+2	African Nations Cup qualifier
+in Seychelles	-15
++15	1071
+1399	-3
++3	179
+103
+August 22
+2007	Sudan
+Libya	1
+0	Friendly
+in Sudan	+8
+-8	1407
+1414	+1
+-3	103
+100
+September 09
+2007	Sudan
+Tunisia	3
+2	African Nations Cup qualifier
+in Sudan	+28
+-28	1435
+1617	+8
+-8	96
+54
+November 30
+2007	Sudan
+Eritrea	1
+0	Friendly
+in Sudan	+2
+-2	1437
+1183	0
+-1	97
+162
+December 03
+2007	Sudan
+Eritrea	1
+0	Friendly
+in Sudan	+2
+-2	1439
+1181	0
+0	97
+162
+December 09
+2007	Sudan
+Zanzibar	2
+2	Cecafa Cup
+in Tanzania	-11
++11	1428
+1224	-2
++4	99
+148
+December 15
+2007	Ethiopia
+Sudan	0
+0	Cecafa Cup
+in Tanzania	+7
+-7	1312
+1421	+1
+0	130
+99
+December 17
+2007	Tanzania
+Sudan	1
+2	Cecafa Cup
+in Tanzania	-22
++22	1335
+1443	-9
++3	124
+96
+December 19
+2007	Sudan
+Burundi	2
+1	Cecafa Cup
+in Tanzania	+13
+-13	1456
+1306	+5
+-2	91
+132
+December 22
+2007	Sudan
+Rwanda	2
+2	Cecafa Cup
+in Tanzania	-7
++7	1449
+1332	-3
++3	94
+125
+January 09
+2008	Nigeria
+Sudan	2
+0	Friendly
+in Spain	+5
+-5	1751
+1444	+1
+-1	29
+96
+January 11
+2008	Guinea
+Sudan	6
+0	Friendly
+in Spain	+12
+-12	1622
+1432	+5
+-2	49
+98
+January 12
+2008	Guinea
+Sudan	1
+0	Friendly
+in Spain	+5
+-5	1627
+1427	+1
+-1	48
+99
+January 22
+2008	Zambia
+Sudan	3
+0	African Nations Cup
+in Ghana	+27
+-27	1593
+1400	+3
+-4	58
+103
+January 26
+2008	Egypt
+Sudan	3
+0	African Nations Cup
+in Ghana	+12
+-12	1734
+1388	+2
+-3	32
+106
+January 30
+2008	Cameroon
+Sudan	3
+0	African Nations Cup
+in Ghana	+11
+-11	1732
+1377	+4
+-2	32
+108
+March 26
+2008	Sudan
+Liberia	0
+2	Friendly
+in Sudan	-24
++24	1353
+1247	-7
++7	115
+144
+May 22
+2008	Yemen
+Sudan	1
+1	Friendly
+in Yemen	+1
+-1	1234
+1352	0
+0	148
+115
+June 08
+2008	Congo
+Sudan	1
+0	World Cup qualifier
+in Congo	+12
+-12	1420
+1340	+5
+-6	98
+120
+June 14
+2008	Sudan
+Mali	3
+2	World Cup qualifier
+in Sudan	+28
+-28	1368
+1563	+4
+-4	116
+61
+June 22
+2008	Mali
+Sudan	3
+0	World Cup qualifier
+in Mali	+11
+-11	1574
+1357	+2
+-2	59
+117
+August 20
+2008	Sudan
+Egypt	4
+0	Friendly
+in Sudan	+32
+-32	1389
+1744	+8
+-8	110
+29
+September 06
+2008	Chad
+Sudan	2
+1	World Cup qualifier
+in Egypt	+27
+-27	1297
+1362	+6
+-8	131
+118
+September 10
+2008	Sudan
+Chad	3
+1	World Cup qualifier
+in Egypt	+24
+-24	1386
+1273	+6
+-5	112
+136
+October 11
+2008	Sudan
+Congo	2
+0	World Cup qualifier
+in Sudan	+26
+-26	1412
+1408	+12
+-9	101
+105
+December 31
+2008	Sudan
+Kenya	0
+0	Cecafa Cup
+in Uganda	-1
++1	1411
+1396	0
+0	102
+111
+January 04
+2009	Djibouti
+Sudan	1
+1	Cecafa Cup
+in Uganda	+19
+-19	802
+1392	+2
+-8	210
+110
+January 06
+2009	Burundi
+Sudan	1
+0	Cecafa Cup
+in Uganda	+27
+-27	1283
+1365	+5
+-8	137
+118
+January 08
+2009	Sudan
+Zambia	2
+0	Cecafa Cup
+in Uganda	+42
+-42	1407
+1470	+13
+-12	105
+91
+March 07
+2009	Sudan
+Uganda	0
+2	Friendly
+in Sudan	-17
++17	1390
+1480	-4
++3	111
+86
+March 28
+2009	Sudan
+Mali	1
+1	World Cup qualifier
+in Sudan	+4
+-4	1394
+1553	+2
+-2	109
+66
+May 28
+2009	Tunisia
+Sudan	4
+0	Friendly
+in Tunisia	+5
+-5	1639
+1389	+1
+-5	48
+111
+June 07
+2009	Benin
+Sudan	1
+0	World Cup qualifier
+in Benin	+14
+-14	1406
+1375	+2
+-4	104
+115
+June 20
+2009	Sudan
+Ghana	0
+2	World Cup qualifier
+in Sudan	-11
++11	1364
+1737	-3
++4	118
+31
+September 06
+2009	Ghana
+Sudan	2
+0	World Cup qualifier
+in Ghana	+4
+-4	1747
+1360	+1
+-1	30
+119
+October 11
+2009	Mali
+Sudan	1
+0	World Cup qualifier
+in Mali	+6
+-6	1560
+1354	+2
+-2	63
+121
+November 14
+2009	Sudan
+Benin	1
+2	World Cup qualifier
+in Sudan	-21
++21	1333
+1453	-3
++2	125
+94
+June 04
+2010	Sudan
+Palestine	1
+1	Friendly
+in Sudan	-6
++6	1327
+1195	-1
+0	126
+157
+June 20
+2010	Sudan
+Tunisia	2
+6	Friendly
+in Sudan	-10
++10	1317
+1614	-2
++1	128
+51
+September 04
+2010	Sudan
+Congo	2
+0	African Nations Cup qualifier
+in Sudan	+25
+-25	1342
+1334	+8
+-9	122
+127
+October 10
+2010	Ghana
+Sudan	0
+0	African Nations Cup qualifier
+in Ghana	-18
++18	1735
+1360	-3
++1	26
+120
+November 28
+2010	Zanzibar
+Sudan	2
+0	Cecafa Cup
+in Tanzania	+35
+-35	1338
+1325	+7
+-9	125
+129
+December 01
+2010	Rwanda
+Sudan	0
+0	Cecafa Cup
+in Tanzania	+1
+-1	1300
+1324	+1
+0	133
+128
+January 05
+2011	Kenya
+Sudan	1
+0	Nile Basin Tournament
+in Egypt	+17
+-17	1293
+1307	+6
+0	134
+129
+January 11
+2011	Dem. Rep. of Congo
+Sudan	2
+1	Nile Basin Tournament
+in Egypt	+11
+-11	1412
+1296	+3
+-3	107
+132
+January 16
+2011	Sudan
+Tanzania	2
+0	Nile Basin Tournament
+in Egypt	+26
+-26	1322
+1329	+3
+-7	129
+126
+March 27
+2011	Sudan
+Swaziland	3
+0	African Nations Cup qualifier
+in Sudan	+12
+-12	1334
+1131	+4
+0	125
+169
+May 28
+2011	Ethiopia
+Sudan	1
+2	Friendly
+in Ethiopia	-12
++12	1308
+1346	0
++3	128
+121
+June 01
+2011	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	-2
++2	1306
+1348	-1
++1	129
+120
+June 05
+2011	Swaziland
+Sudan	1
+2	African Nations Cup qualifier
+in Swaziland	-14
++14	1127
+1362	-1
++1	170
+118
+June 25
+2011	Kenya
+Sudan	1
+2	Friendly
+in Kenya	-11
++11	1274
+1373	0
++3	137
+115
+August 19
+2011	Eritrea
+Sudan	0
+3	Friendly
+in Eritrea	-13
++13	1158
+1386	-3
++2	166
+112
+August 26
+2011	Bahrain
+Sudan	1
+0	Friendly
+in Bahrain	+6
+-6	1458
+1380	0
+0	96
+112
+September 04
+2011	Congo
+Sudan	0
+1	African Nations Cup qualifier
+in Congo	-23
++23	1307
+1403	-10
++7	134
+106
+October 01
+2011	Ethiopia
+Sudan	1
+2	Friendly
+in Ethiopia	-10
++10	1303
+1413	-3
++5	133
+103
+October 08
+2011	Sudan
+Ghana	0
+2	African Nations Cup qualifier
+in Sudan	-12
++12	1401
+1760	-4
+0	107
+26
+November 11
+2011	Cameroon
+Sudan	3
+1	Friendly tournament
+in Morocco	+9
+-9	1642
+1392	+1
+0	47
+106
+November 13
+2011	Sudan
+Uganda	0
+0	Friendly tournament
+in Morocco	+6
+-6	1398
+1537	+1
+0	105
+72
+November 28
+2011	Ethiopia
+Sudan	1
+1	Cecafa Cup
+in Tanzania	+5
+-5	1310
+1393	+2
+0	132
+106
+November 30
+2011	Malawi
+Sudan	0
+0	Cecafa Cup
+in Tanzania	-3
++3	1444
+1396	0
+0	97
+105
+December 03
+2011	Sudan
+Kenya	1
+0	Cecafa Cup
+in Tanzania	+17
+-17	1413
+1322	+3
+-5	102
+130
+December 05
+2011	Sudan
+Burundi	2
+0	Cecafa Cup
+in Tanzania	+17
+-17	1430
+1239	+3
+-3	99
+146
+December 08
+2011	Rwanda
+Sudan	2
+1	Cecafa Cup
+in Tanzania	+22
+-22	1413
+1408	+5
+-6	101
+104
+December 10
+2011	Tanzania
+Sudan	0
+1	Cecafa Cup
+in Tanzania	-18
++18	1247
+1426	-3
++5	144
+99
+January 09
+2012	Tunisia
+Sudan	3
+0	Friendly
+in United Arab Emirates	+11
+-11	1584
+1415	+3
+-3	59
+102
+January 12
+2012	Senegal
+Sudan	1
+0	Friendly
+in Senegal	+3
+-3	1626
+1412	+2
+0	50
+102
+January 16
+2012	Gabon
+Sudan	0
+0	Friendly
+in Gabon	-5
++5	1495
+1417	-2
+0	87
+102
+January 22
+2012	Ivory Coast
+Sudan	1
+0	African Nations Cup
+in Equatorial Guinea	+5
+-5	1810
+1412	0
+0	15
+102
+January 26
+2012	Angola
+Sudan	2
+2	African Nations Cup
+in Equatorial Guinea	-9
++9	1527
+1421	-2
++1	77
+100
+January 30
+2012	Sudan
+Burkina Faso	2
+1	African Nations Cup
+in Equatorial Guinea	+30
+-30	1451
+1465	+3
+-5	97
+92
+February 04
+2012	Zambia
+Sudan	3
+0	African Nations Cup
+in Equatorial Guinea	+30
+-30	1591
+1421	+9
+-3	56
+100
+June 02
+2012	Sudan
+Zambia	2
+0	World Cup qualifier
+in Sudan	+40
+-40	1461
+1601	+6
+-10	94
+57
+June 10
+2012	Lesotho
+Sudan	0
+0	World Cup qualifier
+in Lesotho	+11
+-11	1155
+1450	+4
+-1	162
+95
+June 27
+2012	Sudan
+Lebanon	2
+0	Arab Nations Cup
+in Saudi Arabia	+18
+-18	1468
+1278	+2
+-4	93
+140
+June 30
+2012	Iraq
+Sudan	1
+1	Arab Nations Cup
+in Saudi Arabia	-7
++7	1579
+1475	-1
++2	61
+90
+August 26
+2012	Libya
+Sudan	3
+0	Friendly
+in Tunisia	+11
+-11	1616
+1464	+4
+-3	52
+93
+September 08
+2012	Sudan
+Ethiopia	5
+3	African Nations Cup qualifier
+in Sudan	+13
+-13	1477
+1323	+2
+-5	91
+128
+October 14
+2012	Ethiopia
+Sudan	2
+0	African Nations Cup qualifier
+in Ethiopia	+35
+-35	1358
+1442	+6
+-8	120
+97
+November 25
+2012	Tanzania
+Sudan	2
+0	Cecafa Cup
+in Uganda	+42
+-42	1330
+1400	+14
+-8	125
+104
+November 28
+2012	Sudan
+Somalia	1
+0	Cecafa Cup
+in Uganda	+2
+-2	1402
+878	+1
+-1	104
+202
+December 01
+2012	Burundi
+Sudan	1
+0	Cecafa Cup
+in Uganda	+27
+-27	1311
+1375	+7
+-11	132
+114
+March 24
+2013	Ghana
+Sudan	4
+0	World Cup qualifier
+in Ghana	+7
+-7	1671
+1368	0
+-4	39
+119
+May 25
+2013	Ethiopia
+Sudan	2
+0	Friendly
+in Ethiopia	+12
+-12	1342
+1356	+2
+0	124
+118
+June 02
+2013	Sudan
+Tanzania	0
+0	Friendly
+in Ethiopia	+1
+-1	1357
+1394	0
+0	119
+108
+June 07
+2013	Sudan
+Ghana	1
+3	World Cup qualifier
+in Sudan	-14
++14	1343
+1685	-5
++4	124
+37
+June 15
+2013	Zambia
+Sudan	1
+1	World Cup qualifier
+in Zambia	-14
++14	1530
+1357	-4
++5	74
+120
+September 08
+2013	Sudan
+Lesotho	1
+3	World Cup qualifier
+in Sudan	-49
++49	1308
+1241	-13
++10	131
+147
+November 29
+2013	Sudan
+Eritrea	3
+0	Cecafa Cup
+in Kenya	+19
+-19	1327
+1115	+6
+-7	128
+176
+December 02
+2013	Sudan
+Rwanda	1
+0	Cecafa Cup
+in Kenya	+19
+-19	1346
+1282	+5
+-5	123
+139
+December 05
+2013	Uganda
+Sudan	1
+0	Cecafa Cup
+in Kenya	+11
+-11	1524
+1335	+3
+-1	75
+124
+December 08
+2013	Sudan
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+38
+-38	1373
+1397	+9
+-9	115
+108
+December 10
+2013	Sudan
+Zambia	2
+1	Cecafa Cup
+in Kenya	+28
+-28	1401
+1483	+7
+-8	108
+87
+December 12
+2013	Kenya
+Sudan	2
+0	Cecafa Cup
+in Kenya	+19
+-19	1450
+1382	+6
+-5	95
+113

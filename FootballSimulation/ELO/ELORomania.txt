@@ -1,0 +1,6129 @@
+June 08
+1922	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-8
++8	1515
+1708	-1
+-	31
+14
+September 03
+1922	Poland
+Romania	1
+1	Friendly
+in Poland	0
+0	1595
+1708	0
+0	25
+14
+June 10
+1923	Romania
+Yugoslavia	1
+2	Friendly
+in Romania	-17
++17	1691
+1545	-1
++2	16
+31
+July 01
+1923	Romania
+Czechoslovakia	0
+6	Friendly
+in Romania	-19
++19	1672
+1840	-2
++1	18
+3
+September 02
+1923	Poland
+Romania	1
+1	Friendly
+in Poland	-1
++1	1596
+1673	0
+0	24
+18
+October 26
+1923	Turkey
+Romania	2
+2	Friendly
+in Turkey	-1
++1	1599
+1674	-
+0	24
+18
+May 20
+1924	Austria
+Romania	4
+1	Friendly
+in Austria	+10
+-10	1735
+1664	+1
+-1	12
+18
+May 27
+1924	Netherlands
+Romania	6
+0	Olympic Games
+in France	+49
+-49	1797
+1615	+4
+-4	6
+23
+August 31
+1924	Czechoslovakia
+Romania	4
+1	Friendly
+in Czechoslovakia	+6
+-6	1800
+1609	+1
+-1	5
+24
+May 01
+1925	Romania
+Turkey	1
+2	Friendly
+in Romania	-14
++14	1595
+1596	-5
++2	27
+25
+May 31
+1925	Bulgaria
+Romania	2
+4	Friendly
+in Bulgaria	-14
++14	1449
+1609	-1
++4	44
+22
+April 25
+1926	Romania
+Bulgaria	6
+1	Friendly
+in Romania	+7
+-7	1616
+1442	+2
+0	23
+45
+May 07
+1926	Turkey
+Romania	1
+3	Friendly
+in Turkey	-17
++17	1549
+1633	-1
++1	30
+22
+October 03
+1926	Yugoslavia
+Romania	2
+3	Friendly
+in Yugoslavia	-9
++9	1483
+1642	0
+0	39
+21
+May 10
+1927	Romania
+Yugoslavia	0
+3	Friendly
+in Romania	-29
++29	1613
+1508	-2
++5	23
+36
+June 19
+1927	Romania
+Poland	3
+3	Friendly
+in Romania	-4
++4	1609
+1574	0
+0	23
+28
+April 15
+1928	Romania
+Turkey	4
+2	Friendly
+in Romania	+8
+-8	1617
+1525	+3
+-2	22
+35
+May 06
+1928	Yugoslavia
+Romania	3
+1	Friendly
+in Yugoslavia	+14
+-14	1547
+1603	+1
+-4	32
+26
+April 21
+1929	Romania
+Bulgaria	3
+0	Friendly
+in Romania	+5
+-5	1608
+1406	0
+-1	24
+46
+May 10
+1929	Romania
+Yugoslavia	2
+3	Friendly
+in Romania	-15
++15	1593
+1542	-2
++3	26
+31
+September 15
+1929	Bulgaria
+Romania	2
+3	Friendly
+in Bulgaria	-8
++8	1397
+1601	-1
++2	47
+24
+October 06
+1929	Romania
+Yugoslavia	2
+1	Balkan Cup
+in Romania	+13
+-13	1614
+1552	+2
+-1	22
+32
+May 04
+1930	Yugoslavia
+Romania	2
+1	Friendly
+in Yugoslavia	+9
+-9	1548
+1605	+1
+-4	32
+24
+May 25
+1930	Romania
+Greece	8
+1	Balkan Cup
+in Romania	+19
+-19	1624
+1459	+5
+-3	19
+42
+July 14
+1930	Romania
+Peru	3
+1	World Cup
+in Uruguay	+32
+-32	1656
+1487	+1
+-1	19
+38
+July 21
+1930	Uruguay
+Romania	4
+0	World Cup
+in Uruguay	+13
+-13	1921
+1643	0
+0	2
+19
+October 12
+1930	Bulgaria
+Romania	5
+3	Balkan Cup
+in Bulgaria	+42
+-42	1433
+1601	+4
+-7	44
+26
+May 10
+1931	Romania
+Bulgaria	5
+2	Balkan Cup
+in Romania	+9
+-9	1610
+1369	+3
+-2	23
+54
+June 28
+1931	Yugoslavia
+Romania	2
+4	Balkan Cup
+in Yugoslavia	-42
++42	1617
+1652	-3
++4	21
+18
+August 23
+1931	Poland
+Romania	2
+3	Friendly
+in Poland	-12
++12	1605
+1664	-2
+0	24
+18
+August 26
+1931	Lithuania
+Romania	2
+4	Friendly
+in Lithuania	-3
++3	1185
+1667	0
+0	66
+18
+November 29
+1931	Greece
+Romania	2
+4	Balkan Cup
+in Greece	-20
++20	1430
+1687	0
++1	44
+17
+June 12
+1932	Romania
+France	6
+3	Friendly
+in Romania	+6
+-6	1693
+1508	+1
+-1	16
+37
+June 26
+1932	Bulgaria
+Romania	2
+0	Balkan Cup
+in Yugoslavia	+50
+-50	1465
+1643	+3
+-2	44
+19
+June 28
+1932	Romania
+Greece	3
+0	Balkan Cup
+in Yugoslavia	+14
+-14	1657
+1386	+1
+-1	18
+52
+July 03
+1932	Yugoslavia
+Romania	3
+1	Balkan Cup
+in Yugoslavia	+31
+-31	1576
+1626	+1
+-3	30
+21
+October 02
+1932	Romania
+Poland	0
+5	Friendly
+in Romania	-25
++25	1601
+1669	-5
++2	26
+17
+June 04
+1933	Romania
+Bulgaria	7
+0	Balkan Cup
+in Romania	+24
+-24	1625
+1498	+5
+-1	22
+38
+June 06
+1933	Romania
+Greece	1
+0	Balkan Cup
+in Romania	+4
+-4	1629
+1346	0
+-2	22
+58
+June 11
+1933	Romania
+Yugoslavia	5
+0	Balkan Cup
+in Romania	+27
+-27	1656
+1580	+3
+-3	19
+30
+October 29
+1933	Switzerland
+Romania	2
+2	World Cup qualifier
+in Switzerland	-1
++1	1568
+1657	-1
++1	33
+19
+April 29
+1934	Romania
+Yugoslavia	2
+1	World Cup qualifier
+in Romania	+10
+-10	1667
+1564	+1
+-2	19
+32
+May 27
+1934	Czechoslovakia
+Romania	2
+1	World Cup
+in Italy	+20
+-20	1807
+1647	0
+0	8
+19
+October 14
+1934	Poland
+Romania	3
+3	Friendly
+in Poland	-2
++2	1598
+1649	0
++1	28
+18
+December 27
+1934	Greece
+Romania	2
+2	Balkan Cup
+in Greece	+10
+-10	1374
+1639	0
+-2	56
+20
+December 30
+1934	Romania
+Bulgaria	3
+2	Balkan Cup
+in Greece	+10
+-10	1649
+1432	+2
+-1	18
+44
+January 01
+1935	Yugoslavia
+Romania	4
+0	Balkan Cup
+in Greece	+45
+-45	1621
+1604	+7
+-8	22
+26
+June 17
+1935	Yugoslavia
+Romania	2
+0	Balkan Cup
+in Bulgaria	+29
+-29	1650
+1575	+5
+-1	19
+29
+June 19
+1935	Bulgaria
+Romania	4
+0	Balkan Cup
+in Bulgaria	+38
+-38	1509
+1537	+4
+-6	37
+35
+June 24
+1935	Greece
+Romania	2
+2	Balkan Cup
+in Bulgaria	+11
+-11	1335
+1526	0
+0	59
+35
+August 25
+1935	Germany
+Romania	4
+2	Friendly
+in Germany	+3
+-3	1830
+1523	0
+0	8
+35
+September 01
+1935	Sweden
+Romania	7
+1	Friendly
+in Sweden	+6
+-6	1746
+1517	0
+0	13
+35
+November 03
+1935	Romania
+Poland	4
+1	Friendly
+in Romania	+16
+-16	1533
+1568	0
+-2	35
+30
+May 10
+1936	Romania
+Yugoslavia	3
+2	Friendly
+in Romania	+11
+-11	1544
+1660	0
+0	35
+20
+May 17
+1936	Romania
+Greece	5
+2	Balkan Cup
+in Romania	+10
+-10	1554
+1325	0
+0	35
+59
+May 24
+1936	Romania
+Bulgaria	4
+1	Balkan Cup
+in Romania	+22
+-22	1576
+1498	+5
+-2	30
+38
+October 04
+1936	Romania
+Hungary	1
+2	Friendly
+in Romania	-7
++7	1569
+1773	-1
++2	33
+9
+April 18
+1937	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+5
+-5	1574
+1866	+1
+0	32
+4
+June 10
+1937	Romania
+Belgium	2
+1	Friendly
+in Romania	+5
+-5	1579
+1475	0
+0	32
+42
+June 27
+1937	Romania
+Sweden	2
+2	Friendly
+in Romania	-1
++1	1578
+1641	0
+0	32
+22
+July 04
+1937	Poland
+Romania	2
+4	Friendly
+in Poland	-21
++21	1615
+1599	-2
++1	25
+31
+July 09
+1937	Lithuania
+Romania	0
+2	Friendly
+in Lithuania	-4
++4	1183
+1603	-1
++1	71
+30
+July 13
+1937	Latvia
+Romania	0
+0	Friendly
+in Latvia	+4
+-4	1363
+1599	+1
+-1	54
+31
+July 14
+1937	Estonia
+Romania	2
+1	Friendly
+in Estonia	+16
+-16	1283
+1583	+1
+-1	64
+32
+September 06
+1937	Yugoslavia
+Romania	2
+1	Friendly
+in Yugoslavia	+6
+-6	1646
+1577	+1
+0	21
+32
+May 08
+1938	Romania
+Yugoslavia	0
+1	Friendly
+in Romania	-11
++11	1566
+1642	-2
++2	36
+21
+June 05
+1938	Cuba
+Romania	3
+3	World Cup
+in France	+5
+-5	1515
+1561	0
+-1	39
+37
+June 09
+1938	Cuba
+Romania	2
+1	World Cup
+in France	+34
+-34	1549
+1527	+2
+-1	37
+38
+September 06
+1938	Yugoslavia
+Romania	1
+1	Friendly
+in Yugoslavia	-5
++5	1621
+1532	-1
+0	25
+36
+September 25
+1938	Romania
+Germany	1
+4	Friendly
+in Romania	-13
++13	1519
+1726	0
+0	36
+14
+December 04
+1938	Czechoslovakia
+Romania	6
+2	Friendly
+in Czechoslovakia	+4
+-4	1793
+1515	0
+-1	8
+37
+May 07
+1939	Romania
+Yugoslavia	1
+0	Friendly
+in Romania	+10
+-10	1525
+1609	+1
+-3	36
+26
+May 18
+1939	Romania
+Latvia	4
+0	Friendly
+in Romania	+10
+-10	1535
+1431	+1
+-2	35
+47
+May 24
+1939	Romania
+England	0
+2	Friendly
+in Romania	-6
++6	1529
+1868	-1
+0	36
+5
+June 11
+1939	Romania
+Italy	0
+1	Friendly
+in Romania	-1
++1	1528
+2078	0
+0	36
+1
+October 22
+1939	Romania
+Hungary	1
+1	Friendly
+in Romania	+4
+-4	1532
+1781	0
+0	37
+10
+March 31
+1940	Romania
+Yugoslavia	3
+3	Friendly
+in Romania	-1
++1	1531
+1592	0
++2	37
+31
+April 14
+1940	Italy
+Romania	2
+1	Friendly
+in Italy	+1
+-1	2020
+1530	0
+0	2
+38
+May 19
+1940	Hungary
+Romania	2
+0	Friendly
+in Hungary	+3
+-3	1815
+1527	0
+0	8
+38
+July 14
+1940	Germany
+Romania	9
+3	Friendly
+in Germany	+5
+-5	1772
+1522	0
+0	13
+38
+September 22
+1940	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-15
++15	1594
+1537	-3
++1	32
+37
+June 01
+1941	Romania
+Germany	1
+4	Friendly
+in Romania	-10
++10	1527
+1800	-1
++2	38
+9
+October 12
+1941	Romania
+Slovakia	3
+2	Friendly
+in Romania	+10
+-10	1537
+1606	+1
+-3	38
+30
+August 16
+1942	Germany
+Romania	7
+0	Friendly
+in Germany	+4
+-4	1826
+1533	+1
+-1	7
+39
+August 23
+1942	Slovakia
+Romania	1
+0	Friendly
+in Slovakia	+6
+-6	1598
+1527	0
+0	33
+39
+October 11
+1942	Romania
+Croatia	2
+2	Friendly
+in Romania	+5
+-5	1532
+1798	0
+0	39
+9
+June 13
+1943	Romania
+Slovakia	2
+2	Friendly
+in Romania	-2
++2	1530
+1569	0
+0	39
+36
+September 30
+1945	Hungary
+Romania	7
+2	Friendly
+in Hungary	+4
+-4	1816
+1526	+1
+0	8
+40
+October 08
+1946	Bulgaria
+Romania	2
+2	Balkan Cup
+in Albania	+3
+-3	1470
+1523	0
+0	47
+39
+October 11
+1946	Romania
+Yugoslavia	2
+1	Balkan Cup
+in Albania	+28
+-28	1551
+1645	+1
+-3	38
+23
+October 13
+1946	Albania
+Romania	1
+0	Balkan Cup
+in Albania	+22
+-22	1439
+1529	+4
+-1	52
+39
+May 25
+1947	Albania
+Romania	0
+4	Balkan Cup
+in Albania	-39
++39	1400
+1568	-7
++5	59
+35
+June 22
+1947	Romania
+Yugoslavia	1
+3	Balkan Cup
+in Romania	-32
++32	1536
+1679	-4
++5	39
+19
+July 06
+1947	Bulgaria
+Romania	2
+3	Balkan Cup
+in Bulgaria	-21
++21	1431
+1557	-2
++1	51
+38
+July 19
+1947	Poland
+Romania	1
+2	Friendly
+in Poland	-14
++14	1576
+1571	0
++4	33
+34
+September 21
+1947	Romania
+Czechoslovakia	2
+6	Friendly
+in Romania	-14
++14	1557
+1777	-5
+0	38
+13
+October 12
+1947	Romania
+Hungary	0
+3	Balkan Cup
+in Romania	-18
++18	1539
+1857	-1
++1	39
+5
+October 26
+1947	Romania
+Poland	0
+0	Friendly
+in Romania	-2
++2	1537
+1568	0
++1	39
+34
+May 02
+1948	Romania
+Albania	0
+1	Balkan Cup
+in Romania	-33
++33	1504
+1396	-1
++4	41
+60
+June 06
+1948	Hungary
+Romania	9
+0	Balkan Cup
+in Hungary	+7
+-7	1850
+1497	+2
+0	5
+41
+June 20
+1948	Romania
+Bulgaria	3
+2	Balkan Cup
+in Romania	+11
+-11	1508
+1413	0
+-1	40
+57
+July 04
+1948	Romania
+Czechoslovakia	2
+1	Balkan Cup
+in Romania	+25
+-25	1533
+1677	0
+-5	40
+21
+October 10
+1948	Poland
+Romania	0
+0	Balkan Cup
+in Poland	-7
++7	1546
+1540	-1
++1	37
+39
+October 24
+1948	Romania
+Hungary	1
+5	Balkan Cup
+in Romania	-15
++15	1525
+1889	-1
+0	40
+6
+May 08
+1949	Romania
+Poland	2
+1	Friendly
+in Romania	+8
+-8	1533
+1540	+1
+-1	40
+39
+May 22
+1949	Czechoslovakia
+Romania	3
+2	Friendly
+in Czechoslovakia	+3
+-3	1718
+1530	+1
+-2	16
+42
+October 23
+1949	Romania
+Albania	1
+1	Friendly
+in Romania	-5
++5	1525
+1432	-1
++2	43
+56
+November 29
+1949	Albania
+Romania	1
+4	Friendly
+in Albania	-18
++18	1413
+1543	-4
++4	61
+39
+May 14
+1950	Poland
+Romania	3
+3	Friendly
+in Poland	-2
++2	1529
+1545	0
+0	42
+39
+May 21
+1950	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+1
+-1	1546
+1662	0
+0	39
+20
+October 08
+1950	Romania
+Albania	6
+0	Friendly
+in Romania	+9
+-9	1555
+1408	+1
+0	38
+63
+May 20
+1951	Czechoslovakia
+Romania	2
+2	Friendly
+in Czechoslovakia	-6
++6	1682
+1561	0
++2	20
+35
+May 11
+1952	Romania
+Czechoslovakia	3
+1	Friendly
+in Romania	+16
+-16	1577
+1659	+4
+-3	32
+24
+May 25
+1952	Romania
+Poland	1
+0	Friendly
+in Romania	+6
+-6	1583
+1503	0
+0	32
+45
+June 24
+1952	Soviet Union
+Romania	3
+1	Friendly
+in the Soviet Union	+11
+-11	1585
+1572	+1
+-1	32
+33
+July 15
+1952	Hungary
+Romania	2
+1	Olympic Games
+in Finland	+9
+-9	1886
+1563	0
+-2	5
+35
+October 26
+1952	Romania
+East Germany	3
+1	Friendly
+in Romania	+11
+-11	1574
+1567	+3
+-2	32
+34
+June 14
+1953	Czechoslovakia
+Romania	2
+0	World Cup qualifier
+in Czechoslovakia	+16
+-16	1673
+1558	+1
+-3	22
+37
+June 28
+1953	Romania
+Bulgaria	3
+1	World Cup qualifier
+in Romania	+15
+-15	1573
+1450	+3
+-1	35
+59
+October 11
+1953	Bulgaria
+Romania	1
+2	World Cup qualifier
+in Bulgaria	-18
++18	1427
+1591	-4
++3	64
+32
+October 25
+1953	Romania
+Czechoslovakia	0
+1	World Cup qualifier
+in Romania	-19
++19	1572
+1719	-3
++2	35
+17
+May 08
+1954	East Germany
+Romania	0
+1	Friendly
+in East Germany	-13
++13	1549
+1585	-3
++1	42
+35
+September 19
+1954	Hungary
+Romania	5
+1	Friendly
+in Hungary	+1
+-1	2123
+1584	0
+0	1
+34
+May 29
+1955	Romania
+Poland	2
+2	Friendly
+in Romania	-5
++5	1579
+1502	0
++2	35
+46
+June 12
+1955	Norway
+Romania	0
+1	Friendly
+in Norway	-12
++12	1538
+1591	-1
+0	41
+35
+June 15
+1955	Sweden
+Romania	4
+1	Friendly
+in Sweden	+7
+-7	1750
+1584	0
+0	16
+35
+September 18
+1955	Romania
+East Germany	2
+3	Friendly
+in Romania	-14
++14	1570
+1535	0
++1	35
+42
+September 28
+1955	Romania
+Belgium	1
+0	Friendly
+in Romania	+10
+-10	1580
+1657	0
+0	35
+22
+October 09
+1955	Romania
+Bulgaria	1
+1	Friendly
+in Romania	-5
++5	1575
+1481	0
+0	35
+55
+April 22
+1956	Yugoslavia
+Romania	0
+1	Friendly
+in Yugoslavia	-18
++18	1893
+1593	-1
++1	6
+34
+June 17
+1956	Romania
+Sweden	0
+2	Friendly
+in Romania	-13
++13	1580
+1752	-1
++2	35
+16
+June 26
+1956	Romania
+Norway	2
+0	Friendly
+in Romania	+9
+-9	1589
+1536	0
+-4	35
+43
+September 10
+1956	Bulgaria
+Romania	2
+0	Friendly
+in Bulgaria	+14
+-14	1524
+1575	+2
+-2	47
+35
+May 26
+1957	Belgium
+Romania	1
+0	Friendly
+in Belgium	+7
+-7	1606
+1568	0
+-4	31
+40
+June 01
+1957	Soviet Union
+Romania	1
+1	Friendly
+in the Soviet Union	-8
++8	1813
+1576	-1
++4	9
+36
+June 16
+1957	Greece
+Romania	1
+2	World Cup qualifier
+in Greece	-22
++22	1481
+1598	-9
++1	59
+35
+September 29
+1957	Romania
+Yugoslavia	1
+1	World Cup qualifier
+in Romania	+6
+-6	1604
+1802	0
+-1	34
+11
+November 03
+1957	Romania
+Greece	3
+0	World Cup qualifier
+in Romania	+15
+-15	1619
+1466	+4
+-2	32
+61
+November 17
+1957	Yugoslavia
+Romania	2
+0	World Cup qualifier
+in Yugoslavia	+10
+-10	1817
+1609	+1
+-2	10
+35
+September 14
+1958	East Germany
+Romania	3
+2	Friendly
+in East Germany	+10
+-10	1526
+1599	+1
+-2	49
+40
+October 26
+1958	Romania
+Hungary	1
+2	Friendly
+in Romania	-5
++5	1594
+1911	-1
++1	40
+2
+November 02
+1958	Romania
+Turkey	3
+0	European Cup qualifier
+in Romania	+35
+-35	1629
+1655	+11
+-2	29
+26
+April 26
+1959	Turkey
+Romania	2
+0	European Cup qualifier
+in Turkey	+19
+-19	1682
+1610	+1
+-8	26
+38
+July 19
+1959	Soviet Union
+Romania	2
+0	Olympic Games qualifier
+in the Soviet Union	+7
+-7	1865
+1603	+1
+0	5
+38
+August 02
+1959	Romania
+Soviet Union	0
+0	Olympic Games qualifier
+in Romania	+9
+-9	1612
+1856	+2
+-2	36
+7
+August 30
+1959	Poland
+Romania	2
+3	Friendly
+in Poland	-11
++11	1537
+1623	0
++3	45
+33
+November 08
+1959	Romania
+Bulgaria	1
+0	Olympic Games qualifier
+in Romania	+18
+-18	1641
+1663	+3
+-1	31
+28
+May 01
+1960	Bulgaria
+Romania	2
+1	Olympic Games qualifier
+in Bulgaria	+14
+-14	1671
+1627	+4
+-2	26
+35
+May 22
+1960	Romania
+Czechoslovakia	0
+2	European Cup qualifier
+in Romania	-22
++22	1605
+1842	-3
++1	38
+9
+May 29
+1960	Czechoslovakia
+Romania	3
+0	European Cup qualifier
+in Czechoslovakia	+9
+-9	1851
+1596	0
+-3	9
+42
+May 14
+1961	Turkey
+Romania	0
+1	Friendly
+in Turkey	-15
++15	1671
+1611	-3
++2	26
+38
+October 08
+1961	Romania
+Turkey	4
+0	Friendly
+in Romania	+17
+-17	1628
+1663	+9
+-4	32
+27
+September 30
+1962	Romania
+Morocco	4
+0	Friendly
+in Romania	+12
+-12	1640
+1578	+2
+-2	29
+43
+October 14
+1962	East Germany
+Romania	3
+2	Friendly
+in East Germany	+11
+-11	1524
+1629	+3
+-2	52
+30
+November 01
+1962	Spain
+Romania	6
+0	European Cup qualifier
+in Spain	+10
+-10	1897
+1619	0
+-2	6
+32
+November 25
+1962	Romania
+Spain	3
+1	European Cup qualifier
+in Romania	+44
+-44	1663
+1853	+6
+-3	26
+9
+December 23
+1962	Morocco
+Romania	3
+1	Friendly
+in Morocco	+14
+-14	1596
+1649	+4
+-2	39
+28
+May 12
+1963	Romania
+East Germany	3
+2	Friendly
+in Romania	+6
+-6	1655
+1592	+2
+0	27
+42
+June 02
+1963	Poland
+Romania	1
+1	Friendly
+in Poland	-2
++2	1607
+1657	0
+0	38
+27
+June 23
+1963	Denmark
+Romania	2
+3	Olympic Games qualifier
+in Denmark	-25
++25	1613
+1682	-7
++1	37
+26
+October 09
+1963	Turkey
+Romania	0
+0	Friendly
+in Turkey	-2
++2	1645
+1684	-1
+0	29
+26
+October 27
+1963	Romania
+Yugoslavia	2
+1	Friendly
+in Romania	+13
+-13	1697
+1864	+1
+-2	25
+8
+November 03
+1963	Romania
+Denmark	2
+3	Olympic Games qualifier
+in Romania	-30
++30	1667
+1646	-2
++4	27
+30
+November 28
+1963	Romania
+Denmark	2
+1	Olympic Games qualifier
+in Romania	+13
+-13	1680
+1633	+2
+-3	26
+33
+May 03
+1964	Romania
+Bulgaria	2
+1	Olympic Games qualifier
+in Romania	+16
+-16	1696
+1696	+2
+-3	25
+25
+May 31
+1964	Bulgaria
+Romania	0
+1	Olympic Games qualifier
+in Bulgaria	-26
++26	1670
+1722	-2
++3	27
+22
+June 17
+1964	Yugoslavia
+Romania	1
+2	Friendly
+in Yugoslavia	-16
++16	1872
+1738	-1
++2	6
+20
+October 13
+1964	East Germany
+Romania	1
+1	Olympic Games
+in Japan	+1
+-1	1726
+1737	0
+0	23
+21
+October 15
+1964	Romania
+Iran	1
+0	Olympic Games
+in Japan	+14
+-14	1751
+1520	0
+-3	21
+56
+October 20
+1964	Romania
+Ghana	4
+2	Olympic Games Consolation Tournament
+in Japan	+22
+-22	1773
+1628	+6
+-4	17
+33
+October 22
+1964	Romania
+Yugoslavia	3
+0	Olympic Games Consolation Tournament
+in Japan	+42
+-42	1815
+1803	+5
+-4	12
+15
+May 02
+1965	Romania
+Turkey	3
+0	World Cup qualifier
+in Romania	+9
+-9	1824
+1583	+3
+-1	11
+42
+May 30
+1965	Romania
+Czechoslovakia	1
+0	World Cup qualifier
+in Romania	+14
+-14	1838
+1803	+2
+-3	10
+16
+June 13
+1965	Portugal
+Romania	2
+1	World Cup qualifier
+in Portugal	+21
+-21	1739
+1817	+1
+-4	24
+13
+September 19
+1965	Czechoslovakia
+Romania	3
+1	World Cup qualifier
+in Czechoslovakia	+23
+-23	1826
+1794	+4
+-3	11
+16
+October 23
+1965	Turkey
+Romania	2
+1	World Cup qualifier
+in Turkey	+27
+-27	1591
+1767	+5
+-1	43
+16
+November 21
+1965	Romania
+Portugal	2
+0	World Cup qualifier
+in Romania	+20
+-20	1787
+1722	0
+-4	16
+25
+June 01
+1966	West Germany
+Romania	1
+0	Friendly
+in West Germany	+5
+-5	1898
+1782	0
+-1	6
+16
+June 19
+1966	Romania
+Uruguay	1
+0	Friendly
+in Romania	+8
+-8	1790
+1814	+1
+0	15
+12
+July 03
+1966	Portugal
+Romania	1
+0	Friendly
+in Portugal	+8
+-8	1777
+1782	0
+0	17
+16
+September 21
+1966	East Germany
+Romania	2
+0	Friendly
+in East Germany	+8
+-8	1869
+1774	+2
+0	7
+17
+November 02
+1966	Romania
+Switzerland	4
+2	European Cup qualifier
+in Romania	+8
+-8	1782
+1540	0
+0	17
+50
+November 17
+1966	Romania
+Poland	4
+3	Friendly
+in Romania	+4
+-4	1786
+1631	+1
+-2	17
+36
+November 26
+1966	Italy
+Romania	3
+1	European Cup qualifier
+in Italy	+15
+-15	1885
+1771	+1
+-1	7
+18
+December 03
+1966	Cyprus
+Romania	1
+5	European Cup qualifier
+in Cyprus	-12
++12	1367
+1783	-5
+0	99
+18
+December 07
+1966	Israel
+Romania	1
+2	Friendly
+in Israel	-5
++5	1474
+1788	0
++1	70
+17
+January 04
+1967	Uruguay
+Romania	1
+1	Friendly
+in Uruguay	-3
++3	1795
+1791	-1
+0	15
+17
+March 08
+1967	Greece
+Romania	1
+2	Friendly
+in Greece	-5
++5	1507
+1796	-1
++1	57
+14
+March 22
+1967	France
+Romania	1
+2	Friendly
+in France	-10
++10	1677
+1806	-1
++1	30
+13
+April 23
+1967	Romania
+Cyprus	7
+0	European Cup qualifier
+in Romania	+4
+-4	1810
+1358	+1
+0	12
+102
+May 24
+1967	Switzerland
+Romania	7
+1	European Cup qualifier
+in Switzerland	+60
+-60	1618
+1750	+12
+-7	36
+19
+June 25
+1967	Romania
+Italy	0
+1	European Cup qualifier
+in Romania	-18
++18	1732
+1906	-4
+0	22
+7
+October 29
+1967	Poland
+Romania	0
+0	Friendly
+in Poland	0
+0	1640
+1732	0
+0	33
+21
+November 18
+1967	East Germany
+Romania	1
+0	Olympic Games qualifier
+in East Germany	+8
+-8	1868
+1724	+1
+0	9
+23
+November 22
+1967	Romania
+West Germany	1
+0	Friendly
+in Romania	+14
+-14	1738
+1960	+1
+0	22
+2
+December 06
+1967	Romania
+East Germany	0
+1	Olympic Games qualifier
+in Romania	-18
++18	1720
+1886	-1
+0	23
+9
+December 24
+1967	Congo (Kinshasa)
+Romania	1
+1	Friendly
+in Congo (Kinshasa)	+1
+-1	1581
+1719	0
+0	44
+23
+May 01
+1968	Austria
+Romania	1
+1	Friendly
+in Austria	-1
++1	1664
+1720	0
+0	31
+22
+June 05
+1968	Romania
+Netherlands	0
+0	Friendly
+in Romania	-5
++5	1715
+1637	0
++1	22
+35
+October 27
+1968	Portugal
+Romania	3
+0	World Cup qualifier
+in Portugal	+12
+-12	1895
+1703	0
+-2	7
+24
+November 06
+1968	Romania
+England	0
+0	Friendly
+in Romania	+6
+-6	1709
+2012	0
+0	24
+1
+November 23
+1968	Romania
+Switzerland	2
+0	World Cup qualifier
+in Romania	+15
+-15	1724
+1605	+2
+-2	22
+39
+January 15
+1969	England
+Romania	1
+1	Friendly
+in England	-8
++8	1997
+1732	0
++1	1
+21
+April 16
+1969	Greece
+Romania	2
+2	World Cup qualifier
+in Greece	+1
+-1	1616
+1731	0
+0	38
+21
+April 30
+1969	France
+Romania	1
+0	Friendly
+in France	+10
+-10	1642
+1721	+2
+-2	33
+23
+May 14
+1969	Switzerland
+Romania	0
+1	World Cup qualifier
+in Switzerland	-22
++22	1633
+1743	-2
++3	33
+21
+September 03
+1969	Yugoslavia
+Romania	1
+1	Friendly
+in Yugoslavia	-3
++3	1761
+1746	0
+0	18
+21
+October 12
+1969	Romania
+Portugal	1
+0	World Cup qualifier
+in Romania	+16
+-16	1762
+1761	+4
+-2	17
+18
+November 16
+1969	Romania
+Greece	1
+1	World Cup qualifier
+in Romania	-10
++10	1752
+1674	-3
+0	19
+33
+February 09
+1970	Peru
+Romania	2
+0	Friendly
+in Peru	+14
+-14	1690
+1738	+4
+0	27
+19
+April 08
+1970	West Germany
+Romania	1
+1	Friendly
+in West Germany	-7
++7	1936
+1745	0
+0	5
+20
+April 28
+1970	France
+Romania	2
+0	Friendly
+in France	+13
+-13	1708
+1732	+1
+-1	24
+21
+May 06
+1970	Romania
+Yugoslavia	0
+0	Friendly
+in Romania	-2
++2	1730
+1774	-1
+0	21
+16
+June 02
+1970	England
+Romania	1
+0	World Cup
+in Mexico	+10
+-10	2028
+1720	0
+-3	1
+24
+June 06
+1970	Romania
+Czechoslovakia	2
+1	World Cup
+in Mexico	+42
+-42	1762
+1823	+6
+-1	18
+9
+June 10
+1970	Brazil
+Romania	3
+2	World Cup
+in Mexico	+10
+-10	2052
+1752	0
+0	1
+18
+October 11
+1970	Romania
+Finland	3
+0	European Cup qualifier
+in Romania	+4
+-4	1756
+1370	0
+-2	19
+95
+November 11
+1970	Wales
+Romania	0
+0	European Cup qualifier
+in Wales	+1
+-1	1642
+1755	+1
+0	36
+20
+December 02
+1970	Netherlands
+Romania	2
+0	Friendly
+in the Netherlands	+14
+-14	1687
+1741	+5
+0	27
+20
+April 18
+1971	Romania
+Albania	2
+1	Olympic Games qualifier
+in Romania	+2
+-2	1743
+1360	0
+-1	19
+97
+April 21
+1971	Yugoslavia
+Romania	0
+1	Friendly
+in Yugoslavia	-14
++14	1797
+1757	-2
+0	11
+19
+May 16
+1971	Czechoslovakia
+Romania	1
+0	European Cup qualifier
+in Czechoslovakia	+12
+-12	1808
+1745	+2
+-1	10
+20
+May 26
+1971	Albania
+Romania	1
+2	Olympic Games qualifier
+in Albania	-7
++7	1368
+1752	0
++1	94
+19
+September 22
+1971	Finland
+Romania	0
+4	European Cup qualifier
+in Finland	-11
++11	1343
+1763	-4
++1	103
+20
+October 10
+1971	Denmark
+Romania	2
+1	Olympic Games qualifier
+in Denmark	+27
+-27	1570
+1736	+8
+-1	48
+20
+November 14
+1971	Romania
+Czechoslovakia	2
+1	European Cup qualifier
+in Romania	+19
+-19	1755
+1807	+3
+-2	17
+11
+November 24
+1971	Romania
+Wales	2
+0	European Cup qualifier
+in Romania	+13
+-13	1768
+1620	+1
+-1	17
+41
+January 31
+1972	Morocco
+Romania	2
+4	Friendly
+in Morocco	-18
++18	1715
+1786	-6
++1	29
+15
+April 08
+1972	Romania
+France	2
+0	Friendly
+in Romania	+9
+-9	1795
+1725	+2
+0	13
+24
+April 23
+1972	Romania
+Peru	2
+2	Friendly
+in Romania	-5
++5	1790
+1709	-2
++1	15
+26
+April 29
+1972	Hungary
+Romania	1
+1	European Cup qualifier
+in Hungary	-10
++10	1861
+1800	0
++2	6
+13
+May 14
+1972	Romania
+Hungary	2
+2	European Cup qualifier
+in Romania	-2
++2	1798
+1864	0
+0	12
+6
+May 17
+1972	Hungary
+Romania	2
+1	European Cup qualifier
+in Yugoslavia	+16
+-16	1880
+1782	0
+-3	6
+15
+May 21
+1972	Romania
+Denmark	2
+3	Olympic Games qualifier
+in Romania	-34
++34	1748
+1604	-3
++10	18
+42
+June 17
+1972	Romania
+Italy	3
+3	Friendly
+in Romania	+2
+-2	1750
+1907	+1
+0	19
+5
+September 03
+1972	Romania
+Austria	1
+1	Friendly
+in Romania	-2
++2	1748
+1766	-2
+0	23
+17
+September 20
+1972	Finland
+Romania	1
+1	World Cup qualifier
+in Finland	+14
+-14	1374
+1734	+3
+-2	95
+25
+October 29
+1972	Romania
+Albania	2
+0	World Cup qualifier
+in Romania	+4
+-4	1738
+1389	0
+0	26
+89
+April 18
+1973	Soviet Union
+Romania	2
+0	Friendly
+in the Soviet Union	+7
+-7	1862
+1731	0
+-2	9
+26
+May 06
+1973	Albania
+Romania	1
+4	World Cup qualifier
+in Albania	-14
++14	1372
+1745	-7
++3	97
+23
+May 27
+1973	Romania
+East Germany	1
+0	World Cup qualifier
+in Romania	+19
+-19	1764
+1807	+3
+-1	21
+13
+September 26
+1973	East Germany
+Romania	2
+0	World Cup qualifier
+in East Germany	+17
+-17	1836
+1747	+1
+-3	12
+24
+October 14
+1973	Romania
+Finland	9
+0	World Cup qualifier
+in Romania	+6
+-6	1753
+1348	0
+-3	23
+105
+March 23
+1974	France
+Romania	1
+0	Friendly
+in France	+8
+-8	1726
+1745	+1
+-2	27
+24
+April 17
+1974	Brazil
+Romania	2
+0	Friendly
+in Brazil	+2
+-2	2085
+1743	0
+-2	1
+25
+April 22
+1974	Argentina
+Romania	2
+1	Friendly
+in Argentina	+5
+-5	1862
+1738	0
+-1	8
+26
+May 29
+1974	Romania
+Greece	3
+1	Balkan Cup
+in Romania	+9
+-9	1747
+1524	+2
+0	23
+59
+June 05
+1974	Netherlands
+Romania	0
+0	Friendly
+in the Netherlands	-4
++4	1798
+1751	0
+0	16
+23
+July 28
+1974	Romania
+Japan	4
+1	Friendly
+in Romania	+3
+-3	1754
+1412	0
+0	21
+84
+September 25
+1974	Bulgaria
+Romania	0
+0	Friendly
+in Bulgaria	-2
++2	1733
+1756	0
+0	25
+21
+October 13
+1974	Denmark
+Romania	0
+0	European Cup qualifier
+in Denmark	+6
+-6	1553
+1750	0
+0	52
+21
+December 04
+1974	Israel
+Romania	0
+1	Friendly
+in Israel	-12
++12	1704
+1762	-1
+0	28
+21
+March 19
+1975	Turkey
+Romania	1
+1	Friendly
+in Turkey	+1
+-1	1622
+1761	0
+0	42
+21
+March 31
+1975	Czechoslovakia
+Romania	1
+1	Friendly
+in Czechoslovakia	-4
++4	1808
+1765	0
+0	14
+21
+April 17
+1975	Spain
+Romania	1
+1	European Cup qualifier
+in Spain	-11
++11	1857
+1776	-1
+0	8
+20
+May 11
+1975	Romania
+Denmark	6
+1	European Cup qualifier
+in Romania	+11
+-11	1787
+1542	+2
+-3	18
+55
+June 01
+1975	Romania
+Scotland	1
+1	European Cup qualifier
+in Romania	-3
++3	1784
+1840	-2
+0	20
+11
+September 24
+1975	Greece
+Romania	1
+1	Balkan Cup
+in Greece	+7
+-7	1556
+1777	+2
+-1	54
+20
+October 12
+1975	Romania
+Turkey	2
+2	Friendly
+in Romania	-6
++6	1771
+1622	0
++3	20
+41
+November 16
+1975	Romania
+Spain	2
+2	European Cup qualifier
+in Romania	-1
++1	1770
+1863	0
+0	20
+8
+November 29
+1975	Romania
+Soviet Union	2
+2	Friendly
+in Romania	-1
++1	1769
+1825	0
+0	20
+14
+December 17
+1975	Scotland
+Romania	1
+1	European Cup qualifier
+in Scotland	-10
++10	1845
+1779	-1
+0	11
+20
+May 12
+1976	Bulgaria
+Romania	1
+0	Balkan Cup
+in Bulgaria	+17
+-17	1742
+1762	+2
+-1	24
+20
+June 05
+1976	Italy
+Romania	4
+2	Friendly
+in Italy	+6
+-6	1896
+1756	+1
+0	7
+20
+July 02
+1976	Iran
+Romania	2
+2	Friendly
+in Iran	-1
++1	1705
+1757	0
+0	28
+20
+September 22
+1976	Romania
+Czechoslovakia	1
+1	Friendly
+in Romania	+2
+-2	1759
+1938	+1
+0	19
+4
+October 06
+1976	Czechoslovakia
+Romania	3
+2	Friendly
+in Czechoslovakia	+3
+-3	1941
+1756	0
+-1	4
+20
+November 28
+1976	Romania
+Bulgaria	3
+2	Balkan Cup
+in Romania	+12
+-12	1768
+1701	+2
+0	19
+26
+March 23
+1977	Romania
+Turkey	4
+0	Balkan Cup
+in Romania	+18
+-18	1786
+1646	+3
+-3	18
+38
+April 16
+1977	Romania
+Spain	1
+0	World Cup qualifier
+in Romania	+19
+-19	1805
+1855	+4
+0	14
+12
+April 27
+1977	Romania
+East Germany	1
+1	Friendly
+in Romania	0
+0	1805
+1905	0
+0	14
+5
+May 08
+1977	Yugoslavia
+Romania	0
+2	World Cup qualifier
+in Yugoslavia	-37
++37	1756
+1842	-4
+0	22
+14
+August 05
+1977	Iran
+Romania	0
+0	Friendly
+in Iran	+1
+-1	1714
+1841	0
+0	27
+14
+September 21
+1977	Romania
+Greece	6
+1	Friendly
+in Romania	+5
+-5	1846
+1585	0
+-1	14
+49
+October 26
+1977	Spain
+Romania	2
+0	World Cup qualifier
+in Spain	+20
+-20	1880
+1826	+1
+0	9
+14
+November 13
+1977	Romania
+Yugoslavia	4
+6	World Cup qualifier
+in Romania	-44
++44	1782
+1799	-6
++5	20
+17
+March 22
+1978	Turkey
+Romania	1
+1	Balkan Cup
+in Turkey	+5
+-5	1600
+1777	+2
+0	44
+20
+April 05
+1978	Argentina
+Romania	2
+0	Friendly
+in Argentina	+7
+-7	1907
+1770	+1
+-1	6
+21
+May 03
+1978	Romania
+Bulgaria	2
+0	Balkan Cup
+in Romania	+16
+-16	1786
+1673	+1
+-5	19
+34
+May 14
+1978	Romania
+Soviet Union	0
+1	Friendly
+in Romania	-10
++10	1776
+1911	0
++2	19
+6
+May 31
+1978	Bulgaria
+Romania	1
+1	Balkan Cup
+in Bulgaria	0
+0	1673
+1776	0
+0	34
+21
+October 11
+1978	Romania
+Poland	1
+0	Friendly
+in Romania	+11
+-11	1787
+1888	0
+-1	18
+10
+October 25
+1978	Romania
+Yugoslavia	3
+2	European Cup qualifier
+in Romania	+13
+-13	1800
+1749	+2
+-3	16
+24
+November 15
+1978	Spain
+Romania	1
+0	European Cup qualifier
+in Spain	+9
+-9	1921
+1791	0
+-2	7
+18
+December 13
+1978	Greece
+Romania	2
+1	Friendly
+in Greece	+12
+-12	1639
+1779	+3
+0	37
+18
+December 19
+1978	Israel
+Romania	1
+1	Friendly
+in Israel	0
+0	1695
+1779	0
+0	30
+19
+March 21
+1979	Romania
+Greece	3
+0	Friendly
+in Romania	+7
+-7	1786
+1621	0
+-3	19
+43
+April 04
+1979	Romania
+Spain	2
+2	European Cup qualifier
+in Romania	+1
+-1	1787
+1906	0
++1	19
+7
+May 13
+1979	Cyprus
+Romania	1
+1	European Cup qualifier
+in Cyprus	+17
+-17	1250
+1770	+3
+-2	130
+20
+June 01
+1979	East Germany
+Romania	1
+0	Friendly
+in East Germany	+5
+-5	1868
+1765	0
+0	11
+21
+August 29
+1979	Poland
+Romania	3
+0	Friendly
+in Poland	+7
+-7	1926
+1758	0
+-1	7
+22
+October 14
+1979	Soviet Union
+Romania	3
+1	Friendly
+in the Soviet Union	+7
+-7	1885
+1751	+1
+0	9
+23
+October 31
+1979	Yugoslavia
+Romania	2
+1	European Cup qualifier
+in Yugoslavia	+10
+-10	1851
+1741	0
+-2	14
+24
+November 18
+1979	Romania
+Cyprus	2
+0	European Cup qualifier
+in Romania	+2
+-2	1743
+1247	+1
+0	23
+133
+February 16
+1980	Italy
+Romania	2
+1	Friendly
+in Italy	+3
+-3	1954
+1740	0
+-1	5
+24
+March 30
+1980	Yugoslavia
+Romania	2
+0	Balkan Cup
+in Yugoslavia	+13
+-13	1868
+1727	+1
+-1	11
+25
+April 02
+1980	Romania
+East Germany	2
+2	Friendly
+in Romania	+1
+-1	1728
+1873	0
+0	25
+10
+May 16
+1980	Czechoslovakia
+Romania	2
+1	Friendly
+in Czechoslovakia	+4
+-4	1866
+1724	+1
+0	13
+25
+June 06
+1980	Belgium
+Romania	2
+1	Friendly
+in Belgium	+4
+-4	1868
+1720	+1
+0	12
+26
+August 27
+1980	Romania
+Yugoslavia	4
+1	Balkan Cup
+in Romania	+41
+-41	1761
+1836	+5
+-3	21
+14
+September 10
+1980	Bulgaria
+Romania	1
+2	Friendly
+in Bulgaria	-9
++9	1632
+1770	-1
+0	39
+21
+September 24
+1980	Norway
+Romania	1
+1	World Cup qualifier
+in Norway	+11
+-11	1471
+1759	+1
+-1	71
+22
+October 15
+1980	Romania
+England	2
+1	World Cup qualifier
+in Romania	+26
+-26	1785
+1950	+2
+-1	19
+4
+March 25
+1981	Romania
+Poland	2
+0	Friendly
+in Romania	+17
+-17	1802
+1913	+2
+-3	18
+8
+April 08
+1981	Israel
+Romania	2
+1	Friendly
+in Israel	+12
+-12	1645
+1790	+1
+-2	38
+20
+April 15
+1981	Denmark
+Romania	2
+1	Friendly
+in Denmark	+13
+-13	1604
+1777	+5
+-1	43
+21
+April 29
+1981	England
+Romania	0
+0	World Cup qualifier
+in England	-13
++13	1923
+1790	-1
++1	5
+20
+May 13
+1981	Hungary
+Romania	1
+0	World Cup qualifier
+in Hungary	+16
+-16	1773
+1774	0
+-2	24
+22
+June 03
+1981	Romania
+Norway	1
+0	World Cup qualifier
+in Romania	+4
+-4	1778
+1474	0
+-1	22
+72
+September 09
+1981	Romania
+Bulgaria	1
+2	Friendly
+in Romania	-16
++16	1762
+1674	-1
++5	21
+31
+September 23
+1981	Romania
+Hungary	0
+0	World Cup qualifier
+in Romania	-6
++6	1756
+1755	-2
+0	22
+23
+October 10
+1981	Romania
+Switzerland	1
+2	World Cup qualifier
+in Romania	-33
++33	1723
+1630	-4
++5	26
+40
+November 11
+1981	Switzerland
+Romania	0
+0	World Cup qualifier
+in Switzerland	0
+0	1615
+1723	0
+0	42
+26
+March 24
+1982	Belgium
+Romania	4
+1	Friendly
+in Belgium	+7
+-7	1880
+1716	0
++1	6
+25
+April 14
+1982	Bulgaria
+Romania	1
+2	Friendly
+in Bulgaria	-12
++12	1686
+1728	-3
+0	32
+25
+May 01
+1982	Romania
+Cyprus	3
+1	European Cup qualifier
+in Romania	+2
+-2	1730
+1242	+1
+0	24
+136
+May 12
+1982	Argentina
+Romania	1
+0	Friendly
+in Argentina	+3
+-3	1964
+1727	0
+-1	4
+25
+May 17
+1982	Peru
+Romania	2
+0	Friendly
+in Peru	+11
+-11	1740
+1716	0
+0	24
+25
+May 19
+1982	Chile
+Romania	2
+3	Friendly
+in Chile	-14
++14	1736
+1730	-1
+0	24
+25
+July 14
+1982	Romania
+Japan	4
+0	Friendly
+in Romania	+4
+-4	1734
+1466	0
+-1	23
+76
+July 18
+1982	Romania
+Japan	3
+1	Friendly
+in Romania	+3
+-3	1737
+1463	0
+-1	23
+77
+September 01
+1982	Romania
+Denmark	1
+0	Friendly
+in Romania	+6
+-6	1743
+1681	0
+0	23
+32
+September 08
+1982	Romania
+Sweden	2
+0	European Cup qualifier
+in Romania	+16
+-16	1759
+1649	+1
+-2	22
+37
+November 17
+1982	East Germany
+Romania	4
+1	Friendly
+in East Germany	+9
+-9	1844
+1750	+1
+-1	11
+23
+December 04
+1982	Italy
+Romania	0
+0	European Cup qualifier
+in Italy	-15
++15	1978
+1765	0
++1	2
+21
+January 29
+1983	Turkey
+Romania	1
+1	Friendly
+in Turkey	+5
+-5	1485
+1760	0
+-1	73
+22
+February 02
+1983	Greece
+Romania	1
+3	Friendly
+in Greece	-11
++11	1563
+1771	-5
++2	53
+20
+March 09
+1983	Romania
+Turkey	3
+1	Friendly
+in Romania	+3
+-3	1774
+1482	0
+0	20
+73
+March 30
+1983	Romania
+Yugoslavia	0
+2	Friendly
+in Romania	-18
++18	1756
+1828	-2
++2	22
+11
+April 16
+1983	Romania
+Italy	1
+0	European Cup qualifier
+in Romania	+26
+-26	1782
+1933	+3
+-2	19
+6
+May 15
+1983	Romania
+Czechoslovakia	0
+1	European Cup qualifier
+in Romania	-24
++24	1758
+1830	-2
++3	21
+11
+June 01
+1983	Yugoslavia
+Romania	1
+0	Friendly
+in Yugoslavia	+6
+-6	1824
+1752	0
+0	13
+21
+June 09
+1983	Sweden
+Romania	0
+1	European Cup qualifier
+in Sweden	-25
++25	1717
+1777	-2
+0	24
+21
+August 10
+1983	Norway
+Romania	0
+0	Friendly
+in Norway	+3
+-3	1559
+1774	0
+0	53
+20
+August 24
+1983	Romania
+East Germany	1
+0	Friendly
+in Romania	+7
+-7	1781
+1774	+1
+-1	19
+20
+September 07
+1983	Poland
+Romania	2
+2	Friendly
+in Poland	-6
++6	1924
+1787	0
+0	5
+20
+October 12
+1983	Wales
+Romania	5
+0	Friendly
+in Wales	+14
+-14	1807
+1773	+2
+-1	16
+20
+November 08
+1983	Israel
+Romania	1
+1	Friendly
+in Israel	0
+0	1656
+1773	0
+0	37
+22
+November 12
+1983	Cyprus
+Romania	0
+1	European Cup qualifier
+in Cyprus	-4
++4	1266
+1777	0
+0	128
+22
+November 30
+1983	Czechoslovakia
+Romania	1
+1	European Cup qualifier
+in Czechoslovakia	-8
++8	1811
+1785	-2
++1	14
+22
+January 22
+1984	Ecuador
+Romania	1
+3	Friendly
+in Ecuador	-8
++8	1488
+1793	-3
++2	73
+20
+February 07
+1984	Algeria
+Romania	1
+1	Friendly
+in Algeria	+1
+-1	1671
+1792	-4
+0	39
+20
+March 07
+1984	Romania
+Greece	2
+0	Friendly
+in Romania	+4
+-4	1796
+1564	+2
+-1	19
+55
+April 11
+1984	Romania
+Israel	0
+0	Friendly
+in Romania	-6
++6	1790
+1676	-2
++2	21
+34
+June 14
+1984	Romania
+Spain	1
+1	European Cup
+in France	+2
+-2	1792
+1821	-1
+0	21
+12
+June 17
+1984	West Germany
+Romania	2
+1	European Cup
+in France	+14
+-14	1973
+1778	0
+0	2
+21
+June 20
+1984	Portugal
+Romania	1
+0	European Cup
+in France	+24
+-24	1821
+1754	+4
+-2	13
+23
+July 29
+1984	Romania
+China	4
+2	Friendly
+in Romania	+4
+-4	1758
+1547	0
+-1	23
+56
+August 01
+1984	Romania
+China	1
+0	Friendly
+in Romania	+3
+-3	1761
+1544	0
+0	23
+56
+August 29
+1984	East Germany
+Romania	2
+1	Friendly
+in East Germany	+6
+-6	1826
+1755	0
+0	12
+23
+September 12
+1984	Northern Ireland
+Romania	3
+2	World Cup qualifier
+in Northern Ireland	+15
+-15	1768
+1740	+4
+0	20
+23
+November 21
+1984	Israel
+Romania	1
+1	Friendly
+in Israel	-1
++1	1667
+1741	0
+0	37
+25
+January 30
+1985	Portugal
+Romania	2
+3	Friendly
+in Portugal	-14
++14	1792
+1755	-4
++1	20
+24
+March 27
+1985	Romania
+Poland	0
+0	Friendly
+in Romania	-1
++1	1754
+1818	+1
++1	25
+10
+April 03
+1985	Romania
+Turkey	3
+0	World Cup qualifier
+in Romania	+8
+-8	1762
+1485	+2
+-1	23
+71
+May 01
+1985	Romania
+England	0
+0	World Cup qualifier
+in Romania	+5
+-5	1767
+1945	-1
+0	23
+4
+June 06
+1985	Finland
+Romania	1
+1	World Cup qualifier
+in Finland	+11
+-11	1462
+1756	+1
+-1	81
+25
+August 07
+1985	Soviet Union
+Romania	2
+0	Friendly
+in the Soviet Union	+5
+-5	1941
+1751	0
+-1	2
+26
+August 28
+1985	Romania
+Finland	2
+0	World Cup qualifier
+in Romania	+6
+-6	1757
+1456	0
+0	25
+82
+September 11
+1985	England
+Romania	1
+1	World Cup qualifier
+in England	-13
++13	1901
+1770	-1
++2	4
+23
+October 16
+1985	Romania
+Northern Ireland	0
+1	World Cup qualifier
+in Romania	-26
++26	1744
+1790	-6
++2	28
+22
+November 13
+1985	Turkey
+Romania	1
+3	World Cup qualifier
+in Turkey	-16
++16	1459
+1760	-5
++3	82
+25
+February 28
+1986	Egypt
+Romania	2
+2	Friendly
+in Egypt	+2
+-2	1582
+1758	0
+0	50
+26
+March 02
+1986	Egypt
+Romania	0
+1	Friendly
+in Egypt	-8
++8	1574
+1766	-5
++2	55
+24
+March 14
+1986	Iraq
+Romania	1
+1	Friendly
+in Iraq	-1
++1	1710
+1767	0
+0	30
+24
+March 17
+1986	Iraq
+Romania	0
+0	Friendly
+in Iraq	-1
++1	1709
+1768	0
+0	30
+24
+March 26
+1986	Scotland
+Romania	3
+0	Friendly
+in Scotland	+10
+-10	1842
+1758	+2
+-3	10
+27
+April 23
+1986	Romania
+Soviet Union	2
+1	Friendly
+in Romania	+12
+-12	1770
+1912	+3
+-1	24
+3
+June 04
+1986	Romania
+Norway	3
+1	Friendly
+in Romania	+7
+-7	1777
+1657	-1
+-1	25
+35
+August 20
+1986	Norway
+Romania	2
+2	Friendly
+in Norway	+1
+-1	1658
+1776	0
+0	35
+20
+September 10
+1986	Romania
+Austria	4
+0	European Cup qualifier
+in Romania	+21
+-21	1797
+1691	+5
+-4	15
+33
+October 08
+1986	Israel
+Romania	2
+4	Friendly
+in Israel	-11
++11	1599
+1808	0
++1	46
+14
+November 12
+1986	Spain
+Romania	1
+0	European Cup qualifier
+in Spain	+8
+-8	1950
+1800	0
+-1	4
+15
+March 04
+1987	Turkey
+Romania	1
+3	Friendly
+in Turkey	-7
++7	1473
+1807	-4
++1	77
+14
+March 11
+1987	Greece
+Romania	1
+1	Friendly
+in Greece	+2
+-2	1623
+1805	0
+0	43
+14
+March 25
+1987	Romania
+Albania	5
+1	European Cup qualifier
+in Romania	+4
+-4	1809
+1403	0
+-1	14
+89
+April 08
+1987	Romania
+Israel	3
+2	Friendly
+in Romania	+3
+-3	1812
+1590	0
+0	14
+52
+April 29
+1987	Romania
+Spain	3
+1	European Cup qualifier
+in Romania	+33
+-33	1845
+1909	+2
+-2	12
+6
+September 02
+1987	Poland
+Romania	3
+1	Friendly
+in Poland	+16
+-16	1729
+1829	+2
+-2	26
+14
+October 07
+1987	Romania
+Greece	2
+2	Friendly
+in Romania	-7
++7	1822
+1662	-2
++1	15
+38
+October 28
+1987	Albania
+Romania	0
+1	European Cup qualifier
+in Albania	-5
++5	1389
+1827	-1
++2	94
+13
+November 18
+1987	Austria
+Romania	0
+0	European Cup qualifier
+in Austria	+1
+-1	1710
+1826	+1
++1	29
+12
+February 03
+1988	Israel
+Romania	0
+2	Friendly tournament
+in Israel	-12
++12	1535
+1838	0
+0	60
+12
+February 06
+1988	Poland
+Romania	2
+2	Friendly tournament
+in Israel	+5
+-5	1715
+1833	0
+0	28
+12
+March 23
+1988	Ireland
+Romania	2
+0	Friendly
+in Ireland	+14
+-14	1772
+1819	+1
+-1	20
+13
+March 30
+1988	East Germany
+Romania	3
+3	Friendly
+in East Germany	-1
++1	1760
+1820	0
+0	21
+13
+June 01
+1988	Netherlands
+Romania	2
+0	Friendly
+in the Netherlands	+8
+-8	1892
+1812	0
+0	7
+13
+September 20
+1988	Romania
+Albania	3
+0	Friendly
+in Romania	+2
+-2	1814
+1384	+1
+0	13
+96
+October 19
+1988	Bulgaria
+Romania	1
+3	World Cup qualifier
+in Bulgaria	-34
++34	1729
+1848	-7
++6	29
+8
+November 02
+1988	Romania
+Greece	3
+0	World Cup qualifier
+in Romania	+11
+-11	1859
+1645	+1
+-1	7
+39
+November 23
+1988	Romania
+Israel	3
+0	Friendly
+in Romania	+4
+-4	1863
+1607	0
+0	7
+46
+March 29
+1989	Romania
+Italy	1
+0	Friendly
+in Romania	+9
+-9	1872
+1932	0
+0	8
+5
+April 12
+1989	Poland
+Romania	2
+1	Friendly
+in Poland	+10
+-10	1778
+1862	+2
+0	21
+8
+April 26
+1989	Greece
+Romania	0
+0	World Cup qualifier
+in Greece	+7
+-7	1637
+1855	0
+-3	39
+11
+May 17
+1989	Romania
+Bulgaria	1
+0	World Cup qualifier
+in Romania	+7
+-7	1862
+1688	+3
+0	8
+30
+August 31
+1989	Portugal
+Romania	0
+0	Friendly
+in Portugal	+1
+-1	1742
+1861	0
+0	26
+12
+September 05
+1989	Czechoslovakia
+Romania	2
+0	Friendly
+in Czechoslovakia	+12
+-12	1833
+1849	+1
+-1	14
+12
+October 11
+1989	Denmark
+Romania	3
+0	World Cup qualifier
+in Denmark	+23
+-23	1896
+1826	+2
+-4	7
+16
+November 15
+1989	Romania
+Denmark	3
+1	World Cup qualifier
+in Romania	+27
+-27	1853
+1869	+3
+-2	12
+10
+February 04
+1990	Algeria
+Romania	0
+0	Friendly
+in Algeria	+3
+-3	1664
+1850	0
+-1	34
+13
+March 28
+1990	Egypt
+Romania	1
+3	Friendly
+in Egypt	-8
++8	1579
+1858	0
++1	47
+13
+April 03
+1990	Switzerland
+Romania	2
+1	Friendly
+in Switzerland	+14
+-14	1643
+1844	+1
+-3	37
+16
+April 25
+1990	Israel
+Romania	1
+4	Friendly
+in Israel	-11
++11	1607
+1855	-1
+0	41
+15
+May 21
+1990	Romania
+Egypt	1
+0	Friendly
+in Romania	+2
+-2	1857
+1612	0
+0	12
+41
+May 26
+1990	Belgium
+Romania	2
+2	Friendly
+in Belgium	-1
++1	1793
+1858	0
++1	19
+12
+June 09
+1990	Romania
+Soviet Union	2
+0	World Cup
+in Italy	+51
+-51	1909
+1850	+5
+-6	6
+13
+June 14
+1990	Cameroon
+Romania	2
+1	World Cup
+in Italy	+50
+-50	1685
+1859	+7
+-5	32
+10
+June 18
+1990	Argentina
+Romania	1
+1	World Cup
+in Italy	+7
+-7	1785
+1852	0
+-1	20
+10
+June 25
+1990	Ireland
+Romania	0
+0	World Cup
+in Italy	+1
+-1	1847
+1851	0
+-1	13
+11
+August 29
+1990	Soviet Union
+Romania	1
+2	Friendly
+in the Soviet Union	-12
++12	1816
+1863	-1
++2	17
+8
+September 12
+1990	Scotland
+Romania	2
+1	European Cup qualifier
+in Scotland	+24
+-24	1717
+1839	+3
+-1	27
+11
+September 26
+1990	Romania
+Poland	2
+1	Friendly
+in Romania	+5
+-5	1844
+1751	+1
+0	10
+22
+October 17
+1990	Romania
+Bulgaria	0
+3	European Cup qualifier
+in Romania	-59
++59	1785
+1713	-8
++5	18
+28
+December 05
+1990	Romania
+San Marino	6
+0	European Cup qualifier
+in Romania	+1
+-1	1786
+996	0
+0	18
+173
+December 22
+1990	Croatia
+Romania	2
+0	Friendly
+in Croatia	+10
+-10	1807
+1776	+1
+-2	16
+20
+March 27
+1991	San Marino
+Romania	1
+3	European Cup qualifier
+in San Marino	-1
++1	995
+1777	-1
+0	176
+20
+April 03
+1991	Switzerland
+Romania	0
+0	European Cup qualifier
+in Switzerland	-2
++2	1710
+1779	-1
++1	32
+19
+April 17
+1991	Spain
+Romania	0
+2	Friendly
+in Spain	-22
++22	1824
+1801	-1
++1	13
+18
+May 23
+1991	Norway
+Romania	1
+0	Friendly
+in Norway	+11
+-11	1666
+1790	0
+-1	34
+19
+August 28
+1991	Romania
+United States	0
+2	Friendly
+in Romania	-24
++24	1766
+1671	-2
++4	20
+34
+October 16
+1991	Romania
+Scotland	1
+0	European Cup qualifier
+in Romania	+12
+-12	1778
+1716	+1
+0	19
+28
+November 13
+1991	Romania
+Switzerland	1
+0	European Cup qualifier
+in Romania	+13
+-13	1791
+1737	+2
+-2	17
+24
+November 20
+1991	Bulgaria
+Romania	1
+1	European Cup qualifier
+in Bulgaria	-1
++1	1699
+1792	0
++1	29
+16
+December 21
+1991	Egypt
+Romania	3
+1	Friendly
+in Egypt	+17
+-17	1657
+1775	+2
+-4	36
+20
+December 24
+1991	Egypt
+Romania	1
+1	Friendly
+in Egypt	+1
+-1	1658
+1774	+1
+0	35
+20
+February 12
+1992	Greece
+Romania	1
+0	Friendly
+in Greece	+12
+-12	1622
+1762	+4
+-2	42
+21
+April 08
+1992	Romania
+Latvia	2
+0	Friendly
+in Romania	+2
+-2	1764
+1427	0
+0	22
+83
+May 06
+1992	Romania
+Faroe Islands	7
+0	World Cup qualifier
+in Romania	+2
+-2	1766
+1194	0
+-1	22
+151
+May 20
+1992	Romania
+Wales	5
+1	World Cup qualifier
+in Romania	+27
+-27	1793
+1743	+4
+-3	18
+24
+August 26
+1992	Romania
+Mexico	2
+0	Friendly
+in Romania	+10
+-10	1803
+1769	+1
+-1	15
+20
+October 14
+1992	Belgium
+Romania	1
+0	World Cup qualifier
+in Belgium	+14
+-14	1821
+1789	0
+-1	14
+16
+November 14
+1992	Romania
+Czechoslovakia	1
+1	World Cup qualifier
+in Romania	-6
++6	1783
+1786	-1
++1	18
+17
+November 29
+1992	Cyprus
+Romania	1
+4	World Cup qualifier
+in Cyprus	-6
++6	1280
+1789	-2
++3	128
+16
+January 21
+1993	Romania
+Russia	1
+1	Nehru Gold Cup
+in India	+3
+-3	1792
+1831	0
+0	17
+13
+January 23
+1993	Romania
+Bolivia	2
+0	Nehru Gold Cup
+in India	+9
+-9	1801
+1489	+2
+-3	15
+75
+January 27
+1993	Romania
+North Korea	3
+3	Nehru Gold Cup
+in India	-14
++14	1787
+1508	-2
++8	17
+66
+January 31
+1993	Ecuador
+Romania	3
+0	Friendly
+in Ecuador	+21
+-21	1628
+1766	+5
++1	41
+16
+January 31
+1993	Romania
+Cameroon	4
+0	Nehru Gold Cup
+in India	+24
+-24	1790
+1613	+1
+-6	16
+45
+February 01
+1993	North Korea
+Romania	2
+0	Nehru Gold Cup
+in India	+47
+-47	1608
+1743	+7
+-7	48
+23
+February 03
+1993	Peru
+Romania	0
+2	Friendly
+in Peru	-10
++10	1506
+1753	-2
++1	68
+22
+February 06
+1993	United States
+Romania	1
+1	Friendly
+in the United States	0
+0	1657
+1753	0
+0	35
+22
+February 10
+1993	Mexico
+Romania	2
+0	Friendly
+in Mexico	+11
+-11	1766
+1742	+2
+-1	19
+23
+April 14
+1993	Romania
+Cyprus	2
+1	World Cup qualifier
+in Romania	+2
+-2	1744
+1310	+1
+0	23
+123
+June 02
+1993	Czechoslovakia
+Romania	5
+2	World Cup qualifier
+in Czechoslovakia	+23
+-23	1787
+1721	+1
+-4	19
+27
+September 08
+1993	Faroe Islands
+Romania	0
+4	World Cup qualifier
+in Faroe Islands	-4
++4	1134
+1725	-2
+0	168
+26
+September 22
+1993	Romania
+Israel	1
+0	Friendly
+in Romania	+3
+-3	1728
+1548	+1
+0	25
+60
+October 13
+1993	Romania
+Belgium	2
+1	World Cup qualifier
+in Romania	+19
+-19	1747
+1794	+1
+-4	24
+20
+November 17
+1993	Wales
+Romania	1
+2	World Cup qualifier
+in Wales	-26
++26	1737
+1773	-2
++2	25
+22
+February 13
+1994	Romania
+United States	2
+1	Carlsberg Cup
+in Hong Kong	+9
+-9	1782
+1616	0
+-3	22
+46
+February 16
+1994	South Korea
+Romania	1
+2	Friendly
+in South Korea	-9
++9	1649
+1791	0
++1	38
+21
+March 23
+1994	Northern Ireland
+Romania	2
+0	Friendly
+in Northern Ireland	+18
+-18	1650
+1773	+2
+0	39
+21
+April 20
+1994	Romania
+Bolivia	3
+0	Friendly
+in Romania	+8
+-8	1781
+1666	0
+-1	21
+34
+May 25
+1994	Romania
+Nigeria	2
+0	Friendly
+in Romania	+9
+-9	1790
+1731	0
+-1	21
+27
+June 01
+1994	Romania
+Slovenia	0
+0	Friendly
+in Romania	-8
++8	1782
+1515	0
+0	21
+70
+June 12
+1994	Sweden
+Romania	1
+1	Friendly
+in the United States	-3
++3	1872
+1785	0
+0	10
+22
+June 18
+1994	Romania
+Colombia	3
+1	World Cup
+in the United States	+61
+-61	1846
+1851	+9
+-6	13
+11
+June 22
+1994	Switzerland
+Romania	4
+1	World Cup
+in the United States	+56
+-56	1876
+1790	+8
+-6	9
+21
+June 26
+1994	United States
+Romania	0
+1	World Cup
+in the United States	-26
++26	1619
+1816	-7
++2	45
+19
+July 03
+1994	Romania
+Argentina	3
+2	World Cup
+in the United States	+33
+-33	1849
+1823	+6
+-5	11
+16
+July 10
+1994	Sweden
+Romania	2
+2	World Cup
+in the United States	-6
++6	1915
+1855	0
+0	5
+11
+September 07
+1994	Romania
+Azerbaijan	3
+0	European Cup qualifier
+in Romania	+2
+-2	1857
+1369	0
+-3	11
+113
+October 08
+1994	France
+Romania	0
+0	European Cup qualifier
+in France	-6
++6	1868
+1863	-1
++1	9
+10
+October 12
+1994	England
+Romania	1
+1	Friendly
+in England	-3
++3	1850
+1866	0
+0	12
+10
+November 12
+1994	Romania
+Slovakia	3
+2	European Cup qualifier
+in Romania	+4
+-4	1870
+1591	+1
+-2	9
+48
+December 14
+1994	Israel
+Romania	1
+1	European Cup qualifier
+in Israel	+11
+-11	1578
+1859	+3
+-3	52
+11
+December 21
+1994	Argentina
+Romania	1
+0	Friendly
+in Argentina	+8
+-8	1850
+1851	+2
+-1	13
+12
+February 08
+1995	Greece
+Romania	1
+0	Friendly
+in Greece	+14
+-14	1630
+1837	+2
+-4	37
+16
+February 15
+1995	Turkey
+Romania	1
+1	Friendly
+in Turkey	+4
+-4	1584
+1833	0
+-1	49
+18
+March 29
+1995	Romania
+Poland	2
+1	European Cup qualifier
+in Romania	+8
+-8	1841
+1677	+2
+-1	16
+29
+April 26
+1995	Azerbaijan
+Romania	1
+4	European Cup qualifier
+in Turkey	-4
++4	1334
+1845	0
++1	124
+15
+June 07
+1995	Romania
+Israel	2
+1	European Cup qualifier
+in Romania	+4
+-4	1849
+1567	+2
+0	12
+53
+September 06
+1995	Poland
+Romania	0
+0	European Cup qualifier
+in Poland	+2
+-2	1722
+1847	0
+0	28
+8
+September 27
+1995	Brazil
+Romania	2
+2	Friendly
+in Brazil	-7
++7	2065
+1854	0
+0	1
+8
+October 11
+1995	Romania
+France	1
+3	European Cup qualifier
+in Romania	-37
++37	1817
+1905	-9
++1	17
+6
+November 15
+1995	Slovakia
+Romania	0
+2	European Cup qualifier
+in Slovakia	-23
++23	1609
+1840	-7
++4	46
+12
+March 27
+1996	Yugoslavia
+Romania	1
+0	Friendly
+in Yugoslavia	+6
+-6	1911
+1834	0
+-2	7
+13
+April 24
+1996	Romania
+Georgia	5
+0	Friendly
+in Romania	+4
+-4	1838
+1568	0
+0	13
+55
+June 01
+1996	Romania
+Moldova	3
+1	Friendly
+in Romania	+1
+-1	1839
+1395	0
+0	16
+104
+June 10
+1996	France
+Romania	1
+0	European Cup
+in England	+17
+-17	1964
+1822	+1
+-2	3
+17
+June 13
+1996	Bulgaria
+Romania	1
+0	European Cup
+in England	+26
+-26	1829
+1796	+2
+-2	16
+19
+June 18
+1996	Spain
+Romania	2
+1	European Cup
+in England	+15
+-15	1958
+1781	0
+-1	4
+20
+August 14
+1996	Romania
+Israel	2
+0	Friendly
+in Romania	+4
+-4	1785
+1571	0
+-1	20
+54
+August 31
+1996	Romania
+Lithuania	3
+0	World Cup qualifier
+in Romania	+4
+-4	1789
+1412	0
+0	20
+99
+September 18
+1996	Romania
+United Arab Emirates	1
+2	Friendly
+in Romania	-18
++18	1771
+1557	-2
++5	20
+60
+October 09
+1996	Iceland
+Romania	0
+4	World Cup qualifier
+in Iceland	-20
++20	1470
+1791	-6
++1	83
+19
+December 14
+1996	Macedonia
+Romania	0
+3	World Cup qualifier
+in Macedonia	-18
++18	1486
+1809	-4
++1	77
+16
+March 29
+1997	Romania
+Liechtenstein	8
+0	World Cup qualifier
+in Romania	+1
+-1	1810
+1079	+2
+0	15
+178
+April 02
+1997	Lithuania
+Romania	0
+1	World Cup qualifier
+in Lithuania	-7
++7	1420
+1817	-1
++1	95
+14
+April 30
+1997	Romania
+Ireland	1
+0	World Cup qualifier
+in Romania	+8
+-8	1825
+1659	-1
+0	15
+37
+August 20
+1997	Romania
+Macedonia	4
+2	World Cup qualifier
+in Romania	+5
+-5	1830
+1515	0
+-1	13
+71
+September 06
+1997	Liechtenstein
+Romania	1
+8	World Cup qualifier
+in Liechtenstein	-2
++2	1052
+1832	0
+0	180
+12
+September 10
+1997	Romania
+Iceland	4
+0	World Cup qualifier
+in Romania	+4
+-4	1836
+1442	0
+-2	12
+92
+October 11
+1997	Ireland
+Romania	1
+1	World Cup qualifier
+in Ireland	+3
+-3	1688
+1833	+1
+-3	33
+15
+November 19
+1997	Spain
+Romania	1
+1	Friendly
+in Spain	-7
++7	2001
+1840	0
++2	3
+12
+February 19
+1998	Argentina
+Romania	2
+1	Friendly
+in Argentina	+8
+-8	1817
+1832	0
+-2	17
+14
+March 18
+1998	Romania
+Israel	0
+1	Friendly
+in Romania	-17
++17	1815
+1617	-2
++4	17
+51
+April 08
+1998	Romania
+Greece	2
+1	Friendly
+in Romania	+4
+-4	1819
+1680	0
+0	17
+36
+April 22
+1998	Belgium
+Romania	1
+1	Friendly
+in Belgium	-1
++1	1767
+1820	0
+0	20
+17
+June 03
+1998	Romania
+Paraguay	3
+2	Friendly
+in Romania	+5
+-5	1825
+1714	0
+0	15
+30
+June 06
+1998	Romania
+Moldova	5
+1	Friendly
+in Romania	+1
+-1	1826
+1323	0
+0	15
+125
+June 15
+1998	Romania
+Colombia	1
+0	World Cup
+in France	+23
+-23	1849
+1718	+3
+-5	13
+28
+June 22
+1998	Romania
+England	2
+1	World Cup
+in France	+39
+-39	1888
+1912	+4
+-4	10
+8
+June 26
+1998	Romania
+Tunisia	1
+1	World Cup
+in France	-21
++21	1867
+1616	0
++3	11
+53
+June 30
+1998	Croatia
+Romania	1
+0	World Cup
+in France	+32
+-32	1872
+1835	+5
+-5	11
+16
+August 19
+1998	Norway
+Romania	0
+0	Friendly
+in Norway	-4
++4	1871
+1839	0
++1	11
+15
+September 02
+1998	Romania
+Liechtenstein	7
+0	European Cup qualifier
+in Romania	+1
+-1	1840
+1046	0
+0	15
+181
+September 05
+1998	Romania
+Germany	1
+1	Friendly
+in Malta	+4
+-4	1844
+1971	0
+0	15
+4
+September 23
+1998	Moldova
+Romania	0
+0	Friendly
+in Moldova	+8
+-8	1339
+1836	0
+0	120
+14
+October 10
+1998	Portugal
+Romania	0
+1	European Cup qualifier
+in Portugal	-27
++27	1839
+1863	-3
++2	14
+12
+October 14
+1998	Hungary
+Romania	1
+1	European Cup qualifier
+in Hungary	+8
+-8	1616
+1855	0
+-1	54
+13
+March 03
+1999	Romania
+Estonia	2
+0	Friendly
+in Romania	0
+0	1855
+1206	0
+0	14
+151
+March 10
+1999	Romania
+Israel	0
+2	Friendly
+in Romania	-26
++26	1829
+1670	-1
++7	15
+40
+March 27
+1999	Romania
+Slovakia	0
+0	European Cup qualifier
+in Romania	-14
++14	1815
+1631	-1
++3	16
+52
+March 30
+1999	Azerbaijan
+Romania	0
+1	European Cup qualifier
+in Azerbaijan	-3
++3	1261
+1818	0
+0	137
+16
+April 28
+1999	Romania
+Belgium	1
+0	Friendly
+in Romania	+5
+-5	1823
+1724	0
+-2	16
+27
+June 05
+1999	Romania
+Hungary	2
+0	European Cup qualifier
+in Romania	+10
+-10	1833
+1625	0
+-3	16
+52
+June 09
+1999	Romania
+Azerbaijan	4
+0	European Cup qualifier
+in Romania	+2
+-2	1835
+1271	0
+0	16
+136
+August 18
+1999	Cyprus
+Romania	2
+2	Friendly
+in Cyprus	+7
+-7	1446
+1828	+1
+0	90
+16
+September 04
+1999	Slovakia
+Romania	1
+5	European Cup qualifier
+in Slovakia	-31
++31	1635
+1859	-6
++1	45
+15
+September 08
+1999	Romania
+Portugal	1
+1	European Cup qualifier
+in Romania	-5
++5	1854
+1868	0
++1	15
+13
+October 09
+1999	Liechtenstein
+Romania	0
+3	European Cup qualifier
+in Liechtenstein	-1
++1	1077
+1855	0
+0	177
+15
+February 02
+2000	Romania
+Latvia	2
+0	Friendly tournament
+in Cyprus	+4
+-4	1859
+1439	0
+0	15
+90
+February 04
+2000	Georgia
+Romania	1
+1	Friendly tournament
+in Cyprus	+12
+-12	1476
+1847	+1
+-1	82
+16
+February 06
+2000	Cyprus
+Romania	3
+2	Friendly tournament
+in Cyprus	+25
+-25	1505
+1822	+7
+0	71
+16
+March 29
+2000	Greece
+Romania	2
+0	Friendly
+in Greece	+16
+-16	1726
+1806	+1
+0	28
+16
+April 26
+2000	Romania
+Cyprus	2
+0	Friendly
+in Romania	+3
+-3	1809
+1506	0
+-1	16
+70
+May 27
+2000	Netherlands
+Romania	2
+1	Friendly
+in the Netherlands	+5
+-5	1924
+1804	+1
+0	4
+16
+June 03
+2000	Romania
+Greece	2
+1	Friendly
+in Romania	+6
+-6	1810
+1733	0
+-2	16
+25
+June 12
+2000	Romania
+Germany	1
+1	European Cup
+in Belgium	+3
+-3	1813
+1853	0
++1	17
+12
+June 17
+2000	Portugal
+Romania	1
+0	European Cup
+in the Netherlands	+19
+-19	1917
+1794	+1
+0	7
+16
+June 20
+2000	Romania
+England	3
+2	European Cup
+in Belgium	+31
+-31	1825
+1847	+2
+-2	14
+12
+June 24
+2000	Italy
+Romania	2
+0	European Cup
+in Belgium	+23
+-23	1986
+1802	+1
+-1	4
+15
+August 16
+2000	Romania
+Poland	1
+1	Friendly
+in Romania	-6
++6	1796
+1689	-1
++2	16
+36
+September 03
+2000	Romania
+Lithuania	1
+0	World Cup qualifier
+in Romania	+2
+-2	1798
+1415	0
+-1	16
+98
+October 07
+2000	Italy
+Romania	3
+0	World Cup qualifier
+in Italy	+13
+-13	1975
+1785	0
+-2	4
+18
+November 15
+2000	Romania
+Yugoslavia	2
+1	Friendly
+in Romania	+10
+-10	1795
+1865	+3
+0	15
+9
+February 26
+2001	Romania
+Ukraine	1
+0	Friendly tournament
+in Cyprus	+11
+-11	1806
+1683	0
+-5	14
+40
+February 28
+2001	Romania
+Lithuania	3
+0	Friendly tournament
+in Cyprus	+4
+-4	1810
+1367	0
+-2	14
+113
+March 24
+2001	Romania
+Italy	0
+2	World Cup qualifier
+in Romania	-25
++25	1785
+1993	-1
++2	15
+3
+March 28
+2001	Georgia
+Romania	0
+2	World Cup qualifier
+in Georgia	-16
++16	1500
+1801	-1
++1	71
+14
+April 25
+2001	Romania
+Slovakia	0
+0	Friendly
+in Romania	-5
++5	1796
+1727	-3
++2	17
+30
+June 02
+2001	Romania
+Hungary	2
+0	World Cup qualifier
+in Romania	+9
+-9	1805
+1591	+1
+-1	17
+56
+June 06
+2001	Lithuania
+Romania	1
+2	World Cup qualifier
+in Lithuania	-5
++5	1376
+1810	-1
+0	110
+17
+August 15
+2001	Slovenia
+Romania	2
+2	Friendly
+in Slovenia	+2
+-2	1655
+1808	0
+0	44
+16
+September 05
+2001	Hungary
+Romania	0
+2	World Cup qualifier
+in Hungary	-19
++19	1550
+1827	-2
++2	61
+15
+October 06
+2001	Romania
+Georgia	1
+1	World Cup qualifier
+in Romania	-16
++16	1811
+1554	-1
++4	16
+60
+November 10
+2001	Slovenia
+Romania	2
+1	World Cup qualifier
+in Slovenia	+21
+-21	1712
+1790	+5
+-4	35
+20
+November 14
+2001	Romania
+Slovenia	1
+1	World Cup qualifier
+in Romania	-9
++9	1781
+1721	-1
++6	22
+28
+January 03
+2002	Kuwait
+Romania	1
+1	Friendly
+in Kuwait	+3
+-3	1569
+1778	+1
+0	56
+23
+January 05
+2002	Saudi Arabia
+Romania	2
+0	Friendly
+in Saudi Arabia	+14
+-14	1706
+1764	+2
+-1	38
+24
+January 08
+2002	Oman
+Romania	1
+2	Friendly
+in Oman	-4
++4	1418
+1768	0
+0	99
+24
+February 13
+2002	France
+Romania	2
+1	Friendly
+in France	+2
+-2	2086
+1766	0
+0	1
+25
+March 27
+2002	Romania
+Ukraine	4
+1	Friendly
+in Romania	+8
+-8	1774
+1654	+2
+0	23
+42
+April 17
+2002	Poland
+Romania	1
+2	Friendly
+in Poland	-11
++11	1698
+1785	-3
++1	37
+22
+August 21
+2002	Romania
+Greece	0
+1	Friendly
+in Romania	-16
++16	1769
+1656	-3
++4	26
+38
+September 07
+2002	Bosnia and Herzegovina
+Romania	0
+3	European Cup qualifier
+in Bosnia and Herzegovina	-20
++20	1489
+1789	-3
++5	75
+20
+October 12
+2002	Romania
+Norway	0
+1	European Cup qualifier
+in Romania	-29
++29	1760
+1753	-5
++6	25
+27
+October 16
+2002	Luxembourg
+Romania	0
+7	European Cup qualifier
+in Luxembourg	-3
++3	1064
+1763	0
+0	176
+25
+November 20
+2002	Romania
+Croatia	0
+1	Friendly
+in Romania	-13
++13	1750
+1771	-3
++4	28
+23
+February 12
+2003	Romania
+Slovakia	2
+1	Friendly tournament
+in Cyprus	+9
+-9	1759
+1600	+6
+-5	22
+55
+February 13
+2003	Russia
+Romania	4
+2	Friendly tournament
+in Cyprus	+21
+-21	1809
+1738	+2
+-7	16
+29
+March 29
+2003	Romania
+Denmark	2
+5	European Cup qualifier
+in Romania	-31
++31	1707
+1906	-2
++3	33
+6
+April 30
+2003	Lithuania
+Romania	0
+1	Friendly
+in Lithuania	-4
++4	1384
+1711	-1
+0	111
+33
+June 07
+2003	Romania
+Bosnia and Herzegovina	2
+0	European Cup qualifier
+in Romania	+11
+-11	1722
+1545	+2
+-4	31
+66
+June 11
+2003	Norway
+Romania	1
+1	European Cup qualifier
+in Norway	-7
++7	1744
+1729	-4
++2	26
+29
+August 20
+2003	Ukraine
+Romania	0
+2	Friendly
+in Ukraine	-17
++17	1649
+1746	-4
++3	43
+24
+September 06
+2003	Romania
+Luxembourg	4
+0	European Cup qualifier
+in Romania	+1
+-1	1747
+1062	-1
+-1	25
+177
+September 10
+2003	Denmark
+Romania	2
+2	European Cup qualifier
+in Denmark	-11
++11	1845
+1758	-1
++3	13
+22
+October 11
+2003	Romania
+Japan	1
+1	Friendly
+in Romania	-3
++3	1755
+1758	-2
+0	24
+23
+November 16
+2003	Italy
+Romania	1
+0	Friendly
+in Italy	+4
+-4	1893
+1751	0
+0	8
+24
+February 18
+2004	Romania
+Georgia	3
+0	Friendly tournament
+in Cyprus	+11
+-11	1762
+1514	0
+-3	25
+74
+February 19
+2004	Romania
+Belarus	2
+0	Friendly tournament
+in Cyprus	+8
+-8	1770
+1489	+6
+-1	19
+79
+February 21
+2004	Romania
+Hungary	3
+0	Friendly tournament
+in Cyprus	+10
+-10	1780
+1517	0
+-3	19
+73
+March 31
+2004	Scotland
+Romania	1
+2	Friendly
+in Scotland	-9
++9	1624
+1789	-3
++2	50
+17
+April 28
+2004	Romania
+Germany	5
+1	Friendly
+in Romania	+18
+-18	1807
+1853	0
+-1	17
+11
+May 27
+2004	Ireland
+Romania	1
+0	Friendly
+in Ireland	+7
+-7	1823
+1800	0
+0	14
+16
+August 18
+2004	Romania
+Finland	2
+1	World Cup qualifier
+in Romania	+7
+-7	1807
+1630	0
+0	19
+47
+September 04
+2004	Romania
+Macedonia	2
+1	World Cup qualifier
+in Romania	+3
+-3	1810
+1495	+1
+-1	18
+78
+September 08
+2004	Andorra
+Romania	1
+5	World Cup qualifier
+in Andorra	-2
++2	1042
+1812	0
++1	183
+17
+October 09
+2004	Czechia
+Romania	1
+0	World Cup qualifier
+in Czechia	+9
+-9	1938
+1803	0
+-4	6
+21
+November 17
+2004	Armenia
+Romania	1
+1	World Cup qualifier
+in Armenia	+14
+-14	1401
+1789	+4
+0	100
+21
+February 09
+2005	Romania
+Slovakia	2
+2	Friendly
+in Cyprus	-4
++4	1785
+1633	0
++1	22
+47
+March 26
+2005	Romania
+Netherlands	0
+2	World Cup qualifier
+in Romania	-28
++28	1757
+1937	-3
++1	25
+6
+March 30
+2005	Macedonia
+Romania	1
+2	World Cup qualifier
+in Macedonia	-9
++9	1440
+1766	-2
++2	92
+23
+May 24
+2005	Romania
+Moldova	2
+0	Friendly
+in Romania	+2
+-2	1768
+1377	0
+0	23
+104
+June 04
+2005	Netherlands
+Romania	2
+0	World Cup qualifier
+in the Netherlands	+10
+-10	1948
+1758	0
+-3	5
+26
+June 08
+2005	Romania
+Armenia	3
+0	World Cup qualifier
+in Romania	+4
+-4	1762
+1366	-1
+-1	27
+107
+August 17
+2005	Romania
+Andorra	2
+0	World Cup qualifier
+in Romania	+1
+-1	1763
+1089	+1
+-1	24
+175
+September 03
+2005	Romania
+Czechia	2
+0	World Cup qualifier
+in Romania	+38
+-38	1801
+1917	+5
+-3	19
+7
+October 08
+2005	Finland
+Romania	0
+1	World Cup qualifier
+in Finland	-19
++19	1661
+1820	-3
++4	45
+15
+November 12
+2005	Ivory Coast
+Romania	2
+1	Friendly
+in France	+14
+-14	1701
+1806	+5
+-1	37
+17
+November 16
+2005	Romania
+Nigeria	3
+0	Friendly
+in Romania	+11
+-11	1817
+1749	+3
+-1	15
+27
+February 28
+2006	Romania
+Armenia	2
+0	Friendly tournament
+in Cyprus	+4
+-4	1821
+1385	0
+-2	14
+104
+March 01
+2006	Romania
+Slovenia	2
+0	Friendly tournament
+in Cyprus	+9
+-9	1830
+1568	0
+-2	14
+60
+May 23
+2006	Uruguay
+Romania	2
+0	Friendly
+in the United States	+16
+-16	1814
+1814	+5
+-2	15
+15
+May 26
+2006	Romania
+Northern Ireland	2
+0	Friendly
+in the United States	+4
+-4	1818
+1466	0
+0	15
+86
+May 27
+2006	Colombia
+Romania	0
+0	Friendly
+in the United States	+2
+-2	1739
+1816	0
+0	32
+15
+August 16
+2006	Romania
+Cyprus	2
+0	Friendly
+in Romania	+2
+-2	1818
+1427	+1
+-1	14
+97
+September 02
+2006	Romania
+Bulgaria	2
+2	European Cup qualifier
+in Romania	-12
++12	1806
+1692	-2
++3	16
+38
+September 06
+2006	Albania
+Romania	0
+2	European Cup qualifier
+in Albania	-13
++13	1474
+1819	-4
++1	86
+15
+October 07
+2006	Romania
+Belarus	3
+1	European Cup qualifier
+in Romania	+6
+-6	1825
+1515	+1
+-1	14
+75
+November 15
+2006	Spain
+Romania	0
+1	Friendly
+in Spain	-14
++14	1858
+1839	-2
+0	11
+14
+February 07
+2007	Romania
+Moldova	2
+0	Friendly
+in Romania	+1
+-1	1840
+1379	0
+0	13
+103
+March 24
+2007	Netherlands
+Romania	0
+0	European Cup qualifier
+in the Netherlands	-11
++11	1954
+1851	-1
++2	6
+11
+March 28
+2007	Romania
+Luxembourg	3
+0	European Cup qualifier
+in Romania	0
+0	1851
+974	-1
+0	12
+190
+June 02
+2007	Slovenia
+Romania	1
+2	European Cup qualifier
+in Slovenia	-9
++9	1521
+1860	+1
++1	74
+11
+June 06
+2007	Romania
+Slovenia	2
+0	European Cup qualifier
+in Romania	+4
+-4	1864
+1517	0
+-2	11
+76
+August 22
+2007	Romania
+Turkey	2
+0	Friendly
+in Romania	+9
+-9	1873
+1800	0
+-2	12
+17
+September 08
+2007	Belarus
+Romania	1
+3	European Cup qualifier
+in Belarus	-11
++11	1511
+1884	-3
++2	76
+10
+September 12
+2007	Germany
+Romania	3
+1	Friendly
+in Germany	+7
+-7	1992
+1877	0
+-1	4
+11
+October 13
+2007	Romania
+Netherlands	1
+0	European Cup qualifier
+in Romania	+19
+-19	1896
+1949	+2
+0	9
+6
+October 17
+2007	Luxembourg
+Romania	0
+2	European Cup qualifier
+in Luxembourg	-1
++1	1006
+1897	0
+-1	185
+10
+November 17
+2007	Bulgaria
+Romania	1
+0	European Cup qualifier
+in Bulgaria	+25
+-25	1737
+1872	+6
+0	31
+10
+November 21
+2007	Romania
+Albania	6
+1	European Cup qualifier
+in Romania	+4
+-4	1876
+1453	0
+-1	10
+91
+February 06
+2008	Israel
+Romania	1
+0	Friendly
+in Israel	+12
+-12	1725
+1864	+4
+0	34
+10
+March 26
+2008	Romania
+Russia	3
+0	Friendly
+in Romania	+8
+-8	1872
+1751	0
++2	10
+28
+May 31
+2008	Romania
+Montenegro	4
+0	Friendly
+in Romania	+4
+-4	1876
+1601	+1
+-1	10
+54
+June 09
+2008	Romania
+France	0
+0	European Cup
+in Switzerland	+7
+-7	1883
+1973	0
+0	10
+4
+June 13
+2008	Romania
+Italy	1
+1	European Cup
+in Switzerland	+5
+-5	1888
+1949	0
++1	11
+5
+June 17
+2008	Netherlands
+Romania	2
+0	European Cup
+in Switzerland	+23
+-23	2058
+1865	0
+-1	1
+11
+August 20
+2008	Romania
+Latvia	1
+0	Friendly
+in Romania	+1
+-1	1866
+1498	0
+0	11
+82
+September 06
+2008	Romania
+Lithuania	0
+3	World Cup qualifier
+in Romania	-64
++64	1802
+1611	-6
++13	17
+52
+September 10
+2008	Faroe Islands
+Romania	0
+1	World Cup qualifier
+in Faroe Islands	-1
++1	1119
+1803	-1
+0	174
+18
+October 11
+2008	Romania
+France	2
+2	World Cup qualifier
+in Romania	-2
++2	1801
+1866	-1
++1	19
+8
+November 19
+2008	Romania
+Georgia	2
+1	Friendly
+in Romania	+2
+-2	1803
+1483	+1
++2	15
+89
+February 11
+2009	Romania
+Croatia	1
+2	Friendly
+in Romania	-11
++11	1792
+1866	-3
++1	17
+8
+March 28
+2009	Romania
+Serbia	2
+3	World Cup qualifier
+in Romania	-28
++28	1764
+1773	-6
++10	23
+20
+April 01
+2009	Austria
+Romania	2
+1	World Cup qualifier
+in Austria	+27
+-27	1555
+1737	+10
+-6	65
+29
+June 06
+2009	Lithuania
+Romania	0
+1	World Cup qualifier
+in Lithuania	-17
++17	1575
+1754	-2
++4	59
+27
+August 12
+2009	Hungary
+Romania	0
+1	Friendly
+in Hungary	-9
++9	1598
+1763	-2
++8	55
+21
+September 05
+2009	France
+Romania	1
+1	World Cup qualifier
+in France	-10
++10	1846
+1773	0
++1	11
+20
+September 09
+2009	Romania
+Austria	1
+1	World Cup qualifier
+in Romania	-15
++15	1758
+1555	-5
++7	25
+62
+October 10
+2009	Serbia
+Romania	5
+0	World Cup qualifier
+in Serbia	+25
+-25	1821
+1733	+2
+-5	14
+30
+October 14
+2009	Romania
+Faroe Islands	3
+1	World Cup qualifier
+in Romania	+1
+-1	1734
+1178	-2
+0	33
+161
+November 14
+2009	Poland
+Romania	0
+1	Friendly
+in Poland	-9
++9	1597
+1743	0
++4	54
+28
+March 03
+2010	Romania
+Israel	0
+2	Friendly
+in Romania	-21
++21	1722
+1710	-7
++7	33
+34
+May 29
+2010	Ukraine
+Romania	3
+2	Friendly
+in Ukraine	+6
+-6	1769
+1716	+3
+-2	18
+33
+June 02
+2010	Macedonia
+Romania	1
+0	Friendly
+in Austria	+14
+-14	1581
+1702	+9
+-1	55
+34
+June 05
+2010	Romania
+Honduras	3
+0	Friendly
+in Austria	+18
+-18	1720
+1696	+3
+-4	31
+35
+August 11
+2010	Turkey
+Romania	2
+0	Friendly
+in Turkey	+9
+-9	1783
+1711	+1
+0	16
+32
+September 03
+2010	Romania
+Albania	1
+1	European Cup qualifier
+in Romania	-14
++14	1697
+1512	-1
++4	33
+82
+September 07
+2010	Belarus
+Romania	0
+0	European Cup qualifier
+in Belarus	-1
++1	1620
+1698	-1
++1	50
+33
+October 09
+2010	France
+Romania	2
+0	European Cup qualifier
+in France	+18
+-18	1760
+1680	+4
+-5	22
+38
+November 17
+2010	Italy
+Romania	1
+1	Friendly
+in Austria	-4
++4	1808
+1684	+1
++3	12
+36
+February 08
+2011	Ukraine
+Romania	2
+2	Friendly tournament
+in Cyprus	-4
++4	1778
+1688	-3
++1	20
+37
+February 09
+2011	Cyprus
+Romania	1
+1	Friendly tournament
+in Cyprus	+3
+-3	1510
+1685	+1
+0	82
+37
+March 26
+2011	Bosnia and Herzegovina
+Romania	2
+1	European Cup qualifier
+in Bosnia and Herzegovina	+19
+-19	1615
+1666	+3
+-1	53
+39
+March 29
+2011	Romania
+Luxembourg	3
+1	European Cup qualifier
+in Romania	+1
+-1	1667
+1099	-1
+0	40
+174
+June 03
+2011	Romania
+Bosnia and Herzegovina	3
+0	European Cup qualifier
+in Romania	+21
+-21	1688
+1594	+4
+-5	37
+58
+June 07
+2011	Brazil
+Romania	1
+0	Friendly
+in Brazil	+1
+-1	2060
+1687	0
+0	3
+37
+June 11
+2011	Paraguay
+Romania	2
+0	Friendly
+in Paraguay	+8
+-8	1773
+1679	+2
+0	19
+37
+August 10
+2011	San Marino
+Romania	0
+1	Friendly
+in San Marino	0
+0	874
+1679	0
+-1	205
+38
+September 02
+2011	Luxembourg
+Romania	0
+2	European Cup qualifier
+in Luxembourg	-3
++3	1092
+1682	-2
+0	176
+38
+September 06
+2011	Romania
+France	0
+0	European Cup qualifier
+in Romania	+3
+-3	1685
+1823	0
+0	38
+13
+October 07
+2011	Romania
+Belarus	2
+2	European Cup qualifier
+in Romania	-11
++11	1674
+1573	-1
++4	39
+62
+October 11
+2011	Albania
+Romania	1
+1	European Cup qualifier
+in Albania	+7
+-7	1463
+1667	+2
+-2	94
+41
+November 11
+2011	Belgium
+Romania	2
+1	Friendly
+in Belgium	+8
+-8	1650
+1659	+1
+0	44
+41
+November 15
+2011	Romania
+Greece	3
+1	Friendly
+in Austria	+20
+-20	1679
+1760	+2
+-1	39
+24
+January 27
+2012	Romania
+Turkmenistan	4
+0	Friendly
+in Turkey	+5
+-5	1684
+1336	+2
+-2	37
+125
+February 29
+2012	Romania
+Uruguay	1
+1	Friendly
+in Romania	+5
+-5	1689
+1963	0
+0	36
+5
+May 30
+2012	Switzerland
+Romania	0
+1	Friendly
+in Switzerland	-14
++14	1734
+1703	-1
++3	29
+34
+June 05
+2012	Austria
+Romania	0
+0	Friendly
+in Austria	+1
+-1	1578
+1702	0
+0	62
+34
+August 15
+2012	Slovenia
+Romania	4
+3	Friendly
+in Slovenia	+9
+-9	1637
+1693	+3
+-3	46
+36
+September 07
+2012	Estonia
+Romania	0
+2	World Cup qualifier
+in Estonia	-23
++23	1486
+1716	-6
++6	88
+30
+September 11
+2012	Romania
+Andorra	4
+0	World Cup qualifier
+in Romania	+1
+-1	1717
+977	+1
+0	29
+188
+October 12
+2012	Turkey
+Romania	0
+1	World Cup qualifier
+in Turkey	-26
++26	1702
+1743	-8
++3	35
+26
+October 16
+2012	Romania
+Netherlands	1
+4	World Cup qualifier
+in Romania	-25
++25	1718
+1972	-2
++1	28
+5
+November 14
+2012	Romania
+Belgium	2
+1	Friendly
+in Romania	+9
+-9	1727
+1759	-1
+-1	29
+23
+February 02
+2013	Poland
+Romania	4
+1	Friendly
+in Spain	+20
+-20	1698
+1707	+5
+-2	34
+31
+February 06
+2013	Romania
+Australia	3
+2	Friendly
+in Spain	+11
+-11	1718
+1748	+1
+-1	30
+24
+March 22
+2013	Hungary
+Romania	2
+2	World Cup qualifier
+in Hungary	-2
++2	1657
+1720	+2
+0	42
+31
+March 26
+2013	Netherlands
+Romania	4
+0	World Cup qualifier
+in the Netherlands	+9
+-9	1977
+1711	0
+-1	5
+32
+June 04
+2013	Romania
+Trinidad and Tobago	4
+0	Friendly
+in Romania	+3
+-3	1714
+1411	+1
+-2	32
+104
+August 14
+2013	Romania
+Slovakia	1
+1	Friendly
+in Romania	-6
++6	1708
+1557	0
++3	30
+67
+September 06
+2013	Romania
+Hungary	3
+0	World Cup qualifier
+in Romania	+21
+-21	1729
+1645	+2
+-3	28
+45
+September 10
+2013	Romania
+Turkey	0
+2	World Cup qualifier
+in Romania	-45
++45	1684
+1676	-11
++7	39
+41
+October 11
+2013	Andorra
+Romania	0
+4	World Cup qualifier
+in Andorra	-2
++2	972
+1686	0
+0	190
+39
+October 15
+2013	Romania
+Estonia	2
+0	World Cup qualifier
+in Romania	+7
+-7	1693
+1426	+5
+-1	34
+101
+November 15
+2013	Greece
+Romania	3
+1	World Cup qualifier
+in Greece	+14
+-14	1816
+1679	0
+-6	19
+40
+November 19
+2013	Romania
+Greece	1
+1	World Cup qualifier
+in Romania	+2
+-2	1681
+1814	0
++2	40
+17
+March 05
+2014	Romania
+Argentina	0
+0	Friendly
+in Romania	+5
+-5	1686
+1989	+2
+0	38
+4

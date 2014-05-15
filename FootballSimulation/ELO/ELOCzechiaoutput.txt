@@ -1,0 +1,230 @@
+1994 54 away Czechia Turkey 1 4 Friendly
+1994 113 away Czechia Switzerland 3 0 Friendly
+1994 149 home Czechia Lithuania 5 3 Friendly
+1994 160 away Czechia Ireland 1 3 Friendly
+1994 234 away Czechia France 2 2 Friendly
+1994 254 home Czechia Malta 6 1 European Cup qualifier
+1994 291 away Czechia Malta 0 0 European Cup qualifier
+1994 326 away Czechia Holland 0 0 European Cup qualifier
+1995 70 home Czechia Finland 4 1 Friendly
+1995 91 home Czechia Belarus 4 2 European Cup qualifier
+1995 119 home Czechia Holland 3 1 European Cup qualifier
+1995 132 away Czechia Slovakia 1 1 Friendly
+1995 162 away Czechia Luxembourg 1 0 European Cup qualifier
+1995 233 away Czechia Norway 1 1 European Cup qualifier
+1995 254 home Czechia Norway 2 0 European Cup qualifier
+1995 286 away Czechia Belarus 0 2 European Cup qualifier
+1995 325 home Czechia Luxembourg 3 0 European Cup qualifier
+1995 354 away Czechia Kuwait 1 2 Friendly
+1996 88 home Czechia Turkey 3 0 Friendly
+1996 117 home Czechia Ireland 2 0 Friendly
+1996 153 away Czechia Austria 1 0 Friendly
+1996 156 away Czechia Switzerland 1 2 Friendly
+1996 164 away Czechia Germany 2 0 European Cup
+1996 169 home Czechia Italy 2 1 European Cup
+1996 174 home Czechia Russia 3 3 European Cup
+1996 178 home Czechia Portugal 1 0 European Cup
+1996 181 home Czechia France 0 0 European Cup
+1996 185 away Czechia Germany 2 1 European Cup
+1996 252 home Czechia Iceland 2 1 Friendly
+1996 266 home Czechia Malta 6 0 World Cup qualifier
+1996 288 home Czechia Spain 0 0 World Cup qualifier
+1996 320 away Czechia Yugoslavia 1 0 World Cup qualifier
+1996 352 home Czechia Nigeria 2 1 King Hassan Cup
+1996 353 away Czechia Croatia 1 1 King Hassan Cup
+1997 57 home Czechia Belarus 4 1 Friendly
+1997 74 home Czechia Poland 2 1 Friendly
+1997 95 home Czechia Yugoslavia 1 2 World Cup qualifier
+1997 163 away Czechia Spain 1 0 World Cup qualifier
+1997 237 home Czechia FaroeIslands 2 0 World Cup qualifier
+1997 241 away Czechia Slovakia 2 1 World Cup qualifier
+1997 254 away Czechia FaroeIslands 0 2 World Cup qualifier
+1997 272 away Czechia Malta 0 1 World Cup qualifier
+1997 290 home Czechia Slovakia 3 0 World Cup qualifier
+1997 354 away Czechia SouthAfrica 2 2 Confederations Cup
+1997 356 away Czechia Uruguay 2 1 Confederations Cup
+1997 358 home Czechia UnitedArab 6 1 Confederations Cup
+1997 360 away Czechia Brazil 2 0 Confederations Cup
+1997 362 home Czechia Uruguay 1 0 Confederations Cup
+1998 87 home Czechia Ireland 2 1 Friendly
+1998 115 away Czechia Slovenia 1 3 Friendly
+1998 145 home Czechia Paraguay 1 0 Kirin Cup
+1998 148 away Czechia Japan 0 0 Kirin Cup
+1998 151 away Czechia SouthKorea 2 2 Friendly
+1998 236 home Czechia Denmark 1 0 Friendly
+1998 254 away Czechia FaroeIslands 0 1 European Cup qualifier
+1998 289 away Czechia Bosnia 1 3 European Cup qualifier
+1998 293 home Czechia Estonia 4 1 European Cup qualifier
+1998 328 away Czechia England 2 0 Friendly
+1999 40 away Czechia Belgium 0 1 Friendly
+1999 89 home Czechia Lithuania 2 0 European Cup qualifier
+1999 93 away Czechia Scotland 1 2 European Cup qualifier
+1999 121 away Czechia Poland 2 1 Friendly
+1999 160 away Czechia Estonia 0 2 European Cup qualifier
+1999 164 home Czechia Scotland 3 2 European Cup qualifier
+1999 235 home Czechia Switzerland 3 0 Friendly
+1999 252 away Czechia Lithuania 0 4 European Cup qualifier
+1999 256 home Czechia Bosnia 3 0 European Cup qualifier
+1999 288 home Czechia FaroeIslands 2 0 European Cup qualifier
+1999 323 away Czechia Holland 1 1 Friendly
+2000 39 home Czechia Mexico 2 1 Carlsberg Cup
+2000 54 away Czechia Ireland 3 2 Friendly
+2000 91 home Czechia Australia 3 1 Friendly
+2000 119 home Czechia Israel 4 1 Friendly
+2000 158 away Czechia Germany 3 2 Friendly
+2000 166 away Czechia Holland 1 0 European Cup
+2000 171 away Czechia France 2 1 European Cup
+2000 176 home Czechia Denmark 2 0 European Cup
+2000 233 home Czechia Slovenia 0 1 Friendly
+2000 250 away Czechia Bulgaria 0 1 World Cup qualifier
+2000 286 home Czechia Iceland 4 0 World Cup qualifier
+2000 290 away Czechia Malta 0 0 World Cup qualifier
+2001 59 away Czechia Macedonia 1 1 Friendly
+2001 86 away Czechia NorthernIreland 0 1 World Cup qualifier
+2001 90 home Czechia Denmark 0 0 World Cup qualifier
+2001 118 home Czechia Belgium 1 1 Friendly
+2001 157 away Czechia Denmark 2 1 World Cup qualifier
+2001 161 home Czechia NorthernIreland 3 1 World Cup qualifier
+2001 232 home Czechia SouthKorea 5 0 Friendly
+2001 249 away Czechia Iceland 3 1 World Cup qualifier
+2001 253 home Czechia Malta 3 2 World Cup qualifier
+2001 285 home Czechia Bulgaria 6 0 World Cup qualifier
+2001 320 away Czechia Belgium 1 0 World Cup qualifier
+2001 324 home Czechia Belgium 0 1 World Cup qualifier
+2002 43 home Czechia Hungary 2 0 Friendly tournament
+2002 44 away Czechia Cyprus 3 4 Friendly tournament
+2002 89 away Czechia Wales 0 0 Friendly
+2002 110 away Czechia Greece 0 0 Friendly
+2002 142 home Czechia Italy 1 0 Friendly
+2002 238 home Czechia Slovakia 4 1 Friendly
+2002 254 home Czechia Yugoslavia 5 0 Friendly
+2002 291 away Czechia Moldova 0 2 European Cup qualifier
+2002 295 home Czechia Belarus 2 0 European Cup qualifier
+2002 330 home Czechia Sweden 3 3 Friendly
+2003 43 away Czechia France 0 2 Friendly
+2003 91 away Czechia Holland 1 1 European Cup qualifier
+2003 95 home Czechia Austria 4 0 European Cup qualifier
+2003 123 home Czechia Turkey 4 0 Friendly
+2003 166 home Czechia Moldova 5 0 European Cup qualifier
+2003 254 away Czechia Belarus 1 3 European Cup qualifier
+2003 258 home Czechia Holland 3 1 European Cup qualifier
+2003 290 away Czechia Austria 2 3 European Cup qualifier
+2003 325 home Czechia Canada 5 1 Friendly
+2004 49 away Czechia Italy 2 2 Friendly
+2004 93 away Czechia Ireland 2 1 Friendly
+2004 121 home Czechia Japan 0 1 Friendly
+2004 157 home Czechia Bulgaria 3 1 Friendly
+2004 161 home Czechia Estonia 2 0 Friendly
+2004 170 home Czechia Latvia 2 1 European Cup
+2004 174 home Czechia Holland 3 2 European Cup
+2004 178 home Czechia Germany 2 1 European Cup
+2004 182 home Czechia Denmark 3 0 European Cup
+2004 187 away Czechia Greece 1 0 European Cup
+2004 235 home Czechia Greece 0 0 Friendly
+2004 256 away Czechia Holland 2 0 World Cup qualifier
+2004 288 home Czechia Romania 1 0 World Cup qualifier
+2004 292 away Czechia Armenia 0 3 World Cup qualifier
+2004 327 away Czechia Macedonia 0 2 World Cup qualifier
+2005 40 away Czechia Slovenia 0 3 Friendly
+2005 88 home Czechia Finland 4 3 World Cup qualifier
+2005 92 away Czechia Andorra 0 4 World Cup qualifier
+2005 159 home Czechia Andorra 8 1 World Cup qualifier
+2005 163 home Czechia Macedonia 6 1 World Cup qualifier
+2005 234 away Czechia Sweden 2 1 Friendly
+2005 251 away Czechia Romania 2 0 World Cup qualifier
+2005 255 home Czechia Armenia 4 1 World Cup qualifier
+2005 287 home Czechia Holland 0 2 World Cup qualifier
+2005 291 away Czechia Finland 0 3 World Cup qualifier
+2005 322 away Czechia Norway 0 1 World Cup qualifier
+2005 326 home Czechia Norway 1 0 World Cup qualifier
+2006 63 away Czechia Turkey 2 2 Friendly
+2006 150 home Czechia SaudiArabia 2 0 Friendly
+2006 154 home Czechia CostaRica 1 0 Friendly
+2006 158 home Czechia TrinidadTobago 3 0 Friendly
+2006 167 home Czechia UnitedStates 3 0 World Cup
+2006 172 away Czechia Ghana 2 0 World Cup
+2006 177 away Czechia Italy 2 0 World Cup
+2006 233 home Czechia Serbia 1 3 Friendly
+2006 250 home Czechia Wales 2 1 European Cup qualifier
+2006 254 away Czechia Slovakia 0 3 European Cup qualifier
+2006 286 home Czechia SanMarino 7 0 European Cup qualifier
+2006 290 away Czechia Ireland 1 1 European Cup qualifier
+2006 325 home Czechia Denmark 1 1 Friendly
+2007 38 away Czechia Belgium 0 2 Friendly
+2007 86 home Czechia Germany 1 2 European Cup qualifier
+2007 90 home Czechia Cyprus 1 0 European Cup qualifier
+2007 157 away Czechia Wales 0 0 European Cup qualifier
+2007 239 away Czechia Austria 1 1 Friendly
+2007 256 away Czechia SanMarino 0 3 European Cup qualifier
+2007 260 home Czechia Ireland 1 0 European Cup qualifier
+2007 296 away Czechia Germany 0 3 European Cup qualifier
+2007 327 home Czechia Slovakia 3 1 European Cup qualifier
+2007 331 away Czechia Cyprus 0 2 European Cup qualifier
+2008 36 away Czechia Greece 1 0 Friendly
+2008 37 away Czechia Poland 2 0 Friendly
+2008 88 away Czechia Denmark 1 1 Friendly
+2008 151 home Czechia Lithuania 2 0 Friendly
+2008 154 home Czechia Scotland 3 1 Friendly
+2008 162 away Czechia Switzerland 0 1 European Cup
+2008 166 away Czechia Portugal 3 1 European Cup
+2008 170 away Czechia Turkey 3 2 European Cup
+2008 237 away Czechia England 2 2 Friendly
+2008 258 away Czechia NorthernIreland 0 0 World Cup qualifier
+2008 290 away Czechia Poland 2 1 World Cup qualifier
+2008 294 home Czechia Slovenia 1 0 World Cup qualifier
+2008 329 away Czechia SanMarino 0 3 World Cup qualifier
+2009 42 away Czechia Morocco 0 0 Friendly
+2009 90 away Czechia Slovenia 0 0 World Cup qualifier
+2009 94 home Czechia Slovakia 1 2 World Cup qualifier
+2009 160 home Czechia Malta 1 0 Friendly
+2009 229 home Czechia Belgium 3 1 Friendly
+2009 253 away Czechia Slovakia 2 2 World Cup qualifier
+2009 257 home Czechia SanMarino 7 0 World Cup qualifier
+2009 289 home Czechia Poland 2 0 World Cup qualifier
+2009 293 home Czechia NorthernIreland 0 0 World Cup qualifier
+2009 325 away Czechia UnitedArab 0 0 Friendly tournament
+2009 328 away Czechia Azerbaijan 2 0 Friendly tournament
+2010 65 away Czechia Scotland 1 0 Friendly
+2010 146 away Czechia Turkey 2 1 Friendly
+2010 149 away Czechia UnitedStates 2 4 Friendly
+2010 228 home Czechia Latvia 4 1 Friendly
+2010 255 home Czechia Lithuania 0 1 European Cup qualifier
+2010 287 home Czechia Scotland 1 0 European Cup qualifier
+2010 291 away Czechia Liechtenstein 0 2 European Cup qualifier
+2010 327 away Czechia Denmark 0 0 Friendly
+2011 40 away Czechia Croatia 4 2 Friendly
+2011 87 away Czechia Spain 2 1 European Cup qualifier
+2011 91 home Czechia Liechtenstein 2 0 European Cup qualifier
+2011 159 home Czechia Peru 0 0 Kirin Cup
+2011 162 away Czechia Japan 0 0 Kirin Cup
+2011 227 away Czechia Norway 3 0 Friendly
+2011 251 away Czechia Scotland 2 2 European Cup qualifier
+2011 254 home Czechia Ukraine 4 0 Friendly
+2011 286 home Czechia Spain 0 2 European Cup qualifier
+2011 290 away Czechia Lithuania 1 4 European Cup qualifier
+2011 321 home Czechia Montenegro 2 0 European Cup qualifier
+2011 325 away Czechia Montenegro 0 1 European Cup qualifier
+2012 60 away Czechia Ireland 1 1 Friendly
+2012 150 home Czechia Israel 2 1 Friendly
+2012 156 home Czechia Hungary 1 2 Friendly
+2012 163 away Czechia Russia 4 1 European Cup
+2012 167 home Czechia Greece 2 1 European Cup
+2012 171 away Czechia Poland 0 1 European Cup
+2012 176 away Czechia Portugal 1 0 European Cup
+2012 232 away Czechia Ukraine 0 0 Friendly
+2012 256 away Czechia Denmark 0 0 World Cup qualifier
+2012 259 home Czechia Finland 0 1 Friendly
+2012 291 home Czechia Malta 3 1 World Cup qualifier
+2012 295 home Czechia Bulgaria 0 0 World Cup qualifier
+2012 324 home Czechia Slovakia 3 0 Friendly
+2013 37 away Czechia Turkey 0 2 Friendly
+2013 84 home Czechia Denmark 0 3 World Cup qualifier
+2013 88 away Czechia Armenia 0 3 World Cup qualifier
+2013 162 home Czechia Italy 0 0 World Cup qualifier
+2013 231 away Czechia Hungary 1 1 Friendly
+2013 254 home Czechia Armenia 1 2 World Cup qualifier
+2013 258 away Czechia Italy 2 1 World Cup qualifier
+2013 290 away Czechia Malta 1 4 World Cup qualifier
+2013 294 away Czechia Bulgaria 0 1 World Cup qualifier
+2013 325 home Czechia Canada 2 0 Friendly
+2014 67 home Czechia Norway 2 2 Friendly

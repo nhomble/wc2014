@@ -1,0 +1,544 @@
+1913 32 away China Philippines 0 1 Far Eastern Games
+1913 35 away China Philippines 2 1 Far Eastern Games
+1915 125 home China Philippines 1 0 Far Eastern Games
+1915 126 home China Philippines 0 0 Far Eastern Games
+1915 127 home China Philippines 1 1 Far Eastern Games
+1917 132 home China Philippines 3 0 Far Eastern Games
+1917 133 away China Japan 0 5 Far Eastern Games
+1919 136 away China Philippines 1 2 Far Eastern Games
+1919 137 away China Philippines 2 1 Far Eastern Games
+1919 139 away China Philippines 2 3 Far Eastern Games
+1921 156 home China Philippines 1 0 Far Eastern Games
+1921 157 home China Japan 4 1 Far Eastern Games
+1923 146 home China Philippines 3 0 Far Eastern Games
+1923 148 away China Japan 1 5 Far Eastern Games
+1925 141 away China Philippines 1 5 Far Eastern Games
+1925 144 home China Japan 2 0 Far Eastern Games
+1927 244 home China Japan 5 1 Far Eastern Games
+1927 251 home China Philippines 3 1 Far Eastern Games
+1930 151 home China Philippines 5 0 Far Eastern Games
+1930 153 away China Japan 3 3 Far Eastern Games
+1934 137 away China Philippines 0 2 Far Eastern Games
+1934 139 home China DutchEast 2 0 Far Eastern Games
+1934 143 home China Japan 4 3 Far Eastern Games
+1936 223 away China GreatBritain 2 0 Olympic Games
+1948 219 away China Turkey 4 0 Olympic Games
+1949 2 home China SouthKorea 3 2 Friendly
+1950 109 away China SouthKorea 3 1 Friendly
+1952 221 away China Finland 4 0 Friendly
+1953 99 away China SouthKorea 4 0 Friendly
+1953 101 away China SouthKorea 2 4 Friendly
+1956 180 away China Burma 2 3 Friendly
+1956 283 home China NorthVietnam 5 3 Friendly tournament
+1956 286 home China NorthKorea 0 1 Friendly tournament
+1957 136 away China Indonesia 2 0 World Cup qualifier
+1957 157 home China Indonesia 4 3 World Cup qualifier
+1957 178 home China Indonesia 0 0 World Cup qualifier
+1957 207 home China Sudan 4 1 Friendly
+1957 263 home China Albania 3 2 Friendly
+1959 282 home China SovietUnion 0 1 Friendly
+1959 304 away China NorthKorea 1 0 Friendly tournament
+1959 307 home China NorthVietnam 2 0 Friendly tournament
+1960 283 home China NorthKorea 1 0 Friendly tournament
+1960 286 home China Mongolia 6 1 Friendly tournament
+1960 290 away China NorthVietnam 3 4 Friendly tournament
+1973 318 away China Albania 1 1 Friendly
+1975 86 home China Panama 1 1 Friendly
+1975 93 home China Panama 1 1 Friendly
+1975 125 home China NorthKorea 1 0 Asian Cup qualifier
+1975 128 home China Brunei 10 1 Asian Cup qualifier
+1975 133 away China HongKong 0 1 Asian Cup qualifier
+1975 136 home China Japan 2 1 Asian Cup qualifier
+1975 139 away China NorthKorea 2 0 Asian Cup qualifier
+1975 206 away China NewZealand 2 1 Friendly
+1975 209 away China NewZealand 2 2 Friendly
+1975 212 away China NewZealand 2 0 Friendly
+1975 223 away China Australia 1 0 Friendly
+1975 231 home China Kuwait 3 3 Friendly
+1975 298 home China NewZealand 2 1 Friendly
+1976 160 away China Kuwait 1 0 Asian Cup
+1976 162 home China Malaysia 1 1 Asian Cup
+1976 165 away China Iran 2 0 Asian Cup
+1976 167 home China Iraq 1 0 Asian Cup
+1976 308 home China Australia 0 2 Friendly
+1977 203 home China HongKong 2 1 Beijing Invitational Cup
+1977 285 away China UnitedStates 1 1 Friendly
+1977 289 away China UnitedStates 1 0 Friendly
+1977 295 away China UnitedStates 2 1 Friendly
+1977 303 away China Jamaica 0 1 Friendly
+1977 311 away China Jamaica 0 3 Friendly
+1978 93 away China Venezuela 0 1 Friendly
+1978 115 away China Peru 2 1 Friendly
+1978 350 home China Qatar 3 0 Asian Games
+1978 352 home China SaudiArabia 1 0 Asian Games
+1978 354 away China Iraq 2 0 Asian Games
+1978 357 away China SouthKorea 1 0 Asian Games
+1978 359 away China Thailand 1 4 Asian Games
+1978 361 home China Malaysia 7 1 Asian Games
+1978 363 home China Iraq 1 0 Asian Games
+1978 366 away China Philippines 0 5 Asian Cup qualifier
+1978 368 home China Macao 2 1 Asian Cup qualifier
+1978 370 away China SouthKorea 1 0 Asian Cup qualifier
+1980 265 home China Bangladesh 6 0 Asian Cup
+1980 267 home China Iran 2 2 Asian Cup
+1980 270 away China Syria 1 0 Asian Cup
+1980 273 away China NorthKorea 2 1 Asian Cup
+1980 311 home China Singapore 1 1 King's Cup
+1980 312 home China Singapore 2 1 King's Cup
+1980 313 home China Brunei 6 0 King's Cup
+1980 314 away China SouthKorea 2 1 King's Cup
+1980 315 away China Thailand 3 1 King's Cup
+1980 346 away China Algeria 4 1 Friendly
+1980 362 away China HongKong 0 1 World Cup qualifier
+1980 365 home China Macao 3 0 World Cup qualifier
+1980 367 home China Japan 1 0 World Cup qualifier
+1980 372 away China HongKong 0 0 World Cup qualifier
+1981 4 home China NorthKorea 4 2 World Cup qualifier
+1981 157 away China Japan 0 0 Friendly tournament
+1981 272 home China NewZealand 0 0 World Cup qualifier
+1981 282 away China NewZealand 1 0 World Cup qualifier
+1981 297 home China Kuwait 3 0 World Cup qualifier
+1981 319 home China Malaysia 0 0 King's Cup
+1981 321 home China Indonesia 4 2 King's Cup
+1981 322 home China SaudiArabia 4 2 World Cup qualifier
+1981 323 home China Singapore 1 1 King's Cup
+1981 325 home China Pakistan 1 0 King's Cup
+1981 327 away China Thailand 0 1 King's Cup
+1981 329 home China SaudiArabia 2 0 World Cup qualifier
+1981 340 away China Kuwait 1 0 World Cup qualifier
+1982 10 away China NewZealand 2 1 World Cup qualifier
+1982 46 home China Iran 0 0 Friendly tournament
+1982 47 away China India 1 1 Nehru Gold Cup
+1982 53 home China Uruguay 0 0 Nehru Gold Cup
+1982 63 home China SouthKorea 1 1 Nehru Gold Cup
+1982 66 away China Uruguay 2 0 Nehru Gold Cup
+1982 125 home China Singapore 1 1 King's Cup
+1982 126 home China Nepal 4 0 King's Cup
+1982 127 home China Philippines 2 0 King's Cup
+1982 128 away China Singapore 2 1 King's Cup
+1982 129 away China Thailand 1 1 King's Cup
+1982 161 away China Liechtenstein 2 0 Friendly
+1982 177 away China Tunisia 1 0 Friendly
+1982 181 away China Tunisia 1 1 Friendly
+1982 207 home China HongKong 2 0 Beijing Invitational Cup
+1982 209 home China Morocco 3 3 Beijing Invitational Cup
+1982 330 home China Malaysia 1 0 Asian Games
+1982 334 home China Bangladesh 1 0 Asian Games
+1982 336 away China India 2 2 Asian Games
+1982 338 away China NorthKorea 1 0 Asian Games
+1983 208 home China Thailand 2 1 Friendly tournament
+1983 345 home China Australia 2 1 Merlion Tournament
+1984 1 away China India 0 3 Nehru Gold Cup
+1984 15 away China Poland 1 0 Nehru Gold Cup
+1984 20 home China Argentina 1 0 Nehru Gold Cup
+1984 27 away China Poland 1 0 Nehru Gold Cup
+1984 105 away China Kenya 1 0 Friendly
+1984 155 away China Japan 1 0 Friendly
+1984 158 away China Ireland 1 0 Friendly
+1984 215 away China Romania 4 2 Friendly
+1984 218 away China Romania 1 0 Friendly
+1984 260 home China Jordan 6 0 Asian Cup qualifier
+1984 262 home China HongKong 2 0 Asian Cup qualifier
+1984 265 home China Afghanistan 6 0 Asian Cup qualifier
+1984 267 home China Qatar 1 0 Asian Cup qualifier
+1984 313 home China Australia 3 2 Friendly
+1984 344 away China Iran 2 0 Asian Cup
+1984 346 away China Singapore 0 2 Asian Cup
+1984 350 home China India 3 0 Asian Cup
+1984 352 home China UnitedArab 5 0 Asian Cup
+1984 355 home China Kuwait 1 0 Asian Cup
+1984 357 away China SaudiArabia 2 0 Asian Cup
+1985 48 away China HongKong 0 0 World Cup qualifier
+1985 51 away China Macao 0 4 World Cup qualifier
+1985 57 home China Brunei 8 0 World Cup qualifier
+1985 63 home China Brunei 4 0 World Cup qualifier
+1985 136 home China Macao 6 0 World Cup qualifier
+1985 143 home China HongKong 1 2 World Cup qualifier
+1985 264 away China PapuaNew 1 4 Friendly
+1985 267 away China PapuaNew 1 1 Friendly
+1985 271 away China Australia 2 0 Friendly
+1985 273 away China Australia 1 1 Friendly
+1985 275 away China Australia 3 0 Friendly
+1986 1 home China Congo 1 1 Friendly tournament
+1986 2 away China India 0 0 Nehru Gold Cup
+1986 28 home China Peru 3 1 Nehru Gold Cup
+1986 63 away China Thailand 1 0 King's Cup
+1986 70 away China NorthKorea 0 0 King's Cup
+1986 72 away China NorthKorea 2 0 King's Cup
+1986 74 away China Thailand 1 0 King's Cup
+1986 135 away China Italy 2 0 Friendly
+1986 152 home China Iran 2 1 Friendly
+1986 163 home China HongKong 4 0 Friendly tournament
+1986 165 away China Nepal 1 3 Friendly tournament
+1986 169 away China Nepal 1 3 Friendly tournament
+1986 241 home China NorthKorea 0 0 Merlion Tournament
+1986 242 home China Indonesia 3 0 Merlion Tournament
+1986 245 home China Malaysia 4 0 Merlion Tournament
+1986 248 home China Canada 1 0 Merlion Tournament
+1986 249 away China Singapore 0 3 Merlion Tournament
+1986 251 away China Singapore 1 2 Merlion Tournament
+1986 254 home China NorthKorea 2 1 Merlion Tournament
+1986 268 home China Bahrain 5 1 Asian Games
+1986 270 home China India 2 1 Asian Games
+1986 276 away China SouthKorea 4 2 Asian Games
+1986 280 home China Kuwait 1 1 Asian Games
+1986 333 home China Australia 0 2 Friendly
+1986 343 home China SouthKorea 0 0 Friendly tournament
+1986 345 home China Malaysia 3 0 Friendly tournament
+1986 351 away China Nepal 0 3 Friendly tournament
+1986 354 away China Denmark 2 0 Friendly tournament
+1987 29 away China Bulgaria 4 0 Friendly
+1987 51 away China Indonesia 3 1 King's Cup
+1987 53 home China Oman 2 0 King's Cup
+1987 55 away China Thailand 2 0 King's Cup
+1987 69 away China Mexico 3 2 Friendly
+1988 12 away China Thailand 3 2 King's Cup
+1988 16 away China Oman 2 2 King's Cup
+1988 19 away China India 0 2 Nehru Gold Cup
+1988 20 away China Indonesia 2 0 King's Cup
+1988 157 away China Japan 0 3 Friendly
+1988 170 away China UnitedArab 0 0 Asian Cup qualifier
+1988 172 away China Bangladesh 0 4 Asian Cup qualifier
+1988 174 home China India 1 1 Asian Cup qualifier
+1988 176 home China Thailand 5 0 Asian Cup qualifier
+1988 178 home China NorthYemen 0 0 Asian Cup qualifier
+1988 222 away China Australia 2 2 Friendly tournament
+1988 228 home China Thailand 2 0 Friendly tournament
+1988 232 home China Australia 1 0 Friendly tournament
+1988 345 home China Syria 3 0 Asian Cup
+1988 347 away China Bahrain 0 1 Asian Cup
+1988 351 home China Kuwait 2 2 Asian Cup
+1988 353 home China SaudiArabia 0 1 Asian Cup
+1988 355 home China SouthKorea 1 2 Asian Cup
+1988 358 home China Iran 0 0 Asian Cup
+1989 54 home China Bangladesh 2 0 World Cup qualifier
+1989 59 away China Thailand 0 3 World Cup qualifier
+1989 66 away China Bangladesh 0 2 World Cup qualifier
+1989 201 home China Iran 2 0 World Cup qualifier
+1989 208 away China Iran 3 2 World Cup qualifier
+1989 215 home China Thailand 2 0 World Cup qualifier
+1989 268 away China Kuwait 2 0 Friendly
+1989 291 home China SaudiArabia 2 1 World Cup qualifier
+1989 296 home China UnitedArab 1 2 World Cup qualifier
+1989 299 home China SouthKorea 0 1 World Cup qualifier
+1989 303 home China NorthKorea 1 0 World Cup qualifier
+1989 307 home China Qatar 1 2 World Cup qualifier
+1990 29 home China Indonesia 8 0 King's Cup
+1990 32 away China Thailand 4 2 King's Cup
+1990 37 home China Kenya 1 1 King's Cup
+1990 213 home China NorthKorea 2 0 Dynasty Cup
+1990 215 home China Japan 1 0 Dynasty Cup
+1990 217 home China SouthKorea 0 1 Dynasty Cup
+1990 220 home China SouthKorea 1 1 Dynasty Cup
+1990 233 away China NewZealand 2 1 Friendly
+1990 241 away China NewZealand 1 0 Friendly
+1990 271 home China Pakistan 3 0 Asian Games
+1990 273 home China Singapore 5 1 Asian Games
+1990 275 home China SouthKorea 0 2 Asian Games
+1990 280 home China Thailand 0 1 Asian Games
+1992 22 home China Indonesia 2 0 Friendly tournament
+1992 24 away China Thailand 1 1 Friendly tournament
+1992 39 home China Indonesia 2 1 Friendly tournament
+1992 41 away China Thailand 1 0 Friendly tournament
+1992 43 home China Malaysia 3 0 Friendly tournament
+1992 47 away China Thailand 0 4 Friendly tournament
+1992 95 away China Canada 5 2 Friendly
+1992 97 away China UnitedStates 5 0 Friendly
+1992 113 home China Indonesia 2 0 Asian Cup qualifier
+1992 116 home China Malaysia 4 0 Asian Cup qualifier
+1992 119 away China Singapore 0 1 Asian Cup qualifier
+1992 239 home China NorthKorea 2 2 Dynasty Cup
+1992 241 home China Japan 0 2 Dynasty Cup
+1992 243 home China SouthKorea 0 2 Dynasty Cup
+1992 308 away China SaudiArabia 1 1 Asian Cup
+1992 310 home China Thailand 0 0 Asian Cup
+1992 312 home China Qatar 2 1 Asian Cup
+1992 316 away China Japan 3 2 Asian Cup
+1992 318 home China UnitedArab 1 1 Asian Cup
+1992 343 home China Norway 2 1 Carlsberg Cup
+1992 360 away China SouthKorea 3 1 Merlion Tournament
+1993 52 away China Thailand 0 4 King's Cup
+1993 146 home China Pakistan 5 0 World Cup qualifier
+1993 150 away China Jordan 0 3 World Cup qualifier
+1993 152 away China Yemen 1 0 World Cup qualifier
+1993 154 away China Iraq 1 0 World Cup qualifier
+1993 167 home China Pakistan 3 0 World Cup qualifier
+1993 171 home China Jordan 4 1 World Cup qualifier
+1993 173 home China Yemen 1 0 World Cup qualifier
+1993 175 home China Iraq 2 1 World Cup qualifier
+1993 313 away China Mexico 3 0 Friendly
+1994 23 away China SaudiArabia 1 0 Friendly
+1994 26 away China SaudiArabia 1 1 Friendly
+1994 280 away China Turkmenistan 2 2 Asian Games
+1994 282 home China Yemen 4 0 Asian Games
+1994 284 home China Bahrain 3 2 Asian Games
+1994 286 home China Iran 1 0 Asian Games
+1994 292 home China Kuwait 2 0 Asian Games
+1994 295 away China Uzbekistan 4 2 Asian Games
+1995 43 away China Thailand 2 1 King's Cup
+1995 50 home China SouthKorea 0 0 Dynasty Cup
+1995 52 away China HongKong 0 0 Dynasty Cup
+1995 54 away China Japan 2 1 Dynasty Cup
+1995 57 away China HongKong 1 1 Dynasty Cup
+1995 305 home China Colombia 2 1 Friendly
+1996 30 home China Macao 7 1 Asian Cup qualifier
+1996 32 home China Philippines 7 0 Asian Cup qualifier
+1996 35 away China HongKong 0 2 Asian Cup qualifier
+1996 147 home China England 0 3 Friendly
+1996 153 away China Holland 2 0 Friendly
+1996 203 home China Uruguay 1 1 Friendly
+1996 225 home China Paraguay 0 2 Friendly
+1996 273 away China SouthKorea 3 1 Friendly
+1996 336 home China SouthKorea 2 3 Friendly
+1996 347 away China Uzbekistan 2 0 Asian Cup
+1996 350 home China Syria 3 0 Asian Cup
+1996 353 away China Japan 1 0 Asian Cup
+1996 357 away China SaudiArabia 4 3 Asian Cup
+1997 29 home China UnitedStates 2 1 Friendly
+1997 32 home China UnitedStates 1 1 Friendly
+1997 52 home China Singapore 3 1 Dunhill Cup
+1997 54 home China Finland 2 1 Dunhill Cup
+1997 56 away China Malaysia 0 2 Dunhill Cup
+1997 64 home China Bosnia 3 0 Dunhill Cup
+1997 92 away China Iraq 2 0 Nehru Gold Cup
+1997 94 away China India 0 0 Nehru Gold Cup
+1997 99 home China Uzbekistan 1 1 Nehru Gold Cup
+1997 102 away China Uzbekistan 2 1 Nehru Gold Cup
+1997 104 away China India 1 2 Nehru Gold Cup
+1997 114 home China Myanmar 5 0 Friendly
+1997 120 home China Iran 0 0 Friendly
+1997 128 away China Turkmenistan 1 4 World Cup qualifier
+1997 135 away China Tajikistan 0 1 World Cup qualifier
+1997 149 away China Vietnam 1 3 World Cup qualifier
+1997 156 home China Turkmenistan 1 0 World Cup qualifier
+1997 163 home China Tajikistan 0 0 World Cup qualifier
+1997 177 home China Vietnam 4 0 World Cup qualifier
+1997 251 home China Kazakhstan 3 0 Friendly
+1997 261 home China Iran 2 4 World Cup qualifier
+1997 274 away China Qatar 1 1 World Cup qualifier
+1997 282 home China SaudiArabia 1 0 World Cup qualifier
+1997 289 away China Kuwait 1 2 World Cup qualifier
+1997 296 away China Iran 4 1 World Cup qualifier
+1997 310 home China Qatar 2 3 World Cup qualifier
+1997 316 away China SaudiArabia 1 1 World Cup qualifier
+1997 322 home China Kuwait 1 0 World Cup qualifier
+1998 63 home China HongKong 1 0 Dynasty Cup
+1998 66 away China SouthKorea 2 1 Dynasty Cup
+1998 69 away China Japan 0 2 Dynasty Cup
+1998 159 away China SouthKorea 1 1 Friendly
+1998 182 away China Thailand 0 3 Friendly
+1998 323 home China SouthKorea 0 3 Friendly
+1998 332 home China SouthKorea 0 0 Friendly
+1998 340 home China Lebanon 4 1 Asian Games
+1998 343 home China Cambodia 4 1 Asian Games
+1998 349 home China Tajikistan 3 1 Asian Games
+1998 351 home China Oman 6 1 Asian Games
+1998 353 away China Iran 2 1 Asian Games
+1998 355 home China Turkmenistan 3 0 Asian Games
+1998 357 away China Iran 1 0 Asian Games
+1998 360 away China Thailand 0 3 Asian Games
+1999 76 home China Iran 1 0 Friendly
+2000 14 home China NewZealand 1 0 Friendly tournament
+2000 23 home China Philippines 8 0 Asian Cup qualifier
+2000 26 home China Guam 19 0 Asian Cup qualifier
+2000 29 away China Vietnam 0 2 Asian Cup qualifier
+2000 77 away China Japan 0 0 Friendly
+2000 90 away China Yugoslavia 1 0 Friendly
+2000 118 away China HongKong 0 1 Friendly
+2000 149 home China Yugoslavia 0 2 Friendly
+2000 214 home China SouthKorea 0 1 Friendly
+2000 249 home China Thailand 3 1 Friendly tournament
+2000 251 home China Iraq 4 1 Friendly tournament
+2000 283 away China SaudiArabia 2 0 Friendly
+2000 286 away China Jordan 1 1 Friendly
+2000 292 away China SouthKorea 2 2 Asian Cup
+2000 295 home China Indonesia 4 0 Asian Cup
+2000 298 home China Kuwait 0 0 Asian Cup
+2000 302 home China Qatar 3 1 Asian Cup
+2000 305 away China Japan 3 2 Asian Cup
+2000 308 away China SouthKorea 1 0 Asian Cup
+2001 17 home China Egypt 0 0 Civilizations Cup
+2001 19 away China Iran 4 0 Civilizations Cup
+2001 27 away China UnitedStates 2 1 Friendly
+2001 41 home China Qatar 1 1 King's Cup
+2001 43 home China Sweden 2 2 King's Cup
+2001 45 away China Thailand 1 5 King's Cup
+2001 48 away China Sweden 3 0 King's Cup
+2001 115 home China Maldives 10 1 World Cup qualifier
+2001 121 away China Maldives 0 1 World Cup qualifier
+2001 130 away China Cambodia 0 4 World Cup qualifier
+2001 137 home China Indonesia 5 1 World Cup qualifier
+2001 144 home China Cambodia 3 1 World Cup qualifier
+2001 151 away China Indonesia 0 2 World Cup qualifier
+2001 220 home China NorthKorea 2 2 Friendly tournament
+2001 222 home China TrinidadTobago 3 0 Friendly tournament
+2001 242 home China UnitedArab 3 0 World Cup qualifier
+2001 248 away China Oman 0 2 World Cup qualifier
+2001 255 away China Qatar 1 1 World Cup qualifier
+2001 263 home China Uzbekistan 2 0 World Cup qualifier
+2001 275 away China UnitedArab 0 1 World Cup qualifier
+2001 286 home China Oman 1 0 World Cup qualifier
+2001 292 home China Qatar 3 0 World Cup qualifier
+2001 298 away China Uzbekistan 1 0 World Cup qualifier
+2002 46 away China Slovenia 0 0 Carlsberg Cup
+2002 120 away China SouthKorea 0 0 Friendly
+2002 135 home China Thailand 3 1 Friendly
+2002 140 home China Uruguay 0 2 Friendly
+2002 149 away China Portugal 2 0 Friendly
+2002 159 away China CostaRica 2 0 World Cup
+2002 163 away China Brazil 4 0 World Cup
+2002 168 away China Turkey 3 0 World Cup
+2002 348 home China Syria 3 1 Friendly tournament
+2002 350 away China Jordan 0 0 Friendly tournament
+2002 353 away China Bahrain 2 2 Friendly tournament
+2003 43 home China Brazil 0 0 Friendly
+2003 47 home China Estonia 1 0 Friendly
+2003 237 home China Chile 0 0 Friendly
+2003 248 away China Haiti 4 3 Friendly
+2003 255 away China CostaRica 2 0 Friendly
+2003 345 away China Japan 2 0 East Asian Championship
+2003 348 away China SouthKorea 1 0 East Asian Championship
+2003 351 home China HongKong 3 1 East Asian Championship
+2004 27 home China Macedonia 0 0 Friendly
+2004 29 home China Macedonia 1 0 Friendly
+2004 34 home China Finland 2 1 Friendly
+2004 38 home China Finland 2 1 Friendly
+2004 49 home China Kuwait 1 0 World Cup qualifier
+2004 79 home China Myanmar 2 0 Friendly
+2004 93 away China HongKong 0 1 World Cup qualifier
+2004 107 away China Andorra 0 0 Friendly
+2004 121 home China Algeria 1 0 Friendly
+2004 156 home China Hungary 2 1 Friendly
+2004 164 home China Malaysia 4 0 World Cup qualifier
+2004 189 home China Lebanon 6 0 Friendly
+2004 196 home China UnitedArab 2 2 Friendly
+2004 203 home China Bahrain 2 2 Asian Cup
+2004 207 home China Indonesia 5 0 Asian Cup
+2004 211 home China Qatar 1 0 Asian Cup
+2004 216 home China Iraq 3 0 Asian Cup
+2004 220 home China Iran 1 1 Asian Cup
+2004 224 home China Japan 1 3 Asian Cup
+2004 256 away China Malaysia 0 1 World Cup qualifier
+2004 292 away China Kuwait 1 0 World Cup qualifier
+2004 327 home China HongKong 7 0 World Cup qualifier
+2005 88 away China Spain 3 0 Friendly
+2005 91 away China Ireland 1 0 Friendly
+2005 174 home China CostaRica 2 2 Friendly
+2005 177 home China CostaRica 2 0 Friendly
+2005 217 away China SouthKorea 1 1 East Asian Championship
+2005 220 home China Japan 2 2 East Asian Championship
+2005 224 home China NorthKorea 2 0 East Asian Championship
+2005 291 away China Germany 1 0 Friendly
+2005 323 home China Serbia and Montenegro 0 2 Friendly
+2006 43 home China Honduras 0 1 Friendly
+2006 53 home China Palestine 2 0 Asian Cup qualifier
+2006 63 away China Iraq 2 1 Asian Cup qualifier
+2006 158 away China Switzerland 4 1 Friendly
+2006 162 away China France 3 1 Friendly
+2006 233 home China Singapore 1 0 Asian Cup qualifier
+2006 254 away China Singapore 0 0 Asian Cup qualifier
+2006 290 home China Palestine 2 0 Asian Cup qualifier
+2006 325 home China Iraq 1 1 Asian Cup qualifier
+2007 38 home China Kazakhstan 2 1 Friendly
+2007 40 home China Kazakhstan 1 0 Friendly
+2007 86 home China Australia 0 2 Friendly
+2007 89 home China Uzbekistan 3 1 Friendly
+2007 140 away China Thailand 1 0 Friendly
+2007 157 away China UnitedStates 4 1 Friendly
+2007 196 away China Malaysia 1 5 Asian Cup
+2007 201 home China Iran 2 2 Asian Cup
+2007 204 away China Uzbekistan 3 0 Asian Cup
+2007 300 home China Myanmar 7 0 World Cup qualifier
+2007 307 away China Myanmar 0 4 World Cup qualifier
+2008 10 away China UnitedArab 0 0 Friendly
+2008 20 home China Lebanon 0 0 Friendly
+2008 27 home China Syria 2 1 Friendly
+2008 37 away China Iraq 1 1 World Cup qualifier
+2008 48 home China SouthKorea 2 3 East Asian Championship
+2008 51 home China Japan 0 1 East Asian Championship
+2008 54 home China NorthKorea 3 1 East Asian Championship
+2008 77 home China Thailand 3 3 Friendly
+2008 88 home China Australia 0 0 World Cup qualifier
+2008 109 away China Mexico 1 0 Friendly
+2008 116 home China ElSalvador 2 2 Friendly
+2008 149 home China Jordan 2 0 Friendly
+2008 157 away China Qatar 0 0 World Cup qualifier
+2008 162 home China Qatar 0 1 World Cup qualifier
+2008 169 home China Iraq 1 2 World Cup qualifier
+2008 177 away China Australia 0 1 World Cup qualifier
+2008 358 away China Oman 3 1 Friendly tournament
+2008 360 away China Iran 2 0 Friendly tournament
+2008 362 away China Jordan 0 1 Friendly
+2009 9 away China Iran 3 1 Friendly
+2009 14 away China Syria 3 2 Asian Cup qualifier
+2009 21 home China Vietnam 6 1 Asian Cup qualifier
+2009 153 home China Germany 1 1 Friendly
+2009 156 home China Iran 1 0 Friendly
+2009 159 home China SaudiArabia 1 4 Friendly
+2009 204 home China Palestine 3 1 Friendly
+2009 211 home China Kyrgyzstan 3 0 Friendly
+2009 229 away China Singapore 1 1 Friendly
+2009 232 away China Malaysia 0 0 Friendly
+2009 257 home China Senegal 0 0 Friendly
+2009 278 home China Botswana 4 1 Friendly
+2009 318 away China Kuwait 2 2 Friendly
+2009 324 away China Lebanon 0 2 Asian Cup qualifier
+2009 332 home China Lebanon 1 0 Asian Cup qualifier
+2009 371 home China Jordan 2 2 Friendly
+2010 6 home China Syria 0 0 Asian Cup qualifier
+2010 17 away China Vietnam 1 2 Asian Cup qualifier
+2010 37 away China Japan 0 0 East Asian Championship
+2010 41 home China SouthKorea 3 0 East Asian Championship
+2010 45 home China HongKong 2 0 East Asian Championship
+2010 65 away China Portugal 2 0 Friendly
+2010 159 home China France 1 0 Friendly
+2010 181 home China Tajikistan 4 0 Friendly
+2010 228 home China Bahrain 1 1 Friendly
+2010 251 home China Iran 0 2 Friendly
+2010 255 home China Paraguay 1 1 Friendly
+2010 287 home China Syria 2 1 Friendly
+2010 291 home China Uruguay 0 4 Friendly
+2010 327 home China Latvia 1 0 Friendly
+2010 359 home China Estonia 3 0 Friendly
+2010 363 home China Macedonia 1 0 Friendly
+2011 2 home China Iraq 3 2 Friendly
+2011 8 home China Kuwait 2 0 Asian Cup
+2011 12 away China Qatar 2 0 Asian Cup
+2011 16 home China Uzbekistan 2 2 Asian Cup
+2011 87 home China NewZealand 1 1 Friendly
+2011 88 away China CostaRica 2 2 Friendly
+2011 91 home China Honduras 3 0 Friendly
+2011 160 home China Uzbekistan 1 0 Friendly
+2011 163 home China NorthKorea 2 0 Friendly
+2011 209 home China Laos 7 2 World Cup qualifier
+2011 214 away China Laos 1 6 World Cup qualifier
+2011 227 home China Jamaica 1 0 Friendly
+2011 250 home China Singapore 2 1 World Cup qualifier
+2011 254 away China Jordan 2 1 World Cup qualifier
+2011 285 home China UnitedArab 2 1 Friendly
+2011 290 home China Iraq 0 1 World Cup qualifier
+2011 321 away China Iraq 1 0 World Cup qualifier
+2011 325 away China Singapore 0 4 World Cup qualifier
+2012 53 home China Kuwait 2 0 Friendly
+2012 60 home China Jordan 3 1 World Cup qualifier
+2012 158 away China Spain 1 0 Friendly
+2012 163 home China Vietnam 3 0 Friendly
+2012 232 home China Ghana 1 1 Friendly
+2012 254 away China Sweden 1 0 Friendly
+2012 258 away China Brazil 8 0 Friendly
+2012 324 home China NewZealand 1 1 Friendly
+2013 30 away China Oman 1 0 Friendly
+2013 37 away China SaudiArabia 2 1 Asian Cup qualifier
+2013 84 home China Iraq 1 0 Asian Cup qualifier
+2013 161 home China Uzbekistan 1 2 Friendly
+2013 166 home China Holland 0 2 Friendly
+2013 170 home China Thailand 1 5 Friendly
+2013 207 home China Japan 3 3 East Asian Championship
+2013 210 away China SouthKorea 0 0 East Asian Championship
+2013 214 home China Australia 4 3 East Asian Championship
+2013 254 home China Singapore 6 1 Friendly
+2013 258 home China Malaysia 2 0 Friendly
+2013 294 away China Indonesia 1 1 Asian Cup qualifier
+2013 325 home China Indonesia 1 0 Asian Cup qualifier
+2013 329 home China SaudiArabia 0 0 Asian Cup qualifier
+2014 67 away China Iraq 3 1 Asian Cup qualifier

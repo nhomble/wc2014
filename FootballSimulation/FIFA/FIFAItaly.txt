@@ -1,0 +1,225 @@
+Gianluigi Buffon Gianluigi Buffon 
+Juventus / Serie A 
+86	GK	90	78	66	80	46	90	1 	2 	 / 	 Right	2,000	925		
+Andrea Pirlo Andrea Pirlo 
+Juventus / Serie A 
+86	CM	58	76	91	82	67	52	2 	4 	 / 	 Right	3,500	1,964		
+Giorgio Chiellini Giorgio Chiellini 
+Juventus / Serie A 
+86	CB	77	54	66	58	86	82	2 	2 	 / 	 Left	1,900	1,829		
+ Antonio Di Natale Antonio Di Natale 
+Udinese / Serie A 	
+85	ST	86	86	80	87	45	60	4 	4 	 / 	 Right	2,000	1,956		
+Daniele De Rossi Daniele De Rossi 
+Roma / Serie A 
+84	CDM	69	75	81	78	83	84	2 	4 	 / 	 Right	1,500	2,101		
+Andrea Barzagli Andrea Barzagli 
+Juventus / Serie A 
+84	CB	69	40	61	59	86	80	2 	3 	 / 	 Right	950	1,696		
+Federico Marchetti Federico Marchetti 
+Lazio / Serie A 
+84	GK	87	80	66	89	55	82	1 	2 	 / 	 Left	900	1,007		
+Riccardo Montolivo Riccardo Montolivo 
+Milan / Serie A 
+84	CM	68	77	87	80	71	63	2 	4 	 / 	 Right	1,000	2,016		
+Salvatore Sirigu Salvatore Sirigu 
+Paris Saint-Germain / Ligue 1 
+84	GK	86	79	73	87	50	85	1 	2 	 / 	 Right	1,000	953		
+Claudio Marchisio Claudio Marchisio 
+Juventus / Serie A 
+84	CM	79	78	83	83	76	68	3 	4 	 / 	 Right	850	2,106		
+Mario Balotelli Mario Balotelli 
+Milan / Serie A 
+84	ST	84	82	67	85	48	75	3 	4 	 / 	 Right	2,200	1,890		
+Alessandro Diamanti Alessandro Diamanti 
+Bologna / Serie A 
+83	CAM	72	82	85	84	53	49	3 	3 	 / 	 Left	1,500	1,920		
+Francesco Totti Francesco Totti 
+Roma / Serie A 
+82	LW	51	85	88	84	47	52	2 	5 	 / 	 Right	700	1,845		
+Antonio Candreva Antonio Candreva 
+Lazio / Serie A 
+82	RM	84	77	82	84	66	60	3 	4 	 / 	 Right	800	2,023		
+Giuseppe Rossi Giuseppe Rossi 
+Fiorentina / Serie A 
+82	ST	83	83	73	84	42	59	3 	3 	 / 	 Left	850	1,905		
+Morgan De Sanctis Morgan De Sanctis 
+Roma / Serie A 
+81	GK	82	80	62	81	34	84	1 	2 	 / 	 Right	750	908		
+Antonio Cassano Antonio Cassano 
+Parma / Serie A 
+81	CF	54	80	88	87	45	60	3 	4 	 / 	 Right	800	1,837		
+Fabio Quagliarella Fabio Quagliarella 
+Juventus / Serie A 
+81	ST	75	84	68	75	44	70	3 	4 	 / 	 Right	750	1,806		
+Giuseppe Rossi Giuseppe Rossi 
+Fiorentina / Serie A 
+81	CF	80	82	70	82	42	59	3 	3 	 / 	 Left	800	1,818		
+Alessio Cerci Alessio Cerci 
+Torino / Serie A 
+81	RM	84	77	81	84	52	58	4 	4 	 / 	 Left	950	1,918		
+Stephan El Shaarawy Stephan El Shaarawy 
+Milan / Serie A 
+81	LW	87	80	73	85	50	57	4 	4 	 / 	 Right	1,300	1,893		
+Christian Abbiati Christian Abbiati 
+Milan / Serie A 
+80	GK	84	75	73	84	50	79	1 	2 	 / 	 Right	700	978		
+Maurizio Domizzi Maurizio Domizzi 
+Udinese / Serie A 
+80	CB	55	58	59	56	82	80	2 	3 	 / 	 Left	650	1,743		
+Alberto Aquilani Alberto Aquilani 
+Fiorentina / Serie A 
+80	CM	55	77	84	81	67	61	3 	4 	 / 	 Right	700	1,948		
+ Andrea Consigli Andrea Consigli 
+Atalanta / Serie A 	
+80	GK	82	76	68	86	45	78	1 	3 	 / 	 Right	700	901	
+Angelo Ogbonna Angelo Ogbonna 
+Juventus / Serie A 
+80	CB	77	43	69	59	82	79	2 	3 	 / 	 Left	850	1,708		
+Marco Di Vaio Marco Di Vaio 
+Montreal Impact / MLS 
+79	ST	80	76	67	77	50	72	3 	4 	 / 	 Right	700	1,827		
+Francesco Lodi Francesco Lodi 
+Genoa / Serie A 
+79	CM	55	74	86	76	69	60	3 	3 	 / 	 Left	800	1,947		
+Christian Maggio Christian Maggio 
+Napoli / Serie A 
+79	RM	83	74	81	75	77	82	3 	2 	 / 	 Right	800	2,063		
+Davide Astori Davide Astori 
+Cagliari / Serie A 
+79	CB	68	36	62	48	82	76	2 	3 	 / 	 Left	700	1,555		
+Andrea Ranocchia Andrea Ranocchia 
+Inter / Serie A 
+79	CB	59	39	53	49	82	77	2 	3 	 / 	 Right	700	1,514		
+Sebastian Giovinco Sebastian Giovinco 
+Juventus / Serie A 
+79	CF	91	76	76	86	36	45	3 	4 	 / 	 Right	800	1,837		
+Francesco Lodi Francesco Lodi 
+Catania / Serie A 
+79	CM	55	74	86	76	69	60	3 	3 	 / 	 Left	700	1,947		
+Simone Pepe Simone Pepe 
+Juventus / Serie A 
+78	RM	84	75	76	80	64	62	4 	4 	 / 	 Right	650	1,987		
+Graziano Pelle Graziano Pelle 
+Feyenoord / Eredivisie 
+78	ST	57	73	56	67	48	87	3 	4 	 / 	 Right	750	1,630		
+Ignazio Abate Ignazio Abate 
+Milan / Serie A 
+78	RB	93	62	73	74	73	74	2 	2 	 / 	 Right	800	1,952		
+Emiliano Viviano Emiliano Viviano 
+Arsenal / Barclays PL 
+78	GK	78	78	68	83	30	77	1 	2 	 / 	 Left	750	862		
+Luca Cigarini Luca Cigarini 
+Atalanta / Serie A 
+78	CM	67	68	85	76	66	50	3 	4 	 / 	 Right	650	1,901		
+Marco Sau Marco Sau 
+Cagliari / Serie A 
+77	ST	91	76	64	82	39	57	3 	4 	 / 	 Right	850	1,775		
+Alessandro Nesta Alessandro Nesta 
+Montreal Impact / MLS 
+76	CB	40	34	60	58	77	76	2 	3 	 / 	 Right	2,000	1,500		
+Alessandro Florenzi Alessandro Florenzi 
+Roma / Serie A 
+76	RW	80	72	75	76	69	69	2 	3 	 / 	 Right	700	2,021		
+Luca Toni Luca Toni 
+Hellas Verona / Serie A 
+74	ST	36	67	44	56	46	84	2 	4 	 / 	 Right	1,600	1,443		
+Antonio Floro Flores Antonio Floro Flores 
+Sassuolo / Serie A 
+74	ST	79	72	50	72	43	76	2 	3 	 / 	 Right	600	1,673		
+Federico Balzaretti Federico Balzaretti 
+Roma / Serie A 
+74	LB	78	56	73	71	73	64	2 	2 	 / 	 Left	2,300	1,843		
+Stefano Lucchini Stefano Lucchini 
+Atalanta / Serie A 
+74	CB	53	36	53	47	76	74	2 	3 	 / 	 Right	350	1,479		
+Daniele Portanova Daniele Portanova 
+Genoa / Serie A 
+74	CB	41	39	46	32	74	84	2 	2 	 / 	 Right	350	1,443		
+Franco Brienza Franco Brienza 
+Atalanta / Serie A 
+74	CF	74	73	75	82	43	40	3 	4 	 / 	 Left	300	1,753		
+Christian Puggioni Christian Puggioni 
+Chievo Verona / Serie A 
+74	GK	76	74	60	76	45	74	1 	2 	 / 	 Right	600	902		
+Andrea Coda Andrea Coda 
+Livorno / Serie A 
+74	CB	53	35	58	48	76	72	2 	3 	 / 	 Right	500	1,461		
+Daniele Galloppa Daniele Galloppa 
+Parma / Serie A 
+74	CM	68	66	81	72	64	61	3 	4 	 / 	 Left	350	1,844	
+Thiago Motta Thiago Motta 
+Paris Saint-Germain / Ligue 1 
+80	CDM	50	72	79	74	77	82	3 	4 	 / 	 Left	450	1,934		
+Cristian Ledesma Cristian Ledesma 
+Lazio / Serie A 
+80	CM	57	72	83	77	74	62	2 	4 	 / 	 Right	350	1,993		
+Giampaolo Pazzini Giampaolo Pazzini 
+Milan / Serie A 
+80	ST	73	75	61	70	46	84	2 	3 	 / 	 Right	350	1,784		
+Domenico Criscito Domenico Criscito 
+Zenit St. Petersburg / Russian League 
+80	LB	82	63	77	75	79	69	2 	3 	 / 	 Left	800	1,946		
+Pablo Daniel Osvaldo Pablo Daniel Osvaldo 
+Southampton / Barclays PL 
+80	ST	72	77	62	79	47	83	3 	3 	 / 	 Right	750	1,779		
+Emanuele Giaccherini Emanuele Giaccherini 
+Sunderland / Barclays PL 
+80	LM	80	68	78	83	64	55	3 	3 	 / 	 Right	500	1,987		
+Pablo Daniel Osvaldo Pablo Daniel Osvaldo 
+Juventus / Serie A 
+80	ST	72	77	62	79	47	83	3 	3 	 / 	 Right	400	1,779		
+Stefano Sorrentino Stefano Sorrentino 
+Palermo / Serie B 
+79	GK	81	79	70	81	59	79	1 	3 	 / 	 Right	350	1,000		
+Leonardo Bonucci Leonardo Bonucci 
+Juventus / Serie A 
+79	CB	72	50	68	64	77	84	2 	3 	 / 	 Right	450	1,787		
+Giacomo Bonaventura Giacomo Bonaventura 
+Atalanta / Serie A 
+79	LM	82	74	78	81	69	64	3 	3 	 / 	 Right	400	1,984		
+Paolo Cannavaro Paolo Cannavaro 
+Napoli / Serie A 
+78	CB	55	51	67	59	78	82	2 	3 	 / 	 Right	850	1,688		
+Andrea Cossu Andrea Cossu 
+Cagliari / Serie A 
+78	CAM	77	62	82	80	48	48	3 	4 	 / 	 Right	400	1,799		
+Marco Storari Marco Storari 
+Juventus / Serie A 
+78	GK	80	76	68	80	46	78	1 	2 	 / 	 Right	350	952		
+Salvatore Bocchetti Salvatore Bocchetti 
+Spartak Moskva / Russian League 
+78	CB	76	57	64	52	79	80	2 	2 	 / 	 Left	350	1,731		
+Paolo Cannavaro Paolo Cannavaro 
+Sassuolo / Serie A 
+78	CB	55	51	67	59	78	82	2 	3 	 / 	 Right	350	1,688		
+Nicola Legrottaglie Nicola Legrottaglie 
+Catania / Serie A 
+77	CB	53	35	62	52	78	81	2 	3 	 / 	 Right	400	1,514		
+Alessandro Gamberini Alessandro Gamberini 
+Genoa / Serie A 
+77	CB	75	43	52	52	80	78	2 	3 	 / 	 Right	400	1,640		
+Alberto Gilardino Alberto Gilardino 
+Genoa / Serie A 
+77	ST	69	68	56	71	46	83	2 	3 	 / 	 Right	350	1,666		
+Daniele Bonera Daniele Bonera 
+Milan / Serie A 
+77	CB	67	42	65	51	79	76	2 	3 	 / 	 Right	350	1,639		
+Antonio Mirante Antonio Mirante 
+Parma / Serie A 
+77	GK	80	79	67	81	44	74	1 	2 	 / 	 Right	400	919		
+Sergio Pellissier Sergio Pellissier 
+Chievo Verona / Serie A 
+77	ST	75	80	64	73	43	65	3 	4 	 / 	 Right	350	1,759		
+Antonio Nocerino Antonio Nocerino 
+Milan / Serie A 
+77	CM	78	75	76	74	78	72	2 	3 	 / 	 Right	750	2,047		
+Sergio Floccari Sergio Floccari 
+Lazio / Serie A 
+77	ST	75	71	60	79	44	80	3 	3 	 / 	 Right	450	1,720		
+Emanuele Giaccherini Emanuele Giaccherini 
+Sunderland / Barclays PL 
+77	CM	80	68	77	83	64	52	3 	3 	 / 	 Right	800	1,940		
+Marco Verratti Marco Verratti 
+Paris Saint-Germain / Ligue 1 
+77	CDM	68	62	79	81	72	60	3 	3 	 / 	 Right	350	1,934

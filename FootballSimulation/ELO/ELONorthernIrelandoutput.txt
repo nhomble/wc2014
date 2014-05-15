@@ -1,0 +1,479 @@
+1923 299 home NorthernIreland England 2 1 British International Championship
+1924 63 away NorthernIreland Scotland 2 0 British International Championship
+1924 77 home NorthernIreland Wales 0 1 British International Championship
+1924 301 away NorthernIreland England 3 1 British International Championship
+1925 59 home NorthernIreland Scotland 0 3 British International Championship
+1925 111 away NorthernIreland Wales 0 0 British International Championship
+1925 303 home NorthernIreland England 0 0 British International Championship
+1926 44 home NorthernIreland Wales 3 0 British International Championship
+1926 58 away NorthernIreland Scotland 4 0 British International Championship
+1926 299 away NorthernIreland England 3 3 British International Championship
+1927 57 home NorthernIreland Scotland 0 2 British International Championship
+1927 102 away NorthernIreland Wales 2 2 British International Championship
+1927 301 home NorthernIreland England 2 0 British International Championship
+1928 35 home NorthernIreland Wales 1 2 British International Championship
+1928 56 away NorthernIreland Scotland 0 1 British International Championship
+1928 301 away NorthernIreland England 2 1 British International Championship
+1929 33 away NorthernIreland Wales 2 2 British International Championship
+1929 54 home NorthernIreland Scotland 3 7 British International Championship
+1929 298 home NorthernIreland England 0 3 British International Championship
+1930 32 home NorthernIreland Wales 7 0 British International Championship
+1930 53 away NorthernIreland Scotland 3 1 British International Championship
+1930 299 away NorthernIreland England 5 1 British International Championship
+1931 52 home NorthernIreland Scotland 0 0 British International Championship
+1931 115 away NorthernIreland Wales 3 2 British International Championship
+1931 267 away NorthernIreland Scotland 3 1 British International Championship
+1931 296 home NorthernIreland England 2 6 British International Championship
+1931 346 home NorthernIreland Wales 4 0 British International Championship
+1932 265 home NorthernIreland Scotland 0 4 British International Championship
+1932 296 away NorthernIreland England 1 0 British International Championship
+1932 348 away NorthernIreland Wales 4 1 British International Championship
+1933 264 away NorthernIreland Scotland 1 2 British International Championship
+1933 293 home NorthernIreland England 0 3 British International Championship
+1933 314 home NorthernIreland Wales 1 1 British International Championship
+1934 299 home NorthernIreland Scotland 2 1 British International Championship
+1935 37 away NorthernIreland England 2 1 British International Championship
+1935 89 away NorthernIreland Wales 3 1 British International Championship
+1935 298 home NorthernIreland England 1 3 British International Championship
+1935 323 away NorthernIreland Scotland 2 1 British International Championship
+1936 73 home NorthernIreland Wales 3 2 British International Championship
+1936 310 home NorthernIreland Scotland 1 3 British International Championship
+1936 328 away NorthernIreland England 3 1 British International Championship
+1937 79 away NorthernIreland Wales 4 1 British International Championship
+1937 302 home NorthernIreland England 1 5 British International Championship
+1937 320 away NorthernIreland Scotland 1 1 British International Championship
+1938 78 home NorthernIreland Wales 1 0 British International Championship
+1938 287 home NorthernIreland Scotland 0 2 British International Championship
+1938 326 away NorthernIreland England 7 0 British International Championship
+1939 77 away NorthernIreland Wales 3 1 British International Championship
+1946 276 home NorthernIreland England 2 7 British International Championship
+1946 337 away NorthernIreland Scotland 0 0 British International Championship
+1947 109 home NorthernIreland Wales 2 1 British International Championship
+1947 283 home NorthernIreland Scotland 2 0 British International Championship
+1947 315 away NorthernIreland England 2 2 British International Championship
+1948 72 away NorthernIreland Wales 2 0 British International Championship
+1948 288 home NorthernIreland England 2 6 British International Championship
+1948 327 away NorthernIreland Scotland 3 2 British International Championship
+1949 71 home NorthernIreland Wales 0 2 British International Championship
+1949 280 home NorthernIreland Scotland 2 8 World Cup qualifier
+1949 326 away NorthernIreland England 9 2 World Cup qualifier
+1950 70 away NorthernIreland Wales 0 0 World Cup qualifier
+1950 286 home NorthernIreland England 1 4 British International Championship
+1950 311 away NorthernIreland Scotland 6 1 British International Championship
+1951 69 home NorthernIreland Wales 1 2 British International Championship
+1951 136 home NorthernIreland France 2 2 Friendly
+1951 285 home NorthernIreland Scotland 0 3 British International Championship
+1951 324 away NorthernIreland England 2 0 British International Championship
+1952 81 away NorthernIreland Wales 3 0 British International Championship
+1952 283 home NorthernIreland England 2 2 British International Championship
+1952 315 away NorthernIreland Scotland 1 1 British International Championship
+1952 321 away NorthernIreland France 3 1 Friendly
+1953 108 home NorthernIreland Wales 2 3 British International Championship
+1953 282 home NorthernIreland Scotland 1 3 World Cup qualifier
+1953 321 away NorthernIreland England 3 1 World Cup qualifier
+1954 93 away NorthernIreland Wales 1 2 World Cup qualifier
+1954 281 home NorthernIreland England 0 2 British International Championship
+1954 313 away NorthernIreland Scotland 2 2 British International Championship
+1955 113 home NorthernIreland Wales 2 3 British International Championship
+1955 287 home NorthernIreland Scotland 2 1 British International Championship
+1955 312 away NorthernIreland England 3 0 British International Championship
+1956 104 away NorthernIreland Wales 1 1 British International Championship
+1956 285 home NorthernIreland England 1 1 British International Championship
+1956 317 away NorthernIreland Scotland 1 0 British International Championship
+1957 16 away NorthernIreland Portugal 1 1 World Cup qualifier
+1957 103 home NorthernIreland Wales 0 0 British International Championship
+1957 118 away NorthernIreland Italy 1 0 World Cup qualifier
+1957 125 home NorthernIreland Portugal 3 0 World Cup qualifier
+1957 284 home NorthernIreland Scotland 1 1 British International Championship
+1957 316 away NorthernIreland England 2 3 British International Championship
+1957 345 home NorthernIreland Italy 2 2 Friendly
+1958 15 home NorthernIreland Italy 2 1 World Cup qualifier
+1958 109 away NorthernIreland Wales 1 1 British International Championship
+1958 163 home NorthernIreland Czechoslovakia 1 0 World Cup
+1958 166 away NorthernIreland Argentina 3 1 World Cup
+1958 170 home NorthernIreland Germany 2 2 World Cup
+1958 172 home NorthernIreland Czechoslovakia 2 1 World Cup
+1958 174 away NorthernIreland France 4 0 World Cup
+1958 283 home NorthernIreland England 3 3 British International Championship
+1958 294 away NorthernIreland Spain 6 2 Friendly
+1958 315 away NorthernIreland Scotland 2 2 British International Championship
+1959 115 home NorthernIreland Wales 4 1 British International Championship
+1959 282 home NorthernIreland Scotland 0 4 British International Championship
+1959 328 away NorthernIreland England 2 1 British International Championship
+1960 99 away NorthernIreland Wales 3 2 British International Championship
+1960 287 home NorthernIreland England 2 5 British International Championship
+1960 305 home NorthernIreland Germany 3 4 World Cup qualifier
+1960 319 away NorthernIreland Scotland 5 2 British International Championship
+1961 105 home NorthernIreland Wales 1 5 British International Championship
+1961 118 away NorthernIreland Italy 3 2 Friendly
+1961 127 away NorthernIreland Greece 2 1 World Cup qualifier
+1961 134 away NorthernIreland Germany 2 1 World Cup qualifier
+1961 286 home NorthernIreland Scotland 1 6 British International Championship
+1961 296 home NorthernIreland Greece 2 0 World Cup qualifier
+1961 332 away NorthernIreland England 1 1 British International Championship
+1962 104 away NorthernIreland Wales 4 0 British International Championship
+1962 133 away NorthernIreland Holland 4 0 Friendly
+1962 289 away NorthernIreland Poland 0 2 European Cup qualifier
+1962 299 home NorthernIreland England 1 3 British International Championship
+1962 317 away NorthernIreland Scotland 5 1 British International Championship
+1962 338 home NorthernIreland Poland 2 0 European Cup qualifier
+1963 96 home NorthernIreland Wales 1 4 British International Championship
+1963 154 away NorthernIreland Spain 1 1 European Cup qualifier
+1963 291 home NorthernIreland Scotland 2 1 British International Championship
+1963 309 home NorthernIreland Spain 0 1 European Cup qualifier
+1963 330 away NorthernIreland England 8 3 British International Championship
+1964 108 away NorthernIreland Wales 2 3 British International Championship
+1964 122 home NorthernIreland Uruguay 3 0 Friendly
+1964 282 home NorthernIreland England 3 4 British International Championship
+1964 293 home NorthernIreland Switzerland 1 0 World Cup qualifier
+1964 324 away NorthernIreland Switzerland 2 1 World Cup qualifier
+1964 335 away NorthernIreland Scotland 3 2 British International Championship
+1965 79 home NorthernIreland Holland 2 1 World Cup qualifier
+1965 93 home NorthernIreland Wales 0 5 British International Championship
+1965 100 away NorthernIreland Holland 0 0 World Cup qualifier
+1965 131 home NorthernIreland Albania 4 1 World Cup qualifier
+1965 281 home NorthernIreland Scotland 3 2 British International Championship
+1965 320 away NorthernIreland England 2 1 British International Championship
+1965 334 away NorthernIreland Albania 1 1 World Cup qualifier
+1966 92 away NorthernIreland Wales 1 4 British International Championship
+1966 131 home NorthernIreland Germany 0 2 Friendly
+1966 177 home NorthernIreland Mexico 4 1 Friendly
+1966 301 home NorthernIreland England 0 2 European Cup qualifier
+1966 326 away NorthernIreland Scotland 2 1 European Cup qualifier
+1967 105 home NorthernIreland Wales 0 0 European Cup qualifier
+1967 300 home NorthernIreland Scotland 1 0 European Cup qualifier
+1967 332 away NorthernIreland England 2 0 European Cup qualifier
+1968 59 away NorthernIreland Wales 2 0 European Cup qualifier
+1968 258 away NorthernIreland Israel 2 3 Friendly
+1968 302 home NorthernIreland Turkey 4 1 World Cup qualifier
+1968 352 away NorthernIreland Turkey 0 3 World Cup qualifier
+1969 127 home NorthernIreland England 1 3 British International Championship
+1969 130 away NorthernIreland Scotland 1 1 British International Championship
+1969 134 home NorthernIreland Wales 0 0 British International Championship
+1969 258 home NorthernIreland SovietUnion 0 0 World Cup qualifier
+1969 301 away NorthernIreland SovietUnion 2 0 World Cup qualifier
+1970 111 home NorthernIreland Scotland 0 1 British International Championship
+1970 114 away NorthernIreland England 3 1 British International Championship
+1970 118 away NorthernIreland Wales 1 0 British International Championship
+1970 321 away NorthernIreland Spain 3 0 European Cup qualifier
+1971 34 away NorthernIreland Cyprus 0 3 European Cup qualifier
+1971 114 home NorthernIreland Cyprus 5 0 European Cup qualifier
+1971 139 home NorthernIreland England 0 1 British International Championship
+1971 142 away NorthernIreland Scotland 0 1 British International Championship
+1971 146 home NorthernIreland Wales 1 0 British International Championship
+1971 270 away NorthernIreland SovietUnion 1 0 European Cup qualifier
+1971 292 home NorthernIreland SovietUnion 1 1 European Cup qualifier
+1972 47 home NorthernIreland Spain 1 1 European Cup qualifier
+1972 144 away NorthernIreland Scotland 2 0 British International Championship
+1972 147 away NorthernIreland England 0 1 British International Championship
+1972 151 away NorthernIreland Wales 0 0 British International Championship
+1972 297 away NorthernIreland Bulgaria 3 0 World Cup qualifier
+1973 45 away NorthernIreland Cyprus 1 0 World Cup qualifier
+1973 90 home NorthernIreland Portugal 1 1 World Cup qualifier
+1973 132 home NorthernIreland Cyprus 3 0 World Cup qualifier
+1973 136 away NorthernIreland England 2 1 British International Championship
+1973 140 away NorthernIreland Scotland 1 2 British International Championship
+1973 143 home NorthernIreland Wales 1 0 British International Championship
+1973 274 home NorthernIreland Bulgaria 0 0 World Cup qualifier
+1973 324 away NorthernIreland Portugal 1 1 World Cup qualifier
+1974 135 away NorthernIreland Scotland 0 1 British International Championship
+1974 139 away NorthernIreland England 1 0 British International Championship
+1974 142 away NorthernIreland Wales 1 0 British International Championship
+1974 252 away NorthernIreland Norway 2 1 European Cup qualifier
+1974 309 away NorthernIreland Sweden 0 2 European Cup qualifier
+1975 78 home NorthernIreland Yugoslavia 1 0 European Cup qualifier
+1975 141 home NorthernIreland England 0 0 British International Championship
+1975 144 away NorthernIreland Scotland 3 0 British International Championship
+1975 147 home NorthernIreland Wales 1 0 British International Championship
+1975 251 home NorthernIreland Sweden 1 2 European Cup qualifier
+1975 308 home NorthernIreland Norway 3 0 European Cup qualifier
+1975 329 away NorthernIreland Yugoslavia 1 0 European Cup qualifier
+1976 65 away NorthernIreland Israel 1 1 Friendly
+1976 132 away NorthernIreland Scotland 3 0 British International Championship
+1976 135 away NorthernIreland England 4 0 British International Championship
+1976 138 away NorthernIreland Wales 1 0 British International Championship
+1976 292 away NorthernIreland Holland 2 2 World Cup qualifier
+1976 320 away NorthernIreland Belgium 2 0 World Cup qualifier
+1977 120 away NorthernIreland Germany 5 0 Friendly
+1977 152 home NorthernIreland England 1 2 British International Championship
+1977 156 away NorthernIreland Scotland 3 0 British International Championship
+1977 158 home NorthernIreland Wales 1 1 British International Championship
+1977 166 away NorthernIreland Iceland 1 0 World Cup qualifier
+1977 269 home NorthernIreland Iceland 2 0 World Cup qualifier
+1977 291 home NorthernIreland Holland 0 1 World Cup qualifier
+1977 326 home NorthernIreland Belgium 3 0 World Cup qualifier
+1978 137 away NorthernIreland Scotland 1 1 British International Championship
+1978 140 away NorthernIreland England 1 0 British International Championship
+1978 143 away NorthernIreland Wales 1 0 British International Championship
+1978 268 away NorthernIreland Ireland 0 0 European Cup qualifier
+1978 304 home NorthernIreland Denmark 2 1 European Cup qualifier
+1978 339 away NorthernIreland Bulgaria 0 2 European Cup qualifier
+1979 38 away NorthernIreland England 4 0 European Cup qualifier
+1979 126 home NorthernIreland Bulgaria 2 0 European Cup qualifier
+1979 143 home NorthernIreland England 0 2 British International Championship
+1979 146 away NorthernIreland Scotland 1 0 British International Championship
+1979 150 home NorthernIreland Wales 1 1 British International Championship
+1979 161 away NorthernIreland Denmark 4 0 European Cup qualifier
+1979 296 home NorthernIreland England 1 5 European Cup qualifier
+1979 331 home NorthernIreland Ireland 1 0 European Cup qualifier
+1980 88 away NorthernIreland Israel 0 0 World Cup qualifier
+1980 140 home NorthernIreland Scotland 1 0 British International Championship
+1980 144 away NorthernIreland England 1 1 British International Championship
+1980 147 away NorthernIreland Wales 0 1 British International Championship
+1980 166 away NorthernIreland Australia 1 2 Friendly
+1980 170 away NorthernIreland Australia 1 1 Friendly
+1980 173 away NorthernIreland Australia 1 2 Friendly
+1980 294 home NorthernIreland Sweden 3 0 World Cup qualifier
+1980 329 away NorthernIreland Portugal 1 0 World Cup qualifier
+1981 87 away NorthernIreland Scotland 1 1 World Cup qualifier
+1981 122 home NorthernIreland Portugal 1 0 World Cup qualifier
+1981 143 away NorthernIreland Scotland 2 0 British International Championship
+1981 158 away NorthernIreland Sweden 1 0 World Cup qualifier
+1981 293 home NorthernIreland Scotland 0 0 World Cup qualifier
+1981 328 home NorthernIreland Israel 1 0 World Cup qualifier
+1982 54 away NorthernIreland England 4 0 British International Championship
+1982 86 away NorthernIreland France 4 0 Friendly
+1982 121 home NorthernIreland Scotland 1 1 British International Championship
+1982 151 away NorthernIreland Wales 3 0 British International Championship
+1982 172 home NorthernIreland Yugoslavia 0 0 World Cup
+1982 176 away NorthernIreland Honduras 1 1 World Cup
+1982 180 away NorthernIreland Spain 0 1 World Cup
+1982 187 away NorthernIreland Austria 2 2 World Cup
+1982 190 away NorthernIreland France 4 1 World Cup
+1982 292 away NorthernIreland Austria 2 0 European Cup qualifier
+1982 327 home NorthernIreland Germany 1 0 European Cup qualifier
+1982 356 away NorthernIreland Albania 0 0 European Cup qualifier
+1983 92 home NorthernIreland Turkey 2 1 European Cup qualifier
+1983 120 home NorthernIreland Albania 1 0 European Cup qualifier
+1983 148 away NorthernIreland Scotland 0 0 British International Championship
+1983 152 home NorthernIreland England 0 0 British International Championship
+1983 155 home NorthernIreland Wales 0 1 British International Championship
+1983 269 home NorthernIreland Austria 3 1 European Cup qualifier
+1983 291 away NorthernIreland Turkey 1 0 European Cup qualifier
+1983 326 away NorthernIreland Germany 0 1 European Cup qualifier
+1983 354 home NorthernIreland Scotland 2 0 British International Championship
+1984 97 away NorthernIreland England 1 0 British International Championship
+1984 146 away NorthernIreland Wales 1 1 British International Championship
+1984 151 away NorthernIreland Finland 1 0 World Cup qualifier
+1984 260 home NorthernIreland Romania 3 2 World Cup qualifier
+1984 295 home NorthernIreland Israel 3 0 Friendly
+1984 324 home NorthernIreland Finland 2 1 World Cup qualifier
+1985 58 home NorthernIreland England 0 1 World Cup qualifier
+1985 89 away NorthernIreland Spain 0 0 Friendly
+1985 125 home NorthernIreland Turkey 2 0 World Cup qualifier
+1985 259 away NorthernIreland Turkey 0 0 World Cup qualifier
+1985 295 away NorthernIreland Romania 0 1 World Cup qualifier
+1985 323 away NorthernIreland England 0 0 World Cup qualifier
+1986 57 away NorthernIreland France 0 0 Friendly
+1986 88 home NorthernIreland Denmark 1 1 Friendly
+1986 116 home NorthernIreland Morocco 2 1 Friendly
+1986 158 away NorthernIreland Algeria 1 1 World Cup
+1986 162 away NorthernIreland Spain 2 1 World Cup
+1986 167 away NorthernIreland Brazil 3 0 World Cup
+1986 294 away NorthernIreland England 3 0 European Cup qualifier
+1986 322 away NorthernIreland Turkey 0 0 European Cup qualifier
+1987 49 away NorthernIreland Israel 1 1 Friendly
+1987 94 home NorthernIreland England 0 2 European Cup qualifier
+1987 122 home NorthernIreland Yugoslavia 1 2 European Cup qualifier
+1987 293 away NorthernIreland Yugoslavia 3 0 European Cup qualifier
+1987 321 home NorthernIreland Turkey 1 0 European Cup qualifier
+1988 48 away NorthernIreland Greece 3 2 Friendly
+1988 85 home NorthernIreland Poland 1 1 Friendly
+1988 120 home NorthernIreland France 0 0 Friendly
+1988 145 home NorthernIreland Malta 3 0 World Cup qualifier
+1988 262 home NorthernIreland Ireland 0 0 World Cup qualifier
+1988 298 away NorthernIreland Hungary 1 0 World Cup qualifier
+1988 362 away NorthernIreland Spain 4 0 World Cup qualifier
+1989 39 home NorthernIreland Spain 0 2 World Cup qualifier
+1989 119 away NorthernIreland Malta 0 2 World Cup qualifier
+1989 150 home NorthernIreland Chile 0 1 Friendly
+1989 254 home NorthernIreland Hungary 1 2 World Cup qualifier
+1989 290 away NorthernIreland Ireland 3 0 World Cup qualifier
+1990 89 home NorthernIreland Norway 2 3 Friendly
+1990 142 home NorthernIreland Uruguay 1 0 Friendly
+1990 260 home NorthernIreland Yugoslavia 0 2 European Cup qualifier
+1990 296 home NorthernIreland Denmark 1 1 European Cup qualifier
+1990 324 away NorthernIreland Austria 0 0 European Cup qualifier
+1991 37 home NorthernIreland Poland 3 1 Friendly
+1991 89 away NorthernIreland Yugoslavia 4 1 European Cup qualifier
+1991 125 home NorthernIreland FaroeIslands 1 1 European Cup qualifier
+1991 259 away NorthernIreland FaroeIslands 0 5 European Cup qualifier
+1991 295 home NorthernIreland Austria 2 1 European Cup qualifier
+1991 323 away NorthernIreland Denmark 2 1 European Cup qualifier
+1992 50 away NorthernIreland Scotland 1 0 Friendly
+1992 121 home NorthernIreland Lithuania 2 2 World Cup qualifier
+1992 157 away NorthernIreland Germany 1 1 Friendly
+1992 257 home NorthernIreland Albania 3 0 World Cup qualifier
+1992 293 home NorthernIreland Spain 0 0 World Cup qualifier
+1992 328 home NorthernIreland Denmark 0 1 World Cup qualifier
+1993 48 away NorthernIreland Albania 1 2 World Cup qualifier
+1993 93 away NorthernIreland Ireland 3 0 World Cup qualifier
+1993 121 away NorthernIreland Spain 3 1 World Cup qualifier
+1993 149 away NorthernIreland Lithuania 0 1 World Cup qualifier
+1993 157 away NorthernIreland Latvia 1 2 World Cup qualifier
+1993 256 home NorthernIreland Latvia 2 0 World Cup qualifier
+1993 292 away NorthernIreland Denmark 1 0 World Cup qualifier
+1993 327 home NorthernIreland Ireland 1 1 World Cup qualifier
+1994 85 home NorthernIreland Romania 2 0 Friendly
+1994 113 home NorthernIreland Liechtenstein 4 1 European Cup qualifier
+1994 158 away NorthernIreland Colombia 2 0 Friendly
+1994 166 away NorthernIreland Mexico 3 0 Friendly
+1994 255 home NorthernIreland Portugal 1 2 European Cup qualifier
+1994 291 away NorthernIreland Austria 1 2 European Cup qualifier
+1994 326 home NorthernIreland Ireland 0 4 European Cup qualifier
+1995 91 away NorthernIreland Ireland 1 1 European Cup qualifier
+1995 119 away NorthernIreland Latvia 0 1 European Cup qualifier
+1995 146 away NorthernIreland Canada 2 0 Canada Cup
+1995 149 away NorthernIreland Chile 2 1 Canada Cup
+1995 162 home NorthernIreland Latvia 1 2 European Cup qualifier
+1995 251 away NorthernIreland Portugal 1 1 European Cup qualifier
+1995 290 away NorthernIreland Liechtenstein 0 4 European Cup qualifier
+1995 325 home NorthernIreland Austria 5 3 European Cup qualifier
+1996 89 home NorthernIreland Norway 0 2 Friendly
+1996 117 home NorthernIreland Sweden 1 2 Friendly
+1996 153 home NorthernIreland Germany 1 1 Friendly
+1996 248 home NorthernIreland Ukraine 0 1 World Cup qualifier
+1996 284 home NorthernIreland Armenia 1 1 World Cup qualifier
+1996 319 away NorthernIreland Germany 1 1 World Cup qualifier
+1996 355 home NorthernIreland Albania 2 0 World Cup qualifier
+1997 22 away NorthernIreland Italy 2 0 Friendly
+1997 42 home NorthernIreland Belgium 3 0 Friendly
+1997 91 home NorthernIreland Portugal 0 0 World Cup qualifier
+1997 95 away NorthernIreland Ukraine 2 1 World Cup qualifier
+1997 123 away NorthernIreland Armenia 0 0 World Cup qualifier
+1997 145 away NorthernIreland Thailand 0 0 Friendly
+1997 237 home NorthernIreland Germany 1 3 World Cup qualifier
+1997 258 away NorthernIreland Albania 1 0 World Cup qualifier
+1997 290 away NorthernIreland Portugal 1 0 World Cup qualifier
+1998 87 home NorthernIreland Slovakia 1 0 Friendly
+1998 115 home NorthernIreland Switzerland 1 0 Friendly
+1998 158 away NorthernIreland Spain 4 1 Friendly
+1998 253 away NorthernIreland Turkey 3 0 European Cup qualifier
+1998 289 home NorthernIreland Finland 1 0 European Cup qualifier
+1998 328 home NorthernIreland Moldova 2 2 European Cup qualifier
+1999 89 home NorthernIreland Germany 0 3 European Cup qualifier
+1999 93 away NorthernIreland Moldova 0 0 European Cup qualifier
+1999 120 home NorthernIreland Canada 1 1 Friendly
+1999 153 away NorthernIreland Ireland 0 1 Friendly
+1999 235 home NorthernIreland France 0 1 Friendly
+1999 252 home NorthernIreland Turkey 0 3 European Cup qualifier
+1999 256 away NorthernIreland Germany 4 0 European Cup qualifier
+1999 288 away NorthernIreland Finland 4 1 European Cup qualifier
+2000 54 away NorthernIreland Luxembourg 1 3 Friendly
+2000 90 away NorthernIreland Malta 0 3 Friendly
+2000 119 home NorthernIreland Hungary 0 1 Friendly
+2000 233 home NorthernIreland Yugoslavia 1 2 Friendly
+2000 250 home NorthernIreland Malta 1 0 World Cup qualifier
+2000 286 home NorthernIreland Denmark 1 1 World Cup qualifier
+2000 290 away NorthernIreland Iceland 1 0 World Cup qualifier
+2001 59 home NorthernIreland Norway 0 4 Friendly
+2001 86 home NorthernIreland Czechia 0 1 World Cup qualifier
+2001 90 away NorthernIreland Bulgaria 4 3 World Cup qualifier
+2001 157 home NorthernIreland Bulgaria 0 1 World Cup qualifier
+2001 161 away NorthernIreland Czechia 3 1 World Cup qualifier
+2001 249 away NorthernIreland Denmark 1 1 World Cup qualifier
+2001 253 home NorthernIreland Iceland 3 0 World Cup qualifier
+2001 285 away NorthernIreland Malta 0 1 World Cup qualifier
+2002 44 away NorthernIreland Poland 4 1 Friendly
+2002 89 away NorthernIreland Liechtenstein 0 0 Friendly
+2002 110 home NorthernIreland Spain 0 5 Friendly
+2002 238 home NorthernIreland Cyprus 0 0 Friendly
+2002 291 away NorthernIreland Spain 3 0 European Cup qualifier
+2002 295 home NorthernIreland Ukraine 0 0 European Cup qualifier
+2003 43 home NorthernIreland Finland 0 1 Friendly
+2003 91 away NorthernIreland Armenia 1 0 European Cup qualifier
+2003 95 home NorthernIreland Greece 0 2 European Cup qualifier
+2003 158 away NorthernIreland Italy 2 0 Friendly
+2003 166 home NorthernIreland Spain 0 0 European Cup qualifier
+2003 254 away NorthernIreland Ukraine 0 0 European Cup qualifier
+2003 258 home NorthernIreland Armenia 0 1 European Cup qualifier
+2003 290 away NorthernIreland Greece 1 0 European Cup qualifier
+2004 49 home NorthernIreland Norway 1 4 Friendly
+2004 93 away NorthernIreland Estonia 0 1 Friendly
+2004 121 home NorthernIreland Serbia and Montenegro 1 1 Friendly
+2004 154 away NorthernIreland Barbados 1 1 Friendly
+2004 157 away NorthernIreland SaintKitts 0 2 Friendly
+2004 161 away NorthernIreland TrinidadTobago 0 3 Friendly
+2004 235 away NorthernIreland Switzerland 0 0 Friendly
+2004 252 home NorthernIreland Poland 0 3 World Cup qualifier
+2004 256 away NorthernIreland Wales 2 2 World Cup qualifier
+2004 288 away NorthernIreland Azerbaijan 0 0 World Cup qualifier
+2004 292 home NorthernIreland Austria 3 3 World Cup qualifier
+2005 40 home NorthernIreland Canada 0 1 Friendly
+2005 88 away NorthernIreland England 4 0 World Cup qualifier
+2005 92 away NorthernIreland Poland 1 0 World Cup qualifier
+2005 159 home NorthernIreland Germany 1 4 Friendly
+2005 234 away NorthernIreland Malta 1 1 Friendly
+2005 251 home NorthernIreland Azerbaijan 2 0 World Cup qualifier
+2005 255 home NorthernIreland England 1 0 World Cup qualifier
+2005 287 home NorthernIreland Wales 2 3 World Cup qualifier
+2005 291 away NorthernIreland Austria 2 0 World Cup qualifier
+2005 325 home NorthernIreland Portugal 1 1 Friendly
+2006 63 home NorthernIreland Estonia 1 0 Friendly
+2006 145 away NorthernIreland Uruguay 1 0 Friendly
+2006 150 away NorthernIreland Romania 2 0 Friendly
+2006 233 away NorthernIreland Finland 1 2 Friendly
+2006 250 home NorthernIreland Iceland 0 3 European Cup qualifier
+2006 254 home NorthernIreland Spain 3 2 European Cup qualifier
+2006 286 away NorthernIreland Denmark 0 0 European Cup qualifier
+2006 290 home NorthernIreland Latvia 1 0 European Cup qualifier
+2007 37 home NorthernIreland Wales 0 0 Friendly
+2007 86 away NorthernIreland Liechtenstein 1 4 European Cup qualifier
+2007 90 home NorthernIreland Sweden 2 1 European Cup qualifier
+2007 239 home NorthernIreland Liechtenstein 3 1 European Cup qualifier
+2007 256 away NorthernIreland Latvia 1 0 European Cup qualifier
+2007 260 away NorthernIreland Iceland 2 1 European Cup qualifier
+2007 296 away NorthernIreland Sweden 1 1 European Cup qualifier
+2007 327 home NorthernIreland Denmark 2 1 European Cup qualifier
+2007 331 away NorthernIreland Spain 1 0 European Cup qualifier
+2008 37 home NorthernIreland Bulgaria 0 1 Friendly
+2008 88 home NorthernIreland Georgia 4 1 Friendly
+2008 237 away NorthernIreland Scotland 0 0 Friendly
+2008 254 away NorthernIreland Slovakia 2 1 World Cup qualifier
+2008 258 home NorthernIreland Czechia 0 0 World Cup qualifier
+2008 290 away NorthernIreland Slovenia 2 0 World Cup qualifier
+2008 294 home NorthernIreland SanMarino 4 0 World Cup qualifier
+2008 329 home NorthernIreland Hungary 0 2 Friendly
+2009 42 away NorthernIreland SanMarino 0 3 World Cup qualifier
+2009 90 home NorthernIreland Poland 3 2 World Cup qualifier
+2009 94 home NorthernIreland Slovenia 1 0 World Cup qualifier
+2009 161 away NorthernIreland Italy 3 0 Friendly
+2009 229 home NorthernIreland Israel 1 1 Friendly
+2009 253 away NorthernIreland Poland 1 1 World Cup qualifier
+2009 257 home NorthernIreland Slovakia 0 2 World Cup qualifier
+2009 293 away NorthernIreland Czechia 0 0 World Cup qualifier
+2009 324 home NorthernIreland Serbia 0 1 Friendly
+2010 65 away NorthernIreland Albania 1 0 Friendly
+2010 150 away NorthernIreland Turkey 2 0 Friendly
+2010 154 away NorthernIreland Chile 1 0 Friendly
+2010 228 away NorthernIreland Montenegro 2 0 Friendly
+2010 251 away NorthernIreland Slovenia 0 1 European Cup qualifier
+2010 287 home NorthernIreland Italy 0 0 European Cup qualifier
+2010 291 away NorthernIreland FaroeIslands 1 1 European Cup qualifier
+2010 327 home NorthernIreland Morocco 1 1 Friendly
+2011 40 away NorthernIreland Scotland 3 0 Friendly tournament
+2011 87 away NorthernIreland Serbia 2 1 European Cup qualifier
+2011 91 home NorthernIreland Slovenia 0 0 European Cup qualifier
+2011 148 away NorthernIreland Ireland 5 0 Friendly tournament
+2011 151 away NorthernIreland Wales 2 0 Friendly tournament
+2011 227 home NorthernIreland FaroeIslands 4 0 European Cup qualifier
+2011 250 home NorthernIreland Serbia 0 1 European Cup qualifier
+2011 254 away NorthernIreland Estonia 4 1 European Cup qualifier
+2011 286 home NorthernIreland Estonia 1 2 European Cup qualifier
+2011 290 away NorthernIreland Italy 3 0 European Cup qualifier
+2012 60 home NorthernIreland Norway 0 3 Friendly
+2012 157 away NorthernIreland Holland 6 0 Friendly
+2012 232 home NorthernIreland Finland 3 3 Friendly
+2012 255 away NorthernIreland Russia 2 0 World Cup qualifier
+2012 259 home NorthernIreland Luxembourg 1 1 World Cup qualifier
+2012 295 away NorthernIreland Portugal 1 1 World Cup qualifier
+2012 324 home NorthernIreland Azerbaijan 1 1 World Cup qualifier
+2013 37 away NorthernIreland Malta 0 0 Friendly
+2013 88 home NorthernIreland Israel 0 2 World Cup qualifier
+2013 231 home NorthernIreland Russia 1 0 World Cup qualifier
+2013 254 home NorthernIreland Portugal 2 4 World Cup qualifier
+2013 258 away NorthernIreland Luxembourg 3 2 World Cup qualifier
+2013 290 away NorthernIreland Azerbaijan 2 0 World Cup qualifier
+2013 294 away NorthernIreland Israel 1 1 World Cup qualifier
+2013 325 away NorthernIreland Turkey 1 0 Friendly
+2014 67 away NorthernIreland Cyprus 0 0 Friendly

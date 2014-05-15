@@ -1,0 +1,505 @@
+1957 298 away Iraq Morocco 3 3 Pan Arab Games
+1957 300 away Iraq Tunisia 4 2 Pan Arab Games
+1957 302 home Iraq Libya 3 1 Pan Arab Games
+1959 325 away Iraq Lebanon 0 3 Friendly
+1959 335 home Iraq Lebanon 8 0 Friendly
+1960 160 away Iraq Tunisia 2 1 Friendly
+1962 155 away Iraq Iran 1 1 Friendly
+1962 157 away Iraq Iran 1 2 Friendly
+1964 2 home Iraq Iran 0 0 Olympic Games qualifier
+1964 84 away Iraq Iran 4 0 Olympic Games qualifier
+1964 323 away Iraq Kuwait 0 1 Arab Nations Cup
+1964 326 home Iraq Jordan 3 1 Arab Nations Cup
+1964 328 home Iraq Lebanon 1 0 Arab Nations Cup
+1964 330 home Iraq Libya 1 1 Arab Nations Cup
+1965 1 away Iraq Iran 2 0 Friendly
+1965 249 home Iraq Palestine 1 1 Pan Arab Games
+1965 250 home Iraq SouthYemen 6 0 Pan Arab Games
+1965 251 away Iraq Lebanon 0 0 Pan Arab Games
+1965 256 away Iraq Egypt 1 0 Pan Arab Games
+1966 94 home Iraq Lebanon 0 0 Arab Nations Cup
+1966 96 home Iraq Jordan 2 1 Arab Nations Cup
+1966 97 home Iraq Kuwait 3 1 Arab Nations Cup
+1966 98 home Iraq Bahrain 10 1 Arab Nations Cup
+1966 101 home Iraq Libya 3 1 Arab Nations Cup
+1966 103 home Iraq Syria 2 1 Arab Nations Cup
+1967 72 home Iraq Sudan 2 2 Friendly tournament
+1967 74 away Iraq Libya 0 1 Friendly tournament
+1967 249 away Iraq Thailand 2 1 Olympic Games qualifier
+1967 253 home Iraq Indonesia 1 1 Olympic Games qualifier
+1967 255 away Iraq Thailand 0 4 Olympic Games qualifier
+1967 259 away Iraq Indonesia 2 1 Olympic Games qualifier
+1969 67 away Iraq SovietUnion 2 0 Friendship Cup
+1969 69 away Iraq Iran 2 1 Friendship Cup
+1969 72 away Iraq Pakistan 2 1 Friendship Cup
+1969 75 away Iraq Turkey 1 0 Friendship Cup
+1969 349 home Iraq EastGermany 1 1 Friendly
+1970 208 away Iraq Poland 2 0 Friendly
+1970 212 away Iraq EastGermany 5 0 Friendly
+1971 1 home Iraq Egypt 1 3 Palestine Cup
+1971 289 away Iraq Lebanon 1 0 Olympic Games qualifier
+1971 296 home Iraq Lebanon 1 0 Olympic Games qualifier
+1971 303 home Iraq Lebanon 2 1 Olympic Games qualifier
+1971 322 home Iraq NorthKorea 1 0 Olympic Games qualifier
+1971 329 away Iraq NorthKorea 3 0 Olympic Games qualifier
+1971 351 away Iraq Kuwait 1 1 Asian Cup qualifier
+1971 354 home Iraq Ceylon 5 0 Asian Cup qualifier
+1971 356 home Iraq Bahrain 1 0 Asian Cup qualifier
+1971 359 home Iraq Jordan 2 0 Asian Cup qualifier
+1971 363 home Iraq Lebanon 4 1 Asian Cup qualifier
+1971 365 away Iraq Kuwait 0 1 Asian Cup qualifier
+1972 3 home Iraq Egypt 0 0 Friendly
+1972 12 home Iraq Algeria 3 1 Friendly
+1972 131 home Iraq SouthKorea 0 0 Asian Cup
+1972 133 away Iraq Iran 3 0 Asian Cup
+1972 135 away Iraq Thailand 1 1 Asian Cup
+1973 73 away Iraq Australia 3 1 World Cup qualifier
+1973 75 home Iraq NewZealand 2 0 World Cup qualifier
+1973 78 away Iraq Indonesia 1 1 World Cup qualifier
+1973 80 away Iraq Australia 0 0 World Cup qualifier
+1973 83 home Iraq Indonesia 3 2 World Cup qualifier
+1973 86 home Iraq NewZealand 4 0 World Cup qualifier
+1973 232 away Iraq Algeria 0 0 Palestine Cup
+1973 235 away Iraq Libya 0 0 Palestine Cup
+1973 237 home Iraq UnitedArab 3 1 Palestine Cup
+1973 240 away Iraq Tunisia 2 0 Palestine Cup
+1973 242 away Iraq Algeria 0 0 Palestine Cup
+1974 251 home Iraq India 3 0 Asian Games
+1974 253 home Iraq Taiwan 1 0 Asian Games
+1974 255 home Iraq NorthKorea 1 0 Asian Games
+1974 258 home Iraq SouthKorea 1 1 Asian Games
+1974 259 home Iraq Malaysia 0 0 Asian Games
+1974 261 away Iraq Iran 1 0 Asian Games
+1975 95 home Iraq Qatar 1 0 Asian Cup qualifier
+1975 97 home Iraq Afghanistan 4 0 Asian Cup qualifier
+1975 99 home Iraq SaudiArabia 1 1 Asian Cup qualifier
+1975 103 home Iraq Qatar 3 0 Asian Cup qualifier
+1975 105 home Iraq SaudiArabia 2 1 Asian Cup qualifier
+1975 107 home Iraq Afghanistan 3 1 Asian Cup qualifier
+1975 237 home Iraq Kuwait 2 1 Olympic Games qualifier
+1975 239 away Iraq SaudiArabia 2 0 Olympic Games qualifier
+1975 243 away Iraq Iran 1 1 Olympic Games qualifier
+1975 245 home Iraq Bahrain 4 0 Olympic Games qualifier
+1975 362 home Iraq UnitedArab 5 0 Palestine Cup
+1975 369 away Iraq Egypt 1 0 Palestine Cup
+1976 39 home Iraq Turkey 0 0 Friendly
+1976 89 home Iraq Oman 4 0 Gulf Cup
+1976 91 home Iraq Bahrain 4 1 Gulf Cup
+1976 94 home Iraq SaudiArabia 7 1 Gulf Cup
+1976 96 away Iraq Qatar 0 0 Gulf Cup
+1976 99 home Iraq UnitedArab 4 0 Gulf Cup
+1976 101 home Iraq Kuwait 2 2 Gulf Cup
+1976 108 away Iraq Kuwait 4 2 Gulf Cup
+1976 160 home Iraq SouthYemen 1 0 Asian Cup
+1976 162 away Iraq Iran 2 0 Asian Cup
+1976 165 away Iraq Kuwait 3 2 Asian Cup
+1976 167 away Iraq China 1 0 Asian Cup
+1977 203 home Iraq Thailand 5 0 Merdeka Tournament
+1977 204 home Iraq Burma 3 0 Merdeka Tournament
+1977 207 home Iraq Libya 0 0 Merdeka Tournament
+1977 208 away Iraq Malaysia 0 0 Merdeka Tournament
+1977 211 home Iraq SouthKorea 1 1 Merdeka Tournament
+1977 213 home Iraq Indonesia 2 0 Merdeka Tournament
+1977 217 away Iraq SouthKorea 1 0 Merdeka Tournament
+1978 52 home Iraq Algeria 3 0 Friendly
+1978 54 home Iraq Algeria 1 0 Friendly
+1978 188 away Iraq Algeria 1 1 Friendly
+1978 190 away Iraq Algeria 0 0 Friendly
+1978 198 home Iraq Singapore 3 0 Merdeka Tournament
+1978 200 home Iraq Japan 0 0 Merdeka Tournament
+1978 203 away Iraq Malaysia 1 2 Merdeka Tournament
+1978 205 away Iraq SouthKorea 2 0 Merdeka Tournament
+1978 207 home Iraq Thailand 1 0 Merdeka Tournament
+1978 210 home Iraq Syria 2 1 Merdeka Tournament
+1978 212 home Iraq Indonesia 4 0 Merdeka Tournament
+1978 215 away Iraq SouthKorea 2 0 Merdeka Tournament
+1978 350 home Iraq SaudiArabia 1 1 Asian Games
+1978 352 home Iraq Qatar 2 1 Asian Games
+1978 354 home Iraq China 2 0 Asian Games
+1978 357 away Iraq NorthKorea 1 0 Asian Games
+1978 359 home Iraq Kuwait 3 0 Asian Games
+1978 361 home Iraq India 3 0 Asian Games
+1978 363 away Iraq China 1 0 Asian Games
+1979 36 home Iraq Finland 1 0 Friendly
+1979 38 home Iraq Finland 2 0 Friendly
+1979 40 home Iraq EastGermany 1 1 Friendly
+1979 43 home Iraq EastGermany 2 1 Friendly
+1979 85 home Iraq Bahrain 4 0 Gulf Cup
+1979 88 home Iraq Qatar 2 0 Gulf Cup
+1979 91 home Iraq Kuwait 3 1 Gulf Cup
+1979 96 home Iraq UnitedArab 5 0 Gulf Cup
+1979 98 home Iraq Oman 7 0 Gulf Cup
+1979 101 home Iraq SaudiArabia 2 0 Gulf Cup
+1980 58 home Iraq Poland 1 1 Friendly
+1980 177 away Iraq Poland 3 0 Friendly
+1981 70 away Iraq Morocco 1 1 Friendly
+1981 80 home Iraq Qatar 1 0 World Cup qualifier
+1981 83 away Iraq SaudiArabia 1 0 World Cup qualifier
+1981 87 home Iraq Bahrain 2 0 World Cup qualifier
+1981 92 home Iraq Syria 2 1 World Cup qualifier
+1981 247 home Iraq SouthKorea 1 1 Merdeka Tournament
+1981 254 home Iraq Thailand 7 1 Merdeka Tournament
+1981 261 home Iraq Singapore 4 0 Merdeka Tournament
+1981 265 home Iraq Japan 2 0 Merdeka Tournament
+1982 64 home Iraq EastGermany 0 0 Friendly
+1982 69 home Iraq SouthKorea 3 0 Friendly
+1982 72 home Iraq SouthKorea 1 1 Friendly
+1982 82 home Iraq Oman 4 0 Gulf Cup
+1982 86 home Iraq SaudiArabia 1 1 Gulf Cup
+1982 88 home Iraq Qatar 2 1 Gulf Cup
+1982 92 away Iraq UnitedArab 0 1 Gulf Cup
+1982 330 away Iraq Kuwait 2 1 Asian Games
+1982 334 home Iraq Nepal 3 0 Asian Games
+1982 336 home Iraq Burma 4 0 Asian Games
+1982 338 home Iraq Japan 1 0 Asian Games
+1982 342 home Iraq SaudiArabia 1 0 Asian Games
+1982 345 home Iraq Kuwait 1 0 Asian Games
+1984 58 away Iraq Egypt 1 2 Friendly
+1984 60 away Iraq Egypt 0 0 Friendly
+1984 73 away Iraq Oman 1 2 Gulf Cup
+1984 77 home Iraq UnitedArab 0 0 Gulf Cup
+1984 79 home Iraq SaudiArabia 4 0 Gulf Cup
+1984 82 home Iraq Bahrain 1 0 Gulf Cup
+1984 84 home Iraq Kuwait 3 1 Gulf Cup
+1984 87 away Iraq Qatar 2 1 Gulf Cup
+1984 90 home Iraq Qatar 1 1 Gulf Cup
+1985 77 home Iraq Lebanon 6 0 World Cup qualifier
+1985 80 home Iraq Lebanon 6 0 World Cup qualifier
+1985 91 away Iraq Jordan 2 3 World Cup qualifier
+1985 98 away Iraq Qatar 3 0 World Cup qualifier
+1985 112 home Iraq Jordan 2 0 World Cup qualifier
+1985 129 home Iraq Qatar 2 1 World Cup qualifier
+1985 164 home Iraq Canada 6 1 Presidents Cup
+1985 170 away Iraq SouthKorea 2 0 Presidents Cup
+1985 190 away Iraq Bahrain 1 1 Arab Nations Cup
+1985 194 home Iraq Mauritania 2 0 Arab Nations Cup
+1985 196 away Iraq SaudiArabia 2 3 Arab Nations Cup
+1985 198 home Iraq Bahrain 1 0 Arab Nations Cup
+1985 223 home Iraq Libya 2 0 Pan Arab Games
+1985 229 home Iraq Syria 2 0 Pan Arab Games
+1985 231 home Iraq SaudiArabia 2 1 Pan Arab Games
+1985 233 away Iraq Morocco 0 1 Pan Arab Games
+1985 268 away Iraq UnitedArab 2 3 World Cup qualifier
+1985 275 away Iraq UnitedArab 2 1 World Cup qualifier
+1985 325 away Iraq Syria 0 0 World Cup qualifier
+1985 339 home Iraq Syria 3 1 World Cup qualifier
+1986 76 home Iraq Romania 1 1 Friendly
+1986 79 home Iraq Romania 0 0 Friendly
+1986 84 away Iraq Bahrain 0 0 Gulf Cup
+1986 86 home Iraq UnitedArab 2 2 Gulf Cup
+1986 89 home Iraq Qatar 1 1 Gulf Cup
+1986 92 away Iraq SaudiArabia 2 1 Gulf Cup
+1986 96 away Iraq Kuwait 2 1 Gulf Cup
+1986 99 home Iraq Oman 3 2 Gulf Cup
+1986 159 away Iraq Paraguay 1 0 World Cup
+1986 163 away Iraq Belgium 2 1 World Cup
+1986 166 away Iraq Mexico 1 0 World Cup
+1986 269 home Iraq Oman 4 0 Asian Games
+1986 271 home Iraq Pakistan 5 1 Asian Games
+1986 273 away Iraq UnitedArab 2 1 Asian Games
+1986 275 home Iraq Thailand 2 1 Asian Games
+1986 280 home Iraq SaudiArabia 1 1 Asian Games
+1987 52 away Iraq Kuwait 2 0 Friendly
+1988 56 away Iraq Tunisia 0 2 Friendly
+1988 66 home Iraq Oman 1 1 Gulf Cup
+1988 70 home Iraq Kuwait 1 0 Gulf Cup
+1988 72 home Iraq UnitedArab 0 0 Gulf Cup
+1988 75 home Iraq Qatar 3 0 Gulf Cup
+1988 78 away Iraq SaudiArabia 0 2 Gulf Cup
+1988 80 home Iraq Bahrain 1 0 Gulf Cup
+1988 195 home Iraq Tunisia 1 1 Arab Nations Cup
+1988 197 home Iraq Lebanon 0 0 Arab Nations Cup
+1988 201 home Iraq SaudiArabia 1 0 Arab Nations Cup
+1988 203 away Iraq Egypt 0 0 Arab Nations Cup
+1988 205 away Iraq Jordan 0 3 Arab Nations Cup
+1988 207 home Iraq Syria 1 1 Arab Nations Cup
+1989 6 away Iraq Oman 1 1 World Cup qualifier
+1989 13 away Iraq Jordan 0 1 World Cup qualifier
+1989 20 away Iraq Qatar 1 0 World Cup qualifier
+1989 27 home Iraq Oman 3 1 World Cup qualifier
+1989 34 home Iraq Jordan 4 0 World Cup qualifier
+1989 41 home Iraq Qatar 2 2 World Cup qualifier
+1989 294 home Iraq Kuwait 1 0 Friendly
+1989 310 away Iraq Guinea 1 0 Friendly tournament
+1989 313 home Iraq SouthYemen 6 2 Friendly tournament
+1989 315 away Iraq Iran 0 0 Friendly tournament
+1989 318 away Iraq Kuwait 1 2 Friendly tournament
+1989 322 home Iraq Uganda 1 1 Friendly tournament
+1990 29 home Iraq Denmark 1 1 Friendly
+1990 32 home Iraq Denmark 1 0 Friendly
+1990 46 home Iraq SouthKorea 0 0 Friendly
+1990 57 home Iraq Bahrain 1 0 Gulf Cup
+1990 59 away Iraq Kuwait 1 1 Gulf Cup
+1990 65 home Iraq UnitedArab 2 2 Gulf Cup
+1990 156 away Iraq Jordan 0 2 Friendly
+1993 118 away Iraq SouthKorea 1 1 Friendly
+1993 121 away Iraq SouthKorea 2 2 Friendly
+1993 148 away Iraq Jordan 1 1 World Cup qualifier
+1993 150 home Iraq Yemen 6 1 World Cup qualifier
+1993 152 home Iraq Pakistan 8 0 World Cup qualifier
+1993 154 home Iraq China 1 0 World Cup qualifier
+1993 169 home Iraq Jordan 4 0 World Cup qualifier
+1993 171 home Iraq Yemen 3 0 World Cup qualifier
+1993 173 home Iraq Pakistan 4 0 World Cup qualifier
+1993 175 away Iraq China 2 1 World Cup qualifier
+1993 294 away Iraq NorthKorea 3 2 World Cup qualifier
+1993 298 home Iraq SouthKorea 2 2 World Cup qualifier
+1993 301 away Iraq Iran 1 2 World Cup qualifier
+1993 303 home Iraq SaudiArabia 1 1 World Cup qualifier
+1993 307 home Iraq Japan 2 2 World Cup qualifier
+1995 74 away Iraq India 1 1 Nehru Gold Cup
+1995 76 home Iraq Thailand 3 1 Nehru Gold Cup
+1996 228 home Iraq Pakistan 3 0 Asian Cup qualifier
+1996 230 away Iraq Jordan 0 1 Asian Cup qualifier
+1996 334 home Iraq Indonesia 4 0 Friendly
+1996 346 home Iraq Iran 2 1 Asian Cup
+1996 349 away Iraq SaudiArabia 1 0 Asian Cup
+1996 352 home Iraq Thailand 4 1 Asian Cup
+1996 356 away Iraq UnitedArab 1 0 Asian Cup
+1997 47 home Iraq Jordan 1 0 Friendly
+1997 92 home Iraq China 2 0 Nehru Gold Cup
+1997 95 home Iraq Uzbekistan 6 1 Nehru Gold Cup
+1997 99 away Iraq India 0 1 Nehru Gold Cup
+1997 103 away Iraq India 1 1 Nehru Gold Cup
+1997 105 home Iraq Uzbekistan 3 1 Nehru Gold Cup
+1997 147 away Iraq Pakistan 2 6 World Cup qualifier
+1997 161 home Iraq Kazakhstan 1 2 World Cup qualifier
+1997 175 home Iraq Pakistan 6 1 World Cup qualifier
+1997 184 away Iraq Kazakhstan 3 1 World Cup qualifier
+1997 238 away Iraq Lebanon 0 2 Friendly
+1998 328 away Iraq Lebanon 0 2 Friendly
+1999 183 away Iraq Jordan 0 1 Friendly
+1999 185 away Iraq Jordan 1 1 Friendly
+1999 220 away Iraq Tajikistan 1 2 Asian Cup qualifier
+1999 222 home Iraq Oman 2 0 Asian Cup qualifier
+1999 224 home Iraq Kyrgyzstan 5 1 Asian Cup qualifier
+1999 238 away Iraq Libya 2 0 Pan Arab Games
+1999 240 home Iraq Oman 3 0 Pan Arab Games
+1999 242 away Iraq Jordan 2 1 Pan Arab Games
+1999 244 home Iraq Lebanon 4 0 Pan Arab Games
+1999 246 home Iraq Libya 3 1 Pan Arab Games
+1999 248 away Iraq Jordan 4 4 Pan Arab Games
+1999 309 away Iraq Estonia 1 1 Friendly tournament
+1999 311 home Iraq Turkmenistan 3 0 Friendly tournament
+1999 313 away Iraq UnitedArab 2 2 Friendly tournament
+2000 147 home Iraq Lebanon 2 1 West Asian Championship
+2000 149 away Iraq Jordan 0 0 West Asian Championship
+2000 151 home Iraq Kyrgyzstan 4 0 West Asian Championship
+2000 155 away Iraq Syria 0 0 West Asian Championship
+2000 157 away Iraq Jordan 1 4 West Asian Championship
+2000 249 home Iraq Uzbekistan 2 0 Friendly tournament
+2000 251 away Iraq China 4 1 Friendly tournament
+2000 291 home Iraq Thailand 2 0 Asian Cup
+2000 294 away Iraq Lebanon 2 2 Asian Cup
+2000 297 away Iraq Iran 1 0 Asian Cup
+2000 303 away Iraq Japan 4 1 Asian Cup
+2001 31 away Iraq Lebanon 0 0 Friendly
+2001 105 home Iraq Macao 8 0 World Cup qualifier
+2001 107 home Iraq Nepal 9 1 World Cup qualifier
+2001 109 home Iraq Kazakhstan 1 1 World Cup qualifier
+2001 114 home Iraq Macao 5 0 World Cup qualifier
+2001 116 home Iraq Nepal 4 2 World Cup qualifier
+2001 118 away Iraq Kazakhstan 1 1 World Cup qualifier
+2001 215 away Iraq Oman 1 0 Friendly
+2001 219 away Iraq UnitedArab 2 2 Friendly
+2001 234 home Iraq Thailand 4 0 World Cup qualifier
+2001 240 away Iraq Bahrain 2 0 World Cup qualifier
+2001 248 away Iraq SaudiArabia 1 0 World Cup qualifier
+2001 255 home Iraq Iran 1 2 World Cup qualifier
+2001 262 away Iraq Qatar 0 0 Friendly
+2001 270 away Iraq Thailand 1 1 World Cup qualifier
+2001 276 home Iraq Bahrain 1 0 World Cup qualifier
+2001 284 away Iraq SaudiArabia 2 1 World Cup qualifier
+2001 291 away Iraq Iran 2 1 World Cup qualifier
+2002 11 home Iraq Oman 2 0 Friendly
+2002 13 away Iraq Qatar 1 3 Friendly
+2002 205 home Iraq Syria 2 0 Friendly
+2002 208 home Iraq Syria 2 1 Friendly
+2002 249 home Iraq Palestine 2 0 West Asian Championship
+2002 251 away Iraq Syria 0 1 West Asian Championship
+2002 253 home Iraq Iran 0 0 West Asian Championship
+2002 255 home Iraq Jordan 3 2 West Asian Championship
+2002 330 away Iraq Qatar 2 1 Friendly
+2002 333 away Iraq Bahrain 2 2 Friendly
+2003 230 away Iraq Iran 0 1 Friendly tournament
+2003 232 away Iraq Uruguay 5 2 Friendly tournament
+2003 243 away Iraq Jordan 2 1 Friendly
+2003 287 home Iraq Bahrain 5 1 Asian Cup qualifier
+2003 289 away Iraq Malaysia 0 0 Asian Cup qualifier
+2003 291 home Iraq Myanmar 3 0 Asian Cup qualifier
+2003 299 home Iraq Malaysia 5 1 Asian Cup qualifier
+2003 301 home Iraq Myanmar 3 1 Asian Cup qualifier
+2003 303 away Iraq Bahrain 1 0 Asian Cup qualifier
+2003 353 away Iraq Bahrain 2 2 Friendly tournament
+2003 356 home Iraq Kenya 2 0 Friendly tournament
+2003 359 away Iraq Egypt 2 0 Friendly tournament
+2003 362 away Iraq Qatar 0 0 Friendly
+2004 43 away Iraq Japan 2 0 Friendly
+2004 49 away Iraq Uzbekistan 1 1 World Cup qualifier
+2004 93 away Iraq Palestine 1 1 World Cup qualifier
+2004 147 away Iraq TrinidadTobago 2 0 Friendly
+2004 164 home Iraq Taiwan 6 1 World Cup qualifier
+2004 174 home Iraq Palestine 2 1 West Asian Championship
+2004 176 away Iraq Jordan 2 0 West Asian Championship
+2004 178 away Iraq Iran 2 1 West Asian Championship
+2004 180 away Iraq Jordan 3 1 West Asian Championship
+2004 204 away Iraq Uzbekistan 1 0 Asian Cup
+2004 208 home Iraq Turkmenistan 3 2 Asian Cup
+2004 212 home Iraq SaudiArabia 2 1 Asian Cup
+2004 216 away Iraq China 3 0 Asian Cup
+2004 256 away Iraq Taiwan 1 4 World Cup qualifier
+2004 286 away Iraq Oman 1 0 Friendly
+2004 292 away Iraq Uzbekistan 2 1 World Cup qualifier
+2004 326 home Iraq Palestine 4 1 World Cup qualifier
+2004 344 home Iraq Yemen 3 1 Friendly
+2004 351 away Iraq Oman 3 1 Gulf Cup
+2004 354 away Iraq Qatar 3 3 Gulf Cup
+2004 357 home Iraq UnitedArab 1 1 Gulf Cup
+2005 88 away Iraq Australia 2 1 Friendly
+2005 163 away Iraq Jordan 0 1 Friendly
+2005 224 away Iraq Bahrain 2 2 Friendly
+2005 230 away Iraq Cyprus 2 1 Friendly
+2005 290 away Iraq Qatar 0 0 Friendly
+2005 336 away Iraq Kuwait 0 0 Friendly
+2005 342 home Iraq Palestine 4 0 West Asian Games
+2005 351 away Iraq Syria 2 2 West Asian Games
+2006 44 away Iraq Oman 1 0 Friendly
+2006 47 away Iraq Thailand 4 3 Friendly
+2006 53 away Iraq Singapore 2 0 Asian Cup qualifier
+2006 63 home Iraq China 2 1 Asian Cup qualifier
+2006 77 away Iraq SaudiArabia 2 2 Friendly
+2006 201 away Iraq Syria 1 3 Friendly
+2006 207 away Iraq Jordan 2 1 Friendly
+2006 211 away Iraq Syria 1 2 Friendly
+2006 226 away Iraq Jordan 0 1 Friendly
+2006 234 home Iraq Palestine 3 0 Asian Cup qualifier
+2006 254 home Iraq Palestine 2 2 Asian Cup qualifier
+2006 283 away Iraq Iran 2 0 Friendly tournament
+2006 290 home Iraq Singapore 4 2 Asian Cup qualifier
+2006 325 away Iraq China 1 1 Asian Cup qualifier
+2007 18 home Iraq Qatar 1 0 Gulf Cup
+2007 21 away Iraq Bahrain 1 1 Gulf Cup
+2007 24 away Iraq SaudiArabia 1 0 Gulf Cup
+2007 163 away Iraq Jordan 1 1 Friendly
+2007 167 away Iraq Jordan 0 0 Friendly
+2007 171 away Iraq Iran 0 0 West Asian Championship
+2007 173 home Iraq Palestine 1 0 West Asian Championship
+2007 177 home Iraq Syria 3 0 West Asian Championship
+2007 179 away Iraq Iran 2 1 West Asian Championship
+2007 184 away Iraq SouthKorea 3 0 Friendly
+2007 188 away Iraq Uzbekistan 2 0 Friendly
+2007 193 away Iraq Thailand 1 1 Asian Cup
+2007 199 home Iraq Australia 3 1 Asian Cup
+2007 202 away Iraq Oman 0 0 Asian Cup
+2007 207 home Iraq Vietnam 2 0 Asian Cup
+2007 211 home Iraq SouthKorea 0 0 Asian Cup
+2007 215 home Iraq SaudiArabia 1 0 Asian Cup
+2007 295 away Iraq Qatar 3 2 Friendly
+2007 301 away Iraq Pakistan 0 7 World Cup qualifier
+2007 307 home Iraq Pakistan 0 0 World Cup qualifier
+2008 24 home Iraq Jordan 1 1 Friendly
+2008 31 away Iraq UnitedArab 0 1 Friendly
+2008 37 home Iraq China 1 1 World Cup qualifier
+2008 83 away Iraq Kuwait 0 0 Friendly
+2008 88 away Iraq Qatar 2 0 World Cup qualifier
+2008 141 away Iraq Syria 2 1 Friendly
+2008 149 away Iraq Thailand 2 1 Friendly
+2008 156 away Iraq Australia 1 0 World Cup qualifier
+2008 162 home Iraq Australia 1 0 World Cup qualifier
+2008 169 away Iraq China 1 2 World Cup qualifier
+2008 177 away Iraq Qatar 1 0 World Cup qualifier
+2008 368 away Iraq UnitedArab 2 2 Friendly
+2009 4 away Iraq Bahrain 3 1 Gulf Cup
+2009 7 away Iraq Oman 4 0 Gulf Cup
+2009 10 home Iraq Kuwait 1 1 Gulf Cup
+2009 84 away Iraq SaudiArabia 0 0 Friendly
+2009 90 away Iraq SouthKorea 2 1 Friendly
+2009 155 away Iraq Qatar 1 0 Friendly
+2009 164 home Iraq Poland 1 1 Friendly
+2009 169 away Iraq SouthAfrica 0 0 Confederations Cup
+2009 172 away Iraq Spain 1 0 Confederations Cup
+2009 175 home Iraq NewZealand 0 0 Confederations Cup
+2009 196 home Iraq Palestine 3 0 Friendly
+2009 199 home Iraq Palestine 4 0 Friendly
+2009 325 home Iraq Azerbaijan 1 0 Friendly tournament
+2009 328 away Iraq UnitedArab 0 1 Friendly tournament
+2010 264 away Iraq Jordan 4 1 Friendly
+2010 269 home Iraq Oman 3 2 Friendly
+2010 273 home Iraq Yemen 2 1 West Asian Championship
+2010 277 home Iraq Palestine 3 0 West Asian Championship
+2010 280 away Iraq Iran 2 1 West Asian Championship
+2010 291 away Iraq Qatar 1 2 Friendly
+2010 321 home Iraq India 2 0 Friendly
+2010 327 home Iraq Kuwait 1 1 Friendly
+2010 333 home Iraq UnitedArab 0 0 Gulf Cup
+2010 336 home Iraq Bahrain 3 2 Gulf Cup
+2010 339 home Iraq Oman 0 0 Gulf Cup
+2010 343 away Iraq Kuwait 2 2 Gulf Cup
+2010 359 home Iraq Syria 0 1 Friendly
+2010 363 away Iraq Syria 0 1 Friendly
+2010 369 away Iraq SaudiArabia 0 1 Friendly
+2011 2 away Iraq China 3 2 Friendly
+2011 11 away Iraq Iran 2 1 Asian Cup
+2011 15 home Iraq UnitedArab 1 0 Asian Cup
+2011 19 home Iraq NorthKorea 1 0 Asian Cup
+2011 22 away Iraq Australia 1 0 Asian Cup
+2011 88 home Iraq NorthKorea 2 0 Friendly
+2011 91 away Iraq Kuwait 1 0 Friendly
+2011 184 home Iraq Syria 1 2 Friendly
+2011 199 away Iraq Kuwait 2 0 Friendly tournament
+2011 202 away Iraq Jordan 1 1 Friendly tournament
+2011 209 home Iraq Yemen 2 0 World Cup qualifier
+2011 214 away Iraq Yemen 0 0 World Cup qualifier
+2011 236 away Iraq Qatar 0 1 Friendly
+2011 250 home Iraq Jordan 0 2 World Cup qualifier
+2011 254 away Iraq Singapore 0 2 World Cup qualifier
+2011 290 away Iraq China 0 1 World Cup qualifier
+2011 316 home Iraq Lebanon 1 0 Friendly
+2011 321 home Iraq China 1 0 World Cup qualifier
+2011 325 away Iraq Jordan 1 3 World Cup qualifier
+2011 354 away Iraq Bahrain 3 0 Pan Arab Games
+2011 357 away Iraq Qatar 0 0 Pan Arab Games
+2012 22 away Iraq Lebanon 1 0 Friendly
+2012 60 home Iraq Singapore 7 1 World Cup qualifier
+2012 110 away Iraq Egypt 0 0 Friendly
+2012 147 home Iraq SierraLeone 1 0 Friendly
+2012 152 away Iraq Botswana 1 1 Friendly
+2012 158 away Iraq Jordan 1 1 World Cup qualifier
+2012 167 home Iraq Oman 1 1 World Cup qualifier
+2012 179 home Iraq Lebanon 1 0 Arab Nations Cup
+2012 185 home Iraq Sudan 1 1 Arab Nations Cup
+2012 189 away Iraq Morocco 2 1 Arab Nations Cup
+2012 191 away Iraq SaudiArabia 0 1 Arab Nations Cup
+2012 259 away Iraq Japan 1 0 World Cup qualifier
+2012 290 away Iraq Brazil 6 0 Friendly
+2012 295 home Iraq Australia 1 2 World Cup qualifier
+2012 317 away Iraq Qatar 2 1 Friendly
+2012 324 home Iraq Jordan 1 0 World Cup qualifier
+2012 344 away Iraq Bahrain 0 0 Friendly
+2012 351 home Iraq Jordan 1 0 West Asian Championship
+2012 354 home Iraq Syria 1 1 West Asian Championship
+2012 359 home Iraq Oman 2 0 West Asian Championship
+2012 361 away Iraq Syria 1 0 West Asian Championship
+2012 371 away Iraq Tunisia 2 1 Friendly
+2013 6 home Iraq SaudiArabia 2 0 Gulf Cup
+2013 9 home Iraq Kuwait 1 0 Gulf Cup
+2013 12 home Iraq Yemen 2 0 Gulf Cup
+2013 15 away Iraq Bahrain 1 1 Gulf Cup
+2013 18 away Iraq UnitedArab 2 1 Gulf Cup
+2013 32 home Iraq Malaysia 3 0 Friendly
+2013 37 home Iraq Indonesia 1 0 Asian Cup qualifier
+2013 84 away Iraq China 1 0 Asian Cup qualifier
+2013 88 home Iraq Syria 2 1 Friendly
+2013 151 home Iraq Liberia 0 1 Friendly
+2013 159 away Iraq Oman 1 0 World Cup qualifier
+2013 166 home Iraq Japan 0 1 World Cup qualifier
+2013 173 away Iraq Australia 1 0 World Cup qualifier
+2013 231 away Iraq Chile 6 0 Friendly
+2013 285 home Iraq Yemen 3 2 Friendly
+2013 287 away Iraq Lebanon 1 1 Friendly
+2013 294 home Iraq SaudiArabia 0 2 Asian Cup qualifier
+2013 321 home Iraq Syria 2 1 Friendly
+2013 325 away Iraq SaudiArabia 2 1 Asian Cup qualifier
+2013 329 away Iraq Indonesia 0 2 Asian Cup qualifier
+2014 52 home Iraq NorthKorea 2 0 Friendly
+2014 67 home Iraq China 3 1 Asian Cup qualifier

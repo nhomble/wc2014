@@ -1,0 +1,416 @@
+1949 216 home Israel Cyprus 3 1 Friendly
+1949 238 away Israel Yugoslavia 6 0 World Cup qualifier
+1949 266 home Israel Yugoslavia 2 5 World Cup qualifier
+1950 307 home Israel Turkey 5 1 Friendly
+1950 344 away Israel Turkey 3 2 Friendly
+1953 311 away Israel Greece 1 0 World Cup qualifier
+1953 318 away Israel Yugoslavia 1 0 World Cup qualifier
+1954 70 home Israel Greece 0 2 World Cup qualifier
+1954 83 home Israel Yugoslavia 0 1 World Cup qualifier
+1954 125 away Israel SouthAfrica 2 1 Friendly
+1956 197 away Israel SovietUnion 5 0 Olympic Games qualifier
+1956 217 home Israel SovietUnion 1 2 Olympic Games qualifier
+1956 249 away Israel HongKong 2 3 Asian Cup
+1956 256 away Israel SouthKorea 2 1 Asian Cup
+1956 260 home Israel SouthVietnam 2 1 Asian Cup
+1958 15 home Israel Wales 0 2 World Cup qualifier
+1958 36 away Israel Wales 2 0 World Cup qualifier
+1958 150 home Israel Iran 4 0 Asian Games
+1958 152 home Israel Singapore 2 1 Asian Games
+1958 154 away Israel Taiwan 2 0 Asian Games
+1959 176 away Israel Poland 7 2 Friendly
+1959 300 home Israel Yugoslavia 2 2 Olympic Games qualifier
+1959 339 home Israel Poland 1 1 Friendly
+1959 346 away Israel Iran 3 0 Asian Cup qualifier
+1959 349 away Israel India 1 3 Asian Cup qualifier
+1959 351 home Israel Pakistan 2 0 Asian Cup qualifier
+1959 353 away Israel Iran 1 1 Asian Cup qualifier
+1959 355 away Israel India 1 2 Asian Cup qualifier
+1959 358 home Israel Pakistan 2 2 Asian Cup qualifier
+1960 68 home Israel Greece 2 1 Olympic Games qualifier
+1960 96 away Israel Greece 2 1 Olympic Games qualifier
+1960 103 away Israel Yugoslavia 1 2 Olympic Games qualifier
+1960 296 away Israel SouthKorea 3 0 Asian Cup
+1960 298 home Israel SouthVietnam 5 1 Asian Cup
+1960 299 home Israel Taiwan 1 0 Asian Cup
+1960 323 away Israel Cyprus 1 1 World Cup qualifier
+1960 337 home Israel Cyprus 6 1 World Cup qualifier
+1961 76 home Israel Ethiopia 1 0 World Cup qualifier
+1961 81 home Israel Ethiopia 3 2 World Cup qualifier
+1961 294 home Israel Italy 2 4 World Cup qualifier
+1961 301 home Israel SouthKorea 1 1 Friendly
+1961 314 away Israel Italy 6 0 World Cup qualifier
+1961 355 home Israel Yugoslavia 0 2 Friendly
+1962 140 away Israel Turkey 1 0 Friendly
+1962 286 home Israel Ethiopia 3 0 Friendly
+1962 323 home Israel Sweden 0 4 Friendly
+1962 335 home Israel Turkey 0 2 Friendly
+1963 143 home Israel Brazil 0 5 Friendly
+1963 369 away Israel SouthVietnam 0 1 Olympic Games qualifier
+1964 2 away Israel HongKong 0 3 Friendly
+1964 79 home Israel SouthVietnam 0 2 Olympic Games qualifier
+1964 150 home Israel HongKong 1 0 Asian Cup
+1964 153 home Israel India 2 0 Asian Cup
+1964 158 home Israel SouthKorea 2 1 Asian Cup
+1964 307 home Israel Yugoslavia 2 0 Friendly
+1964 342 home Israel Denmark 0 1 Friendly
+1965 26 home Israel Holland 0 1 Friendly
+1965 133 away Israel Belgium 1 0 World Cup qualifier
+1965 168 away Israel Bulgaria 4 0 World Cup qualifier
+1965 320 home Israel Belgium 0 5 World Cup qualifier
+1965 331 home Israel Bulgaria 1 2 World Cup qualifier
+1966 132 away Israel Finland 0 3 Friendly
+1966 170 home Israel Uruguay 1 2 Friendly
+1966 291 home Israel Yugoslavia 1 3 Friendly
+1966 305 away Israel Denmark 3 1 Friendly
+1966 348 home Israel Romania 1 2 Friendly
+1968 10 home Israel Belgium 0 2 Friendly
+1968 45 home Israel Switzerland 2 1 Friendly
+1968 50 home Israel Sweden 0 3 Friendly
+1968 79 home Israel Ceylon 7 0 Olympic Games qualifier
+1968 84 home Israel Ceylon 4 0 Olympic Games qualifier
+1968 136 home Israel HongKong 6 1 Asian Cup
+1968 138 away Israel Burma 1 0 Asian Cup
+1968 141 home Israel Taiwan 4 1 Asian Cup
+1968 143 away Israel Iran 2 1 Asian Cup
+1968 258 home Israel NorthernIreland 2 3 Friendly
+1968 292 home Israel Ghana 5 3 Olympic Games
+1968 294 home Israel ElSalvador 3 1 Olympic Games
+1968 299 away Israel Bulgaria 1 1 Olympic Games
+1969 50 home Israel Sweden 2 3 Friendly
+1969 74 home Israel Greece 3 3 Friendly
+1969 116 home Israel Austria 1 1 Friendly
+1969 242 away Israel Sweden 3 1 Friendly
+1969 276 home Israel NewZealand 4 0 World Cup qualifier
+1969 280 home Israel NewZealand 2 0 World Cup qualifier
+1969 345 home Israel Australia 1 0 World Cup qualifier
+1969 355 away Israel Australia 1 1 World Cup qualifier
+1970 28 home Israel Holland 0 1 Friendly
+1970 84 away Israel Ethiopia 1 5 Friendly
+1970 157 away Israel Uruguay 2 0 World Cup
+1970 162 home Israel Sweden 1 1 World Cup
+1970 166 home Israel Italy 0 0 World Cup
+1970 320 home Israel Australia 0 1 Friendly
+1971 74 home Israel Sweden 2 1 Friendly
+1971 321 away Israel Australia 2 2 Friendly
+1971 324 away Israel Australia 1 0 Friendly
+1971 331 away Israel Australia 1 3 Friendly
+1972 54 home Israel Norway 2 1 Friendly
+1972 84 home Israel Ceylon 3 0 Olympic Games qualifier
+1972 90 home Israel India 1 0 Olympic Games qualifier
+1972 92 home Israel Indonesia 1 0 Olympic Games qualifier
+1972 94 home Israel Thailand 0 0 Olympic Games qualifier
+1973 51 home Israel Argentina 1 1 Friendly
+1973 140 home Israel Japan 2 1 World Cup qualifier
+1973 143 home Israel Malaysia 3 0 World Cup qualifier
+1973 145 home Israel Thailand 6 0 World Cup qualifier
+1973 147 away Israel SouthKorea 0 0 World Cup qualifier
+1973 150 home Israel Japan 1 0 World Cup qualifier
+1973 152 away Israel SouthKorea 1 0 World Cup qualifier
+1973 205 home Israel Uruguay 1 2 Friendly
+1973 323 home Israel UnitedStates 3 1 Friendly
+1973 325 home Israel UnitedStates 2 0 Friendly
+1974 152 home Israel Australia 2 1 Friendly
+1974 251 home Israel Malaysia 8 3 Asian Games
+1974 253 home Israel Philippines 6 0 Asian Games
+1974 255 home Israel Japan 3 0 Asian Games
+1974 258 home Israel Burma 3 0 Asian Games
+1974 264 away Israel Iran 1 0 Asian Games
+1974 345 home Israel Romania 0 1 Friendly
+1975 299 home Israel Mexico 1 0 Friendly
+1976 35 home Israel Denmark 0 1 Friendly
+1976 65 home Israel NorthernIreland 1 1 Friendly
+1976 93 away Israel Japan 0 3 Olympic Games qualifier
+1976 97 away Israel SouthKorea 1 3 Olympic Games qualifier
+1976 104 home Israel Japan 4 1 Olympic Games qualifier
+1976 121 home Israel SouthKorea 0 0 Olympic Games qualifier
+1976 205 away Israel Guatemala 0 0 Olympic Games
+1976 270 away Israel Greece 0 1 Friendly
+1976 313 home Israel Australia 1 1 Friendly
+1976 356 home Israel Austria 1 3 Friendly
+1977 26 home Israel Greece 1 1 Friendly
+1977 43 away Israel Australia 1 1 Friendly
+1977 47 away Israel Australia 1 1 Friendly
+1977 58 home Israel SouthKorea 0 0 World Cup qualifier
+1977 68 home Israel Japan 2 0 World Cup qualifier
+1977 72 home Israel Japan 2 0 World Cup qualifier
+1977 82 away Israel SouthKorea 3 1 World Cup qualifier
+1978 39 home Israel Denmark 2 0 Friendly
+1978 53 home Israel Holland 1 2 Friendly
+1978 325 home Israel Belgium 1 0 Friendly
+1978 360 home Israel Romania 1 1 Friendly
+1979 30 home Israel Austria 0 1 Friendly
+1979 45 home Israel Greece 4 1 Friendly
+1980 88 home Israel NorthernIreland 0 0 World Cup qualifier
+1980 173 away Israel Sweden 1 1 World Cup qualifier
+1980 322 home Israel Sweden 0 0 World Cup qualifier
+1980 343 home Israel Australia 0 1 Friendly
+1980 358 away Israel Portugal 3 0 World Cup qualifier
+1981 56 home Israel Scotland 0 1 World Cup qualifier
+1981 101 home Israel Romania 2 1 Friendly
+1981 121 away Israel Scotland 3 1 World Cup qualifier
+1981 307 home Israel Portugal 4 1 World Cup qualifier
+1981 328 away Israel NorthernIreland 1 0 World Cup qualifier
+1983 274 home Israel Uruguay 2 2 Friendly
+1983 318 home Israel Romania 1 1 Friendly
+1984 97 home Israel Ireland 3 0 Friendly
+1984 104 away Israel Romania 0 0 Friendly
+1984 165 home Israel Wales 0 0 Friendly
+1984 254 home Israel Malta 2 1 Friendly
+1984 288 away Israel Greece 2 2 Friendly
+1984 295 away Israel NorthernIreland 3 0 Friendly
+1984 331 home Israel Romania 1 1 Friendly
+1984 360 home Israel Luxembourg 2 0 Friendly
+1985 9 home Israel Greece 0 2 Friendly
+1985 58 home Israel Ireland 0 0 Friendly
+1985 125 home Israel Sweden 1 1 Friendly
+1985 251 home Israel Taiwan 6 0 World Cup qualifier
+1985 256 home Israel Taiwan 5 0 World Cup qualifier
+1985 287 home Israel Australia 1 2 World Cup qualifier
+1985 299 away Israel Australia 1 1 World Cup qualifier
+1985 305 away Israel NewZealand 3 1 World Cup qualifier
+1985 320 home Israel NewZealand 3 0 World Cup qualifier
+1986 28 home Israel Scotland 0 1 Friendly
+1986 57 home Israel England 1 2 Friendly
+1986 128 home Israel Argentina 2 7 Friendly
+1986 287 home Israel Romania 2 4 Friendly
+1987 49 home Israel NorthernIreland 1 1 Friendly
+1987 87 home Israel Germany 0 2 Friendly
+1987 101 away Israel Romania 3 2 Friendly
+1987 143 away Israel Switzerland 1 0 Friendly
+1987 156 home Israel Brazil 0 4 Friendly
+1987 320 away Israel Ireland 5 0 Friendly
+1987 343 home Israel Malta 1 1 Friendly
+1987 357 home Israel Switzerland 0 2 Friendly
+1988 19 home Israel Belgium 2 3 Friendly
+1988 27 home Israel France 1 1 Friendly
+1988 34 home Israel Romania 0 2 Friendly tournament
+1988 41 home Israel Poland 1 3 Friendly tournament
+1988 48 home Israel England 0 0 Friendly
+1988 69 away Israel Australia 2 0 Olympic Games qualifier
+1988 71 home Israel NewZealand 2 0 Olympic Games qualifier
+1988 75 home Israel Taiwan 5 1 Olympic Games qualifier
+1988 82 away Israel Australia 0 0 Olympic Games qualifier
+1988 85 home Israel Taiwan 9 0 Olympic Games qualifier
+1988 89 away Israel NewZealand 0 1 Olympic Games qualifier
+1988 297 home Israel Malta 2 0 Friendly
+1988 333 away Israel Romania 3 0 Friendly
+1989 4 home Israel Holland 0 2 Friendly
+1989 11 away Israel Malta 1 2 Friendly
+1989 39 home Israel Wales 3 3 Friendly
+1989 67 home Israel NewZealand 1 0 World Cup qualifier
+1989 81 home Israel Australia 1 1 World Cup qualifier
+1989 102 away Israel NewZealand 2 2 World Cup qualifier
+1989 109 away Israel Australia 1 1 World Cup qualifier
+1989 294 away Israel Colombia 1 0 World Cup qualifier
+1989 309 home Israel Colombia 0 0 World Cup qualifier
+1990 90 away Israel Greece 2 1 Friendly
+1990 118 home Israel Romania 1 4 Friendly
+1990 140 home Israel SovietUnion 3 2 Friendly
+1990 146 home Israel Argentina 1 2 Friendly
+1990 288 away Israel SovietUnion 3 0 Friendly
+1992 43 home Israel IndependentStates 1 2 Friendly
+1992 65 home Israel Cyprus 2 1 Friendly
+1992 101 home Israel Iceland 2 2 Friendly
+1992 222 away Israel FaroeIslands 1 1 Friendly
+1992 226 away Israel Iceland 0 2 Friendly
+1992 257 away Israel Poland 1 1 Friendly
+1992 271 away Israel Hungary 0 0 Friendly
+1992 307 away Israel Austria 5 2 World Cup qualifier
+1992 321 home Israel Sweden 1 3 World Cup qualifier
+1992 343 home Israel Bulgaria 0 2 World Cup qualifier
+1993 34 home Israel Poland 0 0 Friendly
+1993 48 home Israel France 0 4 World Cup qualifier
+1993 86 home Israel Russia 2 2 Friendly
+1993 120 away Israel Ukraine 1 1 Friendly
+1993 136 away Israel Bulgaria 2 2 World Cup qualifier
+1993 157 away Israel Sweden 5 0 World Cup qualifier
+1993 171 away Israel Finland 0 0 World Cup qualifier
+1993 270 away Israel Romania 1 0 Friendly
+1993 284 away Israel Cyprus 2 2 Friendly
+1993 292 away Israel France 2 3 World Cup qualifier
+1993 306 home Israel Austria 1 1 World Cup qualifier
+1993 320 home Israel Finland 1 3 World Cup qualifier
+1994 54 home Israel Georgia 2 0 Friendly
+1994 77 home Israel Ukraine 1 0 Friendly
+1994 113 away Israel Lithuania 1 1 Friendly
+1994 155 home Israel Argentina 0 3 Friendly
+1994 234 home Israel Croatia 0 4 Friendly
+1994 252 home Israel Poland 2 1 European Cup qualifier
+1994 291 home Israel Slovakia 2 2 European Cup qualifier
+1994 326 away Israel Azerbaijan 0 2 European Cup qualifier
+1994 339 home Israel Cyprus 4 3 Friendly
+1994 355 home Israel Romania 1 1 European Cup qualifier
+1995 45 home Israel Luxembourg 4 2 Friendly
+1995 70 away Israel Turkey 2 1 Friendly
+1995 91 home Israel France 0 0 European Cup qualifier
+1995 118 away Israel Poland 4 3 European Cup qualifier
+1995 141 home Israel Brazil 1 2 Friendly
+1995 162 away Israel Romania 2 1 European Cup qualifier
+1995 233 away Israel Hungary 0 2 Friendly
+1995 254 away Israel Slovakia 1 0 European Cup qualifier
+1995 268 home Israel Uruguay 3 1 Friendly
+1995 290 home Israel Azerbaijan 2 0 European Cup qualifier
+1995 325 away Israel France 2 0 European Cup qualifier
+1996 24 away Israel Greece 2 1 Friendly
+1996 52 home Israel Lithuania 4 2 Friendly
+1996 88 away Israel Croatia 2 0 Friendly
+1996 123 home Israel SouthKorea 4 5 Friendly
+1996 231 away Israel Romania 2 0 Friendly
+1996 249 home Israel Bulgaria 2 1 World Cup qualifier
+1996 288 home Israel Russia 1 1 World Cup qualifier
+1996 320 away Israel Cyprus 2 0 World Cup qualifier
+1996 356 home Israel Luxembourg 1 0 World Cup qualifier
+1997 22 home Israel Greece 1 1 Friendly
+1997 57 home Israel Germany 0 1 Friendly
+1997 74 home Israel Sweden 0 1 Friendly
+1997 92 away Israel Luxembourg 0 3 World Cup qualifier
+1997 123 home Israel Cyprus 2 0 World Cup qualifier
+1997 163 away Israel Russia 2 0 World Cup qualifier
+1997 172 away Israel UnitedStates 2 1 Friendly
+1997 222 away Israel Belarus 2 3 Friendly
+1997 237 away Israel Bulgaria 1 0 World Cup qualifier
+1998 49 home Israel Turkey 4 0 Friendly
+1998 56 home Israel Poland 2 0 Friendly
+1998 80 away Israel Romania 0 1 Friendly
+1998 108 home Israel Argentina 2 1 Friendly
+1998 141 away Israel Latvia 1 5 Friendly
+1998 235 away Israel Poland 2 0 Friendly
+1998 253 away Israel Austria 1 1 European Cup qualifier
+1998 289 away Israel SanMarino 0 5 European Cup qualifier
+1998 293 home Israel Spain 1 2 European Cup qualifier
+1998 328 away Israel Portugal 2 0 Friendly
+1998 364 home Israel Yugoslavia 2 0 Friendly
+1999 18 home Israel Estonia 7 0 Friendly tournament
+1999 20 home Israel Norway 0 1 Friendly tournament
+1999 40 home Israel Belarus 2 1 Friendly
+1999 55 home Israel Latvia 2 0 Friendly
+1999 72 away Israel Romania 0 2 Friendly
+1999 90 home Israel Cyprus 3 0 European Cup qualifier
+1999 161 home Israel Austria 5 0 European Cup qualifier
+1999 235 away Israel Slovakia 1 0 Friendly
+1999 253 away Israel Cyprus 3 2 European Cup qualifier
+1999 256 home Israel SanMarino 8 0 European Cup qualifier
+1999 289 away Israel Spain 3 0 European Cup qualifier
+1999 323 home Israel Denmark 0 5 European Cup qualifier
+1999 327 away Israel Denmark 3 0 European Cup qualifier
+2000 54 home Israel Russia 4 1 Friendly
+2000 91 home Israel Georgia 1 1 Friendly
+2000 119 away Israel Czechia 4 1 Friendly
+2000 158 away Israel Hungary 2 1 Friendly
+2000 233 away Israel Russia 1 0 Friendly
+2000 251 home Israel Liechtenstein 2 0 World Cup qualifier
+2000 286 away Israel Spain 2 0 World Cup qualifier
+2000 290 home Israel Bosnia 3 1 World Cup qualifier
+2000 325 away Israel Portugal 2 1 Friendly
+2001 17 home Israel Uzbekistan 2 0 Friendly
+2001 45 home Israel Moldova 1 0 Friendly
+2001 90 away Israel Austria 2 1 World Cup qualifier
+2001 117 away Israel Georgia 3 2 Friendly
+2001 157 away Israel Liechtenstein 0 3 World Cup qualifier
+2001 161 home Israel Spain 1 1 World Cup qualifier
+2001 232 away Israel Lithuania 2 3 Friendly
+2001 249 away Israel Bosnia 0 0 World Cup qualifier
+2001 306 home Israel Austria 1 1 World Cup qualifier
+2002 44 away Israel Germany 7 1 Friendly
+2002 110 away Israel Denmark 3 1 Friendly
+2002 238 away Israel Lithuania 2 4 Friendly
+2002 253 away Israel Luxembourg 0 5 Friendly
+2002 291 away Israel Malta 0 2 European Cup qualifier
+2002 330 away Israel Macedonia 2 3 Friendly
+2003 43 home Israel Armenia 2 0 Friendly
+2003 67 home Israel Moldova 0 0 Friendly
+2003 91 away Israel Cyprus 1 1 European Cup qualifier
+2003 95 away Israel France 2 1 European Cup qualifier
+2003 123 home Israel Cyprus 2 0 European Cup qualifier
+2003 162 home Israel Slovenia 0 0 European Cup qualifier
+2003 237 away Israel Russia 1 2 Friendly
+2003 254 away Israel Slovenia 3 1 European Cup qualifier
+2003 258 away Israel Malta 2 2 European Cup qualifier
+2003 290 away Israel France 3 0 European Cup qualifier
+2004 49 home Israel Azerbaijan 6 0 Friendly
+2004 92 home Israel Lithuania 2 1 Friendly
+2004 121 home Israel Moldova 1 1 Friendly
+2004 151 away Israel Georgia 0 1 Friendly
+2004 235 away Israel Croatia 1 0 Friendly
+2004 252 away Israel France 0 0 World Cup qualifier
+2004 256 home Israel Cyprus 2 1 World Cup qualifier
+2004 288 home Israel Switzerland 2 2 World Cup qualifier
+2004 327 away Israel Cyprus 1 2 World Cup qualifier
+2005 40 home Israel Croatia 3 3 Friendly
+2005 88 home Israel Ireland 1 1 World Cup qualifier
+2005 92 home Israel France 1 1 World Cup qualifier
+2005 159 away Israel Ireland 2 2 World Cup qualifier
+2005 232 away Israel Ukraine 0 0 Friendly tournament
+2005 234 away Israel Poland 3 2 Friendly tournament
+2005 251 away Israel Switzerland 1 1 World Cup qualifier
+2005 255 away Israel FaroeIslands 0 2 World Cup qualifier
+2005 287 home Israel FaroeIslands 2 1 World Cup qualifier
+2006 63 home Israel Denmark 0 2 Friendly
+2006 232 away Israel Slovenia 1 1 Friendly
+2006 250 away Israel Estonia 0 1 European Cup qualifier
+2006 254 home Israel Andorra 4 1 European Cup qualifier
+2006 286 away Israel Russia 1 1 European Cup qualifier
+2006 325 home Israel Croatia 3 4 European Cup qualifier
+2007 38 home Israel Ukraine 1 1 Friendly
+2007 86 home Israel England 0 0 European Cup qualifier
+2007 90 home Israel Estonia 4 0 European Cup qualifier
+2007 157 away Israel Macedonia 1 2 European Cup qualifier
+2007 161 away Israel Andorra 0 2 European Cup qualifier
+2007 239 away Israel Belarus 2 1 Friendly
+2007 256 away Israel England 3 0 European Cup qualifier
+2007 292 away Israel Croatia 1 0 European Cup qualifier
+2007 296 home Israel Belarus 2 1 Friendly
+2007 327 home Israel Russia 2 1 European Cup qualifier
+2007 331 home Israel Macedonia 1 0 European Cup qualifier
+2008 37 home Israel Romania 1 0 Friendly
+2008 88 home Israel Chile 1 0 Friendly
+2008 237 away Israel Finland 2 0 Friendly
+2008 254 home Israel Switzerland 2 2 World Cup qualifier
+2008 258 away Israel Moldova 1 2 World Cup qualifier
+2008 290 away Israel Luxembourg 1 3 World Cup qualifier
+2008 294 away Israel Latvia 1 1 World Cup qualifier
+2008 329 home Israel IvoryCoast 2 2 Friendly
+2009 42 home Israel Hungary 1 0 Friendly
+2009 90 home Israel Greece 1 1 World Cup qualifier
+2009 94 away Israel Greece 2 1 World Cup qualifier
+2009 229 away Israel NorthernIreland 1 1 Friendly
+2009 253 home Israel Latvia 0 1 World Cup qualifier
+2009 257 home Israel Luxembourg 7 0 World Cup qualifier
+2009 289 home Israel Moldova 3 1 World Cup qualifier
+2009 293 away Israel Switzerland 0 0 World Cup qualifier
+2010 65 away Israel Romania 0 2 Friendly
+2010 150 away Israel Uruguay 4 1 Friendly
+2010 154 away Israel Chile 3 0 Friendly
+2010 250 home Israel Malta 3 1 European Cup qualifier
+2010 255 away Israel Georgia 0 0 European Cup qualifier
+2010 288 home Israel Croatia 1 2 European Cup qualifier
+2010 291 away Israel Greece 2 1 European Cup qualifier
+2010 327 home Israel Iceland 3 2 Friendly
+2011 40 home Israel Serbia 0 2 Friendly
+2011 88 home Israel Latvia 2 1 European Cup qualifier
+2011 91 home Israel Georgia 1 0 European Cup qualifier
+2011 159 away Israel Latvia 1 2 European Cup qualifier
+2011 227 away Israel IvoryCoast 4 3 Friendly
+2011 250 home Israel Greece 0 1 European Cup qualifier
+2011 254 away Israel Croatia 3 1 European Cup qualifier
+2011 290 away Israel Malta 0 2 European Cup qualifier
+2012 60 home Israel Ukraine 2 3 Friendly
+2012 150 away Israel Czechia 2 1 Friendly
+2012 155 away Israel Germany 2 0 Friendly
+2012 232 away Israel Hungary 1 1 Friendly
+2012 255 away Israel Azerbaijan 1 1 World Cup qualifier
+2012 259 home Israel Russia 0 4 World Cup qualifier
+2012 291 away Israel Luxembourg 0 6 World Cup qualifier
+2012 295 home Israel Luxembourg 3 0 World Cup qualifier
+2012 324 home Israel Belarus 1 2 Friendly
+2013 37 home Israel Finland 2 1 Friendly
+2013 84 home Israel Portugal 3 3 World Cup qualifier
+2013 88 away Israel NorthernIreland 0 2 World Cup qualifier
+2013 157 home Israel Honduras 2 0 Friendly
+2013 231 away Israel Ukraine 2 0 Friendly
+2013 255 home Israel Azerbaijan 1 1 World Cup qualifier
+2013 258 away Israel Russia 3 1 World Cup qualifier
+2013 290 away Israel Portugal 1 1 World Cup qualifier
+2013 294 home Israel NorthernIreland 1 1 World Cup qualifier
+2014 67 home Israel Slovakia 1 3 Friendly

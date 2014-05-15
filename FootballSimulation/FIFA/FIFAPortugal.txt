@@ -1,0 +1,225 @@
+Cristiano Ronaldo Cristiano Ronaldo 
+Real Madrid / Liga BBVA 
+92	LW	93	90	79	91	48	86	5 	4 	 / 	 Right	1,604,000	2,073		
+Danny Danny 
+Zenit St. Petersburg / Russian League 
+83	LW	86	75	81	87	44	51	4 	4 	 / 	 Right	750	1,875		
+Pepe Pepe 
+Real Madrid / Liga BBVA 
+83	CB	74	48	60	58	82	80	2 	3 	 / 	 Right	900	1,746		
+Nani Nani 
+Manchester United / Barclays PL 
+83	RM	84	80	79	88	43	52	5 	4 	 / 	 Right	2,300	1,863		
+Joao Moutinho Joao Moutinho 
+AS Monaco / Ligue 1 
+83	CM	78	76	83	82	74	69	3 	4 	 / 	 Right	950	2,099		
+Rui Patricio Rui Patricio 
+Sporting CP / Liga Portuguesa 
+81	GK	85	79	82	82	45	79	1 	2 	 / 	 Left	700	970		
+Fabio Coentrao Fabio Coentrao 
+Real Madrid / Liga BBVA 
+79	LB	81	65	73	79	76	71	3 	2 	 / 	 Left	1,000	1,967		
+Ricardo Costa Ricardo Costa 
+Valencia CF / Liga BBVA 
+78	CB	64	36	47	50	77	87	2 	3 	 / 	 Right	600	1,585		
+Bruma Bruma 
+Galatasaray / Turklig 
+75	LW	91	67	65	81	42	57	4 	4 	 / 	 Right	700	1,733		
+Sergio Pinto Sergio Pinto 
+Levante UD / Liga BBVA 
+74	CDM	67	72	73	71	72	66	3 	3 	 / 	 Right	450	1,943		
+ Edinho Edinho 
+Braga / Liga Portuguesa 	
+74	ST	67	71	50	65	48	80	3 	3 	 / 	 Right	400	1,647		
+Ukra Ukra 
+Rio Ave / Liga Portuguesa 
+74	RW	80	66	69	77	42	64	4 	4 	 / 	 Right	400	1,704		
+Miguel Lopes Miguel Lopes 
+Olympique Lyonnais / Ligue 1 
+74	RB	83	43	73	74	74	68	3 	3 	 / 	 Right	1,700	1,801		
+Josue Josue 
+FC Porto / Liga Portuguesa 
+74	LW	74	65	76	77	51	56	3 	2 	 / 	 Left	350	1,760		
+Andre Martins Andre Martins 
+Sporting CP / Liga Portuguesa 
+74	CM	80	66	74	79	57	58	3 	4 	 / 	 Right	1,300	1,865		
+Salvador Agra Salvador Agra 
+Braga / Liga Portuguesa 
+74	RW	90	63	66	81	36	40	4 	2 	 / 	 Right	2,400	1,635		
+Salvador Agra Salvador Agra 
+Académica / Liga Portuguesa 
+74	RW	90	63	66	81	36	40	4 	2 	 / 	 Right	0	1,635		
+William Carvalho William Carvalho 
+Sporting CP / Liga Portuguesa 
+74	CDM	63	54	67	69	77	77	2 	3 	 / 	 Right	3,100	1,825		
+Duda Duda 
+Málaga CF / Liga BBVA 
+73	LM	63	75	82	71	57	55	3 	3 	 / 	 Left	350	1,860		
+Paulo Machado Paulo Machado 
+Olympiakos CFP / Hellas Liga 
+73	CM	77	74	78	77	60	50	4 	4 	 / 	 Right	2,300	1,860		
+Hugo Vieira Hugo Vieira 
+Braga / Liga Portuguesa 	
+73	ST	85	69	66	80	41	62	4 	3 	 / 	 Right	1,800	1,708		
+Nelson Oliveira Nelson Oliveira 
+Stade Rennais / Ligue 1 
+73	ST	78	68	57	76	49	74	3 	3 	 / 	 Right	700	1,710		
+Ilori Ilori 
+Liverpool / Barclays PL 
+73	CB	75	35	51	57	76	72	2 	3 	 / 	 Right	3,800	1,511		
+Ilori Ilori 
+Granada CF / Liga BBVA 
+73	CB	75	35	51	57	76	72	2 	3 	 / 	 Right	0	1,511		
+Hugo Vieira Hugo Vieira 
+Gil Vicente / Liga Portuguesa 
+73	ST	85	69	66	80	41	62	4 	3 	 / 	 Right	550	1,708
+Nelson Nelson 
+UD Almería / Liga BBVA 
+72	RB	88	52	69	73	68	63	2 	3 	 / 	 Right	600	1,786		
+Paulo Lopes Paulo Lopes 
+SL Benfica / Liga Portuguesa 
+72	GK	73	76	64	71	43	73	1 	2 	 / 	 Right	400	970		
+Daniel Carrico Daniel Carrico 
+Sevilla FC / Liga BBVA 
+72	CDM	66	50	68	62	73	80	2 	3 	 / 	 Right	500	1,733		
+Braga Braga 
+Rio Ave / Liga Portuguesa 
+71	LW	68	72	70	72	48	58	2 	4 	 / 	 Right	300	1,702		
+Bruno Amaro Bruno Amaro 
+Arouca / Liga Portuguesa 
+71	CM	65	70	74	71	65	60	2 	3 	 / 	 Right	500	1,836		
+Paulo Sergio Paulo Sergio 
+Arouca / Liga Portuguesa 
+71	RW	85	60	66	74	39	51	3 	3 	 / 	 Right	450	1,631		
+Nuno Andre Coelho Nuno Andre Coelho 
+Braga / Liga Portuguesa 
+71	CB	46	51	62	53	73	73	2 	3 	 / 	 Right	400	1,583		
+Marinho Marinho 
+Académica / Liga Portuguesa 
+71	RW	88	63	60	77	37	46	3 	3 	 / 	 Right	400	1,627		
+Paulo Sergio Paulo Sergio 
+Olhanense / Liga Portuguesa 
+71	RW	85	60	66	74	39	51	3 	3 	 / 	 Right	300	1,631		
+Cesar Peixoto Cesar Peixoto 
+Gil Vicente / Liga Portuguesa 
+70	CM	53	63	73	73	68	73	3 	3 	 / 	 Left	450	1,835		
+Fernando Alexandre Fernando Alexandre 
+Académica / Liga Portuguesa 
+70	CDM	64	58	67	59	72	66	2 	2 	 / 	 Right	350	1,695		
+Sergio Oliveira Sergio Oliveira 
+Paços de Ferreira / Liga Portuguesa 
+69	CAM	64	68	67	74	42	55	4 	3 	 / 	 Right	400	1,636		
+Diogo Salomao Diogo Salomao 
+Sporting CP / Liga Portuguesa 
+69	LW	83	63	62	78	46	58	3 	4 	 / 	 Left	4,000	1,656		
+William Carvalho William Carvalho 
+Sporting CP / Liga Portuguesa 
+69	CDM	62	48	63	62	71	72	2 	3 	 / 	 Right	3,000	1,636		
+Diogo Salomao Diogo Salomao 
+RC Deportivo / Liga Adelante 
+69	LW	83	63	62	78	46	58	3 	4 	 / 	 Left	350	1,656		
+Roderick Roderick 
+Rio Ave / Liga Portuguesa 
+68	CB	47	45	57	51	70	70	2 	2 	 / 	 Right	350	1,468		
+Andre Pinto Andre Pinto 
+Panathinaikos / Hellas Liga 
+68	CB	53	49	49	46	72	64	2 	2 	 / 	 Right	10,250	1,469		
+Andre Pinto Andre Pinto 
+Braga / Liga Portuguesa 
+68	CB	53	49	49	46	72	64	2 	2 	 / 	 Right	300	1,469		
+Fabio Nunes Fabio Nunes 
+Blackburn Rovers / FL Championship 
+65	LM	71	59	64	69	46	50	3 	3 	 / 	 Left	4,700	1,553		
+Fabio Nunes Fabio Nunes 
+Latina / Serie B 
+65	LM	71	59	64	69	46	50	3 	3 	 / 	 Left	0	1,553		
+ Briguel Briguel 
+Marítimo / Liga Portuguesa 	
+64	RB	58	48	60	57	66	64	2 	2 	 / 	 Right	200	1,579		
+Luis Filipe Luis Filipe 
+Olhanense / Liga Portuguesa 
+64	RB	68	48	66	66	64	60	2 	2 	 / 	 Right	200	1,638		
+Paulo Jorge Paulo Jorge 
+Belenenses / Liga Portuguesa 
+64	RB	75	61	66	72	65	50	4 	3 	 / 	 Right	1,600	1,775		
+Joao Aurelio Joao Aurelio 
+Nacional / Liga Portuguesa 
+64	RB	73	61	63	69	61	68	3 	3 	 / 	 Right	300	1,724		
+Chula Chula 
+Marítimo / Liga Portuguesa 
+64	LW	78	56	62	66	52	43	3 	4 	 / 	 Right	200	1,592	
+Tiago Tiago 
+Atlético de Madrid / Liga BBVA 
+80	CM	63	69	78	73	73	76	4 	3 	 / 	 Right	400	1,932		
+Eder Eder 
+Braga / Liga Portuguesa 
+79	ST	84	72	68	80	58	79	4 	4 	 / 	 Right	500	1,865		
+Joao Pereira Joao Pereira 
+Valencia CF / Liga BBVA 
+79	RB	86	56	77	76	76	67	3 	3 	 / 	 Right	400	1,929		
+Varela Varela 
+FC Porto / Liga Portuguesa 
+78	LW	84	75	71	82	51	66	4 	4 	 / 	 Right	800	1,823		
+Vieirinha Vieirinha 
+VfL Wolfsburg / Bundesliga 
+78	RM	83	72	72	84	49	68	4 	4 	 / 	 Right	600	1,860		
+Beto Beto 
+Sevilla FC / Liga BBVA 
+78	GK	78	75	76	81	47	77	1 	3 	 / 	 Right	400	909		
+Ricardo Carvalho Ricardo Carvalho 
+AS Monaco / Ligue 1 
+77	CB	50	46	64	54	77	78	2 	3 	 / 	 Right	400	1,618		
+Helder Postiga Helder Postiga 
+Valencia CF / Liga BBVA 
+77	ST	75	72	56	78	47	77	4 	3 	 / 	 Right	1,800	1,743		
+Custodio Custodio 
+Braga / Liga Portuguesa 
+77	CDM	69	67	73	69	78	78	2 	3 	 / 	 Right	350	1,935		
+Lica Lica 
+FC Porto / Liga Portuguesa 
+77	LW	84	71	69	80	53	66	3 	4 	 / 	 Right	400	1,805		
+Helder Postiga Helder Postiga 
+Lazio / Serie A 
+77	ST	75	72	56	78	47	77	4 	3 	 / 	 Right	0	1,743		
+Eliseu Eliseu 
+Málaga CF / Liga BBVA 
+76	LB	89	71	73	76	75	65	3 	4 	 / 	 Left	350	2,022		
+Simao Simao 
+RCD Espanyol / Liga BBVA 
+76	LM	71	72	77	79	42	56	4 	5 	 / 	 Right	400	1,790		
+Carlos Martins Carlos Martins 
+SL Benfica / Liga Portuguesa 
+76	CAM	65	77	79	75	60	57	3 	4 	 / 	 Right	400	1,915		
+ Rolando Rolando 
+Inter / Serie A 	
+76	CB	67	52	57	57	78	77	2 	2 	 / 	 Right	400	1,656		
+Helder Barbosa Helder Barbosa 
+UD Almería / Liga BBVA 
+76	LW	81	72	70	79	54	60	4 	4 	 / 	 Left	400	1,834		
+Antunes Antunes 
+Málaga CF / Liga BBVA 
+76	LB	84	69	74	73	74	61	2 	3 	 / 	 Left	350	1,963		
+Adrien Adrien 
+Sporting CP / Liga Portuguesa 
+76	CM	66	75	76	77	71	65	3 	4 	 / 	 Right	350	1,965		
+Silvio Silvio 
+SL Benfica / Liga Portuguesa 
+76	RB	78	66	72	75	73	72	2 	4 	 / 	 Right	350	1,898		
+Ruben Micael Ruben Micael 
+Braga / Liga Portuguesa 
+76	CM	69	71	77	79	60	61	3 	3 	 / 	 Right	400	1,879		
+Pizzi Pizzi 
+RCD Espanyol / Liga BBVA 
+76	LM	81	71	69	82	43	52	4 	4 	 / 	 Right	400	1,764		
+Wilson Eduardo Wilson Eduardo 
+Sporting CP / Liga Portuguesa 
+76	LW	82	77	67	77	44	70	3 	4 	 / 	 Right	400	1,797		
+Ruben Amorim Ruben Amorim 
+SL Benfica / Liga Portuguesa 
+75	CM	67	69	75	73	72	69	3 	3 	 / 	 Right	350	1,902		
+Eduardo Eduardo 
+Braga / Liga Portuguesa 
+75	GK	75	73	70	78	46	76	1 	3 	 / 	 Right	350	959		
+Luis Neto Luis Neto 
+Zenit St. Petersburg / Russian League 
+75	CB	68	38	61	64	76	78	2 	3 	 / 	 Right	350	1,641

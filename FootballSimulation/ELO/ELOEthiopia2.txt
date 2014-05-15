@@ -1,0 +1,2844 @@
+May 01
+1947	Ethiopia
+Djibouti	5
+0	Friendly
+in Ethiopia	+1
+-1	1401
+899	-
+-	59
+92
+July 11
+1956	Ethiopia
+Egypt	1
+4	Olympic Games qualifier
+in Ethiopia	-31
++31	1370
+1570	-7
++6	78
+36
+July 31
+1956	Egypt
+Ethiopia	5
+2	Olympic Games qualifier
+in Egypt	+11
+-11	1581
+1359	0
+-4	36
+82
+November 16
+1956	Ethiopia
+Sudan	2
+1	Friendly
+in Ethiopia	+8
+-8	1367
+1392	+2
+-	82
+76
+February 16
+1957	Egypt
+Ethiopia	4
+0	African Nations Cup
+in Sudan	+19
+-19	1619
+1348	+3
+-7	30
+89
+May 22
+1959	Egypt
+Ethiopia	4
+0	African Nations Cup
+in Egypt	+12
+-12	1593
+1336	+2
+0	40
+92
+May 25
+1959	Sudan
+Ethiopia	1
+0	African Nations Cup
+in Egypt	+22
+-22	1404
+1314	+9
+-4	75
+96
+
+1960	Ethiopia
+Sudan	1
+1	Olympic Games qualifier
+in Ethiopia	-2
++2	1312
+1389	+2
++13	95
+68
+
+1960	Ethiopia
+Uganda	1
+1	Olympic Games qualifier
+in Ethiopia	+2
+-2	1314
+1446	+2
+-26	95
+89
+
+1960	Sudan
+Ethiopia	3
+1	Olympic Games qualifier
+in Sudan	+16
+-16	1405
+1298	+13
++2	68
+95
+
+1960	Uganda
+Ethiopia	1
+2	Olympic Games qualifier
+in Uganda	-31
++31	1371
+1329	-26
++2	89
+95
+March
+1961	Kenya
+Ethiopia	5
+4	African Nations Cup qualifier
+in Kenya	+17
+-17	1307
+1312	-3
+0	110
+99
+March
+1961	Ethiopia
+Kenya	6
+1	African Nations Cup qualifier
+in Ethiopia	+28
+-28	1340
+1279	0
+-3	99
+110
+March 14
+1961	Israel
+Ethiopia	1
+0	World Cup qualifier
+in Israel	+5
+-5	1591
+1335	+1
+0	42
+99
+March 19
+1961	Israel
+Ethiopia	3
+2	World Cup qualifier
+in Israel	+5
+-5	1596
+1330	+1
+0	41
+99
+January 14
+1962	Ethiopia
+Tunisia	4
+2	African Nations Cup
+in Ethiopia	+36
+-36	1366
+1379	+5
+-14	96
+93
+January 21
+1962	Ethiopia
+Egypt	4
+2	African Nations Cup
+in Ethiopia	+59
+-59	1425
+1630	+17
+-8	78
+31
+September 19
+1962	Yugoslavia
+Ethiopia	5
+2	Friendly
+in Yugoslavia	+1
+-1	1871
+1424	0
+0	9
+79
+October 07
+1962	Israel
+Ethiopia	3
+0	Friendly
+in Israel	+8
+-8	1555
+1416	0
+-1	49
+80
+October 10
+1962	Turkey
+Ethiopia	3
+0	Friendly
+in Turkey	+4
+-4	1677
+1412	+1
+-1	24
+81
+October 18
+1962	Greece
+Ethiopia	3
+2	Friendly
+in Greece	+7
+-7	1437
+1405	+2
+-1	75
+82
+December 16
+1962	Ethiopia
+Turkey	0
+0	Friendly
+in Ethiopia	+4
+-4	1409
+1666	0
+0	82
+25
+
+1963	Ethiopia
+Sudan	4
+0	Friendly
+in Ethiopia	+15
+-15	1424
+1418	+3
+-4	79
+81
+October 12
+1963	Kenya
+Ethiopia	4
+3	Olympic Games qualifier
+in Kenya	+23
+-23	1302
+1401	+5
+-5	113
+86
+November 13
+1963	Ethiopia
+Kenya	7
+1	Olympic Games qualifier
+in Ethiopia	+21
+-21	1422
+1281	+4
+-3	82
+117
+November 26
+1963	Ghana
+Ethiopia	2
+0	African Nations Cup
+in Ghana	+9
+-9	1668
+1413	+1
+0	27
+82
+November 28
+1963	Ethiopia
+Tunisia	4
+2	African Nations Cup
+in Ghana	+53
+-53	1466
+1514	+8
+-9	74
+58
+November 30
+1963	Egypt
+Ethiopia	3
+0	African Nations Cup
+in Ghana	+20
+-20	1695
+1446	+3
+-1	24
+75
+May 10
+1964	Ethiopia
+Morocco	0
+1	Olympic Games qualifier
+in Ethiopia	-16
++16	1430
+1627	-8
++5	82
+33
+May 13
+1964	Greece
+Ethiopia	3
+1	Friendly
+in Greece	+11
+-11	1447
+1419	+6
+-2	73
+84
+May 24
+1964	Morocco
+Ethiopia	1
+0	Olympic Games qualifier
+in Morocco	+6
+-6	1633
+1413	0
+0	32
+84
+November 12
+1965	Tunisia
+Ethiopia	4
+0	African Nations Cup
+in Tunisia	+20
+-20	1560
+1393	+1
+-2	50
+86
+November 19
+1965	Senegal
+Ethiopia	5
+1	African Nations Cup
+in Tunisia	+36
+-36	1513
+1357	+11
+-13	61
+99
+February 19
+1967	Ethiopia
+Kenya	2
+0	East African Friendship Cup
+in Sudan	+18
+-18	1375
+1267	+3
+-2	99
+122
+February 24
+1967	Sudan
+Ethiopia	1
+1	East African Friendship Cup
+in Sudan	-11
++11	1578
+1386	-3
++10	44
+89
+February 26
+1967	Sudan
+Ethiopia	5
+3	East African Friendship Cup
+in Sudan	+7
+-7	1585
+1379	+2
+-8	42
+97
+October 29
+1967	Ethiopia
+Uganda	3
+2	Friendly
+in Ethiopia	+6
+-6	1385
+1342	+3
+0	89
+104
+December 10
+1967	Madagascar
+Ethiopia	1
+0	Olympic Games qualifier
+in Madagascar	+14
+-14	1399
+1371	+3
+-3	87
+93
+December 17
+1967	Ethiopia
+Madagascar	8
+3	Olympic Games qualifier
+in Ethiopia	+32
+-32	1403
+1367	+6
+-8	87
+95
+December 31
+1967	Ethiopia
+Kenya	2
+0	Friendly
+in Ethiopia	+8
+-8	1411
+1326	+1
+-1	86
+107
+January 12
+1968	Ethiopia
+Uganda	2
+1	African Nations Cup
+in Ethiopia	+13
+-13	1424
+1323	0
+-3	86
+108
+January 14
+1968	Ethiopia
+Ivory Coast	1
+0	African Nations Cup
+in Ethiopia	+39
+-39	1463
+1706	+13
+-4	73
+24
+January 16
+1968	Ethiopia
+Algeria	3
+1	African Nations Cup
+in Ethiopia	+52
+-52	1515
+1656	+11
+-9	62
+32
+January 19
+1968	Ethiopia
+Congo (Kinshasa)	2
+3	African Nations Cup
+in Ethiopia	-24
++24	1491
+1650	-5
++4	67
+33
+January 21
+1968	Ethiopia
+Ivory Coast	0
+1	African Nations Cup
+in Ethiopia	-18
++18	1473
+1707	-4
++1	71
+23
+April 20
+1968	Nigeria
+Ethiopia	3
+1	Olympic Games qualifier
+in Nigeria	+20
+-20	1509
+1453	+3
+-6	64
+76
+May 04
+1968	Ethiopia
+Nigeria	0
+1	Olympic Games qualifier
+in Ethiopia	-23
++23	1430
+1532	-4
++5	80
+59
+January 05
+1969	Ethiopia
+Somalia	7
+0	East African Friendship Cup
+in Ethiopia	+3
+-3	1433
+997	0
+-	80
+160
+January 11
+1969	Ethiopia
+Uganda	4
+0	East African Friendship Cup
+in Ethiopia	+13
+-13	1446
+1309	+1
+-5	79
+111
+January 12
+1969	Ethiopia
+Sudan	0
+1	East African Friendship Cup
+in Ethiopia	-14
++14	1432
+1587	-1
++2	80
+45
+January 26
+1969	Libya
+Ethiopia	2
+0	World Cup qualifier
+in Libya	+18
+-18	1491
+1414	+2
+-5	71
+85
+February 09
+1969	Ethiopia
+Libya	5
+1	World Cup qualifier
+in Ethiopia	+35
+-35	1449
+1456	+6
+-5	79
+76
+May 04
+1969	Ethiopia
+Sudan	1
+1	World Cup qualifier
+in Ethiopia	+2
+-2	1451
+1585	0
+0	79
+45
+May 11
+1969	Sudan
+Ethiopia	3
+1	World Cup qualifier
+in Sudan	+12
+-12	1597
+1439	+2
+-2	43
+81
+October 08
+1969	Ethiopia
+Tanzania	7
+0	African Nations Cup qualifier
+in Ethiopia	+15
+-15	1454
+1249	+4
+-7	77
+126
+October 22
+1969	Tanzania
+Ethiopia	1
+2	African Nations Cup qualifier
+in Tanzania	-14
++14	1235
+1468	-3
++2	128
+75
+February 06
+1970	Sudan
+Ethiopia	3
+0	African Nations Cup
+in Sudan	+22
+-22	1583
+1446	+5
+-3	48
+78
+February 08
+1970	Cameroon
+Ethiopia	3
+2	African Nations Cup
+in Sudan	+17
+-17	1584
+1429	+5
+-5	48
+83
+February 10
+1970	Ivory Coast
+Ethiopia	6
+1	African Nations Cup
+in Sudan	+18
+-18	1714
+1411	+1
+-4	24
+87
+March 22
+1970	Ethiopia
+Israel	1
+5	Friendly
+in Ethiopia	-13
++13	1398
+1636	0
++2	87
+37
+May 30
+1970	Zambia
+Ethiopia	0
+1	Olympic Games qualifier
+in Zambia	-33
++33	1535
+1431	-8
++5	60
+82
+November 29
+1970	Ethiopia
+Kenya	0
+1	African Nations Cup qualifier
+in Ethiopia	-35
++35	1396
+1233	-6
++6	88
+130
+December 15
+1970	Kenya
+Ethiopia	2
+0	African Nations Cup qualifier
+in Kenya	+35
+-35	1268
+1361	+9
+-8	120
+96
+May 16
+1971	Ethiopia
+Zambia	6
+3	Olympic Games qualifier
+in Ethiopia	+43
+-43	1404
+1494	+7
+-6	90
+64
+April 23
+1972	Madagascar
+Ethiopia	1
+2	Olympic Games qualifier
+in Madagascar	-27
++27	1411
+1431	-12
++11	89
+78
+May 02
+1972	Ethiopia
+Sudan	2
+2	Olympic Games qualifier
+in Ethiopia	+3
+-3	1434
+1585	+1
+-1	77
+47
+May 07
+1972	Ethiopia
+Greece	0
+1	Friendly
+in Ethiopia	-9
++9	1425
+1572	-3
++1	80
+53
+May 14
+1972	Ethiopia
+Madagascar	3
+2	Olympic Games qualifier
+in Ethiopia	+13
+-13	1438
+1386	+5
+-1	75
+91
+May 21
+1972	Sudan
+Ethiopia	1
+0	Olympic Games qualifier
+in Sudan	+7
+-7	1604
+1431	+2
+-2	42
+77
+November 25
+1972	Ethiopia
+Tanzania	0
+0	World Cup qualifier
+in Ethiopia	-10
++10	1421
+1354	-3
++3	78
+103
+December 03
+1972	Tanzania
+Ethiopia	1
+1	World Cup qualifier
+in Tanzania	-2
++2	1352
+1423	-2
++1	105
+77
+December 10
+1972	Ethiopia
+Tanzania	3
+0	World Cup qualifier
+in Ethiopia	+19
+-19	1442
+1333	+5
+-2	73
+107
+
+1973	Sudan
+Ethiopia	1
+0	Friendly tournament
+in Sudan	+8
+-8	1520
+1434	0
+-1	62
+74
+April 01
+1973	Ethiopia
+Zambia	0
+0	World Cup qualifier
+in Ethiopia	-3
++3	1431
+1490	-1
+0	76
+67
+April 15
+1973	Zambia
+Ethiopia	4
+2	World Cup qualifier
+in Zambia	+17
+-17	1507
+1414	+4
+-6	63
+82
+September 16
+1973	Ethiopia
+Tanzania	2
+1	African Nations Cup qualifier
+in Ethiopia	+9
+-9	1423
+1300	+3
+-1	81
+114
+September 30
+1973	Tanzania
+Ethiopia	3
+0	African Nations Cup qualifier
+in Tanzania	+36
+-36	1354
+1387	+7
+-7	103
+88
+May 18
+1975	Ethiopia
+Tanzania	0
+0	Olympic Games qualifier
+in Ethiopia	-6
++6	1381
+1378	0
++2	91
+94
+May 31
+1975	Tanzania
+Ethiopia	3
+0	Olympic Games qualifier
+in Tanzania	+25
+-25	1403
+1356	+9
+-8	85
+99
+February 29
+1976	Ethiopia
+Uganda	2
+0	African Nations Cup
+in Ethiopia	+36
+-36	1392
+1410	+12
+-7	87
+82
+March 03
+1976	Ethiopia
+Guinea	1
+2	African Nations Cup
+in Ethiopia	-15
++15	1377
+1648	-6
++3	93
+37
+March 05
+1976	Ethiopia
+Egypt	1
+1	African Nations Cup
+in Ethiopia	+12
+-12	1389
+1654	+6
+-2	87
+34
+October 29
+1976	Egypt
+Ethiopia	3
+0	World Cup qualifier
+in Egypt	+11
+-11	1589
+1378	+3
+-4	47
+95
+November 14
+1976	Ethiopia
+Egypt	1
+2	World Cup qualifier
+in Ethiopia	-14
++14	1364
+1603	-1
++4	97
+43
+September 28
+1977	Mauritius
+Ethiopia	2
+3	African Nations Cup qualifier
+in Mauritius	-24
++24	1318
+1388	-4
++4	108
+93
+October 12
+1977	Ethiopia
+Mauritius	1
+0	African Nations Cup qualifier
+in Ethiopia	+11
+-11	1399
+1307	+4
+-6	89
+114
+October 30
+1977	Ethiopia
+Uganda	0
+0	African Nations Cup qualifier
+in Ethiopia	-3
++3	1396
+1452	-1
++1	90
+74
+November 13
+1977	Uganda
+Ethiopia	2
+1	African Nations Cup qualifier
+in Uganda	+12
+-12	1464
+1384	0
+-3	74
+93
+September 16
+1979	Libya
+Ethiopia	2
+1	African Nations Cup qualifier
+in Libya	+15
+-15	1397
+1369	+8
+-5	88
+99
+September 30
+1979	Ethiopia
+Libya	1
+1	African Nations Cup qualifier
+in Ethiopia	-4
++4	1365
+1401	0
++1	98
+86
+May 18
+1980	Ethiopia
+Zambia	0
+0	World Cup qualifier
+in Ethiopia	+4
+-4	1369
+1523	+1
+0	98
+62
+June 01
+1980	Zambia
+Ethiopia	4
+0	World Cup qualifier
+in Zambia	+14
+-14	1537
+1355	0
+-5	62
+103
+April 12
+1981	Ethiopia
+Kenya	0
+0	Friendly
+in Ethiopia	-4
++4	1351
+1325	-2
+0	105
+109
+April 19
+1981	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	0
+0	1351
+1441	0
+0	105
+80
+April 21
+1981	Ethiopia
+Sudan	2
+0	Friendly
+in Ethiopia	+15
+-15	1366
+1426	+8
+-3	97
+83
+April 26
+1981	Ethiopia
+Rwanda	1
+0	African Nations Cup qualifier
+in Ethiopia	+8
+-8	1374
+1217	+3
+-2	94
+139
+May 10
+1981	Rwanda
+Ethiopia	1
+0	African Nations Cup qualifier
+in Rwanda	+23
+-23	1240
+1351	+5
+-11	134
+105
+May 17
+1981	Ethiopia
+South Yemen	1
+1	Friendly
+in Ethiopia	-7
++7	1344
+1174	-1
+0	106
+147
+June 28
+1981	Guinea
+Ethiopia	2
+2	African Nations Cup qualifier
+in Guinea	-15
++15	1554
+1359	-2
++6	57
+98
+October 04
+1981	Ethiopia
+Guinea	1
+1	African Nations Cup qualifier
+in Ethiopia	+5
+-5	1364
+1549	+2
+-3	97
+60
+January 17
+1982	Ethiopia
+Tanzania	0
+2	Friendly
+in Ethiopia	-17
++17	1347
+1444	-5
++3	103
+81
+January 19
+1982	Ethiopia
+Tanzania	0
+0	Friendly
+in Ethiopia	0
+0	1347
+1444	0
+0	103
+81
+February 14
+1982	Ethiopia
+Uganda	1
+2	Friendly
+in Ethiopia	-11
++11	1336
+1431	-2
++1	105
+84
+February 18
+1982	Ethiopia
+Uganda	1
+0	Friendly
+in Ethiopia	+10
+-10	1346
+1421	+3
+-1	103
+86
+March 07
+1982	Nigeria
+Ethiopia	3
+0	African Nations Cup
+in Libya	+19
+-19	1590
+1327	+6
+-5	47
+108
+March 10
+1982	Zambia
+Ethiopia	1
+0	African Nations Cup
+in Libya	+10
+-10	1572
+1317	+4
+-1	52
+109
+March 13
+1982	Algeria
+Ethiopia	0
+0	African Nations Cup
+in Libya	-20
++20	1673
+1337	-2
++3	33
+106
+March 20
+1983	Ethiopia
+Kenya	2
+2	Friendly
+in Ethiopia	+1
+-1	1338
+1471	0
+0	104
+77
+March 22
+1983	Ethiopia
+Kenya	0
+0	Friendly
+in Ethiopia	+1
+-1	1339
+1470	+1
+0	103
+77
+March 27
+1983	Ethiopia
+Djibouti	8
+1	Friendly
+in Ethiopia	+2
+-2	1341
+896	0
+0	103
+182
+March 29
+1983	Ethiopia
+Djibouti	4
+2	Friendly
+in Ethiopia	+1
+-1	1342
+895	0
+0	103
+182
+April 01
+1983	Ethiopia
+Uganda	0
+1	Friendly
+in Ethiopia	-9
++9	1333
+1476	-2
++4	105
+76
+April 03
+1983	Ethiopia
+Uganda	2
+1	Friendly
+in Ethiopia	+11
+-11	1344
+1465	+1
+-4	104
+80
+April 10
+1983	Ethiopia
+Mauritius	1
+0	African Nations Cup qualifier
+in Ethiopia	+14
+-14	1358
+1320	+5
+-2	99
+107
+April 24
+1983	Mauritius
+Ethiopia	1
+0	African Nations Cup qualifier
+in Mauritius	+16
+-16	1336
+1342	+2
+-5	105
+104
+April 29
+1983	Ethiopia
+Nigeria	0
+1	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	-12
++12	1330
+1535	-1
++2	105
+60
+May 01
+1983	Ethiopia
+Libya	1
+0	Addis Ababa 25th Anniversary Tournament
+in Ethiopia	+20
+-20	1350
+1527	+3
+-2	102
+60
+July 03
+1983	Ethiopia
+Togo	2
+1	African Nations Cup qualifier
+in Ethiopia	+23
+-23	1373
+1477	+7
+-6	95
+75
+August 28
+1983	Togo
+Ethiopia	3
+0	African Nations Cup qualifier
+in Togo	+15
+-15	1511
+1358	+1
+-6	66
+101
+November 13
+1983	Ethiopia
+Tanzania	1
+1	Cecafa Cup
+in Kenya	+1
+-1	1359
+1370	+1
+0	100
+95
+November 15
+1983	Kenya
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+14
+-14	1485
+1345	+5
+-5	74
+105
+November 17
+1983	Uganda
+Ethiopia	2
+1	Cecafa Cup
+in Kenya	+13
+-13	1476
+1332	+3
+-2	78
+107
+November 19
+1983	Sudan
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+23
+-23	1439
+1309	+4
+-3	84
+110
+December 08
+1983	Kenya
+Ethiopia	0
+0	Friendly
+in Kenya	-7
++7	1520
+1316	0
++2	62
+108
+December 10
+1983	Kenya
+Ethiopia	0
+1	Friendly
+in Kenya	-17
++17	1503
+1333	-5
++1	67
+107
+December 12
+1983	Kenya
+Ethiopia	2
+1	Friendly
+in Kenya	+3
+-3	1506
+1330	0
+0	67
+107
+March 23
+1984	Djibouti
+Ethiopia	0
+2	Friendly
+in Djibouti	-4
++4	891
+1334	0
+0	183
+108
+June 03
+1984	Ethiopia
+Djibouti	2
+0	Friendly tournament
+in Ethiopia	+2
+-2	1336
+889	0
+0	108
+183
+June 11
+1984	Ethiopia
+Zimbabwe	2
+0	Friendly tournament
+in Ethiopia	+28
+-28	1364
+1490	+10
+-8	98
+71
+October 13
+1984	Kenya
+Ethiopia	2
+1	World Cup qualifier
+in Kenya	+9
+-9	1496
+1355	+4
+-2	69
+100
+October 28
+1984	Ethiopia
+Kenya	3
+3	World Cup qualifier
+in Ethiopia	+2
+-2	1357
+1494	0
+-2	100
+70
+March 14
+1986	Djibouti
+Ethiopia	1
+5	Friendly
+in Djibouti	-4
++4	884
+1361	0
++1	183
+102
+March 18
+1986	Djibouti
+Ethiopia	1
+1	Friendly
+in Djibouti	+8
+-8	892
+1353	0
+-2	183
+104
+June 03
+1986	Djibouti
+Ethiopia	0
+2	Friendly
+in Djibouti	-3
++3	889
+1356	0
++1	183
+103
+October 05
+1986	Ethiopia
+Tanzania	4
+2	African Nations Cup qualifier
+in Ethiopia	+23
+-23	1379
+1348	+7
+-6	95
+104
+December 13
+1987	Ethiopia
+Tanzania	0
+0	Cecafa Cup
+in Ethiopia	-9
++9	1370
+1319	-1
++3	97
+108
+December 17
+1987	Ethiopia
+Zanzibar	0
+0	Cecafa Cup
+in Ethiopia	-17
++17	1353
+1069	-5
++4	102
+165
+December 20
+1987	Ethiopia
+Kenya	2
+1	Cecafa Cup
+in Ethiopia	+18
+-18	1371
+1402	+4
+-7	98
+92
+December 24
+1987	Ethiopia
+Uganda	3
+0	Cecafa Cup
+in Ethiopia	+43
+-43	1414
+1504	+10
+-11	88
+71
+December 27
+1987	Ethiopia
+Zimbabwe	1
+1	Cecafa Cup
+in Ethiopia	+1
+-1	1415
+1528	0
+0	88
+62
+November 06
+1988	Ethiopia
+Zambia	0
+0	Cecafa Cup
+in Malawi	+9
+-9	1424
+1573	+2
+0	88
+48
+November 11
+1988	Ethiopia
+Uganda	2
+1	Cecafa Cup
+in Malawi	+25
+-25	1449
+1485	+7
+-6	81
+73
+November 13
+1988	Ethiopia
+Zimbabwe	1
+2	Cecafa Cup
+in Malawi	-16
++16	1433
+1540	-2
++4	83
+60
+March 26
+1989	Ethiopia
+Malawi	1
+1	Friendly
+in Ethiopia	+2
+-2	1435
+1586	0
+0	86
+49
+March 28
+1989	Ethiopia
+Malawi	1
+0	Friendly
+in Ethiopia	+11
+-11	1446
+1575	+3
+-1	83
+50
+March 31
+1989	Ethiopia
+Zambia	0
+1	Friendly
+in Ethiopia	-9
++9	1437
+1600	-3
++1	86
+46
+April 02
+1989	Ethiopia
+Zambia	2
+2	Friendly
+in Ethiopia	+2
+-2	1439
+1598	+1
+0	85
+46
+April 09
+1989	Ethiopia
+Egypt	1
+0	African Nations Cup qualifier
+in Ethiopia	+26
+-26	1465
+1620	+9
+-3	76
+41
+April 21
+1989	Egypt
+Ethiopia	6
+1	African Nations Cup qualifier
+in Egypt	+15
+-15	1635
+1450	+4
+-6	38
+81
+August 17
+1990	Egypt
+Ethiopia	2
+0	African Nations Cup qualifier
+in Egypt	+9
+-9	1651
+1441	+2
+-1	37
+81
+November 18
+1990	Ethiopia
+Tunisia	0
+2	African Nations Cup qualifier
+in Ethiopia	-40
++40	1401
+1466	-10
++12	91
+76
+May 26
+1992	Ethiopia
+Sudan	5
+1	Friendly
+in Ethiopia	+12
+-12	1413
+1364	+3
+-2	90
+106
+August 15
+1992	Uganda
+Ethiopia	3
+1	African Nations Cup qualifier
+in Uganda	+16
+-16	1503
+1397	+5
+-8	70
+98
+August 30
+1992	Ethiopia
+Sudan	3
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1421
+1355	+8
+-4	90
+109
+October 11
+1992	Morocco
+Ethiopia	5
+0	World Cup qualifier
+in Morocco	+16
+-16	1576
+1405	+4
+-3	53
+93
+October 25
+1992	Ethiopia
+Tunisia	0
+0	World Cup qualifier
+in Ethiopia	+1
+-1	1406
+1519	+1
+0	93
+65
+November 15
+1992	Ethiopia
+Zanzibar	3
+0	Cecafa Cup
+in Tanzania	+11
+-11	1417
+1101	+3
+0	90
+169
+November 17
+1992	Zambia
+Ethiopia	3
+2	Cecafa Cup
+in Tanzania	+8
+-8	1657
+1409	+2
+-3	34
+93
+November 20
+1992	Tanzania
+Ethiopia	2
+1	Cecafa Cup
+in Tanzania	+22
+-22	1301
+1387	+6
+-7	122
+101
+November 22
+1992	Malawi
+Ethiopia	2
+1	Cecafa Cup
+in Tanzania	+17
+-17	1452
+1370	+2
+-3	88
+104
+December 20
+1992	Ethiopia
+Benin	3
+1	World Cup qualifier
+in Ethiopia	+9
+-9	1379
+1165	+3
+0	102
+155
+January 17
+1993	Ethiopia
+Morocco	0
+1	World Cup qualifier
+in Ethiopia	-14
++14	1365
+1595	-3
++1	105
+50
+January 31
+1993	Tunisia
+Ethiopia	3
+0	World Cup qualifier
+in Tunisia	+11
+-11	1565
+1354	+3
+-2	53
+107
+February 28
+1993	Benin
+Ethiopia	1
+0	World Cup qualifier
+in Benin	+26
+-26	1174
+1328	+4
+-8	156
+116
+April 10
+1993	Ethiopia
+Nigeria	1
+0	African Nations Cup qualifier
+in Ethiopia	+34
+-34	1362
+1681	+10
+-2	106
+31
+April 25
+1993	Ethiopia
+Uganda	2
+2	African Nations Cup qualifier
+in Ethiopia	+2
+-2	1364
+1502	0
+-1	104
+72
+May 26
+1993	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	-3
++3	1361
+1355	+1
++4	105
+109
+July 10
+1993	Sudan
+Ethiopia	1
+0	African Nations Cup qualifier
+in Sudan	+15
+-15	1370
+1346	+3
+-7	110
+117
+July 24
+1993	Nigeria
+Ethiopia	6
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1692
+1340	0
+-1	30
+116
+September 04
+1994	Ethiopia
+Algeria	0
+0	African Nations Cup qualifier
+in Ethiopia	+10
+-10	1350
+1611	+2
+-2	119
+43
+October 15
+1994	Uganda
+Ethiopia	4
+1	African Nations Cup qualifier
+in Uganda	+19
+-19	1445
+1331	+8
+-6	89
+124
+November 11
+1994	Egypt
+Ethiopia	5
+0	African Nations Cup qualifier
+in Egypt	+8
+-8	1618
+1323	0
+-2	43
+126
+January 08
+1995	Ethiopia
+Tanzania	1
+0	African Nations Cup qualifier
+in Ethiopia	+22
+-22	1345
+1429	+6
+-12	119
+98
+January 22
+1995	Ethiopia
+Sudan	2
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1369
+1351	+8
+-8	111
+117
+April 07
+1995	Algeria
+Ethiopia	2
+0	African Nations Cup qualifier
+in Algeria	+9
+-9	1584
+1360	+4
+-2	50
+113
+April 23
+1995	Ethiopia
+Uganda	0
+0	African Nations Cup qualifier
+in Ethiopia	0
+0	1360
+1456	0
+-1	113
+86
+June 04
+1995	Ethiopia
+Egypt	0
+2	African Nations Cup qualifier
+in Ethiopia	-18
++18	1342
+1630	-5
++3	119
+37
+July 15
+1995	Tanzania
+Ethiopia	2
+0	African Nations Cup qualifier
+in Tanzania	+17
+-17	1415
+1325	+5
+-5	100
+124
+July 30
+1995	Sudan
+Ethiopia	3
+0	African Nations Cup qualifier
+in Sudan	+20
+-20	1404
+1305	+8
+-5	103
+130
+November 27
+1995	Ethiopia
+Tanzania	2
+2	Cecafa Cup
+in Uganda	+6
+-6	1311
+1401	+1
+-1	128
+103
+December 03
+1995	Ethiopia
+Somalia	5
+0	Cecafa Cup
+in Uganda	+18
+-18	1329
+1083	+6
+-3	122
+176
+December 06
+1995	Ethiopia
+Zanzibar	1
+1	Cecafa Cup
+in Uganda	-8
++8	1321
+1184	-3
++2	125
+159
+December 09
+1995	Ethiopia
+Kenya	1
+2	Cecafa Cup
+in Uganda	-15
++15	1306
+1430	-3
++5	128
+96
+April 21
+1996	Ethiopia
+Ghana	2
+0	Friendly
+in Ethiopia	+25
+-25	1331
+1641	+7
+-3	120
+37
+August 11
+1996	Uganda
+Ethiopia	1
+1	African Nations Cup qualifier
+in Uganda	-6
++6	1341
+1337	0
++3	119
+121
+August 25
+1996	Ethiopia
+Uganda	1
+1	African Nations Cup qualifier
+in Ethiopia	-5
++5	1332
+1345	-3
+0	124
+119
+October 06
+1996	Ethiopia
+Senegal	1
+2	African Nations Cup qualifier
+in Ethiopia	-19
++19	1313
+1460	-5
++4	127
+87
+February 23
+1997	Ethiopia
+Egypt	1
+1	African Nations Cup qualifier
+in Ethiopia	+9
+-9	1322
+1583	0
+0	128
+53
+June 01
+1997	Morocco
+Ethiopia	4
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1701
+1317	0
+0	28
+127
+June 22
+1997	Senegal
+Ethiopia	3
+0	African Nations Cup qualifier
+in Senegal	+14
+-14	1471
+1303	+3
+-3	81
+130
+July 13
+1997	Ethiopia
+Morocco	0
+1	African Nations Cup qualifier
+in Ethiopia	-6
++6	1297
+1725	0
++1	131
+27
+July 27
+1997	Egypt
+Ethiopia	8
+1	African Nations Cup qualifier
+in Egypt	+8
+-8	1598
+1289	+3
+-1	51
+132
+January 31
+1999	Ethiopia
+Kenya	2
+2	Friendly
+in Ethiopia	+1
+-1	1290
+1429	+1
+0	130
+94
+July 25
+1999	Ethiopia
+Zanzibar	2
+0	Cecafa Cup
+in Rwanda	+21
+-21	1311
+1163	+3
+-4	127
+162
+July 27
+1999	Sudan
+Ethiopia	0
+0	Cecafa Cup
+in Rwanda	-4
++4	1370
+1315	-3
+0	113
+127
+March 05
+2000	Ethiopia
+Sudan	1
+0	Friendly
+in Ethiopia	+8
+-8	1323
+1321	+3
+-3	123
+125
+April 09
+2000	Ethiopia
+Burkina Faso	2
+1	World Cup qualifier
+in Ethiopia	+19
+-19	1342
+1384	+2
+-7	121
+107
+April 12
+2000	Ethiopia
+Dem. Rep. of Congo	1
+2	Friendly
+in Ethiopia	-9
++9	1333
+1492	-1
++3	122
+79
+April 23
+2000	Burkina Faso
+Ethiopia	3
+0	World Cup qualifier
+in Burkina Faso	+21
+-21	1399
+1312	+7
+-3	103
+127
+July 02
+2000	Ethiopia
+Zambia	1
+0	African Nations Cup qualifier
+in Ethiopia	+25
+-25	1337
+1478	+5
+-10	124
+80
+July 15
+2000	Zambia
+Ethiopia	2
+0	African Nations Cup qualifier
+in Zambia	+11
+-11	1506
+1326	+7
+-1	70
+125
+November 18
+2000	Uganda
+Ethiopia	2
+2	Cecafa Cup
+in Uganda	-10
++10	1408
+1336	-2
++4	101
+121
+November 21
+2000	Ethiopia
+Somalia	2
+1	Cecafa Cup
+in Uganda	+7
+-7	1343
+1048	+2
+-3	119
+182
+November 25
+2000	Ethiopia
+Djibouti	4
+2	Cecafa Cup
+in Uganda	+4
+-4	1347
+891	+2
+0	116
+204
+November 27
+2000	Ethiopia
+Burundi	1
+0	Cecafa Cup
+in Uganda	+24
+-24	1371
+1387	+4
+-2	112
+103
+December 02
+2000	Ethiopia
+Rwanda	1
+1	Cecafa Cup
+in Uganda	-1
++1	1370
+1359	0
+0	111
+115
+November 21
+2001	Ethiopia
+Zambia	1
+2	Friendly
+in Ethiopia	-10
++10	1360
+1497	-3
++3	117
+78
+December 13
+2001	Ethiopia
+Zanzibar	5
+0	Cecafa Cup
+in Rwanda	+19
+-19	1379
+1143	+8
+-3	110
+166
+December 18
+2001	Ethiopia
+Burundi	2
+2	Cecafa Cup
+in Rwanda	-1
++1	1378
+1364	-1
+0	110
+116
+December 20
+2001	Rwanda
+Ethiopia	0
+1	Cecafa Cup
+in Rwanda	-26
++26	1354
+1404	-11
++10	119
+100
+December 22
+2001	Ethiopia
+Kenya	2
+1	Cecafa Cup
+in Rwanda	+19
+-19	1423
+1376	+2
+-9	98
+110
+April 10
+2002	Yemen
+Ethiopia	2
+2	Friendly
+in Yemen	+3
+-3	1201
+1420	0
+-1	155
+97
+April 12
+2002	Ethiopia
+Tanzania	3
+0	Friendly
+in Ethiopia	+9
+-9	1429
+1320	+1
+-4	96
+128
+April 28
+2002	Tanzania
+Ethiopia	3
+1	Friendly
+in Tanzania	+15
+-15	1335
+1414	+4
+-3	124
+99
+July 26
+2002	Ethiopia
+Uganda	0
+0	Friendly tournament
+in Sudan	-4
++4	1410
+1325	-1
+0	99
+125
+July 28
+2002	Chad
+Ethiopia	3
+2	Friendly tournament
+in Sudan	+20
+-20	1300
+1390	+6
+-9	130
+108
+July 30
+2002	Sudan
+Ethiopia	3
+0	Friendly tournament
+in Sudan	+18
+-18	1415
+1372	+7
+-5	97
+113
+August 08
+2002	Egypt
+Ethiopia	4
+1	Friendly
+in Egypt	+4
+-4	1630
+1368	0
+-1	45
+114
+September 07
+2002	Niger
+Ethiopia	3
+1	African Nations Cup qualifier
+in Niger	+27
+-27	1331
+1341	+2
+-9	128
+126
+October 13
+2002	Ethiopia
+Guinea	1
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1365
+1483	+8
+-6	118
+76
+December 02
+2002	Zanzibar
+Ethiopia	0
+0	Cecafa Cup
+in Tanzania	+11
+-11	1150
+1354	+3
+-3	163
+121
+December 04
+2002	Uganda
+Ethiopia	3
+0	Cecafa Cup
+in Tanzania	+30
+-30	1432
+1324	+13
+-7	95
+129
+December 07
+2002	Somalia
+Ethiopia	1
+0	Cecafa Cup
+in Tanzania	+35
+-35	1040
+1289	+6
+-5	182
+133
+December 09
+2002	Rwanda
+Ethiopia	1
+0	Cecafa Cup
+in Tanzania	+17
+-17	1357
+1272	+4
+-5	121
+137
+March 26
+2003	Ethiopia
+Benin	3
+0	Friendly
+in Ethiopia	+14
+-14	1286
+1279	+6
+-5	135
+139
+March 30
+2003	Ethiopia
+Liberia	1
+0	African Nations Cup qualifier
+in Ethiopia	+25
+-25	1311
+1443	+6
+-6	129
+91
+June 08
+2003	Liberia
+Ethiopia	1
+0	African Nations Cup qualifier
+in Liberia	+8
+-8	1451
+1303	+1
+0	88
+130
+June 22
+2003	Ethiopia
+Niger	2
+0	African Nations Cup qualifier
+in Ethiopia	+24
+-24	1327
+1311	+3
+-4	128
+132
+July 06
+2003	Guinea
+Ethiopia	3
+0	African Nations Cup qualifier
+in Guinea	+13
+-13	1493
+1314	+4
+-2	76
+131
+October 12
+2003	Ethiopia
+Malawi	1
+3	World Cup qualifier
+in Ethiopia	-40
++40	1274
+1332	-9
++7	139
+125
+November 15
+2003	Malawi
+Ethiopia	0
+0	World Cup qualifier
+in Malawi	-9
++9	1323
+1283	-1
++5	126
+135
+December 11
+2004	Ethiopia
+Burundi	2
+1	Cecafa Cup
+in Ethiopia	+13
+-13	1296
+1249	+4
+-3	132
+144
+December 15
+2004	Ethiopia
+Rwanda	0
+0	Cecafa Cup
+in Ethiopia	-4
++4	1292
+1321	-2
++2	134
+124
+December 17
+2004	Ethiopia
+Tanzania	2
+0	Cecafa Cup
+in Ethiopia	+13
+-13	1305
+1156	+5
+-2	129
+167
+December 19
+2004	Ethiopia
+Zanzibar	3
+0	Cecafa Cup
+in Ethiopia	+14
+-14	1319
+1148	+1
+-2	128
+167
+December 22
+2004	Ethiopia
+Kenya	2
+2	Cecafa Cup
+in Ethiopia	+2
+-2	1321
+1453	+1
+0	127
+92
+December 25
+2004	Ethiopia
+Burundi	3
+0	Cecafa Cup
+in Ethiopia	+27
+-27	1348
+1318	+7
+-9	120
+129
+March 12
+2005	Sudan
+Ethiopia	3
+1	Friendly
+in Sudan	+10
+-10	1367
+1338	+5
+-5	108
+123
+November 24
+2005	Sudan
+Ethiopia	1
+5	Friendly
+in Sudan	-27
++27	1364
+1365	-9
++9	110
+108
+November 27
+2005	Ethiopia
+Uganda	0
+0	Cecafa Cup
+in Rwanda	-3
++3	1362
+1321	-2
++1	110
+123
+December 01
+2005	Ethiopia
+Sudan	3
+1	Cecafa Cup
+in Rwanda	+31
+-31	1393
+1342	+9
+-11	101
+116
+December 03
+2005	Ethiopia
+Djibouti	6
+0	Cecafa Cup
+in Rwanda	+4
+-4	1397
+853	+2
+0	99
+203
+December 05
+2005	Ethiopia
+Somalia	3
+1	Cecafa Cup
+in Rwanda	+6
+-6	1403
+996	0
+0	99
+189
+December 08
+2005	Ethiopia
+Zanzibar	4
+0	Cecafa Cup
+in Rwanda	+19
+-19	1422
+1197	+2
+-5	97
+158
+December 10
+2005	Rwanda
+Ethiopia	0
+1	Cecafa Cup
+in Rwanda	-21
++21	1313
+1443	-7
++4	126
+93
+August 11
+2006	Ethiopia
+Kenya	1
+0	Friendly
+in Ethiopia	+5
+-5	1448
+1361	+1
+-4	93
+111
+September 03
+2006	Ethiopia
+Libya	1
+0	African Nations Cup qualifier
+in Ethiopia	+15
+-15	1463
+1442	+3
+-4	88
+93
+October 04
+2006	Ethiopia
+Swaziland	2
+0	Friendly
+in Ethiopia	+3
+-3	1466
+1187	0
+0	89
+160
+October 07
+2006	Namibia
+Ethiopia	1
+0	African Nations Cup qualifier
+in Namibia	+30
+-30	1207
+1436	+13
+-7	153
+96
+November 25
+2006	Ethiopia
+Tanzania	1
+2	Cecafa Cup
+in Ethiopia	-34
++34	1402
+1283	-5
++10	100
+134
+November 28
+2006	Ethiopia
+Djibouti	4
+0	Cecafa Cup
+in Ethiopia	+2
+-2	1404
+842	0
+0	99
+207
+December 01
+2006	Ethiopia
+Malawi	1
+0	Cecafa Cup
+in Ethiopia	+10
+-10	1414
+1309	0
+-7	99
+127
+December 05
+2006	Ethiopia
+Zambia	0
+1	Cecafa Cup
+in Ethiopia	-19
++19	1395
+1550	-2
++7	101
+64
+April 29
+2007	Dem. Rep. of Congo
+Ethiopia	2
+0	African Nations Cup qualifier
+in Dem. Rep. of Congo	+16
+-16	1485
+1379	+3
+-4	86
+105
+June 01
+2007	Ethiopia
+Dem. Rep. of Congo	1
+0	African Nations Cup qualifier
+in Ethiopia	+20
+-20	1399
+1456	+3
+-2	101
+89
+June 17
+2007	Libya
+Ethiopia	3
+1	African Nations Cup qualifier
+in Libya	+22
+-22	1422
+1377	+4
+-4	97
+107
+September 08
+2007	Ethiopia
+Namibia	2
+3	African Nations Cup qualifier
+in Ethiopia	-32
++32	1345
+1278	-6
++8	116
+137
+December 13
+2007	Zanzibar
+Ethiopia	3
+1	Cecafa Cup
+in Tanzania	+40
+-40	1264
+1305	+6
+-10	142
+131
+December 15
+2007	Ethiopia
+Sudan	0
+0	Cecafa Cup
+in Tanzania	+7
+-7	1312
+1421	+1
+0	130
+99
+May 31
+2008	Morocco
+Ethiopia	3
+0	World Cup qualifier
+in Morocco	+5
+-5	1680
+1307	+1
+0	41
+131
+June 08
+2008	Ethiopia
+Rwanda	1
+2	World Cup qualifier
+in Ethiopia	-23
++23	1284
+1372	-3
++4	134
+112
+June 13
+2008	Mauritania
+Ethiopia	0
+1	World Cup qualifier
+in Mauritania	-21
++21	1180
+1305	-6
++5	162
+129
+June 22
+2008	Ethiopia
+Mauritania	6
+1	World Cup qualifier
+in Ethiopia	+17
+-17	1322
+1163	+3
+-3	127
+165
+November 30
+2009	Ethiopia
+Djibouti	5
+0	Cecafa Cup
+in Kenya	+4
+-4	1326
+796	0
+-1	127
+211
+December 02
+2009	Zambia
+Ethiopia	1
+0	Cecafa Cup
+in Kenya	+11
+-11	1497
+1315	0
+-1	88
+128
+December 05
+2009	Kenya
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+20
+-20	1354
+1295	+4
+-5	121
+133
+August 18
+2010	Ethiopia
+Kenya	0
+3	Friendly
+in Ethiopia	-21
++21	1274
+1342	-4
++5	139
+123
+August 29
+2010	Ethiopia
+Chad	1
+0	Friendly
+in Ethiopia	+7
+-7	1281
+1275	+1
+-1	138
+139
+September 05
+2010	Ethiopia
+Guinea	1
+4	African Nations Cup qualifier
+in Ethiopia	-25
++25	1256
+1506	-5
++6	143
+84
+October 10
+2010	Madagascar
+Ethiopia	0
+1	African Nations Cup qualifier
+in Madagascar	-24
++24	1211
+1280	-3
++5	152
+138
+November 29
+2010	Uganda
+Ethiopia	2
+1	Cecafa Cup
+in Tanzania	+7
+-7	1564
+1273	+5
+0	66
+140
+December 02
+2010	Ethiopia
+Kenya	2
+1	Cecafa Cup
+in Tanzania	+22
+-22	1295
+1286	+7
+-9	134
+140
+December 04
+2010	Ethiopia
+Malawi	1
+1	Cecafa Cup
+in Tanzania	+8
+-8	1303
+1425	+2
+-2	132
+104
+December 07
+2010	Ethiopia
+Zambia	2
+1	Cecafa Cup
+in Tanzania	+32
+-32	1335
+1513	+3
+-8	127
+79
+December 12
+2010	Uganda
+Ethiopia	4
+3	Cecafa Cup
+in Tanzania	+9
+-9	1557
+1326	0
+-1	70
+128
+March 27
+2011	Nigeria
+Ethiopia	4
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1649
+1320	+3
+-2	43
+129
+May 28
+2011	Ethiopia
+Sudan	1
+2	Friendly
+in Ethiopia	-12
++12	1308
+1346	0
++3	128
+121
+June 01
+2011	Ethiopia
+Sudan	1
+1	Friendly
+in Ethiopia	-2
++2	1306
+1348	-1
++1	129
+120
+June 05
+2011	Ethiopia
+Nigeria	2
+2	African Nations Cup qualifier
+in Ethiopia	+13
+-13	1319
+1665	+2
+-5	128
+44
+September 04
+2011	Guinea
+Ethiopia	1
+0	African Nations Cup qualifier
+in Guinea	+6
+-6	1512
+1313	+4
+-1	77
+133
+October 01
+2011	Ethiopia
+Sudan	1
+2	Friendly
+in Ethiopia	-10
++10	1303
+1413	-3
++5	133
+103
+October 04
+2011	Ethiopia
+Malawi	0
+0	Friendly
+in Ethiopia	+1
+-1	1304
+1430	0
+0	133
+99
+October 08
+2011	Ethiopia
+Madagascar	4
+2	African Nations Cup qualifier
+in Ethiopia	+14
+-14	1318
+1181	+3
+-5	130
+160
+November 12
+2011	Somalia
+Ethiopia	0
+0	World Cup qualifier
+in Djibouti	+17
+-17	910
+1301	+3
+-3	196
+134
+November 16
+2011	Ethiopia
+Somalia	5
+0	World Cup qualifier
+in Ethiopia	+4
+-4	1305
+906	+2
+-1	134
+197
+November 28
+2011	Ethiopia
+Sudan	1
+1	Cecafa Cup
+in Tanzania	+5
+-5	1310
+1393	+2
+0	132
+106
+November 30
+2011	Kenya
+Ethiopia	2
+0	Cecafa Cup
+in Tanzania	+30
+-30	1339
+1280	+8
+-7	125
+139
+December 02
+2011	Ethiopia
+Malawi	1
+1	Cecafa Cup
+in Tanzania	+9
+-9	1289
+1435	+2
+0	137
+97
+February 29
+2012	Ethiopia
+Benin	0
+0	African Nations Cup qualifier
+in Ethiopia	-1
++1	1288
+1376	-1
++5	139
+109
+June 03
+2012	South Africa
+Ethiopia	1
+1	World Cup qualifier
+in South Africa	-16
++16	1566
+1304	-4
++4	65
+133
+June 10
+2012	Ethiopia
+Central African Republic	2
+0	World Cup qualifier
+in Ethiopia	+24
+-24	1328
+1305	+8
+-7	127
+133
+June 17
+2012	Benin
+Ethiopia	1
+1	African Nations Cup qualifier
+in Benin	-10
++10	1401
+1338	-3
++3	106
+124
+August 15
+2012	Libya
+Ethiopia	2
+1	Friendly
+in Libya	+2
+-2	1605
+1336	-1
+-1	56
+123
+September 08
+2012	Sudan
+Ethiopia	5
+3	African Nations Cup qualifier
+in Sudan	+13
+-13	1477
+1323	+2
+-5	91
+128
+October 14
+2012	Ethiopia
+Sudan	2
+0	African Nations Cup qualifier
+in Ethiopia	+35
+-35	1358
+1442	+6
+-8	120
+97
+November 24
+2012	Ethiopia
+South Sudan	1
+0	Cecafa Cup
+in Uganda	+17
+-17	1375
+1286	+8
+-5	114
+140
+November 27
+2012	Uganda
+Ethiopia	1
+0	Cecafa Cup
+in Uganda	+8
+-8	1535
+1367	+1
+-4	73
+118
+November 30
+2012	Kenya
+Ethiopia	3
+1	Cecafa Cup
+in Uganda	+33
+-33	1361
+1334	+6
+-6	120
+125
+December 04
+2012	Uganda
+Ethiopia	2
+0	Cecafa Cup
+in Uganda	+9
+-9	1552
+1325	+2
+-2	70
+128
+December 30
+2012	Ethiopia
+Niger	1
+0	Friendly
+in Ethiopia	+8
+-8	1333
+1351	+1
+-1	127
+123
+January 07
+2013	Ethiopia
+Tunisia	1
+1	Friendly
+in Qatar	+6
+-6	1339
+1593	+1
+-2	126
+57
+January 11
+2013	Ethiopia
+Tanzania	2
+1	Friendly
+in Ethiopia	+7
+-7	1346
+1343	+1
+-2	125
+126
+January 21
+2013	Ethiopia
+Zambia	1
+1	African Nations Cup
+in South Africa	+14
+-14	1360
+1551	+4
+-2	121
+70
+January 25
+2013	Burkina Faso
+Ethiopia	4
+0	African Nations Cup
+in South Africa	+32
+-32	1503
+1328	+8
+-7	82
+128
+January 29
+2013	Nigeria
+Ethiopia	2
+0	African Nations Cup
+in South Africa	+12
+-12	1632
+1316	+2
+-1	48
+129
+March 24
+2013	Ethiopia
+Botswana	1
+0	World Cup qualifier
+in Ethiopia	+14
+-14	1330
+1289	+3
+-3	126
+137
+May 25
+2013	Ethiopia
+Sudan	2
+0	Friendly
+in Ethiopia	+12
+-12	1342
+1356	+2
+0	124
+118
+June 08
+2013	Botswana
+Ethiopia	1
+2	World Cup qualifier
+in Botswana	-23
++23	1275
+1365	-3
++7	140
+118
+June 16
+2013	Ethiopia
+South Africa	2
+1	World Cup qualifier
+in Ethiopia	+26
+-26	1391
+1556	+7
+-7	108
+66
+September 07
+2013	Central African Republic
+Ethiopia	1
+2	World Cup qualifier
+in Congo	-16
++16	1306
+1407	-4
++4	133
+104
+October 13
+2013	Ethiopia
+Nigeria	1
+2	World Cup qualifier
+in Ethiopia	-9
++9	1398
+1720	-1
++1	106
+27
+November 16
+2013	Nigeria
+Ethiopia	2
+0	World Cup qualifier
+in Nigeria	+5
+-5	1713
+1393	0
+-2	31
+109
+November 27
+2013	Kenya
+Ethiopia	0
+0	Cecafa Cup
+in Kenya	-5
++5	1384
+1398	-1
++1	110
+107
+November 30
+2013	Ethiopia
+Zanzibar	3
+1	Cecafa Cup
+in Kenya	+23
+-23	1421
+1290	+5
+-6	102
+137
+December 03
+2013	Ethiopia
+South Sudan	2
+0	Cecafa Cup
+in Kenya	+14
+-14	1435
+1207	+3
+-3	99
+155
+December 08
+2013	Sudan
+Ethiopia	2
+0	Cecafa Cup
+in Kenya	+38
+-38	1373
+1397	+9
+-9	115
+108

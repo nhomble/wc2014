@@ -1,0 +1,1980 @@
+June 01
+1954	Gold Coast
+Sierra Leone	2
+0	Friendly
+in Gold Coast	+5
+-5	1675
+1495	+1
+-	22
+51
+November 12
+1966	Sierra Leone
+Liberia	1
+1	Friendly
+in Sierra Leone	-6
++6	1489
+1368	-1
+0	67
+98
+November 19
+1966	Liberia
+Sierra Leone	2
+0	Friendly
+in Liberia	+16
+-16	1384
+1473	+8
+-4	90
+71
+October 14
+1967	Sierra Leone
+Nigeria	1
+1	Friendly
+in Sierra Leone	-3
++3	1470
+1453	-2
+0	72
+75
+December 02
+1967	Sierra Leone
+Guinea	2
+1	Friendly
+in Sierra Leone	+8
+-8	1478
+1497	+3
+-2	69
+66
+January 27
+1968	Nigeria
+Sierra Leone	4
+1	Friendly
+in Nigeria	+13
+-13	1489
+1465	+3
+-4	67
+73
+November 16
+1968	Sierra Leone
+Gambia	2
+1	Friendly
+in Sierra Leone	+4
+-4	1469
+1319	0
+-2	75
+108
+December 14
+1968	Sierra Leone
+Guinea	1
+1	Friendly
+in Sierra Leone	-2
++2	1467
+1518	0
+0	75
+65
+February 02
+1969	Guinea
+Sierra Leone	1
+1	Friendly
+in Guinea	-4
++4	1514
+1471	0
+0	63
+75
+October 11
+1970	Sierra Leone
+Senegal	1
+0	Friendly
+in Sierra Leone	+7
+-7	1478
+1467	+4
+-3	69
+73
+November 01
+1970	Sierra Leone
+Guinea	1
+2	Friendly
+in Sierra Leone	-10
++10	1468
+1574	-3
++1	72
+49
+January 31
+1971	Ghana
+Sierra Leone	1
+2	Friendly
+in Ghana	-17
++17	1665
+1485	-5
++3	34
+67
+February 07
+1971	Ghana
+Sierra Leone	2
+1	Friendly
+in Ghana	+3
+-3	1668
+1482	+1
+0	33
+67
+February 13
+1971	Nigeria
+Sierra Leone	1
+0	Friendly
+in Nigeria	+6
+-6	1538
+1476	+1
+-2	58
+69
+April 24
+1971	Sierra Leone
+Gambia	3
+1	Friendly
+in Sierra Leone	+6
+-6	1482
+1313	+2
+-1	69
+109
+July 25
+1971	Senegal
+Sierra Leone	2
+1	Friendly
+in Senegal	+6
+-6	1515
+1476	0
+-1	60
+69
+December 04
+1971	Sierra Leone
+Nigeria	0
+1	Friendly
+in Sierra Leone	-12
++12	1464
+1523	0
++3	71
+58
+October 15
+1972	Sierra Leone
+Ivory Coast	0
+1	World Cup qualifier
+in Sierra Leone	-18
++18	1446
+1613	-1
++5	72
+40
+October 29
+1972	Ivory Coast
+Sierra Leone	2
+0	World Cup qualifier
+in Ivory Coast	+11
+-11	1624
+1435	+3
+-3	37
+75
+December 01
+1972	Ghana
+Sierra Leone	1
+1	African Games qualifier
+in Ghana	-14
++14	1614
+1449	-2
++4	39
+70
+September 16
+1973	Sierra Leone
+Mali	1
+1	African Nations Cup qualifier
+in Sierra Leone	0
+0	1449
+1541	0
+0	71
+57
+September 30
+1973	Mali
+Sierra Leone	4
+2	African Nations Cup qualifier
+in Mali	+15
+-15	1556
+1434	+3
+-5	53
+77
+March 07
+1976	Sierra Leone
+Niger	5
+1	World Cup qualifier
+in Sierra Leone	+9
+-9	1443
+1178	0
+-1	76
+141
+March 21
+1976	Niger
+Sierra Leone	2
+1	World Cup qualifier
+in Niger	+29
+-29	1207
+1414	+2
+-3	139
+79
+July 08
+1976	Malawi
+Sierra Leone	4
+2	Friendly
+in Malawi	+15
+-15	1323
+1399	+6
+-2	109
+81
+October 16
+1976	Sierra Leone
+Nigeria	0
+0	World Cup qualifier
+in Sierra Leone	+9
+-9	1408
+1663	+4
+-1	82
+33
+October 30
+1976	Nigeria
+Sierra Leone	6
+2	World Cup qualifier
+in Nigeria	+9
+-9	1672
+1399	+1
+-4	32
+86
+September 18
+1977	Sierra Leone
+Nigeria	1
+1	African Nations Cup qualifier
+in Sierra Leone	+10
+-10	1409
+1683	+2
+-1	87
+32
+October 02
+1977	Nigeria
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Nigeria	+6
+-6	1693
+1403	0
+-2	31
+88
+July 06
+1978	Malawi
+Sierra Leone	5
+0	Friendly
+in Malawi	+18
+-18	1356
+1385	+3
+-5	100
+92
+January 06
+1980	Sierra Leone
+Ghana	2
+4	Friendly
+in Sierra Leone	-9
++9	1376
+1637	-3
++2	96
+36
+March 04
+1980	Sierra Leone
+Guinea	3
+2	Friendly
+in Sierra Leone	+13
+-13	1389
+1583	+5
+-5	91
+53
+May 31
+1980	Sierra Leone
+Algeria	2
+2	World Cup qualifier
+in Sierra Leone	+7
+-7	1396
+1602	0
+0	89
+48
+June 13
+1980	Algeria
+Sierra Leone	3
+1	World Cup qualifier
+in Algeria	+9
+-9	1611
+1387	0
+-2	48
+91
+November 17
+1980	Senegal
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Senegal	+8
+-8	1621
+1379	0
+-1	42
+94
+November 30
+1980	Sierra Leone
+Senegal	1
+2	African Nations Cup qualifier
+in Sierra Leone	-12
++12	1367
+1633	-5
++2	98
+39
+February 11
+1982	Sierra Leone
+Guinea-Bissau	2
+1	Amilcar Cabral Cup
+in Cape Verde	+14
+-14	1381
+1251	+3
+-3	94
+130
+February 13
+1982	Guinea
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Cape Verde	+11
+-11	1550
+1370	+2
+-3	59
+97
+February 15
+1982	Senegal
+Sierra Leone	2
+0	Amilcar Cabral Cup
+in Cape Verde	+12
+-12	1616
+1358	+3
+-1	41
+98
+November 07
+1982	Liberia
+Sierra Leone	1
+0	Friendly
+in Liberia	+10
+-10	1267
+1348	+7
+-5	125
+103
+November 14
+1982	Togo
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Togo	+17
+-17	1458
+1331	+3
+-6	80
+109
+November 28
+1982	Sierra Leone
+Togo	0
+1	African Nations Cup qualifier
+in Sierra Leone	-18
++18	1313
+1476	-1
++4	109
+78
+February 06
+1983	Sierra Leone
+Gambia	0
+1	Cedeao Tournament
+in Sierra Leone	-26
++26	1287
+1332	-10
++7	119
+107
+February 20
+1983	Gambia
+Sierra Leone	0
+1	Cedeao Tournament
+in Gambia	-28
++28	1304
+1315	-7
++11	114
+108
+April 17
+1983	Sierra Leone
+Jordan	2
+1	Friendly
+in Sierra Leone	+5
+-5	1320
+1219	+1
+-1	107
+139
+July 21
+1983	Mali
+Sierra Leone	3
+1	Amilcar Cabral Cup
+in Mauritania	+16
+-16	1509
+1304	+6
+-6	65
+113
+July 23
+1983	Mauritania
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Mauritania	+19
+-19	1243
+1285	+2
+-7	135
+121
+July 25
+1983	Sierra Leone
+Cape Verde	1
+0	Amilcar Cabral Cup
+in Mauritania	+20
+-20	1305
+1259	+7
+-10	114
+133
+January 02
+1984	Sierra Leone
+Mauritania	1
+0	Friendly tournament
+in Gambia	+9
+-9	1314
+1160	+5
+-3	108
+151
+January 04
+1984	Gambia
+Sierra Leone	1
+0	Friendly tournament
+in Gambia	+9
+-9	1375
+1305	+3
+-5	93
+113
+January 08
+1984	Ivory Coast
+Sierra Leone	1
+0	Friendly
+in Ivory Coast	+2
+-2	1558
+1303	0
+0	53
+113
+February 08
+1984	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Sierra Leone	+18
+-18	1321
+1241	+6
+-4	107
+138
+February 10
+1984	Sierra Leone
+Gambia	1
+0	Amilcar Cabral Cup
+in Sierra Leone	+18
+-18	1339
+1364	+3
+-4	104
+97
+February 12
+1984	Sierra Leone
+Guinea	0
+0	Amilcar Cabral Cup
+in Sierra Leone	-2
++2	1337
+1408	-1
+0	105
+89
+February 16
+1984	Sierra Leone
+Mali	0
+0	Amilcar Cabral Cup
+in Sierra Leone	+3
+-3	1340
+1479	+1
+-1	105
+76
+February 19
+1984	Sierra Leone
+Senegal	0
+0	Amilcar Cabral Cup
+in Sierra Leone	+4
+-4	1344
+1510	0
+-4	105
+67
+June 30
+1984	Sierra Leone
+Morocco	0
+1	World Cup qualifier
+in Sierra Leone	-12
++12	1332
+1606	-1
++1	108
+43
+July 15
+1984	Morocco
+Sierra Leone	4
+0	World Cup qualifier
+in Morocco	+8
+-8	1614
+1324	+1
++1	42
+107
+November 18
+1984	Gambia
+Sierra Leone	3
+2	African Nations Cup qualifier
+in Gambia	+13
+-13	1361
+1311	+4
+-2	99
+109
+December 02
+1984	Sierra Leone
+Gambia	2
+0	African Nations Cup qualifier
+in Sierra Leone	+26
+-26	1337
+1335	+4
+-7	106
+107
+February 11
+1985	Guinea-Bissau
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Gambia	-1
++1	1362
+1338	0
++1	98
+105
+February 13
+1985	Sierra Leone
+Cape Verde	2
+1	Amilcar Cabral Cup
+in Gambia	+16
+-16	1354
+1245	+4
+-3	101
+135
+February 15
+1985	Gambia
+Sierra Leone	1
+1	Amilcar Cabral Cup
+in Gambia	-4
++4	1318
+1358	0
++3	108
+98
+February 02
+1986	Sierra Leone
+Mauritania	1
+0	Amilcar Cabral Cup
+in Senegal	+7
+-7	1365
+1090	+2
+-1	100
+162
+February 04
+1986	Sierra Leone
+Gambia	2
+1	Amilcar Cabral Cup
+in Senegal	+19
+-19	1384
+1337	+6
+-3	94
+107
+February 06
+1986	Sierra Leone
+Guinea-Bissau	3
+2	Amilcar Cabral Cup
+in Senegal	+14
+-14	1398
+1265	+3
+-5	91
+127
+February 08
+1986	Sierra Leone
+Guinea	2
+1	Amilcar Cabral Cup
+in Senegal	+19
+-19	1417
+1366	+5
+-7	86
+100
+February 10
+1986	Senegal
+Sierra Leone	3
+1	Amilcar Cabral Cup
+in Senegal	+9
+-9	1633
+1408	+2
+-2	40
+88
+October 05
+1986	Sierra Leone
+Liberia	2
+1	African Nations Cup qualifier
+in Sierra Leone	+8
+-8	1416
+1250	0
+-1	88
+130
+October 19
+1986	Liberia
+Sierra Leone	1
+1	African Nations Cup qualifier
+in Liberia	+4
+-4	1254
+1412	0
+0	130
+87
+February 23
+1987	Sierra Leone
+Senegal	1
+0	Amilcar Cabral Cup
+in Guinea	+32
+-32	1444
+1614	+3
+-5	83
+46
+February 27
+1987	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Guinea	+15
+-15	1459
+1244	+3
+-3	80
+131
+March 01
+1987	Mali
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Guinea	+1
+-1	1440
+1458	0
+0	84
+81
+March 02
+1987	Senegal
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Guinea	-7
++7	1586
+1465	-3
++1	52
+80
+March 30
+1987	Ghana
+Sierra Leone	1
+2	African Nations Cup qualifier
+in Ghana	-35
++35	1650
+1500	-5
++8	38
+70
+April 11
+1987	Sierra Leone
+Ghana	0
+0	African Nations Cup qualifier
+in Sierra Leone	+3
+-3	1503
+1647	0
+0	70
+38
+July 04
+1987	Nigeria
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Nigeria	+24
+-24	1539
+1479	+4
+-3	60
+75
+July 18
+1987	Sierra Leone
+Nigeria	2
+0	African Nations Cup qualifier
+in Sierra Leone	+27
+-27	1506
+1512	+3
+-6	72
+66
+April 28
+1988	Guinea-Bissau
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+6
+-6	1297
+1500	+1
+-2	117
+71
+April 30
+1988	Gambia
+Sierra Leone	1
+3	Amilcar Cabral Cup
+in Guinea-Bissau	-14
++14	1283
+1514	-3
++5	120
+66
+May 02
+1988	Senegal
+Sierra Leone	2
+2	Amilcar Cabral Cup
+in Guinea-Bissau	-1
++1	1532
+1515	0
+0	62
+66
+May 05
+1988	Guinea
+Sierra Leone	3
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+45
+-45	1457
+1470	+9
+-10	79
+76
+May 07
+1988	Senegal
+Sierra Leone	2
+1	Amilcar Cabral Cup
+in Guinea-Bissau	+17
+-17	1541
+1453	+4
+-4	61
+80
+May 25
+1989	Mauritania
+Sierra Leone	1
+2	Amilcar Cabral Cup
+in Mali	-4
++4	1081
+1457	-1
++1	168
+79
+May 27
+1989	Guinea
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Mali	+21
+-21	1459
+1436	+8
+-7	78
+86
+June 02
+1989	Mali
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Mali	+15
+-15	1440
+1421	+6
+-4	84
+90
+June 03
+1989	Cape Verde
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Mali	+29
+-29	1286
+1392	+7
+-8	119
+98
+December 24
+1989	Senegal
+Sierra Leone	1
+0	Friendly
+in Senegal	+4
+-4	1561
+1388	+1
+-2	52
+100
+August 19
+1990	Guinea
+Sierra Leone	1
+2	African Nations Cup qualifier
+in Guinea	-27
++27	1393
+1415	-10
++10	98
+90
+September 01
+1990	Sierra Leone
+Cameroon	1
+1	African Nations Cup qualifier
+in Sierra Leone	+8
+-8	1423
+1653	+1
++1	89
+35
+April 14
+1991	Mali
+Sierra Leone	0
+0	African Nations Cup qualifier
+in Mali	-8
++8	1464
+1431	-2
++3	75
+83
+April 28
+1991	Sierra Leone
+Guinea	0
+1	African Nations Cup qualifier
+in Sierra Leone	-27
++27	1404
+1437	-6
++6	89
+82
+July 14
+1991	Cameroon
+Sierra Leone	1
+0	African Nations Cup qualifier
+in Cameroon	+5
+-5	1652
+1399	+2
+-2	35
+93
+July 28
+1991	Sierra Leone
+Mali	2
+0	African Nations Cup qualifier
+in Sierra Leone	+24
+-24	1423
+1400	+6
+-7	87
+93
+November 24
+1991	Guinea
+Sierra Leone	0
+1	Amilcar Cabral Cup
+in Senegal	-22
++22	1432
+1445	-6
++11	83
+77
+November 26
+1991	Mali
+Sierra Leone	1
+1	Amilcar Cabral Cup
+in Senegal	+4
+-4	1373
+1441	+2
+-2	101
+79
+November 28
+1991	Gambia
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Senegal	+10
+-10	1263
+1431	+2
+-4	130
+83
+November 30
+1991	Cape Verde
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Senegal	+6
+-6	1332
+1425	0
+-2	112
+85
+August 30
+1992	Sierra Leone
+Algeria	1
+0	African Nations Cup qualifier
+in Sierra Leone	+28
+-28	1453
+1642	+4
+-6	84
+38
+October 04
+1992	Guinea-Bissau
+Sierra Leone	0
+3	African Nations Cup qualifier
+in Guinea-Bissau	-35
++35	1319
+1488	-6
++9	117
+74
+November 08
+1992	Sierra Leone
+Senegal	2
+0	African Nations Cup qualifier
+in Sierra Leone	+29
+-29	1517
+1548	+9
+-3	65
+57
+December 14
+1992	Guinea
+Sierra Leone	1
+1	Friendly
+in Guinea	0
+0	1413
+1517	0
+0	93
+66
+December 16
+1992	Guinea
+Sierra Leone	0
+0	Friendly
+in Guinea	0
+0	1413
+1517	0
+0	93
+66
+January 09
+1993	Sierra Leone
+Togo	0
+0	African Nations Cup qualifier
+in Sierra Leone	-13
++13	1504
+1361	-3
++5	70
+106
+April 09
+1993	Algeria
+Sierra Leone	0
+0	African Nations Cup qualifier
+in Algeria	-12
++12	1641
+1516	0
++4	36
+67
+April 24
+1993	Sierra Leone
+Guinea-Bissau	2
+0	African Nations Cup qualifier
+in Sierra Leone	+8
+-8	1524
+1287	+2
+-3	65
+128
+July 11
+1993	Senegal
+Sierra Leone	1
+1	African Nations Cup qualifier
+in Senegal	-7
++7	1550
+1531	-1
++2	61
+66
+August 08
+1993	Guinea
+Sierra Leone	1
+0	Friendly
+in Guinea	+10
+-10	1452
+1521	+2
+-2	91
+66
+August 09
+1993	Guinea
+Sierra Leone	4
+0	Friendly
+in Guinea	+17
+-17	1469
+1504	+6
+-6	85
+72
+November 26
+1993	Sierra Leone
+Guinea	1
+1	Amilcar Cabral Cup
+in Sierra Leone	-8
++8	1496
+1466	-1
++4	75
+84
+November 28
+1993	Sierra Leone
+Ghana	2
+3	Amilcar Cabral Cup
+in Sierra Leone	-21
++21	1475
+1593	-4
++1	80
+52
+November 30
+1993	Sierra Leone
+Gambia	1
+1	Amilcar Cabral Cup
+in Sierra Leone	-12
++12	1463
+1338	-4
++3	84
+118
+December 03
+1993	Sierra Leone
+Mali	2
+0	Amilcar Cabral Cup
+in Sierra Leone	+25
+-25	1488
+1474	+6
+-6	77
+80
+December 05
+1993	Sierra Leone
+Senegal	2
+0	Amilcar Cabral Cup
+in Sierra Leone	+20
+-20	1508
+1454	+4
+-6	73
+86
+March 27
+1994	Ivory Coast
+Sierra Leone	4
+0	African Nations Cup
+in Tunisia	+33
+-33	1650
+1475	+6
+-8	39
+81
+March 29
+1994	Zambia
+Sierra Leone	0
+0	African Nations Cup
+in Tunisia	-13
++13	1664
+1488	-1
++2	32
+78
+September 04
+1994	Ghana
+Sierra Leone	4
+1	African Nations Cup qualifier
+in Ghana	+16
+-16	1619
+1472	+5
+-3	41
+82
+October 16
+1994	Sierra Leone
+Congo	3
+2	African Nations Cup qualifier
+in Sierra Leone	+12
+-12	1484
+1422	+2
+-3	77
+97
+November 13
+1994	Niger
+Sierra Leone	4
+2	African Nations Cup qualifier
+in Niger	+34
+-34	1367
+1450	+10
+-8	112
+87
+January 01
+1995	Guinea
+Sierra Leone	3
+1	Friendly
+in Guinea	+14
+-14	1398
+1436	+5
+-7	103
+94
+January 07
+1995	Sierra Leone
+Gambia	2
+0	African Nations Cup qualifier
+in Sierra Leone	+16
+-16	1452
+1343	+9
+-5	84
+119
+April 08
+1995	Sierra Leone
+Ghana	1
+0	African Nations Cup qualifier
+in Sierra Leone	+26
+-26	1478
+1628	+4
+-3	81
+37
+April 22
+1995	Congo
+Sierra Leone	0
+2	African Nations Cup qualifier
+in Congo	-35
++35	1396
+1513	-10
++10	104
+71
+April 26
+1995	Ivory Coast
+Sierra Leone	4
+0	Friendly
+in Ivory Coast	+9
+-9	1633
+1504	+2
+-3	37
+73
+June 03
+1995	Sierra Leone
+Niger	5
+1	African Nations Cup qualifier
+in Sierra Leone	+13
+-13	1517
+1327	+2
+-2	70
+125
+October 22
+1995	Gabon
+Sierra Leone	1
+0	Friendly
+in Gabon	+9
+-9	1477
+1508	+3
+-1	82
+71
+November 12
+1995	Ghana
+Sierra Leone	2
+0	Friendly
+in Ghana	+6
+-6	1647
+1502	+1
+-1	35
+72
+November 18
+1995	Sierra Leone
+Guinea	2
+0	Amilcar Cabral Cup
+in Mauritania	+22
+-22	1524
+1387	+2
+-8	68
+110
+November 20
+1995	Sierra Leone
+Guinea-Bissau	2
+0	Amilcar Cabral Cup
+in Mauritania	+11
+-11	1535
+1258	+1
+-2	67
+140
+November 22
+1995	Sierra Leone
+Senegal	1
+1	Amilcar Cabral Cup
+in Mauritania	-4
++4	1531
+1472	0
+0	67
+85
+November 25
+1995	Sierra Leone
+Cape Verde	2
+0	Amilcar Cabral Cup
+in Mauritania	+11
+-11	1542
+1261	+2
+-2	65
+140
+November 28
+1995	Mauritania
+Sierra Leone	0
+0	Amilcar Cabral Cup
+in Mauritania	+10
+-10	1266
+1532	+4
+-2	138
+67
+December 17
+1995	Sierra Leone
+Liberia	1
+0	Friendly
+in Sierra Leone	+4
+-4	1536
+1394	0
+0	67
+107
+January 06
+1996	Sierra Leone
+Liberia	2
+1	Friendly
+in Sierra Leone	+4
+-4	1540
+1386	+2
+-2	64
+111
+January 15
+1996	Sierra Leone
+Burkina Faso	2
+1	African Nations Cup
+in South Africa	+17
+-17	1557
+1413	+4
+-7	59
+103
+January 18
+1996	Algeria
+Sierra Leone	2
+0	African Nations Cup
+in South Africa	+36
+-36	1604
+1521	+7
+-9	46
+68
+January 24
+1996	Zambia
+Sierra Leone	4
+0	African Nations Cup
+in South Africa	+32
+-32	1666
+1489	+3
+-11	34
+77
+June 02
+1996	Burundi
+Sierra Leone	1
+0	World Cup qualifier
+in Burundi	+20
+-20	1412
+1469	+4
+-10	101
+86
+June 15
+1996	Sierra Leone
+Burundi	0
+1	World Cup qualifier
+in Sierra Leone	-28
++28	1441
+1440	-5
++9	91
+92
+October 06
+1996	Tunisia
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Tunisia	+10
+-10	1630
+1431	0
+-4	40
+95
+November 09
+1996	Morocco
+Sierra Leone	4
+0	World Cup qualifier
+in Morocco	+12
+-12	1635
+1419	+2
+-1	38
+95
+January 11
+1997	Sierra Leone
+Gabon	1
+0	World Cup qualifier
+in Sierra Leone	+20
+-20	1439
+1498	+4
+-7	91
+74
+February 23
+1997	Guinea
+Sierra Leone	1
+0	African Nations Cup qualifier
+in Guinea	+14
+-14	1453
+1425	+3
+-3	88
+94
+April 05
+1997	Sierra Leone
+Ghana	1
+1	World Cup qualifier
+in Sierra Leone	+2
+-2	1427
+1562	0
+0	94
+58
+April 26
+1997	Sierra Leone
+Morocco	0
+1	World Cup qualifier
+in Sierra Leone	-11
++11	1416
+1696	-4
++3	98
+29
+August 17
+1997	Ghana
+Sierra Leone	0
+2	World Cup qualifier
+in Ghana	-46
++46	1480
+1462	-11
++14	77
+84
+November 29
+1997	Sierra Leone
+Guinea-Bissau	2
+1	Amilcar Cabral Cup
+in Gambia	+9
+-9	1471
+1239	+5
+-3	78
+143
+December 01
+1997	Guinea
+Sierra Leone	3
+0	Amilcar Cabral Cup
+in Gambia	+36
+-36	1500
+1435	+12
+-19	71
+97
+December 03
+1997	Mali
+Sierra Leone	1
+1	Amilcar Cabral Cup
+in Gambia	+2
+-2	1400
+1433	0
+-1	103
+98
+October 03
+1998	Morocco
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1787
+1428	0
+0	20
+96
+December 04
+1999	Gambia
+Sierra Leone	0
+0	Friendly
+in Gambia	0
+0	1316
+1428	0
+-1	127
+97
+April 08
+2000	Sao Tome e Principe
+Sierra Leone	2
+0	World Cup qualifier
+in Sao Tome e Principe	+53
+-53	1032
+1375	+3
+-17	186
+110
+April 22
+2000	Sierra Leone
+Sao Tome e Principe	4
+0	World Cup qualifier
+in Sierra Leone	+5
+-5	1380
+1027	+1
+-1	109
+187
+May 06
+2000	Cape Verde
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Cape Verde	+22
+-22	1259
+1358	+3
+-7	142
+116
+May 08
+2000	Gambia
+Sierra Leone	2
+2	Amilcar Cabral Cup
+in Cape Verde	+3
+-3	1311
+1355	0
+-1	128
+117
+June 17
+2000	Nigeria
+Sierra Leone	2
+0	World Cup qualifier
+in Nigeria	+4
+-4	1727
+1351	+2
+-3	26
+119
+July 09
+2000	Ghana
+Sierra Leone	5
+0	World Cup qualifier
+in Ghana	+13
+-13	1547
+1338	+6
+-3	59
+122
+August 20
+2000	Sierra Leone
+Togo	2
+0	African Nations Cup qualifier
+in Sierra Leone	+26
+-26	1364
+1367	+6
+-11	114
+112
+September 03
+2000	Togo
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Togo	+21
+-21	1388
+1343	+6
+-4	107
+120
+February 25
+2001	Liberia
+Sierra Leone	1
+0	World Cup qualifier
+in Liberia	+8
+-8	1502
+1335	+3
+-2	71
+123
+March 10
+2001	Sierra Leone
+Sudan	0
+2	World Cup qualifier
+in Sierra Leone	-39
++39	1296
+1362	-9
++12	132
+115
+April 21
+2001	Sierra Leone
+Nigeria	1
+0	World Cup qualifier
+in Sierra Leone	+34
+-34	1330
+1649	+7
+-6	125
+44
+May 05
+2001	Sierra Leone
+Ghana	1
+1	World Cup qualifier
+in Sierra Leone	+2
+-2	1332
+1461	0
+-1	125
+84
+June 10
+2001	Sierra Leone
+Gambia	1
+1	Friendly
+in Sierra Leone	-3
++3	1329
+1314	0
+0	127
+128
+July 14
+2001	Sierra Leone
+Liberia	0
+1	World Cup qualifier
+in Sierra Leone	-17
++17	1312
+1503	-3
++2	127
+74
+July 29
+2001	Sudan
+Sierra Leone	3
+0	World Cup qualifier
+in Sudan	+21
+-21	1377
+1291	+9
+-5	110
+132
+August 25
+2002	Gambia
+Sierra Leone	1
+0	Friendly
+in Gambia	+6
+-6	1360
+1285	+1
+-1	118
+135
+September 08
+2002	Equatorial Guinea
+Sierra Leone	1
+3	African Nations Cup qualifier
+in Equatorial Guinea	-18
++18	1022
+1303	-6
++3	188
+131
+October 12
+2002	Sierra Leone
+Gabon	2
+0	African Nations Cup qualifier
+in Sierra Leone	+32
+-32	1335
+1394	+3
+-14	128
+110
+October 19
+2002	Sierra Leone
+Ghana	2
+1	Friendly
+in Sierra Leone	+12
+-12	1347
+1503	+5
+-1	123
+70
+March 29
+2003	Sierra Leone
+Morocco	0
+0	African Nations Cup qualifier
+in Sierra Leone	+9
+-9	1356
+1615	+2
+-2	119
+49
+June 08
+2003	Morocco
+Sierra Leone	1
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1607
+1351	+3
+0	53
+121
+June 22
+2003	Sierra Leone
+Equatorial Guinea	2
+0	African Nations Cup qualifier
+in Sierra Leone	+5
+-5	1356
+1043	+2
+-2	117
+184
+July 06
+2003	Gabon
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Gabon	+21
+-21	1385
+1335	+9
+-8	108
+127
+October 12
+2003	Congo
+Sierra Leone	1
+0	World Cup qualifier
+in Congo	+13
+-13	1375
+1322	+2
+-4	115
+128
+November 16
+2003	Sierra Leone
+Congo	1
+1	World Cup qualifier
+in Sierra Leone	-3
++3	1319
+1378	-1
++4	128
+108
+June 10
+2005	Sierra Leone
+Liberia	2
+0	Friendly tournament
+in Sierra Leone	+18
+-18	1337
+1334	+5
+-8	121
+122
+June 12
+2005	Sierra Leone
+Gambia	1
+0	Friendly tournament
+in Sierra Leone	+12
+-12	1349
+1345	+7
+-6	114
+117
+November 20
+2005	Guinea-Bissau
+Sierra Leone	1
+1	Amilcar Cabral Cup
+in Guinea	+6
+-6	1248
+1343	0
+-3	143
+116
+November 22
+2005	Guinea
+Sierra Leone	1
+0	Amilcar Cabral Cup
+in Guinea	+7
+-7	1512
+1336	+4
+-2	76
+118
+September 03
+2006	Sierra Leone
+Mali	0
+0	African Nations Cup qualifier
+in Sierra Leone	+6
+-6	1342
+1547	0
+-2	117
+68
+October 08
+2006	Benin
+Sierra Leone	2
+0	African Nations Cup qualifier
+in Benin	+29
+-29	1281
+1313	+6
+-7	134
+124
+March 24
+2007	Togo
+Sierra Leone	3
+1	African Nations Cup qualifier
+in Togo	+13
+-13	1451
+1300	+1
+-5	92
+131
+June 03
+2007	Sierra Leone
+Togo	0
+1	African Nations Cup qualifier
+in Sierra Leone	-17
++17	1283
+1468	-6
++1	137
+89
+June 17
+2007	Mali
+Sierra Leone	6
+0	African Nations Cup qualifier
+in Mali	+9
+-9	1565
+1274	+2
+-2	63
+138
+October 12
+2007	Sierra Leone
+Benin	0
+2	African Nations Cup qualifier
+in Sierra Leone	-33
++33	1241
+1369	-5
++11	145
+112
+October 17
+2007	Sierra Leone
+Guinea-Bissau	1
+0	World Cup qualifier
+in Sierra Leone	+14
+-14	1255
+1227	+1
+-2	144
+147
+November 17
+2007	Guinea-Bissau
+Sierra Leone	0
+0	World Cup qualifier
+in Guinea-Bissau	-4
++4	1219
+1259	-2
+0	152
+143
+December 02
+2007	Guinea-Bissau
+Sierra Leone	2
+0	Amilcar Cabral Cup
+in Guinea-Bissau	+25
+-25	1244
+1234	+8
+-2	143
+145
+December 23
+2007	Gambia
+Sierra Leone	2
+1	Friendly
+in Gambia	+4
+-4	1354
+1230	+2
+-1	117
+147
+April 30
+2008	Liberia
+Sierra Leone	3
+1	Friendly
+in Liberia	+10
+-10	1255
+1220	0
+-4	144
+153
+June 01
+2008	Equatorial Guinea
+Sierra Leone	2
+0	World Cup qualifier
+in Equatorial Guinea	+20
+-20	1264
+1200	+3
+-5	143
+156
+June 07
+2008	Sierra Leone
+Nigeria	0
+1	World Cup qualifier
+in Sierra Leone	-3
++3	1197
+1723	0
++2	157
+34
+June 14
+2008	Sierra Leone
+South Africa	1
+0	World Cup qualifier
+in Sierra Leone	+31
+-31	1228
+1483	+4
+-9	152
+86
+June 21
+2008	South Africa
+Sierra Leone	0
+0	World Cup qualifier
+in South Africa	-15
++15	1468
+1243	-3
++5	90
+147
+September 06
+2008	Sierra Leone
+Equatorial Guinea	2
+1	World Cup qualifier
+in Sierra Leone	+15
+-15	1258
+1234	+4
+-3	143
+148
+October 11
+2008	Nigeria
+Sierra Leone	4
+1	World Cup qualifier
+in Nigeria	+2
+-2	1743
+1256	0
+0	29
+143
+June 05
+2009	Syria
+Sierra Leone	6
+0	Friendly
+in Syria	+4
+-4	1560
+1252	+3
+0	62
+142
+March 06
+2010	Sierra Leone
+Guinea	1
+0	Friendly
+in Sierra Leone	+13
+-13	1265
+1465	+2
+-2	141
+93
+March 07
+2010	Sierra Leone
+Guinea	0
+0	Friendly
+in Sierra Leone	+3
+-3	1268
+1462	0
+0	141
+93
+September 05
+2010	Egypt
+Sierra Leone	1
+1	African Nations Cup qualifier
+in Egypt	-19
++19	1810
+1287	-3
++4	14
+137
+October 10
+2010	Sierra Leone
+South Africa	0
+0	African Nations Cup qualifier
+in Sierra Leone	+12
+-12	1299
+1609	+1
+-3	134
+53
+February 09
+2011	Nigeria
+Sierra Leone	2
+1	Friendly
+in Nigeria	+1
+-1	1643
+1298	-2
+-2	48
+133
+March 27
+2011	Niger
+Sierra Leone	3
+1	African Nations Cup qualifier
+in Niger	+19
+-19	1357
+1279	+8
+-4	117
+139
+June 04
+2011	Sierra Leone
+Niger	1
+0	African Nations Cup qualifier
+in Sierra Leone	+19
+-19	1298
+1338	+3
+-5	135
+123
+September 03
+2011	Sierra Leone
+Egypt	2
+1	African Nations Cup qualifier
+in Sierra Leone	+35
+-35	1333
+1715	+11
+-8	123
+33
+October 08
+2011	South Africa
+Sierra Leone	0
+0	African Nations Cup qualifier
+in South Africa	-16
++16	1605
+1349	-4
++7	57
+119
+January 14
+2012	Angola
+Sierra Leone	3
+1	Friendly
+in Angola	+6
+-6	1509
+1343	+4
+-2	79
+122
+February 29
+2012	Sao Tome e Principe
+Sierra Leone	2
+1	African Nations Cup qualifier
+in Sao Tome e Principe	+30
+-30	1076
+1313	+3
+-11	178
+132
+May 23
+2012	Iraq
+Sierra Leone	1
+0	Friendly
+in Turkey	+4
+-4	1584
+1309	+1
+0	59
+131
+May 26
+2012	Jordan
+Sierra Leone	4
+0	Friendly
+in Jordan	+5
+-5	1554
+1304	0
+0	71
+131
+June 02
+2012	Sierra Leone
+Cape Verde	2
+1	World Cup qualifier
+in Sierra Leone	+21
+-21	1325
+1406	+4
+-3	128
+102
+June 09
+2012	Equatorial Guinea
+Sierra Leone	2
+2	World Cup qualifier
+in Equatorial Guinea	-4
++4	1286
+1329	-1
++2	138
+126
+June 16
+2012	Sierra Leone
+Sao Tome e Principe	4
+2	African Nations Cup qualifier
+in Sierra Leone	+7
+-7	1336
+1069	+2
+-2	124
+181
+September 08
+2012	Sierra Leone
+Tunisia	2
+2	African Nations Cup qualifier
+in Sierra Leone	+9
+-9	1345
+1597	+3
+-1	120
+57
+October 13
+2012	Tunisia
+Sierra Leone	0
+0	African Nations Cup qualifier
+in Tunisia	-15
++15	1582
+1360	-7
++2	62
+119
+March 23
+2013	Tunisia
+Sierra Leone	2
+1	World Cup qualifier
+in Tunisia	+5
+-5	1584
+1355	+1
+-2	60
+120
+June 08
+2013	Sierra Leone
+Tunisia	2
+2	World Cup qualifier
+in Sierra Leone	+7
+-7	1362
+1577	+1
+-4	119
+65
+June 15
+2013	Cape Verde
+Sierra Leone	1
+0	World Cup qualifier
+in Cape Verde	+10
+-10	1461
+1352	+4
+-3	91
+122
+September 07
+2013	Sierra Leone
+Equatorial Guinea	3
+2	World Cup qualifier
+in Sierra Leone	+13
+-13	1365
+1309	+6
+-3	116
+132

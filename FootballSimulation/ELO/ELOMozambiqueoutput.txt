@@ -1,0 +1,260 @@
+1977 342 home Mozambique Tanzania 1 2 Friendly
+1979 125 away Mozambique Zimbabwe 6 0 Friendly
+1980 113 away Mozambique Zimbabwe 6 0 Friendly tournament
+1980 199 away Mozambique Zaire 5 2 World Cup qualifier
+1980 213 home Mozambique Zaire 1 2 World Cup qualifier
+1980 227 home Mozambique Lesotho 6 1 African Nations Cup qualifier
+1980 241 away Mozambique Lesotho 2 1 African Nations Cup qualifier
+1980 318 away Mozambique Angola 1 1 Friendly
+1981 98 away Mozambique Zaire 2 1 African Nations Cup qualifier
+1981 111 home Mozambique Lesotho 2 0 Independence Tournament
+1981 112 home Mozambique Zaire 3 3 African Nations Cup qualifier
+1981 112 away Mozambique Zimbabwe 6 1 Independence Tournament
+1981 169 home Mozambique Lesotho 4 0 Friendly
+1981 171 away Mozambique Zimbabwe 6 1 Friendly
+1981 192 away Mozambique Malawi 3 1 Friendly tournament
+1981 194 away Mozambique Zimbabwe 4 2 Friendly tournament
+1981 230 home Mozambique Lesotho 2 0 Friendly
+1981 311 home Mozambique Malawi 1 0 Friendly
+1982 182 home Mozambique Zimbabwe 1 1 Friendly
+1983 96 home Mozambique Cameroon 3 0 African Nations Cup qualifier
+1983 117 away Mozambique Cameroon 4 0 African Nations Cup qualifier
+1984 264 away Mozambique Mauritius 0 0 African Nations Cup qualifier
+1984 278 home Mozambique Mauritius 3 0 African Nations Cup qualifier
+1985 93 away Mozambique Malawi 1 1 African Nations Cup qualifier
+1985 109 home Mozambique Malawi 1 1 African Nations Cup qualifier
+1985 178 home Mozambique Angola 0 3 Friendly
+1985 193 home Mozambique Angola 3 2 Friendly
+1985 198 away Mozambique Angola 1 0 Friendly
+1985 240 away Mozambique Libya 2 1 African Nations Cup qualifier
+1985 263 home Mozambique Libya 2 1 African Nations Cup qualifier
+1985 318 away Mozambique Angola 0 0 Friendly
+1985 321 home Mozambique Zimbabwe 1 2 Friendly
+1986 56 away Mozambique Algeria 4 1 Friendly
+1986 69 away Mozambique IvoryCoast 3 0 African Nations Cup
+1986 72 away Mozambique Senegal 2 0 African Nations Cup
+1986 75 away Mozambique Egypt 2 0 African Nations Cup
+1987 91 home Mozambique Zimbabwe 1 1 African Nations Cup qualifier
+1987 104 away Mozambique Zimbabwe 3 2 African Nations Cup qualifier
+1988 165 home Mozambique Malawi 1 2 Friendly
+1988 169 home Mozambique Malawi 1 1 Friendly
+1988 274 away Mozambique Malawi 1 1 Friendly
+1988 276 away Mozambique Malawi 1 0 Friendly
+1989 106 away Mozambique Angola 1 1 Friendly
+1989 109 home Mozambique Zambia 0 1 African Nations Cup qualifier
+1989 123 away Mozambique Zambia 3 0 African Nations Cup qualifier
+1989 193 away Mozambique Gabon 1 0 Friendly
+1989 195 away Mozambique Malawi 0 1 Friendly
+1989 197 away Mozambique Malawi 0 2 Friendly
+1990 68 home Mozambique Angola 2 1 SADCC Tournament
+1990 72 home Mozambique Zimbabwe 3 1 SADCC Tournament
+1990 73 home Mozambique Lesotho 3 0 SADCC Tournament
+1990 229 away Mozambique Swaziland 0 0 Friendly
+1990 230 away Mozambique Zimbabwe 3 2 Friendly
+1990 234 away Mozambique Sudan 1 0 African Nations Cup qualifier
+1990 247 home Mozambique Angola 0 2 Friendly
+1990 250 home Mozambique Kenya 2 1 African Nations Cup qualifier
+1990 319 away Mozambique Angola 4 2 Friendly tournament
+1990 320 away Mozambique Congo 1 0 Friendly tournament
+1991 121 home Mozambique Sudan 1 0 African Nations Cup qualifier
+1991 175 home Mozambique Botswana 2 0 Friendly
+1991 177 home Mozambique Swaziland 2 1 Friendly
+1991 180 home Mozambique Botswana 1 1 Friendly
+1991 200 away Mozambique Kenya 1 0 African Nations Cup qualifier
+1991 236 away Mozambique Malawi 1 0 Friendly
+1991 237 away Mozambique Malawi 2 0 Friendly
+1992 175 home Mozambique Swaziland 4 1 Friendly
+1992 233 away Mozambique Zaire 2 0 African Nations Cup qualifier
+1992 247 home Mozambique Lesotho 3 0 African Nations Cup qualifier
+1992 290 away Mozambique Gabon 3 1 World Cup qualifier
+1992 304 home Mozambique Senegal 0 1 World Cup qualifier
+1993 17 home Mozambique Gabon 1 1 World Cup qualifier
+1993 30 away Mozambique Senegal 6 1 World Cup qualifier
+1993 104 home Mozambique Kenya 0 0 African Nations Cup qualifier
+1993 118 home Mozambique Zaire 0 0 African Nations Cup qualifier
+1993 197 away Mozambique Lesotho 1 1 African Nations Cup qualifier
+1993 210 away Mozambique Kenya 4 1 African Nations Cup qualifier
+1994 115 away Mozambique Swaziland 0 1 Friendly
+1994 252 away Mozambique Mali 2 1 African Nations Cup qualifier
+1994 295 home Mozambique Botswana 3 1 African Nations Cup qualifier
+1994 323 home Mozambique Guinea 2 1 African Nations Cup qualifier
+1995 8 away Mozambique Angola 1 0 African Nations Cup qualifier
+1995 22 home Mozambique Namibia 4 2 African Nations Cup qualifier
+1995 102 home Mozambique Mali 1 0 African Nations Cup qualifier
+1995 116 away Mozambique Botswana 0 3 African Nations Cup qualifier
+1995 159 away Mozambique Guinea 0 0 African Nations Cup qualifier
+1995 180 home Mozambique Zimbabwe 3 1 Friendly
+1995 202 home Mozambique Angola 2 1 African Nations Cup qualifier
+1995 216 away Mozambique Namibia 0 0 African Nations Cup qualifier
+1995 278 away Mozambique SouthAfrica 3 2 Friendly
+1996 7 home Mozambique Algeria 1 0 Friendly
+1996 11 home Mozambique Gabon 1 0 Friendly
+1996 16 away Mozambique Tunisia 1 1 African Nations Cup
+1996 21 away Mozambique IvoryCoast 1 0 African Nations Cup
+1996 25 away Mozambique Ghana 2 0 African Nations Cup
+1996 136 away Mozambique Swaziland 0 1 Friendly
+1996 149 away Mozambique Malawi 1 0 Friendly
+1996 156 away Mozambique Namibia 2 0 World Cup qualifier
+1996 171 home Mozambique Namibia 1 1 World Cup qualifier
+1996 273 away Mozambique Oman 0 2 Friendly
+1996 285 away Mozambique Zambia 1 0 African Nations Cup qualifier
+1997 19 home Mozambique Zimbabwe 1 2 Friendly
+1997 26 home Mozambique Mauritius 3 0 African Nations Cup qualifier
+1997 53 away Mozambique Malawi 2 0 African Nations Cup qualifier
+1997 64 away Mozambique Swaziland 0 4 Cosafa Cup
+1997 93 home Mozambique Angola 1 2 Friendly
+1997 105 away Mozambique Malawi 2 2 Cosafa Cup
+1997 170 home Mozambique Tanzania 3 0 Cosafa Cup
+1997 177 home Mozambique Zambia 2 2 African Nations Cup qualifier
+1997 199 away Mozambique Mauritius 1 3 African Nations Cup qualifier
+1997 206 home Mozambique Namibia 1 1 Cosafa Cup
+1997 213 home Mozambique Malawi 2 1 African Nations Cup qualifier
+1997 219 away Mozambique Zambia 2 1 Cosafa Cup
+1997 353 away Mozambique Swaziland 1 1 Friendly
+1997 362 home Mozambique Lesotho 1 1 Friendly
+1998 4 away Mozambique BurkinaFaso 1 0 Friendly
+1998 7 away Mozambique BurkinaFaso 4 2 Friendly
+1998 11 away Mozambique Togo 1 2 Friendly
+1998 14 away Mozambique Ghana 0 0 Friendly
+1998 19 away Mozambique Ghana 3 1 Friendly
+1998 25 away Mozambique Botswana 1 2 Cosafa Cup
+1998 28 away Mozambique IvoryCoast 4 1 Friendly
+1998 41 away Mozambique Egypt 2 0 African Nations Cup
+1998 44 away Mozambique Morocco 3 0 African Nations Cup
+1998 48 away Mozambique Zambia 3 1 African Nations Cup
+1998 140 away Mozambique Zambia 1 0 Cosafa Cup
+1998 148 home Mozambique Zimbabwe 0 2 Cosafa Cup
+1998 192 away Mozambique Malawi 2 1 Friendly
+1998 194 away Mozambique Malawi 2 2 Friendly
+1998 197 away Mozambique Malawi 0 0 Friendly
+1998 205 home Mozambique Angola 1 1 Cosafa Cup
+1998 219 away Mozambique Botswana 0 0 African Nations Cup qualifier
+1998 232 home Mozambique Botswana 2 1 African Nations Cup qualifier
+1998 236 away Mozambique Portugal 2 1 Friendly
+1998 260 away Mozambique Namibia 2 1 Cosafa Cup
+1998 283 home Mozambique Eritrea 3 1 African Nations Cup qualifier
+1999 24 away Mozambique Ghana 1 0 African Nations Cup qualifier
+1999 59 away Mozambique Cameroon 1 0 African Nations Cup qualifier
+1999 104 home Mozambique Cameroon 1 6 African Nations Cup qualifier
+1999 133 away Mozambique Swaziland 3 1 Cosafa Cup
+1999 154 away Mozambique Botswana 0 2 Cosafa Cup
+1999 174 away Mozambique Eritrea 1 0 African Nations Cup qualifier
+1999 224 away Mozambique Zambia 1 1 Cosafa Cup
+1999 234 home Mozambique Nigeria 0 1 Friendly
+2000 102 away Mozambique Sudan 1 0 World Cup qualifier
+2000 108 away Mozambique Malawi 2 1 Cosafa Cup
+2000 116 home Mozambique Sudan 2 1 World Cup qualifier
+2000 156 away Mozambique Botswana 2 0 Friendly tournament
+2000 157 home Mozambique Lesotho 0 0 Friendly tournament
+2000 159 away Mozambique Swaziland 1 1 Friendly tournament
+2000 188 away Mozambique Lesotho 1 0 African Nations Cup qualifier
+2000 202 home Mozambique Lesotho 1 0 African Nations Cup qualifier
+2001 72 away Mozambique Lesotho 0 0 Friendly tournament
+2001 73 home Mozambique Botswana 3 1 Friendly tournament
+2001 115 home Mozambique Lesotho 1 0 Friendly
+2001 122 home Mozambique SouthAfrica 0 3 Cosafa Cup
+2002 92 away Mozambique Swaziland 1 2 Friendly
+2002 93 away Mozambique Swaziland 1 1 Friendly
+2002 100 away Mozambique Lesotho 0 2 Cosafa Cup
+2002 180 home Mozambique Angola 1 1 Friendly
+2002 192 away Mozambique Zambia 3 0 Cosafa Cup
+2002 257 away Mozambique CentralAfrican 1 1 African Nations Cup qualifier
+2002 292 home Mozambique Congo 0 3 African Nations Cup qualifier
+2003 84 home Mozambique Lesotho 0 0 Cosafa Cup
+2003 92 home Mozambique BurkinaFaso 1 0 African Nations Cup qualifier
+2003 162 away Mozambique BurkinaFaso 4 0 African Nations Cup qualifier
+2003 177 home Mozambique CentralAfrican 1 0 African Nations Cup qualifier
+2003 192 away Mozambique Congo 0 0 African Nations Cup qualifier
+2003 213 away Mozambique Zambia 4 2 Cosafa Cup
+2003 291 away Mozambique Guinea 1 0 World Cup qualifier
+2003 319 home Mozambique Swaziland 2 0 Friendly
+2003 326 home Mozambique Guinea 3 4 World Cup qualifier
+2004 104 home Mozambique Swaziland 2 0 Friendly
+2004 111 home Mozambique Madagascar 2 0 Cosafa Cup
+2004 150 home Mozambique Botswana 0 0 Friendly
+2004 154 home Mozambique Swaziland 1 1 Friendly
+2004 168 home Mozambique Malawi 2 0 Cosafa Cup
+2004 180 home Mozambique Ghana 0 1 Friendly
+2004 267 home Mozambique Angola 0 1 Cosafa Cup
+2005 109 away Mozambique Zimbabwe 3 0 Cosafa Cup
+2005 245 away Mozambique Zimbabwe 0 0 Friendly
+2005 273 home Mozambique Zimbabwe 3 2 Friendly tournament
+2006 122 away Mozambique Lesotho 0 0 Cosafa Cup
+2006 123 home Mozambique Mauritius 0 0 Cosafa Cup
+2006 179 home Mozambique Swaziland 4 0 Friendly tournament
+2006 180 home Mozambique Malawi 1 2 Friendly tournament
+2006 250 away Mozambique Senegal 2 0 African Nations Cup qualifier
+2006 287 home Mozambique Tanzania 0 0 African Nations Cup qualifier
+2007 86 away Mozambique BurkinaFaso 1 1 African Nations Cup qualifier
+2007 121 home Mozambique Seychelles 2 0 Cosafa Cup
+2007 122 home Mozambique Zimbabwe 0 0 Cosafa Cup
+2007 158 home Mozambique BurkinaFaso 3 1 African Nations Cup qualifier
+2007 172 home Mozambique Senegal 0 0 African Nations Cup qualifier
+2007 237 home Mozambique Zimbabwe 0 0 Friendly
+2007 256 away Mozambique Tanzania 0 1 African Nations Cup qualifier
+2007 277 away Mozambique Zambia 3 0 Cosafa Cup
+2008 13 away Mozambique SouthAfrica 2 0 Friendly
+2008 145 home Mozambique Lesotho 2 3 Friendly
+2008 156 away Mozambique IvoryCoast 1 0 World Cup qualifier
+2008 163 home Mozambique Botswana 1 2 World Cup qualifier
+2008 170 away Mozambique Madagascar 1 1 World Cup qualifier
+2008 177 home Mozambique Madagascar 3 0 World Cup qualifier
+2008 213 home Mozambique Botswana 2 0 Cosafa Cup
+2008 216 home Mozambique Madagascar 2 1 Cosafa Cup
+2008 237 home Mozambique Swaziland 3 0 Friendly
+2008 255 home Mozambique IvoryCoast 1 1 World Cup qualifier
+2008 290 away Mozambique Botswana 0 1 World Cup qualifier
+2008 329 away Mozambique Tanzania 1 0 Friendly
+2009 42 home Mozambique Malawi 2 0 Friendly
+2009 91 home Mozambique Nigeria 0 0 World Cup qualifier
+2009 161 away Mozambique Tunisia 2 0 World Cup qualifier
+2009 175 away Mozambique Kenya 2 1 World Cup qualifier
+2009 229 home Mozambique Swaziland 1 0 Friendly
+2009 254 home Mozambique Kenya 1 0 World Cup qualifier
+2009 290 away Mozambique Nigeria 1 0 World Cup qualifier
+2009 304 home Mozambique Malawi 1 0 Cosafa Cup
+2009 308 away Mozambique Zambia 2 0 Cosafa Cup
+2009 324 home Mozambique Tunisia 1 0 World Cup qualifier
+2009 360 home Mozambique Malawi 0 1 Friendly
+2009 369 away Mozambique Zambia 1 0 Friendly
+2010 3 away Mozambique Gabon 1 0 Friendly
+2010 6 away Mozambique Gabon 2 0 Friendly
+2010 12 away Mozambique Benin 2 2 African Nations Cup
+2010 16 away Mozambique Egypt 2 0 African Nations Cup
+2010 20 away Mozambique Nigeria 3 0 African Nations Cup
+2010 65 home Mozambique Botswana 0 1 Friendly
+2010 163 away Mozambique Portugal 3 0 Friendly
+2010 228 home Mozambique Swaziland 2 1 Friendly
+2010 253 home Mozambique Libya 0 0 African Nations Cup qualifier
+2010 288 away Mozambique Comoros 0 1 African Nations Cup qualifier
+2011 40 home Mozambique Botswana 1 1 Friendly
+2011 89 home Mozambique Zambia 0 2 African Nations Cup qualifier
+2011 116 home Mozambique Tanzania 2 0 Friendly
+2011 159 away Mozambique Zambia 3 0 African Nations Cup qualifier
+2011 251 away Mozambique Libya 1 0 African Nations Cup qualifier
+2011 287 home Mozambique Comoros 3 0 African Nations Cup qualifier
+2011 321 away Mozambique Comoros 0 1 World Cup qualifier
+2011 325 home Mozambique Comoros 4 1 World Cup qualifier
+2012 53 away Mozambique Namibia 3 0 Friendly
+2012 60 away Mozambique Tanzania 1 1 African Nations Cup qualifier
+2012 126 away Mozambique Iran 3 0 Friendly
+2012 150 home Mozambique Namibia 0 0 Friendly
+2012 156 away Mozambique Egypt 2 0 World Cup qualifier
+2012 165 home Mozambique Zimbabwe 0 0 World Cup qualifier
+2012 172 home Mozambique Tanzania 1 1 African Nations Cup qualifier
+2012 178 away Mozambique Vietnam 1 0 Friendly
+2012 232 away Mozambique Angola 2 0 Friendly
+2012 257 home Mozambique Morocco 2 0 African Nations Cup qualifier
+2012 259 away Mozambique SouthAfrica 2 0 Friendly
+2012 292 away Mozambique Morocco 4 0 African Nations Cup qualifier
+2013 75 home Mozambique Swaziland 0 0 Friendly
+2013 86 home Mozambique Guinea 0 0 World Cup qualifier
+2013 164 away Mozambique Guinea 6 1 World Cup qualifier
+2013 171 home Mozambique Egypt 0 1 World Cup qualifier
+2013 192 away Mozambique Malawi 0 1 Friendly
+2013 200 away Mozambique Zambia 3 1 Cosafa Cup
+2013 202 home Mozambique Namibia 1 0 Cosafa Cup
+2013 204 home Mozambique Angola 1 0 Cosafa Cup
+2013 256 away Mozambique Zimbabwe 1 1 World Cup qualifier
+2013 329 away Mozambique Namibia 0 0 Friendly
+2014 67 home Mozambique Angola 1 1 Friendly

@@ -1,0 +1,735 @@
+1902 291 home Austria Hungary 5 0 Friendly
+1903 165 away Austria Hungary 3 2 Friendly
+1903 290 home Austria Hungary 4 2 Friendly
+1904 157 away Austria Hungary 3 0 Friendly
+1904 319 home Austria Hungary 5 4 Friendly
+1905 102 away Austria Hungary 0 0 Friendly
+1906 314 away Austria Hungary 3 1 Friendly
+1907 129 home Austria Hungary 3 1 Friendly
+1907 313 away Austria Hungary 4 1 Friendly
+1908 127 home Austria Hungary 4 0 Friendly
+1908 161 home Austria England 1 6 Friendly
+1908 162 home Austria Germany 3 2 Friendly
+1908 163 home Austria England 1 11 Friendly
+1908 311 away Austria Hungary 5 3 Friendly
+1909 126 home Austria Hungary 3 4 Friendly
+1909 154 away Austria Hungary 1 1 Friendly
+1909 156 home Austria England 1 8 Friendly
+1909 319 away Austria Hungary 2 2 Friendly
+1910 125 home Austria Hungary 2 1 Friendly
+1910 316 away Austria Hungary 3 0 Friendly
+1911 131 home Austria Hungary 3 1 Friendly
+1911 288 away Austria Germany 1 2 Friendly
+1911 315 away Austria Hungary 2 0 Friendly
+1912 129 home Austria Hungary 1 1 Friendly
+1912 184 home Austria Germany 5 1 Olympic Games
+1912 185 away Austria Holland 3 1 Olympic Games
+1912 187 home Austria Norway 1 0 Olympic Games Consolation Tournament
+1912 189 home Austria Italy 5 1 Olympic Games Consolation Tournament
+1912 191 away Austria Hungary 3 0 Olympic Games Consolation Tournament
+1912 313 away Austria Hungary 4 0 Friendly
+1912 363 away Austria Italy 1 3 Friendly
+1913 120 away Austria Hungary 4 1 Friendly
+1913 170 home Austria Italy 2 0 Friendly
+1913 305 away Austria Hungary 4 3 Friendly
+1914 11 away Austria Italy 0 0 Friendly
+1914 127 home Austria Hungary 2 0 Friendly
+1914 283 away Austria Hungary 2 2 Friendly
+1914 318 home Austria Hungary 1 2 Friendly
+1915 126 away Austria Hungary 2 5 Friendly
+1915 154 home Austria Hungary 1 2 Friendly
+1915 282 home Austria Hungary 4 2 Friendly
+1915 317 away Austria Hungary 6 2 Friendly
+1916 131 home Austria Hungary 3 1 Friendly
+1916 159 away Austria Hungary 2 1 Friendly
+1916 280 away Austria Hungary 2 3 Friendly
+1916 315 home Austria Hungary 3 3 Friendly
+1917 130 home Austria Hungary 1 1 Friendly
+1917 158 away Austria Hungary 6 2 Friendly
+1917 201 home Austria Hungary 1 4 Friendly
+1917 286 away Austria Hungary 2 1 Friendly
+1917 314 home Austria Hungary 1 2 Friendly
+1917 364 away Austria Switzerland 0 1 Friendly
+1917 367 away Austria Switzerland 3 2 Friendly
+1918 107 away Austria Hungary 2 0 Friendly
+1918 133 home Austria Switzerland 5 1 Friendly
+1918 157 home Austria Hungary 0 2 Friendly
+1918 285 home Austria Hungary 0 3 Friendly
+1919 99 away Austria Hungary 2 1 Friendly
+1919 284 home Austria Hungary 2 0 Friendly
+1919 319 away Austria Hungary 3 2 Friendly
+1920 126 home Austria Hungary 2 2 Friendly
+1920 274 home Austria Germany 3 2 Friendly
+1920 317 away Austria Hungary 1 2 Friendly
+1921 87 home Austria Sweden 2 2 Friendly
+1921 117 away Austria Hungary 1 4 Friendly
+1921 125 away Austria Switzerland 2 2 Friendly
+1921 129 away Austria Germany 3 3 Friendly
+1921 210 away Austria Sweden 1 3 Friendly
+1921 217 away Austria Finland 2 3 Friendly
+1922 15 away Austria Italy 3 3 Friendly
+1922 116 home Austria Germany 0 2 Friendly
+1922 123 away Austria Hungary 1 1 Friendly
+1922 166 home Austria Switzerland 7 1 Friendly
+1922 272 home Austria Hungary 2 2 Friendly
+1922 336 away Austria Hungary 1 2 Friendly
+1922 362 away Austria Switzerland 2 0 Friendly
+1923 108 home Austria Italy 0 0 Friendly
+1923 130 home Austria Hungary 1 0 Friendly
+1923 165 away Austria Sweden 4 2 Friendly
+1923 232 home Austria Finland 2 1 Friendly
+1923 271 away Austria Hungary 2 0 Friendly
+1924 13 away Austria Germany 4 3 Friendly
+1924 20 away Austria Italy 0 4 Friendly
+1924 41 away Austria Yugoslavia 1 4 Friendly
+1924 128 away Austria Hungary 2 2 Friendly
+1924 144 home Austria Romania 4 1 Friendly
+1924 145 home Austria Bulgaria 6 0 Friendly
+1924 177 home Austria Egypt 3 1 Friendly
+1924 262 home Austria Hungary 2 1 Friendly
+1924 319 home Austria Sweden 1 1 Friendly
+1924 362 away Austria Spain 2 1 Friendly
+1925 84 home Austria Switzerland 2 0 Friendly
+1925 112 away Austria France 0 4 Friendly
+1925 129 home Austria Hungary 3 1 Friendly
+1925 148 away Austria Czechoslovakia 3 1 Friendly
+1925 191 away Austria Sweden 2 4 Friendly
+1925 196 away Austria Finland 1 2 Friendly
+1925 268 away Austria Hungary 1 1 Friendly
+1925 275 home Austria Spain 0 1 Friendly
+1925 318 away Austria Switzerland 2 0 Friendly
+1925 354 away Austria Belgium 3 4 Friendly
+1926 76 home Austria Czechoslovakia 2 0 Friendly
+1926 126 away Austria Hungary 0 3 Friendly
+1926 154 home Austria France 4 1 Friendly
+1926 267 home Austria Hungary 2 3 Friendly
+1926 276 away Austria Czechoslovakia 1 2 Friendly
+1926 289 home Austria Switzerland 7 1 Friendly
+1926 317 home Austria Sweden 3 1 Friendly
+1927 73 home Austria Czechoslovakia 1 2 Friendly
+1927 103 home Austria Hungary 6 0 Friendly
+1927 146 home Austria Belgium 4 1 Friendly
+1927 153 away Austria Switzerland 1 4 Friendly
+1927 266 away Austria Czechoslovakia 2 0 Dr. Gero International Cup
+1927 273 away Austria Hungary 5 3 Dr. Gero International Cup
+1927 316 away Austria Italy 0 1 Dr. Gero International Cup
+1928 8 away Austria Belgium 1 2 Friendly
+1928 94 home Austria Czechoslovakia 0 1 Dr. Gero International Cup
+1928 130 away Austria Hungary 5 5 Friendly
+1928 215 away Austria Sweden 2 3 Friendly
+1928 286 home Austria Hungary 5 1 Dr. Gero International Cup
+1928 307 home Austria Switzerland 2 0 Dr. Gero International Cup
+1928 321 away Austria Italy 2 2 Friendly
+1929 79 away Austria Czechoslovakia 3 3 Friendly
+1929 100 home Austria Italy 3 0 Dr. Gero International Cup
+1929 129 home Austria Hungary 2 2 Friendly
+1929 263 home Austria Czechoslovakia 2 1 Friendly
+1929 285 away Austria Hungary 2 1 Friendly
+1929 306 away Austria Switzerland 1 3 Dr. Gero International Cup
+1930 85 away Austria Czechoslovakia 2 2 Friendly
+1930 138 home Austria England 0 0 Friendly
+1930 156 away Austria Hungary 2 1 Friendly
+1930 269 home Austria Hungary 2 3 Friendly
+1930 326 home Austria Sweden 4 1 Friendly
+1931 53 away Austria Italy 2 1 Dr. Gero International Cup
+1931 105 home Austria Czechoslovakia 2 1 Dr. Gero International Cup
+1931 127 home Austria Hungary 0 0 Dr. Gero International Cup
+1931 140 home Austria Scotland 5 0 Friendly
+1931 148 away Austria Germany 0 6 Friendly
+1931 171 home Austria Switzerland 2 0 Friendly
+1931 261 home Austria Germany 5 0 Friendly
+1931 283 away Austria Hungary 2 2 Dr. Gero International Cup
+1931 339 away Austria Switzerland 1 8 Dr. Gero International Cup
+1932 82 home Austria Italy 2 1 Dr. Gero International Cup
+1932 117 home Austria Hungary 8 2 Friendly
+1932 146 away Austria Czechoslovakia 1 1 Dr. Gero International Cup
+1932 203 away Austria Sweden 3 4 Friendly
+1932 281 away Austria Hungary 2 3 Friendly
+1932 302 home Austria Switzerland 3 1 Dr. Gero International Cup
+1932 348 away Austria England 4 3 Friendly
+1932 352 away Austria Belgium 1 6 Friendly
+1933 43 away Austria France 0 4 Friendly
+1933 102 home Austria Czechoslovakia 1 2 Friendly
+1933 123 away Austria Hungary 1 1 Friendly
+1933 166 home Austria Belgium 4 1 Friendly
+1933 265 away Austria Czechoslovakia 3 3 Friendly
+1933 280 home Austria Hungary 2 2 Friendly
+1933 339 away Austria Scotland 2 2 Friendly
+1933 351 away Austria Holland 0 1 Friendly
+1934 42 away Austria Italy 2 4 Dr. Gero International Cup
+1934 87 away Austria Switzerland 2 3 Dr. Gero International Cup
+1934 108 home Austria Hungary 5 2 Friendly
+1934 118 home Austria Bulgaria 6 1 World Cup qualifier
+1934 151 home Austria France 3 2 World Cup
+1934 155 home Austria Hungary 2 1 World Cup
+1934 158 away Austria Italy 1 0 World Cup
+1934 161 away Austria Germany 3 2 World Cup
+1934 271 home Austria Czechoslovakia 2 2 Dr. Gero International Cup
+1934 286 away Austria Hungary 3 1 Dr. Gero International Cup
+1934 321 home Austria Switzerland 3 0 Dr. Gero International Cup
+1935 86 home Austria Italy 0 2 Dr. Gero International Cup
+1935 107 away Austria Czechoslovakia 0 0 Dr. Gero International Cup
+1935 136 home Austria Poland 5 2 Friendly
+1935 136 away Austria Hungary 6 3 Friendly
+1935 285 home Austria Hungary 4 4 Dr. Gero International Cup
+1935 285 away Austria Poland 1 0 Friendly
+1936 19 away Austria Spain 4 5 Friendly
+1936 26 away Austria Portugal 2 3 Friendly
+1936 84 home Austria Czechoslovakia 1 1 Dr. Gero International Cup
+1936 98 home Austria Hungary 3 5 Friendly
+1936 130 home Austria England 2 1 Friendly
+1936 141 away Austria Italy 2 2 Friendly
+1936 222 home Austria Egypt 3 1 Olympic Games
+1936 225 away Austria Peru 4 2 Olympic Games
+1936 228 home Austria Poland 3 1 Olympic Games
+1936 232 away Austria Italy 2 1 Olympic Games
+1936 275 away Austria Hungary 5 3 Dr. Gero International Cup
+1936 318 away Austria Switzerland 1 3 Dr. Gero International Cup
+1937 24 away Austria France 1 2 Friendly
+1937 83 home Austria Italy 2 0 Friendly
+1937 133 home Austria Scotland 1 1 Friendly
+1937 147 away Austria Hungary 2 2 Friendly
+1937 267 home Austria Switzerland 4 3 Dr. Gero International Cup
+1937 284 home Austria Latvia 2 1 World Cup qualifier
+1937 289 home Austria Hungary 1 2 Dr. Gero International Cup
+1937 303 away Austria Czechoslovakia 2 1 Dr. Gero International Cup
+1945 236 away Austria Hungary 2 0 Friendly
+1945 237 away Austria Hungary 5 2 Friendly
+1945 347 home Austria France 4 1 Friendly
+1946 107 home Austria Hungary 3 2 Friendly
+1946 129 away Austria France 3 1 Friendly
+1946 285 away Austria Hungary 2 0 Friendly
+1946 306 home Austria Czechoslovakia 3 4 Friendly
+1946 320 away Austria Switzerland 1 0 Friendly
+1946 342 away Austria Italy 3 2 Friendly
+1947 128 away Austria Hungary 5 2 Friendly
+1947 262 home Austria Hungary 4 3 Friendly
+1947 284 away Austria Czechoslovakia 3 2 Friendly
+1947 319 home Austria Italy 5 1 Friendly
+1948 111 home Austria Switzerland 3 1 Friendly
+1948 126 home Austria Hungary 3 2 Dr. Gero International Cup
+1948 154 away Austria Turkey 0 1 Friendly
+1948 197 away Austria Sweden 3 2 Friendly
+1948 219 away Austria Sweden 3 0 Olympic Games
+1948 282 away Austria Hungary 2 1 Friendly
+1948 310 away Austria Czechoslovakia 3 1 Dr. Gero International Cup
+1948 324 home Austria Sweden 2 1 Friendly
+1949 82 home Austria Turkey 1 0 Friendly
+1949 96 away Austria Switzerland 1 2 Dr. Gero International Cup
+1949 132 away Austria Hungary 6 1 Dr. Gero International Cup
+1949 146 away Austria Italy 3 1 Dr. Gero International Cup
+1949 273 home Austria Czechoslovakia 3 1 Dr. Gero International Cup
+1949 295 home Austria Hungary 3 4 Friendly
+1949 323 away Austria Yugoslavia 2 5 Friendly
+1950 81 home Austria Switzerland 3 3 Dr. Gero International Cup
+1950 95 home Austria Italy 1 0 Dr. Gero International Cup
+1950 138 home Austria Hungary 5 3 Friendly
+1950 287 home Austria Yugoslavia 7 2 Friendly
+1950 308 away Austria Hungary 4 3 Friendly
+1950 315 home Austria Denmark 5 1 Friendly
+1950 354 away Austria Scotland 0 1 Friendly
+1951 151 home Austria Scotland 4 0 Friendly
+1951 172 away Austria Denmark 3 3 Friendly
+1951 271 home Austria Germany 0 2 Friendly
+1951 293 away Austria Belgium 1 8 Friendly
+1951 311 away Austria France 2 2 Friendly
+1951 338 away Austria England 2 2 Friendly
+1952 85 home Austria Belgium 2 0 Friendly
+1952 131 home Austria Ireland 6 0 Friendly
+1952 149 home Austria England 2 3 Friendly
+1952 177 away Austria Switzerland 1 1 Friendly
+1952 269 away Austria Yugoslavia 4 2 Friendly
+1952 298 home Austria France 1 2 Friendly
+1952 333 away Austria Portugal 1 1 Friendly
+1953 84 away Austria Germany 0 0 Friendly
+1953 87 away Austria Ireland 4 0 Friendly
+1953 119 away Austria Hungary 1 1 Friendly
+1953 275 home Austria Portugal 9 1 World Cup qualifier
+1953 290 home Austria Hungary 2 3 Friendly
+1953 339 away Austria Portugal 0 0 World Cup qualifier
+1954 104 home Austria Hungary 0 1 Friendly
+1954 133 home Austria Wales 2 0 Friendly
+1954 154 home Austria Norway 5 0 Friendly
+1954 171 home Austria Scotland 1 0 World Cup
+1954 174 home Austria Czechoslovakia 5 0 World Cup
+1954 181 away Austria Switzerland 5 7 World Cup
+1954 185 away Austria Germany 6 1 World Cup
+1954 189 home Austria Uruguay 3 1 World Cup
+1954 282 home Austria Yugoslavia 2 2 Friendly
+1954 310 away Austria Sweden 2 1 Friendly
+1954 324 away Austria Hungary 4 1 Friendly
+1955 89 away Austria Czechoslovakia 3 2 Dr. Gero International Cup
+1955 117 home Austria Hungary 2 2 Dr. Gero International Cup
+1955 125 away Austria Switzerland 2 3 Dr. Gero International Cup
+1955 143 home Austria Scotland 1 4 Friendly
+1955 295 away Austria Hungary 6 1 Dr. Gero International Cup
+1955 309 home Austria Yugoslavia 2 1 Dr. Gero International Cup
+1955 333 away Austria Wales 1 2 Friendly
+1956 87 away Austria France 3 1 Friendly
+1956 108 home Austria Brazil 2 3 Friendly
+1956 126 away Austria Scotland 1 1 Friendly
+1956 172 away Austria Yugoslavia 1 1 Dr. Gero International Cup
+1956 278 home Austria Luxembourg 7 0 World Cup qualifier
+1956 293 home Austria Hungary 0 2 Friendly
+1956 350 away Austria Italy 2 1 Dr. Gero International Cup
+1957 55 away Austria Malta 2 3 Friendly
+1957 72 home Austria Germany 2 3 Friendly
+1957 107 home Austria Switzerland 4 0 Dr. Gero International Cup
+1957 129 home Austria Sweden 1 0 Friendly
+1957 150 home Austria Holland 3 2 World Cup qualifier
+1957 263 away Austria Yugoslavia 3 3 Friendly
+1957 273 away Austria Holland 1 1 World Cup qualifier
+1957 277 away Austria Luxembourg 0 3 World Cup qualifier
+1957 292 home Austria Czechoslovakia 2 2 Dr. Gero International Cup
+1958 85 home Austria Italy 3 2 Dr. Gero International Cup
+1958 138 home Austria Ireland 3 1 Friendly
+1958 163 away Austria Brazil 3 0 World Cup
+1958 166 away Austria SovietUnion 2 0 World Cup
+1958 170 home Austria England 2 2 World Cup
+1958 262 home Austria Yugoslavia 3 4 Friendly
+1958 284 home Austria France 1 2 Friendly
+1958 329 away Austria Germany 2 2 Friendly
+1959 144 away Austria Norway 0 1 European Cup qualifier
+1959 148 away Austria Belgium 0 2 Friendly
+1959 169 home Austria Belgium 4 2 Friendly
+1959 271 home Austria Norway 5 2 European Cup qualifier
+1959 332 away Austria Spain 6 3 Friendly
+1959 354 away Austria France 5 2 European Cup qualifier
+1960 89 home Austria France 2 4 European Cup qualifier
+1960 125 away Austria Czechoslovakia 4 0 Friendly
+1960 153 home Austria Scotland 4 1 Friendly
+1960 177 away Austria Norway 1 2 Friendly
+1960 252 home Austria SovietUnion 3 1 Friendly
+1960 309 home Austria Spain 3 0 Friendly
+1960 330 away Austria Hungary 2 0 Friendly
+1960 351 away Austria Italy 1 2 Friendly
+1961 151 home Austria England 3 1 Friendly
+1961 166 away Austria Hungary 1 2 Friendly
+1961 258 away Austria SovietUnion 0 1 Friendly
+1961 287 home Austria Hungary 2 1 Friendly
+1961 329 away Austria Yugoslavia 2 1 Friendly
+1962 5 away Austria Egypt 1 0 Friendly
+1962 97 away Austria England 3 1 Friendly
+1962 101 away Austria Ireland 2 3 Friendly
+1962 130 home Austria Bulgaria 2 0 Friendly
+1962 179 home Austria Hungary 1 2 Friendly
+1962 264 home Austria Czechoslovakia 0 6 Friendly
+1962 307 away Austria Hungary 2 0 Friendly
+1962 321 home Austria Italy 1 2 Friendly
+1962 335 away Austria Bulgaria 1 1 Friendly
+1963 117 home Austria Czechoslovakia 3 1 Friendly
+1963 132 away Austria Scotland 4 1 Friendly
+1963 164 home Austria Italy 0 1 Friendly
+1963 273 home Austria Ireland 0 0 European Cup qualifier
+1963 292 away Austria Ireland 3 2 European Cup qualifier
+1963 306 away Austria Hungary 2 1 Friendly
+1963 355 away Austria Italy 1 0 Friendly
+1964 105 away Austria Holland 1 1 Friendly
+1964 127 home Austria Hungary 1 0 Friendly
+1964 138 home Austria Uruguay 0 2 Friendly
+1964 275 home Austria Yugoslavia 3 2 Friendly
+1964 290 home Austria SovietUnion 1 0 Friendly
+1965 86 away Austria France 1 2 Friendly
+1965 118 home Austria EastGermany 1 1 World Cup qualifier
+1965 140 away Austria SovietUnion 0 0 Friendly
+1965 168 home Austria Hungary 0 1 World Cup qualifier
+1965 253 away Austria Hungary 3 0 World Cup qualifier
+1965 288 away Austria Germany 4 1 Friendly
+1965 299 away Austria England 2 3 Friendly
+1965 310 away Austria EastGermany 1 0 World Cup qualifier
+1966 117 home Austria SovietUnion 0 1 Friendly
+1966 146 home Austria Ireland 1 0 Friendly
+1966 173 away Austria Italy 1 0 Friendly
+1966 266 home Austria Holland 2 1 Friendly
+1966 281 away Austria Finland 0 0 European Cup qualifier
+1966 284 away Austria Sweden 4 1 Friendly
+1966 309 away Austria Hungary 3 1 Friendly
+1967 151 home Austria England 0 1 Friendly
+1967 166 away Austria SovietUnion 4 3 European Cup qualifier
+1967 254 home Austria Hungary 1 3 Friendly
+1967 272 home Austria Finland 2 1 European Cup qualifier
+1967 283 away Austria Greece 4 1 European Cup qualifier
+1967 294 home Austria SovietUnion 1 0 European Cup qualifier
+1967 315 home Austria Greece 1 1 European Cup qualifier
+1968 125 home Austria Romania 1 1 Friendly
+1968 143 home Austria Cyprus 7 1 World Cup qualifier
+1968 171 away Austria SovietUnion 3 1 Friendly
+1968 270 away Austria Switzerland 1 0 Friendly
+1968 292 home Austria Germany 0 2 World Cup qualifier
+1968 316 away Austria Scotland 2 1 World Cup qualifier
+1968 320 away Austria Ireland 2 2 Friendly
+1969 112 away Austria Cyprus 1 2 World Cup qualifier
+1969 116 away Austria Israel 1 1 Friendly
+1969 120 away Austria Malta 1 3 Friendly
+1969 134 away Austria Germany 1 0 World Cup qualifier
+1969 269 home Austria Germany 1 1 Friendly
+1969 315 home Austria Scotland 2 0 World Cup qualifier
+1970 101 away Austria Yugoslavia 1 1 Friendly
+1970 105 home Austria Czechoslovakia 1 3 Friendly
+1970 122 away Austria Brazil 1 0 Friendly
+1970 258 home Austria Yugoslavia 0 1 Friendly
+1970 275 away Austria Hungary 1 1 Friendly
+1970 286 home Austria France 1 0 Friendly
+1970 310 home Austria Italy 1 2 European Cup qualifier
+1971 97 home Austria Hungary 0 2 Friendly
+1971 150 away Austria Sweden 1 0 European Cup qualifier
+1971 154 away Austria Ireland 1 4 European Cup qualifier
+1971 197 away Austria Brazil 1 1 Friendly
+1971 252 home Austria Sweden 1 0 European Cup qualifier
+1971 289 home Austria Ireland 6 0 European Cup qualifier
+1971 330 away Austria Italy 2 2 European Cup qualifier
+1972 101 away Austria Czechoslovakia 2 0 Friendly
+1972 123 home Austria Malta 4 0 World Cup qualifier
+1972 165 home Austria Sweden 2 0 World Cup qualifier
+1972 251 away Austria Romania 1 1 Friendly
+1972 294 home Austria Hungary 2 2 World Cup qualifier
+1972 335 away Austria Malta 0 2 World Cup qualifier
+1973 90 home Austria Holland 1 0 Friendly
+1973 122 away Austria Hungary 2 2 World Cup qualifier
+1973 147 away Austria Sweden 3 2 World Cup qualifier
+1973 168 home Austria Brazil 1 1 Friendly
+1973 274 away Austria England 7 0 Friendly
+1973 289 away Austria Germany 4 0 Friendly
+1973 337 away Austria Sweden 2 1 World Cup qualifier
+1974 89 away Austria Holland 1 1 Friendly
+1974 125 away Austria Brazil 0 0 Friendly
+1974 163 home Austria Italy 0 0 Friendly
+1974 252 home Austria Wales 2 1 European Cup qualifier
+1974 276 home Austria Hungary 1 0 Friendly
+1974 323 away Austria Turkey 0 1 Friendly
+1975 78 away Austria Luxembourg 1 2 European Cup qualifier
+1975 95 home Austria Hungary 0 0 European Cup qualifier
+1975 162 home Austria Czechoslovakia 0 0 Friendly
+1975 251 home Austria Germany 0 2 Friendly
+1975 272 away Austria Hungary 2 1 European Cup qualifier
+1975 294 home Austria Luxembourg 6 2 European Cup qualifier
+1975 329 away Austria Wales 1 0 European Cup qualifier
+1976 121 home Austria Sweden 1 0 Friendly
+1976 167 away Austria Hungary 2 0 Friendly
+1976 178 home Austria SovietUnion 1 2 Friendly
+1976 270 home Austria Switzerland 3 1 Friendly
+1976 292 home Austria Hungary 2 4 Friendly
+1976 320 away Austria Greece 0 3 Friendly
+1976 346 away Austria Malta 0 1 World Cup qualifier
+1976 356 away Austria Israel 1 3 Friendly
+1977 71 home Austria Greece 2 0 Friendly
+1977 110 home Austria Turkey 1 0 World Cup qualifier
+1977 123 home Austria Malta 9 0 World Cup qualifier
+1977 156 away Austria Czechoslovakia 0 0 Friendly
+1977 241 home Austria Poland 2 1 Friendly
+1977 272 home Austria EastGermany 1 1 World Cup qualifier
+1977 291 away Austria EastGermany 1 1 World Cup qualifier
+1977 309 away Austria Turkey 0 1 World Cup qualifier
+1978 46 away Austria Greece 1 1 Friendly
+1978 84 away Austria Belgium 1 0 Friendly
+1978 97 away Austria Switzerland 0 1 Friendly
+1978 144 home Austria Holland 0 1 Friendly
+1978 158 home Austria Spain 2 1 World Cup
+1978 162 home Austria Sweden 1 0 World Cup
+1978 166 away Austria Brazil 1 0 World Cup
+1978 169 away Austria Holland 5 1 World Cup
+1978 173 away Austria Italy 1 0 World Cup
+1978 176 home Austria Germany 3 2 World Cup
+1978 247 away Austria Norway 0 2 European Cup qualifier
+1978 268 home Austria Scotland 3 2 European Cup qualifier
+1978 325 home Austria Portugal 1 2 European Cup qualifier
+1979 30 away Austria Israel 0 1 Friendly
+1979 90 away Austria Belgium 1 1 European Cup qualifier
+1979 126 home Austria Belgium 0 0 European Cup qualifier
+1979 168 home Austria England 4 3 Friendly
+1979 246 home Austria Norway 4 0 European Cup qualifier
+1979 274 home Austria Hungary 3 1 Friendly
+1979 296 away Austria Scotland 1 1 European Cup qualifier
+1979 331 away Austria Portugal 1 2 European Cup qualifier
+1980 95 away Austria Germany 1 0 Friendly
+1980 145 home Austria Argentina 1 5 Friendly
+1980 159 away Austria Hungary 1 1 Friendly
+1980 272 away Austria Finland 0 2 World Cup qualifier
+1980 287 home Austria Hungary 3 1 Friendly
+1980 325 home Austria Albania 5 0 World Cup qualifier
+1980 347 away Austria Albania 0 1 World Cup qualifier
+1981 122 away Austria Germany 2 0 World Cup qualifier
+1981 152 home Austria Bulgaria 2 0 World Cup qualifier
+1981 172 home Austria Finland 5 1 World Cup qualifier
+1981 271 home Austria Spain 0 0 Friendly
+1981 293 home Austria Germany 1 3 World Cup qualifier
+1981 321 away Austria Bulgaria 0 0 World Cup qualifier
+1982 86 away Austria Hungary 2 3 Friendly
+1982 121 home Austria Czechoslovakia 2 1 Friendly
+1982 143 home Austria Denmark 1 0 Friendly
+1982 172 home Austria Chile 1 0 World Cup
+1982 176 home Austria Algeria 2 0 World Cup
+1982 180 away Austria Germany 1 0 World Cup
+1982 183 away Austria France 1 0 World Cup
+1982 187 home Austria NorthernIreland 2 2 World Cup
+1982 270 home Austria Albania 5 0 European Cup qualifier
+1982 292 home Austria NorthernIreland 2 0 European Cup qualifier
+1982 327 home Austria Turkey 4 0 European Cup qualifier
+1983 120 home Austria Germany 0 0 European Cup qualifier
+1983 141 home Austria SovietUnion 2 2 Friendly
+1983 163 away Austria Albania 1 2 European Cup qualifier
+1983 269 away Austria NorthernIreland 3 1 European Cup qualifier
+1983 284 away Austria Germany 3 0 European Cup qualifier
+1983 326 away Austria Turkey 3 1 European Cup qualifier
+1984 90 away Austria France 1 0 Friendly
+1984 111 home Austria Greece 0 0 Friendly
+1984 126 away Austria Cyprus 1 2 World Cup qualifier
+1984 162 away Austria Liechtenstein 0 6 Friendly
+1984 260 away Austria Denmark 3 1 Friendly
+1984 274 away Austria Hungary 3 1 World Cup qualifier
+1984 324 home Austria Holland 1 0 World Cup qualifier
+1985 89 away Austria SovietUnion 2 0 Friendly
+1985 110 home Austria Hungary 0 3 World Cup qualifier
+1985 125 away Austria Holland 1 1 World Cup qualifier
+1985 131 home Austria Cyprus 4 0 World Cup qualifier
+1985 295 home Austria Yugoslavia 0 3 Friendly
+1985 330 away Austria Spain 0 0 Friendly
+1986 88 away Austria Italy 2 1 Friendly
+1986 138 home Austria Sweden 1 0 Friendly
+1986 244 home Austria Switzerland 1 1 Friendly
+1986 258 away Austria Romania 4 0 European Cup qualifier
+1986 294 home Austria Albania 3 0 European Cup qualifier
+1986 308 home Austria Germany 4 1 Friendly
+1987 38 away Austria Tunisia 1 3 Friendly
+1987 87 away Austria Yugoslavia 4 0 Friendly
+1987 94 home Austria Spain 2 3 European Cup qualifier
+1987 122 away Austria Albania 0 1 European Cup qualifier
+1987 235 away Austria Switzerland 2 2 Friendly
+1987 293 away Austria Spain 2 0 European Cup qualifier
+1987 328 home Austria Romania 0 0 European Cup qualifier
+1988 33 home Austria Morocco 1 5 Friendly tournament
+1988 36 home Austria Switzerland 1 2 Friendly tournament
+1988 99 away Austria Greece 2 2 Friendly
+1988 120 home Austria Denmark 1 0 Friendly
+1988 141 away Austria Hungary 0 4 Friendly
+1988 220 home Austria Brazil 0 2 Friendly
+1988 248 home Austria Hungary 0 0 Friendly
+1988 268 away Austria Czechoslovakia 4 2 Friendly
+1988 298 away Austria SovietUnion 2 0 World Cup qualifier
+1988 312 home Austria Turkey 3 2 World Cup qualifier
+1989 87 home Austria Italy 0 1 Friendly
+1989 104 home Austria Czechoslovakia 1 2 Friendly
+1989 144 away Austria EastGermany 1 1 World Cup qualifier
+1989 155 away Austria Norway 4 1 Friendly
+1989 169 away Austria Iceland 0 0 World Cup qualifier
+1989 240 home Austria Iceland 2 1 World Cup qualifier
+1989 254 home Austria SovietUnion 0 0 World Cup qualifier
+1989 283 away Austria Malta 1 2 Friendly
+1989 304 away Austria Turkey 3 0 World Cup qualifier
+1989 325 home Austria EastGermany 3 0 World Cup qualifier
+1990 59 away Austria Egypt 0 0 Friendly
+1990 90 away Austria Spain 2 3 Friendly
+1990 104 home Austria Hungary 3 0 Friendly
+1990 127 home Austria Argentina 1 1 Friendly
+1990 154 home Austria Holland 3 2 Friendly
+1990 164 away Austria Italy 1 0 World Cup
+1990 170 home Austria Czechoslovakia 0 1 World Cup
+1990 174 home Austria UnitedStates 2 1 World Cup
+1990 238 home Austria Switzerland 1 3 Friendly
+1990 260 home Austria FaroeIslands 0 1 European Cup qualifier
+1990 310 away Austria Yugoslavia 4 1 European Cup qualifier
+1990 324 home Austria NorthernIreland 0 0 European Cup qualifier
+1991 110 home Austria Norway 0 0 Friendly
+1991 125 away Austria Sweden 6 0 Friendly
+1991 146 home Austria FaroeIslands 3 0 European Cup qualifier
+1991 160 away Austria Denmark 2 1 European Cup qualifier
+1991 252 away Austria Portugal 1 1 Friendly
+1991 288 home Austria Denmark 0 3 European Cup qualifier
+1991 295 away Austria NorthernIreland 2 1 European Cup qualifier
+1991 323 home Austria Yugoslavia 0 2 European Cup qualifier
+1992 87 away Austria Hungary 2 1 Friendly
+1992 107 home Austria Lithuania 4 0 Friendly
+1992 122 home Austria Wales 1 1 Friendly
+1992 143 home Austria Poland 2 4 Friendly
+1992 151 away Austria Holland 3 2 Friendly
+1992 236 away Austria Czechoslovakia 2 2 Friendly
+1992 250 home Austria Portugal 1 1 Friendly
+1992 293 away Austria France 2 0 World Cup qualifier
+1992 307 home Austria Israel 5 2 World Cup qualifier
+1992 328 away Austria Germany 0 0 Friendly
+1993 72 home Austria Greece 2 1 Friendly
+1993 89 home Austria France 0 1 World Cup qualifier
+1993 107 home Austria Bulgaria 3 1 World Cup qualifier
+1993 137 away Austria Finland 3 1 World Cup qualifier
+1993 143 away Austria Sweden 1 0 World Cup qualifier
+1993 242 home Austria Finland 3 0 World Cup qualifier
+1993 292 away Austria Bulgaria 4 1 World Cup qualifier
+1993 306 away Austria Israel 1 1 World Cup qualifier
+1993 320 home Austria Sweden 1 1 World Cup qualifier
+1994 85 home Austria Hungary 1 1 Friendly
+1994 113 home Austria Scotland 1 2 Friendly
+1994 141 away Austria Poland 3 4 Friendly
+1994 157 home Austria Germany 1 5 Friendly
+1994 234 home Austria Russia 0 3 Friendly
+1994 255 away Austria Liechtenstein 0 4 European Cup qualifier
+1994 291 home Austria NorthernIreland 1 2 European Cup qualifier
+1994 323 away Austria Portugal 1 0 European Cup qualifier
+1995 91 home Austria Latvia 5 0 European Cup qualifier
+1995 119 home Austria Liechtenstein 7 0 European Cup qualifier
+1995 166 away Austria Ireland 1 3 European Cup qualifier
+1995 233 away Austria Latvia 3 2 European Cup qualifier
+1995 254 home Austria Ireland 3 1 European Cup qualifier
+1995 290 home Austria Portugal 1 1 European Cup qualifier
+1995 325 away Austria NorthernIreland 5 3 European Cup qualifier
+1996 89 home Austria Switzerland 1 0 Friendly
+1996 117 away Austria Hungary 0 2 Friendly
+1996 153 home Austria Czechia 1 0 Friendly
+1996 248 home Austria Scotland 0 0 World Cup qualifier
+1996 288 away Austria Sweden 0 1 World Cup qualifier
+1996 319 home Austria Latvia 2 1 World Cup qualifier
+1997 80 home Austria Slovenia 0 2 Friendly
+1997 95 away Austria Scotland 2 0 World Cup qualifier
+1997 123 home Austria Estonia 2 0 World Cup qualifier
+1997 163 away Austria Latvia 1 3 World Cup qualifier
+1997 237 away Austria Estonia 0 3 World Cup qualifier
+1997 254 home Austria Sweden 1 0 World Cup qualifier
+1997 258 away Austria Belarus 0 1 World Cup qualifier
+1997 290 home Austria Belarus 4 0 World Cup qualifier
+1998 87 home Austria Hungary 2 3 Friendly
+1998 115 home Austria UnitedStates 0 3 Friendly
+1998 151 home Austria Tunisia 2 1 Friendly
+1998 157 home Austria Liechtenstein 6 0 Friendly
+1998 166 away Austria Cameroon 1 1 World Cup
+1998 172 away Austria Chile 1 1 World Cup
+1998 178 away Austria Italy 2 1 World Cup
+1998 236 home Austria France 2 2 Friendly
+1998 253 home Austria Israel 1 1 European Cup qualifier
+1998 289 away Austria Cyprus 0 3 European Cup qualifier
+1998 293 away Austria SanMarino 1 4 European Cup qualifier
+1999 72 away Austria Switzerland 2 4 Friendly
+1999 89 away Austria Spain 9 0 European Cup qualifier
+1999 121 home Austria SanMarino 7 0 European Cup qualifier
+1999 161 away Austria Israel 5 0 European Cup qualifier
+1999 235 away Austria Sweden 0 0 Friendly
+1999 252 home Austria Spain 1 3 European Cup qualifier
+1999 289 home Austria Cyprus 3 1 European Cup qualifier
+2000 54 away Austria Greece 4 1 Friendly
+2000 91 home Austria Sweden 1 1 Friendly
+2000 119 home Austria Croatia 1 2 Friendly
+2000 233 away Austria Hungary 1 1 Friendly
+2000 249 home Austria Iran 5 1 Friendly
+2000 286 away Austria Liechtenstein 0 1 World Cup qualifier
+2000 290 home Austria Spain 1 1 World Cup qualifier
+2001 59 away Austria Croatia 1 0 Friendly
+2001 86 away Austria Bosnia 1 1 World Cup qualifier
+2001 90 home Austria Israel 2 1 World Cup qualifier
+2001 118 home Austria Liechtenstein 2 0 World Cup qualifier
+2001 232 home Austria Switzerland 1 2 Friendly
+2001 249 away Austria Spain 4 0 World Cup qualifier
+2001 253 home Austria Bosnia 2 0 World Cup qualifier
+2001 306 away Austria Israel 1 1 World Cup qualifier
+2001 320 home Austria Turkey 0 1 World Cup qualifier
+2001 324 away Austria Turkey 5 0 World Cup qualifier
+2002 89 home Austria Slovakia 2 0 Friendly
+2002 110 home Austria Cameroon 0 0 Friendly
+2002 142 away Austria Germany 6 2 Friendly
+2002 238 away Austria Switzerland 3 2 Friendly
+2002 255 home Austria Moldova 2 0 European Cup qualifier
+2002 291 away Austria Belarus 0 2 European Cup qualifier
+2002 295 home Austria Holland 0 3 European Cup qualifier
+2002 330 home Austria Norway 0 1 Friendly
+2003 88 home Austria Greece 2 2 Friendly
+2003 95 away Austria Czechia 4 0 European Cup qualifier
+2003 123 away Austria Scotland 0 2 Friendly
+2003 162 away Austria Moldova 1 0 European Cup qualifier
+2003 166 home Austria Belarus 5 0 European Cup qualifier
+2003 237 home Austria CostaRica 2 0 Friendly
+2003 254 away Austria Holland 3 1 European Cup qualifier
+2003 290 home Austria Czechia 2 3 European Cup qualifier
+2004 93 away Austria Slovakia 1 1 Friendly
+2004 121 home Austria Luxembourg 4 1 Friendly
+2004 149 home Austria Russia 0 0 Friendly
+2004 235 home Austria Germany 1 3 Friendly
+2004 252 home Austria England 2 2 World Cup qualifier
+2004 256 home Austria Azerbaijan 2 0 World Cup qualifier
+2004 288 home Austria Poland 1 3 World Cup qualifier
+2004 292 away Austria NorthernIreland 3 3 World Cup qualifier
+2005 39 away Austria Cyprus 1 1 Friendly tournament
+2005 40 home Austria Latvia 1 1 Friendly tournament
+2005 88 away Austria Wales 0 2 World Cup qualifier
+2005 92 home Austria Wales 1 0 World Cup qualifier
+2005 234 home Austria Scotland 2 2 Friendly
+2005 251 away Austria Poland 3 2 World Cup qualifier
+2005 255 away Austria Azerbaijan 0 0 World Cup qualifier
+2005 287 away Austria England 1 0 World Cup qualifier
+2005 291 home Austria NorthernIreland 2 0 World Cup qualifier
+2006 63 home Austria Canada 0 2 Friendly
+2006 147 home Austria Croatia 1 4 Friendly
+2006 233 home Austria Hungary 1 2 Friendly
+2006 250 home Austria CostaRica 2 2 Friendly tournament
+2006 254 away Austria Venezuela 1 0 Friendly tournament
+2006 285 away Austria Liechtenstein 1 2 Friendly
+2006 290 home Austria Switzerland 2 1 Friendly
+2006 325 home Austria TrinidadTobago 4 1 Friendly
+2007 38 away Austria Malta 1 1 Friendly
+2007 86 home Austria Ghana 1 1 Friendly
+2007 90 away Austria France 1 0 Friendly
+2007 154 home Austria Scotland 0 1 Friendly
+2007 157 home Austria Paraguay 0 0 Friendly
+2007 239 home Austria Czechia 1 1 Friendly
+2007 255 home Austria Japan 0 0 Friendly tournament
+2007 259 home Austria Chile 0 2 Friendly tournament
+2007 292 away Austria Switzerland 3 1 Friendly
+2007 296 home Austria IvoryCoast 3 2 Friendly
+2007 326 home Austria England 0 1 Friendly
+2007 331 home Austria Tunisia 0 0 Friendly
+2008 37 home Austria Germany 0 3 Friendly
+2008 88 home Austria Holland 3 4 Friendly
+2008 147 home Austria Cuba 4 1 Friendly
+2008 151 home Austria Nigeria 1 1 Friendly
+2008 154 home Austria Malta 5 1 Friendly
+2008 163 home Austria Croatia 0 1 European Cup
+2008 167 home Austria Poland 1 1 European Cup
+2008 171 home Austria Germany 0 1 European Cup
+2008 237 home Austria Italy 2 2 Friendly
+2008 254 home Austria France 3 1 World Cup qualifier
+2008 258 away Austria Lithuania 2 0 World Cup qualifier
+2008 290 away Austria FaroeIslands 1 1 World Cup qualifier
+2008 294 home Austria Serbia 1 3 World Cup qualifier
+2008 329 home Austria Turkey 2 4 Friendly
+2009 42 home Austria Sweden 0 2 Friendly
+2009 94 home Austria Romania 2 1 World Cup qualifier
+2009 161 away Austria Serbia 1 0 World Cup qualifier
+2009 229 home Austria Cameroon 0 2 Friendly
+2009 253 home Austria FaroeIslands 3 1 World Cup qualifier
+2009 257 away Austria Romania 1 1 World Cup qualifier
+2009 289 home Austria Lithuania 2 1 World Cup qualifier
+2009 293 away Austria France 3 1 World Cup qualifier
+2009 328 home Austria Spain 1 5 Friendly
+2010 65 home Austria Denmark 2 1 Friendly
+2010 143 home Austria Croatia 0 1 Friendly
+2010 228 home Austria Switzerland 0 1 Friendly
+2010 255 home Austria Kazakhstan 2 0 European Cup qualifier
+2010 287 home Austria Azerbaijan 3 0 European Cup qualifier
+2010 291 away Austria Belgium 4 4 European Cup qualifier
+2010 327 home Austria Greece 1 2 Friendly
+2011 40 away Austria Holland 3 1 Friendly
+2011 87 home Austria Belgium 0 2 European Cup qualifier
+2011 91 away Austria Turkey 2 0 European Cup qualifier
+2011 158 home Austria Germany 1 2 European Cup qualifier
+2011 162 home Austria Latvia 3 1 Friendly
+2011 227 home Austria Slovakia 1 2 Friendly
+2011 250 away Austria Germany 6 2 European Cup qualifier
+2011 254 home Austria Turkey 0 0 European Cup qualifier
+2011 286 away Austria Azerbaijan 1 4 European Cup qualifier
+2011 290 away Austria Kazakhstan 0 0 European Cup qualifier
+2011 325 away Austria Ukraine 2 1 Friendly
+2012 60 home Austria Finland 3 1 Friendly
+2012 156 home Austria Ukraine 3 2 Friendly
+2012 160 home Austria Romania 0 0 Friendly
+2012 232 home Austria Turkey 2 0 Friendly
+2012 259 home Austria Germany 1 2 World Cup qualifier
+2012 291 away Austria Kazakhstan 0 0 World Cup qualifier
+2012 295 home Austria Kazakhstan 4 0 World Cup qualifier
+2012 324 home Austria IvoryCoast 0 3 Friendly
+2013 37 away Austria Wales 2 1 Friendly
+2013 84 home Austria FaroeIslands 6 0 World Cup qualifier
+2013 88 away Austria Ireland 2 2 World Cup qualifier
+2013 162 home Austria Sweden 2 1 World Cup qualifier
+2013 231 home Austria Greece 0 2 Friendly
+2013 254 away Austria Germany 3 0 World Cup qualifier
+2013 258 home Austria Ireland 1 0 World Cup qualifier
+2013 290 away Austria Sweden 2 1 World Cup qualifier
+2013 294 away Austria FaroeIslands 0 3 World Cup qualifier
+2013 329 home Austria UnitedStates 1 0 Friendly
+2014 67 home Austria Uruguay 1 1 Friendly

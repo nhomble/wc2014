@@ -1,0 +1,168 @@
+Yaya Toure Yaya Toure 
+Manchester City / Barclays PL 
+86	CDM	77	74	80	79	83	84	3 	4 	 / 	 Right	89,000	2,097		
+Didier Drogba Didier Drogba 
+Galatasaray / Turklig 
+83	ST	72	83	69	76	51	86	3 	4 	 / 	 Right	1,400	1,890		
+Kolo Toure Kolo Toure 
+Liverpool / Barclays PL 
+80	CB	72	63	61	56	79	81	2 	3 	 / 	 Right	1,000	1,809		
+Seydou Doumbia Seydou Doumbia 
+CSKA Moskva / Russian League 
+80	ST	91	76	64	85	49	73	4 	4 	 / 	 Right	700	1,881		
+Wilfried Bony Wilfried Bony 
+Swansea City / Barclays PL 
+80	ST	73	78	55	74	55	86	3 	3 	 / 	 Right	650	1,813		
+Cheick Tiote Cheick Tiote 
+Newcastle United / Barclays PL 
+79	CDM	74	62	71	74	81	72	3 	3 	 / 	 Right	850	1,897		
+Lacina Traore Lacina Traore 
+Anzhi Makhachkala / Russian League 
+78	ST	77	72	45	70	52	78	3 	3 	 / 	 Left	1,500	1,625		
+Lacina Traore Lacina Traore 
+Everton / Barclays PL 
+78	ST	77	72	45	70	52	78	3 	3 	 / 	 Left	700	1,625		
+Arthur Boka Arthur Boka 
+VfB Stuttgart / Bundesliga 
+74	CDM	76	60	74	77	74	62	3 	3 	 / 	 Left	800	1,900		
+Max-Alain Gradel Max-Alain Gradel 
+AS Saint-Etienne / Ligue 1 
+74	LW	91	67	66	80	50	62	3 	4 	 / 	 Right	650	1,784		
+Copa Copa 
+Lokeren / Pro League 
+73	GK	72	74	55	83	53	63	1 	3 	 / 	 Right	800	1,016		
+Romaric Romaric 
+SC Bastia / Ligue 1 
+73	CM	53	73	82	69	69	69	3 	3 	 / 	 Left	950	1,846		
+Siaka Tiene Siaka Tiene 
+Montpellier HSC / Ligue 1 
+73	LB	71	61	77	65	71	63	3 	2 	 / 	 Left	350	1,819		
+Giovanni Sio Giovanni Sio 
+FC Basel / Raiffeisen SL 
+73	ST	88	72	67	74	41	68	3 	3 	 / 	 Left	400	1,736		
+Thierry Doubai Thierry Doubai 
+FC Sochaux / Ligue 1 
+73	CDM	70	55	75	69	72	68	2 	3 	 / 	 Right	400	1,796		
+Ibrahim Sissoko Ibrahim Sissoko 
+AS Saint-Etienne / Ligue 1 
+72	LM	85	57	65	79	43	59	4 	2 	 / 	 Left	1,300	1,602		
+Boubacar Sanogo Boubacar Sanogo 
+Energie Cottbus / Bundesliga 2 
+72	ST	65	69	58	64	45	83	3 	4 	 / 	 Right	250	1,648		
+Lamine Kone Lamine Kone 
+FC Lorient / Ligue 1 
+72	CB	64	33	55	51	75	77	2 	2 	 / 	 Right	1,100	1,492		
+Cyriac Cyriac 
+Anderlecht / Pro League 
+72	ST	87	69	60	73	41	73	3 	4 	 / 	 Right	500	1,703		
+Ibrahim Sissoko Ibrahim Sissoko 
+RC Deportivo / Liga Adelante 
+72	LM	85	57	65	79	43	59	4 	2 	 / 	 Left	400	1,602		
+Ismael Traore Ismael Traore 
+Stade Brestois / Ligue 2 
+68	CB	61	37	48	39	69	70	2 	3 	 / 	 Right	300	1,455		
+Yaya Soumahoro Yaya Soumahoro 
+AA Gent / Pro League 
+68	LW	87	61	57	73	38	63	4 	3 	 / 	 Left	350	1,606		
+Igor Lolo Igor Lolo 
+FC Rostov / Russian League 
+67	LB	74	48	60	63	71	74	2 	3 	 / 	 Right	450	1,617		
+Mathis Bolly Mathis Bolly 
+Fortuna Düsseldorf / Bundesliga 2 
+66	LW	97	56	54	67	40	56	3 	4 	 / 	 Right	2,000	1,492		
+Lossemy Karaboue Lossemy Karaboue 
+AS Nancy / Ligue 2 
+64	CM	87	66	72	67	46	58	2 	3 	 / 	 Right	1,600	1,676
+Guy-Roland Niangbo Guy-Roland Niangbo 
+FC Istres / Ligue 2 
+64	LW	88	57	52	63	39	62	3 	3 	 / 	 Left	500	1,492		
+Ali Bamba Ali Bamba 
+FC Metz / Ligue 2 
+62	LB	71	35	56	53	64	67	2 	3 	 / 	 Left	200	1,436		
+Adama Traore Adama Traore 
+Melbourne Victory / A-League 
+62	LB	86	56	64	64	57	60	3 	2 	 / 	 Left	950	1,650		
+Sekou Junior Sanogo Sekou Junior Sanogo 
+FC Thun / Raiffeisen SL 
+62	CDM	75	53	56	70	61	66	4 	3 	 / 	 Left	200	1,632		
+Zoumana Bakayogo Zoumana Bakayogo 
+Leicester City / FL Championship 
+61	LB	86	38	59	61	62	58	2 	3 	 / 	 Left	200	1,540		
+Christian Kouakou Christian Kouakou 
+Tours FC / Ligue 2 
+57	ST	88	50	36	59	34	62	3 	2 	 / 	 Right	200	1,328
+Gervinho Gervinho 
+Roma / Serie A 
+79	LW	88	67	72	82	49	54	4 	3 	 / 	 Right	350	1,774		
+Arouna Kone Arouna Kone 
+Everton / Barclays PL 
+78	ST	86	73	58	78	48	76	4 	4 	 / 	 Right	650	1,730		
+Salomon Kalou Salomon Kalou 
+LOSC Lille / Ligue 1 
+78	ST	83	74	70	84	43	74	4 	3 	 / 	 Right	400	1,781		
+Didier Ya Konan Didier Ya Konan 
+Hannover 96 / Bundesliga 
+78	ST	83	76	68	80	44	71	3 	4 	 / 	 Right	400	1,801		
+Emmanuel Eboue Emmanuel Eboue 
+Galatasaray / Turklig 
+76	RB	83	63	71	77	74	74	3 	3 	 / 	 Right	350	1,897		
+Serge Aurier Serge Aurier 
+Toulouse FC / Ligue 1 
+75	RB	79	46	67	68	77	75	2 	3 	 / 	 Right	350	1,791		
+Yannick Sagbo Yannick Sagbo 
+Hull City / Barclays PL 
+73	ST	77	67	52	70	47	73	3 	3 	 / 	 Right	350	1,638		
+Guy Demel Guy Demel 
+West Ham United / Barclays PL 
+70	RB	59	48	65	68	73	69	2 	3 	 / 	 Right	800	1,671		
+Constant Djakpa Constant Djakpa 
+Eintracht Frankfurt / Bundesliga 
+70	LB	79	50	69	70	68	67	3 	3 	 / 	 Left	200	1,761		
+Brice Dja Djedje Brice Dja Djedje 
+Évian Thonon Gaillard FC / Ligue 1 
+70	RB	82	54	69	65	70	70	2 	2 	 / 	 Right	900	1,771		
+Brice Dja Djedje Brice Dja Djedje 
+Olympique de Marseille / Ligue 1 
+70	RB	82	54	69	65	70	70	2 	2 	 / 	 Right	750	1,771		
+Brou Benjamin Angoua Brou Benjamin Angoua 
+Valenciennes FC / Ligue 1 
+69	CB	68	35	59	47	70	72	2 	3 	 / 	 Right	400	1,508		
+Eric Tie Bi Eric Tie Bi 
+Évian Thonon Gaillard FC / Ligue 1 
+69	CDM	74	47	62	46	71	51	2 	3 	 / 	 Right	250	1,628		
+Sekou Cisse Sekou Cisse 
+Feyenoord / Eredivisie 
+68	LW	80	67	54	66	47	67	3 	3 	 / 	 Left	2,400	1,606		
+Jean-Daniel Akpa-Akpro Jean-Daniel Akpa-Akpro 
+Toulouse FC / Ligue 1 
+68	RM	75	51	69	68	65	60	2 	3 	 / 	 Right	900	1,697		
+Sekou Cisse Sekou Cisse 
+RC Genk / Pro League 
+68	LW	80	67	54	66	47	67	3 	3 	 / 	 Left	250	1,606		
+Geoffroy Serey Die Geoffroy Serey Die 
+FC Basel / Raiffeisen SL 
+67	CDM	74	57	68	68	64	71	2 	3 	 / 	 Right	250	1,731		
+Mamadou Doumbia Mamadou Doumbia 
+FC Istres / Ligue 2 
+66	CB	48	34	52	37	67	72	2 	3 	 / 	 Left	200	1,371		
+Abdoulaye Bamba Abdoulaye Bamba 
+Dijon Football / Ligue 2 
+66	RB	79	43	63	56	65	64	3 	3 	 / 	 Right	200	1,570		
+Moussa Kone Moussa Kone 
+Atalanta / Serie A 
+66	CM	68	57	70	65	61	72	2 	3 	 / 	 Right	250	1,724		
+Junior Tallo Junior Tallo 
+AC Ajaccio / Ligue 1 
+65	ST	69	64	62	65	41	65	2 	3 	 / 	 Right	150	1,535		
+Zie Diabate Zie Diabate 
+Dijon Football / Ligue 2 
+65	LB	71	39	60	59	64	59	2 	3 	 / 	 Left	2,000	1,505		
+Zie Diabate Zie Diabate 
+AA Gent / Pro League 
+65	LB	71	39	60	59	64	59	2 	3 	 / 	 Left	200	1,442		
+ Abdul Razak Abdul Razak 
+Anzhi Makhachkala / Russian League 	
+62	CAM	75	48	61	66	57	54	3 	4 	 / 	 Left	250	1,591		
+Abdul Razak Abdul Razak 
+West Ham United / Barclays PL 
+62	CAM	75	48	61	66	57	54	3 	4 	 / 	 Left	0	1,591	

@@ -1,0 +1,652 @@
+1924 145 away Bulgaria Austria 6 0 Friendly
+1924 152 away Bulgaria Ireland 1 0 Olympic Games
+1925 103 away Bulgaria Turkey 2 1 Friendly
+1925 155 home Bulgaria Romania 2 4 Friendly
+1926 118 away Bulgaria Romania 6 1 Friendly
+1926 154 away Bulgaria Yugoslavia 3 1 Friendly
+1927 139 home Bulgaria Yugoslavia 0 2 Friendly
+1927 203 home Bulgaria Turkey 3 3 Friendly
+1927 293 away Bulgaria Turkey 3 1 Friendly
+1929 114 away Bulgaria Romania 3 0 Friendly
+1929 185 home Bulgaria Greece 1 1 Friendly
+1929 263 home Bulgaria Romania 2 3 Friendly
+1930 106 away Bulgaria Yugoslavia 6 1 Friendly
+1930 170 home Bulgaria Yugoslavia 2 2 Friendly
+1930 291 home Bulgaria Romania 5 3 Balkan Cup
+1930 326 home Bulgaria Yugoslavia 0 3 Balkan Cup
+1930 348 away Bulgaria Greece 6 1 Balkan Cup
+1931 112 away Bulgaria Yugoslavia 1 0 Balkan Cup
+1931 134 away Bulgaria Romania 5 2 Balkan Cup
+1931 275 home Bulgaria Turkey 5 1 Friendly
+1931 283 home Bulgaria Yugoslavia 3 2 Friendly
+1931 304 home Bulgaria Greece 2 1 Balkan Cup
+1932 89 away Bulgaria Greece 1 2 Friendly
+1932 164 home Bulgaria France 3 5 Friendly
+1932 181 home Bulgaria Romania 2 0 Balkan Cup
+1932 185 away Bulgaria Yugoslavia 2 3 Balkan Cup
+1932 188 home Bulgaria Greece 2 0 Balkan Cup
+1932 315 away Bulgaria Turkey 2 3 Friendly
+1933 145 away Bulgaria Spain 13 0 Friendly
+1933 159 away Bulgaria Romania 7 0 Balkan Cup
+1933 162 away Bulgaria Yugoslavia 4 0 Balkan Cup
+1933 165 home Bulgaria Greece 2 0 Balkan Cup
+1934 35 away Bulgaria Greece 1 0 Friendly
+1934 80 home Bulgaria Yugoslavia 1 2 Friendly
+1934 87 home Bulgaria Hungary 1 4 World Cup qualifier
+1934 94 away Bulgaria Yugoslavia 2 3 Friendly
+1934 118 away Bulgaria Austria 6 1 World Cup qualifier
+1934 122 away Bulgaria Hungary 4 1 World Cup qualifier
+1934 366 away Bulgaria Yugoslavia 4 3 Balkan Cup
+1934 371 away Bulgaria Romania 3 2 Balkan Cup
+1935 1 away Bulgaria Greece 1 2 Balkan Cup
+1935 171 home Bulgaria Greece 5 2 Balkan Cup
+1935 174 home Bulgaria Romania 4 0 Balkan Cup
+1935 179 home Bulgaria Yugoslavia 3 3 Balkan Cup
+1935 299 away Bulgaria Germany 4 2 Friendly
+1936 145 home Bulgaria Greece 5 4 Balkan Cup
+1936 148 away Bulgaria Romania 4 1 Balkan Cup
+1937 197 home Bulgaria Yugoslavia 4 0 Friendly
+1937 260 home Bulgaria Poland 3 3 Friendly
+1937 317 home Bulgaria Czechoslovakia 1 1 World Cup qualifier
+1938 86 away Bulgaria France 6 1 Friendly
+1938 117 away Bulgaria Czechoslovakia 6 0 World Cup qualifier
+1939 148 home Bulgaria Latvia 3 0 Friendly
+1939 301 home Bulgaria Germany 1 3 Friendly
+1940 161 home Bulgaria Slovakia 1 4 Friendly
+1940 299 away Bulgaria Germany 7 3 Friendly
+1942 104 away Bulgaria Croatia 6 0 Friendly
+1942 205 home Bulgaria Germany 0 3 Friendly
+1943 161 home Bulgaria Hungary 2 4 Friendly
+1946 287 home Bulgaria Romania 2 2 Balkan Cup
+1946 288 away Bulgaria Albania 3 1 Balkan Cup
+1946 291 away Bulgaria Yugoslavia 2 1 Balkan Cup
+1947 170 home Bulgaria Albania 2 0 Balkan Cup
+1947 192 home Bulgaria Romania 2 3 Balkan Cup
+1947 234 away Bulgaria Hungary 9 0 Balkan Cup
+1947 291 away Bulgaria Yugoslavia 2 1 Balkan Cup
+1948 97 home Bulgaria Poland 1 1 Balkan Cup
+1948 175 away Bulgaria Romania 3 2 Balkan Cup
+1948 190 home Bulgaria Yugoslavia 1 3 Balkan Cup
+1948 246 home Bulgaria Czechoslovakia 1 0 Balkan Cup
+1948 317 home Bulgaria Hungary 1 0 Balkan Cup
+1949 252 away Bulgaria Czechoslovakia 1 3 Friendly
+1949 281 away Bulgaria Poland 3 2 Friendly
+1949 309 away Bulgaria Hungary 5 0 Friendly
+1949 327 home Bulgaria Albania 0 0 Friendly
+1950 159 away Bulgaria Albania 2 1 Friendly
+1950 244 home Bulgaria Czechoslovakia 1 2 Friendly
+1950 309 home Bulgaria Poland 0 1 Friendly
+1950 322 home Bulgaria Hungary 1 1 Friendly
+1952 142 away Bulgaria Poland 0 1 Friendly
+1952 166 away Bulgaria SovietUnion 2 2 Friendly
+1952 173 away Bulgaria SovietUnion 2 2 Friendly
+1952 201 away Bulgaria SovietUnion 2 1 Olympic Games
+1953 169 away Bulgaria EastGermany 0 0 Friendly
+1953 183 away Bulgaria Romania 3 1 World Cup qualifier
+1953 254 home Bulgaria Czechoslovakia 1 2 World Cup qualifier
+1953 261 home Bulgaria Poland 2 2 Friendly
+1953 283 home Bulgaria Hungary 1 1 Friendly
+1953 290 home Bulgaria Romania 1 2 World Cup qualifier
+1953 318 away Bulgaria Czechoslovakia 0 0 World Cup qualifier
+1954 225 away Bulgaria Poland 2 2 Friendly
+1954 303 home Bulgaria EastGermany 3 1 Friendly
+1955 7 away Bulgaria Egypt 1 0 Friendly
+1955 23 away Bulgaria Lebanon 2 3 Friendly
+1955 146 home Bulgaria Egypt 2 1 Friendly
+1955 181 home Bulgaria Poland 1 1 Friendly
+1955 288 away Bulgaria Romania 1 1 Friendly
+1955 323 home Bulgaria Czechoslovakia 3 0 Friendly
+1955 330 away Bulgaria EastGermany 1 0 Friendly
+1956 243 away Bulgaria Poland 1 2 Friendly
+1956 258 home Bulgaria Romania 2 0 Friendly
+1956 293 home Bulgaria EastGermany 3 1 Friendly
+1956 346 away Bulgaria SovietUnion 2 1 Olympic Games
+1956 348 home Bulgaria India 3 0 Olympic Games
+1957 146 away Bulgaria Norway 1 2 World Cup qualifier
+1957 150 away Bulgaria Denmark 1 1 Friendly
+1957 178 away Bulgaria Hungary 4 1 World Cup qualifier
+1957 207 home Bulgaria SovietUnion 0 4 Friendly
+1957 263 home Bulgaria Hungary 1 2 World Cup qualifier
+1957 277 home Bulgaria Poland 1 1 Friendly
+1957 313 home Bulgaria Norway 7 0 World Cup qualifier
+1957 366 away Bulgaria France 2 2 Friendly
+1958 138 away Bulgaria Brazil 4 0 Friendly
+1958 142 away Bulgaria Brazil 3 1 Friendly
+1958 284 away Bulgaria EastGermany 1 1 Friendly
+1958 291 away Bulgaria Czechoslovakia 0 1 Friendly
+1958 348 away Bulgaria Turkey 0 0 Friendly
+1958 362 away Bulgaria Germany 3 0 Friendly
+1959 137 home Bulgaria Holland 3 2 Friendly
+1959 155 away Bulgaria Yugoslavia 2 0 European Cup qualifier
+1959 182 away Bulgaria SovietUnion 1 1 Olympic Games qualifier
+1959 261 home Bulgaria SovietUnion 1 0 Olympic Games qualifier
+1959 290 home Bulgaria France 1 0 Friendly
+1959 304 home Bulgaria Yugoslavia 1 1 European Cup qualifier
+1959 318 away Bulgaria Romania 1 0 Olympic Games qualifier
+1959 347 home Bulgaria Denmark 2 1 Friendly
+1960 96 away Bulgaria Holland 4 2 Friendly
+1960 125 home Bulgaria Romania 2 1 Olympic Games qualifier
+1960 146 home Bulgaria Belgium 4 1 Friendly
+1960 181 away Bulgaria Poland 4 0 Friendly
+1960 196 home Bulgaria EastGermany 2 0 Friendly
+1960 246 home Bulgaria Egypt 2 0 Olympic Games
+1960 249 home Bulgaria Yugoslavia 3 3 Olympic Games
+1960 333 home Bulgaria Germany 2 1 Friendly
+1960 337 home Bulgaria Turkey 2 1 Friendly
+1960 352 away Bulgaria France 3 0 World Cup qualifier
+1961 171 away Bulgaria Finland 0 2 World Cup qualifier
+1961 308 home Bulgaria Finland 3 1 World Cup qualifier
+1961 322 home Bulgaria France 1 0 World Cup qualifier
+1961 357 home Bulgaria France 1 0 World Cup qualifier
+1961 365 away Bulgaria Belgium 4 0 Friendly
+1962 130 away Bulgaria Austria 2 0 Friendly
+1962 154 away Bulgaria Argentina 1 0 World Cup
+1962 158 away Bulgaria Hungary 6 1 World Cup
+1962 162 home Bulgaria England 0 0 World Cup
+1962 278 home Bulgaria Poland 2 1 Friendly
+1962 317 home Bulgaria Portugal 3 1 European Cup qualifier
+1962 335 home Bulgaria Austria 1 1 Friendly
+1962 357 away Bulgaria Portugal 3 1 European Cup qualifier
+1963 6 away Bulgaria Algeria 2 1 Friendly
+1963 23 home Bulgaria Portugal 1 0 European Cup qualifier
+1963 37 away Bulgaria Albania 0 1 Olympic Games qualifier
+1963 47 home Bulgaria Albania 1 0 Olympic Games qualifier
+1963 121 home Bulgaria Czechoslovakia 1 0 Friendly
+1963 252 away Bulgaria EastGermany 1 1 Friendly
+1963 266 home Bulgaria Sudan 1 1 Friendly
+1963 277 home Bulgaria France 1 0 European Cup qualifier
+1963 305 away Bulgaria France 3 1 European Cup qualifier
+1964 127 away Bulgaria Romania 2 1 Olympic Games qualifier
+1964 155 home Bulgaria Romania 0 1 Olympic Games qualifier
+1964 339 home Bulgaria SovietUnion 0 0 Friendly
+1964 361 away Bulgaria Turkey 0 0 Friendly
+1965 55 away Bulgaria Greece 1 2 Friendly
+1965 133 home Bulgaria Turkey 4 1 Friendly
+1965 140 away Bulgaria Poland 1 1 Friendly
+1965 168 home Bulgaria Israel 4 0 World Cup qualifier
+1965 252 home Bulgaria EastGermany 3 2 Friendly
+1965 274 home Bulgaria Belgium 3 0 World Cup qualifier
+1965 306 away Bulgaria Belgium 5 0 World Cup qualifier
+1965 331 away Bulgaria Israel 1 2 World Cup qualifier
+1965 370 home Bulgaria Belgium 2 1 World Cup qualifier
+1966 56 away Bulgaria Egypt 2 2 Friendly
+1966 156 away Bulgaria Yugoslavia 0 2 Friendly
+1966 169 away Bulgaria Italy 6 1 Friendly
+1966 198 away Bulgaria Brazil 2 0 World Cup
+1966 202 away Bulgaria Portugal 3 0 World Cup
+1966 206 away Bulgaria Hungary 3 1 World Cup
+1966 316 home Bulgaria Yugoslavia 6 1 Friendly
+1966 323 home Bulgaria Norway 4 2 European Cup qualifier
+1967 84 away Bulgaria Germany 1 0 Friendly
+1967 166 away Bulgaria Sweden 0 2 European Cup qualifier
+1967 184 away Bulgaria Norway 0 0 European Cup qualifier
+1967 287 home Bulgaria SovietUnion 1 2 Friendly
+1967 322 home Bulgaria Sweden 3 0 European Cup qualifier
+1967 336 home Bulgaria Portugal 1 0 European Cup qualifier
+1967 358 away Bulgaria Portugal 0 0 European Cup qualifier
+1968 99 home Bulgaria Italy 3 2 European Cup qualifier
+1968 103 home Bulgaria EastGermany 4 1 Olympic Games qualifier
+1968 113 away Bulgaria Italy 2 0 European Cup qualifier
+1968 117 away Bulgaria EastGermany 3 2 Olympic Games qualifier
+1968 288 away Bulgaria Turkey 0 2 Friendly
+1968 293 home Bulgaria Thailand 7 0 Olympic Games
+1968 297 home Bulgaria Guatemala 2 1 Olympic Games
+1968 299 home Bulgaria Israel 1 1 Olympic Games
+1968 306 home Bulgaria Holland 2 0 World Cup qualifier
+1968 352 away Bulgaria England 1 1 Friendly
+1969 116 home Bulgaria Luxembourg 2 1 World Cup qualifier
+1969 148 away Bulgaria Italy 0 0 Friendly
+1969 170 home Bulgaria Poland 4 1 World Cup qualifier
+1969 272 home Bulgaria Germany 0 1 Friendly
+1969 301 away Bulgaria Holland 1 1 World Cup qualifier
+1969 319 away Bulgaria Poland 3 0 World Cup qualifier
+1969 348 away Bulgaria Luxembourg 1 3 World Cup qualifier
+1969 369 away Bulgaria Morocco 3 0 Friendly
+1970 46 away Bulgaria Mexico 1 1 Friendly
+1970 49 away Bulgaria Mexico 2 0 Friendly
+1970 52 away Bulgaria Peru 1 3 Friendly
+1970 55 away Bulgaria Peru 5 3 Friendly
+1970 101 away Bulgaria France 1 1 Friendly
+1970 129 home Bulgaria SovietUnion 3 3 Friendly
+1970 130 home Bulgaria SovietUnion 0 0 Friendly
+1970 157 away Bulgaria Peru 3 2 World Cup
+1970 162 away Bulgaria Germany 5 2 World Cup
+1970 166 home Bulgaria Morocco 1 1 World Cup
+1970 325 home Bulgaria Norway 1 1 European Cup qualifier
+1971 100 away Bulgaria Greece 0 1 Friendly
+1971 121 home Bulgaria SovietUnion 1 1 Friendly
+1971 143 home Bulgaria Hungary 3 0 European Cup qualifier
+1971 164 away Bulgaria Norway 1 4 European Cup qualifier
+1971 273 away Bulgaria Hungary 2 0 European Cup qualifier
+1971 320 away Bulgaria France 2 1 European Cup qualifier
+1971 327 home Bulgaria Greece 2 2 Friendly
+1971 345 home Bulgaria France 2 1 European Cup qualifier
+1972 91 home Bulgaria SovietUnion 1 1 Friendly
+1972 109 home Bulgaria Poland 3 1 Olympic Games qualifier
+1972 131 away Bulgaria Poland 3 0 Olympic Games qualifier
+1972 162 away Bulgaria SovietUnion 1 0 Friendly
+1972 176 home Bulgaria Italy 1 1 Friendly
+1972 297 home Bulgaria NorthernIreland 3 0 World Cup qualifier
+1972 329 away Bulgaria Cyprus 0 4 World Cup qualifier
+1973 28 away Bulgaria Cyprus 0 3 Friendly
+1973 31 away Bulgaria Greece 2 2 Friendly
+1973 35 away Bulgaria Indonesia 0 4 Friendly
+1973 39 away Bulgaria NewCaledonia 3 5 Friendly
+1973 45 away Bulgaria Australia 2 2 Friendly
+1973 47 away Bulgaria Australia 1 3 Friendly
+1973 49 away Bulgaria Australia 0 2 Friendly
+1973 90 home Bulgaria SovietUnion 1 0 Friendly
+1973 111 away Bulgaria Turkey 5 2 Balkan Cup
+1973 126 home Bulgaria Portugal 2 1 World Cup qualifier
+1973 136 away Bulgaria Germany 3 0 Friendly
+1973 236 home Bulgaria Poland 0 2 Friendly
+1973 274 away Bulgaria NorthernIreland 0 0 World Cup qualifier
+1973 292 away Bulgaria Portugal 2 2 World Cup qualifier
+1973 328 home Bulgaria Cyprus 2 0 World Cup qualifier
+1974 37 away Bulgaria Cyprus 1 4 Friendly
+1974 39 away Bulgaria Kuwait 1 3 Friendly
+1974 41 away Bulgaria Kuwait 1 2 Friendly
+1974 93 away Bulgaria Hungary 3 1 Friendly
+1974 106 home Bulgaria Czechoslovakia 0 1 Friendly
+1974 107 away Bulgaria Brazil 1 0 Friendly
+1974 132 home Bulgaria Turkey 5 1 Balkan Cup
+1974 149 home Bulgaria NorthKorea 6 1 Friendly
+1974 156 home Bulgaria England 0 1 Friendly
+1974 170 home Bulgaria Sweden 0 0 World Cup
+1974 174 home Bulgaria Uruguay 1 1 World Cup
+1974 178 away Bulgaria Holland 4 1 World Cup
+1974 273 home Bulgaria Romania 0 0 Friendly
+1974 292 home Bulgaria Greece 3 3 European Cup qualifier
+1974 320 home Bulgaria Hungary 0 0 Friendly
+1974 359 away Bulgaria Greece 2 1 European Cup qualifier
+1974 370 away Bulgaria Italy 0 0 Friendly
+1975 88 away Bulgaria EastGermany 0 0 Friendly
+1975 120 home Bulgaria Germany 1 1 European Cup qualifier
+1975 166 home Bulgaria Malta 5 0 European Cup qualifier
+1975 329 away Bulgaria Germany 1 0 European Cup qualifier
+1975 362 away Bulgaria Malta 0 2 European Cup qualifier
+1976 25 away Bulgaria Japan 1 3 Friendly
+1976 28 away Bulgaria Japan 1 1 Friendly
+1976 32 away Bulgaria Japan 0 3 Friendly
+1976 86 home Bulgaria SovietUnion 0 3 Friendly
+1976 129 home Bulgaria NorthKorea 3 0 Friendly
+1976 136 home Bulgaria Romania 1 0 Balkan Cup
+1976 234 away Bulgaria Switzerland 2 2 Friendly
+1976 270 home Bulgaria Turkey 2 2 Friendly
+1976 288 home Bulgaria France 2 2 World Cup qualifier
+1976 306 home Bulgaria EastGermany 0 4 Friendly
+1976 338 away Bulgaria Romania 3 2 Balkan Cup
+1977 11 away Bulgaria Algeria 1 1 Friendly
+1977 23 away Bulgaria Brazil 1 0 Friendly
+1977 30 away Bulgaria Cyprus 1 2 Friendly
+1977 47 away Bulgaria Turkey 2 0 Balkan Cup
+1977 106 home Bulgaria Denmark 3 1 Friendly
+1977 156 home Bulgaria Ireland 2 1 World Cup qualifier
+1977 269 home Bulgaria Turkey 3 1 Balkan Cup
+1977 291 away Bulgaria Ireland 0 0 World Cup qualifier
+1977 305 home Bulgaria Greece 0 0 Friendly
+1977 326 away Bulgaria France 3 1 World Cup qualifier
+1978 53 away Bulgaria Scotland 2 1 Friendly
+1978 91 away Bulgaria Argentina 3 1 Friendly
+1978 94 away Bulgaria Peru 1 1 Friendly
+1978 98 away Bulgaria Mexico 3 0 Friendly
+1978 116 away Bulgaria Czechoslovakia 0 0 Friendly
+1978 119 away Bulgaria Iran 1 1 Friendly
+1978 119 away Bulgaria Poland 1 0 Friendly
+1978 127 away Bulgaria Romania 2 0 Balkan Cup
+1978 155 home Bulgaria Romania 1 1 Balkan Cup
+1978 247 away Bulgaria EastGermany 2 2 Friendly
+1978 268 away Bulgaria Italy 1 0 Friendly
+1978 290 away Bulgaria Denmark 2 2 European Cup qualifier
+1978 339 home Bulgaria NorthernIreland 0 2 European Cup qualifier
+1979 57 home Bulgaria EastGermany 1 0 Friendly
+1979 90 away Bulgaria SovietUnion 3 1 Friendly
+1979 118 away Bulgaria Argentina 2 1 Friendly
+1979 126 away Bulgaria NorthernIreland 2 0 European Cup qualifier
+1979 143 home Bulgaria Ireland 1 0 European Cup qualifier
+1979 161 home Bulgaria England 0 3 European Cup qualifier
+1979 296 away Bulgaria Ireland 3 0 European Cup qualifier
+1979 310 home Bulgaria Denmark 3 0 European Cup qualifier
+1979 332 away Bulgaria England 2 0 European Cup qualifier
+1980 70 away Bulgaria Kuwait 1 1 Friendly
+1980 88 home Bulgaria SovietUnion 1 3 Friendly
+1980 138 away Bulgaria Greece 0 0 Friendly
+1980 146 away Bulgaria Norway 1 0 Friendly
+1980 159 away Bulgaria Finland 0 2 World Cup qualifier
+1980 258 home Bulgaria Romania 1 2 Friendly
+1980 272 home Bulgaria Sweden 2 3 Friendly
+1980 288 away Bulgaria Argentina 2 0 Friendly
+1980 298 home Bulgaria Albania 2 1 World Cup qualifier
+1980 344 home Bulgaria Germany 1 3 World Cup qualifier
+1981 20 away Bulgaria Mexico 1 1 Friendly
+1981 27 away Bulgaria Ecuador 1 3 Friendly
+1981 32 away Bulgaria Bolivia 1 3 Friendly
+1981 42 away Bulgaria Peru 1 2 Friendly
+1981 87 away Bulgaria Yugoslavia 2 1 Friendly
+1981 108 away Bulgaria Portugal 1 1 Friendly
+1981 122 home Bulgaria Norway 1 0 Friendly
+1981 137 home Bulgaria Finland 4 0 World Cup qualifier
+1981 152 away Bulgaria Austria 2 0 World Cup qualifier
+1981 229 away Bulgaria Sweden 1 0 Friendly
+1981 257 away Bulgaria Romania 1 2 Friendly
+1981 271 away Bulgaria Italy 3 2 Friendly
+1981 293 away Bulgaria Albania 0 2 World Cup qualifier
+1981 307 away Bulgaria Brazil 3 0 Friendly
+1981 321 home Bulgaria Austria 0 0 World Cup qualifier
+1981 332 away Bulgaria Germany 4 0 World Cup qualifier
+1981 357 home Bulgaria Portugal 5 2 Friendly
+1982 107 home Bulgaria Romania 1 2 Friendly
+1982 121 away Bulgaria Belgium 2 1 Friendly
+1982 129 away Bulgaria Argentina 2 1 Friendly
+1982 139 away Bulgaria France 0 0 Friendly
+1982 255 away Bulgaria Switzerland 3 2 Friendly
+1982 270 home Bulgaria EastGermany 2 2 Friendly
+1982 293 home Bulgaria Malta 7 0 Friendly
+1982 306 home Bulgaria Norway 2 2 European Cup qualifier
+1982 327 home Bulgaria Yugoslavia 0 1 European Cup qualifier
+1982 367 away Bulgaria Malta 0 0 Friendly
+1983 69 home Bulgaria Switzerland 1 1 Friendly
+1983 85 away Bulgaria Poland 3 1 Friendly
+1983 106 away Bulgaria EastGermany 3 0 Friendly
+1983 120 away Bulgaria Wales 1 0 European Cup qualifier
+1983 128 home Bulgaria Cuba 5 2 Friendly
+1983 225 home Bulgaria Algeria 3 2 Friendly
+1983 255 away Bulgaria Norway 1 2 European Cup qualifier
+1983 305 away Bulgaria Czechoslovakia 1 2 Friendly
+1983 326 home Bulgaria Wales 1 0 European Cup qualifier
+1983 362 away Bulgaria Yugoslavia 3 2 European Cup qualifier
+1984 35 away Bulgaria Morocco 1 1 Friendly
+1984 46 home Bulgaria Germany 2 3 Friendly
+1984 97 away Bulgaria Kuwait 1 1 Friendly
+1984 163 away Bulgaria Denmark 1 1 Friendly
+1984 254 away Bulgaria Portugal 1 0 Friendly
+1984 277 away Bulgaria Yugoslavia 0 0 World Cup qualifier
+1984 295 away Bulgaria Turkey 0 0 Friendly
+1984 331 away Bulgaria France 1 0 World Cup qualifier
+1984 346 home Bulgaria Luxembourg 4 0 World Cup qualifier
+1985 36 home Bulgaria Switzerland 1 0 Friendly tournament
+1985 37 home Bulgaria Poland 2 2 Friendly tournament
+1985 99 home Bulgaria EastGermany 1 0 World Cup qualifier
+1985 110 away Bulgaria Germany 4 1 Friendly
+1985 126 home Bulgaria France 2 0 World Cup qualifier
+1985 156 home Bulgaria Yugoslavia 2 1 World Cup qualifier
+1985 244 home Bulgaria Mexico 1 1 Friendly
+1985 252 away Bulgaria Holland 1 0 Friendly
+1985 273 away Bulgaria Luxembourg 1 3 World Cup qualifier
+1985 295 away Bulgaria Greece 0 2 Friendly
+1985 326 away Bulgaria EastGermany 2 1 World Cup qualifier
+1985 359 away Bulgaria Spain 2 0 Friendly
+1986 40 away Bulgaria EastGermany 2 1 Friendly
+1986 50 away Bulgaria Morocco 0 0 Friendly
+1986 102 home Bulgaria Denmark 3 0 Friendly
+1986 116 away Bulgaria Belgium 2 0 Friendly
+1986 123 home Bulgaria NorthKorea 3 0 Friendly
+1986 155 home Bulgaria Italy 1 1 World Cup
+1986 160 home Bulgaria SouthKorea 1 1 World Cup
+1986 165 away Bulgaria Argentina 2 0 World Cup
+1986 170 away Bulgaria Mexico 2 0 World Cup
+1986 258 away Bulgaria Scotland 0 0 European Cup qualifier
+1986 286 home Bulgaria EastGermany 2 0 Friendly
+1986 308 away Bulgaria Tunisia 3 3 Friendly
+1986 329 away Bulgaria Belgium 1 1 European Cup qualifier
+1987 29 home Bulgaria China 4 0 Friendly
+1987 94 home Bulgaria Ireland 2 1 European Cup qualifier
+1987 123 away Bulgaria Luxembourg 1 4 European Cup qualifier
+1987 144 home Bulgaria Luxembourg 3 0 European Cup qualifier
+1987 271 home Bulgaria Belgium 2 0 European Cup qualifier
+1987 293 away Bulgaria Ireland 2 0 European Cup qualifier
+1987 321 home Bulgaria Scotland 0 1 European Cup qualifier
+1988 21 away Bulgaria Qatar 2 3 Friendly
+1988 23 away Bulgaria UnitedArab 0 3 Friendly
+1988 25 away Bulgaria UnitedArab 1 3 Friendly
+1988 29 away Bulgaria Egypt 1 0 Friendly
+1988 85 home Bulgaria Czechoslovakia 2 0 Friendly
+1988 106 home Bulgaria EastGermany 1 1 Friendly
+1988 148 away Bulgaria Holland 1 2 Friendly
+1988 221 away Bulgaria Finland 1 1 Friendly
+1988 224 away Bulgaria Iceland 2 3 Friendly
+1988 226 away Bulgaria Norway 1 1 Friendly
+1988 241 away Bulgaria Poland 3 2 Friendly
+1988 298 home Bulgaria Romania 1 3 World Cup qualifier
+1988 312 away Bulgaria Denmark 1 1 World Cup qualifier
+1988 363 away Bulgaria UnitedArab 0 1 Friendly
+1989 52 home Bulgaria SovietUnion 1 2 Friendly
+1989 84 home Bulgaria Germany 1 2 Friendly
+1989 119 home Bulgaria Denmark 0 2 World Cup qualifier
+1989 141 away Bulgaria Romania 1 0 World Cup qualifier
+1989 240 away Bulgaria EastGermany 1 1 Friendly
+1989 268 away Bulgaria Italy 4 0 Friendly
+1989 290 home Bulgaria Greece 4 0 World Cup qualifier
+1989 325 away Bulgaria Greece 1 0 World Cup qualifier
+1990 129 away Bulgaria Brazil 2 1 Friendly
+1990 260 away Bulgaria Switzerland 2 0 European Cup qualifier
+1990 274 away Bulgaria Sweden 2 0 Friendly
+1990 296 away Bulgaria Romania 0 3 European Cup qualifier
+1990 324 home Bulgaria Scotland 1 1 European Cup qualifier
+1991 89 away Bulgaria Scotland 1 1 European Cup qualifier
+1991 102 away Bulgaria Denmark 1 1 Friendly
+1991 125 home Bulgaria Switzerland 2 3 European Cup qualifier
+1991 146 away Bulgaria SanMarino 0 3 European Cup qualifier
+1991 152 away Bulgaria Brazil 3 0 Friendly
+1991 238 home Bulgaria Turkey 0 0 Friendly
+1991 273 home Bulgaria Italy 2 1 Friendly
+1991 295 home Bulgaria SanMarino 4 0 European Cup qualifier
+1991 330 home Bulgaria Romania 1 1 European Cup qualifier
+1992 121 away Bulgaria Switzerland 0 2 Friendly
+1992 138 away Bulgaria Finland 0 3 World Cup qualifier
+1992 236 home Bulgaria Mexico 1 1 Friendly
+1992 243 away Bulgaria Turkey 3 2 Friendly
+1992 257 home Bulgaria France 2 0 World Cup qualifier
+1992 286 away Bulgaria Sweden 2 0 World Cup qualifier
+1992 321 away Bulgaria Portugal 2 1 Friendly
+1992 343 away Bulgaria Israel 0 2 World Cup qualifier
+1993 10 away Bulgaria Tunisia 3 0 Friendly
+1993 49 away Bulgaria UnitedArab 1 0 Friendly
+1993 51 away Bulgaria UnitedArab 1 3 Friendly
+1993 107 away Bulgaria Austria 3 1 World Cup qualifier
+1993 121 home Bulgaria Finland 2 0 World Cup qualifier
+1993 136 home Bulgaria Israel 2 2 World Cup qualifier
+1993 256 home Bulgaria Sweden 1 1 World Cup qualifier
+1993 292 home Bulgaria Austria 4 1 World Cup qualifier
+1993 327 away Bulgaria France 1 2 World Cup qualifier
+1994 19 away Bulgaria Mexico 1 1 Friendly
+1994 108 away Bulgaria Oman 1 1 Friendly
+1994 121 away Bulgaria Kuwait 2 2 Friendly
+1994 158 home Bulgaria Ukraine 1 1 Friendly
+1994 176 away Bulgaria Nigeria 3 0 World Cup
+1994 181 home Bulgaria Greece 4 0 World Cup
+1994 185 home Bulgaria Argentina 2 0 World Cup
+1994 191 home Bulgaria Mexico 1 1 World Cup
+1994 196 home Bulgaria Germany 2 1 World Cup
+1994 199 away Bulgaria Italy 2 1 World Cup
+1994 202 away Bulgaria Sweden 4 0 World Cup
+1994 291 home Bulgaria Georgia 2 0 European Cup qualifier
+1994 326 home Bulgaria Moldova 4 1 European Cup qualifier
+1994 355 away Bulgaria Wales 0 3 European Cup qualifier
+1995 45 away Bulgaria Argentina 4 1 Friendly
+1995 91 home Bulgaria Wales 3 1 European Cup qualifier
+1995 105 away Bulgaria Macedonia 0 0 Friendly
+1995 119 away Bulgaria Moldova 0 3 European Cup qualifier
+1995 162 home Bulgaria Germany 3 2 European Cup qualifier
+1995 254 away Bulgaria Albania 1 1 European Cup qualifier
+1995 286 home Bulgaria Albania 3 0 European Cup qualifier
+1995 290 away Bulgaria Georgia 2 1 European Cup qualifier
+1995 325 away Bulgaria Germany 3 1 European Cup qualifier
+1996 89 away Bulgaria England 1 0 Friendly
+1996 117 away Bulgaria Slovakia 0 0 Friendly
+1996 152 home Bulgaria Macedonia 3 0 Friendly
+1996 157 home Bulgaria UnitedArab 4 1 Friendly
+1996 164 away Bulgaria Spain 1 1 European Cup
+1996 168 home Bulgaria Romania 1 0 European Cup
+1996 173 away Bulgaria France 3 1 European Cup
+1996 249 away Bulgaria Israel 2 1 World Cup qualifier
+1996 287 away Bulgaria Luxembourg 1 2 World Cup qualifier
+1996 316 away Bulgaria SaudiArabia 1 0 Friendly
+1996 318 away Bulgaria Thailand 0 4 Friendly
+1996 355 away Bulgaria Cyprus 1 3 World Cup qualifier
+1997 73 home Bulgaria Slovakia 0 1 Friendly
+1997 95 home Bulgaria Cyprus 4 1 World Cup qualifier
+1997 163 home Bulgaria Luxembourg 4 0 World Cup qualifier
+1997 237 home Bulgaria Israel 1 0 World Cup qualifier
+1997 258 home Bulgaria Russia 1 0 World Cup qualifier
+1997 290 away Bulgaria Russia 4 2 World Cup qualifier
+1998 72 away Bulgaria Argentina 2 0 Friendly
+1998 87 away Bulgaria Macedonia 1 0 Friendly
+1998 115 home Bulgaria Morocco 2 1 Friendly
+1998 160 home Bulgaria Algeria 2 0 Friendly
+1998 167 home Bulgaria Paraguay 0 0 World Cup
+1998 174 away Bulgaria Nigeria 1 0 World Cup
+1998 179 away Bulgaria Spain 6 1 World Cup
+1998 254 home Bulgaria Poland 0 3 European Cup qualifier
+1998 289 away Bulgaria England 0 0 European Cup qualifier
+1998 293 home Bulgaria Sweden 0 1 European Cup qualifier
+1998 314 home Bulgaria Algeria 0 0 Friendly
+1998 365 away Bulgaria Morocco 4 1 Friendly
+1999 47 away Bulgaria Egypt 3 1 Carlsberg Cup
+1999 65 home Bulgaria Slovakia 2 0 Friendly
+1999 89 away Bulgaria Belgium 0 1 Friendly
+1999 93 away Bulgaria Luxembourg 0 2 European Cup qualifier
+1999 143 away Bulgaria Slovakia 2 0 Friendly
+1999 159 away Bulgaria Poland 2 0 European Cup qualifier
+1999 164 home Bulgaria England 1 1 European Cup qualifier
+1999 235 away Bulgaria Ukraine 1 1 Friendly
+1999 252 away Bulgaria Sweden 1 0 European Cup qualifier
+1999 289 home Bulgaria Luxembourg 3 0 European Cup qualifier
+1999 327 away Bulgaria Greece 1 0 Friendly
+2000 40 home Bulgaria Slovakia 1 0 Copa Ciudad de Valparaíso
+2000 43 away Bulgaria Chile 3 2 Copa Ciudad de Valparaíso
+2000 46 home Bulgaria Australia 1 1 Copa Ciudad de Valparaíso
+2000 91 home Bulgaria Belarus 4 1 Friendly
+2000 119 home Bulgaria Ukraine 0 1 Friendly
+2000 233 home Bulgaria Belgium 1 3 Friendly
+2000 250 home Bulgaria Czechia 0 1 World Cup qualifier
+2000 286 home Bulgaria Malta 3 0 World Cup qualifier
+2000 290 away Bulgaria Denmark 1 1 World Cup qualifier
+2000 324 away Bulgaria Algeria 1 2 Friendly
+2001 24 away Bulgaria Mexico 0 2 Friendly
+2001 28 away Bulgaria Jamaica 0 0 Friendly
+2001 59 away Bulgaria Jordan 0 2 Friendly
+2001 86 home Bulgaria Iceland 2 1 World Cup qualifier
+2001 90 home Bulgaria NorthernIreland 4 3 World Cup qualifier
+2001 118 away Bulgaria Norway 2 1 Friendly
+2001 157 away Bulgaria NorthernIreland 0 1 World Cup qualifier
+2001 161 away Bulgaria Iceland 1 1 World Cup qualifier
+2001 232 home Bulgaria Macedonia 1 0 Friendly
+2001 249 away Bulgaria Malta 0 2 World Cup qualifier
+2001 253 home Bulgaria Denmark 0 2 World Cup qualifier
+2001 285 away Bulgaria Czechia 6 0 World Cup qualifier
+2002 44 away Bulgaria Croatia 0 0 Friendly
+2002 89 away Bulgaria Ecuador 3 0 Friendly
+2002 110 away Bulgaria Mexico 1 0 Friendly
+2002 238 home Bulgaria Germany 2 2 Friendly
+2002 255 away Bulgaria Belgium 0 2 European Cup qualifier
+2002 291 home Bulgaria Croatia 2 0 European Cup qualifier
+2002 295 home Bulgaria Andorra 2 1 European Cup qualifier
+2002 330 away Bulgaria Spain 1 0 Friendly
+2003 89 away Bulgaria Serbia and Montenegro 1 2 Friendly
+2003 95 away Bulgaria Estonia 0 0 European Cup qualifier
+2003 123 home Bulgaria Albania 2 0 Friendly
+2003 162 home Bulgaria Belgium 2 2 European Cup qualifier
+2003 237 home Bulgaria Lithuania 3 0 Friendly
+2003 254 home Bulgaria Estonia 2 0 European Cup qualifier
+2003 258 away Bulgaria Andorra 0 3 European Cup qualifier
+2003 290 away Bulgaria Croatia 1 0 European Cup qualifier
+2003 328 away Bulgaria SouthKorea 0 1 Friendly
+2004 49 away Bulgaria Greece 2 0 Friendly
+2004 93 home Bulgaria Russia 2 2 Friendly
+2004 121 home Bulgaria Cameroon 3 0 Friendly
+2004 157 away Bulgaria Czechia 3 1 Friendly
+2004 169 away Bulgaria Sweden 5 0 European Cup
+2004 173 away Bulgaria Denmark 2 0 European Cup
+2004 177 away Bulgaria Italy 2 1 European Cup
+2004 235 away Bulgaria Ireland 1 1 Friendly
+2004 252 away Bulgaria Iceland 1 3 World Cup qualifier
+2004 288 away Bulgaria Croatia 2 2 World Cup qualifier
+2004 292 home Bulgaria Malta 4 1 World Cup qualifier
+2004 327 away Bulgaria Azerbaijan 0 0 Friendly
+2004 339 away Bulgaria Egypt 1 1 Friendly
+2005 40 home Bulgaria Serbia and Montenegro 0 0 Friendly
+2005 88 home Bulgaria Sweden 0 3 World Cup qualifier
+2005 92 away Bulgaria Hungary 1 1 World Cup qualifier
+2005 159 home Bulgaria Croatia 1 3 World Cup qualifier
+2005 234 home Bulgaria Turkey 3 1 Friendly
+2005 251 away Bulgaria Sweden 3 0 World Cup qualifier
+2005 255 home Bulgaria Iceland 3 2 World Cup qualifier
+2005 287 home Bulgaria Hungary 2 0 World Cup qualifier
+2005 291 away Bulgaria Malta 1 1 World Cup qualifier
+2005 322 home Bulgaria Georgia 6 2 Friendly
+2005 326 home Bulgaria Mexico 3 0 Friendly
+2006 63 away Bulgaria Macedonia 0 1 Friendly
+2006 133 away Bulgaria Japan 1 2 Kirin Cup
+2006 135 away Bulgaria Scotland 5 1 Kirin Cup
+2006 232 away Bulgaria Wales 0 0 Friendly
+2006 250 away Bulgaria Romania 2 2 European Cup qualifier
+2006 254 home Bulgaria Slovenia 3 0 European Cup qualifier
+2006 286 home Bulgaria Holland 1 1 European Cup qualifier
+2006 290 away Bulgaria Luxembourg 0 1 European Cup qualifier
+2006 325 away Bulgaria Slovakia 3 1 Friendly
+2007 37 home Bulgaria Latvia 2 0 Friendly tournament
+2007 38 away Bulgaria Cyprus 0 3 Friendly tournament
+2007 90 home Bulgaria Albania 0 0 European Cup qualifier
+2007 157 away Bulgaria Belarus 0 2 European Cup qualifier
+2007 161 home Bulgaria Belarus 2 1 European Cup qualifier
+2007 239 home Bulgaria Wales 0 1 Friendly
+2007 256 away Bulgaria Holland 2 0 European Cup qualifier
+2007 260 home Bulgaria Luxembourg 3 0 European Cup qualifier
+2007 296 away Bulgaria Albania 1 1 European Cup qualifier
+2007 327 home Bulgaria Romania 1 0 European Cup qualifier
+2007 331 away Bulgaria Slovenia 0 2 European Cup qualifier
+2008 37 away Bulgaria NorthernIreland 0 1 Friendly
+2008 88 home Bulgaria Finland 2 1 Friendly
+2008 237 away Bulgaria Bosnia 1 2 Friendly
+2008 254 away Bulgaria Montenegro 2 2 World Cup qualifier
+2008 290 home Bulgaria Italy 0 0 World Cup qualifier
+2008 294 away Bulgaria Georgia 0 0 World Cup qualifier
+2008 329 away Bulgaria Serbia 6 1 Friendly
+2009 42 away Bulgaria Switzerland 1 1 Friendly
+2009 90 away Bulgaria Ireland 1 1 World Cup qualifier
+2009 94 home Bulgaria Cyprus 2 0 World Cup qualifier
+2009 161 home Bulgaria Ireland 1 1 World Cup qualifier
+2009 229 home Bulgaria Latvia 1 0 Friendly
+2009 253 home Bulgaria Montenegro 4 1 World Cup qualifier
+2009 257 away Bulgaria Italy 2 0 World Cup qualifier
+2009 289 away Bulgaria Cyprus 4 1 World Cup qualifier
+2009 293 home Bulgaria Georgia 6 2 World Cup qualifier
+2009 328 away Bulgaria Malta 1 4 Friendly
+2010 65 away Bulgaria Poland 2 0 Friendly
+2010 143 away Bulgaria Belgium 2 1 Friendly
+2010 148 away Bulgaria SouthAfrica 1 1 Friendly
+2010 228 away Bulgaria Russia 1 0 Friendly
+2010 251 away Bulgaria England 4 0 European Cup qualifier
+2010 255 home Bulgaria Montenegro 0 1 European Cup qualifier
+2010 287 away Bulgaria Wales 0 1 European Cup qualifier
+2010 291 home Bulgaria SaudiArabia 2 0 Friendly
+2010 327 home Bulgaria Serbia 0 1 Friendly
+2011 40 away Bulgaria Estonia 2 2 Friendly
+2011 88 home Bulgaria Switzerland 0 0 European Cup qualifier
+2011 91 away Bulgaria Cyprus 0 1 Friendly
+2011 159 away Bulgaria Montenegro 1 1 European Cup qualifier
+2011 227 away Bulgaria Belarus 1 0 Friendly
+2011 250 home Bulgaria England 0 3 European Cup qualifier
+2011 254 away Bulgaria Switzerland 3 1 European Cup qualifier
+2011 286 away Bulgaria Ukraine 3 0 Friendly
+2011 290 home Bulgaria Wales 0 1 European Cup qualifier
+2012 60 away Bulgaria Hungary 1 1 Friendly
+2012 150 away Bulgaria Holland 1 2 Friendly
+2012 153 away Bulgaria Turkey 2 0 Friendly
+2012 232 home Bulgaria Cyprus 1 0 Friendly
+2012 255 home Bulgaria Italy 2 2 World Cup qualifier
+2012 259 home Bulgaria Armenia 1 0 World Cup qualifier
+2012 291 home Bulgaria Denmark 1 1 World Cup qualifier
+2012 295 away Bulgaria Czechia 0 0 World Cup qualifier
+2012 324 home Bulgaria Ukraine 0 1 Friendly
+2013 84 home Bulgaria Malta 6 0 World Cup qualifier
+2013 88 away Bulgaria Denmark 1 1 World Cup qualifier
+2013 154 away Bulgaria Japan 0 2 Friendly
+2013 159 away Bulgaria Kazakhstan 1 2 Friendly
+2013 231 away Bulgaria Macedonia 2 0 Friendly
+2013 254 away Bulgaria Italy 1 0 World Cup qualifier
+2013 258 away Bulgaria Malta 1 2 World Cup qualifier
+2013 290 away Bulgaria Armenia 2 1 World Cup qualifier
+2013 294 home Bulgaria Czechia 0 1 World Cup qualifier
+2014 67 home Bulgaria Belarus 2 1 Friendly

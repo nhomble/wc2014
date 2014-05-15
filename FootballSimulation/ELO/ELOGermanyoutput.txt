@@ -1,0 +1,878 @@
+1908 98 away Germany Switzerland 5 3 Friendly
+1908 162 away Germany Austria 3 2 Friendly
+1909 97 home Germany Switzerland 1 0 Friendly
+1909 97 away Germany Hungary 3 3 Friendly
+1910 96 away Germany Switzerland 2 3 Friendly
+1910 117 away Germany Holland 4 2 Friendly
+1910 140 home Germany Belgium 0 3 Friendly
+1910 295 home Germany Holland 1 2 Friendly
+1911 88 home Germany Switzerland 6 2 Friendly
+1911 116 away Germany Belgium 2 1 Friendly
+1911 173 away Germany Sweden 2 4 Friendly
+1911 288 home Germany Austria 1 2 Friendly
+1911 308 home Germany Sweden 1 3 Friendly
+1911 358 home Germany Hungary 1 4 Friendly
+1912 86 away Germany Holland 5 5 Friendly
+1912 107 away Germany Hungary 4 4 Friendly
+1912 129 away Germany Switzerland 1 2 Friendly
+1912 184 away Germany Austria 5 1 Olympic Games
+1912 187 home Germany Russia 16 0 Olympic Games Consolation Tournament
+1912 189 away Germany Hungary 3 1 Olympic Games Consolation Tournament
+1912 285 away Germany Denmark 3 1 Friendly
+1912 327 home Germany Holland 2 3 Friendly
+1913 142 home Germany Switzerland 1 2 Friendly
+1913 305 home Germany Denmark 1 4 Friendly
+1913 333 away Germany Belgium 6 2 Friendly
+1914 98 away Germany Holland 4 4 Friendly
+1920 182 away Germany Switzerland 4 1 Friendly
+1920 274 away Germany Austria 3 2 Friendly
+1920 303 home Germany Hungary 1 0 Friendly
+1921 129 home Germany Austria 3 3 Friendly
+1921 160 away Germany Hungary 3 0 Friendly
+1921 266 away Germany Finland 3 3 Friendly
+1922 88 home Germany Switzerland 2 2 Friendly
+1922 116 away Germany Austria 0 2 Friendly
+1922 188 home Germany Hungary 0 0 Friendly
+1923 1 away Germany Italy 3 1 Friendly
+1923 134 home Germany Holland 0 0 Friendly
+1923 158 away Germany Switzerland 1 2 Friendly
+1923 183 away Germany Sweden 2 1 Friendly
+1923 229 home Germany Finland 1 2 Friendly
+1923 314 home Germany Norway 1 0 Friendly
+1924 13 home Germany Austria 4 3 Friendly
+1924 114 away Germany Holland 0 1 Friendly
+1924 170 away Germany Norway 0 2 Friendly
+1924 248 home Germany Sweden 1 4 Friendly
+1924 269 away Germany Hungary 4 1 Friendly
+1924 333 home Germany Italy 0 1 Friendly
+1924 355 home Germany Switzerland 1 1 Friendly
+1925 91 away Germany Holland 2 1 Friendly
+1925 176 away Germany Sweden 1 0 Friendly
+1925 181 away Germany Finland 3 5 Friendly
+1925 304 away Germany Switzerland 0 4 Friendly
+1926 111 home Germany Holland 4 2 Friendly
+1926 175 home Germany Sweden 3 3 Friendly
+1926 310 away Germany Holland 2 3 Friendly
+1926 353 home Germany Switzerland 2 3 Friendly
+1927 281 away Germany Denmark 3 1 Friendly
+1927 302 home Germany Norway 6 2 Friendly
+1927 330 home Germany Holland 2 2 Friendly
+1928 108 away Germany Switzerland 2 3 Friendly
+1928 152 home Germany Switzerland 4 0 Olympic Games
+1928 158 away Germany Uruguay 4 1 Olympic Games
+1928 264 home Germany Denmark 2 1 Friendly
+1928 271 away Germany Norway 0 2 Friendly
+1928 278 away Germany Sweden 2 0 Friendly
+1929 41 home Germany Switzerland 7 1 Friendly
+1929 121 away Germany Italy 1 2 Friendly
+1929 156 home Germany Scotland 1 1 Friendly
+1929 178 home Germany Sweden 3 0 Friendly
+1929 299 home Germany Finland 4 0 Friendly
+1930 64 home Germany Italy 0 2 Friendly
+1930 128 away Germany Switzerland 0 5 Friendly
+1930 134 home Germany England 3 3 Friendly
+1930 255 away Germany Denmark 6 3 Friendly
+1930 276 home Germany Hungary 5 3 Friendly
+1930 312 home Germany Norway 1 1 Friendly
+1931 77 away Germany France 1 0 Friendly
+1931 119 away Germany Holland 1 1 Friendly
+1931 148 home Germany Austria 0 6 Friendly
+1931 172 away Germany Sweden 0 0 Friendly
+1931 176 away Germany Norway 2 2 Friendly
+1931 261 away Germany Austria 5 0 Friendly
+1931 275 home Germany Denmark 4 2 Friendly
+1932 68 home Germany Switzerland 2 0 Friendly
+1932 187 away Germany Finland 1 4 Friendly
+1932 273 home Germany Sweden 4 3 Friendly
+1932 309 away Germany Hungary 2 1 Friendly
+1932 345 home Germany Holland 0 2 Friendly
+1933 1 away Germany Italy 3 1 Friendly
+1933 81 home Germany France 3 3 Friendly
+1933 301 home Germany Belgium 8 1 Friendly
+1933 315 home Germany Norway 2 2 Friendly
+1933 329 away Germany Switzerland 0 2 Friendly
+1933 344 home Germany Poland 1 0 Friendly
+1934 14 home Germany Hungary 3 1 Friendly
+1934 73 away Germany Luxembourg 1 9 World Cup qualifier
+1934 151 home Germany Belgium 5 2 World Cup
+1934 155 home Germany Sweden 2 1 World Cup
+1934 158 away Germany Czechoslovakia 3 1 World Cup
+1934 161 home Germany Austria 3 2 World Cup
+1934 257 away Germany Poland 2 5 Friendly
+1934 286 away Germany Denmark 2 5 Friendly
+1935 27 home Germany Switzerland 4 0 Friendly
+1935 48 away Germany Holland 2 3 Friendly
+1935 79 away Germany France 1 3 Friendly
+1935 121 away Germany Belgium 1 6 Friendly
+1935 132 home Germany Ireland 3 1 Friendly
+1935 136 home Germany Spain 1 2 Friendly
+1935 150 home Germany Czechoslovakia 2 1 Friendly
+1935 182 away Germany Norway 1 1 Friendly
+1935 185 away Germany Sweden 3 1 Friendly
+1935 235 home Germany Finland 6 0 Friendly
+1935 235 away Germany Luxembourg 0 1 Friendly
+1935 242 home Germany Romania 4 2 Friendly
+1935 263 home Germany Estonia 5 0 Friendly
+1935 263 away Germany Poland 0 1 Friendly
+1935 292 away Germany Latvia 0 3 Friendly
+1935 299 home Germany Bulgaria 4 2 Friendly
+1935 345 away Germany England 3 0 Friendly
+1936 54 away Germany Spain 1 2 Friendly
+1936 58 away Germany Portugal 1 3 Friendly
+1936 77 away Germany Hungary 3 2 Friendly
+1936 223 home Germany Luxembourg 9 0 Olympic Games
+1936 224 home Germany Norway 0 2 Olympic Games
+1936 261 away Germany Poland 1 1 Friendly
+1936 275 away Germany Czechoslovakia 1 2 Friendly
+1936 275 home Germany Luxembourg 7 2 Friendly
+1936 293 away Germany Scotland 2 0 Friendly
+1936 296 away Germany Ireland 5 2 Friendly
+1936 325 home Germany Italy 2 2 Friendly
+1937 31 home Germany Holland 2 2 Friendly
+1937 83 home Germany France 4 0 Friendly
+1937 83 away Germany Luxembourg 2 3 Friendly
+1937 118 home Germany Belgium 1 0 Friendly
+1937 126 away Germany Switzerland 0 1 Friendly
+1937 140 home Germany Denmark 8 0 Friendly
+1937 180 away Germany Latvia 1 3 Friendly
+1937 184 away Germany Finland 0 2 World Cup qualifier
+1937 246 home Germany Estonia 4 1 World Cup qualifier
+1937 303 home Germany Norway 3 0 Friendly
+1937 331 home Germany Sweden 5 0 World Cup qualifier
+1938 37 home Germany Switzerland 1 1 Friendly
+1938 82 home Germany Hungary 1 1 Friendly
+1938 82 home Germany Luxembourg 2 1 Friendly
+1938 117 home Germany Portugal 1 1 Friendly
+1938 138 home Germany England 3 6 Friendly
+1938 159 home Germany Switzerland 1 1 World Cup
+1938 164 away Germany Switzerland 4 2 World Cup
+1938 266 home Germany Poland 4 1 Friendly
+1938 273 away Germany Romania 1 4 Friendly
+1939 29 away Germany Belgium 1 4 Friendly
+1939 57 home Germany Yugoslavia 3 2 Friendly
+1939 88 away Germany Italy 3 2 Friendly
+1939 88 away Germany Luxembourg 2 1 Friendly
+1939 147 home Germany Ireland 1 1 Friendly
+1939 177 away Germany Norway 0 4 Friendly
+1939 180 away Germany Denmark 0 2 Friendly
+1939 184 away Germany Estonia 0 2 Friendly
+1939 244 away Germany Slovakia 2 0 Friendly
+1939 272 away Germany Hungary 5 1 Friendly
+1939 294 away Germany Yugoslavia 1 5 Friendly
+1939 301 away Germany Bulgaria 1 3 Friendly
+1939 322 home Germany Bohemia 4 4 Friendly
+1939 336 home Germany Italy 5 2 Friendly
+1939 344 home Germany Slovakia 3 1 Friendly
+1940 100 home Germany Hungary 2 2 Friendly
+1940 107 home Germany Yugoslavia 1 2 Friendly
+1940 129 away Germany Italy 3 2 Friendly
+1940 200 home Germany Romania 9 3 Friendly
+1940 249 home Germany Finland 13 0 Friendly
+1940 263 away Germany Slovakia 0 1 Friendly
+1940 285 away Germany Hungary 2 2 Friendly
+1940 299 home Germany Bulgaria 7 3 Friendly
+1940 313 away Germany Yugoslavia 2 0 Friendly
+1940 327 home Germany Denmark 1 0 Friendly
+1941 71 home Germany Switzerland 4 2 Friendly
+1941 99 home Germany Hungary 7 0 Friendly
+1941 113 away Germany Switzerland 2 1 Friendly
+1941 156 away Germany Romania 1 4 Friendly
+1941 170 home Germany Croatia 5 1 Friendly
+1941 284 away Germany Finland 0 6 Friendly
+1941 284 away Germany Sweden 4 2 Friendly
+1941 326 home Germany Denmark 1 1 Friendly
+1941 348 home Germany Slovakia 4 0 Friendly
+1942 18 home Germany Croatia 2 0 Friendly
+1942 32 home Germany Switzerland 1 2 Friendly
+1942 105 home Germany Spain 1 1 Friendly
+1942 127 away Germany Hungary 3 5 Friendly
+1942 205 away Germany Bulgaria 0 3 Friendly
+1942 233 home Germany Romania 7 0 Friendly
+1942 268 home Germany Sweden 2 3 Friendly
+1942 297 away Germany Switzerland 3 5 Friendly
+1942 311 home Germany Croatia 5 1 Friendly
+1942 332 away Germany Slovakia 2 5 Friendly
+1950 332 home Germany Switzerland 1 0 Friendly
+1951 108 away Germany Switzerland 2 3 Friendly
+1951 172 home Germany Turkey 1 2 Friendly
+1951 271 away Germany Austria 0 2 Friendly
+1951 296 away Germany Ireland 3 2 Friendly
+1951 331 away Germany Turkey 0 2 Friendly
+1951 364 home Germany Luxembourg 4 1 Friendly
+1952 113 away Germany Luxembourg 0 3 Friendly
+1952 128 home Germany Ireland 3 0 Friendly
+1952 284 away Germany France 3 1 Friendly
+1952 319 home Germany Switzerland 5 1 Friendly
+1952 362 home Germany Yugoslavia 3 2 Friendly
+1952 369 away Germany Spain 2 2 Friendly
+1953 84 home Germany Austria 0 0 Friendly
+1953 236 away Germany Norway 1 1 World Cup qualifier
+1953 290 home Germany Saar 3 0 World Cup qualifier
+1953 332 home Germany Norway 5 1 World Cup qualifier
+1954 90 away Germany Saar 1 3 World Cup qualifier
+1954 118 away Germany Switzerland 3 5 Friendly
+1954 172 home Germany Turkey 4 1 World Cup
+1954 175 away Germany Hungary 8 3 World Cup
+1954 178 home Germany Turkey 7 2 World Cup
+1954 182 home Germany Yugoslavia 2 0 World Cup
+1954 185 home Germany Austria 6 1 World Cup
+1954 190 home Germany Hungary 3 2 World Cup
+1954 274 away Germany Belgium 2 0 Friendly
+1954 295 home Germany France 1 3 Friendly
+1954 342 away Germany England 3 1 Friendly
+1954 360 away Germany Portugal 0 3 Friendly
+1955 92 home Germany Italy 1 2 Friendly
+1955 152 home Germany Ireland 2 1 Friendly
+1955 238 away Germany SovietUnion 3 2 Friendly
+1955 273 away Germany Yugoslavia 3 1 Friendly
+1955 326 home Germany Norway 2 0 Friendly
+1955 359 away Germany Italy 2 1 Friendly
+1956 76 home Germany Holland 1 2 Friendly
+1956 149 home Germany England 1 3 Friendly
+1956 168 away Germany Norway 1 3 Friendly
+1956 185 away Germany Sweden 2 2 Friendly
+1956 263 home Germany SovietUnion 1 2 Friendly
+1956 331 home Germany Switzerland 1 3 Friendly
+1956 335 away Germany Ireland 3 0 Friendly
+1956 364 home Germany Belgium 4 1 Friendly
+1957 72 away Germany Austria 2 3 Friendly
+1957 96 away Germany Holland 1 2 Friendly
+1957 146 home Germany Scotland 1 3 Friendly
+1957 330 home Germany Sweden 1 0 Friendly
+1957 363 home Germany Hungary 1 0 Friendly
+1958 64 away Germany Belgium 0 2 Friendly
+1958 81 home Germany Spain 2 0 Friendly
+1958 95 away Germany Czechoslovakia 3 2 Friendly
+1958 163 home Germany Argentina 3 1 World Cup
+1958 166 away Germany Czechoslovakia 2 2 World Cup
+1958 170 away Germany NorthernIreland 2 2 World Cup
+1958 174 home Germany Yugoslavia 1 0 World Cup
+1958 179 away Germany Sweden 3 1 World Cup
+1958 183 away Germany France 6 3 World Cup
+1958 272 away Germany Denmark 1 1 Friendly
+1958 305 away Germany France 2 2 Friendly
+1958 329 home Germany Austria 2 2 Friendly
+1958 362 home Germany Bulgaria 3 0 Friendly
+1958 369 away Germany Egypt 2 1 Friendly
+1959 130 away Germany Scotland 3 2 Friendly
+1959 144 home Germany Poland 1 1 Friendly
+1959 283 away Germany Switzerland 0 4 Friendly
+1959 300 home Germany Holland 7 0 Friendly
+1959 318 away Germany Hungary 4 3 Friendly
+1959 361 home Germany Yugoslavia 1 1 Friendly
+1960 85 home Germany Chile 2 1 Friendly
+1960 120 home Germany Portugal 2 1 Friendly
+1960 135 home Germany Ireland 0 1 Friendly
+1960 220 away Germany Iceland 0 5 Friendly
+1960 305 away Germany NorthernIreland 3 4 World Cup qualifier
+1960 330 away Germany Greece 0 3 World Cup qualifier
+1960 333 away Germany Bulgaria 2 1 Friendly
+1961 70 home Germany Belgium 1 0 Friendly
+1961 88 away Germany Chile 3 1 Friendly
+1961 134 home Germany NorthernIreland 2 1 World Cup qualifier
+1961 268 home Germany Denmark 5 1 Friendly
+1961 287 away Germany Poland 0 2 Friendly
+1961 301 home Germany Greece 2 1 World Cup qualifier
+1962 104 home Germany Uruguay 3 0 Friendly
+1962 155 away Germany Italy 0 0 World Cup
+1962 158 home Germany Switzerland 2 1 World Cup
+1962 161 away Germany Chile 0 2 World Cup
+1962 165 away Germany Yugoslavia 1 0 World Cup
+1962 278 away Germany Yugoslavia 2 3 Friendly
+1962 303 home Germany France 2 2 Friendly
+1962 364 home Germany Switzerland 5 1 Friendly
+1963 129 home Germany Brazil 1 2 Friendly
+1963 276 home Germany Turkey 3 0 Friendly
+1963 313 away Germany Sweden 2 1 Friendly
+1963 370 away Germany Morocco 1 4 Friendly
+1964 1 away Germany Algeria 2 0 Friendly
+1964 122 home Germany Czechoslovakia 3 4 Friendly
+1964 136 home Germany Scotland 2 2 Friendly
+1964 162 away Germany Finland 1 4 Friendly
+1964 314 home Germany Sweden 1 1 World Cup qualifier
+1965 75 home Germany Italy 1 1 Friendly
+1965 117 home Germany Cyprus 5 0 World Cup qualifier
+1965 136 home Germany England 0 1 Friendly
+1965 150 away Germany Switzerland 0 1 Friendly
+1965 161 away Germany Brazil 2 0 Friendly
+1965 274 away Germany Sweden 1 2 World Cup qualifier
+1965 288 home Germany Austria 4 1 Friendly
+1965 324 away Germany Cyprus 0 6 World Cup qualifier
+1966 54 away Germany England 1 0 Friendly
+1966 85 away Germany Holland 2 4 Friendly
+1966 128 away Germany Ireland 0 4 Friendly
+1966 131 away Germany NorthernIreland 0 2 Friendly
+1966 156 home Germany Romania 1 0 Friendly
+1966 178 home Germany Yugoslavia 2 0 Friendly
+1966 198 home Germany Switzerland 5 0 World Cup
+1966 202 away Germany Argentina 0 0 World Cup
+1966 206 home Germany Spain 2 1 World Cup
+1966 209 home Germany Uruguay 4 0 World Cup
+1966 211 home Germany SovietUnion 2 1 World Cup
+1966 216 away Germany England 4 2 World Cup
+1966 291 away Germany Turkey 0 2 Friendly
+1966 329 home Germany Norway 3 0 Friendly
+1967 53 home Germany Morocco 5 1 Friendly
+1967 84 home Germany Bulgaria 1 0 Friendly
+1967 101 home Germany Albania 6 0 European Cup qualifier
+1967 127 away Germany Yugoslavia 1 0 European Cup qualifier
+1967 275 home Germany France 5 1 Friendly
+1967 286 home Germany Yugoslavia 3 1 European Cup qualifier
+1967 332 away Germany Romania 1 0 Friendly
+1967 358 away Germany Albania 0 0 European Cup qualifier
+1968 68 away Germany Belgium 1 3 Friendly
+1968 110 away Germany Switzerland 0 0 Friendly
+1968 132 away Germany Wales 1 1 Friendly
+1968 156 home Germany England 1 0 Friendly
+1968 171 home Germany Brazil 2 1 Friendly
+1968 273 away Germany France 1 1 Friendly
+1968 292 away Germany Austria 0 2 World Cup qualifier
+1968 333 away Germany Cyprus 0 1 World Cup qualifier
+1968 355 away Germany Brazil 2 2 Friendly
+1968 359 away Germany Chile 2 1 Friendly
+1968 363 away Germany Mexico 0 0 Friendly
+1969 88 home Germany Wales 1 1 Friendly
+1969 109 away Germany Scotland 1 1 World Cup qualifier
+1969 134 home Germany Austria 1 0 World Cup qualifier
+1969 145 home Germany Cyprus 12 0 World Cup qualifier
+1969 269 away Germany Austria 1 1 Friendly
+1969 272 away Germany Bulgaria 0 1 Friendly
+1969 301 home Germany Scotland 3 2 World Cup qualifier
+1970 42 away Germany Spain 2 0 Friendly
+1970 101 home Germany Romania 1 1 Friendly
+1970 133 home Germany Ireland 2 1 Friendly
+1970 137 home Germany Yugoslavia 1 0 Friendly
+1970 158 home Germany Morocco 2 1 World Cup
+1970 162 home Germany Bulgaria 5 2 World Cup
+1970 165 home Germany Peru 3 1 World Cup
+1970 169 home Germany England 3 2 World Cup
+1970 172 away Germany Italy 4 3 World Cup
+1970 175 home Germany Uruguay 1 0 World Cup
+1970 257 home Germany Hungary 3 1 Friendly
+1970 296 home Germany Turkey 1 1 European Cup qualifier
+1970 328 away Germany Yugoslavia 2 0 Friendly
+1970 332 away Germany Greece 1 3 Friendly
+1971 48 away Germany Albania 0 1 European Cup qualifier
+1971 118 away Germany Turkey 0 3 European Cup qualifier
+1971 167 home Germany Albania 2 0 European Cup qualifier
+1971 177 away Germany Norway 1 7 Friendly
+1971 182 away Germany Sweden 1 0 Friendly
+1971 185 away Germany Denmark 1 3 Friendly
+1971 256 home Germany Mexico 5 0 Friendly
+1971 289 away Germany Poland 1 3 European Cup qualifier
+1971 327 home Germany Poland 0 0 European Cup qualifier
+1972 91 away Germany Hungary 0 2 Friendly
+1972 122 away Germany England 1 3 European Cup qualifier
+1972 137 home Germany England 0 0 European Cup qualifier
+1972 150 home Germany SovietUnion 4 1 Friendly
+1972 169 away Germany Belgium 1 2 European Cup
+1972 173 home Germany SovietUnion 3 0 European Cup
+1972 325 home Germany Switzerland 5 1 Friendly
+1973 45 home Germany Argentina 2 3 Friendly
+1973 90 home Germany Czechoslovakia 3 0 Friendly
+1973 133 home Germany Yugoslavia 0 1 Friendly
+1973 136 home Germany Bulgaria 3 0 Friendly
+1973 171 home Germany Brazil 0 1 Friendly
+1973 253 away Germany SovietUnion 0 1 Friendly
+1973 289 home Germany Austria 4 0 Friendly
+1973 292 home Germany France 2 1 Friendly
+1973 324 away Germany Scotland 1 1 Friendly
+1973 334 home Germany Spain 2 1 Friendly
+1974 54 away Germany Spain 1 0 Friendly
+1974 57 away Germany Italy 0 0 Friendly
+1974 89 home Germany Scotland 2 1 Friendly
+1974 110 home Germany Hungary 5 0 Friendly
+1974 125 home Germany Sweden 2 0 Friendly
+1974 169 home Germany Chile 1 0 World Cup
+1974 173 home Germany Australia 3 0 World Cup
+1974 177 home Germany EastGermany 0 1 World Cup
+1974 181 home Germany Yugoslavia 2 0 World Cup
+1974 185 home Germany Sweden 4 2 World Cup
+1974 189 home Germany Poland 1 0 World Cup
+1974 193 home Germany Holland 2 1 World Cup
+1974 252 away Germany Switzerland 1 2 Friendly
+1974 330 away Germany Greece 2 2 European Cup qualifier
+1974 363 away Germany Malta 0 1 European Cup qualifier
+1975 74 away Germany England 2 0 Friendly
+1975 120 away Germany Bulgaria 1 1 European Cup qualifier
+1975 141 home Germany Holland 1 1 Friendly
+1975 251 away Germany Austria 0 2 Friendly
+1975 290 home Germany Greece 1 1 European Cup qualifier
+1975 329 home Germany Bulgaria 1 0 European Cup qualifier
+1975 361 away Germany Turkey 0 5 Friendly
+1976 59 home Germany Malta 8 0 European Cup qualifier
+1976 117 away Germany Spain 1 1 European Cup qualifier
+1976 146 home Germany Spain 2 0 European Cup qualifier
+1976 172 away Germany Yugoslavia 2 4 European Cup
+1976 175 away Germany Czechoslovakia 2 2 European Cup
+1976 285 away Germany Wales 0 2 Friendly
+1976 327 home Germany Czechoslovakia 2 0 Friendly
+1977 54 away Germany France 1 0 Friendly
+1977 120 home Germany NorthernIreland 5 0 Friendly
+1977 123 away Germany Yugoslavia 1 2 Friendly
+1977 160 away Germany Argentina 1 3 Friendly
+1977 163 away Germany Uruguay 0 2 Friendly
+1977 167 away Germany Brazil 1 1 Friendly
+1977 169 away Germany Mexico 2 2 Friendly
+1977 255 away Germany Finland 0 1 Friendly
+1977 287 home Germany Italy 2 1 Friendly
+1977 326 home Germany Switzerland 4 1 Friendly
+1977 355 home Germany Wales 1 1 Friendly
+1978 53 home Germany England 2 1 Friendly
+1978 70 home Germany SovietUnion 1 0 Friendly
+1978 98 home Germany Brazil 0 1 Friendly
+1978 112 away Germany Sweden 3 1 Friendly
+1978 156 away Germany Poland 0 0 World Cup
+1978 161 home Germany Mexico 6 0 World Cup
+1978 165 away Germany Tunisia 0 0 World Cup
+1978 169 away Germany Italy 0 0 World Cup
+1978 173 away Germany Holland 2 2 World Cup
+1978 176 away Germany Austria 3 2 World Cup
+1978 290 away Germany Czechoslovakia 3 4 Friendly
+1978 325 home Germany Hungary 0 0 Friendly
+1978 361 home Germany Holland 3 1 Friendly
+1979 56 away Germany Malta 0 0 European Cup qualifier
+1979 94 away Germany Turkey 0 0 European Cup qualifier
+1979 126 away Germany Wales 0 2 European Cup qualifier
+1979 146 away Germany Ireland 1 3 Friendly
+1979 150 away Germany Iceland 1 3 Friendly
+1979 260 home Germany Argentina 2 1 Friendly
+1979 296 home Germany Wales 5 1 European Cup qualifier
+1979 331 away Germany SovietUnion 1 3 Friendly
+1979 363 home Germany Turkey 2 0 European Cup qualifier
+1980 58 home Germany Malta 8 0 European Cup qualifier
+1980 95 home Germany Austria 1 0 Friendly
+1980 137 home Germany Poland 3 1 Friendly
+1980 166 home Germany Czechoslovakia 1 0 European Cup
+1980 169 home Germany Holland 3 2 European Cup
+1980 172 away Germany Greece 0 0 European Cup
+1980 177 home Germany Belgium 2 1 European Cup
+1980 258 away Germany Switzerland 2 3 Friendly
+1980 290 away Germany Holland 1 1 Friendly
+1980 329 home Germany France 4 1 Friendly
+1980 344 away Germany Bulgaria 1 3 World Cup qualifier
+1981 1 away Germany Argentina 2 1 Mundialito
+1981 7 away Germany Brazil 4 1 Mundialito
+1981 94 away Germany Albania 0 2 World Cup qualifier
+1981 122 home Germany Austria 2 0 World Cup qualifier
+1981 143 home Germany Brazil 1 2 Friendly
+1981 148 away Germany Finland 0 4 World Cup qualifier
+1981 250 away Germany Poland 0 2 Friendly
+1981 271 home Germany Finland 7 1 World Cup qualifier
+1981 293 away Germany Austria 1 3 World Cup qualifier
+1981 328 home Germany Albania 8 0 World Cup qualifier
+1981 332 home Germany Bulgaria 4 0 World Cup qualifier
+1982 48 home Germany Portugal 3 1 Friendly
+1982 83 away Germany Brazil 1 0 Friendly
+1982 86 away Germany Argentina 1 1 Friendly
+1982 107 home Germany Czechoslovakia 2 1 Friendly
+1982 136 away Germany Norway 2 4 Friendly
+1982 171 away Germany Algeria 2 1 World Cup
+1982 175 home Germany Chile 4 1 World Cup
+1982 180 home Germany Austria 1 0 World Cup
+1982 184 away Germany England 0 0 World Cup
+1982 188 away Germany Spain 1 2 World Cup
+1982 194 away Germany France 3 3 World Cup
+1982 197 away Germany Italy 3 1 World Cup
+1982 270 home Germany Belgium 0 0 Friendly
+1982 292 away Germany England 1 2 Friendly
+1982 327 away Germany NorthernIreland 1 0 European Cup qualifier
+1983 54 away Germany Portugal 1 0 Friendly
+1983 92 away Germany Albania 1 2 European Cup qualifier
+1983 116 away Germany Turkey 0 3 European Cup qualifier
+1983 120 away Germany Austria 0 0 European Cup qualifier
+1983 162 home Germany Yugoslavia 4 2 Friendly
+1983 255 away Germany Hungary 1 1 Friendly
+1983 284 home Germany Austria 3 0 European Cup qualifier
+1983 305 home Germany Turkey 5 1 European Cup qualifier
+1983 326 home Germany NorthernIreland 0 1 European Cup qualifier
+1983 330 home Germany Albania 2 1 European Cup qualifier
+1984 46 away Germany Bulgaria 2 3 Friendly
+1984 60 away Germany Belgium 0 1 Friendly
+1984 90 home Germany SovietUnion 2 1 Friendly
+1984 111 away Germany France 1 0 Friendly
+1984 146 home Germany Italy 1 0 Friendly
+1984 169 away Germany Portugal 0 0 European Cup
+1984 172 home Germany Romania 2 1 European Cup
+1984 175 away Germany Spain 1 0 European Cup
+1984 260 home Germany Argentina 1 3 Friendly
+1984 296 home Germany Sweden 2 0 World Cup qualifier
+1984 357 away Germany Malta 2 3 World Cup qualifier
+1985 29 home Germany Hungary 0 1 Friendly
+1985 55 away Germany Portugal 1 2 World Cup qualifier
+1985 89 home Germany Malta 6 0 World Cup qualifier
+1985 110 home Germany Bulgaria 4 1 Friendly
+1985 123 away Germany Czechoslovakia 1 5 World Cup qualifier
+1985 167 away Germany England 3 0 Copa Ciudad de Mexico
+1985 170 away Germany Mexico 2 0 Copa Ciudad de Mexico
+1985 245 away Germany SovietUnion 1 0 Friendly
+1985 273 away Germany Sweden 2 2 World Cup qualifier
+1985 295 home Germany Portugal 0 1 World Cup qualifier
+1985 327 home Germany Czechoslovakia 2 2 World Cup qualifier
+1986 36 away Germany Italy 1 2 Friendly
+1986 74 home Germany Brazil 2 0 Friendly
+1986 102 away Germany Switzerland 0 1 Friendly
+1986 135 home Germany Yugoslavia 1 1 Friendly
+1986 138 home Germany Holland 3 1 Friendly
+1986 159 away Germany Uruguay 1 1 World Cup
+1986 163 home Germany Scotland 2 1 World Cup
+1986 168 away Germany Denmark 2 0 World Cup
+1986 172 home Germany Morocco 1 0 World Cup
+1986 176 away Germany Mexico 0 0 World Cup
+1986 180 home Germany France 2 0 World Cup
+1986 184 away Germany Argentina 3 2 World Cup
+1986 272 away Germany Denmark 0 2 Friendly
+1986 294 home Germany Spain 2 2 Friendly
+1986 308 away Germany Austria 4 1 Friendly
+1987 87 away Germany Israel 0 2 Friendly
+1987 111 home Germany Italy 0 0 Friendly
+1987 229 home Germany France 2 1 Friendly
+1987 257 home Germany England 3 1 Friendly
+1987 271 home Germany Denmark 1 0 Friendly
+1987 292 home Germany Sweden 1 1 Friendly
+1987 328 away Germany Hungary 0 0 Friendly
+1987 353 away Germany Brazil 1 1 Friendly
+1987 357 away Germany Argentina 1 0 Friendly
+1988 93 home Germany Sweden 1 1 Friendly tournament
+1988 95 home Germany Argentina 1 0 Friendly tournament
+1988 120 home Germany Switzerland 1 0 Friendly
+1988 159 home Germany Yugoslavia 1 1 Friendly
+1988 165 home Germany Italy 1 1 European Cup
+1988 169 home Germany Denmark 2 0 European Cup
+1988 172 home Germany Spain 2 0 European Cup
+1988 176 home Germany Holland 1 2 European Cup
+1988 248 away Germany Finland 0 4 World Cup qualifier
+1988 269 home Germany SovietUnion 1 0 Friendly
+1988 298 home Germany Holland 0 0 World Cup qualifier
+1989 84 away Germany Bulgaria 1 2 Friendly
+1989 119 away Germany Holland 1 1 World Cup qualifier
+1989 155 away Germany Wales 0 0 World Cup qualifier
+1989 254 away Germany Ireland 1 1 Friendly
+1989 283 home Germany Finland 6 1 World Cup qualifier
+1989 325 home Germany Wales 2 1 World Cup qualifier
+1990 59 away Germany France 2 1 Friendly
+1990 118 home Germany Uruguay 3 3 Friendly
+1990 150 home Germany Czechoslovakia 1 0 Friendly
+1990 154 home Germany Denmark 1 0 Friendly
+1990 165 home Germany Yugoslavia 4 1 World Cup
+1990 170 away Germany UnitedArab 1 5 World Cup
+1990 174 away Germany Colombia 1 1 World Cup
+1990 179 away Germany Holland 1 2 World Cup
+1990 187 away Germany Czechoslovakia 0 1 World Cup
+1990 190 away Germany England 1 1 World Cup
+1990 194 away Germany Argentina 0 1 World Cup
+1990 246 away Germany Portugal 1 1 Friendly
+1990 289 away Germany Sweden 1 3 Friendly
+1990 310 away Germany Luxembourg 2 3 European Cup qualifier
+1990 360 home Germany Switzerland 4 0 Friendly
+1991 89 home Germany SovietUnion 2 1 Friendly
+1991 125 home Germany Belgium 1 0 European Cup qualifier
+1991 160 away Germany Wales 1 0 European Cup qualifier
+1991 259 away Germany England 0 1 Friendly
+1991 295 home Germany Wales 4 1 European Cup qualifier
+1991 330 away Germany Belgium 0 1 European Cup qualifier
+1991 359 home Germany Luxembourg 4 0 European Cup qualifier
+1992 87 away Germany Italy 1 0 Friendly
+1992 115 away Germany Czechoslovakia 1 1 Friendly
+1992 154 home Germany Turkey 1 0 Friendly
+1992 157 home Germany NorthernIreland 1 1 Friendly
+1992 167 home Germany IndependentStates 1 1 European Cup
+1992 170 home Germany Scotland 2 0 European Cup
+1992 173 away Germany Holland 3 1 European Cup
+1992 176 away Germany Sweden 2 3 European Cup
+1992 181 away Germany Denmark 2 0 European Cup
+1992 257 away Germany Denmark 1 2 Friendly
+1992 293 home Germany Mexico 1 1 Friendly
+1992 328 home Germany Austria 0 0 Friendly
+1992 357 away Germany Brazil 3 1 Friendly
+1992 361 away Germany Uruguay 1 4 Friendly
+1993 86 away Germany Scotland 0 1 Friendly
+1993 107 home Germany Ghana 6 1 Friendly
+1993 165 home Germany Brazil 3 3 US Cup
+1993 168 away Germany UnitedStates 3 4 US Cup
+1993 174 home Germany England 2 1 US Cup
+1993 270 away Germany Tunisia 1 1 Friendly
+1993 292 home Germany Uruguay 5 0 Friendly
+1993 327 home Germany Brazil 2 1 Friendly
+1993 356 away Germany Argentina 2 1 Friendly
+1993 359 away Germany UnitedStates 0 3 Friendly
+1993 363 away Germany Mexico 0 0 Friendly
+1994 85 home Germany Italy 2 1 Friendly
+1994 120 away Germany UnitedArab 0 2 Friendly
+1994 153 home Germany Ireland 0 2 Friendly
+1994 157 away Germany Austria 1 5 Friendly
+1994 163 away Germany Canada 0 2 Friendly
+1994 172 home Germany Bolivia 1 0 World Cup
+1994 176 home Germany Spain 1 1 World Cup
+1994 182 home Germany SouthKorea 3 2 World Cup
+1994 188 home Germany Belgium 3 2 World Cup
+1994 196 away Germany Bulgaria 2 1 World Cup
+1994 255 away Germany Russia 0 1 Friendly
+1994 291 away Germany Hungary 0 0 Friendly
+1994 326 away Germany Albania 1 2 European Cup qualifier
+1994 355 away Germany Moldova 0 3 European Cup qualifier
+1994 359 home Germany Albania 2 1 European Cup qualifier
+1995 53 away Germany Spain 0 0 Friendly
+1995 91 away Germany Georgia 0 2 European Cup qualifier
+1995 119 home Germany Wales 1 1 European Cup qualifier
+1995 162 away Germany Bulgaria 3 2 European Cup qualifier
+1995 176 home Germany Italy 2 0 Centenary Tournament
+1995 178 away Germany Switzerland 1 2 Centenary Tournament
+1995 240 away Germany Belgium 1 2 Friendly
+1995 254 home Germany Georgia 4 1 European Cup qualifier
+1995 287 home Germany Moldova 6 1 European Cup qualifier
+1995 290 away Germany Wales 1 2 European Cup qualifier
+1995 325 home Germany Bulgaria 3 1 European Cup qualifier
+1995 356 away Germany SouthAfrica 0 0 Friendly
+1996 52 away Germany Portugal 1 2 Friendly
+1996 89 home Germany Denmark 2 0 Friendly
+1996 117 away Germany Holland 0 1 Friendly
+1996 153 away Germany NorthernIreland 1 1 Friendly
+1996 156 home Germany France 0 1 Friendly
+1996 159 home Germany Liechtenstein 9 1 Friendly
+1996 164 home Germany Czechia 2 0 European Cup
+1996 171 home Germany Russia 3 0 European Cup
+1996 174 away Germany Italy 0 0 European Cup
+1996 178 home Germany Croatia 2 1 European Cup
+1996 181 away Germany England 1 1 European Cup
+1996 185 home Germany Czechia 2 1 European Cup
+1996 252 away Germany Poland 0 2 Friendly
+1996 288 away Germany Armenia 1 5 World Cup qualifier
+1996 319 home Germany NorthernIreland 1 1 World Cup qualifier
+1996 355 away Germany Portugal 0 0 World Cup qualifier
+1997 57 away Germany Israel 0 1 Friendly
+1997 95 home Germany Albania 3 2 World Cup qualifier
+1997 123 home Germany Ukraine 2 0 World Cup qualifier
+1997 162 away Germany Ukraine 0 0 World Cup qualifier
+1997 237 away Germany NorthernIreland 1 3 World Cup qualifier
+1997 254 home Germany Portugal 1 1 World Cup qualifier
+1997 258 home Germany Armenia 4 0 World Cup qualifier
+1997 290 home Germany Albania 4 3 World Cup qualifier
+1997 325 home Germany SouthAfrica 3 0 Friendly
+1998 49 away Germany Oman 0 2 Friendly
+1998 53 away Germany SaudiArabia 0 3 Friendly
+1998 87 home Germany Brazil 1 2 Friendly
+1998 115 home Germany Nigeria 1 0 Friendly
+1998 151 away Germany Finland 0 0 Friendly
+1998 154 home Germany Colombia 3 1 Friendly
+1998 160 home Germany Luxembourg 7 0 Friendly
+1998 170 home Germany UnitedStates 2 0 World Cup
+1998 176 home Germany Yugoslavia 2 2 World Cup
+1998 180 home Germany Iran 2 0 World Cup
+1998 184 home Germany Mexico 2 1 World Cup
+1998 190 away Germany Croatia 3 0 World Cup
+1998 250 away Germany Malta 1 2 Friendly
+1998 253 away Germany Romania 1 1 Friendly
+1998 289 away Germany Turkey 1 0 European Cup qualifier
+1998 293 away Germany Moldova 1 3 European Cup qualifier
+1998 328 home Germany Holland 1 1 Friendly
+1999 37 away Germany UnitedStates 3 0 Friendly
+1999 40 away Germany Colombia 3 3 Friendly
+1999 89 away Germany NorthernIreland 0 3 European Cup qualifier
+1999 93 home Germany Finland 2 0 European Cup qualifier
+1999 121 home Germany Scotland 0 1 Friendly
+1999 159 home Germany Moldova 6 1 European Cup qualifier
+1999 210 away Germany Brazil 4 0 Confederations Cup
+1999 214 home Germany NewZealand 2 0 Confederations Cup
+1999 216 away Germany UnitedStates 2 0 Confederations Cup
+1999 252 away Germany Finland 1 2 European Cup qualifier
+1999 256 home Germany NorthernIreland 4 0 European Cup qualifier
+1999 288 home Germany Turkey 0 0 European Cup qualifier
+1999 324 away Germany Norway 0 1 Friendly
+2000 54 away Germany Holland 2 1 Friendly
+2000 91 away Germany Croatia 1 1 Friendly
+2000 119 home Germany Switzerland 1 1 Friendly
+2000 158 home Germany Czechia 3 2 Friendly
+2000 162 home Germany Liechtenstein 8 2 Friendly
+2000 167 away Germany Romania 1 1 European Cup
+2000 172 away Germany England 1 0 European Cup
+2000 175 away Germany Portugal 3 0 European Cup
+2000 233 home Germany Spain 4 1 Friendly
+2000 250 home Germany Greece 2 0 World Cup qualifier
+2000 286 away Germany England 0 1 World Cup qualifier
+2000 325 away Germany Denmark 2 1 Friendly
+2001 58 away Germany France 1 0 Friendly
+2001 86 home Germany Albania 2 1 World Cup qualifier
+2001 90 away Germany Greece 2 4 World Cup qualifier
+2001 153 home Germany Slovakia 2 0 Friendly
+2001 157 away Germany Finland 2 2 World Cup qualifier
+2001 161 away Germany Albania 0 2 World Cup qualifier
+2001 232 away Germany Hungary 2 5 Friendly
+2001 249 home Germany England 1 5 World Cup qualifier
+2001 285 home Germany Finland 0 0 World Cup qualifier
+2001 320 away Germany Ukraine 1 1 World Cup qualifier
+2001 324 home Germany Ukraine 4 1 World Cup qualifier
+2002 44 home Germany Israel 7 1 Friendly
+2002 89 home Germany UnitedStates 4 2 Friendly
+2002 110 home Germany Argentina 0 1 Friendly
+2002 133 home Germany Kuwait 7 0 Friendly
+2002 138 away Germany Wales 1 0 Friendly
+2002 142 home Germany Austria 6 2 Friendly
+2002 156 home Germany SaudiArabia 8 0 World Cup
+2002 160 away Germany Ireland 1 1 World Cup
+2002 166 home Germany Cameroon 2 0 World Cup
+2002 170 home Germany Paraguay 1 0 World Cup
+2002 176 home Germany UnitedStates 1 0 World Cup
+2002 180 away Germany SouthKorea 0 1 World Cup
+2002 185 away Germany Brazil 2 0 World Cup
+2002 238 away Germany Bulgaria 2 2 Friendly
+2002 255 away Germany Lithuania 0 2 European Cup qualifier
+2002 290 away Germany Bosnia 1 1 Friendly
+2002 295 home Germany FaroeIslands 2 1 European Cup qualifier
+2002 330 home Germany Holland 1 3 Friendly
+2003 43 away Germany Spain 3 1 Friendly
+2003 91 home Germany Lithuania 1 1 European Cup qualifier
+2003 123 home Germany Serbia and Montenegro 1 0 Friendly
+2003 156 home Germany Canada 4 1 Friendly
+2003 162 away Germany Scotland 1 1 European Cup qualifier
+2003 166 away Germany FaroeIslands 0 2 European Cup qualifier
+2003 237 home Germany Italy 0 1 Friendly
+2003 254 away Germany Iceland 0 0 European Cup qualifier
+2003 258 home Germany Scotland 2 1 European Cup qualifier
+2003 290 home Germany Iceland 3 0 European Cup qualifier
+2003 325 home Germany France 0 3 Friendly
+2004 49 away Germany Croatia 1 2 Friendly
+2004 93 home Germany Belgium 3 0 Friendly
+2004 121 away Germany Romania 5 1 Friendly
+2004 151 home Germany Malta 7 0 Friendly
+2004 157 away Germany Switzerland 0 2 Friendly
+2004 161 home Germany Hungary 0 2 Friendly
+2004 170 home Germany Holland 1 1 European Cup
+2004 174 away Germany Latvia 0 0 European Cup
+2004 178 away Germany Czechia 2 1 European Cup
+2004 235 away Germany Austria 1 3 Friendly
+2004 256 home Germany Brazil 1 1 Friendly
+2004 288 away Germany Iran 0 2 Friendly
+2004 327 home Germany Cameroon 3 0 Friendly
+2004 357 away Germany Japan 0 3 Friendly
+2004 360 away Germany SouthKorea 3 1 Friendly
+2004 362 away Germany Thailand 1 5 Friendly
+2005 40 home Germany Argentina 2 2 Friendly
+2005 88 away Germany Slovenia 0 1 Friendly
+2005 159 away Germany NorthernIreland 1 4 Friendly
+2005 163 home Germany Russia 2 2 Friendly
+2005 170 home Germany Australia 4 3 Confederations Cup
+2005 173 home Germany Tunisia 3 0 Confederations Cup
+2005 176 home Germany Argentina 2 2 Confederations Cup
+2005 180 home Germany Brazil 2 3 Confederations Cup
+2005 184 home Germany Mexico 4 3 Confederations Cup
+2005 234 away Germany Holland 2 2 Friendly
+2005 251 away Germany Slovakia 2 0 Friendly
+2005 255 home Germany SouthAfrica 4 2 Friendly
+2005 287 away Germany Turkey 2 1 Friendly
+2005 291 home Germany China 1 0 Friendly
+2005 322 away Germany France 0 0 Friendly
+2006 63 away Germany Italy 4 1 Friendly
+2006 84 home Germany UnitedStates 4 1 Friendly
+2006 151 home Germany Luxembourg 7 0 Friendly
+2006 154 home Germany Japan 2 2 Friendly
+2006 157 home Germany Colombia 3 0 Friendly
+2006 164 home Germany CostaRica 4 2 World Cup
+2006 169 home Germany Poland 1 0 World Cup
+2006 175 home Germany Ecuador 3 0 World Cup
+2006 179 home Germany Sweden 2 0 World Cup
+2006 185 home Germany Argentina 1 1 World Cup
+2006 190 home Germany Italy 0 2 World Cup
+2006 194 home Germany Portugal 3 1 World Cup
+2006 233 home Germany Sweden 3 0 Friendly
+2006 250 home Germany Ireland 1 0 European Cup qualifier
+2006 254 away Germany SanMarino 0 13 European Cup qualifier
+2006 286 home Germany Georgia 2 0 Friendly
+2006 290 away Germany Slovakia 1 4 European Cup qualifier
+2006 325 away Germany Cyprus 1 1 European Cup qualifier
+2007 38 home Germany Switzerland 3 1 Friendly
+2007 86 away Germany Czechia 1 2 European Cup qualifier
+2007 90 home Germany Denmark 0 1 Friendly
+2007 157 home Germany SanMarino 6 0 European Cup qualifier
+2007 161 home Germany Slovakia 2 1 European Cup qualifier
+2007 239 away Germany England 1 2 Friendly
+2007 256 away Germany Wales 0 2 European Cup qualifier
+2007 260 home Germany Romania 3 1 Friendly
+2007 292 away Germany Ireland 0 0 European Cup qualifier
+2007 296 home Germany Czechia 0 3 European Cup qualifier
+2007 327 home Germany Cyprus 4 0 European Cup qualifier
+2007 331 home Germany Wales 0 0 European Cup qualifier
+2008 37 away Germany Austria 0 3 Friendly
+2008 88 away Germany Switzerland 0 4 Friendly
+2008 151 home Germany Belarus 2 2 Friendly
+2008 155 home Germany Serbia 2 1 Friendly
+2008 163 home Germany Poland 2 0 European Cup
+2008 167 away Germany Croatia 2 1 European Cup
+2008 171 away Germany Austria 0 1 European Cup
+2008 174 home Germany Portugal 3 2 European Cup
+2008 180 home Germany Turkey 3 2 European Cup
+2008 184 away Germany Spain 1 0 European Cup
+2008 237 home Germany Belgium 2 0 Friendly
+2008 254 away Germany Liechtenstein 0 6 World Cup qualifier
+2008 258 away Germany Finland 3 3 World Cup qualifier
+2008 290 home Germany Russia 2 1 World Cup qualifier
+2008 294 home Germany Wales 1 0 World Cup qualifier
+2008 329 home Germany England 1 2 Friendly
+2009 42 home Germany Norway 0 1 Friendly
+2009 90 home Germany Liechtenstein 4 0 World Cup qualifier
+2009 94 away Germany Wales 0 2 World Cup qualifier
+2009 153 away Germany China 1 1 Friendly
+2009 157 away Germany UnitedArab 2 7 Friendly
+2009 229 away Germany Azerbaijan 0 2 World Cup qualifier
+2009 253 home Germany SouthAfrica 2 0 Friendly
+2009 257 home Germany Azerbaijan 4 0 World Cup qualifier
+2009 289 away Germany Russia 0 1 World Cup qualifier
+2009 293 home Germany Finland 1 1 World Cup qualifier
+2009 328 home Germany IvoryCoast 2 2 Friendly
+2010 65 home Germany Argentina 0 1 Friendly
+2010 137 home Germany Malta 3 0 Friendly
+2010 153 away Germany Hungary 0 3 Friendly
+2010 158 home Germany Bosnia 3 1 Friendly
+2010 168 home Germany Australia 4 0 World Cup
+2010 173 away Germany Serbia 1 0 World Cup
+2010 178 home Germany Ghana 1 0 World Cup
+2010 182 home Germany England 4 1 World Cup
+2010 189 home Germany Argentina 4 0 World Cup
+2010 193 away Germany Spain 1 0 World Cup
+2010 196 home Germany Uruguay 3 2 World Cup
+2010 228 away Germany Denmark 2 2 Friendly
+2010 251 away Germany Belgium 0 1 European Cup qualifier
+2010 255 home Germany Azerbaijan 6 1 European Cup qualifier
+2010 287 home Germany Turkey 3 0 European Cup qualifier
+2010 291 away Germany Kazakhstan 0 3 European Cup qualifier
+2010 327 away Germany Sweden 0 0 Friendly
+2011 40 home Germany Italy 1 1 Friendly
+2011 88 home Germany Kazakhstan 4 0 European Cup qualifier
+2011 91 home Germany Australia 1 2 Friendly
+2011 153 home Germany Uruguay 2 1 Friendly
+2011 158 away Germany Austria 1 2 European Cup qualifier
+2011 162 away Germany Azerbaijan 1 3 European Cup qualifier
+2011 227 home Germany Brazil 3 2 Friendly
+2011 250 home Germany Austria 6 2 European Cup qualifier
+2011 254 away Germany Poland 2 2 Friendly
+2011 286 away Germany Turkey 1 3 European Cup qualifier
+2011 290 home Germany Belgium 3 1 European Cup qualifier
+2011 321 away Germany Ukraine 3 3 Friendly
+2011 325 home Germany Holland 3 0 Friendly
+2012 60 home Germany France 1 2 Friendly
+2012 150 away Germany Switzerland 5 3 Friendly
+2012 155 home Germany Israel 2 0 Friendly
+2012 164 home Germany Portugal 1 0 European Cup
+2012 168 home Germany Holland 2 1 European Cup
+2012 172 home Germany Denmark 2 1 European Cup
+2012 177 home Germany Greece 4 2 European Cup
+2012 183 away Germany Italy 2 1 European Cup
+2012 232 home Germany Argentina 1 3 Friendly
+2012 255 home Germany FaroeIslands 3 0 World Cup qualifier
+2012 259 away Germany Austria 1 2 World Cup qualifier
+2012 291 away Germany Ireland 1 6 World Cup qualifier
+2012 295 home Germany Sweden 4 4 World Cup qualifier
+2012 324 away Germany Holland 0 0 Friendly
+2013 37 away Germany France 1 2 Friendly
+2013 85 away Germany Kazakhstan 0 3 World Cup qualifier
+2013 88 home Germany Kazakhstan 4 1 World Cup qualifier
+2013 153 home Germany Ecuador 4 2 Friendly
+2013 157 away Germany UnitedStates 4 3 Friendly
+2013 231 home Germany Paraguay 3 3 Friendly
+2013 254 home Germany Austria 3 0 World Cup qualifier
+2013 258 away Germany FaroeIslands 0 3 World Cup qualifier
+2013 290 home Germany Ireland 3 0 World Cup qualifier
+2013 294 away Germany Sweden 3 5 World Cup qualifier
+2013 325 away Germany Italy 1 1 Friendly
+2013 329 away Germany England 0 1 Friendly
+2014 67 home Germany Chile 1 0 Friendly

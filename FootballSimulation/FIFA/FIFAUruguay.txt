@@ -1,0 +1,198 @@
+Luis Suarez Luis Suarez 
+Liverpool / Barclays PL 
+88	ST	82	85	76	91	57	75	4 	4 	 / 	 Right	90,000	2,111		
+Edinson Cavani Edinson Cavani 
+Paris Saint-Germain / Ligue 1 
+87	ST	83	84	66	80	56	84	3 	3 	 / 	 Right	2,600	1,967		
+Luis Suarez Luis Suarez 
+Liverpool / Barclays PL 
+86	CF	81	83	75	90	56	72	4 	4 	 / 	 Right	55,000	2,022		
+Diego Godin Diego Godin 
+Atlético de Madrid / Liga BBVA 
+83	CB	66	49	67	58	83	83	2 	3 	 / 	 Right	700	1,778		
+Fernando Muslera Fernando Muslera 
+Galatasaray / Turklig 
+82	GK	78	80	79	87	63	81	1 	2 	 / 	 Right	850	1,025		
+Diego Forlan Diego Forlan 
+Internacional / Liga do Brasil 
+80	ST	66	84	77	82	43	70	3 	5 	 / 	 Right	1,900	1,858		
+Martin Caceres Martin Caceres 
+Juventus / Serie A 
+80	CB	81	58	68	68	81	78	2 	3 	 / 	 Right	850	1,896		
+Vicente Sanchez Vicente Sanchez 
+Colorado Rapids / MLS 
+74	CAM	86	69	68	80	44	69	4 	4 	 / 	 Left	400	1,779		
+Gustavo Munua Gustavo Munua 
+Fiorentina / Serie A 
+74	GK	74	71	86	78	49	73	1 	3 	 / 	 Right	3,200	1,021		
+Diego Perez Diego Perez 
+Bologna / Serie A 
+74	CM	60	57	75	69	75	75	2 	3 	 / 	 Right	400	1,879		
+Guillermo Rodriguez Guillermo Rodriguez 
+Torino / Serie A 
+74	CB	61	38	46	40	77	74	2 	3 	 / 	 Right	450	1,518		
+Abel Hernandez Abel Hernandez 
+Palermo / Serie B 
+74	ST	91	69	54	73	44	67	3 	3 	 / 	 Left	350	1,688		
+Rodrigo Mora Rodrigo Mora 
+River Plate / Primera Division 
+74	ST	75	75	66	74	40	70	3 	4 	 / 	 Right	1,000	1,760		
+Rodrigo Mora Rodrigo Mora 
+Universidad de Chile / Camp. Petrobras 
+74	ST	75	75	66	74	40	70	3 	4 	 / 	 Right	350	1,760		
+Mario Regueiro Mario Regueiro 
+Racing Club de Avellaneda / Primera Division 
+73	LW	83	73	70	74	57	69	3 	3 	 / 	 Left	400	1,840		
+Ruben Olivera Ruben Olivera 
+Fiorentina / Serie A 
+73	CF	69	71	70	78	51	66	3 	3 	 / 	 Right	5,300	1,787		
+Pablo Garcia Pablo Garcia 
+PAOK / Hellas Liga 
+73	CDM	39	63	76	65	75	74	2 	3 	 / 	 Left	1,500	1,790		
+Sebastian Fernandez Sebastian Fernandez 
+Rayo Vallecano / Liga BBVA 
+73	CAM	77	68	62	78	40	58	3 	4 	 / 	 Right	300	1,671		
+Ruben Olivera Ruben Olivera 
+Brescia / Serie B 
+73	CF	69	71	70	78	51	66	3 	3 	 / 	 Right	300	1,787		
+Santiago Silva Santiago Silva 
+Lanús / Primera Division 
+72	ST	53	74	54	67	45	82	3 	3 	 / 	 Right	350	1,619		
+Sebastian Viera Sebastian Viera 
+Junior Barranquilla / Liga Postobon 
+72	GK	75	64	76	72	41	75	1 	3 	 / 	 Right	500	890		
+Juan Angel Albin Juan Angel Albin 
+RCD Espanyol / Liga BBVA 
+72	LM	76	68	68	78	50	52	4 	2 	 / 	 Left	0	1,759		
+Jonathan Urretaviscaya Jonathan Urretaviscaya 
+SL Benfica / Liga Portuguesa 
+72	RM	86	68	69	75	43	60	3 	3 	 / 	 Right	350	1,725		
+Nicolas Lopez Nicolas Lopez 
+Udinese / Serie A 
+72	ST	81	71	62	81	37	57	3 	3 	 / 	 Left	350	1,643		
+Ribair Rodriguez Ribair Rodriguez 
+Boca Juniors / Primera Division 
+72	CDM	72	50	68	68	75	74	2 	2 	 / 	 Right	7,000	1,751
+Matias Cabrera Matias Cabrera 
+Cagliari / Serie A 
+72	CAM	79	64	74	78	52	50	3 	3 	 / 	 Right	450	1,727		
+Ribair Rodriguez Ribair Rodriguez 
+Santos Laguna / LIGA Bancomer MX 
+72	CDM	72	50	68	68	75	74	2 	2 	 / 	 Right	600	1,751		
+Sebastian Abreu Sebastian Abreu 
+Rosario Central / Primera Division 
+71	ST	33	73	62	65	48	71	3 	3 	 / 	 Left	300	1,559		
+Christian Stuani Christian Stuani 
+RCD Espanyol / Liga BBVA 
+71	RM	72	69	65	69	52	81	3 	3 	 / 	 Right	350	1,766		
+Sebastian Coates Sebastian Coates 
+Liverpool / Barclays PL 
+71	CB	60	38	35	46	75	66	2 	3 	 / 	 Right	500	1,380		
+Leonardo Miglionico Leonardo Miglionico 
+Racing Club de Avellaneda / Primera Division 
+70	CB	55	44	59	57	68	80	2 	3 	 / 	 Right	350	1,557		
+Carlos Sanchez Carlos Sanchez 
+Puebla / LIGA Bancomer MX 
+69	RM	93	67	66	69	63	67	3 	3 	 / 	 Right	550	1,831		
+Guillermo Giacomazzi Guillermo Giacomazzi 
+Siena / Serie B 
+68	CM	34	65	68	68	70	80	2 	3 	 / 	 Right	400	1,767		
+ Jonathan Lacerda Jonathan Lacerda 
+Puebla / LIGA Bancomer MX 	
+67	CB	67	42	68	62	68	67	2 	3 	 / 	 Left	700	1,541		
+Jonathan Lacerda Jonathan Lacerda 
+Santos Laguna / LIGA Bancomer MX 
+67	CB	67	42	68	62	68	67	2 	3 	 / 	 Left	400	1,541		
+Diego Polenta Diego Polenta 
+Bari / Serie B 
+66	CB	60	38	46	40	67	72	2 	3 	 / 	 Left	300	1,413		
+Marcelo Palau Marcelo Palau 
+Atlético Paranaense / Liga do Brasil 
+65	CM	73	59	70	68	53	61	2 	3 	 / 	 Right	500	1,621		
+Diego Fagundez Diego Fagundez 
+New England Revolution / MLS 
+64	LM	79	59	55	71	36	48	4 	2 	 / 	 Right	250	1,510		
+Adrian Luna Adrian Luna 
+RCD Espanyol / Liga BBVA 
+63	LM	76	62	62	72	32	54	4 	3 	 / 	 Right	0	1,579		
+Joaquin Boghossian Joaquin Boghossian 
+Quilmes Atlético Club / Primera Division 
+62	ST	32	62	48	44	47	68	2 	2 	 / 	 Right	200	1,335		
+Gaston Brugman Gaston Brugman 
+Pescara / Serie B 
+62	CM	69	60	61	70	47	57	3 	3 	 / 	 Right	200	1,592	
+Cristian Rodriguez Cristian Rodriguez 
+Atlético de Madrid / Liga BBVA 
+80	LM	80	75	80	80	64	71	3 	3 	 / 	 Left	350	1,966		
+Gaston Ramirez Gaston Ramirez 
+Southampton / Barclays PL 
+80	CAM	79	75	76	85	51	62	4 	3 	 / 	 Left	400	1,874		
+Gonzalo Castro Gonzalo Castro 
+Real Sociedad / Liga BBVA 
+79	LW	82	72	70	83	48	58	3 	3 	 / 	 Left	400	1,800		
+Alvaro Pereira Alvaro Pereira 
+Inter / Serie A 
+78	LM	81	64	79	77	75	74	3 	3 	 / 	 Left	650	1,971		
+Alvaro Pereira Alvaro Pereira 
+São Paulo / Liga do Brasil 
+78	LM	81	64	79	77	75	74	3 	3 	 / 	 Left	350	1,971		
+Walter Gargano Walter Gargano 
+Parma / Serie A 
+77	CDM	73	58	73	72	76	58	2 	3 	 / 	 Right	400	1,903		
+Alvaro Gonzalez Alvaro Gonzalez 
+Lazio / Serie A 
+77	CM	78	67	78	74	75	72	2 	3 	 / 	 Right	400	2,006		
+Maximiliano Pereira Maximiliano Pereira 
+SL Benfica / Liga Portuguesa 
+77	RB	74	66	74	76	77	69	2 	3 	 / 	 Right	400	1,980		
+Miguel Angel Britos Miguel Angel Britos 
+Napoli / Serie A 
+77	CB	61	39	59	52	78	79	2 	3 	 / 	 Left	400	1,590		
+Nicolas Lodeiro Nicolas Lodeiro 
+Botafogo / Liga do Brasil 
+77	CAM	75	68	72	82	40	51	4 	4 	 / 	 Left	350	1,721		
+Diego Lugano Diego Lugano 
+West Bromwich Albion / Barclays PL 
+76	CB	31	48	50	34	76	78	2 	2 	 / 	 Right	350	1,424		
+Egidio Arevalo Rios Egidio Arevalo Rios 
+Chicago Fire / MLS 
+76	CDM	69	59	71	72	79	62	2 	4 	 / 	 Right	1,000,000	1,885		
+Egidio Arevalo Rios Egidio Arevalo Rios 
+Monarcas Morelia / LIGA Bancomer MX 
+76	CDM	69	59	71	72	79	62	2 	4 	 / 	 Right	400	1,885		
+Sebastian Sosa Sebastian Sosa 
+Vélez Sarsfield / Primera Division 
+75	GK	82	66	71	84	58	68	1 	3 	 / 	 Right	350	950		
+Jorge Fucile Jorge Fucile 
+FC Porto / Liga Portuguesa 
+74	RB	75	42	71	74	74	68	2 	4 	 / 	 Right	350	1,751		
+Alexis Rolin Alexis Rolin 
+Catania / Serie A 
+74	CB	55	40	58	56	74	70	2 	3 	 / 	 Right	300	1,512		
+Mauricio Victorino Mauricio Victorino 
+Cruzeiro / Liga do Brasil 
+73	CB	62	56	67	65	71	73	2 	2 	 / 	 Right	2,200	1,753		
+Diego Ifran Diego Ifran 
+Real Sociedad / Liga BBVA 
+73	CF	74	68	55	77	42	62	4 	3 	 / 	 Right	200	1,655		
+Mauricio Victorino Mauricio Victorino 
+Palmeiras / Liga do Brasil B 
+73	CB	62	56	67	65	71	73	2 	2 	 / 	 Right	200	1,753		
+ Emiliano Alfaro Emiliano Alfaro 
+Lazio / Serie A 	
+72	ST	76	68	55	74	44	70	3 	4 	 / 	 Right	300	1,683		
+Carlos Bueno Carlos Bueno 
+Belgrano de Córdoba / Primera Division 
+70	ST	53	68	55	66	48	74	3 	2 	 / 	 Right	200	1,671		
+Sebastian Eguren Sebastian Eguren 
+Palmeiras / Liga do Brasil B 
+70	CDM	44	53	64	58	71	70	2 	3 	 / 	 Right	200	1,644		
+Pablo Granoche Pablo Granoche 
+Cesena / Serie B 
+70	ST	69	66	58	67	49	76	2 	3 	 / 	 Left	250	1,669		
+Matias Aguirregaray Matias Aguirregaray 
+Estudiantes de La Plata / Primera Division 
+70	RM	81	52	70	70	64	59	2 	3 	 / 	 Right	200	1,758		
+Ignacio Lores Varela Ignacio Lores Varela 
+Palermo / Serie B 
+70	LW	77	59	66	73	44	45	4 	3 	 / 	 Left	200	1,546

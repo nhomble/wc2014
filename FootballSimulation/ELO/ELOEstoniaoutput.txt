@@ -1,0 +1,394 @@
+1920 296 away Estonia Finland 6 0 Friendly
+1921 208 home Estonia Sweden 0 0 Friendly
+1921 245 home Estonia Finland 0 3 Friendly
+1922 228 away Estonia Finland 10 2 Friendly
+1922 272 away Estonia Latvia 1 1 Friendly
+1923 179 away Estonia Lithuania 0 5 Friendly
+1923 210 home Estonia Latvia 1 1 Friendly
+1923 266 home Estonia Russia 2 4 Friendly
+1923 273 home Estonia Poland 1 4 Friendly
+1923 278 home Estonia Finland 2 1 Friendly
+1924 149 away Estonia UnitedStates 1 0 Olympic Games
+1924 174 home Estonia Turkey 1 4 Friendly
+1924 211 away Estonia Sweden 5 2 Friendly
+1924 241 home Estonia Lithuania 1 2 Friendly
+1924 262 away Estonia Finland 4 0 Friendly
+1924 297 away Estonia Latvia 2 0 Friendly
+1925 183 away Estonia Lithuania 0 1 Friendly
+1925 191 home Estonia Finland 2 0 Friendly
+1925 243 home Estonia Latvia 2 2 Friendly
+1925 249 home Estonia Poland 0 0 Friendly
+1926 168 home Estonia Lithuania 3 1 Friendly
+1926 190 away Estonia Poland 2 0 Friendly
+1926 209 home Estonia Sweden 1 7 Friendly
+1926 253 away Estonia Finland 1 1 Friendly
+1926 267 away Estonia Latvia 0 1 Friendly
+1927 171 home Estonia Latvia 4 1 Friendly
+1927 187 away Estonia Sweden 3 1 Friendly
+1927 227 home Estonia Finland 2 1 Friendly
+1927 230 away Estonia Lithuania 0 5 Friendly
+1927 273 away Estonia Latvia 4 1 Friendly
+1928 195 home Estonia Sweden 0 1 Friendly
+1928 212 home Estonia Lithuania 6 0 Baltic Cup
+1928 213 home Estonia Latvia 0 1 Baltic Cup
+1928 229 away Estonia Finland 2 2 Friendly
+1928 271 away Estonia Latvia 1 1 Friendly
+1929 193 away Estonia Sweden 4 1 Friendly
+1929 211 home Estonia Finland 1 1 Friendly
+1929 232 home Estonia Lithuania 5 2 Baltic Cup
+1929 233 away Estonia Latvia 2 2 Baltic Cup
+1929 244 away Estonia Finland 2 1 Friendly
+1929 266 home Estonia Latvia 4 1 Friendly
+1930 182 home Estonia Latvia 1 1 Friendly
+1930 204 home Estonia Sweden 1 5 Friendly
+1930 223 home Estonia Finland 4 0 Friendly
+1930 232 away Estonia Lithuania 2 1 Baltic Cup
+1930 233 away Estonia Latvia 3 2 Baltic Cup
+1930 261 away Estonia Lithuania 4 0 Friendly
+1931 152 away Estonia Latvia 0 1 Friendly
+1931 164 home Estonia Lithuania 4 1 Friendly
+1931 172 away Estonia Finland 3 1 Friendly
+1931 194 away Estonia Sweden 3 1 Friendly
+1931 247 home Estonia Lithuania 2 0 Baltic Cup
+1931 249 home Estonia Latvia 3 1 Baltic Cup
+1931 275 away Estonia Latvia 2 1 Friendly
+1932 156 home Estonia Latvia 3 0 Friendly
+1932 160 away Estonia Norway 3 0 Friendly
+1932 201 home Estonia Sweden 1 3 Friendly
+1932 223 away Estonia Lithuania 1 0 Friendly
+1932 234 home Estonia Finland 0 3 Friendly
+1932 246 away Estonia Lithuania 2 1 Baltic Cup
+1932 247 away Estonia Latvia 1 0 Baltic Cup
+1933 152 away Estonia Latvia 2 0 Friendly
+1933 166 away Estonia Sweden 6 2 World Cup qualifier
+1933 206 home Estonia Lithuania 2 1 Friendly
+1933 226 home Estonia Latvia 2 1 Friendly
+1933 233 away Estonia Finland 2 1 Friendly
+1933 250 away Estonia Lithuania 1 1 Baltic Cup
+1933 251 away Estonia Latvia 1 0 Baltic Cup
+1933 253 away Estonia Lithuania 0 5 Friendly
+1934 184 away Estonia Lithuania 1 1 Friendly
+1934 225 home Estonia Finland 1 1 Friendly
+1934 227 home Estonia Hungary 2 2 Friendly
+1935 167 away Estonia Latvia 1 1 Friendly
+1935 174 home Estonia Lithuania 2 2 Friendly
+1935 195 home Estonia Sweden 1 2 Friendly
+1935 224 away Estonia Finland 2 2 Friendly
+1935 237 home Estonia Lithuania 1 2 Baltic Cup
+1935 239 home Estonia Latvia 1 1 Baltic Cup
+1935 263 away Estonia Germany 5 0 Friendly
+1935 266 away Estonia Lithuania 2 2 Friendly
+1936 152 home Estonia Latvia 3 4 Friendly
+1936 185 away Estonia Lithuania 2 0 Friendly
+1936 237 home Estonia Finland 2 2 Friendly
+1936 247 away Estonia Lithuania 1 2 Baltic Cup
+1936 248 away Estonia Latvia 2 1 Baltic Cup
+1937 158 away Estonia Lithuania 1 2 Friendly
+1937 175 away Estonia Sweden 7 2 World Cup qualifier
+1937 200 home Estonia Romania 2 1 Friendly
+1937 236 away Estonia Finland 0 1 World Cup qualifier
+1937 246 away Estonia Germany 4 1 World Cup qualifier
+1937 252 home Estonia Latvia 1 1 Baltic Cup
+1937 253 away Estonia Lithuania 0 4 Baltic Cup
+1937 255 away Estonia Latvia 2 0 Baltic Cup
+1937 267 away Estonia Latvia 3 1 Friendly
+1938 155 away Estonia Norway 1 0 Friendly
+1938 166 away Estonia Lithuania 0 2 Friendly
+1938 206 home Estonia Latvia 0 2 Friendly
+1938 234 home Estonia Finland 1 3 Friendly
+1938 251 home Estonia Lithuania 3 1 Baltic Cup
+1938 253 home Estonia Latvia 1 1 Baltic Cup
+1939 184 home Estonia Germany 0 2 Friendly
+1939 213 away Estonia Latvia 3 3 Friendly
+1939 221 away Estonia Finland 4 2 Friendly
+1939 244 home Estonia Lithuania 0 1 Friendly
+1940 204 home Estonia Latvia 2 1 Friendly
+1940 228 away Estonia Lithuania 2 0 Friendly
+1940 255 away Estonia Lithuania 1 1 Baltic Cup
+1940 256 away Estonia Latvia 2 2 Baltic Cup
+1942 220 away Estonia Latvia 4 0 Friendly
+1942 235 home Estonia Latvia 1 6 Friendly
+1991 325 away Estonia Lithuania 4 1 Baltic Cup
+1991 326 away Estonia Latvia 2 0 Baltic Cup
+1992 158 home Estonia Slovenia 1 1 Friendly
+1992 201 away Estonia Latvia 2 1 Baltic Cup
+1992 202 home Estonia Lithuania 1 1 Baltic Cup
+1992 233 home Estonia Switzerland 0 6 World Cup qualifier
+1992 304 away Estonia Malta 0 0 World Cup qualifier
+1993 51 away Estonia Finland 0 0 Baltic Tournament
+1993 52 away Estonia Latvia 2 0 Baltic Tournament
+1993 100 away Estonia Slovenia 2 0 Friendly
+1993 107 away Estonia Italy 2 0 World Cup qualifier
+1993 136 home Estonia Malta 0 1 World Cup qualifier
+1993 143 home Estonia Scotland 0 3 World Cup qualifier
+1993 157 away Estonia Scotland 3 1 World Cup qualifier
+1993 188 home Estonia Latvia 0 2 Baltic Cup
+1993 190 home Estonia Lithuania 2 1 Baltic Cup
+1993 253 home Estonia Portugal 0 2 World Cup qualifier
+1993 270 home Estonia Italy 0 3 World Cup qualifier
+1993 305 away Estonia Liechtenstein 0 2 Friendly
+1993 320 away Estonia Portugal 3 0 World Cup qualifier
+1993 327 away Estonia Switzerland 4 0 World Cup qualifier
+1994 71 away Estonia Cyprus 2 0 Friendly
+1994 131 away Estonia UnitedStates 4 0 Friendly
+1994 147 home Estonia Wales 1 2 Friendly
+1994 156 away Estonia Macedonia 2 0 Friendly
+1994 215 away Estonia Lithuania 3 0 Baltic Cup
+1994 216 away Estonia Latvia 2 0 Baltic Cup
+1994 233 away Estonia Iceland 4 0 Friendly
+1994 252 home Estonia Croatia 0 2 European Cup qualifier
+1994 287 home Estonia Italy 0 2 European Cup qualifier
+1994 305 home Estonia Finland 0 7 Friendly
+1994 316 away Estonia Latvia 0 0 Friendly
+1994 323 away Estonia Ukraine 3 0 European Cup qualifier
+1995 4 away Estonia Vietnam 1 0 Friendly tournament
+1995 37 away Estonia Norway 7 0 Friendly
+1995 46 away Estonia Cyprus 3 1 Friendly
+1995 87 away Estonia Italy 4 1 European Cup qualifier
+1995 91 away Estonia Slovenia 3 0 European Cup qualifier
+1995 119 home Estonia Ukraine 0 1 European Cup qualifier
+1995 143 away Estonia Latvia 2 0 Baltic Cup
+1995 144 away Estonia Lithuania 7 0 Baltic Cup
+1995 166 home Estonia Slovenia 1 3 European Cup qualifier
+1995 233 home Estonia Lithuania 0 1 European Cup qualifier
+1995 251 away Estonia Croatia 7 1 European Cup qualifier
+1995 290 away Estonia Lithuania 5 0 European Cup qualifier
+1996 47 home Estonia Azerbaijan 0 0 Friendly
+1996 51 away Estonia Cyprus 1 0 Friendly
+1996 55 home Estonia FaroeIslands 2 2 Friendly
+1996 117 home Estonia Iceland 0 3 Friendly
+1996 153 home Estonia Turkey 0 0 Friendly
+1996 193 home Estonia Latvia 1 1 Baltic Cup
+1996 195 home Estonia Lithuania 1 1 Baltic Cup
+1996 248 away Estonia Belarus 1 0 World Cup qualifier
+1996 284 home Estonia Belarus 1 0 World Cup qualifier
+1996 309 away Estonia Finland 2 2 Friendly
+1996 323 away Estonia Andorra 1 6 Friendly
+1996 326 home Estonia Indonesia 3 0 Friendly
+1997 26 away Estonia Lebanon 2 0 Friendly
+1997 42 home Estonia Scotland 0 0 World Cup qualifier
+1997 63 home Estonia Azerbaijan 2 0 Friendly
+1997 91 away Estonia Scotland 2 0 World Cup qualifier
+1997 123 away Estonia Austria 2 0 World Cup qualifier
+1997 142 home Estonia Latvia 1 3 World Cup qualifier
+1997 159 home Estonia Azerbaijan 1 0 Friendly
+1997 163 home Estonia Sweden 2 3 World Cup qualifier
+1997 177 home Estonia Andorra 4 1 Friendly
+1997 195 away Estonia Lithuania 2 1 Baltic Cup
+1997 196 away Estonia Latvia 2 1 Baltic Cup
+1997 223 home Estonia FaroeIslands 0 2 Friendly
+1997 237 home Estonia Austria 0 3 World Cup qualifier
+1997 254 away Estonia Latvia 1 0 World Cup qualifier
+1997 290 away Estonia Sweden 1 0 World Cup qualifier
+1997 337 away Estonia Philippines 0 1 Friendly
+1998 133 away Estonia Mexico 6 0 Friendly
+1998 140 home Estonia Azerbaijan 0 0 Friendly
+1998 159 home Estonia FaroeIslands 5 0 European Cup qualifier
+1998 177 home Estonia Andorra 2 1 Friendly
+1998 180 home Estonia Latvia 0 2 Baltic Cup
+1998 183 home Estonia Lithuania 0 0 Baltic Cup
+1998 237 home Estonia Moldova 0 1 Friendly
+1998 253 away Estonia Bosnia 1 1 European Cup qualifier
+1998 271 home Estonia Egypt 2 2 Friendly
+1998 289 away Estonia Scotland 3 2 European Cup qualifier
+1998 293 away Estonia Czechia 4 1 European Cup qualifier
+1998 328 away Estonia Georgia 3 1 Friendly
+1998 331 away Estonia Armenia 2 1 Friendly
+1998 338 away Estonia Azerbaijan 2 1 Friendly
+1999 18 away Estonia Israel 7 0 Friendly tournament
+1999 22 home Estonia Norway 3 3 Friendly tournament
+1999 65 away Estonia Romania 2 0 Friendly
+1999 68 home Estonia Azerbaijan 2 2 Friendly
+1999 78 away Estonia Cyprus 1 2 Friendly
+1999 93 away Estonia Lithuania 1 2 European Cup qualifier
+1999 160 home Estonia Czechia 0 2 European Cup qualifier
+1999 164 home Estonia Lithuania 1 2 European Cup qualifier
+1999 235 home Estonia Armenia 2 0 Friendly
+1999 252 away Estonia FaroeIslands 0 2 European Cup qualifier
+1999 256 home Estonia Scotland 0 0 European Cup qualifier
+1999 288 home Estonia Bosnia 1 4 European Cup qualifier
+1999 309 home Estonia Iraq 1 1 Friendly tournament
+1999 311 away Estonia UnitedArab 2 2 Friendly tournament
+1999 313 home Estonia Turkmenistan 1 1 Friendly tournament
+1999 359 away Estonia Greece 2 2 Friendly
+2000 54 away Estonia Finland 4 2 King's Cup
+2000 56 away Estonia Thailand 2 1 King's Cup
+2000 119 away Estonia Luxembourg 1 1 Friendly
+2000 159 home Estonia Belarus 2 0 Friendly
+2000 166 home Estonia Georgia 1 0 Friendly
+2000 233 home Estonia Andorra 1 0 World Cup qualifier
+2000 251 home Estonia Portugal 1 3 World Cup qualifier
+2000 286 away Estonia Andorra 1 2 World Cup qualifier
+2000 290 away Estonia Ireland 2 0 World Cup qualifier
+2000 325 home Estonia Kyrgyzstan 1 0 Friendly
+2000 351 away Estonia HongKong 1 2 Friendly
+2001 81 away Estonia Egypt 3 3 Friendly
+2001 90 away Estonia Cyprus 2 2 World Cup qualifier
+2001 118 away Estonia Moldova 0 0 Friendly
+2001 133 home Estonia Finland 1 1 Friendly
+2001 157 home Estonia Holland 2 4 World Cup qualifier
+2001 161 home Estonia Ireland 0 2 World Cup qualifier
+2001 189 away Estonia Latvia 3 1 Baltic Cup
+2001 190 away Estonia Lithuania 5 2 Baltic Cup
+2001 232 home Estonia Cyprus 2 2 World Cup qualifier
+2001 253 away Estonia Holland 5 0 World Cup qualifier
+2001 285 away Estonia Portugal 5 0 World Cup qualifier
+2001 320 away Estonia Greece 4 2 Friendly
+2001 324 home Estonia Kazakhstan 0 0 Friendly
+2002 76 home Estonia SaudiArabia 2 0 Friendly
+2002 89 home Estonia Russia 2 1 Friendly
+2002 142 away Estonia Poland 1 0 Friendly
+2002 145 away Estonia SanMarino 0 1 Friendly
+2002 189 home Estonia Azerbaijan 0 0 Friendly
+2002 193 away Estonia Kazakhstan 1 1 Friendly
+2002 238 home Estonia Moldova 1 0 Friendly
+2002 255 away Estonia Croatia 0 0 European Cup qualifier
+2002 291 home Estonia NewZealand 3 2 Friendly
+2002 295 home Estonia Belgium 0 1 European Cup qualifier
+2002 330 home Estonia Iceland 2 0 Friendly
+2003 40 away Estonia Ecuador 1 0 Friendly
+2003 43 away Estonia Ecuador 2 1 Friendly
+2003 47 away Estonia China 1 0 Friendly
+2003 91 home Estonia Canada 2 1 Friendly
+2003 95 home Estonia Bulgaria 0 0 European Cup qualifier
+2003 123 away Estonia Andorra 0 2 European Cup qualifier
+2003 162 home Estonia Andorra 2 0 European Cup qualifier
+2003 166 home Estonia Croatia 0 1 European Cup qualifier
+2003 189 home Estonia Lithuania 1 5 Baltic Cup
+2003 191 home Estonia Latvia 0 0 Baltic Cup
+2003 237 home Estonia Poland 1 2 Friendly
+2003 254 away Estonia Bulgaria 2 0 European Cup qualifier
+2003 290 away Estonia Belgium 2 0 European Cup qualifier
+2003 325 away Estonia Albania 2 0 Friendly
+2003 329 away Estonia Hungary 0 1 Friendly
+2003 358 away Estonia SaudiArabia 1 1 Friendly
+2003 361 away Estonia Oman 3 1 Friendly
+2004 47 away Estonia Malta 5 2 Friendly tournament
+2004 49 home Estonia Moldova 1 0 Friendly tournament
+2004 93 home Estonia NorthernIreland 0 1 Friendly
+2004 121 home Estonia Albania 1 1 Friendly
+2004 151 home Estonia Scotland 0 1 Friendly
+2004 154 home Estonia Denmark 2 2 Friendly
+2004 161 away Estonia Czechia 2 0 Friendly
+2004 166 home Estonia Macedonia 2 4 Friendly
+2004 235 away Estonia Liechtenstein 1 2 World Cup qualifier
+2004 252 home Estonia Luxembourg 4 0 World Cup qualifier
+2004 256 away Estonia Portugal 4 0 World Cup qualifier
+2004 292 away Estonia Latvia 2 2 World Cup qualifier
+2004 327 away Estonia Russia 4 0 World Cup qualifier
+2004 340 away Estonia Thailand 0 0 King's Cup
+2004 343 away Estonia Hungary 5 0 King's Cup
+2005 40 away Estonia Venezuela 3 0 Friendly
+2005 88 home Estonia Slovakia 1 2 World Cup qualifier
+2005 92 home Estonia Russia 1 1 World Cup qualifier
+2005 113 home Estonia Norway 1 2 Friendly
+2005 159 home Estonia Liechtenstein 2 0 World Cup qualifier
+2005 163 home Estonia Portugal 0 1 World Cup qualifier
+2005 234 home Estonia Bosnia 1 0 Friendly
+2005 251 home Estonia Latvia 2 1 World Cup qualifier
+2005 287 away Estonia Slovakia 1 0 World Cup qualifier
+2005 291 away Estonia Luxembourg 0 2 World Cup qualifier
+2005 322 away Estonia Finland 2 2 Friendly
+2005 326 away Estonia Poland 3 1 Friendly
+2006 63 away Estonia NorthernIreland 1 0 Friendly
+2006 152 home Estonia Turkey 1 1 Friendly
+2006 155 home Estonia NewZealand 1 1 Friendly
+2006 233 home Estonia Macedonia 0 1 European Cup qualifier
+2006 250 home Estonia Israel 0 1 European Cup qualifier
+2006 290 away Estonia Russia 2 0 European Cup qualifier
+2006 325 home Estonia Belarus 2 1 Friendly
+2007 34 away Estonia Poland 4 0 Friendly
+2007 38 away Estonia Slovenia 1 0 Friendly
+2007 86 home Estonia Russia 0 2 European Cup qualifier
+2007 90 away Estonia Israel 4 0 European Cup qualifier
+2007 157 home Estonia Croatia 0 1 European Cup qualifier
+2007 161 home Estonia England 0 3 European Cup qualifier
+2007 239 home Estonia Andorra 2 1 European Cup qualifier
+2007 256 away Estonia Croatia 2 0 European Cup qualifier
+2007 260 away Estonia Macedonia 1 1 European Cup qualifier
+2007 292 away Estonia England 3 0 European Cup qualifier
+2007 296 home Estonia Montenegro 0 1 Friendly
+2007 319 away Estonia SaudiArabia 2 0 Friendly
+2007 327 away Estonia Andorra 0 2 European Cup qualifier
+2007 331 away Estonia Uzbekistan 0 0 Friendly
+2008 58 away Estonia Poland 2 0 Friendly
+2008 88 home Estonia Canada 2 0 Friendly
+2008 151 home Estonia Georgia 1 1 Friendly
+2008 154 away Estonia Latvia 1 0 Baltic Cup
+2008 155 away Estonia Lithuania 1 0 Baltic Cup
+2008 159 home Estonia FaroeIslands 4 3 Friendly
+2008 237 home Estonia Malta 2 1 Friendly
+2008 254 away Estonia Belgium 3 2 World Cup qualifier
+2008 258 away Estonia Bosnia 7 0 World Cup qualifier
+2008 290 home Estonia Spain 0 3 World Cup qualifier
+2008 294 home Estonia Turkey 0 0 World Cup qualifier
+2008 322 home Estonia Latvia 1 1 Friendly
+2008 328 home Estonia Moldova 1 0 Friendly
+2008 332 home Estonia Lithuania 1 1 Friendly
+2009 42 away Estonia Kazakhstan 2 0 Friendly
+2009 90 away Estonia Armenia 2 2 World Cup qualifier
+2009 94 home Estonia Armenia 1 0 World Cup qualifier
+2009 153 away Estonia Wales 1 0 Friendly
+2009 161 home Estonia EquatorialGuinea 3 0 Friendly
+2009 165 home Estonia Portugal 0 0 Friendly
+2009 229 home Estonia Brazil 0 1 Friendly
+2009 253 away Estonia Turkey 4 2 World Cup qualifier
+2009 257 away Estonia Spain 3 0 World Cup qualifier
+2009 289 home Estonia Bosnia 0 2 World Cup qualifier
+2009 293 home Estonia Belgium 2 0 World Cup qualifier
+2009 324 home Estonia Albania 0 0 Friendly
+2009 371 home Estonia Angola 1 0 Friendly
+2010 65 away Estonia Georgia 2 1 Friendly
+2010 145 home Estonia Finland 2 0 Friendly
+2010 150 home Estonia Croatia 0 0 Friendly
+2010 174 home Estonia Latvia 0 0 Baltic Cup
+2010 175 away Estonia Lithuania 2 0 Baltic Cup
+2010 228 home Estonia FaroeIslands 2 1 European Cup qualifier
+2010 251 home Estonia Italy 1 2 European Cup qualifier
+2010 255 home Estonia Uzbekistan 3 3 Friendly
+2010 287 away Estonia Serbia 1 3 European Cup qualifier
+2010 291 home Estonia Slovenia 0 1 European Cup qualifier
+2010 327 home Estonia Liechtenstein 1 1 Friendly
+2010 359 away Estonia China 3 0 Friendly
+2010 363 away Estonia Qatar 2 0 Friendly
+2011 40 home Estonia Bulgaria 2 2 Friendly
+2011 87 home Estonia Uruguay 2 0 Friendly
+2011 91 home Estonia Serbia 1 1 European Cup qualifier
+2011 158 away Estonia Italy 3 0 European Cup qualifier
+2011 162 away Estonia FaroeIslands 2 0 European Cup qualifier
+2011 174 away Estonia Chile 4 0 Friendly
+2011 178 away Estonia Uruguay 3 0 Friendly
+2011 227 away Estonia Turkey 3 0 Friendly
+2011 250 away Estonia Slovenia 1 2 European Cup qualifier
+2011 254 home Estonia NorthernIreland 4 1 European Cup qualifier
+2011 286 away Estonia NorthernIreland 1 2 European Cup qualifier
+2011 290 home Estonia Ukraine 0 2 Friendly
+2011 321 home Estonia Ireland 0 4 European Cup qualifier
+2011 325 away Estonia Ireland 1 1 European Cup qualifier
+2012 60 home Estonia ElSalvador 2 0 Friendly
+2012 149 away Estonia Croatia 3 1 Friendly
+2012 152 away Estonia Ukraine 4 0 Friendly
+2012 156 home Estonia Finland 1 2 Baltic Cup
+2012 158 home Estonia Lithuania 1 0 Baltic Cup
+2012 160 away Estonia France 4 0 Friendly
+2012 232 home Estonia Poland 1 0 Friendly
+2012 255 home Estonia Romania 0 2 World Cup qualifier
+2012 259 away Estonia Turkey 3 0 World Cup qualifier
+2012 291 home Estonia Hungary 0 1 World Cup qualifier
+2012 295 away Estonia Andorra 0 1 World Cup qualifier
+2012 318 away Estonia Oman 1 2 Friendly
+2012 324 away Estonia UnitedArab 2 1 Friendly
+2013 37 away Estonia Scotland 1 0 Friendly
+2013 84 away Estonia Holland 3 0 World Cup qualifier
+2013 88 home Estonia Andorra 2 0 World Cup qualifier
+2013 158 home Estonia Belarus 0 2 Friendly
+2013 162 home Estonia TrinidadTobago 1 0 Friendly
+2013 166 home Estonia Kyrgyzstan 1 1 Friendly
+2013 231 home Estonia Latvia 1 1 Friendly
+2013 254 home Estonia Holland 2 2 World Cup qualifier
+2013 258 away Estonia Hungary 5 1 World Cup qualifier
+2013 290 home Estonia Turkey 0 2 World Cup qualifier
+2013 294 away Estonia Romania 2 0 World Cup qualifier
+2013 325 home Estonia Azerbaijan 2 1 Friendly
+2013 329 away Estonia Liechtenstein 0 3 Friendly
+2014 67 away Estonia Gibraltar 0 2 Friendly

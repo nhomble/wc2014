@@ -1,0 +1,8613 @@
+May 16
+1901	Uruguay
+Argentina	2
+3	Friendly
+in Uruguay	-10
++10	1690
+1810	-
+-	4
+3
+July 20
+1902	Uruguay
+Argentina	0
+6	Friendly
+in Uruguay	-20
++20	1670
+1830	0
+0	4
+3
+September 13
+1903	Argentina
+Uruguay	2
+3	Friendly
+in Argentina	-16
++16	1814
+1686	0
+0	3
+5
+August 15
+1905	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	-9
++9	1805
+1695	0
++2	3
+6
+July 09
+1906	Argentina
+South Africa	0
+1	Friendly
+in Argentina	-15
++15	1790
+1715	0
+-	2
+7
+August 15
+1906	Argentina
+Uruguay	2
+0	Lipton Cup
+in Argentina	+11
+-11	1801
+1684	0
+0	2
+8
+October 21
+1906	Uruguay
+Argentina	1
+2	Newton Cup
+in Uruguay	-14
++14	1670
+1815	0
+0	8
+2
+August 15
+1907	Uruguay
+Argentina	1
+2	Lipton Cup
+in Uruguay	-13
++13	1657
+1828	0
+0	9
+2
+October 06
+1907	Argentina
+Uruguay	2
+1	Newton Cup
+in Argentina	+5
+-5	1833
+1652	0
+0	2
+9
+August 15
+1908	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	+3
+-3	1655
+1830	0
+0	11
+2
+September 13
+1908	Argentina
+Uruguay	2
+1	Newton Cup
+in Argentina	+5
+-5	1835
+1650	0
+0	2
+11
+October 04
+1908	Argentina
+Uruguay	0
+1	Argentine Ministry of Education Cup
+in Argentina	-25
++25	1810
+1675	-1
++2	3
+9
+August 15
+1909	Argentina
+Uruguay	2
+1	Lipton Cup
+in Argentina	+6
+-6	1816
+1669	0
+0	4
+10
+September 19
+1909	Uruguay
+Argentina	2
+2	Newton Cup
+in Uruguay	+2
+-2	1671
+1814	0
+0	10
+4
+October 10
+1909	Argentina
+Uruguay	3
+1	Argentine Ministry of Education Cup
+in Argentina	+9
+-9	1823
+1662	0
+0	4
+10
+May 27
+1910	Argentina
+Chile	3
+1	Friendly
+in Argentina	+2
+-2	1825
+1498	0
+-	4
+21
+June 05
+1910	Argentina
+Chile	5
+1	Copa América
+in Argentina	+6
+-6	1831
+1467	0
+0	4
+21
+June 12
+1910	Argentina
+Uruguay	4
+1	Copa América
+in Argentina	+17
+-17	1848
+1670	+1
+0	3
+10
+August 15
+1910	Uruguay
+Argentina	3
+1	Lipton Cup
+in Uruguay	+27
+-27	1697
+1821	+1
+-1	9
+4
+September 11
+1910	Chile
+Argentina	0
+3	Friendly
+in Chile	-7
++7	1460
+1828	0
+0	21
+4
+November 13
+1910	Argentina
+Uruguay	1
+1	Argentine Ministry of Education Cup
+in Argentina	-9
++9	1819
+1706	0
+0	4
+9
+November 27
+1910	Argentina
+Uruguay	2
+6	Argentine Ministry of Education Cup
+in Argentina	-43
++43	1776
+1749	0
++4	4
+5
+April 30
+1911	Uruguay
+Argentina	1
+2	Friendly
+in Uruguay	-12
++12	1737
+1788	0
+0	6
+4
+August 15
+1911	Argentina
+Uruguay	0
+2	Lipton Cup
+in Argentina	-32
++32	1756
+1769	-1
++2	5
+4
+September 17
+1911	Uruguay
+Argentina	2
+3	Newton Cup
+in Uruguay	-20
++20	1749
+1776	-2
++1	6
+4
+October 08
+1911	Uruguay
+Argentina	1
+1	Uruguay Ministry of Education Cup
+in Uruguay	-3
++3	1746
+1779	0
+0	6
+4
+October 22
+1911	Argentina
+Uruguay	2
+0	Argentine Ministry of Education Cup
+in Argentina	+14
+-14	1793
+1732	0
+-1	4
+7
+October 29
+1911	Uruguay
+Argentina	3
+0	Uruguay Ministry of Education Cup
+in Uruguay	+23
+-23	1755
+1770	+2
+0	5
+4
+February 25
+1912	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+10
+-10	1780
+1745	0
+-1	4
+6
+August 15
+1912	Uruguay
+Argentina	2
+0	Lipton Cup
+in Uruguay	+18
+-18	1763
+1762	+1
+-3	6
+7
+August 25
+1912	Uruguay
+Argentina	3
+0	Uruguay Ministry of Education Cup
+in Uruguay	+19
+-19	1782
+1743	+2
+0	4
+7
+September 22
+1912	Argentina
+Uruguay	0
+1	Argentine Ministry of Education Cup
+in Argentina	-18
++18	1725
+1800	-2
+0	9
+4
+October 06
+1912	Argentina
+Uruguay	3
+3	Newton Cup
+in Argentina	-1
++1	1724
+1801	0
+0	9
+4
+December 01
+1912	Uruguay
+Argentina	1
+3	Montevideo Cup
+in Uruguay	-33
++33	1768
+1757	-2
++2	6
+7
+April 27
+1913	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-3
++3	1754
+1771	0
++1	8
+5
+June 15
+1913	Argentina
+Uruguay	1
+1	Saenz Pena Cup
+in Argentina	-4
++4	1750
+1775	0
+0	8
+5
+July 09
+1913	Argentina
+Uruguay	2
+1	Saenz Pena Cup
+in Argentina	+12
+-12	1762
+1763	+1
+-1	7
+6
+July 13
+1913	Uruguay
+Argentina	5
+4	Friendly
+in Uruguay	+7
+-7	1770
+1755	+1
+-1	5
+8
+August 15
+1913	Argentina
+Uruguay	4
+0	Lipton Cup
+in Argentina	+21
+-21	1776
+1749	+3
+-3	5
+8
+August 31
+1913	Argentina
+Uruguay	2
+0	Argentine Ministry of Education Cup
+in Argentina	+15
+-15	1791
+1734	+1
+0	4
+8
+September 21
+1913	Chile
+Argentina	0
+2	Friendly
+in Chile	-6
++6	1454
+1797	0
+0	23
+4
+September 28
+1913	Argentina
+Uruguay	4
+0	Friendly
+in Argentina	+11
+-11	1808
+1723	0
+-1	4
+9
+October 05
+1913	Uruguay
+Argentina	1
+0	Uruguay Ministry of Education Cup
+in Uruguay	+14
+-14	1737
+1794	+1
+0	8
+4
+October 26
+1913	Uruguay
+Argentina	1
+0	Newton Cup
+in Uruguay	+13
+-13	1750
+1781	0
+-1	8
+5
+August 30
+1914	Uruguay
+Argentina	3
+2	Uruguay Ministry of Education Cup
+in Uruguay	+12
+-12	1762
+1769	0
+0	7
+6
+September 13
+1914	Argentina
+Uruguay	2
+1	Argentine Ministry of Education Cup
+in Argentina	+11
+-11	1780
+1751	0
+0	6
+7
+September 20
+1914	Argentina
+Brazil	3
+0	Friendly
+in Argentina	+14
+-14	1794
+1786	+2
+-	4
+5
+September 27
+1914	Argentina
+Brazil	0
+1	Roca Cup
+in Argentina	-20
++20	1774
+1806	-3
++1	7
+4
+July 18
+1915	Uruguay
+Argentina	2
+3	Uruguay Ministry of Education Cup
+in Uruguay	-18
++18	1733
+1792	-1
++1	9
+5
+August 15
+1915	Argentina
+Uruguay	2
+1	Lipton Cup
+in Argentina	+9
+-9	1801
+1724	0
+-1	5
+10
+September 12
+1915	Uruguay
+Argentina	2
+0	Newton Cup
+in Uruguay	+21
+-21	1745
+1780	+2
+-1	8
+6
+July 06
+1916	Argentina
+Chile	6
+1	Copa América
+in Argentina	+7
+-7	1787
+1435	+1
+0	5
+25
+July 10
+1916	Argentina
+Brazil	1
+1	Copa América
+in Argentina	-7
++7	1780
+1793	-2
++1	6
+4
+July 12
+1916	Argentina
+Chile	1
+0	Friendly
+in Argentina	+2
+-2	1782
+1453	0
+0	6
+25
+July 17
+1916	Argentina
+Uruguay	0
+0	Copa América
+in Argentina	-7
++7	1775
+1795	0
+0	6
+4
+August 15
+1916	Argentina
+Uruguay	3
+1	Newton Cup
+in Argentina	+17
+-17	1792
+1764	+3
+-3	4
+8
+August 15
+1916	Uruguay
+Argentina	1
+2	Lipton Cup
+in Uruguay	-18
++18	1746
+1810	-3
++3	8
+4
+October 01
+1916	Argentina
+Uruguay	7
+2	Argentine Ministry of Education Cup
+in Argentina	+17
+-17	1827
+1729	0
+-4	4
+12
+October 01
+1916	Uruguay
+Argentina	0
+1	Uruguay Ministry of Education Cup
+in Uruguay	-15
++15	1714
+1842	-4
+0	12
+4
+October 29
+1916	Uruguay
+Argentina	3
+1	Friendly
+in Uruguay	+16
+-16	1730
+1826	+3
+0	9
+4
+July 18
+1917	Uruguay
+Argentina	0
+2	Uruguay Ministry of Education Cup
+in Uruguay	-23
++23	1707
+1849	-2
+0	11
+4
+August 15
+1917	Argentina
+Uruguay	1
+0	Lipton Cup
+in Argentina	+6
+-6	1855
+1701	0
+0	4
+11
+September 02
+1917	Uruguay
+Argentina	1
+0	Newton Cup
+in Uruguay	+17
+-17	1718
+1838	+1
+0	10
+4
+October 03
+1917	Argentina
+Brazil	4
+2	Copa América
+in Uruguay	+31
+-31	1869
+1748	0
+0	4
+7
+October 06
+1917	Argentina
+Chile	1
+0	Copa América
+in Uruguay	+4
+-4	1873
+1436	0
+0	4
+25
+October 14
+1917	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+26
+-26	1790
+1847	+2
+0	5
+4
+October 22
+1917	Argentina
+Chile	1
+1	Friendly
+in Argentina	-9
++9	1838
+1428	0
+0	4
+25
+July 18
+1918	Uruguay
+Argentina	1
+1	Uruguay Ministry of Education Cup
+in Uruguay	-3
++3	1796
+1841	0
+0	6
+4
+July 28
+1918	Uruguay
+Argentina	3
+1	Uruguay Ministry of Education Cup
+in Uruguay	+19
+-19	1815
+1822	0
+0	6
+4
+August 15
+1918	Argentina
+Uruguay	0
+0	Argentine Ministry of Education Cup
+in Argentina	-4
++4	1818
+1819	-1
++2	5
+4
+August 25
+1918	Argentina
+Uruguay	2
+1	Argentine Ministry of Education Cup
+in Argentina	+11
+-11	1829
+1808	+1
+-2	4
+6
+September 20
+1918	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	-3
++3	1805
+1832	0
+0	6
+4
+September 29
+1918	Argentina
+Uruguay	2
+0	Newton Cup
+in Argentina	+15
+-15	1847
+1790	0
+0	4
+6
+May 11
+1919	Paraguay
+Argentina	1
+5	Friendly
+in Paraguay	-16
++16	1684
+1863	-
+0	12
+4
+May 13
+1919	Uruguay
+Argentina	3
+2	Copa América
+in Brazil	+30
+-30	1820
+1833	0
+-1	6
+5
+May 15
+1919	Paraguay
+Argentina	0
+3	Friendly
+in Paraguay	-15
++15	1669
+1848	0
++1	12
+4
+May 18
+1919	Brazil
+Argentina	3
+1	Copa América
+in Brazil	+39
+-39	1769
+1809	0
+-2	8
+6
+May 21
+1919	Paraguay
+Argentina	1
+2	Friendly
+in Paraguay	-9
++9	1660
+1818	0
+0	12
+6
+May 22
+1919	Argentina
+Chile	4
+1	Copa América
+in Brazil	+8
+-8	1826
+1403	0
+0	6
+26
+May 24
+1919	Paraguay
+Argentina	1
+2	Friendly
+in Paraguay	-8
++8	1652
+1834	-1
++1	13
+5
+June 01
+1919	Brazil
+Argentina	3
+3	Friendly
+in Brazil	-2
++2	1786
+1836	0
++1	7
+4
+July 18
+1919	Uruguay
+Argentina	4
+1	Uruguay Ministry of Education Cup
+in Uruguay	+21
+-21	1829
+1815	+1
+-2	5
+6
+August 24
+1919	Uruguay
+Argentina	2
+1	Newton Cup
+in Uruguay	+10
+-10	1839
+1805	+1
+0	4
+6
+September 07
+1919	Argentina
+Uruguay	1
+2	Lipton Cup
+in Argentina	-18
++18	1787
+1857	0
++1	6
+3
+October 19
+1919	Argentina
+Uruguay	6
+1	Argentine Ministry of Education Cup
+in Argentina	+27
+-27	1814
+1830	0
+-1	6
+4
+December 07
+1919	Uruguay
+Argentina	4
+2	Friendly
+in Uruguay	+10
+-10	1840
+1804	0
+0	4
+6
+July 18
+1920	Uruguay
+Argentina	2
+0	Uruguay Ministry of Education Cup
+in Uruguay	+14
+-14	1854
+1790	+1
+0	3
+6
+July 25
+1920	Argentina
+Uruguay	1
+3	Newton Cup
+in Argentina	-25
++25	1765
+1879	-2
++2	8
+1
+August 08
+1920	Argentina
+Uruguay	1
+0	Argentine Ministry of Education Cup
+in Argentina	+16
+-16	1781
+1863	+1
+-1	7
+2
+September 12
+1920	Argentina
+Uruguay	1
+1	Copa América
+in Chile	+6
+-6	1787
+1857	+1
+0	8
+2
+September 17
+1920	Chile
+Argentina	1
+1	Copa América
+in Chile	+17
+-17	1412
+1770	0
+-2	30
+10
+September 25
+1920	Argentina
+Brazil	2
+0	Copa América
+in Chile	+35
+-35	1805
+1715	+3
+0	6
+11
+October 12
+1920	Argentina
+Brazil	3
+1	Friendly
+in Argentina	+8
+-8	1813
+1707	0
+-1	6
+12
+April 07
+1921	Paraguay
+Argentina	3
+1	Friendly
+in Paraguay	+18
+-18	1670
+1795	+1
+-1	13
+6
+April 14
+1921	Paraguay
+Argentina	2
+2	Friendly
+in Paraguay	+1
+-1	1671
+1794	0
+0	13
+7
+September 25
+1921	Chile
+Argentina	1
+4	Friendly
+in Chile	-6
++6	1401
+1800	0
+0	33
+7
+October 02
+1921	Argentina
+Brazil	1
+0	Copa América
+in Argentina	+12
+-12	1812
+1695	+1
+0	6
+14
+October 02
+1921	Chile
+Argentina	1
+1	Friendly
+in Chile	+7
+-7	1408
+1805	0
++1	33
+6
+October 16
+1921	Argentina
+Paraguay	3
+0	Copa América
+in Argentina	+18
+-18	1823
+1647	+1
+0	4
+15
+October 30
+1921	Argentina
+Uruguay	1
+0	Copa América
+in Argentina	+22
+-22	1845
+1860	+1
+0	3
+2
+January 22
+1922	Argentina
+Uruguay	1
+3	Friendly
+in Argentina	-18
++18	1827
+1882	0
+0	3
+2
+July 22
+1922	Uruguay
+Argentina	2
+2	Friendly
+in Uruguay	-4
++4	1878
+1831	0
+0	2
+3
+August 27
+1922	Argentina
+Paraguay	3
+3	Friendly
+in Argentina	-7
++7	1824
+1650	0
+0	3
+18
+September 28
+1922	Argentina
+Chile	4
+0	Copa América
+in Brazil	+9
+-9	1833
+1415	0
+0	3
+38
+October 08
+1922	Uruguay
+Argentina	1
+0	Copa América
+in Brazil	+22
+-22	1899
+1811	+1
+-1	1
+4
+October 15
+1922	Brazil
+Argentina	2
+0	Copa América
+in Brazil	+39
+-39	1739
+1772	+5
+-5	11
+9
+October 18
+1922	Argentina
+Paraguay	2
+0	Copa América
+in Brazil	+32
+-32	1804
+1684	+5
+-4	4
+17
+October 22
+1922	Argentina
+Uruguay	3
+2	Friendly
+in Argentina	+9
+-9	1813
+1851	-1
+0	5
+2
+October 22
+1922	Argentina
+Chile	1
+0	Friendly
+in Argentina	+1
+-1	1814
+1397	-1
+0	5
+38
+October 22
+1922	Brazil
+Argentina	2
+1	Roca Cup
+in Brazil	+13
+-13	1774
+1801	+1
+-1	10
+5
+November 11
+1922	Argentina
+Uruguay	4
+0	Friendly
+in Argentina	+16
+-16	1817
+1835	+1
+0	4
+2
+November 12
+1922	Uruguay
+Argentina	1
+0	Lipton Cup
+in Uruguay	+10
+-10	1845
+1807	0
+0	2
+4
+December 10
+1922	Uruguay
+Argentina	1
+0	Uruguay Ministry of Education Cup
+in Uruguay	+9
+-9	1854
+1798	0
+-1	2
+5
+December 17
+1922	Argentina
+Uruguay	2
+2	Newton Cup
+in Argentina	-2
++2	1796
+1856	-1
+0	6
+2
+May 20
+1923	Argentina
+Paraguay	0
+2	Rosa Chevalier Boutell Cup
+in Argentina	-36
++36	1760
+1691	-3
++2	10
+17
+May 25
+1923	Argentina
+Paraguay	1
+0	Rosa Chevalier Boutell Cup
+in Argentina	+8
+-8	1768
+1683	0
+-1	10
+18
+May 25
+1923	Uruguay
+Argentina	2
+0	Friendly
+in Uruguay	+8
+-8	1864
+1760	0
+0	2
+10
+June 24
+1923	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	0
+0	1760
+1864	0
+0	10
+2
+July 15
+1923	Argentina
+Uruguay	2
+2	Argentine Ministry of Education Cup
+in Argentina	0
+0	1760
+1864	0
+0	10
+2
+July 22
+1923	Uruguay
+Argentina	2
+2	Uruguay Ministry of Education Cup
+in Uruguay	-8
++8	1856
+1768	0
+0	2
+10
+August 25
+1923	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-5
++5	1851
+1773	0
+0	2
+10
+September 30
+1923	Uruguay
+Argentina	0
+2	Uruguay Ministry of Education Cup
+in Uruguay	-33
++33	1818
+1806	-2
++4	4
+6
+October 29
+1923	Argentina
+Paraguay	4
+3	Copa América
+in Uruguay	+17
+-17	1823
+1666	+1
+-1	4
+18
+November 18
+1923	Argentina
+Brazil	2
+1	Copa América
+in Uruguay	+20
+-20	1843
+1727	+3
+-1	2
+12
+December 02
+1923	Argentina
+Brazil	0
+2	Roca Cup
+in Argentina	-35
++35	1808
+1763	-5
++2	8
+10
+December 02
+1923	Uruguay
+Argentina	2
+0	Copa América
+in Uruguay	+23
+-23	1868
+1785	0
+-5	2
+8
+December 03
+1923	Argentina
+Chile	6
+0	Friendly
+in Argentina	+2
+-2	1787
+1394	0
+-1	8
+44
+December 08
+1923	Argentina
+Uruguay	2
+3	Friendly
+in Argentina	-11
++11	1776
+1879	-1
+0	9
+2
+December 09
+1923	Argentina
+Brazil	2
+0	Roca Cup
+in Argentina	+15
+-15	1791
+1748	+3
+-1	6
+11
+May 15
+1924	Paraguay
+Argentina	1
+3	Rosa Chevalier Boutell Cup
+in Paraguay	-21
++21	1652
+1812	0
++2	18
+4
+May 18
+1924	Paraguay
+Argentina	2
+1	Rosa Chevalier Boutell Cup
+in Paraguay	+18
+-18	1670
+1794	0
+-1	18
+5
+May 25
+1924	Argentina
+Uruguay	4
+0	Newton Cup
+in Argentina	+27
+-27	1821
+1852	+1
++1	4
+1
+May 25
+1924	Uruguay
+Argentina	2
+0	Lipton Cup
+in Uruguay	+14
+-14	1866
+1807	+1
++1	1
+4
+August 10
+1924	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	+2
+-2	1809
+1970	0
+0	4
+1
+August 31
+1924	Uruguay
+Argentina	2
+3	Uruguay Ministry of Education Cup
+in Uruguay	-25
++25	1945
+1834	0
++1	1
+3
+September 21
+1924	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-5
++5	1940
+1839	0
+0	1
+3
+October 02
+1924	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+10
+-10	1849
+1930	+1
+0	2
+1
+October 12
+1924	Argentina
+Paraguay	0
+0	Copa América
+in Uruguay	-12
++12	1837
+1682	-1
++1	3
+18
+October 25
+1924	Argentina
+Chile	2
+0	Copa América
+in Uruguay	+5
+-5	1842
+1385	0
+-1	3
+45
+November 02
+1924	Uruguay
+Argentina	0
+0	Copa América
+in Uruguay	-13
++13	1930
+1855	0
++1	1
+2
+November 16
+1924	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+5
+-5	1935
+1850	0
+0	1
+2
+January 05
+1925	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+10
+-10	1860
+1925	+1
+0	2
+1
+July 09
+1925	Argentina
+Paraguay	1
+1	Rosa Chevalier Boutell Cup
+in Argentina	-10
++10	1850
+1695	0
+0	3
+17
+July 12
+1925	Argentina
+Paraguay	1
+1	Rosa Chevalier Boutell Cup
+in Argentina	-9
++9	1841
+1704	-1
++1	4
+16
+November 29
+1925	Argentina
+Paraguay	2
+0	Copa América
+in Argentina	+18
+-18	1859
+1724	0
+-1	4
+13
+December 13
+1925	Argentina
+Brazil	4
+1	Copa América
+in Argentina	+24
+-24	1883
+1765	+1
+-3	3
+10
+December 20
+1925	Argentina
+Paraguay	3
+1	Copa América
+in Argentina	+10
+-10	1893
+1644	+1
+0	2
+20
+December 25
+1925	Argentina
+Brazil	2
+2	Copa América
+in Argentina	-13
++13	1880
+1807	-1
+0	3
+7
+May 29
+1926	Paraguay
+Argentina	1
+2	Rosa Chevalier Boutell Cup
+in Paraguay	-9
++9	1635
+1889	0
++1	21
+3
+June 03
+1926	Paraguay
+Argentina	1
+2	Rosa Chevalier Boutell Cup
+in Paraguay	-9
++9	1626
+1898	-1
++1	22
+2
+October 16
+1926	Argentina
+Bolivia	5
+0	Copa América
+in Chile	+7
+-7	1905
+1436	+1
+0	1
+45
+October 20
+1926	Argentina
+Paraguay	8
+0	Copa América
+in Chile	+20
+-20	1925
+1606	0
+-3	1
+25
+October 24
+1926	Uruguay
+Argentina	2
+0	Copa América
+in Chile	+41
+-41	1937
+1884	+2
+-3	1
+4
+October 31
+1926	Chile
+Argentina	1
+1	Copa América
+in Chile	+19
+-19	1440
+1865	+1
+0	45
+4
+July 14
+1927	Uruguay
+Argentina	0
+1	Newton Cup
+in Uruguay	-23
++23	1933
+1888	0
++1	1
+3
+August 30
+1927	Argentina
+Uruguay	0
+1	Lipton Cup
+in Argentina	-17
++17	1871
+1950	-1
+0	4
+1
+October 30
+1927	Argentina
+Bolivia	7
+1	Copa América
+in Peru	+7
+-7	1878
+1397	+1
+-2	3
+49
+November 20
+1927	Argentina
+Uruguay	3
+2	Copa América
+in Peru	+32
+-32	1910
+1941	+1
+0	2
+1
+November 27
+1927	Peru
+Argentina	1
+5	Copa América
+in Peru	-21
++21	1569
+1931	-1
+0	29
+2
+April 01
+1928	Portugal
+Argentina	0
+0	Friendly
+in Portugal	+5
+-5	1665
+1926	+1
+0	17
+2
+May 30
+1928	Argentina
+United States	11
+2	Olympic Games
+in the Netherlands	+23
+-23	1949
+1607	0
+-1	2
+23
+June 02
+1928	Argentina
+Belgium	6
+3	Olympic Games
+in the Netherlands	+12
+-12	1961
+1589	0
+-1	2
+26
+June 06
+1928	Argentina
+Egypt	6
+0	Olympic Games
+in the Netherlands	+23
+-23	1984
+1675	0
+-2	2
+18
+June 10
+1928	Argentina
+Uruguay	1
+1	Olympic Games
+in the Netherlands	+2
+-2	1986
+2007	0
+0	2
+1
+June 13
+1928	Uruguay
+Argentina	2
+1	Olympic Games
+in the Netherlands	+28
+-28	2035
+1958	0
+0	1
+2
+August 30
+1928	Argentina
+Uruguay	1
+0	Newton Cup
+in Argentina	+13
+-13	1971
+1988	0
+0	2
+1
+September 21
+1928	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	-5
++5	1983
+1976	0
+0	1
+2
+June 16
+1929	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+11
+-11	1987
+1972	+1
+-1	1
+2
+June 16
+1929	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-2
++2	1970
+1989	-1
++1	2
+1
+September 20
+1929	Uruguay
+Argentina	2
+1	Newton Cup
+in Uruguay	+12
+-12	1982
+1977	+1
+-1	1
+2
+September 28
+1929	Argentina
+Uruguay	0
+0	Lipton Cup
+in Argentina	-4
++4	1973
+1986	0
+0	2
+1
+November 03
+1929	Argentina
+Peru	3
+0	Copa América
+in Argentina	+5
+-5	1978
+1564	0
+-1	1
+31
+November 10
+1929	Argentina
+Paraguay	4
+1	Copa América
+in Argentina	+8
+-8	1986
+1667	0
+0	1
+16
+November 17
+1929	Argentina
+Uruguay	2
+0	Copa América
+in Argentina	+21
+-21	2007
+1897	0
+0	1
+3
+May 25
+1930	Argentina
+Uruguay	1
+1	Newton Cup
+in Argentina	-8
++8	1999
+1905	0
+0	1
+4
+July 15
+1930	Argentina
+France	1
+0	World Cup
+in Uruguay	+4
+-4	2003
+1529	0
+-2	1
+36
+July 19
+1930	Argentina
+Mexico	6
+3	World Cup
+in Uruguay	+5
+-5	2008
+1488	0
+0	1
+37
+July 22
+1930	Argentina
+Chile	3
+1	World Cup
+in Uruguay	+8
+-8	2016
+1602	0
+-1	1
+25
+July 26
+1930	Argentina
+United States	6
+1	World Cup
+in Uruguay	+18
+-18	2034
+1699	0
+-1	1
+16
+July 30
+1930	Uruguay
+Argentina	4
+2	World Cup
+in Uruguay	+45
+-45	1977
+1989	0
+0	2
+1
+August 03
+1930	Argentina
+Yugoslavia	3
+1	Friendly
+in Argentina	+2
+-2	1991
+1608	0
+-1	1
+24
+April 19
+1931	Paraguay
+Argentina	0
+1	Friendly
+in Paraguay	-4
++4	1659
+1995	0
+0	17
+1
+April 25
+1931	Paraguay
+Argentina	1
+1	Friendly
+in Paraguay	+6
+-6	1665
+1989	0
+0	17
+1
+July 04
+1931	Argentina
+Paraguay	1
+1	Rosa Chevalier Boutell Cup
+in Argentina	-13
++13	1976
+1678	-1
+0	2
+17
+July 09
+1931	Argentina
+Paraguay	3
+1	Rosa Chevalier Boutell Cup
+in Argentina	+4
+-4	1980
+1674	+1
+0	1
+17
+May 15
+1932	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+10
+-10	1990
+1938	0
+0	1
+2
+May 18
+1932	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+9
+-9	1947
+1981	0
+0	2
+1
+January 21
+1933	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+9
+-9	1932
+1972	0
+0	3
+1
+February 05
+1933	Argentina
+Uruguay	4
+1	Friendly
+in Argentina	+11
+-11	1983
+1921	0
+0	1
+3
+December 14
+1933	Uruguay
+Argentina	0
+1	Friendly
+in Uruguay	-11
++11	1910
+1994	0
+0	4
+1
+May 27
+1934	Sweden
+Argentina	3
+2	World Cup
+in Italy	+51
+-51	1745
+1943	+3
+-1	13
+2
+July 18
+1934	Uruguay
+Argentina	2
+2	Friendly
+in Uruguay	-2
++2	1908
+1945	0
+0	4
+2
+August 15
+1934	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+6
+-6	1951
+1902	0
+0	2
+4
+January 06
+1935	Argentina
+Chile	4
+1	Copa América
+in Peru	+10
+-10	1961
+1592	0
+-2	2
+29
+January 20
+1935	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-4
++4	1957
+1920	0
+0	2
+3
+January 20
+1935	Peru
+Argentina	1
+4	Copa América
+in Peru	-9
++9	1468
+1966	-1
+0	41
+2
+January 27
+1935	Uruguay
+Argentina	3
+0	Copa América
+in Peru	+50
+-50	1970
+1916	+1
+-1	2
+3
+July 18
+1935	Uruguay
+Argentina	1
+1	Hector Gomez Cup
+in Uruguay	-6
++6	1964
+1922	0
+0	2
+3
+August 15
+1935	Argentina
+Uruguay	3
+0	Juan Mignaburu Cup
+in Argentina	+22
+-22	1944
+1942	+1
+-1	2
+3
+August 09
+1936	Argentina
+Uruguay	1
+0	Juan Mignaburu Cup
+in Argentina	+11
+-11	1955
+1931	0
+0	2
+3
+September 20
+1936	Uruguay
+Argentina	2
+1	Hector Gomez Cup
+in Uruguay	+12
+-12	1943
+1943	+1
+0	2
+2
+December 30
+1936	Argentina
+Chile	2
+1	Copa América
+in Argentina	+3
+-3	1946
+1556	0
+0	2
+35
+January 09
+1937	Argentina
+Paraguay	6
+1	Copa América
+in Argentina	+14
+-14	1960
+1722	0
+0	2
+14
+January 16
+1937	Argentina
+Peru	1
+0	Copa América
+in Argentina	+3
+-3	1963
+1585	0
+0	2
+30
+January 23
+1937	Argentina
+Uruguay	2
+3	Copa América
+in Argentina	-41
++41	1922
+1834	0
++3	2
+6
+January 30
+1937	Argentina
+Brazil	1
+0	Copa América
+in Argentina	+14
+-14	1936
+1848	0
+0	2
+5
+February 01
+1937	Argentina
+Brazil	2
+0	Copa América
+in Argentina	+19
+-19	1955
+1829	0
+-1	2
+6
+October 10
+1937	Uruguay
+Argentina	0
+3	Newton Cup
+in Uruguay	-25
++25	1809
+1980	-2
+0	8
+2
+November 11
+1937	Argentina
+Uruguay	5
+1	Lipton Cup
+in Argentina	+10
+-10	1990
+1799	0
+-2	2
+10
+June 18
+1938	Argentina
+Uruguay	1
+0	Juan Mignaburu Cup
+in Argentina	+5
+-5	1995
+1794	0
+0	2
+8
+October 12
+1938	Uruguay
+Argentina	2
+3	Hector Gomez Cup
+in Uruguay	-11
++11	1783
+2006	-2
+0	10
+2
+January 15
+1939	Brazil
+Argentina	1
+5	Roca Cup
+in Brazil	-25
++25	1843
+2031	-1
+0	6
+2
+January 22
+1939	Brazil
+Argentina	3
+2	Roca Cup
+in Brazil	+19
+-19	1862
+2012	+1
+0	5
+2
+August 14
+1939	Paraguay
+Argentina	0
+1	Rosa Chevalier Boutell Cup
+in Paraguay	-5
++5	1640
+2017	-1
+0	21
+2
+August 16
+1939	Paraguay
+Argentina	2
+2	Rosa Chevalier Boutell Cup
+in Paraguay	+10
+-10	1650
+2007	+3
+0	18
+2
+February 18
+1940	Argentina
+Paraguay	3
+1	Rosa Chevalier Boutell Cup
+in Argentina	+3
+-3	2010
+1647	0
+-1	2
+19
+February 18
+1940	Brazil
+Argentina	2
+2	Roca Cup
+in Brazil	+2
+-2	1864
+2008	0
+0	6
+2
+February 25
+1940	Argentina
+Paraguay	4
+0	Rosa Chevalier Boutell Cup
+in Argentina	+4
+-4	2012
+1643	+1
+-1	1
+20
+February 25
+1940	Brazil
+Argentina	0
+3	Roca Cup
+in Brazil	-23
++23	1841
+2035	0
++1	6
+1
+March 02
+1940	Argentina
+Chile	4
+1	Friendly
+in Argentina	+1
+-1	2036
+1568	0
+0	1
+35
+March 05
+1940	Argentina
+Brazil	6
+1	Roca Cup
+in Argentina	+9
+-9	2045
+1832	0
+0	1
+6
+March 09
+1940	Argentina
+Chile	3
+2	Friendly
+in Argentina	+1
+-1	2046
+1567	0
+0	1
+35
+March 10
+1940	Argentina
+Brazil	2
+3	Roca Cup
+in Argentina	-26
++26	2020
+1858	0
+0	1
+6
+March 17
+1940	Argentina
+Brazil	5
+1	Roca Cup
+in Argentina	+10
+-10	2030
+1848	0
+0	1
+6
+July 18
+1940	Uruguay
+Argentina	3
+0	Hector Gomez Cup
+in Uruguay	+34
+-34	1863
+1996	0
+-1	6
+2
+August 15
+1940	Argentina
+Uruguay	5
+0	Juan Mignaburu Cup
+in Argentina	+12
+-12	2008
+1851	0
+0	2
+6
+January 05
+1941	Chile
+Argentina	1
+2	Friendly
+in Chile	-2
++2	1562
+2010	0
+0	36
+2
+January 09
+1941	Chile
+Argentina	2
+5	Friendly
+in Chile	-4
++4	1558
+2014	0
+0	36
+2
+January 19
+1941	Peru
+Argentina	1
+1	Roque Gomez Pena Cup
+in Peru	+6
+-6	1770
+2008	+1
+0	14
+2
+January 26
+1941	Peru
+Argentina	1
+1	Roque Gomez Pena Cup
+in Peru	+6
+-6	1776
+2002	+1
+0	13
+2
+January 29
+1941	Peru
+Argentina	0
+3	Roque Gomez Pena Cup
+in Peru	-17
++17	1759
+2019	-2
++1	15
+1
+February 12
+1941	Argentina
+Peru	2
+1	Copa América
+in Chile	+8
+-8	2027
+1720	0
+0	1
+16
+February 16
+1941	Argentina
+Ecuador	6
+1	Copa América
+in Chile	+1
+-1	2028
+1283	0
+0	1
+71
+February 23
+1941	Argentina
+Uruguay	1
+0	Copa América
+in Chile	+15
+-15	2043
+1862	0
+-3	1
+6
+March 04
+1941	Chile
+Argentina	0
+1	Copa América
+in Chile	-5
++5	1573
+2048	0
+0	35
+1
+January 11
+1942	Argentina
+Paraguay	4
+3	Copa América
+in Uruguay	+4
+-4	2052
+1639	0
+0	1
+22
+January 17
+1942	Argentina
+Brazil	2
+1	Copa América
+in Uruguay	+11
+-11	2063
+1830	0
+0	1
+7
+January 22
+1942	Argentina
+Ecuador	12
+0	Copa América
+in Uruguay	+2
+-2	2065
+1272	0
+0	1
+73
+January 25
+1942	Argentina
+Peru	3
+1	Copa América
+in Uruguay	+7
+-7	2072
+1675	0
+-1	1
+18
+January 31
+1942	Argentina
+Chile	0
+0	Copa América
+in Uruguay	-23
++23	2049
+1543	0
++2	1
+37
+February 07
+1942	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+26
+-26	1958
+2023	0
+0	3
+1
+May 25
+1942	Argentina
+Uruguay	4
+1	Newton Cup
+in Argentina	+15
+-15	2038
+1943	+1
+0	1
+3
+August 25
+1942	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	0
+0	1943
+2038	0
+0	3
+1
+January 06
+1943	Argentina
+Uruguay	1
+0	Friendly
+in Argentina	+5
+-5	2043
+1938	0
+0	1
+3
+January 09
+1943	Uruguay
+Argentina	6
+2	Friendly
+in Uruguay	+19
+-19	1957
+2024	0
+-1	3
+2
+March 28
+1943	Argentina
+Uruguay	3
+3	Juan Mignaburu Cup
+in Argentina	-7
++7	2017
+1964	0
+0	2
+3
+April 04
+1943	Uruguay
+Argentina	0
+1	Hector Gomez Cup
+in Uruguay	-17
++17	1947
+2034	0
++1	3
+1
+July 10
+1943	Paraguay
+Argentina	2
+5	Rosa Chevalier Boutell Cup
+in Paraguay	-10
++10	1669
+2044	-1
+0	19
+1
+July 11
+1943	Paraguay
+Argentina	2
+1	Rosa Chevalier Boutell Cup
+in Paraguay	+25
+-25	1694
+2019	+2
+-1	17
+2
+January 05
+1944	Uruguay
+Argentina	1
+3	Friendly
+in Uruguay	-16
++16	1931
+2035	0
++1	3
+1
+January 08
+1944	Argentina
+Uruguay	3
+3	Friendly
+in Argentina	-5
++5	2030
+1936	0
+0	1
+3
+January 29
+1944	Argentina
+Uruguay	6
+2	Friendly
+in Argentina	+9
+-9	2039
+1927	0
+0	1
+3
+January 29
+1944	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+10
+-10	1937
+2029	0
+0	3
+1
+January 06
+1945	Argentina
+Paraguay	5
+2	Rosa Chevalier Boutell Cup
+in Argentina	+4
+-4	2033
+1690	0
+0	1
+17
+January 09
+1945	Argentina
+Paraguay	5
+3	Rosa Chevalier Boutell Cup
+in Argentina	+3
+-3	2036
+1687	0
+0	1
+17
+January 18
+1945	Argentina
+Bolivia	4
+0	Copa América
+in Chile	+3
+-3	2039
+1413	0
+0	1
+56
+January 31
+1945	Argentina
+Ecuador	4
+2	Copa América
+in Chile	+1
+-1	2040
+1239	0
+0	1
+75
+February 07
+1945	Argentina
+Colombia	9
+1	Copa América
+in Chile	+4
+-4	2044
+1442	0
+0	1
+50
+February 11
+1945	Chile
+Argentina	1
+1	Copa América
+in Chile	+19
+-19	1621
+2025	+6
+-1	26
+2
+February 15
+1945	Argentina
+Brazil	3
+1	Copa América
+in Chile	+27
+-27	2052
+1896	+1
+0	1
+3
+February 25
+1945	Argentina
+Uruguay	1
+0	Copa América
+in Chile	+11
+-11	2063
+1820	0
+0	1
+8
+July 07
+1945	Paraguay
+Argentina	5
+1	Rosa Chevalier Boutell Cup
+in Paraguay	+47
+-47	1734
+2016	+2
+-1	15
+2
+July 09
+1945	Paraguay
+Argentina	1
+3	Rosa Chevalier Boutell Cup
+in Paraguay	-12
++12	1722
+2028	0
++1	15
+1
+July 18
+1945	Uruguay
+Argentina	2
+2	Lipton Cup
+in Uruguay	+5
+-5	1825
+2023	0
+-1	8
+2
+August 15
+1945	Argentina
+Uruguay	6
+2	Newton Cup
+in Argentina	+9
+-9	2032
+1816	+1
+0	1
+8
+December 16
+1945	Brazil
+Argentina	3
+4	Roca Cup
+in Brazil	-14
++14	1899
+2046	0
+0	3
+1
+December 20
+1945	Brazil
+Argentina	6
+2	Roca Cup
+in Brazil	+32
+-32	1931
+2014	0
+-1	3
+2
+December 23
+1945	Brazil
+Argentina	3
+1	Roca Cup
+in Brazil	+21
+-21	1952
+1993	0
+0	3
+2
+December 29
+1945	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	+2
+-2	1818
+1991	0
+0	8
+2
+January 12
+1946	Argentina
+Paraguay	2
+0	Copa América
+in Argentina	+8
+-8	1999
+1714	0
+0	2
+16
+January 19
+1946	Argentina
+Bolivia	7
+1	Copa América
+in Argentina	+2
+-2	2001
+1376	0
+0	2
+59
+January 26
+1946	Argentina
+Chile	3
+1	Copa América
+in Argentina	+5
+-5	2006
+1655	0
+-2	2
+21
+February 02
+1946	Argentina
+Uruguay	3
+1	Copa América
+in Argentina	+13
+-13	2019
+1822	0
+0	2
+8
+February 10
+1946	Argentina
+Brazil	2
+0	Copa América
+in Argentina	+21
+-21	2040
+1935	+1
+0	1
+3
+March 02
+1947	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+2
+-2	2042
+1787	0
+0	1
+10
+March 09
+1947	Uruguay
+Argentina	4
+4	Friendly
+in Uruguay	+4
+-4	1791
+2038	0
+0	10
+1
+December 02
+1947	Argentina
+Paraguay	6
+0	Copa América
+in Ecuador	+16
+-16	2054
+1727	0
+-1	1
+17
+December 04
+1947	Argentina
+Bolivia	7
+0	Copa América
+in Ecuador	+2
+-2	2056
+1341	0
+0	1
+69
+December 11
+1947	Argentina
+Peru	3
+2	Copa América
+in Ecuador	+4
+-4	2060
+1633	0
+0	1
+23
+December 16
+1947	Argentina
+Chile	1
+1	Copa América
+in Ecuador	-20
++20	2040
+1685	0
++3	1
+19
+December 18
+1947	Argentina
+Colombia	6
+0	Copa América
+in Ecuador	+5
+-5	2045
+1511	0
+0	1
+43
+December 25
+1947	Ecuador
+Argentina	0
+2	Copa América
+in Ecuador	-1
++1	1241
+2046	0
+0	81
+1
+December 28
+1947	Argentina
+Uruguay	3
+1	Copa América
+in Ecuador	+16
+-16	2062
+1803	0
+-2	1
+10
+May 18
+1948	Uruguay
+Argentina	0
+1	Friendly
+in Uruguay	-6
++6	1822
+2068	-2
+0	9
+1
+May 25
+1948	Argentina
+Uruguay	0
+2	Friendly
+in Argentina	-26
++26	2042
+1848	0
++4	1
+5
+March 25
+1950	Argentina
+Paraguay	2
+2	Rosa Chevalier Boutell Cup
+in Argentina	-10
++10	2032
+1859	0
+0	1
+7
+March 29
+1950	Argentina
+Paraguay	4
+0	Rosa Chevalier Boutell Cup
+in Argentina	+10
+-10	2042
+1849	0
+0	1
+7
+May 09
+1951	England
+Argentina	2
+1	Friendly
+in England	+11
+-11	1902
+2031	0
+0	4
+1
+May 13
+1951	Ireland
+Argentina	0
+1	Friendly
+in Ireland	-2
++2	1559
+2033	0
+0	35
+1
+December 07
+1952	Spain
+Argentina	0
+1	Friendly
+in Spain	-7
++7	1826
+2040	0
+0	10
+1
+December 14
+1952	Portugal
+Argentina	1
+3	Friendly
+in Portugal	-4
++4	1594
+2044	0
+0	31
+1
+May 14
+1953	Argentina
+England	3
+1	Friendly
+in Argentina	+7
+-7	2051
+1916	0
+0	1
+4
+May 17
+1953	Argentina
+England	0
+0	Friendly
+in Argentina	-6
++6	2045
+1922	0
+0	1
+4
+July 05
+1953	Argentina
+Spain	1
+0	Friendly
+in Argentina	+3
+-3	2048
+1826	0
+0	1
+11
+November 28
+1954	Portugal
+Argentina	1
+3	Friendly
+in Portugal	-4
++4	1602
+2052	0
+0	31
+2
+December 05
+1954	Italy
+Argentina	2
+0	Friendly
+in Italy	+21
+-21	1830
+2031	0
+0	10
+2
+March 02
+1955	Argentina
+Paraguay	5
+3	Copa América
+in Chile	+25
+-25	2056
+1881	0
+-3	2
+9
+March 09
+1955	Argentina
+Ecuador	4
+0	Copa América
+in Chile	+1
+-1	2057
+1257	0
+0	2
+100
+March 16
+1955	Argentina
+Peru	2
+2	Copa América
+in Chile	-19
++19	2038
+1719	0
++2	2
+16
+March 27
+1955	Argentina
+Uruguay	6
+1	Copa América
+in Chile	+34
+-34	2072
+1885	0
+-1	2
+7
+March 30
+1955	Chile
+Argentina	0
+1	Copa América
+in Chile	-10
++10	1724
+2082	-1
+0	16
+2
+January 22
+1956	Argentina
+Peru	2
+1	Copa América
+in Uruguay	+7
+-7	2089
+1753	0
+0	2
+15
+January 29
+1956	Argentina
+Chile	2
+0	Copa América
+in Uruguay	+12
+-12	2101
+1789	0
+-1	2
+12
+February 01
+1956	Argentina
+Paraguay	1
+0	Copa América
+in Uruguay	+7
+-7	2108
+1766	0
+0	2
+15
+February 05
+1956	Brazil
+Argentina	1
+0	Copa América
+in Uruguay	+38
+-38	1941
+2070	+2
+0	3
+2
+February 15
+1956	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+30
+-30	1925
+2040	+2
+0	5
+2
+February 28
+1956	Argentina
+Peru	0
+0	Pan American Championship
+in Mexico	-19
++19	2021
+1722	0
+0	2
+19
+March 06
+1956	Argentina
+Costa Rica	4
+3	Pan American Championship
+in Mexico	+7
+-7	2028
+1684	0
+0	2
+20
+March 11
+1956	Argentina
+Chile	3
+0	Pan American Championship
+in Mexico	+17
+-17	2045
+1764	0
+-1	2
+14
+March 13
+1956	Mexico
+Argentina	0
+0	Pan American Championship
+in Mexico	+19
+-19	1604
+2026	+3
+0	31
+2
+March 18
+1956	Argentina
+Brazil	2
+2	Pan American Championship
+in Mexico	-2
++2	2024
+2003	0
+0	2
+3
+June 24
+1956	Argentina
+Italy	1
+0	Friendly
+in Argentina	+3
+-3	2027
+1841	+1
+0	1
+9
+July 01
+1956	Uruguay
+Argentina	1
+2	Atlantic Cup
+in Uruguay	-14
++14	1899
+2041	0
+0	5
+1
+July 08
+1956	Argentina
+Brazil	0
+0	Atlantic Cup
+in Argentina	-5
++5	2036
+2021	0
+0	1
+3
+August 15
+1956	Paraguay
+Argentina	0
+1	Rosa Chevalier Boutell Cup
+in Paraguay	-6
++6	1698
+2042	0
+0	21
+1
+August 19
+1956	Argentina
+Czechoslovakia	1
+0	Friendly
+in Argentina	+2
+-2	2044
+1779	0
+0	1
+14
+October 10
+1956	Uruguay
+Argentina	1
+2	Friendly
+in Uruguay	-9
++9	1892
+2053	0
+0	5
+2
+November 14
+1956	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-6
++6	2047
+1898	0
+0	2
+5
+March 13
+1957	Argentina
+Colombia	8
+2	Copa América
+in Peru	+2
+-2	2049
+1368	0
+-1	2
+81
+March 17
+1957	Argentina
+Ecuador	3
+0	Copa América
+in Peru	+1
+-1	2050
+1242	0
+0	2
+104
+March 20
+1957	Argentina
+Uruguay	4
+0	Copa América
+in Peru	+23
+-23	2073
+1829	0
+-2	2
+7
+March 28
+1957	Argentina
+Chile	6
+2	Copa América
+in Peru	+10
+-10	2083
+1691	+1
+-2	1
+21
+April 03
+1957	Argentina
+Brazil	3
+0	Copa América
+in Peru	+34
+-34	2117
+1969	0
+0	1
+3
+April 06
+1957	Peru
+Argentina	2
+1	Copa América
+in Peru	+43
+-43	1731
+2074	+2
+-1	18
+2
+April 09
+1957	Peru
+Argentina	1
+4	Friendly
+in Peru	-7
++7	1724
+2081	-1
++1	19
+1
+May 23
+1957	Uruguay
+Argentina	0
+0	Newton Cup
+in Uruguay	+3
+-3	1922
+2078	0
+0	5
+1
+June 05
+1957	Argentina
+Uruguay	1
+1	Lipton Cup
+in Argentina	-9
++9	2069
+1931	-1
+0	2
+5
+July 07
+1957	Brazil
+Argentina	1
+2	Roca Cup
+in Brazil	-15
++15	1956
+2084	0
+0	3
+1
+July 10
+1957	Brazil
+Argentina	2
+0	Roca Cup
+in Brazil	+24
+-24	1980
+2060	0
+0	3
+1
+October 06
+1957	Bolivia
+Argentina	2
+0	World Cup qualifier
+in Bolivia	+55
+-55	1611
+2005	+10
+-1	33
+2
+October 13
+1957	Chile
+Argentina	0
+2	World Cup qualifier
+in Chile	-12
++12	1652
+2017	0
+0	25
+2
+October 20
+1957	Argentina
+Chile	4
+0	World Cup qualifier
+in Argentina	+5
+-5	2022
+1647	0
+0	2
+25
+October 27
+1957	Argentina
+Bolivia	4
+0	World Cup qualifier
+in Argentina	+4
+-4	2026
+1607	0
+0	2
+34
+April 06
+1958	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+11
+-11	1888
+2015	0
+-1	5
+2
+April 20
+1958	Paraguay
+Argentina	1
+0	Friendly
+in Paraguay	+15
+-15	1730
+2000	+1
+0	21
+2
+April 26
+1958	Argentina
+Paraguay	2
+0	Friendly
+in Argentina	+3
+-3	2003
+1727	0
+0	2
+21
+April 30
+1958	Argentina
+Uruguay	2
+0	Friendly
+in Argentina	+7
+-7	2010
+1881	0
+0	2
+5
+June 08
+1958	West Germany
+Argentina	3
+1	World Cup
+in Sweden	+63
+-63	1927
+1947	+1
+-1	5
+3
+June 11
+1958	Argentina
+Northern Ireland	3
+1	World Cup
+in Sweden	+17
+-17	1964
+1677	0
+-4	3
+26
+June 15
+1958	Czechoslovakia
+Argentina	6
+1	World Cup
+in Sweden	+85
+-85	1894
+1879	+6
+-5	5
+7
+March 07
+1959	Argentina
+Chile	6
+1	Copa América
+in Argentina	+13
+-13	1892
+1634	+3
+0	3
+28
+March 11
+1959	Argentina
+Bolivia	2
+0	Copa América
+in Argentina	+7
+-7	1899
+1581	0
+-1	4
+42
+March 18
+1959	Argentina
+Peru	3
+1	Copa América
+in Argentina	+18
+-18	1917
+1782	+1
+-1	2
+15
+March 22
+1959	Argentina
+Paraguay	3
+1	Copa América
+in Argentina	+13
+-13	1930
+1734	0
+-1	2
+20
+March 30
+1959	Argentina
+Uruguay	4
+1	Copa América
+in Argentina	+24
+-24	1954
+1836	0
+-1	2
+8
+April 04
+1959	Argentina
+Brazil	1
+1	Copa América
+in Argentina	+4
+-4	1958
+2111	0
+0	2
+1
+November 18
+1959	Chile
+Argentina	4
+2	Friendly
+in Chile	+22
+-22	1711
+1936	+2
+0	23
+2
+December 09
+1959	Argentina
+Paraguay	4
+2	Copa América
+in Ecuador	+21
+-21	1957
+1746	0
+-2	2
+20
+December 12
+1959	Ecuador
+Argentina	1
+1	Copa América
+in Ecuador	+24
+-24	1252
+1933	+6
+0	104
+2
+December 16
+1959	Uruguay
+Argentina	5
+0	Copa América
+in Ecuador	+60
+-60	1922
+1873	+3
+-3	3
+5
+December 22
+1959	Argentina
+Brazil	4
+1	Copa América
+in Ecuador	+64
+-64	1937
+1985	+3
+0	2
+1
+March 08
+1960	Costa Rica
+Argentina	0
+0	Pan American Championship
+in Costa Rica	+7
+-7	1740
+1930	0
+0	21
+2
+March 10
+1960	Argentina
+Mexico	3
+2	Pan American Championship
+in Costa Rica	+13
+-13	1943
+1744	+1
+-3	1
+21
+March 13
+1960	Argentina
+Brazil	2
+1	Pan American Championship
+in Costa Rica	+23
+-23	1966
+1888	0
+-1	1
+4
+March 15
+1960	Costa Rica
+Argentina	0
+2	Pan American Championship
+in Costa Rica	-29
++29	1760
+1995	-3
+0	18
+1
+March 17
+1960	Argentina
+Mexico	2
+0	Pan American Championship
+in Costa Rica	+14
+-14	2009
+1725	0
++1	1
+20
+March 20
+1960	Brazil
+Argentina	1
+0	Pan American Championship
+in Costa Rica	+30
+-30	1975
+1979	0
+0	2
+1
+May 26
+1960	Argentina
+Brazil	4
+2	Roca Cup
+in Argentina	+17
+-17	1996
+1982	+1
+-1	1
+2
+May 29
+1960	Argentina
+Brazil	1
+4	Roca Cup
+in Argentina	-35
++35	1961
+2017	-1
++1	2
+1
+July 09
+1960	Argentina
+Paraguay	1
+0	Atlantic Cup
+in Argentina	+3
+-3	1964
+1681	0
+0	2
+24
+July 12
+1960	Brazil
+Argentina	5
+1	Atlantic Cup
+in Brazil	+17
+-17	2027
+1947	0
+0	1
+2
+July 24
+1960	Argentina
+Spain	2
+0	Friendly
+in Argentina	+9
+-9	1956
+1902	0
+0	2
+6
+August 17
+1960	Argentina
+Uruguay	4
+0	Atlantic Cup
+in Argentina	+18
+-18	1974
+1910	0
+-1	2
+5
+December 04
+1960	Ecuador
+Argentina	3
+6	World Cup qualifier
+in Ecuador	-3
++3	1315
+1977	0
+0	103
+2
+December 17
+1960	Argentina
+Ecuador	5
+0	World Cup qualifier
+in Argentina	+1
+-1	1978
+1314	0
+0	2
+103
+May 17
+1961	Paraguay
+Argentina	0
+0	Friendly
+in Paraguay	+6
+-6	1638
+1972	0
+0	32
+2
+June 04
+1961	Portugal
+Argentina	0
+2	Friendly
+in Portugal	-7
++7	1658
+1979	0
+0	27
+2
+June 11
+1961	Spain
+Argentina	2
+0	Friendly
+in Spain	+15
+-15	1901
+1964	+2
+0	6
+2
+June 15
+1961	Italy
+Argentina	4
+1	Friendly
+in Italy	+24
+-24	1756
+1940	+1
+0	19
+2
+June 19
+1961	Czechoslovakia
+Argentina	3
+3	Friendly
+in Czechoslovakia	-2
++2	1897
+1942	-1
+0	8
+2
+June 24
+1961	Soviet Union
+Argentina	0
+0	Friendly
+in the Soviet Union	-2
++2	1908
+1944	-1
+0	5
+2
+October 12
+1961	Argentina
+Paraguay	5
+1	Friendly
+in Argentina	+3
+-3	1947
+1634	0
+0	2
+29
+November 18
+1961	Argentina
+Soviet Union	1
+2	Friendly
+in Argentina	-14
++14	1933
+1930	0
+0	2
+3
+March 13
+1962	Uruguay
+Argentina	1
+1	Friendly
+in Uruguay	-2
++2	1890
+1935	0
+0	7
+3
+March 28
+1962	Argentina
+Mexico	1
+0	Friendly
+in Argentina	+4
+-4	1939
+1764	0
+0	3
+18
+May 30
+1962	Argentina
+Bulgaria	1
+0	World Cup
+in Chile	+14
+-14	1953
+1717	0
+-1	3
+21
+June 02
+1962	England
+Argentina	3
+1	World Cup
+in Chile	+57
+-57	1911
+1896	+3
+-4	6
+7
+June 06
+1962	Argentina
+Hungary	0
+0	World Cup
+in Chile	+4
+-4	1900
+1944	0
+0	8
+4
+August 15
+1962	Argentina
+Uruguay	3
+1	Lipton Cup
+in Argentina	+11
+-11	1911
+1802	0
+-2	5
+15
+November 07
+1962	Chile
+Argentina	1
+1	Carlos Dittborn Cup
+in Chile	+1
+-1	1791
+1910	0
+0	19
+5
+November 21
+1962	Argentina
+Chile	1
+0	Carlos Dittborn Cup
+in Argentina	+7
+-7	1917
+1784	0
+-1	5
+19
+March 10
+1963	Argentina
+Colombia	4
+2	Copa América
+in Bolivia	+5
+-5	1922
+1467	0
+-2	5
+67
+March 13
+1963	Peru
+Argentina	2
+1	Copa América
+in Bolivia	+41
+-41	1696
+1881	+5
+-1	22
+6
+March 20
+1963	Argentina
+Ecuador	4
+2	Copa América
+in Bolivia	+3
+-3	1884
+1313	0
+-1	6
+106
+March 24
+1963	Argentina
+Brazil	3
+0	Copa América
+in Bolivia	+66
+-66	1950
+2013	+3
+0	3
+1
+March 28
+1963	Bolivia
+Argentina	3
+2	Copa América
+in Bolivia	+40
+-40	1650
+1910	+8
+-2	28
+5
+March 31
+1963	Argentina
+Paraguay	1
+1	Copa América
+in Bolivia	-12
++12	1898
+1733	0
+0	5
+21
+April 13
+1963	Brazil
+Argentina	2
+3	Roca Cup
+in Brazil	-21
++21	1928
+1919	-1
++1	3
+4
+April 16
+1963	Brazil
+Argentina	5
+2	Roca Cup
+in Brazil	+18
+-18	1946
+1901	+1
+-1	2
+5
+October 15
+1963	Paraguay
+Argentina	0
+4	Rosa Chevalier Boutell Cup
+in Paraguay	-23
++23	1710
+1924	-1
++2	23
+2
+October 29
+1963	Argentina
+Paraguay	2
+3	Rosa Chevalier Boutell Cup
+in Argentina	-26
++26	1898
+1736	-1
++1	4
+22
+May 31
+1964	Argentina
+Portugal	2
+0	Nations Cup
+in Brazil	+8
+-8	1906
+1616	0
+0	4
+34
+June 03
+1964	Brazil
+Argentina	0
+3	Nations Cup
+in Brazil	-35
++35	1892
+1941	-2
++2	4
+2
+June 06
+1964	Argentina
+England	1
+0	Nations Cup
+in Brazil	+12
+-12	1953
+1867	0
+-1	2
+7
+September 24
+1964	Argentina
+Chile	5
+0	Carlos Dittborn Cup
+in Argentina	+10
+-10	1963
+1761	0
+-1	1
+18
+October 14
+1964	Chile
+Argentina	1
+1	Carlos Dittborn Cup
+in Chile	+4
+-4	1765
+1959	0
+0	18
+1
+November 25
+1964	Paraguay
+Argentina	3
+0	Rosa Chevalier Boutell Cup
+in Paraguay	+35
+-35	1771
+1924	+5
+0	19
+1
+December 08
+1964	Argentina
+Paraguay	8
+1	Rosa Chevalier Boutell Cup
+in Argentina	+13
+-13	1937
+1758	0
+-2	1
+21
+June 03
+1965	France
+Argentina	0
+0	Friendly
+in France	+4
+-4	1683
+1933	0
+0	29
+1
+June 09
+1965	Brazil
+Argentina	0
+0	Friendly
+in Brazil	-2
++2	1910
+1935	0
+0	2
+1
+July 14
+1965	Argentina
+Chile	1
+0	Carlos Dittborn Cup
+in Argentina	+6
+-6	1941
+1782	0
+0	2
+18
+July 21
+1965	Chile
+Argentina	1
+1	Carlos Dittborn Cup
+in Chile	+3
+-3	1785
+1938	0
+0	18
+2
+August 01
+1965	Argentina
+Paraguay	3
+0	World Cup qualifier
+in Argentina	+13
+-13	1951
+1769	+1
+0	1
+19
+August 08
+1965	Paraguay
+Argentina	0
+0	World Cup qualifier
+in Paraguay	+5
+-5	1774
+1946	0
+-1	18
+2
+August 17
+1965	Argentina
+Bolivia	4
+1	World Cup qualifier
+in Argentina	+7
+-7	1953
+1667	+1
+0	1
+31
+August 29
+1965	Bolivia
+Argentina	1
+2	World Cup qualifier
+in Bolivia	-11
++11	1676
+1964	-3
+0	30
+1
+December 01
+1965	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-5
++5	1959
+1861	0
++1	1
+8
+June 11
+1966	Argentina
+Poland	1
+1	Friendly
+in Argentina	-8
++8	1951
+1652	-1
++1	2
+33
+June 17
+1966	Denmark
+Argentina	0
+2	Friendly
+in Denmark	-4
++4	1545
+1955	0
++1	51
+1
+June 22
+1966	Italy
+Argentina	3
+0	Friendly
+in Italy	+15
+-15	1910
+1940	+2
+-1	5
+2
+July 13
+1966	Argentina
+Spain	2
+1	World Cup
+in England	+22
+-22	1962
+1821	0
+-1	2
+11
+July 16
+1966	Argentina
+West Germany	0
+0	World Cup
+in England	-4
++4	1958
+1924	-1
++1	2
+5
+July 19
+1966	Argentina
+Switzerland	2
+0	World Cup
+in England	+8
+-8	1966
+1552	+1
+-1	1
+49
+July 23
+1966	England
+Argentina	1
+0	World Cup
+in England	+23
+-23	1976
+1943	0
+-3	3
+5
+January 18
+1967	Argentina
+Paraguay	4
+1	Copa América
+in Uruguay	+19
+-19	1962
+1705	0
+-2	3
+24
+January 22
+1967	Argentina
+Bolivia	1
+0	Copa América
+in Uruguay	+7
+-7	1969
+1648	0
+0	3
+32
+January 25
+1967	Argentina
+Venezuela	5
+1	Copa América
+in Uruguay	+2
+-2	1971
+1317	0
+0	3
+109
+January 28
+1967	Argentina
+Chile	2
+0	Copa América
+in Uruguay	+16
+-16	1987
+1725	+1
+-1	2
+22
+February 02
+1967	Uruguay
+Argentina	1
+0	Copa América
+in Uruguay	+29
+-29	1853
+1958	+1
+-1	10
+3
+August 15
+1967	Chile
+Argentina	1
+0	Friendly
+in Chile	+14
+-14	1727
+1944	+1
+-1	24
+4
+August 22
+1967	Mexico
+Argentina	2
+1	Friendly
+in Mexico	+12
+-12	1768
+1932	0
+-1	17
+5
+October 13
+1967	Paraguay
+Argentina	1
+1	Friendly
+in Paraguay	+4
+-4	1689
+1928	0
+-1	28
+6
+November 08
+1967	Chile
+Argentina	3
+1	Friendly
+in Chile	+20
+-20	1738
+1908	+2
+0	21
+6
+May 15
+1968	Paraguay
+Argentina	2
+0	Friendly
+in Paraguay	+20
+-20	1709
+1888	+1
+-2	23
+7
+June 05
+1968	Argentina
+Uruguay	2
+0	Newton Cup
+in Argentina	+14
+-14	1902
+1841	+2
+0	5
+10
+June 20
+1968	Uruguay
+Argentina	2
+1	Lipton Cup
+in Uruguay	+14
+-14	1836
+1888	0
+-2	11
+8
+August 07
+1968	Brazil
+Argentina	4
+1	Friendly
+in Brazil	+10
+-10	1950
+1878	0
+-1	3
+8
+August 11
+1968	Brazil
+Argentina	3
+2	Friendly
+in Brazil	+5
+-5	1955
+1873	+1
+0	2
+8
+August 18
+1968	Colombia
+Argentina	0
+1	Friendly
+in Colombia	-2
++2	1426
+1875	-3
+0	83
+8
+August 29
+1968	Peru
+Argentina	2
+2	Friendly
+in Peru	+6
+-6	1563
+1869	+2
+0	48
+8
+September 01
+1968	Peru
+Argentina	1
+1	Friendly
+in Peru	+5
+-5	1568
+1864	+1
+-1	47
+9
+November 27
+1968	Argentina
+Chile	4
+0	Carlos Dittborn Cup
+in Argentina	+12
+-12	1876
+1724	+1
+-2	8
+21
+December 04
+1968	Chile
+Argentina	2
+1	Carlos Dittborn Cup
+in Chile	+17
+-17	1741
+1859	+2
+-2	19
+10
+December 22
+1968	Argentina
+Yugoslavia	1
+1	Friendly
+in Argentina	-5
++5	1854
+1762	0
+0	9
+18
+March 19
+1969	Argentina
+Paraguay	1
+1	Friendly
+in Argentina	-6
++6	1848
+1721	0
+0	9
+23
+April 09
+1969	Paraguay
+Argentina	0
+0	Friendly
+in Paraguay	+1
+-1	1722
+1847	0
+0	23
+9
+May 28
+1969	Chile
+Argentina	1
+1	Friendly
+in Chile	0
+0	1755
+1847	0
+0	18
+8
+June 11
+1969	Argentina
+Chile	2
+1	Friendly
+in Argentina	+5
+-5	1852
+1762	0
+-2	8
+19
+July 27
+1969	Bolivia
+Argentina	3
+1	World Cup qualifier
+in Bolivia	+45
+-45	1606
+1807	+10
+-2	42
+11
+August 03
+1969	Peru
+Argentina	1
+0	World Cup qualifier
+in Peru	+24
+-24	1658
+1783	+3
+-3	31
+14
+August 24
+1969	Argentina
+Bolivia	1
+0	World Cup qualifier
+in Argentina	+7
+-7	1790
+1592	0
+-2	14
+46
+August 31
+1969	Argentina
+Peru	2
+2	World Cup qualifier
+in Argentina	-11
++11	1779
+1676	-1
++3	15
+28
+March 04
+1970	Brazil
+Argentina	0
+2	Friendly
+in Brazil	-26
++26	1961
+1805	0
++2	2
+11
+March 08
+1970	Brazil
+Argentina	2
+1	Friendly
+in Brazil	+4
+-4	1965
+1801	0
+0	2
+11
+April 08
+1970	Argentina
+Uruguay	2
+1	Friendly
+in Argentina	+8
+-8	1809
+1827	+1
+0	10
+9
+April 15
+1970	Uruguay
+Argentina	2
+1	Friendly
+in Uruguay	+7
+-7	1834
+1802	0
+-1	9
+11
+October 22
+1970	Paraguay
+Argentina	1
+1	Friendly
+in Paraguay	0
+0	1707
+1802	0
+0	24
+10
+January 08
+1971	Argentina
+France	3
+4	Friendly
+in Argentina	-15
++15	1787
+1743	-3
++2	14
+20
+January 13
+1971	Argentina
+France	2
+0	Friendly
+in Argentina	+9
+-9	1796
+1734	+1
+-1	13
+21
+July 04
+1971	Paraguay
+Argentina	1
+1	Rosa Chevalier Boutell Cup
+in Paraguay	0
+0	1707
+1796	0
+0	25
+14
+July 09
+1971	Argentina
+Paraguay	1
+0	Rosa Chevalier Boutell Cup
+in Argentina	+8
+-8	1804
+1699	+1
+-1	13
+26
+July 14
+1971	Argentina
+Uruguay	1
+0	Newton Cup
+in Argentina	+11
+-11	1815
+1788	+3
+-1	10
+15
+July 18
+1971	Uruguay
+Argentina	1
+1	Lipton Cup
+in Uruguay	-3
++3	1785
+1818	0
+0	15
+10
+July 21
+1971	Chile
+Argentina	2
+2	Carlos Dittborn Cup
+in Chile	0
+0	1720
+1818	0
+0	24
+10
+July 28
+1971	Argentina
+Brazil	1
+1	Roca Cup
+in Argentina	+8
+-8	1826
+2104	+1
+0	9
+1
+July 31
+1971	Argentina
+Brazil	2
+2	Roca Cup
+in Argentina	+7
+-7	1833
+2097	0
+0	9
+1
+August 04
+1971	Argentina
+Chile	1
+0	Carlos Dittborn Cup
+in Argentina	+7
+-7	1840
+1713	+2
+0	7
+24
+May 25
+1972	Argentina
+Paraguay	0
+0	Friendly
+in Argentina	-6
++6	1834
+1724	0
+0	8
+26
+May 31
+1972	Argentina
+Chile	4
+3	Carlos Dittborn Cup
+in Argentina	+6
+-6	1840
+1701	0
+0	8
+28
+June 22
+1972	Argentina
+Colombia	4
+1	Independence Cup
+in Brazil	+5
+-5	1845
+1405	0
+-1	7
+87
+June 25
+1972	Argentina
+France	0
+0	Independence Cup
+in Brazil	-6
++6	1839
+1737	0
++2	7
+23
+June 29
+1972	Portugal
+Argentina	3
+1	Independence Cup
+in Brazil	+32
+-32	1853
+1807	+6
+-5	6
+13
+July 02
+1972	Argentina
+Soviet Union	1
+0	Independence Cup
+in Brazil	+27
+-27	1834
+1915	+3
+0	10
+4
+July 06
+1972	Argentina
+Uruguay	1
+0	Independence Cup
+in Brazil	+16
+-16	1850
+1743	+2
+-4	8
+22
+July 09
+1972	Yugoslavia
+Argentina	4
+2	Independence Cup
+in Brazil	+32
+-32	1863
+1818	+3
+-3	7
+11
+September 25
+1972	Argentina
+Chile	2
+0	Carlos Dittborn Cup
+in Argentina	+10
+-10	1828
+1680	+1
+-1	10
+30
+October 11
+1972	Spain
+Argentina	1
+0	Friendly
+in Spain	+7
+-7	1835
+1821	0
+-1	10
+11
+October 25
+1972	Peru
+Argentina	0
+2	Ramon Castilla Cup
+in Peru	-20
++20	1666
+1841	-3
++1	32
+10
+February 06
+1973	Mexico
+Argentina	2
+0	Friendly
+in Mexico	+15
+-15	1766
+1826	+1
+-1	22
+12
+February 14
+1973	West Germany
+Argentina	2
+3	Friendly
+in West Germany	-18
++18	2078
+1844	0
++2	2
+10
+February 20
+1973	Israel
+Argentina	1
+1	Friendly
+in Israel	+2
+-2	1667
+1842	+2
+0	29
+10
+May 17
+1973	Argentina
+Uruguay	1
+1	Lipton Cup
+in Argentina	-8
++8	1834
+1751	-1
++1	11
+23
+May 23
+1973	Uruguay
+Argentina	1
+1	Newton Cup
+in Uruguay	-1
++1	1750
+1835	-1
+0	23
+11
+July 13
+1973	Argentina
+Chile	5
+4	Carlos Dittborn Cup
+in Argentina	+6
+-6	1841
+1683	+1
+0	10
+30
+July 18
+1973	Chile
+Argentina	3
+1	Carlos Dittborn Cup
+in Chile	+26
+-26	1709
+1815	+2
+-3	27
+13
+July 27
+1973	Argentina
+Peru	3
+1	Ramon Castilla Cup
+in Argentina	+9
+-9	1824
+1668	+2
+-1	11
+31
+September 09
+1973	Argentina
+Bolivia	4
+0	World Cup qualifier
+in Argentina	+7
+-7	1831
+1517	0
+-4	11
+63
+September 16
+1973	Paraguay
+Argentina	1
+1	World Cup qualifier
+in Paraguay	-1
++1	1751
+1832	0
+0	22
+11
+September 23
+1973	Bolivia
+Argentina	0
+1	World Cup qualifier
+in Bolivia	-9
++9	1508
+1841	0
++1	63
+10
+October 07
+1973	Argentina
+Paraguay	3
+1	World Cup qualifier
+in Argentina	+16
+-16	1857
+1744	+2
+-3	7
+24
+April 22
+1974	Argentina
+Romania	2
+1	Friendly
+in Argentina	+5
+-5	1862
+1738	0
+-1	8
+26
+May 18
+1974	France
+Argentina	0
+1	Friendly
+in France	-9
++9	1721
+1871	-1
+0	27
+8
+May 22
+1974	England
+Argentina	2
+2	Friendly
+in England	-4
++4	1903
+1875	-1
+0	6
+8
+May 26
+1974	Netherlands
+Argentina	4
+1	Friendly
+in the Netherlands	+17
+-17	1802
+1858	+3
+0	16
+8
+June 15
+1974	Poland
+Argentina	3
+2	World Cup
+in West Germany	+24
+-24	1953
+1834	0
+-3	4
+11
+June 19
+1974	Argentina
+Italy	1
+1	World Cup
+in West Germany	+11
+-11	1845
+1952	+2
+-1	9
+4
+June 23
+1974	Argentina
+Haiti	4
+1	World Cup
+in West Germany	+15
+-15	1860
+1525	0
+-4	9
+58
+June 26
+1974	Netherlands
+Argentina	4
+0	World Cup
+in West Germany	+53
+-53	1931
+1807	+4
+-7	4
+16
+June 30
+1974	Brazil
+Argentina	2
+1	World Cup
+in West Germany	+11
+-11	2084
+1796	0
+-1	1
+17
+July 03
+1974	Argentina
+East Germany	1
+1	World Cup
+in West Germany	+7
+-7	1803
+1876	0
++1	17
+7
+October 12
+1974	Argentina
+Spain	1
+1	Friendly
+in Argentina	-2
++2	1801
+1850	0
+-1	18
+10
+November 06
+1974	Chile
+Argentina	0
+2	Carlos Dittborn Cup
+in Chile	-25
++25	1718
+1826	-4
++3	26
+12
+November 20
+1974	Argentina
+Chile	1
+1	Carlos Dittborn Cup
+in Argentina	-8
++8	1818
+1726	0
+0	12
+25
+June 27
+1975	Bolivia
+Argentina	1
+2	Friendly
+in Bolivia	-4
++4	1495
+1822	-2
+0	68
+12
+July 18
+1975	Uruguay
+Argentina	2
+3	Newton Cup
+in Uruguay	-15
++15	1699
+1837	-1
+0	27
+12
+August 03
+1975	Venezuela
+Argentina	1
+5	Copa América
+in Venezuela	-9
++9	1336
+1846	-1
++2	103
+10
+August 06
+1975	Brazil
+Argentina	2
+1	Copa América
+in Brazil	+9
+-9	2007
+1837	0
+-2	4
+12
+August 10
+1975	Argentina
+Venezuela	11
+0	Copa América
+in Argentina	+4
+-4	1841
+1332	+1
+-1	11
+104
+August 16
+1975	Argentina
+Brazil	0
+1	Copa América
+in Argentina	-20
++20	1821
+2028	-1
++2	12
+2
+August 21
+1975	Argentina
+United States	6
+0	Copa Ciudad de Mexico
+in Mexico	+6
+-6	1827
+1423	0
+-1	12
+78
+August 24
+1975	Argentina
+Costa Rica	2
+0	Copa Ciudad de Mexico
+in Mexico	+9
+-9	1836
+1576	0
+0	12
+47
+August 31
+1975	Mexico
+Argentina	1
+1	Copa Ciudad de Mexico
+in Mexico	+2
+-2	1700
+1834	+2
+0	27
+12
+February 25
+1976	Paraguay
+Argentina	2
+3	Atlantic Cup
+in Paraguay	-11
++11	1634
+1845	-2
++2	40
+11
+February 27
+1976	Argentina
+Brazil	1
+2	Atlantic Cup
+in Argentina	-13
++13	1832
+2008	-2
++2	13
+2
+March 20
+1976	Soviet Union
+Argentina	0
+1	Friendly
+in the Soviet Union	-13
++13	1816
+1845	0
++2	14
+11
+March 24
+1976	Poland
+Argentina	1
+2	Friendly
+in Poland	-16
++16	1985
+1861	-1
++2	4
+9
+March 27
+1976	Hungary
+Argentina	2
+0	Friendly
+in Hungary	+14
+-14	1805
+1847	+2
+-2	16
+11
+April 08
+1976	Argentina
+Uruguay	4
+1	Atlantic Cup
+in Argentina	+8
+-8	1855
+1652	+3
+-1	9
+33
+April 28
+1976	Argentina
+Paraguay	2
+2	Atlantic Cup
+in Argentina	-11
++11	1844
+1660	-1
++3	12
+32
+May 19
+1976	Brazil
+Argentina	2
+0	Atlantic Cup
+in Brazil	+8
+-8	2008
+1836	0
+0	3
+12
+June 09
+1976	Uruguay
+Argentina	0
+3	Atlantic Cup
+in Uruguay	-19
++19	1621
+1855	-2
+0	41
+12
+October 13
+1976	Argentina
+Chile	2
+0	Carlos Dittborn Cup
+in Argentina	+6
+-6	1861
+1628	0
+-1	12
+41
+October 28
+1976	Peru
+Argentina	1
+3	Ramon Castilla Cup
+in Peru	-22
++22	1728
+1883	-3
++3	24
+9
+November 10
+1976	Argentina
+Peru	1
+0	Ramon Castilla Cup
+in Argentina	+6
+-6	1889
+1722	0
+-1	9
+25
+November 28
+1976	Argentina
+Soviet Union	0
+0	Friendly
+in Argentina	-3
++3	1886
+1874	0
+0	9
+11
+February 27
+1977	Argentina
+Hungary	5
+1	Friendly
+in Argentina	+11
+-11	1897
+1817	+2
+-1	7
+14
+March 22
+1977	Argentina
+Iran	1
+1	Friendly
+in Spain	-5
++5	1892
+1703	-2
+0	9
+26
+May 29
+1977	Argentina
+Poland	3
+1	Friendly
+in Argentina	+11
+-11	1903
+1886	+1
+-1	7
+8
+June 05
+1977	Argentina
+West Germany	1
+3	Friendly
+in Argentina	-12
++12	1891
+2090	0
+0	7
+1
+June 12
+1977	Argentina
+England	1
+1	Friendly
+in Argentina	-4
++4	1887
+1864	0
+0	8
+11
+June 18
+1977	Argentina
+Scotland	1
+1	Friendly
+in Argentina	-2
++2	1885
+1930	0
+0	8
+5
+June 26
+1977	Argentina
+France	0
+0	Friendly
+in Argentina	-6
++6	1879
+1772	0
+0	8
+20
+July 03
+1977	Argentina
+Yugoslavia	1
+0	Friendly
+in Argentina	+4
+-4	1883
+1760	0
+0	8
+22
+July 12
+1977	Argentina
+East Germany	2
+0	Friendly
+in Argentina	+12
+-12	1895
+1893	+1
+-2	7
+8
+August 24
+1977	Argentina
+Paraguay	2
+1	Friendly
+in Argentina	+3
+-3	1898
+1665	+1
+0	7
+35
+August 31
+1977	Paraguay
+Argentina	2
+0	Friendly
+in Paraguay	+20
+-20	1685
+1878	+4
+-1	31
+8
+March 04
+1978	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-8
++8	1870
+1634	-2
+0	12
+39
+March 19
+1978	Argentina
+Peru	2
+1	Ramon Castilla Cup
+in Argentina	+6
+-6	1876
+1736	+2
+0	10
+24
+March 23
+1978	Peru
+Argentina	1
+3	Ramon Castilla Cup
+in Peru	-20
++20	1716
+1896	-2
++2	26
+9
+March 29
+1978	Argentina
+Bulgaria	3
+1	Friendly
+in Argentina	+4
+-4	1900
+1687	+1
+-1	8
+30
+April 05
+1978	Argentina
+Romania	2
+0	Friendly
+in Argentina	+7
+-7	1907
+1770	+1
+-1	6
+21
+April 25
+1978	Uruguay
+Argentina	2
+0	Friendly
+in Uruguay	+22
+-22	1656
+1885	+1
+-4	38
+10
+May 03
+1978	Argentina
+Uruguay	3
+0	Friendly
+in Argentina	+5
+-5	1890
+1651	+1
+0	9
+38
+June 02
+1978	Argentina
+Hungary	2
+1	World Cup
+in Argentina	+20
+-20	1910
+1848	+3
+0	8
+12
+June 06
+1978	Argentina
+France	2
+1	World Cup
+in Argentina	+15
+-15	1925
+1797	+1
+-2	6
+17
+June 10
+1978	Argentina
+Italy	0
+1	World Cup
+in Argentina	-36
++36	1889
+1994	-3
+0	9
+4
+June 14
+1978	Argentina
+Poland	2
+0	World Cup
+in Argentina	+38
+-38	1927
+1897	+4
+-3	6
+9
+June 18
+1978	Argentina
+Brazil	0
+0	World Cup
+in Argentina	+2
+-2	1929
+2047	0
+0	6
+1
+June 21
+1978	Argentina
+Peru	6
+0	World Cup
+in Argentina	+27
+-27	1956
+1776	+1
+-4	5
+19
+June 25
+1978	Argentina
+Netherlands	3
+1	World Cup
+in Argentina	+46
+-46	2002
+2015	+2
+0	3
+2
+April 25
+1979	Argentina
+Bulgaria	2
+1	Friendly
+in Argentina	+1
+-1	2003
+1649	0
+0	3
+36
+May 22
+1979	Argentina
+Netherlands	0
+0	Friendly
+in Switzerland	-1
++1	2002
+1981	0
++1	2
+4
+May 26
+1979	Italy
+Argentina	2
+2	Friendly
+in Italy	-2
++2	1969
+2004	-1
+0	6
+2
+May 29
+1979	Ireland
+Argentina	0
+0	Friendly
+in Ireland	+6
+-6	1671
+1998	+1
+0	32
+2
+June 02
+1979	Scotland
+Argentina	1
+3	Friendly
+in Scotland	-11
++11	1794
+2009	-3
+0	18
+2
+July 18
+1979	Bolivia
+Argentina	2
+1	Copa América
+in Bolivia	+45
+-45	1568
+1964	+6
+-3	56
+5
+August 02
+1979	Brazil
+Argentina	2
+1	Copa América
+in Brazil	+12
+-12	2068
+1952	0
+0	1
+5
+August 08
+1979	Argentina
+Bolivia	3
+0	Copa América
+in Argentina	+6
+-6	1958
+1594	0
+-2	5
+50
+August 23
+1979	Argentina
+Brazil	2
+2	Copa América
+in Argentina	+1
+-1	1959
+2070	0
+0	5
+1
+September 12
+1979	West Germany
+Argentina	2
+1	Friendly
+in West Germany	+6
+-6	1998
+1953	0
+0	2
+5
+September 16
+1979	Yugoslavia
+Argentina	4
+2	Friendly
+in Yugoslavia	+18
+-18	1811
+1935	+4
+-2	15
+7
+May 13
+1980	England
+Argentina	3
+1	Friendly
+in England	+8
+-8	2026
+1927	0
+0	2
+6
+May 16
+1980	Ireland
+Argentina	0
+1	Friendly
+in Ireland	-6
++6	1673
+1933	-3
+0	34
+6
+May 21
+1980	Austria
+Argentina	1
+5	Friendly
+in Austria	-22
++22	1864
+1955	-5
++1	13
+5
+September 18
+1980	Argentina
+Chile	2
+2	Friendly
+in Argentina	-8
++8	1947
+1673	0
++1	4
+34
+October 09
+1980	Argentina
+Bulgaria	2
+0	Friendly
+in Argentina	+2
+-2	1949
+1616	0
+-1	4
+42
+October 12
+1980	Argentina
+Poland	2
+1	Friendly
+in Argentina	+6
+-6	1955
+1915	0
+0	4
+8
+October 15
+1980	Argentina
+Czechoslovakia	1
+0	Friendly
+in Argentina	+5
+-5	1960
+1873	+1
+-1	3
+13
+December 04
+1980	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-4
++4	1956
+1930	-1
++1	4
+6
+December 16
+1980	Argentina
+Switzerland	5
+0	Friendly
+in Argentina	+2
+-2	1958
+1535	0
+-2	4
+58
+January 01
+1981	Argentina
+West Germany	2
+1	Mundialito
+in Uruguay	+27
+-27	1985
+2052	+1
+0	3
+1
+January 04
+1981	Argentina
+Brazil	1
+1	Mundialito
+in Uruguay	+1
+-1	1986
+2004	0
+0	3
+2
+October 28
+1981	Argentina
+Poland	1
+2	Friendly
+in Argentina	-14
++14	1972
+1937	0
+0	3
+5
+November 11
+1981	Argentina
+Czechoslovakia	1
+1	Friendly
+in Argentina	-6
++6	1966
+1846	0
++1	3
+12
+March 09
+1982	Argentina
+Czechoslovakia	0
+0	Friendly
+in Argentina	-5
++5	1961
+1859	0
++1	4
+12
+March 24
+1982	Argentina
+West Germany	1
+1	Friendly
+in Argentina	0
+0	1961
+2061	0
+0	4
+1
+April 14
+1982	Argentina
+Soviet Union	1
+1	Friendly
+in Argentina	-2
++2	1959
+1978	0
+0	4
+3
+May 05
+1982	Argentina
+Bulgaria	2
+1	Friendly
+in Argentina	+2
+-2	1961
+1681	0
+0	4
+32
+May 12
+1982	Argentina
+Romania	1
+0	Friendly
+in Argentina	+3
+-3	1964
+1727	0
+-1	4
+25
+June 13
+1982	Belgium
+Argentina	1
+0	World Cup
+in Spain	+38
+-38	1908
+1926	+1
+0	7
+4
+June 18
+1982	Argentina
+Hungary	4
+1	World Cup
+in Spain	+32
+-32	1958
+1753	+2
+-1	3
+21
+June 23
+1982	Argentina
+El Salvador	2
+0	World Cup
+in Spain	+5
+-5	1963
+1468	0
+-1	4
+76
+June 29
+1982	Italy
+Argentina	2
+1	World Cup
+in Spain	+41
+-41	1870
+1922	+6
+-1	7
+6
+July 02
+1982	Brazil
+Argentina	3
+1	World Cup
+in Spain	+24
+-24	2126
+1898	0
+0	1
+6
+May 12
+1983	Chile
+Argentina	2
+2	Friendly
+in Chile	+3
+-3	1675
+1895	0
+0	34
+8
+June 23
+1983	Argentina
+Chile	1
+0	Friendly
+in Argentina	+3
+-3	1898
+1672	0
+0	7
+34
+July 14
+1983	Paraguay
+Argentina	1
+0	Friendly
+in Paraguay	+14
+-14	1657
+1884	+1
+-2	36
+9
+July 21
+1983	Argentina
+Paraguay	0
+0	Friendly
+in Argentina	-7
++7	1877
+1664	0
++1	9
+35
+August 10
+1983	Ecuador
+Argentina	2
+2	Copa América
+in Ecuador	+18
+-18	1478
+1859	+6
+-1	74
+10
+August 24
+1983	Argentina
+Brazil	1
+0	Copa América
+in Argentina	+33
+-33	1892
+2040	+3
+0	7
+1
+September 07
+1983	Argentina
+Ecuador	2
+2	Copa América
+in Argentina	-23
++23	1869
+1496	-3
++8	10
+68
+September 14
+1983	Brazil
+Argentina	0
+0	Copa América
+in Brazil	-16
++16	2026
+1885	0
++2	1
+8
+January 14
+1984	India
+Argentina	0
+1	Nehru Gold Cup
+in India	-2
++2	1249
+1887	-1
+0	137
+5
+January 17
+1984	Argentina
+Poland	1
+1	Nehru Gold Cup
+in India	0
+0	1887
+1882	0
+0	5
+6
+January 20
+1984	China
+Argentina	1
+0	Nehru Gold Cup
+in India	+35
+-35	1582
+1852	+8
+-3	49
+8
+June 17
+1984	Brazil
+Argentina	0
+0	Friendly
+in Brazil	-4
++4	1903
+1856	0
++1	5
+7
+July 18
+1984	Uruguay
+Argentina	1
+0	Friendly
+in Uruguay	+8
+-8	1847
+1848	+1
+-1	9
+8
+August 02
+1984	Argentina
+Uruguay	0
+0	Friendly
+in Argentina	-3
++3	1845
+1850	-1
++1	9
+8
+August 24
+1984	Colombia
+Argentina	1
+0	Friendly
+in Colombia	+15
+-15	1587
+1830	+2
+-2	49
+11
+September 01
+1984	Switzerland
+Argentina	0
+2	Friendly
+in Switzerland	-13
++13	1679
+1843	-1
++2	35
+9
+September 05
+1984	Belgium
+Argentina	0
+2	Friendly
+in Belgium	-18
++18	1797
+1861	-3
++2	17
+7
+September 12
+1984	West Germany
+Argentina	1
+3	Friendly
+in West Germany	-22
++22	1916
+1883	0
+0	3
+7
+September 18
+1984	Mexico
+Argentina	1
+1	Friendly
+in Mexico	+2
+-2	1719
+1881	+1
+0	30
+7
+October 25
+1984	Argentina
+Mexico	1
+1	Friendly
+in Argentina	-6
++6	1875
+1736	0
+0	7
+27
+April 28
+1985	Paraguay
+Argentina	1
+0	Friendly
+in Paraguay	+13
+-13	1686
+1862	0
+0	32
+6
+May 05
+1985	Brazil
+Argentina	2
+1	Friendly
+in Brazil	+6
+-6	1908
+1856	0
+0	5
+6
+May 09
+1985	Argentina
+Paraguay	1
+1	Friendly
+in Argentina	-7
++7	1849
+1693	-1
++1	7
+31
+May 15
+1985	Argentina
+Chile	2
+0	Friendly
+in Argentina	+7
+-7	1856
+1749	+1
+-1	6
+26
+May 26
+1985	Venezuela
+Argentina	2
+3	World Cup qualifier
+in Venezuela	-5
++5	1395
+1861	-2
+0	92
+6
+June 02
+1985	Colombia
+Argentina	1
+3	World Cup qualifier
+in Colombia	-22
++22	1639
+1883	-3
+0	40
+6
+June 09
+1985	Argentina
+Venezuela	3
+0	World Cup qualifier
+in Argentina	+2
+-2	1885
+1382	+1
+0	5
+94
+June 16
+1985	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+5
+-5	1890
+1641	0
+-2	6
+40
+June 23
+1985	Peru
+Argentina	1
+0	World Cup qualifier
+in Peru	+26
+-26	1699
+1864	+3
+-1	31
+7
+June 30
+1985	Argentina
+Peru	2
+2	World Cup qualifier
+in Argentina	-13
++13	1851
+1712	-2
++1	9
+30
+November 14
+1985	Argentina
+Mexico	1
+1	Friendly
+in the United States	-3
++3	1848
+1761	-1
++1	8
+25
+November 17
+1985	Mexico
+Argentina	1
+1	Friendly
+in Mexico	0
+0	1761
+1848	0
+0	25
+7
+March 26
+1986	France
+Argentina	2
+0	Friendly
+in France	+8
+-8	1945
+1840	+1
+-2	1
+11
+April 30
+1986	Norway
+Argentina	1
+0	Friendly
+in Norway	+13
+-13	1651
+1827	+2
+-2	36
+12
+May 04
+1986	Israel
+Argentina	2
+7	Friendly
+in Israel	-14
++14	1610
+1841	-5
++2	45
+10
+June 02
+1986	Argentina
+South Korea	3
+1	World Cup
+in Mexico	+19
+-19	1860
+1590	+1
+-2	6
+48
+June 05
+1986	Argentina
+Italy	1
+1	World Cup
+in Mexico	-2
++2	1858
+1833	0
++1	7
+8
+June 10
+1986	Argentina
+Bulgaria	2
+0	World Cup
+in Mexico	+33
+-33	1891
+1733	+1
+-2	6
+29
+June 16
+1986	Argentina
+Uruguay	1
+0	World Cup
+in Mexico	+20
+-20	1911
+1748	0
+-2	6
+25
+June 22
+1986	Argentina
+England	2
+1	World Cup
+in Mexico	+34
+-34	1945
+1921	+3
+-2	3
+5
+June 25
+1986	Argentina
+Belgium	2
+0	World Cup
+in Mexico	+30
+-30	1975
+1798	+1
+-4	2
+15
+June 29
+1986	Argentina
+West Germany	3
+2	World Cup
+in Mexico	+28
+-28	2003
+1922	+2
+-1	1
+5
+June 10
+1987	Italy
+Argentina	3
+1	Friendly
+in Switzerland	+21
+-21	1864
+1982	+3
+-1	10
+2
+June 20
+1987	Argentina
+Paraguay	0
+1	Friendly
+in Argentina	-17
++17	1965
+1787	0
++2	2
+18
+June 27
+1987	Argentina
+Peru	1
+1	Copa América
+in Argentina	-21
++21	1944
+1641	-2
++6	4
+41
+July 02
+1987	Argentina
+Ecuador	3
+0	Copa América
+in Argentina	+4
+-4	1948
+1501	+1
+-1	3
+73
+July 09
+1987	Argentina
+Uruguay	0
+1	Copa América
+in Argentina	-42
++42	1906
+1794	-4
++4	6
+19
+July 11
+1987	Argentina
+Colombia	1
+2	Copa América
+in Argentina	-43
++43	1863
+1731	-3
++8	9
+25
+December 16
+1987	Argentina
+West Germany	1
+0	Friendly
+in Argentina	+9
+-9	1872
+1926	0
+0	9
+3
+March 31
+1988	Argentina
+Soviet Union	2
+4	Friendly tournament
+in West Germany	-18
++18	1854
+1957	-2
+0	11
+2
+April 02
+1988	West Germany
+Argentina	1
+0	Friendly tournament
+in West Germany	+8
+-8	1928
+1846	+1
+0	3
+11
+July 06
+1988	Argentina
+Saudi Arabia	2
+2	Bicentenary Gold Cup
+in Australia	-12
++12	1834
+1491	-2
++2	10
+72
+July 10
+1988	Argentina
+Brazil	0
+0	Bicentenary Gold Cup
+in Australia	+4
+-4	1838
+1932	0
+0	10
+3
+July 14
+1988	Australia
+Argentina	4
+1	Bicentenary Gold Cup
+in Australia	+29
+-29	1730
+1809	+6
+-3	27
+13
+July 16
+1988	Argentina
+Saudi Arabia	2
+0	Bicentenary Gold Cup
+in Australia	+5
+-5	1814
+1434	+1
+-2	12
+83
+August 30
+1988	Argentina
+Brazil	1
+1	Friendly tournament
+in the United States	+6
+-6	1820
+1951	+1
+0	11
+3
+September 08
+1988	Japan
+Argentina	0
+1	Friendly
+in Japan	-4
++4	1495
+1824	-1
+0	71
+11
+October 12
+1988	Spain
+Argentina	1
+1	Friendly
+in Spain	-3
++3	1827
+1827	0
++2	10
+10
+March 09
+1989	Colombia
+Argentina	1
+0	Friendly
+in Colombia	+8
+-8	1807
+1819	+1
+0	15
+12
+April 13
+1989	Ecuador
+Argentina	2
+2	Friendly
+in Ecuador	+4
+-4	1557
+1815	+1
+-2	57
+14
+April 20
+1989	Chile
+Argentina	1
+1	Friendly
+in Chile	0
+0	1724
+1815	0
+0	28
+14
+July 02
+1989	Argentina
+Chile	1
+0	Copa América
+in Brazil	+19
+-19	1834
+1718	+2
+-1	13
+28
+July 04
+1989	Argentina
+Ecuador	0
+0	Copa América
+in Brazil	-15
++15	1819
+1606	-3
++4	16
+44
+July 08
+1989	Argentina
+Uruguay	1
+0	Copa América
+in Brazil	+25
+-25	1844
+1794	+2
+-6	13
+21
+July 10
+1989	Argentina
+Bolivia	0
+0	Copa América
+in Brazil	-20
++20	1824
+1465	-1
++7	14
+77
+July 12
+1989	Brazil
+Argentina	2
+0	Copa América
+in Brazil	+20
+-20	1914
+1804	+1
+-2	6
+16
+July 14
+1989	Argentina
+Uruguay	0
+2	Copa América
+in Brazil	-34
++34	1770
+1872	-6
++4	22
+9
+July 16
+1989	Argentina
+Paraguay	0
+0	Copa América
+in Brazil	-3
++3	1767
+1738	0
+0	22
+26
+December 21
+1989	Italy
+Argentina	0
+0	Friendly
+in Italy	-6
++6	1921
+1773	0
+0	4
+21
+January 14
+1990	Guatemala
+Argentina	0
+0	Friendly
+in Guatemala	+5
+-5	1469
+1768	+2
+0	75
+21
+January 17
+1990	Mexico
+Argentina	2
+0	Friendly
+in the United States	+11
+-11	1880
+1757	0
+0	10
+21
+March 28
+1990	Scotland
+Argentina	1
+0	Friendly
+in Scotland	+8
+-8	1734
+1749	0
+0	27
+23
+May 03
+1990	Austria
+Argentina	1
+1	Friendly
+in Austria	-2
++2	1706
+1751	0
+0	30
+23
+May 08
+1990	Switzerland
+Argentina	1
+1	Friendly
+in Switzerland	0
+0	1643
+1751	0
+0	37
+23
+May 22
+1990	Israel
+Argentina	1
+2	Friendly
+in Israel	-9
++9	1613
+1760	0
+0	40
+22
+June 08
+1990	Argentina
+Cameroon	0
+1	World Cup
+in Italy	-44
++44	1716
+1635	-6
++9	28
+38
+June 13
+1990	Argentina
+Soviet Union	2
+0	World Cup
+in Italy	+62
+-62	1778
+1788	+5
+-6	21
+19
+June 18
+1990	Argentina
+Romania	1
+1	World Cup
+in Italy	+7
+-7	1785
+1852	0
+-1	20
+10
+June 24
+1990	Argentina
+Brazil	1
+0	World Cup
+in Italy	+46
+-46	1831
+1950	+4
+-2	16
+3
+June 30
+1990	Argentina
+Yugoslavia	0
+0	World Cup
+in Italy	+5
+-5	1836
+1882	+1
+0	14
+7
+July 03
+1990	Italy
+Argentina	1
+1	World Cup
+in Italy	-19
++19	1972
+1855	0
++5	2
+9
+July 08
+1990	Argentina
+West Germany	0
+1	World Cup
+in Italy	-17
++17	1838
+2035	-4
+0	13
+1
+February 19
+1991	Argentina
+Hungary	2
+0	Friendly
+in Argentina	+7
+-7	1845
+1711	+1
+-2	12
+29
+March 13
+1991	Argentina
+Mexico	0
+0	Friendly
+in Argentina	-3
++3	1842
+1830	0
+0	12
+13
+March 27
+1991	Argentina
+Brazil	3
+3	Friendly
+in Argentina	-1
++1	1841
+1918	-1
+0	13
+5
+May 19
+1991	United States
+Argentina	0
+1	Friendly
+in the United States	-5
++5	1555
+1846	-1
+0	54
+12
+May 23
+1991	Soviet Union
+Argentina	1
+1	Friendly tournament
+in England	-1
++1	1858
+1847	0
+0	9
+12
+May 25
+1991	England
+Argentina	2
+2	Friendly tournament
+in England	-8
++8	1953
+1855	0
++1	3
+11
+June 27
+1991	Brazil
+Argentina	1
+1	Friendly
+in Brazil	-4
++4	1919
+1859	0
+0	4
+10
+July 08
+1991	Argentina
+Venezuela	3
+0	Copa América
+in Chile	+5
+-5	1864
+1354	0
+-4	10
+109
+July 10
+1991	Chile
+Argentina	0
+1	Copa América
+in Chile	-25
++25	1744
+1889	-4
++2	25
+8
+July 12
+1991	Argentina
+Paraguay	4
+1	Copa América
+in Chile	+26
+-26	1915
+1716	+4
+-3	4
+29
+July 14
+1991	Argentina
+Peru	3
+2	Copa América
+in Chile	+5
+-5	1920
+1523	0
+0	4
+61
+July 17
+1991	Argentina
+Brazil	3
+2	Copa América
+in Chile	+22
+-22	1942
+1854	0
+0	4
+10
+July 19
+1991	Chile
+Argentina	0
+0	Copa América
+in Chile	+5
+-5	1772
+1937	+1
+0	21
+4
+July 21
+1991	Argentina
+Colombia	2
+1	Copa América
+in Chile	+12
+-12	1949
+1734	0
+-2	4
+27
+May 31
+1992	Japan
+Argentina	0
+1	Kirin Cup
+in Japan	-2
++2	1402
+1951	-2
+0	93
+3
+June 03
+1992	Argentina
+Wales	1
+0	Kirin Cup
+in Japan	+7
+-7	1958
+1730	0
+-4	3
+28
+June 18
+1992	Argentina
+Australia	2
+0	Friendly
+in Argentina	+3
+-3	1961
+1686	-1
+0	3
+32
+September 23
+1992	Uruguay
+Argentina	0
+0	Friendly
+in Uruguay	+1
+-1	1830
+1960	0
+0	12
+3
+October 16
+1992	Argentina
+Ivory Coast	4
+0	Intercontinental Cup
+in Saudi Arabia	+18
+-18	1978
+1692	+1
+-1	1
+30
+October 20
+1992	Saudi Arabia
+Argentina	1
+3	Intercontinental Cup
+in Saudi Arabia	-16
++16	1640
+1994	-2
+0	37
+1
+November 26
+1992	Argentina
+Poland	2
+0	Friendly
+in Argentina	+4
+-4	1998
+1755	0
+-1	1
+22
+February 18
+1993	Argentina
+Brazil	1
+1	Friendly
+in Argentina	-4
++4	1994
+1965	0
+0	1
+2
+February 24
+1993	Argentina
+Denmark	1
+1	Artemio Franchi Trophy
+in Argentina	-14
++14	1980
+1884	0
++1	1
+8
+June 17
+1993	Argentina
+Bolivia	1
+0	Copa América
+in Ecuador	+3
+-3	1983
+1511	0
+-4	1
+74
+June 20
+1993	Argentina
+Mexico	1
+1	Copa América
+in Ecuador	-13
++13	1970
+1804	-1
++5	2
+13
+June 23
+1993	Argentina
+Colombia	1
+1	Copa América
+in Ecuador	-13
++13	1957
+1778	0
++2	2
+20
+June 27
+1993	Argentina
+Brazil	1
+1	Copa América
+in Ecuador	-3
++3	1954
+1924	0
+0	2
+4
+July 01
+1993	Argentina
+Colombia	0
+0	Copa América
+in Ecuador	-12
++12	1942
+1790	-1
++2	3
+18
+July 04
+1993	Argentina
+Mexico	2
+1	Copa América
+in Ecuador	+19
+-19	1961
+1833	+1
+-1	2
+11
+August 01
+1993	Peru
+Argentina	0
+1	World Cup qualifier
+in Peru	-6
++6	1547
+1967	-2
+0	62
+2
+August 08
+1993	Paraguay
+Argentina	1
+3	World Cup qualifier
+in Paraguay	-13
++13	1635
+1980	-5
++1	42
+1
+August 15
+1993	Colombia
+Argentina	2
+1	World Cup qualifier
+in Colombia	+24
+-24	1837
+1956	+2
+-1	12
+2
+August 22
+1993	Argentina
+Peru	2
+1	World Cup qualifier
+in Argentina	+2
+-2	1958
+1523	0
+0	2
+63
+August 29
+1993	Argentina
+Paraguay	0
+0	World Cup qualifier
+in Argentina	-17
++17	1941
+1667	-1
++6	3
+32
+September 05
+1993	Argentina
+Colombia	0
+5	World Cup qualifier
+in Argentina	-61
++61	1880
+1900	-6
++6	9
+6
+October 31
+1993	Australia
+Argentina	1
+1	World Cup qualifier
+in Australia	+5
+-5	1700
+1875	0
+-1	29
+9
+November 17
+1993	Argentina
+Australia	1
+0	World Cup qualifier
+in Argentina	+7
+-7	1882
+1686	+1
+-1	8
+30
+December 15
+1993	Argentina
+Germany	2
+1	Friendly
+in the United States	+13
+-13	1895
+1969	+2
+0	6
+1
+March 23
+1994	Brazil
+Argentina	2
+0	Friendly
+in Brazil	+10
+-10	1925
+1885	0
+-1	4
+7
+April 20
+1994	Argentina
+Morocco	3
+1	Friendly
+in Argentina	+4
+-4	1889
+1660	0
+-2	7
+37
+May 18
+1994	Chile
+Argentina	3
+3	Friendly
+in Chile	+1
+-1	1745
+1888	0
+0	24
+7
+May 25
+1994	Ecuador
+Argentina	1
+0	Friendly
+in Ecuador	+15
+-15	1614
+1873	+2
+-1	46
+8
+May 31
+1994	Israel
+Argentina	0
+3	Friendly
+in Israel	-7
++7	1540
+1880	-1
+0	60
+9
+June 04
+1994	Croatia
+Argentina	0
+0	Friendly
+in Croatia	0
+0	1796
+1880	0
+0	20
+9
+June 21
+1994	Argentina
+Greece	4
+0	World Cup
+in the United States	+24
+-24	1904
+1626	+3
+-6	5
+43
+June 25
+1994	Argentina
+Nigeria	2
+1	World Cup
+in the United States	+20
+-20	1924
+1769	+1
+0	4
+22
+June 30
+1994	Bulgaria
+Argentina	2
+0	World Cup
+in the United States	+68
+-68	1800
+1856	+6
+-7	20
+11
+July 03
+1994	Romania
+Argentina	3
+2	World Cup
+in the United States	+33
+-33	1849
+1823	+6
+-5	11
+16
+November 16
+1994	Chile
+Argentina	0
+3	Friendly
+in Chile	-19
++19	1733
+1842	-2
++2	27
+14
+December 21
+1994	Argentina
+Romania	1
+0	Friendly
+in Argentina	+8
+-8	1850
+1851	+2
+-1	13
+12
+December 27
+1994	Argentina
+Yugoslavia	1
+0	Friendly
+in Argentina	+8
+-8	1858
+1878	+2
+0	11
+7
+January 08
+1995	Argentina
+Japan	5
+1	Intercontinental Cup
+in Saudi Arabia	+14
+-14	1872
+1546	+3
+-3	9
+59
+January 10
+1995	Nigeria
+Argentina	0
+0	Intercontinental Cup
+in Saudi Arabia	+7
+-7	1776
+1865	+1
+-1	23
+10
+January 13
+1995	Denmark
+Argentina	2
+0	Intercontinental Cup
+in Saudi Arabia	+35
+-35	1924
+1830	+2
+-8	5
+18
+February 14
+1995	Argentina
+Bulgaria	4
+1	Friendly
+in Argentina	+12
+-12	1842
+1810	+4
+0	15
+21
+May 13
+1995	South Africa
+Argentina	1
+1	Friendly tournament
+in South Africa	+3
+-3	1670
+1839	+1
+-1	31
+17
+May 31
+1995	Argentina
+Peru	1
+0	Friendly
+in Argentina	+2
+-2	1841
+1544	0
+0	17
+57
+June 14
+1995	Argentina
+Paraguay	2
+1	Friendly
+in Argentina	+3
+-3	1844
+1657	0
+0	13
+33
+June 22
+1995	Argentina
+Slovakia	6
+0	Friendly
+in Argentina	+5
+-5	1849
+1579	+2
+-1	10
+49
+June 30
+1995	Argentina
+Australia	2
+0	Friendly
+in Argentina	+5
+-5	1854
+1677	0
+0	10
+31
+July 08
+1995	Argentina
+Bolivia	2
+1	Copa América
+in Uruguay	+10
+-10	1864
+1606	+1
+-1	8
+44
+July 11
+1995	Argentina
+Chile	4
+0	Copa América
+in Uruguay	+25
+-25	1889
+1659	+2
+-3	6
+33
+July 14
+1995	United States
+Argentina	3
+0	Copa América
+in Uruguay	+70
+-70	1716
+1819	+6
+-10	28
+16
+July 17
+1995	Brazil
+Argentina	2
+2	Copa América
+in Uruguay	-16
++16	2069
+1835	0
++4	1
+12
+September 20
+1995	Spain
+Argentina	2
+1	Friendly
+in Spain	+5
+-5	1943
+1830	0
+-2	4
+12
+October 11
+1995	Argentina
+Colombia	0
+0	Friendly
+in Argentina	-3
++3	1827
+1832	0
++3	13
+11
+November 08
+1995	Argentina
+Brazil	0
+1	Friendly
+in Argentina	-6
++6	1821
+2074	-2
+0	14
+1
+December 21
+1995	Argentina
+Venezuela	6
+0	Friendly
+in Argentina	+1
+-1	1822
+1318	0
+0	15
+124
+April 24
+1996	Argentina
+Bolivia	3
+1	World Cup qualifier
+in Argentina	+11
+-11	1833
+1655	+2
+-1	15
+35
+June 02
+1996	Ecuador
+Argentina	2
+0	World Cup qualifier
+in Ecuador	+35
+-35	1705
+1798	+2
+-1	31
+18
+June 20
+1996	Argentina
+Poland	2
+0	Friendly
+in Argentina	+5
+-5	1803
+1612	0
+-1	18
+42
+July 07
+1996	Peru
+Argentina	0
+0	World Cup qualifier
+in Peru	+9
+-9	1540
+1794	+3
+0	64
+18
+September 01
+1996	Argentina
+Paraguay	1
+1	World Cup qualifier
+in Argentina	-7
++7	1787
+1765	-1
+0	19
+21
+October 09
+1996	Venezuela
+Argentina	2
+5	World Cup qualifier
+in Venezuela	-10
++10	1357
+1797	-2
++1	117
+17
+December 15
+1996	Argentina
+Chile	1
+1	World Cup qualifier
+in Argentina	-10
++10	1787
+1718	-1
+0	18
+29
+December 28
+1996	Argentina
+Yugoslavia	2
+3	Friendly
+in Argentina	-10
++10	1777
+1898	-3
+0	21
+9
+January 12
+1997	Uruguay
+Argentina	0
+0	World Cup qualifier
+in Uruguay	-4
++4	1735
+1781	0
++1	25
+20
+February 12
+1997	Colombia
+Argentina	0
+1	World Cup qualifier
+in Colombia	-29
++29	1825
+1810	-3
++4	14
+16
+April 02
+1997	Bolivia
+Argentina	2
+1	World Cup qualifier
+in Bolivia	+23
+-23	1677
+1787	+4
+-5	33
+20
+April 30
+1997	Argentina
+Ecuador	2
+1	World Cup qualifier
+in Argentina	+9
+-9	1796
+1669	+2
+-2	18
+35
+June 08
+1997	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+12
+-12	1808
+1638	+2
+-2	17
+41
+June 11
+1997	Argentina
+Ecuador	0
+0	Copa América
+in Bolivia	-9
++9	1799
+1685	-2
++2	19
+32
+June 14
+1997	Argentina
+Chile	2
+0	Copa América
+in Bolivia	+26
+-26	1825
+1668	+5
+-4	14
+34
+June 17
+1997	Argentina
+Paraguay	1
+1	Copa América
+in Bolivia	-3
++3	1822
+1791	-1
+0	14
+20
+June 21
+1997	Peru
+Argentina	2
+1	Copa América
+in Bolivia	+36
+-36	1687
+1786	+6
+-6	32
+20
+July 06
+1997	Paraguay
+Argentina	1
+2	World Cup qualifier
+in Paraguay	-25
++25	1754
+1811	-2
++3	22
+16
+July 20
+1997	Argentina
+Venezuela	2
+0	World Cup qualifier
+in Argentina	+2
+-2	1813
+1329	+1
+-1	15
+126
+September 10
+1997	Chile
+Argentina	1
+2	World Cup qualifier
+in Chile	-18
++18	1665
+1831	-5
++4	39
+13
+October 12
+1997	Argentina
+Uruguay	0
+0	World Cup qualifier
+in Argentina	-13
++13	1818
+1661	0
++1	16
+41
+November 16
+1997	Argentina
+Colombia	1
+1	World Cup qualifier
+in Argentina	-9
++9	1809
+1749	0
++1	17
+23
+February 19
+1998	Argentina
+Romania	2
+1	Friendly
+in Argentina	+8
+-8	1817
+1832	0
+-2	17
+14
+February 24
+1998	Argentina
+Yugoslavia	3
+1	Friendly
+in Argentina	+16
+-16	1833
+1928	+3
+-2	14
+7
+March 10
+1998	Argentina
+Bulgaria	2
+0	Friendly
+in Argentina	+9
+-9	1842
+1773	+3
+-1	11
+20
+April 15
+1998	Israel
+Argentina	2
+1	Friendly
+in Israel	+13
+-13	1630
+1829	+5
+-4	46
+15
+April 22
+1998	Ireland
+Argentina	0
+2	Friendly
+in Ireland	-13
++13	1658
+1842	-1
++2	38
+13
+April 29
+1998	Brazil
+Argentina	0
+1	Friendly
+in Brazil	-18
++18	2064
+1860	0
++2	1
+11
+May 14
+1998	Argentina
+Bosnia and Herzegovina	5
+0	Friendly
+in Argentina	+4
+-4	1864
+1555	+2
+-1	9
+61
+May 19
+1998	Argentina
+Chile	1
+0	Friendly
+in Argentina	+5
+-5	1869
+1755	0
+0	9
+22
+May 25
+1998	Argentina
+South Africa	2
+0	Friendly
+in Argentina	+4
+-4	1873
+1644	+1
+0	9
+41
+June 14
+1998	Argentina
+Japan	1
+0	World Cup
+in France	+17
+-17	1890
+1693	0
+-2	9
+33
+June 21
+1998	Argentina
+Jamaica	5
+0	World Cup
+in France	+19
+-19	1909
+1586	0
+-4	9
+58
+June 26
+1998	Argentina
+Croatia	1
+0	World Cup
+in France	+26
+-26	1935
+1840	+1
+-3	8
+15
+June 30
+1998	Argentina
+England	2
+2	World Cup
+in France	0
+0	1935
+1936	0
+0	8
+7
+July 04
+1998	Netherlands
+Argentina	2
+1	World Cup
+in France	+27
+-27	1994
+1908	+3
+-2	2
+10
+February 03
+1999	Venezuela
+Argentina	0
+2	Friendly
+in Venezuela	-2
++2	1310
+1910	0
++1	127
+9
+February 10
+1999	Argentina
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1918
+1831	+2
+0	6
+15
+March 31
+1999	Netherlands
+Argentina	1
+1	Friendly
+in the Netherlands	-4
++4	1954
+1922	0
+0	4
+7
+June 09
+1999	Argentina
+Mexico	2
+2	Friendly
+in the United States	-2
++2	1920
+1854	0
+0	6
+15
+June 13
+1999	United States
+Argentina	1
+0	Friendly
+in the United States	+13
+-13	1710
+1907	+1
+-2	31
+8
+June 26
+1999	Argentina
+Lithuania	0
+0	Friendly
+in Argentina	-9
++9	1898
+1443	0
++5	8
+89
+July 01
+1999	Argentina
+Ecuador	3
+1	Copa América
+in Paraguay	+19
+-19	1917
+1693	+2
+-4	6
+32
+July 04
+1999	Colombia
+Argentina	3
+0	Copa América
+in Paraguay	+65
+-65	1796
+1852	+7
+-9	17
+15
+July 07
+1999	Argentina
+Uruguay	2
+0	Copa América
+in Paraguay	+26
+-26	1878
+1715	+4
+-4	11
+27
+July 11
+1999	Brazil
+Argentina	2
+1	Copa América
+in Paraguay	+14
+-14	2055
+1864	0
+-3	1
+14
+September 04
+1999	Argentina
+Brazil	2
+0	Friendly
+in Argentina	+20
+-20	1884
+2069	+3
+0	10
+1
+September 07
+1999	Brazil
+Argentina	4
+2	Friendly
+in Brazil	+5
+-5	2074
+1879	0
+-1	1
+11
+October 13
+1999	Argentina
+Colombia	2
+1	Friendly
+in Argentina	+5
+-5	1884
+1761	0
+0	12
+22
+November 17
+1999	Spain
+Argentina	0
+2	Friendly
+in Spain	-23
++23	1968
+1907	0
++3	3
+6
+February 23
+2000	England
+Argentina	0
+0	Friendly
+in England	-2
++2	1870
+1909	+1
++1	12
+5
+March 29
+2000	Argentina
+Chile	4
+1	World Cup qualifier
+in Argentina	+10
+-10	1919
+1684	0
+-3	5
+36
+April 26
+2000	Venezuela
+Argentina	0
+4	World Cup qualifier
+in Venezuela	-5
++5	1365
+1924	+1
++1	113
+4
+June 04
+2000	Argentina
+Bolivia	1
+0	World Cup qualifier
+in Argentina	+3
+-3	1927
+1613	-1
+-1	5
+54
+June 29
+2000	Colombia
+Argentina	1
+3	World Cup qualifier
+in Colombia	-23
++23	1716
+1950	-7
++1	29
+6
+July 19
+2000	Argentina
+Ecuador	2
+0	World Cup qualifier
+in Argentina	+6
+-6	1956
+1654	+1
+-2	5
+45
+July 26
+2000	Brazil
+Argentina	3
+1	World Cup qualifier
+in Brazil	+16
+-16	2042
+1940	0
+-2	2
+7
+August 16
+2000	Argentina
+Paraguay	1
+1	World Cup qualifier
+in Argentina	-13
++13	1927
+1782	0
++1	7
+17
+September 03
+2000	Peru
+Argentina	1
+2	World Cup qualifier
+in Peru	-12
++12	1676
+1939	-3
+0	38
+7
+October 08
+2000	Argentina
+Uruguay	2
+1	World Cup qualifier
+in Argentina	+6
+-6	1945
+1737	0
+-2	6
+26
+November 15
+2000	Chile
+Argentina	0
+2	World Cup qualifier
+in Chile	-19
++19	1686
+1964	-5
++1	38
+5
+December 20
+2000	Argentina
+Mexico	2
+0	Friendly
+in the United States	+9
+-9	1973
+1817	0
+0	5
+13
+February 28
+2001	Italy
+Argentina	1
+2	Friendly
+in Italy	-13
++13	1968
+1986	-1
++2	5
+3
+March 28
+2001	Argentina
+Venezuela	5
+0	World Cup qualifier
+in Argentina	+1
+-1	1987
+1386	+1
+-2	3
+105
+April 25
+2001	Bolivia
+Argentina	3
+3	World Cup qualifier
+in Bolivia	+15
+-15	1559
+1972	+3
+0	62
+3
+June 03
+2001	Argentina
+Colombia	3
+0	World Cup qualifier
+in Argentina	+10
+-10	1982
+1755	0
+-1	3
+25
+August 15
+2001	Ecuador
+Argentina	0
+2	World Cup qualifier
+in Ecuador	-15
++15	1675
+1997	-5
+0	40
+3
+September 05
+2001	Argentina
+Brazil	2
+1	World Cup qualifier
+in Argentina	+8
+-8	2005
+1845	0
+-1	2
+11
+October 07
+2001	Paraguay
+Argentina	2
+2	World Cup qualifier
+in Paraguay	+7
+-7	1783
+1998	+1
+0	21
+2
+November 08
+2001	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+3
+-3	2001
+1607	0
+0	2
+53
+November 14
+2001	Uruguay
+Argentina	1
+1	World Cup qualifier
+in Uruguay	+9
+-9	1740
+1992	+1
+0	26
+2
+February 13
+2002	Wales
+Argentina	1
+1	Friendly
+in Wales	+8
+-8	1523
+1984	+2
+-1	70
+3
+March 27
+2002	Cameroon
+Argentina	2
+2	Friendly
+in Switzerland	+5
+-5	1809
+1979	+3
+0	16
+3
+April 17
+2002	Germany
+Argentina	0
+1	Friendly
+in Germany	-9
++9	1839
+1988	-2
+0	14
+3
+June 02
+2002	Argentina
+Nigeria	1
+0	World Cup
+in Japan	+12
+-12	2000
+1744	0
+-2	2
+27
+June 07
+2002	England
+Argentina	1
+0	World Cup
+in Japan	+40
+-40	1926
+1960	+1
+-4	6
+5
+June 12
+2002	Sweden
+Argentina	1
+1	World Cup
+in Japan	+8
+-8	1870
+1952	+1
+0	11
+3
+November 20
+2002	Japan
+Argentina	0
+2	Friendly
+in Japan	-12
++12	1780
+1964	-3
++1	21
+3
+February 01
+2003	Honduras
+Argentina	1
+3	Friendly
+in Honduras	-10
++10	1736
+1974	-2
+0	31
+3
+February 04
+2003	Argentina
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1980
+1802	0
+-1	3
+16
+February 08
+2003	United States
+Argentina	0
+1	Friendly
+in the United States	-8
++8	1796
+1988	-2
+0	17
+3
+February 12
+2003	Netherlands
+Argentina	1
+0	Friendly
+in the Netherlands	+6
+-6	2021
+1982	0
+0	2
+3
+April 30
+2003	Libya
+Argentina	1
+3	Friendly
+in Libya	-1
++1	1349
+1983	0
+0	121
+3
+June 08
+2003	Japan
+Argentina	1
+4	Kirin Cup
+in Japan	-18
++18	1757
+2001	-1
+0	21
+3
+June 11
+2003	South Korea
+Argentina	0
+1	Friendly
+in South Korea	-5
++5	1719
+2006	-2
+0	32
+3
+July 16
+2003	Argentina
+Uruguay	2
+2	Friendly
+in Argentina	-7
++7	1999
+1786	0
+0	2
+21
+August 20
+2003	Argentina
+Uruguay	3
+2	Friendly
+in Italy	+6
+-6	2005
+1835	0
+0	2
+15
+September 06
+2003	Argentina
+Chile	2
+2	World Cup qualifier
+in Argentina	-18
++18	1987
+1610	-1
++3	3
+54
+September 09
+2003	Venezuela
+Argentina	0
+3	World Cup qualifier
+in Venezuela	-10
++10	1570
+1997	-2
++1	60
+2
+November 15
+2003	Argentina
+Bolivia	3
+0	World Cup qualifier
+in Argentina	+3
+-3	2000
+1577	0
+-1	2
+60
+November 19
+2003	Colombia
+Argentina	1
+1	World Cup qualifier
+in Colombia	+12
+-12	1682
+1988	+2
+0	36
+2
+March 30
+2004	Argentina
+Ecuador	1
+0	World Cup qualifier
+in Argentina	+4
+-4	1992
+1685	0
+-2	2
+39
+April 28
+2004	Morocco
+Argentina	0
+1	Friendly
+in Morocco	-5
++5	1704
+1997	-1
+0	35
+2
+June 02
+2004	Brazil
+Argentina	3
+1	World Cup qualifier
+in Brazil	+24
+-24	1992
+1973	+2
+-2	2
+4
+June 06
+2004	Argentina
+Paraguay	0
+0	World Cup qualifier
+in Argentina	-15
++15	1958
+1759	0
++3	4
+23
+June 27
+2004	Colombia
+Argentina	2
+0	Friendly
+in the United States	+23
+-23	1761
+1935	+3
+-2	24
+6
+June 30
+2004	Argentina
+Peru	2
+1	Friendly
+in the United States	+4
+-4	1939
+1666	0
+0	6
+41
+July 07
+2004	Argentina
+Ecuador	6
+1	Copa América
+in Peru	+21
+-21	1960
+1687	+2
+-3	4
+34
+July 10
+2004	Mexico
+Argentina	1
+0	Copa América
+in Peru	+35
+-35	1853
+1925	+4
+-2	11
+6
+July 13
+2004	Argentina
+Uruguay	4
+2	Copa América
+in Peru	+17
+-17	1942
+1699	+1
+0	5
+31
+July 17
+2004	Peru
+Argentina	0
+1	Copa América
+in Peru	-14
++14	1665
+1956	-2
++1	37
+4
+July 20
+2004	Argentina
+Colombia	3
+0	Copa América
+in Peru	+27
+-27	1983
+1788	+1
+-3	3
+20
+July 25
+2004	Brazil
+Argentina	2
+2	Copa América
+in Peru	0
+0	1980
+1983	0
+0	3
+2
+August 18
+2004	Japan
+Argentina	1
+2	Friendly
+in Japan	-9
++9	1836
+1992	-1
++1	12
+1
+September 04
+2004	Peru
+Argentina	1
+3	World Cup qualifier
+in Peru	-13
++13	1652
+2005	-2
+0	40
+1
+October 09
+2004	Argentina
+Uruguay	4
+2	World Cup qualifier
+in Argentina	+9
+-9	2014
+1789	0
+-1	1
+23
+October 13
+2004	Chile
+Argentina	0
+0	World Cup qualifier
+in Chile	+13
+-13	1644
+2001	+5
+0	43
+1
+November 17
+2004	Argentina
+Venezuela	3
+2	World Cup qualifier
+in Argentina	+2
+-2	2003
+1614	0
+-1	1
+51
+February 09
+2005	Germany
+Argentina	2
+2	Friendly
+in Germany	+1
+-1	1857
+2002	-1
+0	12
+1
+March 09
+2005	Argentina
+Mexico	1
+1	Friendly
+in the United States	-4
++4	1998
+1876	0
+0	1
+9
+March 26
+2005	Bolivia
+Argentina	1
+2	World Cup qualifier
+in Bolivia	-5
++5	1559
+2003	-1
+0	67
+1
+March 30
+2005	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+5
+-5	2008
+1764	0
+0	1
+24
+June 04
+2005	Ecuador
+Argentina	2
+0	World Cup qualifier
+in Ecuador	+46
+-46	1750
+1962	+6
+-1	28
+2
+June 08
+2005	Argentina
+Brazil	3
+1	World Cup qualifier
+in Argentina	+22
+-22	1984
+1939	+1
+-2	1
+5
+June 15
+2005	Argentina
+Tunisia	2
+1	Confederations Cup
+in Germany	+7
+-7	1991
+1651	0
+0	1
+45
+June 18
+2005	Argentina
+Australia	4
+2	Confederations Cup
+in Germany	+18
+-18	2009
+1778	0
+-3	1
+24
+June 21
+2005	Germany
+Argentina	2
+2	Confederations Cup
+in Germany	+1
+-1	1890
+2008	0
+0	9
+1
+June 26
+2005	Argentina
+Mexico	1
+1	Confederations Cup
+in Germany	-6
++6	2002
+1932	0
++1	1
+6
+June 29
+2005	Brazil
+Argentina	4
+1	Confederations Cup
+in Germany	+49
+-49	2010
+1953	+3
+-4	1
+5
+August 17
+2005	Hungary
+Argentina	1
+2	Friendly
+in Hungary	-4
++4	1581
+1957	+1
++2	58
+3
+September 03
+2005	Paraguay
+Argentina	1
+0	World Cup qualifier
+in Paraguay	+27
+-27	1754
+1930	+3
+-2	26
+5
+October 09
+2005	Argentina
+Peru	2
+0	World Cup qualifier
+in Argentina	+5
+-5	1935
+1620	+1
+-2	4
+54
+October 12
+2005	Uruguay
+Argentina	1
+0	World Cup qualifier
+in Uruguay	+22
+-22	1817
+1913	+4
+-2	18
+6
+November 12
+2005	England
+Argentina	3
+2	Friendly
+in Switzerland	+10
+-10	1933
+1903	0
+-2	5
+8
+November 16
+2005	Qatar
+Argentina	0
+3	Friendly
+in Qatar	-6
++6	1509
+1909	-1
++1	77
+7
+March 01
+2006	Croatia
+Argentina	3
+2	Friendly
+in Switzerland	+13
+-13	1816
+1896	+3
+-1	15
+8
+May 30
+2006	Argentina
+Angola	2
+0	Friendly
+in Italy	+4
+-4	1900
+1572	0
+-2	8
+60
+June 10
+2006	Argentina
+Ivory Coast	2
+1	World Cup
+in Germany	+19
+-19	1919
+1744	+1
+-2	7
+30
+June 16
+2006	Argentina
+Serbia and Montenegro	6
+0	World Cup
+in Germany	+36
+-36	1955
+1719	+2
+-5	6
+33
+June 21
+2006	Argentina
+Netherlands	0
+0	World Cup
+in Germany	+3
+-3	1958
+1986	0
+0	4
+2
+June 24
+2006	Argentina
+Mexico	2
+1	World Cup
+in Germany	+18
+-18	1976
+1797	0
+-1	4
+17
+June 30
+2006	Germany
+Argentina	1
+1	World Cup
+in Germany	-6
++6	1940
+1982	0
+0	8
+3
+September 03
+2006	Brazil
+Argentina	3
+0	Friendly
+in England	+15
+-15	2045
+1967	0
+-2	2
+6
+October 11
+2006	Spain
+Argentina	2
+1	Friendly
+in Spain	+10
+-10	1872
+1957	+1
+-2	9
+6
+February 07
+2007	France
+Argentina	0
+1	Friendly
+in France	-15
++15	2021
+1972	-1
++1	2
+4
+April 18
+2007	Argentina
+Chile	0
+0	Friendly
+in Argentina	-8
++8	1964
+1716	0
++1	4
+36
+June 02
+2007	Switzerland
+Argentina	1
+1	Friendly
+in Switzerland	+2
+-2	1802
+1962	0
+-1	17
+5
+June 05
+2007	Argentina
+Algeria	4
+3	Friendly
+in Spain	+1
+-1	1963
+1437	0
+-1	5
+95
+June 28
+2007	Argentina
+United States	4
+1	Copa América
+in Venezuela	+28
+-28	1991
+1808	+3
+-2	3
+16
+July 02
+2007	Argentina
+Colombia	4
+2	Copa América
+in Venezuela	+15
+-15	2006
+1731	+2
+-6	2
+35
+July 05
+2007	Argentina
+Paraguay	1
+0	Copa América
+in Venezuela	+14
+-14	2020
+1820	0
+0	2
+15
+July 08
+2007	Argentina
+Peru	4
+0	Copa América
+in Venezuela	+9
+-9	2029
+1631	0
+-2	2
+49
+July 11
+2007	Argentina
+Mexico	3
+0	Copa América
+in Venezuela	+29
+-29	2058
+1875	+1
+-2	1
+10
+July 15
+2007	Brazil
+Argentina	3
+0	Copa América
+in Venezuela	+50
+-50	2056
+2008	+2
+-2	1
+3
+August 22
+2007	Norway
+Argentina	2
+1	Friendly
+in Norway	+15
+-15	1740
+1993	+5
+0	29
+3
+September 11
+2007	Australia
+Argentina	0
+1	Friendly
+in Australia	-5
++5	1704
+1998	-2
+0	38
+3
+October 13
+2007	Argentina
+Chile	2
+0	World Cup qualifier
+in Argentina	+6
+-6	2004
+1723	+1
+-2	2
+35
+October 16
+2007	Venezuela
+Argentina	0
+2	World Cup qualifier
+in Venezuela	-11
++11	1642
+2015	-1
+0	45
+2
+November 17
+2007	Argentina
+Bolivia	3
+0	World Cup qualifier
+in Argentina	+3
+-3	2018
+1547	0
+-3	2
+69
+November 20
+2007	Colombia
+Argentina	2
+1	World Cup qualifier
+in Colombia	+27
+-27	1816
+1991	+2
+-2	14
+4
+March 26
+2008	Egypt
+Argentina	0
+2	Friendly
+in Egypt	-12
++12	1807
+2003	0
+0	15
+3
+June 04
+2008	Argentina
+Mexico	4
+1	Friendly
+in the United States	+11
+-11	2014
+1863	+1
+0	2
+11
+June 08
+2008	United States
+Argentina	0
+0	Friendly
+in the United States	+4
+-4	1778
+2010	0
+0	21
+2
+June 15
+2008	Argentina
+Ecuador	1
+1	World Cup qualifier
+in Argentina	-17
++17	1993
+1669	0
++3	3
+42
+June 18
+2008	Brazil
+Argentina	0
+0	World Cup qualifier
+in Brazil	-6
++6	1988
+1999	-2
+0	4
+3
+August 20
+2008	Belarus
+Argentina	0
+0	Friendly
+in Belarus	+8
+-8	1557
+1991	+1
+-1	64
+3
+September 06
+2008	Argentina
+Paraguay	1
+1	World Cup qualifier
+in Argentina	-14
++14	1977
+1795	-2
+0	5
+18
+September 10
+2008	Peru
+Argentina	1
+1	World Cup qualifier
+in Peru	+13
+-13	1628
+1964	-1
+0	49
+5
+October 11
+2008	Argentina
+Uruguay	2
+1	World Cup qualifier
+in Argentina	+8
+-8	1972
+1811	0
+-2	5
+15
+October 15
+2008	Chile
+Argentina	1
+0	World Cup qualifier
+in Chile	+26
+-26	1781
+1946	+4
+-1	20
+6
+November 19
+2008	Scotland
+Argentina	0
+1	Friendly
+in Scotland	-6
++6	1691
+1952	-1
+0	40
+6
+February 11
+2009	France
+Argentina	0
+2	Friendly
+in France	-16
++16	1849
+1968	-2
++2	10
+4
+March 28
+2009	Argentina
+Venezuela	4
+0	World Cup qualifier
+in Argentina	+6
+-6	1974
+1636	0
+-1	4
+47
+April 01
+2009	Bolivia
+Argentina	6
+1	World Cup qualifier
+in Bolivia	+69
+-69	1632
+1905	+11
+-3	50
+7
+May 20
+2009	Argentina
+Panama	3
+1	Friendly
+in Argentina	+2
+-2	1907
+1567	0
+-1	7
+60
+June 06
+2009	Argentina
+Colombia	1
+0	World Cup qualifier
+in Argentina	+6
+-6	1913
+1703	0
+0	7
+36
+June 10
+2009	Ecuador
+Argentina	2
+0	World Cup qualifier
+in Ecuador	+40
+-40	1728
+1873	+12
+-1	31
+8
+August 12
+2009	Russia
+Argentina	2
+3	Friendly
+in Russia	-13
++13	1869
+1886	-2
++1	9
+7
+September 05
+2009	Argentina
+Brazil	1
+3	World Cup qualifier
+in Argentina	-20
++20	1866
+2122	-3
+0	10
+1
+September 09
+2009	Paraguay
+Argentina	1
+0	World Cup qualifier
+in Paraguay	+20
+-20	1786
+1846	+3
+-1	19
+11
+September 30
+2009	Argentina
+Ghana	2
+0	Friendly
+in Argentina	+7
+-7	1853
+1730	+1
+-2	10
+34
+October 10
+2009	Argentina
+Peru	2
+1	World Cup qualifier
+in Argentina	+3
+-3	1856
+1535	0
+-3	10
+71
+October 14
+2009	Uruguay
+Argentina	0
+1	World Cup qualifier
+in Uruguay	-23
++23	1784
+1879	0
++3	16
+7
+November 14
+2009	Spain
+Argentina	2
+1	Friendly
+in Spain	+3
+-3	2064
+1876	0
+0	2
+7
+January 26
+2010	Argentina
+Costa Rica	3
+2	Friendly
+in Argentina	+3
+-3	1879
+1683	0
+0	7
+41
+February 10
+2010	Argentina
+Jamaica	2
+1	Friendly
+in Argentina	+2
+-2	1881
+1612	0
+0	7
+51
+March 03
+2010	Germany
+Argentina	0
+1	Friendly
+in Germany	-14
++14	1919
+1895	-1
+0	6
+7
+May 05
+2010	Argentina
+Haiti	4
+0	Friendly
+in Argentina	+1
+-1	1896
+1418	0
+-1	7
+102
+May 24
+2010	Argentina
+Canada	5
+0	Friendly
+in Argentina	+3
+-3	1899
+1578	0
+-1	7
+57
+June 12
+2010	Argentina
+Nigeria	1
+0	World Cup
+in South Africa	+15
+-15	1914
+1692	+1
+-4	6
+37
+June 17
+2010	Argentina
+South Korea	4
+1	World Cup
+in South Africa	+34
+-34	1948
+1755	0
+-7	6
+23
+June 22
+2010	Argentina
+Greece	2
+0	World Cup
+in South Africa	+18
+-18	1966
+1685	0
+-4	4
+38
+June 27
+2010	Argentina
+Mexico	3
+1	World Cup
+in South Africa	+33
+-33	1999
+1840	0
+-1	4
+11
+July 03
+2010	Germany
+Argentina	4
+0	World Cup
+in South Africa	+59
+-59	2044
+1940	+1
+-1	4
+5
+August 11
+2010	Ireland
+Argentina	0
+1	Friendly
+in Ireland	-7
++7	1736
+1947	-1
+0	27
+5
+September 07
+2010	Argentina
+Spain	4
+1	Friendly
+in Argentina	+22
+-22	1969
+2113	0
+0	5
+1
+October 08
+2010	Japan
+Argentina	1
+0	Friendly
+in Japan	+13
+-13	1770
+1956	+3
+0	20
+5
+November 17
+2010	Argentina
+Brazil	1
+0	Friendly
+in Qatar	+14
+-14	1970
+2073	0
+-1	5
+3
+February 09
+2011	Argentina
+Portugal	2
+1	Friendly
+in Switzerland	+7
+-7	1977
+1864	0
+-2	5
+10
+March 16
+2011	Argentina
+Venezuela	4
+1	Friendly
+in Argentina	+3
+-3	1980
+1678	0
+0	5
+38
+March 26
+2011	United States
+Argentina	1
+1	Friendly
+in the United States	+4
+-4	1748
+1976	-1
+0	26
+5
+March 29
+2011	Costa Rica
+Argentina	0
+0	Friendly
+in Costa Rica	+6
+-6	1653
+1970	+2
+0	42
+5
+April 20
+2011	Argentina
+Ecuador	2
+2	Friendly
+in Argentina	-8
++8	1962
+1700	0
++1	5
+35
+May 25
+2011	Argentina
+Paraguay	4
+2	Friendly
+in Argentina	+5
+-5	1967
+1763	0
+-2	5
+20
+June 01
+2011	Nigeria
+Argentina	4
+1	Friendly
+in Nigeria	+27
+-27	1678
+1940	+8
+0	37
+5
+June 05
+2011	Poland
+Argentina	2
+1	Friendly
+in Poland	+15
+-15	1666
+1925	+3
+0	43
+5
+June 20
+2011	Argentina
+Albania	4
+0	Friendly
+in Argentina	+2
+-2	1927
+1492	0
+0	5
+86
+July 01
+2011	Argentina
+Bolivia	1
+1	Copa América
+in Argentina	-22
++22	1905
+1558	0
++5	6
+65
+July 06
+2011	Argentina
+Colombia	0
+0	Copa América
+in Argentina	-15
++15	1890
+1779	-2
++3	8
+19
+July 11
+2011	Argentina
+Costa Rica	3
+0	Copa América
+in Argentina	+11
+-11	1901
+1643	+1
+-2	6
+48
+July 16
+2011	Argentina
+Uruguay	1
+1	Copa América
+in Argentina	-9
++9	1892
+1879	-1
++1	7
+8
+September 02
+2011	Argentina
+Venezuela	1
+0	Friendly
+in India	+5
+-5	1897
+1693	0
+-1	7
+37
+September 06
+2011	Argentina
+Nigeria	3
+1	Friendly
+in Bangladesh	+6
+-6	1903
+1666	0
+-1	7
+40
+September 14
+2011	Argentina
+Brazil	0
+0	Friendly
+in Argentina	0
+0	1903
+2015	0
+0	7
+4
+September 28
+2011	Brazil
+Argentina	2
+0	Friendly
+in Brazil	+7
+-7	2022
+1896	0
+0	4
+7
+October 07
+2011	Argentina
+Chile	4
+1	World Cup qualifier
+in Argentina	+23
+-23	1919
+1845	+1
+0	6
+10
+October 11
+2011	Venezuela
+Argentina	1
+0	World Cup qualifier
+in Venezuela	+28
+-28	1704
+1891	+1
+-1	36
+7
+November 11
+2011	Argentina
+Bolivia	1
+1	World Cup qualifier
+in Argentina	-18
++18	1873
+1515	-1
++6	8
+77
+November 15
+2011	Colombia
+Argentina	1
+2	World Cup qualifier
+in Colombia	-20
++20	1747
+1893	-3
++1	27
+7
+February 29
+2012	Switzerland
+Argentina	1
+3	Friendly
+in Switzerland	-13
++13	1725
+1906	-3
+0	31
+7
+June 02
+2012	Argentina
+Ecuador	4
+0	World Cup qualifier
+in Argentina	+15
+-15	1921
+1750	0
+-4	7
+26
+June 09
+2012	Argentina
+Brazil	4
+3	Friendly
+in the United States	+13
+-13	1934
+2018	+1
+0	6
+3
+August 15
+2012	Germany
+Argentina	1
+3	Friendly
+in Germany	-23
++23	2013
+1957	-1
++2	3
+5
+September 07
+2012	Argentina
+Paraguay	3
+1	World Cup qualifier
+in Argentina	+8
+-8	1965
+1730	+1
++1	4
+26
+September 11
+2012	Peru
+Argentina	1
+1	World Cup qualifier
+in Peru	+8
+-8	1717
+1957	+3
+0	29
+4
+September 19
+2012	Brazil
+Argentina	2
+1	Friendly
+in Brazil	+5
+-5	2041
+1952	0
+0	2
+4
+October 12
+2012	Argentina
+Uruguay	3
+0	World Cup qualifier
+in Argentina	+20
+-20	1972
+1874	0
+-2	4
+10
+October 16
+2012	Chile
+Argentina	1
+2	World Cup qualifier
+in Chile	-16
++16	1794
+1988	-1
+0	19
+4
+November 14
+2012	Saudi Arabia
+Argentina	0
+0	Friendly
+in Saudi Arabia	+8
+-8	1490
+1980	+4
+0	84
+4
+November 21
+2012	Argentina
+Brazil	2
+1	Friendly
+in Argentina	+9
+-9	1989
+2037	0
+0	4
+2
+February 06
+2013	Sweden
+Argentina	2
+3	Friendly
+in Sweden	-10
++10	1869
+1999	0
+0	10
+4
+March 22
+2013	Argentina
+Venezuela	3
+0	World Cup qualifier
+in Argentina	+6
+-6	2005
+1684	0
+0	4
+36
+March 26
+2013	Bolivia
+Argentina	1
+1	World Cup qualifier
+in Bolivia	+14
+-14	1613
+1991	+3
+0	52
+4
+June 07
+2013	Argentina
+Colombia	0
+0	World Cup qualifier
+in Argentina	-11
++11	1980
+1878	0
++2	4
+8
+June 11
+2013	Ecuador
+Argentina	1
+1	World Cup qualifier
+in Ecuador	+3
+-3	1836
+1977	0
+-1	13
+5
+June 14
+2013	Guatemala
+Argentina	0
+4	Friendly
+in Guatemala	-3
++3	1468
+1980	+1
+0	89
+5
+August 14
+2013	Italy
+Argentina	1
+2	Friendly
+in Italy	-11
++11	1902
+1991	0
++1	7
+4
+September 10
+2013	Paraguay
+Argentina	2
+5	World Cup qualifier
+in Paraguay	-18
++18	1691
+2009	-4
+0	34
+4
+October 11
+2013	Argentina
+Peru	3
+1	World Cup qualifier
+in Argentina	+6
+-6	2015
+1707	0
+-2	4
+31
+October 15
+2013	Uruguay
+Argentina	3
+2	World Cup qualifier
+in Uruguay	+22
+-22	1898
+1993	+1
+0	7
+4
+November 15
+2013	Argentina
+Ecuador	0
+0	Friendly
+in the United States	-5
++5	1988
+1820	-1
+0	5
+18
+November 18
+2013	Argentina
+Bosnia and Herzegovina	2
+0	Friendly
+in the United States	+6
+-6	1994
+1758	0
+-1	4
+24
+March 05
+2014	Romania
+Argentina	0
+0	Friendly
+in Romania	+5
+-5	1686
+1989	+2
+0	38
+4

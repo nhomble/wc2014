@@ -1,0 +1,360 @@
+1885 338 away Canada UnitedStates 0 1 Friendly
+1886 335 away Canada UnitedStates 3 2 Friendly
+1924 162 away Canada Australia 3 2 Friendly
+1924 169 away Canada Australia 0 1 Friendly
+1924 178 away Canada Australia 4 1 Friendly
+1924 183 away Canada Australia 0 0 Friendly
+1924 198 away Canada Australia 1 4 Friendly
+1924 212 away Canada Australia 1 0 Friendly
+1924 222 away Canada NewZealand 1 1 Friendly
+1925 182 home Canada UnitedStates 1 0 Friendly
+1925 318 away Canada UnitedStates 6 1 Friendly
+1926 316 away Canada UnitedStates 6 2 Friendly
+1927 180 away Canada NewZealand 2 2 Friendly
+1927 188 away Canada NewZealand 1 2 Friendly
+1927 195 away Canada NewZealand 1 0 Friendly
+1927 209 away Canada NewZealand 1 4 Friendly
+1957 177 home Canada UnitedStates 5 1 World Cup qualifier
+1957 185 away Canada Mexico 3 0 World Cup qualifier
+1957 190 away Canada Mexico 2 0 World Cup qualifier
+1957 192 away Canada UnitedStates 2 3 World Cup qualifier
+1967 176 home Canada Cuba 1 1 Olympic Games qualifier
+1967 179 home Canada Cuba 1 2 Olympic Games qualifier
+1968 285 home Canada Bermuda 4 0 World Cup qualifier
+1968 296 home Canada UnitedStates 4 2 World Cup qualifier
+1968 299 away Canada Bermuda 0 0 World Cup qualifier
+1968 305 away Canada UnitedStates 1 0 World Cup qualifier
+1971 154 away Canada Bermuda 0 3 Olympic Games qualifier
+1971 168 home Canada Bermuda 1 1 Olympic Games qualifier
+1972 237 home Canada UnitedStates 3 2 World Cup qualifier
+1972 241 home Canada Mexico 0 1 World Cup qualifier
+1972 246 away Canada UnitedStates 2 2 World Cup qualifier
+1972 250 away Canada Guatemala 2 2 Friendly
+1972 253 away Canada Mexico 2 1 World Cup qualifier
+1973 218 home Canada Poland 1 3 Friendly
+1973 222 home Canada UnitedStates 0 2 Friendly
+1973 276 away Canada Malta 2 0 Friendly
+1973 286 away Canada Luxembourg 0 2 Friendly
+1973 320 away Canada Haiti 5 1 Friendly
+1973 322 away Canada Haiti 0 1 Friendly
+1974 105 away Canada Bermuda 0 0 Friendly
+1974 288 away Canada EastGermany 2 0 Friendly
+1974 310 away Canada Poland 2 0 Friendly
+1975 5 away Canada Cuba 4 0 Friendly
+1975 192 home Canada Poland 1 8 Friendly
+1975 195 home Canada Poland 1 4 Friendly
+1975 215 home Canada EastGermany 0 3 Friendly
+1975 217 home Canada EastGermany 1 7 Friendly
+1976 205 home Canada SovietUnion 1 2 Olympic Games
+1976 207 home Canada NorthKorea 1 3 Olympic Games
+1976 272 home Canada UnitedStates 1 1 World Cup qualifier
+1976 289 home Canada Mexico 1 0 World Cup qualifier
+1976 299 away Canada UnitedStates 2 0 World Cup qualifier
+1976 306 away Canada Mexico 0 0 World Cup qualifier
+1976 363 home Canada UnitedStates 3 0 World Cup qualifier
+1977 259 away Canada TrinidadTobago 1 1 Friendly
+1977 287 away Canada ElSalvador 2 1 World Cup qualifier
+1977 291 home Canada Surinam 2 1 World Cup qualifier
+1977 295 home Canada Guatemala 2 1 World Cup qualifier
+1977 299 home Canada Haiti 1 1 World Cup qualifier
+1977 301 away Canada Mexico 3 1 World Cup qualifier
+1979 94 away Canada Bermuda 3 0 Olympic Games qualifier
+1979 151 home Canada Bermuda 2 5 Olympic Games qualifier
+1980 263 home Canada NewZealand 4 0 Friendly
+1980 265 home Canada NewZealand 3 0 Friendly
+1980 297 home Canada Mexico 1 1 World Cup qualifier
+1980 304 away Canada UnitedStates 0 0 World Cup qualifier
+1980 311 home Canada UnitedStates 2 1 World Cup qualifier
+1980 319 away Canada Honduras 2 0 Friendly
+1980 321 away Canada Guatemala 0 1 Friendly
+1980 326 away Canada Mexico 1 1 World Cup qualifier
+1981 291 away Canada TrinidadTobago 2 4 Friendly
+1981 312 home Canada ElSalvador 1 0 World Cup qualifier
+1981 316 home Canada Haiti 1 1 World Cup qualifier
+1981 322 away Canada Honduras 2 1 World Cup qualifier
+1981 325 home Canada Mexico 1 1 World Cup qualifier
+1981 331 home Canada Cuba 2 2 World Cup qualifier
+1983 167 home Canada Scotland 0 2 Friendly
+1983 171 home Canada Scotland 0 3 Friendly
+1983 175 home Canada Scotland 0 2 Friendly
+1983 347 away Canada Mexico 5 0 Friendly
+1983 352 away Canada Honduras 3 1 Friendly
+1983 355 away Canada Honduras 1 0 Friendly
+1984 90 away Canada Haiti 0 1 Friendly
+1984 150 home Canada Italy 0 2 Friendly
+1984 178 home Canada Nigeria 3 1 Friendly tournament
+1984 180 home Canada Congo 2 0 Friendly tournament
+1984 211 home Canada Chile 0 0 Friendly
+1984 295 away Canada Algeria 1 0 Friendly
+1984 300 away Canada Tunisia 2 0 Friendly
+1984 303 away Canada Morocco 3 2 Friendly
+1984 309 away Canada Cyprus 0 0 Friendly
+1984 312 away Canada Egypt 1 0 Friendly
+1985 72 away Canada TrinidadTobago 1 2 Friendly
+1985 75 away Canada Jamaica 1 1 Friendly
+1985 79 away Canada Jamaica 0 0 Friendly
+1985 83 away Canada CostaRica 1 0 Friendly
+1985 86 away Canada CostaRica 0 0 Friendly
+1985 95 home Canada UnitedStates 2 0 Friendly
+1985 97 away Canada UnitedStates 1 1 Friendly
+1985 106 home Canada Haiti 2 0 World Cup qualifier
+1985 113 home Canada Guatemala 2 1 World Cup qualifier
+1985 129 away Canada Guatemala 1 1 World Cup qualifier
+1985 132 away Canada Haiti 0 2 World Cup qualifier
+1985 157 home Canada Ghana 2 1 Presidents Cup
+1985 164 away Canada Iraq 6 1 Presidents Cup
+1985 234 home Canada CostaRica 1 1 World Cup qualifier
+1985 242 away Canada Honduras 0 1 World Cup qualifier
+1985 249 away Canada CostaRica 0 0 World Cup qualifier
+1985 262 home Canada Honduras 2 1 World Cup qualifier
+1986 29 home Canada Paraguay 0 0 Friendly
+1986 33 away Canada Uruguay 3 1 Friendly
+1986 36 away Canada UnitedStates 0 0 Friendly
+1986 120 away Canada Mexico 3 0 Friendly
+1986 134 home Canada Wales 2 0 Friendly
+1986 143 home Canada Wales 0 3 Friendly
+1986 148 home Canada England 0 1 Friendly
+1986 156 away Canada France 1 0 World Cup
+1986 161 away Canada Hungary 2 0 World Cup
+1986 164 away Canada SovietUnion 2 0 World Cup
+1986 241 away Canada Singapore 0 1 Merlion Tournament
+1986 242 home Canada Malaysia 5 0 Merlion Tournament
+1986 244 home Canada NorthKorea 0 0 Merlion Tournament
+1986 247 home Canada Indonesia 4 0 Merlion Tournament
+1986 248 away Canada China 1 0 Merlion Tournament
+1986 252 away Canada NorthKorea 2 0 Merlion Tournament
+1986 254 away Canada Singapore 0 1 Merlion Tournament
+1987 111 away Canada Bermuda 0 1 Friendly
+1987 118 away Canada Bermuda 0 1 Friendly
+1987 278 away Canada ElSalvador 2 1 Friendly
+1987 281 away Canada Honduras 1 1 Friendly
+1987 285 away Canada Mexico 4 0 Friendly
+1988 49 away Canada Bermuda 0 0 Friendly
+1988 92 away Canada Colombia 3 0 Friendly
+1988 98 away Canada Jamaica 0 4 Friendly
+1988 100 away Canada Jamaica 0 0 Friendly
+1988 105 home Canada Mexico 1 0 Friendly
+1988 107 home Canada Mexico 1 1 Friendly
+1988 143 home Canada Greece 0 1 Friendly
+1988 145 home Canada Greece 0 3 Friendly tournament
+1988 149 home Canada Chile 1 0 Friendly tournament
+1988 152 home Canada Greece 0 0 Friendly tournament
+1988 157 away Canada Ecuador 2 1 Friendly
+1988 172 home Canada CostaRica 0 1 Friendly
+1988 201 home Canada Poland 1 2 Friendly
+1988 281 away Canada TrinidadTobago 1 2 Friendly
+1988 288 away Canada Guatemala 1 0 World Cup qualifier
+1988 294 home Canada Guatemala 3 2 World Cup qualifier
+1989 105 away Canada Denmark 2 0 Friendly
+1989 107 away Canada FaroeIslands 1 0 Friendly
+1989 109 away Canada FaroeIslands 0 1 Friendly
+1989 163 home Canada Belgium 0 2 Friendly
+1990 137 home Canada Mexico 2 1 North American Championship
+1991 76 away Canada Mexico 3 0 Concacaf Gold Cup qualifier
+1991 78 away Canada UnitedStates 2 0 Concacaf Gold Cup qualifier
+1991 183 away Canada Honduras 4 2 Concacaf Gold Cup
+1991 185 home Canada Mexico 1 3 Concacaf Gold Cup
+1991 189 home Canada Jamaica 3 2 Concacaf Gold Cup
+1992 95 home Canada China 5 2 Friendly
+1992 144 home Canada Scotland 1 3 Friendly
+1992 168 home Canada HongKong 3 1 Friendly
+1992 251 home Canada UnitedStates 0 2 Friendly
+1992 288 away Canada UnitedStates 0 0 Friendly
+1992 297 away Canada Jamaica 1 1 World Cup qualifier
+1992 304 away Canada ElSalvador 1 1 World Cup qualifier
+1992 311 home Canada Jamaica 1 0 World Cup qualifier
+1992 318 home Canada ElSalvador 2 3 World Cup qualifier
+1992 325 home Canada Bermuda 4 2 World Cup qualifier
+1992 347 away Canada Bermuda 0 0 World Cup qualifier
+1993 65 away Canada UnitedStates 2 2 Friendly
+1993 71 home Canada SouthKorea 0 2 Friendly
+1993 73 home Canada SouthKorea 2 0 Friendly
+1993 86 away Canada CostaRica 0 1 Friendly
+1993 97 away Canada Honduras 2 2 World Cup qualifier
+1993 104 home Canada ElSalvador 2 0 World Cup qualifier
+1993 111 home Canada Honduras 3 1 World Cup qualifier
+1993 118 away Canada Mexico 4 0 World Cup qualifier
+1993 126 away Canada ElSalvador 1 2 World Cup qualifier
+1993 133 home Canada Mexico 1 2 World Cup qualifier
+1993 197 home Canada CostaRica 1 1 Concacaf Gold Cup
+1993 201 home Canada Martinique 2 2 Concacaf Gold Cup
+1993 204 away Canada Mexico 8 0 Concacaf Gold Cup
+1993 217 home Canada Australia 2 1 World Cup qualifier
+1993 232 away Canada Australia 2 1 World Cup qualifier
+1994 156 home Canada Morocco 1 1 Friendly
+1994 160 home Canada Brazil 1 1 Friendly
+1994 163 home Canada Germany 0 2 Friendly
+1994 165 home Canada Spain 0 2 Friendly
+1994 167 home Canada Holland 0 3 Friendly
+1995 24 home Canada Denmark 0 1 Friendly tournament
+1995 26 home Canada Portugal 1 1 Friendly tournament
+1995 146 home Canada NorthernIreland 2 0 Canada Cup
+1995 152 home Canada Chile 1 2 Canada Cup
+1995 159 home Canada Turkey 1 3 Friendly
+1995 162 home Canada Turkey 0 3 Friendly
+1995 218 home Canada Jamaica 3 1 Caribana Cup
+1995 220 home Canada TrinidadTobago 3 1 Caribana Cup
+1995 290 away Canada Chile 2 0 Friendly
+1996 10 home Canada Honduras 3 1 Concacaf Gold Cup
+1996 12 away Canada Brazil 4 1 Concacaf Gold Cup
+1996 160 home Canada CostaRica 0 1 Friendly
+1996 247 home Canada Panama 3 1 World Cup qualifier
+1996 289 home Canada Cuba 2 0 World Cup qualifier
+1996 292 home Canada Cuba 2 0 World Cup qualifier
+1996 306 away Canada Panama 0 0 World Cup qualifier
+1996 313 home Canada ElSalvador 1 0 World Cup qualifier
+1996 356 away Canada ElSalvador 0 2 World Cup qualifier
+1997 64 away Canada Mexico 4 0 World Cup qualifier
+1997 78 away Canada UnitedStates 3 0 World Cup qualifier
+1997 99 home Canada ElSalvador 0 0 World Cup qualifier
+1997 120 home Canada Jamaica 0 0 World Cup qualifier
+1997 156 home Canada CostaRica 1 0 World Cup qualifier
+1997 234 home Canada Iran 0 1 Friendly
+1997 255 away Canada Jamaica 1 0 World Cup qualifier
+1997 262 away Canada ElSalvador 4 1 World Cup qualifier
+1997 291 home Canada Mexico 2 2 World Cup qualifier
+1997 319 home Canada UnitedStates 0 3 World Cup qualifier
+1997 326 away Canada CostaRica 3 1 World Cup qualifier
+1998 142 home Canada Macedonia 1 0 Friendly
+1999 120 away Canada NorthernIreland 1 1 Friendly
+1999 153 home Canada Guatemala 1 0 Friendly
+1999 157 home Canada Guatemala 2 0 Canada Cup
+1999 159 home Canada Iran 0 1 Canada Cup
+1999 161 home Canada Ecuador 1 2 Canada Cup
+1999 195 away Canada SaudiArabia 2 0 Friendly
+1999 250 home Canada Jamaica 1 0 Friendly
+1999 285 home Canada Cuba 0 0 Concacaf Gold Cup qualifier
+1999 287 home Canada ElSalvador 2 1 Concacaf Gold Cup qualifier
+1999 289 home Canada Haiti 2 1 Concacaf Gold Cup qualifier
+2000 8 away Canada TrinidadTobago 0 0 Friendly
+2000 11 away Canada Bermuda 0 2 Friendly
+2000 44 away Canada CostaRica 2 2 Concacaf Gold Cup
+2000 46 home Canada SouthKorea 0 0 Concacaf Gold Cup
+2000 51 home Canada Mexico 2 1 Concacaf Gold Cup
+2000 55 home Canada TrinidadTobago 1 0 Concacaf Gold Cup
+2000 58 home Canada Colombia 2 0 Concacaf Gold Cup
+2000 151 home Canada TrinidadTobago 1 0 Friendly
+2000 154 home Canada Honduras 2 1 Friendly
+2000 159 away Canada Cuba 0 1 World Cup qualifier
+2000 166 home Canada Cuba 0 0 World Cup qualifier
+2000 202 home Canada TrinidadTobago 0 2 World Cup qualifier
+2000 209 away Canada Panama 0 0 World Cup qualifier
+2000 232 away Canada Mexico 2 0 World Cup qualifier
+2000 251 away Canada TrinidadTobago 4 0 World Cup qualifier
+2000 288 home Canada Panama 1 0 World Cup qualifier
+2000 325 home Canada Mexico 0 0 World Cup qualifier
+2001 117 away Canada Egypt 3 0 Friendly tournament
+2001 119 home Canada Iran 1 0 Friendly tournament
+2001 155 away Canada Japan 3 0 Confederations Cup
+2001 157 home Canada Brazil 0 0 Confederations Cup
+2001 159 away Canada Cameroon 2 0 Confederations Cup
+2001 324 away Canada Malta 2 1 Friendly
+2002 18 home Canada Haiti 2 0 Concacaf Gold Cup
+2002 22 away Canada Ecuador 2 0 Concacaf Gold Cup
+2002 26 away Canada Martinique 1 1 Concacaf Gold Cup
+2002 30 away Canada UnitedStates 0 0 Concacaf Gold Cup
+2002 33 home Canada SouthKorea 2 1 Concacaf Gold Cup
+2002 139 away Canada Switzerland 1 3 Friendly
+2002 294 away Canada Scotland 3 1 Friendly
+2003 18 away Canada UnitedStates 4 0 Friendly
+2003 43 away Canada Libya 2 4 Friendly
+2003 91 away Canada Estonia 2 1 Friendly
+2003 156 away Canada Germany 4 1 Friendly
+2003 198 home Canada CostaRica 1 0 Concacaf Gold Cup
+2003 200 away Canada Cuba 2 0 Concacaf Gold Cup
+2003 290 away Canada Finland 3 2 Friendly
+2003 325 away Canada Czechia 5 1 Friendly
+2003 328 away Canada Ireland 3 0 Friendly
+2004 18 away Canada Barbados 0 1 Friendly
+2004 154 away Canada Wales 1 0 Friendly
+2004 168 home Canada Belize 4 0 World Cup qualifier
+2004 171 home Canada Belize 4 0 World Cup qualifier
+2004 235 home Canada Guatemala 0 2 World Cup qualifier
+2004 252 home Canada Honduras 1 1 World Cup qualifier
+2004 256 away Canada CostaRica 1 0 World Cup qualifier
+2004 288 away Canada Honduras 1 1 World Cup qualifier
+2004 292 home Canada CostaRica 1 3 World Cup qualifier
+2004 327 away Canada Guatemala 0 1 World Cup qualifier
+2005 40 away Canada NorthernIreland 0 1 Friendly
+2005 88 away Canada Portugal 4 1 Friendly
+2005 188 home Canada Honduras 1 2 Friendly
+2005 193 away Canada CostaRica 1 0 Concacaf Gold Cup
+2005 195 away Canada UnitedStates 2 0 Concacaf Gold Cup
+2005 198 home Canada Cuba 2 1 Concacaf Gold Cup
+2005 251 away Canada Spain 2 1 Friendly
+2005 326 away Canada Luxembourg 0 1 Friendly
+2006 22 away Canada UnitedStates 0 0 Friendly
+2006 63 away Canada Austria 0 2 Friendly
+2006 252 home Canada Jamaica 1 0 Friendly
+2006 287 away Canada Jamaica 2 1 Friendly
+2006 325 away Canada Hungary 1 0 Friendly
+2007 87 away Canada Bermuda 0 3 Friendly
+2007 156 away Canada Venezuela 2 2 Friendly
+2007 161 home Canada CostaRica 2 1 Concacaf Gold Cup
+2007 164 away Canada Guadeloupe 2 1 Concacaf Gold Cup
+2007 166 home Canada Haiti 2 0 Concacaf Gold Cup
+2007 171 home Canada Guatemala 3 0 Concacaf Gold Cup
+2007 176 away Canada UnitedStates 2 1 Concacaf Gold Cup
+2007 239 away Canada Iceland 1 1 Friendly
+2007 260 home Canada CostaRica 1 1 Friendly
+2007 330 away Canada SouthAfrica 2 0 Friendly
+2008 30 away Canada Martinique 0 1 Friendly
+2008 88 away Canada Estonia 2 0 Friendly
+2008 155 away Canada Brazil 3 2 Friendly
+2008 159 away Canada Panama 2 2 Friendly
+2008 170 away Canada St. Vincent & Grenadines 0 3 World Cup qualifier
+2008 175 home Canada St. Vincent & Grenadines 4 1 World Cup qualifier
+2008 237 home Canada Jamaica 1 1 World Cup qualifier
+2008 254 home Canada Honduras 1 2 World Cup qualifier
+2008 258 away Canada Mexico 2 1 World Cup qualifier
+2008 290 away Canada Honduras 3 1 World Cup qualifier
+2008 294 home Canada Mexico 2 2 World Cup qualifier
+2008 329 away Canada Jamaica 3 0 World Cup qualifier
+2009 154 away Canada Cyprus 0 1 Friendly
+2009 185 home Canada Guatemala 3 0 Friendly
+2009 189 home Canada Jamaica 1 0 Concacaf Gold Cup
+2009 193 home Canada ElSalvador 1 0 Concacaf Gold Cup
+2009 196 home Canada CostaRica 2 2 Concacaf Gold Cup
+2009 204 away Canada Honduras 1 0 Concacaf Gold Cup
+2009 324 away Canada Macedonia 3 0 Friendly
+2009 328 away Canada Poland 1 0 Friendly
+2010 31 away Canada Jamaica 1 0 Friendly
+2010 148 away Canada Argentina 5 0 Friendly
+2010 153 away Canada Venezuela 1 1 Friendly
+2010 252 home Canada Peru 0 2 Friendly
+2010 255 home Canada Honduras 2 1 Friendly
+2010 287 away Canada Ukraine 2 2 Friendly
+2011 40 away Canada Greece 1 0 Friendly
+2011 91 home Canada Belarus 1 0 Friendly
+2011 156 home Canada Ecuador 2 2 Friendly
+2011 162 away Canada UnitedStates 2 0 Concacaf Gold Cup
+2011 166 home Canada Guadeloupe 1 0 Concacaf Gold Cup
+2011 169 home Canada Panama 1 1 Concacaf Gold Cup
+2011 250 home Canada SaintLucia 4 1 World Cup qualifier
+2011 254 away Canada PuertoRico 0 3 World Cup qualifier
+2011 286 away Canada SaintLucia 0 7 World Cup qualifier
+2011 290 home Canada PuertoRico 0 0 World Cup qualifier
+2011 321 away Canada SaintKitts 0 0 World Cup qualifier
+2011 325 home Canada SaintKitts 4 0 World Cup qualifier
+2012 60 away Canada Armenia 3 1 Friendly
+2012 158 home Canada UnitedStates 0 0 Friendly
+2012 163 away Canada Cuba 0 1 World Cup qualifier
+2012 167 home Canada Honduras 0 0 World Cup qualifier
+2012 232 home Canada TrinidadTobago 2 0 Friendly
+2012 255 home Canada Panama 1 0 World Cup qualifier
+2012 259 away Canada Panama 2 0 World Cup qualifier
+2012 291 home Canada Cuba 3 0 World Cup qualifier
+2012 295 away Canada Honduras 8 1 World Cup qualifier
+2013 26 away Canada Denmark 4 0 Friendly
+2013 29 away Canada UnitedStates 0 0 Friendly
+2013 84 away Canada Japan 2 1 Friendly
+2013 87 away Canada Belarus 2 0 Friendly
+2013 152 home Canada CostaRica 0 1 Friendly
+2013 193 away Canada Martinique 1 0 Concacaf Gold Cup
+2013 197 away Canada Mexico 2 0 Concacaf Gold Cup
+2013 200 home Canada Panama 0 0 Concacaf Gold Cup
+2013 256 home Canada Mauritania 0 0 Friendly
+2013 258 away Canada Mauritania 1 0 Friendly
+2013 294 away Canada Australia 3 0 Friendly
+2013 325 away Canada Czechia 2 0 Friendly
+2013 329 away Canada Slovenia 1 0 Friendly

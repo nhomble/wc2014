@@ -1,0 +1,225 @@
+Franck Ribery 
+Bayern München / Bundesliga 
+90	LM	91	78	82	93	47	55	5 	4 	 / 	 Right	455,000	1,954		
+Karim Benzema Karim Benzema 
+Real Madrid / Liga BBVA 
+85	ST	84	82	71	82	46	76	4 	4 	 / 	 Right	3,300	1,888		
+Samir Nasri Samir Nasri 
+Manchester City / Barclays PL 
+84	CAM	81	76	83	86	50	60	4 	4 	 / 	 Right	2,800	1,920		
+Hugo Lloris Hugo Lloris 
+Tottenham Hotspur / Barclays PL 
+84	GK	86	80	74	89	63	81	1 	1 	 / 	 Left	1,400	969		
+Steve Mandanda Steve Mandanda 
+Olympique de Marseille / Ligue 1 
+83	GK	83	82	80	82	53	80	1 	3 	 / 	 Right	900	924		
+Laurent Koscielny Laurent Koscielny 
+Arsenal / Barclays PL 
+83	CB	78	41	67	62	82	81	2 	3 	 / 	 Right	1,100	1,767		
+Patrice Evra Patrice Evra 
+Manchester United / Barclays PL 
+82	LB	78	51	78	76	80	78	3 	2 	 / 	 Left	700	1,934		
+Jeremy Toulalan Jeremy Toulalan 
+AS Monaco / Ligue 1 
+82	CDM	53	51	79	70	80	74	2 	3 	 / 	 Right	750	1,830		
+Stephane Ruffier Stephane Ruffier 
+AS Saint-Etienne / Ligue 1 
+82	GK	83	80	78	85	55	81	1 	3 	 / 	 Right	900	964		
+Yohan Cabaye Yohan Cabaye 
+Newcastle United / Barclays PL 
+82	CM	68	76	82	78	73	69	3 	4 	 / 	 Right	1,400	2,043		
+Adil Rami Adil Rami 
+Valencia CF / Liga BBVA 
+82	CB	54	56	65	58	81	84	2 	3 	 / 	 Right	750	1,741		
+Yohan Cabaye Yohan Cabaye 
+Paris Saint-Germain / Ligue 1 
+82	CM	68	76	82	78	73	69	3 	4 	 / 	 Right	800	2,043		
+Adil Rami Adil Rami 
+Milan / Serie A 
+82	CB	54	56	65	58	81	84	2 	3 	 / 	 Right	700	1,741		
+Antoine Griezmann Antoine Griezmann 
+Real Sociedad / Liga BBVA 
+82	LW	85	76	77	84	42	63	4 	3 	 / 	 Left	750	0		
+Mickael Landreau Mickael Landreau 
+SC Bastia / Ligue 1 
+81	GK	80	78	84	84	32	78	1 	3 	 / 	 Right	650	897		
+Philippe Mexes Philippe Mexes 
+Milan / Serie A 
+81	CB	69	46	62	62	80	82	2 	3 	 / 	 Right	900	1,700		
+Cedric Carrasso Cedric Carrasso 
+Girondins de Bordeaux / Ligue 1 	
+81	GK	79	79	80	84	38	82	1 	3 	 / 	 Right	650	887		
+Gael Clichy Gael Clichy 
+Manchester City / Barclays PL 
+81	LB	88	44	75	78	79	70	2 	4 	 / 	 Left	1,200	1,843		
+Bafetimbi Gomis Bafetimbi Gomis 
+Olympique Lyonnais / Ligue 1 
+81	ST	73	80	60	75	51	78	3 	3 	 / 	 Right	700	1,799		
+Laurent Koscielny Laurent Koscielny 
+Arsenal / Barclays PL 
+81	CB	77	41	67	61	80	80	2 	3 	 / 	 Right	950	1,711		
+Blaise Matuidi Blaise Matuidi 
+Paris Saint-Germain / Ligue 1 
+81	CDM	78	64	77	74	83	76	2 	3 	 / 	 Left	800	2,001		
+Mamadou Sakho Mamadou Sakho 
+Liverpool / Barclays PL 
+81	CB	70	33	67	56	79	81	2 	2 	 / 	 Left	650	1,623		
+Eliaquim Mangala Eliaquim Mangala 
+FC Porto / Liga Portuguesa 
+81	CB	77	45	63	63	82	87	2 	4 	 / 	 Left	800	1,757		
+Raphael Varane Raphael Varane 
+Real Madrid / Liga BBVA 
+81	CB	70	47	64	61	81	82	2 	3 	 / 	 Right	800	1,706		
+Paul Pogba Paul Pogba 
+Juventus / Serie A 
+81	CM	75	78	81	85	77	83	3 	3 	 / 	 Right	1,000	2,166
+Olivier Giroud Olivier Giroud 
+Arsenal / Barclays PL 
+81	ST	66	82	67	70	54	83	2 	3 	 / 	 Left	950	0		
+Nicolas Anelka Nicolas Anelka 
+West Bromwich Albion / Barclays PL 
+80	ST	69	79	71	82	45	78	3 	3 	 / 	 Right	700	1,793		
+Younes Kaboul Younes Kaboul 
+Tottenham Hotspur / Barclays PL 
+80	CB	78	46	61	56	80	83	2 	3 	 / 	 Right	800	1,708		
+Bacary Sagna Bacary Sagna 
+Arsenal / Barclays PL 
+80	RB	75	57	74	76	80	79	3 	3 	 / 	 Right	650	1,916		
+Olivier Giroud Olivier Giroud 
+Arsenal / Barclays PL 
+80	ST	65	80	66	69	53	83	2 	3 	 / 	 Left	950	1,782		
+Jonathan Biabiany Jonathan Biabiany 
+Parma / Serie A 
+80	RW	96	66	72	83	50	62	3 	3 	 / 	 Right	1,000	1,816		
+Loic Remy Loic Remy 
+Newcastle United / Barclays PL 
+80	ST	91	75	72	75	48	82	4 	3 	 / 	 Right	850	0		
+Yoann Gourcuff Yoann Gourcuff 
+Olympique Lyonnais / Ligue 1 
+79	CAM	69	74	81	81	60	73	4 	4 	 / 	 Right	700	1,928		
+Hatem Ben Arfa Hatem Ben Arfa 
+Newcastle United / Barclays PL 
+79	RM	83	76	76	86	46	70	5 	3 	 / 	 Left	750	1,873		
+Loic Remy Loic Remy 
+Newcastle United / Barclays PL 
+79	ST	91	73	71	74	48	81	4 	3 	 / 	 Right	800	1,824		
+Yann MVila Yann MVila 
+Rubin Kazan / Russian League 	
+79	CDM	77	63	73	74	80	66	2 	3 	 / 	 Right	650	1,887		
+Paul Pogba Paul Pogba 
+Juventus / Serie A 
+79	CM	75	76	80	80	76	81	3 	3 	 / 	 Right	2,100	2,073		
+Thierry Henry Thierry Henry 
+New York Red Bulls / MLS 
+78	ST	75	78	69	83	44	63	4 	4 	 / 	 Right	950	1,793		
+Jeremy Mathieu Jeremy Mathieu 
+Valencia CF / Liga BBVA 
+78	CB	76	68	75	70	83	69	2 	2 	 / 	 Left	700	1,928		
+Eric Abidal Eric Abidal 
+AS Monaco / Ligue 1 
+78	CB	64	35	70	57	79	72	3 	3 	 / 	 Left	650	1,655		
+Clement Grenier Clement Grenier 
+Olympique Lyonnais / Ligue 1 
+78	CAM	71	74	82	79	57	72	3 	4 	 / 	 Right	750	1,904		
+Michael Ciani Michael Ciani 
+Lazio / Serie A 
+77	CB	67	46	53	43	82	79	2 	3 	 / 	 Right	650	1,553		
+Yoan Gouffran Yoan Gouffran 
+Newcastle United / Barclays PL 
+77	ST	80	72	72	77	56	77	3 	3 	 / 	 Right	700	1,850		
+Jeremy Menez Jeremy Menez 
+Paris Saint-Germain / Ligue 1 
+77	ST	86	74	78	87	52	66	4 	4 	 / 	 Right	800	1,890		
+Mobido Diakite Mobido Diakite 
+Sunderland / Barclays PL 
+76	CB	71	41	53	43	77	83	2 	3 	 / 	 Right	1,500	1,519		
+Romain Alessandrini Romain Alessandrini 
+Stade Rennais / Ligue 1 
+76	LM	91	74	75	78	44	54	4 	4 	 / 	 Left	850	1,782		
+Mobido Diakite Mobido Diakite 
+Fiorentina / Serie A 
+76	CB	71	41	53	43	77	83	2 	3 	 / 	 Right	950	1,519		
+Moussa Sissoko Moussa Sissoko 
+Newcastle United / Barclays PL 
+75	CM	80	73	71	74	77	74	2 	2 	 / 	 Right	950	1,968		
+Cedric Barbosa Cedric Barbosa 
+Évian Thonon Gaillard FC / Ligue 1 
+74	LM	64	72	79	75	66	64	3 	4 	 / 	 Right	400	1,901		
+Remy Vercoutre Remy Vercoutre 
+Olympique Lyonnais / Ligue 1 
+74	GK	74	72	79	78	36	75	1 	2 	 / 	 Right	400	841		
+Mathieu Valbuena Mathieu Valbuena 
+Olympique de Marseille / Ligue 1 
+82	CAM	84	73	82	83	42	48	4 	3 	 / 	 Right	650	1,832		
+Rio Antonio Mavuba Rio Antonio Mavuba 
+LOSC Lille / Ligue 1 
+81	CDM	66	53	78	73	79	72	3 	3 	 / 	 Right	400	1,880		
+Lassana Diarra Lassana Diarra 
+Lokomotiv Moskva / Russian League 
+80	CDM	79	52	74	76	80	66	2 	3 	 / 	 Right	350	1,869		
+Dimitri Payet Dimitri Payet 
+Olympique de Marseille / Ligue 1 
+80	RM	81	79	77	83	54	62	4 	4 	 / 	 Right	400	1,918		
+Antoine Griezmann Antoine Griezmann 
+Real Sociedad / Liga BBVA 
+80	LW	81	72	77	84	42	54	4 	3 	 / 	 Left	750	1,784		
+Djibril Cisse Djibril Cisse 
+Kuban Krasnodar / Russian League 
+79	ST	84	75	62	72	48	78	4 	4 	 / 	 Right	850	1,819		
+Abdoulay Konko Abdoulay Konko 
+Lazio / Serie A 
+79	RB	86	62	79	79	77	72	2 	4 	 / 	 Right	500	1,986		
+Etienne Capoue Etienne Capoue 
+Tottenham Hotspur / Barclays PL 
+79	CDM	68	59	75	75	79	72	2 	3 	 / 	 Right	400	1,862		
+Djibril Cisse Djibril Cisse 
+SC Bastia / Ligue 1 
+79	ST	84	75	62	72	48	78	4 	4 	 / 	 Right	400	1,819		
+Florent Balmont Florent Balmont 
+LOSC Lille / Ligue 1 
+78	CM	66	69	80	75	76	58	2 	3 	 / 	 Right	400	1,929		
+Benoit Costil Benoit Costil 
+Stade Rennais / Ligue 1 
+78	GK	78	78	75	81	46	79	1 	3 	 / 	 Right	400	855		
+Mathieu Debuchy Mathieu Debuchy 
+Newcastle United / Barclays PL 
+78	RB	78	65	76	74	76	74	3 	3 	 / 	 Right	450	1,973		
+Loic Perrin Loic Perrin 
+AS Saint-Etienne / Ligue 1 
+78	CB	65	62	74	65	78	75	2 	3 	 / 	 Right	400	1,862		
+Julien Feret Julien Feret 
+Stade Rennais / Ligue 1 
+78	CAM	66	74	80	81	55	65	3 	4 	 / 	 Right	400	1,849		
+Cyril Thereau Cyril Thereau 
+Chievo Verona / Serie A 
+78	ST	74	78	71	80	45	80	2 	4 	 / 	 Right	400	1,804		
+Kevin Gameiro Kevin Gameiro 
+Sevilla FC / Liga BBVA 
+78	ST	80	76	72	75	46	68	3 	3 	 / 	 Right	400	1,847		
+Steven NZonzi Steven NZonzi 
+Stoke City / Barclays PL 
+78	CDM	71	58	74	71	78	73	3 	3 	 / 	 Right	350	1,824		
+Maxime Gonalons Maxime Gonalons 
+Olympique Lyonnais / Ligue 1 
+78	CDM	67	66	72	71	80	75	2 	3 	 / 	 Right	350	1,917		
+Sylvain Distin Sylvain Distin 
+Everton / Barclays PL 
+77	CB	73	37	58	56	78	78	2 	2 	 / 	 Left	400	1,587		
+Christophe Jallet Christophe Jallet 
+Paris Saint-Germain / Ligue 1 
+77	RB	74	65	76	70	75	68	2 	3 	 / 	 Right	500	1,945		
+Andre-Pierre Gignac Andre-Pierre Gignac 
+Olympique de Marseille / Ligue 1 
+77	ST	76	78	70	74	49	68	3 	3 	 / 	 Right	350	1,806		
+Mathieu Flamini Mathieu Flamini 
+Arsenal / Barclays PL 
+77	CM	74	66	76	74	75	69	2 	3 	 / 	 Right	400	1,938		
+Abou Diaby Abou Diaby 
+Arsenal / Barclays PL 
+77	CM	78	70	72	82	74	76	3 	3 	 / 	 Right	850	1,977		
+Jeremy Clement Jeremy Clement 
+AS Saint-Etienne / Ligue 1 
+77	CDM	60	60	74	63	78	72	2 	3 	 / 	 Left	400	1,820		
+Morgan Schneiderlin Morgan Schneiderlin 
+Southampton / Barclays PL 
+77	CDM	71	61	73	65	76	66	2 	3 	 / 	 Right	400	1,822	

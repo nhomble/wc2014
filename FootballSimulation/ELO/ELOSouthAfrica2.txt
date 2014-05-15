@@ -1,0 +1,2997 @@
+July 09
+1906	Argentina
+South Africa	0
+1	Friendly
+in Argentina	-15
++15	1790
+1715	0
+-	2
+7
+November 02
+1924	Netherlands
+South Africa	2
+1	Friendly
+in the Netherlands	+7
+-7	1741
+1708	+2
+0	11
+15
+May 10
+1947	Australia
+South Africa	1
+2	Friendly
+in Australia	-10
++10	1597
+1718	-3
+0	32
+17
+May 24
+1947	Australia
+South Africa	2
+4	Friendly
+in Australia	-14
++14	1583
+1732	-1
++1	33
+16
+May 31
+1947	Australia
+South Africa	3
+3	Friendly
+in Australia	+1
+-1	1584
+1731	0
+0	33
+16
+June 07
+1947	Australia
+South Africa	5
+1	Friendly
+in Australia	+21
+-21	1605
+1710	+4
+-1	29
+17
+June 14
+1947	Australia
+South Africa	1
+2	Friendly
+in Australia	-10
++10	1595
+1720	-1
++1	30
+16
+June 28
+1947	New Zealand
+South Africa	5
+6	Friendly
+in New Zealand	-5
++5	1436
+1725	0
+0	52
+16
+July 05
+1947	New Zealand
+South Africa	0
+6	Friendly
+in New Zealand	-11
++11	1425
+1736	-1
+0	53
+16
+July 12
+1947	New Zealand
+South Africa	3
+8	Friendly
+in New Zealand	-9
++9	1416
+1745	-2
++2	55
+14
+July 19
+1947	New Zealand
+South Africa	1
+4	Friendly
+in New Zealand	-7
++7	1409
+1752	0
+0	55
+14
+June 24
+1950	South Africa
+Australia	3
+2	Friendly
+in South Africa	+5
+-5	1757
+1644	0
+0	15
+23
+July 01
+1950	South Africa
+Australia	2
+1	Friendly
+in South Africa	+5
+-5	1762
+1639	0
+0	14
+23
+July 08
+1950	South Africa
+Australia	1
+2	Friendly
+in South Africa	-16
++16	1746
+1655	-1
++1	15
+23
+July 23
+1950	South Africa
+Australia	0
+2	Friendly
+in South Africa	-22
++22	1724
+1694	-1
++1	16
+20
+November 22
+1953	Portugal
+South Africa	3
+1	Friendly
+in Portugal	+17
+-17	1596
+1707	0
+-1	33
+16
+May 01
+1954	South Africa
+Israel	2
+1	Friendly
+in South Africa	+2
+-2	1709
+1421	0
+-1	16
+66
+September 03
+1955	Australia
+South Africa	0
+3	Friendly
+in Australia	-22
++22	1676
+1731	-3
++2	23
+17
+September 10
+1955	Australia
+South Africa	0
+2	Friendly
+in Australia	-17
++17	1659
+1748	0
++1	23
+16
+September 17
+1955	Australia
+South Africa	0
+8	Friendly
+in Australia	-25
++25	1634
+1773	-3
++2	26
+14
+September 24
+1955	Australia
+South Africa	0
+6	Friendly
+in Australia	-19
++19	1615
+1792	-4
++2	30
+12
+October 01
+1955	Australia
+South Africa	1
+4	Friendly
+in Australia	-14
++14	1601
+1806	-3
++3	33
+9
+
+1977	Rhodesia
+South Africa	1
+1	Friendly
+in Rhodesia	+6
+-6	1455
+1800	+1
+0	75
+16
+
+1977	South Africa
+Rhodesia	7
+0	Friendly
+in South Africa	+3
+-3	1803
+1452	0
++1	16
+75
+July 07
+1992	South Africa
+Cameroon	1
+0	Friendly
+in South Africa	+4
+-4	1807
+1660	+1
+-1	15
+35
+July 09
+1992	South Africa
+Cameroon	1
+2	Friendly
+in South Africa	-16
++16	1791
+1676	-3
++2	18
+33
+July 11
+1992	South Africa
+Cameroon	2
+2	Friendly
+in South Africa	-6
++6	1785
+1682	-1
+0	19
+33
+August 16
+1992	Zimbabwe
+South Africa	4
+1	African Nations Cup qualifier
+in Zimbabwe	+57
+-57	1489
+1728	+12
+-9	73
+28
+August 30
+1992	South Africa
+Zambia	0
+1	African Nations Cup qualifier
+in South Africa	-31
++31	1697
+1633	-1
++6	29
+41
+October 10
+1992	Nigeria
+South Africa	4
+0	World Cup qualifier
+in Nigeria	+31
+-31	1689
+1666	+4
+-2	31
+33
+October 25
+1992	South Africa
+Congo	1
+0	World Cup qualifier
+in South Africa	+7
+-7	1673
+1493	0
+-1	33
+70
+January 10
+1993	Botswana
+South Africa	0
+2	Friendly
+in Botswana	-1
++1	1054
+1674	0
+0	175
+33
+January 17
+1993	South Africa
+Nigeria	0
+0	World Cup qualifier
+in South Africa	-4
++4	1670
+1708	-1
+0	34
+29
+January 31
+1993	Congo
+South Africa	0
+1	World Cup qualifier
+in Congo	-15
++15	1463
+1685	-5
++2	84
+32
+April 10
+1993	South Africa
+Mauritius	0
+0	African Nations Cup qualifier
+in South Africa	-18
++18	1667
+1274	0
++6	32
+131
+April 24
+1993	South Africa
+Zimbabwe	1
+1	African Nations Cup qualifier
+in South Africa	-11
++11	1656
+1563	-1
++2	33
+56
+July 11
+1993	Zambia
+South Africa	3
+0	African Nations Cup qualifier
+in Zambia	+28
+-28	1658
+1628	+7
+-8	33
+41
+July 25
+1993	Mauritius
+South Africa	1
+3	African Nations Cup qualifier
+in Mauritius	-10
++10	1244
+1638	-3
++3	142
+38
+October 06
+1993	Mexico
+South Africa	4
+0	Friendly
+in the United States	+8
+-8	1870
+1630	0
+-3	10
+41
+April 24
+1994	South Africa
+Zimbabwe	1
+0	Friendly
+in Zambia	+8
+-8	1638
+1544	+2
+-1	41
+59
+May 10
+1994	South Africa
+Zambia	2
+1	Friendly tournament
+in South Africa	+13
+-13	1651
+1684	+2
+-1	40
+30
+June 08
+1994	Australia
+South Africa	1
+0	Friendly
+in Australia	+6
+-6	1686
+1645	+1
+-3	29
+40
+June 12
+1994	Australia
+South Africa	1
+0	Friendly
+in Australia	+6
+-6	1692
+1639	0
+-1	29
+41
+September 04
+1994	Madagascar
+South Africa	0
+1	African Nations Cup qualifier
+in Madagascar	-18
++18	1487
+1657	-7
++1	79
+35
+October 15
+1994	South Africa
+Mauritius	1
+0	African Nations Cup qualifier
+in South Africa	+2
+-2	1659
+1245	0
+0	34
+143
+November 13
+1994	Zambia
+South Africa	1
+1	African Nations Cup qualifier
+in Zambia	-8
++8	1691
+1667	0
++2	29
+33
+November 26
+1994	South Africa
+Ghana	2
+1	Simba Cup
+in South Africa	+10
+-10	1677
+1632	+1
+-1	30
+37
+November 30
+1994	South Africa
+Ivory Coast	0
+0	Simba Cup
+in South Africa	-5
++5	1672
+1665	-1
++2	31
+32
+December 04
+1994	South Africa
+Cameroon	1
+1	Simba Cup
+in South Africa	-8
++8	1664
+1557	0
++1	31
+56
+April 26
+1995	Lesotho
+South Africa	1
+3	Friendly
+in Lesotho	-3
++3	1195
+1667	0
+0	156
+32
+May 13
+1995	South Africa
+Argentina	1
+1	Friendly tournament
+in South Africa	+3
+-3	1670
+1839	+1
+-1	31
+17
+September 30
+1995	South Africa
+Mozambique	3
+2	Friendly
+in South Africa	+2
+-2	1672
+1411	0
+0	33
+101
+November 22
+1995	South Africa
+Zambia	2
+2	Simba Cup
+in South Africa	-6
++6	1666
+1635	-1
++4	32
+36
+November 24
+1995	South Africa
+Egypt	2
+0	Simba Cup
+in South Africa	+14
+-14	1680
+1617	+1
+-6	31
+45
+November 26
+1995	South Africa
+Zimbabwe	2
+0	Simba Cup
+in South Africa	+8
+-8	1688
+1496	+2
+-2	29
+73
+December 15
+1995	South Africa
+Germany	0
+0	Friendly
+in South Africa	+5
+-5	1693
+1990	0
+0	29
+2
+January 13
+1996	South Africa
+Cameroon	3
+0	African Nations Cup
+in South Africa	+16
+-16	1709
+1518	+1
+-4	28
+70
+January 20
+1996	South Africa
+Angola	1
+0	African Nations Cup
+in South Africa	+5
+-5	1714
+1434	+1
+-3	28
+93
+January 24
+1996	South Africa
+Egypt	0
+1	African Nations Cup
+in South Africa	-38
++38	1676
+1649	-4
++9	32
+36
+January 27
+1996	South Africa
+Algeria	2
+1	African Nations Cup
+in South Africa	+14
+-14	1690
+1601	0
+0	32
+45
+January 31
+1996	South Africa
+Ghana	3
+0	African Nations Cup
+in South Africa	+37
+-37	1727
+1697	+5
+-4	27
+31
+February 03
+1996	South Africa
+Tunisia	2
+0	African Nations Cup
+in South Africa	+17
+-17	1744
+1600	+2
+-3	25
+47
+April 24
+1996	South Africa
+Brazil	2
+3	Friendly tournament
+in South Africa	-8
++8	1736
+2040	0
+0	25
+1
+June 01
+1996	Malawi
+South Africa	0
+1	World Cup qualifier
+in Malawi	-10
++10	1427
+1746	-2
++1	95
+24
+June 15
+1996	South Africa
+Malawi	3
+0	World Cup qualifier
+in South Africa	+6
+-6	1752
+1421	+2
+-4	23
+98
+September 14
+1996	South Africa
+Kenya	1
+0	Simba Cup
+in South Africa	+3
+-3	1755
+1467	+1
+0	22
+84
+September 18
+1996	South Africa
+Australia	2
+0	Simba Cup
+in South Africa	+11
+-11	1766
+1656	+1
+-2	21
+35
+September 21
+1996	South Africa
+Ghana	0
+0	Simba Cup
+in South Africa	-10
++10	1756
+1611	-1
++2	22
+44
+November 09
+1996	South Africa
+Zaire	1
+0	World Cup qualifier
+in South Africa	+5
+-5	1761
+1501	0
+-1	23
+74
+January 11
+1997	Zambia
+South Africa	0
+0	World Cup qualifier
+in Zambia	+2
+-2	1622
+1759	0
+0	44
+23
+April 06
+1997	Congo
+South Africa	2
+0	World Cup qualifier
+in Congo	+46
+-46	1493
+1713	+13
+-2	78
+26
+April 27
+1997	South Africa
+Zaire	2
+1	World Cup qualifier
+in Togo	+10
+-10	1723
+1507	+2
+-2	24
+72
+May 24
+1997	England
+South Africa	2
+1	Friendly
+in England	+3
+-3	1908
+1720	0
+-1	8
+26
+June 04
+1997	South Africa
+Netherlands	0
+2	Friendly tournament
+in South Africa	-18
++18	1702
+1909	-1
+0	27
+9
+June 08
+1997	South Africa
+Zambia	3
+0	World Cup qualifier
+in South Africa	+21
+-21	1723
+1634	+3
+-5	26
+42
+August 16
+1997	South Africa
+Congo	1
+0	World Cup qualifier
+in South Africa	+5
+-5	1728
+1483	0
+0	27
+76
+October 11
+1997	France
+South Africa	2
+1	Friendly
+in France	+3
+-3	1968
+1725	0
++1	4
+27
+November 15
+1997	Germany
+South Africa	3
+0	Friendly
+in Germany	+3
+-3	2031
+1722	0
+0	2
+28
+December 07
+1997	South Africa
+Brazil	1
+2	Friendly
+in South Africa	-3
++3	1719
+2125	-1
+0	30
+1
+December 13
+1997	South Africa
+Czechia	2
+2	Confederations Cup
+in Saudi Arabia	+9
+-9	1728
+1836	+3
+-1	27
+13
+December 15
+1997	United Arab Emirates
+South Africa	1
+0	Confederations Cup
+in Saudi Arabia	+37
+-37	1579
+1691	+9
+-5	55
+33
+December 17
+1997	Uruguay
+South Africa	4
+3	Confederations Cup
+in Saudi Arabia	+21
+-21	1770
+1670	+2
+-6	21
+39
+January 24
+1998	Namibia
+South Africa	3
+2	Cosafa Cup
+in Namibia	+30
+-30	1408
+1640	+9
+-6	101
+44
+February 08
+1998	South Africa
+Angola	0
+0	African Nations Cup
+in Burkina Faso	-7
++7	1633
+1542	0
++3	45
+63
+February 11
+1998	South Africa
+Ivory Coast	1
+1	African Nations Cup
+in Burkina Faso	-5
++5	1628
+1570	-2
+0	46
+57
+February 16
+1998	South Africa
+Namibia	4
+1	African Nations Cup
+in Burkina Faso	+17
+-17	1645
+1364	+4
+-7	43
+116
+February 22
+1998	South Africa
+Morocco	2
+1	African Nations Cup
+in Burkina Faso	+33
+-33	1678
+1734	+6
+-7	36
+28
+February 25
+1998	South Africa
+Dem. Rep. of Congo	2
+1	African Nations Cup
+in Burkina Faso	+14
+-14	1692
+1503	+2
+-2	34
+68
+February 28
+1998	Egypt
+South Africa	2
+0	African Nations Cup
+in Burkina Faso	+40
+-40	1705
+1652	+5
+-9	33
+43
+May 20
+1998	South Africa
+Zambia	1
+1	Friendly
+in South Africa	-4
++4	1648
+1627	0
++3	41
+47
+May 25
+1998	Argentina
+South Africa	2
+0	Friendly
+in Argentina	+4
+-4	1873
+1644	+1
+0	9
+41
+June 06
+1998	South Africa
+Iceland	1
+1	Friendly
+in Germany	-5
++5	1639
+1442	-1
++4	42
+91
+June 12
+1998	France
+South Africa	3
+0	World Cup
+in France	+8
+-8	1971
+1631	0
+-2	4
+44
+June 18
+1998	Denmark
+South Africa	1
+1	World Cup
+in France	-16
++16	1826
+1647	0
++3	16
+41
+June 24
+1998	South Africa
+Saudi Arabia	2
+2	World Cup
+in France	-3
++3	1644
+1617	0
+0	42
+51
+October 03
+1998	South Africa
+Angola	1
+0	African Nations Cup qualifier
+in South Africa	+7
+-7	1651
+1481	+2
+-3	43
+77
+December 16
+1998	South Africa
+Egypt	2
+1	Friendly tournament
+in South Africa	+12
+-12	1663
+1670	+2
+-3	42
+38
+January 23
+1999	Mauritius
+South Africa	1
+1	African Nations Cup qualifier
+in Mauritius	+17
+-17	1158
+1646	+2
+-2	165
+45
+February 20
+1999	Botswana
+South Africa	1
+2	Cosafa Cup
+in Botswana	-2
++2	1032
+1648	0
++1	184
+45
+February 27
+1999	South Africa
+Gabon	4
+1	African Nations Cup qualifier
+in South Africa	+10
+-10	1658
+1422	+2
+-2	42
+95
+April 10
+1999	Gabon
+South Africa	1
+0	African Nations Cup qualifier
+in Gabon	+27
+-27	1449
+1631	+9
+-9	85
+52
+April 28
+1999	Denmark
+South Africa	1
+1	Friendly
+in Denmark	-6
++6	1774
+1637	-1
++5	18
+48
+May 06
+1999	Trinidad and Tobago
+South Africa	2
+0	Friendly
+in Trinidad and Tobago	+17
+-17	1500
+1620	+2
+-7	76
+55
+May 09
+1999	Jamaica
+South Africa	1
+1	Friendly
+in Jamaica	-3
++3	1640
+1623	-1
+0	47
+55
+June 05
+1999	South Africa
+Mauritius	2
+0	African Nations Cup qualifier
+in South Africa	+3
+-3	1626
+1229	+2
+-2	51
+149
+June 16
+1999	South Africa
+Zimbabwe	0
+1	Friendly
+in South Africa	-16
++16	1610
+1498	-1
++1	53
+78
+June 20
+1999	Angola
+South Africa	2
+2	African Nations Cup qualifier
+in Angola	+4
+-4	1437
+1606	+1
+0	92
+53
+July 31
+1999	Namibia
+South Africa	1
+1	Cosafa Cup
+in Namibia	+9
+-9	1347
+1597	0
+-2	120
+54
+September 18
+1999	South Africa
+Saudi Arabia	1
+0	Afro-Asian Championship
+in South Africa	+24
+-24	1621
+1655	+4
+-7	49
+41
+September 30
+1999	Saudi Arabia
+South Africa	0
+0	Afro-Asian Championship
+in Saudi Arabia	-9
++9	1646
+1630	-3
++2	44
+47
+November 27
+1999	South Africa
+Sweden	1
+0	Friendly tournament
+in South Africa	+21
+-21	1651
+1858	+3
+-5	42
+15
+January 23
+2000	South Africa
+Gabon	3
+1	African Nations Cup
+in Ghana	+19
+-19	1670
+1444	+2
+-7	40
+90
+January 27
+2000	South Africa
+Dem. Rep. of Congo	1
+0	African Nations Cup
+in Ghana	+15
+-15	1685
+1508	+3
+-3	37
+70
+February 02
+2000	Algeria
+South Africa	1
+1	African Nations Cup
+in Ghana	+9
+-9	1558
+1676	+1
+-2	60
+39
+February 06
+2000	Ghana
+South Africa	0
+1	African Nations Cup
+in Ghana	-23
++23	1525
+1699	-3
++9	67
+31
+February 10
+2000	Nigeria
+South Africa	2
+0	African Nations Cup
+in Nigeria	+25
+-25	1747
+1674	+4
+-8	23
+40
+February 12
+2000	South Africa
+Tunisia	2
+2	African Nations Cup
+in Ghana	-4
++4	1670
+1619	0
++1	40
+50
+April 09
+2000	Lesotho
+South Africa	0
+2	World Cup qualifier
+in Lesotho	-4
++4	1114
+1674	0
++2	172
+40
+April 22
+2000	South Africa
+Lesotho	1
+0	World Cup qualifier
+in South Africa	+1
+-1	1675
+1113	0
+0	40
+172
+April 29
+2000	South Africa
+Mauritius	3
+0	Cosafa Cup
+in South Africa	+3
+-3	1678
+1223	0
+0	40
+148
+May 28
+2000	Malta
+South Africa	0
+1	Friendly
+in Malta	-2
++2	1197
+1680	-1
+0	157
+40
+June 03
+2000	United States
+South Africa	4
+0	US Cup
+in the United States	+14
+-14	1789
+1666	+1
+-2	18
+42
+June 11
+2000	Ireland
+South Africa	2
+1	US Cup
+in the United States	+13
+-13	1736
+1653	+3
+-2	24
+44
+June 18
+2000	South Africa
+Swaziland	2
+0	Cosafa Cup
+in South Africa	+2
+-2	1655
+1172	0
+-1	46
+161
+July 09
+2000	Zimbabwe
+South Africa	0
+2	World Cup qualifier
+in Zimbabwe	-25
++25	1466
+1680	-6
++5	84
+41
+July 29
+2000	South Africa
+Zimbabwe	0
+1	Cosafa Cup
+in South Africa	-34
++34	1646
+1503	-9
++11	48
+73
+September 03
+2000	Congo
+South Africa	1
+2	African Nations Cup qualifier
+in Congo	-14
++14	1422
+1660	-4
++5	93
+43
+October 07
+2000	South Africa
+France	0
+0	Friendly tournament
+in South Africa	+11
+-11	1671
+2068	+2
+0	41
+1
+December 16
+2000	South Africa
+Liberia	2
+1	African Nations Cup qualifier
+in South Africa	+5
+-5	1676
+1425	+2
+-1	40
+95
+January 13
+2001	Mauritius
+South Africa	1
+1	African Nations Cup qualifier
+in Mauritius	+15
+-15	1252
+1661	+4
+-6	142
+46
+January 27
+2001	South Africa
+Burkina Faso	1
+0	World Cup qualifier
+in South Africa	+5
+-5	1666
+1415	+2
+0	43
+97
+February 20
+2001	South Africa
+Zambia	2
+0	Friendly
+in South Africa	+4
+-4	1670
+1426	0
+-1	43
+93
+February 25
+2001	Malawi
+South Africa	1
+2	World Cup qualifier
+in Malawi	-7
++7	1279
+1677	-1
++1	136
+42
+March 13
+2001	Lesotho
+South Africa	1
+0	Friendly
+in Lesotho	+18
+-18	1242
+1659	+5
+-4	145
+45
+March 24
+2001	South Africa
+Mauritius	3
+0	African Nations Cup qualifier
+in South Africa	+4
+-4	1663
+1248	0
+0	44
+142
+April 25
+2001	Italy
+South Africa	1
+0	Friendly
+in Italy	+2
+-2	1996
+1661	0
++1	2
+41
+April 29
+2001	Mozambique
+South Africa	0
+3	Cosafa Cup
+in Mozambique	-10
++10	1243
+1671	-1
+0	145
+41
+May 05
+2001	South Africa
+Zimbabwe	2
+1	World Cup qualifier
+in South Africa	+7
+-7	1678
+1491	+1
+-2	40
+73
+June 03
+2001	Liberia
+South Africa	1
+1	African Nations Cup qualifier
+in Liberia	+5
+-5	1493
+1673	+1
+0	74
+39
+June 17
+2001	South Africa
+Congo	0
+0	African Nations Cup qualifier
+in South Africa	-16
++16	1657
+1393	-5
++7	44
+102
+July 01
+2001	Burkina Faso
+South Africa	1
+1	World Cup qualifier
+in Burkina Faso	+8
+-8	1423
+1649	0
+-4	97
+46
+July 14
+2001	South Africa
+Malawi	2
+0	World Cup qualifier
+in South Africa	+4
+-4	1653
+1263	+3
+-2	44
+140
+July 21
+2001	Malawi
+South Africa	1
+0	Cosafa Cup
+in Malawi	+34
+-34	1297
+1619	+10
+-6	130
+52
+August 15
+2001	Sweden
+South Africa	3
+0	Friendly
+in Sweden	+5
+-5	1828
+1614	0
+-1	15
+53
+November 10
+2001	South Africa
+Egypt	1
+0	Friendly
+in South Africa	+8
+-8	1622
+1643	0
+-2	52
+46
+January 15
+2002	South Africa
+Angola	1
+0	Friendly
+in South Africa	+5
+-5	1627
+1532	+3
+-1	48
+66
+January 20
+2002	Burkina Faso
+South Africa	0
+0	African Nations Cup
+in Mali	+14
+-14	1416
+1613	+2
+-4	100
+52
+January 24
+2002	South Africa
+Ghana	0
+0	African Nations Cup
+in Mali	-6
++6	1607
+1529	0
++1	52
+68
+January 30
+2002	South Africa
+Morocco	3
+1	African Nations Cup
+in Mali	+43
+-43	1650
+1613	+10
+-10	42
+52
+February 03
+2002	Mali
+South Africa	2
+0	African Nations Cup
+in Mali	+44
+-44	1537
+1606	+14
+-10	63
+52
+March 20
+2002	Saudi Arabia
+South Africa	1
+0	Friendly
+in Italy	+8
+-8	1691
+1598	+1
+-1	39
+53
+March 27
+2002	Georgia
+South Africa	4
+1	Friendly
+in Georgia	+15
+-15	1569
+1583	+2
+-1	57
+54
+March 30
+2002	Botswana
+South Africa	0
+0	Cosafa Cup
+in Botswana	+14
+-14	1179
+1569	+3
+-2	158
+56
+April 17
+2002	South Africa
+Ecuador	0
+0	Friendly
+in Spain	+4
+-4	1573
+1700	+1
+-1	55
+36
+May 12
+2002	South Africa
+Madagascar	1
+0	Friendly
+in South Africa	+3
+-3	1576
+1356	+1
+-2	54
+119
+May 20
+2002	South Africa
+Scotland	2
+0	Friendly tournament
+in Hong Kong	+29
+-29	1605
+1647	+1
+-2	53
+43
+May 23
+2002	South Africa
+Turkey	2
+0	Friendly tournament
+in Hong Kong	+32
+-32	1637
+1721	+8
+-4	45
+31
+June 02
+2002	South Africa
+Paraguay	2
+2	World Cup
+in South Korea	+6
+-6	1643
+1698	+1
+-1	44
+37
+June 08
+2002	South Africa
+Slovenia	1
+0	World Cup
+in South Korea	+34
+-34	1677
+1655	+6
+-4	37
+39
+June 12
+2002	Spain
+South Africa	3
+2	World Cup
+in South Korea	+10
+-10	1974
+1667	+1
+-1	1
+37
+July 21
+2002	South Africa
+Madagascar	0
+0	Cosafa Cup
+in South Africa	-17
++17	1650
+1373	-1
++7	39
+112
+August 24
+2002	South Africa
+Swaziland	4
+1	Cosafa Cup
+in South Africa	+3
+-3	1653
+1230	0
+0	39
+149
+September 08
+2002	Ivory Coast
+South Africa	0
+0	African Nations Cup qualifier
+in Ivory Coast	-1
++1	1561
+1654	0
+0	60
+38
+September 21
+2002	Malawi
+South Africa	1
+3	Cosafa Cup
+in Malawi	-14
++14	1330
+1668	-3
+0	128
+38
+September 28
+2002	South Africa
+Malawi	1
+0	Cosafa Cup
+in South Africa	+3
+-3	1671
+1327	0
+0	38
+128
+October 13
+2002	South Africa
+Burundi	2
+0	African Nations Cup qualifier
+in South Africa	+5
+-5	1676
+1359	+2
+-3	37
+120
+October 23
+2002	Kenya
+South Africa	1
+1	Lager Cup
+in Tanzania	+8
+-8	1464
+1668	+2
+-1	86
+39
+October 26
+2002	Tanzania
+South Africa	1
+1	Lager Cup
+in Tanzania	+11
+-11	1232
+1657	0
+-2	149
+41
+November 19
+2002	South Africa
+Senegal	1
+1	Friendly tournament
+in South Africa	+1
+-1	1658
+1769	+1
+0	40
+24
+March 29
+2003	South Africa
+Madagascar	2
+0	Friendly
+in South Africa	+4
+-4	1662
+1407	0
+-3	39
+103
+April 30
+2003	South Africa
+Jamaica	0
+0	Friendly
+in South Africa	-6
++6	1656
+1550	0
++1	41
+64
+May 22
+2003	South Africa
+England	1
+2	Friendly
+in South Africa	-6
++6	1650
+1920	-1
+0	42
+6
+June 14
+2003	South Africa
+Trinidad and Tobago	2
+1	Friendly
+in South Africa	+2
+-2	1652
+1397	0
+0	42
+105
+June 22
+2003	South Africa
+Ivory Coast	2
+1	African Nations Cup qualifier
+in South Africa	+13
+-13	1665
+1616	+3
+-3	39
+50
+July 06
+2003	Burundi
+South Africa	0
+2	African Nations Cup qualifier
+in Burundi	-10
++10	1273
+1675	-4
++2	141
+37
+July 17
+2003	South Africa
+Zimbabwe	0
+1	Cosafa Cup
+in South Africa	-34
++34	1641
+1503	-6
++7	43
+74
+October 08
+2003	Lesotho
+South Africa	0
+3	Friendly
+in Lesotho	-5
++5	1211
+1646	-1
++2	154
+42
+October 11
+2003	South Africa
+Costa Rica	2
+1	Friendly
+in South Africa	+9
+-9	1655
+1710	+2
+-1	40
+31
+November 15
+2003	Egypt
+South Africa	2
+1	Friendly
+in Egypt	+8
+-8	1645
+1647	0
+-4	45
+43
+November 19
+2003	Tunisia
+South Africa	2
+0	Friendly
+in Tunisia	+12
+-12	1638
+1635	+3
+-3	45
+46
+January 10
+2004	Mauritius
+South Africa	2
+0	Cosafa Cup
+in Mauritius	+47
+-47	1355
+1588	+10
+-10	118
+57
+January 18
+2004	Senegal
+South Africa	2
+1	Friendly
+in Senegal	+4
+-4	1750
+1584	0
+-1	27
+58
+January 27
+2004	South Africa
+Benin	2
+0	African Nations Cup
+in Tunisia	+14
+-14	1598
+1319	+2
+-2	57
+127
+January 31
+2004	Nigeria
+South Africa	4
+0	African Nations Cup
+in Tunisia	+37
+-37	1713
+1561	+7
+-7	31
+64
+February 04
+2004	Morocco
+South Africa	1
+1	African Nations Cup
+in Tunisia	-7
++7	1650
+1568	-1
++2	43
+63
+March 30
+2004	Australia
+South Africa	1
+0	Friendly
+in England	+4
+-4	1823
+1564	+1
+0	12
+63
+June 05
+2004	South Africa
+Cape Verde	2
+1	World Cup qualifier
+in South Africa	+6
+-6	1570
+1350	+1
+-3	62
+123
+June 20
+2004	Ghana
+South Africa	3
+0	World Cup qualifier
+in Ghana	+39
+-39	1466
+1531	+13
+-9	85
+71
+July 03
+2004	South Africa
+Burkina Faso	2
+0	World Cup qualifier
+in South Africa	+12
+-12	1543
+1386	+4
+0	66
+108
+August 18
+2004	Tunisia
+South Africa	0
+2	Friendly
+in Tunisia	-23
++23	1620
+1566	-3
++4	48
+63
+September 05
+2004	Dem. Rep. of Congo
+South Africa	1
+0	World Cup qualifier
+in Dem. Rep. of Congo	+24
+-24	1428
+1542	+7
+-7	97
+70
+October 10
+2004	Uganda
+South Africa	0
+1	World Cup qualifier
+in Uganda	-15
++15	1338
+1557	-4
++5	122
+66
+November 17
+2004	South Africa
+Nigeria	2
+1	Friendly
+in South Africa	+13
+-13	1570
+1752	+3
+-1	63
+27
+February 09
+2005	South Africa
+Australia	1
+1	Friendly
+in South Africa	+4
+-4	1574
+1804	+1
+-1	63
+19
+February 26
+2005	South Africa
+Seychelles	3
+0	Cosafa Cup
+in Mauritius	+4
+-4	1578
+1068	0
+-1	62
+179
+February 27
+2005	Mauritius
+South Africa	0
+1	Cosafa Cup
+in Mauritius	-13
++13	1342
+1591	-5
++1	120
+61
+March 26
+2005	South Africa
+Uganda	2
+1	World Cup qualifier
+in South Africa	+4
+-4	1595
+1326	+3
+0	58
+124
+June 04
+2005	Cape Verde
+South Africa	1
+2	World Cup qualifier
+in Cape Verde	-14
++14	1378
+1609	0
++2	102
+55
+June 18
+2005	South Africa
+Ghana	0
+2	World Cup qualifier
+in South Africa	-47
++47	1562
+1540	-9
++8	64
+72
+July 08
+2005	South Africa
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+44
+-44	1606
+1865	+8
+-3	56
+11
+July 10
+2005	Jamaica
+South Africa	3
+3	Concacaf Gold Cup
+in the United States	-4
++4	1662
+1610	-4
++1	47
+55
+July 13
+2005	Guatemala
+South Africa	1
+1	Concacaf Gold Cup
+in the United States	+6
+-6	1526
+1604	+1
+-1	74
+56
+July 17
+2005	Panama
+South Africa	1
+1	Concacaf Gold Cup
+in the United States	+9
+-9	1480
+1595	+3
+0	81
+56
+August 13
+2005	South Africa
+Zambia	2
+2	Cosafa Cup
+in South Africa	-9
++9	1586
+1527	-2
++2	58
+74
+August 17
+2005	Iceland
+South Africa	4
+1	Friendly
+in Iceland	+18
+-18	1498
+1568	0
+-4	82
+62
+September 03
+2005	Burkina Faso
+South Africa	3
+1	World Cup qualifier
+in Burkina Faso	+38
+-38	1408
+1530	+7
+-11	99
+72
+September 07
+2005	Germany
+South Africa	4
+2	Friendly
+in Germany	+2
+-2	1869
+1528	+1
+0	11
+73
+October 08
+2005	South Africa
+Dem. Rep. of Congo	2
+2	World Cup qualifier
+in South Africa	-9
++9	1519
+1464	-3
++2	74
+87
+November 12
+2005	South Africa
+Senegal	2
+3	Friendly tournament
+in South Africa	-12
++12	1507
+1704	-4
++4	79
+36
+January 14
+2006	Egypt
+South Africa	1
+2	Friendly
+in Egypt	-17
++17	1695
+1524	-4
++3	39
+76
+January 22
+2006	Guinea
+South Africa	2
+0	African Nations Cup
+in Egypt	+38
+-38	1557
+1486	+12
+-8	64
+83
+January 26
+2006	Tunisia
+South Africa	2
+0	African Nations Cup
+in Egypt	+14
+-14	1755
+1472	+2
+-3	29
+85
+January 30
+2006	Zambia
+South Africa	1
+0	African Nations Cup
+in Egypt	+24
+-24	1512
+1448	+4
+-9	77
+93
+May 10
+2006	Lesotho
+South Africa	0
+0	Friendly
+in Lesotho	+5
+-5	1157
+1443	0
+0	167
+93
+May 20
+2006	South Africa
+Swaziland	1
+0	Cosafa Cup
+in Botswana	+7
+-7	1450
+1176	0
+-1	93
+161
+May 21
+2006	Botswana
+South Africa	0
+0	Cosafa Cup
+in Botswana	+1
+-1	1330
+1449	0
+0	124
+93
+August 16
+2006	Namibia
+South Africa	0
+1	Friendly
+in Namibia	-6
++6	1181
+1455	0
++2	161
+90
+September 02
+2006	South Africa
+Congo	0
+0	African Nations Cup qualifier
+in South Africa	-11
++11	1444
+1362	-1
++3	92
+111
+October 08
+2006	Zambia
+South Africa	0
+1	African Nations Cup qualifier
+in Zambia	-31
++31	1524
+1475	-8
++9	73
+86
+November 15
+2006	Egypt
+South Africa	1
+0	Friendly
+in England	+4
+-4	1717
+1471	+1
+-6	37
+90
+March 24
+2007	Chad
+South Africa	0
+3	African Nations Cup qualifier
+in Chad	-27
++27	1266
+1498	-7
++1	139
+84
+March 28
+2007	South Africa
+Bolivia	0
+1	Friendly
+in South Africa	-12
++12	1486
+1553	-1
++3	85
+65
+May 26
+2007	South Africa
+Malawi	0
+0	Cosafa Cup
+in Swaziland	-9
++9	1477
+1324	-2
++1	87
+124
+May 27
+2007	South Africa
+Mauritius	2
+0	Cosafa Cup
+in Swaziland	+12
+-12	1489
+1229	+2
+-3	85
+150
+June 02
+2007	South Africa
+Chad	4
+0	African Nations Cup qualifier
+in South Africa	+10
+-10	1499
+1256	+3
+-2	82
+142
+June 17
+2007	Congo
+South Africa	1
+1	African Nations Cup qualifier
+in Congo	-1
++1	1422
+1500	-1
++1	97
+78
+August 22
+2007	Scotland
+South Africa	1
+0	Friendly
+in Scotland	+3
+-3	1723
+1497	+1
+-2	34
+78
+September 09
+2007	South Africa
+Zambia	1
+3	African Nations Cup qualifier
+in South Africa	-36
++36	1461
+1561	-10
++9	87
+63
+September 12
+2007	South Africa
+Uruguay	0
+0	Friendly
+in South Africa	+6
+-6	1467
+1796	+1
+0	86
+16
+September 29
+2007	South Africa
+Botswana	1
+0	Cosafa Cup
+in South Africa	+8
+-8	1475
+1323	+1
+-3	85
+130
+October 17
+2007	Italy
+South Africa	2
+0	Friendly
+in Italy	+1
+-1	1992
+1474	0
+0	4
+86
+October 24
+2007	South Africa
+Zambia	0
+0	Cosafa Cup
+in South Africa	0
+0	1474
+1579	0
+0	85
+60
+November 17
+2007	South Africa
+United States	0
+1	Friendly
+in South Africa	-5
++5	1469
+1748	-3
++2	88
+27
+November 20
+2007	South Africa
+Canada	2
+0	Friendly
+in South Africa	+17
+-17	1486
+1609	+6
+-6	82
+55
+January 13
+2008	South Africa
+Mozambique	2
+0	Friendly
+in South Africa	+6
+-6	1492
+1350	+1
+-3	82
+119
+January 16
+2008	South Africa
+Botswana	2
+1	Friendly
+in South Africa	+3
+-3	1495
+1318	+1
+0	81
+130
+January 23
+2008	Angola
+South Africa	1
+1	African Nations Cup
+in Ghana	-3
++3	1531
+1498	-3
+-1	73
+82
+January 27
+2008	Tunisia
+South Africa	3
+1	African Nations Cup
+in Ghana	+25
+-25	1645
+1473	+2
+-4	48
+86
+January 31
+2008	Senegal
+South Africa	1
+1	African Nations Cup
+in Ghana	-6
++6	1554
+1479	0
++2	64
+84
+March 11
+2008	South Africa
+Zimbabwe	2
+1	Friendly
+in South Africa	+7
+-7	1486
+1450	+4
+-3	82
+94
+March 26
+2008	South Africa
+Paraguay	3
+0	Friendly
+in South Africa	+27
+-27	1513
+1778	+5
+-3	77
+20
+May 29
+2008	South Africa
+Swaziland	1
+0	Friendly
+in South Africa	+1
+-1	1514
+1135	0
+0	77
+171
+June 01
+2008	Nigeria
+South Africa	2
+0	World Cup qualifier
+in Nigeria	+9
+-9	1720
+1505	+1
+-3	36
+80
+June 07
+2008	South Africa
+Equatorial Guinea	4
+1	World Cup qualifier
+in South Africa	+9
+-9	1514
+1255	+2
+0	78
+143
+June 14
+2008	Sierra Leone
+South Africa	1
+0	World Cup qualifier
+in Sierra Leone	+31
+-31	1228
+1483	+4
+-9	152
+86
+June 21
+2008	South Africa
+Sierra Leone	0
+0	World Cup qualifier
+in South Africa	-15
++15	1468
+1243	-3
++5	90
+147
+August 19
+2008	Australia
+South Africa	2
+2	Friendly
+in England	-6
++6	1682
+1474	0
++1	40
+89
+September 06
+2008	South Africa
+Nigeria	0
+1	World Cup qualifier
+in South Africa	-12
++12	1462
+1741	-1
++1	91
+30
+September 09
+2008	South Africa
+Guinea	0
+1	Friendly
+in South Africa	-10
++10	1452
+1574	-2
++1	92
+60
+September 30
+2008	South Africa
+Malawi	3
+0	Friendly
+in South Africa	+8
+-8	1460
+1319	+1
+-2	92
+127
+October 11
+2008	Equatorial Guinea
+South Africa	0
+1	World Cup qualifier
+in Equatorial Guinea	-13
++13	1221
+1473	-3
++3	152
+89
+October 15
+2008	South Africa
+Ghana	2
+1	Friendly
+in South Africa	+14
+-14	1487
+1693	+1
+-3	89
+41
+November 19
+2008	South Africa
+Cameroon	3
+2	Friendly
+in South Africa	+15
+-15	1502
+1746	+7
+-6	83
+29
+January 27
+2009	South Africa
+Zambia	1
+0	Friendly
+in South Africa	+6
+-6	1508
+1464	+4
+0	78
+90
+February 11
+2009	South Africa
+Chile	0
+2	Friendly
+in South Africa	-9
++9	1499
+1769	-6
++1	84
+21
+March 28
+2009	South Africa
+Norway	2
+1	Friendly
+in South Africa	+13
+-13	1512
+1682	+6
+-3	79
+42
+March 31
+2009	Portugal
+South Africa	2
+0	Friendly
+in Switzerland	+5
+-5	1794
+1507	+3
+-3	16
+82
+May 30
+2009	South Africa
+Mauritius	2
+0	Friendly
+in South Africa	+1
+-1	1508
+1068	+1
+0	81
+180
+June 06
+2009	South Africa
+Poland	1
+0	Friendly
+in South Africa	+13
+-13	1521
+1689	+2
+-1	78
+41
+June 14
+2009	South Africa
+Iraq	0
+0	Confederations Cup
+in South Africa	-8
++8	1513
+1516	-6
++5	82
+78
+June 17
+2009	South Africa
+New Zealand	2
+0	Confederations Cup
+in South Africa	+27
+-27	1540
+1488	+12
+-8	70
+87
+June 20
+2009	South Africa
+Spain	0
+2	Confederations Cup
+in South Africa	-5
++5	1535
+2104	0
+0	70
+1
+June 25
+2009	South Africa
+Brazil	0
+1	Confederations Cup
+in South Africa	-3
++3	1532
+2090	0
+0	71
+1
+June 28
+2009	South Africa
+Spain	2
+3	Confederations Cup
+in South Africa	-4
++4	1528
+2044	-3
+0	74
+2
+August 12
+2009	South Africa
+Serbia	1
+3	Friendly
+in South Africa	-8
++8	1520
+1799	-4
++2	78
+15
+September 05
+2009	Germany
+South Africa	2
+0	Friendly
+in Germany	+1
+-1	1933
+1519	0
+-1	5
+78
+September 08
+2009	Ireland
+South Africa	1
+0	Friendly
+in Ireland	+3
+-3	1751
+1516	+2
+-2	27
+80
+September 19
+2009	South Africa
+Madagascar	1
+0	Friendly
+in South Africa	+2
+-2	1518
+1242	+1
+-2	78
+144
+October 10
+2009	Norway
+South Africa	1
+0	Friendly
+in Norway	+3
+-3	1707
+1515	+2
+-2	37
+81
+October 13
+2009	Iceland
+South Africa	1
+0	Friendly
+in Iceland	+10
+-10	1426
+1505	+4
+-3	98
+84
+November 14
+2009	South Africa
+Japan	0
+0	Friendly
+in South Africa	+4
+-4	1509
+1769	0
+-1	83
+20
+November 17
+2009	South Africa
+Jamaica	0
+0	Friendly
+in South Africa	0
+0	1509
+1607	0
+0	83
+51
+January 23
+2010	South Africa
+Swaziland	6
+2	Friendly
+in South Africa	+3
+-3	1512
+1171	+1
+-1	83
+163
+January 27
+2010	South Africa
+Zimbabwe	3
+0	Friendly
+in South Africa	+8
+-8	1520
+1381	0
+-3	83
+112
+March 03
+2010	South Africa
+Namibia	1
+1	Friendly
+in South Africa	-7
++7	1513
+1318	+1
++2	82
+128
+March 31
+2010	Paraguay
+South Africa	1
+1	Friendly
+in Paraguay	-7
++7	1732
+1520	-1
+0	27
+82
+April 22
+2010	North Korea
+South Africa	0
+0	Friendly
+in Germany	0
+0	1533
+1520	0
+0	78
+82
+April 28
+2010	South Africa
+Jamaica	2
+0	Friendly
+in Germany	+19
+-19	1539
+1593	+7
+-2	75
+54
+May 16
+2010	South Africa
+Thailand	4
+0	Friendly
+in South Africa	+9
+-9	1548
+1436	+4
+-3	71
+97
+May 24
+2010	South Africa
+Bulgaria	1
+1	Friendly
+in South Africa	+1
+-1	1549
+1695	0
++1	71
+38
+May 27
+2010	South Africa
+Colombia	2
+1	Friendly
+in South Africa	+13
+-13	1562
+1726	+7
+-3	64
+28
+May 31
+2010	South Africa
+Guatemala	5
+0	Friendly
+in South Africa	+8
+-8	1570
+1414	+6
+-3	60
+104
+June 05
+2010	South Africa
+Denmark	1
+0	Friendly
+in South Africa	+12
+-12	1582
+1743	+5
+-3	55
+24
+June 11
+2010	South Africa
+Mexico	1
+1	World Cup
+in South Africa	+16
+-16	1598
+1867	+2
+0	53
+8
+June 16
+2010	South Africa
+Uruguay	0
+3	World Cup
+in South Africa	-35
++35	1563
+1855	-13
++3	66
+11
+June 22
+2010	South Africa
+France	2
+1	World Cup
+in South Africa	+41
+-41	1604
+1753	+14
+-6	53
+22
+August 11
+2010	South Africa
+Ghana	1
+0	Friendly
+in South Africa	+12
+-12	1616
+1749	+1
+-2	51
+23
+September 04
+2010	South Africa
+Niger	2
+0	African Nations Cup qualifier
+in South Africa	+5
+-5	1621
+1299	+1
+-3	49
+135
+October 10
+2010	Sierra Leone
+South Africa	0
+0	African Nations Cup qualifier
+in Sierra Leone	+12
+-12	1299
+1609	+1
+-3	134
+53
+November 17
+2010	South Africa
+United States	0
+1	Friendly
+in South Africa	-9
++9	1600
+1743	-4
++2	56
+24
+February 09
+2011	South Africa
+Kenya	2
+0	Friendly
+in South Africa	+2
+-2	1602
+1268	+1
+-1	54
+141
+March 26
+2011	South Africa
+Egypt	1
+0	African Nations Cup qualifier
+in South Africa	+25
+-25	1627
+1762	+7
+-4	48
+21
+May 14
+2011	Tanzania
+South Africa	0
+1	Friendly
+in Tanzania	-5
++5	1332
+1632	-2
++2	126
+49
+June 05
+2011	Egypt
+South Africa	0
+0	African Nations Cup qualifier
+in Egypt	-12
++12	1750
+1644	-3
++2	25
+47
+August 10
+2011	South Africa
+Burkina Faso	3
+0	Friendly
+in South Africa	+8
+-8	1652
+1535	0
+-1	48
+71
+September 04
+2011	Niger
+South Africa	2
+1	African Nations Cup qualifier
+in Niger	+31
+-31	1368
+1621	+4
+-12	118
+55
+October 08
+2011	South Africa
+Sierra Leone	0
+0	African Nations Cup qualifier
+in South Africa	-16
++16	1605
+1349	-4
++7	57
+119
+November 12
+2011	South Africa
+Ivory Coast	1
+1	Friendly
+in South Africa	+3
+-3	1608
+1795	-1
+-2	55
+18
+November 15
+2011	Zimbabwe
+South Africa	2
+1	Friendly
+in Zimbabwe	+13
+-13	1417
+1595	+2
+-2	101
+57
+January 06
+2012	Equatorial Guinea
+South Africa	0
+0	Friendly
+in Equatorial Guinea	+6
+-6	1244
+1589	+3
+-2	145
+58
+January 11
+2012	South Africa
+Zambia	1
+1	Friendly
+in South Africa	-5
++5	1584
+1524	0
++1	58
+76
+January 15
+2012	South Africa
+Ghana	1
+1	Friendly
+in South Africa	+2
+-2	1586
+1759	0
+-1	58
+24
+February 29
+2012	South Africa
+Senegal	0
+0	Friendly
+in South Africa	-4
++4	1582
+1527	-1
++1	59
+77
+June 03
+2012	South Africa
+Ethiopia	1
+1	World Cup qualifier
+in South Africa	-16
++16	1566
+1304	-4
++4	65
+133
+June 09
+2012	Botswana
+South Africa	1
+1	World Cup qualifier
+in Botswana	+7
+-7	1348
+1559	+1
+-1	121
+66
+June 15
+2012	South Africa
+Gabon	3
+0	Friendly
+in South Africa	+12
+-12	1571
+1537	+2
+-8	64
+77
+September 07
+2012	Brazil
+South Africa	1
+0	Friendly
+in Brazil	+1
+-1	2034
+1570	0
++1	2
+66
+September 11
+2012	South Africa
+Mozambique	2
+0	Friendly
+in South Africa	+4
+-4	1574
+1336	0
+0	65
+122
+October 12
+2012	Poland
+South Africa	1
+0	Friendly
+in Poland	+5
+-5	1672
+1569	+1
+-2	39
+66
+October 16
+2012	Kenya
+South Africa	1
+2	Friendly
+in Kenya	-6
++6	1313
+1575	-1
++1	131
+64
+November 14
+2012	South Africa
+Zambia	0
+1	Friendly
+in South Africa	-12
++12	1563
+1607	-4
++4	68
+53
+December 22
+2012	South Africa
+Malawi	3
+1	Friendly
+in South Africa	+5
+-5	1568
+1368	+2
+-5	67
+119
+January 08
+2013	South Africa
+Norway	0
+1	Friendly
+in South Africa	-8
++8	1560
+1739	-3
+0	69
+28
+January 12
+2013	South Africa
+Algeria	0
+0	Friendly
+in South Africa	-3
++3	1557
+1563	-1
+0	70
+69
+January 19
+2013	South Africa
+Cape Verde	0
+0	African Nations Cup
+in South Africa	-14
++14	1543
+1448	-3
++3	74
+95
+January 23
+2013	South Africa
+Angola	2
+0	African Nations Cup
+in South Africa	+24
+-24	1567
+1486	+6
+-5	67
+85
+January 27
+2013	South Africa
+Morocco	2
+2	African Nations Cup
+in South Africa	-9
++9	1558
+1547	-3
++1	69
+72
+February 02
+2013	South Africa
+Mali	1
+1	African Nations Cup
+in South Africa	-5
++5	1553
+1591	0
++1	69
+57
+March 23
+2013	South Africa
+Central African Republic	2
+0	World Cup qualifier
+in South Africa	+9
+-9	1562
+1348	+3
+-2	66
+122
+June 02
+2013	Lesotho
+South Africa	0
+2	Friendly
+in Lesotho	-5
++5	1158
+1567	-2
++1	165
+65
+June 08
+2013	Central African Republic
+South Africa	0
+3	World Cup qualifier
+in Cameroon	-15
++15	1333
+1582	-3
++4	125
+61
+June 16
+2013	Ethiopia
+South Africa	2
+1	World Cup qualifier
+in Ethiopia	+26
+-26	1391
+1556	+7
+-7	108
+66
+July 13
+2013	South Africa
+Namibia	2
+1	Cosafa Cup
+in Zambia	+9
+-9	1565
+1320	+2
+-1	64
+129
+July 17
+2013	Zambia
+South Africa	0
+0	Cosafa Cup
+in Zambia	-4
++4	1534
+1569	-1
++1	74
+63
+July 20
+2013	South Africa
+Lesotho	2
+1	Cosafa Cup
+in Zambia	+4
+-4	1573
+1192	+1
+-1	62
+158
+August 14
+2013	South Africa
+Nigeria	0
+2	Friendly
+in South Africa	-14
++14	1559
+1700	-3
++4	66
+33
+August 17
+2013	South Africa
+Burkina Faso	2
+0	Friendly
+in South Africa	+11
+-11	1570
+1560	+2
+-3	64
+66
+September 07
+2013	South Africa
+Botswana	4
+1	World Cup qualifier
+in South Africa	+8
+-8	1578
+1294	+3
+-3	61
+137
+September 10
+2013	South Africa
+Zimbabwe	1
+2	Friendly
+in South Africa	-17
++17	1561
+1366	-5
++3	66
+117
+October 11
+2013	Morocco
+South Africa	1
+1	Friendly
+in Morocco	-2
++2	1529
+1563	-3
+0	76
+65
+November 15
+2013	Swaziland
+South Africa	0
+3	Friendly
+in Swaziland	-4
++4	1078
+1567	0
++2	181
+62
+November 19
+2013	South Africa
+Spain	1
+0	Friendly
+in South Africa	+18
+-18	1585
+2082	+6
+0	57
+2
+March 05
+2014	South Africa
+Brazil	0
+5	Friendly
+in South Africa	-3
++3	1582
+2113	-2
+0	59
+1

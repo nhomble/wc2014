@@ -1,0 +1,7425 @@
+January 01
+1923	Guatemala
+Mexico	2
+3	Friendly
+in Guatemala	-7
++7	1496
+1707	-1
+-	35
+15
+January 04
+1923	Guatemala
+Mexico	3
+1	Friendly
+in Guatemala	+20
+-20	1516
+1687	+2
+-2	33
+17
+January 07
+1923	Guatemala
+Mexico	1
+4	Friendly
+in Guatemala	-14
++14	1502
+1701	-2
++1	35
+16
+December 09
+1923	Mexico
+Guatemala	2
+1	Friendly
+in Mexico	+3
+-3	1704
+1499	0
+0	14
+38
+December 12
+1923	Mexico
+Guatemala	2
+0	Friendly
+in Mexico	+4
+-4	1708
+1495	0
+0	14
+38
+December 16
+1923	Mexico
+Guatemala	3
+3	Friendly
+in Mexico	-7
++7	1701
+1502	0
+0	14
+38
+May 30
+1928	Spain
+Mexico	7
+1	Olympic Games
+in the Netherlands	+32
+-32	1922
+1669	0
+-1	3
+18
+June 05
+1928	Chile
+Mexico	3
+1	Olympic Games Consolation Tournament
+in the Netherlands	+45
+-45	1517
+1624	+8
+-2	36
+21
+July 13
+1930	France
+Mexico	4
+1	World Cup
+in Uruguay	+76
+-76	1533
+1548	+9
+-11	34
+30
+July 16
+1930	Chile
+Mexico	3
+0	World Cup
+in Uruguay	+55
+-55	1585
+1493	+7
+-6	28
+37
+July 19
+1930	Argentina
+Mexico	6
+3	World Cup
+in Uruguay	+5
+-5	2008
+1488	0
+0	1
+37
+March 04
+1934	Mexico
+Cuba	3
+2	World Cup qualifier
+in Mexico	+23
+-23	1511
+1611	+3
+-2	37
+24
+March 11
+1934	Mexico
+Cuba	5
+0	World Cup qualifier
+in Mexico	+40
+-40	1551
+1571	+3
+-6	34
+30
+March 18
+1934	Mexico
+Cuba	4
+1	World Cup qualifier
+in Mexico	+27
+-27	1578
+1544	+4
+-4	30
+34
+May 24
+1934	United States
+Mexico	4
+2	World Cup qualifier
+in Italy	+20
+-20	1714
+1558	+2
+-4	13
+32
+March 27
+1935	El Salvador
+Mexico	1
+8	Central American Games
+in El Salvador	-40
++40	1381
+1598	-3
++5	53
+27
+March 28
+1935	Mexico
+Guatemala	5
+1	Central American Games
+in El Salvador	+19
+-19	1617
+1391	+3
+-1	24
+51
+March 30
+1935	Mexico
+Cuba	6
+1	Central American Games
+in El Salvador	+32
+-32	1649
+1517	+6
+-2	18
+36
+April 01
+1935	Mexico
+Honduras	8
+2	Central American Games
+in El Salvador	+21
+-21	1670
+1435	0
+-3	18
+44
+April 02
+1935	Mexico
+Costa Rica	2
+0	Central American Games
+in El Salvador	+40
+-40	1710
+1750	+4
+-2	14
+12
+July 28
+1937	Panama
+Mexico	2
+2	Friendly
+in Colombia	+7
+-7	1407
+1703	-
+-1	46
+15
+August 19
+1937	Panama
+Mexico	2
+2	Friendly
+in Panama	+5
+-5	1412
+1698	0
+0	46
+15
+August 21
+1937	Panama
+Mexico	0
+2	Friendly
+in Panama	-8
++8	1404
+1706	-1
+0	47
+15
+September 12
+1937	Mexico
+United States	7
+2	Friendly
+in Mexico	+13
+-13	1719
+1671	+1
+-2	14
+18
+September 19
+1937	Mexico
+United States	7
+3	Friendly
+in Mexico	+11
+-11	1730
+1660	0
+-1	14
+19
+September 25
+1937	Mexico
+United States	5
+1	Friendly
+in Mexico	+10
+-10	1740
+1650	0
+-1	14
+20
+February 10
+1938	Mexico
+Colombia	3
+1	Central American and Caribbean Games
+in Panama	+19
+-19	1759
+1581	+1
+-	13
+32
+February 14
+1938	Mexico
+Venezuela	1
+0	Central American and Caribbean Games
+in Panama	+2
+-2	1761
+1284	0
+0	13
+67
+February 18
+1938	Mexico
+El Salvador	6
+0	Central American and Caribbean Games
+in Panama	+9
+-9	1770
+1379	0
+-1	13
+52
+February 20
+1938	Panama
+Mexico	2
+2	Central American and Caribbean Games
+in Panama	+14
+-14	1389
+1756	+3
+-1	51
+14
+February 22
+1938	Mexico
+Costa Rica	2
+1	Central American and Caribbean Games
+in Panama	+23
+-23	1779
+1779	+2
+-3	12
+12
+July 13
+1947	Mexico
+United States	5
+0	North American Championship
+in Cuba	+32
+-32	1811
+1618	+3
+-2	9
+26
+July 17
+1947	Cuba
+Mexico	1
+3	North American Championship
+in Cuba	-17
++17	1484
+1828	-2
++2	46
+7
+August 02
+1948	South Korea
+Mexico	5
+3	Olympic Games
+in England	+61
+-61	1761
+1767	-
+-4	13
+12
+September 04
+1949	Mexico
+United States	6
+0	World Cup qualifier
+in Mexico	+12
+-12	1779
+1537	0
+-3	12
+39
+September 11
+1949	Mexico
+Cuba	2
+0	World Cup qualifier
+in Mexico	+6
+-6	1785
+1498	0
+-1	12
+45
+September 18
+1949	Mexico
+United States	6
+2	World Cup qualifier
+in Mexico	+9
+-9	1794
+1526	0
+-5	12
+43
+September 25
+1949	Mexico
+Cuba	3
+0	World Cup qualifier
+in Mexico	+6
+-6	1800
+1462	+1
+0	11
+50
+May 26
+1950	Mexico
+Spain	1
+3	Friendly
+in Mexico	-18
++18	1782
+1851	-1
++2	12
+7
+May 28
+1950	Mexico
+Spain	0
+0	Friendly
+in Mexico	-1
++1	1781
+1852	0
+0	12
+7
+June 24
+1950	Brazil
+Mexico	4
+0	World Cup
+in Brazil	+21
+-21	1955
+1760	0
+-2	4
+14
+June 29
+1950	Yugoslavia
+Mexico	4
+1	World Cup
+in Brazil	+45
+-45	1854
+1715	+2
+-3	9
+17
+July 02
+1950	Switzerland
+Mexico	2
+1	World Cup
+in Brazil	+38
+-38	1664
+1677	+4
+-3	21
+20
+March 23
+1952	Uruguay
+Mexico	3
+1	Pan American Championship
+in Chile	+20
+-20	1874
+1657	+2
+-4	6
+24
+March 26
+1952	Chile
+Mexico	4
+0	Pan American Championship
+in Chile	+34
+-34	1691
+1623	+4
+-2	20
+26
+April 06
+1952	Brazil
+Mexico	2
+0	Pan American Championship
+in Chile	+9
+-9	1984
+1614	0
+-1	2
+27
+April 10
+1952	Mexico
+Panama	4
+2	Pan American Championship
+in Chile	+22
+-22	1636
+1438	+1
+-3	26
+58
+April 20
+1952	Peru
+Mexico	3
+0	Pan American Championship
+in Chile	+33
+-33	1753
+1603	+2
+-3	15
+29
+July 19
+1953	Mexico
+Haiti	8
+0	World Cup qualifier
+in Mexico	+16
+-16	1619
+1404	+2
+0	30
+66
+December 27
+1953	Haiti
+Mexico	0
+4	World Cup qualifier
+in Haiti	-28
++28	1397
+1647	-6
++3	72
+26
+January 10
+1954	Mexico
+United States	4
+0	World Cup qualifier
+in Mexico	+17
+-17	1664
+1517	+1
+-2	25
+44
+January 14
+1954	Mexico
+United States	3
+1	World Cup qualifier
+in Mexico	+12
+-12	1676
+1505	+3
+-1	22
+45
+June 16
+1954	Brazil
+Mexico	5
+0	World Cup
+in Switzerland	+16
+-16	2020
+1660	0
+-1	3
+22
+June 19
+1954	France
+Mexico	3
+2	World Cup
+in Switzerland	+26
+-26	1727
+1634	+5
+-3	14
+25
+February 26
+1956	Mexico
+Costa Rica	1
+1	Pan American Championship
+in Mexico	-3
++3	1631
+1691	0
+0	26
+20
+March 04
+1956	Mexico
+Peru	0
+2	Pan American Championship
+in Mexico	-38
++38	1593
+1760	-7
++4	33
+15
+March 08
+1956	Mexico
+Brazil	1
+2	Pan American Championship
+in Mexico	-8
++8	1585
+1982	-1
+0	34
+3
+March 13
+1956	Mexico
+Argentina	0
+0	Pan American Championship
+in Mexico	+19
+-19	1604
+2026	+3
+0	31
+2
+March 18
+1956	Mexico
+Chile	2
+1	Pan American Championship
+in Mexico	+29
+-29	1633
+1734	+4
+-3	27
+17
+April 07
+1957	Mexico
+United States	6
+0	World Cup qualifier
+in Mexico	+21
+-21	1654
+1522	+2
+-4	24
+47
+April 28
+1957	United States
+Mexico	2
+7	World Cup qualifier
+in the United States	-36
++36	1486
+1690	-9
++3	56
+21
+June 30
+1957	Mexico
+Canada	3
+0	World Cup qualifier
+in Mexico	+20
+-20	1710
+1607	+2
+-3	21
+32
+July 04
+1957	Mexico
+Canada	2
+0	World Cup qualifier
+in Mexico	+14
+-14	1724
+1593	+1
+-3	20
+35
+October 20
+1957	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+27
+-27	1751
+1760	+2
+-2	18
+17
+October 27
+1957	Costa Rica
+Mexico	1
+1	World Cup qualifier
+in Costa Rica	-6
++6	1754
+1757	-1
++1	18
+17
+June 08
+1958	Sweden
+Mexico	3
+0	World Cup
+in Sweden	+40
+-40	1784
+1717	+5
+-5	15
+21
+June 11
+1958	Mexico
+Wales	1
+1	World Cup
+in Sweden	-4
++4	1713
+1680	-1
++1	22
+25
+June 15
+1958	Hungary
+Mexico	4
+0	World Cup
+in Sweden	+22
+-22	1978
+1691	+1
+-2	2
+24
+March 01
+1959	Mexico
+Costa Rica	3
+1	Friendly tournament
+in Mexico	+20
+-20	1711
+1734	+2
+-2	22
+19
+March 08
+1959	Costa Rica
+Mexico	1
+2	Friendly tournament
+in Costa Rica	-20
++20	1714
+1731	-3
++2	22
+20
+May 24
+1959	Mexico
+England	2
+1	Friendly
+in Mexico	+11
+-11	1742
+1854	0
+0	21
+6
+March 06
+1960	Brazil
+Mexico	2
+2	Pan American Championship
+in Costa Rica	-15
++15	1971
+1757	0
++2	1
+18
+March 10
+1960	Argentina
+Mexico	3
+2	Pan American Championship
+in Costa Rica	+13
+-13	1943
+1744	+1
+-3	1
+21
+March 12
+1960	Costa Rica
+Mexico	1
+1	Pan American Championship
+in Costa Rica	-11
++11	1789
+1755	-1
++1	15
+20
+March 15
+1960	Brazil
+Mexico	2
+1	Pan American Championship
+in Costa Rica	+16
+-16	1904
+1739	0
+-2	4
+21
+March 17
+1960	Argentina
+Mexico	2
+0	Pan American Championship
+in Costa Rica	+14
+-14	2009
+1725	0
++1	1
+20
+March 20
+1960	Costa Rica
+Mexico	0
+3	Pan American Championship
+in Costa Rica	-55
++55	1664
+1780	-8
++5	29
+15
+June 26
+1960	Mexico
+Netherlands	3
+1	Friendly
+in Mexico	+6
+-6	1786
+1629	0
+0	16
+33
+November 06
+1960	United States
+Mexico	3
+3	World Cup qualifier
+in the United States	+12
+-12	1451
+1774	+2
+0	68
+17
+November 13
+1960	Mexico
+United States	3
+0	World Cup qualifier
+in Mexico	+6
+-6	1780
+1445	0
+-1	17
+69
+March 22
+1961	Costa Rica
+Mexico	1
+0	World Cup qualifier
+in Costa Rica	+18
+-18	1740
+1762	+3
+0	18
+17
+April 05
+1961	Mexico
+Netherlands Antilles	7
+0	World Cup qualifier
+in Mexico	+7
+-7	1769
+1412	0
+-3	17
+78
+April 12
+1961	Mexico
+Costa Rica	4
+1	World Cup qualifier
+in Mexico	+23
+-23	1792
+1724	+1
+-3	16
+21
+April 19
+1961	Netherlands
+Mexico	1
+2	Friendly
+in the Netherlands	-9
++9	1649
+1801	-4
++3	32
+13
+April 29
+1961	Czechoslovakia
+Mexico	2
+1	Friendly
+in Czechoslovakia	+5
+-5	1881
+1796	0
+0	9
+13
+May 10
+1961	England
+Mexico	8
+0	Friendly
+in England	+11
+-11	1916
+1785	+1
+-4	5
+17
+May 16
+1961	Norway
+Mexico	1
+1	Friendly
+in Norway	+5
+-5	1476
+1780	+1
+0	62
+17
+May 21
+1961	Netherlands Antilles
+Mexico	0
+0	World Cup qualifier
+in the Netherlands Antilles	+11
+-11	1469
+1769	+2
+0	65
+17
+October 29
+1961	Mexico
+Paraguay	1
+0	World Cup qualifier
+in Mexico	+8
+-8	1777
+1626	0
+-3	18
+33
+November 05
+1961	Paraguay
+Mexico	0
+0	World Cup qualifier
+in Paraguay	+3
+-3	1629
+1774	0
+0	33
+18
+March 14
+1962	Haiti
+Mexico	1
+1	Friendly
+in Haiti	+6
+-6	1463
+1768	+1
+0	66
+18
+March 28
+1962	Argentina
+Mexico	1
+0	Friendly
+in Argentina	+4
+-4	1939
+1764	0
+0	3
+18
+April 01
+1962	Colombia
+Mexico	0
+1	Friendly
+in Colombia	-5
++5	1455
+1769	0
+0	67
+18
+April 04
+1962	Colombia
+Mexico	2
+2	Friendly
+in Colombia	+5
+-5	1460
+1764	0
+0	67
+18
+April 25
+1962	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+2
+-2	1766
+1458	0
+0	18
+67
+May 22
+1962	Mexico
+Wales	2
+1	Friendly
+in Mexico	+7
+-7	1773
+1737	0
+0	18
+19
+May 30
+1962	Brazil
+Mexico	2
+0	World Cup
+in Chile	+14
+-14	2080
+1759	0
+0	1
+18
+June 03
+1962	Spain
+Mexico	1
+0	World Cup
+in Chile	+20
+-20	1904
+1739	+1
+0	7
+19
+June 07
+1962	Mexico
+Czechoslovakia	3
+1	World Cup
+in Chile	+70
+-70	1809
+1891	+4
+-5	14
+8
+March 24
+1963	Netherlands Antilles
+Mexico	2
+1	Concacaf Championship
+in El Salvador	+41
+-41	1593
+1768	+9
+-5	41
+19
+March 28
+1963	Mexico
+Jamaica	8
+0	Concacaf Championship
+in El Salvador	+6
+-6	1774
+1238	+1
+0	18
+120
+March 30
+1963	Costa Rica
+Mexico	0
+0	Concacaf Championship
+in El Salvador	+5
+-5	1709
+1769	0
+-1	23
+19
+February 28
+1965	Honduras
+Mexico	0
+1	World Cup qualifier
+in Honduras	-7
++7	1400
+1776	-1
++1	89
+18
+March 04
+1965	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+4
+-4	1780
+1396	+1
+-1	17
+90
+March 07
+1965	United States
+Mexico	2
+2	World Cup qualifier
+in the United States	+12
+-12	1444
+1768	+5
+-3	76
+20
+March 12
+1965	Mexico
+United States	2
+0	World Cup qualifier
+in Mexico	+5
+-5	1773
+1439	0
+-2	20
+78
+March 28
+1965	Mexico
+El Salvador	2
+0	Concacaf Championship
+in Guatemala	+12
+-12	1785
+1478	+2
+-2	17
+70
+April 01
+1965	Mexico
+Netherlands Antilles	5
+0	Concacaf Championship
+in Guatemala	+14
+-14	1799
+1450	+2
+-2	15
+75
+April 04
+1965	Mexico
+Haiti	3
+0	Concacaf Championship
+in Guatemala	+9
+-9	1808
+1420	+1
+-2	14
+85
+April 06
+1965	Costa Rica
+Mexico	1
+1	Concacaf Championship
+in Guatemala	+4
+-4	1751
+1804	+1
+-1	23
+15
+April 11
+1965	Guatemala
+Mexico	1
+2	Concacaf Championship
+in Guatemala	-11
++11	1483
+1815	-6
++2	71
+13
+April 25
+1965	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	-3
++3	1756
+1818	0
++1	23
+12
+May 03
+1965	Jamaica
+Mexico	2
+3	World Cup qualifier
+in Jamaica	-3
++3	1274
+1821	0
+0	122
+13
+May 07
+1965	Mexico
+Jamaica	8
+0	World Cup qualifier
+in Mexico	+2
+-2	1823
+1272	0
+0	13
+122
+May 16
+1965	Mexico
+Costa Rica	1
+0	World Cup qualifier
+in Mexico	+11
+-11	1834
+1748	+3
+-1	10
+24
+April 24
+1966	Mexico
+Paraguay	4
+0	Friendly
+in Mexico	+10
+-10	1844
+1744	0
+0	10
+20
+May 11
+1966	Mexico
+Chile	1
+0	Friendly tournament
+in Mexico	+7
+-7	1851
+1730	+1
+-1	9
+23
+May 29
+1966	Chile
+Mexico	0
+1	Friendly tournament
+in Chile	-15
++15	1727
+1866	-4
+0	24
+8
+June 19
+1966	Switzerland
+Mexico	1
+1	Friendly
+in Switzerland	+5
+-5	1589
+1861	+2
+0	42
+8
+June 22
+1966	Northern Ireland
+Mexico	4
+1	Friendly
+in Northern Ireland	+23
+-23	1668
+1838	+2
+-2	32
+10
+June 29
+1966	Italy
+Mexico	5
+0	Friendly
+in Italy	+11
+-11	1921
+1827	0
+-1	5
+11
+July 13
+1966	France
+Mexico	1
+1	World Cup
+in England	+10
+-10	1714
+1817	+2
+-2	25
+13
+July 16
+1966	England
+Mexico	2
+0	World Cup
+in England	+21
+-21	1942
+1796	+2
+-2	3
+15
+July 19
+1966	Mexico
+Uruguay	0
+0	World Cup
+in England	+4
+-4	1800
+1837	+1
+0	14
+11
+January 05
+1967	Mexico
+Switzerland	3
+0	Friendly
+in Mexico	+4
+-4	1804
+1536	0
+-1	13
+50
+January 08
+1967	Mexico
+Switzerland	0
+2	Friendly
+in Mexico	-27
++27	1777
+1563	-5
++2	18
+48
+March 06
+1967	Mexico
+Nicaragua	4
+0	Concacaf Championship
+in Honduras	+1
+-1	1778
+1004	0
+0	17
+157
+March 10
+1967	Guatemala
+Mexico	1
+0	Concacaf Championship
+in Honduras	+42
+-42	1536
+1736	+15
+-3	50
+20
+March 12
+1967	Mexico
+Trinidad and Tobago	4
+0	Concacaf Championship
+in Honduras	+13
+-13	1749
+1404	+1
+-1	19
+87
+March 14
+1967	Mexico
+Haiti	1
+0	Concacaf Championship
+in Honduras	+4
+-4	1753
+1315	0
+0	19
+109
+March 19
+1967	Honduras
+Mexico	0
+1	Concacaf Championship
+in Honduras	-9
++9	1392
+1762	0
++1	87
+18
+May 28
+1967	Soviet Union
+Mexico	2
+0	Friendly
+in the Soviet Union	+6
+-6	1922
+1756	0
+0	6
+18
+August 22
+1967	Mexico
+Argentina	2
+1	Friendly
+in Mexico	+12
+-12	1768
+1932	0
+-1	17
+5
+March 03
+1968	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+2
+-2	1770
+1926	0
+0	17
+4
+March 07
+1968	Mexico
+Soviet Union	1
+1	Friendly
+in Mexico	+2
+-2	1772
+1924	+1
+0	16
+4
+March 10
+1968	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+1
+-1	1773
+1923	0
+0	16
+4
+March 26
+1968	Mexico
+Japan	4
+0	Friendly
+in Mexico	+6
+-6	1779
+1565	0
+-1	16
+47
+May 21
+1968	Mexico
+Uruguay	3
+3	Friendly
+in Mexico	-1
++1	1778
+1856	0
+0	16
+10
+May 28
+1968	Mexico
+Uruguay	2
+2	Friendly
+in Mexico	-1
++1	1777
+1857	0
+0	16
+10
+July 07
+1968	Mexico
+Brazil	0
+2	Friendly
+in Mexico	-13
++13	1764
+1945	-1
+0	18
+3
+July 10
+1968	Mexico
+Brazil	2
+1	Friendly
+in Mexico	+12
+-12	1776
+1933	+1
+0	17
+3
+August 28
+1968	Mexico
+Chile	3
+1	Friendly
+in Mexico	+9
+-9	1785
+1723	0
+0	17
+20
+October 16
+1968	Colombia
+Mexico	0
+1	Friendly
+in Colombia	-4
++4	1426
+1789	-3
++1	82
+16
+October 20
+1968	Peru
+Mexico	3
+3	Friendly
+in Peru	+3
+-3	1571
+1786	+1
+0	47
+16
+October 23
+1968	Chile
+Mexico	3
+1	Friendly
+in Chile	+13
+-13	1736
+1773	+1
+-1	20
+17
+October 26
+1968	Uruguay
+Mexico	0
+2	Friendly
+in Uruguay	-22
++22	1814
+1795	-2
++2	13
+15
+October 31
+1968	Brazil
+Mexico	1
+2	Friendly
+in Brazil	-16
++16	1939
+1811	0
++1	3
+14
+November 03
+1968	Brazil
+Mexico	2
+1	Friendly
+in Brazil	+4
+-4	1943
+1807	0
+0	3
+14
+December 22
+1968	Mexico
+West Germany	0
+0	Friendly
+in Mexico	+1
+-1	1808
+1954	0
+0	14
+2
+January 01
+1969	Mexico
+Italy	2
+3	Friendly
+in Mexico	-10
++10	1798
+1929	-1
++1	15
+4
+January 05
+1969	Mexico
+Italy	1
+1	Friendly
+in Mexico	+1
+-1	1799
+1928	0
+-1	15
+5
+January 22
+1969	Mexico
+Denmark	3
+0	Friendly
+in Mexico	+4
+-4	1803
+1549	0
+-2	15
+56
+February 04
+1969	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+1
+-1	1804
+1425	0
+0	15
+83
+April 06
+1969	Portugal
+Mexico	0
+0	Friendly
+in Portugal	-4
++4	1843
+1808	0
++1	10
+13
+April 10
+1969	Luxembourg
+Mexico	2
+1	Friendly
+in Luxembourg	+19
+-19	1264
+1789	+5
+-4	121
+17
+April 16
+1969	Belgium
+Mexico	2
+0	Friendly
+in Belgium	+12
+-12	1766
+1777	+1
+0	19
+17
+April 23
+1969	Spain
+Mexico	0
+0	Friendly
+in Spain	-3
++3	1793
+1780	-1
+0	15
+17
+May 01
+1969	Sweden
+Mexico	1
+0	Friendly
+in Sweden	+9
+-9	1724
+1771	+2
+0	22
+17
+May 06
+1969	Denmark
+Mexico	3
+1	Friendly
+in Denmark	+20
+-20	1569
+1751	+6
+-3	48
+20
+May 08
+1969	Norway
+Mexico	0
+2	Friendly
+in Norway	-10
++10	1516
+1761	-2
++2	60
+18
+May 20
+1969	Mexico
+Peru	0
+1	Friendly
+in Mexico	-16
++16	1745
+1616	-2
++4	20
+38
+May 22
+1969	Mexico
+Peru	3
+0	Friendly
+in Mexico	+7
+-7	1752
+1609	0
+0	20
+38
+June 01
+1969	Mexico
+England	0
+0	Friendly
+in Mexico	+5
+-5	1757
+2022	+2
+0	18
+1
+June 03
+1969	Mexico
+England	0
+4	Friendly
+in Mexico	-10
++10	1747
+2032	-2
+0	20
+1
+November 02
+1969	Bermuda
+Mexico	2
+1	Friendly
+in Bermuda	+18
+-18	1281
+1729	+4
+-2	116
+22
+November 05
+1969	Mexico
+Belgium	1
+0	Friendly
+in Mexico	+7
+-7	1736
+1730	+2
+-2	20
+22
+November 11
+1969	Mexico
+Norway	4
+0	Friendly
+in Mexico	+4
+-4	1740
+1476	0
+0	20
+71
+November 28
+1969	Mexico
+Jamaica	2
+0	Concacaf Championship
+in Costa Rica	+3
+-3	1743
+1204	0
+-1	20
+132
+December 02
+1969	Costa Rica
+Mexico	2
+0	Concacaf Championship
+in Costa Rica	+41
+-41	1652
+1702	+4
+-6	35
+26
+December 04
+1969	Guatemala
+Mexico	1
+0	Concacaf Championship
+in Costa Rica	+37
+-37	1559
+1665	+6
+-7	54
+33
+December 06
+1969	Mexico
+Netherlands Antilles	2
+2	Concacaf Championship
+in Costa Rica	-13
++13	1652
+1476	-2
++4	35
+72
+December 08
+1969	Mexico
+Trinidad and Tobago	0
+0	Concacaf Championship
+in Costa Rica	-18
++18	1634
+1351	0
++7	35
+100
+February 15
+1970	Mexico
+Bulgaria	1
+1	Friendly
+in Mexico	+1
+-1	1635
+1782	0
+0	37
+12
+February 18
+1970	Mexico
+Bulgaria	2
+0	Friendly
+in Mexico	+17
+-17	1652
+1765	+2
+-4	35
+16
+February 22
+1970	Mexico
+Sweden	0
+0	Friendly
+in Mexico	+1
+-1	1653
+1772	+1
+0	34
+16
+February 26
+1970	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+5
+-5	1658
+1952	0
+0	34
+3
+March 01
+1970	Mexico
+Sweden	0
+1	Friendly
+in Mexico	-10
++10	1648
+1782	-1
++3	35
+12
+March 05
+1970	Peru
+Mexico	0
+1	Friendly
+in Peru	-14
++14	1671
+1662	-4
++1	32
+34
+March 08
+1970	Peru
+Mexico	1
+0	Friendly
+in Peru	+7
+-7	1678
+1655	+3
+0	29
+34
+March 15
+1970	Mexico
+Peru	3
+1	Friendly
+in Mexico	+12
+-12	1667
+1666	+1
+-5	33
+34
+March 18
+1970	Mexico
+Peru	3
+3	Friendly
+in Mexico	-3
++3	1664
+1669	-1
++2	34
+32
+April 29
+1970	Mexico
+Ecuador	4
+2	Friendly
+in Mexico	+4
+-4	1668
+1427	0
+-1	33
+83
+May 03
+1970	Mexico
+Ecuador	3
+2	Friendly
+in Mexico	+2
+-2	1670
+1425	+1
+-2	32
+85
+May 31
+1970	Mexico
+Soviet Union	0
+0	World Cup
+in Mexico	+14
+-14	1684
+1934	+4
+-1	28
+5
+June 07
+1970	Mexico
+El Salvador	4
+0	World Cup
+in Mexico	+16
+-16	1700
+1452	+2
+-2	26
+76
+June 11
+1970	Mexico
+Belgium	1
+0	World Cup
+in Mexico	+23
+-23	1723
+1696	+3
+-4	23
+27
+June 14
+1970	Mexico
+Italy	1
+4	World Cup
+in Mexico	-35
++35	1688
+1976	-4
++1	27
+4
+September 30
+1970	Brazil
+Mexico	2
+1	Friendly
+in Brazil	+1
+-1	2128
+1687	0
+0	1
+27
+December 02
+1970	Mexico
+Australia	3
+0	Friendly
+in Mexico	+12
+-12	1699
+1666	+1
+-5	25
+34
+February 17
+1971	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+4
+-4	1703
+1930	0
+0	26
+5
+February 19
+1971	Mexico
+Soviet Union	0
+0	Friendly
+in Mexico	+4
+-4	1707
+1926	+1
+0	25
+5
+April 21
+1971	Haiti
+Mexico	3
+1	Friendly
+in Haiti	+21
+-21	1493
+1686	+5
+-2	66
+27
+July 06
+1971	Mexico
+Greece	1
+1	Friendly
+in Mexico	-5
++5	1681
+1578	0
++1	29
+47
+August 16
+1971	Mexico
+East Germany	0
+1	Friendly
+in Mexico	-7
++7	1674
+1884	-3
+0	32
+6
+September 08
+1971	West Germany
+Mexico	5
+0	Friendly
+in West Germany	+3
+-3	1994
+1671	0
+0	2
+32
+September 12
+1971	Morocco
+Mexico	2
+1	Friendly
+in Morocco	+8
+-8	1656
+1663	0
+-2	36
+34
+September 18
+1971	East Germany
+Mexico	1
+1	Friendly
+in East Germany	-7
++7	1877
+1670	0
++2	6
+32
+September 22
+1971	Yugoslavia
+Mexico	4
+0	Friendly
+in Yugoslavia	+7
+-7	1836
+1663	0
+-2	9
+34
+September 25
+1971	Italy
+Mexico	2
+0	Friendly
+in Italy	+3
+-3	1965
+1660	0
+-1	4
+35
+September 30
+1971	Greece
+Mexico	0
+1	Friendly
+in Greece	-11
++11	1567
+1671	-4
++3	50
+32
+October 13
+1971	Bermuda
+Mexico	0
+2	Concacaf Championship
+in Bermuda	-12
++12	1272
+1683	-1
++1	119
+31
+October 16
+1971	Mexico
+Bermuda	4
+0	Concacaf Championship
+in Mexico	+5
+-5	1688
+1267	0
+-1	31
+120
+November 21
+1971	Haiti
+Mexico	0
+0	Concacaf Championship
+in Trinidad and Tobago	+13
+-13	1506
+1675	+5
+0	61
+31
+November 26
+1971	Trinidad and Tobago
+Mexico	0
+2	Concacaf Championship
+in Trinidad and Tobago	-15
++15	1313
+1690	-1
+0	107
+31
+November 28
+1971	Mexico
+Cuba	1
+0	Concacaf Championship
+in Trinidad and Tobago	+4
+-4	1694
+1275	+1
+0	30
+118
+December 02
+1971	Mexico
+Costa Rica	1
+0	Concacaf Championship
+in Trinidad and Tobago	+19
+-19	1713
+1587	+2
+-3	28
+44
+December 04
+1971	Mexico
+Honduras	2
+1	Concacaf Championship
+in Trinidad and Tobago	+5
+-5	1718
+1343	+1
+-2	27
+102
+January 27
+1972	Mexico
+Chile	2
+0	Friendly
+in Mexico	+11
+-11	1729
+1718	+4
+-4	24
+28
+April 05
+1972	Mexico
+Peru	2
+1	Friendly
+in Mexico	+7
+-7	1736
+1708	+2
+0	22
+26
+August 06
+1972	Mexico
+Costa Rica	0
+1	Friendly
+in Mexico	-16
++16	1720
+1616	-2
++4	26
+40
+August 09
+1972	Peru
+Mexico	3
+2	Friendly
+in Peru	+8
+-8	1686
+1712	+2
+0	30
+26
+August 16
+1972	Chile
+Mexico	0
+2	Friendly
+in Chile	-19
++19	1690
+1731	-2
++1	29
+25
+August 24
+1972	Canada
+Mexico	0
+1	World Cup qualifier
+in Canada	-16
++16	1548
+1747	-2
++5	55
+20
+September 03
+1972	Mexico
+United States	3
+1	World Cup qualifier
+in Mexico	+7
+-7	1754
+1478	+3
+0	20
+68
+September 05
+1972	Mexico
+Canada	2
+1	World Cup qualifier
+in Mexico	+6
+-6	1760
+1548	0
+-1	20
+55
+September 10
+1972	United States
+Mexico	1
+2	World Cup qualifier
+in the United States	-10
++10	1468
+1770	-1
++3	69
+17
+October 12
+1972	Mexico
+Costa Rica	3
+1	Friendly
+in Mexico	+6
+-6	1776
+1618	0
+0	17
+37
+October 17
+1972	Panama
+Mexico	2
+0	Friendly
+in Panama	+28
+-28	1222
+1748	+8
+-5	133
+22
+October 21
+1972	Panama
+Mexico	0
+4	Friendly
+in Panama	-3
++3	1219
+1751	-1
+0	134
+24
+February 06
+1973	Mexico
+Argentina	2
+0	Friendly
+in Mexico	+15
+-15	1766
+1826	+1
+-1	22
+12
+April 21
+1973	Mexico
+Chile	1
+1	Friendly
+in Mexico	-5
++5	1761
+1689	0
++1	21
+28
+August 05
+1973	Poland
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1927
+1755	0
+0	5
+22
+August 08
+1973	Mexico
+Poland	1
+2	Friendly
+in Mexico	-8
++8	1747
+1935	0
++1	22
+4
+September 20
+1973	Mexico
+Chile	1
+2	Friendly
+in Mexico	-13
++13	1734
+1745	-2
++2	25
+23
+October 16
+1973	Mexico
+United States	2
+0	Friendly
+in Mexico	+3
+-3	1737
+1478	0
+0	25
+69
+November 30
+1973	Guatemala
+Mexico	0
+0	World Cup qualifier
+in Haiti	+8
+-8	1600
+1729	+2
+0	42
+25
+December 03
+1973	Honduras
+Mexico	1
+1	World Cup qualifier
+in Haiti	+15
+-15	1421
+1714	+3
+-3	83
+28
+December 08
+1973	Mexico
+Netherlands Antilles	8
+0	World Cup qualifier
+in Haiti	+14
+-14	1728
+1388	+3
+-2	25
+89
+December 14
+1973	Trinidad and Tobago
+Mexico	4
+0	World Cup qualifier
+in Haiti	+66
+-66	1456
+1662	+17
+-6	71
+31
+December 18
+1973	Haiti
+Mexico	0
+1	World Cup qualifier
+in Haiti	-22
++22	1571
+1684	-2
++1	46
+30
+March 31
+1974	Brazil
+Mexico	1
+1	Friendly
+in Brazil	-9
++9	2079
+1693	0
+0	1
+29
+September 05
+1974	Mexico
+United States	3
+1	Friendly
+in Mexico	+4
+-4	1697
+1454	0
+0	27
+73
+September 08
+1974	United States
+Mexico	0
+1	Friendly
+in the United States	-6
++6	1448
+1703	-1
+0	74
+27
+April 09
+1975	Jamaica
+Mexico	3
+1	Friendly
+in Jamaica	+27
+-27	1269
+1676	+5
+-1	125
+29
+August 01
+1975	East Germany
+Mexico	3
+2	Friendly
+in the United States	+6
+-6	1820
+1670	0
+0	13
+30
+August 03
+1975	East Germany
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1826
+1664	0
+-1	13
+31
+August 06
+1975	Mexico
+East Germany	1
+0	Friendly
+in Mexico	+12
+-12	1676
+1814	+1
+0	30
+13
+August 17
+1975	Mexico
+Costa Rica	7
+0	Copa Ciudad de Mexico
+in Mexico	+17
+-17	1693
+1570	+4
+-3	27
+51
+August 24
+1975	Mexico
+United States	2
+0	Copa Ciudad de Mexico
+in Mexico	+5
+-5	1698
+1418	-1
+-4	29
+83
+August 31
+1975	Mexico
+Argentina	1
+1	Copa Ciudad de Mexico
+in Mexico	+2
+-2	1700
+1834	+2
+0	27
+12
+October 20
+1975	Israel
+Mexico	1
+0	Friendly
+in Israel	+7
+-7	1711
+1693	0
+0	26
+27
+February 11
+1976	El Salvador
+Mexico	0
+0	Friendly
+in El Salvador	+6
+-6	1359
+1687	+3
+0	97
+28
+June 04
+1976	Mexico
+Brazil	0
+3	Friendly
+in Mexico	-7
++7	1680
+2037	0
+0	30
+2
+October 03
+1976	United States
+Mexico	0
+0	World Cup qualifier
+in the United States	+9
+-9	1430
+1671	+1
+-1	76
+33
+October 10
+1976	Canada
+Mexico	1
+0	World Cup qualifier
+in Canada	+29
+-29	1435
+1642	+7
+-5	76
+38
+October 15
+1976	Mexico
+United States	3
+0	World Cup qualifier
+in Mexico	+10
+-10	1652
+1420	+3
+-2	35
+79
+October 27
+1976	Mexico
+Canada	0
+0	World Cup qualifier
+in Mexico	-15
++15	1637
+1427	-5
++3	40
+78
+February 01
+1977	Mexico
+Yugoslavia	5
+1	Friendly
+in Mexico	+24
+-24	1661
+1806	+2
+-1	35
+15
+February 08
+1977	Mexico
+Yugoslavia	0
+1	Friendly
+in Mexico	-9
++9	1652
+1815	-2
+0	38
+15
+February 22
+1977	Mexico
+Hungary	1
+1	Friendly
+in Mexico	+2
+-2	1654
+1828	0
+0	38
+13
+May 17
+1977	Mexico
+Peru	1
+1	Friendly
+in Mexico	0
+0	1654
+1746	0
+0	37
+24
+May 24
+1977	Mexico
+Peru	2
+1	Friendly
+in Mexico	+10
+-10	1664
+1736	+1
+0	36
+24
+June 14
+1977	Mexico
+West Germany	2
+2	Friendly
+in Mexico	+7
+-7	1671
+2087	+2
+0	33
+1
+September 27
+1977	Mexico
+United States	3
+0	Friendly
+in Mexico	+4
+-4	1675
+1427	+1
+-3	34
+81
+October 09
+1977	Mexico
+Haiti	4
+1	World Cup qualifier
+in Mexico	+15
+-15	1690
+1536	+2
+-2	32
+57
+October 12
+1977	Mexico
+El Salvador	3
+1	World Cup qualifier
+in Mexico	+7
+-7	1697
+1421	+1
+-1	31
+81
+October 15
+1977	Mexico
+Surinam	8
+1	World Cup qualifier
+in Mexico	+8
+-8	1705
+1389	0
+-2	31
+92
+October 19
+1977	Mexico
+Guatemala	2
+1	World Cup qualifier
+in Mexico	+7
+-7	1712
+1523	+1
+-2	31
+60
+October 22
+1977	Mexico
+Canada	3
+1	World Cup qualifier
+in Mexico	+8
+-8	1720
+1483	+3
+-2	28
+71
+February 15
+1978	El Salvador
+Mexico	1
+5	Friendly
+in El Salvador	-10
++10	1423
+1730	-2
++2	80
+25
+April 05
+1978	Mexico
+Bulgaria	3
+0	Friendly
+in Mexico	+11
+-11	1741
+1680	+1
+-3	24
+32
+April 11
+1978	Peru
+Mexico	1
+0	Friendly
+in the United States	+11
+-11	1723
+1730	+1
+-1	26
+25
+April 26
+1978	Spain
+Mexico	2
+0	Friendly
+in Spain	+5
+-5	1915
+1725	0
+-1	5
+26
+May 03
+1978	Finland
+Mexico	0
+1	Friendly
+in Finland	-5
++5	1409
+1730	-1
+0	84
+25
+June 02
+1978	Tunisia
+Mexico	3
+1	World Cup
+in Argentina	+52
+-52	1728
+1678	+7
+-7	25
+32
+June 06
+1978	West Germany
+Mexico	6
+0	World Cup
+in Argentina	+14
+-14	2052
+1664	0
+-4	2
+36
+June 10
+1978	Poland
+Mexico	3
+1	World Cup
+in Argentina	+17
+-17	1935
+1647	+1
+-2	6
+38
+October 17
+1978	Mexico
+Honduras	1
+4	Friendly
+in Mexico	-31
++31	1616
+1441	-4
++6	41
+78
+October 28
+1978	Mexico
+Costa Rica	1
+3	Friendly
+in Mexico	-23
++23	1593
+1542	-4
++3	45
+59
+January 06
+1979	Mexico
+Soviet Union	1
+0	Friendly
+in Mexico	+15
+-15	1608
+1886	+2
+-1	44
+9
+January 31
+1979	Soviet Union
+Mexico	1
+0	Friendly
+in the United States	+3
+-3	1889
+1605	0
+0	9
+45
+February 08
+1979	Mexico
+Soviet Union	1
+1	Friendly
+in Mexico	+5
+-5	1610
+1884	0
+0	46
+9
+April 01
+1979	Guatemala
+Mexico	0
+0	Friendly
+in Guatemala	0
+0	1518
+1610	0
+0	62
+46
+May 01
+1979	El Salvador
+Mexico	0
+1	Friendly
+in El Salvador	-7
++7	1411
+1617	-1
++1	84
+45
+May 31
+1979	Mexico
+Costa Rica	0
+0	Friendly
+in Mexico	-5
++5	1612
+1552	0
+0	45
+59
+November 01
+1979	Mexico
+Peru	1
+0	Friendly
+in Mexico	+10
+-10	1622
+1701	+1
+0	43
+27
+November 21
+1979	Mexico
+Finland	1
+1	Friendly
+in Mexico	-6
++6	1616
+1462	-2
++1	46
+73
+December 04
+1979	El Salvador
+Mexico	0
+2	Friendly
+in El Salvador	-11
++11	1400
+1627	-6
++5	89
+41
+December 18
+1979	Mexico
+El Salvador	1
+1	Friendly
+in Mexico	-7
++7	1620
+1407	-3
++4	44
+85
+January 23
+1980	Mexico
+Czechoslovakia	1
+0	Friendly
+in Mexico	+14
+-14	1634
+1862	+7
+0	37
+10
+February 26
+1980	South Korea
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1781
+1628	0
+-4	19
+42
+March 18
+1980	Honduras
+Mexico	0
+1	Friendly
+in Honduras	-8
++8	1434
+1636	-2
++2	78
+40
+April 08
+1980	Mexico
+Honduras	5
+1	Friendly
+in Mexico	+6
+-6	1642
+1428	+1
+-1	38
+79
+April 15
+1980	Guatemala
+Mexico	2
+4	Friendly
+in Guatemala	-13
++13	1487
+1655	-3
++2	68
+36
+April 29
+1980	Mexico
+Guatemala	2
+2	Friendly
+in Mexico	-6
++6	1649
+1493	0
++1	36
+68
+June 08
+1980	Brazil
+Mexico	2
+0	Friendly
+in Brazil	+2
+-2	2011
+1647	0
+-1	2
+37
+August 20
+1980	New Zealand
+Mexico	4
+0	Friendly
+in New Zealand	+24
+-24	1470
+1623	+4
+-4	71
+41
+August 24
+1980	Australia
+Mexico	2
+2	Friendly
+in Australia	-4
++4	1648
+1627	0
++1	36
+40
+August 26
+1980	Australia
+Mexico	1
+1	Friendly
+in Australia	-3
++3	1645
+1630	0
++1	36
+39
+August 30
+1980	Fiji
+Mexico	0
+2	Friendly
+in Fiji	-5
++5	1254
+1635	-3
+0	132
+39
+September 02
+1980	Tahiti
+Mexico	0
+1	Friendly
+in Tahiti	-10
++10	1530
+1645	-1
++3	62
+36
+October 18
+1980	Canada
+Mexico	1
+1	World Cup qualifier
+in Canada	+7
+-7	1426
+1638	+2
+-2	82
+38
+November 09
+1980	Mexico
+United States	5
+1	World Cup qualifier
+in Mexico	+13
+-13	1651
+1446	+2
+-5	36
+78
+November 16
+1980	Mexico
+Canada	1
+1	World Cup qualifier
+in Mexico	-14
++14	1637
+1469	-4
++4	39
+71
+November 23
+1980	United States
+Mexico	2
+1	World Cup qualifier
+in the United States	+25
+-25	1471
+1612	+8
+-3	71
+42
+January 20
+1981	Mexico
+Bulgaria	1
+1	Friendly
+in Mexico	-3
++3	1609
+1618	0
+0	42
+41
+February 10
+1981	Mexico
+South Korea	4
+0	Friendly
+in Mexico	+19
+-19	1628
+1686	+2
+-3	40
+30
+June 24
+1981	Mexico
+Spain	1
+3	Friendly
+in Mexico	-12
++12	1616
+1801	-1
++2	41
+18
+November 01
+1981	Mexico
+Cuba	4
+0	World Cup qualifier
+in Honduras	+30
+-30	1646
+1520	+3
+-4	39
+62
+November 06
+1981	El Salvador
+Mexico	1
+0	World Cup qualifier
+in Honduras	+31
+-31	1474
+1615	+7
+-3	74
+42
+November 11
+1981	Haiti
+Mexico	1
+1	World Cup qualifier
+in Honduras	+3
+-3	1558
+1612	0
+-1	57
+43
+November 15
+1981	Canada
+Mexico	1
+1	World Cup qualifier
+in Honduras	+7
+-7	1501
+1605	+2
+-2	66
+45
+November 22
+1981	Honduras
+Mexico	0
+0	World Cup qualifier
+in Honduras	-3
++3	1560
+1608	0
++2	56
+43
+March 15
+1983	Costa Rica
+Mexico	0
+1	Friendly
+in Costa Rica	-9
++9	1469
+1617	-4
+0	79
+41
+March 22
+1983	Mexico
+Costa Rica	1
+0	Friendly
+in Mexico	+4
+-4	1621
+1465	0
+-2	41
+81
+April 05
+1983	Mexico
+Guatemala	2
+0	Friendly
+in the United States	+10
+-10	1631
+1480	0
+0	40
+72
+October 25
+1983	Mexico
+El Salvador	5
+0	Friendly
+in the United States	+11
+-11	1642
+1457	0
+-2	39
+81
+November 22
+1983	Mexico
+Sweden	2
+0	Friendly
+in Mexico	+18
+-18	1660
+1805	+3
+-5	36
+16
+November 29
+1983	Martinique
+Mexico	4
+4	Friendly
+in Martinique	+1
+-1	1513
+1659	+1
+0	64
+36
+December 06
+1983	Mexico
+Canada	5
+0	Friendly
+in Mexico	+7
+-7	1666
+1475	0
+-2	36
+77
+January 24
+1984	Mexico
+Venezuela	3
+0	Friendly
+in Mexico	+4
+-4	1670
+1392	+1
+0	35
+91
+February 04
+1984	Italy
+Mexico	5
+0	Friendly
+in Italy	+8
+-8	1823
+1662	+1
+-1	11
+36
+July 22
+1984	Guatemala
+Mexico	1
+3	Friendly
+in Guatemala	-12
++12	1473
+1674	-5
+0	78
+37
+August 08
+1984	Ireland
+Mexico	0
+0	Friendly
+in Ireland	-3
++3	1683
+1677	0
++1	34
+36
+August 11
+1984	East Germany
+Mexico	1
+1	Friendly
+in East Germany	-6
++6	1820
+1683	0
++2	12
+34
+August 16
+1984	Finland
+Mexico	0
+3	Friendly
+in Finland	-11
++11	1432
+1694	-1
++2	83
+32
+August 19
+1984	Soviet Union
+Mexico	3
+0	Friendly
+in the Soviet Union	+3
+-3	2008
+1691	0
+-2	1
+34
+August 22
+1984	Sweden
+Mexico	1
+1	Friendly
+in Sweden	-5
++5	1788
+1696	0
++3	20
+31
+August 25
+1984	Hungary
+Mexico	0
+2	Friendly
+in Hungary	-21
++21	1719
+1717	-4
+0	30
+31
+September 18
+1984	Mexico
+Argentina	1
+1	Friendly
+in Mexico	+2
+-2	1719
+1881	+1
+0	30
+7
+October 09
+1984	Mexico
+Colombia	1
+0	Friendly
+in the United States	+6
+-6	1725
+1581	+1
+-2	30
+50
+October 11
+1984	Mexico
+El Salvador	1
+0	Friendly
+in Mexico	+2
+-2	1727
+1442	+2
+0	27
+82
+October 17
+1984	Mexico
+United States	2
+1	Friendly
+in Mexico	+3
+-3	1730
+1489	+1
+0	26
+71
+October 25
+1984	Argentina
+Mexico	1
+1	Friendly
+in Argentina	-6
++6	1875
+1736	0
+0	7
+27
+October 28
+1984	Chile
+Mexico	1
+0	Friendly
+in Chile	+7
+-7	1733
+1729	+2
+-1	27
+28
+October 31
+1984	Uruguay
+Mexico	1
+1	Friendly
+in Uruguay	-6
++6	1858
+1735	0
++1	8
+27
+November 11
+1984	Trinidad and Tobago
+Mexico	0
+2	Friendly
+in Trinidad and Tobago	-5
++5	1348
+1740	-1
++3	103
+24
+December 04
+1984	Mexico
+Ecuador	3
+2	Friendly
+in the United States	+4
+-4	1744
+1490	+1
+-1	26
+70
+February 05
+1985	Mexico
+Poland	5
+0	Friendly tournament
+in Mexico	+32
+-32	1776
+1830	+3
+-2	22
+10
+February 06
+1985	Mexico
+Switzerland	1
+2	Friendly tournament
+in Mexico	-22
++22	1754
+1727	-3
++4	25
+28
+February 26
+1985	Mexico
+Finland	2
+1	Friendly
+in Mexico	+2
+-2	1756
+1435	+1
+0	24
+84
+June 02
+1985	Mexico
+Italy	1
+1	Copa Ciudad de Mexico
+in Mexico	0
+0	1756
+1850	0
+0	26
+8
+June 09
+1985	Mexico
+England	1
+0	Copa Ciudad de Mexico
+in Mexico	+17
+-17	1773
+1876	+2
+-1	22
+6
+June 15
+1985	Mexico
+West Germany	2
+0	Copa Ciudad de Mexico
+in Mexico	+27
+-27	1800
+1909	+5
+-1	17
+3
+August 25
+1985	Mexico
+Chile	2
+1	Friendly
+in the United States	+9
+-9	1809
+1745	+2
+-2	15
+27
+August 27
+1985	Bulgaria
+Mexico	1
+1	Friendly
+in the United States	+1
+-1	1788
+1808	0
+-1	19
+16
+September 20
+1985	Mexico
+Peru	0
+0	Friendly
+in the United States	-3
++3	1805
+1715	0
+0	15
+31
+September 22
+1985	Mexico
+Peru	1
+0	Friendly
+in the United States	+7
+-7	1812
+1708	+2
+0	13
+31
+October 11
+1985	Libya
+Mexico	3
+1	Friendly
+in Libya	+22
+-22	1565
+1790	+5
+-5	56
+19
+October 15
+1985	North Yemen
+Mexico	0
+2	Friendly
+in North Yemen	-1
++1	1065
+1791	0
+0	166
+19
+October 18
+1985	Jordan
+Mexico	0
+0	Friendly
+in Jordan	+9
+-9	1213
+1782	+1
+-3	142
+24
+October 20
+1985	Egypt
+Mexico	2
+1	Friendly
+in Egypt	+13
+-13	1588
+1769	+4
+-1	49
+25
+October 22
+1985	United Arab Emirates
+Mexico	2
+2	Friendly
+in United Arab Emirates	+7
+-7	1395
+1762	0
+0	91
+25
+October 25
+1985	Kuwait
+Mexico	0
+0	Friendly
+in Kuwait	+4
+-4	1509
+1758	0
+0	67
+25
+November 14
+1985	Argentina
+Mexico	1
+1	Friendly
+in the United States	-3
++3	1848
+1761	-1
++1	8
+25
+November 17
+1985	Mexico
+Argentina	1
+1	Friendly
+in Mexico	0
+0	1761
+1848	0
+0	25
+7
+December 03
+1985	Mexico
+South Korea	2
+1	Friendly
+in the United States	+6
+-6	1767
+1592	0
+-1	25
+46
+December 07
+1985	Mexico
+Algeria	2
+0	Friendly tournament
+in Mexico	+14
+-14	1781
+1720	+2
+0	23
+30
+December 10
+1985	Mexico
+South Korea	2
+1	Friendly tournament
+in Mexico	+5
+-5	1786
+1581	0
+-1	23
+51
+December 14
+1985	Mexico
+Hungary	2
+0	Friendly tournament
+in Mexico	+20
+-20	1806
+1830	+6
+-3	16
+10
+February 15
+1986	Mexico
+East Germany	1
+2	Friendly
+in the United States	-9
++9	1797
+1847	-2
+0	18
+8
+February 19
+1986	Mexico
+Soviet Union	1
+0	Friendly
+in Mexico	+11
+-11	1808
+1938	+2
+-1	16
+2
+April 13
+1986	Mexico
+Uruguay	1
+0	Friendly
+in the United States	+10
+-10	1818
+1814	+2
+-2	14
+16
+April 27
+1986	Mexico
+Canada	3
+0	Friendly
+in Mexico	+5
+-5	1823
+1591	0
+-1	14
+49
+May 17
+1986	England
+Mexico	3
+0	Friendly
+in the United States	+12
+-12	1942
+1811	0
+-1	2
+14
+June 03
+1986	Mexico
+Belgium	2
+1	World Cup
+in Mexico	+18
+-18	1829
+1752	+2
+-6	11
+29
+June 07
+1986	Mexico
+Paraguay	1
+1	World Cup
+in Mexico	-12
++12	1817
+1798	-2
++4	12
+18
+June 11
+1986	Mexico
+Iraq	1
+0	World Cup
+in Mexico	+8
+-8	1825
+1573	0
+-4	11
+56
+June 15
+1986	Mexico
+Bulgaria	2
+0	World Cup
+in Mexico	+22
+-22	1847
+1711	+2
+-2	9
+30
+June 21
+1986	Mexico
+West Germany	0
+0	World Cup
+in Mexico	-5
++5	1842
+1890	0
+0	9
+8
+January 13
+1987	Mexico
+El Salvador	3
+1	Friendly
+in the United States	+3
+-3	1845
+1453	+1
+0	9
+82
+March 07
+1987	Mexico
+China	3
+2	Friendly
+in Mexico	+1
+-1	1846
+1507	0
+0	10
+68
+March 29
+1987	Bahamas
+Mexico	0
+3	Friendly
+in the Bahamas	0
+0	858
+1846	0
+0	186
+10
+April 28
+1987	Mexico
+Bahamas	13
+0	Friendly
+in Mexico	0
+0	1846
+858	0
+0	11
+186
+October 06
+1987	Mexico
+Canada	4
+0	Friendly
+in Mexico	+4
+-4	1850
+1555	+1
+0	10
+57
+January 13
+1988	Honduras
+Mexico	0
+1	Friendly
+in Honduras	-6
++6	1583
+1856	-1
+-1	52
+11
+March 29
+1988	Mexico
+El Salvador	8
+0	Friendly
+in Mexico	+2
+-2	1858
+1447	0
+0	11
+80
+April 12
+1988	Canada
+Mexico	1
+0	Friendly
+in Canada	+15
+-15	1563
+1843	+5
+-1	55
+11
+April 14
+1988	Canada
+Mexico	1
+1	Friendly
+in Canada	+5
+-5	1568
+1838	+2
+0	53
+11
+April 26
+1988	Mexico
+Honduras	4
+1	Friendly
+in Mexico	+4
+-4	1842
+1579	0
+0	11
+51
+February 14
+1989	Mexico
+Poland	3
+1	Friendly
+in Mexico	+8
+-8	1850
+1768	+1
+-2	10
+22
+February 21
+1989	Mexico
+Guatemala	2
+1	Friendship Cup
+in the United States	+4
+-4	1854
+1523	+1
++1	9
+64
+February 23
+1989	Mexico
+El Salvador	2
+0	Friendship Cup
+in the United States	+5
+-5	1859
+1485	0
+0	9
+73
+August 08
+1989	Mexico
+South Korea	4
+2	Friendly
+in the United States	+10
+-10	1869
+1733	+3
+-3	9
+27
+January 17
+1990	Mexico
+Argentina	2
+0	Friendly
+in the United States	+11
+-11	1880
+1757	0
+0	10
+21
+March 20
+1990	Mexico
+Uruguay	2
+1	Friendly
+in the United States	+10
+-10	1890
+1862	+1
+0	9
+11
+April 17
+1990	Mexico
+Colombia	2
+0	Friendly
+in the United States	+10
+-10	1900
+1765	0
+0	8
+20
+May 13
+1990	Canada
+Mexico	2
+1	North American Championship
+in Canada	+42
+-42	1550
+1858	+11
+-4	56
+12
+June 02
+1990	Belgium
+Mexico	3
+0	Friendly
+in Belgium	+16
+-16	1809
+1842	+2
+-3	17
+15
+December 13
+1990	Brazil
+Mexico	0
+0	Friendly
+in the United States	-2
++2	1924
+1844	0
++1	5
+11
+January 29
+1991	Mexico
+Colombia	0
+0	Friendly
+in Mexico	-5
++5	1839
+1737	-1
++1	12
+25
+March 12
+1991	United States
+Mexico	2
+2	Concacaf Gold Cup qualifier
+in the United States	+12
+-12	1522
+1827	+1
+0	63
+13
+March 13
+1991	Argentina
+Mexico	0
+0	Friendly
+in Argentina	-3
++3	1842
+1830	0
+0	12
+13
+March 14
+1991	Mexico
+Canada	3
+0	Concacaf Gold Cup qualifier
+in the United States	+12
+-12	1842
+1538	+1
+0	12
+56
+April 09
+1991	Mexico
+Chile	1
+0	Friendly
+in Mexico	+5
+-5	1847
+1753	+1
+0	11
+22
+April 17
+1991	Costa Rica
+Mexico	0
+0	Friendly
+in Costa Rica	+4
+-4	1616
+1843	+2
+0	42
+11
+May 07
+1991	Uruguay
+Mexico	2
+0	Friendly
+in the United States	+17
+-17	1821
+1826	+1
+-1	15
+13
+June 28
+1991	Mexico
+Jamaica	4
+1	Concacaf Gold Cup
+in the United States	+4
+-4	1830
+1311	0
+-1	12
+115
+June 30
+1991	Canada
+Mexico	1
+3	Concacaf Gold Cup
+in the United States	-9
++9	1466
+1839	-2
+0	74
+12
+July 03
+1991	Mexico
+Honduras	1
+1	Concacaf Gold Cup
+in the United States	-17
++17	1822
+1569	-1
++6	13
+51
+July 05
+1991	United States
+Mexico	2
+0	Concacaf Gold Cup
+in the United States	+49
+-49	1657
+1773	+9
+-7	35
+20
+July 07
+1991	Mexico
+Costa Rica	2
+0	Concacaf Gold Cup
+in the United States	+16
+-16	1789
+1535	+2
+-3	18
+60
+November 20
+1991	Mexico
+Uruguay	1
+1	Friendly
+in Mexico	-2
++2	1787
+1804	-1
++1	19
+14
+November 27
+1991	Costa Rica
+Mexico	1
+1	Friendly
+in the United States	+6
+-6	1547
+1781	0
+-1	56
+20
+December 04
+1991	Mexico
+Hungary	3
+0	Friendly
+in Mexico	+9
+-9	1790
+1686	+3
+-1	17
+32
+March 08
+1992	Mexico
+Commonwealth of Independent States	4
+0	Friendly
+in Mexico	+18
+-18	1808
+1864	+2
+0	14
+9
+March 11
+1992	Mexico
+Commonwealth of Independent States	1
+1	Friendly
+in Mexico	-1
++1	1807
+1865	0
+0	14
+9
+July 26
+1992	El Salvador
+Mexico	1
+2	Friendly
+in El Salvador	-3
++3	1416
+1810	-1
+0	89
+15
+July 31
+1992	Brazil
+Mexico	5
+0	Friendship Cup
+in the United States	+21
+-21	1941
+1789	+1
+-2	5
+17
+August 02
+1992	Mexico
+Colombia	0
+0	Friendship Cup
+in the United States	-2
++2	1787
+1742	0
+0	17
+25
+August 16
+1992	Russia
+Mexico	2
+0	Friendly
+in Russia	+10
+-10	1829
+1777	+2
+-2	11
+19
+August 19
+1992	Bulgaria
+Mexico	1
+1	Friendly
+in Bulgaria	-2
++2	1749
+1779	0
+0	21
+19
+August 26
+1992	Romania
+Mexico	2
+0	Friendly
+in Romania	+10
+-10	1803
+1769	+1
+-1	15
+20
+October 07
+1992	Mexico
+El Salvador	2
+0	Friendly
+in the United States	+4
+-4	1773
+1432	+1
+0	19
+89
+October 14
+1992	Germany
+Mexico	1
+1	Friendly
+in Germany	-7
++7	1955
+1780	-1
++1	3
+18
+October 22
+1992	Croatia
+Mexico	3
+0	Friendly
+in Croatia	+12
+-12	1799
+1768	+2
+-2	15
+20
+November 08
+1992	St. Vincent & Grenadines
+Mexico	0
+4	World Cup qualifier
+in St. Vincent & Grenadines	-8
++8	1279
+1776	-3
+0	129
+20
+November 15
+1992	Mexico
+Honduras	2
+0	World Cup qualifier
+in Mexico	+13
+-13	1789
+1637	+3
+-4	17
+40
+November 22
+1992	Mexico
+Costa Rica	4
+0	World Cup qualifier
+in Mexico	+8
+-8	1797
+1520	0
+-4	16
+65
+November 29
+1992	Costa Rica
+Mexico	2
+0	World Cup qualifier
+in Costa Rica	+44
+-44	1564
+1753	+11
+-6	55
+22
+December 06
+1992	Mexico
+St. Vincent & Grenadines	11
+0	World Cup qualifier
+in Mexico	+3
+-3	1756
+1247	0
+-1	23
+138
+December 13
+1992	Honduras
+Mexico	1
+1	World Cup qualifier
+in Honduras	0
+0	1664
+1756	0
+0	34
+23
+January 20
+1993	Italy
+Mexico	2
+0	Friendly
+in Italy	+5
+-5	1944
+1751	0
+0	4
+22
+January 27
+1993	Spain
+Mexico	1
+1	Friendly
+in Spain	-4
++4	1789
+1755	+1
+0	16
+22
+February 10
+1993	Mexico
+Romania	2
+0	Friendly
+in Mexico	+11
+-11	1766
+1742	+2
+-1	19
+23
+April 04
+1993	El Salvador
+Mexico	2
+1	World Cup qualifier
+in El Salvador	+31
+-31	1492
+1735	+10
+-8	74
+27
+April 11
+1993	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+19
+-19	1754
+1642	+6
+-1	21
+35
+April 18
+1993	Mexico
+El Salvador	3
+1	World Cup qualifier
+in Mexico	+6
+-6	1760
+1466	+2
+-1	19
+84
+April 25
+1993	Mexico
+Canada	4
+0	World Cup qualifier
+in Mexico	+12
+-12	1772
+1556	+1
+-4	18
+58
+May 02
+1993	Honduras
+Mexico	1
+4	World Cup qualifier
+in Honduras	-30
++30	1594
+1802	-7
++3	50
+16
+May 09
+1993	Canada
+Mexico	1
+2	World Cup qualifier
+in Canada	-13
++13	1563
+1815	-1
++3	55
+13
+June 10
+1993	Mexico
+Paraguay	3
+1	Friendly
+in Mexico	+6
+-6	1821
+1667	0
+-2	12
+32
+June 16
+1993	Colombia
+Mexico	2
+1	Copa América
+in Ecuador	+30
+-30	1781
+1791	+4
+-6	20
+18
+June 20
+1993	Argentina
+Mexico	1
+1	Copa América
+in Ecuador	-13
++13	1970
+1804	-1
++5	2
+13
+June 23
+1993	Mexico
+Bolivia	0
+0	Copa América
+in Ecuador	-17
++17	1787
+1544	-5
++2	18
+63
+June 27
+1993	Mexico
+Peru	4
+2	Copa América
+in Ecuador	+18
+-18	1805
+1572	+5
+-2	13
+52
+June 29
+1993	Costa Rica
+Mexico	0
+2	Friendly
+in Costa Rica	-9
++9	1544
+1814	-1
++1	62
+12
+June 30
+1993	Ecuador
+Mexico	0
+2	Copa América
+in Ecuador	-38
++38	1676
+1852	-2
++2	31
+10
+July 04
+1993	Argentina
+Mexico	2
+1	Copa América
+in Ecuador	+19
+-19	1961
+1833	+1
+-1	2
+11
+July 11
+1993	Mexico
+Martinique	9
+0	Concacaf Gold Cup
+in Mexico	+11
+-11	1844
+1523	0
+-2	11
+68
+July 15
+1993	Mexico
+Costa Rica	1
+1	Concacaf Gold Cup
+in Mexico	-20
++20	1824
+1564	-1
++8	12
+54
+July 18
+1993	Mexico
+Canada	8
+0	Concacaf Gold Cup
+in Mexico	+13
+-13	1837
+1546	+1
+-5	11
+62
+July 22
+1993	Mexico
+Jamaica	6
+1	Concacaf Gold Cup
+in Mexico	+6
+-6	1843
+1444	0
+0	11
+92
+July 25
+1993	Mexico
+United States	4
+0	Concacaf Gold Cup
+in Mexico	+12
+-12	1855
+1604	+1
+-5	10
+49
+August 08
+1993	Brazil
+Mexico	1
+1	Friendly
+in Brazil	-3
++3	1872
+1858	-1
+0	9
+10
+September 22
+1993	Mexico
+Cameroon	1
+0	Friendly
+in the United States	+4
+-4	1862
+1605	0
+-1	10
+48
+October 06
+1993	Mexico
+South Africa	4
+0	Friendly
+in the United States	+8
+-8	1870
+1630	0
+-3	10
+41
+October 13
+1993	United States
+Mexico	1
+1	Friendly
+in the United States	+4
+-4	1616
+1866	+2
+0	46
+10
+October 20
+1993	Mexico
+Ukraine	2
+1	Friendly
+in the United States	+3
+-3	1869
+1591	0
+0	10
+52
+November 03
+1993	Mexico
+China	3
+0	Friendly
+in the United States	+5
+-5	1874
+1534	0
+-1	10
+62
+December 16
+1993	Mexico
+Brazil	0
+1	Friendly
+in Mexico	-12
++12	1862
+1915	-1
+0	10
+4
+December 22
+1993	Mexico
+Germany	0
+0	Friendly
+in Mexico	0
+0	1862
+1975	0
+0	10
+1
+January 19
+1994	Mexico
+Bulgaria	1
+1	Friendly
+in the United States	-3
++3	1859
+1757	0
+0	10
+24
+January 26
+1994	Switzerland
+Mexico	5
+1	Friendly
+in the United States	+22
+-22	1822
+1837	+3
+-2	14
+12
+February 02
+1994	Russia
+Mexico	4
+1	Friendly
+in the United States	+21
+-21	1797
+1816	+3
+-2	18
+14
+February 24
+1994	Mexico
+Sweden	2
+1	Friendly
+in the United States	+11
+-11	1827
+1852	+1
+-2	13
+11
+March 02
+1994	Mexico
+Colombia	0
+0	Friendly
+in Mexico	-1
++1	1826
+1907	0
+0	13
+5
+June 04
+1994	United States
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1592
+1812	+3
+0	50
+16
+June 11
+1994	Mexico
+Northern Ireland	3
+0	Friendly
+in the United States	+10
+-10	1822
+1636	+2
+-4	15
+42
+June 19
+1994	Norway
+Mexico	1
+0	World Cup
+in the United States	+30
+-30	1852
+1792	+4
+-7	11
+22
+June 24
+1994	Mexico
+Ireland	2
+1	World Cup
+in the United States	+36
+-36	1828
+1828	+7
+-3	13
+13
+June 28
+1994	Mexico
+Italy	1
+1	World Cup
+in the United States	+9
+-9	1837
+1923	0
+-1	14
+4
+July 05
+1994	Bulgaria
+Mexico	1
+1	World Cup
+in the United States	+3
+-3	1803
+1834	0
+0	17
+13
+December 14
+1994	Mexico
+Hungary	5
+1	Friendly
+in the United States	+7
+-7	1841
+1565	+1
+-2	16
+55
+January 06
+1995	Saudi Arabia
+Mexico	0
+2	Intercontinental Cup
+in Saudi Arabia	-29
++29	1632
+1870	-5
++8	38
+8
+January 10
+1995	Denmark
+Mexico	1
+1	Intercontinental Cup
+in Saudi Arabia	-1
++1	1889
+1871	0
++1	7
+9
+January 13
+1995	Mexico
+Nigeria	1
+1	Intercontinental Cup
+in Saudi Arabia	-7
++7	1864
+1783	0
+0	9
+23
+February 01
+1995	Mexico
+Uruguay	1
+0	Friendly
+in the United States	+8
+-8	1872
+1770	0
+0	10
+24
+March 29
+1995	Chile
+Mexico	2
+1	Friendly
+in the United States	+14
+-14	1747
+1858	0
+0	25
+10
+June 18
+1995	United States
+Mexico	4
+0	US Cup
+in the United States	+40
+-40	1641
+1818	+10
+-9	34
+18
+June 21
+1995	Mexico
+Colombia	0
+0	US Cup
+in the United States	+2
+-2	1820
+1861	+1
+0	17
+8
+June 24
+1995	Mexico
+Nigeria	2
+1	US Cup
+in the United States	+12
+-12	1832
+1741	+2
+-1	15
+26
+July 06
+1995	Paraguay
+Mexico	2
+1	Copa América
+in Uruguay	+34
+-34	1729
+1798	+3
+-5	27
+20
+July 09
+1995	Mexico
+Venezuela	3
+1	Copa América
+in Uruguay	+5
+-5	1803
+1324	0
+-2	20
+126
+July 13
+1995	Uruguay
+Mexico	1
+1	Copa América
+in Uruguay	-6
++6	1777
+1809	-1
+0	22
+20
+July 17
+1995	United States
+Mexico	0
+0	Copa América
+in Uruguay	+7
+-7	1723
+1802	0
+0	28
+20
+October 11
+1995	Mexico
+Saudi Arabia	2
+1	Friendly
+in the United States	+5
+-5	1807
+1598	+2
+-2	19
+47
+November 15
+1995	Mexico
+Yugoslavia	1
+4	Friendly
+in Mexico	-19
++19	1788
+1905	-3
+0	22
+7
+November 29
+1995	Mexico
+Colombia	2
+2	Friendly
+in the United States	+1
+-1	1789
+1816	+1
+0	21
+16
+December 06
+1995	Mexico
+Slovenia	1
+2	Friendly
+in Mexico	-18
++18	1771
+1520	-2
++1	23
+71
+December 20
+1995	Jamaica
+Mexico	2
+1	Friendly
+in Jamaica	+15
+-15	1514
+1756	+2
+0	72
+23
+January 11
+1996	Mexico
+St. Vincent & Grenadines	5
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1763
+1308	0
+-2	23
+128
+January 14
+1996	Mexico
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1770
+1429	0
+-6	23
+98
+January 19
+1996	Mexico
+Guatemala	1
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1777
+1451	+1
+0	22
+87
+January 21
+1996	Mexico
+Brazil	2
+0	Concacaf Gold Cup
+in the United States	+65
+-65	1842
+2029	+11
+0	11
+1
+February 07
+1996	Chile
+Mexico	2
+1	Friendly
+in Chile	+12
+-12	1678
+1830	+2
+-4	33
+14
+May 18
+1996	Mexico
+Slovakia	5
+2	Friendly
+in the United States	+7
+-7	1837
+1583	+3
+-2	15
+51
+May 23
+1996	Mexico
+Yugoslavia	0
+0	Kirin Cup
+in Japan	+3
+-3	1840
+1908	+2
+0	13
+7
+May 29
+1996	Japan
+Mexico	3
+2	Kirin Cup
+in Japan	+17
+-17	1713
+1823	+1
+-5	30
+18
+June 08
+1996	Mexico
+Bolivia	1
+0	US Cup
+in the United States	+8
+-8	1831
+1634	+1
+0	16
+36
+June 12
+1996	Mexico
+Ireland	2
+2	US Cup
+in the United States	-7
++7	1824
+1668	-1
++1	16
+33
+June 16
+1996	United States
+Mexico	2
+2	US Cup
+in the United States	+1
+-1	1691
+1823	0
+0	32
+17
+August 31
+1996	France
+Mexico	2
+0	Friendly
+in France	+6
+-6	1978
+1817	0
+0	3
+16
+September 15
+1996	St. Vincent & Grenadines
+Mexico	0
+3	World Cup qualifier
+in St. Vincent & Grenadines	-6
++6	1285
+1823	0
+0	134
+16
+September 21
+1996	Honduras
+Mexico	2
+1	World Cup qualifier
+in Honduras	+31
+-31	1527
+1792	+8
+-1	67
+17
+October 16
+1996	Mexico
+Jamaica	2
+1	World Cup qualifier
+in Mexico	+4
+-4	1796
+1505	0
+-2	18
+74
+October 23
+1996	Ecuador
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1680
+1782	+2
+-1	32
+19
+October 30
+1996	Mexico
+St. Vincent & Grenadines	5
+1	World Cup qualifier
+in Mexico	+2
+-2	1784
+1249	0
+-2	19
+144
+November 06
+1996	Mexico
+Honduras	3
+1	World Cup qualifier
+in Mexico	+7
+-7	1791
+1526	+1
+-4	18
+68
+November 17
+1996	Jamaica
+Mexico	1
+0	World Cup qualifier
+in Jamaica	+29
+-29	1551
+1762	+7
+-5	60
+22
+November 20
+1996	Mexico
+El Salvador	3
+1	Friendly
+in the United States	+5
+-5	1767
+1490	0
+-1	22
+78
+January 17
+1997	Mexico
+Denmark	3
+1	US Cup
+in the United States	+32
+-32	1799
+1894	+5
+-3	17
+9
+January 19
+1997	United States
+Mexico	0
+2	US Cup
+in the United States	-20
++20	1641
+1819	-4
++1	39
+15
+January 22
+1997	Mexico
+Peru	0
+0	US Cup
+in the United States	-8
++8	1811
+1626	0
++3	15
+42
+February 05
+1997	Mexico
+Ecuador	3
+1	Friendly
+in Mexico	+5
+-5	1816
+1640	0
+-2	15
+38
+February 20
+1997	Mexico
+Guatemala	1
+1	Friendly
+in the United States	-7
++7	1809
+1491	-1
++4	16
+74
+March 02
+1997	Mexico
+Canada	4
+0	World Cup qualifier
+in Mexico	+13
+-13	1822
+1626	+1
+-5	15
+43
+March 16
+1997	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	+8
+-8	1575
+1814	0
+0	56
+15
+March 29
+1997	England
+Mexico	2
+0	Friendly
+in England	+8
+-8	1901
+1806	0
+-2	8
+17
+April 13
+1997	Mexico
+Jamaica	6
+0	World Cup qualifier
+in Mexico	+10
+-10	1816
+1540	+2
+-1	15
+62
+April 20
+1997	United States
+Mexico	2
+2	World Cup qualifier
+in the United States	+5
+-5	1631
+1811	+3
+-1	44
+16
+April 30
+1997	Brazil
+Mexico	4
+0	Friendly
+in the United States	+8
+-8	2051
+1803	+1
+-1	1
+17
+June 08
+1997	El Salvador
+Mexico	0
+1	World Cup qualifier
+in El Salvador	-8
++8	1454
+1811	-2
++2	86
+16
+June 13
+1997	Mexico
+Colombia	2
+1	Copa América
+in Bolivia	+22
+-22	1833
+1754	+2
+-1	14
+23
+June 16
+1997	Brazil
+Mexico	3
+2	Copa América
+in Bolivia	+11
+-11	2059
+1822	0
+-2	1
+15
+June 19
+1997	Mexico
+Costa Rica	1
+1	Copa América
+in Bolivia	-15
++15	1807
+1597	-3
++3	17
+52
+June 22
+1997	Mexico
+Ecuador	1
+1	Copa América
+in Bolivia	-4
++4	1803
+1762	0
+0	16
+22
+June 25
+1997	Bolivia
+Mexico	3
+1	Copa América
+in Bolivia	+34
+-34	1768
+1769	+4
+-5	22
+21
+June 28
+1997	Mexico
+Peru	1
+0	Copa América
+in Bolivia	+19
+-19	1788
+1658	+3
+-2	18
+36
+October 05
+1997	Mexico
+El Salvador	5
+0	World Cup qualifier
+in Mexico	+8
+-8	1796
+1489	+1
+-2	19
+72
+October 12
+1997	Canada
+Mexico	2
+2	World Cup qualifier
+in Canada	+9
+-9	1547
+1787	+1
+-1	64
+19
+November 02
+1997	Mexico
+United States	0
+0	World Cup qualifier
+in Mexico	-13
++13	1774
+1643	-1
++1	20
+44
+November 09
+1997	Mexico
+Costa Rica	3
+3	World Cup qualifier
+in Mexico	-14
++14	1760
+1574	-2
++2	22
+54
+November 16
+1997	Jamaica
+Mexico	0
+0	World Cup qualifier
+in Jamaica	+2
+-2	1621
+1758	+1
+-1	48
+22
+December 12
+1997	Australia
+Mexico	3
+1	Confederations Cup
+in Saudi Arabia	+31
+-31	1850
+1727	+5
+-5	11
+27
+December 14
+1997	Saudi Arabia
+Mexico	0
+5	Confederations Cup
+in Saudi Arabia	-53
++53	1593
+1780	-8
++8	52
+20
+December 16
+1997	Brazil
+Mexico	3
+2	Confederations Cup
+in Saudi Arabia	+6
+-6	2123
+1774	0
+0	1
+20
+February 04
+1998	Mexico
+Trinidad and Tobago	4
+2	Concacaf Gold Cup
+in the United States	+12
+-12	1786
+1473	+2
+-3	18
+79
+February 07
+1998	Mexico
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1798
+1487	0
+-6	18
+76
+February 12
+1998	Mexico
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+17
+-17	1815
+1664	+1
+-1	17
+37
+February 15
+1998	United States
+Mexico	0
+1	Concacaf Gold Cup
+in the United States	-28
++28	1734
+1843	-8
++6	29
+11
+February 24
+1998	Netherlands
+Mexico	3
+2	Friendly
+in the United States	+8
+-8	1924
+1835	0
+0	8
+11
+March 18
+1998	Mexico
+Paraguay	1
+1	Friendly
+in Mexico	-5
++5	1830
+1736	-1
++2	14
+26
+April 15
+1998	Mexico
+Peru	1
+0	Friendly
+in the United States	+6
+-6	1836
+1692	+1
+0	14
+34
+May 09
+1998	Mexico
+Estonia	6
+0	Friendly
+in Italy	+1
+-1	1837
+1169	0
+-1	15
+164
+May 20
+1998	Norway
+Mexico	5
+2	Friendly
+in Norway	+11
+-11	1873
+1826	+1
+0	9
+15
+May 23
+1998	Ireland
+Mexico	0
+0	Friendly
+in Ireland	+2
+-2	1660
+1824	0
+-1	38
+16
+May 31
+1998	Mexico
+Japan	2
+1	Friendly
+in Switzerland	+7
+-7	1831
+1714	0
+0	14
+31
+June 03
+1998	Mexico
+Saudi Arabia	0
+0	Friendly
+in France	-5
++5	1826
+1637	0
+0	14
+43
+June 13
+1998	Mexico
+South Korea	3
+1	World Cup
+in France	+34
+-34	1860
+1705	+4
+-8	11
+32
+June 20
+1998	Mexico
+Belgium	2
+2	World Cup
+in France	-6
++6	1854
+1801	-1
+0	11
+19
+June 25
+1998	Mexico
+Netherlands	2
+2	World Cup
+in France	+7
+-7	1861
+1935	0
+-1	13
+7
+June 29
+1998	Germany
+Mexico	2
+1	World Cup
+in France	+16
+-16	2053
+1845	0
+-3	2
+15
+November 17
+1998	Mexico
+El Salvador	2
+0	Friendly tournament
+in the United States	+5
+-5	1850
+1466	0
+-2	15
+82
+November 18
+1998	Guatemala
+Mexico	2
+2	Friendly tournament
+in the United States	+11
+-11	1548
+1839	+3
+0	61
+15
+February 10
+1999	Argentina
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1918
+1831	+2
+0	6
+15
+February 19
+1999	Mexico
+Egypt	3
+0	Carlsberg Cup
+in Hong Kong	+16
+-16	1847
+1677	0
+-5	15
+39
+March 11
+1999	Mexico
+Bolivia	2
+1	US Cup
+in the United States	+8
+-8	1855
+1658	0
+0	14
+42
+March 13
+1999	United States
+Mexico	1
+2	US Cup
+in the United States	-13
++13	1697
+1868	-1
++1	33
+13
+April 14
+1999	Mexico
+Ecuador	0
+0	Friendly
+in Mexico	-6
++6	1862
+1730	0
++1	14
+24
+April 28
+1999	Paraguay
+Mexico	2
+1	Friendly
+in Paraguay	+10
+-10	1768
+1852	0
+-1	19
+15
+June 09
+1999	Argentina
+Mexico	2
+2	Friendly
+in the United States	-2
++2	1920
+1854	0
+0	6
+15
+June 12
+1999	South Korea
+Mexico	1
+1	Korea Cup
+in South Korea	+3
+-3	1689
+1851	0
+0	35
+15
+June 16
+1999	Croatia
+Mexico	2
+1	Korea Cup
+in South Korea	+14
+-14	1880
+1837	+2
+0	12
+15
+June 18
+1999	Mexico
+Egypt	2
+0	Korea Cup
+in South Korea	+14
+-14	1851
+1688	0
+-2	15
+34
+June 30
+1999	Mexico
+Chile	1
+0	Copa América
+in Paraguay	+17
+-17	1868
+1715	0
+-1	15
+26
+July 03
+1999	Brazil
+Mexico	2
+1	Copa América
+in Paraguay	+15
+-15	2034
+1853	0
+0	1
+15
+July 06
+1999	Mexico
+Venezuela	3
+1	Copa América
+in Paraguay	+5
+-5	1858
+1373	0
+-2	14
+111
+July 10
+1999	Mexico
+Peru	3
+3	Copa América
+in Paraguay	-11
++11	1847
+1712	0
++2	15
+29
+July 14
+1999	Brazil
+Mexico	2
+0	Copa América
+in Paraguay	+17
+-17	2072
+1830	0
+-1	1
+16
+July 17
+1999	Mexico
+Chile	2
+1	Copa América
+in Paraguay	+19
+-19	1849
+1730	+1
+-2	15
+25
+July 25
+1999	Mexico
+Saudi Arabia	5
+1	Confederations Cup
+in Mexico	+17
+-17	1866
+1665	+1
+-5	14
+40
+July 27
+1999	Mexico
+Egypt	2
+2	Confederations Cup
+in Mexico	-17
++17	1849
+1699	-1
++2	15
+32
+July 29
+1999	Mexico
+Bolivia	1
+0	Confederations Cup
+in Mexico	+7
+-7	1856
+1623	0
+-1	15
+50
+August 01
+1999	Mexico
+United States	1
+0	Confederations Cup
+in Mexico	+13
+-13	1869
+1760	+2
+-1	12
+22
+August 04
+1999	Mexico
+Brazil	4
+3	Confederations Cup
+in Mexico	+36
+-36	1905
+2089	+5
+0	7
+1
+October 13
+1999	Paraguay
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1784
+1891	+2
+-2	19
+8
+October 20
+1999	Colombia
+Mexico	0
+0	Friendly
+in the United States	+4
+-4	1765
+1887	0
+-1	22
+9
+October 27
+1999	Ecuador
+Mexico	0
+0	Friendly
+in the United States	+6
+-6	1665
+1881	0
+-3	41
+12
+January 09
+2000	Mexico
+Iran	2
+1	Friendly
+in the United States	+6
+-6	1887
+1733	0
+0	9
+25
+February 05
+2000	Mexico
+Japan	1
+0	Carlsberg Cup
+in Hong Kong	+5
+-5	1892
+1594	0
+-1	9
+53
+February 08
+2000	Czechia
+Mexico	2
+1	Carlsberg Cup
+in Hong Kong	+14
+-14	1922
+1878	0
+-1	5
+10
+February 13
+2000	Mexico
+Trinidad and Tobago	4
+0	Concacaf Gold Cup
+in the United States	+13
+-13	1891
+1546	+1
+-4	9
+63
+February 17
+2000	Mexico
+Guatemala	1
+1	Concacaf Gold Cup
+in the United States	-21
++21	1870
+1498	-5
++5	14
+74
+February 20
+2000	Canada
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+43
+-43	1609
+1827	+4
+-1	54
+15
+July 01
+2000	Mexico
+El Salvador	3
+0	Friendly
+in the United States	+3
+-3	1830
+1407	0
+-3	13
+100
+July 05
+2000	Mexico
+Venezuela	2
+1	Friendly
+in Mexico	+1
+-1	1831
+1400	0
+-1	13
+102
+July 16
+2000	Panama
+Mexico	0
+1	World Cup qualifier
+in Panama	-5
++5	1370
+1836	-2
+0	113
+13
+July 23
+2000	Trinidad and Tobago
+Mexico	1
+0	World Cup qualifier
+in Trinidad and Tobago	+28
+-28	1622
+1808	+2
+-1	54
+14
+August 15
+2000	Mexico
+Canada	2
+0	World Cup qualifier
+in Mexico	+10
+-10	1818
+1625	0
+-3	14
+53
+September 03
+2000	Mexico
+Panama	7
+1	World Cup qualifier
+in Mexico	+4
+-4	1822
+1369	0
+-2	13
+113
+September 20
+2000	Mexico
+Ecuador	2
+0	Friendly
+in the United States	+8
+-8	1830
+1634	0
+0	13
+49
+September 27
+2000	Mexico
+Bolivia	1
+0	Friendly
+in the United States	+3
+-3	1833
+1545	+1
+-1	12
+63
+October 08
+2000	Mexico
+Trinidad and Tobago	7
+0	World Cup qualifier
+in Mexico	+15
+-15	1848
+1636	0
+-3	12
+50
+October 25
+2000	United States
+Mexico	2
+0	Friendly
+in the United States	+15
+-15	1759
+1833	+4
+0	20
+12
+November 15
+2000	Canada
+Mexico	0
+0	World Cup qualifier
+in Canada	+7
+-7	1610
+1826	+1
+-1	55
+13
+December 20
+2000	Argentina
+Mexico	2
+0	Friendly
+in the United States	+9
+-9	1973
+1817	0
+0	5
+13
+January 24
+2001	Mexico
+Bulgaria	0
+2	Friendly
+in Mexico	-25
++25	1792
+1655	-3
++4	16
+46
+January 31
+2001	Colombia
+Mexico	3
+2	Friendly
+in the United States	+12
+-12	1750
+1780	+2
+-2	24
+18
+February 28
+2001	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+23
+-23	1783
+1757	+5
+-5	18
+23
+March 07
+2001	Mexico
+Brazil	3
+3	Friendly
+in Mexico	+4
+-4	1761
+2002	0
+0	23
+2
+March 25
+2001	Mexico
+Jamaica	4
+0	World Cup qualifier
+in Mexico	+12
+-12	1773
+1563	+4
+-1	20
+61
+April 11
+2001	Mexico
+Chile	1
+0	Friendly
+in Mexico	+4
+-4	1777
+1645	0
+0	21
+45
+April 25
+2001	Trinidad and Tobago
+Mexico	1
+1	World Cup qualifier
+in Trinidad and Tobago	+4
+-4	1615
+1773	0
+-1	54
+21
+May 25
+2001	England
+Mexico	4
+0	Friendly
+in England	+10
+-10	1859
+1763	+1
+-3	10
+25
+May 30
+2001	Australia
+Mexico	2
+0	Confederations Cup
+in South Korea	+36
+-36	1810
+1727	+8
+-3	13
+28
+June 01
+2001	South Korea
+Mexico	2
+1	Confederations Cup
+in South Korea	+16
+-16	1767
+1711	+4
+-4	21
+32
+June 03
+2001	France
+Mexico	4
+0	Confederations Cup
+in South Korea	+11
+-11	2072
+1700	0
+-4	1
+34
+June 16
+2001	Mexico
+Costa Rica	1
+2	World Cup qualifier
+in Mexico	-31
++31	1669
+1609	-8
++5	41
+54
+June 20
+2001	Honduras
+Mexico	3
+1	World Cup qualifier
+in Honduras	+22
+-22	1690
+1647	+6
+-6	35
+46
+July 01
+2001	Mexico
+United States	1
+0	World Cup qualifier
+in Mexico	+23
+-23	1670
+1779	+4
+-3	40
+22
+July 12
+2001	Mexico
+Brazil	1
+0	Copa América
+in Colombia	+38
+-38	1708
+1836	+11
+-4	30
+13
+July 15
+2001	Mexico
+Paraguay	0
+0	Copa América
+in Colombia	+8
+-8	1716
+1818	+1
+-1	28
+15
+July 18
+2001	Peru
+Mexico	1
+0	Copa América
+in Colombia	+30
+-30	1679
+1686	+9
+-9	39
+37
+July 22
+2001	Mexico
+Chile	2
+0	Copa América
+in Colombia	+35
+-35	1721
+1631	+12
+-7	27
+51
+July 25
+2001	Mexico
+Uruguay	2
+1	Copa América
+in Colombia	+28
+-28	1749
+1738	+1
+-4	27
+28
+July 29
+2001	Colombia
+Mexico	1
+0	Copa América
+in Colombia	+13
+-13	1848
+1736	+2
+-1	11
+27
+August 23
+2001	Mexico
+Liberia	5
+4	Friendly
+in Mexico	+3
+-3	1739
+1498	0
+-1	26
+74
+September 02
+2001	Jamaica
+Mexico	1
+2	World Cup qualifier
+in Jamaica	-15
++15	1542
+1754	-2
++2	63
+25
+September 05
+2001	Mexico
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Mexico	+9
+-9	1763
+1515	0
+-3	25
+70
+October 07
+2001	Costa Rica
+Mexico	0
+0	World Cup qualifier
+in Costa Rica	-4
++4	1736
+1767	0
++1	26
+23
+October 31
+2001	Mexico
+El Salvador	4
+1	Friendly
+in Mexico	+3
+-3	1770
+1467	0
++1	23
+83
+November 11
+2001	Mexico
+Honduras	3
+0	World Cup qualifier
+in Mexico	+22
+-22	1792
+1710	+3
+-8	20
+36
+November 14
+2001	Spain
+Mexico	1
+0	Friendly
+in Spain	+4
+-4	1930
+1788	0
+0	6
+20
+January 19
+2002	Mexico
+El Salvador	1
+0	Concacaf Gold Cup
+in the United States	+7
+-7	1795
+1459	0
+-1	20
+86
+January 21
+2002	Mexico
+Guatemala	3
+1	Concacaf Gold Cup
+in the United States	+15
+-15	1810
+1544	+4
+-4	16
+64
+January 27
+2002	South Korea
+Mexico	0
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1747
+1805	0
+-1	28
+17
+February 13
+2002	Yugoslavia
+Mexico	2
+1	Friendly
+in the United States	+10
+-10	1806
+1795	+3
+-4	18
+21
+March 13
+2002	Mexico
+Albania	4
+0	Friendly
+in the United States	+4
+-4	1799
+1416	0
+0	21
+98
+April 03
+2002	United States
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1786
+1791	0
+-3	22
+21
+April 17
+2002	Mexico
+Bulgaria	1
+0	Friendly
+in the United States	+6
+-6	1797
+1632	+2
+-2	19
+47
+May 12
+2002	Mexico
+Colombia	2
+1	Friendly
+in Mexico	+9
+-9	1806
+1849	0
+-1	18
+9
+May 16
+2002	Mexico
+Bolivia	1
+0	Friendly
+in the United States	+3
+-3	1809
+1532	+1
+-2	17
+65
+June 03
+2002	Mexico
+Croatia	1
+0	World Cup
+in Japan	+33
+-33	1842
+1815	+5
+-6	12
+17
+June 09
+2002	Mexico
+Ecuador	2
+1	World Cup
+in Japan	+17
+-17	1859
+1670	+3
+-2	11
+37
+June 13
+2002	Mexico
+Italy	1
+1	World Cup
+in Japan	+8
+-8	1867
+1941	+1
+0	12
+4
+June 17
+2002	United States
+Mexico	2
+0	World Cup
+in South Korea	+59
+-59	1817
+1808	+10
+-7	16
+18
+February 04
+2003	Argentina
+Mexico	1
+0	Friendly
+in the United States	+6
+-6	1980
+1802	0
+-1	3
+16
+February 12
+2003	Mexico
+Colombia	0
+0	Friendly
+in the United States	+1
+-1	1803
+1838	-1
+-1	16
+13
+March 19
+2003	Mexico
+Bolivia	2
+0	Friendly
+in the United States	+5
+-5	1808
+1517	0
+-1	17
+67
+March 26
+2003	Mexico
+Paraguay	1
+1	Friendly
+in the United States	-2
++2	1806
+1740	0
++1	17
+29
+April 30
+2003	Mexico
+Brazil	0
+0	Friendly
+in Mexico	+3
+-3	1809
+2010	+1
+0	16
+1
+May 08
+2003	United States
+Mexico	0
+0	Friendly
+in the United States	-3
++3	1803
+1812	0
+0	17
+16
+July 06
+2003	El Salvador
+Mexico	2
+1	Friendly
+in the United States	+17
+-17	1512
+1795	+3
+-2	71
+19
+July 13
+2003	Mexico
+Brazil	1
+0	Concacaf Gold Cup
+in Mexico	+31
+-31	1826
+1950	+5
+0	15
+4
+July 17
+2003	Mexico
+Honduras	0
+0	Concacaf Gold Cup
+in Mexico	-17
++17	1809
+1667	-2
++4	17
+38
+July 20
+2003	Mexico
+Jamaica	5
+0	Concacaf Gold Cup
+in Mexico	+14
+-14	1823
+1580	+2
+-2	16
+60
+July 24
+2003	Mexico
+Costa Rica	2
+0	Concacaf Gold Cup
+in Mexico	+21
+-21	1844
+1738	+3
+-4	13
+26
+July 27
+2003	Mexico
+Brazil	1
+0	Concacaf Gold Cup
+in Mexico	+29
+-29	1873
+1970	+2
+-2	11
+4
+August 20
+2003	Peru
+Mexico	3
+1	Friendly
+in the United States	+25
+-25	1632
+1848	+8
+-3	46
+14
+October 15
+2003	Uruguay
+Mexico	2
+0	Friendly
+in the United States	+17
+-17	1819
+1831	+1
+-1	15
+13
+November 19
+2003	Iceland
+Mexico	0
+0	Friendly
+in the United States	+7
+-7	1554
+1824	0
+-1	65
+13
+February 18
+2004	Mexico
+Chile	1
+1	Friendly
+in the United States	-6
++6	1818
+1609	0
++2	13
+53
+March 10
+2004	Mexico
+Ecuador	2
+1	Friendly
+in Mexico	+4
+-4	1822
+1689	+1
+-1	12
+37
+March 31
+2004	Mexico
+Costa Rica	2
+0	Friendly
+in the United States	+11
+-11	1833
+1706	+1
+-4	12
+35
+April 28
+2004	United States
+Mexico	1
+0	Friendly
+in the United States	+8
+-8	1812
+1825	-1
+0	16
+12
+June 19
+2004	Mexico
+Dominica	10
+0	World Cup qualifier
+in the United States	+2
+-2	1827
+1088	+1
+0	12
+173
+June 27
+2004	Mexico
+Dominica	8
+0	World Cup qualifier
+in Mexico	+1
+-1	1828
+1087	0
+0	13
+173
+July 07
+2004	Mexico
+Uruguay	2
+2	Copa América
+in Peru	-10
++10	1818
+1691	-1
++3	15
+32
+July 10
+2004	Mexico
+Argentina	1
+0	Copa América
+in Peru	+35
+-35	1853
+1925	+4
+-2	11
+6
+July 13
+2004	Mexico
+Ecuador	2
+1	Copa América
+in Peru	+12
+-12	1865
+1650	+1
+-3	10
+42
+July 18
+2004	Brazil
+Mexico	4
+0	Copa América
+in Peru	+34
+-34	1995
+1831	+1
+-3	2
+13
+September 08
+2004	Trinidad and Tobago
+Mexico	1
+3	World Cup qualifier
+in Trinidad and Tobago	-11
++11	1455
+1842	-4
++3	91
+11
+October 06
+2004	Mexico
+St. Vincent & Grenadines	7
+0	World Cup qualifier
+in Mexico	+2
+-2	1844
+1271	0
+0	11
+142
+October 10
+2004	St. Vincent & Grenadines
+Mexico	0
+1	World Cup qualifier
+in St. Vincent & Grenadines	-2
++2	1269
+1846	0
++1	142
+11
+October 13
+2004	Mexico
+Trinidad and Tobago	3
+0	World Cup qualifier
+in Mexico	+4
+-4	1850
+1466	0
+-1	11
+88
+October 27
+2004	Mexico
+Ecuador	2
+1	Friendly
+in the United States	+4
+-4	1854
+1611	+1
+-1	10
+53
+November 10
+2004	Mexico
+Guatemala	2
+0	Friendly
+in the United States	+6
+-6	1860
+1603	0
+-2	10
+56
+November 13
+2004	Mexico
+Saint Kitts and Nevis	5
+0	World Cup qualifier
+in the United States	+2
+-2	1862
+1258	0
+0	10
+142
+November 17
+2004	Mexico
+Saint Kitts and Nevis	8
+0	World Cup qualifier
+in Mexico	+2
+-2	1864
+1256	0
+0	10
+142
+January 26
+2005	Mexico
+Sweden	0
+0	Friendly
+in the United States	-1
++1	1863
+1841	0
+0	10
+13
+February 09
+2005	Costa Rica
+Mexico	1
+2	World Cup qualifier
+in Costa Rica	-14
++14	1649
+1877	-4
++1	44
+9
+February 23
+2005	Mexico
+Colombia	1
+1	Friendly
+in Mexico	-5
++5	1872
+1784	0
+0	9
+23
+March 09
+2005	Argentina
+Mexico	1
+1	Friendly
+in the United States	-4
++4	1998
+1876	0
+0	1
+9
+March 27
+2005	Mexico
+United States	2
+1	World Cup qualifier
+in Mexico	+12
+-12	1888
+1815	+2
+-1	8
+16
+March 30
+2005	Panama
+Mexico	1
+1	World Cup qualifier
+in Panama	+15
+-15	1466
+1873	+5
+-3	84
+11
+April 27
+2005	Poland
+Mexico	1
+1	Friendly
+in the United States	+3
+-3	1754
+1870	0
+0	27
+11
+June 04
+2005	Guatemala
+Mexico	0
+2	World Cup qualifier
+in Guatemala	-15
++15	1559
+1885	-4
++3	66
+8
+June 08
+2005	Mexico
+Trinidad and Tobago	2
+0	World Cup qualifier
+in Mexico	+3
+-3	1888
+1478	0
++1	8
+82
+June 16
+2005	Mexico
+Japan	2
+1	Confederations Cup
+in Germany	+18
+-18	1906
+1777	0
+-3	8
+25
+June 19
+2005	Mexico
+Brazil	1
+0	Confederations Cup
+in Germany	+30
+-30	1936
+1941	+2
+-3	6
+5
+June 22
+2005	Greece
+Mexico	0
+0	Confederations Cup
+in Germany	+10
+-10	1795
+1926	+1
+-1	21
+7
+June 26
+2005	Argentina
+Mexico	1
+1	Confederations Cup
+in Germany	-6
++6	2002
+1932	0
++1	1
+6
+June 29
+2005	Germany
+Mexico	4
+3	Confederations Cup
+in Germany	+23
+-23	1884
+1909	+3
+-2	9
+8
+July 08
+2005	South Africa
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+44
+-44	1606
+1865	+8
+-3	56
+11
+July 10
+2005	Mexico
+Guatemala	4
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1877
+1520	+2
+-1	9
+74
+July 13
+2005	Mexico
+Jamaica	1
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1888
+1651	+1
+0	8
+47
+July 17
+2005	Colombia
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+35
+-35	1774
+1853	+3
+-5	24
+13
+August 17
+2005	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+11
+-11	1864
+1684	0
+-3	12
+41
+September 03
+2005	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+23
+-23	1870
+1841	+2
+-2	11
+14
+September 07
+2005	Mexico
+Panama	5
+0	World Cup qualifier
+in Mexico	+6
+-6	1847
+1497	+1
+0	13
+80
+October 08
+2005	Mexico
+Guatemala	5
+2	World Cup qualifier
+in Mexico	+6
+-6	1853
+1522	0
+-1	13
+72
+October 12
+2005	Trinidad and Tobago
+Mexico	2
+1	World Cup qualifier
+in Trinidad and Tobago	+32
+-32	1539
+1821	+11
+-2	68
+15
+October 26
+2005	Mexico
+Uruguay	3
+1	Friendly
+in Mexico	+11
+-11	1832
+1806	+1
+0	14
+18
+November 16
+2005	Bulgaria
+Mexico	3
+0	Friendly
+in the United States	+26
+-26	1686
+1806	+1
+-4	43
+18
+December 14
+2005	Mexico
+Hungary	2
+0	Friendly
+in the United States	+6
+-6	1812
+1561	+2
+-4	16
+63
+January 25
+2006	Mexico
+Norway	2
+1	Friendly
+in the United States	+8
+-8	1820
+1730	+2
+0	14
+34
+February 15
+2006	South Korea
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1699
+1806	+4
+-3	38
+17
+March 01
+2006	Mexico
+Ghana	1
+0	Friendly
+in the United States	+4
+-4	1810
+1565	-1
+-1	18
+61
+March 29
+2006	Mexico
+Paraguay	2
+1	Friendly
+in the United States	+8
+-8	1818
+1745	+3
+-2	15
+31
+May 05
+2006	Mexico
+Venezuela	1
+0	Friendly
+in the United States	+4
+-4	1822
+1578	0
+0	15
+57
+May 12
+2006	Mexico
+Dem. Rep. of Congo	2
+1	Friendly
+in Mexico	+1
+-1	1823
+1481	+1
+0	14
+81
+May 27
+2006	France
+Mexico	1
+0	Friendly
+in France	+5
+-5	1933
+1818	+1
+0	5
+14
+June 01
+2006	Netherlands
+Mexico	2
+1	Friendly
+in the Netherlands	+4
+-4	1969
+1814	0
+-1	2
+16
+June 11
+2006	Mexico
+Iran	3
+1	World Cup
+in Germany	+45
+-45	1859
+1768	+3
+-9	12
+25
+June 16
+2006	Angola
+Mexico	0
+0	World Cup
+in Germany	+21
+-21	1577
+1838	+8
+0	58
+12
+June 21
+2006	Portugal
+Mexico	2
+1	World Cup
+in Germany	+23
+-23	1948
+1815	0
+-2	6
+15
+June 24
+2006	Argentina
+Mexico	2
+1	World Cup
+in Germany	+18
+-18	1976
+1797	0
+-1	4
+17
+February 07
+2007	United States
+Mexico	2
+0	Friendly
+in the United States	+12
+-12	1782
+1785	+3
+-1	20
+19
+February 28
+2007	Mexico
+Venezuela	3
+1	Friendly
+in the United States	+8
+-8	1793
+1606	0
+-1	19
+53
+March 25
+2007	Mexico
+Paraguay	2
+1	Friendly
+in Mexico	+6
+-6	1799
+1732	0
+-1	18
+33
+March 28
+2007	Mexico
+Ecuador	4
+2	Friendly
+in the United States	+12
+-12	1811
+1724	+2
+-3	16
+34
+June 02
+2007	Mexico
+Iran	4
+0	Friendly
+in Mexico	+11
+-11	1822
+1752	+1
+-2	15
+27
+June 05
+2007	Mexico
+Paraguay	0
+1	Friendly
+in Mexico	-15
++15	1807
+1737	-1
++3	16
+32
+June 08
+2007	Mexico
+Cuba	2
+1	Concacaf Gold Cup
+in the United States	+8
+-8	1815
+1508	+1
+-4	15
+79
+June 10
+2007	Honduras
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+38
+-38	1661
+1777	+5
+-8	44
+23
+June 13
+2007	Mexico
+Panama	1
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1788
+1554	+4
+-3	19
+66
+June 17
+2007	Mexico
+Costa Rica	1
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1803
+1628	+2
+-2	17
+49
+June 21
+2007	Mexico
+Guadeloupe	1
+0	Concacaf Gold Cup
+in the United States	+6
+-6	1809
+1439	+1
+-1	16
+95
+June 24
+2007	United States
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+17
+-17	1836
+1792	+1
+-3	14
+19
+June 27
+2007	Mexico
+Brazil	2
+0	Copa América
+in Venezuela	+60
+-60	1852
+1976	+5
+-2	13
+3
+July 01
+2007	Mexico
+Ecuador	2
+1	Copa América
+in Venezuela	+14
+-14	1866
+1675	+2
+0	11
+42
+July 04
+2007	Chile
+Mexico	0
+0	Copa América
+in Venezuela	+10
+-10	1737
+1856	+4
+-1	32
+12
+July 08
+2007	Mexico
+Paraguay	6
+0	Copa América
+in Venezuela	+48
+-48	1904
+1772	+4
+-7	8
+23
+July 11
+2007	Argentina
+Mexico	3
+0	Copa América
+in Venezuela	+29
+-29	2058
+1875	+1
+-2	1
+10
+July 14
+2007	Mexico
+Uruguay	3
+1	Copa América
+in Venezuela	+33
+-33	1908
+1802	+2
+-1	8
+16
+August 22
+2007	Colombia
+Mexico	1
+0	Friendly
+in the United States	+14
+-14	1773
+1894	+5
+-1	21
+9
+September 09
+2007	Mexico
+Panama	1
+0	Friendly
+in Mexico	+1
+-1	1895
+1553	0
+-1	8
+66
+September 12
+2007	Brazil
+Mexico	3
+1	Friendly
+in the United States	+8
+-8	2072
+1887	0
+-1	1
+9
+October 14
+2007	Mexico
+Nigeria	2
+2	Friendly
+in Mexico	-6
++6	1881
+1743	-1
++2	11
+29
+October 17
+2007	Guatemala
+Mexico	3
+2	Friendly
+in the United States	+18
+-18	1503
+1863	+2
+-2	78
+13
+February 06
+2008	United States
+Mexico	2
+2	Friendly
+in the United States	0
+0	1760
+1863	-1
++1	27
+11
+March 26
+2008	Mexico
+Ghana	2
+1	Friendly
+in England	+8
+-8	1871
+1785	0
++1	11
+17
+April 16
+2008	Mexico
+China	1
+0	Friendly
+in the United States	+3
+-3	1874
+1547	+1
+0	10
+69
+June 04
+2008	Argentina
+Mexico	4
+1	Friendly
+in the United States	+11
+-11	2014
+1863	+1
+0	2
+11
+June 08
+2008	Mexico
+Peru	4
+0	Friendly
+in the United States	+7
+-7	1870
+1607	+1
+-1	11
+51
+June 15
+2008	Mexico
+Belize	2
+0	World Cup qualifier
+in the United States	+1
+-1	1871
+1044	+1
+0	11
+181
+June 21
+2008	Mexico
+Belize	7
+0	World Cup qualifier
+in Mexico	0
+0	1871
+1044	-1
+0	11
+181
+August 20
+2008	Mexico
+Honduras	2
+1	World Cup qualifier
+in Mexico	+6
+-6	1877
+1658	0
+0	10
+43
+September 06
+2008	Mexico
+Jamaica	3
+0	World Cup qualifier
+in Mexico	+5
+-5	1882
+1537	+1
+-2	9
+70
+September 10
+2008	Mexico
+Canada	2
+1	World Cup qualifier
+in Mexico	+4
+-4	1886
+1576	+1
+0	8
+58
+September 24
+2008	Chile
+Mexico	1
+0	Friendly
+in the United States	+13
+-13	1773
+1873	+3
+0	20
+8
+October 11
+2008	Jamaica
+Mexico	1
+0	World Cup qualifier
+in Jamaica	+32
+-32	1557
+1841	+12
+-3	65
+11
+October 15
+2008	Canada
+Mexico	2
+2	World Cup qualifier
+in Canada	+9
+-9	1572
+1832	+1
+0	61
+11
+November 12
+2008	Mexico
+Ecuador	2
+1	Friendly
+in the United States	+6
+-6	1838
+1689	0
+-1	11
+41
+November 19
+2008	Honduras
+Mexico	1
+0	World Cup qualifier
+in Honduras	+23
+-23	1706
+1815	+3
+-2	39
+13
+January 28
+2009	Sweden
+Mexico	1
+0	Friendly
+in the United States	+13
+-13	1739
+1802	+4
+-2	30
+15
+February 11
+2009	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+22
+-22	1819
+1780	+5
+-4	12
+19
+March 11
+2009	Mexico
+Bolivia	5
+1	Friendly
+in the United States	+9
+-9	1789
+1574	+1
+-1	18
+58
+March 28
+2009	Mexico
+Costa Rica	2
+0	World Cup qualifier
+in Mexico	+18
+-18	1807
+1718	+5
+-3	13
+35
+April 01
+2009	Honduras
+Mexico	3
+1	World Cup qualifier
+in Honduras	+32
+-32	1713
+1775	+8
+-7	36
+20
+June 06
+2009	El Salvador
+Mexico	2
+1	World Cup qualifier
+in El Salvador	+30
+-30	1522
+1745	+9
+-9	76
+29
+June 10
+2009	Mexico
+Trinidad and Tobago	2
+1	World Cup qualifier
+in Mexico	+6
+-6	1751
+1532	0
+-1	28
+69
+June 24
+2009	Mexico
+Venezuela	4
+0	Friendly
+in the United States	+15
+-15	1766
+1675	+6
+-3	23
+45
+June 28
+2009	Guatemala
+Mexico	0
+0	Friendly
+in the United States	+8
+-8	1421
+1758	+2
+-3	100
+26
+July 05
+2009	Mexico
+Nicaragua	2
+0	Concacaf Gold Cup
+in the United States	+2
+-2	1760
+1092	+1
+0	24
+177
+July 09
+2009	Mexico
+Panama	1
+1	Concacaf Gold Cup
+in the United States	-15
++15	1745
+1534	-5
++8	29
+70
+July 12
+2009	Mexico
+Guadeloupe	2
+0	Concacaf Gold Cup
+in the United States	+15
+-15	1760
+1483	+4
+-3	24
+88
+July 19
+2009	Mexico
+Haiti	4
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1772
+1417	+4
+-2	20
+100
+July 23
+2009	Costa Rica
+Mexico	1
+1	Concacaf Gold Cup
+in the United States	+1
+-1	1757
+1771	0
+0	26
+20
+July 26
+2009	United States
+Mexico	0
+5	Concacaf Gold Cup
+in the United States	-76
++76	1793
+1847	-7
++9	16
+11
+August 12
+2009	Mexico
+United States	2
+1	World Cup qualifier
+in Mexico	+12
+-12	1859
+1781	+1
+-2	10
+18
+September 05
+2009	Costa Rica
+Mexico	0
+3	World Cup qualifier
+in Costa Rica	-32
++32	1694
+1891	-6
++3	40
+7
+September 09
+2009	Mexico
+Honduras	1
+0	World Cup qualifier
+in Mexico	+8
+-8	1899
+1751	0
+-3	7
+28
+September 30
+2009	Colombia
+Mexico	2
+1	Friendly
+in the United States	+15
+-15	1723
+1884	+1
+-1	36
+8
+October 10
+2009	Mexico
+El Salvador	4
+1	World Cup qualifier
+in Mexico	+4
+-4	1888
+1512	+1
+-2	7
+83
+October 14
+2009	Trinidad and Tobago
+Mexico	2
+2	World Cup qualifier
+in Trinidad and Tobago	+13
+-13	1523
+1875	+6
+-1	76
+8
+February 24
+2010	Mexico
+Bolivia	5
+0	Friendly
+in the United States	+6
+-6	1881
+1573	+1
+-2	7
+59
+March 03
+2010	Mexico
+New Zealand	2
+0	Friendly
+in the United States	+4
+-4	1885
+1535	-1
+-2	8
+77
+March 17
+2010	Mexico
+North Korea	2
+1	Friendly
+in Mexico	+1
+-1	1886
+1533	0
+0	8
+78
+March 24
+2010	Iceland
+Mexico	0
+0	Friendly
+in the United States	+9
+-9	1436
+1877	0
+0	98
+8
+May 07
+2010	Ecuador
+Mexico	0
+0	Friendly
+in the United States	+5
+-5	1704
+1872	0
+0	39
+8
+May 10
+2010	Mexico
+Senegal	1
+0	Friendly
+in the United States	+3
+-3	1875
+1546	0
+-1	8
+72
+May 13
+2010	Mexico
+Angola	1
+0	Friendly
+in the United States	+2
+-2	1877
+1477	0
+0	8
+90
+May 16
+2010	Mexico
+Chile	1
+0	Friendly
+in Mexico	+7
+-7	1884
+1848	0
+-1	8
+11
+May 24
+2010	England
+Mexico	3
+1	Friendly
+in England	+8
+-8	1972
+1876	0
+0	4
+8
+May 26
+2010	Netherlands
+Mexico	2
+1	Friendly
+in Germany	+6
+-6	2012
+1870	0
+0	3
+8
+May 30
+2010	Mexico
+Gambia	5
+1	Friendly
+in Germany	+2
+-2	1872
+1409	0
+0	8
+106
+June 03
+2010	Mexico
+Italy	2
+1	Friendly
+in Belgium	+11
+-11	1883
+1912	0
+0	8
+6
+June 11
+2010	South Africa
+Mexico	1
+1	World Cup
+in South Africa	+16
+-16	1598
+1867	+2
+0	53
+8
+June 17
+2010	Mexico
+France	2
+0	World Cup
+in South Africa	+41
+-41	1908
+1794	+2
+-2	7
+15
+June 22
+2010	Uruguay
+Mexico	1
+0	World Cup
+in South Africa	+35
+-35	1890
+1873	+4
+-3	8
+10
+June 27
+2010	Argentina
+Mexico	3
+1	World Cup
+in South Africa	+33
+-33	1999
+1840	0
+-1	4
+11
+August 11
+2010	Mexico
+Spain	1
+1	Friendly
+in Mexico	+5
+-5	1845
+2135	0
+0	11
+1
+September 04
+2010	Mexico
+Ecuador	1
+2	Friendly
+in Mexico	-16
++16	1829
+1711	-1
++3	11
+32
+September 07
+2010	Mexico
+Colombia	1
+0	Friendly
+in Mexico	+5
+-5	1834
+1737	+1
+-1	10
+28
+October 12
+2010	Mexico
+Venezuela	2
+2	Friendly
+in Mexico	-6
++6	1828
+1698	0
++1	11
+34
+February 09
+2011	Mexico
+Bosnia and Herzegovina	2
+0	Friendly
+in the United States	+6
+-6	1834
+1596	0
+-1	11
+55
+March 26
+2011	Mexico
+Paraguay	3
+1	Friendly
+in the United States	+12
+-12	1846
+1755	+1
+-3	10
+24
+March 29
+2011	Mexico
+Venezuela	1
+1	Friendly
+in the United States	-4
++4	1842
+1700	-2
+0	12
+35
+May 28
+2011	Ecuador
+Mexico	1
+1	Friendly
+in the United States	+4
+-4	1704
+1838	0
+0	35
+12
+June 01
+2011	Mexico
+New Zealand	3
+0	Friendly
+in the United States	+6
+-6	1844
+1572	0
+-1	12
+61
+June 05
+2011	Mexico
+El Salvador	5
+0	Concacaf Gold Cup
+in the United States	+11
+-11	1855
+1463	+2
+0	10
+93
+June 09
+2011	Mexico
+Cuba	5
+0	Concacaf Gold Cup
+in the United States	+8
+-8	1863
+1421	+1
+0	9
+101
+June 12
+2011	Mexico
+Costa Rica	4
+1	Concacaf Gold Cup
+in the United States	+21
+-21	1884
+1642	+2
+-7	7
+50
+June 18
+2011	Mexico
+Guatemala	2
+1	Concacaf Gold Cup
+in the United States	+4
+-4	1888
+1435	0
+0	7
+98
+June 22
+2011	Mexico
+Honduras	2
+0	Concacaf Gold Cup
+in the United States	+14
+-14	1902
+1625	+1
+-3	6
+53
+June 25
+2011	United States
+Mexico	2
+4	Concacaf Gold Cup
+in the United States	-32
++32	1715
+1934	-7
++1	33
+5
+July 04
+2011	Chile
+Mexico	2
+1	Copa América
+in Argentina	+29
+-29	1913
+1905	+3
+-1	5
+6
+July 08
+2011	Peru
+Mexico	1
+0	Copa América
+in Argentina	+41
+-41	1687
+1864	+10
+-3	37
+9
+July 12
+2011	Uruguay
+Mexico	1
+0	Copa América
+in Argentina	+27
+-27	1870
+1837	+2
+-2	9
+11
+August 10
+2011	United States
+Mexico	1
+1	Friendly
+in the United States	+1
+-1	1716
+1836	+1
+-1	34
+12
+September 02
+2011	Poland
+Mexico	1
+1	Friendly
+in Poland	+2
+-2	1663
+1834	+2
+0	40
+12
+September 04
+2011	Mexico
+Chile	1
+0	Friendly
+in Spain	+11
+-11	1845
+1868	0
+0	12
+9
+October 11
+2011	Mexico
+Brazil	1
+2	Friendly
+in Mexico	-8
++8	1837
+2033	-3
+0	13
+4
+November 11
+2011	Mexico
+Serbia	2
+0	Friendly
+in Mexico	+7
+-7	1844
+1710	+2
+0	11
+35
+January 25
+2012	Mexico
+Venezuela	3
+1	Friendly
+in the United States	+9
+-9	1853
+1680	0
+-1	12
+38
+February 29
+2012	Colombia
+Mexico	2
+0	Friendly
+in the United States	+19
+-19	1766
+1834	+3
+-2	23
+13
+May 27
+2012	Mexico
+Wales	2
+0	Friendly
+in the United States	+6
+-6	1840
+1600	0
+-1	13
+57
+May 31
+2012	Mexico
+Bosnia and Herzegovina	2
+1	Friendly
+in the United States	+5
+-5	1845
+1656	0
+-2	13
+43
+June 03
+2012	Mexico
+Brazil	2
+0	Friendly
+in the United States	+23
+-23	1868
+2031	+2
+-1	9
+3
+June 08
+2012	Mexico
+Guyana	3
+1	World Cup qualifier
+in Mexico	+2
+-2	1870
+1354	0
+-3	9
+118
+June 12
+2012	El Salvador
+Mexico	1
+2	World Cup qualifier
+in El Salvador	-9
++9	1547
+1879	-3
++1	71
+9
+August 15
+2012	Mexico
+United States	0
+1	Friendly
+in Mexico	-16
++16	1863
+1739	0
++3	11
+26
+September 07
+2012	Costa Rica
+Mexico	0
+2	World Cup qualifier
+in Costa Rica	-20
++20	1623
+1883	-6
++2	51
+9
+September 11
+2012	Mexico
+Costa Rica	1
+0	World Cup qualifier
+in Mexico	+4
+-4	1887
+1619	0
+-1	9
+49
+October 12
+2012	Guyana
+Mexico	0
+5	World Cup qualifier
+in the United States	-3
++3	1327
+1890	-3
++1	125
+8
+October 16
+2012	Mexico
+El Salvador	2
+0	World Cup qualifier
+in Mexico	+4
+-4	1894
+1520	0
+-1	8
+78
+January 30
+2013	Denmark
+Mexico	1
+1	Friendly
+in the United States	+4
+-4	1761
+1890	+2
+0	22
+7
+February 06
+2013	Mexico
+Jamaica	0
+0	World Cup qualifier
+in Mexico	-17
++17	1873
+1563	-2
++7	9
+66
+March 22
+2013	Honduras
+Mexico	2
+2	World Cup qualifier
+in Honduras	+6
+-6	1672
+1867	+2
+-1	38
+10
+March 26
+2013	Mexico
+United States	0
+0	World Cup qualifier
+in Mexico	-12
++12	1855
+1746	-2
++3	13
+25
+April 17
+2013	Mexico
+Peru	0
+0	Friendly
+in the United States	-4
++4	1851
+1730	0
+0	13
+30
+May 31
+2013	Mexico
+Nigeria	2
+2	Friendly
+in the United States	-4
++4	1847
+1706	-1
+0	14
+34
+June 04
+2013	Jamaica
+Mexico	0
+1	World Cup qualifier
+in Jamaica	-10
++10	1539
+1857	-5
++2	73
+12
+June 07
+2013	Panama
+Mexico	0
+0	World Cup qualifier
+in Panama	+4
+-4	1690
+1853	0
++2	36
+10
+June 11
+2013	Mexico
+Costa Rica	0
+0	World Cup qualifier
+in Mexico	-13
++13	1840
+1708	-2
++2	12
+33
+June 16
+2013	Italy
+Mexico	2
+1	Confederations Cup
+in Brazil	+22
+-22	1907
+1818	+1
+-5	7
+17
+June 19
+2013	Brazil
+Mexico	2
+0	Confederations Cup
+in Brazil	+11
+-11	2039
+1807	+1
+-2	2
+19
+June 22
+2013	Mexico
+Japan	2
+1	Confederations Cup
+in Brazil	+20
+-20	1827
+1717	+4
+-2	15
+30
+July 07
+2013	Panama
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+37
+-37	1691
+1790	+8
+-5	36
+20
+July 11
+2013	Mexico
+Canada	2
+0	Concacaf Gold Cup
+in the United States	+12
+-12	1802
+1492	+1
+-2	19
+86
+July 14
+2013	Mexico
+Martinique	3
+1	Concacaf Gold Cup
+in the United States	+8
+-8	1810
+1417	0
+0	19
+101
+July 20
+2013	Mexico
+Trinidad and Tobago	1
+0	Concacaf Gold Cup
+in the United States	+5
+-5	1815
+1433	+1
+-1	18
+99
+July 24
+2013	Panama
+Mexico	2
+1	Concacaf Gold Cup
+in the United States	+33
+-33	1738
+1782	+3
+-2	28
+21
+August 14
+2013	Mexico
+Ivory Coast	4
+1	Friendly
+in the United States	+20
+-20	1802
+1806	0
+-3	21
+19
+September 06
+2013	Mexico
+Honduras	1
+2	World Cup qualifier
+in Mexico	-34
++34	1768
+1649	-2
++9	23
+44
+September 10
+2013	United States
+Mexico	2
+0	World Cup qualifier
+in the United States	+18
+-18	1835
+1750	+2
+-2	15
+25
+October 11
+2013	Mexico
+Panama	2
+1	World Cup qualifier
+in Mexico	+13
+-13	1763
+1701	+2
+-5	23
+33
+October 15
+2013	Costa Rica
+Mexico	2
+1	World Cup qualifier
+in Costa Rica	+17
+-17	1725
+1746	+3
+-1	27
+24
+November 13
+2013	Mexico
+New Zealand	5
+1	World Cup qualifier
+in Mexico	+15
+-15	1761
+1583	0
+-1	24
+57
+November 20
+2013	New Zealand
+Mexico	2
+4	World Cup qualifier
+in New Zealand	-23
++23	1560
+1784	-9
++1	67
+22
+January 29
+2014	Mexico
+South Korea	4
+0	Friendly
+in the United States	+13
+-13	1797
+1671	+2
+-3	20
+42
+March 05
+2014	Mexico
+Nigeria	0
+0	Friendly
+in the United States	-2
++2	1795
+1720	+1
++1	19
+29
+April 02
+2014	United States
+Mexico	2
+2	Friendly
+in the United States	-4
++4	1825
+1799	0
+0	13
+19

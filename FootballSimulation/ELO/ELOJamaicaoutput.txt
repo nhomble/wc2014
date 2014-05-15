@@ -1,0 +1,523 @@
+1925 71 away Jamaica Haiti 0 1 Friendly
+1925 84 away Jamaica Haiti 1 2 Friendly tournament
+1925 88 away Jamaica Haiti 0 3 Friendly tournament
+1925 91 away Jamaica Haiti 0 1 Friendly tournament
+1926 336 home Jamaica Haiti 6 0 Friendly
+1930 78 away Jamaica Cuba 3 1 Central American Games
+1930 80 away Jamaica Honduras 5 1 Central American Games
+1932 75 away Jamaica Haiti 4 1 Friendly tournament
+1932 82 away Jamaica Haiti 0 1 Friendly tournament
+1935 369 home Jamaica TrinidadTobago 2 3 Friendly tournament
+1936 2 home Jamaica TrinidadTobago 0 1 Friendly tournament
+1936 9 home Jamaica TrinidadTobago 1 2 Friendly tournament
+1938 75 away Jamaica Haiti 5 2 Friendly tournament
+1938 79 away Jamaica Haiti 2 0 Friendly tournament
+1938 82 away Jamaica Haiti 2 0 Friendly tournament
+1947 42 home Jamaica TrinidadTobago 0 0 Friendly tournament
+1947 46 home Jamaica TrinidadTobago 2 1 Friendly tournament
+1947 50 home Jamaica TrinidadTobago 1 0 Friendly tournament
+1947 53 home Jamaica TrinidadTobago 1 2 Friendly tournament
+1947 57 home Jamaica TrinidadTobago 0 6 Friendly tournament
+1947 313 away Jamaica TrinidadTobago 1 0 Friendly tournament
+1947 316 away Jamaica Guyana 2 0 Friendly tournament
+1947 318 away Jamaica TrinidadTobago 6 0 Friendly tournament
+1947 320 away Jamaica Guyana 0 0 Friendly tournament
+1947 322 away Jamaica TrinidadTobago 1 0 Friendly tournament
+1948 1 home Jamaica TrinidadTobago 3 1 Friendly tournament
+1948 2 home Jamaica TrinidadTobago 1 2 Friendly tournament
+1948 164 home Jamaica Cuba 3 0 Friendly tournament
+1948 167 home Jamaica Cuba 1 1 Friendly tournament
+1948 288 home Jamaica Haiti 1 0 Friendly tournament
+1948 290 home Jamaica Haiti 3 0 Friendly tournament
+1948 292 home Jamaica Haiti 1 2 Friendly tournament
+1949 126 home Jamaica TrinidadTobago 3 1 Friendly tournament
+1949 128 home Jamaica TrinidadTobago 2 1 Friendly tournament
+1949 131 home Jamaica TrinidadTobago 1 2 Friendly tournament
+1949 359 home Jamaica Cuba 5 2 Friendly tournament
+1949 361 away Jamaica Haiti 2 0 Friendly tournament
+1950 293 home Jamaica Haiti 2 1 Friendly
+1951 149 away Jamaica Barbados 3 0 Friendly
+1951 150 away Jamaica Barbados 0 1 Friendly
+1951 152 away Jamaica Barbados 5 2 Friendly
+1951 365 home Jamaica Haiti 2 1 Friendly tournament
+1951 367 home Jamaica Haiti 2 2 Friendly tournament
+1951 368 home Jamaica Haiti 0 1 Friendly tournament
+1952 205 away Jamaica Haiti 4 1 Friendly tournament
+1952 206 away Jamaica Haiti 3 3 Friendly tournament
+1952 209 away Jamaica Haiti 2 0 Friendly tournament
+1952 213 away Jamaica Haiti 3 2 Friendly tournament
+1953 324 away Jamaica Haiti 4 1 Friendly tournament
+1953 331 away Jamaica Haiti 1 0 Friendly tournament
+1957 1 home Jamaica TrinidadTobago 1 0 Friendly
+1957 2 home Jamaica TrinidadTobago 2 1 Friendly
+1957 3 home Jamaica TrinidadTobago 2 0 Friendly
+1958 128 away Jamaica TrinidadTobago 1 0 Friendly tournament
+1958 135 away Jamaica TrinidadTobago 4 0 Friendly tournament
+1958 137 away Jamaica TrinidadTobago 0 1 Friendly tournament
+1959 63 away Jamaica Guyana 2 2 Friendly tournament
+1959 66 home Jamaica Barbados 3 1 Friendly tournament
+1959 72 away Jamaica TrinidadTobago 2 1 Friendly tournament
+1961 1 home Jamaica DutchGuiana 5 0 Friendly
+1962 141 home Jamaica Haiti 2 5 Friendly tournament
+1962 143 home Jamaica Haiti 3 4 Friendly tournament
+1962 145 home Jamaica Haiti 1 3 Friendly tournament
+1962 193 home Jamaica NetherlandsAntilles 4 4 Friendly tournament
+1962 195 home Jamaica NetherlandsAntilles 2 1 Friendly tournament
+1962 197 home Jamaica NetherlandsAntilles 1 2 Friendly tournament
+1962 228 home Jamaica Venezuela 0 2 Central American and Caribbean Games
+1962 230 home Jamaica Cuba 6 1 Central American and Caribbean Games
+1962 237 home Jamaica NetherlandsAntilles 1 3 Central American and Caribbean Games
+1962 241 home Jamaica PuertoRico 6 1 Central American and Caribbean Games
+1963 54 home Jamaica Haiti 3 2 Friendly tournament
+1963 58 home Jamaica NetherlandsAntilles 1 2 Friendly tournament
+1963 66 home Jamaica NetherlandsAntilles 1 2 Friendly tournament
+1963 68 home Jamaica Haiti 0 3 Friendly tournament
+1963 86 away Jamaica CostaRica 6 0 Concacaf Championship
+1963 90 away Jamaica Mexico 8 0 Concacaf Championship
+1963 92 away Jamaica NetherlandsAntilles 2 1 Concacaf Championship
+1963 222 home Jamaica ElSalvador 0 1 Friendly tournament
+1963 224 home Jamaica ElSalvador 0 0 Friendly tournament
+1963 226 home Jamaica ElSalvador 1 1 Friendly tournament
+1965 16 home Jamaica Cuba 2 0 World Cup qualifier
+1965 23 home Jamaica NetherlandsAntilles 2 0 World Cup qualifier
+1965 34 home Jamaica NetherlandsAntilles 0 0 World Cup qualifier
+1965 39 away Jamaica Cuba 2 1 World Cup qualifier
+1965 127 home Jamaica Mexico 2 3 World Cup qualifier
+1965 131 away Jamaica Mexico 8 0 World Cup qualifier
+1965 135 away Jamaica CostaRica 7 0 World Cup qualifier
+1965 146 home Jamaica CostaRica 1 1 World Cup qualifier
+1965 222 home Jamaica TrinidadTobago 4 0 Friendly
+1966 156 away Jamaica TrinidadTobago 4 1 Friendly tournament
+1966 167 away Jamaica Cuba 7 0 Central American and Caribbean Games
+1966 169 away Jamaica PuertoRico 0 4 Central American and Caribbean Games
+1966 173 away Jamaica NetherlandsAntilles 1 0 Central American and Caribbean Games
+1966 177 away Jamaica ElSalvador 1 0 Central American and Caribbean Games
+1967 18 home Jamaica TrinidadTobago 1 1 Friendly
+1967 335 away Jamaica TrinidadTobago 1 0 Friendly tournament
+1967 343 away Jamaica TrinidadTobago 1 0 Friendly tournament
+1968 337 away Jamaica CostaRica 3 0 World Cup qualifier
+1968 342 away Jamaica CostaRica 3 1 World Cup qualifier
+1968 346 away Jamaica Honduras 3 1 World Cup qualifier
+1968 349 away Jamaica Honduras 2 0 World Cup qualifier
+1969 32 home Jamaica Haiti 2 1 Friendly tournament
+1969 33 home Jamaica Haiti 0 3 Friendly tournament
+1969 313 home Jamaica Panama 1 1 Concacaf Championship qualifier
+1969 315 home Jamaica Panama 2 1 Concacaf Championship qualifier
+1969 334 away Jamaica Guatemala 0 0 Concacaf Championship
+1969 338 away Jamaica Mexico 2 0 Concacaf Championship
+1969 342 away Jamaica NetherlandsAntilles 2 1 Concacaf Championship
+1969 344 away Jamaica TrinidadTobago 3 2 Concacaf Championship
+1969 349 away Jamaica CostaRica 3 0 Concacaf Championship
+1971 249 home Jamaica NetherlandsAntilles 2 1 Olympic Games qualifier
+1971 256 away Jamaica NetherlandsAntilles 1 1 Olympic Games qualifier
+1972 16 home Jamaica UnitedStates 1 1 Olympic Games qualifier
+1972 23 away Jamaica Guatemala 1 0 Olympic Games qualifier
+1972 134 home Jamaica Guatemala 0 0 Olympic Games qualifier
+1972 138 away Jamaica UnitedStates 2 1 Olympic Games qualifier
+1973 314 away Jamaica Guyana 2 1 Friendly tournament
+1974 90 home Jamaica Uruguay 0 3 Friendly
+1975 75 home Jamaica DominicanRepublic 1 0 Olympic Games qualifier
+1975 82 away Jamaica DominicanRepublic 1 2 Olympic Games qualifier
+1975 102 home Jamaica Mexico 3 1 Friendly
+1975 113 away Jamaica Cuba 1 0 Olympic Games qualifier
+1975 120 home Jamaica Cuba 1 0 Olympic Games qualifier
+1975 129 away Jamaica Cuba 4 1 Olympic Games qualifier
+1976 232 home Jamaica Cuba 1 3 World Cup qualifier
+1976 246 away Jamaica Cuba 2 0 World Cup qualifier
+1977 303 home Jamaica China 0 1 Friendly
+1977 311 home Jamaica China 0 3 Friendly
+1978 188 away Jamaica Guadeloupe 1 0 CFU Championship qualifier
+1978 216 home Jamaica Guadeloupe 1 2 CFU Championship qualifier
+1979 94 home Jamaica Cuba 0 3 Olympic Games qualifier
+1979 151 away Jamaica Cuba 2 0 Olympic Games qualifier
+1979 158 home Jamaica SaintKitts 2 1 CFU Championship qualifier
+1979 172 home Jamaica SaintKitts 2 1 CFU Championship qualifier
+1979 282 home Jamaica Haiti 0 4 CFU Championship qualifier
+1979 312 away Jamaica Haiti 3 0 CFU Championship qualifier
+1981 174 home Jamaica TrinidadTobago 2 0 CFU Championship qualifier
+1981 192 home Jamaica TrinidadTobago 0 4 CFU Championship qualifier
+1983 63 home Jamaica Cuba 0 1 Olympic Games qualifier
+1983 70 away Jamaica Cuba 4 1 Olympic Games qualifier
+1984 125 home Jamaica Haiti 0 1 Friendly
+1985 75 home Jamaica Canada 1 1 Friendly
+1985 79 home Jamaica Canada 0 0 Friendly
+1985 113 away Jamaica Barbados 2 2 Friendly
+1986 36 away Jamaica Paraguay 4 1 Friendly
+1987 105 away Jamaica Cuba 2 2 Friendly
+1987 122 home Jamaica Cuba 2 0 Friendly
+1988 98 home Jamaica Canada 0 4 Friendly
+1988 100 home Jamaica Canada 0 0 Friendly
+1988 136 home Jamaica PuertoRico 1 0 World Cup qualifier
+1988 153 away Jamaica PuertoRico 1 2 World Cup qualifier
+1988 196 home Jamaica Barbados 0 0 Friendly
+1988 210 home Jamaica UnitedStates 0 0 World Cup qualifier
+1988 230 away Jamaica UnitedStates 5 1 World Cup qualifier
+1989 74 home Jamaica Paraguay 0 3 Friendly
+1989 116 away Jamaica Antigua and Barbuda 1 0 Caribbean Cup qualifier
+1989 125 away Jamaica Dominica 1 1 Caribbean Cup qualifier
+1989 126 home Jamaica Guadeloupe 0 3 Caribbean Cup qualifier
+1989 173 home Jamaica SaintLucia 1 1 Caribbean Cup qualifier
+1990 213 away Jamaica TrinidadTobago 0 0 Caribbean Cup
+1990 215 away Jamaica Grenada 0 0 Caribbean Cup
+1991 147 home Jamaica Guyana 6 0 Caribbean Cup
+1991 151 home Jamaica CaymanIslands 3 2 Caribbean Cup
+1991 154 home Jamaica SaintLucia 2 0 Caribbean Cup
+1991 157 home Jamaica TrinidadTobago 2 0 Caribbean Cup
+1991 183 away Jamaica Mexico 4 1 Concacaf Gold Cup
+1991 185 away Jamaica Honduras 5 0 Concacaf Gold Cup
+1991 189 away Jamaica Canada 3 2 Concacaf Gold Cup
+1991 260 away Jamaica Bermuda 1 1 Friendly
+1991 262 away Jamaica UnitedStates 1 0 Friendly
+1992 105 home Jamaica Bermuda 0 0 Friendly
+1992 147 home Jamaica PuertoRico 2 1 World Cup qualifier
+1992 154 away Jamaica PuertoRico 0 1 World Cup qualifier
+1992 172 away Jamaica Cuba 0 0 Caribbean Cup
+1992 174 away Jamaica Guadeloupe 0 1 Caribbean Cup
+1992 176 home Jamaica St. Vincent & Grenadines 2 0 Caribbean Cup
+1992 179 home Jamaica Martinique 1 0 Caribbean Cup
+1992 182 away Jamaica TrinidadTobago 3 1 Caribbean Cup
+1992 191 away Jamaica TrinidadTobago 1 2 World Cup qualifier
+1992 235 home Jamaica TrinidadTobago 1 1 World Cup qualifier
+1992 270 away Jamaica Honduras 5 1 Friendly
+1992 272 away Jamaica Honduras 7 0 Friendly
+1992 275 away Jamaica St. Vincent & Grenadines 0 1 Friendly
+1992 283 home Jamaica St. Vincent & Grenadines 3 3 Friendly
+1992 297 home Jamaica Canada 1 1 World Cup qualifier
+1992 304 away Jamaica Bermuda 1 1 World Cup qualifier
+1992 311 away Jamaica Canada 1 0 World Cup qualifier
+1992 318 home Jamaica Bermuda 3 2 World Cup qualifier
+1992 332 home Jamaica ElSalvador 0 2 World Cup qualifier
+1992 343 away Jamaica Guatemala 2 1 Friendly
+1992 347 away Jamaica ElSalvador 2 1 World Cup qualifier
+1993 145 home Jamaica SaintKitts 4 1 Caribbean Cup
+1993 147 home Jamaica PuertoRico 1 0 Caribbean Cup
+1993 149 home Jamaica SintMaarten 2 0 Caribbean Cup
+1993 152 home Jamaica TrinidadTobago 3 0 Caribbean Cup
+1993 154 home Jamaica Martinique 0 0 Caribbean Cup
+1993 190 home Jamaica CostaRica 1 1 Friendly
+1993 196 away Jamaica UnitedStates 1 0 Concacaf Gold Cup
+1993 200 home Jamaica Honduras 3 1 Concacaf Gold Cup
+1993 203 home Jamaica Panama 1 1 Concacaf Gold Cup
+1993 208 away Jamaica Mexico 6 1 Concacaf Gold Cup
+1993 211 away Jamaica CostaRica 1 1 Concacaf Gold Cup
+1993 317 away Jamaica UnitedStates 1 0 Friendly
+1994 64 home Jamaica SintMaarten 3 2 Caribbean Cup qualifier
+1994 66 home Jamaica BritishVirgin 12 0 Caribbean Cup qualifier
+1994 68 away Jamaica CaymanIslands 3 2 Caribbean Cup qualifier
+1994 332 home Jamaica UnitedStates 0 3 Friendly
+1995 74 home Jamaica Cuba 0 0 Friendly
+1995 205 home Jamaica SaintLucia 2 1 Caribbean Cup
+1995 207 home Jamaica Cuba 1 2 Caribbean Cup
+1995 209 home Jamaica TrinidadTobago 1 0 Caribbean Cup
+1995 218 away Jamaica Canada 3 1 Caribana Cup
+1995 223 home Jamaica TrinidadTobago 1 0 Caribana Cup
+1995 235 home Jamaica Zambia 1 1 Friendly
+1995 237 home Jamaica Zambia 3 1 Friendly
+1995 272 away Jamaica TrinidadTobago 1 0 Friendly
+1995 275 home Jamaica CostaRica 2 0 Friendly
+1995 297 home Jamaica Honduras 1 0 Friendly
+1995 299 home Jamaica TrinidadTobago 1 0 Friendly
+1995 301 away Jamaica CaymanIslands 1 5 Friendly
+1995 312 away Jamaica Zambia 1 0 Friendly
+1995 315 away Jamaica Zambia 4 2 Friendly
+1995 336 home Jamaica Norway 1 1 Friendly
+1995 344 away Jamaica Antigua and Barbuda 1 2 Friendly
+1995 347 away Jamaica SaintKitts 0 3 Friendly
+1995 361 home Jamaica Mexico 2 1 Friendly
+1996 14 home Jamaica Cuba 1 1 Friendly
+1996 65 home Jamaica Guatemala 2 0 Friendly
+1996 93 away Jamaica Surinam 0 1 World Cup qualifier
+1996 114 home Jamaica Surinam 1 0 World Cup qualifier
+1996 117 home Jamaica Barbados 2 0 Caribbean Cup qualifier
+1996 121 away Jamaica Barbados 2 0 Caribbean Cup qualifier
+1996 148 away Jamaica TrinidadTobago 1 0 Caribbean Cup
+1996 150 home Jamaica SaintKitts 3 1 Caribbean Cup
+1996 152 away Jamaica Surinam 3 1 Caribbean Cup
+1996 178 away Jamaica Barbados 0 1 World Cup qualifier
+1996 185 home Jamaica Barbados 2 0 World Cup qualifier
+1996 241 away Jamaica Panama 2 0 Friendly
+1996 244 away Jamaica Guatemala 2 1 Friendly
+1996 252 home Jamaica CostaRica 2 0 Friendly
+1996 263 home Jamaica Honduras 3 0 World Cup qualifier
+1996 271 away Jamaica St. Vincent & Grenadines 1 2 World Cup qualifier
+1996 283 away Jamaica Ecuador 2 1 Friendly
+1996 288 away Jamaica CostaRica 0 0 Friendly
+1996 295 away Jamaica Mexico 2 1 World Cup qualifier
+1996 305 away Jamaica Honduras 0 0 World Cup qualifier
+1996 320 home Jamaica St. Vincent & Grenadines 5 0 World Cup qualifier
+1996 327 home Jamaica Mexico 1 0 World Cup qualifier
+1997 43 home Jamaica Venezuela 0 0 Friendly
+1997 52 home Jamaica Bermuda 1 0 Caribbean Cup qualifier
+1997 58 away Jamaica Bermuda 2 3 Caribbean Cup qualifier
+1997 64 home Jamaica UnitedStates 0 0 World Cup qualifier
+1997 85 away Jamaica Bolivia 6 0 Friendly
+1997 106 away Jamaica Mexico 6 0 World Cup qualifier
+1997 120 away Jamaica Canada 0 0 World Cup qualifier
+1997 125 away Jamaica TrinidadTobago 1 1 Friendly
+1997 128 away Jamaica Aruba 0 6 Caribbean Cup qualifier
+1997 135 away Jamaica CostaRica 3 1 World Cup qualifier
+1997 142 home Jamaica ElSalvador 1 0 World Cup qualifier
+1997 184 home Jamaica Cuba 3 0 Friendly
+1997 190 away Jamaica Grenada 1 1 Caribbean Cup
+1997 194 away Jamaica Antigua and Barbuda 0 2 Caribbean Cup
+1997 196 away Jamaica TrinidadTobago 1 1 Caribbean Cup
+1997 199 home Jamaica Grenada 4 1 Caribbean Cup
+1997 223 home Jamaica Colombia 1 0 Friendly
+1997 248 home Jamaica TrinidadTobago 6 1 Friendly
+1997 255 home Jamaica Canada 1 0 World Cup qualifier
+1997 262 home Jamaica CostaRica 1 0 World Cup qualifier
+1997 282 away Jamaica UnitedStates 1 1 World Cup qualifier
+1997 297 away Jamaica Haiti 0 1 Friendly
+1997 303 away Jamaica SaintLucia 1 3 Friendly
+1997 305 away Jamaica Antigua and Barbuda 0 3 Friendly
+1997 308 away Jamaica SaintKitts 1 1 Friendly
+1997 319 away Jamaica ElSalvador 2 2 World Cup qualifier
+1997 326 home Jamaica Mexico 0 0 World Cup qualifier
+1997 333 away Jamaica TrinidadTobago 0 0 Friendly
+1998 7 away Jamaica TrinidadTobago 0 0 Friendly
+1998 29 home Jamaica Sweden 0 0 Friendly
+1998 34 home Jamaica Brazil 0 0 Concacaf Gold Cup
+1998 39 home Jamaica Guatemala 3 2 Concacaf Gold Cup
+1998 40 home Jamaica ElSalvador 2 0 Concacaf Gold Cup
+1998 43 away Jamaica Mexico 1 0 Concacaf Gold Cup
+1998 46 away Jamaica Brazil 1 0 Concacaf Gold Cup
+1998 53 home Jamaica Nigeria 2 2 Friendly
+1998 87 away Jamaica Wales 0 0 Friendly
+1998 113 away Jamaica Macedonia 2 1 Friendly tournament
+1998 115 away Jamaica Iran 1 0 Friendly tournament
+1998 128 away Jamaica SaudiArabia 0 0 Friendly
+1998 140 away Jamaica SouthKorea 2 1 Friendly
+1998 143 away Jamaica SouthKorea 0 0 Friendly
+1998 169 away Jamaica Croatia 3 1 World Cup
+1998 176 away Jamaica Argentina 5 0 World Cup
+1998 181 home Jamaica Japan 2 1 World Cup
+1998 208 home Jamaica CaymanIslands 4 0 Caribbean Cup
+1998 210 home Jamaica NetherlandsAntilles 3 2 Caribbean Cup
+1998 212 home Jamaica Haiti 2 1 Caribbean Cup
+1998 215 home Jamaica Antigua and Barbuda 1 0 Caribbean Cup
+1998 217 away Jamaica TrinidadTobago 1 2 Caribbean Cup
+1999 41 home Jamaica CostaRica 1 1 Friendly
+1999 55 away Jamaica CostaRica 9 0 Friendly
+1999 65 away Jamaica Bolivia 0 0 Copa Guatemala
+1999 67 away Jamaica Paraguay 3 1 Copa Guatemala
+1999 69 away Jamaica Guatemala 2 4 Copa Guatemala
+1999 90 away Jamaica TrinidadTobago 2 0 Friendly
+1999 93 home Jamaica Paraguay 3 0 Friendly
+1999 133 home Jamaica SouthAfrica 1 1 Friendly
+1999 144 away Jamaica Norway 6 0 Friendly
+1999 151 away Jamaica Sweden 2 1 Friendly
+1999 158 away Jamaica TrinidadTobago 1 0 Caribbean Cup
+1999 160 home Jamaica Guadeloupe 5 1 Caribbean Cup
+1999 162 home Jamaica Grenada 2 1 Caribbean Cup
+1999 165 away Jamaica Cuba 2 0 Caribbean Cup
+1999 199 home Jamaica SaudiArabia 2 1 Friendly
+1999 201 away Jamaica SaudiArabia 4 0 Friendly
+1999 224 away Jamaica Ghana 2 1 Friendly
+1999 250 away Jamaica Canada 1 0 Friendly
+1999 256 home Jamaica UnitedStates 2 2 Friendly
+1999 303 away Jamaica CaymanIslands 1 4 Friendly
+2000 16 home Jamaica NewZealand 2 1 Friendly tournament
+2000 37 away Jamaica CaymanIslands 0 0 Friendly
+2000 40 away Jamaica CaymanIslands 0 1 Friendly
+2000 43 away Jamaica Colombia 1 0 Concacaf Gold Cup
+2000 45 away Jamaica Honduras 2 0 Concacaf Gold Cup
+2000 138 home Jamaica Panama 0 1 Friendly
+2000 151 away Jamaica Colombia 3 0 Friendly
+2000 159 away Jamaica Morocco 1 0 King Hassan Cup
+2000 161 away Jamaica Japan 4 0 King Hassan Cup
+2000 188 home Jamaica Cuba 1 1 Friendly
+2000 191 home Jamaica Barbados 5 0 Friendly
+2000 194 away Jamaica TrinidadTobago 2 4 Friendly
+2000 202 away Jamaica St. Vincent & Grenadines 0 1 World Cup qualifier
+2000 209 home Jamaica Honduras 3 1 World Cup qualifier
+2000 233 home Jamaica ElSalvador 1 0 World Cup qualifier
+2000 244 away Jamaica CaymanIslands 0 6 Friendly
+2000 251 home Jamaica St. Vincent & Grenadines 2 0 World Cup qualifier
+2000 287 away Jamaica Honduras 1 0 World Cup qualifier
+2000 325 away Jamaica ElSalvador 2 0 World Cup qualifier
+2001 26 home Jamaica Bolivia 3 0 Friendly
+2001 28 home Jamaica Bulgaria 0 0 Friendly
+2001 59 home Jamaica TrinidadTobago 1 0 World Cup qualifier
+2001 87 away Jamaica Mexico 4 0 World Cup qualifier
+2001 118 home Jamaica Honduras 1 1 World Cup qualifier
+2001 139 home Jamaica Martinique 1 0 Caribbean Cup
+2001 141 away Jamaica TrinidadTobago 2 1 Caribbean Cup
+2001 143 home Jamaica Barbados 2 1 Caribbean Cup
+2001 165 home Jamaica Cuba 4 1 Friendly
+2001 171 home Jamaica UnitedStates 0 0 World Cup qualifier
+2001 175 away Jamaica CostaRica 2 1 World Cup qualifier
+2001 185 away Jamaica TrinidadTobago 1 2 World Cup qualifier
+2001 206 away Jamaica Cuba 0 0 Friendly
+2001 213 home Jamaica Martinique 0 0 Friendly tournament
+2001 216 away Jamaica SaintKitts 0 0 Friendly tournament
+2001 218 away Jamaica Grenada 2 0 Friendly
+2001 250 home Jamaica Mexico 1 2 World Cup qualifier
+2001 253 away Jamaica Honduras 1 0 World Cup qualifier
+2001 286 away Jamaica UnitedStates 2 1 World Cup qualifier
+2001 321 home Jamaica CostaRica 0 1 World Cup qualifier
+2002 140 away Jamaica UnitedStates 5 0 Friendly
+2002 142 away Jamaica Nigeria 1 0 Friendly
+2002 219 away Jamaica Grenada 0 1 Friendly
+2002 228 away Jamaica SaintLucia 1 3 Friendly
+2002 246 home Jamaica India 3 0 Friendly
+2002 249 away Jamaica India 0 0 Friendly
+2002 295 away Jamaica Japan 1 1 Friendly
+2002 310 away Jamaica Guatemala 1 1 Friendly
+2002 319 away Jamaica Barbados 1 1 Concacaf Gold Cup qualifier
+2002 321 home Jamaica Guadeloupe 2 0 Concacaf Gold Cup qualifier
+2002 323 away Jamaica Grenada 1 4 Concacaf Gold Cup qualifier
+2002 330 away Jamaica Nigeria 0 0 Friendly
+2003 12 away Jamaica Barbados 1 0 Friendly
+2003 43 home Jamaica UnitedStates 1 2 Friendly
+2003 73 away Jamaica Cuba 0 0 Friendly
+2003 75 away Jamaica Cuba 1 0 Friendly
+2003 85 home Jamaica Barbados 2 1 Friendly
+2003 88 home Jamaica SaintLucia 5 0 Concacaf Gold Cup qualifier
+2003 90 home Jamaica Martinique 2 2 Concacaf Gold Cup qualifier
+2003 92 home Jamaica Haiti 3 0 Concacaf Gold Cup qualifier
+2003 95 away Jamaica Venezuela 2 0 Friendly
+2003 123 away Jamaica SouthAfrica 0 0 Friendly
+2003 149 home Jamaica Nigeria 3 2 Friendly
+2003 192 home Jamaica Cuba 1 2 Friendly
+2003 195 home Jamaica Paraguay 2 0 Friendly
+2003 199 away Jamaica Colombia 1 0 Concacaf Gold Cup
+2003 201 home Jamaica Guatemala 2 0 Concacaf Gold Cup
+2003 206 away Jamaica Mexico 5 0 Concacaf Gold Cup
+2003 255 away Jamaica Australia 2 1 Friendly
+2003 291 away Jamaica Brazil 1 0 Friendly
+2003 326 home Jamaica ElSalvador 3 0 Friendly
+2004 49 home Jamaica Uruguay 2 0 Friendly
+2004 93 home Jamaica Honduras 2 2 Friendly
+2004 121 home Jamaica Venezuela 2 1 Friendly
+2004 155 away Jamaica Nigeria 2 0 Friendly tournament
+2004 157 away Jamaica Ireland 1 0 Friendly tournament
+2004 167 away Jamaica Haiti 1 1 World Cup qualifier
+2004 175 home Jamaica Haiti 3 0 World Cup qualifier
+2004 235 home Jamaica UnitedStates 1 1 World Cup qualifier
+2004 252 home Jamaica Panama 1 2 World Cup qualifier
+2004 256 away Jamaica ElSalvador 0 3 World Cup qualifier
+2004 281 away Jamaica Guatemala 2 2 Friendly
+2004 288 away Jamaica Panama 1 1 World Cup qualifier
+2004 292 home Jamaica ElSalvador 0 0 World Cup qualifier
+2004 327 away Jamaica UnitedStates 1 1 World Cup qualifier
+2004 334 home Jamaica SaintMartin 12 0 Caribbean Cup qualifier
+2004 336 home Jamaica USVirgin 11 1 Caribbean Cup qualifier
+2004 338 home Jamaica Haiti 3 1 Caribbean Cup qualifier
+2004 353 away Jamaica SaintLucia 1 1 Caribbean Cup qualifier
+2004 360 home Jamaica SaintLucia 2 1 Caribbean Cup qualifier
+2005 8 home Jamaica FrenchGuiana 5 0 Caribbean Cup qualifier
+2005 15 away Jamaica FrenchGuiana 0 0 Caribbean Cup qualifier
+2005 51 home Jamaica TrinidadTobago 2 1 Caribbean Cup
+2005 53 away Jamaica Barbados 0 1 Caribbean Cup
+2005 55 home Jamaica Cuba 1 0 Caribbean Cup
+2005 113 home Jamaica Guatemala 1 0 Friendly
+2005 159 home Jamaica Honduras 0 0 Friendly
+2005 194 home Jamaica Guatemala 4 3 Concacaf Gold Cup
+2005 196 home Jamaica SouthAfrica 3 3 Concacaf Gold Cup
+2005 199 away Jamaica Mexico 1 0 Concacaf Gold Cup
+2005 202 away Jamaica UnitedStates 3 1 Concacaf Gold Cup
+2005 280 home Jamaica Guatemala 2 1 Friendly
+2005 288 away Jamaica Australia 5 0 Friendly
+2006 104 away Jamaica UnitedStates 1 1 Friendly
+2006 153 away Jamaica Ghana 4 1 Friendly
+2006 158 away Jamaica England 6 0 Friendly
+2006 252 away Jamaica Canada 1 0 Friendly
+2006 275 home Jamaica SaintLucia 4 0 Caribbean Cup qualifier
+2006 277 home Jamaica St. Vincent & Grenadines 1 2 Caribbean Cup qualifier
+2006 280 home Jamaica Haiti 2 0 Caribbean Cup qualifier
+2006 287 home Jamaica Canada 2 1 Friendly
+2006 325 home Jamaica Peru 1 1 Friendly
+2007 84 away Jamaica Switzerland 2 0 Friendly
+2007 88 home Jamaica Panama 1 1 Friendly
+2007 160 home Jamaica Chile 0 1 Friendly
+2007 176 away Jamaica Indonesia 2 1 Friendly
+2007 179 away Jamaica Vietnam 3 0 Friendly
+2007 183 away Jamaica Malaysia 0 2 Friendly
+2007 188 away Jamaica Iran 8 1 Friendly
+2007 328 home Jamaica ElSalvador 3 0 Friendly
+2007 331 home Jamaica Guatemala 2 0 Friendly
+2008 37 home Jamaica CostaRica 1 1 Friendly
+2008 88 home Jamaica TrinidadTobago 2 2 Friendly
+2008 158 home Jamaica St. Vincent & Grenadines 5 1 Friendly
+2008 162 away Jamaica TrinidadTobago 1 1 Friendly
+2008 165 away Jamaica Grenada 2 1 Friendly
+2008 170 home Jamaica Bahamas 7 0 World Cup qualifier
+2008 173 home Jamaica Bahamas 6 0 World Cup qualifier
+2008 212 away Jamaica ElSalvador 0 0 Friendly
+2008 237 away Jamaica Canada 1 1 World Cup qualifier
+2008 254 away Jamaica Mexico 3 0 World Cup qualifier
+2008 258 away Jamaica Honduras 2 0 World Cup qualifier
+2008 290 home Jamaica Mexico 1 0 World Cup qualifier
+2008 294 home Jamaica Honduras 1 0 World Cup qualifier
+2008 319 away Jamaica CaymanIslands 0 2 Friendly
+2008 329 home Jamaica Canada 3 0 World Cup qualifier
+2008 344 home Jamaica Barbados 2 1 Caribbean Cup
+2008 346 home Jamaica Grenada 4 0 Caribbean Cup
+2008 348 home Jamaica TrinidadTobago 1 1 Caribbean Cup
+2008 352 home Jamaica Guadeloupe 2 0 Caribbean Cup
+2008 355 home Jamaica Grenada 2 0 Caribbean Cup
+2009 42 home Jamaica Nigeria 0 0 Friendly
+2009 147 away Jamaica Haiti 2 2 Friendly
+2009 154 away Jamaica ElSalvador 0 0 Friendly
+2009 162 home Jamaica Panama 3 2 Friendly
+2009 183 away Jamaica CaymanIslands 1 4 Friendly
+2009 189 away Jamaica Canada 1 0 Concacaf Gold Cup
+2009 193 away Jamaica CostaRica 1 0 Concacaf Gold Cup
+2009 196 home Jamaica ElSalvador 1 0 Concacaf Gold Cup
+2009 229 away Jamaica Ecuador 0 0 Friendly
+2009 233 away Jamaica SaintKitts 0 1 Friendly
+2009 327 away Jamaica SouthAfrica 0 0 Friendly
+2010 31 home Jamaica Canada 1 0 Friendly
+2010 41 away Jamaica Argentina 2 1 Friendly
+2010 121 away Jamaica SouthAfrica 2 0 Friendly
+2010 228 away Jamaica TrinidadTobago 1 3 Friendly
+2010 253 home Jamaica CostaRica 1 0 Friendly
+2010 255 away Jamaica Peru 2 1 Friendly
+2010 289 home Jamaica TrinidadTobago 1 0 Friendly
+2010 327 away Jamaica CostaRica 0 0 Friendly
+2010 337 home Jamaica Antigua and Barbuda 3 1 Caribbean Cup
+2010 339 home Jamaica Guadeloupe 2 0 Caribbean Cup
+2010 342 home Jamaica Guyana 4 0 Caribbean Cup
+2010 344 home Jamaica Grenada 2 1 Caribbean Cup
+2010 346 home Jamaica Guadeloupe 1 1 Caribbean Cup
+2011 87 home Jamaica Venezuela 0 2 Friendly
+2011 91 away Jamaica ElSalvador 2 3 Friendly
+2011 161 home Jamaica Grenada 4 0 Concacaf Gold Cup
+2011 165 home Jamaica Guatemala 2 0 Concacaf Gold Cup
+2011 168 home Jamaica Honduras 1 0 Concacaf Gold Cup
+2011 174 away Jamaica UnitedStates 2 0 Concacaf Gold Cup
+2011 227 away Jamaica China 1 0 Friendly
+2011 250 away Jamaica Ecuador 5 2 Friendly
+2011 254 away Jamaica Colombia 2 0 Friendly
+2011 290 away Jamaica Honduras 2 1 Friendly
+2012 53 home Jamaica Cuba 1 0 Friendly
+2012 55 home Jamaica Cuba 3 0 Friendly
+2012 60 away Jamaica NewZealand 2 3 Friendly
+2012 83 home Jamaica CostaRica 0 0 Friendly
+2012 142 home Jamaica Guyana 1 0 Friendly
+2012 151 home Jamaica Panama 0 1 Friendly
+2012 156 away Jamaica Panama 2 1 Friendly
+2012 163 home Jamaica Guatemala 2 1 World Cup qualifier
+2012 167 away Jamaica Antigua and Barbuda 0 0 World Cup qualifier
+2012 232 home Jamaica ElSalvador 2 0 Friendly
+2012 255 home Jamaica UnitedStates 2 1 World Cup qualifier
+2012 259 away Jamaica UnitedStates 1 0 World Cup qualifier
+2012 291 away Jamaica Guatemala 2 1 World Cup qualifier
+2012 295 home Jamaica Antigua and Barbuda 4 1 World Cup qualifier
+2012 349 away Jamaica FrenchGuiana 2 1 Caribbean Cup
+2012 351 away Jamaica Martinique 0 0 Caribbean Cup
+2012 353 away Jamaica Cuba 1 0 Caribbean Cup
+2013 37 away Jamaica Mexico 0 0 World Cup qualifier
+2013 84 home Jamaica Panama 1 1 World Cup qualifier
+2013 88 away Jamaica CostaRica 2 0 World Cup qualifier
+2013 159 home Jamaica Mexico 0 1 World Cup qualifier
+2013 162 home Jamaica UnitedStates 1 2 World Cup qualifier
+2013 166 away Jamaica Honduras 2 0 World Cup qualifier
+2013 254 away Jamaica Panama 0 0 World Cup qualifier
+2013 258 home Jamaica CostaRica 1 1 World Cup qualifier
+2013 290 away Jamaica UnitedStates 2 0 World Cup qualifier
+2013 294 home Jamaica Honduras 2 2 World Cup qualifier
+2013 325 home Jamaica TrinidadTobago 0 1 Friendly
+2013 329 away Jamaica TrinidadTobago 2 0 Friendly
+2014 64 away Jamaica Barbados 0 2 Friendly
+2014 67 away Jamaica SaintLucia 0 5 Friendly

@@ -1,0 +1,243 @@
+1911 239 home Russia England 0 11 Friendly
+1912 185 away Russia Finland 2 1 Olympic Games
+1912 187 away Russia Germany 16 0 Olympic Games Consolation Tournament
+1912 189 away Russia Norway 2 1 Friendly
+1912 198 home Russia Hungary 0 9 Friendly
+1912 200 home Russia Hungary 0 12 Friendly
+1913 128 home Russia Sweden 1 4 Friendly
+1913 262 home Russia Norway 1 1 Friendly
+1914 191 away Russia Sweden 2 2 Friendly
+1914 198 away Russia Norway 1 1 Friendly
+1923 238 away Russia Sweden 1 2 Friendly
+1923 247 away Russia Norway 2 3 Friendly
+1923 266 away Russia Estonia 2 4 Friendly
+1992 233 home Russia Mexico 2 0 Friendly
+1992 293 home Russia Iceland 1 0 World Cup qualifier
+1992 307 home Russia Luxembourg 2 0 World Cup qualifier
+1993 21 away Russia Romania 1 1 Nehru Gold Cup
+1993 25 home Russia Bolivia 2 1 Nehru Gold Cup
+1993 29 away Russia NorthKorea 1 0 Nehru Gold Cup
+1993 44 away Russia UnitedStates 0 1 Friendly
+1993 48 home Russia ElSalvador 2 1 Friendly
+1993 52 away Russia UnitedStates 0 0 Friendly
+1993 86 away Russia Israel 2 2 Friendly
+1993 107 away Russia Luxembourg 0 4 World Cup qualifier
+1993 121 home Russia Hungary 3 0 World Cup qualifier
+1993 147 home Russia Greece 1 1 World Cup qualifier
+1993 157 away Russia Iceland 1 1 World Cup qualifier
+1993 214 away Russia France 3 1 Friendly
+1993 256 away Russia Hungary 1 3 World Cup qualifier
+1993 285 away Russia SaudiArabia 4 2 Friendly
+1993 327 away Russia Greece 1 0 World Cup qualifier
+1994 29 away Russia UnitedStates 1 1 Friendly
+1994 33 home Russia Mexico 4 1 Friendly
+1994 85 away Russia Ireland 0 0 Friendly
+1994 113 away Russia Turkey 0 1 Friendly
+1994 153 home Russia Slovakia 2 1 Friendly
+1994 175 away Russia Brazil 2 0 World Cup
+1994 179 away Russia Sweden 3 1 World Cup
+1994 183 home Russia Cameroon 6 1 World Cup
+1994 234 away Russia Austria 0 3 Friendly
+1994 255 home Russia Germany 0 1 Friendly
+1994 291 home Russia SanMarino 4 0 European Cup qualifier
+1994 326 away Russia Scotland 1 1 European Cup qualifier
+1995 70 away Russia Slovakia 2 1 Friendly
+1995 91 home Russia Scotland 0 0 European Cup qualifier
+1995 119 away Russia Greece 0 3 European Cup qualifier
+1995 130 home Russia FaroeIslands 3 0 European Cup qualifier
+1995 155 away Russia Yugoslavia 1 2 Friendly
+1995 162 away Russia SanMarino 0 7 European Cup qualifier
+1995 218 away Russia Japan 3 2 Friendly
+1995 233 away Russia Finland 0 6 European Cup qualifier
+1995 254 away Russia FaroeIslands 2 5 European Cup qualifier
+1995 290 home Russia Greece 2 1 European Cup qualifier
+1995 325 home Russia Finland 3 1 European Cup qualifier
+1996 38 away Russia Malta 0 2 Rothmans Tournament
+1996 40 home Russia Iceland 3 0 Rothmans Tournament
+1996 42 home Russia Slovenia 3 1 Rothmans Tournament
+1996 89 away Russia Ireland 0 2 Friendly
+1996 117 away Russia Belgium 0 0 Friendly
+1996 149 away Russia Qatar 2 5 Friendly
+1996 153 home Russia UnitedArab 1 0 Friendly
+1996 157 home Russia Poland 2 0 Friendly
+1996 166 away Russia Italy 2 1 European Cup
+1996 171 away Russia Germany 3 0 European Cup
+1996 174 away Russia Czechia 3 3 European Cup
+1996 245 home Russia Brazil 2 2 Friendly
+1996 249 home Russia Cyprus 4 0 World Cup qualifier
+1996 288 away Russia Israel 1 1 World Cup qualifier
+1996 320 away Russia Luxembourg 0 4 World Cup qualifier
+1997 38 home Russia Yugoslavia 1 1 Carlsberg Cup
+1997 41 home Russia Switzerland 2 1 Carlsberg Cup
+1997 74 away Russia Yugoslavia 0 0 Friendly
+1997 91 away Russia Cyprus 1 1 World Cup qualifier
+1997 123 home Russia Luxembourg 3 0 World Cup qualifier
+1997 163 home Russia Israel 2 0 World Cup qualifier
+1997 237 home Russia Yugoslavia 0 1 Friendly
+1997 258 away Russia Bulgaria 1 0 World Cup qualifier
+1997 290 home Russia Bulgaria 4 2 World Cup qualifier
+1997 308 home Russia Italy 1 1 World Cup qualifier
+1997 325 away Russia Italy 1 0 World Cup qualifier
+1998 49 away Russia Greece 1 1 Friendly
+1998 87 home Russia France 1 0 Friendly
+1998 115 home Russia Turkey 1 0 Friendly
+1998 151 away Russia Poland 3 1 Friendly
+1998 154 home Russia Georgia 1 1 Friendly
+1998 236 away Russia Sweden 1 0 Friendly
+1998 253 away Russia Ukraine 3 2 European Cup qualifier
+1998 271 away Russia Spain 1 0 Friendly
+1998 289 home Russia France 2 3 European Cup qualifier
+1998 293 away Russia Iceland 1 0 European Cup qualifier
+1998 328 away Russia Brazil 5 1 Friendly
+1999 89 away Russia Armenia 0 3 European Cup qualifier
+1999 93 home Russia Andorra 6 1 European Cup qualifier
+1999 143 home Russia Belarus 1 1 Friendly
+1999 160 away Russia France 2 3 European Cup qualifier
+1999 164 home Russia Iceland 1 0 European Cup qualifier
+1999 235 away Russia Belarus 0 2 Friendly
+1999 252 home Russia Armenia 2 0 European Cup qualifier
+1999 256 away Russia Andorra 1 2 European Cup qualifier
+1999 288 home Russia Ukraine 1 1 European Cup qualifier
+2000 54 away Russia Israel 4 1 Friendly
+2000 119 home Russia UnitedStates 2 0 Friendly
+2000 155 home Russia Slovakia 1 1 Friendly
+2000 159 away Russia Moldova 0 1 Friendly
+2000 233 home Russia Israel 1 0 Friendly
+2000 250 away Russia Switzerland 0 1 World Cup qualifier
+2000 290 home Russia Luxembourg 3 0 World Cup qualifier
+2001 59 away Russia Greece 3 3 Friendly
+2001 86 home Russia Slovenia 1 1 World Cup qualifier
+2001 90 home Russia FaroeIslands 1 0 World Cup qualifier
+2001 118 away Russia Yugoslavia 0 1 World Cup qualifier
+2001 157 home Russia Yugoslavia 1 1 World Cup qualifier
+2001 161 away Russia Luxembourg 1 2 World Cup qualifier
+2001 232 home Russia Greece 0 0 Friendly
+2001 249 away Russia Slovenia 2 1 World Cup qualifier
+2001 253 away Russia FaroeIslands 0 3 World Cup qualifier
+2001 285 home Russia Switzerland 4 0 World Cup qualifier
+2001 324 away Russia Latvia 1 3 Friendly
+2002 44 away Russia Ireland 2 0 Friendly
+2002 89 away Russia Estonia 2 1 Friendly
+2002 110 away Russia France 0 0 Friendly
+2002 141 home Russia Belarus 1 1 Friendly tournament
+2002 143 home Russia Yugoslavia 1 1 Friendly tournament
+2002 160 home Russia Tunisia 2 0 World Cup
+2002 164 away Russia Japan 1 0 World Cup
+2002 169 away Russia Belgium 3 2 World Cup
+2002 238 home Russia Sweden 1 1 Friendly
+2002 255 home Russia Ireland 4 2 European Cup qualifier
+2002 295 home Russia Albania 4 1 European Cup qualifier
+2003 43 away Russia Cyprus 0 1 Friendly tournament
+2003 44 home Russia Romania 4 2 Friendly tournament
+2003 91 away Russia Albania 3 1 European Cup qualifier
+2003 123 away Russia Georgia 1 0 European Cup qualifier
+2003 162 away Russia Switzerland 2 2 European Cup qualifier
+2003 237 home Russia Israel 1 2 Friendly
+2003 254 away Russia Ireland 1 1 European Cup qualifier
+2003 258 home Russia Switzerland 4 1 European Cup qualifier
+2003 290 home Russia Georgia 3 1 European Cup qualifier
+2003 325 home Russia Wales 0 0 European Cup qualifier
+2003 329 away Russia Wales 0 1 European Cup qualifier
+2004 93 away Russia Bulgaria 2 2 Friendly
+2004 121 away Russia Norway 3 2 Friendly
+2004 149 away Russia Austria 0 0 Friendly
+2004 167 away Russia Spain 1 0 European Cup
+2004 171 away Russia Portugal 2 0 European Cup
+2004 175 home Russia Greece 2 1 European Cup
+2004 235 home Russia Lithuania 4 3 Friendly
+2004 252 home Russia Slovakia 1 1 World Cup qualifier
+2004 288 away Russia Luxembourg 0 4 World Cup qualifier
+2004 292 away Russia Portugal 7 1 World Cup qualifier
+2004 327 home Russia Estonia 4 0 World Cup qualifier
+2005 40 away Russia Italy 2 0 Friendly
+2005 88 away Russia Liechtenstein 1 2 World Cup qualifier
+2005 92 away Russia Estonia 1 1 World Cup qualifier
+2005 159 home Russia Latvia 2 0 World Cup qualifier
+2005 163 away Russia Germany 2 2 Friendly
+2005 234 away Russia Latvia 1 1 World Cup qualifier
+2005 251 home Russia Liechtenstein 2 0 World Cup qualifier
+2005 255 home Russia Portugal 0 0 World Cup qualifier
+2005 287 home Russia Luxembourg 5 1 World Cup qualifier
+2005 291 away Russia Slovakia 0 0 World Cup qualifier
+2006 63 home Russia Brazil 0 1 Friendly
+2006 151 away Russia Spain 0 0 Friendly
+2006 233 home Russia Latvia 1 0 Friendly
+2006 254 home Russia Croatia 0 0 European Cup qualifier
+2006 286 home Russia Israel 1 1 European Cup qualifier
+2006 290 home Russia Estonia 2 0 European Cup qualifier
+2006 325 away Russia Macedonia 0 2 European Cup qualifier
+2007 38 away Russia Holland 4 1 Friendly
+2007 86 away Russia Estonia 0 2 European Cup qualifier
+2007 157 home Russia Andorra 4 0 European Cup qualifier
+2007 161 away Russia Croatia 0 0 European Cup qualifier
+2007 239 home Russia Poland 2 2 Friendly
+2007 256 home Russia Macedonia 3 0 European Cup qualifier
+2007 260 away Russia England 3 0 European Cup qualifier
+2007 296 home Russia England 2 1 European Cup qualifier
+2007 327 away Russia Israel 2 1 European Cup qualifier
+2007 331 away Russia Andorra 0 1 European Cup qualifier
+2008 88 away Russia Romania 3 0 Friendly
+2008 147 home Russia Kazakhstan 6 0 Friendly
+2008 152 home Russia Serbia 2 1 Friendly
+2008 159 home Russia Lithuania 4 1 Friendly
+2008 165 away Russia Spain 4 1 European Cup
+2008 169 home Russia Greece 1 0 European Cup
+2008 173 home Russia Sweden 2 0 European Cup
+2008 176 home Russia Holland 3 1 European Cup
+2008 181 away Russia Spain 3 0 European Cup
+2008 237 home Russia Holland 1 1 Friendly
+2008 258 home Russia Wales 2 1 World Cup qualifier
+2008 290 away Russia Germany 2 1 World Cup qualifier
+2008 294 home Russia Finland 3 0 World Cup qualifier
+2009 90 home Russia Azerbaijan 2 0 World Cup qualifier
+2009 94 away Russia Liechtenstein 0 1 World Cup qualifier
+2009 165 away Russia Finland 0 3 World Cup qualifier
+2009 229 home Russia Argentina 2 3 Friendly
+2009 253 home Russia Liechtenstein 3 0 World Cup qualifier
+2009 257 away Russia Wales 1 3 World Cup qualifier
+2009 289 home Russia Germany 0 1 World Cup qualifier
+2009 293 away Russia Azerbaijan 1 1 World Cup qualifier
+2009 324 home Russia Slovenia 2 1 World Cup qualifier
+2009 328 away Russia Slovenia 1 0 World Cup qualifier
+2010 65 away Russia Hungary 1 1 Friendly
+2010 228 home Russia Bulgaria 1 0 Friendly
+2010 251 away Russia Andorra 0 2 European Cup qualifier
+2010 255 home Russia Slovakia 0 1 European Cup qualifier
+2010 287 away Russia Ireland 2 3 European Cup qualifier
+2010 291 away Russia Macedonia 0 1 European Cup qualifier
+2010 327 home Russia Belgium 0 2 Friendly
+2011 40 away Russia Iran 1 0 Friendly
+2011 88 away Russia Armenia 0 0 European Cup qualifier
+2011 91 away Russia Qatar 1 1 Friendly
+2011 159 home Russia Armenia 3 1 European Cup qualifier
+2011 162 away Russia Cameroon 0 0 Friendly
+2011 227 home Russia Serbia 1 0 Friendly
+2011 250 home Russia Macedonia 1 0 European Cup qualifier
+2011 254 home Russia Ireland 0 0 European Cup qualifier
+2011 286 away Russia Slovakia 0 1 European Cup qualifier
+2011 290 home Russia Andorra 6 0 European Cup qualifier
+2011 321 away Russia Greece 1 1 Friendly
+2012 60 away Russia Denmark 0 2 Friendly
+2012 149 home Russia Uruguay 1 1 Friendly
+2012 153 away Russia Lithuania 0 0 Friendly
+2012 156 home Russia Italy 3 0 Friendly
+2012 163 home Russia Czechia 4 1 European Cup
+2012 167 away Russia Poland 1 1 European Cup
+2012 171 away Russia Greece 1 0 European Cup
+2012 232 home Russia IvoryCoast 1 1 Friendly
+2012 255 home Russia NorthernIreland 2 0 World Cup qualifier
+2012 259 away Russia Israel 0 4 World Cup qualifier
+2012 291 home Russia Portugal 1 0 World Cup qualifier
+2012 295 home Russia Azerbaijan 1 0 World Cup qualifier
+2012 324 home Russia UnitedStates 2 2 Friendly
+2013 37 home Russia Iceland 2 0 Friendly
+2013 87 away Russia Brazil 1 1 Friendly
+2013 162 away Russia Portugal 1 0 World Cup qualifier
+2013 231 away Russia NorthernIreland 1 0 World Cup qualifier
+2013 254 home Russia Luxembourg 4 1 World Cup qualifier
+2013 258 home Russia Israel 3 1 World Cup qualifier
+2013 290 away Russia Luxembourg 0 4 World Cup qualifier
+2013 294 away Russia Azerbaijan 1 1 World Cup qualifier
+2013 325 home Russia Serbia 1 1 Friendly
+2013 329 home Russia SouthKorea 2 1 Friendly
+2014 67 home Russia Armenia 2 0 Friendly

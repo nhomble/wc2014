@@ -1,0 +1,489 @@
+1926 125 home Kenya Uganda 1 1 Gossage Cup
+1926 127 home Kenya Uganda 2 1 Gossage Cup
+1928 1 away Kenya Uganda 1 0 Gossage Cup
+1929 1 home Kenya Uganda 3 5 Gossage Cup
+1930 1 home Kenya Uganda 0 0 Friendly
+1930 2 away Kenya Uganda 5 0 Gossage Cup
+1931 1 home Kenya Uganda 1 1 Gossage Cup
+1931 2 home Kenya Uganda 1 2 Gossage Cup
+1932 1 away Kenya Uganda 13 1 Gossage Cup
+1935 1 away Kenya Uganda 5 1 Gossage Cup
+1936 1 home Kenya Uganda 1 3 Gossage Cup
+1937 125 away Kenya Uganda 9 5 Gossage Cup
+1938 1 home Kenya Uganda 1 3 Gossage Cup
+1939 1 away Kenya Uganda 5 2 Gossage Cup
+1940 1 home Kenya Uganda 3 6 Gossage Cup
+1941 1 away Kenya Uganda 3 4 Gossage Cup
+1942 1 home Kenya Uganda 4 3 Gossage Cup
+1943 1 away Kenya Uganda 2 1 Gossage Cup
+1944 1 home Kenya Uganda 2 1 Gossage Cup
+1945 1 away Kenya Uganda 4 1 Gossage Cup
+1946 1 home Kenya Uganda 2 1 Gossage Cup
+1948 1 away Kenya Uganda 2 1 Gossage Cup
+1959 1 home Kenya Reunion 1 0 Friendly
+1961 1 home Kenya Uganda 0 1 African Nations Cup qualifier
+1961 2 away Kenya Uganda 0 1 African Nations Cup qualifier
+1961 63 home Kenya Ethiopia 5 4 African Nations Cup qualifier
+1961 64 away Kenya Ethiopia 6 1 African Nations Cup qualifier
+1963 291 home Kenya Ethiopia 4 3 Olympic Games qualifier
+1963 323 away Kenya Ethiopia 7 1 Olympic Games qualifier
+1965 100 away Kenya Sudan 4 2 African Nations Cup qualifier
+1965 353 home Kenya Ghana 0 13 Friendly tournament
+1966 218 home Kenya Zambia 1 0 Friendly tournament
+1966 219 away Kenya Zambia 2 1 Friendly tournament
+1966 249 away Kenya Zambia 5 4 Friendly tournament
+1967 50 away Kenya Ethiopia 2 0 East African Friendship Cup
+1967 54 home Kenya Tanzania 2 0 East African Friendship Cup
+1967 219 away Kenya Uganda 2 1 African Nations Cup qualifier
+1967 233 home Kenya Uganda 3 3 African Nations Cup qualifier
+1967 278 home Kenya Uganda 3 1 Cecafa Cup
+1967 283 home Kenya Zanzibar 6 0 Cecafa Cup
+1967 288 home Kenya Tanzania 5 3 Cecafa Cup
+1967 372 away Kenya Ethiopia 2 0 Friendly
+1968 192 away Kenya Malawi 2 2 Friendly
+1968 353 home Kenya Sudan 1 1 Friendly tournament
+1969 6 home Kenya Tanzania 2 1 East African Friendship Cup
+1969 8 away Kenya Sudan 1 0 East African Friendship Cup
+1969 47 home Kenya Tanzania 0 1 African Nations Cup qualifier
+1969 63 away Kenya Tanzania 1 1 African Nations Cup qualifier
+1969 276 home Kenya Zanzibar 2 1 Cecafa Cup
+1969 280 away Kenya Tanzania 3 0 Cecafa Cup
+1969 283 away Kenya Uganda 1 0 Cecafa Cup
+1970 275 away Kenya Tanzania 2 1 Cecafa Cup
+1970 277 away Kenya Uganda 2 1 Cecafa Cup
+1970 282 away Kenya Zanzibar 3 2 Cecafa Cup
+1970 339 away Kenya Ethiopia 0 1 African Nations Cup qualifier
+1970 356 home Kenya Ethiopia 2 0 African Nations Cup qualifier
+1971 190 home Kenya Mauritius 2 1 African Nations Cup qualifier
+1971 204 away Kenya Mauritius 0 0 African Nations Cup qualifier
+1971 273 home Kenya Tanzania 1 1 Friendly
+1971 346 home Kenya Zambia 1 0 Friendly
+1972 54 away Kenya Cameroon 2 1 African Nations Cup
+1972 57 home Kenya Mali 1 1 African Nations Cup
+1972 59 home Kenya Togo 1 1 African Nations Cup
+1972 202 home Kenya Sudan 2 0 World Cup qualifier
+1972 209 away Kenya Sudan 1 0 World Cup qualifier
+1973 41 home Kenya Mauritius 3 1 World Cup qualifier
+1973 48 away Kenya Mauritius 2 2 World Cup qualifier
+1973 229 away Kenya Zambia 2 0 World Cup qualifier
+1973 236 home Kenya Zambia 2 2 World Cup qualifier
+1973 264 away Kenya Uganda 1 0 African Nations Cup qualifier
+1973 271 home Kenya Zanzibar 2 0 Cecafa Cup
+1973 275 away Kenya Tanzania 2 1 Cecafa Cup
+1973 278 home Kenya Uganda 1 2 African Nations Cup qualifier
+1974 312 away Kenya Zambia 3 2 Cecafa Cup
+1974 313 away Kenya Tanzania 0 0 Cecafa Cup
+1975 262 away Kenya Sudan 1 0 African Nations Cup qualifier
+1975 276 home Kenya Sudan 0 2 African Nations Cup qualifier
+1975 310 away Kenya Zambia 1 2 Cecafa Cup
+1975 314 home Kenya Uganda 1 1 Cecafa Cup
+1975 317 home Kenya Tanzania 3 2 Cecafa Cup
+1975 319 home Kenya Malawi 0 0 Cecafa Cup
+1976 184 away Kenya Reunion 1 3 Friendly
+1976 192 away Kenya Malawi 1 0 Friendly
+1976 316 home Kenya Tanzania 1 1 Cecafa Cup
+1976 319 home Kenya Malawi 2 2 Cecafa Cup
+1976 322 away Kenya Zambia 2 0 Cecafa Cup
+1977 37 home Kenya Egypt 0 0 World Cup qualifier
+1977 58 away Kenya Egypt 1 0 World Cup qualifier
+1977 266 away Kenya Algeria 4 1 African Nations Cup qualifier
+1977 281 home Kenya Algeria 2 1 African Nations Cup qualifier
+1977 340 away Kenya Uganda 3 1 Cecafa Cup
+1977 343 home Kenya Zanzibar 3 0 Cecafa Cup
+1977 345 away Kenya Somalia 0 1 Cecafa Cup
+1977 346 away Kenya Zambia 4 2 Cecafa Cup
+1977 349 away Kenya Malawi 2 1 Cecafa Cup
+1978 128 home Kenya SouthKorea 2 2 Friendly
+1978 311 away Kenya Malawi 1 0 Cecafa Cup
+1978 319 away Kenya Uganda 1 0 Cecafa Cup
+1978 321 home Kenya Somalia 1 0 Cecafa Cup
+1978 323 away Kenya Zambia 9 0 Cecafa Cup
+1978 327 away Kenya Malawi 2 0 Cecafa Cup
+1978 329 home Kenya Uganda 2 0 Cecafa Cup
+1979 303 home Kenya Egypt 3 1 African Nations Cup qualifier
+1979 313 home Kenya Tanzania 0 0 Cecafa Cup
+1979 316 away Kenya Egypt 3 0 African Nations Cup qualifier
+1979 317 home Kenya Uganda 3 1 Cecafa Cup
+1979 320 home Kenya Zambia 3 1 Cecafa Cup
+1979 324 home Kenya Zanzibar 2 0 Cecafa Cup
+1979 327 home Kenya Malawi 2 3 Cecafa Cup
+1980 184 away Kenya Zambia 5 0 Friendly
+1980 191 home Kenya Tanzania 3 1 World Cup qualifier
+1980 205 away Kenya Tanzania 5 0 World Cup qualifier
+1980 326 home Kenya Zambia 0 0 Cecafa Cup
+1980 329 away Kenya Malawi 1 0 Cecafa Cup
+1980 332 away Kenya Zanzibar 2 1 Cecafa Cup
+1981 97 home Kenya Egypt 3 5 African Nations Cup qualifier
+1981 105 away Kenya Ethiopia 0 0 Friendly
+1981 111 away Kenya Egypt 2 0 African Nations Cup qualifier
+1981 198 home Kenya Mauritius 2 1 Indian Ocean Cup
+1981 200 home Kenya Reunion 3 1 Indian Ocean Cup
+1981 205 home Kenya Madagascar 1 0 Indian Ocean Cup
+1981 220 home Kenya Nigeria 1 3 Friendly
+1981 324 home Kenya Malawi 1 0 Cecafa Cup
+1981 327 home Kenya Zanzibar 2 1 Cecafa Cup
+1981 330 away Kenya Tanzania 1 0 Cecafa Cup
+1981 334 home Kenya Uganda 3 1 Cecafa Cup
+1981 338 away Kenya Tanzania 0 1 Cecafa Cup
+1982 324 home Kenya Sudan 2 0 Cecafa Cup
+1982 331 home Kenya Zanzibar 2 2 Cecafa Cup
+1982 334 home Kenya Zimbabwe 2 1 Cecafa Cup
+1982 337 away Kenya Uganda 1 1 Cecafa Cup
+1983 82 away Kenya Ethiopia 2 2 Friendly
+1983 84 away Kenya Ethiopia 0 0 Friendly
+1983 147 home Kenya Madagascar 1 2 Friendly
+1983 322 home Kenya Uganda 2 1 Cecafa Cup
+1983 325 home Kenya Ethiopia 2 0 Cecafa Cup
+1983 328 home Kenya Tanzania 0 0 Cecafa Cup
+1983 331 home Kenya Sudan 1 0 Cecafa Cup
+1983 333 home Kenya Malawi 2 0 Cecafa Cup
+1983 336 home Kenya Zimbabwe 1 0 Cecafa Cup
+1983 347 home Kenya Switzerland 0 0 Friendly
+1983 349 home Kenya Ethiopia 0 0 Friendly
+1983 351 home Kenya Ethiopia 0 1 Friendly
+1983 353 home Kenya Ethiopia 2 1 Friendly
+1984 105 home Kenya China 1 0 Friendly
+1984 187 home Kenya Cameroon 1 3 Friendly
+1984 192 away Kenya Malawi 1 1 Friendly
+1984 194 away Kenya Malawi 2 1 Friendly
+1984 196 away Kenya Malawi 2 1 Friendly
+1984 292 home Kenya Ethiopia 2 1 World Cup qualifier
+1984 307 away Kenya Ethiopia 3 3 World Cup qualifier
+1984 319 away Kenya Somalia 1 0 African Nations Cup qualifier
+1984 333 home Kenya Somalia 1 0 African Nations Cup qualifier
+1984 343 away Kenya Malawi 2 1 Cecafa Cup
+1984 347 home Kenya Zanzibar 1 0 Cecafa Cup
+1984 349 home Kenya Somalia 1 0 Cecafa Cup
+1984 353 away Kenya Zambia 2 0 Cecafa Cup
+1984 356 away Kenya Uganda 3 1 Cecafa Cup
+1985 99 home Kenya Nigeria 0 3 World Cup qualifier
+1985 113 away Kenya Nigeria 3 1 World Cup qualifier
+1985 195 home Kenya Zaire 0 1 Friendly
+1985 214 home Kenya Uganda 0 1 Friendly
+1985 221 home Kenya Algeria 0 0 African Nations Cup qualifier
+1985 235 away Kenya Algeria 3 0 African Nations Cup qualifier
+1985 285 away Kenya Zimbabwe 1 1 Cecafa Cup
+1985 287 home Kenya Tanzania 3 2 Cecafa Cup
+1985 290 home Kenya Uganda 0 0 Cecafa Cup
+1985 292 away Kenya Zimbabwe 2 0 Cecafa Cup
+1986 286 home Kenya Somalia 2 1 Friendly
+1986 290 away Kenya Uganda 3 1 Friendly
+1986 335 home Kenya Rwanda 2 3 Friendly
+1987 90 home Kenya Madagascar 2 0 African Nations Cup qualifier
+1987 105 away Kenya Madagascar 2 1 African Nations Cup qualifier
+1987 191 away Kenya Zimbabwe 1 1 African Nations Cup qualifier
+1987 204 home Kenya Zimbabwe 0 0 African Nations Cup qualifier
+1987 218 home Kenya Tunisia 1 0 African Games
+1987 220 home Kenya Cameroon 3 3 African Games
+1987 222 home Kenya Madagascar 2 1 African Games
+1987 227 home Kenya Malawi 1 1 African Games
+1987 229 home Kenya Egypt 0 1 African Games
+1987 355 home Kenya Zanzibar 0 0 Cecafa Cup
+1987 357 home Kenya Tanzania 3 2 Cecafa Cup
+1987 361 away Kenya Ethiopia 2 1 Cecafa Cup
+1988 76 home Kenya Nigeria 0 3 African Nations Cup
+1988 79 away Kenya Egypt 3 0 African Nations Cup
+1988 82 away Kenya Cameroon 0 0 African Nations Cup
+1988 318 home Kenya Zanzibar 2 0 Cecafa Cup
+1988 320 home Kenya Tanzania 2 0 Cecafa Cup
+1988 322 away Kenya Malawi 3 0 Cecafa Cup
+1988 326 home Kenya Zambia 0 1 Cecafa Cup
+1988 329 home Kenya Zimbabwe 0 0 Cecafa Cup
+1989 7 home Kenya Malawi 1 1 World Cup qualifier
+1989 22 away Kenya Liberia 0 0 World Cup qualifier
+1989 100 away Kenya Sudan 1 0 African Nations Cup qualifier
+1989 116 home Kenya Sudan 1 0 African Nations Cup qualifier
+1989 165 home Kenya Egypt 0 0 World Cup qualifier
+1989 179 away Kenya Malawi 1 0 World Cup qualifier
+1989 196 home Kenya Zaire 0 1 Friendly
+1989 202 away Kenya Malawi 2 3 African Nations Cup qualifier
+1989 216 home Kenya Malawi 0 0 African Nations Cup qualifier
+1989 229 home Kenya Liberia 1 0 World Cup qualifier
+1989 242 away Kenya Egypt 2 0 World Cup qualifier
+1989 343 home Kenya Uganda 2 1 Cecafa Cup
+1989 346 home Kenya Tanzania 2 1 Cecafa Cup
+1989 350 home Kenya Zimbabwe 2 1 Cecafa Cup
+1989 355 home Kenya Malawi 0 1 Cecafa Cup
+1989 356 home Kenya Zambia 1 0 Cecafa Cup
+1990 29 away Kenya Thailand 2 1 King's Cup
+1990 33 home Kenya Indonesia 3 2 King's Cup
+1990 37 away Kenya China 1 1 King's Cup
+1990 65 home Kenya Senegal 0 0 African Nations Cup
+1990 68 home Kenya Zambia 0 1 African Nations Cup
+1990 71 away Kenya Cameroon 2 0 African Nations Cup
+1990 250 away Kenya Mozambique 2 1 African Nations Cup qualifier
+1990 350 home Kenya Uganda 2 2 Cecafa Cup
+1990 353 home Kenya Sudan 1 2 Cecafa Cup
+1991 107 away Kenya Sudan 1 0 African Nations Cup qualifier
+1991 192 away Kenya Malawi 0 2 Friendly
+1991 194 away Kenya Malawi 1 1 Friendly
+1991 196 away Kenya Malawi 1 1 Friendly
+1991 200 home Kenya Mozambique 1 0 African Nations Cup qualifier
+1991 213 home Kenya Sudan 2 1 African Nations Cup qualifier
+1991 319 away Kenya Tanzania 1 1 Friendly
+1991 326 away Kenya Tanzania 1 2 Friendly
+1991 333 home Kenya Zambia 0 1 Cecafa Cup
+1991 338 home Kenya Malawi 1 0 Cecafa Cup
+1991 340 home Kenya Zanzibar 3 2 Cecafa Cup
+1991 345 away Kenya Uganda 1 3 Cecafa Cup
+1991 348 home Kenya Zambia 0 2 Cecafa Cup
+1992 14 away Kenya Nigeria 2 1 African Nations Cup
+1992 16 away Kenya Senegal 3 0 African Nations Cup
+1992 233 away Kenya Lesotho 2 2 African Nations Cup qualifier
+1992 246 home Kenya Zaire 1 3 African Nations Cup qualifier
+1992 278 away Kenya Botswana 1 3 Friendly
+1992 282 away Kenya Botswana 0 1 Friendly
+1992 325 home Kenya Uganda 1 1 Cecafa Cup
+1992 328 home Kenya Seychelles 2 1 Cecafa Cup
+1992 361 away Kenya Guinea 4 0 World Cup qualifier
+1993 58 home Kenya Guinea 2 0 World Cup qualifier
+1993 104 away Kenya Mozambique 0 0 African Nations Cup qualifier
+1993 117 home Kenya Lesotho 3 0 African Nations Cup qualifier
+1993 197 away Kenya Zaire 0 1 African Nations Cup qualifier
+1993 210 home Kenya Mozambique 4 1 African Nations Cup qualifier
+1993 347 home Kenya Tanzania 1 2 Friendly tournament
+1993 349 home Kenya Uganda 2 1 Friendly tournament
+1994 35 away Kenya Oman 1 0 Friendly
+1994 37 away Kenya Oman 2 0 Friendly
+1994 336 home Kenya Somalia 3 1 Cecafa Cup
+1994 338 home Kenya Djibouti 4 1 Cecafa Cup
+1994 342 home Kenya Tanzania 0 1 Cecafa Cup
+1994 346 home Kenya Uganda 0 1 Cecafa Cup
+1994 349 home Kenya Eritrea 1 0 Cecafa Cup
+1995 337 home Kenya Zanzibar 2 0 Cecafa Cup
+1995 340 home Kenya Rwanda 1 0 Cecafa Cup
+1995 343 away Kenya Uganda 0 0 Cecafa Cup
+1995 350 away Kenya Ethiopia 1 2 Cecafa Cup
+1996 149 away Kenya Uganda 1 1 Friendly
+1996 150 away Kenya Uganda 1 2 Friendly
+1996 157 home Kenya Algeria 3 1 World Cup qualifier
+1996 169 away Kenya Algeria 1 0 World Cup qualifier
+1996 262 away Kenya SouthAfrica 1 0 Simba Cup
+1996 266 away Kenya Ghana 1 0 Simba Cup
+1996 269 away Kenya Australia 4 0 Simba Cup
+1996 284 away Kenya Namibia 1 0 African Nations Cup qualifier
+1996 320 away Kenya Guinea 3 1 World Cup qualifier
+1996 329 home Kenya Rwanda 2 1 Cecafa Cup
+1996 337 away Kenya Uganda 2 0 Cecafa Cup
+1996 339 away Kenya Sudan 1 1 Cecafa Cup
+1996 355 home Kenya Zambia 1 0 Friendly
+1996 356 home Kenya Zambia 0 2 Friendly
+1997 4 home Kenya Malawi 2 2 Friendly
+1997 5 home Kenya Malawi 0 0 Friendly
+1997 12 home Kenya Nigeria 1 1 World Cup qualifier
+1997 25 home Kenya Gabon 1 0 African Nations Cup qualifier
+1997 53 home Kenya Cameroon 0 0 African Nations Cup qualifier
+1997 99 home Kenya BurkinaFaso 4 3 World Cup qualifier
+1997 114 away Kenya Iran 3 0 Friendly
+1997 120 home Kenya Guinea 1 0 World Cup qualifier
+1997 162 away Kenya Nigeria 3 0 World Cup qualifier
+1997 176 home Kenya Namibia 0 1 African Nations Cup qualifier
+1997 199 away Kenya Gabon 1 0 African Nations Cup qualifier
+1997 213 away Kenya Cameroon 1 1 African Nations Cup qualifier
+1997 233 away Kenya BurkinaFaso 2 4 World Cup qualifier
+1997 275 home Kenya Algeria 1 0 Friendly
+1998 161 home Kenya Seychelles 1 1 Friendly
+1998 168 away Kenya Seychelles 0 1 Friendly
+1998 204 away Kenya Uganda 3 3 Friendly
+1998 217 home Kenya Djibouti 3 0 African Nations Cup qualifier
+1998 232 home Kenya Djibouti 9 1 African Nations Cup qualifier
+1998 282 home Kenya Madagascar 1 1 African Nations Cup qualifier
+1999 24 away Kenya Dem. Rep. of Congo 2 1 African Nations Cup qualifier
+1999 31 away Kenya Ethiopia 2 2 Friendly
+1999 59 home Kenya Zambia 0 1 African Nations Cup qualifier
+1999 103 away Kenya Zambia 1 0 African Nations Cup qualifier
+1999 161 home Kenya Dem. Rep. of Congo 0 1 African Nations Cup qualifier
+1999 175 away Kenya Madagascar 1 1 African Nations Cup qualifier
+1999 207 away Kenya Oman 2 2 Friendly
+1999 214 home Kenya Eritrea 1 0 Cecafa Cup
+1999 218 home Kenya Sudan 3 0 Cecafa Cup
+1999 220 away Kenya Rwanda 0 0 Cecafa Cup
+2000 94 away Kenya Zambia 1 0 Friendly
+2000 101 away Kenya Malawi 2 0 World Cup qualifier
+2000 109 away Kenya Uganda 2 2 Friendly
+2000 115 home Kenya Malawi 0 0 World Cup qualifier
+2000 169 home Kenya BurkinaFaso 0 1 Friendly
+2000 188 away Kenya Swaziland 3 2 African Nations Cup qualifier
+2000 201 home Kenya Swaziland 3 0 African Nations Cup qualifier
+2000 242 away Kenya Egypt 2 1 Friendly
+2000 251 home Kenya Tunisia 0 0 African Nations Cup qualifier
+2000 278 home Kenya Burundi 1 0 Friendly
+2000 280 home Kenya Lesotho 1 1 Friendly
+2000 282 home Kenya Burundi 2 3 Friendly
+2000 287 away Kenya Morocco 1 0 African Nations Cup qualifier
+2000 304 home Kenya Tanzania 2 0 Lager Cup
+2000 307 home Kenya Uganda 1 1 Lager Cup
+2000 330 home Kenya Eritrea 0 0 Cecafa Cup
+2000 332 away Kenya Rwanda 2 1 Cecafa Cup
+2001 4 home Kenya Zambia 2 1 Friendly
+2001 13 home Kenya Gabon 2 1 African Nations Cup qualifier
+2001 72 home Kenya Uganda 1 0 Friendly
+2001 86 away Kenya Gabon 1 1 African Nations Cup qualifier
+2001 157 home Kenya Morocco 1 1 African Nations Cup qualifier
+2001 165 home Kenya Egypt 1 1 Friendly
+2001 172 away Kenya Tunisia 4 1 African Nations Cup qualifier
+2001 303 home Kenya Uganda 0 0 Lager Cup
+2001 306 away Kenya Tanzania 3 1 Lager Cup
+2001 351 home Kenya Eritrea 2 1 Cecafa Cup
+2001 353 home Kenya Somalia 3 0 Cecafa Cup
+2001 356 away Kenya Rwanda 0 0 Cecafa Cup
+2001 358 home Kenya Eritrea 1 0 Cecafa Cup
+2001 363 away Kenya Ethiopia 2 1 Cecafa Cup
+2002 128 away Kenya Nigeria 3 0 Friendly
+2002 135 home Kenya Tanzania 1 0 Friendly
+2002 142 away Kenya Tanzania 0 5 Friendly
+2002 220 home Kenya Uganda 0 0 Friendly
+2002 234 away Kenya Jordan 1 1 Friendly
+2002 241 away Kenya Rwanda 0 0 Friendly
+2002 255 home Kenya Togo 3 0 African Nations Cup qualifier
+2002 291 away Kenya CapeVerde 0 1 African Nations Cup qualifier
+2002 302 home Kenya SouthAfrica 1 1 Lager Cup
+2002 305 home Kenya Uganda 1 1 Lager Cup
+2002 340 away Kenya Tanzania 1 0 Cecafa Cup
+2002 344 away Kenya Burundi 1 1 Cecafa Cup
+2002 347 home Kenya Eritrea 4 1 Cecafa Cup
+2002 350 home Kenya Sudan 1 0 Cecafa Cup
+2002 353 home Kenya Uganda 3 1 Cecafa Cup
+2002 355 away Kenya Tanzania 2 3 Cecafa Cup
+2003 77 home Kenya Uganda 2 2 Friendly
+2003 84 home Kenya Tanzania 4 0 Friendly
+2003 91 home Kenya Mauritania 4 0 African Nations Cup qualifier
+2003 148 away Kenya Sudan 1 1 Friendly
+2003 155 home Kenya TrinidadTobago 1 1 Friendly
+2003 161 away Kenya Mauritania 0 0 African Nations Cup qualifier
+2003 168 away Kenya Ghana 1 3 Friendly
+2003 177 away Kenya Togo 2 0 African Nations Cup qualifier
+2003 191 home Kenya CapeVerde 1 0 African Nations Cup qualifier
+2003 261 away Kenya Rwanda 0 1 Friendly
+2003 290 away Kenya Tanzania 0 0 World Cup qualifier
+2003 325 home Kenya Tanzania 3 0 World Cup qualifier
+2003 343 home Kenya Eritrea 3 2 Cecafa Cup
+2003 345 away Kenya Uganda 1 1 Cecafa Cup
+2003 349 away Kenya Rwanda 1 1 Cecafa Cup
+2003 351 away Kenya Sudan 1 2 Cecafa Cup
+2003 353 away Kenya Egypt 1 0 Friendly tournament
+2003 356 away Kenya Iraq 2 0 Friendly tournament
+2003 359 away Kenya Bahrain 2 1 Friendly tournament
+2003 362 away Kenya UnitedArab 2 2 Friendly
+2004 16 away Kenya Libya 2 0 Friendly
+2004 19 away Kenya Libya 2 0 Friendly
+2004 26 away Kenya Mali 3 1 African Nations Cup
+2004 30 away Kenya Senegal 3 0 African Nations Cup
+2004 33 home Kenya BurkinaFaso 3 0 African Nations Cup
+2004 224 away Kenya Uganda 1 1 Friendly
+2004 235 home Kenya Uganda 4 1 Friendly
+2004 252 home Kenya Malawi 3 2 World Cup qualifier
+2004 288 away Kenya Botswana 2 1 World Cup qualifier
+2004 327 home Kenya Guinea 2 1 World Cup qualifier
+2004 353 home Kenya Sudan 2 2 Cecafa Cup
+2004 355 home Kenya Somalia 1 0 Cecafa Cup
+2004 359 home Kenya Uganda 1 1 Cecafa Cup
+2004 363 away Kenya Ethiopia 2 2 Cecafa Cup
+2004 366 away Kenya Sudan 2 1 Cecafa Cup
+2005 40 away Kenya Morocco 5 1 World Cup qualifier
+2005 74 home Kenya Rwanda 1 1 Friendly
+2005 85 home Kenya Ghana 2 2 Friendly
+2005 88 home Kenya Botswana 1 0 World Cup qualifier
+2005 160 away Kenya Guinea 1 0 World Cup qualifier
+2005 173 home Kenya Morocco 0 0 World Cup qualifier
+2005 234 away Kenya Tunisia 1 0 World Cup qualifier
+2005 251 home Kenya Tunisia 0 2 World Cup qualifier
+2005 287 away Kenya Malawi 3 0 World Cup qualifier
+2006 228 away Kenya Ethiopia 1 0 Friendly
+2006 250 home Kenya Eritrea 1 2 African Nations Cup qualifier
+2006 278 away Kenya Tanzania 0 0 Friendly
+2006 287 away Kenya Angola 3 1 African Nations Cup qualifier
+2007 87 home Kenya Swaziland 2 0 African Nations Cup qualifier
+2007 151 home Kenya Nigeria 0 1 Friendly
+2007 158 away Kenya Swaziland 0 0 African Nations Cup qualifier
+2007 165 home Kenya Rwanda 2 0 Friendly
+2007 171 away Kenya Eritrea 1 0 African Nations Cup qualifier
+2007 256 home Kenya Angola 2 1 African Nations Cup qualifier
+2007 331 away Kenya Oman 2 2 Friendly
+2007 332 away Kenya Oman 1 1 Friendly
+2007 349 away Kenya Tanzania 2 1 Cecafa Cup
+2007 353 away Kenya Burundi 1 0 Cecafa Cup
+2007 355 home Kenya Somalia 2 0 Cecafa Cup
+2007 359 away Kenya Uganda 1 1 Cecafa Cup
+2008 155 away Kenya Namibia 2 1 World Cup qualifier
+2008 162 home Kenya Guinea 2 0 World Cup qualifier
+2008 169 home Kenya Zimbabwe 2 0 World Cup qualifier
+2008 177 away Kenya Zimbabwe 0 0 World Cup qualifier
+2008 192 away Kenya Malawi 0 0 Friendly
+2008 254 home Kenya Namibia 1 0 World Cup qualifier
+2008 291 away Kenya Guinea 3 2 World Cup qualifier
+2008 372 away Kenya Sudan 0 0 Cecafa Cup
+2009 2 home Kenya Zambia 0 0 Cecafa Cup
+2009 6 home Kenya Djibouti 5 1 Cecafa Cup
+2009 8 home Kenya Burundi 1 0 Cecafa Cup
+2009 11 home Kenya Tanzania 2 1 Cecafa Cup
+2009 13 away Kenya Uganda 1 0 Cecafa Cup
+2009 23 away Kenya Egypt 1 0 Friendly
+2009 76 away Kenya Iran 1 0 Friendly
+2009 90 home Kenya Tunisia 1 2 World Cup qualifier
+2009 162 away Kenya Nigeria 3 0 World Cup qualifier
+2009 175 home Kenya Mozambique 2 1 World Cup qualifier
+2009 229 away Kenya Malaysia 0 0 Friendly
+2009 243 away Kenya Bahrain 2 1 Friendly tournament
+2009 254 away Kenya Mozambique 1 0 World Cup qualifier
+2009 290 away Kenya Tunisia 1 0 World Cup qualifier
+2009 313 away Kenya Kuwait 5 0 Friendly
+2009 324 home Kenya Nigeria 2 3 World Cup qualifier
+2009 338 home Kenya Zambia 0 2 Cecafa Cup
+2009 343 home Kenya Djibouti 2 0 Cecafa Cup
+2009 346 home Kenya Ethiopia 2 0 Cecafa Cup
+2009 348 home Kenya Uganda 0 1 Cecafa Cup
+2010 9 home Kenya Cameroon 1 3 Friendly
+2010 15 away Kenya Yemen 3 1 Friendly
+2010 228 away Kenya Tanzania 1 1 Friendly
+2010 235 away Kenya Ethiopia 0 3 Friendly
+2010 252 away Kenya Guinea-Bissau 1 0 African Nations Cup qualifier
+2010 288 home Kenya Uganda 0 0 African Nations Cup qualifier
+2010 333 away Kenya Tanzania 1 0 Friendly
+2010 339 away Kenya Malawi 3 2 Cecafa Cup
+2010 343 away Kenya Ethiopia 2 1 Cecafa Cup
+2010 346 away Kenya Uganda 2 0 Cecafa Cup
+2011 5 home Kenya Sudan 1 0 Nile Basin Tournament
+2011 8 away Kenya Dem. Rep. of Congo 1 0 Nile Basin Tournament
+2011 14 away Kenya Egypt 5 1 Nile Basin Tournament
+2011 17 away Kenya Dem. Rep. of Congo 1 0 Nile Basin Tournament
+2011 40 away Kenya SouthAfrica 2 0 Friendly
+2011 88 home Kenya Angola 2 1 African Nations Cup qualifier
+2011 91 away Kenya Nigeria 3 0 Friendly
+2011 160 away Kenya Angola 1 0 African Nations Cup qualifier
+2011 180 home Kenya Sudan 1 2 Friendly
+2011 227 away Kenya Botswana 1 0 Friendly
+2011 251 home Kenya Guinea-Bissau 2 1 African Nations Cup qualifier
+2011 287 away Kenya Uganda 0 0 African Nations Cup qualifier
+2011 321 away Kenya Seychelles 0 3 World Cup qualifier
+2011 325 home Kenya Seychelles 4 0 World Cup qualifier
+2011 338 away Kenya Malawi 2 0 Cecafa Cup
+2011 340 home Kenya Ethiopia 2 0 Cecafa Cup
+2011 344 away Kenya Sudan 1 0 Cecafa Cup
+2012 60 home Kenya Togo 2 1 African Nations Cup qualifier
+2012 157 home Kenya Malawi 0 0 World Cup qualifier
+2012 164 away Kenya Namibia 1 0 World Cup qualifier
+2012 172 away Kenya Togo 1 0 African Nations Cup qualifier
+2012 198 home Kenya Botswana 3 1 Friendly
+2012 295 home Kenya SouthAfrica 1 2 Friendly
+2012 324 away Kenya Tanzania 1 0 Friendly
+2012 334 away Kenya Uganda 1 0 Cecafa Cup
+2012 337 home Kenya SouthSudan 2 0 Cecafa Cup
+2012 340 home Kenya Ethiopia 3 1 Cecafa Cup
+2012 345 home Kenya Malawi 1 0 Cecafa Cup
+2012 347 home Kenya Zanzibar 2 2 Cecafa Cup
+2012 349 away Kenya Uganda 2 1 Cecafa Cup
+2013 37 home Kenya Libya 3 0 Friendly
+2013 85 away Kenya Nigeria 1 1 World Cup qualifier
+2013 160 home Kenya Nigeria 0 1 World Cup qualifier
+2013 167 away Kenya Malawi 2 2 World Cup qualifier
+2013 194 home Kenya Lesotho 2 2 Cosafa Cup
+2013 195 home Kenya Swaziland 2 0 Cosafa Cup
+2013 197 away Kenya Botswana 2 1 Cosafa Cup
+2013 256 home Kenya Namibia 1 0 World Cup qualifier
+2013 337 home Kenya Ethiopia 0 0 Cecafa Cup
+2013 340 home Kenya SouthSudan 3 1 Cecafa Cup
+2013 344 home Kenya Zanzibar 2 0 Cecafa Cup
+2013 348 home Kenya Rwanda 1 0 Cecafa Cup
+2013 351 home Kenya Tanzania 1 0 Cecafa Cup
+2013 353 home Kenya Sudan 2 0 Cecafa Cup

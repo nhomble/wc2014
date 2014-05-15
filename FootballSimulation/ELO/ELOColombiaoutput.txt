@@ -1,0 +1,512 @@
+1938 41 away Colombia Mexico 3 1 Central American and Caribbean Games
+1938 45 away Colombia Panama 2 4 Central American and Caribbean Games
+1938 49 away Colombia CostaRica 2 1 Central American and Caribbean Games
+1938 52 home Colombia ElSalvador 3 2 Central American and Caribbean Games
+1938 54 away Colombia Venezuela 2 1 Central American and Caribbean Games
+1938 225 home Colombia Peru 2 4 Bolivarian Games
+1938 227 home Colombia Ecuador 1 2 Bolivarian Games
+1938 230 home Colombia Venezuela 2 0 Bolivarian Games
+1938 233 home Colombia Bolivia 1 2 Bolivarian Games
+1945 21 away Colombia Brazil 3 0 Copa América
+1945 28 away Colombia Uruguay 7 0 Copa América
+1945 31 away Colombia Chile 2 0 Copa América
+1945 38 away Colombia Argentina 9 1 Copa América
+1945 49 home Colombia Ecuador 3 1 Copa América
+1945 52 away Colombia Bolivia 3 3 Copa América
+1946 350 home Colombia Curacao 4 2 Central American and Caribbean Games
+1946 352 home Colombia Venezuela 3 1 Central American and Caribbean Games
+1946 355 home Colombia Guatemala 4 2 Central American and Caribbean Games
+1946 357 home Colombia PuertoRico 4 1 Central American and Caribbean Games
+1946 359 home Colombia CostaRica 4 1 Central American and Caribbean Games
+1946 361 home Colombia Panama 2 1 Central American and Caribbean Games
+1947 343 away Colombia Uruguay 2 0 Copa América
+1947 345 away Colombia Ecuador 0 0 Copa América
+1947 354 away Colombia Bolivia 0 0 Copa América
+1947 359 away Colombia Argentina 6 0 Copa América
+1947 361 away Colombia Paraguay 2 0 Copa América
+1947 364 away Colombia Peru 5 1 Copa América
+1947 370 away Colombia Chile 4 1 Copa América
+1949 99 away Colombia Paraguay 3 0 Copa América
+1949 103 away Colombia Peru 4 0 Copa América
+1949 110 away Colombia Brazil 5 0 Copa América
+1949 113 away Colombia Chile 1 1 Copa América
+1949 117 home Colombia Uruguay 2 2 Copa América
+1949 127 away Colombia Ecuador 3 2 Copa América
+1949 130 away Colombia Bolivia 4 0 Copa América
+1950 1 away Colombia Guatemala 2 1 Central American and Caribbean Games
+1950 2 away Colombia Honduras 2 0 Central American and Caribbean Games
+1954 63 home Colombia Cuba 2 1 Central American and Caribbean Games
+1954 64 home Colombia ElSalvador 2 2 Central American and Caribbean Games
+1954 65 home Colombia Panama 2 1 Central American and Caribbean Games
+1957 75 away Colombia Argentina 8 2 Copa América
+1957 79 home Colombia Uruguay 1 0 Copa América
+1957 83 away Colombia Chile 3 2 Copa América
+1957 86 away Colombia Brazil 9 0 Copa América
+1957 89 away Colombia Peru 4 1 Copa América
+1957 94 home Colombia Ecuador 4 1 Copa América
+1957 171 home Colombia Uruguay 1 1 World Cup qualifier
+1957 175 home Colombia Paraguay 2 3 World Cup qualifier
+1957 178 home Colombia Paraguay 1 2 Friendly
+1957 185 away Colombia Uruguay 1 0 World Cup qualifier
+1957 193 away Colombia Paraguay 3 0 World Cup qualifier
+1961 123 home Colombia Peru 1 0 World Cup qualifier
+1961 131 away Colombia Peru 1 1 World Cup qualifier
+1962 94 home Colombia Mexico 0 1 Friendly
+1962 97 home Colombia Mexico 2 2 Friendly
+1962 118 away Colombia Mexico 1 0 Friendly
+1962 154 away Colombia Uruguay 2 1 World Cup
+1962 158 home Colombia SovietUnion 4 4 World Cup
+1962 162 away Colombia Yugoslavia 5 0 World Cup
+1963 72 away Colombia Argentina 4 2 Copa América
+1963 76 away Colombia Brazil 5 1 Copa América
+1963 79 away Colombia Bolivia 2 1 Copa América
+1963 82 away Colombia Paraguay 3 2 Copa América
+1963 86 home Colombia Peru 1 1 Copa América
+1963 93 away Colombia Ecuador 4 3 Copa América
+1963 249 home Colombia CostaRica 4 5 Friendly
+1963 252 home Colombia CostaRica 1 0 Friendly
+1965 206 home Colombia Ecuador 0 1 World Cup qualifier
+1965 211 away Colombia Ecuador 2 0 World Cup qualifier
+1965 218 away Colombia Chile 7 2 World Cup qualifier
+1965 224 home Colombia Chile 2 0 World Cup qualifier
+1966 340 away Colombia Chile 5 2 Copa América qualifier
+1966 352 home Colombia Chile 0 0 Copa América qualifier
+1968 39 away Colombia CostaRica 3 1 Friendly
+1968 235 home Colombia Argentina 0 1 Friendly
+1968 270 home Colombia CostaRica 1 1 Friendly
+1968 295 home Colombia Mexico 0 1 Friendly
+1969 35 away Colombia Mexico 1 0 Friendly
+1969 51 home Colombia SovietUnion 1 3 Friendly
+1969 132 home Colombia Peru 1 3 Friendly
+1969 170 home Colombia Chile 3 3 Friendly
+1969 173 away Colombia Peru 1 1 Friendly
+1969 177 away Colombia Ecuador 4 1 Friendly
+1969 188 home Colombia Uruguay 0 1 Friendly
+1969 201 home Colombia Chile 3 3 Friendly
+1969 213 home Colombia Venezuela 3 0 World Cup qualifier
+1969 219 away Colombia Venezuela 1 1 World Cup qualifier
+1969 223 home Colombia Brazil 0 2 World Cup qualifier
+1969 227 home Colombia Paraguay 0 1 World Cup qualifier
+1969 238 away Colombia Brazil 6 2 World Cup qualifier
+1969 241 away Colombia Paraguay 2 1 World Cup qualifier
+1970 144 home Colombia England 0 4 Friendly
+1972 91 home Colombia Peru 1 1 Friendly
+1972 158 away Colombia Venezuela 2 1 Friendly
+1972 161 away Colombia Peru 0 0 Friendly
+1972 173 away Colombia France 3 2 Independence Cup
+1972 177 away Colombia Argentina 4 1 Independence Cup
+1973 46 home Colombia EastGermany 0 2 Friendly
+1973 151 away Colombia Haiti 1 2 Friendly
+1973 153 away Colombia Haiti 2 1 Friendly
+1973 176 home Colombia Ecuador 1 1 World Cup qualifier
+1973 179 home Colombia Uruguay 0 0 World Cup qualifier
+1973 183 away Colombia Ecuador 1 1 World Cup qualifier
+1973 187 away Colombia Peru 3 1 Friendly
+1973 191 away Colombia Uruguay 0 1 World Cup qualifier
+1975 206 home Colombia Paraguay 1 0 Copa América
+1975 213 away Colombia Ecuador 1 3 Copa América
+1975 216 away Colombia Paraguay 0 1 Copa América
+1975 224 home Colombia Ecuador 2 0 Copa América
+1975 269 home Colombia Uruguay 3 0 Copa América
+1975 280 away Colombia Uruguay 1 0 Copa América
+1975 295 home Colombia Peru 1 0 Copa América
+1975 301 away Colombia Peru 2 0 Copa América
+1975 307 away Colombia Peru 1 0 Copa América
+1976 294 home Colombia Uruguay 1 2 Friendly
+1977 16 home Colombia Ecuador 0 1 Friendly
+1977 26 away Colombia Ecuador 4 1 Friendly
+1977 30 home Colombia Yugoslavia 0 1 Friendly
+1977 51 home Colombia Brazil 0 0 World Cup qualifier
+1977 55 home Colombia Paraguay 0 1 World Cup qualifier
+1977 68 away Colombia Paraguay 1 1 World Cup qualifier
+1977 71 away Colombia Brazil 6 0 World Cup qualifier
+1979 204 away Colombia Peru 0 1 Friendly
+1979 211 home Colombia Peru 1 2 Friendly
+1979 218 away Colombia Venezuela 0 0 Copa América
+1979 232 home Colombia Chile 1 0 Copa América
+1979 239 home Colombia Venezuela 4 0 Copa América
+1979 253 away Colombia Chile 2 0 Copa América
+1980 5 away Colombia Venezuela 0 0 Friendly
+1980 167 home Colombia CostaRica 3 1 Friendly
+1980 174 away Colombia CostaRica 1 0 Friendly
+1980 195 home Colombia Poland 1 4 Friendly
+1981 32 home Colombia Brazil 1 1 Friendly
+1981 72 away Colombia Chile 1 0 Friendly
+1981 77 away Colombia Paraguay 0 2 Friendly
+1981 81 home Colombia Chile 1 2 Friendly
+1981 188 home Colombia Spain 1 1 Friendly
+1981 212 home Colombia Peru 1 1 World Cup qualifier
+1981 226 away Colombia Uruguay 3 2 World Cup qualifier
+1981 233 away Colombia Peru 2 0 World Cup qualifier
+1981 261 home Colombia Uruguay 1 1 World Cup qualifier
+1983 200 home Colombia Chile 2 2 Friendly
+1983 212 away Colombia Ecuador 0 0 Friendly
+1983 215 home Colombia Ecuador 0 0 Friendly
+1983 231 away Colombia Bolivia 0 1 Copa América
+1983 234 away Colombia Peru 1 0 Copa América
+1983 245 home Colombia Peru 2 2 Copa América
+1983 248 home Colombia Bolivia 2 2 Copa América
+1984 23 away Colombia ElSalvador 0 1 Friendly
+1984 212 home Colombia Peru 1 1 Friendly
+1984 226 away Colombia Peru 0 0 Friendly
+1984 241 home Colombia Argentina 1 0 Friendly
+1984 288 away Colombia Mexico 1 0 Friendly
+1984 290 away Colombia UnitedStates 1 0 Friendly
+1985 32 home Colombia Switzerland 2 2 Friendly
+1985 41 home Colombia Poland 1 2 Friendly
+1985 45 home Colombia Poland 1 0 Friendly
+1985 52 away Colombia Chile 1 1 Friendly
+1985 55 away Colombia Uruguay 3 0 Friendly
+1985 59 away Colombia Paraguay 0 3 Friendly
+1985 110 home Colombia Paraguay 1 0 Friendly
+1985 112 home Colombia Paraguay 2 2 Friendly
+1985 118 away Colombia Brazil 2 1 Friendly
+1985 121 home Colombia Uruguay 2 1 Friendly
+1985 139 home Colombia Brazil 1 0 Friendly
+1985 150 home Colombia Peru 1 0 World Cup qualifier
+1985 157 home Colombia Argentina 1 3 World Cup qualifier
+1985 164 away Colombia Peru 0 0 World Cup qualifier
+1985 171 away Colombia Argentina 1 0 World Cup qualifier
+1985 178 away Colombia Venezuela 2 2 World Cup qualifier
+1985 185 home Colombia Venezuela 2 0 World Cup qualifier
+1985 306 away Colombia Paraguay 3 0 World Cup qualifier
+1985 313 home Colombia Paraguay 2 1 World Cup qualifier
+1987 166 home Colombia Ecuador 1 0 Friendly
+1987 169 away Colombia Ecuador 3 0 Friendly
+1987 187 home Colombia Bolivia 2 0 Copa América
+1987 191 home Colombia Paraguay 3 0 Copa América
+1987 194 away Colombia Chile 2 1 Copa América
+1987 197 away Colombia Argentina 1 2 Copa América
+1988 92 home Colombia Canada 3 0 Friendly
+1988 138 away Colombia UnitedStates 0 2 Friendly
+1988 141 away Colombia Scotland 0 0 Friendly tournament
+1988 143 away Colombia Finland 1 3 Friendly
+1988 148 away Colombia England 1 1 Friendly tournament
+1988 224 home Colombia Uruguay 2 1 Friendly tournament
+1989 34 home Colombia Peru 1 0 Friendly tournament
+1989 36 home Colombia Chile 1 0 Friendly tournament
+1989 71 home Colombia Argentina 1 0 Friendly
+1989 179 away Colombia UnitedStates 0 1 Friendly
+1989 182 home Colombia Haiti 4 0 Friendly
+1989 189 home Colombia Venezuela 4 2 Copa América
+1989 191 home Colombia Paraguay 0 1 Copa América
+1989 193 away Colombia Brazil 0 0 Copa América
+1989 195 home Colombia Peru 1 1 Copa América
+1989 223 away Colombia Uruguay 0 0 Friendly
+1989 237 home Colombia Ecuador 2 0 World Cup qualifier
+1989 244 away Colombia Paraguay 2 1 World Cup qualifier
+1989 251 away Colombia Ecuador 0 0 World Cup qualifier
+1989 265 home Colombia Paraguay 2 1 World Cup qualifier
+1989 294 home Colombia Israel 1 0 World Cup qualifier
+1989 309 away Colombia Israel 0 0 World Cup qualifier
+1990 33 away Colombia Uruguay 2 0 Friendly tournament
+1990 35 away Colombia UnitedStates 1 1 Friendly tournament
+1990 51 home Colombia SovietUnion 0 0 Friendly tournament
+1990 110 away Colombia Mexico 2 0 Friendly
+1990 115 away Colombia UnitedStates 0 1 Friendly
+1990 128 home Colombia Poland 2 1 Friendly tournament
+1990 150 away Colombia Egypt 1 1 Friendly
+1990 157 away Colombia Hungary 3 1 Friendly
+1990 164 home Colombia UnitedArab 2 0 World Cup
+1990 169 home Colombia Yugoslavia 0 1 World Cup
+1990 174 home Colombia Germany 1 1 World Cup
+1990 178 away Colombia Cameroon 2 1 World Cup
+1991 29 away Colombia Mexico 0 0 Friendly
+1991 34 away Colombia Switzerland 3 2 Friendly tournament
+1991 160 away Colombia Sweden 2 2 Friendly
+1991 180 away Colombia CostaRica 0 1 Friendly
+1991 193 home Colombia Ecuador 1 0 Copa América
+1991 197 home Colombia Bolivia 0 0 Copa América
+1991 199 home Colombia Brazil 2 0 Copa América
+1991 201 away Colombia Uruguay 1 0 Copa América
+1991 203 away Colombia Chile 1 1 Copa América
+1991 205 away Colombia Brazil 2 0 Copa América
+1991 207 away Colombia Argentina 2 1 Copa América
+1992 194 away Colombia Honduras 1 0 Friendly
+1992 217 away Colombia UnitedStates 0 1 Friendship Cup
+1992 219 away Colombia Mexico 0 0 Friendship Cup
+1993 55 away Colombia Venezuela 0 0 Friendly
+1993 93 home Colombia CostaRica 4 1 Friendly
+1993 132 away Colombia UnitedStates 1 2 Friendly
+1993 145 home Colombia Venezuela 1 1 Friendly
+1993 154 away Colombia Chile 1 1 Friendly
+1993 161 home Colombia Chile 1 0 Friendly
+1993 171 home Colombia Mexico 2 1 Copa América
+1993 175 home Colombia Bolivia 1 1 Copa América
+1993 178 away Colombia Argentina 1 1 Copa América
+1993 181 home Colombia Uruguay 1 1 Copa América
+1993 187 away Colombia Argentina 0 0 Copa América
+1993 189 away Colombia Ecuador 0 1 Copa América
+1993 218 home Colombia Paraguay 0 0 World Cup qualifier
+1993 225 away Colombia Peru 0 1 World Cup qualifier
+1993 232 home Colombia Argentina 2 1 World Cup qualifier
+1993 239 away Colombia Paraguay 1 1 World Cup qualifier
+1993 246 home Colombia Peru 4 0 World Cup qualifier
+1993 253 away Colombia Argentina 0 5 World Cup qualifier
+1994 28 away Colombia Venezuela 1 2 Friendly
+1994 37 away Colombia SaudiArabia 1 1 Friendly
+1994 40 away Colombia SaudiArabia 0 1 Friendly
+1994 49 home Colombia Sweden 0 0 Friendly tournament
+1994 51 home Colombia Bolivia 2 0 Friendly tournament
+1994 57 home Colombia SouthKorea 2 2 Friendly
+1994 64 away Colombia Mexico 0 0 Friendly
+1994 100 home Colombia Bolivia 0 1 Friendly
+1994 110 home Colombia Nigeria 1 0 Friendly
+1994 127 home Colombia Peru 1 0 Friendly tournament
+1994 129 home Colombia ElSalvador 3 0 Friendly tournament
+1994 158 home Colombia NorthernIreland 2 0 Friendly
+1994 160 home Colombia Greece 2 0 Friendly
+1994 173 away Colombia Romania 3 1 World Cup
+1994 177 away Colombia UnitedStates 2 1 World Cup
+1994 181 home Colombia Switzerland 2 0 World Cup
+1995 31 away Colombia SouthKorea 1 0 Carlsberg Cup
+1995 38 away Colombia Australia 0 0 Friendly
+1995 42 away Colombia Australia 0 1 Friendly
+1995 84 home Colombia Uruguay 2 1 Friendly
+1995 172 home Colombia Nigeria 1 0 US Cup
+1995 176 away Colombia Mexico 0 0 US Cup
+1995 180 away Colombia UnitedStates 0 0 US Cup
+1995 193 home Colombia Peru 1 1 Copa América
+1995 196 home Colombia Ecuador 1 0 Copa América
+1995 199 away Colombia Brazil 3 0 Copa América
+1995 202 home Colombia Paraguay 1 1 Copa América
+1995 205 away Colombia Uruguay 2 0 Copa América
+1995 208 home Colombia UnitedStates 4 1 Copa América
+1995 254 away Colombia England 0 0 Friendly
+1995 290 away Colombia Argentina 0 0 Friendly
+1995 305 away Colombia China 2 1 Friendly
+1995 339 away Colombia Mexico 2 2 Friendly
+1995 361 away Colombia Brazil 3 1 Friendly
+1996 68 home Colombia Honduras 2 1 Friendly
+1996 83 home Colombia TrinidadTobago 3 0 Friendly
+1996 90 home Colombia Bolivia 4 1 Friendly
+1996 117 home Colombia Paraguay 1 0 World Cup qualifier
+1996 153 home Colombia Scotland 1 0 Friendly
+1996 157 away Colombia Peru 1 1 World Cup qualifier
+1996 193 home Colombia Uruguay 3 1 World Cup qualifier
+1996 249 home Colombia Chile 4 1 World Cup qualifier
+1996 288 away Colombia Ecuador 0 1 World Cup qualifier
+1996 311 home Colombia Honduras 2 1 Friendly
+1996 320 away Colombia Bolivia 2 2 World Cup qualifier
+1996 333 away Colombia SouthKorea 4 1 Friendly
+1996 356 away Colombia Venezuela 0 2 World Cup qualifier
+1997 39 home Colombia Slovakia 1 0 Friendly
+1997 43 home Colombia Argentina 0 1 World Cup qualifier
+1997 95 away Colombia Paraguay 2 1 World Cup qualifier
+1997 123 home Colombia Peru 0 1 World Cup qualifier
+1997 163 away Colombia Uruguay 1 1 World Cup qualifier
+1997 168 away Colombia Mexico 2 1 Copa América
+1997 171 home Colombia CostaRica 4 1 Copa América
+1997 174 away Colombia Brazil 2 0 Copa América
+1997 176 away Colombia Bolivia 2 1 Copa América
+1997 191 away Colombia Chile 4 1 World Cup qualifier
+1997 206 home Colombia Ecuador 1 0 World Cup qualifier
+1997 223 away Colombia Jamaica 1 0 Friendly
+1997 237 home Colombia Bolivia 3 0 World Cup qualifier
+1997 241 away Colombia Peru 2 1 Friendly
+1997 258 home Colombia Venezuela 1 0 World Cup qualifier
+1997 287 away Colombia Norway 0 0 Friendly
+1997 326 away Colombia Argentina 1 1 World Cup qualifier
+1998 87 home Colombia Yugoslavia 0 0 Friendly
+1998 91 home Colombia Paraguay 1 1 Friendly
+1998 115 away Colombia Chile 2 2 Friendly
+1998 148 away Colombia Scotland 2 2 Friendly
+1998 154 away Colombia Germany 3 1 Friendly
+1998 158 away Colombia Belgium 2 0 Friendly
+1998 170 away Colombia Romania 1 0 World Cup
+1998 177 home Colombia Tunisia 1 0 World Cup
+1998 181 away Colombia England 2 0 World Cup
+1999 40 home Colombia Germany 3 3 Friendly
+1999 92 away Colombia Venezuela 0 0 Friendly
+1999 108 away Colombia Venezuela 1 1 Friendly
+1999 115 away Colombia Paraguay 0 2 Friendly
+1999 153 away Colombia ElSalvador 2 1 Friendly
+1999 172 home Colombia Peru 3 3 Friendly
+1999 179 away Colombia Paraguay 2 1 Friendly
+1999 187 home Colombia Uruguay 1 0 Copa América
+1999 190 home Colombia Argentina 3 0 Copa América
+1999 193 home Colombia Ecuador 2 1 Copa América
+1999 197 away Colombia Chile 3 2 Copa América
+1999 256 away Colombia TrinidadTobago 4 3 Friendly
+1999 292 away Colombia Argentina 2 1 Friendly
+1999 299 home Colombia Mexico 0 0 Friendly
+1999 329 home Colombia Slovakia 1 0 Friendly
+2000 43 home Colombia Jamaica 1 0 Concacaf Gold Cup
+2000 47 away Colombia Honduras 2 0 Concacaf Gold Cup
+2000 50 away Colombia UnitedStates 2 2 Concacaf Gold Cup
+2000 54 home Colombia Peru 2 1 Concacaf Gold Cup
+2000 58 away Colombia Canada 2 0 Concacaf Gold Cup
+2000 90 home Colombia Brazil 0 0 World Cup qualifier
+2000 119 away Colombia Bolivia 1 1 World Cup qualifier
+2000 151 home Colombia Jamaica 3 0 Friendly
+2000 159 home Colombia Venezuela 3 0 World Cup qualifier
+2000 184 home Colombia Argentina 1 3 World Cup qualifier
+2000 205 away Colombia Peru 0 1 World Cup qualifier
+2000 211 away Colombia Ecuador 0 0 World Cup qualifier
+2000 232 home Colombia Uruguay 1 0 World Cup qualifier
+2000 250 away Colombia Chile 0 1 World Cup qualifier
+2000 286 home Colombia Paraguay 0 2 World Cup qualifier
+2000 325 away Colombia Brazil 1 0 World Cup qualifier
+2001 31 home Colombia Mexico 3 2 Friendly
+2001 34 away Colombia UnitedStates 0 1 Friendly
+2001 59 home Colombia Australia 3 2 Friendly
+2001 89 home Colombia Bolivia 2 0 World Cup qualifier
+2001 117 away Colombia Venezuela 2 2 World Cup qualifier
+2001 158 away Colombia Argentina 3 0 World Cup qualifier
+2001 197 home Colombia Venezuela 2 0 Copa América
+2001 200 home Colombia Ecuador 1 0 Copa América
+2001 203 home Colombia Chile 2 0 Copa América
+2001 209 home Colombia Peru 3 0 Copa América
+2001 212 home Colombia Honduras 2 0 Copa América
+2001 215 home Colombia Mexico 1 0 Copa América
+2001 221 home Colombia Liberia 2 1 Friendly
+2001 233 home Colombia Peru 0 1 World Cup qualifier
+2001 253 home Colombia Ecuador 0 0 World Cup qualifier
+2001 286 away Colombia Uruguay 1 1 World Cup qualifier
+2001 317 home Colombia Chile 3 1 World Cup qualifier
+2001 324 away Colombia Paraguay 0 4 World Cup qualifier
+2002 131 away Colombia Venezuela 0 0 Friendly
+2002 133 away Colombia CostaRica 1 2 Friendly
+2002 136 away Colombia Mexico 2 1 Friendly
+2002 330 away Colombia Honduras 1 0 Friendly
+2003 43 away Colombia Mexico 0 0 Friendly
+2003 91 away Colombia SouthKorea 0 0 Friendly
+2003 123 home Colombia Honduras 0 0 Friendly
+2003 163 home Colombia Ecuador 0 0 Friendly
+2003 173 away Colombia France 1 0 Confederations Cup
+2003 175 home Colombia NewZealand 3 1 Confederations Cup
+2003 177 home Colombia Japan 1 0 Confederations Cup
+2003 181 away Colombia Cameroon 1 0 Confederations Cup
+2003 183 away Colombia Turkey 2 1 Confederations Cup
+2003 199 home Colombia Jamaica 1 0 Concacaf Gold Cup
+2003 203 home Colombia Guatemala 1 1 Concacaf Gold Cup
+2003 205 away Colombia Brazil 2 0 Concacaf Gold Cup
+2003 237 home Colombia Slovakia 0 0 Friendly
+2003 255 home Colombia Brazil 1 2 World Cup qualifier
+2003 258 away Colombia Bolivia 4 0 World Cup qualifier
+2003 325 home Colombia Venezuela 0 1 World Cup qualifier
+2003 329 home Colombia Argentina 1 1 World Cup qualifier
+2004 49 away Colombia Honduras 1 1 Friendly
+2004 93 away Colombia Peru 0 2 World Cup qualifier
+2004 121 home Colombia ElSalvador 2 0 Friendly
+2004 157 away Colombia Ecuador 2 1 World Cup qualifier
+2004 161 home Colombia Uruguay 5 0 World Cup qualifier
+2004 182 home Colombia Argentina 2 0 Friendly
+2004 192 home Colombia Venezuela 1 0 Copa América
+2004 195 home Colombia Bolivia 1 0 Copa América
+2004 198 away Colombia Peru 2 2 Copa América
+2004 203 home Colombia CostaRica 2 0 Copa América
+2004 206 away Colombia Argentina 3 0 Copa América
+2004 210 away Colombia Uruguay 2 1 Copa América
+2004 253 away Colombia Chile 0 0 World Cup qualifier
+2004 288 home Colombia Paraguay 1 1 World Cup qualifier
+2004 292 away Colombia Brazil 0 0 World Cup qualifier
+2004 327 home Colombia Bolivia 1 0 World Cup qualifier
+2005 15 home Colombia SouthKorea 2 1 Friendly
+2005 17 home Colombia Guatemala 1 1 Friendly
+2005 54 away Colombia Mexico 1 1 Friendly
+2005 71 away Colombia UnitedStates 3 0 Friendly
+2005 88 away Colombia Venezuela 0 0 World Cup qualifier
+2005 92 away Colombia Argentina 1 0 World Cup qualifier
+2005 155 away Colombia England 3 2 Friendly
+2005 159 home Colombia Peru 5 0 World Cup qualifier
+2005 163 home Colombia Ecuador 3 0 World Cup qualifier
+2005 192 away Colombia Panama 1 0 Concacaf Gold Cup
+2005 196 away Colombia Honduras 2 1 Concacaf Gold Cup
+2005 198 home Colombia TrinidadTobago 2 0 Concacaf Gold Cup
+2005 203 home Colombia Mexico 2 1 Concacaf Gold Cup
+2005 207 away Colombia Panama 3 2 Concacaf Gold Cup
+2005 252 away Colombia Uruguay 3 2 World Cup qualifier
+2005 287 home Colombia Chile 1 1 World Cup qualifier
+2005 291 away Colombia Paraguay 0 1 World Cup qualifier
+2006 63 away Colombia Venezuela 1 1 Friendly
+2006 148 home Colombia Ecuador 1 1 Friendly
+2006 151 home Colombia Romania 0 0 Friendly
+2006 154 away Colombia Poland 1 2 Friendly
+2006 157 away Colombia Germany 3 0 Friendly
+2006 159 home Colombia Morocco 2 0 Friendly
+2006 233 away Colombia Chile 1 2 Friendly
+2007 38 home Colombia Uruguay 1 3 Friendly
+2007 87 home Colombia Switzerland 3 1 Friendly
+2007 90 home Colombia Paraguay 2 0 Friendly
+2007 133 away Colombia Panama 0 4 Friendly
+2007 158 home Colombia Montenegro 1 0 Kirin Cup
+2007 160 away Colombia Japan 0 0 Kirin Cup
+2007 178 home Colombia Ecuador 3 1 Friendly
+2007 183 away Colombia Paraguay 5 0 Copa América
+2007 188 away Colombia Argentina 4 2 Copa América
+2007 191 home Colombia UnitedStates 1 0 Copa América
+2007 239 home Colombia Mexico 1 0 Friendly
+2007 256 away Colombia Peru 2 2 Friendly
+2007 260 home Colombia Paraguay 1 0 Friendly
+2007 293 home Colombia Brazil 0 0 World Cup qualifier
+2007 296 away Colombia Bolivia 0 0 World Cup qualifier
+2007 327 home Colombia Venezuela 1 0 World Cup qualifier
+2007 330 home Colombia Argentina 2 1 World Cup qualifier
+2008 37 away Colombia Uruguay 2 2 Friendly
+2008 88 away Colombia Honduras 2 1 Friendly
+2008 123 home Colombia Venezuela 5 2 Friendly
+2008 153 away Colombia Ireland 1 0 Friendly
+2008 158 away Colombia France 1 0 Friendly
+2008 169 away Colombia Peru 1 1 World Cup qualifier
+2008 173 away Colombia Ecuador 0 0 World Cup qualifier
+2008 237 away Colombia Ecuador 1 0 Friendly
+2008 254 home Colombia Uruguay 0 1 World Cup qualifier
+2008 258 away Colombia Chile 4 0 World Cup qualifier
+2008 290 home Colombia Paraguay 0 1 World Cup qualifier
+2008 294 away Colombia Brazil 0 0 World Cup qualifier
+2008 329 home Colombia Nigeria 1 0 Friendly
+2009 42 home Colombia Haiti 2 0 Friendly
+2009 90 home Colombia Bolivia 2 0 World Cup qualifier
+2009 93 away Colombia Venezuela 2 0 World Cup qualifier
+2009 161 away Colombia Argentina 1 0 World Cup qualifier
+2009 165 home Colombia Peru 1 0 World Cup qualifier
+2009 224 home Colombia ElSalvador 2 1 Friendly
+2009 229 away Colombia Venezuela 2 1 Friendly
+2009 253 home Colombia Ecuador 2 0 World Cup qualifier
+2009 257 away Colombia Uruguay 3 1 World Cup qualifier
+2009 278 home Colombia Mexico 2 1 Friendly
+2009 289 home Colombia Chile 2 4 World Cup qualifier
+2009 293 away Colombia Paraguay 0 2 World Cup qualifier
+2010 151 away Colombia SouthAfrica 2 1 Friendly
+2010 154 home Colombia Nigeria 1 1 Friendly
+2010 228 away Colombia Bolivia 1 1 Friendly
+2010 250 away Colombia Venezuela 0 2 Friendly
+2010 255 away Colombia Mexico 1 0 Friendly
+2010 287 home Colombia Ecuador 1 0 Friendly
+2010 291 away Colombia UnitedStates 0 0 Friendly
+2010 327 home Colombia Peru 1 1 Friendly
+2011 40 away Colombia Spain 1 0 Friendly
+2011 88 home Colombia Ecuador 2 0 Friendly
+2011 91 away Colombia Chile 2 0 Friendly
+2011 188 home Colombia CostaRica 1 0 Copa América
+2011 192 away Colombia Argentina 0 0 Copa América
+2011 196 home Colombia Bolivia 2 0 Copa América
+2011 202 away Colombia Peru 2 0 Copa América
+2011 251 home Colombia Honduras 2 0 Friendly
+2011 254 home Colombia Jamaica 2 0 Friendly
+2011 290 away Colombia Bolivia 1 2 World Cup qualifier
+2011 321 home Colombia Venezuela 1 1 World Cup qualifier
+2011 325 home Colombia Argentina 1 2 World Cup qualifier
+2012 60 home Colombia Mexico 2 0 Friendly
+2012 152 home Colombia Guyana 7 1 Friendly
+2012 158 away Colombia Peru 0 1 World Cup qualifier
+2012 165 away Colombia Ecuador 1 0 World Cup qualifier
+2012 255 home Colombia Uruguay 4 0 World Cup qualifier
+2012 259 away Colombia Chile 1 3 World Cup qualifier
+2012 291 home Colombia Paraguay 2 0 World Cup qualifier
+2012 295 home Colombia Cameroon 3 0 Friendly
+2012 324 away Colombia Brazil 1 1 Friendly
+2013 37 home Colombia Guatemala 4 1 Friendly
+2013 84 home Colombia Bolivia 5 0 World Cup qualifier
+2013 88 away Colombia Venezuela 1 0 World Cup qualifier
+2013 162 away Colombia Argentina 0 0 World Cup qualifier
+2013 166 home Colombia Peru 2 0 World Cup qualifier
+2013 231 home Colombia Serbia 1 0 Friendly
+2013 254 home Colombia Ecuador 1 0 World Cup qualifier
+2013 258 away Colombia Uruguay 2 0 World Cup qualifier
+2013 290 home Colombia Chile 3 3 World Cup qualifier
+2013 294 away Colombia Paraguay 1 2 World Cup qualifier
+2013 324 away Colombia Belgium 0 2 Friendly
+2013 329 away Colombia Holland 0 0 Friendly
+2014 67 home Colombia Tunisia 1 1 Friendly

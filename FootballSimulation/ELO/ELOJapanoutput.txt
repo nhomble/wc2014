@@ -1,0 +1,661 @@
+1917 133 home Japan China 0 5 Far Eastern Games
+1917 134 home Japan Philippines 2 15 Far Eastern Games
+1921 154 away Japan Philippines 3 0 Far Eastern Games
+1921 157 away Japan China 4 1 Far Eastern Games
+1923 147 home Japan Philippines 1 2 Far Eastern Games
+1923 148 home Japan China 1 5 Far Eastern Games
+1925 144 away Japan China 2 0 Far Eastern Games
+1925 147 away Japan Philippines 4 0 Far Eastern Games
+1927 244 away Japan China 5 1 Far Eastern Games
+1927 246 home Japan Philippines 2 1 Far Eastern Games
+1930 149 home Japan Philippines 7 2 Far Eastern Games
+1930 153 home Japan China 3 3 Far Eastern Games
+1934 137 away Japan DutchEast 7 1 Far Eastern Games
+1934 139 away Japan Philippines 3 4 Far Eastern Games
+1934 143 away Japan China 4 3 Far Eastern Games
+1936 221 home Japan Sweden 3 2 Olympic Games
+1936 224 away Japan Italy 8 0 Olympic Games
+1951 69 away Japan Iran 0 0 Asian Games
+1951 70 away Japan Iran 3 2 Asian Games
+1951 71 home Japan Afghanistan 2 0 Asian Games
+1954 69 home Japan SouthKorea 1 5 World Cup qualifier
+1954 76 home Japan SouthKorea 2 2 World Cup qualifier
+1954 125 away Japan India 3 2 Asian Games
+1954 126 away Japan Indonesia 5 3 Asian Games
+1955 11 away Japan Burma 0 1 Friendly
+1955 298 home Japan Burma 0 0 Friendly
+1956 156 away Japan Philippines 0 2 South East Asian Games
+1956 157 away Japan Philippines 0 3 South East Asian Games
+1956 158 home Japan SouthKorea 2 0 Olympic Games qualifier
+1956 165 home Japan SouthKorea 0 2 Olympic Games qualifier
+1956 337 away Japan Australia 2 0 Olympic Games
+1958 149 home Japan HongKong 0 2 Asian Games
+1958 151 home Japan Philippines 0 1 Asian Games
+1958 369 away Japan Malaya 6 2 Friendly
+1959 4 away Japan Malaya 1 3 Friendly
+1959 10 away Japan Singapore 3 4 Friendly
+1959 11 away Japan Singapore 3 2 Friendly
+1959 247 away Japan HongKong 1 1 Merdeka Tournament
+1959 249 away Japan HongKong 4 2 Merdeka Tournament
+1959 251 home Japan Singapore 4 1 Merdeka Tournament
+1959 255 home Japan SouthKorea 0 0 Merdeka Tournament
+1959 256 away Japan SouthKorea 3 1 Merdeka Tournament
+1959 354 home Japan SouthKorea 0 2 Olympic Games qualifier
+1959 361 home Japan SouthKorea 1 0 Olympic Games qualifier
+1960 222 away Japan Malaya 3 0 Merdeka Tournament
+1960 225 home Japan Thailand 3 1 Merdeka Tournament
+1960 228 away Japan Pakistan 3 1 Merdeka Tournament
+1960 316 away Japan SouthKorea 2 1 World Cup qualifier
+1961 152 home Japan Malaya 3 2 Friendly
+1961 166 home Japan SouthKorea 0 2 World Cup qualifier
+1961 220 away Japan Malaya 3 2 Merdeka Tournament
+1961 222 away Japan SouthVietnam 3 2 Merdeka Tournament
+1961 226 home Japan India 3 1 Merdeka Tournament
+1961 232 away Japan Indonesia 2 0 Friendly
+1961 339 home Japan Yugoslavia 0 1 Friendly
+1962 241 home Japan Thailand 3 1 Asian Games
+1962 244 away Japan India 2 0 Asian Games
+1962 247 away Japan SouthKorea 1 0 Asian Games
+1962 257 away Japan Burma 3 1 Merdeka Tournament
+1962 260 away Japan Malaya 2 2 Merdeka Tournament
+1962 263 home Japan Pakistan 1 1 Merdeka Tournament
+1962 269 away Japan Singapore 2 1 Friendly
+1963 227 away Japan Malaysia 3 4 Merdeka Tournament
+1963 229 home Japan SouthVietnam 5 1 Merdeka Tournament
+1963 230 home Japan SouthKorea 1 1 Merdeka Tournament
+1963 232 away Japan Taiwan 2 0 Merdeka Tournament
+1963 234 home Japan Thailand 4 1 Merdeka Tournament
+1963 292 home Japan SouthVietnam 2 1 Friendly tournament
+1964 65 away Japan Singapore 1 2 Friendly
+1964 239 away Japan SouthVietnam 2 0 Merdeka Tournament
+1964 242 away Japan India 3 2 Merdeka Tournament
+1964 245 home Japan Khmer 4 0 Merdeka Tournament
+1964 248 home Japan Thailand 2 2 Merdeka Tournament
+1964 251 away Japan SouthKorea 3 0 Merdeka Tournament
+1964 253 home Japan Taiwan 2 2 Merdeka Tournament
+1964 295 home Japan Ghana 2 3 Olympic Games
+1964 299 home Japan Yugoslavia 1 6 Olympic Games Consolation Tournament
+1965 73 away Japan HongKong 1 4 Friendly
+1965 77 away Japan HongKong 1 2 Friendly
+1965 84 away Japan Burma 1 1 Friendly
+1965 87 away Japan Singapore 1 4 Friendly
+1965 89 away Japan Malaysia 1 1 Friendly
+1965 231 away Japan Malaysia 2 2 Merdeka Tournament
+1965 232 away Japan India 1 1 Merdeka Tournament
+1965 236 away Japan Taiwan 4 0 Merdeka Tournament
+1965 240 home Japan Burma 3 1 Merdeka Tournament
+1965 242 home Japan Thailand 0 0 Merdeka Tournament
+1965 245 home Japan SouthVietnam 2 1 Merdeka Tournament
+1966 231 away Japan SouthKorea 2 0 Merdeka Tournament
+1966 235 away Japan SouthVietnam 2 0 Merdeka Tournament
+1966 237 away Japan India 3 0 Merdeka Tournament
+1966 239 home Japan Singapore 1 0 Merdeka Tournament
+1966 241 home Japan Taiwan 5 2 Merdeka Tournament
+1966 351 home Japan India 2 1 Asian Games
+1966 352 home Japan Iran 3 1 Asian Games
+1966 355 home Japan Malaysia 1 0 Asian Games
+1966 357 home Japan Singapore 5 1 Asian Games
+1966 358 away Japan Thailand 1 5 Asian Games
+1966 359 away Japan Iran 1 0 Asian Games
+1966 360 home Japan Singapore 2 0 Asian Games
+1967 215 away Japan Taiwan 2 2 Asian Cup qualifier
+1967 218 home Japan SouthKorea 2 1 Asian Cup qualifier
+1967 220 home Japan Philippines 2 0 Asian Cup qualifier
+1967 222 home Japan Indonesia 2 1 Asian Cup qualifier
+1967 275 home Japan Philippines 15 0 Olympic Games qualifier
+1967 278 home Japan Taiwan 4 0 Olympic Games qualifier
+1967 282 home Japan Lebanon 3 1 Olympic Games qualifier
+1967 286 home Japan SouthKorea 3 3 Olympic Games qualifier
+1967 289 home Japan SouthVietnam 1 0 Olympic Games qualifier
+1968 88 away Japan Mexico 4 0 Friendly
+1968 92 away Japan Australia 2 2 Friendly
+1968 93 away Japan Australia 3 1 Friendly
+1968 97 away Japan Australia 1 3 Friendly
+1968 226 away Japan Indonesia 7 0 Merdeka Tournament
+1968 229 home Japan Singapore 2 1 Merdeka Tournament
+1968 232 home Japan Taiwan 1 0 Merdeka Tournament
+1968 235 away Japan SouthKorea 2 0 Merdeka Tournament
+1968 238 away Japan India 1 0 Merdeka Tournament
+1968 240 home Japan Thailand 2 1 Merdeka Tournament
+1968 293 home Japan Nigeria 3 1 Olympic Games
+1969 289 away Japan Australia 3 1 World Cup qualifier
+1969 291 away Japan SouthKorea 2 2 World Cup qualifier
+1969 295 away Japan Australia 1 1 World Cup qualifier
+1969 297 away Japan SouthKorea 2 0 World Cup qualifier
+1970 217 home Japan Singapore 4 0 Merdeka Tournament
+1970 218 home Japan SouthKorea 1 1 Merdeka Tournament
+1970 220 away Japan HongKong 2 1 Merdeka Tournament
+1970 222 home Japan Indonesia 4 3 Merdeka Tournament
+1970 224 home Japan Thailand 0 0 Merdeka Tournament
+1970 228 home Japan Taiwan 3 2 Merdeka Tournament
+1970 352 home Japan KhmerRepublic 1 0 Asian Games
+1970 353 home Japan Burma 2 1 Asian Games
+1970 354 home Japan Malaysia 1 0 Asian Games
+1970 356 home Japan India 1 0 Asian Games
+1970 358 home Japan Indonesia 2 1 Asian Games
+1970 359 away Japan SouthKorea 2 1 Asian Games
+1970 361 away Japan India 1 0 Asian Games
+1971 1 home Japan Taiwan 5 1 Olympic Games qualifier
+1971 2 home Japan Philippines 8 1 Olympic Games qualifier
+1971 214 away Japan Denmark 3 2 Friendly
+1971 223 home Japan Taiwan 2 0 Merdeka Tournament
+1971 226 away Japan Malaysia 4 1 Merdeka Tournament
+1971 229 away Japan SouthKorea 3 0 Merdeka Tournament
+1971 230 away Japan Iceland 0 2 Friendly
+1971 233 home Japan Thailand 3 2 Merdeka Tournament
+1971 234 away Japan SouthVietnam 2 0 Merdeka Tournament
+1971 238 home Japan India 1 0 Merdeka Tournament
+1971 271 away Japan Malaysia 3 0 Olympic Games qualifier
+1971 281 away Japan SouthKorea 2 1 Olympic Games qualifier
+1972 211 home Japan Burma 6 1 Merdeka Tournament
+1972 215 home Japan SriLanka 5 0 Merdeka Tournament
+1972 216 home Japan Philippines 5 1 Merdeka Tournament
+1972 220 away Japan Malaysia 3 1 Merdeka Tournament
+1972 223 home Japan KhmerRepublic 4 1 Merdeka Tournament
+1972 225 away Japan SouthKorea 3 0 Merdeka Tournament
+1972 262 home Japan SouthKorea 2 2 Friendly
+1973 140 away Japan Israel 2 1 World Cup qualifier
+1973 144 home Japan SouthVietnam 4 0 World Cup qualifier
+1973 146 away Japan HongKong 1 0 World Cup qualifier
+1973 150 away Japan Israel 1 0 World Cup qualifier
+1973 178 away Japan SouthKorea 2 0 Friendly
+1974 135 away Japan SouthKorea 3 0 Presidents Cup
+1974 137 home Japan Malaysia 2 2 Presidents Cup
+1974 139 home Japan KhmerRepublic 1 1 Presidents Cup
+1974 214 away Japan Romania 4 1 Friendly
+1974 251 home Japan Philippines 4 0 Asian Games
+1974 253 home Japan Malaysia 1 1 Asian Games
+1974 255 away Japan Israel 3 0 Asian Games
+1974 276 home Japan SouthKorea 4 1 Friendly
+1975 1 home Japan Philippines 3 0 Olympic Games qualifier
+1975 2 away Japan Philippines 0 3 Olympic Games qualifier
+1975 126 home Japan Singapore 2 1 Asian Cup qualifier
+1975 129 away Japan HongKong 0 0 Asian Cup qualifier
+1975 132 away Japan NorthKorea 1 0 Asian Cup qualifier
+1975 134 away Japan SouthKorea 1 0 Presidents Cup
+1975 136 away Japan China 2 1 Asian Cup qualifier
+1975 140 away Japan Indonesia 1 1 Presidents Cup
+1975 142 home Japan Lebanon 1 0 Presidents Cup
+1975 143 away Japan Burma 1 0 Presidents Cup
+1975 146 away Japan Iran 3 0 Presidents Cup
+1975 216 home Japan Bangladesh 3 0 Merdeka Tournament
+1975 218 home Japan Thailand 4 0 Merdeka Tournament
+1975 220 away Japan SouthKorea 3 1 Merdeka Tournament
+1975 222 away Japan Malaysia 2 0 Merdeka Tournament
+1975 226 home Japan Indonesia 4 1 Merdeka Tournament
+1975 228 away Japan HongKong 2 0 Merdeka Tournament
+1975 230 home Japan Burma 2 0 Merdeka Tournament
+1975 276 away Japan SouthKorea 3 0 Friendly
+1976 25 home Japan Bulgaria 1 3 Friendly
+1976 28 home Japan Bulgaria 1 1 Friendly
+1976 32 home Japan Bulgaria 0 3 Friendly
+1976 83 home Japan SouthKorea 0 2 Olympic Games qualifier
+1976 89 away Japan SouthKorea 2 2 Olympic Games qualifier
+1976 93 home Japan Israel 0 3 Olympic Games qualifier
+1976 104 away Japan Israel 4 1 Olympic Games qualifier
+1976 225 home Japan India 5 1 Merdeka Tournament
+1976 226 home Japan Thailand 2 2 Merdeka Tournament
+1976 228 home Japan Burma 2 2 Merdeka Tournament
+1976 229 home Japan SouthKorea 0 0 Merdeka Tournament
+1976 231 away Japan Malaysia 2 2 Merdeka Tournament
+1976 233 home Japan Indonesia 6 0 Merdeka Tournament
+1976 237 away Japan Malaysia 2 0 Merdeka Tournament
+1976 314 home Japan SouthKorea 1 2 Friendly
+1977 68 away Japan Israel 2 0 World Cup qualifier
+1977 72 away Japan Israel 2 0 World Cup qualifier
+1977 88 home Japan SouthKorea 0 0 World Cup qualifier
+1977 96 away Japan SouthKorea 1 0 World Cup qualifier
+1977 170 away Japan SouthKorea 2 1 Friendly
+1978 147 home Japan Thailand 3 0 Friendly tournament
+1978 149 home Japan SouthKorea 0 3 Friendly
+1978 198 away Japan SouthKorea 4 0 Merdeka Tournament
+1978 200 away Japan Iraq 0 0 Merdeka Tournament
+1978 204 home Japan Syria 3 2 Merdeka Tournament
+1978 206 away Japan Singapore 2 1 Merdeka Tournament
+1978 208 away Japan Indonesia 2 1 Merdeka Tournament
+1978 211 away Japan Malaysia 4 1 Merdeka Tournament
+1978 213 home Japan Thailand 4 0 Merdeka Tournament
+1978 329 home Japan SovietUnion 1 4 Friendly
+1978 333 home Japan SovietUnion 1 4 Friendly
+1978 336 home Japan SovietUnion 0 3 Friendly
+1978 351 away Japan Kuwait 2 0 Asian Games
+1978 353 home Japan Bahrain 4 0 Asian Games
+1978 355 away Japan SouthKorea 3 1 Asian Games
+1979 66 home Japan SouthKorea 2 1 Friendly
+1979 155 home Japan Indonesia 4 0 Friendly tournament
+1979 171 away Japan SouthKorea 4 1 Friendly
+1979 185 home Japan Thailand 2 0 Merdeka Tournament
+1979 188 away Japan Malaysia 1 1 Merdeka Tournament
+1979 190 away Japan SouthKorea 1 0 Merdeka Tournament
+1979 192 home Japan Burma 1 0 Merdeka Tournament
+1979 195 away Japan Indonesia 0 0 Merdeka Tournament
+1979 197 home Japan Singapore 3 1 Merdeka Tournament
+1980 135 home Japan Luxembourg 1 0 Friendly
+1980 363 home Japan Singapore 1 0 World Cup qualifier
+1980 367 away Japan China 1 0 World Cup qualifier
+1980 369 home Japan Macao 3 0 World Cup qualifier
+1980 371 away Japan NorthKorea 1 0 World Cup qualifier
+1981 70 home Japan SouthKorea 0 1 Friendly
+1981 157 home Japan China 0 0 Friendly tournament
+1981 174 home Japan Malaysia 2 0 Presidents Cup
+1981 176 away Japan SouthKorea 2 0 Presidents Cup
+1981 252 home Japan UnitedArab 3 2 Merdeka Tournament
+1981 254 home Japan Indonesia 2 0 Merdeka Tournament
+1981 257 home Japan India 3 2 Merdeka Tournament
+1981 260 away Japan NewZealand 1 0 Merdeka Tournament
+1981 262 away Japan Malaysia 0 2 Merdeka Tournament
+1981 265 away Japan Iraq 2 0 Merdeka Tournament
+1982 83 away Japan SouthKorea 3 0 Friendly
+1982 157 home Japan Singapore 2 0 Friendly tournament
+1982 200 away Japan Romania 4 0 Friendly
+1982 204 away Japan Romania 3 1 Friendly
+1982 247 home Japan Malaysia 1 0 Lion City Cup
+1982 248 away Japan Singapore 1 4 Lion City Cup
+1982 252 home Japan Brunei 8 0 Lion City Cup
+1982 254 away Japan SaudiArabia 3 0 Lion City Cup
+1982 257 away Japan Thailand 1 0 Lion City Cup
+1982 259 home Japan Qatar 1 0 Lion City Cup
+1982 329 home Japan Iran 1 0 Asian Games
+1982 333 home Japan SouthKorea 2 1 Asian Games
+1982 335 home Japan SouthYemen 3 1 Asian Games
+1982 338 away Japan Iraq 1 0 Asian Games
+1983 68 home Japan SouthKorea 1 1 Friendly
+1983 162 home Japan Syria 1 0 Friendly
+1984 68 home Japan Brunei 7 1 Friendly
+1984 155 home Japan China 1 0 Friendly
+1984 278 away Japan SouthKorea 1 2 Friendly
+1985 54 away Japan Singapore 1 3 World Cup qualifier
+1985 83 home Japan NorthKorea 1 0 World Cup qualifier
+1985 123 away Japan NorthKorea 0 0 World Cup qualifier
+1985 142 home Japan Singapore 5 0 World Cup qualifier
+1985 149 home Japan Uruguay 1 4 Friendly
+1985 160 home Japan Malaysia 3 0 Friendly
+1985 228 home Japan HongKong 3 0 World Cup qualifier
+1985 270 away Japan HongKong 1 2 World Cup qualifier
+1985 305 home Japan SouthKorea 1 2 World Cup qualifier
+1985 313 away Japan SouthKorea 1 0 World Cup qualifier
+1986 268 home Japan Nepal 5 0 Asian Games
+1986 270 away Japan Iran 2 0 Asian Games
+1986 272 away Japan Kuwait 2 0 Asian Games
+1986 276 home Japan Bangladesh 4 0 Asian Games
+1987 151 home Japan Senegal 2 0 Friendly
+1988 157 home Japan China 0 3 Friendly
+1988 170 home Japan Kuwait 0 1 Asian Cup qualifier
+1988 172 home Japan Pakistan 4 1 Asian Cup qualifier
+1988 176 away Japan Malaysia 0 1 Asian Cup qualifier
+1988 178 home Japan Jordan 1 1 Asian Cup qualifier
+1988 256 home Japan Argentina 0 1 Friendly
+1988 259 home Japan SovietUnion 0 6 Friendly
+1988 261 home Japan SovietUnion 2 2 Friendly
+1988 305 home Japan SouthKorea 0 1 Friendly
+1988 345 away Japan Iran 0 0 Asian Cup
+1988 347 home Japan SouthKorea 0 2 Asian Cup
+1988 351 home Japan UnitedArab 0 1 Asian Cup
+1988 353 away Japan Qatar 3 0 Asian Cup
+1989 20 away Japan Iran 2 2 Friendly
+1989 22 away Japan Iran 1 3 Friendly
+1989 129 away Japan SouthKorea 1 0 Friendly
+1989 145 away Japan HongKong 0 0 World Cup qualifier
+1989 152 away Japan Indonesia 0 0 World Cup qualifier
+1989 159 home Japan NorthKorea 2 1 World Cup qualifier
+1989 166 home Japan Indonesia 5 0 World Cup qualifier
+1989 173 home Japan HongKong 0 0 World Cup qualifier
+1989 180 away Japan NorthKorea 2 0 World Cup qualifier
+1989 209 away Japan Brazil 1 0 Friendly
+1990 214 home Japan SouthKorea 0 2 Dynasty Cup
+1990 215 away Japan China 1 0 Dynasty Cup
+1990 218 away Japan NorthKorea 1 0 Dynasty Cup
+1990 274 home Japan Bangladesh 3 0 Asian Games
+1990 276 away Japan SaudiArabia 2 0 Asian Games
+1990 280 away Japan Iran 1 0 Asian Games
+1991 157 home Japan Thailand 1 0 Kirin Cup
+1991 213 home Japan SouthKorea 0 1 Friendly
+1992 155 home Japan Argentina 0 1 Kirin Cup
+1992 162 home Japan Wales 0 1 Kirin Cup
+1992 239 home Japan SouthKorea 0 0 Dynasty Cup
+1992 241 away Japan China 0 2 Dynasty Cup
+1992 243 home Japan NorthKorea 4 1 Dynasty Cup
+1992 246 home Japan SouthKorea 2 2 Dynasty Cup
+1992 309 home Japan UnitedArab 0 0 Asian Cup
+1992 311 home Japan NorthKorea 1 1 Asian Cup
+1992 313 home Japan Iran 1 0 Asian Cup
+1992 316 home Japan China 3 2 Asian Cup
+1992 318 home Japan SaudiArabia 1 0 Asian Cup
+1993 23 away Japan Switzerland 1 1 Carlsberg Cup
+1993 69 home Japan Hungary 0 1 Kirin Cup
+1993 76 home Japan UnitedStates 3 1 Kirin Cup
+1993 101 home Japan Thailand 1 0 World Cup qualifier
+1993 104 home Japan Bangladesh 8 0 World Cup qualifier
+1993 108 home Japan SriLanka 5 0 World Cup qualifier
+1993 111 home Japan UnitedArab 2 0 World Cup qualifier
+1993 121 home Japan Thailand 1 0 World Cup qualifier
+1993 123 home Japan Bangladesh 4 1 World Cup qualifier
+1993 129 home Japan SriLanka 6 0 World Cup qualifier
+1993 131 away Japan UnitedArab 1 1 World Cup qualifier
+1993 283 home Japan IvoryCoast 1 0 Afro-Asian Championship
+1993 294 away Japan SaudiArabia 0 0 World Cup qualifier
+1993 297 home Japan Iran 1 2 World Cup qualifier
+1993 300 away Japan NorthKorea 0 3 World Cup qualifier
+1993 304 home Japan SouthKorea 1 0 World Cup qualifier
+1993 307 away Japan Iraq 2 2 World Cup qualifier
+1994 35 away Japan Norway 3 2 Dunhill Cup
+1994 37 away Japan Denmark 6 1 Dunhill Cup
+1994 146 home Japan Australia 1 1 Kirin Cup
+1994 153 home Japan France 1 4 Kirin Cup
+1994 194 home Japan Ghana 3 2 Friendly
+1994 200 home Japan Ghana 2 1 Friendly
+1994 275 home Japan Australia 0 0 Friendly
+1994 282 home Japan UnitedArab 1 1 Asian Games
+1994 284 home Japan Qatar 1 1 Asian Games
+1994 288 home Japan Myanmar 5 0 Asian Games
+1994 290 home Japan SouthKorea 2 3 Asian Games
+1995 6 away Japan Nigeria 3 0 Intercontinental Cup
+1995 8 away Japan Argentina 5 1 Intercontinental Cup
+1995 24 away Japan UnitedArab 1 1 Friendly
+1995 46 away Japan Australia 2 1 Friendly
+1995 50 away Japan HongKong 0 3 Dynasty Cup
+1995 52 home Japan SouthKorea 1 1 Dynasty Cup
+1995 54 home Japan China 2 1 Dynasty Cup
+1995 57 home Japan SouthKorea 2 2 Dynasty Cup
+1995 145 home Japan Scotland 0 0 Kirin Cup
+1995 152 home Japan Ecuador 3 0 Kirin Cup
+1995 158 away Japan England 2 1 Umbro Cup
+1995 161 away Japan Brazil 3 0 Umbro Cup
+1995 165 away Japan Sweden 2 2 Umbro Cup
+1995 218 home Japan Russia 3 2 Friendly
+1995 223 home Japan CostaRica 3 0 Friendly
+1995 226 home Japan Brazil 1 5 Friendly
+1995 268 home Japan Paraguay 1 2 Friendly
+1995 303 home Japan SaudiArabia 2 1 Friendly
+1995 307 home Japan SaudiArabia 2 1 Friendly
+1996 41 away Japan Australia 1 4 Friendly
+1996 45 away Japan Australia 3 0 Friendly
+1996 50 home Japan Poland 5 0 Carlsberg Cup
+1996 53 home Japan Sweden 1 1 Carlsberg Cup
+1996 150 home Japan Yugoslavia 1 0 Kirin Cup
+1996 153 home Japan Mexico 3 2 Kirin Cup
+1996 242 home Japan Uruguay 5 3 Friendly
+1996 259 home Japan Uzbekistan 1 0 Friendly
+1996 292 home Japan Tunisia 1 0 Friendly
+1996 347 home Japan Syria 2 1 Asian Cup
+1996 350 home Japan Uzbekistan 4 0 Asian Cup
+1996 353 home Japan China 1 0 Asian Cup
+1996 356 away Japan Kuwait 2 0 Asian Cup
+1997 40 away Japan Thailand 1 1 King's Cup
+1997 44 away Japan Sweden 1 0 King's Cup
+1997 77 away Japan Thailand 3 1 Friendly
+1997 85 away Japan Oman 0 1 World Cup qualifier
+1997 87 home Japan Macao 10 0 World Cup qualifier
+1997 89 home Japan Nepal 6 0 World Cup qualifier
+1997 145 home Japan SouthKorea 1 1 Friendly
+1997 163 home Japan Croatia 4 3 Kirin Cup
+1997 170 home Japan Turkey 1 0 Kirin Cup
+1997 177 home Japan Macao 10 0 World Cup qualifier
+1997 180 home Japan Nepal 3 0 World Cup qualifier
+1997 183 home Japan Oman 1 1 World Cup qualifier
+1997 230 home Japan Brazil 0 3 Friendly
+1997 255 home Japan Uzbekistan 6 3 World Cup qualifier
+1997 267 away Japan UnitedArab 0 0 World Cup qualifier
+1997 276 home Japan SouthKorea 1 2 World Cup qualifier
+1997 283 away Japan Kazakhstan 1 1 World Cup qualifier
+1997 290 away Japan Uzbekistan 1 1 World Cup qualifier
+1997 305 home Japan UnitedArab 1 1 World Cup qualifier
+1997 311 away Japan SouthKorea 0 2 World Cup qualifier
+1997 318 home Japan Kazakhstan 5 1 World Cup qualifier
+1997 326 home Japan Iran 3 2 World Cup qualifier
+1998 46 away Japan Australia 0 3 Friendly
+1998 63 home Japan SouthKorea 2 1 Dynasty Cup
+1998 66 home Japan HongKong 5 1 Dynasty Cup
+1998 69 home Japan China 0 2 Dynasty Cup
+1998 94 away Japan SouthKorea 2 1 Friendly
+1998 141 home Japan Paraguay 1 1 Kirin Cup
+1998 148 home Japan Czechia 0 0 Kirin Cup
+1998 155 away Japan Mexico 2 1 Friendly
+1998 158 away Japan Yugoslavia 1 0 Friendly
+1998 169 away Japan Argentina 1 0 World Cup
+1998 175 away Japan Croatia 1 0 World Cup
+1998 181 away Japan Jamaica 2 1 World Cup
+1998 307 home Japan Egypt 1 0 Friendly
+1999 93 home Japan Brazil 0 2 Friendly
+1999 158 home Japan Belgium 0 0 Kirin Cup
+1999 161 home Japan Peru 0 0 Kirin Cup
+1999 184 away Japan Peru 3 2 Copa América
+1999 188 away Japan Paraguay 4 0 Copa América
+1999 191 away Japan Bolivia 1 1 Copa América
+1999 256 home Japan Iran 1 1 Friendly
+2000 36 away Japan Mexico 1 0 Carlsberg Cup
+2000 44 home Japan Singapore 3 0 Asian Cup qualifier
+2000 47 home Japan Brunei 9 0 Asian Cup qualifier
+2000 51 away Japan Macao 0 3 Asian Cup qualifier
+2000 77 home Japan China 0 0 Friendly
+2000 119 away Japan SouthKorea 1 0 Friendly
+2000 159 away Japan France 2 2 King Hassan Cup
+2000 161 home Japan Jamaica 4 0 King Hassan Cup
+2000 166 home Japan Slovakia 1 1 Kirin Cup
+2000 173 home Japan Bolivia 2 0 Kirin Cup
+2000 233 home Japan UnitedArab 3 1 Friendly
+2000 293 home Japan SaudiArabia 4 1 Asian Cup
+2000 296 home Japan Uzbekistan 8 1 Asian Cup
+2000 299 home Japan Qatar 1 1 Asian Cup
+2000 303 home Japan Iraq 4 1 Asian Cup
+2000 305 home Japan China 3 2 Asian Cup
+2000 308 home Japan SaudiArabia 1 0 Asian Cup
+2000 361 home Japan SouthKorea 1 1 Friendly
+2001 86 away Japan France 5 0 Friendly
+2001 118 away Japan Spain 1 0 Friendly
+2001 155 home Japan Canada 3 0 Confederations Cup
+2001 157 home Japan Cameroon 2 0 Confederations Cup
+2001 159 home Japan Brazil 0 0 Confederations Cup
+2001 162 home Japan Australia 1 0 Confederations Cup
+2001 165 home Japan France 0 1 Confederations Cup
+2001 187 home Japan Paraguay 2 0 Kirin Cup
+2001 190 home Japan Yugoslavia 1 0 Kirin Cup
+2001 232 home Japan Australia 3 0 AFC-OFC Challenge Cup
+2001 283 away Japan Senegal 2 0 Friendly
+2001 286 away Japan Nigeria 2 2 Friendly
+2001 317 home Japan Italy 1 1 Friendly
+2002 83 home Japan Ukraine 1 0 Friendly
+2002 89 away Japan Poland 0 2 Friendly
+2002 110 home Japan CostaRica 1 1 Friendly
+2002 122 home Japan Slovakia 1 0 Kirin Cup
+2002 126 home Japan Honduras 3 3 Kirin Cup
+2002 138 away Japan Norway 3 0 Friendly
+2002 149 home Japan Sweden 1 1 Friendly
+2002 159 home Japan Belgium 2 2 World Cup
+2002 164 home Japan Russia 1 0 World Cup
+2002 169 home Japan Tunisia 2 0 World Cup
+2002 173 home Japan Turkey 0 1 World Cup
+2002 295 home Japan Jamaica 1 1 Friendly
+2002 330 home Japan Argentina 0 2 Friendly
+2003 90 home Japan Uruguay 2 2 Friendly
+2003 109 away Japan SouthKorea 0 1 Friendly
+2003 155 home Japan SouthKorea 0 1 Friendly
+2003 163 home Japan Argentina 1 4 Kirin Cup
+2003 166 home Japan Paraguay 0 0 Kirin Cup
+2003 173 home Japan NewZealand 3 0 Confederations Cup
+2003 175 away Japan France 2 1 Confederations Cup
+2003 177 away Japan Colombia 1 0 Confederations Cup
+2003 237 home Japan Nigeria 3 0 Friendly
+2003 258 home Japan Senegal 0 1 Friendly
+2003 287 away Japan Tunisia 0 1 Friendly
+2003 290 away Japan Romania 1 1 Friendly
+2003 329 home Japan Cameroon 0 0 Friendly
+2003 345 home Japan China 2 0 East Asian Championship
+2003 348 home Japan HongKong 1 0 East Asian Championship
+2003 351 home Japan SouthKorea 0 0 East Asian Championship
+2004 38 home Japan Malaysia 4 0 Friendly
+2004 43 home Japan Iraq 2 0 Friendly
+2004 49 home Japan Oman 1 0 World Cup qualifier
+2004 93 away Japan Singapore 1 2 World Cup qualifier
+2004 118 away Japan Hungary 3 2 Friendly
+2004 121 away Japan Czechia 0 1 Friendly
+2004 154 home Japan Iceland 3 2 Friendly tournament
+2004 156 away Japan England 1 1 Friendly tournament
+2004 164 home Japan India 7 0 World Cup qualifier
+2004 195 home Japan Slovakia 3 1 Kirin Cup
+2004 199 home Japan Serbia and Montenegro 1 0 Kirin Cup
+2004 206 home Japan Oman 1 0 Asian Cup
+2004 210 home Japan Thailand 4 1 Asian Cup
+2004 214 home Japan Iran 0 0 Asian Cup
+2004 217 home Japan Jordan 1 1 Asian Cup
+2004 220 home Japan Bahrain 4 3 Asian Cup
+2004 224 away Japan China 1 3 Asian Cup
+2004 235 home Japan Argentina 1 2 Friendly
+2004 256 away Japan India 0 4 World Cup qualifier
+2004 292 away Japan Oman 0 1 World Cup qualifier
+2004 327 home Japan Singapore 1 0 World Cup qualifier
+2004 357 home Japan Germany 0 3 Friendly
+2005 29 home Japan Kazakhstan 4 0 Friendly
+2005 33 home Japan Syria 3 0 Friendly
+2005 40 home Japan NorthKorea 2 1 World Cup qualifier
+2005 87 away Japan Iran 2 1 World Cup qualifier
+2005 92 home Japan Bahrain 1 0 World Cup qualifier
+2005 146 home Japan Peru 0 1 Kirin Cup
+2005 151 home Japan UnitedArab 0 1 Kirin Cup
+2005 158 away Japan Bahrain 0 1 World Cup qualifier
+2005 163 home Japan NorthKorea 2 0 World Cup qualifier
+2005 171 away Japan Mexico 2 1 Confederations Cup
+2005 174 home Japan Greece 1 0 Confederations Cup
+2005 177 home Japan Brazil 2 2 Confederations Cup
+2005 217 away Japan NorthKorea 1 0 East Asian Championship
+2005 220 away Japan China 2 2 East Asian Championship
+2005 224 away Japan SouthKorea 0 1 East Asian Championship
+2005 234 home Japan Iran 2 1 World Cup qualifier
+2005 255 home Japan Honduras 5 4 Friendly
+2005 287 away Japan Latvia 2 2 Friendly
+2005 291 away Japan Ukraine 1 0 Friendly
+2005 326 home Japan Angola 1 0 Friendly
+2006 41 away Japan UnitedStates 3 2 Friendly
+2006 49 home Japan Finland 2 0 Friendly
+2006 53 home Japan India 6 0 Asian Cup qualifier
+2006 59 away Japan Bosnia 2 2 Friendly
+2006 92 home Japan Ecuador 1 0 Friendly
+2006 133 home Japan Bulgaria 1 2 Kirin Cup
+2006 137 home Japan Scotland 0 0 Kirin Cup
+2006 154 away Japan Germany 2 2 Friendly
+2006 159 home Japan Malta 1 0 Friendly
+2006 167 away Japan Australia 3 1 World Cup
+2006 173 away Japan Croatia 0 0 World Cup
+2006 177 away Japan Brazil 4 1 World Cup
+2006 226 home Japan TrinidadTobago 2 0 Friendly
+2006 233 home Japan Yemen 2 0 Asian Cup qualifier
+2006 251 away Japan SaudiArabia 1 0 Asian Cup qualifier
+2006 254 away Japan Yemen 0 1 Asian Cup qualifier
+2006 283 home Japan Ghana 0 1 Friendly
+2006 290 away Japan India 0 3 Asian Cup qualifier
+2006 325 home Japan SaudiArabia 3 1 Asian Cup qualifier
+2007 86 home Japan Peru 2 0 Friendly
+2007 156 home Japan Montenegro 2 0 Kirin Cup
+2007 160 home Japan Colombia 0 0 Kirin Cup
+2007 195 away Japan Qatar 1 1 Asian Cup
+2007 199 home Japan UnitedArab 3 1 Asian Cup
+2007 202 away Japan Vietnam 1 4 Asian Cup
+2007 207 home Japan Australia 1 1 Asian Cup
+2007 211 away Japan SaudiArabia 3 2 Asian Cup
+2007 214 away Japan SouthKorea 0 0 Asian Cup
+2007 239 home Japan Cameroon 2 0 Friendly
+2007 255 away Japan Austria 0 0 Friendly tournament
+2007 259 home Japan Switzerland 4 3 Friendly tournament
+2007 296 home Japan Egypt 4 1 Afro-Asian Championship
+2008 26 home Japan Chile 0 0 Friendly
+2008 30 home Japan Bosnia 3 0 Friendly
+2008 37 home Japan Thailand 4 1 World Cup qualifier
+2008 48 away Japan NorthKorea 1 1 East Asian Championship
+2008 51 away Japan China 0 1 East Asian Championship
+2008 54 away Japan SouthKorea 1 1 East Asian Championship
+2008 88 away Japan Bahrain 1 0 World Cup qualifier
+2008 148 home Japan IvoryCoast 1 0 Kirin Cup
+2008 151 home Japan Paraguay 0 0 Kirin Cup
+2008 157 home Japan Oman 3 0 World Cup qualifier
+2008 162 away Japan Oman 1 1 World Cup qualifier
+2008 169 away Japan Thailand 0 3 World Cup qualifier
+2008 177 home Japan Bahrain 1 0 World Cup qualifier
+2008 237 home Japan Uruguay 1 3 Friendly
+2008 254 away Japan Bahrain 2 3 World Cup qualifier
+2008 288 home Japan UnitedArab 1 1 Friendly
+2008 294 home Japan Uzbekistan 1 1 World Cup qualifier
+2008 323 home Japan Syria 3 1 Friendly
+2008 329 away Japan Qatar 0 3 World Cup qualifier
+2009 20 home Japan Yemen 2 1 Asian Cup qualifier
+2009 28 away Japan Bahrain 1 0 Asian Cup qualifier
+2009 35 home Japan Finland 5 1 Friendly
+2009 42 home Japan Australia 0 0 World Cup qualifier
+2009 90 home Japan Bahrain 1 0 World Cup qualifier
+2009 151 home Japan Chile 4 0 Kirin Cup
+2009 155 home Japan Belgium 4 0 Kirin Cup
+2009 161 away Japan Uzbekistan 0 1 World Cup qualifier
+2009 165 home Japan Qatar 1 1 World Cup qualifier
+2009 172 away Japan Australia 2 1 World Cup qualifier
+2009 253 away Japan Holland 3 0 Friendly
+2009 257 home Japan Ghana 4 3 Friendly
+2009 287 home Japan HongKong 6 0 Asian Cup qualifier
+2009 289 home Japan Scotland 2 0 Friendly
+2009 293 home Japan Togo 5 0 Friendly
+2009 324 away Japan SouthAfrica 0 0 Friendly
+2009 328 away Japan HongKong 0 4 Asian Cup qualifier
+2010 6 away Japan Yemen 2 3 Asian Cup qualifier
+2010 33 home Japan Venezuela 0 0 Friendly
+2010 37 home Japan China 0 0 East Asian Championship
+2010 42 home Japan HongKong 3 0 East Asian Championship
+2010 45 home Japan SouthKorea 1 3 East Asian Championship
+2010 65 home Japan Bahrain 2 0 Asian Cup qualifier
+2010 100 home Japan Serbia 0 3 Friendly
+2010 148 home Japan SouthKorea 0 2 Friendly
+2010 154 away Japan England 2 1 Friendly
+2010 159 away Japan IvoryCoast 2 0 Friendly
+2010 165 home Japan Zimbabwe 0 0 Friendly
+2010 169 home Japan Cameroon 1 0 World Cup
+2010 174 away Japan Holland 1 0 World Cup
+2010 179 home Japan Denmark 3 1 World Cup
+2010 184 away Japan Paraguay 0 0 World Cup
+2010 252 home Japan Paraguay 1 0 Friendly
+2010 255 home Japan Guatemala 2 1 Friendly
+2010 287 home Japan Argentina 1 0 Friendly
+2010 291 away Japan SouthKorea 0 0 Friendly
+2011 9 away Japan Jordan 1 1 Asian Cup
+2011 13 home Japan Syria 2 1 Asian Cup
+2011 17 home Japan SaudiArabia 5 0 Asian Cup
+2011 21 away Japan Qatar 2 3 Asian Cup
+2011 25 home Japan SouthKorea 2 2 Asian Cup
+2011 29 home Japan Australia 1 0 Asian Cup
+2011 156 home Japan Peru 0 0 Kirin Cup
+2011 162 home Japan Czechia 0 0 Kirin Cup
+2011 227 home Japan SouthKorea 3 0 Friendly
+2011 250 home Japan NorthKorea 1 0 World Cup qualifier
+2011 254 away Japan Uzbekistan 1 1 World Cup qualifier
+2011 286 home Japan Vietnam 1 0 Friendly
+2011 290 home Japan Tajikistan 8 0 World Cup qualifier
+2011 321 away Japan Tajikistan 0 4 World Cup qualifier
+2011 325 away Japan NorthKorea 1 0 World Cup qualifier
+2012 55 home Japan Iceland 3 1 Friendly
+2012 60 home Japan Uzbekistan 0 1 World Cup qualifier
+2012 147 home Japan Azerbaijan 2 0 Friendly
+2012 158 home Japan Oman 3 0 World Cup qualifier
+2012 163 home Japan Jordan 6 0 World Cup qualifier
+2012 167 away Japan Australia 1 1 World Cup qualifier
+2012 232 home Japan Venezuela 1 1 Friendly
+2012 254 home Japan UnitedArab 1 0 Friendly
+2012 259 home Japan Iraq 1 0 World Cup qualifier
+2012 291 away Japan France 0 1 Friendly
+2012 295 away Japan Brazil 4 0 Friendly
+2012 324 away Japan Oman 1 2 World Cup qualifier
+2013 37 home Japan Latvia 3 0 Friendly
+2013 84 home Japan Canada 2 1 Friendly
+2013 88 away Japan Jordan 2 1 World Cup qualifier
+2013 154 home Japan Bulgaria 0 2 Friendly
+2013 159 home Japan Australia 1 1 World Cup qualifier
+2013 166 away Japan Iraq 0 1 World Cup qualifier
+2013 170 away Japan Brazil 3 0 Confederations Cup
+2013 174 away Japan Italy 4 3 Confederations Cup
+2013 177 away Japan Mexico 2 1 Confederations Cup
+2013 207 away Japan China 3 3 East Asian Championship
+2013 211 home Japan Australia 3 2 East Asian Championship
+2013 214 away Japan SouthKorea 1 2 East Asian Championship
+2013 231 home Japan Uruguay 2 4 Friendly
+2013 254 home Japan Guatemala 3 0 Friendly
+2013 258 home Japan Ghana 3 1 Friendly
+2013 290 away Japan Serbia 2 0 Friendly
+2013 294 away Japan Belarus 1 0 Friendly
+2013 326 away Japan Holland 2 2 Friendly
+2013 329 away Japan Belgium 2 3 Friendly
+2014 67 home Japan NewZealand 4 2 Friendly

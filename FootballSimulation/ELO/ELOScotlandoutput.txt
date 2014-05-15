@@ -1,0 +1,725 @@
+1872 340 home Scotland England 0 0 Friendly
+1873 70 away Scotland England 4 2 Friendly
+1874 69 home Scotland England 2 1 Friendly
+1875 68 away Scotland England 2 2 Friendly
+1876 66 home Scotland England 3 0 Friendly
+1876 87 home Scotland Wales 4 0 Friendly
+1877 65 away Scotland England 1 3 Friendly
+1877 67 away Scotland Wales 0 2 Friendly
+1878 64 home Scotland England 7 2 Friendly
+1878 85 home Scotland Wales 9 0 Friendly
+1879 98 away Scotland England 5 4 Friendly
+1879 100 away Scotland Wales 0 3 Friendly
+1880 75 home Scotland England 5 4 Friendly
+1880 89 home Scotland Wales 5 1 Friendly
+1881 74 away Scotland England 1 6 Friendly
+1881 76 away Scotland Wales 1 5 Friendly
+1882 73 home Scotland England 5 1 Friendly
+1882 87 home Scotland Wales 5 0 Friendly
+1883 72 away Scotland England 2 3 Friendly
+1883 74 away Scotland Wales 1 4 Friendly
+1884 26 away Scotland Ireland 0 5 British International Championship
+1884 77 home Scotland England 1 0 British International Championship
+1884 91 home Scotland Wales 4 1 British International Championship
+1885 76 home Scotland Ireland 8 2 British International Championship
+1885 83 away Scotland England 1 1 British International Championship
+1885 85 away Scotland Wales 1 8 British International Championship
+1886 82 away Scotland Ireland 2 7 British International Championship
+1886 89 home Scotland England 1 1 British International Championship
+1886 103 home Scotland Wales 4 1 British International Championship
+1887 50 home Scotland Ireland 4 1 British International Championship
+1887 81 away Scotland England 2 3 British International Championship
+1887 83 away Scotland Wales 0 2 British International Championship
+1888 72 home Scotland Wales 5 1 British International Championship
+1888 79 home Scotland England 0 5 British International Championship
+1888 86 away Scotland Ireland 2 10 British International Championship
+1889 71 home Scotland Ireland 7 0 British International Championship
+1889 106 away Scotland England 2 3 British International Championship
+1889 108 away Scotland Wales 0 0 British International Championship
+1890 84 home Scotland Wales 5 0 British International Championship
+1890 91 away Scotland Ireland 1 4 British International Championship
+1890 98 home Scotland England 1 1 British International Championship
+1891 83 away Scotland Wales 3 4 British International Championship
+1891 90 home Scotland Ireland 2 1 British International Championship
+1891 99 away Scotland England 2 1 British International Championship
+1892 81 away Scotland Ireland 2 3 British International Championship
+1892 88 home Scotland Wales 6 1 British International Championship
+1892 95 home Scotland England 1 4 British International Championship
+1893 80 away Scotland Wales 0 8 British International Championship
+1893 87 home Scotland Ireland 6 1 British International Championship
+1893 94 away Scotland England 5 2 British International Championship
+1894 86 home Scotland Wales 5 2 British International Championship
+1894 93 away Scotland Ireland 1 2 British International Championship
+1894 100 home Scotland England 2 2 British International Championship
+1895 85 away Scotland Wales 2 2 British International Championship
+1895 92 home Scotland Ireland 3 1 British International Championship
+1895 99 away Scotland England 3 0 British International Championship
+1896 83 home Scotland Wales 4 0 British International Championship
+1896 90 away Scotland Ireland 3 3 British International Championship
+1896 97 home Scotland England 2 1 British International Championship
+1897 82 away Scotland Wales 2 2 British International Championship
+1897 89 home Scotland Ireland 5 1 British International Championship
+1897 96 away Scotland England 1 2 British International Championship
+1898 81 home Scotland Wales 5 2 British International Championship
+1898 88 away Scotland Ireland 0 3 British International Championship
+1898 95 home Scotland England 1 3 British International Championship
+1899 80 away Scotland Wales 0 6 British International Championship
+1899 87 home Scotland Ireland 9 1 British International Championship
+1899 101 away Scotland England 2 1 British International Championship
+1900 34 home Scotland Wales 5 2 British International Championship
+1900 65 away Scotland Ireland 0 3 British International Championship
+1900 100 home Scotland England 4 1 British International Championship
+1901 54 home Scotland Ireland 11 0 British International Championship
+1901 64 away Scotland Wales 1 1 British International Championship
+1901 92 away Scotland England 2 2 British International Championship
+1902 63 away Scotland Ireland 1 3 British International Championship
+1902 77 home Scotland Wales 5 1 British International Championship
+1902 127 away Scotland England 2 2 British International Championship
+1903 71 away Scotland Wales 0 1 British International Championship
+1903 83 home Scotland Ireland 0 2 British International Championship
+1903 97 away Scotland England 1 2 British International Championship
+1904 74 home Scotland Wales 1 1 British International Championship
+1904 88 away Scotland Ireland 1 1 British International Championship
+1904 102 home Scotland England 0 1 British International Championship
+1905 68 away Scotland Wales 3 1 British International Championship
+1905 80 home Scotland Ireland 4 0 British International Championship
+1905 94 away Scotland England 1 0 British International Championship
+1906 65 home Scotland Wales 0 2 British International Championship
+1906 79 away Scotland Ireland 0 1 British International Championship
+1906 100 home Scotland England 2 1 British International Championship
+1907 66 away Scotland Wales 1 0 British International Championship
+1907 78 home Scotland Ireland 3 0 British International Championship
+1907 99 away Scotland England 1 1 British International Championship
+1908 69 home Scotland Wales 2 1 British International Championship
+1908 76 away Scotland Ireland 0 5 British International Championship
+1908 97 home Scotland England 1 1 British International Championship
+1909 63 away Scotland Wales 3 2 British International Championship
+1909 77 home Scotland Ireland 5 0 British International Championship
+1909 96 away Scotland England 2 0 British International Championship
+1910 67 home Scotland Wales 1 0 British International Championship
+1910 81 away Scotland Ireland 1 0 British International Championship
+1910 95 home Scotland England 2 0 British International Championship
+1911 68 away Scotland Wales 2 2 British International Championship
+1911 80 home Scotland Ireland 2 0 British International Championship
+1911 94 away Scotland England 1 1 British International Championship
+1912 64 home Scotland Wales 1 0 British International Championship
+1912 78 away Scotland Ireland 1 4 British International Championship
+1912 85 home Scotland England 1 1 British International Championship
+1913 65 away Scotland Wales 0 0 British International Championship
+1913 77 away Scotland Ireland 1 2 British International Championship
+1913 98 away Scotland England 1 0 British International Championship
+1914 59 home Scotland Wales 0 0 British International Championship
+1914 76 away Scotland Ireland 1 1 British International Championship
+1914 97 home Scotland England 3 1 British International Championship
+1920 57 away Scotland Wales 1 1 British International Championship
+1920 75 home Scotland Ireland 3 0 British International Championship
+1920 103 away Scotland England 5 4 British International Championship
+1921 43 home Scotland Wales 2 1 British International Championship
+1921 57 away Scotland Ireland 0 2 British International Championship
+1921 102 home Scotland England 3 0 British International Championship
+1922 35 away Scotland Wales 2 1 British International Championship
+1922 66 home Scotland Ireland 2 1 British International Championship
+1922 101 away Scotland England 0 1 British International Championship
+1923 65 away Scotland Ireland 0 1 British International Championship
+1923 79 home Scotland Wales 2 0 British International Championship
+1923 107 home Scotland England 2 2 British International Championship
+1924 47 away Scotland Wales 2 0 British International Championship
+1924 63 home Scotland NorthernIreland 2 0 British International Championship
+1924 105 away Scotland England 1 1 British International Championship
+1925 45 home Scotland Wales 3 1 British International Championship
+1925 59 away Scotland NorthernIreland 0 3 British International Championship
+1925 97 home Scotland England 2 0 British International Championship
+1925 310 away Scotland Wales 0 3 British International Championship
+1926 58 home Scotland NorthernIreland 4 0 British International Championship
+1926 110 away Scotland England 0 1 British International Championship
+1926 309 home Scotland Wales 3 0 British International Championship
+1927 57 away Scotland NorthernIreland 0 2 British International Championship
+1927 95 home Scotland England 1 2 British International Championship
+1927 308 away Scotland Wales 2 2 British International Championship
+1928 56 home Scotland NorthernIreland 0 1 British International Championship
+1928 93 away Scotland England 1 5 British International Championship
+1928 306 home Scotland Wales 4 2 British International Championship
+1929 54 away Scotland NorthernIreland 3 7 British International Championship
+1929 106 home Scotland England 1 0 British International Championship
+1929 152 away Scotland Norway 3 7 Friendly
+1929 156 away Scotland Germany 1 1 Friendly
+1929 159 away Scotland Holland 0 2 Friendly
+1929 305 away Scotland Wales 2 4 British International Championship
+1930 53 home Scotland NorthernIreland 3 1 British International Championship
+1930 98 away Scotland England 5 2 British International Championship
+1930 142 away Scotland France 0 2 Friendly
+1930 304 home Scotland Wales 1 1 British International Championship
+1931 52 away Scotland NorthernIreland 0 0 British International Championship
+1931 90 home Scotland England 2 0 British International Championship
+1931 140 away Scotland Austria 5 0 Friendly
+1931 144 away Scotland Italy 3 0 Friendly
+1931 148 away Scotland Switzerland 2 3 Friendly
+1931 267 home Scotland NorthernIreland 3 1 British International Championship
+1931 310 away Scotland Wales 2 3 British International Championship
+1932 102 away Scotland England 3 0 British International Championship
+1932 132 away Scotland France 1 3 Friendly
+1932 265 away Scotland NorthernIreland 0 4 British International Championship
+1932 305 home Scotland Wales 2 5 British International Championship
+1933 94 home Scotland England 2 1 British International Championship
+1933 264 home Scotland NorthernIreland 1 2 British International Championship
+1933 283 away Scotland Wales 3 2 British International Championship
+1933 339 home Scotland Austria 2 2 Friendly
+1934 107 away Scotland England 3 0 British International Championship
+1934 299 away Scotland NorthernIreland 2 1 British International Championship
+1934 331 home Scotland Wales 3 2 British International Championship
+1935 99 home Scotland England 2 0 British International Championship
+1935 284 away Scotland Wales 1 1 British International Championship
+1935 323 home Scotland NorthernIreland 2 1 British International Championship
+1936 97 away Scotland England 1 1 British International Championship
+1936 293 home Scotland Germany 2 0 Friendly
+1936 310 away Scotland NorthernIreland 1 3 British International Championship
+1936 343 home Scotland Wales 1 2 British International Championship
+1937 110 home Scotland England 3 1 British International Championship
+1937 133 away Scotland Austria 1 1 Friendly
+1937 146 away Scotland Czechoslovakia 1 3 Friendly
+1937 309 away Scotland Wales 2 1 British International Championship
+1937 320 home Scotland NorthernIreland 1 1 British International Championship
+1937 349 home Scotland Czechoslovakia 5 0 Friendly
+1938 102 away Scotland England 0 1 British International Championship
+1938 145 away Scotland Holland 1 3 Friendly
+1938 287 away Scotland NorthernIreland 0 2 British International Championship
+1938 319 home Scotland Wales 3 2 British International Championship
+1938 348 home Scotland Hungary 3 1 Friendly
+1939 108 home Scotland England 1 2 British International Championship
+1946 298 away Scotland Wales 3 1 British International Championship
+1946 337 home Scotland NorthernIreland 0 0 British International Championship
+1947 105 away Scotland England 1 1 British International Championship
+1947 142 away Scotland Belgium 2 1 Friendly
+1947 148 away Scotland Luxembourg 0 6 Friendly
+1947 283 away Scotland NorthernIreland 2 0 British International Championship
+1947 322 home Scotland Wales 1 2 British International Championship
+1948 103 home Scotland England 0 2 British International Championship
+1948 121 home Scotland Belgium 2 0 Friendly
+1948 141 away Scotland Switzerland 2 1 Friendly
+1948 147 away Scotland France 3 0 Friendly
+1948 302 away Scotland Wales 1 3 British International Championship
+1948 327 home Scotland NorthernIreland 3 2 British International Championship
+1949 102 away Scotland England 1 3 British International Championship
+1949 120 home Scotland France 2 0 Friendly
+1949 280 away Scotland NorthernIreland 2 8 World Cup qualifier
+1949 319 home Scotland Wales 2 0 World Cup qualifier
+1950 108 home Scotland England 0 1 World Cup qualifier
+1950 119 home Scotland Switzerland 3 1 Friendly
+1950 145 away Scotland Portugal 2 2 Friendly
+1950 151 away Scotland France 0 1 Friendly
+1950 300 away Scotland Wales 1 3 British International Championship
+1950 311 home Scotland NorthernIreland 6 1 British International Championship
+1950 354 home Scotland Austria 0 1 Friendly
+1951 107 away Scotland England 2 3 British International Championship
+1951 136 home Scotland Denmark 3 1 Friendly
+1951 140 home Scotland France 1 0 Friendly
+1951 144 away Scotland Belgium 0 5 Friendly
+1951 151 away Scotland Austria 4 0 Friendly
+1951 285 away Scotland NorthernIreland 0 3 British International Championship
+1951 324 home Scotland Wales 0 1 British International Championship
+1952 98 home Scotland England 1 2 British International Championship
+1952 123 home Scotland UnitedStates 6 0 Friendly
+1952 149 away Scotland Denmark 1 2 Friendly
+1952 154 away Scotland Sweden 3 1 Friendly
+1952 297 away Scotland Wales 1 2 British International Championship
+1952 315 home Scotland NorthernIreland 1 1 British International Championship
+1953 111 away Scotland England 2 2 British International Championship
+1953 130 home Scotland Sweden 1 2 Friendly
+1953 282 away Scotland NorthernIreland 1 3 World Cup qualifier
+1953 314 home Scotland Wales 3 3 World Cup qualifier
+1954 96 home Scotland England 2 4 World Cup qualifier
+1954 129 home Scotland Norway 1 0 Friendly
+1954 143 away Scotland Norway 1 1 Friendly
+1954 149 away Scotland Finland 1 2 Friendly
+1954 171 away Scotland Austria 1 0 World Cup
+1954 174 away Scotland Uruguay 7 0 World Cup
+1954 295 away Scotland Wales 0 1 British International Championship
+1954 313 home Scotland NorthernIreland 2 2 British International Championship
+1954 349 home Scotland Hungary 2 4 Friendly
+1955 95 away Scotland England 7 2 British International Championship
+1955 128 home Scotland Portugal 3 0 Friendly
+1955 139 away Scotland Yugoslavia 2 2 Friendly
+1955 143 away Scotland Austria 1 4 Friendly
+1955 153 away Scotland Hungary 3 1 Friendly
+1955 287 away Scotland NorthernIreland 2 1 British International Championship
+1955 319 home Scotland Wales 2 0 British International Championship
+1956 107 home Scotland England 1 1 British International Championship
+1956 126 home Scotland Austria 1 1 Friendly
+1956 299 away Scotland Wales 2 2 British International Championship
+1956 317 home Scotland NorthernIreland 1 0 British International Championship
+1956 331 home Scotland Yugoslavia 2 0 Friendly
+1957 99 away Scotland England 2 1 British International Championship
+1957 132 home Scotland Spain 4 2 World Cup qualifier
+1957 143 away Scotland Switzerland 1 2 World Cup qualifier
+1957 146 away Scotland Germany 1 3 Friendly
+1957 150 away Scotland Spain 4 1 World Cup qualifier
+1957 284 away Scotland NorthernIreland 1 1 British International Championship
+1957 316 home Scotland Switzerland 3 2 World Cup qualifier
+1957 323 home Scotland Wales 1 1 British International Championship
+1958 112 home Scotland England 0 4 British International Championship
+1958 131 home Scotland Hungary 1 1 Friendly
+1958 156 away Scotland Poland 1 2 Friendly
+1958 163 home Scotland Yugoslavia 1 1 World Cup
+1958 166 away Scotland Paraguay 3 2 World Cup
+1958 170 away Scotland France 2 1 World Cup
+1958 297 away Scotland Wales 0 3 British International Championship
+1958 315 home Scotland NorthernIreland 2 2 British International Championship
+1959 104 away Scotland England 1 0 British International Championship
+1959 130 home Scotland Germany 3 2 Friendly
+1959 151 away Scotland Holland 1 2 Friendly
+1959 158 away Scotland Portugal 1 0 Friendly
+1959 282 away Scotland NorthernIreland 0 4 British International Championship
+1959 324 home Scotland Wales 1 1 British International Championship
+1960 102 home Scotland England 1 1 British International Championship
+1960 128 home Scotland Poland 2 3 Friendly
+1960 153 away Scotland Austria 4 1 Friendly
+1960 160 away Scotland Hungary 3 3 Friendly
+1960 163 away Scotland Turkey 4 2 Friendly
+1960 301 away Scotland Wales 2 0 British International Championship
+1960 319 home Scotland NorthernIreland 5 2 British International Championship
+1961 108 away Scotland England 9 3 British International Championship
+1961 127 home Scotland Ireland 4 1 World Cup qualifier
+1961 131 away Scotland Ireland 0 3 World Cup qualifier
+1961 138 away Scotland Czechoslovakia 4 0 World Cup qualifier
+1961 274 home Scotland Czechoslovakia 3 2 World Cup qualifier
+1961 286 away Scotland NorthernIreland 1 6 British International Championship
+1961 318 home Scotland Wales 2 0 British International Championship
+1961 339 away Scotland Czechoslovakia 4 2 World Cup qualifier
+1962 107 home Scotland England 2 0 British International Championship
+1962 126 home Scotland Uruguay 2 3 Friendly
+1962 299 away Scotland Wales 2 3 British International Championship
+1962 317 home Scotland NorthernIreland 5 1 British International Championship
+1963 99 away Scotland England 1 2 British International Championship
+1963 132 home Scotland Austria 4 1 Friendly
+1963 159 away Scotland Norway 4 3 Friendly
+1963 164 away Scotland Ireland 1 0 Friendly
+1963 168 away Scotland Spain 2 6 Friendly
+1963 291 away Scotland NorthernIreland 2 1 British International Championship
+1963 317 home Scotland Norway 6 1 Friendly
+1963 330 home Scotland Wales 2 1 British International Championship
+1964 104 home Scotland England 1 0 British International Championship
+1964 136 away Scotland Germany 2 2 Friendly
+1964 282 away Scotland Wales 3 2 British International Championship
+1964 300 home Scotland Finland 3 1 World Cup qualifier
+1964 335 home Scotland NorthernIreland 3 2 British International Championship
+1965 103 away Scotland England 2 2 British International Championship
+1965 132 home Scotland Spain 0 0 Friendly
+1965 147 away Scotland Poland 1 1 World Cup qualifier
+1965 151 away Scotland Finland 1 2 World Cup qualifier
+1965 281 away Scotland NorthernIreland 3 2 British International Championship
+1965 292 home Scotland Poland 1 2 World Cup qualifier
+1965 319 home Scotland Italy 1 0 World Cup qualifier
+1965 334 home Scotland Wales 4 1 British International Championship
+1965 348 away Scotland Italy 3 0 World Cup qualifier
+1966 95 home Scotland England 3 4 British International Championship
+1966 135 home Scotland Holland 0 3 Friendly
+1966 173 home Scotland Portugal 0 1 Friendly
+1966 180 home Scotland Brazil 1 1 Friendly
+1966 301 away Scotland Wales 1 1 European Cup qualifier
+1966 326 home Scotland NorthernIreland 2 1 European Cup qualifier
+1967 108 away Scotland England 2 3 European Cup qualifier
+1967 134 home Scotland SovietUnion 0 2 Friendly
+1967 300 away Scotland NorthernIreland 1 0 European Cup qualifier
+1967 332 home Scotland Wales 3 2 European Cup qualifier
+1968 55 home Scotland England 1 1 European Cup qualifier
+1968 154 away Scotland Holland 0 0 Friendly
+1968 295 away Scotland Denmark 0 1 Friendly
+1968 316 home Scotland Austria 2 1 World Cup qualifier
+1968 352 away Scotland Cyprus 0 5 World Cup qualifier
+1969 109 home Scotland Germany 1 1 World Cup qualifier
+1969 127 away Scotland Wales 3 5 British International Championship
+1969 130 home Scotland NorthernIreland 1 1 British International Championship
+1969 134 away Scotland England 4 1 British International Championship
+1969 141 home Scotland Cyprus 8 0 World Cup qualifier
+1969 269 away Scotland Ireland 1 1 Friendly
+1969 301 away Scotland Germany 3 2 World Cup qualifier
+1969 315 away Scotland Austria 2 0 World Cup qualifier
+1970 111 away Scotland NorthernIreland 0 1 British International Championship
+1970 115 home Scotland Wales 0 0 British International Championship
+1970 118 home Scotland England 0 0 British International Championship
+1970 321 home Scotland Denmark 1 0 European Cup qualifier
+1971 34 away Scotland Belgium 3 0 European Cup qualifier
+1971 114 away Scotland Portugal 2 0 European Cup qualifier
+1971 139 away Scotland Wales 0 0 British International Championship
+1971 142 home Scotland NorthernIreland 0 1 British International Championship
+1971 146 away Scotland England 3 1 British International Championship
+1971 164 away Scotland Denmark 1 0 European Cup qualifier
+1971 169 away Scotland SovietUnion 1 0 Friendly
+1971 292 home Scotland Portugal 2 1 European Cup qualifier
+1971 320 home Scotland Belgium 1 0 European Cup qualifier
+1971 342 away Scotland Holland 2 1 Friendly
+1972 119 home Scotland Peru 2 0 Friendly
+1972 144 home Scotland NorthernIreland 2 0 British International Championship
+1972 148 home Scotland Wales 1 0 British International Championship
+1972 151 home Scotland England 0 1 British International Championship
+1972 184 home Scotland Yugoslavia 2 2 Independence Cup
+1972 188 away Scotland Czechoslovakia 0 0 Independence Cup
+1972 191 away Scotland Brazil 1 0 Independence Cup
+1972 297 away Scotland Denmark 1 4 World Cup qualifier
+1972 325 home Scotland Denmark 2 0 World Cup qualifier
+1973 45 home Scotland England 0 5 Friendly
+1973 136 away Scotland Wales 0 2 British International Championship
+1973 140 home Scotland NorthernIreland 1 2 British International Championship
+1973 143 away Scotland England 1 0 British International Championship
+1973 177 away Scotland Switzerland 1 0 Friendly
+1973 185 home Scotland Brazil 0 1 Friendly
+1973 274 home Scotland Czechoslovakia 2 1 World Cup qualifier
+1973 296 away Scotland Czechoslovakia 1 0 World Cup qualifier
+1973 324 home Scotland Germany 1 1 Friendly
+1974 89 away Scotland Germany 2 1 Friendly
+1974 135 home Scotland NorthernIreland 0 1 British International Championship
+1974 138 home Scotland Wales 2 0 British International Championship
+1974 142 home Scotland England 2 0 British International Championship
+1974 156 away Scotland Belgium 2 1 Friendly
+1974 161 away Scotland Norway 1 2 Friendly
+1974 169 home Scotland Zaire 2 0 World Cup
+1974 173 away Scotland Brazil 0 0 World Cup
+1974 177 home Scotland Yugoslavia 1 1 World Cup
+1974 309 home Scotland EastGermany 3 0 Friendly
+1974 330 home Scotland Spain 1 2 European Cup qualifier
+1975 36 away Scotland Spain 1 1 European Cup qualifier
+1975 109 away Scotland Sweden 1 1 Friendly
+1975 137 home Scotland Portugal 1 0 Friendly
+1975 141 away Scotland Wales 2 2 British International Championship
+1975 144 home Scotland NorthernIreland 3 0 British International Championship
+1975 148 away Scotland England 5 1 British International Championship
+1975 156 away Scotland Romania 1 1 European Cup qualifier
+1975 251 away Scotland Denmark 0 1 European Cup qualifier
+1975 308 home Scotland Denmark 3 1 European Cup qualifier
+1975 358 home Scotland Romania 1 1 European Cup qualifier
+1976 100 home Scotland Switzerland 1 0 Friendly
+1976 130 home Scotland Wales 3 1 British International Championship
+1976 132 home Scotland NorthernIreland 3 0 British International Championship
+1976 139 home Scotland England 2 1 British International Championship
+1976 256 home Scotland Finland 6 0 Friendly
+1976 292 away Scotland Czechoslovakia 2 0 World Cup qualifier
+1976 327 home Scotland Wales 1 0 World Cup qualifier
+1977 120 home Scotland Sweden 3 1 Friendly
+1977 152 away Scotland Wales 0 0 British International Championship
+1977 156 home Scotland NorthernIreland 3 0 British International Championship
+1977 159 away Scotland England 1 2 British International Championship
+1977 170 away Scotland Chile 2 4 Friendly
+1977 173 away Scotland Argentina 1 1 Friendly
+1977 178 away Scotland Brazil 2 0 Friendly
+1977 255 away Scotland EastGermany 1 0 Friendly
+1977 269 home Scotland Czechoslovakia 3 1 World Cup qualifier
+1977 291 home Scotland Wales 2 0 World Cup qualifier
+1978 53 home Scotland Bulgaria 2 1 Friendly
+1978 137 home Scotland NorthernIreland 1 1 British International Championship
+1978 141 home Scotland Wales 1 1 British International Championship
+1978 144 home Scotland England 0 1 British International Championship
+1978 158 away Scotland Peru 3 1 World Cup
+1978 162 away Scotland Iran 1 1 World Cup
+1978 166 home Scotland Holland 3 2 World Cup
+1978 268 away Scotland Austria 3 2 European Cup qualifier
+1978 304 home Scotland Norway 3 2 European Cup qualifier
+1978 339 away Scotland Portugal 1 0 European Cup qualifier
+1979 143 away Scotland Wales 3 0 British International Championship
+1979 146 home Scotland NorthernIreland 1 0 British International Championship
+1979 150 away Scotland England 3 1 British International Championship
+1979 157 home Scotland Argentina 1 3 Friendly
+1979 162 away Scotland Norway 0 4 European Cup qualifier
+1979 260 home Scotland Peru 1 1 Friendly
+1979 296 home Scotland Austria 1 1 European Cup qualifier
+1979 331 away Scotland Belgium 2 0 European Cup qualifier
+1979 360 home Scotland Belgium 1 3 European Cup qualifier
+1980 88 home Scotland Portugal 4 1 European Cup qualifier
+1980 140 away Scotland NorthernIreland 1 0 British International Championship
+1980 145 home Scotland Wales 1 0 British International Championship
+1980 148 home Scotland England 0 2 British International Championship
+1980 152 away Scotland Poland 1 0 Friendly
+1980 155 away Scotland Hungary 3 1 Friendly
+1980 258 away Scotland Sweden 0 1 World Cup qualifier
+1980 294 home Scotland Portugal 0 0 World Cup qualifier
+1981 56 away Scotland Israel 0 1 World Cup qualifier
+1981 87 home Scotland NorthernIreland 1 1 World Cup qualifier
+1981 121 home Scotland Israel 3 1 World Cup qualifier
+1981 140 away Scotland Wales 2 0 British International Championship
+1981 143 home Scotland NorthernIreland 2 0 British International Championship
+1981 147 away Scotland England 0 1 British International Championship
+1981 257 home Scotland Sweden 2 0 World Cup qualifier
+1981 293 away Scotland NorthernIreland 0 0 World Cup qualifier
+1981 328 away Scotland Portugal 2 1 World Cup qualifier
+1982 55 away Scotland Spain 3 0 Friendly
+1982 85 home Scotland Holland 2 1 Friendly
+1982 121 away Scotland NorthernIreland 1 1 British International Championship
+1982 148 home Scotland Wales 1 0 British International Championship
+1982 153 home Scotland England 0 1 British International Championship
+1982 170 home Scotland NewZealand 5 2 World Cup
+1982 173 away Scotland Brazil 4 1 World Cup
+1982 177 home Scotland SovietUnion 2 2 World Cup
+1982 292 home Scotland EastGermany 2 0 European Cup qualifier
+1982 327 away Scotland Switzerland 2 0 European Cup qualifier
+1982 356 away Scotland Belgium 3 2 European Cup qualifier
+1983 92 home Scotland Switzerland 2 2 European Cup qualifier
+1983 148 home Scotland NorthernIreland 0 0 British International Championship
+1983 152 away Scotland Wales 0 2 British International Championship
+1983 156 away Scotland England 2 0 British International Championship
+1983 167 away Scotland Canada 0 2 Friendly
+1983 171 away Scotland Canada 0 3 Friendly
+1983 175 away Scotland Canada 0 2 Friendly
+1983 269 home Scotland Uruguay 2 0 Friendly
+1983 291 home Scotland Belgium 1 1 European Cup qualifier
+1983 326 away Scotland EastGermany 2 1 European Cup qualifier
+1983 354 away Scotland NorthernIreland 2 0 British International Championship
+1984 59 home Scotland Wales 2 1 British International Championship
+1984 150 home Scotland England 1 1 British International Championship
+1984 156 away Scotland France 2 0 Friendly
+1984 260 home Scotland Yugoslavia 6 1 Friendly
+1984 296 home Scotland Iceland 3 0 World Cup qualifier
+1984 324 home Scotland Spain 3 1 World Cup qualifier
+1985 58 away Scotland Spain 1 0 World Cup qualifier
+1985 89 home Scotland Wales 0 1 World Cup qualifier
+1985 149 home Scotland England 1 0 Friendly tournament
+1985 152 away Scotland Iceland 0 1 World Cup qualifier
+1985 258 away Scotland Wales 1 1 World Cup qualifier
+1985 295 home Scotland EastGermany 0 0 Friendly
+1985 330 home Scotland Australia 2 0 World Cup qualifier
+1985 345 away Scotland Australia 0 0 World Cup qualifier
+1986 28 away Scotland Israel 0 1 Friendly
+1986 88 home Scotland Romania 3 0 Friendly
+1986 116 away Scotland England 2 1 Friendly tournament
+1986 122 away Scotland Holland 0 0 Friendly
+1986 159 away Scotland Denmark 1 0 World Cup
+1986 163 away Scotland Germany 2 1 World Cup
+1986 168 home Scotland Uruguay 0 0 World Cup
+1986 258 home Scotland Bulgaria 0 0 European Cup qualifier
+1986 294 away Scotland Ireland 0 0 European Cup qualifier
+1986 322 home Scotland Luxembourg 3 0 European Cup qualifier
+1987 49 home Scotland Ireland 0 1 European Cup qualifier
+1987 94 away Scotland Belgium 4 1 European Cup qualifier
+1987 147 home Scotland England 0 0 Friendly tournament
+1987 150 home Scotland Brazil 0 2 Friendly tournament
+1987 257 home Scotland Hungary 2 0 Friendly
+1987 293 home Scotland Belgium 2 0 European Cup qualifier
+1987 321 away Scotland Bulgaria 0 1 European Cup qualifier
+1987 343 away Scotland Luxembourg 0 0 European Cup qualifier
+1988 48 away Scotland SaudiArabia 2 2 Friendly
+1988 84 away Scotland Malta 1 1 Friendly
+1988 120 away Scotland Spain 0 0 Friendly
+1988 141 home Scotland Colombia 0 0 Friendly tournament
+1988 145 away Scotland England 1 0 Friendly tournament
+1988 262 away Scotland Norway 1 2 World Cup qualifier
+1988 298 home Scotland Yugoslavia 1 1 World Cup qualifier
+1988 363 away Scotland Italy 2 0 Friendly
+1989 39 away Scotland Cyprus 2 3 World Cup qualifier
+1989 70 home Scotland France 2 0 World Cup qualifier
+1989 119 home Scotland Cyprus 2 1 World Cup qualifier
+1989 151 home Scotland England 0 2 Friendly tournament
+1989 154 home Scotland Chile 2 0 Friendly tournament
+1989 254 away Scotland Yugoslavia 3 1 World Cup qualifier
+1989 290 away Scotland France 3 0 World Cup qualifier
+1989 325 home Scotland Norway 1 1 World Cup qualifier
+1990 90 home Scotland Argentina 1 0 Friendly
+1990 118 home Scotland EastGermany 0 1 Friendly
+1990 140 home Scotland Egypt 1 3 Friendly
+1990 143 home Scotland Poland 1 1 Friendly
+1990 152 away Scotland Malta 1 2 Friendly
+1990 166 away Scotland CostaRica 1 0 World Cup
+1990 171 home Scotland Sweden 2 1 World Cup
+1990 175 away Scotland Brazil 1 0 World Cup
+1990 260 home Scotland Romania 2 1 European Cup qualifier
+1990 296 home Scotland Switzerland 2 1 European Cup qualifier
+1990 324 away Scotland Bulgaria 1 1 European Cup qualifier
+1991 37 home Scotland SovietUnion 0 1 Friendly
+1991 89 home Scotland Bulgaria 1 1 European Cup qualifier
+1991 125 away Scotland SanMarino 0 2 European Cup qualifier
+1991 259 away Scotland Switzerland 2 2 European Cup qualifier
+1991 295 away Scotland Romania 1 0 European Cup qualifier
+1991 323 home Scotland SanMarino 4 0 European Cup qualifier
+1992 50 home Scotland NorthernIreland 1 0 Friendly
+1992 87 home Scotland Finland 1 1 Friendly
+1992 141 away Scotland UnitedStates 0 1 Friendly
+1992 144 away Scotland Canada 1 3 Friendly
+1992 158 away Scotland Norway 0 0 Friendly
+1992 167 away Scotland Holland 1 0 European Cup
+1992 170 away Scotland Germany 2 0 European Cup
+1992 173 home Scotland IndependentStates 3 0 European Cup
+1992 257 away Scotland Switzerland 3 1 World Cup qualifier
+1992 293 home Scotland Portugal 0 0 World Cup qualifier
+1992 328 home Scotland Italy 0 0 World Cup qualifier
+1993 48 home Scotland Malta 3 0 World Cup qualifier
+1993 86 home Scotland Germany 0 1 Friendly
+1993 121 away Scotland Portugal 5 0 World Cup qualifier
+1993 143 away Scotland Estonia 0 3 World Cup qualifier
+1993 157 home Scotland Estonia 3 1 World Cup qualifier
+1993 256 home Scotland Switzerland 1 1 World Cup qualifier
+1993 292 away Scotland Italy 3 1 World Cup qualifier
+1993 327 away Scotland Malta 0 2 World Cup qualifier
+1994 85 home Scotland Holland 0 1 Friendly
+1994 113 away Scotland Austria 1 2 Friendly
+1994 151 away Scotland Holland 3 1 Friendly
+1994 255 away Scotland Finland 0 2 European Cup qualifier
+1994 291 home Scotland FaroeIslands 5 1 European Cup qualifier
+1994 326 home Scotland Russia 1 1 European Cup qualifier
+1994 359 away Scotland Greece 1 0 European Cup qualifier
+1995 91 away Scotland Russia 0 0 European Cup qualifier
+1995 119 away Scotland SanMarino 0 2 European Cup qualifier
+1995 145 away Scotland Japan 0 0 Kirin Cup
+1995 148 home Scotland Ecuador 2 1 Kirin Cup
+1995 162 away Scotland FaroeIslands 0 2 European Cup qualifier
+1995 233 home Scotland Greece 1 0 European Cup qualifier
+1995 254 home Scotland Finland 1 0 European Cup qualifier
+1995 290 away Scotland Sweden 2 0 Friendly
+1995 325 home Scotland SanMarino 5 0 European Cup qualifier
+1996 89 home Scotland Australia 1 0 Friendly
+1996 117 away Scotland Denmark 2 0 Friendly
+1996 150 away Scotland UnitedStates 2 1 Friendly
+1996 153 away Scotland Colombia 1 0 Friendly
+1996 166 away Scotland Holland 0 0 European Cup
+1996 170 away Scotland England 2 0 European Cup
+1996 173 home Scotland Switzerland 1 0 European Cup
+1996 248 away Scotland Austria 0 0 World Cup qualifier
+1996 284 away Scotland Latvia 0 2 World Cup qualifier
+1996 320 home Scotland Sweden 1 0 World Cup qualifier
+1997 42 away Scotland Estonia 0 0 World Cup qualifier
+1997 91 home Scotland Estonia 2 0 World Cup qualifier
+1997 95 home Scotland Austria 2 0 World Cup qualifier
+1997 123 away Scotland Sweden 2 1 World Cup qualifier
+1997 151 home Scotland Wales 0 1 Friendly
+1997 156 away Scotland Malta 2 3 Friendly
+1997 163 away Scotland Belarus 0 1 World Cup qualifier
+1997 255 home Scotland Belarus 4 1 World Cup qualifier
+1997 290 home Scotland Latvia 2 0 World Cup qualifier
+1997 322 away Scotland France 2 1 Friendly
+1998 87 home Scotland Denmark 0 1 Friendly
+1998 115 home Scotland Finland 1 1 Friendly
+1998 148 home Scotland Colombia 2 2 Friendly
+1998 154 away Scotland UnitedStates 0 0 Friendly
+1998 165 away Scotland Brazil 2 1 World Cup
+1998 171 home Scotland Norway 1 1 World Cup
+1998 178 away Scotland Morocco 3 0 World Cup
+1998 253 away Scotland Lithuania 0 0 European Cup qualifier
+1998 289 home Scotland Estonia 3 2 European Cup qualifier
+1998 293 home Scotland FaroeIslands 2 1 European Cup qualifier
+1999 93 home Scotland Czechia 1 2 European Cup qualifier
+1999 121 away Scotland Germany 0 1 Friendly
+1999 160 away Scotland FaroeIslands 1 1 European Cup qualifier
+1999 164 away Scotland Czechia 3 2 European Cup qualifier
+1999 252 away Scotland Bosnia 1 2 European Cup qualifier
+1999 256 away Scotland Estonia 0 0 European Cup qualifier
+1999 284 home Scotland Bosnia 1 0 European Cup qualifier
+1999 288 home Scotland Lithuania 3 0 European Cup qualifier
+1999 323 home Scotland England 0 2 European Cup qualifier
+1999 327 away Scotland England 0 1 European Cup qualifier
+2000 91 home Scotland France 0 2 Friendly
+2000 119 away Scotland Holland 0 0 Friendly
+2000 154 away Scotland Ireland 1 2 Friendly
+2000 250 away Scotland Latvia 0 1 World Cup qualifier
+2000 286 away Scotland SanMarino 0 2 World Cup qualifier
+2000 290 away Scotland Croatia 1 1 World Cup qualifier
+2000 325 home Scotland Australia 0 2 Friendly
+2001 86 home Scotland Belgium 2 2 World Cup qualifier
+2001 90 home Scotland SanMarino 4 0 World Cup qualifier
+2001 118 away Scotland Poland 1 1 Friendly
+2001 249 home Scotland Croatia 0 0 World Cup qualifier
+2001 253 away Scotland Belgium 2 0 World Cup qualifier
+2001 285 home Scotland Latvia 2 1 World Cup qualifier
+2002 89 away Scotland France 5 0 Friendly
+2002 110 home Scotland Nigeria 1 2 Friendly
+2002 140 away Scotland SouthKorea 4 1 Friendly
+2002 144 away Scotland SouthAfrica 2 0 Friendly tournament
+2002 238 home Scotland Denmark 0 1 Friendly
+2002 255 away Scotland FaroeIslands 2 2 European Cup qualifier
+2002 291 away Scotland Iceland 0 2 European Cup qualifier
+2002 294 home Scotland Canada 3 1 Friendly
+2002 330 away Scotland Portugal 2 0 Friendly
+2003 43 home Scotland Ireland 0 2 Friendly
+2003 91 home Scotland Iceland 2 1 European Cup qualifier
+2003 95 away Scotland Lithuania 1 0 European Cup qualifier
+2003 123 home Scotland Austria 0 2 Friendly
+2003 151 home Scotland NewZealand 1 1 Friendly
+2003 162 home Scotland Germany 1 1 European Cup qualifier
+2003 237 away Scotland Norway 0 0 Friendly
+2003 254 home Scotland FaroeIslands 3 1 European Cup qualifier
+2003 258 away Scotland Germany 2 1 European Cup qualifier
+2003 290 home Scotland Lithuania 1 0 European Cup qualifier
+2003 325 home Scotland Holland 1 0 European Cup qualifier
+2003 329 away Scotland Holland 6 0 European Cup qualifier
+2004 49 away Scotland Wales 4 0 Friendly
+2004 93 home Scotland Romania 1 2 Friendly
+2004 121 away Scotland Denmark 1 0 Friendly
+2004 151 away Scotland Estonia 0 1 Friendly
+2004 154 home Scotland TrinidadTobago 4 1 Friendly
+2004 235 home Scotland Hungary 0 3 Friendly
+2004 251 away Scotland Spain 1 1 Friendly
+2004 256 home Scotland Slovenia 0 0 World Cup qualifier
+2004 288 home Scotland Norway 0 1 World Cup qualifier
+2004 292 away Scotland Moldova 1 1 World Cup qualifier
+2004 327 home Scotland Sweden 1 4 Friendly
+2005 88 away Scotland Italy 2 0 World Cup qualifier
+2005 159 home Scotland Moldova 2 0 World Cup qualifier
+2005 163 away Scotland Belarus 0 0 World Cup qualifier
+2005 234 away Scotland Austria 2 2 Friendly
+2005 251 home Scotland Italy 1 1 World Cup qualifier
+2005 255 away Scotland Norway 1 2 World Cup qualifier
+2005 287 home Scotland Belarus 0 1 World Cup qualifier
+2005 291 away Scotland Slovenia 0 3 World Cup qualifier
+2005 322 home Scotland UnitedStates 1 1 Friendly
+2006 63 home Scotland Switzerland 1 3 Friendly
+2006 135 home Scotland Bulgaria 5 1 Kirin Cup
+2006 137 away Scotland Japan 0 0 Kirin Cup
+2006 250 home Scotland FaroeIslands 6 0 European Cup qualifier
+2006 254 away Scotland Lithuania 1 2 European Cup qualifier
+2006 286 home Scotland France 1 0 European Cup qualifier
+2006 290 away Scotland Ukraine 2 0 European Cup qualifier
+2007 86 home Scotland Georgia 2 1 European Cup qualifier
+2007 90 away Scotland Italy 2 0 European Cup qualifier
+2007 154 away Scotland Austria 0 1 Friendly
+2007 161 away Scotland FaroeIslands 0 2 European Cup qualifier
+2007 239 home Scotland SouthAfrica 1 0 Friendly
+2007 256 home Scotland Lithuania 3 1 European Cup qualifier
+2007 260 away Scotland France 0 1 European Cup qualifier
+2007 292 home Scotland Ukraine 3 1 European Cup qualifier
+2007 296 away Scotland Georgia 2 0 European Cup qualifier
+2007 327 home Scotland Italy 1 2 European Cup qualifier
+2008 88 home Scotland Croatia 1 1 Friendly
+2008 154 away Scotland Czechia 3 1 Friendly
+2008 237 home Scotland NorthernIreland 0 0 Friendly
+2008 254 away Scotland Macedonia 1 0 World Cup qualifier
+2008 258 away Scotland Iceland 1 2 World Cup qualifier
+2008 290 home Scotland Norway 0 0 World Cup qualifier
+2008 329 home Scotland Argentina 0 1 Friendly
+2009 90 away Scotland Holland 3 0 World Cup qualifier
+2009 94 home Scotland Iceland 2 1 World Cup qualifier
+2009 229 away Scotland Norway 4 0 World Cup qualifier
+2009 253 home Scotland Macedonia 2 0 World Cup qualifier
+2009 257 home Scotland Holland 0 1 World Cup qualifier
+2009 289 away Scotland Japan 2 0 Friendly
+2009 324 away Scotland Wales 3 0 Friendly
+2010 65 home Scotland Czechia 1 0 Friendly
+2010 228 away Scotland Sweden 3 0 Friendly
+2010 251 away Scotland Lithuania 0 0 European Cup qualifier
+2010 255 home Scotland Liechtenstein 2 1 European Cup qualifier
+2010 287 away Scotland Czechia 1 0 European Cup qualifier
+2010 291 home Scotland Spain 2 3 European Cup qualifier
+2010 326 home Scotland FaroeIslands 3 0 Friendly
+2011 40 home Scotland NorthernIreland 3 0 Friendly tournament
+2011 89 away Scotland Brazil 2 0 Friendly
+2011 149 home Scotland Wales 3 1 Friendly tournament
+2011 153 away Scotland Ireland 1 0 Friendly tournament
+2011 227 home Scotland Denmark 2 1 Friendly
+2011 251 home Scotland Czechia 2 2 European Cup qualifier
+2011 254 home Scotland Lithuania 1 0 European Cup qualifier
+2011 287 away Scotland Liechtenstein 0 1 European Cup qualifier
+2011 290 away Scotland Spain 3 1 European Cup qualifier
+2011 321 away Scotland Cyprus 1 2 Friendly
+2012 60 away Scotland Slovenia 1 1 Friendly
+2012 150 away Scotland UnitedStates 5 1 Friendly
+2012 232 home Scotland Australia 3 1 Friendly
+2012 256 home Scotland Serbia 0 0 World Cup qualifier
+2012 259 home Scotland Macedonia 1 1 World Cup qualifier
+2012 291 away Scotland Wales 2 1 World Cup qualifier
+2012 295 away Scotland Belgium 2 0 World Cup qualifier
+2012 324 away Scotland Luxembourg 1 2 Friendly
+2013 37 home Scotland Estonia 1 0 Friendly
+2013 84 home Scotland Wales 1 2 World Cup qualifier
+2013 88 away Scotland Serbia 2 0 World Cup qualifier
+2013 162 away Scotland Croatia 0 1 World Cup qualifier
+2013 231 away Scotland England 3 2 Friendly
+2013 254 home Scotland Belgium 0 2 World Cup qualifier
+2013 258 away Scotland Macedonia 1 2 World Cup qualifier
+2013 294 home Scotland Croatia 2 0 World Cup qualifier
+2013 325 home Scotland UnitedStates 0 0 Friendly
+2013 329 away Scotland Norway 0 1 Friendly
+2014 67 away Scotland Poland 0 1 Friendly

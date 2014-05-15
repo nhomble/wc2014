@@ -1,0 +1,4644 @@
+October 19
+1957	Morocco
+Iraq	3
+3	Pan Arab Games
+in Lebanon	0
+0	1600
+1600	-
+-	36
+36
+October 21
+1957	Morocco
+Libya	5
+1	Pan Arab Games
+in Lebanon	+25
+-25	1625
+1451	+6
+-6	30
+66
+October 23
+1957	Morocco
+Tunisia	3
+1	Pan Arab Games
+in Lebanon	+23
+-23	1648
+1516	+5
+-2	25
+51
+October 26
+1957	Syria
+Morocco	1
+1	Pan Arab Games
+in Lebanon	+14
+-14	1372
+1634	+1
+-3	84
+28
+April 03
+1958	Morocco
+Libya	3
+1	Friendly
+in Morocco	+4
+-4	1638
+1426	0
+-1	29
+70
+May 10
+1958	Morocco
+Algeria	1
+3	Friendly
+in Morocco	-14
++14	1624
+1772	-1
+0	30
+15
+November 08
+1959	Malta
+Morocco	2
+2	Olympic Games qualifier
+in Malta	+14
+-14	1230
+1610	+1
+-4	111
+37
+November 15
+1959	Tunisia
+Morocco	2
+0	Olympic Games qualifier
+in Tunisia	+34
+-34	1492
+1576	+7
+-6	55
+43
+December 13
+1959	Morocco
+Malta	2
+1	Olympic Games qualifier
+in Morocco	+3
+-3	1579
+1220	+1
+-2	42
+113
+December 27
+1959	Morocco
+Tunisia	3
+1	Olympic Games qualifier
+in Morocco	+16
+-16	1595
+1483	+2
+-5	39
+57
+January 01
+1960	Morocco
+Yugoslavia	0
+5	Friendly
+in Morocco	-13
++13	1582
+1839	-1
+0	41
+10
+October 30
+1960	Morocco
+Tunisia	2
+1	World Cup qualifier
+in Morocco	+7
+-7	1589
+1417	0
+0	42
+75
+November 13
+1960	Tunisia
+Morocco	2
+1	World Cup qualifier
+in Tunisia	+24
+-24	1441
+1565	+4
+-5	71
+47
+December 11
+1960	Morocco
+East Germany	2
+3	Friendly
+in Morocco	-14
++14	1551
+1515	-1
++1	47
+53
+January 22
+1961	Morocco
+Tunisia	1
+1	World Cup qualifier
+in Italy	-8
++8	1543
+1415	-1
++3	48
+76
+April 02
+1961	Ghana
+Morocco	0
+0	World Cup qualifier
+in Ghana	-11
++11	1658
+1554	0
++1	28
+47
+May 28
+1961	Morocco
+Ghana	1
+0	World Cup qualifier
+in Morocco	+19
+-19	1573
+1622	+1
+-3	45
+34
+June 18
+1961	Yugoslavia
+Morocco	3
+2	Friendly
+in Yugoslavia	+2
+-2	1878
+1571	0
+0	9
+45
+June 21
+1961	East Germany
+Morocco	1
+2	Friendly
+in East Germany	-11
++11	1508
+1582	-2
++2	54
+43
+September 03
+1961	Morocco
+Lebanon	1
+0	Pan Arab Games
+in Morocco	+6
+-6	1588
+1358	-1
+-1	44
+94
+September 04
+1961	Morocco
+Libya	6
+2	Pan Arab Games
+in Morocco	+13
+-13	1601
+1399	+2
+-5	42
+85
+September 06
+1961	Morocco
+Saudi Arabia	13
+1	Pan Arab Games
+in Morocco	+12
+-12	1613
+1319	+3
+-4	39
+103
+September 08
+1961	Morocco
+Kuwait	3
+1	Pan Arab Games
+in Morocco	+9
+-9	1622
+1409	+3
+-3	36
+81
+September 10
+1961	Morocco
+Egypt	2
+2	Pan Arab Games
+in Morocco	-3
++3	1619
+1670	-2
+0	38
+27
+November 12
+1961	Morocco
+Spain	0
+1	World Cup qualifier
+in Morocco	-10
++10	1609
+1911	-2
++3	41
+5
+November 23
+1961	Spain
+Morocco	3
+2	World Cup qualifier
+in Spain	+4
+-4	1915
+1605	+1
+0	4
+41
+December 10
+1961	Morocco
+East Germany	2
+0	Friendly
+in Morocco	+7
+-7	1612
+1489	+2
+-3	39
+60
+April 15
+1962	Morocco
+Poland	1
+3	Friendly
+in Morocco	-17
++17	1595
+1672	-5
++3	43
+25
+September 12
+1962	Algeria
+Morocco	3
+1	Friendly
+in Algeria	+5
+-5	1792
+1590	+1
+-1	18
+42
+September 30
+1962	Romania
+Morocco	4
+0	Friendly
+in Romania	+12
+-12	1640
+1578	+2
+-2	29
+43
+October 11
+1962	Poland
+Morocco	1
+1	Friendly
+in Poland	-4
++4	1614
+1582	-1
+0	34
+43
+December 23
+1962	Morocco
+Romania	3
+1	Friendly
+in Morocco	+14
+-14	1596
+1649	+4
+-2	39
+28
+January 13
+1963	Morocco
+Switzerland	1
+0	Friendly
+in Morocco	+6
+-6	1602
+1560	+1
+-1	38
+49
+September 21
+1963	Morocco
+Syria	1
+0	Mediterranean Games
+in Italy	+12
+-12	1614
+1453	+3
+-2	37
+73
+September 25
+1963	Morocco
+Tunisia	1
+0	Mediterranean Games
+in Italy	+17
+-17	1631
+1537	+2
+-2	34
+53
+November 16
+1963	Nigeria
+Morocco	3
+0	Olympic Games qualifier
+in Nigeria	+36
+-36	1556
+1595	+5
+-6	52
+40
+December 01
+1963	Morocco
+Soviet Union	1
+1	Friendly
+in Morocco	+6
+-6	1601
+1953	+2
+0	38
+1
+December 29
+1963	Morocco
+West Germany	1
+4	Friendly
+in Morocco	-10
++10	1591
+1879	-3
++1	42
+6
+March 08
+1964	Morocco
+Nigeria	4
+1	Olympic Games qualifier
+in Morocco	+15
+-15	1606
+1452	+4
+0	37
+73
+March 24
+1964	Morocco
+Nigeria	2
+1	Olympic Games qualifier
+in Egypt	+12
+-12	1618
+1440	+3
+-4	33
+77
+April 25
+1964	Morocco
+Uruguay	0
+1	Friendly
+in Morocco	-7
++7	1611
+1822	-4
+0	36
+13
+May 10
+1964	Ethiopia
+Morocco	0
+1	Olympic Games qualifier
+in Ethiopia	-16
++16	1430
+1627	-8
++5	82
+33
+May 24
+1964	Morocco
+Ethiopia	1
+0	Olympic Games qualifier
+in Morocco	+6
+-6	1633
+1413	0
+0	32
+84
+October 13
+1964	Yugoslavia
+Morocco	3
+1	Olympic Games
+in Japan	+19
+-19	1881
+1614	+2
+-3	5
+37
+March 12
+1965	Morocco
+Kuwait	2
+0	Friendly tournament
+in Libya	+7
+-7	1621
+1306	+4
+-2	35
+112
+March 14
+1965	Morocco
+Tunisia	0
+0	Friendly tournament
+in Libya	-4
++4	1617
+1526	-1
++5	36
+51
+March 19
+1965	Libya
+Morocco	1
+0	Friendly tournament
+in Libya	+17
+-17	1486
+1600	+4
+-8	69
+43
+November 01
+1965	Algeria
+Morocco	0
+0	Friendly
+in Algeria	-5
++5	1699
+1605	-2
++1	29
+39
+March 06
+1966	Morocco
+Algeria	1
+0	Friendly
+in Morocco	+10
+-10	1615
+1689	+2
+0	35
+30
+November 24
+1966	Algeria
+Morocco	2
+2	Friendly
+in Algeria	-5
++5	1684
+1620	-1
++1	28
+37
+February 22
+1967	West Germany
+Morocco	5
+1	Friendly
+in West Germany	+2
+-2	1989
+1618	0
+0	2
+37
+September 12
+1967	Algeria
+Morocco	3
+1	Mediterranean Games
+in Tunisia	+20
+-20	1754
+1598	+3
+-3	18
+38
+November 05
+1967	Morocco
+Tunisia	1
+1	Olympic Games qualifier
+in Morocco	-8
++8	1590
+1562	-1
++5	39
+47
+November 26
+1967	Tunisia
+Morocco	0
+0	Olympic Games qualifier
+in Tunisia	-4
++4	1558
+1594	-2
++1	50
+41
+March 17
+1968	Morocco
+Algeria	0
+0	Friendly
+in Morocco	-1
++1	1593
+1657	-1
+0	43
+32
+June 09
+1968	Morocco
+Ghana	1
+1	Olympic Games qualifier
+in Morocco	+3
+-3	1596
+1749	+2
+0	41
+19
+June 30
+1968	Ghana
+Morocco	1
+2	Olympic Games qualifier
+in Ghana	-32
++32	1717
+1628	-2
++5	21
+36
+November 03
+1968	Morocco
+Senegal	1
+0	World Cup qualifier
+in Morocco	+10
+-10	1638
+1535	+3
+-2	33
+58
+January 05
+1969	Senegal
+Morocco	2
+1	World Cup qualifier
+in Senegal	+21
+-21	1549
+1617	+4
+-5	56
+36
+February 13
+1969	Morocco
+Senegal	2
+0	World Cup qualifier
+in Spain	+23
+-23	1640
+1515	+6
+-4	30
+62
+March 09
+1969	Algeria
+Morocco	2
+0	African Nations Cup qualifier
+in Algeria	+25
+-25	1620
+1615	+7
+-8	36
+38
+March 22
+1969	Morocco
+Algeria	1
+0	African Nations Cup qualifier
+in Morocco	+15
+-15	1630
+1605	+3
+-4	35
+40
+April 27
+1969	Tunisia
+Morocco	0
+0	World Cup qualifier
+in Tunisia	-2
++2	1557
+1632	0
++1	52
+35
+May 18
+1969	Morocco
+Tunisia	0
+0	World Cup qualifier
+in Morocco	-9
++9	1623
+1566	-2
++2	36
+50
+June 13
+1969	Morocco
+Tunisia	2
+2	World Cup qualifier
+in France	-3
++3	1620
+1569	-1
+0	37
+50
+September 21
+1969	Morocco
+Nigeria	2
+1	World Cup qualifier
+in Morocco	+10
+-10	1630
+1528	+1
+-3	37
+60
+October 10
+1969	Sudan
+Morocco	0
+0	World Cup qualifier
+in Sudan	-3
++3	1588
+1633	-2
++1	49
+35
+October 26
+1969	Morocco
+Sudan	3
+0	World Cup qualifier
+in Morocco	+21
+-21	1654
+1567	+2
+-5	34
+51
+October 30
+1969	Algeria
+Morocco	1
+0	Friendly
+in Algeria	+9
+-9	1607
+1645	+2
+-1	40
+35
+November 08
+1969	Nigeria
+Morocco	2
+0	World Cup qualifier
+in Nigeria	+31
+-31	1568
+1614	+6
+-5	50
+40
+December 28
+1969	Morocco
+Bulgaria	3
+0	Friendly
+in Morocco	+22
+-22	1636
+1783	+3
+-1	35
+12
+June 03
+1970	West Germany
+Morocco	2
+1	World Cup
+in Mexico	+9
+-9	1950
+1627	0
+-1	4
+39
+June 06
+1970	Peru
+Morocco	3
+0	World Cup
+in Mexico	+38
+-38	1763
+1589	+6
+-7	17
+46
+June 11
+1970	Bulgaria
+Morocco	1
+1	World Cup
+in Mexico	-10
++10	1700
+1599	-1
++3	25
+43
+December 10
+1970	Algeria
+Morocco	3
+1	African Nations Cup qualifier
+in Algeria	+23
+-23	1609
+1576	+5
+-6	42
+49
+December 27
+1970	Morocco
+Algeria	3
+0	African Nations Cup qualifier
+in Morocco	+28
+-28	1604
+1581	+6
+-5	42
+47
+
+1971	Morocco
+Niger	5
+1	Olympic Games qualifier
+in Morocco	+5
+-5	1609
+1222	0
+-1	42
+131
+
+1971	Niger
+Morocco	1
+3	Olympic Games qualifier
+in Niger	-10
++10	1212
+1619	-1
+0	131
+42
+March 14
+1971	Morocco
+Egypt	3
+0	African Nations Cup qualifier
+in Morocco	+40
+-40	1659
+1729	+6
+-8	35
+23
+March 21
+1971	Egypt
+Morocco	3
+2	African Nations Cup qualifier
+in Egypt	+11
+-11	1740
+1648	+3
+-1	20
+36
+September 12
+1971	Morocco
+Mexico	2
+1	Friendly
+in Morocco	+8
+-8	1656
+1663	0
+-2	36
+34
+October 08
+1971	Morocco
+Egypt	1
+0	Mediterranean Games
+in Turkey	+25
+-25	1681
+1726	+7
+-1	29
+22
+October 10
+1971	Morocco
+Greece	1
+0	Mediterranean Games
+in Turkey	+14
+-14	1695
+1553	0
+-4	29
+54
+
+1972	Mali
+Morocco	1
+4	Olympic Games qualifier
+in Mali	-32
++32	1534
+1727	-15
++6	59
+23
+
+1972	Morocco
+Mali	2
+1	Olympic Games qualifier
+in Morocco	+6
+-6	1733
+1528	+6
+-15	23
+59
+January 31
+1972	Morocco
+Romania	2
+4	Friendly
+in Morocco	-18
++18	1715
+1786	-6
++1	29
+15
+February 17
+1972	Senegal
+Morocco	1
+3	Friendly
+in Senegal	-10
++10	1488
+1725	-3
++3	68
+25
+February 20
+1972	Nigeria
+Morocco	3
+0	Friendly
+in Nigeria	+23
+-23	1544
+1702	+5
+-4	57
+29
+February 25
+1972	Congo
+Morocco	1
+1	African Nations Cup
+in Cameroon	+11
+-11	1542
+1691	+1
+-2	58
+31
+February 27
+1972	Morocco
+Sudan	1
+1	African Nations Cup
+in Cameroon	-4
++4	1687
+1638	-1
+0	32
+39
+February 29
+1972	Morocco
+Zaire	1
+1	African Nations Cup
+in Cameroon	0
+0	1687
+1689	0
+0	32
+31
+April 23
+1972	Morocco
+Tunisia	0
+0	Olympic Games qualifier
+in Morocco	-10
++10	1677
+1614	0
++1	31
+41
+April 23
+1972	Tunisia
+Morocco	3
+3	Olympic Games qualifier
+in Tunisia	-2
++2	1612
+1679	+1
+0	41
+31
+August 31
+1972	Morocco
+Malaysia	6
+0	Olympic Games
+in West Germany	+33
+-33	1712
+1461	+4
+-4	27
+71
+September 03
+1972	Soviet Union
+Morocco	3
+0	Olympic Games
+in West Germany	+27
+-27	1923
+1685	+2
+-4	4
+31
+September 08
+1972	Poland
+Morocco	5
+0	Olympic Games
+in West Germany	+32
+-32	1892
+1653	+3
+-2	6
+33
+November 19
+1972	Morocco
+Senegal	0
+0	World Cup qualifier
+in Morocco	-12
++12	1641
+1522	0
++3	34
+60
+December 03
+1972	Senegal
+Morocco	1
+2	World Cup qualifier
+in Senegal	-19
++19	1503
+1660	-3
+0	63
+34
+February 11
+1973	Guinea
+Morocco	1
+1	World Cup qualifier
+in Guinea	-6
++6	1664
+1666	-4
++3	34
+31
+February 25
+1973	Morocco
+Guinea	2
+0	World Cup qualifier
+in Morocco	+21
+-21	1687
+1643	+3
+-3	27
+35
+May 20
+1973	Ivory Coast
+Morocco	1
+1	World Cup qualifier
+in Ivory Coast	-2
++2	1627
+1689	0
+0	38
+31
+May 20
+1973	Morocco
+Algeria	1
+1	Friendly
+in Morocco	-6
++6	1683
+1552	0
++3	31
+54
+June 03
+1973	Morocco
+Ivory Coast	4
+1	World Cup qualifier
+in Morocco	+20
+-20	1703
+1607	+2
+-2	28
+40
+October 21
+1973	Zambia
+Morocco	4
+0	World Cup qualifier
+in Zambia	+48
+-48	1555
+1655	+7
+-4	55
+33
+October 31
+1973	Algeria
+Morocco	2
+0	Friendly
+in Algeria	+15
+-15	1576
+1640	+6
+-3	47
+35
+November 25
+1973	Morocco
+Zambia	2
+0	World Cup qualifier
+in Morocco	+14
+-14	1654
+1523	+3
+-2	32
+59
+December 09
+1973	Zaire
+Morocco	3
+0	World Cup qualifier
+in Zaire	+21
+-21	1727
+1633	+3
+-4	26
+36
+April 07
+1974	Morocco
+Algeria	2
+0	Friendly
+in Morocco	+8
+-8	1641
+1544	0
+0	36
+55
+September 26
+1974	Morocco
+Jordan	2
+1	Kuneitra Cup
+in Syria	+2
+-2	1643
+1188	+1
+0	35
+140
+September 28
+1974	Morocco
+Egypt	4
+2	Kuneitra Cup
+in Syria	+22
+-22	1665
+1606	+2
+-3	33
+40
+September 30
+1974	Morocco
+Tunisia	3
+1	Kuneitra Cup
+in Syria	+23
+-23	1688
+1646	+4
+-5	29
+35
+October 02
+1974	Morocco
+Lebanon	3
+0	Kuneitra Cup
+in Syria	+8
+-8	1696
+1370	+1
+0	28
+97
+October 04
+1974	Morocco
+Algeria	1
+0	Kuneitra Cup
+in Syria	+8
+-8	1704
+1513	+1
+-3	27
+62
+October 06
+1974	Morocco
+Sudan	2
+0	Kuneitra Cup
+in Syria	+11
+-11	1715
+1500	0
+-2	27
+65
+October 09
+1974	Syria
+Morocco	1
+1	Kuneitra Cup
+in Syria	+3
+-3	1542
+1712	0
+0	53
+27
+October 31
+1974	Algeria
+Morocco	0
+0	Friendly
+in Algeria	+3
+-3	1516
+1709	+1
+0	61
+28
+
+1975	Morocco
+Nigeria	1
+0	Olympic Games qualifier
+in Morocco	+10
+-10	1719
+1602	-3
++3	29
+39
+
+1975	Nigeria
+Morocco	3
+1	Olympic Games qualifier
+in Nigeria	+31
+-31	1633
+1688	+3
+-3	39
+29
+February 23
+1975	Morocco
+Libya	2
+1	Olympic Games qualifier
+in Morocco	+4
+-4	1692
+1380	0
+-1	29
+94
+March 14
+1975	Libya
+Morocco	0
+1	Olympic Games qualifier
+in Libya	-9
++9	1371
+1701	-2
+0	96
+29
+June 01
+1975	Algeria
+Morocco	1
+0	Friendly
+in Algeria	+12
+-12	1544
+1689	0
+0	60
+28
+August 10
+1975	Morocco
+Gambia	3
+0	African Nations Cup qualifier
+in Morocco	+4
+-4	1693
+1280	0
+-1	27
+122
+August 24
+1975	Gambia
+Morocco	0
+3	African Nations Cup qualifier
+in Gambia	-10
++10	1270
+1703	-3
++1	125
+27
+August 31
+1975	Morocco
+Tunisia	0
+0	Mediterranean Games
+in Algeria	-4
++4	1699
+1629	-1
+0	28
+40
+September 06
+1975	Morocco
+Tunisia	1
+1	Mediterranean Games
+in Algeria	-5
++5	1694
+1616	-1
++1	29
+41
+September 14
+1975	Morocco
+Senegal	4
+0	African Nations Cup qualifier
+in Morocco	+13
+-13	1707
+1509	+4
+-1	25
+63
+September 28
+1975	Senegal
+Morocco	2
+1	African Nations Cup qualifier
+in Senegal	+25
+-25	1534
+1682	+2
+-4	61
+29
+October 26
+1975	Ghana
+Morocco	2
+0	African Nations Cup qualifier
+in Ghana	+30
+-30	1614
+1652	+1
+-3	45
+32
+November 09
+1975	Morocco
+Ghana	2
+0	African Nations Cup qualifier
+in Morocco	+19
+-19	1671
+1595	+1
+-1	31
+44
+November 30
+1975	Morocco
+Tunisia	1
+0	Olympic Games qualifier
+in Morocco	+12
+-12	1683
+1610	+2
+-1	29
+43
+December 14
+1975	Tunisia
+Morocco	1
+0	Olympic Games qualifier
+in Tunisia	+18
+-18	1628
+1665	+3
+-1	40
+30
+March 01
+1976	Morocco
+Sudan	2
+2	African Nations Cup
+in Ethiopia	-9
++9	1656
+1546	-3
+0	33
+59
+March 04
+1976	Morocco
+Zaire	1
+0	African Nations Cup
+in Ethiopia	+23
+-23	1679
+1600	+3
+-4	30
+45
+March 06
+1976	Morocco
+Nigeria	3
+1	African Nations Cup
+in Ethiopia	+41
+-41	1720
+1672	+5
+-5	25
+31
+March 09
+1976	Morocco
+Egypt	2
+1	African Nations Cup
+in Ethiopia	+20
+-20	1740
+1634	+2
+-5	23
+39
+March 11
+1976	Morocco
+Nigeria	2
+1	African Nations Cup
+in Ethiopia	+20
+-20	1760
+1651	+2
+-3	21
+34
+March 14
+1976	Guinea
+Morocco	1
+1	African Nations Cup
+in Ethiopia	+5
+-5	1699
+1755	0
+-1	28
+22
+October 08
+1976	Morocco
+Palestine	3
+0	Pan Arab Games
+in Syria	+4
+-4	1759
+1275	+3
+0	19
+122
+October 10
+1976	Morocco
+Saudi Arabia	0
+0	Pan Arab Games
+in Syria	-17
++17	1742
+1367	-2
++2	22
+98
+October 12
+1976	Morocco
+Jordan	3
+0	Pan Arab Games
+in Syria	+3
+-3	1745
+1191	0
+0	22
+141
+October 14
+1976	Morocco
+South Yemen	4
+0	Pan Arab Games
+in Syria	+2
+-2	1747
+1150	0
+0	22
+146
+October 16
+1976	Morocco
+Mauritania	2
+0	Pan Arab Games
+in Syria	+1
+-1	1748
+1069	0
+0	22
+157
+October 18
+1976	Syria
+Morocco	0
+0	Pan Arab Games
+in Syria	+9
+-9	1489
+1739	+2
+0	69
+22
+December 12
+1976	Morocco
+Tunisia	1
+1	World Cup qualifier
+in Morocco	-10
++10	1729
+1652	0
+0	23
+37
+January 09
+1977	Tunisia
+Morocco	1
+1	World Cup qualifier
+in Tunisia	-1
++1	1651
+1730	0
+0	36
+23
+February 26
+1978	Morocco
+Soviet Union	2
+3	Friendly
+in Morocco	-8
++8	1722
+1902	-2
+0	27
+8
+March 06
+1978	Morocco
+Tunisia	1
+1	African Nations Cup
+in Ghana	-1
++1	1721
+1712	0
+0	27
+29
+March 09
+1978	Morocco
+Congo	1
+0	African Nations Cup
+in Ghana	+11
+-11	1732
+1490	+1
+-5	26
+71
+March 11
+1978	Uganda
+Morocco	3
+0	African Nations Cup
+in Ghana	+67
+-67	1593
+1665	+14
+-10	46
+36
+September 09
+1978	Iran
+Morocco	2
+0	Presidents Cup
+in South Korea	+26
+-26	1743
+1639	+3
+-2	25
+37
+September 13
+1978	Morocco
+New Zealand	3
+0	Presidents Cup
+in South Korea	+22
+-22	1661
+1479	+2
+-7	35
+73
+September 16
+1979	Mauritania
+Morocco	2
+2	African Nations Cup qualifier
+in Mauritania	+18
+-18	1058
+1643	0
+-2	162
+36
+September 23
+1979	Morocco
+Egypt	0
+0	Mediterranean Games
+in Yugoslavia	-1
++1	1642
+1626	0
++1	36
+42
+September 30
+1979	Morocco
+Mauritania	4
+1	African Nations Cup qualifier
+in Morocco	+1
+-1	1643
+1057	+1
+0	35
+162
+October 28
+1979	Morocco
+Togo	7
+0	African Nations Cup qualifier
+in Morocco	+12
+-12	1655
+1409	+2
+-1	33
+82
+November 11
+1979	Togo
+Morocco	2
+1	African Nations Cup qualifier
+in Togo	+28
+-28	1437
+1627	+6
+-8	79
+41
+February 12
+1980	Ivory Coast
+Morocco	4
+4	Friendly
+in Ivory Coast	-2
++2	1591
+1629	0
++2	48
+40
+February 27
+1980	Morocco
+Tunisia	0
+0	Friendly
+in Morocco	-1
++1	1628
+1701	0
++1	41
+26
+March 09
+1980	Guinea
+Morocco	1
+1	African Nations Cup
+in Nigeria	+3
+-3	1586
+1625	0
+-2	52
+43
+March 13
+1980	Algeria
+Morocco	1
+0	African Nations Cup
+in Nigeria	+27
+-27	1618
+1598	+3
+-5	46
+49
+March 16
+1980	Morocco
+Ghana	1
+0	African Nations Cup
+in Nigeria	+30
+-30	1628
+1639	+7
+-6	42
+38
+March 19
+1980	Nigeria
+Morocco	1
+0	African Nations Cup
+in Nigeria	+17
+-17	1664
+1611	+4
+-4	33
+47
+March 21
+1980	Morocco
+Egypt	2
+0	African Nations Cup
+in Nigeria	+37
+-37	1648
+1573	+9
+-6	38
+54
+June 08
+1980	Tunisia
+Morocco	0
+1	Friendly
+in Tunisia	-15
++15	1702
+1663	0
++1	27
+36
+June 22
+1980	Senegal
+Morocco	0
+1	World Cup qualifier
+in Senegal	-23
++23	1600
+1686	-4
++4	48
+31
+July 06
+1980	Morocco
+Senegal	0
+0	World Cup qualifier
+in Morocco	-10
++10	1676
+1613	-1
++1	31
+47
+October 15
+1980	Morocco
+Burma	2
+2	Merdeka Tournament
+in Malaysia	-11
++11	1665
+1379	-3
++5	35
+93
+October 20
+1980	Morocco
+South Korea	1
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1669
+1748	0
+-2	34
+25
+October 22
+1980	Morocco
+Thailand	2
+1	Merdeka Tournament
+in Malaysia	+4
+-4	1673
+1363	+2
+-1	32
+99
+October 24
+1980	Malaysia
+Morocco	2
+0	Merdeka Tournament
+in Malaysia	+35
+-35	1381
+1638	+14
+-5	93
+37
+October 26
+1980	Morocco
+New Zealand	3
+0	Merdeka Tournament
+in Malaysia	+16
+-16	1654
+1475	+3
+-2	34
+71
+October 27
+1980	Morocco
+Kuwait	3
+0	Merdeka Tournament
+in Malaysia	+20
+-20	1674
+1548	+2
+-4	32
+57
+October 29
+1980	Morocco
+Indonesia	2
+0	Merdeka Tournament
+in Malaysia	+5
+-5	1679
+1299	0
+-2	32
+118
+November 02
+1980	Malaysia
+Morocco	1
+2	Merdeka Tournament
+in Malaysia	-7
++7	1368
+1686	-3
+0	99
+32
+November 17
+1980	Morocco
+Zambia	2
+0	World Cup qualifier
+in Morocco	+12
+-12	1698
+1525	+4
+-5	27
+61
+November 30
+1980	Zambia
+Morocco	2
+0	World Cup qualifier
+in Zambia	+38
+-38	1536
+1660	+9
+-6	58
+34
+February 15
+1981	Morocco
+Syria	3
+0	Friendly
+in Morocco	+3
+-3	1663
+1370	0
+-1	34
+95
+March 08
+1981	Morocco
+Iraq	1
+1	Friendly
+in Morocco	-3
++3	1660
+1673	0
++2	34
+31
+March 22
+1981	Morocco
+Liberia	3
+1	African Nations Cup qualifier
+in Morocco	+4
+-4	1664
+1300	0
+-1	33
+117
+April 04
+1981	Liberia
+Morocco	0
+5	African Nations Cup qualifier
+in Liberia	-14
++14	1286
+1678	-4
++1	121
+32
+April 26
+1981	Morocco
+Egypt	1
+0	World Cup qualifier
+in Morocco	+10
+-10	1688
+1588	+1
+-3	31
+48
+May 08
+1981	Egypt
+Morocco	0
+0	World Cup qualifier
+in Egypt	0
+0	1588
+1688	0
+0	49
+30
+August 16
+1981	Morocco
+Zambia	2
+1	African Nations Cup qualifier
+in Morocco	+10
+-10	1698
+1589	+2
+-3	28
+49
+August 30
+1981	Zambia
+Morocco	2
+0	African Nations Cup qualifier
+in Zambia	+31
+-31	1620
+1667	+8
+-4	41
+32
+September 27
+1981	Morocco
+Tunisia	2
+2	Friendly
+in Morocco	-2
++2	1665
+1714	-1
+0	34
+27
+November 01
+1981	Senegal
+Morocco	2
+0	Friendly
+in Senegal	+14
+-14	1607
+1651	+2
+-2	44
+38
+November 15
+1981	Morocco
+Cameroon	0
+2	World Cup qualifier
+in Morocco	-45
++45	1606
+1599	-6
++11	44
+47
+November 29
+1981	Cameroon
+Morocco	2
+1	World Cup qualifier
+in Cameroon	+15
+-15	1614
+1591	+5
+-2	42
+47
+June 21
+1982	Morocco
+Kuwait	3
+3	Friendly
+in Morocco	-3
++3	1588
+1596	-2
+-4	49
+45
+July 23
+1982	China
+Morocco	3
+3	Beijing Invitational Cup
+in China	-1
++1	1521
+1589	0
+0	62
+48
+July 25
+1982	Hong Kong
+Morocco	0
+0	Beijing Invitational Cup
+in Hong Kong	+6
+-6	1355
+1583	+3
+-2	99
+50
+October 03
+1982	Saudi Arabia
+Morocco	2
+1	Friendly
+in Saudi Arabia	+11
+-11	1443
+1572	+1
+-1	82
+50
+March 09
+1983	Senegal
+Morocco	1
+0	Friendly
+in Senegal	+8
+-8	1548
+1564	0
+-2	58
+52
+March 23
+1983	Tunisia
+Morocco	1
+0	Friendly
+in Tunisia	+6
+-6	1612
+1558	0
+-3	42
+55
+April 10
+1983	Morocco
+Mali	4
+0	African Nations Cup qualifier
+in Morocco	+23
+-23	1581
+1495	+9
+-8	47
+72
+April 24
+1983	Mali
+Morocco	2
+0	African Nations Cup qualifier
+in Mali	+30
+-30	1513
+1551	+6
+-9	65
+57
+August 14
+1983	Nigeria
+Morocco	0
+0	African Nations Cup qualifier
+in Nigeria	-5
++5	1530
+1556	-3
++1	61
+55
+August 28
+1983	Morocco
+Nigeria	0
+0	African Nations Cup qualifier
+in Morocco	-7
++7	1549
+1537	-1
++4	56
+57
+September 13
+1983	Morocco
+Libya	2
+0	Mediterranean Games
+in Morocco	+20
+-20	1569
+1507	+4
+-4	51
+66
+September 15
+1983	Morocco
+Egypt	2
+1	Mediterranean Games
+in Morocco	+18
+-18	1587
+1618	+3
+-2	48
+41
+January 15
+1984	Ivory Coast
+Morocco	3
+3	Friendly
+in Ivory Coast	-2
++2	1556
+1589	0
+0	53
+48
+February 04
+1984	Morocco
+Bulgaria	1
+1	Friendly
+in Morocco	0
+0	1589
+1697	0
+0	49
+33
+June 23
+1984	Morocco
+Senegal	2
+1	Friendly
+in Morocco	+5
+-5	1594
+1505	+4
+0	44
+66
+June 30
+1984	Sierra Leone
+Morocco	0
+1	World Cup qualifier
+in Sierra Leone	-12
++12	1332
+1606	-1
++1	108
+43
+July 15
+1984	Morocco
+Sierra Leone	4
+0	World Cup qualifier
+in Morocco	+8
+-8	1614
+1324	+1
++1	42
+107
+October 24
+1984	Morocco
+Canada	3
+2	Friendly
+in Morocco	+5
+-5	1619
+1511	+1
+-2	41
+64
+January 02
+1985	Libya
+Morocco	0
+0	Friendly
+in Libya	0
+0	1513
+1619	0
+0	63
+42
+January 31
+1985	India
+Morocco	0
+1	Nehru Gold Cup
+in India	-7
++7	1229
+1626	-4
++1	140
+41
+February 02
+1985	Soviet Union
+Morocco	1
+0	Nehru Gold Cup
+in India	+6
+-6	1950
+1620	0
+-1	2
+42
+April 07
+1985	Morocco
+Malawi	2
+0	World Cup qualifier
+in Morocco	+17
+-17	1637
+1546	+4
+-4	39
+62
+April 21
+1985	Malawi
+Morocco	0
+0	World Cup qualifier
+in Malawi	0
+0	1544
+1637	0
+0	62
+40
+July 12
+1985	Egypt
+Morocco	0
+0	World Cup qualifier
+in Egypt	-4
++4	1604
+1641	-1
++2	45
+40
+July 28
+1985	Morocco
+Egypt	2
+0	World Cup qualifier
+in Morocco	+19
+-19	1660
+1585	+3
+-7	36
+51
+August 04
+1985	Morocco
+Somalia	3
+0	Pan Arab Games
+in Morocco	+1
+-1	1661
+1081	0
+0	36
+163
+August 08
+1985	Morocco
+Tunisia	2
+2	Pan Arab Games
+in Morocco	-7
++7	1654
+1645	-1
++3	37
+38
+August 10
+1985	Morocco
+Mauritania	3
+0	Pan Arab Games
+in Morocco	+2
+-2	1656
+1097	0
+-1	37
+161
+August 13
+1985	Morocco
+Algeria	1
+0	Pan Arab Games
+in Morocco	+16
+-16	1672
+1670	+2
+-1	35
+36
+August 16
+1985	Morocco
+Iraq	0
+1	Pan Arab Games
+in Morocco	-23
++23	1649
+1745	-2
++2	37
+28
+August 25
+1985	Morocco
+Zaire	1
+0	African Nations Cup qualifier
+in Morocco	+12
+-12	1661
+1587	+1
+-2	36
+48
+September 08
+1985	Zaire
+Morocco	0
+0	African Nations Cup qualifier
+in Zaire	-1
++1	1586
+1662	0
+0	49
+36
+October 06
+1985	Morocco
+Libya	3
+0	World Cup qualifier
+in Morocco	+17
+-17	1679
+1543	0
+-2	36
+61
+October 18
+1985	Libya
+Morocco	1
+0	World Cup qualifier
+in Libya	+21
+-21	1586
+1658	+7
+-1	49
+37
+February 19
+1986	Morocco
+Bulgaria	0
+0	Friendly
+in Morocco	0
+0	1658
+1763	0
+0	37
+25
+March 08
+1986	Algeria
+Morocco	0
+0	African Nations Cup
+in Egypt	-1
++1	1676
+1659	0
+0	33
+38
+March 11
+1986	Cameroon
+Morocco	1
+1	African Nations Cup
+in Egypt	+4
+-4	1602
+1655	+1
+0	44
+38
+March 14
+1986	Morocco
+Zambia	1
+0	African Nations Cup
+in Egypt	+19
+-19	1674
+1554	+4
+-5	33
+61
+March 17
+1986	Egypt
+Morocco	1
+0	African Nations Cup
+in Egypt	+24
+-24	1615
+1650	+5
+-4	44
+37
+March 20
+1986	Ivory Coast
+Morocco	3
+2	African Nations Cup
+in Egypt	+29
+-29	1618
+1621	+5
+-6	44
+43
+April 23
+1986	Northern Ireland
+Morocco	2
+1	Friendly
+in Northern Ireland	+3
+-3	1809
+1618	+1
+-1	16
+42
+June 02
+1986	Morocco
+Poland	0
+0	World Cup
+in Mexico	+13
+-13	1631
+1760	+2
+-4	39
+27
+June 06
+1986	England
+Morocco	0
+0	World Cup
+in Mexico	-20
++20	1882
+1651	-1
++3	5
+37
+June 11
+1986	Morocco
+Portugal	3
+1	World Cup
+in Mexico	+60
+-60	1711
+1714	+6
+-7	31
+30
+June 17
+1986	West Germany
+Morocco	1
+0	World Cup
+in Mexico	+17
+-17	1885
+1694	+1
+-1	7
+31
+June 09
+1987	Australia
+Morocco	1
+0	Presidents Cup
+in South Korea	+21
+-21	1694
+1673	+4
+-4	31
+35
+July 26
+1987	Liberia
+Morocco	2
+1	Friendly
+in Liberia	+16
+-16	1358
+1657	+2
+-3	102
+40
+February 02
+1988	Austria
+Morocco	1
+5	Friendly tournament
+in France	-32
++32	1678
+1689	-7
++5	35
+33
+February 05
+1988	France
+Morocco	2
+1	Friendly tournament
+in France	+6
+-6	1823
+1683	+2
+0	13
+33
+March 03
+1988	Morocco
+East Germany	2
+1	Friendly
+in Morocco	+10
+-10	1693
+1761	+1
+0	32
+20
+March 13
+1988	Morocco
+Zaire	1
+1	African Nations Cup
+in Morocco	-14
++14	1679
+1581	-1
++1	34
+51
+March 16
+1988	Morocco
+Algeria	1
+0	African Nations Cup
+in Morocco	+17
+-17	1696
+1645	+1
+-1	33
+39
+March 19
+1988	Morocco
+Ivory Coast	0
+0	African Nations Cup
+in Morocco	-11
++11	1685
+1651	0
+0	33
+40
+March 23
+1988	Morocco
+Cameroon	0
+1	African Nations Cup
+in Morocco	-34
++34	1651
+1687	-6
++6	39
+33
+March 26
+1988	Morocco
+Algeria	1
+1	African Nations Cup
+in Morocco	-7
++7	1644
+1665	-1
++3	40
+35
+December 06
+1988	Morocco
+Egypt	0
+0	Friendly
+in Morocco	-2
++2	1642
+1671	-1
+0	41
+35
+December 15
+1988	Morocco
+Gabon	5
+2	Friendly
+in Morocco	+6
+-6	1648
+1455	0
+-3	40
+80
+December 22
+1988	Morocco
+Guinea	1
+0	Friendly
+in Morocco	+3
+-3	1651
+1454	+1
+-1	38
+80
+January 08
+1989	Morocco
+Zambia	1
+0	World Cup qualifier
+in Morocco	+11
+-11	1662
+1569	+3
+-2	35
+51
+January 22
+1989	Tunisia
+Morocco	2
+1	World Cup qualifier
+in Tunisia	+28
+-28	1435
+1634	+6
+-4	85
+40
+March 22
+1989	Algeria
+Morocco	1
+1	Friendly
+in Tunisia	0
+0	1648
+1634	0
+0	38
+40
+April 09
+1989	Mali
+Morocco	0
+0	African Nations Cup qualifier
+in Mali	+7
+-7	1412
+1627	0
+-1	92
+40
+April 23
+1989	Morocco
+Mali	1
+1	African Nations Cup qualifier
+in Morocco	-14
++14	1613
+1426	-1
++3	42
+89
+May 24
+1989	Morocco
+Algeria	1
+0	Friendly
+in Morocco	+8
+-8	1621
+1644	+1
+-2	43
+38
+June 11
+1989	Zaire
+Morocco	0
+0	World Cup qualifier
+in Zaire	-2
++2	1553
+1623	+1
+0	56
+42
+June 25
+1989	Zambia
+Morocco	2
+1	World Cup qualifier
+in Zambia	+14
+-14	1639
+1609	+3
+-1	38
+43
+August 13
+1989	Morocco
+Tunisia	0
+0	World Cup qualifier
+in Morocco	-14
++14	1595
+1437	-3
++3	46
+87
+August 27
+1989	Morocco
+Zaire	1
+1	World Cup qualifier
+in Morocco	-8
++8	1587
+1552	-2
++2	48
+58
+February 21
+1990	Morocco
+Ivory Coast	2
+1	Friendly
+in Morocco	+9
+-9	1596
+1644	0
+-1	47
+36
+May 09
+1990	Morocco
+United Arab Emirates	3
+1	Friendly
+in Morocco	+7
+-7	1603
+1473	+1
+-1	43
+73
+August 09
+1990	Tunisia
+Morocco	0
+0	Friendly
+in Tunisia	+2
+-2	1440
+1601	+1
+0	82
+48
+August 19
+1990	Morocco
+Niger	2
+0	African Nations Cup qualifier
+in Morocco	+6
+-6	1607
+1324	+3
+-1	45
+113
+September 02
+1990	Morocco
+Mauritania	4
+0	African Nations Cup qualifier
+in Morocco	+2
+-2	1609
+1099	0
+0	45
+165
+September 12
+1990	Ireland
+Morocco	1
+0	Friendly
+in Ireland	+3
+-3	1838
+1606	+2
+-1	12
+46
+December 12
+1990	Morocco
+Senegal	0
+0	Friendly
+in Morocco	-4
++4	1602
+1574	0
+0	47
+51
+January 13
+1991	Morocco
+Ivory Coast	3
+1	African Nations Cup qualifier
+in Morocco	+24
+-24	1626
+1613	+9
+-6	38
+43
+January 27
+1991	Niger
+Morocco	1
+0	African Nations Cup qualifier
+in Niger	+30
+-30	1362
+1596	+6
+-9	104
+47
+March 27
+1991	Morocco
+Greece	0
+0	Friendly
+in Morocco	-1
++1	1595
+1668	0
+0	47
+33
+April 03
+1991	Algeria
+Morocco	2
+2	Friendly
+in Algeria	-6
++6	1753
+1601	-1
+0	23
+47
+April 12
+1991	Mauritania
+Morocco	0
+2	African Nations Cup qualifier
+in Mauritania	-5
++5	1085
+1606	0
+0	167
+47
+July 28
+1991	Ivory Coast
+Morocco	2
+0	African Nations Cup qualifier
+in Ivory Coast	+20
+-20	1644
+1586	+3
+-3	38
+50
+December 04
+1991	Morocco
+Mali	3
+0	Friendly
+in Morocco	+6
+-6	1592
+1401	+2
+-3	46
+92
+December 26
+1991	Morocco
+Algeria	1
+1	Friendly
+in Morocco	+1
+-1	1593
+1733	0
+-1	47
+27
+January 12
+1992	Cameroon
+Morocco	1
+0	African Nations Cup
+in Senegal	+21
+-21	1677
+1572	+1
+-2	34
+49
+January 14
+1992	Morocco
+Zaire	1
+1	African Nations Cup
+in Senegal	-2
++2	1570
+1542	-2
+0	51
+57
+March 18
+1992	Morocco
+United States	3
+1	Friendly
+in Morocco	+13
+-13	1583
+1613	+2
+-4	50
+45
+October 04
+1992	Mali
+Morocco	2
+1	African Nations Cup qualifier
+in Mali	+23
+-23	1452
+1560	+5
+-5	84
+57
+October 11
+1992	Morocco
+Ethiopia	5
+0	World Cup qualifier
+in Morocco	+16
+-16	1576
+1405	+4
+-3	53
+93
+October 25
+1992	Benin
+Morocco	0
+1	World Cup qualifier
+in Benin	-6
++6	1174
+1582	0
++2	154
+51
+November 08
+1992	Morocco
+Egypt	0
+0	African Nations Cup qualifier
+in Morocco	-3
++3	1579
+1641	-1
++1	52
+39
+December 20
+1992	Tunisia
+Morocco	1
+1	World Cup qualifier
+in Tunisia	-2
++2	1515
+1581	-2
+0	68
+51
+January 17
+1993	Ethiopia
+Morocco	0
+1	World Cup qualifier
+in Ethiopia	-14
++14	1365
+1595	-3
++1	105
+50
+January 31
+1993	Morocco
+Benin	5
+0	World Cup qualifier
+in Morocco	+3
+-3	1598
+1148	0
+-1	50
+159
+February 28
+1993	Morocco
+Tunisia	0
+0	World Cup qualifier
+in Morocco	-7
++7	1591
+1572	0
++1	51
+53
+April 11
+1993	Morocco
+Malawi	0
+1	African Nations Cup qualifier
+in Morocco	-32
++32	1559
+1484	-6
++10	57
+78
+April 18
+1993	Morocco
+Senegal	1
+0	World Cup qualifier
+in Morocco	+14
+-14	1573
+1542	+4
+-3	53
+61
+April 25
+1993	Morocco
+Mali	1
+0	African Nations Cup qualifier
+in Morocco	+8
+-8	1581
+1437	0
+-1	53
+90
+July 04
+1993	Zambia
+Morocco	2
+1	World Cup qualifier
+in Zambia	+12
+-12	1630
+1569	+2
+-4	40
+54
+July 11
+1993	Egypt
+Morocco	1
+1	African Nations Cup qualifier
+in Egypt	-11
++11	1679
+1580	0
++3	31
+51
+July 17
+1993	Senegal
+Morocco	1
+3	World Cup qualifier
+in Senegal	-36
++36	1514
+1616	-8
++7	69
+44
+July 25
+1993	Malawi
+Morocco	0
+2	African Nations Cup qualifier
+in Malawi	-24
++24	1427
+1640	-6
++7	97
+37
+September 15
+1993	Morocco
+Mali	3
+0	Friendly
+in Morocco	+7
+-7	1647
+1479	0
+-2	38
+82
+September 22
+1993	Morocco
+Algeria	0
+0	Friendly
+in Morocco	-4
++4	1643
+1621	-1
+0	39
+44
+October 01
+1993	Morocco
+Gabon	1
+0	Friendly
+in Morocco	+4
+-4	1647
+1478	0
+-1	37
+81
+October 10
+1993	Morocco
+Zambia	1
+0	World Cup qualifier
+in Morocco	+15
+-15	1662
+1652	+5
+-4	33
+36
+February 02
+1994	Morocco
+Egypt	1
+1	Friendly tournament
+in United Arab Emirates	-1
++1	1661
+1635	0
+0	33
+39
+February 04
+1994	United Arab Emirates
+Morocco	1
+1	Friendly tournament
+in United Arab Emirates	+4
+-4	1477
+1657	0
+-2	79
+35
+February 06
+1994	Morocco
+Slovakia	2
+1	Friendly tournament
+in United Arab Emirates	+11
+-11	1668
+1561	+3
+-2	32
+56
+February 23
+1994	Morocco
+Finland	0
+0	Friendly
+in Morocco	-6
++6	1662
+1529	-1
+0	34
+65
+March 23
+1994	Luxembourg
+Morocco	1
+2	Friendly
+in Luxembourg	-2
++2	1128
+1664	0
++1	169
+33
+April 20
+1994	Argentina
+Morocco	3
+1	Friendly
+in Argentina	+4
+-4	1889
+1660	0
+-2	7
+37
+June 01
+1994	Canada
+Morocco	1
+1	Friendly
+in Canada	0
+0	1561
+1660	0
+0	56
+36
+June 19
+1994	Belgium
+Morocco	1
+0	World Cup
+in the United States	+19
+-19	1807
+1641	+3
+-3	19
+39
+June 25
+1994	Saudi Arabia
+Morocco	2
+1	World Cup
+in the United States	+30
+-30	1667
+1611	+8
+-10	33
+48
+June 29
+1994	Netherlands
+Morocco	2
+1	World Cup
+in the United States	+9
+-9	1927
+1602	+2
+-2	3
+49
+September 04
+1994	Burkina Faso
+Morocco	2
+1	African Nations Cup qualifier
+in Burkina Faso	+25
+-25	1444
+1577	+10
+-4	87
+51
+November 07
+1994	Morocco
+Cameroon	1
+1	Friendly
+in Morocco	-2
++2	1575
+1626	-1
+0	54
+41
+November 13
+1994	Morocco
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Morocco	+20
+-20	1595
+1648	+9
+-2	45
+35
+March 01
+1995	Morocco
+Senegal	2
+0	Friendly
+in Morocco	+6
+-6	1601
+1438	+2
+-3	44
+92
+March 23
+1995	Morocco
+Mali	3
+0	Friendly
+in Morocco	+6
+-6	1607
+1435	+3
+-5	42
+95
+April 09
+1995	Morocco
+Burkina Faso	0
+0	African Nations Cup qualifier
+in Morocco	-13
++13	1594
+1456	-3
++5	47
+84
+May 18
+1995	Morocco
+Egypt	0
+0	Friendly
+in Morocco	-2
++2	1592
+1612	0
+0	49
+41
+June 04
+1995	Ivory Coast
+Morocco	2
+0	African Nations Cup qualifier
+in Ivory Coast	+20
+-20	1629
+1572	+4
+-4	38
+52
+November 15
+1995	Morocco
+Mali	2
+0	Friendly
+in Morocco	+5
+-5	1577
+1374	+2
+-3	49
+114
+January 03
+1996	Morocco
+Tunisia	3
+1	Friendly
+in Morocco	+10
+-10	1587
+1548	+1
+-3	49
+61
+January 17
+1996	Morocco
+Armenia	6
+0	Friendly
+in France	+8
+-8	1595
+1338	+2
+-2	47
+118
+February 07
+1996	Morocco
+Luxembourg	2
+0	Friendly
+in Morocco	+2
+-2	1597
+1217	0
+0	48
+151
+March 20
+1996	Morocco
+Egypt	2
+0	Friendly tournament
+in United Arab Emirates	+24
+-24	1621
+1589	+6
+-6	42
+49
+March 23
+1996	Morocco
+South Korea	2
+2	Friendly tournament
+in United Arab Emirates	-1
++1	1620
+1608	0
+0	42
+44
+March 26
+1996	United Arab Emirates
+Morocco	1
+0	Friendly tournament
+in United Arab Emirates	+14
+-14	1549
+1606	+3
+-3	61
+45
+August 29
+1996	Morocco
+Zaire	7
+0	Friendly
+in Morocco	+12
+-12	1618
+1517	+3
+-4	42
+72
+October 06
+1996	Egypt
+Morocco	1
+1	African Nations Cup qualifier
+in Egypt	-5
++5	1608
+1623	-2
++1	45
+41
+November 09
+1996	Morocco
+Sierra Leone	4
+0	World Cup qualifier
+in Morocco	+12
+-12	1635
+1419	+2
+-1	38
+95
+December 11
+1996	Morocco
+Croatia	2
+2	King Hassan Cup
+in Morocco	+4
+-4	1639
+1835	+2
+-1	37
+14
+December 12
+1996	Morocco
+Nigeria	2
+0	King Hassan Cup
+in Morocco	+23
+-23	1662
+1721	+2
+-2	35
+28
+January 12
+1997	Ghana
+Morocco	2
+2	World Cup qualifier
+in Ghana	0
+0	1559
+1662	0
++1	58
+35
+February 22
+1997	Senegal
+Morocco	0
+0	African Nations Cup qualifier
+in Senegal	+6
+-6	1465
+1656	+2
+0	84
+35
+April 06
+1997	Gabon
+Morocco	0
+4	World Cup qualifier
+in Gabon	-29
++29	1449
+1685	-7
++8	88
+31
+April 26
+1997	Sierra Leone
+Morocco	0
+1	World Cup qualifier
+in Sierra Leone	-11
++11	1416
+1696	-4
++3	98
+29
+June 01
+1997	Morocco
+Ethiopia	4
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1701
+1317	0
+0	28
+127
+June 07
+1997	Morocco
+Ghana	1
+0	World Cup qualifier
+in Morocco	+9
+-9	1710
+1569	+3
+-1	26
+58
+June 22
+1997	Morocco
+Egypt	1
+0	African Nations Cup qualifier
+in Morocco	+9
+-9	1719
+1576	+1
+-1	29
+55
+July 13
+1997	Ethiopia
+Morocco	0
+1	African Nations Cup qualifier
+in Ethiopia	-6
++6	1297
+1725	0
++1	131
+27
+July 27
+1997	Morocco
+Senegal	3
+0	African Nations Cup qualifier
+in Morocco	+8
+-8	1733
+1449	+3
+-2	25
+87
+August 17
+1997	Morocco
+Gabon	2
+0	World Cup qualifier
+in Morocco	+6
+-6	1739
+1442	+1
+-5	25
+93
+October 09
+1997	Brazil
+Morocco	2
+0	Friendly
+in Brazil	+2
+-2	2121
+1737	0
+0	1
+25
+November 26
+1997	Morocco
+Togo	3
+0	Friendly
+in Morocco	+2
+-2	1739
+1388	0
+-2	24
+108
+January 14
+1998	Morocco
+Angola	2
+1	Friendly
+in Morocco	+3
+-3	1742
+1542	0
+0	24
+63
+February 05
+1998	Morocco
+Niger	3
+0	Friendly
+in Morocco	+2
+-2	1744
+1338	0
+0	25
+120
+February 09
+1998	Zambia
+Morocco	1
+1	African Nations Cup
+in Burkina Faso	+6
+-6	1658
+1738	+1
+0	41
+25
+February 13
+1998	Morocco
+Mozambique	3
+0	African Nations Cup
+in Burkina Faso	+10
+-10	1748
+1376	0
+-4	27
+112
+February 17
+1998	Morocco
+Egypt	1
+0	African Nations Cup
+in Burkina Faso	+19
+-19	1767
+1641	+6
+-6	21
+45
+February 22
+1998	South Africa
+Morocco	2
+1	African Nations Cup
+in Burkina Faso	+33
+-33	1678
+1734	+6
+-7	36
+28
+April 22
+1998	Bulgaria
+Morocco	2
+1	Friendly
+in Bulgaria	+7
+-7	1765
+1727	+1
+-2	21
+30
+May 27
+1998	Morocco
+England	0
+1	King Hassan Cup
+in Morocco	-11
++11	1716
+1945	-2
++1	31
+5
+May 29
+1998	Morocco
+France	2
+2	King Hassan Cup
+in Morocco	+6
+-6	1722
+1961	+1
+0	30
+4
+June 04
+1998	Chile
+Morocco	1
+1	Friendly
+in France	-1
++1	1758
+1723	0
+0	22
+29
+June 10
+1998	Norway
+Morocco	2
+2	World Cup
+in France	-13
++13	1865
+1736	-1
++3	10
+26
+June 16
+1998	Brazil
+Morocco	3
+0	World Cup
+in France	+13
+-13	2085
+1723	0
+-3	1
+27
+June 23
+1998	Morocco
+Scotland	3
+0	World Cup
+in France	+56
+-56	1779
+1692	+8
+-7	21
+30
+September 02
+1998	Morocco
+Senegal	2
+0	Friendly
+in Morocco	+3
+-3	1782
+1462	0
+-3	21
+83
+October 03
+1998	Morocco
+Sierra Leone	3
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1787
+1428	0
+0	20
+96
+December 24
+1998	Morocco
+Bulgaria	4
+1	Friendly
+in Morocco	+7
+-7	1794
+1639	0
+0	17
+47
+January 20
+1999	France
+Morocco	1
+0	Friendly
+in France	+2
+-2	2042
+1792	0
+0	1
+17
+January 24
+1999	Guinea
+Morocco	1
+1	African Nations Cup qualifier
+in Guinea	+12
+-12	1454
+1780	+7
+-1	84
+18
+February 28
+1999	Togo
+Morocco	2
+3	African Nations Cup qualifier
+in Togo	-6
++6	1365
+1786	0
+0	113
+18
+April 10
+1999	Morocco
+Togo	1
+1	African Nations Cup qualifier
+in Morocco	-18
++18	1768
+1383	-2
++6	19
+108
+April 28
+1999	Netherlands
+Morocco	1
+2	Friendly
+in the Netherlands	-17
++17	1937
+1785	-1
++1	5
+17
+June 05
+1999	Morocco
+Guinea	1
+0	African Nations Cup qualifier
+in Morocco	+3
+-3	1788
+1451	0
+0	17
+85
+September 07
+1999	Belgium
+Morocco	4
+0	Friendly
+in Belgium	+17
+-17	1743
+1771	+3
+-1	24
+21
+November 17
+1999	Morocco
+United States	2
+1	Friendly
+in Morocco	+8
+-8	1779
+1781	0
+-1	21
+19
+December 21
+1999	Morocco
+Senegal	0
+0	Friendly
+in Morocco	-8
++8	1771
+1536	0
++2	21
+64
+January 18
+2000	Morocco
+Trinidad and Tobago	1
+0	Friendly
+in Morocco	+3
+-3	1774
+1565	0
+-1	21
+61
+January 25
+2000	Morocco
+Congo	1
+0	African Nations Cup
+in Nigeria	+6
+-6	1780
+1412	+2
++1	19
+99
+January 29
+2000	Tunisia
+Morocco	0
+0	African Nations Cup
+in Nigeria	+11
+-11	1626
+1769	+2
+-2	49
+21
+February 03
+2000	Nigeria
+Morocco	2
+0	African Nations Cup
+in Nigeria	+37
+-37	1713
+1732	+12
+-4	27
+25
+April 09
+2000	Gambia
+Morocco	0
+1	World Cup qualifier
+in Gambia	-5
++5	1296
+1737	-2
++1	130
+24
+April 22
+2000	Morocco
+Gambia	2
+0	World Cup qualifier
+in Morocco	+3
+-3	1740
+1293	+1
+-2	23
+132
+June 04
+2000	Morocco
+Jamaica	1
+0	King Hassan Cup
+in Morocco	+4
+-4	1744
+1507	0
+-1	22
+70
+June 06
+2000	Morocco
+France	1
+5	King Hassan Cup
+in Morocco	-15
++15	1729
+2031	-3
+0	25
+2
+June 17
+2000	Namibia
+Morocco	0
+0	World Cup qualifier
+in Namibia	+14
+-14	1343
+1715	+2
+-4	122
+30
+July 09
+2000	Morocco
+Algeria	2
+1	World Cup qualifier
+in Morocco	+7
+-7	1722
+1537	+3
+-4	27
+64
+September 02
+2000	Gabon
+Morocco	2
+0	African Nations Cup qualifier
+in Gabon	+48
+-48	1427
+1674	+18
+-11	91
+39
+October 08
+2000	Morocco
+Kenya	1
+0	African Nations Cup qualifier
+in Morocco	+3
+-3	1677
+1356	+1
+0	39
+115
+November 22
+2000	Morocco
+Libya	0
+0	Friendly
+in Morocco	-8
++8	1669
+1430	-3
++3	43
+93
+January 13
+2001	Tunisia
+Morocco	0
+1	African Nations Cup qualifier
+in Tunisia	-24
++24	1617
+1693	-6
++7	53
+36
+January 28
+2001	Egypt
+Morocco	0
+0	World Cup qualifier
+in Egypt	-6
++6	1697
+1699	-2
++2	36
+35
+February 08
+2001	Morocco
+South Korea	1
+1	Friendly tournament
+in United Arab Emirates	+2
+-2	1701
+1732	+1
+-1	34
+29
+February 14
+2001	United Arab Emirates
+Morocco	1
+1	Friendly tournament
+in United Arab Emirates	+4
+-4	1501
+1697	+1
+-1	71
+35
+February 24
+2001	Morocco
+Senegal	0
+0	World Cup qualifier
+in Morocco	-15
++15	1682
+1487	-6
++2	41
+77
+March 24
+2001	Morocco
+Tunisia	2
+0	African Nations Cup qualifier
+in Morocco	+19
+-19	1701
+1628	+4
+-5	34
+52
+April 21
+2001	Morocco
+Namibia	3
+0	World Cup qualifier
+in Morocco	+4
+-4	1705
+1323	0
+-1	34
+126
+May 04
+2001	Algeria
+Morocco	1
+2	World Cup qualifier
+in Algeria	-15
++15	1497
+1720	-4
++3	72
+31
+June 02
+2001	Kenya
+Morocco	1
+1	African Nations Cup qualifier
+in Kenya	+12
+-12	1393
+1708	+6
+-3	104
+32
+June 16
+2001	Morocco
+Gabon	0
+1	African Nations Cup qualifier
+in Morocco	-36
++36	1672
+1447	-10
++11	40
+86
+June 30
+2001	Morocco
+Egypt	1
+0	World Cup qualifier
+in Morocco	+14
+-14	1686
+1647	+2
+-3	37
+44
+July 14
+2001	Senegal
+Morocco	1
+0	World Cup qualifier
+in Senegal	+24
+-24	1540
+1662	+6
+-5	66
+43
+September 05
+2001	Italy
+Morocco	1
+0	Friendly
+in Italy	+2
+-2	1984
+1660	0
+-2	3
+45
+October 12
+2001	Morocco
+Gambia	2
+0	Friendly tournament
+in Mali	+6
+-6	1666
+1329	0
+-1	44
+124
+October 14
+2001	Mali
+Morocco	2
+1	Friendly tournament
+in Mali	+20
+-20	1467
+1646	+7
+-2	84
+46
+November 14
+2001	Morocco
+Zambia	1
+0	Friendly
+in Morocco	+4
+-4	1650
+1487	+2
+-1	43
+81
+December 12
+2001	Morocco
+Mali	1
+1	Friendly
+in Morocco	-7
++7	1643
+1432	-2
++1	45
+96
+January 13
+2002	Morocco
+Guinea	2
+1	Friendly
+in Morocco	+4
+-4	1647
+1493	+2
+-2	43
+80
+January 16
+2002	Gambia
+Morocco	0
+2	Friendly
+in Gambia	-8
++8	1354
+1655	-3
+0	118
+43
+January 21
+2002	Morocco
+Ghana	0
+0	African Nations Cup
+in Mali	-10
++10	1645
+1523	-2
++4	44
+70
+January 26
+2002	Morocco
+Burkina Faso	2
+1	African Nations Cup
+in Mali	+11
+-11	1656
+1405	+1
+-2	42
+102
+January 30
+2002	South Africa
+Morocco	3
+1	African Nations Cup
+in Mali	+43
+-43	1650
+1613	+10
+-10	42
+52
+August 21
+2002	Luxembourg
+Morocco	0
+2	Friendly
+in Luxembourg	-2
++2	1070
+1615	-1
+-1	176
+51
+September 07
+2002	Gabon
+Morocco	0
+1	African Nations Cup qualifier
+in Gabon	-16
++16	1426
+1631	-3
++6	96
+45
+October 03
+2002	Morocco
+Niger	6
+1	Friendly
+in Morocco	+4
+-4	1635
+1327	+2
+0	44
+127
+October 13
+2002	Morocco
+Equatorial Guinea	5
+0	African Nations Cup qualifier
+in Morocco	+1
+-1	1636
+1021	0
++1	45
+187
+November 20
+2002	Morocco
+Mali	1
+3	Friendly
+in Morocco	-24
++24	1612
+1505	-5
++8	50
+70
+February 12
+2003	Morocco
+Senegal	1
+0	Friendly
+in Morocco	+12
+-12	1624
+1757	+2
+-4	47
+26
+March 29
+2003	Sierra Leone
+Morocco	0
+0	African Nations Cup qualifier
+in Sierra Leone	+9
+-9	1356
+1615	+2
+-2	119
+49
+April 30
+2003	Morocco
+Ivory Coast	0
+1	Friendly
+in Morocco	-13
++13	1602
+1623	-5
++4	56
+49
+June 08
+2003	Morocco
+Sierra Leone	1
+0	African Nations Cup qualifier
+in Morocco	+5
+-5	1607
+1351	+3
+0	53
+121
+June 20
+2003	Morocco
+Gabon	2
+0	African Nations Cup qualifier
+in Morocco	+8
+-8	1615
+1364	+2
+0	51
+116
+July 06
+2003	Equatorial Guinea
+Morocco	0
+1	African Nations Cup qualifier
+in Equatorial Guinea	-2
++2	1041
+1617	0
++1	184
+51
+September 10
+2003	Morocco
+Trinidad and Tobago	2
+0	Friendly
+in Morocco	+4
+-4	1621
+1393	+3
+-3	49
+107
+October 11
+2003	Tunisia
+Morocco	0
+0	Friendly
+in Tunisia	-3
++3	1626
+1624	0
+0	47
+49
+November 15
+2003	Morocco
+Burkina Faso	1
+0	Friendly
+in Morocco	+3
+-3	1627
+1441	+2
+-1	47
+91
+November 19
+2003	Morocco
+Mali	0
+1	Friendly
+in Morocco	-15
++15	1612
+1564	-7
++1	54
+63
+January 27
+2004	Morocco
+Nigeria	1
+0	African Nations Cup
+in Tunisia	+32
+-32	1644
+1676	+7
+-6	45
+39
+January 31
+2004	Morocco
+Benin	4
+0	African Nations Cup
+in Tunisia	+13
+-13	1657
+1306	+2
+-3	43
+130
+February 04
+2004	Morocco
+South Africa	1
+1	African Nations Cup
+in Tunisia	-7
++7	1650
+1568	-1
++2	43
+63
+February 08
+2004	Morocco
+Algeria	3
+1	African Nations Cup
+in Tunisia	+25
+-25	1675
+1502	+7
+-5	38
+75
+February 11
+2004	Morocco
+Mali	4
+0	African Nations Cup
+in Tunisia	+44
+-44	1719
+1611	+8
+-9	30
+53
+February 14
+2004	Tunisia
+Morocco	2
+1	African Nations Cup
+in Tunisia	+21
+-21	1692
+1698	+2
+-5	38
+35
+February 18
+2004	Morocco
+Switzerland	2
+1	Friendly
+in Morocco	+7
+-7	1705
+1687	+1
+-2	34
+38
+March 31
+2004	Morocco
+Angola	3
+1	Friendly
+in Morocco	+4
+-4	1709
+1457	0
+-3	34
+85
+April 28
+2004	Morocco
+Argentina	0
+1	Friendly
+in Morocco	-5
++5	1704
+1997	-1
+0	35
+2
+May 28
+2004	Mali
+Morocco	0
+0	Friendly
+in Mali	0
+0	1590
+1704	0
+0	58
+35
+June 05
+2004	Malawi
+Morocco	1
+1	World Cup qualifier
+in Malawi	+13
+-13	1360
+1691	+7
+-1	117
+36
+July 03
+2004	Botswana
+Morocco	0
+1	World Cup qualifier
+in Botswana	-5
++5	1262
+1696	0
+0	143
+32
+September 04
+2004	Morocco
+Tunisia	1
+1	World Cup qualifier
+in Morocco	-9
++9	1687
+1629	0
+0	33
+48
+October 10
+2004	Guinea
+Morocco	1
+1	World Cup qualifier
+in Guinea	+2
+-2	1547
+1685	-1
+-1	68
+36
+November 17
+2004	Morocco
+Burkina Faso	4
+0	Friendly
+in Morocco	+4
+-4	1689
+1389	-1
+-1	36
+103
+February 09
+2005	Morocco
+Kenya	5
+1	World Cup qualifier
+in Morocco	+8
+-8	1697
+1418	+3
+-2	33
+96
+March 26
+2005	Morocco
+Guinea	1
+0	World Cup qualifier
+in Morocco	+7
+-7	1704
+1520	+1
+-2	33
+75
+June 04
+2005	Morocco
+Malawi	4
+1	World Cup qualifier
+in Morocco	+4
+-4	1708
+1302	0
+0	34
+131
+June 18
+2005	Kenya
+Morocco	0
+0	World Cup qualifier
+in Kenya	+10
+-10	1422
+1698	+3
+-1	94
+36
+August 17
+2005	Togo
+Morocco	1
+0	Friendly
+in France	+14
+-14	1584
+1684	+7
+-4	57
+41
+September 03
+2005	Morocco
+Botswana	1
+0	World Cup qualifier
+in Morocco	+3
+-3	1687
+1325	0
+-3	41
+125
+October 08
+2005	Tunisia
+Morocco	2
+2	World Cup qualifier
+in Tunisia	-7
++7	1704
+1694	0
++2	36
+39
+November 15
+2005	Cameroon
+Morocco	0
+0	Friendly
+in France	-1
++1	1738
+1695	-1
+0	32
+41
+January 09
+2006	Morocco
+Dem. Rep. of Congo	3
+0	Friendly
+in Morocco	+4
+-4	1699
+1445	0
+-2	40
+93
+January 14
+2006	Morocco
+Zimbabwe	1
+0	Friendly
+in Morocco	+3
+-3	1702
+1497	+3
+0	37
+80
+January 17
+2006	Morocco
+Angola	2
+2	Friendly
+in Morocco	-6
++6	1696
+1551	-1
++2	38
+65
+January 21
+2006	Ivory Coast
+Morocco	1
+0	African Nations Cup
+in Egypt	+24
+-24	1738
+1672	+3
+-4	32
+43
+January 24
+2006	Egypt
+Morocco	0
+0	African Nations Cup
+in Egypt	-9
++9	1697
+1681	-1
+0	39
+43
+January 28
+2006	Libya
+Morocco	0
+0	African Nations Cup
+in Egypt	+15
+-15	1462
+1666	+5
+-3	88
+45
+May 23
+2006	United States
+Morocco	0
+1	Friendly
+in the United States	-16
++16	1807
+1682	-4
++5	18
+41
+May 28
+2006	Mali
+Morocco	1
+0	Friendly
+in France	+14
+-14	1540
+1668	+3
+-3	70
+46
+June 04
+2006	Colombia
+Morocco	2
+0	Friendly
+in Spain	+12
+-12	1757
+1656	+2
+-2	30
+48
+August 16
+2006	Morocco
+Burkina Faso	1
+0	Friendly
+in Morocco	+2
+-2	1658
+1407	0
+0	47
+98
+September 02
+2006	Morocco
+Malawi	2
+0	African Nations Cup qualifier
+in Morocco	+4
+-4	1662
+1314	0
+-1	47
+125
+November 15
+2006	Morocco
+Gabon	6
+0	Friendly
+in Morocco	+5
+-5	1667
+1391	+1
+-1	44
+102
+February 07
+2007	Morocco
+Tunisia	1
+1	Friendly
+in Morocco	-4
++4	1663
+1638	0
++1	44
+48
+March 25
+2007	Zimbabwe
+Morocco	1
+1	African Nations Cup qualifier
+in Zimbabwe	+6
+-6	1466
+1657	0
+-1	89
+45
+June 02
+2007	Morocco
+Zimbabwe	2
+0	African Nations Cup qualifier
+in Morocco	+9
+-9	1666
+1447	-1
+-4	44
+93
+June 16
+2007	Malawi
+Morocco	0
+1	African Nations Cup qualifier
+in Malawi	-7
++7	1290
+1673	-4
+0	134
+44
+September 08
+2007	Ghana
+Morocco	2
+0	Friendly
+in France	+12
+-12	1766
+1661	+6
+-2	22
+44
+October 17
+2007	Morocco
+Namibia	2
+0	Friendly
+in Morocco	+2
+-2	1663
+1276	0
+0	42
+137
+November 16
+2007	France
+Morocco	2
+2	Friendly
+in France	-9
++9	1996
+1672	0
+0	3
+42
+November 21
+2007	Morocco
+Senegal	3
+0	Friendly
+in France	+15
+-15	1687
+1598	+1
+-4	40
+57
+January 12
+2008	Morocco
+Zambia	2
+0	Friendly
+in Morocco	+7
+-7	1694
+1566	0
+-2	40
+61
+January 16
+2008	Morocco
+Angola	2
+1	Friendly
+in Morocco	+4
+-4	1698
+1534	0
+0	40
+70
+January 21
+2008	Morocco
+Namibia	5
+1	African Nations Cup
+in Ghana	+7
+-7	1705
+1262	+1
+-2	39
+143
+January 24
+2008	Guinea
+Morocco	3
+2	African Nations Cup
+in Ghana	+31
+-31	1647
+1674	+4
+-2	46
+41
+January 28
+2008	Ghana
+Morocco	2
+0	African Nations Cup
+in Ghana	+19
+-19	1784
+1655	+5
+-1	18
+42
+March 26
+2008	Belgium
+Morocco	1
+4	Friendly
+in Belgium	-20
++20	1594
+1675	-3
++1	56
+42
+May 31
+2008	Morocco
+Ethiopia	3
+0	World Cup qualifier
+in Morocco	+5
+-5	1680
+1307	+1
+0	41
+131
+June 07
+2008	Mauritania
+Morocco	1
+4	World Cup qualifier
+in Mauritania	-7
++7	1201
+1687	-1
+0	156
+41
+June 14
+2008	Rwanda
+Morocco	3
+1	World Cup qualifier
+in Rwanda	+47
+-47	1419
+1640	+13
+-5	99
+46
+June 21
+2008	Morocco
+Rwanda	2
+0	World Cup qualifier
+in Morocco	+8
+-8	1648
+1411	+1
+-2	45
+101
+August 20
+2008	Morocco
+Benin	3
+1	Friendly
+in Morocco	+4
+-4	1652
+1399	-1
++1	46
+106
+September 06
+2008	Oman
+Morocco	0
+0	Friendly
+in Oman	+2
+-2	1484
+1650	+1
++1	86
+45
+October 11
+2008	Morocco
+Mauritania	4
+1	World Cup qualifier
+in Morocco	+2
+-2	1652
+1149	0
+0	46
+168
+November 19
+2008	Morocco
+Zambia	3
+0	Friendly
+in Morocco	+8
+-8	1660
+1531	0
+-4	46
+72
+February 11
+2009	Morocco
+Czechia	0
+0	Friendly
+in Morocco	+2
+-2	1662
+1815	+1
+-1	45
+13
+March 28
+2009	Morocco
+Gabon	1
+2	World Cup qualifier
+in Morocco	-33
++33	1629
+1539	-4
++9	49
+70
+March 31
+2009	Morocco
+Angola	2
+0	Friendly
+in Portugal	+10
+-10	1639
+1490	+1
+-1	48
+84
+June 07
+2009	Cameroon
+Morocco	0
+0	World Cup qualifier
+in Cameroon	-10
++10	1709
+1649	0
++1	34
+48
+June 20
+2009	Morocco
+Togo	0
+0	World Cup qualifier
+in Morocco	-14
++14	1635
+1449	-1
++1	48
+95
+August 12
+2009	Morocco
+Congo	1
+1	Friendly
+in Morocco	-7
++7	1628
+1415	-1
++2	49
+102
+September 06
+2009	Togo
+Morocco	1
+1	World Cup qualifier
+in Togo	+5
+-5	1441
+1623	+2
+0	94
+49
+October 10
+2009	Gabon
+Morocco	3
+1	World Cup qualifier
+in Gabon	+30
+-30	1552
+1593	+9
+-3	66
+55
+November 14
+2009	Morocco
+Cameroon	0
+2	World Cup qualifier
+in Morocco	-25
++25	1568
+1772	-4
++6	61
+19
+August 11
+2010	Morocco
+Equatorial Guinea	2
+1	Friendly
+in Morocco	+1
+-1	1569
+1208	+1
+-1	62
+155
+September 04
+2010	Morocco
+Central African Republic	0
+0	African Nations Cup qualifier
+in Morocco	-16
++16	1553
+1300	-10
++3	70
+133
+October 09
+2010	Tanzania
+Morocco	0
+1	African Nations Cup qualifier
+in Tanzania	-14
++14	1327
+1567	-3
++4	127
+66
+November 17
+2010	Northern Ireland
+Morocco	1
+1	Friendly
+in Northern Ireland	-2
++2	1545
+1569	0
+0	70
+63
+February 09
+2011	Morocco
+Niger	3
+0	Friendly
+in Morocco	+5
+-5	1574
+1338	+2
+-3	61
+125
+March 27
+2011	Algeria
+Morocco	1
+0	African Nations Cup qualifier
+in Algeria	+21
+-21	1480
+1553	+4
+-3	91
+66
+June 04
+2011	Morocco
+Algeria	4
+0	African Nations Cup qualifier
+in Morocco	+20
+-20	1573
+1460	+4
+-1	61
+94
+August 10
+2011	Senegal
+Morocco	0
+2	Friendly
+in Senegal	-21
++21	1596
+1594	-5
++1	59
+60
+September 04
+2011	Central African Republic
+Morocco	0
+0	African Nations Cup qualifier
+in Central African Republic	+9
+-9	1332
+1585	+6
+-1	124
+60
+October 09
+2011	Morocco
+Tanzania	3
+1	African Nations Cup qualifier
+in Morocco	+7
+-7	1592
+1312	0
+-1	59
+130
+November 11
+2011	Morocco
+Uganda	0
+1	Friendly tournament
+in Morocco	-22
++22	1570
+1543	-5
++4	64
+72
+November 13
+2011	Morocco
+Cameroon	1
+1	Friendly tournament
+in Morocco	-1
++1	1569
+1643	0
+0	64
+47
+January 23
+2012	Tunisia
+Morocco	2
+1	African Nations Cup
+in Gabon	+24
+-24	1601
+1545	+7
+-9	54
+72
+January 27
+2012	Gabon
+Morocco	3
+2	African Nations Cup
+in Gabon	+20
+-20	1530
+1525	+3
+-7	76
+78
+January 31
+2012	Morocco
+Niger	1
+0	African Nations Cup
+in Gabon	+12
+-12	1537
+1320	+1
+-3	74
+130
+February 29
+2012	Morocco
+Burkina Faso	2
+0	Friendly
+in Morocco	+8
+-8	1545
+1457	+3
+-3	73
+95
+May 25
+2012	Morocco
+Senegal	0
+1	Friendly
+in Morocco	-13
++13	1532
+1540	-4
++4	78
+74
+June 02
+2012	Gambia
+Morocco	1
+1	World Cup qualifier
+in Gambia	+4
+-4	1361
+1528	+1
+-1	116
+78
+June 09
+2012	Morocco
+Ivory Coast	2
+2	World Cup qualifier
+in Morocco	+11
+-11	1539
+1820	+3
+-2	74
+17
+June 23
+2012	Morocco
+Bahrain	4
+0	Arab Nations Cup
+in Saudi Arabia	+40
+-40	1579
+1518	+14
+-13	60
+81
+June 26
+2012	Libya
+Morocco	0
+0	Arab Nations Cup
+in Saudi Arabia	+2
+-2	1551
+1577	+1
+-1	69
+62
+June 29
+2012	Morocco
+Yemen	4
+0	Arab Nations Cup
+in Saudi Arabia	+13
+-13	1590
+1300	+3
+-4	59
+134
+July 03
+2012	Morocco
+Iraq	2
+1	Arab Nations Cup
+in Saudi Arabia	+19
+-19	1609
+1560	+6
+-7	53
+68
+July 06
+2012	Morocco
+Libya	1
+1	Arab Nations Cup
+in Saudi Arabia	0
+0	1609
+1603	+1
+0	52
+55
+August 15
+2012	Morocco
+Guinea	1
+2	Friendly
+in Morocco	-14
++14	1595
+1557	-8
++3	60
+70
+September 09
+2012	Mozambique
+Morocco	2
+0	African Nations Cup qualifier
+in Mozambique	+46
+-46	1340
+1549	+15
+-10	122
+69
+October 13
+2012	Morocco
+Mozambique	4
+0	African Nations Cup qualifier
+in Morocco	+11
+-11	1560
+1325	+2
+-3	69
+125
+November 14
+2012	Morocco
+Togo	0
+1	Friendly
+in Morocco	-17
++17	1543
+1394	-3
++6	71
+106
+January 08
+2013	Morocco
+Zambia	0
+0	Friendly
+in South Africa	+1
+-1	1544
+1563	0
++1	73
+68
+January 12
+2013	Morocco
+Namibia	2
+1	Friendly
+in South Africa	+4
+-4	1548
+1308	+1
+-2	73
+132
+January 19
+2013	Angola
+Morocco	0
+0	African Nations Cup
+in South Africa	+3
+-3	1510
+1545	0
+0	80
+73
+January 23
+2013	Cape Verde
+Morocco	1
+1	African Nations Cup
+in South Africa	+7
+-7	1455
+1538	+3
+-2	93
+74
+January 27
+2013	South Africa
+Morocco	2
+2	African Nations Cup
+in South Africa	-9
++9	1558
+1547	-3
++1	69
+72
+March 24
+2013	Tanzania
+Morocco	3
+1	World Cup qualifier
+in Tanzania	+38
+-38	1395
+1509	+10
+-7	109
+78
+June 08
+2013	Morocco
+Tanzania	2
+1	World Cup qualifier
+in Morocco	+9
+-9	1518
+1385	+1
+-3	80
+111
+June 15
+2013	Morocco
+Gambia	2
+0	World Cup qualifier
+in Morocco	+9
+-9	1527
+1306	+2
+-5	77
+134
+August 14
+2013	Morocco
+Burkina Faso	1
+2	Friendly
+in Morocco	-12
++12	1515
+1571	-3
++3	80
+63
+September 07
+2013	Ivory Coast
+Morocco	1
+1	World Cup qualifier
+in Ivory Coast	-16
++16	1790
+1531	-1
++5	20
+76
+October 11
+2013	Morocco
+South Africa	1
+1	Friendly
+in Morocco	-2
++2	1529
+1563	-3
+0	76
+65
+March 05
+2014	Morocco
+Gabon	1
+1	Friendly
+in Morocco	-4
++4	1525
+1483	-2
+-1	76
+89

@@ -1,0 +1,875 @@
+1901 140 home Uruguay Argentina 2 3 Friendly
+1902 206 home Uruguay Argentina 0 6 Friendly
+1903 261 away Uruguay Argentina 2 3 Friendly
+1905 232 away Uruguay Argentina 0 0 Lipton Cup
+1906 232 away Uruguay Argentina 2 0 Lipton Cup
+1906 300 home Uruguay Argentina 1 2 Newton Cup
+1907 232 home Uruguay Argentina 1 2 Lipton Cup
+1907 285 away Uruguay Argentina 2 1 Newton Cup
+1908 232 home Uruguay Argentina 2 2 Lipton Cup
+1908 261 away Uruguay Argentina 2 1 Newton Cup
+1908 283 away Uruguay Argentina 0 1 Argentine Ministry of Education Cup
+1909 232 away Uruguay Argentina 2 1 Lipton Cup
+1909 267 home Uruguay Argentina 2 2 Newton Cup
+1909 289 away Uruguay Argentina 3 1 Argentine Ministry of Education Cup
+1910 153 home Uruguay Chile 3 0 Copa América
+1910 167 away Uruguay Argentina 4 1 Copa América
+1910 232 home Uruguay Argentina 3 1 Lipton Cup
+1910 323 away Uruguay Argentina 1 1 Argentine Ministry of Education Cup
+1910 337 away Uruguay Argentina 2 6 Argentine Ministry of Education Cup
+1911 123 home Uruguay Argentina 1 2 Friendly
+1911 232 away Uruguay Argentina 0 2 Lipton Cup
+1911 265 home Uruguay Argentina 2 3 Newton Cup
+1911 287 home Uruguay Argentina 1 1 Uruguay Ministry of Education Cup
+1911 301 away Uruguay Argentina 2 0 Argentine Ministry of Education Cup
+1911 308 home Uruguay Argentina 3 0 Uruguay Ministry of Education Cup
+1912 56 away Uruguay Argentina 2 0 Friendly
+1912 232 home Uruguay Argentina 2 0 Lipton Cup
+1912 242 home Uruguay Argentina 3 0 Uruguay Ministry of Education Cup
+1912 270 away Uruguay Argentina 0 1 Argentine Ministry of Education Cup
+1912 285 away Uruguay Argentina 3 3 Newton Cup
+1912 342 home Uruguay Argentina 1 3 Montevideo Cup
+1913 120 away Uruguay Argentina 0 0 Friendly
+1913 170 away Uruguay Argentina 1 1 Saenz Pena Cup
+1913 195 away Uruguay Argentina 2 1 Saenz Pena Cup
+1913 199 home Uruguay Argentina 5 4 Friendly
+1913 232 away Uruguay Argentina 4 0 Lipton Cup
+1913 248 away Uruguay Argentina 2 0 Argentine Ministry of Education Cup
+1913 276 away Uruguay Argentina 4 0 Friendly
+1913 284 home Uruguay Argentina 1 0 Uruguay Ministry of Education Cup
+1913 305 home Uruguay Argentina 1 0 Newton Cup
+1914 247 home Uruguay Argentina 3 2 Uruguay Ministry of Education Cup
+1914 261 away Uruguay Argentina 2 1 Argentine Ministry of Education Cup
+1915 204 home Uruguay Argentina 2 3 Uruguay Ministry of Education Cup
+1915 232 away Uruguay Argentina 2 1 Lipton Cup
+1915 260 home Uruguay Argentina 2 0 Newton Cup
+1916 188 home Uruguay Chile 2 0 Copa América
+1916 198 home Uruguay Brazil 2 1 Copa América
+1916 200 home Uruguay Chile 4 1 Friendly
+1916 203 away Uruguay Argentina 0 0 Copa América
+1916 204 home Uruguay Brazil 0 1 Friendly
+1916 232 away Uruguay Argentina 3 1 Newton Cup
+1916 232 home Uruguay Argentina 1 2 Lipton Cup
+1916 280 away Uruguay Argentina 7 2 Argentine Ministry of Education Cup
+1916 280 home Uruguay Argentina 0 1 Uruguay Ministry of Education Cup
+1916 308 home Uruguay Argentina 3 1 Friendly
+1917 204 home Uruguay Argentina 0 2 Uruguay Ministry of Education Cup
+1917 232 away Uruguay Argentina 1 0 Lipton Cup
+1917 250 home Uruguay Argentina 1 0 Newton Cup
+1917 278 home Uruguay Chile 4 0 Copa América
+1917 286 home Uruguay Brazil 4 0 Copa América
+1917 293 home Uruguay Argentina 1 0 Copa América
+1917 295 home Uruguay Brazil 3 1 Friendly
+1918 204 home Uruguay Argentina 1 1 Uruguay Ministry of Education Cup
+1918 214 home Uruguay Argentina 3 1 Uruguay Ministry of Education Cup
+1918 232 away Uruguay Argentina 0 0 Argentine Ministry of Education Cup
+1918 242 away Uruguay Argentina 2 1 Argentine Ministry of Education Cup
+1918 268 home Uruguay Argentina 1 1 Lipton Cup
+1918 277 away Uruguay Argentina 2 0 Newton Cup
+1919 137 home Uruguay Argentina 3 2 Copa América
+1919 141 home Uruguay Chile 2 0 Copa América
+1919 150 away Uruguay Brazil 2 2 Copa América
+1919 153 away Uruguay Brazil 1 0 Copa América
+1919 204 home Uruguay Argentina 4 1 Uruguay Ministry of Education Cup
+1919 241 home Uruguay Argentina 2 1 Newton Cup
+1919 255 away Uruguay Argentina 1 2 Lipton Cup
+1919 298 away Uruguay Argentina 6 1 Argentine Ministry of Education Cup
+1919 348 home Uruguay Argentina 4 2 Friendly
+1920 204 home Uruguay Argentina 2 0 Uruguay Ministry of Education Cup
+1920 211 away Uruguay Argentina 1 3 Newton Cup
+1920 225 away Uruguay Argentina 1 0 Argentine Ministry of Education Cup
+1920 260 away Uruguay Argentina 1 1 Copa América
+1920 266 home Uruguay Brazil 6 0 Copa América
+1920 274 away Uruguay Chile 1 2 Copa América
+1921 288 away Uruguay Paraguay 2 1 Copa América
+1921 302 home Uruguay Brazil 2 1 Copa América
+1921 309 away Uruguay Argentina 1 0 Copa América
+1921 312 home Uruguay Paraguay 4 2 Friendly
+1922 22 away Uruguay Argentina 1 3 Friendly
+1922 208 home Uruguay Argentina 2 2 Friendly
+1922 271 home Uruguay Chile 2 0 Copa América
+1922 280 away Uruguay Brazil 0 0 Copa América
+1922 287 home Uruguay Argentina 1 0 Copa América
+1922 291 away Uruguay Paraguay 1 0 Copa América
+1922 301 away Uruguay Argentina 3 2 Friendly
+1922 321 away Uruguay Argentina 4 0 Friendly
+1922 322 home Uruguay Argentina 1 0 Lipton Cup
+1922 351 home Uruguay Argentina 1 0 Uruguay Ministry of Education Cup
+1922 358 away Uruguay Argentina 2 2 Newton Cup
+1923 149 home Uruguay Argentina 2 0 Friendly
+1923 179 away Uruguay Argentina 0 0 Lipton Cup
+1923 201 away Uruguay Argentina 2 2 Argentine Ministry of Education Cup
+1923 208 home Uruguay Argentina 2 2 Uruguay Ministry of Education Cup
+1923 242 home Uruguay Argentina 1 1 Friendly
+1923 278 home Uruguay Argentina 0 2 Uruguay Ministry of Education Cup
+1923 314 home Uruguay Paraguay 2 0 Copa América
+1923 335 home Uruguay Brazil 2 1 Copa América
+1923 335 home Uruguay Chile 2 1 Friendly
+1923 343 home Uruguay Argentina 2 0 Copa América
+1923 349 away Uruguay Argentina 2 3 Friendly
+1924 149 away Uruguay Argentina 4 0 Newton Cup
+1924 149 home Uruguay Argentina 2 0 Lipton Cup
+1924 150 home Uruguay Yugoslavia 7 0 Olympic Games
+1924 153 home Uruguay UnitedStates 3 0 Olympic Games
+1924 156 away Uruguay France 1 5 Olympic Games
+1924 161 home Uruguay Holland 2 1 Olympic Games
+1924 164 home Uruguay Switzerland 3 0 Olympic Games
+1924 227 away Uruguay Argentina 0 0 Friendly
+1924 248 home Uruguay Argentina 2 3 Uruguay Ministry of Education Cup
+1924 269 home Uruguay Argentina 1 1 Friendly
+1924 281 away Uruguay Argentina 2 1 Friendly
+1924 291 away Uruguay Chile 0 1 Friendly
+1924 298 home Uruguay Chile 5 0 Copa América
+1924 305 home Uruguay Paraguay 3 1 Copa América
+1924 312 home Uruguay Argentina 0 0 Copa América
+1924 326 home Uruguay Argentina 1 0 Friendly
+1925 5 away Uruguay Argentina 1 0 Friendly
+1925 200 home Uruguay Paraguay 0 1 Friendly
+1925 204 home Uruguay Paraguay 0 1 Friendly
+1925 232 away Uruguay Paraguay 1 0 Friendly
+1925 236 away Uruguay Paraguay 0 1 Friendly
+1925 240 away Uruguay Paraguay 0 0 Friendly
+1926 296 away Uruguay Chile 1 3 Copa América
+1926 303 home Uruguay Argentina 2 0 Copa América
+1926 307 home Uruguay Bolivia 6 0 Copa América
+1926 311 home Uruguay Paraguay 6 1 Copa América
+1927 200 home Uruguay Argentina 0 1 Newton Cup
+1927 247 away Uruguay Argentina 0 1 Lipton Cup
+1927 311 away Uruguay Peru 0 4 Copa América
+1927 316 home Uruguay Bolivia 9 0 Copa América
+1927 330 away Uruguay Argentina 3 2 Copa América
+1927 351 away Uruguay Chile 2 3 Friendly
+1928 154 away Uruguay Holland 0 2 Olympic Games
+1928 158 home Uruguay Germany 4 1 Olympic Games
+1928 162 home Uruguay Italy 3 2 Olympic Games
+1928 165 away Uruguay Argentina 1 1 Olympic Games
+1928 168 home Uruguay Argentina 2 1 Olympic Games
+1928 232 away Uruguay Paraguay 3 1 Friendly
+1928 236 away Uruguay Paraguay 1 1 Friendly
+1928 247 away Uruguay Argentina 1 0 Newton Cup
+1928 269 home Uruguay Argentina 2 2 Lipton Cup
+1929 171 away Uruguay Argentina 2 0 Friendly
+1929 171 home Uruguay Argentina 1 1 Friendly
+1929 268 home Uruguay Argentina 2 1 Newton Cup
+1929 276 away Uruguay Argentina 0 0 Lipton Cup
+1929 311 away Uruguay Paraguay 3 0 Copa América
+1929 321 home Uruguay Peru 4 1 Copa América
+1929 327 away Uruguay Argentina 2 0 Copa América
+1930 149 away Uruguay Argentina 1 1 Newton Cup
+1930 204 home Uruguay Peru 1 0 World Cup
+1930 207 home Uruguay Romania 4 0 World Cup
+1930 213 home Uruguay Yugoslavia 6 1 World Cup
+1930 216 home Uruguay Argentina 4 2 World Cup
+1931 254 away Uruguay Brazil 2 0 Rio Branco Cup
+1932 139 away Uruguay Argentina 2 0 Friendly
+1932 142 home Uruguay Argentina 1 0 Friendly
+1932 345 home Uruguay Brazil 1 2 Rio Branco Cup
+1933 21 home Uruguay Argentina 2 1 Friendly
+1933 36 away Uruguay Argentina 4 1 Friendly
+1933 355 home Uruguay Argentina 0 1 Friendly
+1934 204 home Uruguay Argentina 2 2 Friendly
+1934 232 away Uruguay Argentina 1 0 Friendly
+1935 13 away Uruguay Peru 0 1 Copa América
+1935 18 home Uruguay Chile 2 1 Copa América
+1935 20 away Uruguay Argentina 2 2 Friendly
+1935 27 home Uruguay Argentina 3 0 Copa América
+1935 204 home Uruguay Argentina 1 1 Hector Gomez Cup
+1935 232 away Uruguay Argentina 3 0 Juan Mignaburu Cup
+1936 226 away Uruguay Argentina 1 0 Juan Mignaburu Cup
+1936 268 home Uruguay Argentina 2 1 Hector Gomez Cup
+1937 2 away Uruguay Paraguay 4 2 Copa América
+1937 6 home Uruguay Peru 4 2 Copa América
+1937 10 away Uruguay Chile 3 0 Copa América
+1937 19 away Uruguay Brazil 3 2 Copa América
+1937 23 away Uruguay Argentina 2 3 Copa América
+1937 289 home Uruguay Argentina 0 3 Newton Cup
+1937 321 away Uruguay Argentina 5 1 Lipton Cup
+1938 173 away Uruguay Argentina 1 0 Juan Mignaburu Cup
+1938 291 home Uruguay Argentina 2 3 Hector Gomez Cup
+1939 22 home Uruguay Ecuador 6 0 Copa América
+1939 29 home Uruguay Chile 3 2 Copa América
+1939 36 home Uruguay Paraguay 3 1 Copa América
+1939 43 away Uruguay Peru 2 1 Copa América
+1940 74 home Uruguay Chile 3 2 Friendly
+1940 86 away Uruguay Brazil 3 4 Rio Branco Cup
+1940 93 away Uruguay Brazil 1 1 Rio Branco Cup
+1940 204 home Uruguay Argentina 3 0 Hector Gomez Cup
+1940 232 away Uruguay Argentina 5 0 Juan Mignaburu Cup
+1941 40 home Uruguay Ecuador 6 0 Copa América
+1941 47 away Uruguay Chile 0 2 Copa América
+1941 54 away Uruguay Argentina 1 0 Copa América
+1941 57 home Uruguay Peru 2 0 Copa América
+1942 10 home Uruguay Chile 6 1 Copa América
+1942 18 home Uruguay Ecuador 7 0 Copa América
+1942 24 home Uruguay Brazil 1 0 Copa América
+1942 28 home Uruguay Paraguay 3 1 Copa América
+1942 32 home Uruguay Peru 3 0 Copa América
+1942 38 home Uruguay Argentina 1 0 Copa América
+1942 149 away Uruguay Argentina 4 1 Newton Cup
+1942 242 home Uruguay Argentina 1 1 Lipton Cup
+1943 6 away Uruguay Argentina 1 0 Friendly
+1943 9 home Uruguay Argentina 6 2 Friendly
+1943 90 away Uruguay Argentina 3 3 Juan Mignaburu Cup
+1943 97 home Uruguay Argentina 0 1 Hector Gomez Cup
+1944 5 home Uruguay Argentina 1 3 Friendly
+1944 8 away Uruguay Argentina 3 3 Friendly
+1944 29 away Uruguay Argentina 6 2 Friendly
+1944 29 home Uruguay Argentina 2 1 Friendly
+1944 138 away Uruguay Brazil 6 1 Friendly
+1944 141 away Uruguay Brazil 4 0 Friendly
+1945 24 home Uruguay Ecuador 5 1 Copa América
+1945 28 home Uruguay Colombia 7 0 Copa América
+1945 38 away Uruguay Brazil 3 0 Copa América
+1945 46 home Uruguay Bolivia 2 0 Copa América
+1945 49 away Uruguay Chile 1 0 Copa América
+1945 56 away Uruguay Argentina 1 0 Copa América
+1945 204 home Uruguay Argentina 2 2 Lipton Cup
+1945 232 away Uruguay Argentina 6 2 Newton Cup
+1945 370 home Uruguay Argentina 1 1 Friendly
+1946 5 home Uruguay Brazil 4 3 Rio Branco Cup
+1946 9 home Uruguay Brazil 1 1 Rio Branco Cup
+1946 16 home Uruguay Chile 1 0 Copa América
+1946 23 away Uruguay Brazil 4 3 Copa América
+1946 29 home Uruguay Bolivia 5 0 Copa América
+1946 33 away Uruguay Argentina 3 1 Copa América
+1946 39 away Uruguay Paraguay 2 1 Copa América
+1947 64 away Uruguay Argentina 2 1 Friendly
+1947 71 home Uruguay Argentina 4 4 Friendly
+1947 91 away Uruguay Brazil 0 0 Rio Branco Cup
+1947 94 away Uruguay Brazil 3 2 Rio Branco Cup
+1947 97 away Uruguay Brazil 1 1 Friendly
+1947 343 home Uruguay Colombia 2 0 Copa América
+1947 347 home Uruguay Chile 6 0 Copa América
+1947 350 home Uruguay Bolivia 3 0 Copa América
+1947 354 away Uruguay Paraguay 4 2 Copa América
+1947 357 away Uruguay Ecuador 1 6 Copa América
+1947 367 home Uruguay Peru 1 0 Copa América
+1947 369 away Uruguay Argentina 3 1 Copa América
+1948 97 home Uruguay Brazil 1 1 Rio Branco Cup
+1948 104 home Uruguay Brazil 4 2 Rio Branco Cup
+1948 142 home Uruguay Argentina 0 1 Friendly
+1948 149 away Uruguay Argentina 0 2 Friendly
+1949 106 home Uruguay Ecuador 3 2 Copa América
+1949 110 away Uruguay Bolivia 3 2 Copa América
+1949 113 home Uruguay Paraguay 2 1 Copa América
+1949 117 away Uruguay Colombia 2 2 Copa América
+1949 123 away Uruguay Brazil 5 1 Copa América
+1949 128 away Uruguay Peru 4 3 Copa América
+1949 132 away Uruguay Chile 3 1 Copa América
+1950 100 away Uruguay Chile 1 5 Friendly
+1950 102 away Uruguay Chile 2 1 Friendly
+1950 123 away Uruguay Paraguay 3 2 Friendly
+1950 130 away Uruguay Brazil 3 4 Rio Branco Cup
+1950 138 away Uruguay Brazil 3 2 Rio Branco Cup
+1950 142 away Uruguay Brazil 1 0 Rio Branco Cup
+1950 188 home Uruguay Bolivia 8 0 World Cup
+1950 195 away Uruguay Spain 2 2 World Cup
+1950 199 home Uruguay Sweden 3 2 World Cup
+1950 202 away Uruguay Brazil 1 2 World Cup
+1952 85 home Uruguay Mexico 3 1 Pan American Championship
+1952 92 home Uruguay Peru 5 2 Pan American Championship
+1952 99 home Uruguay Panama 6 1 Pan American Championship
+1952 106 away Uruguay Chile 2 0 Pan American Championship
+1952 109 away Uruguay Brazil 4 2 Pan American Championship
+1953 56 home Uruguay Bolivia 2 0 Copa América
+1953 63 away Uruguay Chile 3 2 Copa América
+1953 74 away Uruguay Paraguay 2 2 Copa América
+1953 77 away Uruguay Brazil 1 0 Copa América
+1953 85 home Uruguay Ecuador 6 0 Copa América
+1953 90 away Uruguay Peru 0 3 Copa América
+1953 155 home Uruguay England 2 1 Friendly
+1954 103 home Uruguay Paraguay 1 4 Friendly
+1954 111 away Uruguay Paraguay 1 1 Friendly
+1954 147 away Uruguay Switzerland 3 3 Friendly
+1954 160 away Uruguay Saar 1 7 Friendly
+1954 171 home Uruguay Czechoslovakia 2 0 World Cup
+1954 174 home Uruguay Scotland 7 0 World Cup
+1954 181 home Uruguay England 4 2 World Cup
+1954 185 away Uruguay Hungary 4 2 World Cup
+1954 189 away Uruguay Austria 3 1 World Cup
+1955 71 home Uruguay Paraguay 3 1 Copa América
+1955 75 away Uruguay Chile 2 2 Copa América
+1955 85 home Uruguay Ecuador 5 1 Copa América
+1955 89 away Uruguay Argentina 6 1 Copa América
+1955 92 away Uruguay Peru 2 1 Copa América
+1956 21 home Uruguay Paraguay 4 2 Copa América
+1956 28 home Uruguay Peru 2 0 Copa América
+1956 37 home Uruguay Chile 2 1 Copa América
+1956 41 home Uruguay Brazil 0 0 Copa América
+1956 46 home Uruguay Argentina 1 0 Copa América
+1956 179 away Uruguay Brazil 2 0 Atlantic Cup
+1956 187 home Uruguay Argentina 1 2 Atlantic Cup
+1956 201 away Uruguay Paraguay 2 2 Friendly
+1956 229 home Uruguay Czechoslovakia 2 1 Friendly
+1956 289 home Uruguay Argentina 1 2 Friendly
+1956 324 away Uruguay Argentina 2 2 Friendly
+1957 69 home Uruguay Ecuador 5 2 Copa América
+1957 79 away Uruguay Colombia 1 0 Copa América
+1957 82 away Uruguay Argentina 4 0 Copa América
+1957 85 away Uruguay Peru 3 5 Copa América
+1957 90 home Uruguay Brazil 3 2 Copa América
+1957 94 home Uruguay Chile 2 0 Copa América
+1957 147 home Uruguay Argentina 0 0 Newton Cup
+1957 160 away Uruguay Argentina 1 1 Lipton Cup
+1957 171 away Uruguay Colombia 1 1 World Cup qualifier
+1957 185 home Uruguay Colombia 1 0 World Cup qualifier
+1957 200 away Uruguay Paraguay 5 0 World Cup qualifier
+1957 214 home Uruguay Paraguay 2 0 World Cup qualifier
+1958 99 home Uruguay Argentina 1 0 Friendly
+1958 123 away Uruguay Argentina 2 0 Friendly
+1959 70 home Uruguay Bolivia 7 0 Copa América
+1959 76 away Uruguay Peru 5 3 Copa América
+1959 80 home Uruguay Paraguay 3 1 Copa América
+1959 88 away Uruguay Brazil 3 1 Copa América
+1959 92 away Uruguay Argentina 4 1 Copa América
+1959 95 away Uruguay Chile 1 0 Copa América
+1959 125 home Uruguay Paraguay 1 3 Friendly
+1959 347 away Uruguay Ecuador 0 4 Copa América
+1959 353 home Uruguay Brazil 3 0 Copa América
+1959 357 home Uruguay Argentina 5 0 Copa América
+1959 363 away Uruguay Paraguay 1 1 Copa América
+1960 156 away Uruguay Chile 2 3 Friendly
+1960 160 home Uruguay Chile 2 2 Friendly
+1960 195 home Uruguay Brazil 1 0 Atlantic Cup
+1960 199 home Uruguay Paraguay 2 1 Atlantic Cup
+1960 234 away Uruguay Argentina 4 0 Atlantic Cup
+1961 201 away Uruguay Bolivia 1 1 World Cup qualifier
+1961 216 home Uruguay Bolivia 2 1 World Cup qualifier
+1961 291 away Uruguay Chile 2 3 Friendly
+1961 339 home Uruguay SovietUnion 1 2 Friendly
+1961 364 home Uruguay Hungary 1 1 Friendly
+1962 75 home Uruguay Argentina 1 1 Friendly
+1962 104 away Uruguay Germany 3 0 Friendly
+1962 111 away Uruguay Hungary 1 1 Friendly
+1962 115 away Uruguay Czechoslovakia 3 1 Friendly
+1962 120 away Uruguay SovietUnion 5 0 Friendly
+1962 126 away Uruguay Scotland 2 3 Friendly
+1962 154 home Uruguay Colombia 2 1 World Cup
+1962 157 away Uruguay Yugoslavia 3 1 World Cup
+1962 161 away Uruguay SovietUnion 2 1 World Cup
+1962 232 away Uruguay Argentina 3 1 Lipton Cup
+1963 85 home Uruguay Chile 3 2 Pinto Duran Cup
+1963 210 away Uruguay Chile 0 0 Pinto Duran Cup
+1964 118 away Uruguay Morocco 0 1 Friendly
+1964 122 away Uruguay NorthernIreland 3 0 Friendly
+1964 130 away Uruguay England 2 1 Friendly
+1964 138 away Uruguay Austria 0 2 Friendly
+1964 144 away Uruguay SovietUnion 1 0 Friendly
+1965 3 home Uruguay EastGermany 0 2 Friendly
+1965 118 away Uruguay Paraguay 2 1 Artigas Cup
+1965 125 home Uruguay Paraguay 4 0 Artigas Cup
+1965 133 away Uruguay Chile 0 0 Pinto Duran Cup
+1965 140 home Uruguay Chile 1 1 Pinto Duran Cup
+1965 147 home Uruguay Venezuela 5 0 World Cup qualifier
+1965 154 away Uruguay Venezuela 1 3 World Cup qualifier
+1965 161 away Uruguay Peru 0 1 World Cup qualifier
+1965 168 home Uruguay Peru 2 1 World Cup qualifier
+1965 255 away Uruguay Brazil 3 0 Friendly
+1965 345 home Uruguay SovietUnion 1 3 Friendly
+1966 139 away Uruguay Paraguay 2 2 Artigas Cup
+1966 142 home Uruguay Paraguay 3 1 Artigas Cup
+1966 170 away Uruguay Israel 1 2 Friendly
+1966 174 away Uruguay Romania 1 0 Friendly
+1966 178 away Uruguay Spain 1 1 Friendly
+1966 181 away Uruguay Portugal 3 0 Friendly
+1966 197 away Uruguay England 0 0 World Cup
+1966 201 home Uruguay France 2 1 World Cup
+1966 205 away Uruguay Mexico 0 0 World Cup
+1966 209 away Uruguay Germany 4 0 World Cup
+1967 4 home Uruguay Romania 1 1 Friendly
+1967 17 home Uruguay Bolivia 4 0 Copa América
+1967 21 home Uruguay Venezuela 4 0 Copa América
+1967 26 home Uruguay Chile 2 2 Copa América
+1967 29 home Uruguay Paraguay 2 0 Copa América
+1967 33 home Uruguay Argentina 1 0 Copa América
+1967 180 home Uruguay Brazil 0 0 Rio Branco Cup
+1967 183 home Uruguay Brazil 2 2 Rio Branco Cup
+1967 187 home Uruguay Brazil 1 1 Rio Branco Cup
+1967 214 away Uruguay Peru 0 1 Friendly
+1967 216 away Uruguay Peru 1 2 Friendly
+1968 145 away Uruguay Mexico 3 3 Friendly
+1968 152 away Uruguay Mexico 2 2 Friendly
+1968 157 away Uruguay Paraguay 0 0 Artigas Cup
+1968 160 away Uruguay Argentina 2 0 Newton Cup
+1968 164 away Uruguay Brazil 2 0 Friendly
+1968 167 away Uruguay Brazil 4 0 Friendly
+1968 175 home Uruguay Argentina 2 1 Lipton Cup
+1968 305 home Uruguay Mexico 0 2 Friendly
+1969 163 home Uruguay England 1 2 Friendly
+1969 182 away Uruguay Peru 1 0 Friendly
+1969 188 away Uruguay Colombia 0 1 Friendly
+1969 192 away Uruguay Ecuador 0 2 World Cup qualifier
+1969 199 away Uruguay Chile 0 0 World Cup qualifier
+1969 206 home Uruguay Ecuador 1 0 World Cup qualifier
+1969 227 home Uruguay Chile 2 0 World Cup qualifier
+1970 93 home Uruguay Peru 2 0 Friendly
+1970 101 away Uruguay Argentina 2 1 Friendly
+1970 108 home Uruguay Argentina 2 1 Friendly
+1970 111 away Uruguay Peru 4 2 Friendly
+1970 157 home Uruguay Israel 2 0 World Cup
+1970 161 away Uruguay Italy 0 0 World Cup
+1970 165 away Uruguay Sweden 1 0 World Cup
+1970 169 home Uruguay SovietUnion 1 0 World Cup
+1970 172 away Uruguay Brazil 3 1 World Cup
+1970 175 away Uruguay Germany 1 0 World Cup
+1971 39 home Uruguay EastGermany 0 3 Friendly
+1971 41 home Uruguay EastGermany 1 1 Friendly
+1971 200 away Uruguay Argentina 1 0 Newton Cup
+1971 204 home Uruguay Argentina 1 1 Lipton Cup
+1971 306 home Uruguay Chile 3 0 Pinto Duran Cup
+1971 313 away Uruguay Chile 5 0 Pinto Duran Cup
+1972 147 away Uruguay Spain 2 0 Friendly
+1972 151 away Uruguay EastGermany 1 0 Friendly
+1972 155 away Uruguay EastGermany 0 0 Friendly
+1972 169 away Uruguay Norway 0 1 Friendly
+1972 184 away Uruguay SovietUnion 1 0 Independence Cup
+1972 188 away Uruguay Portugal 1 1 Independence Cup
+1972 192 away Uruguay Argentina 1 0 Independence Cup
+1973 141 away Uruguay Argentina 1 1 Lipton Cup
+1973 147 home Uruguay Argentina 1 1 Newton Cup
+1973 161 away Uruguay Haiti 0 0 Friendly
+1973 179 away Uruguay Colombia 0 0 World Cup qualifier
+1973 187 away Uruguay Ecuador 1 2 World Cup qualifier
+1973 191 home Uruguay Colombia 0 1 World Cup qualifier
+1973 194 home Uruguay Ecuador 4 0 World Cup qualifier
+1973 205 away Uruguay Israel 1 2 Friendly
+1974 85 away Uruguay Haiti 0 1 Friendly
+1974 87 away Uruguay Haiti 0 0 Friendly
+1974 90 away Uruguay Jamaica 0 3 Friendly
+1974 114 away Uruguay Indonesia 2 3 Friendly
+1974 119 away Uruguay Australia 0 0 Friendly
+1974 121 away Uruguay Australia 2 0 Friendly
+1974 132 home Uruguay Ireland 2 0 Friendly
+1974 170 away Uruguay Holland 2 0 World Cup
+1974 174 away Uruguay Bulgaria 1 1 World Cup
+1974 178 away Uruguay Sweden 3 0 World Cup
+1975 159 home Uruguay Chile 1 0 Pinto Duran Cup
+1975 167 away Uruguay Paraguay 0 1 Artigas Cup
+1975 174 home Uruguay Paraguay 0 1 Artigas Cup
+1975 180 away Uruguay Chile 1 3 Pinto Duran Cup
+1975 204 home Uruguay Argentina 2 3 Newton Cup
+1975 269 away Uruguay Colombia 3 0 Copa América
+1975 280 home Uruguay Colombia 1 0 Copa América
+1976 56 home Uruguay Brazil 1 2 Atlantic Cup
+1976 72 home Uruguay Paraguay 2 2 Atlantic Cup
+1976 101 away Uruguay Argentina 4 1 Atlantic Cup
+1976 121 away Uruguay Brazil 2 1 Atlantic Cup
+1976 143 away Uruguay Paraguay 1 0 Atlantic Cup
+1976 164 home Uruguay Argentina 0 3 Atlantic Cup
+1976 285 away Uruguay Chile 0 0 Pinto Duran Cup
+1976 291 away Uruguay Peru 0 0 Friendly
+1976 294 away Uruguay Colombia 1 2 Friendly
+1976 299 away Uruguay Ecuador 2 2 Friendly
+1976 334 home Uruguay Peru 0 0 Friendly
+1977 4 home Uruguay Ecuador 1 1 Friendly
+1977 12 away Uruguay Paraguay 1 1 Artigas Cup
+1977 23 home Uruguay Paraguay 2 1 Artigas Cup
+1977 30 home Uruguay Chile 3 0 Pinto Duran Cup
+1977 40 away Uruguay Venezuela 1 1 World Cup qualifier
+1977 58 away Uruguay Bolivia 1 0 World Cup qualifier
+1977 79 home Uruguay Venezuela 2 0 World Cup qualifier
+1977 89 home Uruguay Bolivia 2 2 World Cup qualifier
+1977 163 home Uruguay Germany 0 2 Friendly
+1977 170 home Uruguay England 0 0 Friendly
+1978 66 away Uruguay Argentina 0 0 Friendly
+1978 118 home Uruguay Argentina 2 0 Friendly
+1978 127 away Uruguay Argentina 3 0 Friendly
+1978 148 home Uruguay Spain 0 0 Friendly
+1979 155 away Uruguay Brazil 5 1 Friendly
+1979 197 away Uruguay Chile 1 0 Pinto Duran Cup
+1979 204 home Uruguay Chile 2 1 Pinto Duran Cup
+1979 247 away Uruguay Peru 2 0 Friendly
+1979 253 away Uruguay Ecuador 2 1 Copa América
+1979 264 home Uruguay Ecuador 2 1 Copa América
+1979 268 away Uruguay Paraguay 0 0 Copa América
+1979 274 home Uruguay Paraguay 2 2 Copa América
+1980 77 away Uruguay Italy 1 0 Friendly
+1980 80 away Uruguay Belgium 2 0 Friendly
+1980 84 away Uruguay Yugoslavia 2 1 Friendly
+1980 88 away Uruguay Luxembourg 0 1 Friendly
+1980 204 home Uruguay Peru 0 0 Friendly
+1980 238 home Uruguay Chile 0 0 Pinto Duran Cup
+1980 244 away Uruguay Brazil 1 0 Friendly
+1980 319 away Uruguay Bolivia 1 3 Friendly
+1980 322 away Uruguay Peru 1 1 Friendly
+1980 349 home Uruguay Finland 6 0 Friendly
+1980 352 home Uruguay Bolivia 5 0 Friendly
+1980 359 home Uruguay Switzerland 4 0 Friendly
+1980 371 home Uruguay Holland 2 0 Mundialito
+1981 3 home Uruguay Italy 2 0 Mundialito
+1981 10 home Uruguay Brazil 2 1 Mundialito
+1981 122 away Uruguay Chile 1 2 Pinto Duran Cup
+1981 201 home Uruguay Chile 0 0 Pinto Duran Cup
+1981 226 home Uruguay Colombia 3 2 World Cup qualifier
+1981 240 home Uruguay Peru 1 2 World Cup qualifier
+1981 254 away Uruguay Peru 0 0 World Cup qualifier
+1981 261 away Uruguay Colombia 1 1 World Cup qualifier
+1982 51 home Uruguay SouthKorea 2 2 Nehru Gold Cup
+1982 53 away Uruguay China 0 0 Nehru Gold Cup
+1982 56 away Uruguay India 1 3 Nehru Gold Cup
+1982 66 home Uruguay China 2 0 Nehru Gold Cup
+1983 157 away Uruguay Paraguay 0 0 Artigas Cup
+1983 164 home Uruguay Paraguay 3 0 Artigas Cup
+1983 204 home Uruguay Peru 1 1 Friendly
+1983 228 away Uruguay Peru 1 1 Friendly
+1983 242 home Uruguay Paraguay 0 0 Friendly
+1983 249 home Uruguay Chile 2 1 Copa América
+1983 252 home Uruguay Venezuela 3 0 Copa América
+1983 259 away Uruguay Chile 2 0 Copa América
+1983 266 away Uruguay Venezuela 1 2 Copa América
+1983 269 away Uruguay Scotland 2 0 Friendly
+1983 274 away Uruguay Israel 2 2 Friendly
+1983 292 away Uruguay Peru 0 1 Copa América
+1983 299 home Uruguay Peru 1 1 Copa América
+1983 306 home Uruguay Brazil 2 0 Copa América
+1983 314 away Uruguay Brazil 1 1 Copa América
+1984 168 home Uruguay England 2 0 Friendly
+1984 176 away Uruguay Brazil 1 0 Friendly
+1984 204 home Uruguay Argentina 1 0 Friendly
+1984 219 away Uruguay Argentina 0 0 Friendly
+1984 267 home Uruguay Peru 2 0 Friendly
+1984 282 away Uruguay Peru 1 3 Friendly
+1984 310 home Uruguay Mexico 1 1 Friendly
+1985 29 home Uruguay EastGermany 3 0 Friendly
+1985 34 home Uruguay Paraguay 1 0 Artigas Cup
+1985 37 away Uruguay Bolivia 0 1 Friendly
+1985 41 away Uruguay Paraguay 1 3 Artigas Cup
+1985 45 home Uruguay Finland 2 1 Friendly
+1985 55 home Uruguay Colombia 3 0 Friendly
+1985 58 home Uruguay Peru 2 2 Friendly
+1985 72 home Uruguay Ecuador 2 1 World Cup qualifier
+1985 86 away Uruguay Chile 2 0 World Cup qualifier
+1985 93 away Uruguay Ecuador 0 2 World Cup qualifier
+1985 100 home Uruguay Chile 2 1 World Cup qualifier
+1985 116 away Uruguay Peru 2 1 Friendly
+1985 121 away Uruguay Colombia 2 1 Friendly
+1985 126 away Uruguay Brazil 2 0 Friendly
+1985 149 away Uruguay Japan 1 4 Friendly
+1985 156 away Uruguay Malaysia 0 6 Friendly
+1985 238 away Uruguay France 2 0 Artemio Franchi Trophy
+1985 296 away Uruguay Chile 1 0 Friendly
+1986 33 home Uruguay Canada 3 1 Friendly
+1986 38 away Uruguay UnitedStates 1 1 Friendly
+1986 47 home Uruguay Poland 2 2 Friendly
+1986 106 away Uruguay Mexico 1 0 Friendly
+1986 114 away Uruguay Wales 0 0 Friendly
+1986 116 away Uruguay Ireland 1 1 Friendly
+1986 159 home Uruguay Germany 1 1 World Cup
+1986 163 away Uruguay Denmark 6 1 World Cup
+1986 168 away Uruguay Scotland 0 0 World Cup
+1986 171 away Uruguay Argentina 1 0 World Cup
+1987 174 home Uruguay Ecuador 2 1 Friendly
+1987 178 home Uruguay Bolivia 2 1 Friendly
+1987 195 away Uruguay Argentina 0 1 Copa América
+1987 198 home Uruguay Chile 1 0 Copa América
+1988 78 away Uruguay Guatemala 1 0 Friendly
+1988 224 away Uruguay Colombia 2 1 Friendly tournament
+1988 275 away Uruguay Ecuador 1 2 Friendly tournament
+1988 277 away Uruguay Paraguay 3 1 Friendly tournament
+1988 291 home Uruguay Paraguay 2 0 Friendly
+1988 311 away Uruguay Chile 1 1 Friendly tournament
+1988 319 home Uruguay Chile 3 1 Friendly tournament
+1988 355 home Uruguay Peru 3 0 Friendly
+1989 115 away Uruguay Italy 1 1 Friendly
+1989 127 home Uruguay Ecuador 3 1 Friendly
+1989 147 away Uruguay Ecuador 1 1 Friendly
+1989 163 away Uruguay Bolivia 0 0 Friendly
+1989 169 home Uruguay Bolivia 1 0 Friendly
+1989 174 home Uruguay Chile 2 2 Friendly
+1989 188 away Uruguay Ecuador 1 0 Copa América
+1989 190 away Uruguay Bolivia 0 3 Copa América
+1989 192 away Uruguay Chile 0 3 Copa América
+1989 194 away Uruguay Argentina 1 0 Copa América
+1989 198 away Uruguay Paraguay 0 3 Copa América
+1989 200 away Uruguay Argentina 0 2 Copa América
+1989 202 away Uruguay Brazil 1 0 Copa América
+1989 223 home Uruguay Colombia 0 0 Friendly
+1989 244 away Uruguay Peru 0 2 World Cup qualifier
+1989 251 away Uruguay Bolivia 2 1 World Cup qualifier
+1989 265 home Uruguay Bolivia 2 0 World Cup qualifier
+1989 272 home Uruguay Peru 2 0 World Cup qualifier
+1990 33 home Uruguay Colombia 2 0 Friendly tournament
+1990 35 home Uruguay CostaRica 2 0 Friendly tournament
+1990 82 away Uruguay Mexico 2 1 Friendly
+1990 118 away Uruguay Germany 3 3 Friendly
+1990 142 away Uruguay NorthernIreland 1 0 Friendly
+1990 146 away Uruguay England 1 2 Friendly
+1990 168 away Uruguay Spain 0 0 World Cup
+1990 172 away Uruguay Belgium 3 1 World Cup
+1990 176 away Uruguay SouthKorea 0 1 World Cup
+1990 180 away Uruguay Italy 2 0 World Cup
+1991 129 away Uruguay UnitedStates 1 0 Friendly
+1991 131 home Uruguay Mexico 2 0 Friendly
+1991 137 away Uruguay CostaRica 0 1 Friendly
+1991 154 away Uruguay Chile 2 1 Friendly
+1991 167 away Uruguay Peru 1 0 Friendly
+1991 175 home Uruguay Peru 0 0 Friendly
+1991 181 home Uruguay Chile 2 1 Friendly
+1991 193 away Uruguay Bolivia 1 1 Copa América
+1991 195 home Uruguay Ecuador 1 1 Copa América
+1991 197 away Uruguay Brazil 1 1 Copa América
+1991 201 home Uruguay Colombia 1 0 Copa América
+1991 252 away Uruguay Spain 2 1 Friendly
+1991 330 away Uruguay Mexico 1 1 Friendly
+1992 123 home Uruguay Brazil 1 0 Friendly
+1992 176 home Uruguay Australia 2 0 Friendly
+1992 190 home Uruguay Ecuador 3 1 Friendly
+1992 211 home Uruguay Guatemala 2 1 Friendly
+1992 219 home Uruguay CostaRica 2 1 Friendly
+1992 271 home Uruguay Argentina 0 0 Friendly
+1992 335 away Uruguay Brazil 1 2 Friendly
+1992 339 home Uruguay Poland 0 1 Friendly
+1992 361 home Uruguay Germany 1 4 Friendly
+1993 171 home Uruguay UnitedStates 1 0 Copa América
+1993 174 home Uruguay Venezuela 2 2 Copa América
+1993 177 away Uruguay Ecuador 2 1 Copa América
+1993 181 away Uruguay Colombia 1 1 Copa América
+1993 199 away Uruguay Peru 1 2 Friendly
+1993 200 away Uruguay Peru 1 2 Friendly
+1993 203 home Uruguay Peru 3 0 Friendly
+1993 211 away Uruguay Venezuela 0 1 World Cup qualifier
+1993 218 home Uruguay Ecuador 0 0 World Cup qualifier
+1993 225 away Uruguay Bolivia 3 1 World Cup qualifier
+1993 232 home Uruguay Brazil 1 1 World Cup qualifier
+1993 246 home Uruguay Venezuela 4 0 World Cup qualifier
+1993 253 away Uruguay Ecuador 0 1 World Cup qualifier
+1993 260 home Uruguay Bolivia 2 1 World Cup qualifier
+1993 267 away Uruguay Brazil 2 0 World Cup qualifier
+1993 292 away Uruguay Germany 5 0 Friendly
+1994 298 away Uruguay Peru 0 1 Friendly
+1995 18 away Uruguay Spain 2 2 Friendly
+1995 32 away Uruguay Mexico 1 0 Friendly
+1995 84 away Uruguay Colombia 2 1 Friendly
+1995 87 away Uruguay UnitedStates 2 2 Friendly
+1995 91 away Uruguay England 0 0 Friendly
+1995 93 away Uruguay Yugoslavia 1 0 Friendly
+1995 98 home Uruguay Peru 1 0 Friendly
+1995 180 home Uruguay NewZealand 7 0 Friendly
+1995 183 home Uruguay NewZealand 2 2 Friendly
+1995 191 home Uruguay Venezuela 4 1 Copa América
+1995 195 home Uruguay Paraguay 1 0 Copa América
+1995 199 home Uruguay Mexico 1 1 Copa América
+1995 202 home Uruguay Bolivia 2 1 Copa América
+1995 205 home Uruguay Colombia 2 0 Copa América
+1995 209 home Uruguay Brazil 1 1 Copa América
+1995 268 away Uruguay Israel 3 1 Friendly
+1995 290 away Uruguay Brazil 2 0 Friendly
+1996 117 away Uruguay Venezuela 0 2 World Cup qualifier
+1996 157 home Uruguay Paraguay 0 2 World Cup qualifier
+1996 193 away Uruguay Colombia 3 1 World Cup qualifier
+1996 203 away Uruguay China 1 1 Friendly
+1996 242 away Uruguay Japan 5 3 Friendly
+1996 287 home Uruguay Bolivia 1 0 World Cup qualifier
+1996 322 away Uruguay Chile 1 0 World Cup qualifier
+1996 356 home Uruguay Peru 2 0 World Cup qualifier
+1997 12 home Uruguay Argentina 0 0 World Cup qualifier
+1997 43 away Uruguay Ecuador 4 0 World Cup qualifier
+1997 95 home Uruguay Venezuela 3 1 World Cup qualifier
+1997 123 away Uruguay Paraguay 3 1 World Cup qualifier
+1997 163 home Uruguay Colombia 1 1 World Cup qualifier
+1997 167 away Uruguay Peru 1 0 Copa América
+1997 170 home Uruguay Venezuela 2 0 Copa América
+1997 173 away Uruguay Bolivia 1 0 Copa América
+1997 206 away Uruguay Bolivia 1 0 World Cup qualifier
+1997 237 home Uruguay Chile 1 0 World Cup qualifier
+1997 258 away Uruguay Peru 2 1 World Cup qualifier
+1997 291 away Uruguay Argentina 0 0 World Cup qualifier
+1997 326 home Uruguay Ecuador 5 3 World Cup qualifier
+1997 354 home Uruguay UnitedArab 2 0 Confederations Cup
+1997 356 home Uruguay Czechia 2 1 Confederations Cup
+1997 358 home Uruguay SouthAfrica 4 3 Confederations Cup
+1997 360 away Uruguay Australia 1 0 Confederations Cup
+1997 362 away Uruguay Czechia 1 0 Confederations Cup
+1998 148 away Uruguay Chile 2 2 Friendly
+1999 172 away Uruguay Paraguay 2 3 Friendly
+1999 187 away Uruguay Colombia 1 0 Copa América
+1999 190 home Uruguay Ecuador 2 1 Copa América
+1999 193 away Uruguay Argentina 2 0 Copa América
+1999 196 away Uruguay Paraguay 1 1 Copa América
+1999 199 home Uruguay Chile 1 1 Copa América
+1999 204 away Uruguay Brazil 3 0 Copa América
+1999 235 home Uruguay CostaRica 5 4 Friendly
+1999 256 home Uruguay Venezuela 2 0 Friendly
+1999 291 home Uruguay Ecuador 0 0 Friendly
+1999 327 home Uruguay Paraguay 0 1 Friendly
+2000 48 home Uruguay Hungary 2 0 Friendly
+2000 91 home Uruguay Bolivia 1 0 World Cup qualifier
+2000 119 away Uruguay Paraguay 1 0 World Cup qualifier
+2000 158 home Uruguay Chile 2 1 World Cup qualifier
+2000 183 away Uruguay Brazil 1 1 World Cup qualifier
+2000 204 home Uruguay Venezuela 3 1 World Cup qualifier
+2000 212 home Uruguay Peru 0 0 World Cup qualifier
+2000 232 away Uruguay Colombia 1 0 World Cup qualifier
+2000 251 home Uruguay Ecuador 4 0 World Cup qualifier
+2000 287 away Uruguay Argentina 2 1 World Cup qualifier
+2000 325 away Uruguay Bolivia 0 0 World Cup qualifier
+2001 59 away Uruguay Slovenia 0 2 Friendly
+2001 90 home Uruguay Paraguay 0 1 World Cup qualifier
+2001 117 away Uruguay Chile 0 1 World Cup qualifier
+2001 187 home Uruguay Brazil 1 0 World Cup qualifier
+2001 199 home Uruguay Bolivia 1 0 Copa América
+2001 202 away Uruguay CostaRica 1 1 Copa América
+2001 205 away Uruguay Honduras 1 0 Copa América
+2001 208 home Uruguay CostaRica 2 1 Copa América
+2001 211 away Uruguay Mexico 2 1 Copa América
+2001 215 away Uruguay Honduras 2 2 Copa América
+2001 231 away Uruguay Venezuela 2 0 World Cup qualifier
+2001 252 away Uruguay Peru 0 2 World Cup qualifier
+2001 286 home Uruguay Colombia 1 1 World Cup qualifier
+2001 317 away Uruguay Ecuador 1 1 World Cup qualifier
+2001 324 home Uruguay Argentina 1 1 World Cup qualifier
+2001 330 away Uruguay Australia 1 0 World Cup qualifier
+2001 335 home Uruguay Australia 3 0 World Cup qualifier
+2002 44 home Uruguay SouthKorea 2 1 Friendly
+2002 89 away Uruguay SaudiArabia 3 2 Friendly
+2002 110 away Uruguay Italy 1 1 Friendly
+2002 136 away Uruguay UnitedStates 2 1 Friendly
+2002 140 away Uruguay China 0 2 Friendly
+2002 145 away Uruguay Singapore 1 2 Friendly
+2002 156 away Uruguay Denmark 2 1 World Cup
+2002 161 home Uruguay France 0 0 World Cup
+2002 166 away Uruguay Senegal 3 3 World Cup
+2002 330 away Uruguay Venezuela 1 0 Friendly
+2003 35 home Uruguay Iran 1 1 Carlsberg Cup
+2003 90 away Uruguay Japan 2 2 Friendly
+2003 163 away Uruguay SouthKorea 0 2 Friendly
+2003 202 away Uruguay Argentina 2 2 Friendly
+2003 210 away Uruguay Peru 3 4 Friendly
+2003 216 home Uruguay Peru 1 0 Friendly
+2003 230 home Uruguay Cameroon 4 0 Friendly tournament
+2003 232 home Uruguay Iraq 5 2 Friendly tournament
+2003 237 away Uruguay Argentina 3 2 Friendly
+2003 255 home Uruguay Bolivia 5 0 World Cup qualifier
+2003 258 away Uruguay Paraguay 4 1 World Cup qualifier
+2003 294 home Uruguay Mexico 2 0 Friendly
+2003 325 home Uruguay Chile 2 1 World Cup qualifier
+2003 329 away Uruguay Brazil 3 3 World Cup qualifier
+2004 49 away Uruguay Jamaica 2 0 Friendly
+2004 93 home Uruguay Venezuela 0 3 World Cup qualifier
+2004 156 home Uruguay Peru 1 3 World Cup qualifier
+2004 161 away Uruguay Colombia 5 0 World Cup qualifier
+2004 193 away Uruguay Mexico 2 2 Copa América
+2004 196 home Uruguay Ecuador 2 1 Copa América
+2004 199 away Uruguay Argentina 4 2 Copa América
+2004 204 home Uruguay Paraguay 3 1 Copa América
+2004 207 away Uruguay Brazil 1 1 Copa América
+2004 210 home Uruguay Colombia 2 1 Copa América
+2004 253 home Uruguay Ecuador 1 0 World Cup qualifier
+2004 288 away Uruguay Argentina 4 2 World Cup qualifier
+2004 291 away Uruguay Bolivia 0 0 World Cup qualifier
+2004 327 home Uruguay Paraguay 1 0 World Cup qualifier
+2005 88 away Uruguay Chile 1 1 World Cup qualifier
+2005 92 home Uruguay Brazil 1 1 World Cup qualifier
+2005 159 away Uruguay Venezuela 1 1 World Cup qualifier
+2005 162 away Uruguay Peru 0 0 World Cup qualifier
+2005 234 away Uruguay Spain 2 0 Friendly
+2005 252 home Uruguay Colombia 3 2 World Cup qualifier
+2005 287 away Uruguay Ecuador 0 0 World Cup qualifier
+2005 291 home Uruguay Argentina 1 0 World Cup qualifier
+2005 305 away Uruguay Mexico 3 1 Friendly
+2005 322 home Uruguay Australia 1 0 World Cup qualifier
+2005 326 away Uruguay Australia 1 0 World Cup qualifier
+2006 63 away Uruguay England 2 1 Friendly
+2006 145 home Uruguay NorthernIreland 1 0 Friendly
+2006 147 home Uruguay Romania 2 0 Friendly
+2006 151 away Uruguay Serbia and Montenegro 1 1 Friendly
+2006 154 home Uruguay Libya 2 1 Friendly tournament
+2006 157 away Uruguay Tunisia 0 0 Friendly tournament
+2006 233 away Uruguay Egypt 0 2 Friendly
+2006 275 away Uruguay Venezuela 1 0 Friendly
+2006 297 home Uruguay Venezuela 4 0 Friendly
+2006 325 away Uruguay Georgia 2 0 Friendly
+2007 38 away Uruguay Colombia 1 3 Friendly
+2007 86 away Uruguay SouthKorea 0 2 Friendly
+2007 157 away Uruguay Australia 1 2 Friendly
+2007 181 away Uruguay Peru 3 0 Copa América
+2007 185 home Uruguay Bolivia 1 0 Copa América
+2007 189 away Uruguay Venezuela 0 0 Copa América
+2007 193 away Uruguay Venezuela 1 4 Copa América
+2007 196 home Uruguay Brazil 2 2 Copa América
+2007 200 away Uruguay Mexico 3 1 Copa América
+2007 260 away Uruguay SouthAfrica 0 0 Friendly
+2007 292 home Uruguay Bolivia 5 0 World Cup qualifier
+2007 296 away Uruguay Paraguay 1 0 World Cup qualifier
+2007 328 home Uruguay Chile 2 2 World Cup qualifier
+2007 331 away Uruguay Brazil 2 1 World Cup qualifier
+2008 37 home Uruguay Colombia 2 2 Friendly
+2008 149 home Uruguay Turkey 3 2 Friendly
+2008 152 away Uruguay Norway 2 2 Friendly
+2008 169 home Uruguay Venezuela 1 1 World Cup qualifier
+2008 172 home Uruguay Peru 6 0 World Cup qualifier
+2008 237 away Uruguay Japan 1 3 Friendly
+2008 254 away Uruguay Colombia 0 1 World Cup qualifier
+2008 258 home Uruguay Ecuador 0 0 World Cup qualifier
+2008 290 away Uruguay Argentina 2 1 World Cup qualifier
+2008 293 away Uruguay Bolivia 2 2 World Cup qualifier
+2008 329 away Uruguay France 0 0 Friendly
+2009 42 away Uruguay Libya 2 3 Friendly
+2009 90 home Uruguay Paraguay 2 0 World Cup qualifier
+2009 94 away Uruguay Chile 0 0 World Cup qualifier
+2009 161 home Uruguay Brazil 0 4 World Cup qualifier
+2009 165 away Uruguay Venezuela 2 2 World Cup qualifier
+2009 229 away Uruguay Algeria 1 0 Friendly
+2009 253 away Uruguay Peru 1 0 World Cup qualifier
+2009 257 home Uruguay Colombia 3 1 World Cup qualifier
+2009 289 away Uruguay Ecuador 1 2 World Cup qualifier
+2009 293 home Uruguay Argentina 0 1 World Cup qualifier
+2009 324 away Uruguay CostaRica 0 1 World Cup qualifier
+2009 328 home Uruguay CostaRica 1 1 World Cup qualifier
+2010 65 away Uruguay Switzerland 1 3 Friendly
+2010 150 home Uruguay Israel 4 1 Friendly
+2010 166 home Uruguay France 0 0 World Cup
+2010 171 away Uruguay SouthAfrica 0 3 World Cup
+2010 177 home Uruguay Mexico 1 0 World Cup
+2010 181 home Uruguay SouthKorea 2 1 World Cup
+2010 188 home Uruguay Ghana 1 1 World Cup
+2010 192 away Uruguay Holland 3 2 World Cup
+2010 196 away Uruguay Germany 3 2 World Cup
+2010 228 home Uruguay Angola 2 0 Friendly
+2010 287 away Uruguay Indonesia 1 7 Friendly
+2010 291 away Uruguay China 0 4 Friendly
+2010 327 away Uruguay Chile 2 0 Friendly
+2011 87 away Uruguay Estonia 2 0 Friendly
+2011 91 away Uruguay Ireland 2 3 Friendly
+2011 153 away Uruguay Germany 2 1 Friendly
+2011 163 home Uruguay Holland 1 1 Friendly
+2011 178 home Uruguay Estonia 3 0 Friendly
+2011 190 away Uruguay Peru 1 1 Copa América
+2011 194 away Uruguay Chile 1 1 Copa América
+2011 198 home Uruguay Mexico 1 0 Copa América
+2011 202 away Uruguay Argentina 1 1 Copa América
+2011 205 home Uruguay Peru 2 0 Copa América
+2011 210 home Uruguay Paraguay 3 0 Copa América
+2011 250 away Uruguay Ukraine 2 3 Friendly
+2011 286 home Uruguay Bolivia 4 2 World Cup qualifier
+2011 290 away Uruguay Paraguay 1 1 World Cup qualifier
+2011 321 home Uruguay Chile 4 0 World Cup qualifier
+2011 325 away Uruguay Italy 0 1 Friendly
+2012 60 away Uruguay Romania 1 1 Friendly
+2012 149 away Uruguay Russia 1 1 Friendly
+2012 157 home Uruguay Venezuela 1 1 World Cup qualifier
+2012 165 home Uruguay Peru 4 2 World Cup qualifier
+2012 232 away Uruguay France 0 0 Friendly
+2012 255 away Uruguay Colombia 4 0 World Cup qualifier
+2012 259 home Uruguay Ecuador 1 1 World Cup qualifier
+2012 291 away Uruguay Argentina 3 0 World Cup qualifier
+2012 295 away Uruguay Bolivia 4 1 World Cup qualifier
+2012 324 away Uruguay Poland 1 3 Friendly
+2013 37 away Uruguay Spain 3 1 Friendly
+2013 84 home Uruguay Paraguay 1 1 World Cup qualifier
+2013 88 away Uruguay Chile 2 0 World Cup qualifier
+2013 160 home Uruguay France 1 0 Friendly
+2013 166 away Uruguay Venezuela 0 1 World Cup qualifier
+2013 171 away Uruguay Spain 2 1 Confederations Cup
+2013 175 home Uruguay Nigeria 2 1 Confederations Cup
+2013 178 home Uruguay Tahiti 8 0 Confederations Cup
+2013 181 away Uruguay Brazil 2 1 Confederations Cup
+2013 185 away Uruguay Italy 2 2 Confederations Cup
+2013 231 away Uruguay Japan 2 4 Friendly
+2013 254 away Uruguay Peru 1 2 World Cup qualifier
+2013 258 home Uruguay Colombia 2 0 World Cup qualifier
+2013 290 away Uruguay Ecuador 1 0 World Cup qualifier
+2013 294 home Uruguay Argentina 3 2 World Cup qualifier
+2013 323 away Uruguay Jordan 0 5 World Cup qualifier
+2013 330 home Uruguay Jordan 0 0 World Cup qualifier
+2014 67 away Uruguay Austria 1 1 Friendly

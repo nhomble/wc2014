@@ -1,0 +1,222 @@
+Iniesta Iniesta 
+FC Barcelona / Liga BBVA 
+89	CM	75	72	91	91	66	55	4 	4 	 / 	 Right	45,000	2,006		
+Xavi Xavi 
+FC Barcelona / Liga BBVA 
+89	CM	66	73	92	86	68	54	3 	3 	 / 	 Right	31,000	2,024		
+David Silva David Silva 
+Manchester City / Barclays PL 
+88	CAM	78	78	86	89	46	59	4 	2 	 / 	 Left	87,000	1,930		
+Juan Mata Juan Mata 
+Chelsea / Barclays PL 
+87	CAM	78	76	83	87	45	64	4 	3 	 / 	 Left	22,000	1,907		
+Juan Mata Juan Mata 
+Manchester United / Barclays PL 
+87	CAM	78	76	83	87	45	64	4 	3 	 / 	 Left	20,250	1,907		
+Casillas Casillas 
+Real Madrid / Liga BBVA 
+86	GK	89	80	67	90	65	81	1 	2 	 / 	 Left	14,250	956		
+Pique Pique 
+FC Barcelona / Liga BBVA 
+86	CB	62	52	76	67	86	81	2 	3 	 / 	 Right	1,800	1,818		
+Sergio Ramos Sergio Ramos 
+Real Madrid / Liga BBVA 
+86	CB	80	61	74	72	84	86	3 	3 	 / 	 Right	12,000	1,994		
+Cesc Fabregas Cesc Fabregas 
+FC Barcelona / Liga BBVA 
+86	CM	68	79	90	82	66	70	3 	3 	 / 	 Right	4,100	2,038		
+Xabi Alonso Xabi Alonso 
+Real Madrid / Liga BBVA 
+85	CDM	55	75	88	70	81	66	2 	4 	 / 	 Right	1,500	2,029		
+Jesus Navas Jesus Navas 
+Manchester City / Barclays PL 	
+85	RW	91	71	79	86	43	57	4 	3 	 / 	 Right	7,500	1,830		
+Santi Cazorla Santi Cazorla 
+Arsenal / Barclays PL 
+85	CAM	78	77	85	86	50	62	4 	5 	 / 	 Right	2,000	1,939		
+Pedro Pedro 
+FC Barcelona / Liga BBVA 
+85	RW	84	74	80	85	51	57	4 	5 	 / 	 Right	1,400	1,871		
+Sergio Busquets Sergio Busquets 
+FC Barcelona / Liga BBVA 
+85	CDM	56	58	77	75	83	71	3 	3 	 / 	 Right	800	1,902		
+Soldado Soldado 
+Tottenham Hotspur / Barclays PL 
+84	ST	78	82	64	78	53	81	3 	3 	 / 	 Right	1,400	1,897		
+Javi Martinez Javi Martinez 
+Bayern München / Bundesliga 
+84	CDM	57	62	76	72	84	82	3 	3 	 / 	 Right	800	1,930		
+Isco Isco 
+Real Madrid / Liga BBVA 
+84	CAM	80	73	81	88	46	61	3 	3 	 / 	 Right	1,200	1,872		
+Diego Costa Diego Costa 
+Atlético de Madrid / Liga BBVA 
+84	ST	83	80	60	80	57	80	3 	3 	 / 	 Right	1,700	1,950		
+Negredo Negredo 
+Manchester City / Barclays PL 
+84	ST	74	83	64	79	52	83	3 	3 	 / 	 Left	1,000	1,904		
+Puyol Puyol 
+FC Barcelona / Liga BBVA 
+83	CB	64	48	64	55	85	80	2 	3 	 / 	 Right	750	1,745		
+Jose Reina Jose Reina 
+Napoli / Serie A 
+83	GK	83	78	90	84	50	83	1 	3 	 / 	 Right	900	962		
+Victor Valdes Victor Valdes 
+FC Barcelona / Liga BBVA 
+83	GK	82	78	77	83	60	90	1 	3 	 / 	 Right	800	992		
+David Villa David Villa 
+Atlético de Madrid / Liga BBVA 
+83	LW	77	85	74	85	47	71	4 	4 	 / 	 Right	900	1,931		
+Negredo Negredo 
+Manchester City / Barclays PL 
+83	ST	72	82	62	78	51	82	3 	3 	 / 	 Left	900	1,821		
+Diego Lopez Diego Lopez 
+Real Madrid / Liga BBVA 
+83	GK	81	86	76	79	34	83	1 	3 	 / 	 Right	850	913			
+Mikel Arteta Mikel Arteta 
+Arsenal / Barclays PL 
+82	CM	55	78	86	82	73	68	3 	4 	 / 	 Right	1,000	2,043		
+Joaquin Joaquin 
+Fiorentina / Serie A 
+82	RM	76	74	84	87	42	51	4 	3 	 / 	 Right	900	1,810		
+Fernando Torres Fernando Torres 
+Chelsea / Barclays PL 
+82	ST	77	82	70	82	48	75	3 	4 	 / 	 Right	750	1,853		
+Borja Valero Borja Valero 
+Fiorentina / Serie A 
+82	CM	69	75	86	81	70	59	3 	4 	 / 	 Right	700	2,011		
+Llorente Llorente 
+Juventus / Serie A 	
+82	ST	62	76	58	71	53	87	3 	3 	 / 	 Right	850	1,737		
+Benat Benat 
+Athletic Club de Bilbao / Liga BBVA 
+82	CM	67	78	84	76	74	56	2 	3 	 / 	 Right	700	2,020		
+Jordi Alba Jordi Alba 
+FC Barcelona / Liga BBVA 
+82	LB	92	68	76	82	79	68	3 	3 	 / 	 Left	1,400	2,058		
+De Gea De Gea 
+Manchester United / Barclays PL 
+82	GK	86	73	86	88	51	75	1 	3 	 / 	 Right	1,000	964		
+Xabi Prieto Xabi Prieto 
+Real Sociedad / Liga BBVA 
+81	CAM	66	73	86	81	49	66	3 	3 	 / 	 Right	750	1,832		
+Koke Koke 
+Atlético de Madrid / Liga BBVA 
+81	CAM	75	72	83	81	60	62	3 	4 	 / 	 Right	700	1,911		
+Andres Fernandez Andres Fernandez 
+CA Osasuna / Liga BBVA 
+80	GK	86	73	69	86	55	75	1 	3 	 / 	 Right	750	969		
+Aduriz Aduriz 
+Athletic Club de Bilbao / Liga BBVA 
+79	ST	67	76	56	69	53	88	3 	3 	 / 	 Right	650	1,765		
+Juanfran Juanfran 
+Atlético de Madrid / Liga BBVA 
+79	RB	83	59	73	79	81	62	3 	3 	 / 	 Right	950	1,934		
+Javi Garcia Javi Garcia 
+Manchester City / Barclays PL 
+79	CDM	63	67	75	67	82	87	2 	3 	 / 	 Right	750	1,949		
+Michu Michu 
+Swansea City / Barclays PL 
+79	ST	67	75	67	69	66	80	3 	3 	 / 	 Left	700	1,855		
+Jose Enrique Jose Enrique 
+Liverpool / Barclays PL 
+79	LB	79	53	76	75	80	74	3 	2 	 / 	 Left	700	1,920		
+Pedro Leon Pedro Leon 
+Getafe CF / Liga BBVA 
+79	RM	76	73	84	79	49	46	3 	3 	 / 	 Right	750	1,804		
+Bojan Bojan 
+Ajax / Eredivisie 
+79	RW	84	74	74	85	37	50	4 	3 	 / 	 Right	700	1,756		
+Ander Herrera Ander Herrera 
+Athletic Club de Bilbao / Liga BBVA 
+79	CM	76	61	78	84	63	49	4 	4 	 / 	 Right	800	1,847		
+Jose Callejon Jose Callejon 
+Napoli / Serie A 
+79	CAM	90	74	66	82	42	60	3 	2 	 / 	 Right	750	1,848		
+Muniain Muniain 
+Athletic Club de Bilbao / Liga BBVA 
+78	CAM	85	69	69	84	49	52	4 	3 	 / 	 Right	700	1,809		
+Pablo Hernandez Pablo Hernandez 
+Swansea City / Barclays PL 
+77	LW	80	73	70	83	52	60	4 	3 	 / 	 Right	650	1,840		
+Trashorras Trashorras 
+Rayo Vallecano / Liga BBVA 
+76	CM	51	70	84	73	62	52	3 	3 	 / 	 Right	650	1,785		
+Jese Rodriguez Jese Rodriguez 
+Real Madrid / Liga BBVA 
+76	LM	88	74	71	86	41	54	4 	4 	 / 	 Right	1,500	1,803			
+Thiago Thiago 
+Bayern München / Bundesliga 
+81	CAM	72	70	77	85	58	65	3 	3 	 / 	 Right	400	1,901		
+Ruben Castro Ruben Castro 
+Real Betis Balompié / Liga BBVA 
+80	ST	83	75	58	81	46	66	3 	3 	 / 	 Right	400	1,768		
+Gabi Gabi 
+Atlético de Madrid / Liga BBVA 
+80	CM	68	74	80	76	72	58	2 	3 	 / 	 Right	400	1,985		
+Verdu Verdu 
+Real Betis Balompié / Liga BBVA 
+80	CAM	68	72	82	80	55	56	3 	3 	 / 	 Right	350	1,838		
+Raul Albiol Raul Albiol 
+Napoli / Serie A 
+80	CB	52	47	62	58	80	80	2 	3 	 / 	 Right	350	1,663		
+Guaita Guaita 
+Valencia CF / Liga BBVA 
+80	GK	80	81	72	85	51	79	1 	3 	 / 	 Right	400	954		
+Illarramendi Illarramendi 
+Real Madrid / Liga BBVA 
+80	CM	67	63	82	79	71	59	3 	3 	 / 	 Right	400	1,901		
+Inigo Martinez Inigo Martinez 
+Real Sociedad / Liga BBVA 
+80	CB	77	55	59	58	80	79	2 	2 	 / 	 Left	450	1,762		
+Jesus Gamez Jesus Gamez 
+Málaga CF / Liga BBVA 
+79	RB	74	53	70	65	80	72	2 	3 	 / 	 Right	400	1,806		
+Mario Suarez Mario Suarez 
+Atlético de Madrid / Liga BBVA 
+79	CDM	54	63	76	70	80	66	3 	3 	 / 	 Right	400	1,852		
+ Diego Capel Diego Capel 
+Sporting CP / Liga Portuguesa 	
+79	LW	88	64	73	85	49	54	4 	2 	 / 	 Left	400	1,798		
+Bruno Bruno 
+Villarreal CF / Liga BBVA 
+79	CDM	63	60	75	69	79	64	3 	3 	 / 	 Left	400	1,845		
+Cristian Tello Cristian Tello 
+FC Barcelona / Liga BBVA 
+79	LW	89	71	72	83	40	55	3 	3 	 / 	 Right	500	1,708		
+Iraola Iraola 
+Athletic Club de Bilbao / Liga BBVA 
+78	RB	79	61	74	74	78	65	3 	3 	 / 	 Right	400	1,911		
+Javi Fuego Javi Fuego 
+Valencia CF / Liga BBVA 
+78	CDM	66	62	74	64	78	57	3 	3 	 / 	 Right	400	1,855		
+Raul Garcia Raul Garcia 
+Atlético de Madrid / Liga BBVA 
+78	CAM	67	71	77	72	70	73	2 	3 	 / 	 Right	400	1,914		
+Carlos Martinez Carlos Martinez 
+Real Sociedad / Liga BBVA 
+78	RB	73	48	72	67	77	75	2 	2 	 / 	 Right	350	1,747		
+Mikel Gonzalez Mikel Gonzalez 
+Real Sociedad / Liga BBVA 
+78	CB	69	40	56	48	78	77	2 	4 	 / 	 Right	350	1,630		
+Granero Granero 
+Real Sociedad / Liga BBVA 
+78	CM	66	70	83	75	68	62	3 	4 	 / 	 Right	400	1,928		
+Roberto Roberto 
+Olympiakos CFP / Hellas Liga 
+78	GK	77	75	79	85	51	76	1 	2 	 / 	 Right	350	981		
+Camacho Camacho 
+Málaga CF / Liga BBVA 
+78	CDM	68	49	67	63	77	81	2 	3 	 / 	 Right	350	1,809		
+ Susaeta Susaeta 
+Athletic Club de Bilbao / Liga BBVA 	
+78	CAM	84	74	79	81	44	56	3 	3 	 / 	 Right	400	1,819		
+Oscar Oscar 
+Real Valladolid / Liga BBVA 
+77	CAM	68	75	74	74	50	58	3 	3 	 / 	 Right	400	1,779		
+Reyes Reyes 
+Sevilla FC / Liga BBVA 
+77	LW	75	72	76	81	39	56	4 	3 	 / 	 Left	350	1,733		
+Arbeloa Arbeloa 
+Real Madrid / Liga BBVA 
+77	RB	73	59	74	60	78	71	2 	3 	 / 	 Right	400	1,825

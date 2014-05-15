@@ -1,0 +1,225 @@
+Obafemi Martins Obafemi Martins 
+Seattle Sounders / MLS 
+77	ST	93	72	54	75	46	72	3 	5 	 / 	 Left	650	1,762		
+Ahmed Musa Ahmed Musa 
+CSKA Moskva / Russian League 
+76	ST	90	73	66	81	37	64	4 	3 	 / 	 Right	700	1,729		
+Victor Moses Victor Moses 
+Liverpool / Barclays PL 
+75	RM	84	68	67	83	48	69	4 	4 	 / 	 Right	750	1,763		
+Anthony Ujah Anthony Ujah 
+1. FC Köln / Bundesliga 2 
+74	ST	79	69	53	71	48	81	3 	4 	 / 	 Right	350	1,639		
+Peter Odemwingie Peter Odemwingie 
+Cardiff City / Barclays PL 
+73	RM	79	76	67	76	47	73	3 	3 	 / 	 Right	1,400	1,800		
+Chinedu Obasi Chinedu Obasi 
+FC Schalke 04 / Bundesliga 
+73	RM	78	71	67	80	46	68	4 	3 	 / 	 Right	700	1,742		
+Elderson Echiejile Elderson Echiejile 
+Braga / Liga Portuguesa 
+73	LB	77	59	63	66	75	76	2 	3 	 / 	 Left	3,000	1,789		
+Elderson Echiejile Elderson Echiejile 
+AS Monaco / Ligue 1 
+73	LB	77	59	63	66	75	76	2 	3 	 / 	 Left	0	1,789		
+Peter Odemwingie Peter Odemwingie 
+Stoke City / Barclays PL 
+73	RM	79	76	67	76	47	73	3 	3 	 / 	 Right	0	1,800		
+Ikechukwu Uche Ikechukwu Uche 
+Villarreal CF / Liga BBVA 
+72	ST	86	66	57	78	44	74	4 	3 	 / 	 Right	800	1,687		
+Victor Anichebe Victor Anichebe 
+West Bromwich Albion / Barclays PL 
+72	ST	74	66	64	70	56	71	2 	3 	 / 	 Right	500	1,655		
+Victor Obinna Victor Obinna 
+Lokomotiv Moskva / Russian League 
+72	RM	88	71	67	75	44	67	3 	3 	 / 	 Left	1,200	1,754		
+Odion Ighalo Odion Ighalo 
+Granada CF / Liga BBVA 
+72	ST	80	66	51	77	50	68	3 	3 	 / 	 Right	450	1,643		
+Imoh Ezekiel Imoh Ezekiel 
+Standard Liège / Pro League 
+72	ST	92	66	58	70	50	73	3 	2 	 / 	 Right	600	1,731		
+Victor Obinna Victor Obinna 
+Chievo Verona / Serie A 
+72	RM	88	71	67	75	44	67	3 	3 	 / 	 Left	950	1,754		
+Shola Ameobi Shola Ameobi 
+Newcastle United / Barclays PL 
+71	ST	65	64	46	70	49	75	2 	3 	 / 	 Right	500	1,574		
+Sone Aluko Sone Aluko 
+Hull City / Barclays PL 
+71	ST	89	70	67	80	43	48	3 	4 	 / 	 Left	2,600	1,726		
+Joseph Akpala Joseph Akpala 
+Werder Bremen / Bundesliga 
+71	ST	84	68	52	54	49	78	3 	3 	 / 	 Right	1,300	1,628		
+Kim Ojo Kim Ojo 
+RC Genk / Pro League 
+71	ST	77	66	49	66	48	80	3 	4 	 / 	 Right	550	1,580		
+ Daniel Adejo Daniel Adejo 
+Reggina / Serie B 	
+69	CB	81	42	54	54	70	74	2 	2 	 / 	 Right	800	1,555		
+Sylvester Igboun Sylvester Igboun 
+FC Midtjylland / Superliga 
+69	RW	92	62	57	70	46	63	3 	3 	 / 	 Right	350	1,618		
+Nnamdi Oduamadi Nnamdi Oduamadi 
+Brescia / Serie B 
+69	LM	93	59	61	73	39	59	4 	3 	 / 	 Right	1,000	1,624		
+Nnamdi Oduamadi Nnamdi Oduamadi 
+Varese / Serie B 
+69	LM	93	59	61	73	39	59	4 	3 	 / 	 Right	600	1,624		
+Danny Shittu Danny Shittu 
+Millwall / FL Championship 
+68	CB	62	42	34	40	70	78	2 	2 	 / 	 Right	450	1,323		
+Chukwu Daniel Chima Chukwu Daniel Chima 
+Molde FK / Tippeligaen 
+68	ST	74	62	48	67	43	84	3 	3 	 / 	 Right	300	1,583			
+Jerry Mbakogu Jerry Mbakogu 
+Carpi / Serie B 
+67	ST	90	61	52	67	46	73	3 	3 	 / 	 Right	300	1,608		
+Kennedy Igboananike Kennedy Igboananike 
+AIK / Allsvenskan 
+66	ST	90	62	42	67	36	69	3 	4 	 / 	 Right	300	1,531		
+Seyi Olajengbesi Seyi Olajengbesi 
+SV Sandhausen / Bundesliga 2 
+65	CB	65	32	44	43	66	72	2 	3 	 / 	 Right	450	1,350		
+Ugochukwu Ukah Ugochukwu Ukah 
+Jagiellonia Białystok / Ekstraklasa 
+65	CB	78	29	34	32	70	73	2 	3 	 / 	 Right	1,600	1,324		
+John Ugochukwu Ogu John Ugochukwu Ogu 
+Académica / Liga Portuguesa 
+65	CM	49	64	62	65	69	66	2 	3 	 / 	 Left	300	1,660		
+Dickson Etuhu Dickson Etuhu 
+Blackburn Rovers / FL Championship 
+64	CM	59	53	59	61	74	72	2 	3 	 / 	 Right	500	1,623		
+Solomon Okoronkwo Solomon Okoronkwo 
+Erzgebirge Aue / Bundesliga 2 
+64	ST	81	59	54	65	47	72	3 	3 	 / 	 Right	250	1,575		
+Ayodele Adeleye Ayodele Adeleye 
+Anzhi Makhachkala / Russian League 
+64	CB	70	37	43	40	67	78	2 	2 	 / 	 Left	200	1,426		
+ Kelvin Etuhu Kelvin Etuhu 
+Barnsley / FL Championship 	
+64	CAM	81	53	64	58	65	58	3 	3 	 / 	 Right	800	1,631		
+Bright Dike Bright Dike 
+Portland Timbers / MLS 
+64	ST	72	62	35	60	44	70	3 	5 	 / 	 Right	200	1,447		
+Michael Uchebo Michael Uchebo 
+Cercle Brugge / Pro League 
+64	ST	68	57	46	62	44	74	2 	2 	 / 	 Right	200	1,396		
+Kennedy Nwanganga Kennedy Nwanganga 
+RC Genk / Pro League 
+64	ST	83	59	56	64	43	72	2 	4 	 / 	 Right	0	1,554		
+Magnus Okuonghae Magnus Okuonghae 
+Colchester United / Football League 1 
+63	CB	68	40	43	44	65	70	2 	3 	 / 	 Right	950	1,380		
+Emmanuel Sarki Emmanuel Sarki 
+Wisła Kraków / Ekstraklasa 
+63	RM	90	49	59	63	45	47	2 	2 	 / 	 Right	300	1,504		
+Princewill Okachi Princewill Okachi 
+Widzew Łódź / Ekstraklasa 
+63	CDM	87	57	61	65	62	58	3 	3 	 / 	 Left	200	1,700		
+Oke Akpoveta Oke Akpoveta 
+Brøndby IF / Superliga 
+61	ST	76	56	47	64	47	63	2 	3 	 / 	 Right	200	1,477		
+Kenechuhwu Uchenwa Kenechuhwu Uchenwa 
+RCD Mallorca / Liga Adelante 
+61	CDM	65	46	55	50	63	60	3 	3 	 / 	 Right	200	1,463		
+Enoch Showunmi Enoch Showunmi 
+Notts County / Football League 1 
+60	ST	77	54	42	57	48	67	2 	3 	 / 	 Left	850	1,439		
+David Abwo David Abwo 
+Zagłębie Lubin / Ekstraklasa 
+60	RM	91	60	52	60	45	57	3 	4 	 / 	 Right	200	1,581		
+Enoch Showunmi Enoch Showunmi 
+Torquay United / Football League 2 
+60	ST	77	54	42	57	48	67	2 	3 	 / 	 Left	0	1,439		
+Ugonna Anyora Ugonna Anyora 
+FK Haugesund / Tippeligaen 
+59	CM	67	57	57	61	55	68	2 	3 	 / 	 Right	200	1,524		
+Kayode Odejayi Kayode Odejayi 
+Rotherham United / Football League 1 
+58	ST	73	47	44	57	42	74	2 	2 	 / 	 Right	200	1,335		
+Edafe Egbedi Edafe Egbedi 
+Aarhus GF / Superliga 
+58	RM	83	46	51	61	30	30	3 	3 	 / 	 Right	200	1,292		
+Ismahil Akinade Ismahil Akinade 
+Bray Wanderers / Airtricity League 
+55	ST	72	51	37	53	38	64	2 	2 	 / 	 Right	200	1,283		
+Ebere Paul Onuachu Ebere Paul Onuachu 
+FC Midtjylland / Superliga 
+48	ST	41	48	31	42	38	52	2 	2 	 / 	 Right	300	1,067	
+John Obi Mikel John Obi Mikel 
+Chelsea / Barclays PL 
+79	CDM	68	56	72	69	80	77	2 	3 	 / 	 Right	400	1,812		
+Vincent Enyeama Vincent Enyeama 
+LOSC Lille / Ligue 1 
+79	GK	77	76	80	88	45	79	1 	3 	 / 	 Right	400	0		
+Vincent Enyeama Vincent Enyeama 
+LOSC Lille / Ligue 1 
+76	GK	77	76	75	82	42	74	1 	3 	 / 	 Right	1,300	1,021		
+Nosa Nosa 
+Real Betis Balompié / Liga BBVA 
+76	CAM	75	65	71	77	69	72	4 	4 	 / 	 Right	400	1,880		
+Ogenyi Onazi Ogenyi Onazi 
+Lazio / Serie A 
+74	CM	78	63	73	75	71	57	3 	3 	 / 	 Right	450	1,898		
+ Onyekachi Apam Onyekachi Apam 
+Stade Rennais / Ligue 1 	
+73	CB	63	40	64	43	74	76	2 	3 	 / 	 Right	400	1,576		
+Joel Obi Joel Obi 
+Parma / Serie A 
+72	CM	83	64	74	74	66	64	3 	3 	 / 	 Left	1,100	1,880		
+Solomon James Owello Solomon James Owello 
+IK Start / Tippeligaen 
+70	CM	75	57	69	67	64	57	3 	3 	 / 	 Right	300	1,728		
+Osariemen Ebagua Osariemen Ebagua 
+Spezia / Serie B 
+70	ST	81	68	48	66	47	75	3 	4 	 / 	 Left	450	1,659		
+Carl Ikeme Carl Ikeme 
+Wolverhampton Wanderers / Football League 1 
+68	GK	70	68	63	70	50	68	1 	3 	 / 	 Right	1,000	955		
+Macauley Chrisantus Macauley Chrisantus 
+UD Las Palmas / Liga Adelante 
+68	ST	76	67	46	61	41	69	3 	4 	 / 	 Right	550	1,508		
+Efe Ambrose Efe Ambrose 
+Celtic / Scottish Prem 
+68	CB	73	46	63	67	68	74	2 	3 	 / 	 Right	950	1,617		
+Fegor Ogude Fegor Ogude 
+Vålerenga Fotball / Tippeligaen 
+68	CM	78	64	65	69	70	75	3 	4 	 / 	 Right	800	1,821		
+Fegor Ogude Fegor Ogude 
+Amkar Perm / Russian League 
+68	CM	78	64	65	69	70	75	3 	4 	 / 	 Right	400	1,821		
+Emmanuel Ekpo Emmanuel Ekpo 
+Molde FK / Tippeligaen 
+66	CM	82	52	63	70	63	64	3 	2 	 / 	 Right	300	1,693		
+Hope Akpan Hope Akpan 
+Reading / FL Championship 	
+66	CM	72	51	63	67	67	64	2 	3 	 / 	 Right	200	1,647		
+Dominic Chatto Dominic Chatto 
+BK Häcken / Allsvenskan 
+66	CDM	66	53	57	55	66	63	2 	3 	 / 	 Right	9,500	1,621		
+Wilfred Chinoye Osuji Wilfred Chinoye Osuji 
+Padova / Serie B 
+66	CDM	72	46	66	65	63	63	3 	2 	 / 	 Right	200	1,665		
+Leke Samson James Leke Samson James 
+Aalesunds FK / Tippeligaen 
+66	ST	74	63	51	66	38	50	3 	3 	 / 	 Right	250	1,434		
+John Chibuike John Chibuike 
+Rosenborg BK / Tippeligaen 
+65	CF	73	63	59	70	38	53	3 	4 	 / 	 Left	200	1,521		
+Rabiu Ibrahim Rabiu Ibrahim 
+Kilmarnock / Scottish Prem 
+65	LM	81	52	60	71	36	54	4 	2 	 / 	 Left	200	1,527		
+Adigun Taofeek Salami Adigun Taofeek Salami 
+SønderjyskE / Superliga 
+63	CDM	70	47	55	61	62	63	2 	3 	 / 	 Right	200	1,590		
+Rilwan Hassan Rilwan Hassan 
+FC Midtjylland / Superliga 
+62	LW	76	52	54	67	33	47	3 	4 	 / 	 Right	200	1,409		
+Gbenga Arokoyo Gbenga Arokoyo 
+Mjällby AIF / Allsvenskan 
+61	CB	60	31	39	29	57	66	2 	2 	 / 	 Right	200	1,221		
+Ramon Azeez Ramon Azeez 
+UD Almería / Liga BBVA 
+61	CDM	71	45	51	55	62	64	3 	3 	 / 	 Right	200	1,546

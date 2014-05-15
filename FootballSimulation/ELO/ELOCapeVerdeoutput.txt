@@ -1,0 +1,136 @@
+1979 7 away CapeVerde Guinea-Bissau 3 0 Amilcar Cabral Cup
+1979 9 away CapeVerde Senegal 1 0 Amilcar Cabral Cup
+1981 34 away CapeVerde Senegal 1 0 Amilcar Cabral Cup
+1981 38 home CapeVerde Guinea-Bissau 3 0 Amilcar Cabral Cup
+1981 40 away CapeVerde Mali 2 0 Amilcar Cabral Cup
+1981 43 away CapeVerde Senegal 5 1 Amilcar Cabral Cup
+1982 42 home CapeVerde Gambia 2 0 Amilcar Cabral Cup
+1982 44 home CapeVerde Mali 1 0 Amilcar Cabral Cup
+1982 46 home CapeVerde Mauritania 1 2 Amilcar Cabral Cup
+1982 48 home CapeVerde Guinea 0 1 Amilcar Cabral Cup
+1982 50 home CapeVerde Mali 1 2 Amilcar Cabral Cup
+1983 206 away CapeVerde Mauritania 2 0 Amilcar Cabral Cup
+1983 208 home CapeVerde Mali 1 0 Amilcar Cabral Cup
+1983 211 away CapeVerde SierraLeone 1 0 Amilcar Cabral Cup
+1984 39 away CapeVerde SierraLeone 2 0 Amilcar Cabral Cup
+1984 41 home CapeVerde Guinea 2 2 Amilcar Cabral Cup
+1984 43 away CapeVerde Gambia 2 0 Amilcar Cabral Cup
+1985 42 away CapeVerde Gambia 1 2 Amilcar Cabral Cup
+1985 44 away CapeVerde SierraLeone 2 1 Amilcar Cabral Cup
+1985 46 home CapeVerde Guinea-Bissau 2 0 Amilcar Cabral Cup
+1985 50 away CapeVerde Senegal 1 0 Amilcar Cabral Cup
+1985 52 away CapeVerde Mali 1 0 Amilcar Cabral Cup
+1987 56 away CapeVerde Senegal 2 0 Amilcar Cabral Cup
+1987 58 away CapeVerde SierraLeone 2 0 Amilcar Cabral Cup
+1987 59 home CapeVerde Guinea-Bissau 0 0 Amilcar Cabral Cup
+1987 64 home CapeVerde Guinea-Bissau 0 0 Amilcar Cabral Cup
+1988 122 home CapeVerde Mali 1 3 Amilcar Cabral Cup
+1988 125 home CapeVerde Mauritania 3 2 Amilcar Cabral Cup
+1988 127 home CapeVerde Guinea 1 1 Amilcar Cabral Cup
+1988 327 home CapeVerde Senegal 0 1 Friendly tournament
+1988 329 home CapeVerde Angola 2 3 Friendly tournament
+1989 149 away CapeVerde Mali 1 1 Amilcar Cabral Cup
+1989 151 home CapeVerde Guinea-Bissau 2 3 Amilcar Cabral Cup
+1989 154 home CapeVerde Senegal 2 1 Amilcar Cabral Cup
+1989 157 home CapeVerde Guinea 0 1 Amilcar Cabral Cup
+1989 158 home CapeVerde SierraLeone 1 0 Amilcar Cabral Cup
+1991 332 home CapeVerde Guinea-Bissau 2 1 Amilcar Cabral Cup
+1991 337 away CapeVerde Senegal 0 0 Amilcar Cabral Cup
+1991 340 home CapeVerde SierraLeone 0 0 Amilcar Cabral Cup
+1991 343 away CapeVerde Senegal 1 0 Amilcar Cabral Cup
+1992 169 away CapeVerde Guinea-Bissau 3 1 African Nations Cup qualifier
+1992 183 home CapeVerde Guinea-Bissau 0 1 African Nations Cup qualifier
+1995 327 home CapeVerde Mali 1 0 Amilcar Cabral Cup
+1995 329 away CapeVerde Mauritania 1 1 Amilcar Cabral Cup
+1995 331 away CapeVerde Gambia 3 0 Amilcar Cabral Cup
+1995 335 away CapeVerde SierraLeone 2 0 Amilcar Cabral Cup
+1995 337 home CapeVerde Guinea-Bissau 1 0 Amilcar Cabral Cup
+1997 338 away CapeVerde Gambia 3 1 Amilcar Cabral Cup
+1997 340 away CapeVerde Senegal 2 0 Amilcar Cabral Cup
+1997 343 home CapeVerde Mauritania 2 2 Amilcar Cabral Cup
+1998 205 away CapeVerde Senegal 1 0 Friendly
+1998 219 away CapeVerde Mali 3 0 African Nations Cup qualifier
+1998 233 home CapeVerde Mali 0 0 African Nations Cup qualifier
+2000 102 home CapeVerde Algeria 0 0 World Cup qualifier
+2000 114 away CapeVerde Algeria 2 0 World Cup qualifier
+2000 128 home CapeVerde Gambia 1 1 Amilcar Cabral Cup
+2000 130 home CapeVerde SierraLeone 1 0 Amilcar Cabral Cup
+2000 132 home CapeVerde Senegal 2 2 Amilcar Cabral Cup
+2000 135 home CapeVerde Guinea 2 0 Amilcar Cabral Cup
+2000 138 home CapeVerde Senegal 1 0 Amilcar Cabral Cup
+2000 188 home CapeVerde Liberia 1 0 African Nations Cup qualifier
+2000 192 home CapeVerde Angola 1 1 Friendly
+2000 202 away CapeVerde Liberia 3 0 African Nations Cup qualifier
+2001 100 away CapeVerde Mauritania 0 1 West African Nations Cup qualifier
+2001 317 home CapeVerde Gambia 1 1 Amilcar Cabral Cup
+2002 254 away CapeVerde Mauritania 0 2 African Nations Cup qualifier
+2002 291 home CapeVerde Kenya 0 1 African Nations Cup qualifier
+2002 330 away CapeVerde Luxembourg 0 0 Friendly
+2003 91 home CapeVerde Togo 2 1 African Nations Cup qualifier
+2003 155 away CapeVerde Senegal 2 1 Friendly
+2003 163 away CapeVerde Togo 5 2 African Nations Cup qualifier
+2003 176 home CapeVerde Mauritania 3 0 African Nations Cup qualifier
+2003 191 away CapeVerde Kenya 1 0 African Nations Cup qualifier
+2003 291 away CapeVerde Swaziland 1 1 World Cup qualifier
+2003 326 home CapeVerde Swaziland 3 0 World Cup qualifier
+2004 160 away CapeVerde SouthAfrica 2 1 World Cup qualifier
+2004 168 home CapeVerde Senegal 1 3 Friendly
+2004 174 home CapeVerde Uganda 1 0 World Cup qualifier
+2004 189 home CapeVerde Dem. Rep. of Congo 1 1 World Cup qualifier
+2004 253 away CapeVerde Ghana 2 0 World Cup qualifier
+2004 288 home CapeVerde BurkinaFaso 1 0 World Cup qualifier
+2005 88 away CapeVerde BurkinaFaso 1 2 World Cup qualifier
+2005 159 home CapeVerde SouthAfrica 1 2 World Cup qualifier
+2005 173 away CapeVerde Uganda 1 0 World Cup qualifier
+2005 234 away CapeVerde Angola 2 1 Friendly
+2005 252 away CapeVerde Dem. Rep. of Congo 2 1 World Cup qualifier
+2005 287 home CapeVerde Ghana 0 4 World Cup qualifier
+2006 151 away CapeVerde Portugal 4 1 Friendly
+2006 251 away CapeVerde Gambia 2 0 African Nations Cup qualifier
+2006 286 home CapeVerde Guinea 1 0 African Nations Cup qualifier
+2007 86 away CapeVerde Algeria 2 0 African Nations Cup qualifier
+2007 157 home CapeVerde Algeria 2 2 African Nations Cup qualifier
+2007 171 home CapeVerde Gambia 0 0 African Nations Cup qualifier
+2007 257 away CapeVerde Guinea 4 0 African Nations Cup qualifier
+2007 344 home CapeVerde Gambia 0 0 Amilcar Cabral Cup
+2007 348 away CapeVerde Guinea-Bissau 1 1 Amilcar Cabral Cup
+2008 148 home CapeVerde BurkinaFaso 1 0 Friendly
+2008 151 away CapeVerde Luxembourg 1 1 Friendly
+2008 155 away CapeVerde Cameroon 2 0 World Cup qualifier
+2008 162 home CapeVerde Tanzania 1 0 World Cup qualifier
+2008 170 away CapeVerde Mauritius 0 1 World Cup qualifier
+2008 177 home CapeVerde Mauritius 3 1 World Cup qualifier
+2008 254 home CapeVerde Cameroon 1 2 World Cup qualifier
+2008 290 away CapeVerde Tanzania 3 1 World Cup qualifier
+2009 87 home CapeVerde Angola 1 0 Friendly
+2009 90 home CapeVerde EquatorialGuinea 5 0 Friendly
+2009 252 away CapeVerde Malta 0 2 Friendly
+2009 257 away CapeVerde Angola 1 1 Friendly
+2010 148 away CapeVerde Portugal 0 0 Friendly
+2010 228 away CapeVerde Senegal 1 0 Friendly
+2010 252 home CapeVerde Mali 1 0 African Nations Cup qualifier
+2010 289 away CapeVerde Zimbabwe 0 0 African Nations Cup qualifier
+2010 326 home CapeVerde Guinea-Bissau 2 1 Friendly
+2011 40 home CapeVerde BurkinaFaso 1 0 Friendly
+2011 88 home CapeVerde Liberia 4 2 African Nations Cup qualifier
+2011 160 away CapeVerde Liberia 1 0 African Nations Cup qualifier
+2011 251 away CapeVerde Mali 3 0 African Nations Cup qualifier
+2011 287 home CapeVerde Zimbabwe 2 1 African Nations Cup qualifier
+2012 60 away CapeVerde Madagascar 0 4 African Nations Cup qualifier
+2012 157 away CapeVerde SierraLeone 2 1 World Cup qualifier
+2012 164 home CapeVerde Tunisia 1 2 World Cup qualifier
+2012 171 home CapeVerde Madagascar 3 1 African Nations Cup qualifier
+2012 256 home CapeVerde Cameroon 2 0 African Nations Cup qualifier
+2012 293 away CapeVerde Cameroon 2 1 African Nations Cup qualifier
+2012 324 away CapeVerde Ghana 1 0 Friendly
+2013 9 home CapeVerde Nigeria 0 0 Friendly
+2013 19 away CapeVerde SouthAfrica 0 0 African Nations Cup
+2013 23 home CapeVerde Morocco 1 1 African Nations Cup
+2013 27 home CapeVerde Angola 2 1 African Nations Cup
+2013 33 away CapeVerde Ghana 2 0 African Nations Cup
+2013 86 away CapeVerde EquatorialGuinea 4 3 World Cup qualifier
+2013 163 home CapeVerde EquatorialGuinea 2 1 World Cup qualifier
+2013 170 home CapeVerde SierraLeone 1 0 World Cup qualifier
+2013 231 home CapeVerde Gabon 1 1 Friendly
+2013 255 away CapeVerde Tunisia 0 2 World Cup qualifier
+2014 67 away CapeVerde Luxembourg 0 0 Friendly

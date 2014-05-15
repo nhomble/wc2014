@@ -1,0 +1,478 @@
+1921 262 away Honduras Guatemala 10 1 Central American Independence Centenary Cup
+1930 80 home Honduras Jamaica 5 1 Central American Games
+1930 82 away Honduras Cuba 7 0 Central American Games
+1930 85 away Honduras Cuba 5 0 Central American Games
+1930 91 home Honduras ElSalvador 4 1 Central American Games
+1930 97 away Honduras CostaRica 8 0 Central American Games
+1935 87 away Honduras Cuba 3 0 Central American Games
+1935 90 away Honduras ElSalvador 3 4 Central American Games
+1935 93 away Honduras Guatemala 0 0 Central American Games
+1935 94 away Honduras Mexico 8 2 Central American Games
+1935 96 away Honduras CostaRica 6 0 Central American Games
+1946 54 away Honduras Panama 1 0 CCCF Championship
+1946 59 home Honduras Guatemala 5 3 CCCF Championship
+1946 69 away Honduras CostaRica 5 1 CCCF Championship
+1946 72 away Honduras ElSalvador 0 0 CCCF Championship
+1946 75 home Honduras Nicaragua 10 0 CCCF Championship
+1950 1 away Honduras Guatemala 0 1 Central American and Caribbean Games
+1950 2 home Honduras Colombia 2 0 Central American and Caribbean Games
+1950 3 home Honduras ElSalvador 2 1 Central American and Caribbean Games
+1950 76 away Honduras Curacao 2 1 Central American and Caribbean Games
+1953 70 home Honduras Nicaragua 2 1 CCCF Championship
+1953 75 away Honduras CostaRica 4 1 CCCF Championship
+1953 77 home Honduras ElSalvador 3 0 CCCF Championship
+1953 81 home Honduras NetherlandsAntilles 4 3 CCCF Championship
+1953 83 home Honduras Panama 3 1 CCCF Championship
+1955 231 home Honduras Cuba 3 0 CCCF Championship
+1955 234 home Honduras ElSalvador 3 1 CCCF Championship
+1955 237 home Honduras NetherlandsAntilles 0 2 CCCF Championship
+1955 239 home Honduras Aruba 1 1 CCCF Championship
+1955 245 home Honduras CostaRica 1 2 CCCF Championship
+1957 228 away Honduras Curacao 1 1 CCCF Championship
+1957 231 away Honduras Haiti 2 1 CCCF Championship
+1957 234 home Honduras Cuba 2 0 CCCF Championship
+1957 242 home Honduras Panama 2 1 CCCF Championship
+1959 355 away Honduras CostaRica 6 1 Friendly tournament
+1960 46 away Honduras DutchGuiana 1 1 CCCF Championship
+1960 51 away Honduras CostaRica 1 1 CCCF Championship
+1960 54 away Honduras Cuba 2 1 CCCF Championship
+1960 58 home Honduras NetherlandsAntilles 3 3 CCCF Championship
+1960 252 home Honduras CostaRica 2 1 World Cup qualifier
+1960 259 away Honduras CostaRica 5 0 World Cup qualifier
+1960 273 home Honduras Guatemala 1 1 World Cup qualifier
+1961 14 away Honduras CostaRica 1 0 World Cup qualifier
+1961 64 away Honduras ElSalvador 1 0 CCCF Championship
+1961 71 home Honduras NetherlandsAntilles 4 2 CCCF Championship
+1961 75 home Honduras Nicaragua 6 0 CCCF Championship
+1961 78 home Honduras Haiti 2 0 CCCF Championship
+1961 80 away Honduras ElSalvador 5 1 CCCF Championship
+1961 82 away Honduras CostaRica 3 0 CCCF Championship
+1963 85 home Honduras Guatemala 2 1 Concacaf Championship
+1963 89 home Honduras Panama 1 0 Concacaf Championship
+1963 91 home Honduras Nicaragua 1 0 Concacaf Championship
+1963 93 away Honduras ElSalvador 2 2 Concacaf Championship
+1963 96 away Honduras ElSalvador 3 0 Concacaf Championship
+1963 98 away Honduras CostaRica 2 1 Concacaf Championship
+1963 100 away Honduras NetherlandsAntilles 4 1 Concacaf Championship
+1965 59 home Honduras Mexico 0 1 World Cup qualifier
+1965 66 away Honduras Mexico 3 0 World Cup qualifier
+1965 79 home Honduras UnitedStates 0 1 World Cup qualifier
+1965 83 home Honduras UnitedStates 1 1 World Cup qualifier
+1965 197 home Honduras CostaRica 1 1 Friendly
+1967 67 home Honduras Guatemala 0 0 Concacaf Championship
+1967 71 home Honduras Haiti 2 0 Concacaf Championship
+1967 74 home Honduras Nicaragua 1 1 Concacaf Championship
+1967 77 home Honduras TrinidadTobago 1 0 Concacaf Championship
+1967 81 home Honduras Mexico 0 1 Concacaf Championship
+1968 346 home Honduras Jamaica 3 1 World Cup qualifier
+1968 349 home Honduras Jamaica 2 0 World Cup qualifier
+1968 363 home Honduras CostaRica 1 0 World Cup qualifier
+1968 370 away Honduras CostaRica 1 1 World Cup qualifier
+1969 163 home Honduras ElSalvador 1 0 World Cup qualifier
+1969 170 away Honduras ElSalvador 3 0 World Cup qualifier
+1969 183 away Honduras ElSalvador 3 2 World Cup qualifier
+1970 168 home Honduras Panama 1 0 Friendly
+1971 332 away Honduras CostaRica 2 1 Concacaf Championship
+1971 334 away Honduras Cuba 3 1 Concacaf Championship
+1971 337 away Honduras Haiti 3 1 Concacaf Championship
+1971 342 away Honduras TrinidadTobago 1 1 Concacaf Championship
+1971 345 away Honduras Mexico 2 1 Concacaf Championship
+1972 344 home Honduras CostaRica 2 1 World Cup qualifier
+1972 351 away Honduras CostaRica 3 3 World Cup qualifier
+1973 339 home Honduras TrinidadTobago 2 1 World Cup qualifier
+1973 344 home Honduras Mexico 1 1 World Cup qualifier
+1973 348 away Honduras Haiti 1 0 World Cup qualifier
+1973 353 home Honduras NetherlandsAntilles 2 2 World Cup qualifier
+1973 356 away Honduras Guatemala 1 1 World Cup qualifier
+1975 113 home Honduras Guatemala 0 0 Olympic Games qualifier
+1975 120 away Honduras Guatemala 2 0 Olympic Games qualifier
+1977 161 home Honduras Panama 1 0 Friendly
+1978 296 away Honduras Mexico 1 4 Friendly
+1980 68 home Honduras CostaRica 1 1 Friendly
+1980 80 home Honduras Mexico 0 1 Friendly
+1980 101 away Honduras Mexico 5 1 Friendly
+1980 109 away Honduras CostaRica 1 1 Friendly
+1980 168 home Honduras Panama 0 0 Friendly
+1980 170 home Honduras Panama 0 2 Friendly
+1980 216 away Honduras Panama 0 2 World Cup qualifier
+1980 280 away Honduras CostaRica 2 3 World Cup qualifier
+1980 305 home Honduras Guatemala 0 0 World Cup qualifier
+1980 319 home Honduras Canada 2 0 Friendly
+1980 326 home Honduras CostaRica 1 1 World Cup qualifier
+1980 333 away Honduras ElSalvador 2 1 World Cup qualifier
+1980 340 home Honduras ElSalvador 2 0 World Cup qualifier
+1980 348 away Honduras Guatemala 0 1 World Cup qualifier
+1980 355 home Honduras Panama 5 0 World Cup qualifier
+1981 313 home Honduras Haiti 4 0 World Cup qualifier
+1981 318 home Honduras Cuba 2 0 World Cup qualifier
+1981 322 home Honduras Canada 2 1 World Cup qualifier
+1981 326 home Honduras ElSalvador 0 0 World Cup qualifier
+1981 332 home Honduras Mexico 0 0 World Cup qualifier
+1982 171 away Honduras Spain 1 1 World Cup
+1982 176 home Honduras NorthernIreland 1 1 World Cup
+1982 179 away Honduras Yugoslavia 1 0 World Cup
+1983 135 home Honduras CostaRica 0 1 Olympic Games qualifier
+1983 142 away Honduras CostaRica 3 2 Olympic Games qualifier
+1983 352 home Honduras Canada 3 1 Friendly
+1983 355 home Honduras Canada 1 0 Friendly
+1984 57 away Honduras Peru 1 3 Friendly
+1984 170 away Honduras Panama 0 3 World Cup qualifier
+1984 179 home Honduras Panama 1 0 World Cup qualifier
+1984 348 home Honduras Ecuador 0 0 Friendly
+1985 25 home Honduras Denmark 0 3 Friendly
+1985 27 home Honduras Denmark 1 0 Friendly
+1985 65 home Honduras Surinam 1 1 World Cup qualifier
+1985 68 home Honduras Surinam 2 1 World Cup qualifier
+1985 72 away Honduras ElSalvador 1 2 World Cup qualifier
+1985 76 home Honduras ElSalvador 0 0 World Cup qualifier
+1985 228 away Honduras CostaRica 2 2 World Cup qualifier
+1985 242 home Honduras Canada 0 1 World Cup qualifier
+1985 256 home Honduras CostaRica 3 1 World Cup qualifier
+1985 262 away Honduras Canada 2 1 World Cup qualifier
+1986 4 home Honduras ElSalvador 2 0 Friendly tournament
+1986 8 away Honduras Guatemala 1 0 Friendly tournament
+1986 10 home Honduras Nicaragua 4 0 Friendly tournament
+1986 180 home Honduras NetherlandsAntilles 2 0 Friendly tournament
+1986 183 home Honduras Barbados 1 0 Friendly tournament
+1986 185 home Honduras Antigua and Barbuda 1 0 Friendly tournament
+1986 188 away Honduras DominicanRepublic 0 2 Friendly tournament
+1986 190 away Honduras Cuba 1 1 Friendly tournament
+1987 122 home Honduras ElSalvador 1 0 Friendly
+1987 281 home Honduras Canada 1 1 Friendly
+1988 13 home Honduras Mexico 0 1 Friendly
+1988 119 away Honduras Mexico 4 1 Friendly
+1988 170 home Honduras Ecuador 1 1 Friendly
+1988 172 home Honduras Ecuador 0 1 Friendly
+1988 260 home Honduras Paraguay 0 0 Friendly
+1988 263 home Honduras Paraguay 0 2 Friendly
+1988 273 away Honduras ElSalvador 0 0 Friendly
+1988 309 away Honduras TrinidadTobago 0 0 World Cup qualifier
+1988 323 home Honduras TrinidadTobago 1 1 World Cup qualifier
+1991 136 away Honduras Panama 2 0 UNCAF Cup
+1991 143 home Honduras Panama 3 0 UNCAF Cup
+1991 150 away Honduras CostaRica 2 0 UNCAF Cup
+1991 153 away Honduras Guatemala 0 0 UNCAF Cup
+1991 157 home Honduras ElSalvador 2 1 UNCAF Cup
+1991 183 home Honduras Canada 4 2 Concacaf Gold Cup
+1991 185 home Honduras Jamaica 5 0 Concacaf Gold Cup
+1991 189 away Honduras Mexico 1 1 Concacaf Gold Cup
+1991 191 home Honduras CostaRica 2 0 Concacaf Gold Cup
+1991 193 away Honduras UnitedStates 0 0 Concacaf Gold Cup
+1992 183 home Honduras Panama 4 0 Friendly
+1992 185 home Honduras Panama 4 0 Friendly
+1992 194 home Honduras Colombia 1 0 Friendly
+1992 205 away Honduras Guatemala 0 0 World Cup qualifier
+1992 212 home Honduras Guatemala 2 0 World Cup qualifier
+1992 229 home Honduras ElSalvador 3 0 Friendly
+1992 261 away Honduras ElSalvador 3 1 Friendly
+1992 266 home Honduras ElSalvador 1 1 Friendly
+1992 270 home Honduras Jamaica 5 1 Friendly
+1992 272 home Honduras Jamaica 7 0 Friendly
+1992 318 away Honduras CostaRica 2 3 World Cup qualifier
+1992 325 away Honduras Mexico 2 0 World Cup qualifier
+1992 332 away Honduras St. Vincent & Grenadines 0 4 World Cup qualifier
+1992 338 home Honduras St. Vincent & Grenadines 4 0 World Cup qualifier
+1992 346 home Honduras CostaRica 2 1 World Cup qualifier
+1992 354 home Honduras Mexico 1 1 World Cup qualifier
+1993 27 away Honduras Peru 1 1 Friendly
+1993 29 away Honduras Bolivia 3 1 Friendly
+1993 67 home Honduras Panama 2 0 UNCAF Cup
+1993 69 home Honduras CostaRica 2 0 UNCAF Cup
+1993 71 home Honduras ElSalvador 3 0 UNCAF Cup
+1993 76 home Honduras Bolivia 0 0 Friendly
+1993 78 home Honduras Bolivia 0 0 Friendly
+1993 87 home Honduras UnitedStates 4 1 Friendly
+1993 97 home Honduras Canada 2 2 World Cup qualifier
+1993 104 away Honduras Mexico 3 0 World Cup qualifier
+1993 111 away Honduras Canada 3 1 World Cup qualifier
+1993 118 home Honduras ElSalvador 2 0 World Cup qualifier
+1993 126 home Honduras Mexico 1 4 World Cup qualifier
+1993 133 away Honduras ElSalvador 2 1 World Cup qualifier
+1993 196 home Honduras Panama 5 1 Concacaf Gold Cup
+1993 200 away Honduras Jamaica 3 1 Concacaf Gold Cup
+1993 203 away Honduras UnitedStates 1 0 Concacaf Gold Cup
+1994 127 away Honduras ElSalvador 3 1 Friendly tournament
+1994 129 home Honduras Peru 2 1 Friendly tournament
+1994 163 away Honduras Brazil 8 2 Friendly
+1994 166 away Honduras SouthKorea 3 0 Friendly
+1994 352 away Honduras UnitedStates 1 1 Friendly
+1995 91 away Honduras Brazil 1 1 Friendly
+1995 166 away Honduras Turkey 1 0 Friendly
+1995 297 away Honduras Jamaica 1 0 Friendly
+1995 339 home Honduras Panama 2 0 UNCAF Cup
+1995 344 home Honduras Guatemala 2 0 UNCAF Cup
+1995 348 home Honduras CostaRica 1 1 UNCAF Cup
+1995 351 home Honduras Guatemala 3 0 UNCAF Cup
+1996 10 away Honduras Canada 3 1 Concacaf Gold Cup
+1996 14 away Honduras Brazil 5 0 Concacaf Gold Cup
+1996 68 away Honduras Colombia 2 1 Friendly
+1996 89 home Honduras Nicaragua 1 0 Friendly
+1996 177 home Honduras Venezuela 1 0 Friendly
+1996 210 home Honduras Panama 1 1 Friendly
+1996 214 home Honduras TrinidadTobago 0 0 Friendly
+1996 221 away Honduras CostaRica 1 1 Friendly
+1996 224 away Honduras Panama 2 1 Friendly
+1996 228 home Honduras CostaRica 0 0 Friendly
+1996 231 home Honduras ElSalvador 2 1 Friendly
+1996 235 away Honduras Guatemala 1 1 Friendly
+1996 238 away Honduras ElSalvador 1 2 Friendly
+1996 242 home Honduras Cuba 4 0 Friendly
+1996 245 home Honduras Cuba 2 2 Friendly
+1996 263 away Honduras Jamaica 3 0 World Cup qualifier
+1996 269 home Honduras Mexico 2 1 World Cup qualifier
+1996 292 away Honduras St. Vincent & Grenadines 1 4 World Cup qualifier
+1996 300 home Honduras ElSalvador 1 1 Friendly
+1996 305 home Honduras Jamaica 0 0 World Cup qualifier
+1996 311 away Honduras Colombia 2 1 Friendly
+1996 316 away Honduras Mexico 3 1 World Cup qualifier
+1996 327 home Honduras St. Vincent & Grenadines 11 3 World Cup qualifier
+1997 26 away Honduras Chile 3 2 Friendly
+1997 109 home Honduras Panama 5 0 UNCAF Cup
+1997 111 home Honduras ElSalvador 3 0 UNCAF Cup
+1997 116 away Honduras CostaRica 4 0 UNCAF Cup
+1997 118 away Honduras Guatemala 1 0 UNCAF Cup
+1997 120 away Honduras ElSalvador 0 0 UNCAF Cup
+1998 22 away Honduras CostaRica 1 4 Friendly
+1998 28 away Honduras ElSalvador 1 1 Friendly
+1998 32 away Honduras TrinidadTobago 3 1 Concacaf Gold Cup
+1998 38 away Honduras Mexico 2 0 Concacaf Gold Cup
+1998 327 away Honduras Guatemala 3 3 Friendly tournament
+1998 328 home Honduras ElSalvador 2 1 Friendly tournament
+1999 81 home Honduras Belize 5 1 UNCAF Cup
+1999 83 away Honduras CostaRica 0 1 UNCAF Cup
+1999 86 home Honduras ElSalvador 3 1 UNCAF Cup
+1999 88 away Honduras CostaRica 1 2 UNCAF Cup
+1999 90 away Honduras Guatemala 2 0 UNCAF Cup
+1999 145 home Honduras Haiti 2 0 Friendly
+1999 320 away Honduras Guatemala 1 1 Friendly
+1999 327 home Honduras TrinidadTobago 3 2 Friendly
+1999 342 away Honduras Peru 0 0 Friendly
+1999 356 home Honduras Zambia 7 1 Friendly
+1999 370 away Honduras CostaRica 1 1 Friendly
+2000 27 home Honduras Ecuador 1 1 Friendly
+2000 40 home Honduras ElSalvador 5 1 Friendly
+2000 45 home Honduras Jamaica 2 0 Concacaf Gold Cup
+2000 47 home Honduras Colombia 2 0 Concacaf Gold Cup
+2000 50 away Honduras Peru 5 3 Concacaf Gold Cup
+2000 66 home Honduras Nicaragua 3 0 World Cup qualifier
+2000 70 away Honduras Ecuador 1 3 Friendly
+2000 84 away Honduras Chile 5 2 Friendly
+2000 95 away Honduras Panama 1 0 World Cup qualifier
+2000 109 away Honduras Nicaragua 0 1 World Cup qualifier
+2000 131 home Honduras Panama 3 1 World Cup qualifier
+2000 154 away Honduras Canada 2 1 Friendly
+2000 158 home Honduras Haiti 4 0 World Cup qualifier
+2000 172 away Honduras Haiti 1 3 World Cup qualifier
+2000 202 away Honduras ElSalvador 2 5 World Cup qualifier
+2000 209 away Honduras Jamaica 3 1 World Cup qualifier
+2000 233 home Honduras St. Vincent & Grenadines 6 0 World Cup qualifier
+2000 237 home Honduras Haiti 4 0 Friendly
+2000 250 home Honduras ElSalvador 5 0 World Cup qualifier
+2000 287 home Honduras Jamaica 1 0 World Cup qualifier
+2000 324 away Honduras St. Vincent & Grenadines 0 7 World Cup qualifier
+2001 59 away Honduras CostaRica 2 2 World Cup qualifier
+2001 69 home Honduras Peru 0 0 Friendly
+2001 83 home Honduras Chile 3 1 Friendly
+2001 90 home Honduras UnitedStates 1 2 World Cup qualifier
+2001 118 away Honduras Jamaica 1 1 World Cup qualifier
+2001 147 home Honduras Panama 1 2 UNCAF Cup
+2001 149 home Honduras Nicaragua 10 2 UNCAF Cup
+2001 151 home Honduras ElSalvador 1 1 UNCAF Cup
+2001 171 away Honduras TrinidadTobago 2 4 World Cup qualifier
+2001 175 home Honduras Mexico 3 1 World Cup qualifier
+2001 187 home Honduras CostaRica 2 3 World Cup qualifier
+2001 193 away Honduras Ecuador 1 1 Friendly
+2001 199 away Honduras CostaRica 1 0 Copa América
+2001 202 home Honduras Bolivia 2 0 Copa América
+2001 205 home Honduras Uruguay 1 0 Copa América
+2001 209 home Honduras Brazil 2 0 Copa América
+2001 212 away Honduras Colombia 2 0 Copa América
+2001 215 home Honduras Uruguay 2 2 Copa América
+2001 249 away Honduras UnitedStates 2 3 World Cup qualifier
+2001 253 home Honduras Jamaica 1 0 World Cup qualifier
+2001 286 home Honduras TrinidadTobago 0 1 World Cup qualifier
+2001 321 away Honduras Mexico 3 0 World Cup qualifier
+2002 43 home Honduras Slovenia 5 1 Carlsberg Cup
+2002 64 away Honduras UnitedStates 4 0 Friendly
+2002 126 away Honduras Japan 3 3 Kirin Cup
+2002 330 home Honduras Colombia 1 0 Friendly
+2003 32 home Honduras Argentina 1 3 Friendly
+2003 42 home Honduras Nicaragua 2 0 UNCAF Cup
+2003 46 away Honduras ElSalvador 1 0 UNCAF Cup
+2003 49 away Honduras Panama 1 1 UNCAF Cup
+2003 51 away Honduras CostaRica 1 0 UNCAF Cup
+2003 54 away Honduras Guatemala 2 1 UNCAF Cup
+2003 95 home Honduras Paraguay 1 1 Friendly
+2003 118 home Honduras TrinidadTobago 2 0 Concacaf Gold Cup qualifier
+2003 120 away Honduras Martinique 2 4 Concacaf Gold Cup qualifier
+2003 123 away Honduras Colombia 0 0 Friendly
+2003 162 away Honduras Venezuela 2 1 Friendly
+2003 166 home Honduras Chile 1 2 Friendly
+2003 177 home Honduras Guatemala 2 1 Friendly
+2003 184 home Honduras ElSalvador 1 1 Friendly
+2003 201 away Honduras Brazil 2 1 Concacaf Gold Cup
+2003 203 away Honduras Mexico 0 0 Concacaf Gold Cup
+2003 290 away Honduras Bolivia 1 0 Friendly
+2003 326 away Honduras Finland 2 1 Friendly
+2004 25 away Honduras Norway 3 1 Carlsberg Cup
+2004 49 home Honduras Colombia 1 1 Friendly
+2004 72 away Honduras Venezuela 2 1 Friendly
+2004 93 away Honduras Jamaica 2 2 Friendly
+2004 100 home Honduras Panama 0 0 Friendly
+2004 121 away Honduras Ecuador 1 1 Friendly
+2004 157 away Honduras UnitedStates 4 0 Friendly
+2004 167 away Honduras NetherlandsAntilles 1 2 World Cup qualifier
+2004 174 home Honduras NetherlandsAntilles 4 0 World Cup qualifier
+2004 214 home Honduras Panama 0 0 Friendly
+2004 220 away Honduras ElSalvador 0 4 Friendly
+2004 235 away Honduras CostaRica 2 5 World Cup qualifier
+2004 252 away Honduras Canada 1 1 World Cup qualifier
+2004 256 home Honduras Guatemala 2 2 World Cup qualifier
+2004 288 home Honduras Canada 1 1 World Cup qualifier
+2004 292 away Honduras Guatemala 1 0 World Cup qualifier
+2004 321 away Honduras Haiti 1 1 Friendly
+2004 327 home Honduras CostaRica 0 0 World Cup qualifier
+2005 50 home Honduras Nicaragua 5 1 UNCAF Cup
+2005 52 home Honduras Belize 4 0 UNCAF Cup
+2005 54 away Honduras Guatemala 1 1 UNCAF Cup
+2005 56 home Honduras Panama 1 0 UNCAF Cup
+2005 58 away Honduras CostaRica 1 1 UNCAF Cup
+2005 81 away Honduras UnitedStates 1 0 Friendly
+2005 159 away Honduras Jamaica 0 0 Friendly
+2005 188 away Honduras Canada 1 2 Friendly
+2005 192 home Honduras TrinidadTobago 1 1 Concacaf Gold Cup
+2005 196 home Honduras Colombia 2 1 Concacaf Gold Cup
+2005 198 home Honduras Panama 1 0 Concacaf Gold Cup
+2005 202 home Honduras CostaRica 3 2 Concacaf Gold Cup
+2005 207 away Honduras UnitedStates 2 1 Concacaf Gold Cup
+2005 255 away Honduras Japan 5 4 Friendly
+2006 25 away Honduras Ecuador 1 0 Friendly
+2006 43 away Honduras China 0 1 Friendly
+2006 233 away Honduras Venezuela 0 0 Friendly
+2006 254 home Honduras ElSalvador 2 0 Friendly
+2006 286 home Honduras Guatemala 3 2 Friendly
+2006 289 home Honduras Guatemala 2 1 Friendly
+2007 27 home Honduras Denmark 1 1 Friendly
+2007 40 away Honduras CostaRica 3 1 UNCAF Cup
+2007 42 home Honduras Panama 1 1 UNCAF Cup
+2007 46 home Honduras Nicaragua 9 1 UNCAF Cup
+2007 86 home Honduras ElSalvador 2 0 Friendly
+2007 89 home Honduras ElSalvador 2 0 Friendly
+2007 112 home Honduras Haiti 1 3 Friendly
+2007 149 away Honduras Venezuela 2 1 Friendly
+2007 157 home Honduras TrinidadTobago 3 1 Friendly
+2007 163 away Honduras Panama 3 2 Concacaf Gold Cup
+2007 165 home Honduras Mexico 2 1 Concacaf Gold Cup
+2007 168 home Honduras Cuba 5 0 Concacaf Gold Cup
+2007 172 away Honduras Guadeloupe 2 1 Concacaf Gold Cup
+2007 239 away Honduras ElSalvador 2 0 Friendly
+2007 257 away Honduras CostaRica 0 0 Friendly
+2007 260 home Honduras Ecuador 2 1 Friendly
+2007 293 home Honduras Panama 1 0 Friendly
+2007 327 home Honduras Guatemala 1 0 Friendly
+2008 37 home Honduras Paraguay 2 0 Friendly
+2008 88 home Honduras Colombia 2 1 Friendly
+2008 147 home Honduras Belize 2 0 Friendly
+2008 154 home Honduras Venezuela 1 1 Friendly
+2008 159 home Honduras PuertoRico 4 0 World Cup qualifier
+2008 162 home Honduras Haiti 3 1 Friendly
+2008 169 away Honduras PuertoRico 2 2 World Cup qualifier
+2008 237 away Honduras Mexico 2 1 World Cup qualifier
+2008 254 away Honduras Canada 1 2 World Cup qualifier
+2008 258 home Honduras Jamaica 2 0 World Cup qualifier
+2008 290 home Honduras Canada 3 1 World Cup qualifier
+2008 294 away Honduras Jamaica 1 0 World Cup qualifier
+2008 329 home Honduras Mexico 1 0 World Cup qualifier
+2009 18 home Honduras Chile 2 0 Friendly
+2009 22 home Honduras Belize 2 1 UNCAF Cup
+2009 24 home Honduras Nicaragua 4 1 UNCAF Cup
+2009 26 home Honduras ElSalvador 2 0 UNCAF Cup
+2009 30 home Honduras Panama 0 1 UNCAF Cup
+2009 32 home Honduras ElSalvador 1 0 UNCAF Cup
+2009 42 away Honduras CostaRica 2 0 World Cup qualifier
+2009 90 away Honduras TrinidadTobago 1 1 World Cup qualifier
+2009 94 home Honduras Mexico 3 1 World Cup qualifier
+2009 161 away Honduras UnitedStates 2 1 World Cup qualifier
+2009 165 home Honduras ElSalvador 1 0 World Cup qualifier
+2009 183 home Honduras Panama 2 0 Friendly
+2009 190 home Honduras Haiti 1 0 Concacaf Gold Cup
+2009 194 away Honduras UnitedStates 2 0 Concacaf Gold Cup
+2009 197 home Honduras Grenada 4 0 Concacaf Gold Cup
+2009 204 home Honduras Canada 1 0 Concacaf Gold Cup
+2009 209 away Honduras UnitedStates 2 0 Concacaf Gold Cup
+2009 229 home Honduras CostaRica 4 0 World Cup qualifier
+2009 253 home Honduras TrinidadTobago 4 1 World Cup qualifier
+2009 257 away Honduras Mexico 1 0 World Cup qualifier
+2009 289 home Honduras UnitedStates 2 3 World Cup qualifier
+2009 293 away Honduras ElSalvador 0 1 World Cup qualifier
+2009 324 home Honduras Latvia 2 1 Friendly
+2009 328 away Honduras Peru 2 1 Friendly
+2010 23 away Honduras UnitedStates 1 3 Friendly
+2010 65 away Honduras Turkey 2 0 Friendly
+2010 114 home Honduras Venezuela 0 1 Friendly
+2010 151 away Honduras Belarus 2 2 Friendly
+2010 157 away Honduras Azerbaijan 0 0 Friendly
+2010 160 away Honduras Romania 3 0 Friendly
+2010 171 away Honduras Chile 1 0 World Cup
+2010 176 away Honduras Spain 2 0 World Cup
+2010 180 home Honduras Switzerland 0 0 World Cup
+2010 252 away Honduras ElSalvador 2 2 Friendly
+2010 255 away Honduras Canada 2 1 Friendly
+2010 288 away Honduras NewZealand 1 1 Friendly
+2010 291 home Honduras Guatemala 2 0 Friendly
+2010 327 away Honduras Panama 2 0 Friendly
+2010 359 home Honduras Panama 2 1 Friendly
+2011 14 away Honduras CostaRica 1 1 UNCAF Cup
+2011 18 home Honduras Guatemala 3 1 UNCAF Cup
+2011 21 home Honduras ElSalvador 2 0 UNCAF Cup
+2011 23 home Honduras CostaRica 2 1 UNCAF Cup
+2011 40 home Honduras Ecuador 1 1 Friendly
+2011 87 away Honduras SouthKorea 4 0 Friendly
+2011 91 away Honduras China 3 0 Friendly
+2011 153 away Honduras ElSalvador 2 2 Friendly
+2011 161 away Honduras Guatemala 0 0 Concacaf Gold Cup
+2011 165 home Honduras Grenada 7 1 Concacaf Gold Cup
+2011 168 away Honduras Jamaica 1 0 Concacaf Gold Cup
+2011 173 away Honduras CostaRica 1 1 Concacaf Gold Cup
+2011 177 away Honduras Mexico 2 0 Concacaf Gold Cup
+2011 227 home Honduras Venezuela 2 0 Friendly
+2011 251 away Honduras Colombia 2 0 Friendly
+2011 254 home Honduras Paraguay 0 3 Friendly
+2011 287 away Honduras UnitedStates 1 0 Friendly
+2011 290 home Honduras Jamaica 2 1 Friendly
+2011 324 home Honduras Serbia 2 0 Friendly
+2012 60 away Honduras Ecuador 2 0 Friendly
+2012 104 away Honduras CostaRica 1 1 Friendly
+2012 150 away Honduras NewZealand 1 0 Friendly
+2012 157 home Honduras ElSalvador 3 0 Friendly
+2012 163 home Honduras Panama 0 2 World Cup qualifier
+2012 167 away Honduras Canada 0 0 World Cup qualifier
+2012 255 away Honduras Cuba 0 3 World Cup qualifier
+2012 259 home Honduras Cuba 1 0 World Cup qualifier
+2012 291 away Honduras Panama 0 0 World Cup qualifier
+2012 295 home Honduras Canada 8 1 World Cup qualifier
+2012 324 home Honduras Peru 0 0 Friendly
+2013 18 away Honduras ElSalvador 1 1 UNCAF Cup
+2013 22 home Honduras Panama 1 1 UNCAF Cup
+2013 25 home Honduras Belize 1 0 UNCAF Cup
+2013 27 away Honduras CostaRica 1 0 UNCAF Cup
+2013 37 home Honduras UnitedStates 2 1 World Cup qualifier
+2013 84 home Honduras Mexico 2 2 World Cup qualifier
+2013 88 away Honduras Panama 2 0 World Cup qualifier
+2013 157 away Honduras Israel 2 0 Friendly
+2013 162 away Honduras CostaRica 1 0 World Cup qualifier
+2013 166 home Honduras Jamaica 2 0 World Cup qualifier
+2013 170 away Honduras Nicaragua 2 2 Friendly
+2013 173 away Honduras UnitedStates 1 0 World Cup qualifier
+2013 194 home Honduras Haiti 2 0 Concacaf Gold Cup
+2013 198 home Honduras ElSalvador 1 0 Concacaf Gold Cup
+2013 201 away Honduras TrinidadTobago 2 0 Concacaf Gold Cup
+2013 207 home Honduras CostaRica 1 0 Concacaf Gold Cup
+2013 210 away Honduras UnitedStates 3 1 Concacaf Gold Cup
+2013 254 away Honduras Mexico 1 2 World Cup qualifier
+2013 258 home Honduras Panama 2 2 World Cup qualifier
+2013 290 home Honduras CostaRica 1 0 World Cup qualifier
+2013 294 away Honduras Jamaica 2 2 World Cup qualifier
+2013 326 away Honduras Brazil 5 0 Friendly
+2013 329 away Honduras Ecuador 2 2 Friendly
+2014 67 home Honduras Venezuela 2 1 Friendly

@@ -1,0 +1,187 @@
+1926 1 home Georgia Armenia 7 0 Trans-Caucasian Championship
+1927 1 home Georgia Azerbaijan 1 1 Trans-Caucasian Championship
+1927 2 home Georgia Armenia 1 1 Trans-Caucasian Championship
+1990 151 home Georgia Lithuania 2 2 Friendly
+1991 188 away Georgia Moldova 2 4 Friendly
+1992 260 away Georgia Lithuania 1 0 Friendly
+1992 265 home Georgia Azerbaijan 6 3 Friendly
+1992 363 away Georgia Cyprus 1 0 Friendly
+1993 149 away Georgia Azerbaijan 1 0 Friendly
+1994 39 away Georgia Slovenia 1 0 Rothmans Tournament
+1994 41 away Georgia Malta 0 1 Rothmans Tournament
+1994 43 home Georgia Tunisia 2 0 Rothmans Tournament
+1994 54 away Georgia Israel 2 0 Friendly
+1994 166 away Georgia Nigeria 5 1 Friendly
+1994 181 away Georgia Latvia 1 3 Friendly
+1994 205 home Georgia Malta 1 1 Friendly
+1994 255 home Georgia Moldova 0 1 European Cup qualifier
+1994 291 away Georgia Bulgaria 2 0 European Cup qualifier
+1994 326 home Georgia Wales 5 0 European Cup qualifier
+1994 355 away Georgia Albania 0 1 European Cup qualifier
+1995 91 home Georgia Germany 0 2 European Cup qualifier
+1995 119 home Georgia Albania 2 0 European Cup qualifier
+1995 162 away Georgia Wales 0 1 European Cup qualifier
+1995 254 away Georgia Germany 4 1 European Cup qualifier
+1995 290 home Georgia Bulgaria 2 1 European Cup qualifier
+1995 325 away Georgia Moldova 3 2 European Cup qualifier
+1996 89 away Georgia Cyprus 0 2 Friendly
+1996 117 away Georgia Romania 5 0 Friendly
+1996 132 away Georgia Greece 2 1 Friendly
+1996 249 away Georgia Norway 1 0 Friendly
+1996 288 away Georgia Italy 1 0 World Cup qualifier
+1996 319 home Georgia England 0 2 World Cup qualifier
+1996 346 away Georgia Lebanon 4 2 Friendly
+1996 349 away Georgia Lebanon 3 2 Friendly
+1997 92 home Georgia Armenia 7 0 Friendly
+1997 123 away Georgia England 2 0 World Cup qualifier
+1997 162 home Georgia Moldova 2 0 World Cup qualifier
+1997 169 away Georgia Poland 4 1 World Cup qualifier
+1997 258 home Georgia Italy 0 0 World Cup qualifier
+1997 272 away Georgia Moldova 0 1 World Cup qualifier
+1997 290 home Georgia Poland 3 0 World Cup qualifier
+1998 37 home Georgia Latvia 2 1 Rothmans Tournament
+1998 39 home Georgia Albania 3 0 Rothmans Tournament
+1998 41 away Georgia Malta 1 3 Rothmans Tournament
+1998 126 away Georgia Tunisia 1 1 Friendly
+1998 154 away Georgia Russia 1 1 Friendly
+1998 229 away Georgia Azerbaijan 1 0 Friendly
+1998 236 away Georgia Ukraine 4 0 Friendly
+1998 253 home Georgia Albania 1 0 European Cup qualifier
+1998 289 away Georgia Latvia 1 0 European Cup qualifier
+1998 293 away Georgia Greece 3 0 European Cup qualifier
+1998 328 home Georgia Estonia 3 1 Friendly
+1999 82 home Georgia Ukraine 0 1 Friendly
+1999 89 home Georgia Slovenia 1 1 European Cup qualifier
+1999 121 home Georgia Norway 1 4 European Cup qualifier
+1999 154 away Georgia Norway 1 0 European Cup qualifier
+1999 160 home Georgia Greece 1 2 European Cup qualifier
+1999 252 away Georgia Slovenia 2 1 European Cup qualifier
+1999 256 home Georgia Latvia 2 2 European Cup qualifier
+1999 288 away Georgia Albania 2 1 European Cup qualifier
+2000 35 home Georgia Romania 1 1 Friendly tournament
+2000 37 home Georgia Armenia 2 1 Friendly tournament
+2000 91 away Georgia Israel 1 1 Friendly
+2000 119 away Georgia Armenia 0 0 Friendly
+2000 159 away Georgia Azerbaijan 0 0 Friendly
+2000 166 away Georgia Estonia 1 0 Friendly
+2000 233 away Georgia Iran 2 1 Friendly
+2000 286 away Georgia Lithuania 0 4 World Cup qualifier
+2000 290 away Georgia Italy 2 0 World Cup qualifier
+2001 45 home Georgia Ukraine 0 0 Friendly
+2001 90 home Georgia Romania 0 2 World Cup qualifier
+2001 117 home Georgia Israel 3 2 Friendly
+2001 133 home Georgia Azerbaijan 1 0 Friendly
+2001 157 home Georgia Italy 1 2 World Cup qualifier
+2001 161 away Georgia Hungary 4 1 World Cup qualifier
+2001 232 away Georgia Luxembourg 0 3 Friendly
+2001 249 home Georgia Hungary 3 1 World Cup qualifier
+2001 253 home Georgia Lithuania 2 0 World Cup qualifier
+2001 285 away Georgia Romania 1 1 World Cup qualifier
+2002 89 home Georgia SouthAfrica 4 1 Friendly
+2002 110 away Georgia Ukraine 2 1 Friendly
+2002 238 away Georgia Turkey 3 0 Friendly
+2002 256 away Georgia Switzerland 4 1 European Cup qualifier
+2003 43 home Georgia Moldova 2 2 Friendly
+2003 91 home Georgia Ireland 1 2 European Cup qualifier
+2003 95 home Georgia Switzerland 0 0 European Cup qualifier
+2003 123 home Georgia Russia 1 0 European Cup qualifier
+2003 166 away Georgia Ireland 2 0 European Cup qualifier
+2003 254 home Georgia Albania 3 0 European Cup qualifier
+2003 258 away Georgia Albania 3 1 European Cup qualifier
+2003 290 away Georgia Russia 3 1 European Cup qualifier
+2004 49 away Georgia Romania 3 0 Friendly tournament
+2004 50 away Georgia Cyprus 3 1 Friendly tournament
+2004 52 away Georgia Armenia 2 0 Friendly tournament
+2004 151 home Georgia Israel 0 1 Friendly
+2004 235 away Georgia Moldova 1 0 Friendly
+2004 252 away Georgia Turkey 1 1 World Cup qualifier
+2004 256 home Georgia Albania 2 0 World Cup qualifier
+2004 292 away Georgia Ukraine 2 0 World Cup qualifier
+2004 327 home Georgia Denmark 2 2 World Cup qualifier
+2005 40 home Georgia Lithuania 1 0 Friendly
+2005 88 home Georgia Greece 1 3 World Cup qualifier
+2005 92 home Georgia Turkey 2 5 World Cup qualifier
+2005 159 away Georgia Albania 3 2 World Cup qualifier
+2005 234 away Georgia Kazakhstan 1 2 World Cup qualifier
+2005 251 home Georgia Ukraine 1 1 World Cup qualifier
+2005 255 away Georgia Denmark 6 1 World Cup qualifier
+2005 287 home Georgia Kazakhstan 0 0 World Cup qualifier
+2005 291 away Georgia Greece 1 0 World Cup qualifier
+2005 322 away Georgia Bulgaria 6 2 Friendly
+2005 326 home Georgia Jordan 3 2 Friendly
+2006 63 away Georgia Malta 0 2 Friendly tournament
+2006 84 away Georgia Albania 0 0 Friendly
+2006 151 away Georgia NewZealand 3 1 Friendly
+2006 155 away Georgia Paraguay 1 0 Friendly
+2006 233 away Georgia FaroeIslands 0 6 European Cup qualifier
+2006 250 home Georgia France 0 3 European Cup qualifier
+2006 254 away Georgia Ukraine 3 2 European Cup qualifier
+2006 286 away Georgia Germany 2 0 Friendly
+2006 290 home Georgia Italy 1 3 European Cup qualifier
+2006 325 home Georgia Uruguay 2 0 Friendly
+2007 38 home Georgia Turkey 1 0 Friendly
+2007 86 away Georgia Scotland 2 1 European Cup qualifier
+2007 90 home Georgia FaroeIslands 3 1 European Cup qualifier
+2007 157 away Georgia Lithuania 1 0 European Cup qualifier
+2007 161 away Georgia France 1 0 European Cup qualifier
+2007 239 away Georgia Luxembourg 0 0 Friendly
+2007 256 home Georgia Ukraine 1 1 European Cup qualifier
+2007 260 away Georgia Azerbaijan 1 1 Friendly
+2007 292 away Georgia Italy 2 0 European Cup qualifier
+2007 296 home Georgia Scotland 2 0 European Cup qualifier
+2007 326 away Georgia Qatar 1 2 Friendly
+2007 331 home Georgia Lithuania 0 2 European Cup qualifier
+2008 37 home Georgia Latvia 1 3 Friendly
+2008 88 away Georgia NorthernIreland 4 1 Friendly
+2008 151 away Georgia Estonia 1 1 Friendly
+2008 155 away Georgia Portugal 2 0 Friendly
+2008 237 away Georgia Wales 1 2 Friendly
+2008 254 away Georgia Ireland 2 1 World Cup qualifier
+2008 258 away Georgia Italy 2 0 World Cup qualifier
+2008 290 home Georgia Cyprus 1 1 World Cup qualifier
+2008 294 home Georgia Bulgaria 0 0 World Cup qualifier
+2008 329 away Georgia Romania 2 1 Friendly
+2009 42 away Georgia Ireland 2 1 World Cup qualifier
+2009 90 away Georgia Cyprus 2 1 World Cup qualifier
+2009 94 home Georgia Montenegro 0 0 World Cup qualifier
+2009 161 home Georgia Moldova 1 2 Friendly
+2009 165 away Georgia Albania 1 1 Friendly
+2009 229 away Georgia Malta 2 0 Friendly
+2009 253 home Georgia Italy 0 2 World Cup qualifier
+2009 257 away Georgia Iceland 3 1 Friendly
+2009 289 away Georgia Montenegro 2 1 World Cup qualifier
+2009 293 away Georgia Bulgaria 6 2 World Cup qualifier
+2010 65 home Georgia Estonia 2 1 Friendly
+2010 149 home Georgia Cameroon 0 0 Friendly
+2010 228 away Georgia Moldova 0 0 Friendly
+2010 251 away Georgia Greece 1 1 European Cup qualifier
+2010 255 home Georgia Israel 0 0 European Cup qualifier
+2010 287 home Georgia Malta 1 0 European Cup qualifier
+2010 291 away Georgia Latvia 1 1 European Cup qualifier
+2010 327 away Georgia Slovenia 1 2 Friendly
+2011 40 home Georgia Armenia 2 1 Friendly
+2011 88 home Georgia Croatia 1 0 European Cup qualifier
+2011 91 away Georgia Israel 1 0 European Cup qualifier
+2011 158 away Georgia Croatia 2 1 European Cup qualifier
+2011 227 away Georgia Poland 1 0 Friendly
+2011 250 home Georgia Latvia 0 1 European Cup qualifier
+2011 254 away Georgia Malta 1 1 European Cup qualifier
+2011 290 home Georgia Greece 1 2 European Cup qualifier
+2011 321 home Georgia Moldova 2 0 Friendly
+2012 60 home Georgia Albania 2 1 Friendly
+2012 148 away Georgia Turkey 3 1 Friendly
+2012 232 away Georgia Luxembourg 1 2 Friendly
+2012 255 home Georgia Belarus 1 0 World Cup qualifier
+2012 259 home Georgia Spain 0 1 World Cup qualifier
+2012 291 away Georgia Finland 1 1 World Cup qualifier
+2012 295 away Georgia Belarus 2 0 World Cup qualifier
+2012 324 home Georgia Egypt 0 0 Friendly
+2013 37 away Georgia Albania 1 2 Friendly
+2013 84 away Georgia France 3 1 World Cup qualifier
+2013 157 away Georgia Ireland 4 0 Friendly
+2013 160 away Georgia Denmark 2 1 Friendly
+2013 231 away Georgia Kazakhstan 1 0 Friendly
+2013 254 home Georgia France 0 0 World Cup qualifier
+2013 258 home Georgia Finland 0 1 World Cup qualifier
+2013 294 away Georgia Spain 2 0 World Cup qualifier
+2014 67 home Georgia Liechtenstein 2 0 Friendly

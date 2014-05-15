@@ -1,0 +1,592 @@
+1957 297 away SaudiArabia Lebanon 1 1 Pan Arab Games
+1957 299 away SaudiArabia Jordan 1 0 Pan Arab Games
+1957 301 home SaudiArabia Syria 3 1 Pan Arab Games
+1961 251 away SaudiArabia Egypt 13 0 Pan Arab Games
+1961 252 away SaudiArabia Lebanon 7 1 Pan Arab Games
+1961 254 away SaudiArabia Morocco 13 1 Pan Arab Games
+1961 256 away SaudiArabia Libya 5 1 Pan Arab Games
+1961 258 home SaudiArabia Kuwait 1 0 Pan Arab Games
+1967 1 home SaudiArabia Pakistan 2 2 Friendly
+1967 2 home SaudiArabia Pakistan 2 2 Friendly
+1967 3 home SaudiArabia Pakistan 2 2 Friendly
+1967 4 home SaudiArabia Pakistan 1 1 Friendly
+1967 342 home SaudiArabia Tunisia 4 0 Friendly
+1969 17 home SaudiArabia Turkey 1 2 Friendly
+1970 90 away SaudiArabia Kuwait 3 1 Gulf Cup
+1970 92 away SaudiArabia Bahrain 0 0 Gulf Cup
+1970 95 away SaudiArabia Qatar 1 1 Gulf Cup
+1972 78 home SaudiArabia Kuwait 2 2 Gulf Cup
+1972 81 home SaudiArabia UnitedArab 4 0 Gulf Cup
+1972 86 home SaudiArabia Qatar 4 0 Gulf Cup
+1974 78 home SaudiArabia Qatar 2 0 Gulf Cup
+1974 83 home SaudiArabia Bahrain 4 1 Gulf Cup
+1974 85 home SaudiArabia UnitedArab 2 0 Gulf Cup
+1974 88 home SaudiArabia Qatar 3 1 Gulf Cup
+1974 91 away SaudiArabia Kuwait 4 0 Gulf Cup
+1975 95 home SaudiArabia Afghanistan 2 0 Asian Cup qualifier
+1975 97 home SaudiArabia Qatar 2 1 Asian Cup qualifier
+1975 99 away SaudiArabia Iraq 1 1 Asian Cup qualifier
+1975 103 home SaudiArabia Afghanistan 6 0 Asian Cup qualifier
+1975 105 away SaudiArabia Iraq 2 1 Asian Cup qualifier
+1975 107 away SaudiArabia Qatar 1 0 Asian Cup qualifier
+1975 239 home SaudiArabia Iraq 2 0 Olympic Games qualifier
+1975 241 away SaudiArabia Iran 3 0 Olympic Games qualifier
+1975 243 home SaudiArabia Bahrain 1 0 Olympic Games qualifier
+1975 245 away SaudiArabia Kuwait 4 2 Olympic Games qualifier
+1975 362 away SaudiArabia SouthYemen 1 0 Palestine Cup
+1976 6 home SaudiArabia Algeria 1 3 Friendly
+1976 88 away SaudiArabia Qatar 1 0 Gulf Cup
+1976 91 home SaudiArabia UnitedArab 2 0 Gulf Cup
+1976 94 away SaudiArabia Iraq 7 1 Gulf Cup
+1976 97 home SaudiArabia Oman 3 1 Gulf Cup
+1976 101 away SaudiArabia Bahrain 2 1 Gulf Cup
+1976 104 away SaudiArabia Kuwait 3 1 Gulf Cup
+1976 287 home SaudiArabia Mauritania 4 1 Pan Arab Games
+1976 289 away SaudiArabia Morocco 0 0 Pan Arab Games
+1976 291 home SaudiArabia Palestine 3 1 Pan Arab Games
+1976 295 away SaudiArabia SouthYemen 1 0 Pan Arab Games
+1976 297 away SaudiArabia Jordan 1 0 Pan Arab Games
+1976 300 away SaudiArabia Syria 0 2 Pan Arab Games
+1976 322 home SaudiArabia Syria 2 0 World Cup qualifier
+1976 336 away SaudiArabia Syria 2 1 World Cup qualifier
+1977 7 home SaudiArabia Iran 0 3 World Cup qualifier
+1977 115 away SaudiArabia Iran 2 0 World Cup qualifier
+1978 134 home SaudiArabia SouthKorea 0 2 Friendly
+1978 326 away SaudiArabia Cyprus 2 2 Friendly
+1978 350 away SaudiArabia Iraq 1 1 Asian Games
+1978 352 away SaudiArabia China 1 0 Asian Games
+1978 354 away SaudiArabia Qatar 2 2 Asian Games
+1979 86 home SaudiArabia UnitedArab 2 1 Gulf Cup
+1979 89 home SaudiArabia Oman 4 0 Gulf Cup
+1979 94 away SaudiArabia Bahrain 1 1 Gulf Cup
+1979 96 home SaudiArabia Qatar 7 0 Gulf Cup
+1979 98 away SaudiArabia Kuwait 0 0 Gulf Cup
+1979 101 away SaudiArabia Iraq 2 0 Gulf Cup
+1980 28 home SaudiArabia SouthKorea 1 3 Friendly
+1980 30 home SaudiArabia SouthKorea 1 0 Friendly
+1980 277 home SaudiArabia Malaysia 3 0 Friendly tournament
+1980 278 home SaudiArabia NorthernCyprus 2 0 Friendly tournament
+1980 282 away SaudiArabia Turkey 3 0 Friendly tournament
+1980 283 away SaudiArabia Libya 2 0 Friendly tournament
+1981 70 home SaudiArabia Tunisia 1 2 Friendly
+1981 83 home SaudiArabia Iraq 1 0 World Cup qualifier
+1981 86 home SaudiArabia Syria 2 0 World Cup qualifier
+1981 90 home SaudiArabia Bahrain 1 0 World Cup qualifier
+1981 93 home SaudiArabia Qatar 1 0 World Cup qualifier
+1981 307 home SaudiArabia Sweden 1 2 Friendly
+1981 314 home SaudiArabia Kuwait 0 1 World Cup qualifier
+1981 322 away SaudiArabia China 4 2 World Cup qualifier
+1981 329 away SaudiArabia China 2 0 World Cup qualifier
+1981 338 away SaudiArabia NewZealand 2 2 World Cup qualifier
+1981 348 away SaudiArabia Kuwait 2 0 World Cup qualifier
+1981 360 home SaudiArabia NewZealand 0 5 World Cup qualifier
+1982 83 away SaudiArabia UnitedArab 1 0 Gulf Cup
+1982 86 away SaudiArabia Iraq 1 1 Gulf Cup
+1982 88 away SaudiArabia Kuwait 1 0 Gulf Cup
+1982 91 home SaudiArabia Qatar 1 0 Gulf Cup
+1982 93 home SaudiArabia Oman 3 0 Gulf Cup
+1982 95 away SaudiArabia Bahrain 2 2 Gulf Cup
+1982 248 home SaudiArabia Brunei 6 0 Lion City Cup
+1982 250 away SaudiArabia Singapore 0 1 Lion City Cup
+1982 252 home SaudiArabia Malaysia 2 1 Lion City Cup
+1982 254 home SaudiArabia Japan 3 0 Lion City Cup
+1982 256 home SaudiArabia Qatar 2 1 Lion City Cup
+1982 259 away SaudiArabia Thailand 1 0 Lion City Cup
+1982 282 home SaudiArabia Morocco 2 1 Friendly
+1982 291 home SaudiArabia Cameroon 0 0 Friendly
+1982 329 home SaudiArabia Thailand 1 0 Asian Games
+1982 332 away SaudiArabia NorthKorea 2 2 Asian Games
+1982 335 home SaudiArabia Syria 1 1 Asian Games
+1982 338 away SaudiArabia India 0 1 Asian Games
+1982 342 away SaudiArabia Iraq 1 0 Asian Games
+1984 1 home SaudiArabia SriLanka 5 0 Asian Cup qualifier
+1984 2 home SaudiArabia UnitedArab 1 0 Asian Cup qualifier
+1984 3 home SaudiArabia Nepal 7 0 Asian Cup qualifier
+1984 4 home SaudiArabia Oman 6 0 Asian Cup qualifier
+1984 38 home SaudiArabia Algeria 4 2 Friendly
+1984 72 away SaudiArabia Qatar 2 1 Gulf Cup
+1984 77 away SaudiArabia Oman 1 3 Gulf Cup
+1984 79 away SaudiArabia Iraq 4 0 Gulf Cup
+1984 82 away SaudiArabia Kuwait 1 1 Gulf Cup
+1984 85 home SaudiArabia UnitedArab 2 0 Gulf Cup
+1984 88 home SaudiArabia Bahrain 2 0 Gulf Cup
+1984 273 home SaudiArabia Iceland 1 2 Friendly
+1984 330 home SaudiArabia Finland 2 1 Friendly
+1984 343 home SaudiArabia SouthKorea 1 1 Asian Cup
+1984 345 home SaudiArabia Syria 1 0 Asian Cup
+1984 349 away SaudiArabia Qatar 1 1 Asian Cup
+1984 352 home SaudiArabia Kuwait 1 0 Asian Cup
+1984 354 away SaudiArabia Iran 1 1 Asian Cup
+1984 357 home SaudiArabia China 2 0 Asian Cup
+1985 105 home SaudiArabia UnitedArab 0 0 World Cup qualifier
+1985 112 away SaudiArabia UnitedArab 1 0 World Cup qualifier
+1985 189 home SaudiArabia Jordan 4 0 Arab Nations Cup
+1985 193 home SaudiArabia Qatar 1 0 Arab Nations Cup
+1985 196 home SaudiArabia Iraq 2 3 Arab Nations Cup
+1985 198 home SaudiArabia Qatar 0 0 Arab Nations Cup
+1985 214 away SaudiArabia Tunisia 2 0 Friendly
+1985 222 home SaudiArabia NorthYemen 2 0 Pan Arab Games
+1985 224 home SaudiArabia UnitedArab 1 0 Pan Arab Games
+1985 231 away SaudiArabia Iraq 2 1 Pan Arab Games
+1985 263 away SaudiArabia Cameroon 4 1 Afro-Asian Championship
+1985 283 home SaudiArabia Cameroon 2 1 Afro-Asian Championship
+1986 48 home SaudiArabia Algeria 0 0 Friendly
+1986 52 home SaudiArabia Algeria 1 1 Friendly
+1986 56 home SaudiArabia Wales 1 2 Friendly
+1986 59 home SaudiArabia Finland 0 1 Friendly
+1986 74 home SaudiArabia Paraguay 0 0 Friendly
+1986 85 away SaudiArabia Kuwait 3 1 Gulf Cup
+1986 87 away SaudiArabia Bahrain 2 1 Gulf Cup
+1986 90 home SaudiArabia Oman 3 1 Gulf Cup
+1986 92 home SaudiArabia Iraq 2 1 Gulf Cup
+1986 95 away SaudiArabia UnitedArab 2 0 Gulf Cup
+1986 98 home SaudiArabia Qatar 2 0 Gulf Cup
+1986 255 away SaudiArabia Singapore 0 4 Friendly
+1986 269 home SaudiArabia Malaysia 3 1 Asian Games
+1986 273 home SaudiArabia Indonesia 2 0 Asian Games
+1986 277 home SaudiArabia Qatar 1 0 Asian Games
+1986 280 away SaudiArabia Iraq 1 1 Asian Games
+1986 282 away SaudiArabia Kuwait 2 2 Asian Games
+1986 284 away SaudiArabia SouthKorea 2 0 Asian Games
+1988 48 home SaudiArabia Scotland 2 2 Friendly
+1988 64 home SaudiArabia Oman 2 0 Gulf Cup
+1988 67 home SaudiArabia Qatar 0 0 Gulf Cup
+1988 71 home SaudiArabia Bahrain 1 0 Gulf Cup
+1988 75 home SaudiArabia UnitedArab 2 2 Gulf Cup
+1988 78 home SaudiArabia Iraq 0 2 Gulf Cup
+1988 80 home SaudiArabia Kuwait 0 0 Gulf Cup
+1988 176 away SaudiArabia NewZealand 2 0 Friendly
+1988 181 away SaudiArabia NewZealand 3 2 Friendly
+1988 184 home SaudiArabia HongKong 3 0 Friendly
+1988 187 home SaudiArabia HongKong 1 0 Friendly
+1988 192 away SaudiArabia Argentina 2 2 Bicentenary Gold Cup
+1988 195 away SaudiArabia Australia 3 0 Bicentenary Gold Cup
+1988 195 away SaudiArabia Egypt 0 0 Arab Nations Cup
+1988 197 home SaudiArabia Tunisia 1 1 Arab Nations Cup
+1988 199 away SaudiArabia Brazil 4 1 Bicentenary Gold Cup
+1988 199 away SaudiArabia Lebanon 1 0 Arab Nations Cup
+1988 201 away SaudiArabia Iraq 1 0 Arab Nations Cup
+1988 202 away SaudiArabia Argentina 2 0 Bicentenary Gold Cup
+1988 326 home SaudiArabia England 1 1 Friendly
+1988 339 home SaudiArabia Tunisia 1 0 Friendly
+1988 343 home SaudiArabia Syria 2 0 Asian Cup
+1988 346 away SaudiArabia Kuwait 0 0 Asian Cup
+1988 350 away SaudiArabia Bahrain 1 1 Asian Cup
+1988 353 away SaudiArabia China 0 1 Asian Cup
+1988 355 away SaudiArabia Iran 0 1 Asian Cup
+1988 359 home SaudiArabia SouthKorea 0 0 Asian Cup
+1989 77 home SaudiArabia Syria 5 4 World Cup qualifier
+1989 82 away SaudiArabia NorthYemen 0 1 World Cup qualifier
+1989 92 away SaudiArabia Syria 0 0 World Cup qualifier
+1989 98 home SaudiArabia NorthYemen 1 0 World Cup qualifier
+1989 291 away SaudiArabia China 2 1 World Cup qualifier
+1989 295 away SaudiArabia Qatar 1 1 World Cup qualifier
+1989 300 home SaudiArabia UnitedArab 0 0 World Cup qualifier
+1989 304 home SaudiArabia SouthKorea 0 2 World Cup qualifier
+1989 307 away SaudiArabia NorthKorea 0 2 World Cup qualifier
+1990 272 home SaudiArabia Bangladesh 4 0 Asian Games
+1990 276 home SaudiArabia Japan 2 0 Asian Games
+1990 280 away SaudiArabia NorthKorea 0 0 Asian Games
+1992 249 home SaudiArabia Palestine 2 1 Pan Arab Games
+1992 250 away SaudiArabia Syria 1 1 Pan Arab Games
+1992 262 home SaudiArabia Kuwait 2 0 Pan Arab Games
+1992 285 home SaudiArabia Cameroon 2 1 Friendly
+1992 294 home SaudiArabia UnitedStates 3 0 Intercontinental Cup
+1992 299 home SaudiArabia Argentina 1 3 Intercontinental Cup
+1992 308 home SaudiArabia China 1 1 Asian Cup
+1992 310 home SaudiArabia Qatar 1 1 Asian Cup
+1992 312 home SaudiArabia Thailand 4 0 Asian Cup
+1992 316 home SaudiArabia UnitedArab 2 0 Asian Cup
+1992 318 away SaudiArabia Japan 1 0 Asian Cup
+1992 338 away SaudiArabia Bahrain 2 1 Gulf Cup
+1992 342 away SaudiArabia UnitedArab 1 0 Gulf Cup
+1992 345 home SaudiArabia Oman 2 0 Gulf Cup
+1992 347 home SaudiArabia Kuwait 2 1 Gulf Cup
+1992 351 away SaudiArabia Qatar 0 1 Gulf Cup
+1993 102 home SaudiArabia UnitedStates 0 2 Friendly
+1993 111 home SaudiArabia NewZealand 3 1 Friendly
+1993 115 away SaudiArabia Singapore 0 3 Friendly
+1993 117 home SaudiArabia NewZealand 1 0 Friendly
+1993 125 home SaudiArabia Macao 6 0 World Cup qualifier
+1993 127 away SaudiArabia Malaysia 1 1 World Cup qualifier
+1993 129 home SaudiArabia Kuwait 0 0 World Cup qualifier
+1993 138 home SaudiArabia Macao 8 0 World Cup qualifier
+1993 140 home SaudiArabia Malaysia 3 0 World Cup qualifier
+1993 142 home SaudiArabia Kuwait 2 0 World Cup qualifier
+1993 265 home SaudiArabia Thailand 4 0 Friendly
+1993 268 home SaudiArabia Thailand 3 0 Friendly
+1993 271 home SaudiArabia CostaRica 1 2 Friendly
+1993 275 home SaudiArabia CostaRica 3 2 Friendly
+1993 285 home SaudiArabia Russia 4 2 Friendly
+1993 294 home SaudiArabia Japan 0 0 World Cup qualifier
+1993 297 away SaudiArabia NorthKorea 1 2 World Cup qualifier
+1993 301 away SaudiArabia SouthKorea 1 1 World Cup qualifier
+1993 303 away SaudiArabia Iraq 1 1 World Cup qualifier
+1993 307 home SaudiArabia Iran 4 3 World Cup qualifier
+1994 23 home SaudiArabia China 1 0 Friendly
+1994 26 home SaudiArabia China 1 1 Friendly
+1994 37 home SaudiArabia Colombia 1 1 Friendly
+1994 40 home SaudiArabia Colombia 0 1 Friendly
+1994 89 home SaudiArabia Chile 0 2 Friendly
+1994 92 home SaudiArabia Chile 2 2 Friendly
+1994 106 away SaudiArabia Poland 1 0 Friendly
+1994 113 home SaudiArabia Iceland 2 0 Friendly
+1994 120 away SaudiArabia Greece 5 1 Friendly
+1994 128 away SaudiArabia Bolivia 1 0 Friendly
+1994 149 away SaudiArabia UnitedStates 0 0 Friendly
+1994 159 home SaudiArabia TrinidadTobago 3 2 Friendly
+1994 175 away SaudiArabia Holland 2 1 World Cup
+1994 180 home SaudiArabia Morocco 2 1 World Cup
+1994 184 home SaudiArabia Belgium 1 0 World Cup
+1994 189 away SaudiArabia Sweden 3 1 World Cup
+1994 298 home SaudiArabia UnitedStates 2 1 Friendly
+1994 305 home SaudiArabia TrinidadTobago 1 0 Friendly
+1994 314 home SaudiArabia Oman 2 1 Gulf Cup
+1994 316 away SaudiArabia UnitedArab 1 1 Gulf Cup
+1994 320 home SaudiArabia Bahrain 3 1 Gulf Cup
+1994 322 home SaudiArabia Qatar 2 1 Gulf Cup
+1994 326 home SaudiArabia Kuwait 2 0 Gulf Cup
+1994 348 home SaudiArabia Poland 0 2 Friendly
+1994 351 home SaudiArabia Poland 1 2 Friendly
+1994 358 home SaudiArabia CostaRica 1 3 Friendly
+1994 365 home SaudiArabia SouthKorea 0 1 Friendly
+1994 370 home SaudiArabia Zambia 1 0 Friendly
+1995 6 home SaudiArabia Mexico 0 2 Intercontinental Cup
+1995 8 home SaudiArabia Denmark 0 2 Intercontinental Cup
+1995 287 away SaudiArabia UnitedStates 4 3 Friendly
+1995 290 away SaudiArabia Mexico 2 1 Friendly
+1995 303 away SaudiArabia Japan 2 1 Friendly
+1995 307 away SaudiArabia Japan 2 1 Friendly
+1995 310 away SaudiArabia SouthKorea 1 1 Friendly
+1995 371 home SaudiArabia Kazakhstan 3 0 Friendly
+1996 5 home SaudiArabia Ghana 1 1 Friendly
+1996 24 home SaudiArabia Kyrgyzstan 3 0 Asian Cup qualifier
+1996 28 home SaudiArabia Yemen 4 0 Asian Cup qualifier
+1996 31 home SaudiArabia Kyrgyzstan 2 0 Asian Cup qualifier
+1996 35 home SaudiArabia Yemen 1 0 Asian Cup qualifier
+1996 270 home SaudiArabia Zambia 2 1 Friendly
+1996 273 home SaudiArabia Zambia 1 3 Friendly
+1996 282 home SaudiArabia NewZealand 3 0 Friendly
+1996 288 home SaudiArabia Australia 0 0 Friendly
+1996 294 away SaudiArabia Oman 0 1 Gulf Cup
+1996 298 away SaudiArabia Qatar 2 2 Gulf Cup
+1996 300 home SaudiArabia Bahrain 3 1 Gulf Cup
+1996 303 away SaudiArabia Kuwait 1 0 Gulf Cup
+1996 306 away SaudiArabia UnitedArab 2 2 Gulf Cup
+1996 316 home SaudiArabia Bulgaria 1 0 Friendly
+1996 326 home SaudiArabia Syria 3 1 Friendly
+1996 329 home SaudiArabia Mali 1 3 Friendly
+1996 339 home SaudiArabia Indonesia 4 1 Friendly
+1996 346 home SaudiArabia Thailand 6 0 Asian Cup
+1996 349 home SaudiArabia Iraq 1 0 Asian Cup
+1996 352 away SaudiArabia Iran 3 0 Asian Cup
+1996 357 home SaudiArabia China 4 3 Asian Cup
+1996 359 home SaudiArabia Iran 0 0 Asian Cup
+1996 362 away SaudiArabia UnitedArab 0 0 Asian Cup
+1997 65 home SaudiArabia Sudan 3 0 Friendly
+1997 67 home SaudiArabia Syria 1 1 Friendly
+1997 78 home SaudiArabia Taiwan 2 0 World Cup qualifier
+1997 80 away SaudiArabia Malaysia 0 0 World Cup qualifier
+1997 82 home SaudiArabia Bangladesh 4 1 World Cup qualifier
+1997 89 home SaudiArabia Bangladesh 3 0 World Cup qualifier
+1997 91 home SaudiArabia Malaysia 3 0 World Cup qualifier
+1997 93 home SaudiArabia Taiwan 6 0 World Cup qualifier
+1997 262 home SaudiArabia Kuwait 2 1 World Cup qualifier
+1997 267 away SaudiArabia Iran 1 1 World Cup qualifier
+1997 273 home SaudiArabia Mali 5 1 Friendly
+1997 282 away SaudiArabia China 1 0 World Cup qualifier
+1997 290 home SaudiArabia Qatar 1 0 World Cup qualifier
+1997 296 away SaudiArabia Kuwait 2 1 World Cup qualifier
+1997 303 home SaudiArabia Iran 1 0 World Cup qualifier
+1997 316 home SaudiArabia China 1 1 World Cup qualifier
+1997 322 away SaudiArabia Qatar 0 1 World Cup qualifier
+1997 348 home SaudiArabia Iceland 0 0 Friendly
+1997 353 home SaudiArabia Brazil 0 3 Confederations Cup
+1997 355 home SaudiArabia Mexico 0 5 Confederations Cup
+1997 357 home SaudiArabia Australia 1 0 Confederations Cup
+1998 53 home SaudiArabia Germany 0 3 Friendly
+1998 128 home SaudiArabia Jamaica 0 0 Friendly
+1998 133 home SaudiArabia TrinidadTobago 2 1 Friendly
+1998 136 home SaudiArabia Iceland 1 1 Friendly
+1998 141 home SaudiArabia Namibia 2 1 Friendly
+1998 147 away SaudiArabia England 0 0 Friendly
+1998 151 away SaudiArabia Norway 6 0 Friendly
+1998 158 away SaudiArabia Mexico 0 0 Friendly
+1998 167 away SaudiArabia Denmark 1 0 World Cup
+1998 173 away SaudiArabia France 4 0 World Cup
+1998 179 away SaudiArabia SouthAfrica 2 2 World Cup
+1998 259 home SaudiArabia Tanzania 1 0 Friendly
+1998 262 home SaudiArabia Sudan 2 1 Friendly
+1998 265 home SaudiArabia Senegal 3 2 Friendly
+1998 275 home SaudiArabia Lebanon 4 1 Arab Nations Cup
+1998 277 home SaudiArabia Kuwait 2 1 Arab Nations Cup
+1998 280 away SaudiArabia Qatar 1 3 Arab Nations Cup
+1998 310 home SaudiArabia Kuwait 2 1 Gulf Cup
+1998 312 away SaudiArabia Bahrain 1 1 Gulf Cup
+1998 315 home SaudiArabia Oman 1 0 Gulf Cup
+1998 318 home SaudiArabia UnitedArab 1 0 Gulf Cup
+1998 321 home SaudiArabia Qatar 0 0 Gulf Cup
+1999 173 home SaudiArabia Jordan 2 1 Friendly
+1999 177 home SaudiArabia Jordan 2 0 Friendly
+1999 179 home SaudiArabia Lithuania 0 1 Friendly
+1999 195 home SaudiArabia Canada 2 0 Friendly
+1999 199 away SaudiArabia Jamaica 2 1 Friendly
+1999 201 home SaudiArabia Jamaica 4 0 Friendly
+1999 203 away SaudiArabia CostaRica 1 0 Friendly
+1999 211 away SaudiArabia Mexico 5 1 Confederations Cup
+1999 213 away SaudiArabia Bolivia 0 0 Confederations Cup
+1999 215 home SaudiArabia Egypt 5 1 Confederations Cup
+1999 218 away SaudiArabia Brazil 8 2 Confederations Cup
+1999 220 away SaudiArabia UnitedStates 2 0 Confederations Cup
+1999 256 home SaudiArabia Zambia 0 0 Friendly
+1999 259 home SaudiArabia Zambia 2 1 Friendly
+1999 266 away SaudiArabia SouthAfrica 1 0 Afro-Asian Championship
+1999 278 home SaudiArabia SouthAfrica 0 0 Afro-Asian Championship
+2000 145 away SaudiArabia Lebanon 0 0 Friendly
+2000 148 away SaudiArabia Slovakia 1 1 Friendly
+2000 155 away SaudiArabia Hungary 2 2 Friendly
+2000 158 away SaudiArabia Slovenia 2 0 Friendly
+2000 272 home SaudiArabia Syria 2 1 Friendly
+2000 274 home SaudiArabia Syria 3 0 Friendly
+2000 276 home SaudiArabia UnitedArab 6 1 Friendly
+2000 281 away SaudiArabia Jordan 1 0 Friendly
+2000 283 home SaudiArabia China 2 0 Friendly
+2000 286 home SaudiArabia Kazakhstan 1 0 Friendly
+2000 293 away SaudiArabia Japan 4 1 Asian Cup
+2000 296 home SaudiArabia Qatar 0 0 Asian Cup
+2000 299 home SaudiArabia Uzbekistan 5 0 Asian Cup
+2000 303 home SaudiArabia Kuwait 3 2 Asian Cup
+2000 305 home SaudiArabia SouthKorea 2 1 Asian Cup
+2000 308 away SaudiArabia Japan 1 0 Asian Cup
+2001 30 home SaudiArabia Syria 1 0 Friendly
+2001 34 home SaudiArabia Uganda 3 1 Friendly
+2001 39 home SaudiArabia Mongolia 6 0 World Cup qualifier
+2001 41 home SaudiArabia Bangladesh 3 0 World Cup qualifier
+2001 43 home SaudiArabia Vietnam 5 0 World Cup qualifier
+2001 46 home SaudiArabia Mongolia 6 0 World Cup qualifier
+2001 48 home SaudiArabia Bangladesh 6 0 World Cup qualifier
+2001 50 home SaudiArabia Vietnam 4 0 World Cup qualifier
+2001 196 away SaudiArabia Singapore 0 3 Friendly
+2001 205 away SaudiArabia Malaysia 0 4 Friendly
+2001 209 home SaudiArabia NorthKorea 1 0 Friendly
+2001 218 home SaudiArabia Macedonia 1 1 Friendly
+2001 222 home SaudiArabia Qatar 1 2 Friendly
+2001 225 away SaudiArabia UnitedArab 0 1 Friendly
+2001 234 home SaudiArabia Bahrain 1 1 World Cup qualifier
+2001 241 away SaudiArabia Iran 2 0 World Cup qualifier
+2001 248 home SaudiArabia Iraq 1 0 World Cup qualifier
+2001 255 home SaudiArabia UnitedArab 0 2 Friendly
+2001 263 away SaudiArabia Thailand 1 3 World Cup qualifier
+2001 269 away SaudiArabia Bahrain 0 4 World Cup qualifier
+2001 276 home SaudiArabia Iran 2 2 World Cup qualifier
+2001 284 home SaudiArabia Iraq 2 1 World Cup qualifier
+2001 300 home SaudiArabia Thailand 4 1 World Cup qualifier
+2001 371 home SaudiArabia Zimbabwe 0 2 Friendly
+2002 5 home SaudiArabia Romania 2 0 Friendly
+2002 10 home SaudiArabia Iceland 1 0 Friendly
+2002 16 home SaudiArabia Kuwait 1 1 Gulf Cup
+2002 20 home SaudiArabia Bahrain 3 1 Gulf Cup
+2002 24 home SaudiArabia UnitedArab 1 0 Gulf Cup
+2002 27 home SaudiArabia Oman 2 0 Gulf Cup
+2002 30 home SaudiArabia Qatar 3 1 Gulf Cup
+2002 37 home SaudiArabia Brazil 0 1 Friendly
+2002 44 home SaudiArabia Denmark 0 1 Friendly
+2002 76 away SaudiArabia Estonia 2 0 Friendly
+2002 82 home SaudiArabia SouthAfrica 1 0 Friendly
+2002 89 home SaudiArabia Uruguay 3 2 Friendly
+2002 138 home SaudiArabia Senegal 3 2 Friendly
+2002 156 away SaudiArabia Germany 8 0 World Cup
+2002 161 away SaudiArabia Cameroon 1 0 World Cup
+2002 166 away SaudiArabia Ireland 3 0 World Cup
+2002 354 home SaudiArabia Lebanon 1 1 Friendly
+2002 358 home SaudiArabia Bahrain 2 1 Arab Nations Cup
+2002 360 home SaudiArabia Lebanon 1 0 Arab Nations Cup
+2002 367 away SaudiArabia Yemen 2 2 Arab Nations Cup
+2002 371 home SaudiArabia Bahrain 1 0 Arab Nations Cup
+2003 123 away SaudiArabia Liechtenstein 1 0 Friendly
+2003 278 home SaudiArabia Syria 1 1 Friendly
+2003 285 home SaudiArabia Yemen 7 0 Asian Cup qualifier
+2003 287 home SaudiArabia Bhutan 6 0 Asian Cup qualifier
+2003 289 home SaudiArabia Indonesia 5 0 Asian Cup qualifier
+2003 292 home SaudiArabia Yemen 3 1 Asian Cup qualifier
+2003 294 home SaudiArabia Bhutan 4 0 Asian Cup qualifier
+2003 296 home SaudiArabia Indonesia 6 0 Asian Cup qualifier
+2003 358 home SaudiArabia Estonia 1 1 Friendly
+2003 361 home SaudiArabia Azerbaijan 1 0 Friendly
+2003 367 home SaudiArabia UnitedArab 2 0 Gulf Cup
+2003 370 away SaudiArabia Qatar 0 0 Gulf Cup
+2004 1 home SaudiArabia Bahrain 1 0 Gulf Cup
+2004 4 away SaudiArabia Kuwait 1 1 Gulf Cup
+2004 6 home SaudiArabia Oman 2 1 Gulf Cup
+2004 8 home SaudiArabia Yemen 2 0 Gulf Cup
+2004 49 home SaudiArabia Indonesia 3 0 World Cup qualifier
+2004 93 away SaudiArabia SriLanka 0 1 World Cup qualifier
+2004 164 home SaudiArabia Turkmenistan 3 0 World Cup qualifier
+2004 204 away SaudiArabia Turkmenistan 2 2 Asian Cup
+2004 208 away SaudiArabia Uzbekistan 1 0 Asian Cup
+2004 212 away SaudiArabia Iraq 2 1 Asian Cup
+2004 249 home SaudiArabia Kuwait 1 1 Friendly
+2004 256 away SaudiArabia Turkmenistan 0 1 World Cup qualifier
+2004 285 home SaudiArabia Syria 2 2 Friendly
+2004 291 away SaudiArabia Indonesia 1 3 World Cup qualifier
+2004 327 home SaudiArabia SriLanka 3 0 World Cup qualifier
+2004 352 away SaudiArabia Kuwait 2 1 Gulf Cup
+2004 355 home SaudiArabia Yemen 2 0 Gulf Cup
+2004 358 away SaudiArabia Bahrain 3 0 Gulf Cup
+2005 25 home SaudiArabia Tajikistan 3 0 Friendly
+2005 29 home SaudiArabia Turkmenistan 1 0 Friendly
+2005 30 home SaudiArabia Turkmenistan 1 2 Friendly
+2005 33 away SaudiArabia Hungary 0 0 Friendly
+2005 40 away SaudiArabia Uzbekistan 1 1 World Cup qualifier
+2005 76 home SaudiArabia Egypt 0 1 Friendly
+2005 80 home SaudiArabia Finland 1 4 Friendly
+2005 87 home SaudiArabia SouthKorea 2 0 World Cup qualifier
+2005 92 away SaudiArabia Kuwait 0 0 World Cup qualifier
+2005 102 home SaudiArabia Yemen 4 0 Islamic Solidarity Games
+2005 104 home SaudiArabia Palestine 3 0 Islamic Solidarity Games
+2005 109 home SaudiArabia Oman 2 1 Islamic Solidarity Games
+2005 151 home SaudiArabia Bahrain 1 1 Friendly
+2005 158 home SaudiArabia Kuwait 3 0 World Cup qualifier
+2005 163 home SaudiArabia Uzbekistan 3 0 World Cup qualifier
+2005 234 away SaudiArabia SouthKorea 0 1 World Cup qualifier
+2005 324 home SaudiArabia Ghana 1 3 Friendly
+2006 18 home SaudiArabia Sweden 1 1 Friendly
+2006 21 home SaudiArabia Finland 1 1 Friendly tournament
+2006 25 home SaudiArabia Greece 1 1 Friendly tournament
+2006 27 home SaudiArabia Lebanon 1 2 Friendly
+2006 45 home SaudiArabia Syria 1 1 Friendly
+2006 53 away SaudiArabia Yemen 0 4 Asian Cup qualifier
+2006 63 away SaudiArabia Portugal 3 0 Friendly
+2006 77 home SaudiArabia Iraq 2 2 Friendly
+2006 90 home SaudiArabia Poland 1 2 Friendly
+2006 135 away SaudiArabia Belgium 2 1 Friendly
+2006 138 home SaudiArabia Togo 1 0 Friendly
+2006 150 away SaudiArabia Czechia 2 0 Friendly
+2006 155 away SaudiArabia Turkey 1 0 Friendly
+2006 169 home SaudiArabia Tunisia 2 2 World Cup
+2006 174 away SaudiArabia Ukraine 4 0 World Cup
+2006 178 away SaudiArabia Spain 1 0 World Cup
+2006 226 home SaudiArabia Bahrain 1 0 Friendly
+2006 233 away SaudiArabia India 0 3 Asian Cup qualifier
+2006 244 home SaudiArabia UnitedArab 1 0 Friendly
+2006 251 home SaudiArabia Japan 1 0 Asian Cup qualifier
+2006 254 home SaudiArabia India 7 1 Asian Cup qualifier
+2006 290 home SaudiArabia Yemen 5 0 Asian Cup qualifier
+2006 318 home SaudiArabia Jordan 2 1 Friendly
+2006 325 away SaudiArabia Japan 3 1 Asian Cup qualifier
+2007 8 home SaudiArabia Gambia 3 0 Friendly
+2007 11 home SaudiArabia Syria 2 1 Friendly
+2007 18 home SaudiArabia Bahrain 2 1 Gulf Cup
+2007 21 away SaudiArabia Qatar 1 1 Gulf Cup
+2007 24 home SaudiArabia Iraq 1 0 Gulf Cup
+2007 27 away SaudiArabia UnitedArab 1 0 Gulf Cup
+2007 170 away SaudiArabia Kosovo 1 0 Friendly
+2007 179 home SaudiArabia UnitedArab 2 0 Friendly
+2007 182 away SaudiArabia Singapore 1 2 Friendly tournament
+2007 187 away SaudiArabia Oman 1 1 Friendly tournament
+2007 190 away SaudiArabia NorthKorea 1 1 Friendly
+2007 197 home SaudiArabia SouthKorea 1 1 Asian Cup
+2007 200 away SaudiArabia Indonesia 1 2 Asian Cup
+2007 204 home SaudiArabia Bahrain 4 0 Asian Cup
+2007 208 home SaudiArabia Uzbekistan 2 1 Asian Cup
+2007 211 home SaudiArabia Japan 3 2 Asian Cup
+2007 215 away SaudiArabia Iraq 1 0 Asian Cup
+2007 259 home SaudiArabia Ghana 5 0 Friendly
+2007 312 home SaudiArabia Namibia 1 0 Friendly
+2007 319 home SaudiArabia Estonia 2 0 Friendly
+2007 328 away SaudiArabia Libya 2 1 Pan Arab Games
+2007 335 away SaudiArabia Egypt 2 1 Pan Arab Games
+2008 30 home SaudiArabia Luxembourg 2 1 Friendly
+2008 37 home SaudiArabia Singapore 2 0 World Cup qualifier
+2008 88 away SaudiArabia Uzbekistan 3 0 World Cup qualifier
+2008 148 home SaudiArabia Syria 1 0 Friendly
+2008 151 home SaudiArabia Kuwait 2 1 Friendly
+2008 157 home SaudiArabia Lebanon 4 1 World Cup qualifier
+2008 162 home SaudiArabia Lebanon 2 1 World Cup qualifier
+2008 169 away SaudiArabia Singapore 0 2 World Cup qualifier
+2008 177 home SaudiArabia Uzbekistan 4 0 World Cup qualifier
+2008 237 away SaudiArabia Paraguay 1 1 Friendly
+2008 247 home SaudiArabia Qatar 2 1 Friendly
+2008 254 home SaudiArabia Iran 1 1 World Cup qualifier
+2008 258 away SaudiArabia UnitedArab 1 2 World Cup qualifier
+2008 318 home SaudiArabia Thailand 1 0 Friendly
+2008 322 home SaudiArabia Bahrain 4 0 Friendly
+2008 329 home SaudiArabia SouthKorea 0 2 World Cup qualifier
+2008 364 away SaudiArabia Bahrain 1 0 Friendly
+2008 368 home SaudiArabia Syria 1 1 Friendly
+2009 5 away SaudiArabia Qatar 0 0 Gulf Cup
+2009 8 home SaudiArabia Yemen 6 0 Gulf Cup
+2009 11 home SaudiArabia UnitedArab 3 0 Gulf Cup
+2009 14 home SaudiArabia Kuwait 1 0 Gulf Cup
+2009 17 away SaudiArabia Oman 0 0 Gulf Cup
+2009 36 home SaudiArabia Thailand 2 1 Friendly
+2009 42 away SaudiArabia NorthKorea 1 0 World Cup qualifier
+2009 84 home SaudiArabia Iraq 0 0 Friendly
+2009 90 away SaudiArabia Iran 1 2 World Cup qualifier
+2009 94 home SaudiArabia UnitedArab 3 2 World Cup qualifier
+2009 150 away SaudiArabia Qatar 2 1 Friendly
+2009 159 away SaudiArabia China 1 4 Friendly
+2009 165 away SaudiArabia SouthKorea 0 0 World Cup qualifier
+2009 172 home SaudiArabia NorthKorea 0 0 World Cup qualifier
+2009 229 away SaudiArabia Oman 2 1 Friendly
+2009 247 home SaudiArabia Malaysia 2 1 Friendly
+2009 253 away SaudiArabia Bahrain 0 0 World Cup qualifier
+2009 257 home SaudiArabia Bahrain 2 2 World Cup qualifier
+2009 293 away SaudiArabia Tunisia 0 1 Friendly
+2009 323 home SaudiArabia Belarus 2 1 Friendly
+2009 324 home SaudiArabia Belarus 1 1 Friendly
+2010 145 home SaudiArabia Dem. Rep. of Congo 2 0 Friendly
+2010 149 away SaudiArabia Nigeria 0 0 Friendly
+2010 153 away SaudiArabia Spain 3 2 Friendly
+2010 228 home SaudiArabia Togo 1 0 Friendly
+2010 288 home SaudiArabia Uzbekistan 4 0 Friendly
+2010 291 home SaudiArabia Gabon 1 0 Friendly
+2010 291 away SaudiArabia Bulgaria 2 0 Friendly
+2010 326 home SaudiArabia Uganda 0 0 Friendly
+2010 327 away SaudiArabia Ghana 0 0 Friendly
+2010 332 away SaudiArabia Yemen 0 4 Gulf Cup
+2010 335 away SaudiArabia Kuwait 0 0 Gulf Cup
+2010 338 away SaudiArabia Qatar 1 1 Gulf Cup
+2010 343 home SaudiArabia UnitedArab 1 0 Gulf Cup
+2010 346 away SaudiArabia Kuwait 1 0 Gulf Cup
+2010 369 home SaudiArabia Iraq 0 1 Friendly
+2010 372 away SaudiArabia Bahrain 0 1 Friendly
+2011 4 home SaudiArabia Angola 0 0 Friendly
+2011 9 away SaudiArabia Syria 2 1 Asian Cup
+2011 13 away SaudiArabia Jordan 1 0 Asian Cup
+2011 17 away SaudiArabia Japan 5 0 Asian Cup
+2011 199 away SaudiArabia Jordan 1 1 Friendly tournament
+2011 202 away SaudiArabia Kuwait 1 0 Friendly tournament
+2011 209 home SaudiArabia HongKong 3 0 World Cup qualifier
+2011 214 away SaudiArabia HongKong 0 5 World Cup qualifier
+2011 250 away SaudiArabia Oman 0 0 World Cup qualifier
+2011 254 home SaudiArabia Australia 1 3 World Cup qualifier
+2011 286 away SaudiArabia Indonesia 0 0 Friendly
+2011 290 away SaudiArabia Thailand 0 0 World Cup qualifier
+2011 321 home SaudiArabia Thailand 3 0 World Cup qualifier
+2011 325 home SaudiArabia Oman 0 0 World Cup qualifier
+2012 60 away SaudiArabia Australia 4 2 World Cup qualifier
+2012 177 home SaudiArabia Kuwait 4 0 Arab Nations Cup
+2012 183 home SaudiArabia Palestine 2 2 Arab Nations Cup
+2012 189 home SaudiArabia Libya 0 2 Arab Nations Cup
+2012 191 home SaudiArabia Iraq 0 1 Arab Nations Cup
+2012 255 away SaudiArabia Spain 5 0 Friendly
+2012 259 away SaudiArabia Gabon 1 0 Friendly
+2012 293 home SaudiArabia Congo 3 2 Friendly
+2012 324 home SaudiArabia Argentina 0 0 Friendly
+2012 346 home SaudiArabia Zambia 2 1 Friendly
+2012 350 away SaudiArabia Iran 0 0 West Asian Championship
+2012 353 home SaudiArabia Yemen 1 0 West Asian Championship
+2012 356 away SaudiArabia Bahrain 1 0 West Asian Championship
+2013 6 away SaudiArabia Iraq 2 0 Gulf Cup
+2013 9 home SaudiArabia Yemen 2 0 Gulf Cup
+2013 12 away SaudiArabia Kuwait 1 0 Gulf Cup
+2013 37 home SaudiArabia China 2 1 Asian Cup qualifier
+2013 79 away SaudiArabia Malaysia 1 4 Friendly
+2013 85 away SaudiArabia Indonesia 1 2 Asian Cup qualifier
+2013 253 home SaudiArabia NewZealand 0 1 Friendly tournament
+2013 257 home SaudiArabia TrinidadTobago 1 3 Friendly tournament
+2013 294 away SaudiArabia Iraq 0 2 Asian Cup qualifier
+2013 325 home SaudiArabia Iraq 2 1 Asian Cup qualifier
+2013 329 away SaudiArabia China 0 0 Asian Cup qualifier
+2014 67 home SaudiArabia Indonesia 1 0 Asian Cup qualifier

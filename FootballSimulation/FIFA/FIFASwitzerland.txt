@@ -1,0 +1,222 @@
+Gokhan Inler Gokhan Inler 
+Napoli / Serie A 
+80	CM	68	76	82	74	76	72	3 	4 	 / 	 Right	700	2,016		
+Xherdan Shaqiri Xherdan Shaqiri 
+Bayern München / Bundesliga 
+80	RM	87	76	74	86	66	50	4 	4 	 / 	 Left	1,300	1,973		
+Stephan Lichtsteiner Stephan Lichtsteiner 
+Juventus / Serie A 
+78	RM	83	65	78	74	79	71	2 	3 	 / 	 Right	750	1,998		
+Haris Seferovic Haris Seferovic 
+Real Sociedad / Liga BBVA 
+74	ST	68	75	62	69	48	70	3 	2 	 / 	 Left	350	1,680		
+Granit Xhaka Granit Xhaka 
+Borussia Mgladbach / Bundesliga 
+74	CM	50	67	73	75	67	63	3 	4 	 / 	 Left	600	1,811		
+Reto Ziegler Reto Ziegler 
+Sassuolo / Serie A 
+73	LB	74	65	72	70	71	70	2 	3 	 / 	 Left	400	1,889		
+Pajtim Kasami Pajtim Kasami 
+Fulham / Barclays PL 
+73	CAM	70	66	72	74	61	64	2 	4 	 / 	 Left	550	1,760		
+Philippe Senderos Philippe Senderos 
+Fulham / Barclays PL 
+72	CB	45	34	48	37	74	72	2 	2 	 / 	 Right	800	1,360		
+Mario Eggimann Mario Eggimann 
+1. FC Union Berlin / Bundesliga 2 
+72	CB	35	39	50	43	73	76	2 	3 	 / 	 Right	500	1,396		
+ Roman Burki Roman Burki 
+Grasshopper Club Zürich / Raiffeisen SL 	
+72	GK	76	65	65	82	45	66	1 	2 	 / 	 Right	300	978		
+Steven Zuber Steven Zuber 
+CSKA Moskva / Russian League 
+72	LM	80	69	65	77	60	62	3 	4 	 / 	 Right	350	1,793		
+Philippe Senderos Philippe Senderos 
+Valencia CF / Liga BBVA 
+72	CB	45	34	48	37	74	72	2 	2 	 / 	 Right	350	1,360		
+Marco Streller Marco Streller 
+FC Basel / Raiffeisen SL 
+71	ST	50	68	66	63	62	77	3 	3 	 / 	 Left	350	1,671		
+Fabian Frei Fabian Frei 
+FC Basel / Raiffeisen SL 
+71	CM	75	74	71	68	65	70	2 	4 	 / 	 Right	500	1,845		
+Innocent Emeghara Innocent Emeghara 
+Livorno / Serie A 
+71	ST	89	61	53	73	40	70	3 	2 	 / 	 Right	500	1,580		
+Veroljub Salatic Veroljub Salatic 
+Grasshopper Club Zürich / Raiffeisen SL 
+70	CDM	62	54	63	60	73	70	2 	3 	 / 	 Right	550	1,731		
+Francois Affolter Francois Affolter 
+BSC Young Boys / Raiffeisen SL 
+70	CB	75	39	64	61	71	68	2 	3 	 / 	 Right	3,100	1,597		
+Francois Affolter Francois Affolter 
+FC Luzern / Raiffeisen SL 
+70	CB	75	39	64	61	71	68	2 	3 	 / 	 Right	600	1,597		
+Johan Vonlanthen Johan Vonlanthen 
+Grasshopper Club Zürich / Raiffeisen SL 
+69	CAM	77	69	66	78	42	65	4 	4 	 / 	 Right	750	1,705		
+Fabio Daprela Fabio Daprela 
+Palermo / Serie B 
+68	LB	85	53	64	69	65	70	2 	3 	 / 	 Left	450	1,727		
+Aleksandar Prijovic Aleksandar Prijovic 
+Djurgårdens IF / Allsvenskan 
+68	ST	71	61	50	71	46	65	4 	3 	 / 	 Right	350	1,477		
+Alain Nef Alain Nef 
+FC Zürich / Raiffeisen SL 
+67	CB	40	34	47	30	66	82	2 	2 	 / 	 Right	350	1,313		
+Christoph Spycher Christoph Spycher 
+BSC Young Boys / Raiffeisen SL 
+64	CDM	61	49	64	58	67	69	2 	3 	 / 	 Left	200	1,623		
+Michel Renggli Michel Renggli 
+FC Luzern / Raiffeisen SL 
+64	CDM	51	60	61	61	63	66	2 	3 	 / 	 Right	200	1,633		
+Marco Wolfli Marco Wolfli 
+BSC Young Boys / Raiffeisen SL 
+64	GK	69	52	74	70	53	63	1 	3 	 / 	 Left	200	910	
+Alain Schultz Alain Schultz 
+FC Aarau / Raiffeisen SL 
+64	CAM	70	64	64	59	49	48	3 	4 	 / 	 Right	200	1,569		
+Fabrizio Zambrella Fabrizio Zambrella 
+FC Lausanne-Sport / Raiffeisen SL 
+64	CAM	70	57	63	68	54	55	3 	3 	 / 	 Right	200	1,579		
+Germano Vailati Germano Vailati 
+FC Basel / Raiffeisen SL 
+64	GK	68	60	56	65	34	66	1 	3 	 / 	 Left	200	887		
+David Zibung David Zibung 
+FC Luzern / Raiffeisen SL 
+64	GK	68	57	62	72	31	57	1 	2 	 / 	 Right	200	876		
+Scott Sutter Scott Sutter 
+BSC Young Boys / Raiffeisen SL 
+64	RB	69	49	65	61	64	66	2 	3 	 / 	 Right	250	1,610		
+Leo Lacroix Leo Lacroix 
+FC Sion / Raiffeisen SL 
+64	CB	47	46	60	55	65	70	2 	3 	 / 	 Right	200	1,537		
+Benjamin Siegrist Benjamin Siegrist 
+Aston Villa / Barclays PL 
+64	GK	67	64	73	60	40	62	1 	1 	 / 	 Right	500	844		
+Arlind Ajeti Arlind Ajeti 
+FC Basel / Raiffeisen SL 
+64	CB	71	40	62	60	66	71	2 	3 	 / 	 Right	1,200	1,554		
+Benjamin Siegrist Benjamin Siegrist 
+Burton Albion / Football League 2 
+64	GK	67	64	73	60	40	62	1 	1 	 / 	 Right	250	844		
+Roland Battig Roland Battig 
+FC Thun / Raiffeisen SL 
+63	CDM	59	53	60	55	67	63	2 	3 	 / 	 Right	200	1,612		
+Swen Konig Swen Konig 
+FC Aarau / Raiffeisen SL 
+63	GK	58	63	64	68	59	62	1 	2 	 / 	 Right	200	980		
+Kay Voser Kay Voser 
+FC Basel / Raiffeisen SL 
+63	LB	81	50	63	65	62	62	2 	3 	 / 	 Right	200	1,651		
+Michael Lang Michael Lang 
+Grasshopper Club Zürich / Raiffeisen SL 
+63	RB	64	51	56	46	66	71	2 	3 	 / 	 Right	200	1,512		
+Mihael Kovacevic Mihael Kovacevic 
+Ross County / Scottish Prem 
+63	RB	68	35	54	56	63	64	2 	2 	 / 	 Right	1,000,000	1,401		
+Stefano Botta Stefano Botta 
+Ternana / Serie B 
+62	CM	69	53	67	62	54	60	2 	3 	 / 	 Left	200	1,605		
+Adrian Winter Adrian Winter 
+FC Luzern / Raiffeisen SL 
+62	RM	81	57	59	58	55	59	2 	2 	 / 	 Right	200	1,577		
+Dylan Gissi Dylan Gissi 
+Olimpo Bahía Blanca / Primera Division 
+61	CB	53	37	46	45	65	56	2 	3 	 / 	 Left	200	1,339		
+Loris Benito Loris Benito 
+FC Zürich / Raiffeisen SL 
+61	LB	81	46	55	63	64	49	2 	3 	 / 	 Left	250	1,542		
+Guillaume Katz Guillaume Katz 
+FC Lausanne-Sport / Raiffeisen SL 
+60	CB	59	36	49	43	58	72	2 	3 	 / 	 Right	200	1,326		
+Jonas Elmer Jonas Elmer 
+Toronto FC / MLS 
+59	LB	71	46	65	63	56	55	2 	3 	 / 	 Left	200	1,597		
+Raphael Spiegel Raphael Spiegel 
+West Ham United / Barclays PL 
+59	GK	58	60	56	62	56	57	1 	2 	 / 	 Right	200	995		
+Jerome Thiesson Jerome Thiesson 
+FC Luzern / Raiffeisen SL 
+58	RB	64	52	58	55	60	62	2 	3 	 / 	 Right	200	1,533		
+Yanick Brecher Yanick Brecher 
+FC Zürich / Raiffeisen SL 
+56	GK	55	55	59	62	42	51	1 	3 	 / 	 Right	200	884		
+Ferid Matri Ferid Matri 
+FC Luzern / Raiffeisen SL 
+56	CB	33	31	42	42	59	59	2 	3 	 / 	 Left	200	1,177
+Diego Benaglio Diego Benaglio 
+VfL Wolfsburg / Bundesliga 
+80	GK	84	75	72	83	42	76	1 	3 	 / 	 Right	450	946		
+Valon Behrami Valon Behrami 
+Napoli / Serie A 
+78	CM	75	67	78	76	78	72	3 	4 	 / 	 Right	400	2,025		
+Pirmin Schwegler Pirmin Schwegler 
+Eintracht Frankfurt / Bundesliga 
+77	CDM	69	70	78	76	74	73	3 	4 	 / 	 Right	400	1,970		
+Tranquillo Barnetta Tranquillo Barnetta 
+Eintracht Frankfurt / Bundesliga 
+76	LM	78	70	73	78	55	60	3 	4 	 / 	 Right	350	1,844		
+Blerim Dzemaili Blerim Dzemaili 
+Napoli / Serie A 
+76	CM	77	68	76	73	70	66	2 	3 	 / 	 Right	400	1,939		
+Yann Sommer Yann Sommer 
+FC Basel / Raiffeisen SL 
+76	GK	73	75	65	81	46	75	1 	4 	 / 	 Right	400	992		
+Valentin Stocker Valentin Stocker 
+FC Basel / Raiffeisen SL 
+76	LM	81	72	71	76	67	73	3 	4 	 / 	 Left	350	1,923		
+Timm Klose Timm Klose 
+VfL Wolfsburg / Bundesliga 
+76	CB	51	42	62	49	78	77	2 	3 	 / 	 Right	400	1,518		
+Johan Djourou Johan Djourou 
+Hamburger SV / Bundesliga 
+75	CB	72	34	63	58	76	77	2 	3 	 / 	 Right	350	1,550		
+Fabian Lustenberger Fabian Lustenberger 
+Hertha BSC / Bundesliga 
+75	CDM	68	40	72	66	75	74	2 	3 	 / 	 Right	350	1,728		
+Eren Derdiyok Eren Derdiyok 
+Bayer 04 Leverkusen / Bundesliga 
+75	ST	68	73	70	75	46	78	3 	3 	 / 	 Right	400	1,726		
+Ricardo Rodriguez Ricardo Rodriguez 
+VfL Wolfsburg / Bundesliga 
+74	LB	77	54	73	70	73	72	2 	3 	 / 	 Left	3,500	1,829		
+Gelson Fernandes Gelson Fernandes 
+SC Freiburg / Bundesliga 
+73	CDM	75	63	68	68	73	68	2 	3 	 / 	 Right	350	1,843		
+Stephane Grichting Stephane Grichting 
+Grasshopper Club Zürich / Raiffeisen SL 
+72	CB	46	40	54	48	73	76	2 	3 	 / 	 Left	200	1,460		
+Steve von Bergen Steve von Bergen 
+BSC Young Boys / Raiffeisen SL 	
+72	CB	68	34	60	45	73	75	2 	3 	 / 	 Right	4,900	1,533		
+Almen Abdi Almen Abdi 
+Watford / FL Championship 
+72	CAM	70	67	72	73	58	58	3 	4 	 / 	 Right	500	1,789		
+Albert Bunjaku Albert Bunjaku 
+1. FC Kaiserslautern / Bundesliga 2 
+72	ST	70	69	54	73	46	70	3 	4 	 / 	 Right	200	1,642		
+Migjen Basha Migjen Basha 
+Torino / Serie A 
+72	CM	68	62	74	68	67	59	2 	3 	 / 	 Right	200	1,800		
+Fabian Schar Fabian Schar 
+FC Basel / Raiffeisen SL 
+71	CB	68	60	64	63	72	75	2 	3 	 / 	 Right	250	1,747		
+Mijat Maric Mijat Maric 
+Lokeren / Pro League 
+70	CB	50	54	61	44	71	72	2 	4 	 / 	 Left	200	1,590		
+Mario Gavranovic Mario Gavranovic 
+FC Zürich / Raiffeisen SL 
+69	ST	78	61	58	75	49	65	3 	3 	 / 	 Right	250	1,619		
+Michel Morganella Michel Morganella 
+Palermo / Serie B 
+69	RM	76	51	69	68	70	62	2 	3 	 / 	 Right	500	1,760		
+Gaetano Berardi Gaetano Berardi 
+Sampdoria / Serie A 
+69	RB	78	42	62	57	70	65	2 	3 	 / 	 Right	200	1,634		
+Christian Schneuwly Christian Schneuwly 
+FC Thun / Raiffeisen SL 
+69	CAM	69	62	66	67	46	52	3 	3 	 / 	 Right	200	1,582		
+Jonathan Rossini Jonathan Rossini 
+Sassuolo / Serie A 	
+69	CB	69	39	53	52	70	71	2 	2 	 / 	 Right	1,300	1,495

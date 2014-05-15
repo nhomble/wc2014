@@ -1,0 +1,617 @@
+1921 262 home CostaRica ElSalvador 7 0 Central American Independence Centenary Cup
+1921 266 away CostaRica Guatemala 0 6 Central American Independence Centenary Cup
+1930 79 home CostaRica Guatemala 8 1 Central American Games
+1930 84 home CostaRica ElSalvador 9 2 Central American Games
+1930 88 home CostaRica ElSalvador 5 0 Central American Games
+1930 92 away CostaRica Cuba 2 1 Central American Games
+1930 97 home CostaRica Honduras 8 0 Central American Games
+1935 87 home CostaRica Guatemala 4 3 Central American Games
+1935 92 away CostaRica ElSalvador 1 6 Central American Games
+1935 93 home CostaRica Cuba 2 1 Central American Games
+1935 95 away CostaRica Mexico 2 0 Central American Games
+1935 96 home CostaRica Honduras 6 0 Central American Games
+1938 43 home CostaRica ElSalvador 7 0 Central American and Caribbean Games
+1938 47 away CostaRica Panama 0 11 Central American and Caribbean Games
+1938 49 home CostaRica Colombia 2 1 Central American and Caribbean Games
+1938 51 home CostaRica Venezuela 3 0 Central American and Caribbean Games
+1938 53 away CostaRica Mexico 2 1 Central American and Caribbean Games
+1940 56 away CostaRica ElSalvador 3 2 Friendly
+1940 72 away CostaRica ElSalvador 0 1 Friendly
+1941 134 home CostaRica Nicaragua 7 2 CCCF Championship
+1941 135 home CostaRica Panama 7 0 CCCF Championship
+1941 137 home CostaRica Curacao 6 2 CCCF Championship
+1941 142 home CostaRica ElSalvador 3 1 CCCF Championship
+1943 346 home CostaRica Nicaragua 7 0 CCCF Championship
+1943 348 away CostaRica Guatemala 3 2 CCCF Championship
+1943 350 away CostaRica ElSalvador 4 2 CCCF Championship
+1943 353 home CostaRica Nicaragua 3 2 CCCF Championship
+1943 357 away CostaRica Guatemala 4 2 CCCF Championship
+1943 360 away CostaRica ElSalvador 2 4 CCCF Championship
+1946 55 home CostaRica Nicaragua 7 1 CCCF Championship
+1946 57 home CostaRica Panama 7 0 CCCF Championship
+1946 69 home CostaRica Honduras 5 1 CCCF Championship
+1946 72 home CostaRica Guatemala 1 4 CCCF Championship
+1946 75 home CostaRica ElSalvador 4 0 CCCF Championship
+1946 351 home CostaRica PuertoRico 12 0 Central American and Caribbean Games
+1946 355 home CostaRica Venezuela 4 2 Central American and Caribbean Games
+1946 357 home CostaRica Guatemala 6 0 Central American and Caribbean Games
+1946 359 away CostaRica Colombia 4 1 Central American and Caribbean Games
+1946 361 away CostaRica Curacao 4 2 Central American and Caribbean Games
+1946 362 away CostaRica Panama 2 0 Central American and Caribbean Games
+1948 60 home CostaRica ElSalvador 3 1 CCCF Championship
+1948 64 home CostaRica Panama 7 0 CCCF Championship
+1948 66 away CostaRica Guatemala 1 1 CCCF Championship
+1948 69 home CostaRica NetherlandsAntilles 2 1 CCCF Championship
+1948 73 home CostaRica Panama 3 1 CCCF Championship
+1948 78 away CostaRica Guatemala 3 2 CCCF Championship
+1948 80 home CostaRica ElSalvador 6 0 CCCF Championship
+1948 82 away CostaRica NetherlandsAntilles 4 1 CCCF Championship
+1950 57 home CostaRica ElSalvador 1 0 Central American and Caribbean Games
+1950 58 home CostaRica Curacao 1 0 Central American and Caribbean Games
+1950 101 away CostaRica Panama 2 0 Friendly
+1950 102 away CostaRica Panama 0 1 Friendly
+1951 56 home CostaRica Nicaragua 8 1 CCCF Championship
+1951 58 away CostaRica Panama 2 0 CCCF Championship
+1951 64 away CostaRica Panama 1 1 CCCF Championship
+1951 65 home CostaRica Nicaragua 4 1 CCCF Championship
+1953 70 home CostaRica ElSalvador 5 1 CCCF Championship
+1953 72 home CostaRica Panama 3 0 CCCF Championship
+1953 75 home CostaRica Honduras 4 1 CCCF Championship
+1953 77 home CostaRica NetherlandsAntilles 1 0 CCCF Championship
+1953 79 home CostaRica Nicaragua 3 0 CCCF Championship
+1953 83 home CostaRica Guatemala 3 0 CCCF Championship
+1955 210 home CostaRica Guatemala 9 1 Friendly
+1955 217 away CostaRica Guatemala 3 1 Friendly
+1955 231 home CostaRica Aruba 3 2 CCCF Championship
+1955 233 home CostaRica Cuba 6 0 CCCF Championship
+1955 236 home CostaRica ElSalvador 4 0 CCCF Championship
+1955 241 home CostaRica NetherlandsAntilles 2 1 CCCF Championship
+1955 245 away CostaRica Honduras 1 2 CCCF Championship
+1956 57 away CostaRica Mexico 1 1 Pan American Championship
+1956 68 away CostaRica Argentina 4 3 Pan American Championship
+1956 70 home CostaRica Chile 2 1 Pan American Championship
+1956 75 away CostaRica Brazil 7 1 Pan American Championship
+1956 79 home CostaRica Peru 4 2 Pan American Championship
+1957 41 away CostaRica Guatemala 2 6 World Cup qualifier
+1957 48 home CostaRica Guatemala 3 1 World Cup qualifier
+1957 65 home CostaRica Curacao 4 0 World Cup qualifier
+1957 218 away CostaRica Curacao 1 2 World Cup qualifier
+1957 299 away CostaRica Mexico 2 0 World Cup qualifier
+1957 306 home CostaRica Mexico 1 1 World Cup qualifier
+1959 63 away CostaRica Mexico 3 1 Friendly tournament
+1959 70 home CostaRica Mexico 1 2 Friendly tournament
+1959 251 away CostaRica UnitedStates 3 4 Friendly
+1959 355 home CostaRica Honduras 6 1 Friendly tournament
+1960 48 home CostaRica NetherlandsAntilles 1 1 CCCF Championship
+1960 51 home CostaRica Honduras 1 1 CCCF Championship
+1960 55 home CostaRica DutchGuiana 3 1 CCCF Championship
+1960 59 away CostaRica Cuba 0 5 CCCF Championship
+1960 60 home CostaRica NetherlandsAntilles 4 1 CCCF Championship
+1960 70 home CostaRica Argentina 0 0 Pan American Championship
+1960 72 home CostaRica Brazil 3 0 Pan American Championship
+1960 74 home CostaRica Mexico 1 1 Pan American Championship
+1960 77 home CostaRica Argentina 0 2 Pan American Championship
+1960 79 home CostaRica Brazil 0 4 Pan American Championship
+1960 82 home CostaRica Mexico 0 3 Pan American Championship
+1960 238 home CostaRica Guatemala 3 2 World Cup qualifier
+1960 245 away CostaRica Guatemala 4 4 World Cup qualifier
+1960 252 away CostaRica Honduras 2 1 World Cup qualifier
+1960 259 home CostaRica Honduras 5 0 World Cup qualifier
+1961 14 home CostaRica Honduras 1 0 World Cup qualifier
+1961 63 home CostaRica Guatemala 4 2 CCCF Championship
+1961 67 home CostaRica Cuba 4 1 CCCF Championship
+1961 72 home CostaRica Haiti 3 0 CCCF Championship
+1961 76 home CostaRica Panama 6 1 CCCF Championship
+1961 78 home CostaRica ElSalvador 4 0 CCCF Championship
+1961 80 home CostaRica Haiti 8 0 CCCF Championship
+1961 82 home CostaRica Honduras 3 0 CCCF Championship
+1961 84 home CostaRica Mexico 1 0 World Cup qualifier
+1961 91 home CostaRica NetherlandsAntilles 6 0 World Cup qualifier
+1961 105 away CostaRica Mexico 4 1 World Cup qualifier
+1961 116 away CostaRica NetherlandsAntilles 2 0 World Cup qualifier
+1963 86 home CostaRica Jamaica 6 0 Concacaf Championship
+1963 90 home CostaRica NetherlandsAntilles 1 0 Concacaf Championship
+1963 92 home CostaRica Mexico 0 0 Concacaf Championship
+1963 96 home CostaRica NetherlandsAntilles 1 0 Concacaf Championship
+1963 98 home CostaRica Honduras 2 1 Concacaf Championship
+1963 100 away CostaRica ElSalvador 1 4 Concacaf Championship
+1963 249 away CostaRica Colombia 4 5 Friendly
+1963 252 away CostaRica Colombia 1 0 Friendly
+1965 43 home CostaRica DutchGuiana 1 0 World Cup qualifier
+1965 52 home CostaRica TrinidadTobago 4 0 World Cup qualifier
+1965 53 home CostaRica TrinidadTobago 1 0 Friendly
+1965 59 away CostaRica DutchGuiana 1 3 World Cup qualifier
+1965 69 away CostaRica TrinidadTobago 0 1 World Cup qualifier
+1965 71 away CostaRica NetherlandsAntilles 1 2 Friendly
+1965 79 home CostaRica Paraguay 1 0 Friendly
+1965 81 home CostaRica Paraguay 0 0 Friendly
+1965 90 away CostaRica Guatemala 0 0 Concacaf Championship
+1965 93 away CostaRica ElSalvador 2 1 Concacaf Championship
+1965 96 home CostaRica NetherlandsAntilles 6 0 Concacaf Championship
+1965 99 home CostaRica Mexico 1 1 Concacaf Championship
+1965 103 home CostaRica Haiti 3 1 Concacaf Championship
+1965 118 home CostaRica Mexico 0 0 World Cup qualifier
+1965 135 home CostaRica Jamaica 7 0 World Cup qualifier
+1965 140 away CostaRica Mexico 1 0 World Cup qualifier
+1965 146 away CostaRica Jamaica 1 1 World Cup qualifier
+1965 197 away CostaRica Honduras 1 1 Friendly
+1967 287 home CostaRica Haiti 3 1 Olympic Games qualifier
+1967 308 away CostaRica ElSalvador 3 1 Friendly
+1967 350 away CostaRica Haiti 3 2 Olympic Games qualifier
+1968 39 home CostaRica Colombia 3 1 Friendly
+1968 150 away CostaRica Guatemala 1 0 Olympic Games qualifier
+1968 157 home CostaRica Guatemala 3 2 Olympic Games qualifier
+1968 259 away CostaRica ElSalvador 1 1 Friendly
+1968 270 away CostaRica Colombia 1 1 Friendly
+1968 283 away CostaRica NetherlandsAntilles 1 1 Friendly
+1968 324 home CostaRica ElSalvador 3 0 Friendly
+1968 337 home CostaRica Jamaica 3 0 World Cup qualifier
+1968 342 home CostaRica Jamaica 3 1 World Cup qualifier
+1968 363 away CostaRica Honduras 1 0 World Cup qualifier
+1968 370 home CostaRica Honduras 1 1 World Cup qualifier
+1969 262 away CostaRica ElSalvador 2 1 Friendly
+1969 333 home CostaRica NetherlandsAntilles 2 1 Concacaf Championship
+1969 337 home CostaRica Guatemala 1 1 Concacaf Championship
+1969 343 home CostaRica Mexico 2 0 Concacaf Championship
+1969 346 home CostaRica TrinidadTobago 5 0 Concacaf Championship
+1969 349 home CostaRica Jamaica 3 0 Concacaf Championship
+1970 57 home CostaRica ElSalvador 2 0 Friendly
+1971 332 home CostaRica Honduras 2 1 Concacaf Championship
+1971 335 home CostaRica Haiti 0 0 Concacaf Championship
+1971 339 away CostaRica TrinidadTobago 3 1 Concacaf Championship
+1971 343 away CostaRica Mexico 1 0 Concacaf Championship
+1971 344 home CostaRica Cuba 3 0 Concacaf Championship
+1972 223 away CostaRica Mexico 0 1 Friendly
+1972 280 home CostaRica ElSalvador 2 0 Friendly
+1972 287 home CostaRica ElSalvador 1 0 Friendly
+1972 291 away CostaRica Mexico 3 1 Friendly
+1972 294 away CostaRica Guatemala 0 0 Friendly
+1972 322 home CostaRica Guatemala 1 1 Friendly
+1972 344 away CostaRica Honduras 2 1 World Cup qualifier
+1972 351 home CostaRica Honduras 3 3 World Cup qualifier
+1975 168 away CostaRica Panama 1 1 Friendly
+1975 213 home CostaRica ElSalvador 1 0 Olympic Games qualifier
+1975 220 away CostaRica ElSalvador 1 2 Olympic Games qualifier
+1975 234 away CostaRica Mexico 7 0 Copa Ciudad de Mexico
+1975 236 home CostaRica UnitedStates 3 1 Copa Ciudad de Mexico
+1975 241 away CostaRica Argentina 2 0 Copa Ciudad de Mexico
+1975 340 home CostaRica Guatemala 1 1 Olympic Games qualifier
+1975 348 away CostaRica Guatemala 2 1 Olympic Games qualifier
+1976 97 away CostaRica Panama 3 2 World Cup qualifier
+1976 185 away CostaRica Guatemala 1 0 Friendly
+1976 197 home CostaRica Panama 3 0 World Cup qualifier
+1976 342 away CostaRica ElSalvador 1 1 World Cup qualifier
+1976 346 home CostaRica Guatemala 0 0 World Cup qualifier
+1976 353 away CostaRica Guatemala 1 1 World Cup qualifier
+1976 356 home CostaRica ElSalvador 1 1 World Cup qualifier
+1977 165 home CostaRica Panama 2 1 Friendly
+1978 307 away CostaRica Mexico 1 3 Friendly
+1979 85 away CostaRica Panama 2 2 Friendly
+1979 146 home CostaRica Panama 4 0 Olympic Games qualifier
+1979 149 home CostaRica Panama 2 0 Olympic Games qualifier
+1979 155 away CostaRica Mexico 0 0 Friendly
+1979 211 home CostaRica Guatemala 1 2 Olympic Games qualifier
+1979 222 away CostaRica Guatemala 0 1 Olympic Games qualifier
+1979 243 home CostaRica Guatemala 1 0 Olympic Games qualifier
+1980 68 away CostaRica Honduras 1 1 Friendly
+1980 74 home CostaRica Surinam 3 2 Olympic Games qualifier
+1980 92 away CostaRica Surinam 2 3 Olympic Games qualifier
+1980 109 home CostaRica Honduras 1 1 Friendly
+1980 144 away CostaRica Guatemala 0 0 Friendly
+1980 153 home CostaRica Guatemala 2 1 Friendly
+1980 167 away CostaRica Colombia 3 1 Friendly
+1980 174 home CostaRica Colombia 1 0 Friendly
+1980 179 home CostaRica Cuba 3 0 Friendly
+1980 187 away CostaRica Venezuela 2 0 Friendly
+1980 191 away CostaRica Venezuela 1 1 Friendly
+1980 227 away CostaRica Panama 1 1 World Cup qualifier
+1980 280 home CostaRica Honduras 2 3 World Cup qualifier
+1980 291 away CostaRica Guatemala 0 0 World Cup qualifier
+1980 315 home CostaRica Panama 2 0 World Cup qualifier
+1980 326 away CostaRica Honduras 1 1 World Cup qualifier
+1980 336 home CostaRica Guatemala 0 3 World Cup qualifier
+1980 351 home CostaRica ElSalvador 0 0 World Cup qualifier
+1983 77 home CostaRica Mexico 0 1 Friendly
+1983 84 away CostaRica Mexico 1 0 Friendly
+1983 135 away CostaRica Honduras 0 1 Olympic Games qualifier
+1983 142 home CostaRica Honduras 3 2 Olympic Games qualifier
+1983 219 home CostaRica Cuba 3 0 Friendly
+1983 221 home CostaRica Cuba 2 0 Friendly
+1983 226 home CostaRica SouthKorea 1 1 Friendly
+1983 302 home CostaRica Guatemala 1 0 Olympic Games qualifier
+1983 309 away CostaRica Guatemala 1 1 Olympic Games qualifier
+1984 64 home CostaRica Cuba 1 0 Olympic Games qualifier
+1984 78 away CostaRica Cuba 0 0 Olympic Games qualifier
+1984 86 away CostaRica Panama 1 1 Friendly
+1985 37 home CostaRica ElSalvador 2 1 Friendly
+1985 44 away CostaRica ElSalvador 1 0 Friendly
+1985 48 away CostaRica Guatemala 1 0 Friendly
+1985 68 home CostaRica Guatemala 2 0 Friendly
+1985 83 home CostaRica Canada 1 0 Friendly
+1985 86 home CostaRica Canada 0 0 Friendly
+1985 117 home CostaRica TrinidadTobago 3 0 World Cup qualifier
+1985 121 home CostaRica TrinidadTobago 1 1 World Cup qualifier
+1985 150 home CostaRica UnitedStates 1 1 World Cup qualifier
+1985 155 away CostaRica UnitedStates 0 1 World Cup qualifier
+1985 204 home CostaRica TrinidadTobago 3 1 Friendly
+1985 228 home CostaRica Honduras 2 2 World Cup qualifier
+1985 234 away CostaRica Canada 1 1 World Cup qualifier
+1985 249 home CostaRica Canada 0 0 World Cup qualifier
+1985 256 away CostaRica Honduras 3 1 World Cup qualifier
+1988 6 away CostaRica Guatemala 1 2 Friendly
+1988 64 home CostaRica Guatemala 2 1 Friendly
+1988 169 away CostaRica UnitedStates 1 0 Friendly
+1988 172 away CostaRica Canada 0 1 Friendly
+1988 174 home CostaRica Ecuador 1 0 Friendly
+1988 187 away CostaRica NetherlandsAntilles 1 1 Friendly
+1988 189 away CostaRica NetherlandsAntilles 1 0 Friendly
+1988 203 home CostaRica Panama 1 1 World Cup qualifier
+1988 217 away CostaRica Panama 0 2 World Cup qualifier
+1989 39 home CostaRica Poland 2 4 Friendly
+1989 52 away CostaRica ElSalvador 2 1 Friendship Cup
+1989 54 away CostaRica Guatemala 3 2 Friendship Cup
+1989 81 away CostaRica Guatemala 1 0 World Cup qualifier
+1989 95 home CostaRica Guatemala 2 1 World Cup qualifier
+1989 109 home CostaRica UnitedStates 1 0 World Cup qualifier
+1989 123 away CostaRica UnitedStates 1 0 World Cup qualifier
+1989 152 away CostaRica TrinidadTobago 1 1 World Cup qualifier
+1989 166 home CostaRica TrinidadTobago 1 0 World Cup qualifier
+1989 180 away CostaRica ElSalvador 2 4 World Cup qualifier
+1989 202 home CostaRica ElSalvador 1 0 World Cup qualifier
+1990 33 away CostaRica UnitedStates 0 2 Friendly tournament
+1990 35 away CostaRica Uruguay 2 0 Friendly tournament
+1990 53 away CostaRica SovietUnion 2 1 Friendly tournament
+1990 130 away CostaRica Poland 2 0 Friendly tournament
+1990 143 away CostaRica Wales 1 0 Friendly
+1990 166 home CostaRica Scotland 1 0 World Cup
+1990 171 away CostaRica Brazil 1 0 World Cup
+1990 175 home CostaRica Sweden 2 1 World Cup
+1990 178 home CostaRica Czechoslovakia 1 4 World Cup
+1991 110 home CostaRica Mexico 0 0 Friendly
+1991 137 home CostaRica Uruguay 0 1 Friendly
+1991 150 home CostaRica Honduras 2 0 UNCAF Cup
+1991 153 home CostaRica ElSalvador 7 1 UNCAF Cup
+1991 157 home CostaRica Guatemala 1 0 UNCAF Cup
+1991 180 home CostaRica Colombia 0 1 Friendly
+1991 184 home CostaRica Guatemala 2 0 Concacaf Gold Cup
+1991 187 away CostaRica TrinidadTobago 2 1 Concacaf Gold Cup
+1991 189 away CostaRica UnitedStates 3 2 Concacaf Gold Cup
+1991 191 away CostaRica Honduras 2 0 Concacaf Gold Cup
+1991 193 away CostaRica Mexico 2 0 Concacaf Gold Cup
+1991 334 away CostaRica UnitedStates 1 1 Friendly
+1991 337 home CostaRica Mexico 1 1 Friendly
+1992 43 home CostaRica UnitedStates 0 0 Friendly
+1992 66 home CostaRica ElSalvador 2 0 Friendly
+1992 122 away CostaRica ElSalvador 1 1 Friendly
+1992 151 home CostaRica Ecuador 2 1 Friendly
+1992 219 away CostaRica Uruguay 2 1 Friendly
+1992 223 away CostaRica Ecuador 1 1 Friendly
+1992 233 away CostaRica Panama 1 0 World Cup qualifier
+1992 240 home CostaRica Panama 5 1 World Cup qualifier
+1992 271 away CostaRica Brazil 4 2 Friendly
+1992 318 home CostaRica Honduras 2 3 World Cup qualifier
+1992 325 away CostaRica St. Vincent & Grenadines 0 1 World Cup qualifier
+1992 332 away CostaRica Mexico 4 0 World Cup qualifier
+1992 339 home CostaRica Mexico 2 0 World Cup qualifier
+1992 346 away CostaRica Honduras 2 1 World Cup qualifier
+1992 354 home CostaRica St. Vincent & Grenadines 5 0 World Cup qualifier
+1993 47 home CostaRica Nicaragua 6 0 UNCAF Cup
+1993 52 home CostaRica Nicaragua 2 0 UNCAF Cup
+1993 67 home CostaRica ElSalvador 1 0 UNCAF Cup
+1993 69 away CostaRica Honduras 2 0 UNCAF Cup
+1993 71 home CostaRica Panama 2 0 UNCAF Cup
+1993 86 home CostaRica Canada 0 1 Friendly
+1993 93 away CostaRica Colombia 4 1 Friendly
+1993 178 home CostaRica Panama 3 1 Friendly
+1993 184 home CostaRica Mexico 0 2 Friendly
+1993 190 away CostaRica Jamaica 1 1 Friendly
+1993 197 away CostaRica Canada 1 1 Concacaf Gold Cup
+1993 201 away CostaRica Mexico 1 1 Concacaf Gold Cup
+1993 204 home CostaRica Martinique 3 1 Concacaf Gold Cup
+1993 207 away CostaRica UnitedStates 1 0 Concacaf Gold Cup
+1993 211 home CostaRica Jamaica 1 1 Concacaf Gold Cup
+1993 271 away CostaRica SaudiArabia 1 2 Friendly
+1993 275 away CostaRica SaudiArabia 3 2 Friendly
+1994 19 home CostaRica Norway 0 0 Friendly
+1994 166 away CostaRica Italy 1 0 Friendly
+1994 358 away CostaRica SaudiArabia 1 3 Friendly
+1995 152 away CostaRica UnitedStates 1 2 Friendly
+1995 160 away CostaRica SouthKorea 1 0 Korea Cup
+1995 165 away CostaRica Ecuador 2 1 Korea Cup
+1995 223 away CostaRica Japan 3 0 Friendly
+1995 275 away CostaRica Jamaica 2 0 Friendly
+1995 342 home CostaRica Belize 2 1 UNCAF Cup
+1995 344 away CostaRica ElSalvador 2 1 UNCAF Cup
+1995 348 away CostaRica Honduras 1 1 UNCAF Cup
+1995 351 away CostaRica ElSalvador 2 1 UNCAF Cup
+1996 160 away CostaRica Canada 0 1 Friendly
+1996 221 home CostaRica Honduras 1 1 Friendly
+1996 228 away CostaRica Honduras 0 0 Friendly
+1996 231 away CostaRica Peru 3 0 Friendly
+1996 233 away CostaRica Ecuador 1 1 Friendly
+1996 243 home CostaRica Chile 1 1 Friendly
+1996 249 away CostaRica TrinidadTobago 0 1 World Cup qualifier
+1996 252 away CostaRica Jamaica 2 0 Friendly
+1996 281 away CostaRica Venezuela 2 0 Friendly
+1996 288 home CostaRica Jamaica 0 0 Friendly
+1996 312 home CostaRica Panama 2 0 Friendly
+1996 327 home CostaRica Guatemala 3 0 World Cup qualifier
+1996 334 away CostaRica Guatemala 1 0 World Cup qualifier
+1996 342 home CostaRica UnitedStates 2 1 World Cup qualifier
+1996 355 away CostaRica UnitedStates 2 1 World Cup qualifier
+1996 362 home CostaRica TrinidadTobago 2 1 World Cup qualifier
+1997 36 home CostaRica Slovakia 2 2 Friendly
+1997 50 home CostaRica Venezuela 5 2 Friendly
+1997 71 home CostaRica Cameroon 5 0 Friendly
+1997 78 home CostaRica Mexico 0 0 World Cup qualifier
+1997 85 home CostaRica UnitedStates 3 2 World Cup qualifier
+1997 109 away CostaRica Guatemala 1 1 UNCAF Cup
+1997 111 home CostaRica Nicaragua 5 1 UNCAF Cup
+1997 116 home CostaRica Honduras 4 0 UNCAF Cup
+1997 118 home CostaRica ElSalvador 1 0 UNCAF Cup
+1997 120 away CostaRica Guatemala 1 1 UNCAF Cup
+1997 128 away CostaRica ElSalvador 2 1 World Cup qualifier
+1997 135 home CostaRica Jamaica 3 1 World Cup qualifier
+1997 156 away CostaRica Canada 1 0 World Cup qualifier
+1997 168 away CostaRica Brazil 5 0 Copa América
+1997 171 away CostaRica Colombia 4 1 Copa América
+1997 174 away CostaRica Mexico 1 1 Copa América
+1997 227 home CostaRica ElSalvador 0 0 World Cup qualifier
+1997 255 away CostaRica UnitedStates 1 0 World Cup qualifier
+1997 262 away CostaRica Jamaica 1 0 World Cup qualifier
+1997 319 away CostaRica Mexico 3 3 World Cup qualifier
+1997 326 home CostaRica Canada 3 1 World Cup qualifier
+1998 22 home CostaRica Honduras 1 4 Friendly
+1998 25 home CostaRica TrinidadTobago 4 0 Friendly
+1998 35 home CostaRica Cuba 7 2 Concacaf Gold Cup
+1998 38 away CostaRica UnitedStates 2 1 Concacaf Gold Cup
+1999 27 home CostaRica Ecuador 0 0 Friendly
+1999 41 away CostaRica Jamaica 1 1 Friendly
+1999 55 home CostaRica Jamaica 9 0 Friendly
+1999 79 home CostaRica Belize 7 0 UNCAF Cup
+1999 83 home CostaRica Honduras 0 1 UNCAF Cup
+1999 86 home CostaRica Guatemala 1 0 UNCAF Cup
+1999 88 home CostaRica Honduras 1 2 UNCAF Cup
+1999 90 home CostaRica ElSalvador 4 0 UNCAF Cup
+1999 153 away CostaRica Chile 3 0 Friendly
+1999 203 home CostaRica SaudiArabia 1 0 Friendly
+1999 235 away CostaRica Uruguay 5 4 Friendly
+1999 335 home CostaRica Slovakia 4 0 Friendly
+1999 370 home CostaRica Honduras 1 1 Friendly
+2000 26 home CostaRica TrinidadTobago 2 1 Friendly
+2000 33 home CostaRica Chile 1 0 Friendly
+2000 44 home CostaRica Canada 2 2 Concacaf Gold Cup
+2000 48 home CostaRica SouthKorea 2 2 Concacaf Gold Cup
+2000 51 away CostaRica TrinidadTobago 2 1 Concacaf Gold Cup
+2000 176 away CostaRica Paraguay 1 0 Friendly
+2000 187 home CostaRica Panama 5 1 Friendly
+2000 195 home CostaRica St. Vincent & Grenadines 7 1 Friendly
+2000 202 away CostaRica Barbados 2 1 World Cup qualifier
+2000 209 home CostaRica UnitedStates 2 1 World Cup qualifier
+2000 227 home CostaRica Venezuela 1 5 Friendly
+2000 232 home CostaRica Guatemala 2 1 World Cup qualifier
+2000 251 home CostaRica Barbados 3 0 World Cup qualifier
+2000 290 away CostaRica UnitedStates 0 0 World Cup qualifier
+2000 325 away CostaRica Guatemala 2 1 World Cup qualifier
+2001 6 home CostaRica Guatemala 5 2 World Cup qualifier
+2001 59 home CostaRica Honduras 2 2 World Cup qualifier
+2001 90 home CostaRica TrinidadTobago 3 0 World Cup qualifier
+2001 111 home CostaRica Venezuela 2 2 Friendly
+2001 118 away CostaRica UnitedStates 1 0 World Cup qualifier
+2001 147 home CostaRica Belize 4 0 UNCAF Cup
+2001 151 home CostaRica Guatemala 1 1 UNCAF Cup
+2001 154 home CostaRica Panama 2 1 UNCAF Cup
+2001 156 away CostaRica Guatemala 2 0 UNCAF Cup
+2001 158 away CostaRica ElSalvador 1 1 UNCAF Cup
+2001 171 away CostaRica Mexico 1 2 World Cup qualifier
+2001 175 home CostaRica Jamaica 2 1 World Cup qualifier
+2001 187 away CostaRica Honduras 2 3 World Cup qualifier
+2001 199 home CostaRica Honduras 1 0 Copa América
+2001 202 home CostaRica Uruguay 1 1 Copa América
+2001 205 home CostaRica Bolivia 4 0 Copa América
+2001 208 away CostaRica Uruguay 2 1 Copa América
+2001 249 away CostaRica TrinidadTobago 0 2 World Cup qualifier
+2001 253 home CostaRica UnitedStates 2 0 World Cup qualifier
+2001 286 home CostaRica Mexico 0 0 World Cup qualifier
+2001 321 away CostaRica Jamaica 0 1 World Cup qualifier
+2002 18 home CostaRica Martinique 2 0 Concacaf Gold Cup
+2002 20 away CostaRica TrinidadTobago 1 1 Concacaf Gold Cup
+2002 26 home CostaRica Haiti 2 1 Concacaf Gold Cup
+2002 30 home CostaRica SouthKorea 3 1 Concacaf Gold Cup
+2002 33 away CostaRica UnitedStates 2 0 Concacaf Gold Cup
+2002 110 away CostaRica Japan 1 1 Friendly
+2002 113 away CostaRica SouthKorea 2 0 Friendly
+2002 133 home CostaRica Colombia 1 2 Friendly
+2002 150 away CostaRica Belgium 1 0 Friendly
+2002 159 home CostaRica China 2 0 World Cup
+2002 164 home CostaRica Turkey 1 1 World Cup
+2002 168 away CostaRica Brazil 5 2 World Cup
+2002 295 home CostaRica Ecuador 1 1 Friendly
+2002 330 away CostaRica Ecuador 2 2 Friendly
+2003 42 home CostaRica ElSalvador 1 0 UNCAF Cup
+2003 44 home CostaRica Guatemala 1 1 UNCAF Cup
+2003 46 home CostaRica Nicaragua 1 0 UNCAF Cup
+2003 51 home CostaRica Honduras 1 0 UNCAF Cup
+2003 54 away CostaRica Panama 0 1 UNCAF Cup
+2003 91 home CostaRica Paraguay 2 1 Friendly
+2003 123 away CostaRica Chile 1 0 Friendly
+2003 163 home CostaRica Chile 1 0 Friendly
+2003 198 away CostaRica Canada 1 0 Concacaf Gold Cup
+2003 202 home CostaRica Cuba 3 0 Concacaf Gold Cup
+2003 205 home CostaRica ElSalvador 5 2 Concacaf Gold Cup
+2003 210 away CostaRica Mexico 2 0 Concacaf Gold Cup
+2003 212 away CostaRica UnitedStates 3 2 Concacaf Gold Cup
+2003 237 away CostaRica Austria 2 0 Friendly
+2003 255 home CostaRica China 2 0 Friendly
+2003 290 away CostaRica SouthAfrica 2 1 Friendly
+2003 329 home CostaRica Finland 2 1 Friendly
+2004 93 away CostaRica Mexico 2 0 Friendly
+2004 159 home CostaRica Nicaragua 5 1 Friendly
+2004 167 away CostaRica Cuba 2 2 World Cup qualifier
+2004 175 home CostaRica Cuba 1 1 World Cup qualifier
+2004 194 away CostaRica Paraguay 1 0 Copa América
+2004 197 away CostaRica Brazil 4 1 Copa América
+2004 200 home CostaRica Chile 2 1 Copa América
+2004 203 away CostaRica Colombia 2 0 Copa América
+2004 235 home CostaRica Honduras 2 5 World Cup qualifier
+2004 253 away CostaRica Guatemala 2 1 World Cup qualifier
+2004 256 home CostaRica Canada 1 0 World Cup qualifier
+2004 288 home CostaRica Guatemala 5 0 World Cup qualifier
+2004 292 away CostaRica Canada 1 3 World Cup qualifier
+2004 327 away CostaRica Honduras 0 0 World Cup qualifier
+2005 12 home CostaRica Haiti 3 3 Friendly
+2005 40 home CostaRica Mexico 1 2 World Cup qualifier
+2005 47 home CostaRica Ecuador 1 2 Friendly
+2005 52 home CostaRica ElSalvador 2 1 UNCAF Cup
+2005 54 home CostaRica Panama 1 0 UNCAF Cup
+2005 56 away CostaRica Guatemala 0 4 UNCAF Cup
+2005 58 home CostaRica Honduras 1 1 UNCAF Cup
+2005 88 home CostaRica Panama 2 1 World Cup qualifier
+2005 92 away CostaRica TrinidadTobago 0 0 World Cup qualifier
+2005 148 away CostaRica Norway 1 0 Friendly
+2005 159 away CostaRica UnitedStates 3 0 World Cup qualifier
+2005 163 home CostaRica Guatemala 3 2 World Cup qualifier
+2005 174 away CostaRica China 2 2 Friendly
+2005 177 away CostaRica China 2 0 Friendly
+2005 193 home CostaRica Canada 1 0 Concacaf Gold Cup
+2005 195 home CostaRica Cuba 3 1 Concacaf Gold Cup
+2005 198 away CostaRica UnitedStates 0 0 Concacaf Gold Cup
+2005 202 away CostaRica Honduras 3 2 Concacaf Gold Cup
+2005 234 away CostaRica Mexico 2 0 World Cup qualifier
+2005 251 away CostaRica Panama 1 3 World Cup qualifier
+2005 255 home CostaRica TrinidadTobago 2 0 World Cup qualifier
+2005 287 home CostaRica UnitedStates 3 0 World Cup qualifier
+2005 291 away CostaRica Guatemala 3 1 World Cup qualifier
+2005 319 away CostaRica France 3 2 Friendly
+2006 42 home CostaRica SouthKorea 1 0 Friendly
+2006 63 away CostaRica Iran 3 2 Friendly
+2006 152 away CostaRica Ukraine 4 0 Friendly
+2006 154 away CostaRica Czechia 1 0 Friendly
+2006 164 away CostaRica Germany 4 2 World Cup
+2006 170 away CostaRica Ecuador 3 0 World Cup
+2006 175 away CostaRica Poland 2 1 World Cup
+2006 250 away CostaRica Austria 2 2 Friendly tournament
+2006 254 away CostaRica Switzerland 2 0 Friendly tournament
+2007 35 home CostaRica TrinidadTobago 4 0 Friendly
+2007 40 home CostaRica Honduras 3 1 UNCAF Cup
+2007 44 away CostaRica Panama 1 0 UNCAF Cup
+2007 47 away CostaRica ElSalvador 0 2 UNCAF Cup
+2007 49 home CostaRica Panama 1 1 UNCAF Cup
+2007 86 home CostaRica NewZealand 4 0 Friendly
+2007 90 away CostaRica Chile 1 1 Friendly
+2007 157 home CostaRica Chile 2 0 Friendly
+2007 161 away CostaRica Canada 2 1 Concacaf Gold Cup
+2007 164 home CostaRica Haiti 1 1 Concacaf Gold Cup
+2007 166 home CostaRica Guadeloupe 1 0 Concacaf Gold Cup
+2007 172 away CostaRica Mexico 1 0 Concacaf Gold Cup
+2007 239 home CostaRica Peru 1 1 Friendly
+2007 257 home CostaRica Honduras 0 0 Friendly
+2007 260 away CostaRica Canada 1 1 Friendly
+2007 292 away CostaRica ElSalvador 2 2 Friendly
+2007 296 home CostaRica Haiti 1 1 Friendly
+2007 331 away CostaRica Panama 1 1 Friendly
+2008 13 home CostaRica Sweden 0 1 Friendly
+2008 30 away CostaRica Iran 0 0 Friendly
+2008 37 away CostaRica Jamaica 1 1 Friendly
+2008 88 away CostaRica Peru 3 1 Friendly
+2008 169 away CostaRica Grenada 2 2 World Cup qualifier
+2008 176 home CostaRica Grenada 3 0 World Cup qualifier
+2008 237 home CostaRica ElSalvador 1 0 World Cup qualifier
+2008 254 home CostaRica Surinam 7 0 World Cup qualifier
+2008 258 away CostaRica Haiti 1 3 World Cup qualifier
+2008 290 away CostaRica Surinam 1 4 World Cup qualifier
+2008 294 home CostaRica Haiti 2 0 World Cup qualifier
+2008 329 away CostaRica ElSalvador 1 3 World Cup qualifier
+2009 23 home CostaRica Panama 3 0 UNCAF Cup
+2009 25 home CostaRica Guatemala 3 1 UNCAF Cup
+2009 30 home CostaRica ElSalvador 1 0 UNCAF Cup
+2009 32 away CostaRica Panama 0 0 UNCAF Cup
+2009 42 home CostaRica Honduras 2 0 World Cup qualifier
+2009 90 away CostaRica Mexico 2 0 World Cup qualifier
+2009 94 home CostaRica ElSalvador 1 0 World Cup qualifier
+2009 137 away CostaRica Venezuela 1 1 Friendly
+2009 158 home CostaRica UnitedStates 3 1 World Cup qualifier
+2009 161 away CostaRica TrinidadTobago 2 3 World Cup qualifier
+2009 182 home CostaRica Venezuela 1 0 Friendly
+2009 189 away CostaRica ElSalvador 2 1 Concacaf Gold Cup
+2009 193 home CostaRica Jamaica 1 0 Concacaf Gold Cup
+2009 196 away CostaRica Canada 2 2 Concacaf Gold Cup
+2009 205 home CostaRica Guadeloupe 5 1 Concacaf Gold Cup
+2009 209 home CostaRica Mexico 1 1 Concacaf Gold Cup
+2009 229 away CostaRica Honduras 4 0 World Cup qualifier
+2009 253 home CostaRica Mexico 0 3 World Cup qualifier
+2009 257 away CostaRica ElSalvador 1 0 World Cup qualifier
+2009 289 home CostaRica TrinidadTobago 4 0 World Cup qualifier
+2009 293 away CostaRica UnitedStates 2 2 World Cup qualifier
+2009 324 home CostaRica Uruguay 0 1 World Cup qualifier
+2009 328 away CostaRica Uruguay 1 1 World Cup qualifier
+2010 26 away CostaRica Argentina 3 2 Friendly
+2010 150 away CostaRica France 2 1 Friendly
+2010 156 away CostaRica Switzerland 0 1 Friendly
+2010 160 away CostaRica Slovakia 3 0 Friendly
+2010 228 away CostaRica Paraguay 2 0 Friendly
+2010 251 away CostaRica Panama 2 2 Friendly
+2010 253 away CostaRica Jamaica 1 0 Friendly
+2010 287 away CostaRica Peru 2 0 Friendly
+2010 291 home CostaRica ElSalvador 2 1 Friendly
+2010 327 home CostaRica Jamaica 0 0 Friendly
+2011 14 home CostaRica Honduras 1 1 UNCAF Cup
+2011 16 home CostaRica Guatemala 2 0 UNCAF Cup
+2011 21 away CostaRica Panama 1 1 UNCAF Cup
+2011 23 away CostaRica Honduras 2 1 UNCAF Cup
+2011 40 away CostaRica Venezuela 2 2 Friendly
+2011 88 home CostaRica China 2 2 Friendly
+2011 91 home CostaRica Argentina 0 0 Friendly
+2011 160 home CostaRica Cuba 5 0 Concacaf Gold Cup
+2011 164 home CostaRica ElSalvador 1 1 Concacaf Gold Cup
+2011 167 away CostaRica Mexico 4 1 Concacaf Gold Cup
+2011 173 home CostaRica Honduras 1 1 Concacaf Gold Cup
+2011 188 away CostaRica Colombia 1 0 Copa América
+2011 193 home CostaRica Bolivia 2 0 Copa América
+2011 197 away CostaRica Argentina 3 0 Copa América
+2011 227 home CostaRica Ecuador 0 2 Friendly
+2011 250 away CostaRica UnitedStates 0 1 Friendly
+2011 254 away CostaRica Ecuador 4 0 Friendly
+2011 286 home CostaRica Brazil 0 1 Friendly
+2011 321 away CostaRica Panama 2 0 Friendly
+2011 325 home CostaRica Spain 2 2 Friendly
+2011 352 away CostaRica Cuba 1 1 Friendly
+2011 363 away CostaRica Venezuela 0 2 Friendly
+2012 60 away CostaRica Wales 0 1 Friendly
+2012 83 away CostaRica Jamaica 0 0 Friendly
+2012 104 home CostaRica Honduras 1 1 Friendly
+2012 149 home CostaRica Guatemala 3 2 Friendly
+2012 156 away CostaRica Guatemala 1 0 Friendly
+2012 163 home CostaRica ElSalvador 2 2 World Cup qualifier
+2012 167 away CostaRica Guyana 0 4 World Cup qualifier
+2012 232 home CostaRica Peru 0 1 Friendly
+2012 255 home CostaRica Mexico 0 2 World Cup qualifier
+2012 259 away CostaRica Mexico 1 0 World Cup qualifier
+2012 291 away CostaRica ElSalvador 0 1 World Cup qualifier
+2012 295 home CostaRica Guyana 7 0 World Cup qualifier
+2012 324 away CostaRica Bolivia 1 1 Friendly
+2013 18 home CostaRica Belize 1 0 UNCAF Cup
+2013 20 home CostaRica Nicaragua 2 0 UNCAF Cup
+2013 22 home CostaRica Guatemala 1 1 UNCAF Cup
+2013 25 home CostaRica ElSalvador 1 0 UNCAF Cup
+2013 27 home CostaRica Honduras 1 0 UNCAF Cup
+2013 37 away CostaRica Panama 2 2 World Cup qualifier
+2013 84 away CostaRica UnitedStates 1 0 World Cup qualifier
+2013 88 home CostaRica Jamaica 2 0 World Cup qualifier
+2013 152 away CostaRica Canada 0 1 Friendly
+2013 162 home CostaRica Honduras 1 0 World Cup qualifier
+2013 166 away CostaRica Mexico 0 0 World Cup qualifier
+2013 173 home CostaRica Panama 2 0 World Cup qualifier
+2013 195 home CostaRica Cuba 3 0 Concacaf Gold Cup
+2013 199 home CostaRica Belize 1 0 Concacaf Gold Cup
+2013 202 away CostaRica UnitedStates 1 0 Concacaf Gold Cup
+2013 207 away CostaRica Honduras 1 0 Concacaf Gold Cup
+2013 231 away CostaRica DominicanRepublic 0 4 Friendly
+2013 254 home CostaRica UnitedStates 3 1 World Cup qualifier
+2013 258 away CostaRica Jamaica 1 1 World Cup qualifier
+2013 290 away CostaRica Honduras 1 0 World Cup qualifier
+2013 294 home CostaRica Mexico 2 1 World Cup qualifier
+2013 329 away CostaRica Australia 1 0 Friendly
+2014 22 away CostaRica Chile 4 0 Friendly
+2014 25 away CostaRica SouthKorea 1 0 Friendly
+2014 67 home CostaRica Paraguay 2 1 Friendly

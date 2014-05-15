@@ -1,0 +1,337 @@
+1922 272 home Latvia Estonia 1 1 Friendly
+1923 210 away Latvia Estonia 1 1 Friendly
+1924 151 away Latvia France 7 0 Olympic Games
+1924 177 home Latvia Turkey 1 3 Friendly
+1924 223 away Latvia Lithuania 2 4 Friendly
+1924 231 home Latvia Finland 0 2 Friendly
+1924 297 home Latvia Estonia 2 0 Friendly
+1925 226 away Latvia Finland 3 1 Friendly
+1925 243 away Latvia Estonia 2 2 Friendly
+1925 268 home Latvia Lithuania 2 2 Friendly
+1926 206 home Latvia Sweden 4 1 Friendly
+1926 229 home Latvia Finland 1 4 Friendly
+1926 238 away Latvia Lithuania 2 3 Friendly
+1926 267 home Latvia Estonia 0 1 Friendly
+1927 153 away Latvia Sweden 12 0 Friendly
+1927 171 away Latvia Estonia 4 1 Friendly
+1927 213 home Latvia Lithuania 6 3 Friendly
+1927 259 away Latvia Finland 3 1 Friendly
+1927 273 home Latvia Estonia 4 1 Friendly
+1928 192 home Latvia Sweden 0 4 Friendly
+1928 211 home Latvia Lithuania 3 0 Baltic Cup
+1928 213 away Latvia Estonia 0 1 Baltic Cup
+1928 236 home Latvia Finland 2 1 Friendly
+1928 249 away Latvia Lithuania 1 1 Friendly
+1928 271 home Latvia Estonia 1 1 Friendly
+1929 214 away Latvia Sweden 10 0 Friendly
+1929 231 home Latvia Lithuania 3 1 Baltic Cup
+1929 233 home Latvia Estonia 2 2 Baltic Cup
+1929 263 away Latvia Finland 3 1 Friendly
+1929 266 away Latvia Estonia 4 1 Friendly
+1930 182 away Latvia Estonia 1 1 Friendly
+1930 208 home Latvia Sweden 0 5 Friendly
+1930 221 home Latvia Finland 3 0 Friendly
+1930 233 home Latvia Estonia 3 2 Baltic Cup
+1930 234 away Latvia Lithuania 3 3 Baltic Cup
+1930 305 away Latvia Poland 6 0 Friendly
+1931 152 home Latvia Estonia 0 1 Friendly
+1931 185 home Latvia Lithuania 5 2 Friendly
+1931 212 away Latvia Sweden 6 0 Friendly
+1931 222 home Latvia Poland 0 5 Friendly
+1931 236 away Latvia Finland 4 0 Friendly
+1931 248 away Latvia Lithuania 0 1 Baltic Cup
+1931 249 away Latvia Estonia 3 1 Baltic Cup
+1931 275 home Latvia Estonia 2 1 Friendly
+1932 156 away Latvia Estonia 3 0 Friendly
+1932 184 away Latvia Lithuania 2 3 Friendly
+1932 199 home Latvia Sweden 0 0 Friendly
+1932 210 home Latvia Lithuania 2 1 Friendly
+1932 245 home Latvia Lithuania 4 1 Baltic Cup
+1932 247 home Latvia Estonia 1 0 Baltic Cup
+1932 259 away Latvia Lithuania 1 0 Friendly
+1932 281 away Latvia Poland 2 1 Friendly
+1933 152 home Latvia Estonia 2 0 Friendly
+1933 167 home Latvia Lithuania 6 2 Friendly
+1933 190 home Latvia Sweden 1 1 Friendly
+1933 226 away Latvia Estonia 2 1 Friendly
+1933 251 home Latvia Estonia 1 0 Baltic Cup
+1933 252 away Latvia Lithuania 2 2 Baltic Cup
+1934 165 away Latvia Lithuania 2 0 Friendly
+1934 231 home Latvia Finland 1 1 Friendly
+1934 257 home Latvia Lithuania 1 3 Friendly
+1934 271 away Latvia Sweden 3 1 Friendly
+1934 293 home Latvia Poland 2 6 Friendly
+1935 154 home Latvia Lithuania 6 1 Friendly
+1935 160 away Latvia Finland 4 1 Friendly
+1935 167 home Latvia Estonia 1 1 Friendly
+1935 191 home Latvia Sweden 0 3 Friendly
+1935 238 home Latvia Lithuania 2 2 Baltic Cup
+1935 239 away Latvia Estonia 1 1 Baltic Cup
+1935 256 away Latvia Lithuania 2 2 Friendly
+1935 263 away Latvia Poland 3 3 Friendly
+1935 292 home Latvia Germany 0 3 Friendly
+1936 152 away Latvia Estonia 3 4 Friendly
+1936 169 away Latvia Lithuania 1 5 Friendly
+1936 246 home Latvia Lithuania 2 1 Baltic Cup
+1936 248 home Latvia Estonia 2 1 Baltic Cup
+1936 254 home Latvia Poland 3 3 Friendly
+1937 180 home Latvia Germany 1 3 Friendly
+1937 199 home Latvia Romania 0 0 Friendly
+1937 215 home Latvia Lithuania 4 2 World Cup qualifier
+1937 251 away Latvia Lithuania 1 5 World Cup qualifier
+1937 252 away Latvia Estonia 1 1 Baltic Cup
+1937 255 home Latvia Estonia 2 0 Baltic Cup
+1937 267 home Latvia Estonia 3 1 Friendly
+1937 284 away Latvia Austria 2 1 World Cup qualifier
+1937 289 away Latvia Poland 2 1 Friendly
+1937 292 away Latvia Czechoslovakia 4 0 Friendly
+1938 141 home Latvia Lithuania 2 0 Friendly
+1938 165 away Latvia Sweden 3 3 Friendly
+1938 206 away Latvia Estonia 0 2 Friendly
+1938 252 home Latvia Lithuania 1 1 Baltic Cup
+1938 253 away Latvia Estonia 1 1 Baltic Cup
+1938 273 home Latvia Poland 2 1 Friendly
+1939 142 away Latvia Romania 4 0 Friendly
+1939 148 away Latvia Bulgaria 3 0 Friendly
+1939 213 home Latvia Estonia 3 3 Friendly
+1939 272 away Latvia Finland 0 3 Friendly
+1940 204 away Latvia Estonia 2 1 Friendly
+1940 254 home Latvia Lithuania 1 0 Baltic Cup
+1940 256 home Latvia Estonia 2 2 Baltic Cup
+1940 292 away Latvia Lithuania 4 3 Friendly
+1942 220 home Latvia Estonia 4 0 Friendly
+1942 235 away Latvia Estonia 1 6 Friendly
+1991 326 home Latvia Estonia 2 0 Baltic Cup
+1991 327 away Latvia Lithuania 1 1 Baltic Cup
+1992 101 away Latvia Romania 2 0 Friendly
+1992 150 away Latvia Malta 1 0 Friendly
+1992 201 home Latvia Estonia 2 1 Baltic Cup
+1992 203 home Latvia Lithuania 2 3 Baltic Cup
+1992 229 home Latvia Lithuania 1 2 World Cup qualifier
+1992 243 home Latvia Denmark 0 0 World Cup qualifier
+1992 257 away Latvia Ireland 4 0 World Cup qualifier
+1992 271 home Latvia Spain 0 0 World Cup qualifier
+1992 307 away Latvia Lithuania 1 1 World Cup qualifier
+1992 321 away Latvia Albania 1 1 World Cup qualifier
+1992 328 away Latvia Poland 1 0 Friendly
+1992 357 away Latvia Spain 5 0 World Cup qualifier
+1993 51 away Latvia Lithuania 2 1 Baltic Tournament
+1993 52 home Latvia Estonia 2 0 Baltic Tournament
+1993 107 away Latvia Denmark 2 0 World Cup qualifier
+1993 139 home Latvia Albania 0 0 World Cup qualifier
+1993 157 home Latvia NorthernIreland 1 2 World Cup qualifier
+1993 164 home Latvia Ireland 0 2 World Cup qualifier
+1993 188 away Latvia Estonia 0 2 Baltic Cup
+1993 189 home Latvia Lithuania 0 0 Baltic Cup
+1993 256 away Latvia NorthernIreland 2 0 World Cup qualifier
+1994 157 home Latvia Malta 2 0 Friendly
+1994 181 home Latvia Georgia 1 3 Friendly
+1994 216 home Latvia Estonia 2 0 Baltic Cup
+1994 217 away Latvia Lithuania 1 0 Baltic Cup
+1994 255 home Latvia Ireland 0 3 European Cup qualifier
+1994 288 home Latvia Portugal 1 3 European Cup qualifier
+1994 316 home Latvia Estonia 0 0 Friendly
+1994 325 away Latvia Liechtenstein 0 1 European Cup qualifier
+1995 70 away Latvia Hungary 3 1 Friendly
+1995 91 away Latvia Austria 5 0 European Cup qualifier
+1995 119 home Latvia NorthernIreland 0 1 European Cup qualifier
+1995 143 home Latvia Estonia 2 0 Baltic Cup
+1995 145 home Latvia Lithuania 2 0 Baltic Cup
+1995 158 away Latvia Portugal 3 2 European Cup qualifier
+1995 162 away Latvia NorthernIreland 1 2 European Cup qualifier
+1995 233 home Latvia Austria 3 2 European Cup qualifier
+1995 254 home Latvia Liechtenstein 1 0 European Cup qualifier
+1995 290 away Latvia Ireland 2 1 European Cup qualifier
+1996 74 away Latvia Cyprus 1 0 Friendly
+1996 193 away Latvia Estonia 1 1 Baltic Cup
+1996 194 away Latvia Lithuania 2 1 Baltic Cup
+1996 231 home Latvia Finland 0 0 Friendly
+1996 249 home Latvia Sweden 1 2 World Cup qualifier
+1996 284 home Latvia Scotland 0 2 World Cup qualifier
+1996 288 away Latvia Belarus 1 1 World Cup qualifier
+1996 319 away Latvia Austria 2 1 World Cup qualifier
+1997 45 away Latvia Cyprus 2 0 Friendly tournament
+1997 46 home Latvia Lithuania 1 0 Friendly tournament
+1997 48 away Latvia Poland 3 2 Friendly tournament
+1997 95 away Latvia Switzerland 1 0 Friendly
+1997 123 home Latvia Belarus 2 0 World Cup qualifier
+1997 142 away Latvia Estonia 1 3 World Cup qualifier
+1997 163 home Latvia Austria 1 3 World Cup qualifier
+1997 180 home Latvia Andorra 4 1 Friendly
+1997 196 home Latvia Estonia 2 1 Baltic Cup
+1997 197 away Latvia Lithuania 1 0 Baltic Cup
+1997 236 home Latvia Azerbaijan 0 0 Friendly
+1997 254 home Latvia Estonia 1 0 World Cup qualifier
+1997 258 away Latvia Sweden 1 0 World Cup qualifier
+1997 290 away Latvia Scotland 2 0 World Cup qualifier
+1998 37 away Latvia Georgia 2 1 Rothmans Tournament
+1998 39 away Latvia Malta 2 1 Rothmans Tournament
+1998 41 home Latvia Albania 2 2 Rothmans Tournament
+1998 114 home Latvia Lithuania 1 2 Baltic Cup
+1998 141 home Latvia Israel 1 5 Friendly
+1998 180 away Latvia Estonia 0 2 Baltic Cup
+1998 181 home Latvia Andorra 2 0 Friendly
+1998 236 away Latvia Iceland 4 1 Friendly
+1998 254 away Latvia Norway 1 3 European Cup qualifier
+1998 289 home Latvia Georgia 1 0 European Cup qualifier
+1998 293 away Latvia Slovenia 1 0 European Cup qualifier
+1998 320 away Latvia Tunisia 3 0 Friendly
+1999 55 away Latvia Israel 2 0 Friendly
+1999 93 home Latvia Greece 0 0 European Cup qualifier
+1999 121 home Latvia Albania 0 0 European Cup qualifier
+1999 160 home Latvia Slovenia 1 2 European Cup qualifier
+1999 164 away Latvia Greece 1 2 European Cup qualifier
+1999 181 away Latvia Brazil 3 0 Friendly
+1999 252 away Latvia Albania 3 3 European Cup qualifier
+1999 256 away Latvia Georgia 2 2 European Cup qualifier
+1999 288 home Latvia Norway 1 2 European Cup qualifier
+2000 33 away Latvia Romania 2 0 Friendly tournament
+2000 37 away Latvia Lithuania 2 1 Friendly tournament
+2000 119 away Latvia Lithuania 2 1 Baltic Cup
+2000 159 home Latvia Finland 1 0 Friendly
+2000 233 home Latvia Belarus 0 1 Friendly
+2000 250 home Latvia Scotland 0 1 World Cup qualifier
+2000 286 home Latvia Belgium 0 4 World Cup qualifier
+2000 325 away Latvia SanMarino 0 1 World Cup qualifier
+2001 59 away Latvia Liechtenstein 0 2 Friendly
+2001 86 away Latvia Croatia 4 1 World Cup qualifier
+2001 118 home Latvia SanMarino 1 1 World Cup qualifier
+2001 157 away Latvia Belgium 3 1 World Cup qualifier
+2001 161 home Latvia Croatia 0 1 World Cup qualifier
+2001 189 home Latvia Estonia 3 1 Baltic Cup
+2001 191 home Latvia Lithuania 4 1 Baltic Cup
+2001 232 home Latvia Ukraine 0 1 Friendly
+2001 285 away Latvia Scotland 2 1 World Cup qualifier
+2001 324 home Latvia Russia 1 3 Friendly
+2002 89 away Latvia Luxembourg 0 3 Friendly
+2002 110 home Latvia Kazakhstan 2 1 Friendly
+2002 146 away Latvia Finland 2 1 Friendly
+2002 192 home Latvia Azerbaijan 0 0 Friendly
+2002 238 home Latvia Belarus 2 4 Friendly
+2002 255 home Latvia Sweden 0 0 European Cup qualifier
+2002 291 away Latvia Poland 0 1 European Cup qualifier
+2002 330 away Latvia SanMarino 0 1 European Cup qualifier
+2003 43 home Latvia Lithuania 2 1 Friendly
+2003 95 away Latvia Ukraine 1 0 Friendly
+2003 123 home Latvia SanMarino 3 0 European Cup qualifier
+2003 162 away Latvia Hungary 3 1 European Cup qualifier
+2003 190 home Latvia Lithuania 2 1 Baltic Cup
+2003 191 away Latvia Estonia 0 0 Baltic Cup
+2003 237 home Latvia Uzbekistan 0 3 Friendly
+2003 254 home Latvia Poland 0 2 European Cup qualifier
+2003 258 home Latvia Hungary 3 1 European Cup qualifier
+2003 290 away Latvia Sweden 0 1 European Cup qualifier
+2003 325 home Latvia Turkey 1 0 European Cup qualifier
+2003 329 away Latvia Turkey 2 2 European Cup qualifier
+2003 361 away Latvia Kuwait 2 0 Friendly
+2004 49 home Latvia Kazakhstan 3 1 Friendly tournament
+2004 50 away Latvia Hungary 2 1 Friendly tournament
+2004 52 away Latvia Belarus 4 1 Friendly tournament
+2004 93 away Latvia Slovenia 0 1 Friendly
+2004 121 home Latvia Iceland 0 0 Friendly
+2004 161 home Latvia Azerbaijan 2 2 Friendly
+2004 170 away Latvia Czechia 2 1 European Cup
+2004 174 home Latvia Germany 0 0 European Cup
+2004 178 away Latvia Holland 3 0 European Cup
+2004 235 home Latvia Wales 0 2 Friendly
+2004 252 home Latvia Portugal 0 2 World Cup qualifier
+2004 256 away Latvia Luxembourg 3 4 World Cup qualifier
+2004 288 away Latvia Slovakia 4 1 World Cup qualifier
+2004 292 home Latvia Estonia 2 2 World Cup qualifier
+2004 327 away Latvia Liechtenstein 1 3 World Cup qualifier
+2004 342 away Latvia Oman 3 2 Friendly tournament
+2004 344 away Latvia Bahrain 2 2 Friendly tournament
+2005 39 away Latvia Finland 2 1 Friendly tournament
+2005 40 away Latvia Austria 1 1 Friendly tournament
+2005 92 home Latvia Luxembourg 4 0 World Cup qualifier
+2005 145 away Latvia Lithuania 2 0 Baltic Cup
+2005 159 away Latvia Russia 2 0 World Cup qualifier
+2005 163 home Latvia Liechtenstein 1 0 World Cup qualifier
+2005 234 home Latvia Russia 1 1 World Cup qualifier
+2005 251 away Latvia Estonia 2 1 World Cup qualifier
+2005 255 home Latvia Slovakia 1 1 World Cup qualifier
+2005 287 home Latvia Japan 2 2 Friendly
+2005 291 away Latvia Portugal 3 0 World Cup qualifier
+2005 322 away Latvia Belarus 3 1 Friendly
+2005 365 away Latvia Thailand 1 1 King's Cup
+2005 367 home Latvia NorthKorea 1 1 King's Cup
+2005 369 home Latvia Oman 2 1 King's Cup
+2005 371 home Latvia NorthKorea 2 1 King's Cup
+2006 152 away Latvia UnitedStates 1 0 Friendly
+2006 233 away Latvia Russia 1 0 Friendly
+2006 250 home Latvia Sweden 0 1 European Cup qualifier
+2006 254 away Latvia Luxembourg 0 0 Friendly
+2006 286 home Latvia Iceland 4 0 European Cup qualifier
+2006 290 away Latvia NorthernIreland 1 0 European Cup qualifier
+2007 37 away Latvia Bulgaria 2 0 Friendly tournament
+2007 38 away Latvia Hungary 2 0 Friendly tournament
+2007 90 away Latvia Liechtenstein 1 0 European Cup qualifier
+2007 157 home Latvia Spain 0 2 European Cup qualifier
+2007 161 home Latvia Denmark 0 2 European Cup qualifier
+2007 239 home Latvia Moldova 1 2 Friendly
+2007 256 home Latvia NorthernIreland 1 0 European Cup qualifier
+2007 260 away Latvia Spain 2 0 European Cup qualifier
+2007 292 away Latvia Iceland 2 4 European Cup qualifier
+2007 296 away Latvia Denmark 3 1 European Cup qualifier
+2007 327 home Latvia Liechtenstein 4 1 European Cup qualifier
+2007 331 away Latvia Sweden 2 1 European Cup qualifier
+2008 37 away Latvia Georgia 1 3 Friendly
+2008 88 away Latvia Andorra 0 3 Friendly
+2008 154 home Latvia Estonia 1 0 Baltic Cup
+2008 156 home Latvia Lithuania 2 1 Baltic Cup
+2008 237 away Latvia Romania 1 0 Friendly
+2008 254 away Latvia Moldova 1 2 World Cup qualifier
+2008 258 home Latvia Greece 0 2 World Cup qualifier
+2008 290 away Latvia Switzerland 2 1 World Cup qualifier
+2008 294 home Latvia Israel 1 1 World Cup qualifier
+2008 322 away Latvia Estonia 1 1 Friendly
+2009 42 away Latvia Armenia 0 0 Friendly
+2009 90 away Latvia Luxembourg 0 4 World Cup qualifier
+2009 94 home Latvia Luxembourg 2 0 World Cup qualifier
+2009 229 away Latvia Bulgaria 1 0 Friendly
+2009 253 away Latvia Israel 0 1 World Cup qualifier
+2009 257 home Latvia Switzerland 2 2 World Cup qualifier
+2009 289 away Latvia Greece 5 2 World Cup qualifier
+2009 293 home Latvia Moldova 3 2 World Cup qualifier
+2009 324 away Latvia Honduras 2 1 Friendly
+2010 22 away Latvia SouthKorea 1 0 Friendly
+2010 65 away Latvia Angola 1 1 Friendly
+2010 160 away Latvia Ghana 1 0 Friendly
+2010 173 away Latvia Lithuania 0 0 Baltic Cup
+2010 174 away Latvia Estonia 0 0 Baltic Cup
+2010 228 away Latvia Czechia 4 1 Friendly
+2010 251 home Latvia Croatia 0 3 European Cup qualifier
+2010 255 away Latvia Malta 0 2 European Cup qualifier
+2010 287 away Latvia Greece 1 0 European Cup qualifier
+2010 291 home Latvia Georgia 1 1 European Cup qualifier
+2010 327 away Latvia China 1 0 Friendly
+2011 40 home Latvia Bolivia 2 1 Friendly
+2011 88 away Latvia Israel 2 1 European Cup qualifier
+2011 159 home Latvia Israel 1 2 European Cup qualifier
+2011 162 away Latvia Austria 3 1 Friendly
+2011 227 home Latvia Finland 0 2 Friendly
+2011 250 away Latvia Georgia 0 1 European Cup qualifier
+2011 254 home Latvia Greece 1 1 European Cup qualifier
+2011 286 home Latvia Malta 2 0 European Cup qualifier
+2011 290 away Latvia Croatia 2 0 European Cup qualifier
+2012 60 away Latvia Kazakhstan 0 0 Friendly
+2012 146 away Latvia Poland 1 0 Friendly
+2012 156 home Latvia Lithuania 5 0 Baltic Cup
+2012 158 away Latvia Finland 1 1 Baltic Cup
+2012 232 away Latvia Montenegro 2 0 Friendly
+2012 255 home Latvia Greece 1 2 World Cup qualifier
+2012 259 away Latvia Bosnia 4 1 World Cup qualifier
+2012 291 away Latvia Slovakia 2 1 World Cup qualifier
+2012 295 home Latvia Liechtenstein 2 0 World Cup qualifier
+2013 37 away Latvia Japan 3 0 Friendly
+2013 84 away Latvia Liechtenstein 1 1 World Cup qualifier
+2013 148 away Latvia Qatar 3 1 Friendly
+2013 152 home Latvia Turkey 3 3 Friendly
+2013 162 home Latvia Bosnia 0 5 World Cup qualifier
+2013 231 away Latvia Estonia 1 1 Friendly
+2013 254 home Latvia Lithuania 2 1 World Cup qualifier
+2013 258 away Latvia Greece 1 0 World Cup qualifier
+2013 290 away Latvia Lithuania 2 0 World Cup qualifier
+2013 294 home Latvia Slovakia 2 2 World Cup qualifier
+2013 325 away Latvia Ireland 3 0 Friendly
+2014 67 away Latvia Macedonia 2 1 Friendly

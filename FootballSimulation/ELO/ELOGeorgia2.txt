@@ -1,0 +1,1683 @@
+January 1
+1926	Georgia
+Armenia	7
+0	Trans-Caucasian Championship
+in Georgia	+16
+-16	1516
+1384	-
+-	35
+47
+
+1927	Georgia
+Azerbaijan	1
+1	Trans-Caucasian Championship
+in Georgia	-11
++11	1505
+1311	-2
+-	38
+53
+
+1927	Georgia
+Armenia	1
+1	Trans-Caucasian Championship
+in Georgia	-9
++9	1496
+1355	-2
+-1	38
+52
+May 27
+1990	Georgia
+Lithuania	2
+2	Friendly
+in Georgia	-9
++9	1487
+1164	0
++2	70
+150
+July 02
+1991	Moldova
+Georgia	2
+4	Friendly
+in Moldova	-16
++16	1384
+1503	-
++2	97
+66
+September 12
+1992	Lithuania
+Georgia	1
+0	Friendly
+in Lithuania	+14
+-14	1283
+1489	+3
+-4	126
+73
+September 17
+1992	Georgia
+Azerbaijan	6
+3	Friendly
+in Georgia	+7
+-7	1496
+1342	+1
+-1	71
+115
+December 22
+1992	Cyprus
+Georgia	1
+0	Friendly
+in Cyprus	+13
+-13	1293
+1483	+3
+-6	126
+78
+May 25
+1993	Azerbaijan
+Georgia	1
+0	Friendly
+in Azerbaijan	+11
+-11	1358
+1472	+7
+-1	107
+82
+February 08
+1994	Slovenia
+Georgia	1
+0	Rothmans Tournament
+in Malta	+15
+-15	1476
+1457	+5
+-5	79
+84
+February 10
+1994	Malta
+Georgia	0
+1	Rothmans Tournament
+in Malta	-15
++15	1346
+1472	-7
++4	118
+80
+February 12
+1994	Georgia
+Tunisia	2
+0	Rothmans Tournament
+in Malta	+31
+-31	1503
+1583	+5
+-6	75
+53
+February 23
+1994	Israel
+Georgia	2
+0	Friendly
+in Israel	+10
+-10	1542
+1493	+3
+-2	61
+77
+June 11
+1994	Nigeria
+Georgia	5
+1	Friendly
+in Nigeria	+5
+-5	1736
+1488	0
+-1	26
+78
+June 26
+1994	Latvia
+Georgia	1
+3	Friendly
+in Latvia	-15
++15	1365
+1503	-2
++5	110
+73
+July 19
+1994	Georgia
+Malta	1
+1	Friendly
+in Georgia	-6
++6	1497
+1351	-1
++2	74
+116
+September 07
+1994	Georgia
+Moldova	0
+1	European Cup qualifier
+in Georgia	-30
++30	1467
+1432	-10
++11	83
+92
+October 12
+1994	Bulgaria
+Georgia	2
+0	European Cup qualifier
+in Bulgaria	+5
+-5	1787
+1462	0
+-1	22
+84
+November 16
+1994	Georgia
+Wales	5
+0	European Cup qualifier
+in Georgia	+53
+-53	1515
+1630	+12
+-7	70
+38
+December 14
+1994	Albania
+Georgia	0
+1	European Cup qualifier
+in Albania	-15
++15	1320
+1530	-4
++6	127
+64
+March 29
+1995	Georgia
+Germany	0
+2	European Cup qualifier
+in Georgia	-8
++8	1522
+1970	-3
+0	65
+2
+April 26
+1995	Georgia
+Albania	2
+0	European Cup qualifier
+in Georgia	+11
+-11	1533
+1346	+4
+-3	62
+118
+June 07
+1995	Wales
+Georgia	0
+1	European Cup qualifier
+in Wales	-29
++29	1581
+1562	-9
++8	50
+54
+September 06
+1995	Germany
+Georgia	4
+1	European Cup qualifier
+in Germany	+3
+-3	1978
+1559	0
+0	2
+55
+October 11
+1995	Georgia
+Bulgaria	2
+1	European Cup qualifier
+in Georgia	+29
+-29	1588
+1804	+6
+-9	49
+21
+November 15
+1995	Moldova
+Georgia	3
+2	European Cup qualifier
+in Moldova	+27
+-27	1394
+1561	+8
+-7	107
+55
+March 27
+1996	Cyprus
+Georgia	0
+2	Friendly
+in Cyprus	-11
++11	1357
+1572	0
++4	114
+55
+April 24
+1996	Romania
+Georgia	5
+0	Friendly
+in Romania	+4
+-4	1838
+1568	0
+0	13
+55
+May 08
+1996	Greece
+Georgia	2
+1	Friendly
+in Greece	+7
+-7	1592
+1561	+2
+-2	48
+57
+September 01
+1996	Norway
+Georgia	1
+0	Friendly
+in Norway	+3
+-3	1794
+1558	+2
+-2	17
+60
+October 09
+1996	Italy
+Georgia	1
+0	World Cup qualifier
+in Italy	+2
+-2	1949
+1556	0
++1	5
+58
+November 09
+1996	Georgia
+England	0
+2	World Cup qualifier
+in Georgia	-11
++11	1545
+1918	-5
+0	62
+7
+December 05
+1996	Lebanon
+Georgia	4
+2	Friendly
+in Lebanon	+18
+-18	1382
+1527	+8
+-7	110
+68
+December 08
+1996	Lebanon
+Georgia	3
+2	Friendly
+in Lebanon	+11
+-11	1393
+1516	+8
+-1	102
+67
+March 30
+1997	Georgia
+Armenia	7
+0	Friendly
+in Georgia	+9
+-9	1525
+1372	+2
+-4	68
+115
+April 30
+1997	England
+Georgia	2
+0	World Cup qualifier
+in England	+4
+-4	1905
+1521	0
+-3	8
+69
+June 07
+1997	Georgia
+Moldova	2
+0	World Cup qualifier
+in Georgia	+12
+-12	1533
+1367	+4
+-3	65
+113
+June 14
+1997	Poland
+Georgia	4
+1	World Cup qualifier
+in Poland	+18
+-18	1631
+1515	+3
+-5	46
+70
+September 10
+1997	Georgia
+Italy	0
+0	World Cup qualifier
+in Georgia	+15
+-15	1530
+1924	+3
+0	66
+6
+September 24
+1997	Moldova
+Georgia	0
+1	World Cup qualifier
+in Moldova	-16
++16	1350
+1546	-3
++3	117
+63
+October 11
+1997	Georgia
+Poland	3
+0	World Cup qualifier
+in Georgia	+36
+-36	1582
+1623	+9
+-9	54
+49
+February 06
+1998	Georgia
+Latvia	2
+1	Rothmans Tournament
+in Malta	+8
+-8	1590
+1386	+1
+-3	53
+109
+February 08
+1998	Georgia
+Albania	3
+0	Rothmans Tournament
+in Malta	+13
+-13	1603
+1383	+3
+-4	50
+108
+February 10
+1998	Malta
+Georgia	1
+3	Rothmans Tournament
+in Malta	-7
++7	1203
+1610	-3
+0	150
+50
+May 02
+1998	Tunisia
+Georgia	1
+1	Friendly
+in Tunisia	-3
++3	1633
+1613	0
++1	42
+52
+May 30
+1998	Russia
+Georgia	1
+1	Friendly
+in Russia	-7
++7	1814
+1620	-1
+0	16
+53
+August 12
+1998	Azerbaijan
+Georgia	1
+0	Friendly
+in Azerbaijan	+16
+-16	1314
+1604	+1
+-4	126
+54
+August 19
+1998	Ukraine
+Georgia	4
+0	Friendly
+in Ukraine	+12
+-12	1653
+1592	+4
+-4	40
+58
+September 05
+1998	Georgia
+Albania	1
+0	European Cup qualifier
+in Georgia	+6
+-6	1598
+1370	+1
+-1	57
+113
+October 10
+1998	Latvia
+Georgia	1
+0	European Cup qualifier
+in Latvia	+25
+-25	1443
+1573	+5
+-3	92
+57
+October 14
+1998	Greece
+Georgia	3
+0	European Cup qualifier
+in Greece	+17
+-17	1682
+1556	+5
+-3	36
+60
+November 18
+1998	Georgia
+Estonia	3
+1	Friendly
+in Georgia	+2
+-2	1558
+1204	+2
+0	58
+151
+March 20
+1999	Georgia
+Ukraine	0
+1	Friendly
+in Georgia	-9
++9	1549
+1694	0
++1	59
+34
+March 27
+1999	Georgia
+Slovenia	1
+1	European Cup qualifier
+in Georgia	-8
++8	1541
+1511	-2
++1	62
+70
+April 28
+1999	Georgia
+Norway	1
+4	European Cup qualifier
+in Georgia	-17
++17	1524
+1856	-3
++1	66
+14
+May 30
+1999	Norway
+Georgia	1
+0	European Cup qualifier
+in Norway	+3
+-3	1865
+1521	0
+-1	13
+67
+June 05
+1999	Georgia
+Greece	1
+2	European Cup qualifier
+in Georgia	-17
++17	1504
+1688	-7
++5	74
+36
+September 04
+1999	Slovenia
+Georgia	2
+1	European Cup qualifier
+in Slovenia	+12
+-12	1572
+1492	+3
+-2	58
+78
+September 08
+1999	Georgia
+Latvia	2
+2	European Cup qualifier
+in Georgia	-8
++8	1484
+1448	0
++1	78
+91
+October 09
+1999	Albania
+Georgia	2
+1	European Cup qualifier
+in Albania	+20
+-20	1396
+1464	+3
+-7	105
+86
+February 04
+2000	Georgia
+Romania	1
+1	Friendly tournament
+in Cyprus	+12
+-12	1476
+1847	+1
+-1	82
+16
+February 06
+2000	Georgia
+Armenia	2
+1	Friendly tournament
+in Cyprus	+11
+-11	1487
+1375	+4
+-4	78
+111
+March 29
+2000	Israel
+Georgia	1
+1	Friendly
+in Israel	-6
++6	1641
+1493	-3
++6	50
+75
+April 26
+2000	Armenia
+Georgia	0
+0	Friendly
+in Armenia	+1
+-1	1376
+1492	+1
+0	110
+78
+June 04
+2000	Azerbaijan
+Georgia	0
+0	Friendly
+in Azerbaijan	+4
+-4	1233
+1488	+1
+-1	145
+79
+June 11
+2000	Estonia
+Georgia	1
+0	Friendly
+in Estonia	+12
+-12	1319
+1476	+3
+-4	127
+81
+August 16
+2000	Iran
+Georgia	2
+1	Friendly
+in Iran	+2
+-2	1726
+1474	0
+-1	28
+83
+October 07
+2000	Lithuania
+Georgia	0
+4	World Cup qualifier
+in Lithuania	-42
++42	1373
+1516	-12
++12	110
+69
+October 11
+2000	Italy
+Georgia	2
+0	World Cup qualifier
+in Italy	+2
+-2	1977
+1514	0
+-1	4
+70
+February 14
+2001	Georgia
+Ukraine	0
+0	Friendly
+in Georgia	+2
+-2	1516
+1694	0
+0	69
+37
+March 28
+2001	Georgia
+Romania	0
+2	World Cup qualifier
+in Georgia	-16
++16	1500
+1801	-1
++1	71
+14
+April 24
+2001	Georgia
+Israel	3
+2	Friendly
+in Georgia	+11
+-11	1511
+1617	+1
+-1	69
+53
+May 09
+2001	Georgia
+Azerbaijan	1
+0	Friendly
+in Georgia	+2
+-2	1513
+1226	0
+-1	69
+149
+June 02
+2001	Georgia
+Italy	1
+2	World Cup qualifier
+in Georgia	-4
++4	1509
+2000	-1
+0	71
+2
+June 06
+2001	Hungary
+Georgia	4
+1	World Cup qualifier
+in Hungary	+18
+-18	1609
+1491	0
+-3	55
+74
+August 15
+2001	Luxembourg
+Georgia	0
+3	Friendly
+in Luxembourg	-5
++5	1093
+1496	-1
++1	174
+77
+September 01
+2001	Georgia
+Hungary	3
+1	World Cup qualifier
+in Georgia	+30
+-30	1526
+1569	+12
+-5	66
+59
+September 05
+2001	Georgia
+Lithuania	2
+0	World Cup qualifier
+in Georgia	+12
+-12	1538
+1380	+3
+-6	63
+109
+October 06
+2001	Romania
+Georgia	1
+1	World Cup qualifier
+in Romania	-16
++16	1811
+1554	-1
++4	16
+60
+March 27
+2002	Georgia
+South Africa	4
+1	Friendly
+in Georgia	+15
+-15	1569
+1583	+2
+-1	57
+54
+April 17
+2002	Ukraine
+Georgia	2
+1	Friendly
+in Ukraine	+5
+-5	1659
+1564	0
+-1	42
+57
+August 21
+2002	Turkey
+Georgia	3
+0	Friendly
+in Turkey	+4
+-4	1848
+1560	0
+-2	13
+61
+September 08
+2002	Switzerland
+Georgia	4
+1	European Cup qualifier
+in Switzerland	+19
+-19	1646
+1541	+6
+-2	40
+63
+February 12
+2003	Georgia
+Moldova	2
+2	Friendly
+in Georgia	-7
++7	1534
+1320	0
++1	64
+128
+March 29
+2003	Georgia
+Ireland	1
+2	European Cup qualifier
+in Georgia	-10
++10	1524
+1841	-2
++1	66
+13
+April 02
+2003	Georgia
+Switzerland	0
+0	European Cup qualifier
+in Georgia	+4
+-4	1528
+1690	0
+0	67
+36
+April 30
+2003	Georgia
+Russia	1
+0	European Cup qualifier
+in Georgia	+27
+-27	1555
+1731	+6
+-7	62
+30
+June 11
+2003	Ireland
+Georgia	2
+0	European Cup qualifier
+in Ireland	+6
+-6	1842
+1549	0
+-1	13
+64
+September 06
+2003	Georgia
+Albania	3
+0	European Cup qualifier
+in Georgia	+17
+-17	1566
+1432	0
+-2	62
+92
+September 10
+2003	Albania
+Georgia	3
+1	European Cup qualifier
+in Albania	+33
+-33	1465
+1533	+9
+-5	83
+67
+October 11
+2003	Russia
+Georgia	3
+1	European Cup qualifier
+in Russia	+8
+-8	1760
+1525	+2
+0	22
+69
+February 18
+2004	Romania
+Georgia	3
+0	Friendly tournament
+in Cyprus	+11
+-11	1762
+1514	0
+-3	25
+74
+February 19
+2004	Cyprus
+Georgia	3
+1	Friendly tournament
+in Cyprus	+23
+-23	1427
+1491	+7
+-3	97
+77
+February 21
+2004	Armenia
+Georgia	2
+0	Friendly tournament
+in Cyprus	+28
+-28	1434
+1463	+10
+-4	94
+81
+May 27
+2004	Georgia
+Israel	0
+1	Friendly
+in Georgia	-9
++9	1454
+1624	-4
+0	85
+51
+August 18
+2004	Moldova
+Georgia	1
+0	Friendly
+in Moldova	+10
+-10	1381
+1444	+3
+-3	108
+92
+September 04
+2004	Turkey
+Georgia	1
+1	World Cup qualifier
+in Turkey	-18
++18	1805
+1462	-4
++4	19
+89
+September 08
+2004	Georgia
+Albania	2
+0	World Cup qualifier
+in Georgia	+26
+-26	1488
+1494	+6
+-3	82
+78
+October 13
+2004	Ukraine
+Georgia	2
+0	World Cup qualifier
+in Ukraine	+12
+-12	1648
+1476	+3
+-2	42
+84
+November 17
+2004	Georgia
+Denmark	2
+2	World Cup qualifier
+in Georgia	+13
+-13	1489
+1826	+1
+-2	83
+16
+February 09
+2005	Georgia
+Lithuania	1
+0	Friendly
+in Georgia	+6
+-6	1495
+1418	+5
+0	78
+96
+March 26
+2005	Georgia
+Greece	1
+3	World Cup qualifier
+in Georgia	-11
++11	1484
+1873	-2
+0	81
+11
+March 30
+2005	Georgia
+Turkey	2
+5	World Cup qualifier
+in Georgia	-18
++18	1466
+1789	-1
+0	84
+22
+June 04
+2005	Albania
+Georgia	3
+2	World Cup qualifier
+in Albania	+14
+-14	1482
+1452	+2
+-3	82
+88
+August 17
+2005	Kazakhstan
+Georgia	1
+2	World Cup qualifier
+in Kazakhstan	-17
++17	1291
+1469	-3
++2	133
+86
+September 03
+2005	Georgia
+Ukraine	1
+1	World Cup qualifier
+in Georgia	+11
+-11	1480
+1771	0
+-5	86
+25
+September 07
+2005	Denmark
+Georgia	6
+1	World Cup qualifier
+in Denmark	+5
+-5	1839
+1475	+1
+-1	14
+87
+October 08
+2005	Georgia
+Kazakhstan	0
+0	World Cup qualifier
+in Georgia	-14
++14	1461
+1295	-2
++4	89
+133
+October 12
+2005	Greece
+Georgia	1
+0	World Cup qualifier
+in Greece	+3
+-3	1776
+1458	0
+0	23
+89
+November 12
+2005	Bulgaria
+Georgia	6
+2	Friendly
+in Bulgaria	+6
+-6	1660
+1452	+2
+-1	44
+89
+November 16
+2005	Georgia
+Jordan	3
+2	Friendly
+in Georgia	+10
+-10	1462
+1526	+2
+-4	87
+73
+March 01
+2006	Malta
+Georgia	0
+2	Friendly tournament
+in Malta	-14
++14	1218
+1476	-4
++4	150
+84
+March 22
+2006	Albania
+Georgia	0
+0	Friendly
+in Albania	-3
++3	1477
+1479	-1
++1	84
+83
+May 27
+2006	New Zealand
+Georgia	3
+1	Friendly
+in Germany	+13
+-13	1531
+1466	+2
+-2	71
+85
+May 31
+2006	Paraguay
+Georgia	1
+0	Friendly
+in Austria	+3
+-3	1756
+1463	+1
+-2	29
+87
+August 16
+2006	Faroe Islands
+Georgia	0
+6	European Cup qualifier
+in Faroe Islands	-22
++22	1154
+1485	-4
++8	167
+80
+September 02
+2006	Georgia
+France	0
+3	European Cup qualifier
+in Georgia	-5
++5	1480
+2048	-5
+0	85
+1
+September 06
+2006	Ukraine
+Georgia	3
+2	European Cup qualifier
+in Ukraine	+4
+-4	1769
+1476	+2
+0	23
+85
+October 07
+2006	Germany
+Georgia	2
+0	Friendly
+in Germany	+1
+-1	1947
+1475	0
+0	7
+86
+October 11
+2006	Georgia
+Italy	1
+3	European Cup qualifier
+in Georgia	-5
++5	1470
+2000	-2
+0	88
+3
+November 15
+2006	Georgia
+Uruguay	2
+0	Friendly
+in Georgia	+24
+-24	1494
+1801	+8
+-4	79
+18
+February 07
+2007	Georgia
+Turkey	1
+0	Friendly
+in Georgia	+16
+-16	1510
+1795	+2
+-1	79
+17
+March 24
+2007	Scotland
+Georgia	2
+1	European Cup qualifier
+in Scotland	+6
+-6	1712
+1504	+3
+-2	37
+82
+March 28
+2007	Georgia
+Faroe Islands	3
+1	European Cup qualifier
+in Georgia	+4
+-4	1508
+1136	0
+0	82
+170
+June 02
+2007	Lithuania
+Georgia	1
+0	European Cup qualifier
+in Lithuania	+17
+-17	1472
+1491	+3
+-3	88
+85
+June 06
+2007	France
+Georgia	1
+0	European Cup qualifier
+in France	+1
+-1	2033
+1490	0
+0	2
+85
+August 22
+2007	Luxembourg
+Georgia	0
+0	Friendly
+in Luxembourg	+8
+-8	974
+1482	0
+-3	191
+83
+September 08
+2007	Georgia
+Ukraine	1
+1	European Cup qualifier
+in Georgia	+10
+-10	1492
+1772	+5
+0	78
+19
+September 12
+2007	Azerbaijan
+Georgia	1
+1	Friendly
+in Azerbaijan	0
+0	1378
+1492	-1
+0	110
+77
+October 13
+2007	Italy
+Georgia	2
+0	European Cup qualifier
+in Italy	+2
+-2	1991
+1490	+1
+-1	4
+78
+October 17
+2007	Georgia
+Scotland	2
+0	European Cup qualifier
+in Georgia	+45
+-45	1535
+1743	+9
+-10	69
+29
+November 16
+2007	Qatar
+Georgia	1
+2	Friendly
+in Qatar	-11
++11	1472
+1546	-4
++1	87
+68
+November 21
+2007	Georgia
+Lithuania	0
+2	European Cup qualifier
+in Georgia	-41
++41	1505
+1550	-9
++11	78
+66
+February 06
+2008	Georgia
+Latvia	1
+3	Friendly
+in Georgia	-21
++21	1484
+1472	-3
++4	82
+88
+March 26
+2008	Northern Ireland
+Georgia	4
+1	Friendly
+in Northern Ireland	+10
+-10	1551
+1474	+2
+-7	68
+90
+May 27
+2008	Estonia
+Georgia	1
+1	Friendly
+in Estonia	-1
++1	1391
+1475	0
+0	106
+88
+May 31
+2008	Portugal
+Georgia	2
+0	Friendly
+in Portugal	+2
+-2	1835
+1473	0
+0	13
+88
+August 20
+2008	Wales
+Georgia	1
+2	Friendly
+in Wales	-16
++16	1608
+1489	-1
++6	49
+84
+September 06
+2008	Ireland
+Georgia	2
+1	World Cup qualifier
+in Germany	+7
+-7	1753
+1482	+2
+-1	25
+87
+September 10
+2008	Italy
+Georgia	2
+0	World Cup qualifier
+in Italy	+2
+-2	1984
+1480	-1
+0	4
+88
+October 11
+2008	Georgia
+Cyprus	1
+1	World Cup qualifier
+in Georgia	-5
++5	1475
+1498	0
+0	88
+85
+October 15
+2008	Georgia
+Bulgaria	0
+0	World Cup qualifier
+in Georgia	+10
+-10	1485
+1767	-1
+-2	90
+22
+November 19
+2008	Romania
+Georgia	2
+1	Friendly
+in Romania	+2
+-2	1803
+1483	+1
++2	15
+89
+February 11
+2009	Ireland
+Georgia	2
+1	World Cup qualifier
+in Ireland	+5
+-5	1746
+1478	+1
+0	29
+86
+March 28
+2009	Cyprus
+Georgia	2
+1	World Cup qualifier
+in Cyprus	+13
+-13	1516
+1465	+3
+-3	78
+90
+April 01
+2009	Georgia
+Montenegro	0
+0	World Cup qualifier
+in Georgia	+2
+-2	1467
+1598	+1
+-3	90
+55
+June 06
+2009	Georgia
+Moldova	1
+2	Friendly
+in Georgia	-15
++15	1452
+1408	-3
++4	93
+102
+June 10
+2009	Albania
+Georgia	1
+1	Friendly
+in Albania	-2
++2	1428
+1454	-2
+0	99
+94
+August 12
+2009	Malta
+Georgia	2
+0	Friendly
+in Malta	+22
+-22	1212
+1432	+6
+-5	153
+98
+September 05
+2009	Georgia
+Italy	0
+2	World Cup qualifier
+in Georgia	-6
++6	1426
+1916	0
+0	98
+6
+September 09
+2009	Iceland
+Georgia	3
+1	Friendly
+in Iceland	+12
+-12	1416
+1414	+3
+-6	102
+104
+October 10
+2009	Montenegro
+Georgia	2
+1	World Cup qualifier
+in Montenegro	+7
+-7	1588
+1407	-1
+-1	57
+105
+October 14
+2009	Bulgaria
+Georgia	6
+2	World Cup qualifier
+in Bulgaria	+7
+-7	1718
+1400	0
+-1	35
+107
+March 03
+2010	Georgia
+Estonia	2
+1	Friendly
+in Georgia	+8
+-8	1408
+1414	-1
+-6	108
+106
+May 25
+2010	Georgia
+Cameroon	0
+0	Friendly
+in Austria	+7
+-7	1415
+1699	+2
+-1	106
+36
+August 11
+2010	Moldova
+Georgia	0
+0	Friendly
+in Moldova	-3
++3	1405
+1418	0
++3	108
+100
+September 03
+2010	Greece
+Georgia	1
+1	European Cup qualifier
+in Greece	-16
++16	1684
+1434	-2
++2	36
+98
+September 07
+2010	Georgia
+Israel	0
+0	European Cup qualifier
+in Georgia	+9
+-9	1443
+1688	+3
+-4	95
+38
+October 08
+2010	Georgia
+Malta	1
+0	European Cup qualifier
+in Georgia	+4
+-4	1447
+1175	0
+-1	97
+160
+October 12
+2010	Latvia
+Georgia	1
+1	European Cup qualifier
+in Latvia	-9
++9	1513
+1456	-3
++2	82
+95
+November 17
+2010	Slovenia
+Georgia	1
+2	Friendly
+in Slovenia	-17
++17	1665
+1473	-3
++4	41
+92
+February 09
+2011	Georgia
+Armenia	2
+1	Friendly
+in Cyprus	+8
+-8	1481
+1406	+1
+-1	92
+107
+March 26
+2011	Georgia
+Croatia	1
+0	European Cup qualifier
+in Georgia	+34
+-34	1515
+1857	+14
+-2	77
+9
+March 29
+2011	Israel
+Georgia	1
+0	European Cup qualifier
+in Israel	+8
+-8	1661
+1507	+1
+-6	41
+84
+June 03
+2011	Croatia
+Georgia	2
+1	European Cup qualifier
+in Croatia	+3
+-3	1861
+1504	0
+-1	9
+85
+August 10
+2011	Poland
+Georgia	1
+0	Friendly
+in Poland	+4
+-4	1661
+1500	+3
+0	42
+80
+September 02
+2011	Georgia
+Latvia	0
+1	European Cup qualifier
+in Georgia	-27
++27	1473
+1494	-10
++6	90
+85
+September 06
+2011	Malta
+Georgia	1
+1	European Cup qualifier
+in Malta	+10
+-10	1199
+1463	+2
+-2	154
+93
+October 11
+2011	Georgia
+Greece	1
+2	European Cup qualifier
+in Georgia	-9
++9	1454
+1783	-2
+0	96
+20
+November 11
+2011	Georgia
+Moldova	2
+0	Friendly
+in Georgia	+8
+-8	1462
+1377	+4
+-3	92
+113
+February 29
+2012	Georgia
+Albania	2
+1	Friendly
+in Georgia	+7
+-7	1469
+1445	+2
+0	92
+96
+May 24
+2012	Turkey
+Georgia	3
+1	Friendly
+in Austria	+6
+-6	1709
+1463	0
+0	34
+92
+August 15
+2012	Luxembourg
+Georgia	1
+2	Friendly
+in Luxembourg	-4
++4	1118
+1467	0
+0	173
+93
+September 07
+2012	Georgia
+Belarus	1
+0	World Cup qualifier
+in Georgia	+20
+-20	1487
+1543	+6
+-4	86
+72
+September 11
+2012	Georgia
+Spain	0
+1	World Cup qualifier
+in Georgia	-2
++2	1485
+2135	-1
+0	86
+1
+October 12
+2012	Finland
+Georgia	1
+1	World Cup qualifier
+in Finland	-11
++11	1590
+1496	-7
++3	60
+82
+October 16
+2012	Belarus
+Georgia	2
+0	World Cup qualifier
+in Belarus	+19
+-19	1553
+1477	+4
+-7	70
+89
+November 14
+2012	Georgia
+Egypt	0
+0	Friendly
+in Georgia	+3
+-3	1480
+1697	+2
+0	88
+33
+February 06
+2013	Albania
+Georgia	1
+2	Friendly
+in Albania	-13
++13	1467
+1493	-4
++2	91
+85
+March 22
+2013	France
+Georgia	3
+1	World Cup qualifier
+in France	+4
+-4	1859
+1489	+2
+-2	12
+88
+June 02
+2013	Ireland
+Georgia	4
+0	Friendly
+in Ireland	+5
+-5	1725
+1484	0
+0	31
+87
+June 05
+2013	Denmark
+Georgia	2
+1	Friendly
+in Denmark	+2
+-2	1773
+1482	0
+-1	21
+88
+August 14
+2013	Kazakhstan
+Georgia	1
+0	Friendly
+in Kazakhstan	+12
+-12	1335
+1470	+3
+0	126
+88
+September 06
+2013	Georgia
+France	0
+0	World Cup qualifier
+in Georgia	+13
+-13	1483
+1821	0
+-2	88
+15
+September 10
+2013	Georgia
+Finland	0
+1	World Cup qualifier
+in Georgia	-17
++17	1466
+1656	-4
++3	91
+44
+October 15
+2013	Spain
+Georgia	2
+0	World Cup qualifier
+in Spain	+1
+-1	2100
+1465	0
+0	2
+91
+March 05
+2014	Georgia
+Liechtenstein	2
+0	Friendly
+in Georgia	+3
+-3	1468
+1149	0
+0	91
+166

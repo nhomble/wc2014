@@ -1,0 +1,284 @@
+1946 286 home Albania Yugoslavia 2 3 Balkan Cup
+1946 288 home Albania Bulgaria 3 1 Balkan Cup
+1946 292 home Albania Romania 1 0 Balkan Cup
+1947 149 home Albania Romania 0 4 Balkan Cup
+1947 170 away Albania Bulgaria 2 0 Balkan Cup
+1947 237 away Albania Hungary 3 0 Balkan Cup
+1947 262 home Albania Yugoslavia 2 4 Balkan Cup
+1948 126 away Albania Romania 0 1 Balkan Cup
+1948 147 home Albania Hungary 0 0 Balkan Cup
+1948 182 away Albania Yugoslavia 0 0 Balkan Cup
+1949 302 away Albania Romania 1 1 Friendly
+1949 316 away Albania Poland 2 1 Friendly
+1949 327 away Albania Bulgaria 0 0 Friendly
+1949 339 home Albania Romania 1 4 Friendly
+1950 125 home Albania Poland 0 0 Friendly
+1950 159 home Albania Bulgaria 2 1 Friendly
+1950 249 away Albania Czechoslovakia 3 0 Friendly
+1950 272 away Albania Hungary 12 0 Friendly
+1950 287 away Albania Romania 6 0 Friendly
+1952 339 home Albania Czechoslovakia 3 2 Friendly
+1952 350 home Albania Czechoslovakia 2 1 Friendly
+1953 339 home Albania Poland 2 0 Friendly
+1957 263 away Albania China 3 2 Friendly
+1958 125 home Albania EastGermany 1 1 Friendly
+1963 37 home Albania Bulgaria 0 1 Olympic Games qualifier
+1963 47 away Albania Bulgaria 1 0 Olympic Games qualifier
+1963 184 away Albania Denmark 4 0 European Cup qualifier
+1963 309 home Albania Denmark 1 0 European Cup qualifier
+1964 148 away Albania Holland 2 0 World Cup qualifier
+1964 290 home Albania Algeria 1 1 Friendly
+1964 304 home Albania Holland 0 2 World Cup qualifier
+1965 104 home Albania Switzerland 0 2 World Cup qualifier
+1965 126 away Albania Switzerland 1 0 World Cup qualifier
+1965 131 away Albania NorthernIreland 4 1 World Cup qualifier
+1965 334 home Albania NorthernIreland 1 1 World Cup qualifier
+1967 101 away Albania Germany 6 0 European Cup qualifier
+1967 138 home Albania Yugoslavia 0 2 European Cup qualifier
+1967 322 away Albania Yugoslavia 4 0 European Cup qualifier
+1967 358 home Albania Germany 0 0 European Cup qualifier
+1970 293 away Albania Poland 3 0 European Cup qualifier
+1970 354 away Albania Turkey 2 1 European Cup qualifier
+1971 48 home Albania Germany 0 1 European Cup qualifier
+1971 111 away Albania Romania 2 1 Olympic Games qualifier
+1971 136 home Albania Poland 1 1 European Cup qualifier
+1971 150 home Albania Romania 1 2 Olympic Games qualifier
+1971 167 away Albania Germany 2 0 European Cup qualifier
+1971 324 home Albania Turkey 3 0 European Cup qualifier
+1972 176 away Albania Finland 1 0 World Cup qualifier
+1972 308 away Albania Romania 2 0 World Cup qualifier
+1973 100 away Albania EastGermany 2 0 World Cup qualifier
+1973 130 home Albania Romania 1 4 World Cup qualifier
+1973 289 home Albania Finland 1 0 World Cup qualifier
+1973 313 home Albania EastGermany 1 4 World Cup qualifier
+1973 318 home Albania China 1 1 Friendly
+1976 289 home Albania Algeria 3 0 Friendly
+1980 251 home Albania Finland 2 0 World Cup qualifier
+1980 298 away Albania Bulgaria 2 1 World Cup qualifier
+1980 325 away Albania Austria 5 0 World Cup qualifier
+1980 347 home Albania Austria 0 1 World Cup qualifier
+1981 94 home Albania Germany 0 2 World Cup qualifier
+1981 250 away Albania Finland 2 1 World Cup qualifier
+1981 293 home Albania Bulgaria 0 2 World Cup qualifier
+1981 328 away Albania Germany 8 0 World Cup qualifier
+1982 270 away Albania Austria 5 0 European Cup qualifier
+1982 306 away Albania Turkey 1 0 European Cup qualifier
+1982 356 home Albania NorthernIreland 0 0 European Cup qualifier
+1983 92 home Albania Germany 1 2 European Cup qualifier
+1983 120 away Albania NorthernIreland 1 0 European Cup qualifier
+1983 135 home Albania Turkey 1 1 European Cup qualifier
+1983 163 home Albania Austria 1 2 European Cup qualifier
+1983 330 away Albania Germany 2 1 European Cup qualifier
+1984 296 away Albania Belgium 3 1 World Cup qualifier
+1984 310 away Albania Poland 2 2 World Cup qualifier
+1984 363 home Albania Belgium 2 0 World Cup qualifier
+1985 58 away Albania Greece 2 0 World Cup qualifier
+1985 90 home Albania Turkey 0 0 Friendly
+1985 154 home Albania Poland 0 1 World Cup qualifier
+1985 309 home Albania Greece 1 1 World Cup qualifier
+1986 294 away Albania Austria 3 0 European Cup qualifier
+1986 344 home Albania Spain 1 2 European Cup qualifier
+1987 87 away Albania Romania 5 1 European Cup qualifier
+1987 122 home Albania Austria 0 1 European Cup qualifier
+1987 307 home Albania Romania 0 1 European Cup qualifier
+1987 328 away Albania Spain 5 0 European Cup qualifier
+1988 223 home Albania Cuba 0 0 Friendly
+1988 268 away Albania Romania 3 0 Friendly
+1988 298 away Albania Poland 1 0 World Cup qualifier
+1988 315 home Albania Sweden 1 2 World Cup qualifier
+1989 18 home Albania Greece 1 1 Friendly
+1989 70 home Albania England 0 2 World Cup qualifier
+1989 119 away Albania England 5 0 World Cup qualifier
+1989 287 away Albania Sweden 3 1 World Cup qualifier
+1989 325 home Albania Poland 1 2 World Cup qualifier
+1990 154 away Albania Iceland 2 0 European Cup qualifier
+1990 253 away Albania Greece 1 0 Friendly
+1990 327 home Albania France 0 1 European Cup qualifier
+1990 360 away Albania Spain 9 0 European Cup qualifier
+1991 92 away Albania France 5 0 European Cup qualifier
+1991 125 home Albania Czechoslovakia 0 2 European Cup qualifier
+1991 150 home Albania Iceland 1 0 European Cup qualifier
+1991 252 away Albania Greece 0 2 Friendly
+1991 295 away Albania Czechoslovakia 2 1 European Cup qualifier
+1992 29 home Albania Greece 1 0 Friendly
+1992 115 away Albania Spain 3 0 World Cup qualifier
+1992 150 away Albania Ireland 2 0 World Cup qualifier
+1992 158 home Albania Lithuania 1 0 World Cup qualifier
+1992 257 away Albania NorthernIreland 3 0 World Cup qualifier
+1992 321 home Albania Latvia 1 1 World Cup qualifier
+1993 45 home Albania Kosovo 3 1 Friendly
+1993 48 home Albania NorthernIreland 1 2 World Cup qualifier
+1993 107 away Albania Lithuania 3 1 World Cup qualifier
+1993 139 away Albania Latvia 0 0 World Cup qualifier
+1993 150 home Albania Ireland 1 2 World Cup qualifier
+1993 157 away Albania Denmark 4 0 World Cup qualifier
+1993 256 home Albania Denmark 0 1 World Cup qualifier
+1993 270 home Albania Spain 1 5 World Cup qualifier
+1994 138 away Albania Macedonia 5 1 Friendly
+1994 255 away Albania Wales 2 0 European Cup qualifier
+1994 326 home Albania Germany 1 2 European Cup qualifier
+1994 355 home Albania Georgia 0 1 European Cup qualifier
+1994 359 away Albania Germany 2 1 European Cup qualifier
+1995 91 home Albania Moldova 3 0 European Cup qualifier
+1995 119 away Albania Georgia 2 0 European Cup qualifier
+1995 162 away Albania Moldova 2 3 European Cup qualifier
+1995 233 away Albania Malta 2 1 Friendly
+1995 254 home Albania Bulgaria 1 1 European Cup qualifier
+1995 286 away Albania Bulgaria 3 0 European Cup qualifier
+1995 325 home Albania Wales 1 1 European Cup qualifier
+1995 340 home Albania Bosnia 2 0 Friendly
+1996 117 away Albania Bosnia 0 0 Friendly
+1996 231 away Albania Greece 2 1 Friendly
+1996 288 home Albania Portugal 0 3 World Cup qualifier
+1996 319 home Albania Armenia 1 1 World Cup qualifier
+1996 355 away Albania NorthernIreland 2 0 World Cup qualifier
+1997 91 home Albania Ukraine 0 1 World Cup qualifier
+1997 95 away Albania Germany 3 2 World Cup qualifier
+1997 162 away Albania Portugal 2 0 World Cup qualifier
+1997 237 away Albania Ukraine 1 0 World Cup qualifier
+1997 254 away Albania Armenia 3 0 World Cup qualifier
+1997 258 home Albania NorthernIreland 1 0 World Cup qualifier
+1997 290 away Albania Germany 4 3 World Cup qualifier
+1998 21 away Albania Turkey 1 4 Friendly
+1998 37 away Albania Malta 1 1 Rothmans Tournament
+1998 39 away Albania Georgia 3 0 Rothmans Tournament
+1998 41 away Albania Latvia 2 2 Rothmans Tournament
+1998 236 away Albania Cyprus 3 2 Friendly
+1998 253 away Albania Georgia 1 0 European Cup qualifier
+1998 293 away Albania Norway 2 2 European Cup qualifier
+1998 328 home Albania Greece 0 0 European Cup qualifier
+1999 41 home Albania Macedonia 2 0 Friendly
+1999 121 away Albania Latvia 0 0 European Cup qualifier
+1999 160 home Albania Norway 1 2 European Cup qualifier
+1999 164 home Albania Slovenia 0 1 European Cup qualifier
+1999 235 away Albania Slovenia 2 0 European Cup qualifier
+1999 252 home Albania Latvia 3 3 European Cup qualifier
+1999 285 away Albania Greece 2 0 European Cup qualifier
+1999 288 home Albania Georgia 2 1 European Cup qualifier
+2000 37 home Albania Andorra 3 0 Rothmans Tournament
+2000 39 home Albania Azerbaijan 1 0 Rothmans Tournament
+2000 41 away Albania Malta 0 1 Rothmans Tournament
+2000 119 away Albania Macedonia 1 0 Friendly
+2000 232 home Albania Cyprus 0 0 Friendly
+2000 250 away Albania Finland 2 1 World Cup qualifier
+2000 290 home Albania Greece 2 0 World Cup qualifier
+2000 325 home Albania Malta 3 0 Friendly
+2001 86 away Albania Germany 2 1 World Cup qualifier
+2001 90 home Albania England 1 3 World Cup qualifier
+2001 118 away Albania Turkey 0 2 Friendly
+2001 157 away Albania Greece 1 0 World Cup qualifier
+2001 161 home Albania Germany 0 2 World Cup qualifier
+2001 249 home Albania Finland 0 2 World Cup qualifier
+2001 253 away Albania England 2 0 World Cup qualifier
+2002 5 home Albania Macedonia 0 0 Friendly tournament
+2002 7 home Albania Finland 1 1 Friendly tournament
+2002 10 away Albania Bahrain 3 0 Friendly tournament
+2002 44 away Albania Luxembourg 0 0 Friendly
+2002 75 away Albania Mexico 4 0 Friendly
+2002 89 home Albania Azerbaijan 1 0 Friendly
+2002 110 away Albania Andorra 2 0 Friendly
+2002 255 away Albania Kosovo 0 1 Friendly
+2002 291 home Albania Switzerland 1 1 European Cup qualifier
+2002 295 away Albania Russia 4 1 European Cup qualifier
+2003 91 home Albania Russia 3 1 European Cup qualifier
+2003 95 home Albania Ireland 0 0 European Cup qualifier
+2003 123 away Albania Bulgaria 2 0 Friendly
+2003 162 away Albania Ireland 2 1 European Cup qualifier
+2003 166 away Albania Switzerland 3 2 European Cup qualifier
+2003 237 away Albania Macedonia 3 1 Friendly
+2003 254 away Albania Georgia 3 0 European Cup qualifier
+2003 258 home Albania Georgia 3 1 European Cup qualifier
+2003 290 away Albania Portugal 5 3 Friendly
+2003 325 home Albania Estonia 2 0 Friendly
+2004 49 home Albania Sweden 2 1 Friendly
+2004 93 home Albania Iceland 2 1 Friendly
+2004 121 away Albania Estonia 1 1 Friendly
+2004 235 away Albania Cyprus 2 1 Friendly
+2004 252 home Albania Greece 2 1 World Cup qualifier
+2004 256 away Albania Georgia 2 0 World Cup qualifier
+2004 288 home Albania Denmark 0 2 World Cup qualifier
+2004 292 away Albania Kazakhstan 0 1 World Cup qualifier
+2005 40 home Albania Ukraine 0 2 World Cup qualifier
+2005 88 away Albania Turkey 2 0 World Cup qualifier
+2005 92 away Albania Greece 2 0 World Cup qualifier
+2005 153 away Albania Poland 1 0 Friendly
+2005 159 home Albania Georgia 3 2 World Cup qualifier
+2005 163 away Albania Denmark 3 1 World Cup qualifier
+2005 234 home Albania Azerbaijan 2 1 Friendly
+2005 251 home Albania Kazakhstan 2 1 World Cup qualifier
+2005 287 away Albania Ukraine 2 2 World Cup qualifier
+2005 291 home Albania Turkey 0 1 World Cup qualifier
+2006 63 home Albania Lithuania 1 2 Friendly
+2006 84 home Albania Georgia 0 0 Friendly
+2006 233 away Albania SanMarino 0 3 Friendly
+2006 250 away Albania Belarus 2 2 European Cup qualifier
+2006 254 home Albania Romania 0 2 European Cup qualifier
+2006 290 away Albania Holland 2 1 European Cup qualifier
+2007 38 home Albania Macedonia 0 1 Friendly
+2007 86 home Albania Slovenia 0 0 European Cup qualifier
+2007 90 away Albania Bulgaria 0 0 European Cup qualifier
+2007 157 home Albania Luxembourg 2 0 European Cup qualifier
+2007 161 away Albania Luxembourg 0 3 European Cup qualifier
+2007 239 home Albania Malta 3 0 Friendly
+2007 260 home Albania Holland 0 1 European Cup qualifier
+2007 292 away Albania Slovenia 0 0 European Cup qualifier
+2007 296 home Albania Bulgaria 1 1 European Cup qualifier
+2007 327 home Albania Belarus 2 4 European Cup qualifier
+2007 331 away Albania Romania 6 1 European Cup qualifier
+2008 151 away Albania Poland 1 0 Friendly
+2008 237 home Albania Liechtenstein 2 0 Friendly
+2008 254 home Albania Sweden 0 0 World Cup qualifier
+2008 258 home Albania Malta 3 0 World Cup qualifier
+2008 290 away Albania Hungary 2 0 World Cup qualifier
+2008 294 away Albania Portugal 0 0 World Cup qualifier
+2008 329 away Albania Azerbaijan 1 1 Friendly
+2009 42 away Albania Malta 0 0 World Cup qualifier
+2009 90 home Albania Hungary 0 1 World Cup qualifier
+2009 94 away Albania Denmark 3 0 World Cup qualifier
+2009 161 home Albania Portugal 1 2 World Cup qualifier
+2009 165 home Albania Georgia 1 1 Friendly
+2009 229 home Albania Cyprus 6 1 Friendly
+2009 257 home Albania Denmark 1 1 World Cup qualifier
+2009 293 away Albania Sweden 4 1 World Cup qualifier
+2009 324 away Albania Estonia 0 0 Friendly
+2010 48 away Albania Kosovo 2 3 Friendly
+2010 65 home Albania NorthernIreland 1 0 Friendly
+2010 149 away Albania Montenegro 0 1 Friendly
+2010 157 home Albania Andorra 1 0 Friendly
+2010 228 home Albania Uzbekistan 1 0 Friendly
+2010 251 away Albania Romania 1 1 European Cup qualifier
+2010 255 home Albania Luxembourg 1 0 European Cup qualifier
+2010 287 home Albania Bosnia 1 1 European Cup qualifier
+2010 291 away Albania Belarus 2 0 European Cup qualifier
+2010 327 home Albania Macedonia 0 0 Friendly
+2011 40 home Albania Slovenia 1 2 Friendly
+2011 88 home Albania Belarus 1 0 European Cup qualifier
+2011 162 away Albania Bosnia 2 0 European Cup qualifier
+2011 175 away Albania Argentina 4 0 Friendly
+2011 227 home Albania Montenegro 3 2 Friendly
+2011 250 home Albania France 1 2 European Cup qualifier
+2011 254 away Albania Luxembourg 2 1 European Cup qualifier
+2011 286 away Albania France 3 0 European Cup qualifier
+2011 290 home Albania Romania 1 1 European Cup qualifier
+2011 321 home Albania Azerbaijan 0 1 Friendly
+2011 325 away Albania Macedonia 0 0 Friendly
+2012 60 away Albania Georgia 2 1 Friendly
+2012 146 home Albania Qatar 2 1 Friendly
+2012 151 home Albania Iran 1 0 Friendly
+2012 232 home Albania Moldova 0 0 Friendly
+2012 255 home Albania Cyprus 3 1 World Cup qualifier
+2012 259 away Albania Switzerland 2 0 World Cup qualifier
+2012 291 home Albania Iceland 1 2 World Cup qualifier
+2012 295 home Albania Slovenia 1 0 World Cup qualifier
+2012 324 home Albania Cameroon 0 0 Friendly
+2013 37 home Albania Georgia 1 2 Friendly
+2013 84 away Albania Norway 0 1 World Cup qualifier
+2013 88 home Albania Lithuania 4 1 Friendly
+2013 162 home Albania Norway 1 1 World Cup qualifier
+2013 231 home Albania Armenia 2 0 Friendly
+2013 254 away Albania Slovenia 1 0 World Cup qualifier
+2013 258 away Albania Iceland 2 1 World Cup qualifier
+2013 290 home Albania Switzerland 1 2 World Cup qualifier
+2013 294 away Albania Cyprus 0 0 World Cup qualifier
+2013 325 away Albania Belarus 0 0 Friendly
+2014 67 home Albania Malta 2 0 Friendly

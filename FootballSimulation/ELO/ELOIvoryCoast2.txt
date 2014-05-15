@@ -1,0 +1,4176 @@
+April 13
+1960	Ivory Coast
+Dahomey	3
+2	Friendly tournament
+in Madagascar	+3
+-3	1703
+1282	-
+-6	23
+109
+April 15
+1960	Congo
+Ivory Coast	3
+2	Friendly tournament
+in Madagascar	+23
+-23	1530
+1680	+4
+-1	49
+24
+
+1962	Senegal
+Ivory Coast	1
+1	Friendly
+in Senegal	+3
+-3	1480
+1677	0
+-1	62
+24
+April 11
+1963	Tunisia
+Ivory Coast	3
+1	Friendly tournament
+in Senegal	+33
+-33	1534
+1644	+5
+-4	54
+30
+April 13
+1963	Ivory Coast
+Mauritania	2
+0	Friendly tournament
+in Senegal	+3
+-3	1647
+1191	0
+-1	30
+134
+April 14
+1963	Congo
+Ivory Coast	3
+2	Friendly tournament
+in Senegal	+22
+-22	1486
+1625	+6
+-1	66
+31
+April 16
+1963	Ivory Coast
+Congo (Kinshasa)	1
+0	Friendly tournament
+in Senegal	+13
+-13	1638
+1573	+1
+-3	30
+47
+July 18
+1965	Ivory Coast
+Algeria	1
+0	African Games
+in Congo	+26
+-26	1664
+1728	+2
+-4	31
+24
+July 19
+1965	Congo (Kinshasa)
+Ivory Coast	1
+1	African Games
+in Congo	+1
+-1	1640
+1663	+1
+0	33
+31
+July 21
+1965	Ivory Coast
+Madagascar	5
+0	African Games
+in Congo	+17
+-17	1680
+1416	+1
+-5	30
+83
+July 23
+1965	Congo
+Ivory Coast	1
+0	African Games
+in Congo	+23
+-23	1544
+1657	+7
+-1	52
+31
+July 25
+1965	Ivory Coast
+Algeria	1
+0	African Games
+in Congo	+24
+-24	1681
+1704	+2
+-2	29
+26
+November 14
+1965	Ivory Coast
+Congo (Kinshasa)	3
+0	African Nations Cup
+in Tunisia	+34
+-34	1715
+1571	+5
+-8	26
+46
+November 19
+1965	Ghana
+Ivory Coast	4
+1	African Nations Cup
+in Tunisia	+44
+-44	1754
+1671	+9
+-6	19
+32
+November 21
+1965	Ivory Coast
+Senegal	1
+0	African Nations Cup
+in Tunisia	+14
+-14	1685
+1499	+1
+-3	31
+64
+February 19
+1967	Ghana
+Ivory Coast	2
+2	Friendly
+in Ghana	-5
++5	1770
+1690	0
++1	18
+28
+August 16
+1967	Togo
+Ivory Coast	0
+2	African Nations Cup qualifier
+in Togo	-16
++16	1394
+1706	-1
++2	87
+26
+September 27
+1967	Ivory Coast
+Nigeria	2
+0	African Nations Cup qualifier
+in Ivory Coast	+8
+-8	1714
+1461	+1
+-2	25
+75
+November 01
+1967	Nigeria
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Nigeria	+9
+-9	1459
+1705	+1
+-1	75
+25
+November 15
+1967	Ivory Coast
+Togo	3
+0	African Nations Cup qualifier
+in Ivory Coast	+7
+-7	1712
+1406	+1
+0	24
+86
+November 26
+1967	Upper Volta
+Ivory Coast	3
+2	Friendly
+in Upper Volta	+17
+-17	1324
+1695	+7
+-2	107
+26
+January 12
+1968	Ivory Coast
+Algeria	3
+0	African Nations Cup
+in Ethiopia	+50
+-50	1745
+1698	+5
+-5	20
+25
+January 14
+1968	Ethiopia
+Ivory Coast	1
+0	African Nations Cup
+in Ethiopia	+39
+-39	1463
+1706	+13
+-4	73
+24
+January 16
+1968	Ivory Coast
+Uganda	2
+1	African Nations Cup
+in Ethiopia	+5
+-5	1711
+1308	+1
+-2	23
+113
+January 19
+1968	Ghana
+Ivory Coast	4
+3	African Nations Cup
+in Ethiopia	+22
+-22	1780
+1689	+2
+-1	16
+24
+January 21
+1968	Ethiopia
+Ivory Coast	0
+1	African Nations Cup
+in Ethiopia	-18
++18	1473
+1707	-4
++1	71
+23
+May 19
+1968	Ghana
+Ivory Coast	2
+1	Friendly
+in Ghana	+6
+-6	1752
+1701	+1
+0	19
+24
+October 08
+1969	Mali
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Mali	+3
+-3	1557
+1698	0
+-1	54
+25
+October 12
+1969	Malawi
+Ivory Coast	0
+0	Friendly
+in Malawi	+8
+-8	1244
+1690	0
+-3	127
+28
+October 22
+1969	Ivory Coast
+Mali	4
+0	African Nations Cup qualifier
+in Ivory Coast	+16
+-16	1706
+1541	+4
+-2	24
+56
+October 26
+1969	Ivory Coast
+Malawi	4
+0	Friendly
+in Ivory Coast	+1
+-1	1707
+1243	0
+0	24
+126
+February 06
+1970	Cameroon
+Ivory Coast	3
+2	African Nations Cup
+in Sudan	+37
+-37	1567
+1670	+7
+-8	53
+33
+February 08
+1970	Sudan
+Ivory Coast	0
+1	African Nations Cup
+in Sudan	-26
++26	1557
+1696	-8
++8	56
+25
+February 10
+1970	Ivory Coast
+Ethiopia	6
+1	African Nations Cup
+in Sudan	+18
+-18	1714
+1411	+1
+-4	24
+87
+February 14
+1970	Ghana
+Ivory Coast	2
+1	African Nations Cup
+in Sudan	+28
+-28	1702
+1686	+8
+-6	24
+30
+February 16
+1970	Egypt
+Ivory Coast	3
+1	African Nations Cup
+in Sudan	+33
+-33	1757
+1653	+5
+-4	18
+34
+April 15
+1970	Ghana
+Ivory Coast	3
+0	Friendly
+in Ghana	+12
+-12	1689
+1641	+3
+0	26
+35
+April 19
+1970	Ghana
+Ivory Coast	1
+1	Friendly
+in Ghana	-4
++4	1685
+1645	0
+0	26
+35
+October 18
+1970	Ivory Coast
+Senegal	0
+1	Friendly
+in Ivory Coast	-17
++17	1628
+1484	-1
++4	38
+69
+November 08
+1970	Gabon
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Gabon	-11
++11	1348
+1639	-3
+0	102
+39
+November 22
+1970	Ivory Coast
+Gabon	1
+0	African Nations Cup qualifier
+in Ivory Coast	+4
+-4	1643
+1344	+1
+-1	35
+103
+May 02
+1971	Ivory Coast
+Ghana	2
+6	Friendly
+in Ivory Coast	-22
++22	1621
+1703	-1
++2	39
+26
+October 13
+1971	Ivory Coast
+Congo	3
+2	African Nations Cup qualifier
+in Ivory Coast	+8
+-8	1629
+1485	0
+-4	42
+67
+October 27
+1971	Congo
+Ivory Coast	2
+0	African Nations Cup qualifier
+in Congo	+34
+-34	1519
+1595	+9
+-3	59
+45
+October 15
+1972	Sierra Leone
+Ivory Coast	0
+1	World Cup qualifier
+in Sierra Leone	-18
++18	1446
+1613	-1
++5	72
+40
+October 29
+1972	Ivory Coast
+Sierra Leone	2
+0	World Cup qualifier
+in Ivory Coast	+11
+-11	1624
+1435	+3
+-3	37
+75
+November 29
+1972	Ghana
+Ivory Coast	1
+0	African Games qualifier
+in Ghana	+15
+-15	1624
+1609	+3
+-3	37
+40
+February 11
+1973	Tunisia
+Ivory Coast	1
+1	World Cup qualifier
+in Tunisia	-6
++6	1605
+1615	-2
++1	43
+41
+February 25
+1973	Ivory Coast
+Tunisia	2
+1	World Cup qualifier
+in Ivory Coast	+14
+-14	1629
+1591	+3
+-3	38
+46
+May 20
+1973	Ivory Coast
+Morocco	1
+1	World Cup qualifier
+in Ivory Coast	-2
++2	1627
+1689	0
+0	38
+31
+June 03
+1973	Morocco
+Ivory Coast	4
+1	World Cup qualifier
+in Morocco	+20
+-20	1703
+1607	+2
+-2	28
+40
+September 16
+1973	Central African Republic
+Ivory Coast	4
+2	African Nations Cup qualifier
+in Central African Republic	+46
+-46	1339
+1561	+9
+-11	106
+50
+September 30
+1973	Ivory Coast
+Central African Republic	2
+1	African Nations Cup qualifier
+in Ivory Coast	+5
+-5	1566
+1334	+3
+0	48
+107
+October 28
+1973	Ghana
+Ivory Coast	0
+3	African Nations Cup qualifier
+in Ghana	-47
++47	1545
+1613	-15
++12	58
+37
+November 11
+1973	Ivory Coast
+Ghana	1
+0	African Nations Cup qualifier
+in Ivory Coast	+11
+-11	1624
+1534	0
+-1	37
+59
+March 02
+1974	Zambia
+Ivory Coast	1
+0	African Nations Cup
+in Egypt	+32
+-32	1555
+1592	+6
+-5	53
+43
+March 04
+1974	Ivory Coast
+Uganda	2
+2	African Nations Cup
+in Egypt	-12
++12	1580
+1428	-2
++4	45
+80
+March 06
+1974	Egypt
+Ivory Coast	2
+0	African Nations Cup
+in Egypt	+23
+-23	1649
+1557	+3
+-7	34
+53
+September 14
+1975	Congo
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Congo	+15
+-15	1553
+1542	+4
+-2	54
+57
+September 28
+1975	Ivory Coast
+Congo	2
+1	African Nations Cup qualifier
+in Ivory Coast	+15
+-15	1557
+1538	+4
+-5	54
+60
+September 04
+1976	Upper Volta
+Ivory Coast	1
+1	World Cup qualifier
+in Upper Volta	+8
+-8	1317
+1549	+5
+0	109
+55
+September 26
+1976	Ivory Coast
+Upper Volta	2
+0	World Cup qualifier
+in Ivory Coast	+8
+-8	1557
+1309	+1
+-4	54
+113
+February 13
+1977	Ivory Coast
+Congo	3
+2	World Cup qualifier
+in Ivory Coast	+15
+-15	1572
+1552	+3
+-6	49
+55
+February 27
+1977	Congo
+Ivory Coast	1
+3	World Cup qualifier
+in Congo	-37
++37	1515
+1609	-6
++6	60
+43
+July 10
+1977	Nigeria
+Ivory Coast	4
+0	World Cup qualifier
+in Nigeria	+21
+-21	1693
+1588	+4
+-4	29
+48
+July 24
+1977	Ivory Coast
+Nigeria	2
+2	World Cup qualifier
+in Ivory Coast	0
+0	1588
+1693	0
+0	48
+29
+September 18
+1977	Upper Volta
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Upper Volta	-10
++10	1297
+1598	-1
++2	116
+46
+October 02
+1977	Ivory Coast
+Upper Volta	4
+1	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1604
+1291	+3
+-2	43
+118
+September 16
+1979	Benin
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Benin	+29
+-29	1367
+1575	+4
+-7	100
+53
+September 30
+1979	Ivory Coast
+Benin	4
+1	African Nations Cup qualifier
+in Ivory Coast	+10
+-10	1585
+1357	+2
+-3	52
+102
+October 28
+1979	Sudan
+Ivory Coast	2
+0	African Nations Cup qualifier
+in Sudan	+29
+-29	1521
+1556	+6
+-8	65
+60
+November 11
+1979	Ivory Coast
+Sudan	4
+0	African Nations Cup qualifier
+in Ivory Coast	+18
+-18	1574
+1435	+5
+-6	54
+80
+January 20
+1980	Congo
+Ivory Coast	0
+2	Friendly
+in Congo	-16
++16	1487
+1590	-4
++4	70
+50
+January 27
+1980	Cameroon
+Ivory Coast	1
+1	Friendly
+in Cameroon	-3
++3	1576
+1593	0
++1	54
+49
+January 30
+1980	Ivory Coast
+Tunisia	1
+1	Friendly
+in Ivory Coast	0
+0	1593
+1700	0
+0	49
+27
+February 12
+1980	Ivory Coast
+Morocco	4
+4	Friendly
+in Ivory Coast	-2
++2	1591
+1629	0
++2	48
+40
+March 08
+1980	Egypt
+Ivory Coast	2
+1	African Nations Cup
+in Nigeria	+25
+-25	1615
+1566	+4
+-8	46
+56
+March 12
+1980	Nigeria
+Ivory Coast	0
+0	African Nations Cup
+in Nigeria	-12
++12	1629
+1578	-2
++2	40
+54
+March 15
+1980	Ivory Coast
+Tanzania	1
+1	African Nations Cup
+in Nigeria	-12
++12	1566
+1403	-2
++2	55
+87
+April 06
+1980	Ivory Coast
+Gabon	4
+1	Friendly
+in Ivory Coast	+6
+-6	1572
+1379	0
+-2	56
+95
+February 15
+1982	Ghana
+Ivory Coast	5
+5	West African Nations Cup
+in Benin	-6
++6	1675
+1578	-1
+0	34
+52
+February 17
+1982	Benin
+Ivory Coast	3
+3	West African Nations Cup
+in Benin	+8
+-8	1344
+1570	+1
+-3	104
+54
+February 19
+1982	Ivory Coast
+Niger	1
+1	West African Nations Cup
+in Benin	-15
++15	1555
+1264	-5
++5	59
+127
+February 21
+1982	Ivory Coast
+Togo	1
+1	West African Nations Cup
+in Benin	-7
++7	1548
+1439	0
++1	59
+82
+February 22
+1982	Ivory Coast
+Upper Volta	1
+1	West African Nations Cup
+in Benin	-13
++13	1535
+1281	-1
++3	60
+121
+January 09
+1983	Ivory Coast
+Mali	0
+1	Friendly
+in Ivory Coast	-14
++14	1521
+1512	-3
++5	62
+65
+February 23
+1983	Ivory Coast
+Guinea	3
+2	Friendly
+in Ivory Coast	+9
+-9	1530
+1571	+3
+-1	59
+49
+April 17
+1983	Mali
+Ivory Coast	1
+2	Friendly
+in Mali	-12
++12	1483
+1542	+1
++2	71
+59
+August 23
+1983	Algeria
+Ivory Coast	3
+0	Friendly
+in Algeria	+7
+-7	1685
+1535	+1
+0	32
+58
+September 25
+1983	Ivory Coast
+Liberia	0
+0	West African Nations Cup
+in Ivory Coast	-16
++16	1519
+1283	-3
++6	61
+123
+September 28
+1983	Ivory Coast
+Togo	3
+0	West African Nations Cup
+in Ivory Coast	+25
+-25	1544
+1495	+5
+-8	57
+69
+September 30
+1983	Ivory Coast
+Ghana	0
+2	West African Nations Cup
+in Ivory Coast	-27
++27	1517
+1707	-4
++5	61
+29
+October 02
+1983	Ivory Coast
+Liberia	2
+1	West African Nations Cup
+in Ivory Coast	+5
+-5	1522
+1257	0
+-3	61
+134
+December 02
+1983	Ivory Coast
+Switzerland	1
+0	Friendly
+in Ivory Coast	+14
+-14	1536
+1737	+2
+-1	59
+27
+December 15
+1983	Ivory Coast
+Mali	1
+1	Cedeao Tournament
+in Ivory Coast	-8
++8	1528
+1498	-1
++4	61
+68
+December 18
+1983	Ivory Coast
+Togo	2
+1	Cedeao Tournament
+in Ivory Coast	+15
+-15	1543
+1525	+5
+-4	57
+62
+December 20
+1983	Ivory Coast
+Togo	1
+0	Cedeao Tournament
+in Ivory Coast	+13
+-13	1556
+1512	+4
+-3	53
+65
+January 08
+1984	Ivory Coast
+Sierra Leone	1
+0	Friendly
+in Ivory Coast	+2
+-2	1558
+1303	0
+0	53
+113
+January 15
+1984	Ivory Coast
+Morocco	3
+3	Friendly
+in Ivory Coast	-2
++2	1556
+1589	0
+0	53
+48
+January 22
+1984	Ivory Coast
+Guinea	3
+0	Friendly
+in Ivory Coast	+7
+-7	1563
+1422	+1
+-3	53
+86
+January 29
+1984	Ivory Coast
+Mali	4
+1	Friendly tournament
+in Ivory Coast	+15
+-15	1578
+1485	+4
+-4	50
+73
+January 31
+1984	Ivory Coast
+Senegal	1
+0	Friendly tournament
+in Ivory Coast	+9
+-9	1587
+1509	+1
+-5	49
+67
+February 02
+1984	Ivory Coast
+Liberia	4
+1	Friendly tournament
+in Ivory Coast	+4
+-4	1591
+1271	+2
+0	47
+126
+February 05
+1984	Ivory Coast
+Senegal	4
+3	Friendly tournament
+in Ivory Coast	+8
+-8	1599
+1500	+3
+-1	44
+68
+February 08
+1984	Congo
+Ivory Coast	2
+3	Friendly
+in Congo	-12
++12	1544
+1611	-3
++3	58
+41
+March 04
+1984	Ivory Coast
+Togo	3
+0	African Nations Cup
+in Ivory Coast	+21
+-21	1632
+1494	+2
+-9	39
+71
+March 07
+1984	Ivory Coast
+Egypt	1
+2	African Nations Cup
+in Ivory Coast	-33
++33	1599
+1656	-4
++4	43
+38
+March 10
+1984	Ivory Coast
+Cameroon	0
+2	African Nations Cup
+in Ivory Coast	-49
++49	1550
+1641	-15
++9	58
+39
+September 23
+1984	Niger
+Ivory Coast	1
+3	Friendly
+in Niger	-9
++9	1302
+1559	-6
++2	115
+54
+October 11
+1984	Ivory Coast
+Liberia	3
+0	Friendly
+in Ivory Coast	+3
+-3	1562
+1263	0
+-3	55
+132
+October 21
+1984	Ivory Coast
+Gambia	4
+0	World Cup qualifier
+in Ivory Coast	+10
+-10	1572
+1320	+3
+-2	51
+108
+November 04
+1984	Gambia
+Ivory Coast	3
+2	World Cup qualifier
+in Gambia	+28
+-28	1348
+1544	+3
+-5	104
+57
+November 18
+1984	Ghana
+Ivory Coast	2
+0	West African Nations Cup
+in Burkina Faso	+20
+-20	1690
+1524	+1
+-3	35
+60
+November 20
+1984	Burkina Faso
+Ivory Coast	2
+2	West African Nations Cup
+in Burkina Faso	+7
+-7	1311
+1517	+2
+0	109
+60
+November 23
+1984	Ivory Coast
+Togo	1
+1	West African Nations Cup
+in Burkina Faso	-2
++2	1515
+1480	0
+0	60
+77
+November 24
+1984	Ivory Coast
+Benin	2
+1	West African Nations Cup
+in Burkina Faso	+9
+-9	1524
+1279	0
+-1	60
+125
+November 28
+1984	Burkina Faso
+Ivory Coast	0
+2	West African Nations Cup
+in Burkina Faso	-23
++23	1314
+1547	0
++3	107
+57
+December 09
+1984	Ivory Coast
+Guinea	2
+2	Friendly
+in Ivory Coast	-6
++6	1541
+1422	0
++2	57
+87
+December 28
+1984	Ivory Coast
+Tunisia	3
+1	Amitie Tournament
+in Ivory Coast	+24
+-24	1565
+1639	+2
+-2	56
+39
+December 30
+1984	Ivory Coast
+Ghana	2
+0	Amitie Tournament
+in Ivory Coast	+24
+-24	1589
+1657	+6
+-2	50
+37
+January 01
+1985	Ivory Coast
+Algeria	1
+1	Amitie Tournament
+in Ivory Coast	+2
+-2	1591
+1722	+1
+0	49
+30
+January 31
+1985	Ivory Coast
+Egypt	0
+1	Friendly
+in Ivory Coast	-13
++13	1578
+1613	-6
+0	54
+44
+February 20
+1985	Ivory Coast
+Congo	2
+1	Friendly
+in Ivory Coast	+6
+-6	1584
+1508	+3
+-3	51
+66
+March 05
+1985	Ivory Coast
+Zaire	2
+1	Friendly
+in Ivory Coast	+7
+-7	1591
+1583	+2
+-2	50
+52
+March 31
+1985	Ivory Coast
+Mali	6
+0	African Nations Cup qualifier
+in Ivory Coast	+22
+-22	1613
+1482	+5
+-7	45
+74
+April 07
+1985	Ivory Coast
+Ghana	0
+0	World Cup qualifier
+in Ivory Coast	-5
++5	1608
+1622	0
++2	45
+42
+April 14
+1985	Mali
+Ivory Coast	1
+1	African Nations Cup qualifier
+in Mali	0
+0	1509
+1608	0
+-1	65
+46
+April 21
+1985	Ghana
+Ivory Coast	2
+0	World Cup qualifier
+in Ghana	+19
+-19	1665
+1589	+4
+-5	34
+51
+June 16
+1985	Nigeria
+Ivory Coast	0
+0	Friendly
+in Nigeria	-2
++2	1570
+1591	-1
+0	54
+49
+June 19
+1985	Nigeria
+Ivory Coast	2
+0	Friendly
+in Nigeria	+12
+-12	1582
+1579	+4
+-3	50
+52
+June 23
+1985	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-3
++3	1576
+1585	-1
+0	53
+50
+June 26
+1985	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-3
++3	1573
+1588	0
++1	53
+49
+August 18
+1985	Ivory Coast
+Ghana	2
+0	African Nations Cup qualifier
+in Ivory Coast	+22
+-22	1595
+1558	+8
+-7	47
+58
+September 01
+1985	Ghana
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Ghana	-4
++4	1554
+1599	-3
+0	62
+46
+November 19
+1985	Ivory Coast
+Egypt	1
+0	Friendly
+in Zaire	+10
+-10	1609
+1578	+2
+-4	42
+52
+November 22
+1985	Zambia
+Ivory Coast	1
+0	Friendly
+in Zaire	+11
+-11	1601
+1598	+3
+-3	44
+45
+November 24
+1985	Zaire
+Ivory Coast	1
+2	Friendly
+in Zaire	-12
++12	1561
+1610	-4
++2	58
+42
+November 26
+1985	Congo
+Ivory Coast	2
+1	Friendly
+in Congo	+11
+-11	1493
+1599	+1
+-2	73
+44
+November 27
+1985	Congo
+Ivory Coast	0
+1	Friendly
+in Congo	-10
++10	1483
+1609	-1
++2	74
+42
+December 27
+1985	Ivory Coast
+Guinea	1
+0	Cedeao Tournament
+in Senegal	+9
+-9	1618
+1385	+1
+0	42
+92
+December 29
+1985	Senegal
+Ivory Coast	2
+0	Cedeao Tournament
+in Senegal	+25
+-25	1599
+1593	+7
+-5	45
+47
+March 07
+1986	Ivory Coast
+Mozambique	3
+0	African Nations Cup
+in Egypt	+23
+-23	1616
+1389	+3
+-5	43
+92
+March 10
+1986	Egypt
+Ivory Coast	2
+0	African Nations Cup
+in Egypt	+34
+-34	1580
+1582	+10
+-7	51
+50
+March 13
+1986	Ivory Coast
+Senegal	1
+0	African Nations Cup
+in Egypt	+31
+-31	1613
+1643	+7
+-5	43
+38
+March 17
+1986	Cameroon
+Ivory Coast	1
+0	African Nations Cup
+in Egypt	+24
+-24	1656
+1589	+5
+-5	36
+49
+March 20
+1986	Ivory Coast
+Morocco	3
+2	African Nations Cup
+in Egypt	+29
+-29	1618
+1621	+5
+-6	44
+43
+July 28
+1986	Ivory Coast
+Guinea	2
+0	Friendly tournament
+in Liberia	+9
+-9	1627
+1356	+1
+-3	40
+101
+July 30
+1986	Liberia
+Ivory Coast	0
+2	Friendly tournament
+in Liberia	-7
++7	1230
+1634	-2
+0	137
+40
+August 02
+1986	Ivory Coast
+Ghana	1
+0	Friendly tournament
+in Liberia	+13
+-13	1647
+1581	+2
+-7	38
+54
+August 10
+1986	Ivory Coast
+Liberia	2
+1	African Games qualifier
+in Ivory Coast	+2
+-2	1649
+1265	+1
+-3	37
+127
+August 24
+1986	Liberia
+Ivory Coast	1
+2	African Games qualifier
+in Liberia	-7
++7	1258
+1656	-4
++1	131
+36
+December 11
+1986	Algeria
+Ivory Coast	2
+1	Friendly
+in Algeria	+9
+-9	1608
+1647	0
+-1	47
+38
+December 14
+1986	Algeria
+Ivory Coast	2
+1	Friendly
+in Algeria	+8
+-8	1616
+1639	+2
+-2	45
+40
+January 03
+1987	Nigeria
+Ivory Coast	0
+0	African Games qualifier
+in Nigeria	0
+0	1541
+1639	0
+0	61
+40
+January 18
+1987	Ivory Coast
+Nigeria	1
+0	African Games qualifier
+in Ivory Coast	+10
+-10	1649
+1531	+2
+-1	39
+61
+January 31
+1987	Ghana
+Ivory Coast	2
+0	West African Nations Cup
+in Liberia	+35
+-35	1629
+1614	+8
+-8	42
+47
+February 02
+1987	Togo
+Ivory Coast	1
+0	West African Nations Cup
+in Liberia	+28
+-28	1493
+1586	+8
+-5	71
+52
+February 04
+1987	Ivory Coast
+Niger	1
+0	West African Nations Cup
+in Liberia	+6
+-6	1592
+1290	+2
+0	50
+118
+March 18
+1987	Ivory Coast
+Zaire	2
+1	Friendly
+in Ivory Coast	+7
+-7	1599
+1570	+1
+0	48
+55
+March 22
+1987	Ivory Coast
+Zaire	1
+3	Friendly
+in Ivory Coast	-20
++20	1579
+1590	-7
++6	55
+49
+March 29
+1987	Ivory Coast
+Congo	2
+0	African Nations Cup qualifier
+in Ivory Coast	+14
+-14	1593
+1464	+5
+-4	50
+79
+April 05
+1987	Congo
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Congo	-18
++18	1446
+1611	-3
++3	82
+47
+April 08
+1987	Gabon
+Ivory Coast	1
+0	Friendly
+in Gabon	+12
+-12	1470
+1599	+3
+-1	77
+48
+April 19
+1987	Ghana
+Ivory Coast	1
+2	African Games qualifier
+in Ghana	-28
++28	1619
+1627	-8
++5	46
+42
+April 26
+1987	Ivory Coast
+Ghana	1
+1	African Games qualifier
+in Ivory Coast	-6
++6	1621
+1625	-3
++3	45
+43
+June 28
+1987	Zambia
+Ivory Coast	2
+0	Friendly
+in Zambia	+12
+-12	1593
+1609	+3
+0	49
+47
+July 03
+1987	Malawi
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Malawi	-21
++21	1506
+1630	-7
++4	71
+43
+July 19
+1987	Ivory Coast
+Malawi	2
+0	African Nations Cup qualifier
+in Ivory Coast	+13
+-13	1643
+1492	+1
+-2	42
+75
+August 02
+1987	Ivory Coast
+Malawi	1
+0	African Games
+in Kenya	+12
+-12	1655
+1480	0
+-1	42
+75
+August 04
+1987	Egypt
+Ivory Coast	2
+1	African Games
+in Kenya	+20
+-20	1682
+1635	+4
+0	35
+42
+August 06
+1987	Ivory Coast
+Senegal	1
+0	African Games
+in Kenya	+14
+-14	1649
+1516	0
+-3	42
+64
+August 08
+1987	Ivory Coast
+Madagascar	1
+1	African Games
+in Kenya	-12
++12	1637
+1418	0
++1	42
+90
+November 22
+1987	Ivory Coast
+Togo	3
+0	Cedeao Tournament
+in Ivory Coast	+9
+-9	1646
+1385	+1
+-1	40
+94
+December 13
+1987	Togo
+Ivory Coast	1
+0	Cedeao Tournament
+in Togo	+29
+-29	1414
+1617	+4
+-7	90
+46
+December 19
+1987	Ivory Coast
+Senegal	1
+0	Cedeao Tournament
+in Liberia	+15
+-15	1632
+1516	+6
+-3	40
+66
+December 23
+1987	Liberia
+Ivory Coast	1
+2	Cedeao Tournament
+in Liberia	-11
++11	1353
+1643	-3
+0	103
+40
+March 13
+1988	Algeria
+Ivory Coast	1
+1	African Nations Cup
+in Morocco	-2
++2	1662
+1645	-2
+0	37
+40
+March 16
+1988	Ivory Coast
+Zaire	1
+1	African Nations Cup
+in Morocco	-5
++5	1640
+1586	0
++2	40
+49
+March 19
+1988	Morocco
+Ivory Coast	0
+0	African Nations Cup
+in Morocco	-11
++11	1685
+1651	0
+0	33
+40
+December 10
+1988	Ivory Coast
+Tunisia	1
+0	Friendly
+in Ivory Coast	+2
+-2	1653
+1410	0
+0	40
+92
+December 18
+1988	Ivory Coast
+Tunisia	1
+1	Friendly
+in Ivory Coast	-8
++8	1645
+1418	-1
++2	39
+89
+January 08
+1989	Ivory Coast
+Libya	1
+0	World Cup qualifier
+in Ivory Coast	+10
+-10	1655
+1537	+2
+-2	38
+59
+January 22
+1989	Zimbabwe
+Ivory Coast	0
+0	World Cup qualifier
+in Zimbabwe	+4
+-4	1497
+1651	+3
+0	68
+38
+April 09
+1989	Angola
+Ivory Coast	0
+2	African Nations Cup qualifier
+in Angola	-25
++25	1466
+1676	-3
++3	75
+34
+April 23
+1989	Ivory Coast
+Angola	4
+1	African Nations Cup qualifier
+in Ivory Coast	+10
+-10	1686
+1451	+1
+-3	31
+79
+June 01
+1989	Ivory Coast
+Zaire	1
+1	Friendly
+in Ivory Coast	-6
++6	1680
+1556	0
+0	31
+57
+June 11
+1989	Ivory Coast
+Algeria	0
+0	World Cup qualifier
+in Ivory Coast	-8
++8	1672
+1649	0
++3	31
+34
+July 16
+1989	Mali
+Ivory Coast	2
+2	African Nations Cup qualifier
+in Mali	+6
+-6	1475
+1666	0
+-1	74
+32
+July 30
+1989	Ivory Coast
+Mali	3
+1	African Nations Cup qualifier
+in Ivory Coast	+9
+-9	1675
+1466	+1
+-1	31
+75
+August 13
+1989	Ivory Coast
+Zimbabwe	5
+0	World Cup qualifier
+in Ivory Coast	+13
+-13	1688
+1476	+2
+-1	29
+72
+August 25
+1989	Algeria
+Ivory Coast	1
+0	World Cup qualifier
+in Algeria	+15
+-15	1683
+1673	+1
+-2	31
+32
+January 25
+1990	Nigeria
+Ivory Coast	2
+0	Cedeao Tournament
+in Nigeria	+28
+-28	1623
+1645	+4
+-2	41
+36
+January 27
+1990	Ivory Coast
+Liberia	1
+0	Cedeao Tournament
+in Nigeria	+8
+-8	1653
+1397	+1
+-3	35
+97
+February 21
+1990	Morocco
+Ivory Coast	2
+1	Friendly
+in Morocco	+9
+-9	1596
+1644	0
+-1	47
+36
+March 03
+1990	Egypt
+Ivory Coast	1
+3	African Nations Cup
+in Algeria	-41
++41	1631
+1685	-4
++4	38
+32
+March 05
+1990	Algeria
+Ivory Coast	3
+0	African Nations Cup
+in Algeria	+31
+-31	1723
+1654	+2
+-2	27
+34
+March 08
+1990	Ivory Coast
+Nigeria	0
+1	African Nations Cup
+in Algeria	-28
++28	1626
+1643	-4
++5	38
+35
+August 19
+1990	Ivory Coast
+Mauritania	2
+0	African Nations Cup qualifier
+in Ivory Coast	+2
+-2	1628
+1101	0
+-1	41
+166
+September 30
+1990	Niger
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Niger	-9
++9	1315
+1637	0
++1	113
+39
+January 13
+1991	Morocco
+Ivory Coast	3
+1	African Nations Cup qualifier
+in Morocco	+24
+-24	1626
+1613	+9
+-6	38
+43
+February 15
+1991	Senegal
+Ivory Coast	0
+0	Friendly tournament
+in Senegal	-2
++2	1569
+1615	0
++1	51
+42
+February 17
+1991	Cameroon
+Ivory Coast	1
+1	Friendly tournament
+in Senegal	-1
++1	1629
+1616	0
+0	37
+42
+April 30
+1991	Ivory Coast
+Niger	1
+0	African Nations Cup qualifier
+in Ivory Coast	+5
+-5	1621
+1357	+3
+-1	39
+105
+May 05
+1991	Senegal
+Ivory Coast	0
+0	Friendly
+in Senegal	-1
++1	1572
+1622	0
+0	50
+39
+June 09
+1991	Ivory Coast
+Senegal	2
+0	Friendly
+in Ivory Coast	+9
+-9	1631
+1563	+1
+-2	39
+52
+July 24
+1991	Ivory Coast
+Guinea	0
+0	Friendly
+in Ivory Coast	-7
++7	1624
+1459	0
+0	40
+76
+July 28
+1991	Ivory Coast
+Morocco	2
+0	African Nations Cup qualifier
+in Ivory Coast	+20
+-20	1644
+1586	+3
+-3	38
+50
+August 11
+1991	Benin
+Ivory Coast	0
+3	Cedeao Tournament
+in Benin	-9
++9	1206
+1653	-5
++2	145
+36
+September 01
+1991	Ivory Coast
+Benin	1
+0	Cedeao Tournament
+in Ivory Coast	+2
+-2	1655
+1204	0
+0	37
+145
+October 31
+1991	Ivory Coast
+Nigeria	2
+0	Cedeao Tournament
+in Ivory Coast	+20
+-20	1675
+1617	+3
+-6	33
+45
+November 02
+1991	Ivory Coast
+Senegal	1
+0	Cedeao Tournament
+in Ivory Coast	+10
+-10	1685
+1571	0
+0	33
+51
+November 23
+1991	Ivory Coast
+Niger	5
+2	Friendly
+in Ivory Coast	+3
+-3	1688
+1365	+2
+-1	32
+104
+November 27
+1991	Tunisia
+Ivory Coast	5
+3	Friendly
+in Tunisia	+20
+-20	1500
+1668	+4
+-2	67
+34
+January 05
+1992	Zaire
+Ivory Coast	2
+0	Friendly
+in Zaire	+17
+-17	1540
+1651	+3
+-2	57
+37
+January 13
+1992	Ivory Coast
+Algeria	3
+0	African Nations Cup
+in Senegal	+54
+-54	1705
+1679	+9
+-7	28
+34
+January 15
+1992	Ivory Coast
+Congo	0
+0	African Nations Cup
+in Senegal	-13
++13	1692
+1524	-2
++4	30
+60
+January 20
+1992	Ivory Coast
+Zambia	1
+0	African Nations Cup
+in Senegal	+20
+-20	1712
+1599	+3
+-6	28
+48
+January 23
+1992	Ivory Coast
+Cameroon	0
+0	African Nations Cup
+in Senegal	-1
++1	1711
+1694	0
+0	28
+31
+January 26
+1992	Ivory Coast
+Ghana	0
+0	African Nations Cup
+in Senegal	-5
++5	1706
+1647	0
++1	28
+38
+July 26
+1992	Ivory Coast
+Egypt	2
+0	Friendly
+in Ivory Coast	+8
+-8	1714
+1634	0
+-3	29
+42
+July 28
+1992	Ivory Coast
+Egypt	2
+2	Friendly
+in Ivory Coast	-5
++5	1709
+1639	0
++3	29
+39
+October 10
+1992	Ivory Coast
+Botswana	6
+0	World Cup qualifier
+in Ivory Coast	+1
+-1	1710
+1066	+1
+0	29
+174
+October 16
+1992	Argentina
+Ivory Coast	4
+0	Intercontinental Cup
+in Saudi Arabia	+18
+-18	1978
+1692	+1
+-1	1
+30
+October 19
+1992	United States
+Ivory Coast	5
+2	Intercontinental Cup
+in Saudi Arabia	+55
+-55	1654
+1637	+13
+-11	36
+41
+October 25
+1992	Niger
+Ivory Coast	0
+0	World Cup qualifier
+in Niger	+10
+-10	1346
+1627	+4
+-3	111
+44
+January 17
+1993	Botswana
+Ivory Coast	0
+0	World Cup qualifier
+in Botswana	+18
+-18	1072
+1609	0
+-6	175
+47
+January 31
+1993	Ivory Coast
+Niger	1
+0	World Cup qualifier
+in Ivory Coast	+4
+-4	1613
+1335	0
+0	45
+115
+April 16
+1993	Algeria
+Ivory Coast	1
+1	World Cup qualifier
+in Algeria	-7
++7	1634
+1620	0
++4	36
+43
+May 02
+1993	Ivory Coast
+Nigeria	2
+1	World Cup qualifier
+in Ivory Coast	+18
+-18	1638
+1669	+8
+0	38
+31
+July 07
+1993	Ivory Coast
+Niger	3
+2	Friendly
+in Ivory Coast	+2
+-2	1640
+1352	0
+-3	36
+117
+July 18
+1993	Ivory Coast
+Algeria	1
+0	World Cup qualifier
+in Ivory Coast	+13
+-13	1653
+1598	+1
+-3	35
+48
+September 25
+1993	Nigeria
+Ivory Coast	4
+1	World Cup qualifier
+in Nigeria	+22
+-22	1714
+1631	+3
+-8	27
+42
+October 04
+1993	Japan
+Ivory Coast	1
+0	Afro-Asian Championship
+in Japan	+20
+-20	1624
+1611	+7
+-6	43
+48
+December 19
+1993	Mali
+Ivory Coast	0
+1	Friendly
+in Mali	-8
++8	1423
+1619	-2
++1	97
+45
+January 18
+1994	Guinea
+Ivory Coast	3
+0	Friendly
+in Guinea	+22
+-22	1447
+1597	+7
+-7	90
+52
+January 29
+1994	Ivory Coast
+Niger	5
+3	Black Stars Tournament
+in Burkina Faso	+8
+-8	1605
+1322	+2
+-2	50
+124
+January 30
+1994	Burkina Faso
+Ivory Coast	0
+1	Black Stars Tournament
+in Burkina Faso	-12
++12	1424
+1617	-2
++4	96
+46
+March 27
+1994	Ivory Coast
+Sierra Leone	4
+0	African Nations Cup
+in Tunisia	+33
+-33	1650
+1475	+6
+-8	39
+81
+March 31
+1994	Zambia
+Ivory Coast	1
+0	African Nations Cup
+in Tunisia	+24
+-24	1688
+1626	+2
+-6	30
+45
+April 03
+1994	Ivory Coast
+Ghana	2
+1	African Nations Cup
+in Tunisia	+26
+-26	1652
+1613	+8
+-6	37
+46
+April 06
+1994	Nigeria
+Ivory Coast	2
+2	African Nations Cup
+in Tunisia	-6
++6	1726
+1658	-1
++1	26
+36
+April 10
+1994	Ivory Coast
+Mali	3
+1	African Nations Cup
+in Tunisia	+21
+-21	1679
+1468	+5
+-2	32
+81
+June 05
+1994	Ivory Coast
+Liberia	4
+1	Friendly
+in Ivory Coast	+3
+-3	1682
+1357	+1
+-1	29
+113
+August 07
+1994	Ivory Coast
+Mali	2
+1	Friendly
+in Ivory Coast	+3
+-3	1685
+1465	0
+-1	31
+83
+November 08
+1994	Tunisia
+Ivory Coast	2
+0	Friendly
+in Tunisia	+17
+-17	1555
+1668	+6
+-2	56
+33
+November 13
+1994	Morocco
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Morocco	+20
+-20	1595
+1648	+9
+-2	45
+35
+November 26
+1994	Ivory Coast
+Cameroon	2
+1	Simba Cup
+in South Africa	+12
+-12	1660
+1561	0
+-3	34
+56
+November 30
+1994	South Africa
+Ivory Coast	0
+0	Simba Cup
+in South Africa	-5
++5	1672
+1665	-1
++2	31
+32
+December 04
+1994	Ivory Coast
+Ghana	1
+1	Simba Cup
+in South Africa	-1
++1	1664
+1645	+1
++1	31
+35
+December 11
+1994	Namibia
+Ivory Coast	2
+1	Friendly
+in Namibia	+18
+-18	1215
+1646	+4
+-3	152
+35
+January 15
+1995	Ivory Coast
+Togo	0
+0	Friendly
+in Ivory Coast	-8
++8	1638
+1367	-1
+0	35
+113
+January 22
+1995	Ivory Coast
+Burkina Faso	2
+2	African Nations Cup qualifier
+in Ivory Coast	-14
++14	1624
+1443	-3
++9	38
+90
+April 26
+1995	Ivory Coast
+Sierra Leone	4
+0	Friendly
+in Ivory Coast	+9
+-9	1633
+1504	+2
+-3	37
+73
+May 13
+1995	Ivory Coast
+Mali	0
+1	Friendly
+in Ivory Coast	-17
++17	1616
+1435	-3
++4	40
+94
+May 28
+1995	Ivory Coast
+Liberia	1
+1	Friendly
+in Ivory Coast	-7
++7	1609
+1404	-3
++2	42
+101
+June 04
+1995	Ivory Coast
+Morocco	2
+0	African Nations Cup qualifier
+in Ivory Coast	+20
+-20	1629
+1572	+4
+-4	38
+52
+July 01
+1995	Ivory Coast
+Ghana	2
+0	Friendly
+in Ivory Coast	+11
+-11	1640
+1621	+8
+-3	35
+42
+July 23
+1995	Mali
+Ivory Coast	2
+2	Friendly
+in Mali	+3
+-3	1420
+1637	+1
+0	100
+37
+July 30
+1995	Burkina Faso
+Ivory Coast	1
+1	African Nations Cup qualifier
+in Burkina Faso	+5
+-5	1461
+1632	-1
+-4	87
+41
+November 26
+1995	Ivory Coast
+Algeria	0
+0	Belier d'Afrique Tournament
+in Gabon	-3
++3	1629
+1560	-2
++1	39
+58
+November 28
+1995	Gabon
+Ivory Coast	0
+2	Belier d'Afrique Tournament
+in Gabon	-18
++18	1443
+1647	-4
++5	90
+34
+November 30
+1995	Ivory Coast
+Cameroon	2
+1	Belier d'Afrique Tournament
+in Gabon	+11
+-11	1658
+1529	0
+-2	34
+68
+December 02
+1995	Ivory Coast
+Algeria	0
+0	Belier d'Afrique Tournament
+in Gabon	-4
++4	1654
+1576	0
++1	34
+51
+December 09
+1995	Ivory Coast
+Mali	2
+1	Friendly
+in Ivory Coast	+2
+-2	1656
+1331	0
+-1	34
+120
+January 14
+1996	Ghana
+Ivory Coast	2
+0	African Nations Cup
+in South Africa	+37
+-37	1696
+1619	+4
+-9	30
+44
+January 21
+1996	Ivory Coast
+Mozambique	1
+0	African Nations Cup
+in South Africa	+13
+-13	1632
+1427	+6
+-8	38
+97
+January 25
+1996	Tunisia
+Ivory Coast	3
+1	African Nations Cup
+in South Africa	+49
+-49	1570
+1583	+12
+-11	54
+50
+May 26
+1996	Gabon
+Ivory Coast	0
+1	Friendly
+in Gabon	-11
++11	1500
+1594	-4
++3	74
+48
+June 02
+1996	Congo
+Ivory Coast	2
+0	World Cup qualifier
+in Congo	+39
+-39	1425
+1555	+11
+-11	97
+59
+June 09
+1996	Ivory Coast
+Burkina Faso	1
+1	Friendly
+in Ivory Coast	-7
++7	1548
+1382	-2
++2	61
+108
+June 16
+1996	Ivory Coast
+Congo	1
+1	World Cup qualifier
+in Ivory Coast	-11
++11	1537
+1436	-4
++2	66
+94
+October 06
+1996	Algeria
+Ivory Coast	4
+1	African Nations Cup qualifier
+in Algeria	+21
+-21	1606
+1516	+7
+-5	46
+69
+January 08
+1997	Ivory Coast
+Guinea	2
+1	Friendly
+in Ivory Coast	+4
+-4	1520
+1371	+2
+-1	66
+117
+January 26
+1997	Ivory Coast
+Benin	1
+0	African Nations Cup qualifier
+in Ivory Coast	+3
+-3	1523
+1195	0
+0	66
+154
+February 23
+1997	Mali
+Ivory Coast	1
+2	African Nations Cup qualifier
+in Mali	-19
++19	1383
+1542	-5
++3	109
+65
+May 08
+1997	Ivory Coast
+Senegal	4
+1	Friendly
+in Ivory Coast	+9
+-9	1551
+1456	0
+-2	63
+87
+June 22
+1997	Ivory Coast
+Algeria	2
+1	African Nations Cup qualifier
+in Ivory Coast	+16
+-16	1567
+1564	+4
+-4	58
+60
+July 13
+1997	Benin
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Benin	+13
+-13	1210
+1554	+7
+-2	148
+62
+July 27
+1997	Ivory Coast
+Mali	4
+2	African Nations Cup qualifier
+in Ivory Coast	+10
+-10	1564
+1363	+2
+-4	60
+117
+November 02
+1997	Ivory Coast
+Burkina Faso	0
+0	Friendly
+in Ivory Coast	-8
++8	1556
+1311	-5
++2	61
+127
+December 27
+1997	Burkina Faso
+Ivory Coast	2
+0	Friendly
+in Burkina Faso	+21
+-21	1329
+1535	+6
+-6	123
+65
+January 28
+1998	Ivory Coast
+Mozambique	4
+1	Friendly
+in Ivory Coast	+8
+-8	1543
+1406	+3
+-2	64
+102
+February 01
+1998	Ivory Coast
+Cameroon	1
+0	Friendly
+in Ivory Coast	+8
+-8	1551
+1555	+2
+-2	62
+59
+February 08
+1998	Ivory Coast
+Namibia	4
+3	African Nations Cup
+in Burkina Faso	+14
+-14	1565
+1369	+6
+-2	57
+112
+February 11
+1998	South Africa
+Ivory Coast	1
+1	African Nations Cup
+in Burkina Faso	-5
++5	1628
+1570	-2
+0	46
+57
+February 16
+1998	Ivory Coast
+Angola	5
+2	African Nations Cup
+in Burkina Faso	+39
+-39	1609
+1491	+6
+-4	51
+70
+February 21
+1998	Ivory Coast
+Egypt	0
+0	African Nations Cup
+in Burkina Faso	+2
+-2	1611
+1639	+1
++1	51
+43
+August 30
+1998	Burkina Faso
+Ivory Coast	1
+1	Friendly
+in Burkina Faso	+3
+-3	1405
+1608	+1
+-1	100
+53
+September 16
+1998	Egypt
+Ivory Coast	0
+0	Friendly
+in Egypt	-5
++5	1700
+1613	0
++1	28
+52
+October 04
+1998	Mali
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Mali	-17
++17	1443
+1630	-5
++2	92
+51
+January 03
+1999	Ivory Coast
+Togo	3
+1	Friendly
+in Ivory Coast	+4
+-4	1634
+1383	+1
+-1	48
+112
+January 24
+1999	Ivory Coast
+Namibia	3
+0	African Nations Cup qualifier
+in Ivory Coast	+9
+-9	1643
+1382	+2
+-3	46
+112
+February 28
+1999	Congo
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Congo	+24
+-24	1498
+1619	+4
+-8	75
+55
+April 11
+1999	Ivory Coast
+Congo	2
+0	African Nations Cup qualifier
+in Ivory Coast	+13
+-13	1632
+1485	+5
+-2	50
+77
+June 05
+1999	Namibia
+Ivory Coast	1
+1	African Nations Cup qualifier
+in Namibia	+10
+-10	1354
+1622	+5
+-5	116
+55
+June 20
+1999	Ivory Coast
+Mali	0
+0	African Nations Cup qualifier
+in Ivory Coast	-13
++13	1609
+1477	0
++3	52
+80
+October 30
+1999	Ivory Coast
+Gabon	0
+1	Friendly
+in Ivory Coast	-16
++16	1593
+1475	-1
++5	53
+83
+November 21
+1999	Senegal
+Ivory Coast	3
+0	Friendly
+in Senegal	+17
+-17	1523
+1576	+7
+-2	66
+55
+December 29
+1999	Ivory Coast
+Burkina Faso	3
+1	Friendly
+in Ivory Coast	+6
+-6	1582
+1435	0
+-1	56
+93
+January 09
+2000	Ivory Coast
+Egypt	2
+0	Friendly
+in Ivory Coast	+13
+-13	1595
+1630	+2
+0	54
+45
+January 24
+2000	Togo
+Ivory Coast	1
+1	African Nations Cup
+in Ghana	+15
+-15	1363
+1580	+4
+-3	113
+57
+January 28
+2000	Cameroon
+Ivory Coast	3
+0	African Nations Cup
+in Ghana	+43
+-43	1629
+1537	+11
+-7	45
+64
+January 31
+2000	Ghana
+Ivory Coast	0
+2	African Nations Cup
+in Ghana	-54
++54	1548
+1591	-10
++11	63
+54
+April 09
+2000	Rwanda
+Ivory Coast	2
+2	World Cup qualifier
+in Rwanda	+11
+-11	1286
+1580	+3
+-1	135
+56
+April 23
+2000	Ivory Coast
+Rwanda	2
+0	World Cup qualifier
+in Ivory Coast	+6
+-6	1586
+1280	0
+0	56
+136
+June 18
+2000	Ivory Coast
+Tunisia	2
+2	World Cup qualifier
+in Ivory Coast	-3
++3	1583
+1643	+1
+-1	56
+49
+July 02
+2000	Niger
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Niger	-11
++11	1312
+1594	-4
++1	129
+55
+July 16
+2000	Ivory Coast
+Niger	6
+0	African Nations Cup qualifier
+in Ivory Coast	+8
+-8	1602
+1304	+1
++2	55
+129
+September 02
+2000	Egypt
+Ivory Coast	1
+0	African Nations Cup qualifier
+in Egypt	+12
+-12	1669
+1590	+5
+0	40
+56
+November 19
+2000	Ivory Coast
+Libya	2
+1	African Nations Cup qualifier
+in Ivory Coast	+7
+-7	1597
+1422	0
+-1	57
+95
+January 20
+2001	Ivory Coast
+Sudan	2
+0	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1603
+1304	0
+-2	58
+130
+January 28
+2001	Madagascar
+Ivory Coast	1
+3	World Cup qualifier
+in Madagascar	-26
++26	1434
+1629	-11
++6	93
+52
+March 10
+2001	Dem. Rep. of Congo
+Ivory Coast	1
+2	World Cup qualifier
+in Dem. Rep. of Congo	-16
++16	1440
+1645	-4
++3	88
+49
+March 25
+2001	Sudan
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Sudan	+10
+-10	1372
+1635	+5
+-4	112
+51
+April 22
+2001	Ivory Coast
+Congo	2
+0	World Cup qualifier
+in Ivory Coast	+7
+-7	1642
+1369	+2
+-2	47
+115
+May 20
+2001	Tunisia
+Ivory Coast	1
+1	World Cup qualifier
+in Tunisia	-6
++6	1639
+1648	-2
++2	49
+47
+June 03
+2001	Libya
+Ivory Coast	0
+3	African Nations Cup qualifier
+in Libya	-23
++23	1397
+1671	-6
++5	100
+41
+June 10
+2001	Guinea-Bissau
+Ivory Coast	1
+4	West African Nations Cup qualifier
+in Guinea-Bissau	-8
++8	1195
+1679	-5
++2	158
+38
+June 17
+2001	Ivory Coast
+Egypt	2
+2	African Nations Cup qualifier
+in Ivory Coast	-7
++7	1672
+1661	-2
++2	38
+42
+July 01
+2001	Ivory Coast
+Madagascar	6
+0	World Cup qualifier
+in Ivory Coast	+6
+-6	1678
+1319	+1
+0	39
+126
+July 15
+2001	Congo
+Ivory Coast	1
+1	World Cup qualifier
+in Congo	+10
+-10	1393
+1668	+7
+-3	102
+42
+July 29
+2001	Ivory Coast
+Dem. Rep. of Congo	1
+2	World Cup qualifier
+in Ivory Coast	-35
++35	1633
+1454	-6
++11	48
+85
+December 05
+2001	Mali
+Ivory Coast	0
+3	Friendly
+in Mali	-13
++13	1425
+1646	-2
++3	97
+45
+January 12
+2002	Ivory Coast
+Nigeria	1
+1	Friendly
+in Ivory Coast	-1
++1	1645
+1711	0
+-1	44
+35
+January 21
+2002	Togo
+Ivory Coast	0
+0	African Nations Cup
+in Mali	+9
+-9	1520
+1636	+3
+-1	72
+46
+January 25
+2002	Cameroon
+Ivory Coast	1
+0	African Nations Cup
+in Mali	+18
+-18	1753
+1618	+4
+-4	25
+50
+January 29
+2002	Dem. Rep. of Congo
+Ivory Coast	3
+1	African Nations Cup
+in Mali	+56
+-56	1486
+1562	+15
+-6	80
+57
+September 08
+2002	Ivory Coast
+South Africa	0
+0	African Nations Cup qualifier
+in Ivory Coast	-1
++1	1561
+1654	0
+0	60
+38
+September 18
+2002	Ivory Coast
+Gambia	5
+0	West African Nations Cup
+in Ivory Coast	+13
+-13	1574
+1358	+2
+-7	58
+121
+February 11
+2003	Ivory Coast
+Cameroon	3
+0	Friendly
+in France	+27
+-27	1601
+1759	+5
+-6	55
+25
+March 30
+2003	Burundi
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Burundi	-9
++9	1289
+1610	-3
++5	134
+52
+April 30
+2003	Morocco
+Ivory Coast	0
+1	Friendly
+in Morocco	-13
++13	1602
+1623	-5
++4	56
+49
+June 08
+2003	Ivory Coast
+Burundi	6
+1	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1629
+1283	+2
+-1	46
+135
+June 22
+2003	South Africa
+Ivory Coast	2
+1	African Nations Cup qualifier
+in South Africa	+13
+-13	1665
+1616	+3
+-3	39
+50
+September 10
+2003	Tunisia
+Ivory Coast	3
+2	Friendly
+in Tunisia	+7
+-7	1639
+1609	+2
+-1	45
+54
+November 15
+2003	Senegal
+Ivory Coast	1
+0	Friendly
+in Senegal	+4
+-4	1746
+1605	-1
+0	27
+55
+March 31
+2004	Tunisia
+Ivory Coast	0
+2	Friendly
+in Tunisia	-22
++22	1670
+1627	-4
++7	40
+47
+April 28
+2004	Ivory Coast
+Guinea	4
+2	Friendly
+in France	+11
+-11	1638
+1517	0
+-1	47
+72
+June 06
+2004	Ivory Coast
+Libya	2
+0	World Cup qualifier
+in Ivory Coast	+9
+-9	1647
+1432	+1
+-4	46
+95
+June 20
+2004	Egypt
+Ivory Coast	1
+2	World Cup qualifier
+in Egypt	-28
++28	1662
+1675	-8
++8	43
+38
+July 04
+2004	Cameroon
+Ivory Coast	2
+0	World Cup qualifier
+in Cameroon	+18
+-18	1735
+1657	+1
+-2	28
+41
+August 18
+2004	Ivory Coast
+Senegal	2
+1	Friendly
+in France	+11
+-11	1668
+1668	+1
+-1	36
+36
+September 05
+2004	Ivory Coast
+Sudan	5
+0	World Cup qualifier
+in Ivory Coast	+5
+-5	1673
+1298	+1
+-2	36
+130
+October 10
+2004	Benin
+Ivory Coast	0
+1	World Cup qualifier
+in Benin	-6
++6	1282
+1679	-3
+-1	139
+37
+February 08
+2005	Ivory Coast
+Dem. Rep. of Congo	2
+2	Friendly
+in France	-6
++6	1673
+1443	0
+0	38
+92
+March 27
+2005	Ivory Coast
+Benin	3
+0	World Cup qualifier
+in Ivory Coast	+4
+-4	1677
+1278	-1
+-1	41
+139
+June 03
+2005	Libya
+Ivory Coast	0
+0	World Cup qualifier
+in Libya	+3
+-3	1520
+1674	+1
+0	74
+41
+June 19
+2005	Ivory Coast
+Egypt	2
+0	World Cup qualifier
+in Ivory Coast	+25
+-25	1699
+1687	+6
+-5	35
+39
+August 17
+2005	France
+Ivory Coast	3
+0	Friendly
+in France	+5
+-5	1932
+1694	0
+-2	6
+38
+September 04
+2005	Ivory Coast
+Cameroon	2
+3	World Cup qualifier
+in Ivory Coast	-24
++24	1670
+1747	-4
++3	43
+29
+October 08
+2005	Sudan
+Ivory Coast	1
+3	World Cup qualifier
+in Sudan	-17
++17	1391
+1687	-3
++2	100
+42
+November 12
+2005	Ivory Coast
+Romania	2
+1	Friendly
+in France	+14
+-14	1701
+1806	+5
+-1	37
+17
+November 16
+2005	Italy
+Ivory Coast	1
+1	Friendly
+in Switzerland	-5
++5	1909
+1706	0
+0	7
+37
+January 17
+2006	Ivory Coast
+Jordan	2
+0	Friendly
+in United Arab Emirates	+8
+-8	1714
+1518	+1
+-5	35
+79
+January 21
+2006	Ivory Coast
+Morocco	1
+0	African Nations Cup
+in Egypt	+24
+-24	1738
+1672	+3
+-4	32
+43
+January 24
+2006	Ivory Coast
+Libya	2
+1	African Nations Cup
+in Egypt	+8
+-8	1746
+1447	+3
+-1	30
+93
+January 28
+2006	Egypt
+Ivory Coast	3
+1	African Nations Cup
+in Egypt	+32
+-32	1729
+1714	+4
+-5	34
+36
+February 04
+2006	Ivory Coast
+Cameroon	1
+1	African Nations Cup
+in Egypt	+5
+-5	1719
+1781	0
+0	35
+24
+February 07
+2006	Ivory Coast
+Nigeria	1
+0	African Nations Cup
+in Egypt	+30
+-30	1749
+1756	+5
+-4	30
+27
+February 10
+2006	Egypt
+Ivory Coast	0
+0	African Nations Cup
+in Egypt	-7
++7	1747
+1756	-2
++2	31
+28
+March 01
+2006	Spain
+Ivory Coast	3
+2	Friendly
+in Spain	+3
+-3	1931
+1753	+2
+-1	4
+29
+May 27
+2006	Switzerland
+Ivory Coast	1
+1	Friendly
+in Switzerland	-3
++3	1760
+1756	0
+0	28
+29
+May 30
+2006	Chile
+Ivory Coast	1
+1	Friendly
+in France	+2
+-2	1687
+1754	0
+0	40
+29
+June 04
+2006	Ivory Coast
+Slovenia	3
+0	Friendly
+in France	+9
+-9	1763
+1570	+1
+-4	29
+62
+June 10
+2006	Argentina
+Ivory Coast	2
+1	World Cup
+in Germany	+19
+-19	1919
+1744	+1
+-2	7
+30
+June 16
+2006	Netherlands
+Ivory Coast	2
+1	World Cup
+in Germany	+12
+-12	1989
+1732	0
+0	2
+29
+June 21
+2006	Ivory Coast
+Serbia and Montenegro	3
+2	World Cup
+in Germany	+29
+-29	1761
+1690	+7
+-3	26
+39
+August 16
+2006	Senegal
+Ivory Coast	1
+0	Friendly
+in France	+13
+-13	1676
+1748	+3
+-2	43
+27
+October 08
+2006	Ivory Coast
+Gabon	5
+0	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1754
+1396	+1
+-1	24
+101
+November 15
+2006	Ivory Coast
+Sweden	1
+0	Friendly
+in France	+13
+-13	1767
+1845	0
+-2	24
+13
+February 06
+2007	Ivory Coast
+Guinea	1
+0	Friendly
+in France	+5
+-5	1772
+1574	+3
+-1	22
+59
+March 21
+2007	Mauritius
+Ivory Coast	0
+3	Friendly
+in Mauritius	-3
++3	1261
+1775	-1
++1	141
+22
+March 25
+2007	Madagascar
+Ivory Coast	0
+3	African Nations Cup qualifier
+in Madagascar	-4
++4	1175
+1779	+1
++1	164
+21
+June 03
+2007	Ivory Coast
+Madagascar	5
+0	African Nations Cup qualifier
+in Ivory Coast	+2
+-2	1781
+1202	+1
+-1	20
+158
+August 22
+2007	Ivory Coast
+Egypt	0
+0	Friendly
+in France	-2
++2	1779
+1714	-1
+-1	20
+38
+September 08
+2007	Gabon
+Ivory Coast	0
+0	African Nations Cup qualifier
+in Gabon	+13
+-13	1431
+1766	+3
+-2	96
+22
+October 17
+2007	Austria
+Ivory Coast	3
+2	Friendly
+in Austria	+13
+-13	1576
+1753	+1
+-4	62
+26
+October 29
+2007	Ivory Coast
+Guinea-Bissau	5
+0	UEMOA Tournament
+in Burkina Faso	+4
+-4	1757
+1223	+1
+-2	25
+149
+October 31
+2007	Ivory Coast
+Benin	1
+0	UEMOA Tournament
+in Burkina Faso	+4
+-4	1761
+1350	0
+-3	25
+117
+November 02
+2007	Ivory Coast
+Mali	2
+0	UEMOA Tournament
+in Burkina Faso	+18
+-18	1779
+1601	+5
+-4	20
+56
+November 04
+2007	Ivory Coast
+Niger	2
+0	UEMOA Tournament
+in Burkina Faso	+4
+-4	1783
+1331	+2
+-1	18
+126
+November 17
+2007	Angola
+Ivory Coast	2
+1	Friendly
+in France	+16
+-16	1544
+1767	+2
+-4	71
+22
+November 21
+2007	Qatar
+Ivory Coast	1
+6	Friendly
+in Qatar	-10
++10	1462
+1777	-1
++3	88
+19
+January 12
+2008	Kuwait
+Ivory Coast	0
+2	Friendly
+in Kuwait	-6
++6	1446
+1783	-2
++1	94
+18
+January 21
+2008	Ivory Coast
+Nigeria	1
+0	African Nations Cup
+in Ghana	+23
+-23	1806
+1728	+1
+-4	17
+34
+January 25
+2008	Ivory Coast
+Benin	4
+1	African Nations Cup
+in Ghana	+6
+-6	1812
+1340	+1
+-2	16
+121
+January 29
+2008	Ivory Coast
+Mali	3
+0	African Nations Cup
+in Ghana	+19
+-19	1831
+1571	+2
+-2	14
+59
+February 03
+2008	Ivory Coast
+Guinea	5
+0	African Nations Cup
+in Ghana	+24
+-24	1855
+1603	+1
+-6	13
+55
+February 07
+2008	Egypt
+Ivory Coast	4
+1	African Nations Cup
+in Ghana	+58
+-58	1795
+1797	+13
+-5	18
+17
+February 09
+2008	Ghana
+Ivory Coast	4
+2	African Nations Cup
+in Ghana	+30
+-30	1793
+1767	+10
+-10	18
+27
+March 26
+2008	Tunisia
+Ivory Coast	2
+0	Friendly
+in France	+21
+-21	1642
+1746	+3
+-4	46
+29
+May 22
+2008	Ivory Coast
+Paraguay	1
+1	Kirin Cup
+in Japan	+1
+-1	1747
+1777	0
+0	29
+21
+May 24
+2008	Japan
+Ivory Coast	1
+0	Kirin Cup
+in Japan	+11
+-11	1747
+1736	+1
+-1	29
+30
+June 01
+2008	Ivory Coast
+Mozambique	1
+0	World Cup qualifier
+in Ivory Coast	+2
+-2	1738
+1331	0
+-1	31
+120
+June 08
+2008	Madagascar
+Ivory Coast	0
+0	World Cup qualifier
+in Madagascar	+16
+-16	1265
+1722	+3
+-3	142
+34
+June 14
+2008	Botswana
+Ivory Coast	1
+1	World Cup qualifier
+in Botswana	+13
+-13	1359
+1709	-1
+-5	118
+38
+June 22
+2008	Ivory Coast
+Botswana	4
+0	World Cup qualifier
+in Ivory Coast	+5
+-5	1714
+1354	+1
+0	37
+118
+August 20
+2008	Ivory Coast
+Guinea	2
+1	Friendly
+in France	+6
+-6	1720
+1565	+3
+0	34
+58
+September 07
+2008	Mozambique
+Ivory Coast	1
+1	World Cup qualifier
+in Mozambique	+12
+-12	1393
+1708	+4
+-1	109
+34
+October 11
+2008	Ivory Coast
+Madagascar	3
+0	World Cup qualifier
+in Ivory Coast	+3
+-3	1711
+1238	-1
+0	36
+147
+November 19
+2008	Israel
+Ivory Coast	2
+2	Friendly
+in Israel	-3
++3	1717
+1714	-1
+0	35
+36
+February 11
+2009	Turkey
+Ivory Coast	1
+1	Friendly
+in Turkey	-5
++5	1797
+1719	0
+0	15
+38
+March 29
+2009	Ivory Coast
+Malawi	5
+0	World Cup qualifier
+in Ivory Coast	+4
+-4	1723
+1325	+1
+0	32
+127
+June 07
+2009	Guinea
+Ivory Coast	1
+2	World Cup qualifier
+in Guinea	-15
++15	1523
+1738	-5
++3	75
+30
+June 13
+2009	Ivory Coast
+Cameroon	2
+1	Friendly
+in Ivory Coast	+6
+-6	1744
+1703	+1
+-2	29
+39
+June 20
+2009	Burkina Faso
+Ivory Coast	2
+3	World Cup qualifier
+in Burkina Faso	-11
++11	1475
+1755	-1
++3	89
+26
+August 12
+2009	Tunisia
+Ivory Coast	0
+0	Friendly
+in Tunisia	0
+0	1647
+1755	0
++1	47
+26
+September 05
+2009	Ivory Coast
+Burkina Faso	5
+0	World Cup qualifier
+in Ivory Coast	+8
+-8	1763
+1453	+2
+-1	24
+92
+October 10
+2009	Malawi
+Ivory Coast	1
+1	World Cup qualifier
+in Malawi	+14
+-14	1360
+1749	+4
+-5	119
+27
+November 14
+2009	Ivory Coast
+Guinea	3
+0	World Cup qualifier
+in Ivory Coast	+8
+-8	1757
+1478	0
+-3	24
+90
+November 18
+2009	Germany
+Ivory Coast	2
+2	Friendly
+in Germany	-7
++7	1933
+1764	0
++2	5
+22
+January 04
+2010	Tanzania
+Ivory Coast	0
+1	Friendly
+in Tanzania	-3
++3	1338
+1767	0
++1	124
+21
+January 07
+2010	Ivory Coast
+Rwanda	2
+0	Friendly
+in Tanzania	+2
+-2	1769
+1347	0
+0	20
+122
+January 11
+2010	Burkina Faso
+Ivory Coast	0
+0	African Nations Cup
+in Angola	+17
+-17	1501
+1752	+2
+-5	85
+25
+January 15
+2010	Ivory Coast
+Ghana	3
+1	African Nations Cup
+in Angola	+30
+-30	1782
+1647	+7
+-3	17
+45
+January 24
+2010	Algeria
+Ivory Coast	3
+2	African Nations Cup
+in Angola	+40
+-40	1586
+1742	+14
+-12	55
+28
+March 03
+2010	South Korea
+Ivory Coast	2
+0	Friendly
+in England	+16
+-16	1741
+1726	+7
+-4	24
+31
+May 30
+2010	Ivory Coast
+Paraguay	2
+2	Friendly
+in Switzerland	0
+0	1726
+1730	0
+0	28
+27
+June 04
+2010	Ivory Coast
+Japan	2
+0	Friendly
+in Switzerland	+13
+-13	1739
+1675	+1
+-2	26
+43
+June 15
+2010	Ivory Coast
+Portugal	0
+0	World Cup
+in South Africa	+9
+-9	1748
+1837	+1
+0	23
+11
+June 20
+2010	Brazil
+Ivory Coast	3
+1	World Cup
+in South Africa	+11
+-11	2101
+1737	0
+-1	1
+26
+June 25
+2010	Ivory Coast
+North Korea	3
+0	World Cup
+in South Africa	+22
+-22	1759
+1482	+5
+-6	22
+90
+August 10
+2010	Ivory Coast
+Italy	1
+0	Friendly
+in England	+12
+-12	1771
+1813	+4
+-1	18
+14
+September 04
+2010	Ivory Coast
+Rwanda	3
+0	African Nations Cup qualifier
+in Ivory Coast	+3
+-3	1774
+1344	0
++1	18
+121
+October 09
+2010	Burundi
+Ivory Coast	0
+1	African Nations Cup qualifier
+in Burundi	-2
++2	1198
+1776	0
++1	156
+18
+November 17
+2010	Poland
+Ivory Coast	3
+1	Friendly
+in Poland	+17
+-17	1643
+1759	+4
+-5	45
+21
+February 08
+2011	Ivory Coast
+Mali	1
+0	Friendly
+in France	+4
+-4	1763
+1522	0
+-3	23
+76
+March 27
+2011	Ivory Coast
+Benin	2
+1	African Nations Cup qualifier
+in Ghana	+5
+-5	1768
+1427	0
+-1	20
+103
+June 05
+2011	Benin
+Ivory Coast	2
+6	African Nations Cup qualifier
+in Benin	-15
++15	1412
+1783	-4
++2	106
+18
+August 10
+2011	Ivory Coast
+Israel	4
+3	Friendly
+in Switzerland	+7
+-7	1790
+1671	0
+0	18
+39
+September 03
+2011	Rwanda
+Ivory Coast	0
+5	African Nations Cup qualifier
+in Rwanda	-7
++7	1267
+1797	-3
++1	141
+17
+October 09
+2011	Ivory Coast
+Burundi	2
+1	African Nations Cup qualifier
+in Ivory Coast	+1
+-1	1798
+1228	0
+0	17
+148
+November 12
+2011	South Africa
+Ivory Coast	1
+1	Friendly
+in South Africa	+3
+-3	1608
+1795	-1
+-2	55
+18
+January 13
+2012	Ivory Coast
+Tunisia	2
+0	Friendly
+in United Arab Emirates	+7
+-7	1802
+1577	+1
+-2	16
+60
+January 16
+2012	Ivory Coast
+Libya	1
+0	Friendly
+in United Arab Emirates	+3
+-3	1805
+1501	+1
+-2	15
+84
+January 22
+2012	Ivory Coast
+Sudan	1
+0	African Nations Cup
+in Equatorial Guinea	+5
+-5	1810
+1412	0
+0	15
+102
+January 26
+2012	Ivory Coast
+Burkina Faso	2
+0	African Nations Cup
+in Equatorial Guinea	+11
+-11	1821
+1495	+1
+-4	14
+85
+January 30
+2012	Ivory Coast
+Angola	2
+0	African Nations Cup
+in Equatorial Guinea	+12
+-12	1833
+1515	0
+-5	14
+80
+February 04
+2012	Equatorial Guinea
+Ivory Coast	0
+3	African Nations Cup
+in Equatorial Guinea	-7
++7	1296
+1840	-1
++1	136
+13
+February 08
+2012	Ivory Coast
+Mali	1
+0	African Nations Cup
+in Gabon	+8
+-8	1848
+1531	0
+-3	13
+77
+February 12
+2012	Zambia
+Ivory Coast	0
+0	African Nations Cup
+in Gabon	+14
+-14	1642
+1834	+2
+-1	48
+14
+February 29
+2012	Ivory Coast
+Guinea	0
+0	Friendly
+in Ivory Coast	-8
++8	1826
+1549	-1
++3	15
+71
+May 27
+2012	Ivory Coast
+Mali	2
+1	Friendly
+in France	+4
+-4	1830
+1585	0
+-1	15
+59
+June 02
+2012	Ivory Coast
+Tanzania	2
+0	World Cup qualifier
+in Ivory Coast	+1
+-1	1831
+1247	0
+0	14
+145
+June 09
+2012	Morocco
+Ivory Coast	2
+2	World Cup qualifier
+in Morocco	+11
+-11	1539
+1820	+3
+-2	74
+17
+August 15
+2012	Russia
+Ivory Coast	1
+1	Friendly
+in Russia	-3
++3	1817
+1823	-1
+0	16
+15
+September 08
+2012	Ivory Coast
+Senegal	4
+2	African Nations Cup qualifier
+in Ivory Coast	+6
+-6	1829
+1543	0
+-1	15
+71
+October 13
+2012	Senegal
+Ivory Coast	0
+2	African Nations Cup qualifier
+in Senegal	-15
++15	1528
+1844	-5
++2	78
+15
+November 14
+2012	Austria
+Ivory Coast	0
+3	Friendly
+in Austria	-10
++10	1579
+1854	-1
+0	61
+15
+January 14
+2013	Ivory Coast
+Egypt	4
+2	Friendly
+in United Arab Emirates	+8
+-8	1862
+1680	+2
+-1	13
+37
+January 22
+2013	Ivory Coast
+Togo	2
+1	African Nations Cup
+in South Africa	+3
+-3	1865
+1400	+1
+-1	12
+105
+January 26
+2013	Ivory Coast
+Tunisia	3
+0	African Nations Cup
+in South Africa	+16
+-16	1881
+1588	+2
+-6	10
+59
+January 30
+2013	Algeria
+Ivory Coast	2
+2	African Nations Cup
+in South Africa	+20
+-20	1507
+1861	+4
+-3	79
+13
+February 03
+2013	Nigeria
+Ivory Coast	2
+1	African Nations Cup
+in South Africa	+39
+-39	1671
+1822	+7
+-4	41
+17
+March 23
+2013	Ivory Coast
+Gambia	3
+0	World Cup qualifier
+in Ivory Coast	+2
+-2	1824
+1321	0
++1	16
+127
+June 08
+2013	Gambia
+Ivory Coast	0
+3	World Cup qualifier
+in Gambia	-6
++6	1315
+1830	0
+0	130
+15
+June 12
+2013	Ghana
+Ivory Coast	2
+1	Friendly
+in Ghana	+11
+-11	1696
+1819	+2
+-3	35
+18
+June 14
+2013	Ghana
+Ivory Coast	1
+1	Friendly
+in Ghana	+1
+-1	1697
+1818	0
+0	35
+18
+June 16
+2013	Tanzania
+Ivory Coast	2
+4	World Cup qualifier
+in Tanzania	-8
++8	1377
+1826	-3
++4	112
+14
+August 14
+2013	Mexico
+Ivory Coast	4
+1	Friendly
+in the United States	+20
+-20	1802
+1806	0
+-3	21
+19
+September 07
+2013	Ivory Coast
+Morocco	1
+1	World Cup qualifier
+in Ivory Coast	-16
++16	1790
+1531	-1
++5	20
+76
+October 12
+2013	Ivory Coast
+Senegal	3
+1	World Cup qualifier
+in Ivory Coast	+8
+-8	1798
+1558	+1
+-3	21
+66
+November 16
+2013	Senegal
+Ivory Coast	1
+1	World Cup qualifier
+in Morocco	+12
+-12	1570
+1786	+5
+0	61
+21
+March 05
+2014	Belgium
+Ivory Coast	2
+2	Friendly
+in Belgium	-3
++3	1805
+1789	0
+0	18
+22

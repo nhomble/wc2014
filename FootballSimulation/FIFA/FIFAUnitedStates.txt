@@ -1,0 +1,225 @@
+Clint Dempsey Clint Dempsey 
+Seattle Sounders / MLS 
+81	CAM	73	81	75	81	53	84	3 	4 	 / 	 Right	650	1,933		
+Clint Dempsey Clint Dempsey 
+Fulham / Barclays PL 
+81	CAM	73	81	75	81	53	84	3 	4 	 / 	 Right	1,900	1,933		
+Landon Donovan Landon Donovan 
+Los Angeles Galaxy / MLS 
+78	CF	85	74	75	77	55	62	3 	4 	 / 	 Right	650	1,878		
+Stuart Holden Stuart Holden 
+Bolton Wanderers / FL Championship 
+74	CM	74	65	78	73	68	62	3 	4 	 / 	 Right	550	1,896		
+Fabian Johnson Fabian Johnson 
+1899 Hoffenheim / Bundesliga 
+73	LB	84	51	75	74	70	60	3 	4 	 / 	 Right	1,700	1,791		
+Graham Zusi Graham Zusi 
+Sporting KC / MLS 
+73	CM	69	73	78	70	61	61	3 	4 	 / 	 Right	1,500	1,860		
+Eddie Johnson Eddie Johnson 
+Seattle Sounders / MLS 
+72	ST	85	64	49	73	49	82	4 	4 	 / 	 Right	32,750	1,665		
+Chris Wondolowski Chris Wondolowski 
+San Jose Earthquakes / MLS 
+72	ST	67	71	57	66	47	72	2 	3 	 / 	 Right	400	1,653		
+Geoff Cameron Geoff Cameron 
+Stoke City / Barclays PL 
+72	RB	68	59	66	70	72	72	3 	3 	 / 	 Right	750	1,800		
+Omar Gonzalez Omar Gonzalez 
+Los Angeles Galaxy / MLS 
+72	CB	65	37	48	39	72	77	2 	3 	 / 	 Right	800	1,423		
+Matt Besler Matt Besler 
+Sporting KC / MLS 
+72	CB	76	41	65	58	74	70	2 	3 	 / 	 Left	1,900	1,614		
+Eddie Johnson Eddie Johnson 
+D.C. United / MLS 
+72	ST	85	64	49	73	49	82	4 	4 	 / 	 Right	8,000	1,665		
+Nick Rimando Nick Rimando 
+Real Salt Lake / MLS 
+71	GK	74	72	69	72	69	68	1 	3 	 / 	 Right	900	1,138		
+Carlos Bocanegra Carlos Bocanegra 
+Chivas USA / MLS 
+71	CB	44	41	56	52	74	80	2 	3 	 / 	 Left	550	1,504		
+Brad Davis Brad Davis 
+Houston Dynamo / MLS 
+71	LM	61	65	71	69	57	53	2 	4 	 / 	 Left	600	1,754		
+Herculez Gomez Herculez Gomez 
+Tijuana / LIGA Bancomer MX 
+71	ST	72	73	62	67	51	75	2 	4 	 / 	 Right	400	1,756		
+John Anthony Brooks John Anthony Brooks 
+Hertha BSC / Bundesliga 
+71	CB	74	47	53	53	73	76	2 	3 	 / 	 Left	850	1,581		
+Brek Shea Brek Shea 
+Stoke City / Barclays PL 
+70	LM	73	65	70	70	61	66	3 	3 	 / 	 Left	2,900	1,772		
+George John George John 
+FC Dallas / MLS 
+70	CB	66	43	48	43	72	73	2 	3 	 / 	 Right	550	1,495		
+Brek Shea Brek Shea 
+Barnsley / FL Championship 
+70	LM	73	65	70	70	61	66	3 	3 	 / 	 Left	400	1,772		
+DaMarcus Beasley DaMarcus Beasley 
+Puebla / LIGA Bancomer MX 
+69	LM	92	62	64	70	55	56	2 	4 	 / 	 Left	800	1,752		
+Freddy Adu Freddy Adu 
+Bahia / Liga do Brasil 
+69	LW	74	62	66	78	36	40	4 	2 	 / 	 Left	300	1,555		
+Joshua Gatt Joshua Gatt 
+Molde FK / Tippeligaen 
+69	RW	93	59	52	75	56	58	4 	3 	 / 	 Right	600	1,650		
+Chad Marshall Chad Marshall 
+Columbus Crew / MLS 
+68	CB	53	49	53	54	71	76	2 	4 	 / 	 Left	5,600	1,551		
+Kenny Cooper Kenny Cooper 
+FC Dallas / MLS 
+68	ST	55	68	57	64	48	76	3 	4 	 / 	 Right	1,100	1,561	
+Jeff Larentowicz Jeff Larentowicz 
+Chicago Fire / MLS 
+68	CDM	66	63	56	63	68	68	2 	3 	 / 	 Right	300	1,713		
+Jay DeMerit Jay DeMerit 
+Vancouver Whitecaps / MLS 
+68	CB	50	37	47	40	69	72	2 	4 	 / 	 Right	400	1,391		
+Benny Feilhaber Benny Feilhaber 
+Sporting KC / MLS 
+68	CM	73	64	68	72	62	64	3 	4 	 / 	 Right	300	1,819		
+Sean Franklin Sean Franklin 
+Los Angeles Galaxy / MLS 
+68	RB	84	53	60	64	68	70	2 	3 	 / 	 Right	2,000	1,721		
+Steve Clark Steve Clark 
+Hønefoss BK / Tippeligaen 
+68	GK	70	65	61	76	63	65	1 	3 	 / 	 Right	1,100	951		
+Kenny Cooper Kenny Cooper 
+Seattle Sounders / MLS 
+68	ST	55	68	57	64	48	76	3 	4 	 / 	 Right	400	1,561		
+Sean Franklin Sean Franklin 
+D.C. United / MLS 
+68	RB	84	53	60	64	68	70	2 	3 	 / 	 Right	550	1,721		
+Chad Marshall Chad Marshall 
+Seattle Sounders / MLS 
+68	CB	53	49	53	54	71	76	2 	4 	 / 	 Left	2,900	1,551		
+Steve Clark Steve Clark 
+Columbus Crew / MLS 
+68	GK	70	65	61	76	63	65	1 	3 	 / 	 Right	550	951		
+Bobby Boswell Bobby Boswell 
+Houston Dynamo / MLS 
+67	CB	33	35	54	49	68	79	2 	3 	 / 	 Right	600	1,352		
+Brandon McDonald Brandon McDonald 
+Real Salt Lake / MLS 
+67	CB	64	52	53	58	69	70	2 	3 	 / 	 Right	600	1,611		
+Lamar Neagle Lamar Neagle 
+Seattle Sounders / MLS 
+67	LM	85	63	58	69	55	59	3 	4 	 / 	 Right	500	1,668		
+Bill Hamid Bill Hamid 
+D.C. United / MLS 
+67	GK	70	71	51	72	66	58	1 	2 	 / 	 Right	550	1,033		
+Bobby Boswell Bobby Boswell 
+D.C. United / MLS 
+67	CB	33	35	54	49	68	79	2 	3 	 / 	 Right	4,700	1,352		
+Conor Casey Conor Casey 
+Philadelphia Union / MLS 
+66	ST	46	64	42	65	47	78	2 	3 	 / 	 Right	300	1,521		
+Alan Gordon Alan Gordon 
+San Jose Earthquakes / MLS 
+66	ST	53	61	55	59	50	76	2 	3 	 / 	 Right	350	1,544		
+Chris Seitz Chris Seitz 
+FC Dallas / MLS 
+65	GK	71	58	73	69	64	63	1 	3 	 / 	 Right	650	953		
+Robbie Findley Robbie Findley 
+Real Salt Lake / MLS 
+65	ST	91	62	50	66	43	60	3 	3 	 / 	 Right	350	1,586		
+Matt Reis Matt Reis 
+New England Revolution / MLS 
+64	GK	70	53	69	67	52	61	1 	4 	 / 	 Right	9,300	960		
+Kevin Hartman Kevin Hartman 
+New York Red Bulls / MLS 
+64	GK	64	55	68	62	52	76	1 	3 	 / 	 Right	200	940		
+Brian Carroll Brian Carroll 
+Philadelphia Union / MLS 
+64	CDM	57	45	52	59	66	62	2 	3 	 / 	 Right	200	1,522		
+Jack Jewsbury Jack Jewsbury 
+Portland Timbers / MLS 
+64	RB	68	63	62	63	64	67	2 	3 	 / 	 Right	200	1,748		
+Brian Ching Brian Ching 
+Houston Dynamo / MLS 
+64	ST	44	62	60	61	53	74	2 	3 	 / 	 Right	700	1,570		
+James Riley James Riley 
+D.C. United / MLS 
+64	RB	75	39	66	53	62	58	2 	4 	 / 	 Right	700	1,530		
+Jacob Peterson Jacob Peterson 
+Sporting KC / MLS 
+64	LW	73	63	61	64	53	54	2 	4 	 / 	 Right	200	1,644	
+Tim Howard Tim Howard 
+Everton / Barclays PL 
+81	GK	83	77	77	83	50	80	1 	3 	 / 	 Right	650	974		
+Brad Friedel Brad Friedel 
+Tottenham Hotspur / Barclays PL 
+79	GK	76	81	78	79	45	82	1 	2 	 / 	 Right	400	912		
+Brad Guzan Brad Guzan 
+Aston Villa / Barclays PL 
+79	GK	80	80	69	82	50	77	1 	2 	 / 	 Left	400	946		
+Jermaine Jones Jermaine Jones 
+FC Schalke 04 / Bundesliga 
+77	CDM	81	68	72	71	79	72	2 	4 	 / 	 Right	6,800	1,960		
+Jozy Altidore Jozy Altidore 
+Sunderland / Barclays PL 
+77	ST	73	74	52	70	48	81	3 	4 	 / 	 Right	450	1,665		
+Michael Bradley Michael Bradley 
+Roma / Serie A 
+76	CM	68	70	75	71	76	76	2 	3 	 / 	 Right	600	1,949		
+Michael Bradley Michael Bradley 
+Toronto FC / MLS 
+76	CM	68	70	75	71	76	76	2 	3 	 / 	 Right	350	1,949		
+Timothy Chandler Timothy Chandler 
+1. FC Nürnberg / Bundesliga 
+74	RB	81	59	72	70	74	72	2 	3 	 / 	 Right	1,600	1,795		
+Steven Cherundolo Steven Cherundolo 
+Hannover 96 / Bundesliga 
+73	RB	68	51	73	70	72	69	2 	3 	 / 	 Right	1,100	1,801		
+ Daniel Williams Daniel Williams 
+Reading / FL Championship 	
+73	CDM	77	43	70	72	74	69	2 	4 	 / 	 Right	2,300	1,745		
+Kyle Beckerman Kyle Beckerman 
+Real Salt Lake / MLS 
+71	CDM	58	62	69	62	69	62	3 	3 	 / 	 Right	250	1,743		
+Mike Magee Mike Magee 
+Chicago Fire / MLS 
+71	ST	70	69	65	68	55	74	3 	4 	 / 	 Right	200	1,782		
+Sacha Kljestan Sacha Kljestan 
+Anderlecht / Pro League 
+71	CM	68	67	71	69	65	67	3 	4 	 / 	 Right	300	1,816		
+Maurice Edu Maurice Edu 
+Stoke City / Barclays PL 
+71	CDM	69	60	64	66	72	75	3 	3 	 / 	 Right	7,500	1,816		
+Alejandro Bedoya Alejandro Bedoya 
+FC Nantes / Ligue 1 
+71	CAM	78	63	62	66	57	59	2 	4 	 / 	 Right	300	1,708		
+Aron Johannsson Aron Johannsson 
+AZ / Eredivisie 
+71	ST	78	69	56	68	40	62	2 	3 	 / 	 Left	1,500	1,575		
+Maurice Edu Maurice Edu 
+Philadelphia Union / MLS 
+71	CDM	69	60	64	66	72	75	3 	3 	 / 	 Right	4,300	1,816		
+Dan Kennedy Dan Kennedy 
+Chivas USA / MLS 
+70	GK	73	63	62	72	52	74	1 	2 	 / 	 Right	400	924		
+Jose Francisco Torres Jose Francisco Torres 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+70	CM	72	65	69	68	64	57	3 	3 	 / 	 Left	300	1,799		
+Mikkel Diskerud Mikkel Diskerud 
+Rosenborg BK / Tippeligaen 
+70	CM	71	67	71	73	56	63	3 	3 	 / 	 Right	200	1,750		
+Marcus Hahnemann Marcus Hahnemann 
+Seattle Sounders / MLS 
+69	GK	66	68	72	70	48	72	1 	3 	 / 	 Right	400	918		
+Dax McCarty Dax McCarty 
+New York Red Bulls / MLS 
+69	CDM	70	59	68	66	65	56	3 	3 	 / 	 Right	300	1,733		
+Jack McInerney Jack McInerney 
+Philadelphia Union / MLS 
+69	ST	72	64	46	67	50	66	2 	3 	 / 	 Right	200	1,608		
+Eddie Gaven Eddie Gaven 
+Columbus Crew / MLS 
+68	RM	69	64	64	65	60	62	2 	4 	 / 	 Right	4,600	1,732		
+Nat Borchers Nat Borchers 
+Real Salt Lake / MLS 
+68	CB	60	41	49	52	70	72	2 	4 	 / 	 Right	200	1,447

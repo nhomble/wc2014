@@ -1,0 +1,525 @@
+1920 245 away Greece Sweden 9 0 Olympic Games
+1929 185 away Greece Bulgaria 1 1 Friendly
+1930 26 home Greece Yugoslavia 2 1 Balkan Cup
+1930 149 away Greece Romania 8 1 Balkan Cup
+1930 348 home Greece Bulgaria 6 1 Balkan Cup
+1931 77 away Greece Yugoslavia 4 1 Balkan Cup
+1931 304 away Greece Bulgaria 2 1 Balkan Cup
+1931 339 home Greece Romania 2 4 Balkan Cup
+1932 89 home Greece Bulgaria 1 2 Friendly
+1932 181 away Greece Yugoslavia 7 1 Balkan Cup
+1932 183 away Greece Romania 3 0 Balkan Cup
+1932 188 away Greece Bulgaria 2 0 Balkan Cup
+1933 158 away Greece Yugoslavia 5 3 Balkan Cup
+1933 161 away Greece Romania 1 0 Balkan Cup
+1933 165 away Greece Bulgaria 2 0 Balkan Cup
+1934 35 home Greece Bulgaria 1 0 Friendly
+1934 87 away Greece Italy 4 0 World Cup qualifier
+1934 364 home Greece Yugoslavia 2 1 Balkan Cup
+1934 368 home Greece Romania 2 2 Balkan Cup
+1935 1 home Greece Bulgaria 1 2 Balkan Cup
+1935 171 away Greece Bulgaria 5 2 Balkan Cup
+1935 176 away Greece Yugoslavia 6 1 Balkan Cup
+1935 179 home Greece Romania 2 2 Balkan Cup
+1936 141 away Greece Romania 5 2 Balkan Cup
+1936 145 away Greece Bulgaria 5 4 Balkan Cup
+1936 174 away Greece Egypt 3 1 Friendly
+1938 22 away Greece Palestine 1 3 World Cup qualifier
+1938 51 home Greece Palestine 1 0 World Cup qualifier
+1938 87 away Greece Hungary 11 1 World Cup qualifier
+1948 116 home Greece Turkey 1 3 Friendly
+1948 338 away Greece Turkey 2 1 Friendly
+1949 139 home Greece Turkey 1 2 Mediterranean Cup
+1949 142 home Greece Egypt 1 3 Mediterranean Cup
+1949 335 home Greece Syria 8 0 Friendly
+1950 48 away Greece Egypt 2 0 Mediterranean Cup
+1951 293 home Greece Syria 4 0 Mediterranean Games
+1951 297 away Greece Egypt 0 2 Mediterranean Games
+1951 300 away Greece Egypt 3 0 Friendly
+1951 335 home Greece Egypt 1 0 Mediterranean Cup
+1952 140 away Greece Turkey 0 1 Friendly
+1952 201 away Greece Denmark 2 1 Olympic Games
+1952 338 home Greece Egypt 2 2 Friendly
+1953 133 away Greece Yugoslavia 1 0 World Cup qualifier
+1953 311 home Greece Israel 1 0 World Cup qualifier
+1954 70 away Greece Israel 0 2 World Cup qualifier
+1954 90 home Greece Yugoslavia 0 1 World Cup qualifier
+1954 317 home Greece Egypt 1 1 Mediterranean Cup
+1955 23 away Greece Egypt 1 1 Mediterranean Cup
+1957 129 home Greece Yugoslavia 0 0 World Cup qualifier
+1957 171 home Greece Romania 1 2 World Cup qualifier
+1957 313 away Greece Romania 3 0 World Cup qualifier
+1957 320 away Greece Yugoslavia 4 1 World Cup qualifier
+1958 280 away Greece France 7 1 European Cup qualifier
+1958 344 home Greece France 1 1 European Cup qualifier
+1959 325 away Greece Yugoslavia 4 0 Olympic Games qualifier
+1959 343 home Greece Denmark 1 3 Friendly
+1960 68 away Greece Israel 2 1 Olympic Games qualifier
+1960 96 home Greece Israel 2 1 Olympic Games qualifier
+1960 117 home Greece Yugoslavia 0 5 Olympic Games qualifier
+1960 189 away Greece Denmark 7 2 Friendly
+1960 330 home Greece Germany 0 3 World Cup qualifier
+1961 127 home Greece NorthernIreland 2 1 World Cup qualifier
+1961 296 away Greece NorthernIreland 2 0 World Cup qualifier
+1961 301 away Greece Germany 2 1 World Cup qualifier
+1962 297 home Greece Ethiopia 3 2 Friendly
+1963 146 away Greece Poland 4 0 Friendly
+1963 295 home Greece Poland 3 1 Friendly
+1963 337 away Greece Cyprus 3 1 Friendly
+1964 137 home Greece Ethiopia 3 1 Friendly
+1964 339 home Greece Denmark 4 2 World Cup qualifier
+1964 350 home Greece Wales 2 0 World Cup qualifier
+1965 55 home Greece Bulgaria 1 2 Friendly
+1965 79 away Greece Wales 4 1 World Cup qualifier
+1965 147 away Greece SovietUnion 3 1 World Cup qualifier
+1965 282 home Greece SovietUnion 1 4 World Cup qualifier
+1965 306 away Greece Denmark 1 1 World Cup qualifier
+1966 295 home Greece Finland 2 1 European Cup qualifier
+1967 46 home Greece Libya 4 0 Friendly
+1967 70 home Greece Romania 1 2 Friendly
+1967 134 away Greece Finland 1 1 European Cup qualifier
+1967 202 away Greece SovietUnion 4 0 European Cup qualifier
+1967 283 home Greece Austria 4 1 European Cup qualifier
+1967 310 home Greece SovietUnion 0 1 European Cup qualifier
+1967 315 away Greece Austria 1 1 European Cup qualifier
+1968 291 away Greece Switzerland 1 0 World Cup qualifier
+1968 330 home Greece Egypt 4 1 Friendly
+1968 352 home Greece Portugal 4 2 World Cup qualifier
+1969 74 away Greece Israel 3 3 Friendly
+1969 87 home Greece Cyprus 1 0 Friendly
+1969 109 home Greece Romania 2 2 World Cup qualifier
+1969 128 away Greece Portugal 2 2 World Cup qualifier
+1969 205 away Greece Australia 1 0 Friendly
+1969 209 away Greece Australia 2 2 Friendly
+1969 212 away Greece Australia 0 2 Friendly
+1969 294 home Greece Switzerland 4 1 World Cup qualifier
+1969 326 away Greece Romania 1 1 World Cup qualifier
+1970 290 away Greece Malta 1 1 European Cup qualifier
+1970 307 away Greece Spain 2 1 Friendly
+1970 329 home Greece Australia 1 3 Friendly
+1970 332 home Greece Germany 1 3 Friendly
+1970 350 home Greece Cyprus 1 1 Friendly
+1970 357 home Greece Switzerland 0 1 European Cup qualifier
+1971 100 home Greece Bulgaria 0 1 Friendly
+1971 114 away Greece England 3 0 European Cup qualifier
+1971 136 away Greece Switzerland 1 0 European Cup qualifier
+1971 173 home Greece Malta 2 0 European Cup qualifier
+1971 192 away Greece Mexico 1 1 Friendly
+1971 278 home Greece Mexico 0 1 Friendly
+1971 289 away Greece Morocco 1 0 Mediterranean Games
+1971 292 away Greece Egypt 0 0 Mediterranean Games
+1971 327 away Greece Bulgaria 2 2 Friendly
+1971 342 home Greece England 0 2 European Cup qualifier
+1972 47 home Greece Holland 0 5 Friendly
+1972 66 home Greece Italy 2 1 Friendly
+1972 105 home Greece Spain 0 0 Friendly
+1972 131 away Greece Ethiopia 0 1 Friendly
+1972 250 home Greece France 1 3 Friendly
+1972 329 away Greece Yugoslavia 1 0 World Cup qualifier
+1973 17 home Greece Spain 2 3 World Cup qualifier
+1973 31 home Greece Bulgaria 2 2 Friendly
+1973 52 away Greece Spain 3 1 World Cup qualifier
+1973 256 away Greece France 3 1 Friendly
+1973 360 home Greece Yugoslavia 2 4 World Cup qualifier
+1974 121 away Greece Brazil 0 0 Friendly
+1974 139 away Greece Poland 2 0 Friendly
+1974 153 away Greece Romania 3 1 Balkan Cup
+1974 292 away Greece Bulgaria 3 3 European Cup qualifier
+1974 325 home Greece Cyprus 3 1 Friendly
+1974 330 home Greece Germany 2 2 European Cup qualifier
+1974 359 home Greece Bulgaria 2 1 European Cup qualifier
+1975 54 away Greece Malta 2 0 European Cup qualifier
+1975 94 away Greece Cyprus 1 2 Friendly
+1975 159 home Greece Malta 4 0 European Cup qualifier
+1975 272 home Greece Romania 1 1 Balkan Cup
+1975 290 away Greece Germany 1 1 European Cup qualifier
+1975 371 away Greece Italy 3 2 Friendly
+1976 130 home Greece Poland 1 0 Friendly
+1976 270 home Greece Israel 0 1 Friendly
+1976 288 home Greece Hungary 1 1 World Cup qualifier
+1976 320 home Greece Austria 0 3 Friendly
+1977 26 away Greece Israel 1 1 Friendly
+1977 71 away Greece Austria 2 0 Friendly
+1977 85 away Greece Czechoslovakia 4 0 Friendly
+1977 117 away Greece SovietUnion 2 0 World Cup qualifier
+1977 134 home Greece SovietUnion 1 0 World Cup qualifier
+1977 152 away Greece Hungary 3 0 World Cup qualifier
+1977 269 away Greece Romania 6 1 Friendly
+1977 305 away Greece Bulgaria 0 0 Friendly
+1977 326 home Greece Yugoslavia 0 0 Balkan Cup
+1978 11 away Greece Cyprus 0 2 Friendly
+1978 46 home Greece Austria 1 1 Friendly
+1978 84 home Greece Czechoslovakia 0 1 Friendly
+1978 98 away Greece Poland 5 2 Friendly
+1978 148 away Greece Finland 3 0 European Cup qualifier
+1978 166 away Greece Australia 1 2 Friendly
+1978 169 away Greece Australia 0 1 Friendly
+1978 172 away Greece Australia 1 1 Friendly
+1978 268 away Greece SovietUnion 2 0 European Cup qualifier
+1978 290 home Greece Finland 8 1 European Cup qualifier
+1978 308 home Greece Hungary 4 1 European Cup qualifier
+1978 325 away Greece Yugoslavia 4 1 Balkan Cup
+1978 354 home Greece Romania 2 1 Friendly
+1979 45 away Greece Israel 4 1 Friendly
+1979 83 away Greece Romania 3 0 Friendly
+1979 126 away Greece Hungary 0 0 European Cup qualifier
+1979 260 home Greece SovietUnion 1 0 European Cup qualifier
+1980 16 away Greece Cyprus 1 1 Friendly
+1980 58 away Greece France 5 1 Friendly
+1980 94 away Greece Switzerland 2 0 Friendly
+1980 109 away Greece EastGermany 2 0 Friendly
+1980 138 home Greece Bulgaria 0 0 Friendly
+1980 166 away Greece Holland 1 0 European Cup
+1980 169 away Greece Czechoslovakia 3 1 European Cup
+1980 172 home Greece Germany 0 0 European Cup
+1980 294 away Greece Denmark 0 1 World Cup qualifier
+1980 321 home Greece Australia 3 3 Friendly
+1980 347 home Greece Italy 0 2 World Cup qualifier
+1981 28 home Greece Luxembourg 2 0 World Cup qualifier
+1981 73 away Greece Luxembourg 0 2 World Cup qualifier
+1981 108 away Greece Cyprus 0 1 Friendly
+1981 122 away Greece Yugoslavia 5 1 World Cup qualifier
+1981 271 home Greece Sweden 2 1 Friendly
+1981 293 home Greece Denmark 2 3 World Cup qualifier
+1981 324 away Greece Italy 1 1 World Cup qualifier
+1981 339 home Greece Yugoslavia 1 2 World Cup qualifier
+1982 20 home Greece Portugal 1 2 Friendly
+1982 41 home Greece EastGermany 0 1 Friendly
+1982 72 home Greece SovietUnion 0 2 Friendly
+1982 86 away Greece Czechoslovakia 2 1 Friendly
+1982 107 away Greece Holland 1 0 Friendly
+1982 288 away Greece Luxembourg 0 2 European Cup qualifier
+1982 306 away Greece Cyprus 1 1 Friendly
+1982 327 home Greece England 0 3 European Cup qualifier
+1982 342 home Greece Switzerland 1 3 Friendly
+1982 363 home Greece Cyprus 1 0 Friendly
+1983 33 home Greece Romania 1 3 Friendly
+1983 54 away Greece EastGermany 2 1 Friendly
+1983 92 away Greece England 0 0 European Cup qualifier
+1983 120 away Greece Denmark 1 0 European Cup qualifier
+1983 139 away Greece Hungary 2 3 European Cup qualifier
+1983 284 away Greece Italy 3 0 Friendly
+1983 326 home Greece Denmark 0 2 European Cup qualifier
+1983 344 home Greece Hungary 2 2 European Cup qualifier
+1983 355 home Greece Luxembourg 1 0 European Cup qualifier
+1984 46 home Greece EastGermany 1 3 Friendly
+1984 69 away Greece Romania 2 0 Friendly
+1984 104 home Greece Cyprus 1 1 Friendly
+1984 111 away Greece Austria 0 0 Friendly
+1984 253 home Greece Czechoslovakia 0 1 Friendly
+1984 260 away Greece EastGermany 1 0 Friendly
+1984 278 away Greece Cyprus 0 2 Friendly
+1984 288 home Greece Israel 2 2 Friendly
+1984 296 away Greece Poland 3 1 World Cup qualifier
+1984 360 home Greece Belgium 0 0 World Cup qualifier
+1985 9 away Greece Israel 0 2 Friendly
+1985 58 home Greece Albania 2 0 World Cup qualifier
+1985 75 home Greece Italy 0 0 Friendly
+1985 89 away Greece Belgium 2 0 World Cup qualifier
+1985 143 home Greece Poland 1 4 World Cup qualifier
+1985 295 home Greece Bulgaria 0 2 Friendly
+1985 309 away Greece Albania 1 1 World Cup qualifier
+1986 17 away Greece Qatar 0 1 Friendly
+1986 50 home Greece Cyprus 0 0 Friendly
+1986 88 home Greece EastGermany 2 0 Friendly
+1986 125 away Greece Sweden 0 0 Friendly
+1986 272 away Greece Spain 3 1 Friendly
+1986 287 away Greece Italy 2 0 Friendly
+1986 294 away Greece Poland 2 1 European Cup qualifier
+1986 322 home Greece Hungary 2 1 European Cup qualifier
+1986 344 away Greece Cyprus 2 4 European Cup qualifier
+1987 7 away Greece Portugal 1 1 Friendly
+1987 14 home Greece Cyprus 3 1 European Cup qualifier
+1987 73 home Greece Romania 1 1 Friendly
+1987 87 away Greece Holland 1 1 European Cup qualifier
+1987 122 home Greece Poland 1 0 European Cup qualifier
+1987 271 away Greece SovietUnion 3 0 Friendly
+1987 286 away Greece Romania 2 2 Friendly
+1987 293 away Greece Hungary 3 0 European Cup qualifier
+1987 357 home Greece Holland 0 3 European Cup qualifier
+1988 48 home Greece NorthernIreland 3 2 Friendly
+1988 85 home Greece SovietUnion 0 4 Friendly
+1988 99 home Greece Austria 2 2 Friendly
+1988 143 away Greece Canada 0 1 Friendly
+1988 145 away Greece Canada 0 3 Friendly tournament
+1988 147 away Greece Chile 0 1 Friendly tournament
+1988 152 away Greece Canada 0 0 Friendly tournament
+1988 248 away Greece EastGermany 1 0 Friendly
+1988 269 away Greece Turkey 3 1 Friendly
+1988 298 home Greece Denmark 1 1 World Cup qualifier
+1988 312 away Greece Romania 3 0 World Cup qualifier
+1988 325 home Greece Hungary 3 0 Friendly
+1989 18 away Greece Albania 1 1 Friendly
+1989 25 home Greece Portugal 1 2 Friendly
+1989 39 home Greece England 1 2 Friendly
+1989 53 home Greece Norway 4 2 Friendly
+1989 70 home Greece EastGermany 3 2 Friendly
+1989 91 home Greece Turkey 0 1 Friendly
+1989 98 home Greece Yugoslavia 1 4 Friendly
+1989 119 home Greece Romania 0 0 World Cup qualifier
+1989 141 away Greece Denmark 7 1 World Cup qualifier
+1989 240 away Greece Norway 0 0 Friendly
+1989 253 away Greece Poland 3 0 Friendly
+1989 268 away Greece Yugoslavia 3 0 Friendly
+1989 290 away Greece Bulgaria 4 0 World Cup qualifier
+1989 304 away Greece Hungary 1 1 Friendly
+1989 325 home Greece Bulgaria 1 0 World Cup qualifier
+1990 17 home Greece Belgium 2 0 Friendly
+1990 90 home Greece Israel 2 1 Friendly
+1990 154 away Greece Italy 0 0 Friendly
+1990 253 home Greece Albania 1 0 Friendly
+1990 289 home Greece Egypt 6 1 Friendly
+1990 310 home Greece Malta 4 0 European Cup qualifier
+1990 331 away Greece Holland 2 0 European Cup qualifier
+1990 360 home Greece Poland 1 2 Friendly
+1991 23 home Greece Portugal 3 2 European Cup qualifier
+1991 58 away Greece Cyprus 1 1 Friendly
+1991 89 away Greece Morocco 0 0 Friendly
+1991 110 home Greece Sweden 2 2 Friendly
+1991 252 home Greece Albania 0 2 Friendly
+1991 288 away Greece Finland 1 1 European Cup qualifier
+1991 309 home Greece Finland 2 0 European Cup qualifier
+1991 331 away Greece Portugal 1 0 European Cup qualifier
+1991 345 home Greece Holland 0 2 European Cup qualifier
+1991 363 away Greece Malta 1 1 European Cup qualifier
+1992 29 away Greece Albania 1 0 Friendly
+1992 43 home Greece Romania 1 0 Friendly
+1992 87 away Greece Cyprus 1 3 Friendly
+1992 137 home Greece Iceland 1 0 World Cup qualifier
+1992 250 home Greece Cyprus 2 3 Friendly
+1992 286 away Greece Iceland 0 1 World Cup qualifier
+1992 321 home Greece Hungary 0 0 World Cup qualifier
+1993 48 home Greece Luxembourg 2 0 World Cup qualifier
+1993 72 away Greece Austria 2 1 Friendly
+1993 93 away Greece Hungary 0 1 World Cup qualifier
+1993 147 away Greece Russia 1 1 World Cup qualifier
+1993 291 away Greece Luxembourg 1 3 World Cup qualifier
+1993 327 home Greece Russia 1 0 World Cup qualifier
+1994 85 home Greece Poland 0 0 Friendly
+1994 120 home Greece SaudiArabia 5 1 Friendly
+1994 133 home Greece Cameroon 0 3 Friendly tournament
+1994 137 home Greece Bolivia 0 0 Friendly tournament
+1994 141 away Greece England 5 0 Friendly
+1994 152 away Greece UnitedStates 1 1 Friendly
+1994 160 away Greece Colombia 2 0 Friendly
+1994 176 away Greece Argentina 4 0 World Cup
+1994 181 away Greece Bulgaria 4 0 World Cup
+1994 185 away Greece Nigeria 2 0 World Cup
+1994 255 away Greece FaroeIslands 1 5 European Cup qualifier
+1994 291 home Greece Finland 4 0 European Cup qualifier
+1994 326 home Greece SanMarino 2 0 European Cup qualifier
+1994 359 home Greece Scotland 1 0 European Cup qualifier
+1995 25 away Greece Cyprus 2 3 Friendly
+1995 39 home Greece Romania 1 0 Friendly
+1995 70 home Greece Switzerland 1 1 Friendly
+1995 119 home Greece Russia 0 3 European Cup qualifier
+1995 141 away Greece Lithuania 2 1 Friendly
+1995 166 away Greece Finland 2 1 European Cup qualifier
+1995 233 away Greece Scotland 1 0 European Cup qualifier
+1995 254 away Greece SanMarino 0 4 European Cup qualifier
+1995 268 home Greece Yugoslavia 0 2 Friendly
+1995 290 away Greece Russia 2 1 European Cup qualifier
+1995 325 home Greece FaroeIslands 5 0 European Cup qualifier
+1996 24 home Greece Israel 2 1 Friendly
+1996 52 away Greece France 3 1 Friendly
+1996 89 away Greece Portugal 1 0 Friendly
+1996 117 home Greece Slovenia 2 0 World Cup qualifier
+1996 132 home Greece Georgia 2 1 Friendly
+1996 231 home Greece Albania 2 1 Friendly
+1996 249 home Greece Bosnia 3 0 World Cup qualifier
+1996 288 away Greece Denmark 2 1 World Cup qualifier
+1996 320 away Greece Croatia 1 1 World Cup qualifier
+1997 22 away Greece Israel 1 1 Friendly
+1997 50 home Greece Portugal 0 0 Friendly
+1997 74 away Greece Cyprus 0 4 Friendly
+1997 95 away Greece Bosnia 0 1 World Cup qualifier
+1997 123 home Greece Croatia 0 1 World Cup qualifier
+1997 236 home Greece Cyprus 2 1 Friendly
+1997 254 away Greece Slovenia 0 3 World Cup qualifier
+1997 290 home Greece Denmark 0 0 World Cup qualifier
+1998 49 home Greece Russia 1 1 Friendly
+1998 101 away Greece Romania 2 1 Friendly
+1998 254 home Greece Slovenia 2 2 European Cup qualifier
+1998 293 home Greece Georgia 3 0 European Cup qualifier
+1998 328 away Greece Albania 0 0 European Cup qualifier
+1999 34 home Greece Finland 2 1 Friendly tournament
+1999 36 home Greece Belgium 1 0 Friendly tournament
+1999 72 home Greece Croatia 3 2 Friendly
+1999 89 home Greece Norway 0 2 European Cup qualifier
+1999 93 away Greece Latvia 0 0 European Cup qualifier
+1999 121 home Greece Switzerland 1 1 Friendly
+1999 160 away Greece Georgia 1 2 European Cup qualifier
+1999 164 home Greece Latvia 1 2 European Cup qualifier
+1999 235 home Greece ElSalvador 3 1 Friendly
+1999 237 home Greece ElSalvador 3 0 Friendly
+1999 252 away Greece Norway 1 0 European Cup qualifier
+1999 285 home Greece Albania 2 0 European Cup qualifier
+1999 288 away Greece Slovenia 0 3 European Cup qualifier
+1999 323 home Greece Nigeria 2 0 Friendly
+1999 327 home Greece Bulgaria 1 0 Friendly
+1999 355 home Greece Ghana 1 1 Friendly
+1999 357 home Greece Moldova 2 0 Friendly
+1999 359 home Greece Estonia 2 2 Friendly
+2000 54 home Greece Austria 4 1 Friendly
+2000 91 home Greece Romania 2 0 Friendly
+2000 119 away Greece Ireland 0 1 Friendly
+2000 158 away Greece Romania 2 1 Friendly
+2000 233 away Greece Switzerland 2 2 Friendly
+2000 250 away Greece Germany 2 0 World Cup qualifier
+2000 286 home Greece Finland 1 0 World Cup qualifier
+2000 290 away Greece Albania 2 0 World Cup qualifier
+2000 325 home Greece Slovakia 0 2 Friendly
+2000 354 home Greece Yugoslavia 1 1 Friendly
+2001 59 home Greece Russia 3 3 Friendly
+2001 90 home Greece Germany 2 4 World Cup qualifier
+2001 118 away Greece Croatia 2 2 Friendly
+2001 157 home Greece Albania 1 0 World Cup qualifier
+2001 161 home Greece England 0 2 World Cup qualifier
+2001 232 away Greece Russia 0 0 Friendly
+2001 253 away Greece Finland 5 1 World Cup qualifier
+2001 285 away Greece England 2 2 World Cup qualifier
+2001 320 home Greece Estonia 4 2 Friendly
+2001 324 home Greece Cyprus 1 2 Friendly
+2002 44 home Greece Sweden 2 2 Friendly
+2002 89 home Greece Belgium 3 2 Friendly
+2002 110 home Greece Czechia 0 0 Friendly
+2002 139 home Greece Cyprus 3 1 Friendly
+2002 238 away Greece Romania 0 1 Friendly
+2002 255 home Greece Spain 0 2 European Cup qualifier
+2002 291 away Greece Ukraine 2 0 European Cup qualifier
+2002 295 home Greece Armenia 2 0 European Cup qualifier
+2002 330 home Greece Ireland 0 0 Friendly
+2003 29 away Greece Cyprus 1 2 Friendly
+2003 43 home Greece Norway 1 0 Friendly
+2003 88 away Greece Austria 2 2 Friendly
+2003 95 away Greece NorthernIreland 0 2 European Cup qualifier
+2003 123 away Greece Slovakia 2 2 Friendly
+2003 162 away Greece Spain 0 1 European Cup qualifier
+2003 166 home Greece Ukraine 1 0 European Cup qualifier
+2003 237 away Greece Sweden 1 2 Friendly
+2003 254 away Greece Armenia 0 1 European Cup qualifier
+2003 290 home Greece NorthernIreland 1 0 European Cup qualifier
+2003 325 away Greece Portugal 1 1 Friendly
+2004 49 home Greece Bulgaria 2 0 Friendly
+2004 93 home Greece Switzerland 1 0 Friendly
+2004 121 away Greece Holland 4 0 Friendly
+2004 153 away Greece Poland 1 0 Friendly
+2004 158 away Greece Liechtenstein 0 2 Friendly
+2004 167 away Greece Portugal 1 2 European Cup
+2004 171 home Greece Spain 1 1 European Cup
+2004 175 away Greece Russia 2 1 European Cup
+2004 180 home Greece France 1 0 European Cup
+2004 187 home Greece Czechia 1 0 European Cup
+2004 190 away Greece Portugal 0 1 European Cup
+2004 235 away Greece Czechia 0 0 Friendly
+2004 252 away Greece Albania 2 1 World Cup qualifier
+2004 256 home Greece Turkey 0 0 World Cup qualifier
+2004 288 away Greece Ukraine 1 1 World Cup qualifier
+2004 327 home Greece Kazakhstan 3 1 World Cup qualifier
+2005 40 home Greece Denmark 2 1 World Cup qualifier
+2005 88 away Greece Georgia 1 3 World Cup qualifier
+2005 92 home Greece Albania 2 0 World Cup qualifier
+2005 159 away Greece Turkey 0 0 World Cup qualifier
+2005 163 home Greece Ukraine 0 1 World Cup qualifier
+2005 171 away Greece Brazil 3 0 Confederations Cup
+2005 174 away Greece Japan 1 0 Confederations Cup
+2005 177 home Greece Mexico 0 0 Confederations Cup
+2005 234 away Greece Belgium 2 0 Friendly
+2005 255 away Greece Kazakhstan 1 2 World Cup qualifier
+2005 287 away Greece Denmark 1 0 World Cup qualifier
+2005 291 home Greece Georgia 1 0 World Cup qualifier
+2005 326 home Greece Hungary 2 1 Friendly
+2006 21 home Greece SouthKorea 1 1 Friendly tournament
+2006 25 away Greece SaudiArabia 1 1 Friendly tournament
+2006 59 home Greece Belarus 1 0 Friendly tournament
+2006 63 home Greece Kazakhstan 2 0 Friendly tournament
+2006 149 away Greece Australia 1 0 Friendly
+2006 233 away Greece England 4 0 Friendly
+2006 250 away Greece Moldova 0 1 European Cup qualifier
+2006 286 home Greece Norway 1 0 European Cup qualifier
+2006 290 away Greece Bosnia 0 4 European Cup qualifier
+2006 325 away Greece France 1 0 Friendly
+2007 37 away Greece SouthKorea 1 0 Friendly
+2007 86 home Greece Turkey 1 4 European Cup qualifier
+2007 90 away Greece Malta 0 1 European Cup qualifier
+2007 157 home Greece Hungary 2 0 European Cup qualifier
+2007 161 home Greece Moldova 2 1 European Cup qualifier
+2007 239 home Greece Spain 2 3 Friendly
+2007 260 away Greece Norway 2 2 European Cup qualifier
+2007 292 home Greece Bosnia 3 2 European Cup qualifier
+2007 296 away Greece Turkey 0 1 European Cup qualifier
+2007 327 home Greece Malta 5 0 European Cup qualifier
+2007 331 away Greece Hungary 1 2 European Cup qualifier
+2008 36 home Greece Czechia 1 0 Friendly
+2008 37 home Greece Finland 2 1 Friendly
+2008 88 home Greece Portugal 2 1 Friendly
+2008 143 home Greece Cyprus 2 0 Friendly
+2008 148 away Greece Hungary 3 2 Friendly
+2008 156 away Greece Armenia 0 0 Friendly
+2008 165 away Greece Sweden 2 0 European Cup
+2008 169 away Greece Russia 1 0 European Cup
+2008 173 away Greece Spain 2 1 European Cup
+2008 237 away Greece Slovakia 0 2 Friendly
+2008 254 away Greece Luxembourg 0 3 World Cup qualifier
+2008 258 away Greece Latvia 0 2 World Cup qualifier
+2008 290 home Greece Moldova 3 0 World Cup qualifier
+2008 294 home Greece Switzerland 1 2 World Cup qualifier
+2008 329 home Greece Italy 1 1 Friendly
+2009 42 home Greece Denmark 1 1 Friendly
+2009 90 away Greece Israel 1 1 World Cup qualifier
+2009 94 home Greece Israel 2 1 World Cup qualifier
+2009 229 away Greece Poland 2 0 Friendly
+2009 253 away Greece Switzerland 2 0 World Cup qualifier
+2009 257 away Greece Moldova 1 1 World Cup qualifier
+2009 289 home Greece Latvia 5 2 World Cup qualifier
+2009 293 home Greece Luxembourg 2 1 World Cup qualifier
+2009 324 home Greece Ukraine 0 0 World Cup qualifier
+2009 328 away Greece Ukraine 0 1 World Cup qualifier
+2010 65 home Greece Senegal 0 2 Friendly
+2010 149 home Greece NorthKorea 2 2 Friendly
+2010 157 away Greece Paraguay 2 0 Friendly
+2010 167 away Greece SouthKorea 2 0 World Cup
+2010 172 home Greece Nigeria 2 1 World Cup
+2010 177 away Greece Argentina 2 0 World Cup
+2010 228 away Greece Serbia 0 1 Friendly
+2010 251 home Greece Georgia 1 1 European Cup qualifier
+2010 255 away Greece Croatia 0 0 European Cup qualifier
+2010 287 home Greece Latvia 1 0 European Cup qualifier
+2010 291 home Greece Israel 2 1 European Cup qualifier
+2010 327 away Greece Austria 1 2 Friendly
+2011 40 home Greece Canada 1 0 Friendly
+2011 88 away Greece Malta 0 1 European Cup qualifier
+2011 91 home Greece Poland 0 0 Friendly
+2011 159 home Greece Malta 3 1 European Cup qualifier
+2011 162 away Greece Ecuador 1 1 Friendly
+2011 227 away Greece Bosnia 0 0 Friendly
+2011 250 away Greece Israel 0 1 European Cup qualifier
+2011 254 away Greece Latvia 1 1 European Cup qualifier
+2011 286 home Greece Croatia 2 0 European Cup qualifier
+2011 290 away Greece Georgia 1 2 European Cup qualifier
+2011 321 home Greece Russia 1 1 Friendly
+2011 325 away Greece Romania 3 1 Friendly
+2012 60 home Greece Belgium 1 1 Friendly
+2012 150 home Greece Slovenia 1 1 Friendly
+2012 155 home Greece Armenia 1 0 Friendly
+2012 163 away Greece Poland 1 1 European Cup
+2012 167 away Greece Czechia 2 1 European Cup
+2012 171 home Greece Russia 1 0 European Cup
+2012 177 away Greece Germany 4 2 European Cup
+2012 232 away Greece Norway 2 3 Friendly
+2012 255 away Greece Latvia 1 2 World Cup qualifier
+2012 259 home Greece Lithuania 2 0 World Cup qualifier
+2012 291 home Greece Bosnia 0 0 World Cup qualifier
+2012 295 away Greece Slovakia 0 1 World Cup qualifier
+2012 324 away Greece Ireland 0 1 Friendly
+2013 37 home Greece Switzerland 0 0 Friendly
+2013 84 away Greece Bosnia 3 1 World Cup qualifier
+2013 162 away Greece Lithuania 0 1 World Cup qualifier
+2013 231 away Greece Austria 0 2 Friendly
+2013 254 away Greece Liechtenstein 0 1 World Cup qualifier
+2013 258 home Greece Latvia 1 0 World Cup qualifier
+2013 290 home Greece Slovakia 1 0 World Cup qualifier
+2013 294 home Greece Liechtenstein 2 0 World Cup qualifier
+2013 325 home Greece Romania 3 1 World Cup qualifier
+2013 329 away Greece Romania 1 1 World Cup qualifier
+2014 67 home Greece SouthKorea 0 2 Friendly

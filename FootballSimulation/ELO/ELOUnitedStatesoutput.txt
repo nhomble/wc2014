@@ -1,0 +1,629 @@
+1885 338 home UnitedStates Canada 0 1 Friendly
+1886 335 home UnitedStates Canada 3 2 Friendly
+1916 237 away UnitedStates Sweden 2 3 Friendly
+1916 251 away UnitedStates Norway 1 1 Friendly
+1924 149 home UnitedStates Estonia 1 0 Olympic Games
+1924 153 away UnitedStates Uruguay 3 0 Olympic Games
+1924 165 away UnitedStates Poland 2 3 Friendly
+1925 182 away UnitedStates Canada 1 0 Friendly
+1925 318 home UnitedStates Canada 6 1 Friendly
+1926 316 home UnitedStates Canada 6 2 Friendly
+1928 154 away UnitedStates Argentina 11 2 Olympic Games
+1928 165 away UnitedStates Poland 3 3 Friendly
+1930 199 home UnitedStates Belgium 3 0 World Cup
+1930 203 home UnitedStates Paraguay 3 0 World Cup
+1930 212 away UnitedStates Argentina 6 1 World Cup
+1930 234 away UnitedStates Brazil 4 3 Friendly
+1934 148 home UnitedStates Mexico 4 2 World Cup qualifier
+1934 151 away UnitedStates Italy 7 1 World Cup
+1936 220 away UnitedStates Italy 1 0 Olympic Games
+1937 260 away UnitedStates Mexico 7 2 Friendly
+1937 267 away UnitedStates Mexico 7 3 Friendly
+1937 273 away UnitedStates Mexico 5 1 Friendly
+1947 199 away UnitedStates Mexico 5 0 North American Championship
+1947 206 away UnitedStates Cuba 5 2 North American Championship
+1948 223 away UnitedStates Norway 11 0 Friendly
+1949 252 away UnitedStates Mexico 6 0 World Cup qualifier
+1949 262 away UnitedStates Cuba 1 1 World Cup qualifier
+1949 266 away UnitedStates Mexico 6 2 World Cup qualifier
+1949 269 home UnitedStates Cuba 5 2 World Cup qualifier
+1950 180 away UnitedStates Spain 3 1 World Cup
+1950 184 home UnitedStates England 1 0 World Cup
+1950 188 away UnitedStates Chile 5 2 World Cup
+1952 123 away UnitedStates Scotland 6 0 Friendly
+1953 163 home UnitedStates England 3 6 Friendly
+1954 10 away UnitedStates Mexico 4 0 World Cup qualifier
+1954 14 away UnitedStates Mexico 3 1 World Cup qualifier
+1954 96 away UnitedStates Haiti 2 3 World Cup qualifier
+1954 97 away UnitedStates Haiti 0 3 World Cup qualifier
+1955 242 away UnitedStates Iceland 3 2 Friendly
+1957 100 away UnitedStates Mexico 6 0 World Cup qualifier
+1957 121 home UnitedStates Mexico 2 7 World Cup qualifier
+1957 177 away UnitedStates Canada 5 1 World Cup qualifier
+1957 192 home UnitedStates Canada 2 3 World Cup qualifier
+1959 152 home UnitedStates England 1 8 Friendly
+1959 251 home UnitedStates CostaRica 3 4 Friendly
+1960 316 home UnitedStates Mexico 3 3 World Cup qualifier
+1960 323 away UnitedStates Mexico 3 0 World Cup qualifier
+1964 78 away UnitedStates DutchGuiana 1 0 Olympic Games qualifier
+1964 80 home UnitedStates Panama 4 2 Olympic Games qualifier
+1964 151 home UnitedStates England 0 10 Friendly
+1965 69 home UnitedStates Mexico 2 2 World Cup qualifier
+1965 74 away UnitedStates Mexico 2 0 World Cup qualifier
+1965 79 away UnitedStates Honduras 0 1 World Cup qualifier
+1965 83 away UnitedStates Honduras 1 1 World Cup qualifier
+1967 145 away UnitedStates Bermuda 1 1 Olympic Games qualifier
+1967 151 home UnitedStates Bermuda 0 1 Olympic Games qualifier
+1968 296 away UnitedStates Canada 4 2 World Cup qualifier
+1968 299 away UnitedStates Haiti 3 6 Friendly tournament
+1968 300 away UnitedStates Haiti 5 2 Friendly tournament
+1968 302 away UnitedStates Haiti 0 1 Friendly tournament
+1968 305 home UnitedStates Canada 1 0 World Cup qualifier
+1968 312 home UnitedStates Bermuda 6 2 World Cup qualifier
+1968 320 away UnitedStates Bermuda 0 2 World Cup qualifier
+1969 113 away UnitedStates Haiti 2 0 World Cup qualifier
+1969 135 home UnitedStates Haiti 0 1 World Cup qualifier
+1971 204 home UnitedStates ElSalvador 1 1 Olympic Games qualifier
+1971 211 home UnitedStates Barbados 3 0 Olympic Games qualifier
+1971 232 away UnitedStates ElSalvador 1 1 Olympic Games qualifier
+1971 239 away UnitedStates Barbados 1 3 Olympic Games qualifier
+1971 266 home UnitedStates ElSalvador 1 0 Olympic Games qualifier
+1972 16 away UnitedStates Jamaica 1 1 Olympic Games qualifier
+1972 109 away UnitedStates Guatemala 3 2 Olympic Games qualifier
+1972 118 home UnitedStates Guatemala 2 1 Olympic Games qualifier
+1972 138 home UnitedStates Jamaica 2 1 Olympic Games qualifier
+1972 237 away UnitedStates Canada 3 2 World Cup qualifier
+1972 246 home UnitedStates Canada 2 2 World Cup qualifier
+1972 251 away UnitedStates Mexico 3 1 World Cup qualifier
+1972 258 home UnitedStates Mexico 1 2 World Cup qualifier
+1973 79 away UnitedStates Bermuda 4 0 Friendly
+1973 82 away UnitedStates Poland 4 0 Friendly
+1973 220 home UnitedStates Poland 0 1 Friendly
+1973 222 away UnitedStates Canada 0 2 Friendly
+1973 227 home UnitedStates Poland 0 4 Friendly
+1973 229 home UnitedStates Poland 1 0 Friendly
+1973 257 home UnitedStates Bermuda 1 0 Friendly
+1973 295 away UnitedStates Mexico 2 0 Friendly
+1973 313 away UnitedStates Haiti 1 0 Friendly
+1973 315 away UnitedStates Haiti 1 0 Friendly
+1973 323 away UnitedStates Israel 3 1 Friendly
+1973 325 away UnitedStates Israel 2 0 Friendly
+1974 253 away UnitedStates Mexico 3 1 Friendly
+1974 256 home UnitedStates Mexico 0 1 Friendly
+1975 88 away UnitedStates Poland 7 0 Friendly
+1975 179 home UnitedStates Poland 0 4 Friendly
+1975 236 away UnitedStates CostaRica 3 1 Copa Ciudad de Mexico
+1975 238 away UnitedStates Argentina 6 0 Copa Ciudad de Mexico
+1975 241 away UnitedStates Mexico 2 0 Copa Ciudad de Mexico
+1976 152 home UnitedStates Brazil 0 2 Friendly
+1976 272 away UnitedStates Canada 1 1 World Cup qualifier
+1976 282 home UnitedStates Mexico 0 0 World Cup qualifier
+1976 294 away UnitedStates Mexico 3 0 World Cup qualifier
+1976 299 home UnitedStates Canada 2 0 World Cup qualifier
+1976 320 away UnitedStates Haiti 0 0 Friendly
+1976 322 away UnitedStates Haiti 0 0 Friendly
+1976 324 away UnitedStates Haiti 0 0 Friendly
+1976 363 away UnitedStates Canada 3 0 World Cup qualifier
+1977 263 away UnitedStates ElSalvador 1 2 Friendly
+1977 266 away UnitedStates Guatemala 3 1 Friendly
+1977 270 away UnitedStates ElSalvador 0 1 Friendly
+1977 273 away UnitedStates Guatemala 2 0 Friendly
+1977 275 away UnitedStates Mexico 3 0 Friendly
+1977 278 home UnitedStates ElSalvador 0 0 Friendly
+1977 285 home UnitedStates China 1 1 Friendly
+1977 289 home UnitedStates China 1 0 Friendly
+1977 295 home UnitedStates China 2 1 Friendly
+1978 251 away UnitedStates Iceland 0 0 Friendly
+1978 254 away UnitedStates Switzerland 2 0 Friendly
+1978 268 away UnitedStates Portugal 1 0 Friendly
+1979 126 home UnitedStates France 0 6 Friendly
+1979 286 away UnitedStates Bermuda 1 3 Friendly
+1979 289 away UnitedStates France 3 0 Friendly
+1979 305 away UnitedStates Hungary 0 2 Friendly
+1979 308 away UnitedStates Ireland 3 2 Friendly
+1980 283 away UnitedStates Luxembourg 0 2 Friendly
+1980 286 away UnitedStates Portugal 1 1 Friendly
+1980 304 home UnitedStates Canada 0 0 World Cup qualifier
+1980 311 away UnitedStates Canada 2 1 World Cup qualifier
+1980 319 away UnitedStates Mexico 5 1 World Cup qualifier
+1980 333 home UnitedStates Mexico 2 1 World Cup qualifier
+1982 83 away UnitedStates TrinidadTobago 1 2 Friendly
+1983 101 away UnitedStates Haiti 0 2 Friendly
+1983 162 home UnitedStates Nigeria 1 1 Friendly
+1983 263 home UnitedStates Ghana 0 1 Friendly
+1984 154 home UnitedStates Italy 0 0 Friendly
+1984 178 away UnitedStates Congo 2 0 Friendly tournament
+1984 277 away UnitedStates NetherlandsAntilles 0 0 World Cup qualifier
+1984 285 home UnitedStates NetherlandsAntilles 4 0 World Cup qualifier
+1984 288 home UnitedStates ElSalvador 3 1 Friendly
+1984 290 home UnitedStates Colombia 1 0 Friendly
+1984 293 away UnitedStates Guatemala 4 0 Friendly
+1984 296 away UnitedStates Mexico 2 1 Friendly
+1984 340 home UnitedStates Ecuador 0 0 Friendly
+1984 343 home UnitedStates Ecuador 2 2 Friendly
+1985 39 home UnitedStates Switzerland 1 1 Friendly
+1985 95 away UnitedStates Canada 2 0 Friendly
+1985 97 home UnitedStates Canada 1 1 Friendly
+1985 139 home UnitedStates TrinidadTobago 2 1 World Cup qualifier
+1985 143 home UnitedStates TrinidadTobago 1 0 World Cup qualifier
+1985 150 away UnitedStates CostaRica 1 1 World Cup qualifier
+1985 155 home UnitedStates CostaRica 0 1 World Cup qualifier
+1985 171 home UnitedStates England 0 5 Friendly
+1986 36 home UnitedStates Canada 0 0 Friendly
+1986 38 home UnitedStates Uruguay 1 1 Friendly
+1987 163 away UnitedStates Egypt 3 1 Presidents Cup
+1987 167 away UnitedStates SouthKorea 1 0 Presidents Cup
+1987 171 home UnitedStates Thailand 1 0 Presidents Cup
+1987 227 home UnitedStates TrinidadTobago 3 1 Friendly
+1987 229 home UnitedStates ElSalvador 0 0 Friendly
+1987 253 home UnitedStates TrinidadTobago 4 1 Friendly
+1987 268 away UnitedStates TrinidadTobago 0 1 Friendly
+1987 297 away UnitedStates ElSalvador 2 4 Friendly
+1988 10 away UnitedStates Guatemala 1 0 Friendly
+1988 13 away UnitedStates Guatemala 0 1 Friendly
+1988 138 home UnitedStates Colombia 0 2 Friendly
+1988 156 home UnitedStates Chile 1 1 Friendly
+1988 158 home UnitedStates Chile 1 3 Friendly
+1988 160 home UnitedStates Chile 0 3 Friendly
+1988 162 home UnitedStates Ecuador 0 1 Friendly
+1988 165 home UnitedStates Ecuador 0 2 Friendly
+1988 167 home UnitedStates Ecuador 0 0 Friendly
+1988 169 home UnitedStates CostaRica 1 0 Friendly
+1988 199 home UnitedStates Poland 0 2 Friendly
+1988 210 away UnitedStates Jamaica 0 0 World Cup qualifier
+1988 230 home UnitedStates Jamaica 5 1 World Cup qualifier
+1989 109 away UnitedStates CostaRica 1 0 World Cup qualifier
+1989 123 home UnitedStates CostaRica 1 0 World Cup qualifier
+1989 137 home UnitedStates TrinidadTobago 1 1 World Cup qualifier
+1989 159 home UnitedStates Peru 3 0 Friendly tournament
+1989 172 home UnitedStates Guatemala 2 1 World Cup qualifier
+1989 179 home UnitedStates Colombia 0 1 Friendly
+1989 230 home UnitedStates SouthKorea 1 2 Friendly
+1989 265 away UnitedStates ElSalvador 0 1 World Cup qualifier
+1989 287 away UnitedStates Guatemala 0 0 World Cup qualifier
+1989 315 home UnitedStates ElSalvador 0 0 World Cup qualifier
+1989 324 home UnitedStates Bermuda 2 1 Friendly
+1989 328 away UnitedStates TrinidadTobago 0 1 World Cup qualifier
+1990 33 home UnitedStates CostaRica 0 2 Friendly tournament
+1990 35 home UnitedStates Colombia 1 1 Friendly tournament
+1990 44 away UnitedStates Bermuda 0 1 Friendly
+1990 55 home UnitedStates SovietUnion 1 3 Friendly
+1990 72 home UnitedStates Finland 2 1 Friendly
+1990 82 away UnitedStates Hungary 2 0 Friendly
+1990 90 away UnitedStates EastGermany 3 2 Friendly
+1990 101 home UnitedStates Iceland 4 1 Friendly
+1990 115 home UnitedStates Colombia 0 1 Friendly
+1990 129 home UnitedStates Malta 1 0 Friendly
+1990 133 home UnitedStates Poland 3 1 Friendly
+1990 154 away UnitedStates Liechtenstein 1 4 Friendly
+1990 157 away UnitedStates Switzerland 2 1 Friendly
+1990 165 away UnitedStates Czechoslovakia 5 1 World Cup
+1990 169 away UnitedStates Italy 1 0 World Cup
+1990 174 away UnitedStates Austria 2 1 World Cup
+1990 214 home UnitedStates EastGermany 1 2 Friendly
+1990 263 home UnitedStates TrinidadTobago 3 0 Friendly
+1990 289 away UnitedStates Poland 2 3 Friendly
+1990 296 away UnitedStates Croatia 2 1 Friendly
+1990 328 away UnitedStates TrinidadTobago 0 0 Friendly tournament
+1990 331 away UnitedStates SovietUnion 0 0 Friendly tournament
+1990 360 away UnitedStates Portugal 1 0 Friendly
+1991 33 home UnitedStates Switzerland 0 1 Friendly tournament
+1991 52 away UnitedStates Bermuda 1 0 Friendly
+1991 74 home UnitedStates Mexico 2 2 Concacaf Gold Cup qualifier
+1991 78 home UnitedStates Canada 2 0 Concacaf Gold Cup qualifier
+1991 129 home UnitedStates Uruguay 1 0 Friendly
+1991 143 home UnitedStates Argentina 0 1 Friendly
+1991 156 home UnitedStates Ireland 1 1 Friendly
+1991 184 home UnitedStates TrinidadTobago 2 1 Concacaf Gold Cup
+1991 187 home UnitedStates Guatemala 3 0 Concacaf Gold Cup
+1991 189 home UnitedStates CostaRica 3 2 Concacaf Gold Cup
+1991 191 home UnitedStates Mexico 2 0 Concacaf Gold Cup
+1991 193 home UnitedStates Honduras 0 0 Concacaf Gold Cup
+1991 245 away UnitedStates Romania 0 2 Friendly
+1991 252 away UnitedStates Turkey 1 1 Friendly
+1991 262 home UnitedStates Jamaica 1 0 Friendly
+1991 298 home UnitedStates NorthKorea 1 2 Friendly
+1991 334 home UnitedStates CostaRica 1 1 Friendly
+1992 25 home UnitedStates IndependentStates 0 1 Friendly
+1992 33 home UnitedStates IndependentStates 2 1 Friendly
+1992 43 away UnitedStates CostaRica 0 0 Friendly
+1992 50 away UnitedStates ElSalvador 2 0 Friendly
+1992 57 away UnitedStates Brazil 3 0 Friendly
+1992 73 away UnitedStates Spain 2 0 Friendly
+1992 80 away UnitedStates Morocco 3 1 Friendly
+1992 97 home UnitedStates China 5 0 Friendly
+1992 122 away UnitedStates Ireland 4 1 Friendly
+1992 141 home UnitedStates Scotland 0 1 Friendly
+1992 154 home UnitedStates Ireland 3 1 US Cup
+1992 158 home UnitedStates Portugal 1 0 US Cup
+1992 161 home UnitedStates Italy 1 1 US Cup
+1992 169 home UnitedStates Australia 0 1 Friendly
+1992 182 home UnitedStates Ukraine 0 0 Friendly
+1992 217 home UnitedStates Colombia 0 1 Friendship Cup
+1992 219 home UnitedStates Brazil 0 1 Friendship Cup
+1992 251 away UnitedStates Canada 0 2 Friendly
+1992 288 home UnitedStates Canada 0 0 Friendly
+1992 294 away UnitedStates SaudiArabia 3 0 Intercontinental Cup
+1992 298 home UnitedStates IvoryCoast 5 2 Intercontinental Cup
+1993 30 home UnitedStates Denmark 2 2 Friendly
+1993 37 home UnitedStates Romania 1 1 Friendly
+1993 44 home UnitedStates Russia 0 1 Friendly
+1993 52 home UnitedStates Russia 0 0 Friendly
+1993 65 home UnitedStates Canada 2 2 Friendly
+1993 72 home UnitedStates Hungary 0 0 Kirin Cup
+1993 76 away UnitedStates Japan 3 1 Kirin Cup
+1993 85 away UnitedStates ElSalvador 2 2 Friendly
+1993 87 away UnitedStates Honduras 4 1 Friendly
+1993 102 away UnitedStates SaudiArabia 0 2 Friendly
+1993 110 home UnitedStates Iceland 1 1 Friendly
+1993 132 home UnitedStates Colombia 1 2 Friendly
+1993 147 home UnitedStates Bolivia 0 0 Friendly
+1993 150 home UnitedStates Peru 0 0 Friendly
+1993 161 home UnitedStates Brazil 0 2 US Cup
+1993 164 home UnitedStates England 2 0 US Cup
+1993 168 home UnitedStates Germany 3 4 US Cup
+1993 171 away UnitedStates Uruguay 1 0 Copa América
+1993 174 away UnitedStates Ecuador 2 0 Copa América
+1993 177 home UnitedStates Venezuela 3 3 Copa América
+1993 196 home UnitedStates Jamaica 1 0 Concacaf Gold Cup
+1993 200 home UnitedStates Panama 2 1 Concacaf Gold Cup
+1993 203 home UnitedStates Honduras 1 0 Concacaf Gold Cup
+1993 207 home UnitedStates CostaRica 1 0 Concacaf Gold Cup
+1993 211 away UnitedStates Mexico 4 0 Concacaf Gold Cup
+1993 248 away UnitedStates Iceland 0 1 Friendly
+1993 256 away UnitedStates Norway 1 0 Friendly
+1993 292 home UnitedStates Mexico 1 1 Friendly
+1993 295 home UnitedStates Ukraine 1 2 Friendly
+1993 302 home UnitedStates Ukraine 0 1 Friendly
+1993 317 home UnitedStates Jamaica 1 0 Friendly
+1993 324 home UnitedStates CaymanIslands 8 1 Friendly
+1993 346 home UnitedStates ElSalvador 7 0 Friendly
+1993 359 home UnitedStates Germany 0 3 Friendly
+1994 15 home UnitedStates Norway 2 1 Friendly
+1994 22 home UnitedStates Switzerland 1 1 Friendly
+1994 29 home UnitedStates Russia 1 1 Friendly
+1994 41 away UnitedStates Denmark 0 0 Carlsberg Cup
+1994 44 away UnitedStates Romania 2 1 Carlsberg Cup
+1994 49 home UnitedStates Bolivia 1 1 Friendly tournament
+1994 51 home UnitedStates Sweden 1 3 Friendly tournament
+1994 67 home UnitedStates SouthKorea 1 0 Friendly
+1994 74 home UnitedStates SouthKorea 1 1 Friendly
+1994 88 home UnitedStates Bolivia 2 2 Friendly
+1994 109 home UnitedStates Moldova 1 1 Friendly
+1994 113 home UnitedStates Moldova 3 0 Friendly
+1994 117 home UnitedStates Iceland 1 2 Friendly
+1994 123 home UnitedStates Chile 0 2 Friendly
+1994 131 home UnitedStates Estonia 4 0 Friendly
+1994 139 home UnitedStates Armenia 1 0 Friendly
+1994 149 home UnitedStates SaudiArabia 0 0 Friendly
+1994 152 home UnitedStates Greece 1 1 Friendly
+1994 159 home UnitedStates Mexico 1 0 Friendly
+1994 173 home UnitedStates Switzerland 1 1 World Cup
+1994 177 home UnitedStates Colombia 2 1 World Cup
+1994 181 home UnitedStates Romania 0 1 World Cup
+1994 190 home UnitedStates Brazil 0 1 World Cup
+1994 255 away UnitedStates England 2 0 Friendly
+1994 298 away UnitedStates SaudiArabia 2 1 Friendly
+1994 329 away UnitedStates TrinidadTobago 1 0 Friendly
+1994 332 away UnitedStates Jamaica 0 3 Friendly
+1994 352 home UnitedStates Honduras 1 1 Friendly
+1995 87 home UnitedStates Uruguay 2 2 Friendly
+1995 115 away UnitedStates Belgium 1 0 Friendly
+1995 152 home UnitedStates CostaRica 1 2 Friendly
+1995 166 home UnitedStates Nigeria 3 2 US Cup
+1995 173 home UnitedStates Mexico 4 0 US Cup
+1995 180 home UnitedStates Colombia 0 0 US Cup
+1995 194 home UnitedStates Chile 2 1 Copa América
+1995 197 away UnitedStates Bolivia 1 0 Copa América
+1995 200 home UnitedStates Argentina 3 0 Copa América
+1995 203 home UnitedStates Mexico 0 0 Copa América
+1995 206 away UnitedStates Brazil 1 0 Copa América
+1995 208 away UnitedStates Colombia 4 1 Copa América
+1995 233 away UnitedStates Sweden 1 0 Friendly
+1995 287 home UnitedStates SaudiArabia 4 3 Friendly
+1996 13 home UnitedStates TrinidadTobago 3 2 Concacaf Gold Cup
+1996 16 home UnitedStates ElSalvador 2 0 Concacaf Gold Cup
+1996 18 home UnitedStates Brazil 0 1 Concacaf Gold Cup
+1996 21 home UnitedStates Guatemala 3 0 Concacaf Gold Cup
+1996 150 home UnitedStates Scotland 2 1 Friendly
+1996 164 home UnitedStates Ireland 2 1 US Cup
+1996 167 home UnitedStates Bolivia 0 2 US Cup
+1996 171 home UnitedStates Mexico 2 2 US Cup
+1996 247 home UnitedStates ElSalvador 3 1 Friendly
+1996 295 away UnitedStates Peru 4 1 Friendly
+1996 313 home UnitedStates Guatemala 2 0 World Cup qualifier
+1996 320 home UnitedStates TrinidadTobago 2 0 World Cup qualifier
+1996 334 away UnitedStates TrinidadTobago 0 1 World Cup qualifier
+1996 342 away UnitedStates CostaRica 2 1 World Cup qualifier
+1996 355 home UnitedStates CostaRica 2 1 World Cup qualifier
+1996 362 away UnitedStates Guatemala 2 2 World Cup qualifier
+1997 17 home UnitedStates Peru 0 1 US Cup
+1997 19 home UnitedStates Mexico 0 2 US Cup
+1997 22 home UnitedStates Denmark 1 4 US Cup
+1997 29 away UnitedStates China 2 1 Friendly
+1997 32 away UnitedStates China 1 1 Friendly
+1997 64 away UnitedStates Jamaica 0 0 World Cup qualifier
+1997 78 home UnitedStates Canada 3 0 World Cup qualifier
+1997 85 away UnitedStates CostaRica 3 2 World Cup qualifier
+1997 113 home UnitedStates Mexico 2 2 World Cup qualifier
+1997 159 home UnitedStates Paraguay 0 0 Friendly
+1997 172 home UnitedStates Israel 2 1 Friendly
+1997 184 away UnitedStates ElSalvador 1 1 World Cup qualifier
+1997 224 home UnitedStates Ecuador 0 1 Friendly
+1997 255 home UnitedStates CostaRica 1 0 World Cup qualifier
+1997 282 home UnitedStates Jamaica 1 1 World Cup qualifier
+1997 312 away UnitedStates Mexico 0 0 World Cup qualifier
+1997 319 away UnitedStates Canada 0 3 World Cup qualifier
+1997 326 home UnitedStates ElSalvador 4 2 World Cup qualifier
+1998 24 home UnitedStates Sweden 1 0 Friendly
+1998 32 home UnitedStates Cuba 3 0 Concacaf Gold Cup
+1998 38 home UnitedStates CostaRica 2 1 Concacaf Gold Cup
+1998 41 home UnitedStates Brazil 1 0 Concacaf Gold Cup
+1998 46 home UnitedStates Mexico 0 1 Concacaf Gold Cup
+1998 52 home UnitedStates Holland 0 2 Friendly
+1998 56 away UnitedStates Belgium 2 0 Friendly
+1998 76 home UnitedStates Paraguay 2 2 Friendly
+1998 115 away UnitedStates Austria 0 3 Friendly
+1998 140 home UnitedStates Macedonia 0 0 Friendly
+1998 148 home UnitedStates Kuwait 2 0 Friendly
+1998 154 home UnitedStates Scotland 0 0 Friendly
+1998 170 away UnitedStates Germany 2 0 World Cup
+1998 176 away UnitedStates Iran 2 1 World Cup
+1998 180 away UnitedStates Yugoslavia 1 0 World Cup
+1998 316 home UnitedStates Australia 0 0 Friendly
+1999 24 away UnitedStates Bolivia 0 0 Friendly
+1999 37 home UnitedStates Germany 3 0 Friendly
+1999 52 home UnitedStates Chile 2 1 Friendly
+1999 73 home UnitedStates Guatemala 3 1 US Cup
+1999 75 home UnitedStates Mexico 1 2 US Cup
+1999 168 home UnitedStates Argentina 1 0 Friendly
+1999 210 home UnitedStates NewZealand 2 1 Confederations Cup
+1999 214 away UnitedStates Brazil 1 0 Confederations Cup
+1999 216 home UnitedStates Germany 2 0 Confederations Cup
+1999 218 away UnitedStates Mexico 1 0 Confederations Cup
+1999 220 home UnitedStates SaudiArabia 2 0 Confederations Cup
+1999 256 away UnitedStates Jamaica 2 2 Friendly
+1999 327 away UnitedStates Morocco 2 1 Friendly
+2000 16 home UnitedStates Iran 1 1 Friendly
+2000 29 away UnitedStates Chile 1 2 Friendly
+2000 43 home UnitedStates Haiti 3 0 Concacaf Gold Cup
+2000 47 home UnitedStates Peru 1 0 Concacaf Gold Cup
+2000 50 home UnitedStates Colombia 2 2 Concacaf Gold Cup
+2000 74 home UnitedStates Tunisia 1 1 Friendly
+2000 119 away UnitedStates Russia 2 0 Friendly
+2000 158 home UnitedStates SouthAfrica 4 0 US Cup
+2000 161 home UnitedStates Ireland 1 1 US Cup
+2000 202 away UnitedStates Guatemala 1 1 World Cup qualifier
+2000 209 away UnitedStates CostaRica 2 1 World Cup qualifier
+2000 233 home UnitedStates Barbados 7 0 World Cup qualifier
+2000 251 home UnitedStates Guatemala 1 0 World Cup qualifier
+2000 290 home UnitedStates CostaRica 0 0 World Cup qualifier
+2000 304 home UnitedStates Mexico 2 0 Friendly
+2000 325 away UnitedStates Barbados 0 4 World Cup qualifier
+2001 27 home UnitedStates China 2 1 Friendly
+2001 34 home UnitedStates Colombia 0 1 Friendly
+2001 59 home UnitedStates Mexico 2 0 World Cup qualifier
+2001 65 home UnitedStates Brazil 1 2 Friendly
+2001 90 away UnitedStates Honduras 1 2 World Cup qualifier
+2001 118 home UnitedStates CostaRica 1 0 World Cup qualifier
+2001 162 home UnitedStates Ecuador 0 0 Friendly
+2001 171 away UnitedStates Jamaica 0 0 World Cup qualifier
+2001 175 home UnitedStates TrinidadTobago 2 0 World Cup qualifier
+2001 187 away UnitedStates Mexico 1 0 World Cup qualifier
+2001 249 home UnitedStates Honduras 2 3 World Cup qualifier
+2001 253 away UnitedStates CostaRica 2 0 World Cup qualifier
+2001 286 home UnitedStates Jamaica 2 1 World Cup qualifier
+2001 321 away UnitedStates TrinidadTobago 0 0 World Cup qualifier
+2001 350 away UnitedStates SouthKorea 1 0 Friendly
+2002 19 home UnitedStates SouthKorea 2 1 Concacaf Gold Cup
+2002 21 home UnitedStates Cuba 1 0 Concacaf Gold Cup
+2002 27 home UnitedStates ElSalvador 4 0 Concacaf Gold Cup
+2002 30 home UnitedStates Canada 0 0 Concacaf Gold Cup
+2002 33 home UnitedStates CostaRica 2 0 Concacaf Gold Cup
+2002 44 away UnitedStates Italy 1 0 Friendly
+2002 64 home UnitedStates Honduras 4 0 Friendly
+2002 72 home UnitedStates Ecuador 1 0 Friendly
+2002 89 away UnitedStates Germany 4 2 Friendly
+2002 96 home UnitedStates Mexico 1 0 Friendly
+2002 110 away UnitedStates Ireland 2 1 Friendly
+2002 136 home UnitedStates Uruguay 2 1 Friendly
+2002 140 home UnitedStates Jamaica 5 0 Friendly
+2002 143 home UnitedStates Holland 0 2 Friendly
+2002 160 home UnitedStates Portugal 3 2 World Cup
+2002 165 away UnitedStates SouthKorea 1 1 World Cup
+2002 169 away UnitedStates Poland 3 1 World Cup
+2002 172 home UnitedStates Mexico 2 0 World Cup
+2002 176 away UnitedStates Germany 1 0 World Cup
+2002 327 home UnitedStates ElSalvador 2 0 Friendly
+2003 18 home UnitedStates Canada 4 0 Friendly
+2003 39 home UnitedStates Argentina 0 1 Friendly
+2003 43 away UnitedStates Jamaica 1 2 Friendly
+2003 91 home UnitedStates Venezuela 2 0 Friendly
+2003 132 home UnitedStates Mexico 0 0 Friendly
+2003 150 home UnitedStates Wales 2 0 Friendly
+2003 163 home UnitedStates NewZealand 2 1 Friendly
+2003 174 away UnitedStates Turkey 2 1 Confederations Cup
+2003 176 away UnitedStates Brazil 1 0 Confederations Cup
+2003 178 away UnitedStates Cameroon 0 0 Confederations Cup
+2003 192 home UnitedStates Paraguay 2 0 Friendly
+2003 198 home UnitedStates ElSalvador 2 0 Concacaf Gold Cup
+2003 200 home UnitedStates Martinique 2 0 Concacaf Gold Cup
+2003 205 home UnitedStates Cuba 5 0 Concacaf Gold Cup
+2003 209 home UnitedStates Brazil 1 2 Concacaf Gold Cup
+2003 212 home UnitedStates CostaRica 3 2 Concacaf Gold Cup
+2004 18 home UnitedStates Denmark 1 1 Friendly
+2004 49 away UnitedStates Holland 1 0 Friendly
+2004 75 home UnitedStates Haiti 1 1 Friendly
+2004 93 away UnitedStates Poland 0 1 Friendly
+2004 121 home UnitedStates Mexico 1 0 Friendly
+2004 157 home UnitedStates Honduras 4 0 Friendly
+2004 168 home UnitedStates Grenada 3 0 World Cup qualifier
+2004 175 away UnitedStates Grenada 2 3 World Cup qualifier
+2004 197 home UnitedStates Poland 1 1 Friendly
+2004 235 away UnitedStates Jamaica 1 1 World Cup qualifier
+2004 252 home UnitedStates ElSalvador 2 0 World Cup qualifier
+2004 256 away UnitedStates Panama 1 1 World Cup qualifier
+2004 288 away UnitedStates ElSalvador 0 2 World Cup qualifier
+2004 292 home UnitedStates Panama 6 0 World Cup qualifier
+2004 327 home UnitedStates Jamaica 1 1 World Cup qualifier
+2005 40 away UnitedStates TrinidadTobago 1 2 World Cup qualifier
+2005 71 home UnitedStates Colombia 3 0 Friendly
+2005 81 home UnitedStates Honduras 1 0 Friendly
+2005 89 away UnitedStates Mexico 2 1 World Cup qualifier
+2005 92 home UnitedStates Guatemala 2 0 World Cup qualifier
+2005 152 home UnitedStates England 1 2 Friendly
+2005 159 home UnitedStates CostaRica 3 0 World Cup qualifier
+2005 163 away UnitedStates Panama 0 3 World Cup qualifier
+2005 193 home UnitedStates Cuba 4 1 Concacaf Gold Cup
+2005 195 home UnitedStates Canada 2 0 Concacaf Gold Cup
+2005 198 home UnitedStates CostaRica 0 0 Concacaf Gold Cup
+2005 202 home UnitedStates Jamaica 3 1 Concacaf Gold Cup
+2005 207 home UnitedStates Honduras 2 1 Concacaf Gold Cup
+2005 210 home UnitedStates Panama 0 0 Concacaf Gold Cup
+2005 234 home UnitedStates TrinidadTobago 1 0 World Cup qualifier
+2005 251 home UnitedStates Mexico 2 0 World Cup qualifier
+2005 255 away UnitedStates Guatemala 0 0 World Cup qualifier
+2005 287 away UnitedStates CostaRica 3 0 World Cup qualifier
+2005 291 home UnitedStates Panama 2 0 World Cup qualifier
+2005 322 away UnitedStates Scotland 1 1 Friendly
+2006 22 home UnitedStates Canada 0 0 Friendly
+2006 29 home UnitedStates Norway 5 0 Friendly
+2006 41 home UnitedStates Japan 3 2 Friendly
+2006 50 home UnitedStates Guatemala 4 0 Friendly
+2006 63 home UnitedStates Poland 1 0 Friendly
+2006 84 away UnitedStates Germany 4 1 Friendly
+2006 104 home UnitedStates Jamaica 1 1 Friendly
+2006 147 home UnitedStates Morocco 0 1 Friendly
+2006 150 home UnitedStates Venezuela 2 0 Friendly
+2006 152 home UnitedStates Latvia 1 0 Friendly
+2006 160 home UnitedStates Angola 1 0 Friendly
+2006 167 away UnitedStates Czechia 3 0 World Cup
+2006 172 away UnitedStates Italy 1 1 World Cup
+2006 177 away UnitedStates Ghana 2 1 World Cup
+2007 20 home UnitedStates Denmark 3 1 Friendly
+2007 38 home UnitedStates Mexico 2 0 Friendly
+2007 87 home UnitedStates Ecuador 3 1 Friendly
+2007 90 home UnitedStates Guatemala 0 0 Friendly
+2007 157 home UnitedStates China 4 1 Friendly
+2007 162 home UnitedStates Guatemala 1 0 Concacaf Gold Cup
+2007 164 home UnitedStates TrinidadTobago 2 0 Concacaf Gold Cup
+2007 167 home UnitedStates ElSalvador 4 0 Concacaf Gold Cup
+2007 171 home UnitedStates Panama 2 1 Concacaf Gold Cup
+2007 176 home UnitedStates Canada 2 1 Concacaf Gold Cup
+2007 179 home UnitedStates Mexico 2 1 Concacaf Gold Cup
+2007 183 away UnitedStates Argentina 4 1 Copa América
+2007 188 away UnitedStates Paraguay 3 1 Copa América
+2007 191 away UnitedStates Colombia 1 0 Copa América
+2007 239 away UnitedStates Sweden 1 0 Friendly
+2007 257 home UnitedStates Brazil 2 4 Friendly
+2007 296 away UnitedStates Switzerland 0 1 Friendly
+2007 327 away UnitedStates SouthAfrica 0 1 Friendly
+2008 19 home UnitedStates Sweden 2 0 Friendly
+2008 37 home UnitedStates Mexico 2 2 Friendly
+2008 88 away UnitedStates Poland 0 3 Friendly
+2008 152 away UnitedStates England 2 0 Friendly
+2008 159 away UnitedStates Spain 1 0 Friendly
+2008 163 home UnitedStates Argentina 0 0 Friendly
+2008 170 home UnitedStates Barbados 8 0 World Cup qualifier
+2008 177 away UnitedStates Barbados 0 1 World Cup qualifier
+2008 237 away UnitedStates Guatemala 0 1 World Cup qualifier
+2008 254 away UnitedStates Cuba 0 1 World Cup qualifier
+2008 258 home UnitedStates TrinidadTobago 3 0 World Cup qualifier
+2008 290 home UnitedStates Cuba 6 1 World Cup qualifier
+2008 294 away UnitedStates TrinidadTobago 2 1 World Cup qualifier
+2008 329 home UnitedStates Guatemala 2 0 World Cup qualifier
+2009 24 home UnitedStates Sweden 3 2 Friendly
+2009 42 home UnitedStates Mexico 2 0 World Cup qualifier
+2009 90 away UnitedStates ElSalvador 2 2 World Cup qualifier
+2009 94 home UnitedStates TrinidadTobago 3 0 World Cup qualifier
+2009 158 away UnitedStates CostaRica 3 1 World Cup qualifier
+2009 161 home UnitedStates Honduras 2 1 World Cup qualifier
+2009 170 away UnitedStates Italy 3 1 Confederations Cup
+2009 173 away UnitedStates Brazil 3 0 Confederations Cup
+2009 176 home UnitedStates Egypt 3 0 Confederations Cup
+2009 179 home UnitedStates Spain 2 0 Confederations Cup
+2009 183 away UnitedStates Brazil 3 2 Confederations Cup
+2009 190 home UnitedStates Grenada 4 0 Concacaf Gold Cup
+2009 194 home UnitedStates Honduras 2 0 Concacaf Gold Cup
+2009 197 home UnitedStates Haiti 2 2 Concacaf Gold Cup
+2009 204 home UnitedStates Panama 2 1 Concacaf Gold Cup
+2009 209 home UnitedStates Honduras 2 0 Concacaf Gold Cup
+2009 212 home UnitedStates Mexico 0 5 Concacaf Gold Cup
+2009 229 away UnitedStates Mexico 2 1 World Cup qualifier
+2009 253 home UnitedStates ElSalvador 2 1 World Cup qualifier
+2009 257 away UnitedStates TrinidadTobago 0 1 World Cup qualifier
+2009 289 away UnitedStates Honduras 2 3 World Cup qualifier
+2009 293 home UnitedStates CostaRica 2 2 World Cup qualifier
+2009 324 away UnitedStates Slovakia 1 0 Friendly
+2009 328 away UnitedStates Denmark 3 1 Friendly
+2010 23 home UnitedStates Honduras 1 3 Friendly
+2010 55 home UnitedStates ElSalvador 2 1 Friendly
+2010 65 away UnitedStates Holland 2 1 Friendly
+2010 149 home UnitedStates Czechia 2 4 Friendly
+2010 153 home UnitedStates Turkey 2 1 Friendly
+2010 160 home UnitedStates Australia 3 1 Friendly
+2010 167 home UnitedStates England 1 1 World Cup
+2010 173 away UnitedStates Slovenia 2 2 World Cup
+2010 178 home UnitedStates Algeria 1 0 World Cup
+2010 181 away UnitedStates Ghana 2 1 World Cup
+2010 227 home UnitedStates Brazil 0 2 Friendly
+2010 288 home UnitedStates Poland 2 2 Friendly
+2010 291 home UnitedStates Colombia 0 0 Friendly
+2010 327 away UnitedStates SouthAfrica 0 1 Friendly
+2011 22 home UnitedStates Chile 1 1 Friendly
+2011 88 home UnitedStates Argentina 1 1 Friendly
+2011 91 home UnitedStates Paraguay 0 1 Friendly
+2011 159 home UnitedStates Spain 0 4 Friendly
+2011 162 home UnitedStates Canada 2 0 Concacaf Gold Cup
+2011 166 home UnitedStates Panama 1 2 Concacaf Gold Cup
+2011 169 home UnitedStates Guadeloupe 1 0 Concacaf Gold Cup
+2011 174 home UnitedStates Jamaica 2 0 Concacaf Gold Cup
+2011 177 home UnitedStates Panama 1 0 Concacaf Gold Cup
+2011 180 home UnitedStates Mexico 2 4 Concacaf Gold Cup
+2011 227 home UnitedStates Mexico 1 1 Friendly
+2011 250 home UnitedStates CostaRica 0 1 Friendly
+2011 254 away UnitedStates Belgium 1 0 Friendly
+2011 287 home UnitedStates Honduras 1 0 Friendly
+2011 290 home UnitedStates Ecuador 0 1 Friendly
+2011 321 away UnitedStates France 1 0 Friendly
+2011 325 away UnitedStates Slovenia 2 3 Friendly
+2012 21 home UnitedStates Venezuela 1 0 Friendly
+2012 25 away UnitedStates Panama 0 1 Friendly
+2012 60 away UnitedStates Italy 0 1 Friendly
+2012 150 home UnitedStates Scotland 5 1 Friendly
+2012 154 home UnitedStates Brazil 1 4 Friendly
+2012 158 away UnitedStates Canada 0 0 Friendly
+2012 163 home UnitedStates Antigua and Barbuda 3 1 World Cup qualifier
+2012 167 away UnitedStates Guatemala 1 1 World Cup qualifier
+2012 232 away UnitedStates Mexico 0 1 Friendly
+2012 255 away UnitedStates Jamaica 2 1 World Cup qualifier
+2012 259 home UnitedStates Jamaica 1 0 World Cup qualifier
+2012 291 away UnitedStates Antigua and Barbuda 1 2 World Cup qualifier
+2012 295 home UnitedStates Guatemala 3 1 World Cup qualifier
+2012 324 away UnitedStates Russia 2 2 Friendly
+2013 29 home UnitedStates Canada 0 0 Friendly
+2013 37 away UnitedStates Honduras 2 1 World Cup qualifier
+2013 84 home UnitedStates CostaRica 1 0 World Cup qualifier
+2013 88 away UnitedStates Mexico 0 0 World Cup qualifier
+2013 153 home UnitedStates Belgium 2 4 Friendly
+2013 157 home UnitedStates Germany 4 3 Friendly
+2013 162 away UnitedStates Jamaica 1 2 World Cup qualifier
+2013 166 home UnitedStates Panama 2 0 World Cup qualifier
+2013 173 home UnitedStates Honduras 1 0 World Cup qualifier
+2013 191 home UnitedStates Guatemala 6 0 Friendly
+2013 195 home UnitedStates Belize 6 1 Concacaf Gold Cup
+2013 199 home UnitedStates Cuba 4 1 Concacaf Gold Cup
+2013 202 home UnitedStates CostaRica 1 0 Concacaf Gold Cup
+2013 207 home UnitedStates ElSalvador 5 1 Concacaf Gold Cup
+2013 210 home UnitedStates Honduras 3 1 Concacaf Gold Cup
+2013 214 home UnitedStates Panama 1 0 Concacaf Gold Cup
+2013 231 away UnitedStates Bosnia 3 4 Friendly
+2013 254 away UnitedStates CostaRica 3 1 World Cup qualifier
+2013 258 home UnitedStates Mexico 2 0 World Cup qualifier
+2013 290 home UnitedStates Jamaica 2 0 World Cup qualifier
+2013 294 away UnitedStates Panama 2 3 World Cup qualifier
+2013 325 away UnitedStates Scotland 0 0 Friendly
+2013 329 away UnitedStates Austria 1 0 Friendly
+2014 32 home UnitedStates SouthKorea 2 0 Friendly
+2014 67 away UnitedStates Ukraine 2 0 Friendly
+2014 95 home UnitedStates Mexico 2 2 Friendly

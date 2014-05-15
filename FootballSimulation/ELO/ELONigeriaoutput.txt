@@ -1,0 +1,493 @@
+1950 152 away Nigeria GoldCoast 1 0 Friendly
+1951 299 home Nigeria GoldCoast 5 0 Jalco_Cup
+1953 290 away Nigeria GoldCoast 1 0 Jalco_Cup
+1954 309 home Nigeria GoldCoast 3 0 Jalco_Cup
+1955 309 away Nigeria GoldCoast 7 0 Jalco_Cup
+1956 306 home Nigeria GoldCoast 3 0 Jalco_Cup
+1957 306 away Nigeria GoldCoast 3 3 Jalco_Cup
+1958 304 home Nigeria Ghana 3 2 Jalco_Cup
+1959 289 home Nigeria Ghana 3 1 Olympic Games qualifier
+1959 304 away Nigeria Ghana 4 1 Olympic Games qualifier
+1959 318 away Nigeria Dahomey 0 1 Nkrumah Cup
+1959 331 away Nigeria Ghana 5 2 Jalco_Cup
+1959 338 home Nigeria Dahomey 10 1 Nkrumah Cup
+1960 1 away Nigeria Egypt 3 0 Olympic Games qualifier
+1960 2 away Nigeria Mali 3 2 Friendly
+1960 3 home Nigeria Egypt 2 6 Olympic Games qualifier
+1960 119 away Nigeria Cameroon 0 0 Friendly
+1960 245 away Nigeria Ghana 4 1 World Cup qualifier
+1960 258 home Nigeria Ghana 2 2 World Cup qualifier
+1960 288 home Nigeria Ghana 0 3 Nkrumah Cup
+1960 308 home Nigeria Ghana 1 1 Independence Cup
+1961 101 home Nigeria Ghana 0 0 African Nations Cup qualifier
+1961 123 away Nigeria Ghana 2 2 African Nations Cup qualifier
+1961 156 away Nigeria Ghana 3 0 Friendly
+1961 358 away Nigeria Ghana 5 1 Friendly
+1962 320 home Nigeria Ghana 0 0 Friendly
+1962 349 home Nigeria Cameroon 3 1 Nkrumah Cup
+1963 1 away Nigeria Cameroon 1 2 Nkrumah Cup
+1963 27 away Nigeria Dahomey 1 1 Nkrumah Cup
+1963 33 home Nigeria Dahomey 4 1 Nkrumah Cup
+1963 54 away Nigeria Ghana 5 0 Nkrumah Cup
+1963 58 home Nigeria Senegal 4 0 Nkrumah Cup
+1963 104 home Nigeria Niger 1 0 Friendly tournament
+1963 106 away Nigeria Senegal 5 1 Friendly tournament
+1963 326 home Nigeria Morocco 3 0 Olympic Games qualifier
+1963 334 away Nigeria Egypt 6 3 African Nations Cup
+1963 338 away Nigeria Sudan 4 0 African Nations Cup
+1964 70 away Nigeria Morocco 4 1 Olympic Games qualifier
+1964 86 away Nigeria Morocco 2 1 Olympic Games qualifier
+1964 348 away Nigeria Togo 2 1 Friendly
+1964 368 home Nigeria Togo 1 2 African Games qualifier
+1964 370 home Nigeria UpperVolta 6 1 African Games qualifier
+1965 1 home Nigeria Niger 4 0 African Games qualifier
+1965 245 away Nigeria Gabon 2 2 Friendly
+1965 246 away Nigeria Gabon 1 4 Friendly
+1965 309 home Nigeria Ghana 0 4 Azikwe Cup
+1965 317 away Nigeria Ghana 3 0 Azikwe Cup
+1966 315 home Nigeria Congo (Kinshasa) 3 2 Friendly
+1966 335 away Nigeria Congo (Kinshasa) 1 0 Friendly
+1967 28 home Nigeria Ghana 2 2 Azikwe Cup
+1967 43 away Nigeria Ghana 2 0 Azikwe Cup
+1967 219 home Nigeria Togo 4 2 African Nations Cup qualifier
+1967 275 away Nigeria IvoryCoast 2 0 African Nations Cup qualifier
+1967 276 away Nigeria Ghana 1 1 Friendly
+1967 290 away Nigeria Togo 1 0 African Nations Cup qualifier
+1967 293 away Nigeria SierraLeone 1 1 Friendly
+1967 300 away Nigeria Ghana 2 1 Azikwe Cup
+1967 311 home Nigeria IvoryCoast 0 0 African Nations Cup qualifier
+1967 315 home Nigeria Sudan 1 0 Olympic Games qualifier
+1967 329 away Nigeria Sudan 2 1 Olympic Games qualifier
+1967 364 home Nigeria Ghana 2 2 Azikwe Cup
+1968 27 home Nigeria SierraLeone 4 1 Friendly
+1968 113 home Nigeria Ethiopia 3 1 Olympic Games qualifier
+1968 128 away Nigeria Ethiopia 0 1 Olympic Games qualifier
+1968 293 away Nigeria Japan 3 1 Olympic Games
+1968 348 home Nigeria Cameroon 1 1 World Cup qualifier
+1968 363 away Nigeria Cameroon 2 3 World Cup qualifier
+1969 134 home Nigeria Ghana 2 1 World Cup qualifier
+1969 142 away Nigeria Ghana 1 1 World Cup qualifier
+1969 261 home Nigeria Sudan 2 2 World Cup qualifier
+1969 269 away Nigeria Morocco 2 1 World Cup qualifier
+1969 282 away Nigeria Sudan 3 3 World Cup qualifier
+1969 318 home Nigeria Morocco 2 0 World Cup qualifier
+1969 355 away Nigeria Congo (Kinshasa) 5 0 Friendly
+1970 318 home Nigeria Congo 0 0 African Nations Cup qualifier
+1970 332 away Nigeria Congo 2 1 African Nations Cup qualifier
+1971 44 home Nigeria SierraLeone 1 0 Friendly
+1971 96 home Nigeria Senegal 1 2 Olympic Games qualifier
+1971 111 away Nigeria Senegal 1 1 Olympic Games qualifier
+1971 337 home Nigeria UpperVolta 4 0 Friendly
+1971 342 away Nigeria Guinea 3 0 Friendly
+1971 345 away Nigeria SierraLeone 0 1 Friendly
+1972 30 home Nigeria Guinea 1 1 Friendly
+1972 51 home Nigeria Morocco 3 0 Friendly
+1972 222 home Nigeria Congo 2 1 World Cup qualifier
+1972 232 away Nigeria Congo 1 1 World Cup qualifier
+1973 8 home Nigeria Ghana 4 2 African Games
+1973 10 home Nigeria Algeria 2 2 African Games
+1973 12 home Nigeria Tanzania 2 1 African Games
+1973 14 home Nigeria Egypt 4 2 African Games
+1973 17 home Nigeria Guinea 2 0 African Games
+1973 41 home Nigeria Ghana 2 3 World Cup qualifier
+1973 56 away Nigeria Ghana 0 0 World Cup qualifier
+1973 264 away Nigeria Sudan 1 1 African Nations Cup qualifier
+1973 278 home Nigeria Sudan 2 1 African Nations Cup qualifier
+1973 307 away Nigeria Zambia 5 1 African Nations Cup qualifier
+1973 321 home Nigeria Zambia 3 2 African Nations Cup qualifier
+1975 1 away Nigeria Morocco 1 0 Olympic Games qualifier
+1975 2 home Nigeria Morocco 3 1 Olympic Games qualifier
+1975 305 away Nigeria Congo 0 1 African Nations Cup qualifier
+1975 319 home Nigeria Congo 2 1 African Nations Cup qualifier
+1976 63 home Nigeria Zaire 4 2 African Nations Cup
+1976 66 home Nigeria Sudan 1 0 African Nations Cup
+1976 68 away Nigeria Morocco 3 1 African Nations Cup
+1976 71 away Nigeria Guinea 1 1 African Nations Cup
+1976 73 away Nigeria Morocco 2 1 African Nations Cup
+1976 76 home Nigeria Egypt 3 2 African Nations Cup
+1976 295 away Nigeria SierraLeone 0 0 World Cup qualifier
+1976 309 home Nigeria SierraLeone 6 2 World Cup qualifier
+1977 196 home Nigeria IvoryCoast 4 0 World Cup qualifier
+1977 210 away Nigeria IvoryCoast 2 2 World Cup qualifier
+1977 266 away Nigeria SierraLeone 1 1 African Nations Cup qualifier
+1977 273 away Nigeria Tunisia 0 0 World Cup qualifier
+1977 281 home Nigeria SierraLeone 2 0 African Nations Cup qualifier
+1977 287 home Nigeria Egypt 4 0 World Cup qualifier
+1977 300 away Nigeria Egypt 3 1 World Cup qualifier
+1977 309 away Nigeria Senegal 3 1 African Nations Cup qualifier
+1977 322 home Nigeria Tunisia 0 1 World Cup qualifier
+1977 323 home Nigeria Senegal 3 0 African Nations Cup qualifier
+1978 67 home Nigeria UpperVolta 4 2 African Nations Cup
+1978 70 away Nigeria Ghana 1 1 African Nations Cup
+1978 72 home Nigeria Zambia 0 0 African Nations Cup
+1978 76 away Nigeria Uganda 2 1 African Nations Cup
+1978 79 home Nigeria Tunisia 1 1 African Nations Cup
+1978 200 away Nigeria Cameroon 0 0 African Games
+1978 203 home Nigeria Mali 3 1 African Games
+1978 206 away Nigeria Ghana 0 0 African Games
+1978 211 home Nigeria Malawi 3 2 African Games
+1978 214 away Nigeria Algeria 1 0 African Games
+1980 26 home Nigeria Liberia 1 0 Friendly
+1980 33 home Nigeria Cameroon 0 0 Friendly
+1980 70 home Nigeria Tanzania 3 1 African Nations Cup
+1980 74 home Nigeria IvoryCoast 0 0 African Nations Cup
+1980 77 home Nigeria Egypt 1 0 African Nations Cup
+1980 81 home Nigeria Morocco 1 0 African Nations Cup
+1980 84 home Nigeria Algeria 3 0 African Nations Cup
+1980 184 away Nigeria Tunisia 2 0 World Cup qualifier
+1980 198 home Nigeria Tunisia 2 0 World Cup qualifier
+1980 347 home Nigeria Tanzania 1 1 World Cup qualifier
+1980 361 away Nigeria Tanzania 0 2 World Cup qualifier
+1981 97 home Nigeria Angola 0 0 Friendly
+1981 105 away Nigeria Guinea 1 1 World Cup qualifier
+1981 118 home Nigeria Guinea 1 0 World Cup qualifier
+1981 204 home Nigeria UpperVolta 1 0 Friendly
+1981 214 away Nigeria Zambia 3 0 Friendly
+1981 218 away Nigeria Zimbabwe 2 0 Friendly
+1981 220 away Nigeria Kenya 1 3 Friendly
+1981 229 away Nigeria Norway 2 2 Friendly
+1981 239 away Nigeria Iceland 3 0 Friendly
+1981 274 home Nigeria Uganda 0 1 Friendly
+1981 289 home Nigeria Algeria 0 2 World Cup qualifier
+1981 309 away Nigeria Algeria 2 1 World Cup qualifier
+1982 69 home Nigeria Ethiopia 3 0 African Nations Cup
+1982 72 away Nigeria Algeria 2 1 African Nations Cup
+1982 75 away Nigeria Zambia 3 0 African Nations Cup
+1983 49 home Nigeria Egypt 0 0 Friendly
+1983 51 home Nigeria Egypt 1 1 Friendly
+1983 64 away Nigeria Gabon 0 0 Friendly
+1983 103 home Nigeria Angola 2 0 African Nations Cup qualifier
+1983 117 away Nigeria Angola 1 0 African Nations Cup qualifier
+1983 122 away Nigeria Ethiopia 0 1 Addis Ababa 25th Anniversary Tournament
+1983 125 away Nigeria Ghana 1 0 Addis Ababa 25th Anniversary Tournament
+1983 160 home Nigeria Thailand 0 0 Presidents Cup
+1983 162 away Nigeria UnitedStates 1 1 Friendly
+1983 163 away Nigeria SouthKorea 0 0 Presidents Cup
+1983 164 home Nigeria Indonesia 2 1 Friendly
+1983 231 home Nigeria Morocco 0 0 African Nations Cup qualifier
+1983 245 away Nigeria Morocco 0 0 African Nations Cup qualifier
+1983 325 home Nigeria Senegal 1 0 Cedeao Tournament
+1983 329 away Nigeria Senegal 0 1 Cedeao Tournament
+1983 357 away Nigeria Togo 5 2 Cedeao Tournament
+1983 359 away Nigeria Mali 0 0 Cedeao Tournament
+1984 67 home Nigeria Ghana 2 1 African Nations Cup
+1984 70 away Nigeria Malawi 2 2 African Nations Cup
+1984 73 away Nigeria Algeria 0 0 African Nations Cup
+1984 76 away Nigeria Egypt 2 2 African Nations Cup
+1984 80 away Nigeria Cameroon 3 1 African Nations Cup
+1984 178 away Nigeria Canada 3 1 Friendly tournament
+1984 274 away Nigeria Tunisia 5 0 Friendly
+1984 299 home Nigeria Liberia 3 0 World Cup qualifier
+1984 314 away Nigeria Liberia 0 1 World Cup qualifier
+1985 99 away Nigeria Kenya 0 3 World Cup qualifier
+1985 113 home Nigeria Kenya 3 1 World Cup qualifier
+1985 171 home Nigeria IvoryCoast 0 0 Friendly
+1985 174 home Nigeria IvoryCoast 2 0 Friendly
+1985 178 away Nigeria IvoryCoast 1 1 Friendly
+1985 181 away Nigeria IvoryCoast 1 1 Friendly
+1985 192 home Nigeria Tunisia 1 0 World Cup qualifier
+1985 206 away Nigeria Tunisia 2 0 World Cup qualifier
+1985 227 home Nigeria Zambia 0 0 African Nations Cup qualifier
+1985 235 away Nigeria Zambia 1 0 African Nations Cup qualifier
+1986 213 home Nigeria Togo 2 2 Friendly tournament
+1986 215 away Nigeria Ghana 2 0 Friendly tournament
+1987 3 home Nigeria IvoryCoast 0 0 African Games qualifier
+1987 18 away Nigeria IvoryCoast 1 0 African Games qualifier
+1987 30 away Nigeria Liberia 2 0 West African Nations Cup
+1987 32 away Nigeria Benin 1 1 West African Nations Cup
+1987 34 home Nigeria BurkinaFaso 3 0 West African Nations Cup
+1987 37 away Nigeria Ghana 3 1 West African Nations Cup
+1987 39 home Nigeria Togo 3 1 West African Nations Cup
+1987 90 home Nigeria Togo 2 0 African Nations Cup qualifier
+1987 105 away Nigeria Togo 1 1 African Nations Cup qualifier
+1987 190 home Nigeria SierraLeone 3 0 African Nations Cup qualifier
+1987 204 away Nigeria SierraLeone 2 0 African Nations Cup qualifier
+1987 332 away Nigeria BurkinaFaso 0 0 Friendly
+1988 76 away Nigeria Kenya 0 3 African Nations Cup
+1988 79 away Nigeria Cameroon 1 1 African Nations Cup
+1988 82 away Nigeria Egypt 0 0 African Nations Cup
+1988 85 away Nigeria Algeria 1 1 African Nations Cup
+1988 89 away Nigeria Cameroon 1 0 African Nations Cup
+1989 7 home Nigeria Gabon 1 0 World Cup qualifier
+1989 22 away Nigeria Angola 2 2 World Cup qualifier
+1989 108 away Nigeria Guinea 1 1 African Nations Cup qualifier
+1989 115 home Nigeria Guinea 3 0 African Nations Cup qualifier
+1989 165 home Nigeria Cameroon 2 0 World Cup qualifier
+1989 180 away Nigeria Gabon 2 1 World Cup qualifier
+1989 202 home Nigeria Zimbabwe 3 0 African Nations Cup qualifier
+1989 216 away Nigeria Zimbabwe 1 1 African Nations Cup qualifier
+1989 229 home Nigeria Angola 1 0 World Cup qualifier
+1989 244 away Nigeria Cameroon 1 0 World Cup qualifier
+1990 25 home Nigeria IvoryCoast 2 0 Cedeao Tournament
+1990 28 home Nigeria Senegal 1 1 Cedeao Tournament
+1990 64 away Nigeria Algeria 5 1 African Nations Cup
+1990 67 away Nigeria Egypt 0 1 African Nations Cup
+1990 70 away Nigeria IvoryCoast 0 1 African Nations Cup
+1990 74 home Nigeria Zambia 2 0 African Nations Cup
+1990 78 away Nigeria Algeria 1 0 African Nations Cup
+1990 235 home Nigeria Togo 3 0 African Nations Cup qualifier
+1990 249 away Nigeria Ghana 1 0 African Nations Cup qualifier
+1990 278 away Nigeria Benin 0 1 African Nations Cup qualifier
+1991 13 away Nigeria BurkinaFaso 1 1 African Nations Cup qualifier
+1991 27 away Nigeria Togo 0 0 African Nations Cup qualifier
+1991 106 home Nigeria Ghana 0 0 African Nations Cup qualifier
+1991 120 home Nigeria Benin 3 0 African Nations Cup qualifier
+1991 213 home Nigeria BurkinaFaso 7 1 African Nations Cup qualifier
+1991 310 away Nigeria IvoryCoast 2 0 Cedeao Tournament
+1991 312 away Nigeria Ghana 1 0 Cedeao Tournament
+1992 12 away Nigeria Senegal 1 2 African Nations Cup
+1992 14 home Nigeria Kenya 2 1 African Nations Cup
+1992 19 home Nigeria Zaire 1 0 African Nations Cup
+1992 23 away Nigeria Ghana 2 1 African Nations Cup
+1992 25 home Nigeria Cameroon 2 1 African Nations Cup
+1992 53 away Nigeria Tunisia 1 1 Friendly
+1992 233 away Nigeria Sudan 0 0 African Nations Cup qualifier
+1992 247 home Nigeria Uganda 2 0 African Nations Cup qualifier
+1992 289 home Nigeria SouthAfrica 4 0 World Cup qualifier
+1992 361 away Nigeria Congo 0 1 World Cup qualifier
+1993 17 away Nigeria SouthAfrica 0 0 World Cup qualifier
+1993 58 home Nigeria Congo 2 0 World Cup qualifier
+1993 103 away Nigeria Ethiopia 1 0 African Nations Cup qualifier
+1993 117 home Nigeria Sudan 4 0 African Nations Cup qualifier
+1993 126 away Nigeria IvoryCoast 2 1 World Cup qualifier
+1993 189 home Nigeria Algeria 4 1 World Cup qualifier
+1993 203 away Nigeria Uganda 0 0 African Nations Cup qualifier
+1993 210 home Nigeria Ethiopia 6 0 African Nations Cup qualifier
+1993 273 home Nigeria IvoryCoast 4 1 World Cup qualifier
+1993 287 away Nigeria Algeria 1 1 World Cup qualifier
+1994 11 away Nigeria Thailand 1 1 King's Cup
+1994 71 home Nigeria Ghana 0 0 Friendly
+1994 88 home Nigeria Gabon 3 0 African Nations Cup
+1994 92 home Nigeria Egypt 0 0 African Nations Cup
+1994 95 home Nigeria Zaire 2 0 African Nations Cup
+1994 99 home Nigeria IvoryCoast 2 2 African Nations Cup
+1994 103 home Nigeria Zambia 2 1 African Nations Cup
+1994 110 away Nigeria Colombia 1 0 Friendly
+1994 129 away Nigeria Sweden 3 1 Friendly
+1994 149 away Nigeria Romania 2 0 Friendly
+1994 166 home Nigeria Georgia 5 1 Friendly
+1994 176 home Nigeria Bulgaria 3 0 World Cup
+1994 180 away Nigeria Argentina 2 1 World Cup
+1994 185 home Nigeria Greece 2 0 World Cup
+1994 191 away Nigeria Italy 2 1 World Cup
+1994 288 away Nigeria Senegal 3 1 Friendly
+1994 326 away Nigeria England 1 0 Friendly
+1995 6 home Nigeria Japan 3 0 Intercontinental Cup
+1995 10 home Nigeria Argentina 0 0 Intercontinental Cup
+1995 13 away Nigeria Mexico 1 1 Intercontinental Cup
+1995 166 away Nigeria UnitedStates 3 2 US Cup
+1995 172 away Nigeria Colombia 1 0 US Cup
+1995 179 away Nigeria Mexico 2 1 US Cup
+1995 300 away Nigeria Uzbekistan 2 3 Afro-Asian Championship
+1995 320 home Nigeria Uzbekistan 1 0 Afro-Asian Championship
+1996 164 home Nigeria Togo 1 3 Friendly
+1996 319 home Nigeria BurkinaFaso 2 0 World Cup qualifier
+1996 352 away Nigeria Czechia 2 1 King Hassan Cup
+1996 353 away Nigeria Morocco 2 0 King Hassan Cup
+1997 12 away Nigeria Kenya 1 1 World Cup qualifier
+1997 98 home Nigeria Guinea 2 1 World Cup qualifier
+1997 120 away Nigeria BurkinaFaso 1 2 World Cup qualifier
+1997 162 home Nigeria Kenya 3 0 World Cup qualifier
+1997 224 home Nigeria Cameroon 1 0 Friendly tournament
+1997 226 away Nigeria Tunisia 2 0 Friendly tournament
+1997 234 away Nigeria Guinea 1 0 World Cup qualifier
+1997 356 away Nigeria Zambia 2 0 Friendly
+1997 358 away Nigeria Zambia 0 0 Friendly
+1998 28 home Nigeria Iran 1 0 Carlsberg Cup
+1998 53 away Nigeria Jamaica 2 2 Friendly
+1998 115 away Nigeria Germany 1 0 Friendly
+1998 153 away Nigeria Yugoslavia 3 0 Friendly
+1998 160 away Nigeria Holland 5 1 Friendly
+1998 168 home Nigeria Spain 3 2 World Cup
+1998 174 home Nigeria Bulgaria 1 0 World Cup
+1998 179 away Nigeria Paraguay 3 1 World Cup
+1998 183 away Nigeria Denmark 4 1 World Cup
+1998 283 away Nigeria BurkinaFaso 0 0 African Nations Cup qualifier
+1999 23 home Nigeria Burundi 2 0 African Nations Cup qualifier
+1999 59 away Nigeria Senegal 1 1 African Nations Cup qualifier
+1999 234 away Nigeria Mozambique 0 1 Friendly
+1999 245 home Nigeria Ghana 0 0 Friendly
+1999 323 away Nigeria Greece 2 0 Friendly
+1999 331 away Nigeria Gabon 0 2 Friendly
+2000 23 home Nigeria Tunisia 4 2 African Nations Cup
+2000 28 home Nigeria Congo 0 0 African Nations Cup
+2000 34 home Nigeria Morocco 2 0 African Nations Cup
+2000 38 home Nigeria Senegal 2 1 African Nations Cup
+2000 41 home Nigeria SouthAfrica 2 0 African Nations Cup
+2000 44 home Nigeria Cameroon 2 2 African Nations Cup
+2000 102 away Nigeria Eritrea 0 0 World Cup qualifier
+2000 115 home Nigeria Eritrea 4 0 World Cup qualifier
+2000 159 home Nigeria Malawi 3 2 Friendly
+2000 161 home Nigeria Malawi 4 1 Friendly
+2000 172 home Nigeria SierraLeone 2 0 World Cup qualifier
+2000 195 away Nigeria Liberia 2 1 World Cup qualifier
+2000 250 home Nigeria Namibia 4 0 African Nations Cup qualifier
+2000 286 away Nigeria Madagascar 0 0 African Nations Cup qualifier
+2001 13 home Nigeria Zambia 1 0 African Nations Cup qualifier
+2001 27 home Nigeria Sudan 3 0 World Cup qualifier
+2001 73 away Nigeria Ghana 0 0 World Cup qualifier
+2001 86 away Nigeria Zambia 1 1 African Nations Cup qualifier
+2001 114 away Nigeria SierraLeone 1 0 World Cup qualifier
+2001 129 home Nigeria Liberia 2 0 World Cup qualifier
+2001 157 home Nigeria Madagascar 1 0 African Nations Cup qualifier
+2001 171 away Nigeria Namibia 0 2 African Nations Cup qualifier
+2001 187 away Nigeria Sudan 0 4 World Cup qualifier
+2001 215 home Nigeria Ghana 3 0 World Cup qualifier
+2001 261 away Nigeria SouthKorea 2 2 Friendly
+2001 264 away Nigeria SouthKorea 2 1 Friendly
+2001 286 home Nigeria Japan 2 2 Friendly
+2002 12 away Nigeria IvoryCoast 1 1 Friendly
+2002 21 home Nigeria Algeria 1 0 African Nations Cup
+2002 24 away Nigeria Mali 0 0 African Nations Cup
+2002 28 home Nigeria Liberia 1 0 African Nations Cup
+2002 34 home Nigeria Ghana 1 0 African Nations Cup
+2002 38 away Nigeria Senegal 2 1 African Nations Cup
+2002 40 away Nigeria Mali 0 1 African Nations Cup
+2002 88 home Nigeria Paraguay 1 1 Friendly
+2002 110 away Nigeria Scotland 1 2 Friendly
+2002 128 home Nigeria Kenya 3 0 Friendly
+2002 140 away Nigeria Ireland 1 2 Friendly
+2002 142 home Nigeria Jamaica 1 0 Friendly
+2002 157 away Nigeria Argentina 1 0 World Cup
+2002 162 away Nigeria Sweden 2 1 World Cup
+2002 167 home Nigeria England 0 0 World Cup
+2002 256 away Nigeria Angola 0 0 African Nations Cup qualifier
+2002 291 away Nigeria Senegal 2 2 Friendly
+2002 330 home Nigeria Jamaica 0 0 Friendly
+2002 335 home Nigeria Egypt 1 1 Friendly
+2002 356 away Nigeria Ghana 0 1 Friendly
+2003 47 away Nigeria Gambia 0 1 Friendly
+2003 91 away Nigeria Malawi 0 1 African Nations Cup qualifier
+2003 149 away Nigeria Jamaica 3 2 Friendly
+2003 154 home Nigeria Ghana 3 1 Friendly tournament
+2003 162 home Nigeria Malawi 4 1 African Nations Cup qualifier
+2003 166 home Nigeria Brazil 0 3 Friendly
+2003 176 home Nigeria Angola 2 2 African Nations Cup qualifier
+2003 212 home Nigeria Venezuela 1 0 Friendly
+2003 237 away Nigeria Japan 3 0 Friendly
+2004 27 away Nigeria Morocco 1 0 African Nations Cup
+2004 31 home Nigeria SouthAfrica 4 0 African Nations Cup
+2004 35 home Nigeria Benin 2 1 African Nations Cup
+2004 39 home Nigeria Cameroon 2 1 African Nations Cup
+2004 42 away Nigeria Tunisia 1 1 African Nations Cup
+2004 44 home Nigeria Mali 2 1 African Nations Cup
+2004 121 home Nigeria Jordan 2 0 Friendly tournament
+2004 153 home Nigeria Ireland 3 0 Friendly tournament
+2004 155 home Nigeria Jamaica 2 0 Friendly tournament
+2004 160 home Nigeria Rwanda 2 0 World Cup qualifier
+2004 175 away Nigeria Angola 1 0 World Cup qualifier
+2004 189 home Nigeria Algeria 1 0 World Cup qualifier
+2004 253 away Nigeria Zimbabwe 0 3 World Cup qualifier
+2004 288 away Nigeria Gabon 1 1 World Cup qualifier
+2004 299 away Nigeria Libya 2 1 Friendly tournament
+2004 301 away Nigeria Ecuador 2 2 Friendly tournament
+2004 327 away Nigeria SouthAfrica 2 1 Friendly
+2005 88 home Nigeria Gabon 2 0 World Cup qualifier
+2005 160 away Nigeria Rwanda 1 1 World Cup qualifier
+2005 173 home Nigeria Angola 1 1 World Cup qualifier
+2005 234 away Nigeria Libya 0 1 Friendly
+2005 252 away Nigeria Algeria 2 5 World Cup qualifier
+2005 287 home Nigeria Zimbabwe 5 1 World Cup qualifier
+2005 326 away Nigeria Romania 3 0 Friendly
+2006 23 home Nigeria Ghana 1 0 African Nations Cup
+2006 27 home Nigeria Zimbabwe 2 0 African Nations Cup
+2006 31 home Nigeria Senegal 2 1 African Nations Cup
+2006 35 home Nigeria Tunisia 1 1 African Nations Cup
+2006 38 away Nigeria IvoryCoast 1 0 African Nations Cup
+2006 40 home Nigeria Senegal 1 0 African Nations Cup
+2006 250 home Nigeria Niger 2 0 African Nations Cup qualifier
+2006 287 away Nigeria Lesotho 0 1 African Nations Cup qualifier
+2007 37 away Nigeria Ghana 4 1 Friendly
+2007 86 home Nigeria Uganda 1 0 African Nations Cup qualifier
+2007 151 away Nigeria Kenya 0 1 Friendly
+2007 157 away Nigeria Uganda 2 1 African Nations Cup qualifier
+2007 172 away Nigeria Niger 1 3 African Nations Cup qualifier
+2007 239 away Nigeria Macedonia 0 0 Friendly
+2007 256 home Nigeria Lesotho 2 0 African Nations Cup qualifier
+2007 293 away Nigeria Mexico 2 2 Friendly
+2007 327 away Nigeria Australia 1 0 Friendly
+2007 330 away Nigeria Switzerland 0 1 Friendly
+2008 9 home Nigeria Sudan 2 0 Friendly
+2008 21 away Nigeria IvoryCoast 1 0 African Nations Cup
+2008 25 away Nigeria Mali 0 0 African Nations Cup
+2008 29 home Nigeria Benin 2 0 African Nations Cup
+2008 34 away Nigeria Ghana 2 1 African Nations Cup
+2008 151 away Nigeria Austria 1 1 Friendly
+2008 156 home Nigeria SouthAfrica 2 0 World Cup qualifier
+2008 162 away Nigeria SierraLeone 0 1 World Cup qualifier
+2008 170 away Nigeria EquatorialGuinea 0 1 World Cup qualifier
+2008 176 home Nigeria EquatorialGuinea 2 0 World Cup qualifier
+2008 254 away Nigeria SouthAfrica 0 1 World Cup qualifier
+2008 290 home Nigeria SierraLeone 4 1 World Cup qualifier
+2008 329 away Nigeria Colombia 1 0 Friendly
+2009 42 away Nigeria Jamaica 0 0 Friendly
+2009 91 away Nigeria Mozambique 0 0 World Cup qualifier
+2009 153 away Nigeria Ireland 1 1 Friendly
+2009 157 away Nigeria France 0 1 Friendly
+2009 162 home Nigeria Kenya 3 0 World Cup qualifier
+2009 175 away Nigeria Tunisia 0 0 World Cup qualifier
+2009 254 home Nigeria Tunisia 2 2 World Cup qualifier
+2009 290 home Nigeria Mozambique 1 0 World Cup qualifier
+2009 324 away Nigeria Kenya 2 3 World Cup qualifier
+2010 6 home Nigeria Zambia 0 0 Friendly
+2010 12 away Nigeria Egypt 3 1 African Nations Cup
+2010 16 home Nigeria Benin 1 0 African Nations Cup
+2010 20 home Nigeria Mozambique 3 0 African Nations Cup
+2010 25 home Nigeria Zambia 0 0 African Nations Cup
+2010 28 away Nigeria Ghana 1 0 African Nations Cup
+2010 30 home Nigeria Algeria 1 0 African Nations Cup
+2010 65 home Nigeria Dem. Rep. of Congo 5 2 Friendly
+2010 149 home Nigeria SaudiArabia 0 0 Friendly
+2010 154 away Nigeria Colombia 1 1 Friendly
+2010 161 home Nigeria NorthKorea 3 1 Friendly
+2010 167 away Nigeria Argentina 1 0 World Cup
+2010 172 away Nigeria Greece 2 1 World Cup
+2010 177 home Nigeria SouthKorea 2 2 World Cup
+2010 228 away Nigeria SouthKorea 2 1 Friendly
+2010 253 home Nigeria Madagascar 2 0 African Nations Cup qualifier
+2010 289 away Nigeria Guinea 1 0 African Nations Cup qualifier
+2011 40 home Nigeria SierraLeone 2 1 Friendly
+2011 89 home Nigeria Ethiopia 4 0 African Nations Cup qualifier
+2011 91 home Nigeria Kenya 3 0 Friendly
+2011 156 home Nigeria Argentina 4 1 Friendly
+2011 160 away Nigeria Ethiopia 2 2 African Nations Cup qualifier
+2011 252 away Nigeria Madagascar 0 2 African Nations Cup qualifier
+2011 254 away Nigeria Argentina 3 1 Friendly
+2011 287 home Nigeria Guinea 2 2 African Nations Cup qualifier
+2011 290 away Nigeria Ghana 0 0 Friendly
+2011 322 home Nigeria Botswana 0 0 Friendly
+2011 325 home Nigeria Zambia 2 0 Friendly
+2012 11 home Nigeria Angola 0 0 Friendly
+2012 46 away Nigeria Liberia 0 2 Friendly
+2012 60 away Nigeria Rwanda 0 0 African Nations Cup qualifier
+2012 105 away Nigeria Egypt 3 2 Friendly
+2012 147 away Nigeria Peru 1 0 Friendly
+2012 158 home Nigeria Namibia 1 0 World Cup qualifier
+2012 164 away Nigeria Malawi 1 1 World Cup qualifier
+2012 171 home Nigeria Rwanda 2 0 African Nations Cup qualifier
+2012 232 away Nigeria Niger 0 0 Friendly
+2012 256 away Nigeria Liberia 2 2 African Nations Cup qualifier
+2012 292 home Nigeria Liberia 6 1 African Nations Cup qualifier
+2012 324 home Nigeria Venezuela 3 1 Friendly
+2013 9 away Nigeria CapeVerde 0 0 Friendly
+2013 21 away Nigeria BurkinaFaso 1 1 African Nations Cup
+2013 25 home Nigeria Zambia 1 1 African Nations Cup
+2013 29 home Nigeria Ethiopia 2 0 African Nations Cup
+2013 34 home Nigeria IvoryCoast 2 1 African Nations Cup
+2013 37 home Nigeria Mali 4 1 African Nations Cup
+2013 41 home Nigeria BurkinaFaso 1 0 African Nations Cup
+2013 85 home Nigeria Kenya 1 1 World Cup qualifier
+2013 155 away Nigeria Mexico 2 2 Friendly
+2013 160 away Nigeria Kenya 0 1 World Cup qualifier
+2013 167 away Nigeria Namibia 1 1 World Cup qualifier
+2013 172 home Nigeria Tahiti 6 1 Confederations Cup
+2013 175 away Nigeria Uruguay 2 1 Confederations Cup
+2013 178 away Nigeria Spain 3 0 Confederations Cup
+2013 231 away Nigeria SouthAfrica 0 2 Friendly
+2013 255 home Nigeria Malawi 2 0 World Cup qualifier
+2013 258 home Nigeria BurkinaFaso 4 1 Friendly
+2013 292 away Nigeria Ethiopia 1 2 World Cup qualifier
+2013 307 away Nigeria Jordan 1 0 Friendly
+2013 326 home Nigeria Ethiopia 2 0 World Cup qualifier
+2013 328 away Nigeria Italy 2 2 Friendly
+2014 67 away Nigeria Mexico 0 0 Friendly

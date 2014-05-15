@@ -1,0 +1,225 @@
+Wayne Rooney Wayne Rooney 
+Manchester United / Barclays PL 
+87	CF	76	87	83	83	59	81	3 	4 	 / 	 Right	23,000	2,064		
+Ashley Cole Ashley Cole 
+Chelsea / Barclays PL 
+85	LB	76	61	80	78	82	71	3 	2 	 / 	 Left	1,200	1,999		
+Rio Ferdinand Rio Ferdinand 
+Manchester United / Barclays PL 
+83	CB	58	43	66	60	84	78	2 	3 	 / 	 Right	800	1,666		
+John Terry John Terry 
+Chelsea / Barclays PL 
+83	CB	42	47	58	50	84	83	2 	3 	 / 	 Right	900	1,610		
+Steven Gerrard Steven Gerrard 
+Liverpool / Barclays PL 
+83	CM	67	84	86	77	73	75	3 	3 	 / 	 Right	3,700	2,085		
+Joe Hart Joe Hart 
+Manchester City / Barclays PL 
+83	GK	85	76	79	87	56	81	1 	3 	 / 	 Right	1,200	1,007		
+Leighton Baines Leighton Baines 
+Everton / Barclays PL 
+83	LB	79	74	79	79	79	72	3 	3 	 / 	 Left	1,300	2,085		
+Michael Carrick Michael Carrick 
+Manchester United / Barclays PL 
+82	CM	60	71	84	75	75	70	2 	3 	 / 	 Right	800	1,958		
+Ashley Young Ashley Young 
+Manchester United / Barclays PL 
+82	LM	88	76	75	85	44	46	4 	3 	 / 	 Right	1,400	1,863		
+Jack Wilshere Jack Wilshere 
+Arsenal / Barclays PL 
+82	CM	79	68	83	85	72	63	3 	3 	 / 	 Left	1,000	2,032		
+Daniel Sturridge Daniel Sturridge 
+Liverpool / Barclays PL 
+82	ST	90	78	67	83	45	71	4 	3 	 / 	 Left	4,000	1,869		
+Frank Lampard Frank Lampard 
+Chelsea / Barclays PL 
+81	CM	60	85	84	78	69	71	3 	4 	 / 	 Right	1,000	2,043		
+Jermain Defoe Jermain Defoe 
+Tottenham Hotspur / Barclays PL 
+81	ST	83	83	56	78	42	68	3 	3 	 / 	 Right	1,200	1,786		
+James Milner James Milner 
+Manchester City / Barclays PL 
+81	RM	70	77	84	79	73	70	3 	4 	 / 	 Right	750	2,044		
+Joleon Lescott Joleon Lescott 
+Manchester City / Barclays PL 
+81	CB	53	51	65	59	82	85	2 	3 	 / 	 Left	800	1,707		
+Theo Walcott Theo Walcott 
+Arsenal / Barclays PL 
+81	RW	96	72	71	80	46	55	3 	3 	 / 	 Right	2,100	1,803		
+Jermain Defoe Jermain Defoe 
+Toronto FC / MLS 
+81	ST	83	83	56	78	42	68	3 	3 	 / 	 Right	650	1,786		
+Phil Jagielka Phil Jagielka 
+Everton / Barclays PL 
+80	CB	67	47	68	56	81	82	2 	3 	 / 	 Right	700	1,740		
+ Aaron Lennon Aaron Lennon 
+Tottenham Hotspur / Barclays PL 	
+80	RM	92	63	71	84	43	44	3 	3 	 / 	 Right	1,000	1,735		
+Gary Cahill Gary Cahill 
+Chelsea / Barclays PL 
+80	CB	73	56	54	61	80	83	2 	3 	 / 	 Right	1,100	1,744		
+Daniel Sturridge Daniel Sturridge 
+Liverpool / Barclays PL 
+80	ST	90	77	65	83	43	70	4 	3 	 / 	 Left	3,200	1,794		
+Glen Johnson Glen Johnson 
+Liverpool / Barclays PL 
+79	RB	85	63	74	76	76	74	3 	4 	 / 	 Right	700	1,951		
+Micah Richards Micah Richards 
+Manchester City / Barclays PL 
+79	RB	81	51	69	72	81	88	2 	3 	 / 	 Right	750	1,874		
+Kyle Walker Kyle Walker 
+Tottenham Hotspur / Barclays PL 
+79	RB	92	65	70	76	78	78	3 	2 	 / 	 Right	1,400	1,992		
+Darren Bent Darren Bent 
+Fulham / Barclays PL 
+78	ST	80	78	51	66	41	74	3 	3 	 / 	 Right	650	1,667	
+Ryan Shawcross Ryan Shawcross 
+Stoke City / Barclays PL 
+78	CB	58	39	57	47	80	82	2 	3 	 / 	 Right	650	1,545		
+Kieran Gibbs Kieran Gibbs 
+Arsenal / Barclays PL 
+78	LB	84	58	74	73	78	67	3 	2 	 / 	 Left	650	1,883		
+Danny Welbeck Danny Welbeck 
+Manchester United / Barclays PL 
+78	ST	85	74	73	78	45	79	3 	3 	 / 	 Right	750	1,822		
+Tom Cleverley Tom Cleverley 
+Manchester United / Barclays PL 
+78	CAM	76	65	80	81	57	55	3 	3 	 / 	 Right	800	1,823		
+Chris Smalling Chris Smalling 
+Manchester United / Barclays PL 
+78	CB	76	28	62	61	80	75	2 	3 	 / 	 Right	750	1,542		
+Peter Crouch Peter Crouch 
+Stoke City / Barclays PL 
+77	ST	54	74	66	72	45	65	3 	3 	 / 	 Right	700	1,626		
+Andy Carroll Andy Carroll 
+West Ham United / Barclays PL 
+77	ST	73	74	61	68	60	88	2 	3 	 / 	 Left	650	1,784		
+Raheem Sterling Raheem Sterling 
+Liverpool / Barclays PL 
+77	RW	91	62	69	82	52	46	4 	3 	 / 	 Right	950	0		
+Tom Huddlestone Tom Huddlestone 
+Hull City / Barclays PL 
+76	CM	52	74	81	68	73	74	3 	5 	 / 	 Right	700	1,887		
+Raheem Sterling Raheem Sterling 
+Liverpool / Barclays PL 
+76	LW	91	60	65	81	51	45	4 	3 	 / 	 Right	2,900	1,699		
+Nathan Dyer Nathan Dyer 
+Swansea City / Barclays PL 
+75	RW	92	67	68	80	46	46	4 	3 	 / 	 Right	700	1,744		
+Andrew Johnson Andrew Johnson 
+Queens Park Rangers / FL Championship 
+74	ST	82	73	60	77	46	68	3 	3 	 / 	 Right	900	1,773		
+Grant Holt Grant Holt 
+Wigan Athletic / FL Championship 
+74	ST	54	73	62	64	59	84	2 	3 	 / 	 Right	7,500	1,748		
+Wayne Routledge Wayne Routledge 
+Swansea City / Barclays PL 
+74	LW	80	61	67	80	44	46	4 	4 	 / 	 Right	1,300	1,627		
+Jermaine Pennant Jermaine Pennant 
+Stoke City / Barclays PL 
+74	RM	80	64	74	79	46	56	3 	3 	 / 	 Right	1,500	1,732		
+Michael Turner Michael Turner 
+Norwich City / Barclays PL 
+74	CB	53	36	43	43	74	80	2 	3 	 / 	 Right	1,000	1,429		
+Kieran Richardson Kieran Richardson 
+Fulham / Barclays PL 
+74	LB	78	74	73	77	74	59	3 	3 	 / 	 Left	1,800	1,971		
+Leon Osman Leon Osman 
+Everton / Barclays PL 
+74	CM	67	74	73	82	61	66	3 	3 	 / 	 Right	1,600	1,912		
+Andy Wilkinson Andy Wilkinson 
+Stoke City / Barclays PL 
+74	RB	68	39	60	62	76	74	2 	3 	 / 	 Right	750	1,651		
+Danny Guthrie Danny Guthrie 
+Reading / FL Championship 
+74	CM	68	68	77	77	62	60	3 	3 	 / 	 Right	1,300	1,861		
+Fraser Forster Fraser Forster 
+Celtic / Scottish Prem 
+74	GK	73	76	64	79	41	76	1 	3 	 / 	 Right	2,500	881		
+Gary Hooper Gary Hooper 
+Norwich City / Barclays PL 
+74	ST	77	69	64	72	43	75	2 	2 	 / 	 Right	700	1,680		
+Jake Livermore Jake Livermore 
+Hull City / Barclays PL 
+74	CDM	67	61	73	70	72	73	2 	2 	 / 	 Right	850	1,848		
+Jonjo Shelvey Jonjo Shelvey 
+Swansea City / Barclays PL 
+74	CAM	67	68	77	71	63	58	2 	3 	 / 	 Right	1,700	1,807		
+Alex McCarthy Alex McCarthy 
+Reading / FL Championship 
+74	GK	77	71	63	80	58	73	1 	3 	 / 	 Right	1,600	990			
+Gareth Barry Gareth Barry 
+Everton / Barclays PL 
+79	CDM	45	70	82	69	80	74	2 	3 	 / 	 Left	400	1,935		
+Scott Parker Scott Parker 
+Fulham / Barclays PL 
+79	CDM	57	71	77	75	80	74	2 	3 	 / 	 Right	350	1,993		
+Michael Dawson Michael Dawson 
+Tottenham Hotspur / Barclays PL 
+79	CB	52	30	53	39	80	83	2 	3 	 / 	 Right	550	1,474		
+Adam Lallana Adam Lallana 
+Southampton / Barclays PL 
+79	CAM	77	71	77	83	58	69	4 	4 	 / 	 Right	350	0		
+Stewart Downing Stewart Downing 
+West Ham United / Barclays PL 
+78	RM	77	74	76	80	51	61	3 	3 	 / 	 Left	350	1,835		
+Ben Foster Ben Foster 
+West Bromwich Albion / Barclays PL 
+78	GK	79	77	74	82	50	77	1 	3 	 / 	 Left	350	938		
+John Ruddy John Ruddy 
+Norwich City / Barclays PL 
+78	GK	79	76	74	81	43	75	1 	3 	 / 	 Right	400	946		
+Adam Lallana Adam Lallana 
+Southampton / Barclays PL 
+78	RM	76	69	75	82	58	68	4 	4 	 / 	 Right	1,100	1,857		
+Phil Jones Phil Jones 
+Manchester United / Barclays PL 
+78	RB	73	53	71	62	79	76	2 	3 	 / 	 Right	400	1,771		
+Joe Cole Joe Cole 
+West Ham United / Barclays PL 	
+77	CAM	62	73	77	82	48	56	4 	4 	 / 	 Right	350	1,794		
+Matt Jarvis Matt Jarvis 
+West Ham United / Barclays PL 
+77	LM	87	66	75	78	49	52	3 	5 	 / 	 Right	500	1,793		
+Adam Johnson Adam Johnson 
+Sunderland / Barclays PL 
+77	RM	77	70	76	81	50	51	4 	4 	 / 	 Left	400	1,802		
+Jack Rodwell Jack Rodwell 
+Manchester City / Barclays PL 
+77	CM	72	69	76	76	74	78	3 	4 	 / 	 Right	400	1,927		
+Alex Oxlade-Chamberlain Alex Oxlade-Chamberlain 
+Arsenal / Barclays PL 
+77	RW	89	68	72	84	48	51	4 	4 	 / 	 Right	600	1,781		
+Jordan Henderson Jordan Henderson 
+Liverpool / Barclays PL 
+77	CM	75	72	77	76	71	71	3 	3 	 / 	 Right	500	1,994		
+Ross Barkley Ross Barkley 
+Everton / Barclays PL 
+77	CAM	80	67	74	80	61	66	3 	4 	 / 	 Right	450	1,874		
+Wes Brown Wes Brown 
+Sunderland / Barclays PL 
+76	CB	65	29	63	58	77	76	2 	3 	 / 	 Right	350	1,568		
+Rickie Lambert Rickie Lambert 
+Southampton / Barclays PL 
+76	ST	59	77	58	66	48	82	2 	4 	 / 	 Right	400	1,742		
+Matthew Etherington Matthew Etherington 
+Stoke City / Barclays PL 
+76	LM	75	69	79	79	52	56	3 	2 	 / 	 Left	350	1,801		
+Robert Green Robert Green 
+Queens Park Rangers / FL Championship 
+76	GK	80	71	74	82	38	72	1 	3 	 / 	 Right	500	872		
+Leon Britton Leon Britton 
+Swansea City / Barclays PL 
+76	CM	71	51	79	76	71	52	3 	3 	 / 	 Right	350	1,812		
+Steven Taylor Steven Taylor 
+Newcastle United / Barclays PL 
+76	CB	59	39	56	46	78	76	2 	3 	 / 	 Right	350	1,560		
+Lee Cattermole Lee Cattermole 
+Sunderland / Barclays PL 
+76	CDM	69	62	71	68	78	68	2 	3 	 / 	 Right	350	1,859		
+Kevin Nolan Kevin Nolan 
+West Ham United / Barclays PL 
+75	CAM	58	76	75	69	69	79	3 	3 	 / 	 Right	400	1,923		
+Bobby Zamora Bobby Zamora 
+Queens Park Rangers / FL Championship 
+75	ST	65	75	63	72	52	80	3 	3 	 / 	 Left	400	1,779	

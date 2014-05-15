@@ -1,0 +1,222 @@
+Thiago Silva Thiago Silva 
+Paris Saint-Germain / Ligue 1 
+87	CB	80	61	73	71	87	83	2 	3 	 / 	 Right	7,900	2,023		
+Diego Diego 
+VfL Wolfsburg / Bundesliga 
+84	CAM	76	78	83	87	52	62	4 	4 	 / 	 Right	1,700	1,965		
+Dani Alves Dani Alves 
+FC Barcelona / Liga BBVA 
+84	RB	90	72	81	83	79	72	4 	3 	 / 	 Right	18,000	2,111		
+Dante Dante 
+Bayern München / Bundesliga 
+84	CB	68	59	76	70	84	81	3 	3 	 / 	 Left	1,400	1,901		
+Hulk Hulk 
+Zenit St. Petersburg / Russian League 
+84	RW	86	85	79	83	60	74	4 	2 	 / 	 Left	2,800	2,039		
+Neymar Neymar 
+FC Barcelona / Liga BBVA 
+84	ST	90	80	76	92	43	58	5 	5 	 / 	 Right	148,000	1,906		
+Oscar Oscar 
+Chelsea / Barclays PL 
+84	CAM	83	75	81	86	45	52	4 	3 	 / 	 Right	2,400	1,886		
+Diego Diego 
+Atlético de Madrid / Liga BBVA 
+84	CAM	76	78	83	87	52	62	4 	4 	 / 	 Right	1,400	1,965		
+Marcelo Marcelo 
+Real Madrid / Liga BBVA 
+83	LB	82	67	80	84	81	70	3 	3 	 / 	 Left	2,200	2,058		
+Willian Willian 
+Chelsea / Barclays PL 
+83	LW	88	71	78	88	48	41	4 	4 	 / 	 Right	8,900	1,761		
+Hernanes Hernanes 
+Lazio / Serie A 
+83	CM	73	83	83	86	70	66	4 	5 	 / 	 Right	1,300	2,096		
+Hernanes Hernanes 
+Inter / Serie A 
+83	CM	73	83	83	86	70	66	4 	5 	 / 	 Right	900	2,096		
+Ronaldinho Ronaldinho 
+Atlético Mineiro / Liga do Brasil 
+82	CAM	54	77	86	87	44	60	5 	4 	 / 	 Right	1,100	1,845		
+Julio Cesar Julio Cesar 
+Queens Park Rangers / FL Championship 
+82	GK	83	77	67	86	39	82	1 	3 	 / 	 Left	1,200	991		
+Jefferson Jefferson 
+Botafogo / Liga do Brasil 	
+82	GK	81	81	70	87	52	80	1 	2 	 / 	 Left	750	915		
+Kaka Kaka 
+Milan / Serie A 
+82	CAM	70	80	79	84	42	50	4 	4 	 / 	 Right	950	1,778		
+Fred Fred 
+Fluminense / Liga do Brasil 
+82	ST	64	80	69	76	49	82	3 	4 	 / 	 Right	700	1,803		
+Filipe Luis Filipe Luis 
+Atlético de Madrid / Liga BBVA 
+82	LB	83	63	78	79	81	67	3 	3 	 / 	 Left	850	1,988		
+David Luiz David Luiz 
+Chelsea / Barclays PL 
+82	CB	77	67	74	72	79	80	3 	3 	 / 	 Right	3,100	1,975		
+Lucas Lucas 
+Paris Saint-Germain / Ligue 1 
+82	RM	92	77	78	88	53	54	4 	3 	 / 	 Right	1,900	1,942		
+Felipe Melo Felipe Melo 
+Galatasaray / Turklig 
+82	CDM	76	75	79	76	83	86	3 	3 	 / 	 Right	900	2,183		
+Julio Cesar Julio Cesar 
+Toronto FC / MLS 
+82	GK	83	77	67	86	39	82	1 	3 	 / 	 Left	900	991		
+Alex Alex 
+Coritiba / Liga do Brasil 
+81	CAM	46	80	84	82	45	65	4 	4 	 / 	 Left	650	1,817		
+Alex Alex 
+Paris Saint-Germain / Ligue 1 
+81	CB	55	65	57	57	79	86	2 	3 	 / 	 Right	900	1,750
+Fernandinho Fernandinho 
+Manchester City / Barclays PL 
+81	CM	83	76	83	81	70	54	3 	4 	 / 	 Right	800	1,997		
+Jonas Jonas 
+Valencia CF / Liga BBVA 
+81	CF	76	78	67	84	45	61	3 	4 	 / 	 Right	350	1,800		
+Luis Fabiano Luis Fabiano 
+São Paulo / Liga do Brasil 
+80	ST	68	77	59	75	45	78	3 	4 	 / 	 Right	400	1,723		
+Diego Cavalieri Diego Cavalieri 
+Fluminense / Liga do Brasil 
+80	GK	80	80	73	82	29	80	1 	2 	 / 	 Left	400	845		
+Luisao Luisao 
+SL Benfica / Liga Portuguesa 
+80	CB	39	57	63	59	80	80	2 	2 	 / 	 Right	400	1,648		
+Renato Augusto Renato Augusto 
+Corinthians / Liga do Brasil 
+80	CAM	69	75	80	82	46	64	4 	4 	 / 	 Right	400	1,812		
+Rever Rever 
+Atlético Mineiro / Liga do Brasil 
+80	CB	67	60	59	65	80	78	2 	3 	 / 	 Right	350	1,752		
+Alan Alan 
+Braga / Liga Portuguesa 
+79	RW	77	70	79	81	61	62	4 	3 	 / 	 Right	400	1,906		
+Ze Roberto Ze Roberto 
+Grêmio / Liga do Brasil 
+79	CAM	73	70	82	82	66	58	4 	2 	 / 	 Left	350	1,931		
+Jo Jo 
+Atlético Mineiro / Liga do Brasil 
+79	ST	74	75	64	75	46	82	3 	3 	 / 	 Left	400	1,752		
+Victor Victor 
+Atlético Mineiro / Liga do Brasil 
+79	GK	82	77	63	85	46	76	1 	3 	 / 	 Left	400	924		
+Alex Sandro Alex Sandro 
+FC Porto / Liga Portuguesa 
+79	LB	82	64	75	80	79	68	3 	2 	 / 	 Left	700	1,986		
+Leandro Damiao Leandro Damiao 
+Internacional / Liga do Brasil 
+79	ST	73	76	57	75	50	84	4 	2 	 / 	 Right	350	1,755		
+Juninho Juninho 
+Vasco da Gama / Liga do Brasil 
+78	CAM	56	77	83	76	57	55	3 	3 	 / 	 Right	950	1,873		
+Fabio Fabio 
+Cruzeiro / Liga do Brasil 
+78	GK	74	75	70	83	56	82	1 	3 	 / 	 Right	400	932		
+Raffael Raffael 
+Borussia Mgladbach / Bundesliga 
+78	CAM	77	73	73	82	54	67	4 	4 	 / 	 Right	450	1,871		
+Cassio Cassio 
+Corinthians / Liga do Brasil 
+78	GK	81	76	75	80	42	77	1 	3 	 / 	 Left	400	896		
+Leandro Castan Leandro Castan 
+Roma / Serie A 
+78	CB	60	44	55	52	79	78	2 	2 	 / 	 Left	350	1,580		
+Everton Ribeiro Everton Ribeiro 
+Cruzeiro / Liga do Brasil 
+78	CAM	83	69	72	84	52	58	3 	4 	 / 	 Left	350	1,813		
+Paulo Vinicius Paulo Vinicius 
+Braga / Liga Portuguesa 
+78	CB	65	51	64	58	80	84	2 	3 	 / 	 Right	350	1,718		
+Elias Elias 
+Flamengo / Liga do Brasil 
+78	CDM	80	73	72	75	77	69	3 	3 	 / 	 Right	400	2,017		
+Alex Teixeira Alex Teixeira 
+FC Shakhtar / Ukrayina Liha 
+78	CAM	79	69	75	83	70	54	3 	4 	 / 	 Right	350	1,885		
+ Douglas Costa Douglas Costa 
+FC Shakhtar / Ukrayina Liha 	
+78	CAM	85	72	73	82	55	64	4 	3 	 / 	 Left	400	1,906		
+Juan Jesus Juan Jesus 
+Inter / Serie A 
+78	CB	79	42	60	53	79	80	2 	3 	 / 	 Left	850	1,686		
+Roberto Firmino Roberto Firmino 
+1899 Hoffenheim / Bundesliga 
+78	CAM	77	72	72	82	43	71	4 	3 	 / 	 Right	650	1,777			
+Helton Helton 
+FC Porto / Liga Portuguesa 
+81	GK	83	78	76	85	64	80	1 	3 	 / 	 Right	900	1,045		
+Diego Alves Diego Alves 
+Valencia CF / Liga BBVA 
+81	GK	90	72	74	90	55	73	1 	2 	 / 	 Left	850	1,001		
+Miranda Miranda 
+Atlético de Madrid / Liga BBVA 
+81	CB	76	48	58	62	80	83	2 	3 	 / 	 Right	950	1,734		
+Lucas Leiva Lucas Leiva 
+Liverpool / Barclays PL 
+81	CDM	70	45	78	72	80	75	2 	3 	 / 	 Right	900	1,859		
+Luiz Gustavo Luiz Gustavo 
+VfL Wolfsburg / Bundesliga 
+81	CDM	75	58	76	72	83	77	2 	3 	 / 	 Left	1,000	1,922		
+Paulinho Paulinho 
+Tottenham Hotspur / Barclays PL 
+81	CM	77	73	76	78	78	81	3 	3 	 / 	 Right	1,700	2,031		
+Sandro Sandro 
+Tottenham Hotspur / Barclays PL 
+81	CDM	73	66	76	75	81	69	3 	3 	 / 	 Right	900	1,926		
+Felipe Melo Felipe Melo 
+Galatasaray / Turklig 
+80	CDM	75	75	75	76	80	80	3 	3 	 / 	 Right	1,400	2,080		
+Danilo Danilo 
+Udinese / Serie A 
+80	CB	52	44	62	56	82	79	2 	3 	 / 	 Right	750	1,636		
+Naldo Naldo 
+VfL Wolfsburg / Bundesliga 
+80	CB	74	62	61	54	81	78	2 	4 	 / 	 Right	700	1,800		
+Alexandre Pato Alexandre Pato 
+Corinthians / Liga do Brasil 
+80	ST	88	76	65	83	44	75	4 	4 	 / 	 Right	1,100	1,825		
+Lima Lima 
+SL Benfica / Liga Portuguesa 
+80	ST	82	82	71	78	53	74	3 	4 	 / 	 Right	700	1,923		
+Ramires Ramires 
+Chelsea / Barclays PL 
+80	CDM	88	68	79	81	76	72	3 	3 	 / 	 Right	2,200	2,030		
+Coutinho Coutinho 
+Liverpool / Barclays PL 
+80	CAM	83	69	78	88	41	50	4 	4 	 / 	 Right	850	1,797		
+Bernard Bernard 
+FC Shakhtar / Ukrayina Liha 
+80	CAM	91	71	76	86	43	50	5 	4 	 / 	 Right	750	1,803		
+Alexandre Pato Alexandre Pato 
+São Paulo / Liga do Brasil 
+80	ST	88	76	65	83	44	75	4 	4 	 / 	 Right	900	1,825		
+Artur Moraes Artur Moraes 
+SL Benfica / Liga Portuguesa 
+79	GK	78	80	70	78	45	84	1 	3 	 / 	 Right	750	971		
+Fernando Fernando 
+FC Porto / Liga Portuguesa 
+79	CDM	69	59	69	71	83	73	2 	2 	 / 	 Right	650	1,898		
+Maicon Maicon 
+FC Porto / Liga Portuguesa 
+79	CB	62	51	62	58	80	83	2 	3 	 / 	 Right	650	1,731		
+Maicon Maicon 
+Roma / Serie A 
+78	RB	79	73	79	74	79	77	3 	3 	 / 	 Right	900	2,061		
+Jadson Jadson 
+São Paulo / Liga do Brasil 
+78	CAM	79	74	80	81	44	55	5 	4 	 / 	 Right	900	1,822		
+Alex Alex 
+Internacional / Liga do Brasil 
+78	CAM	63	77	79	78	54	59	5 	4 	 / 	 Left	650	1,878		
+Andre Dias Andre Dias 
+Lazio / Serie A 
+78	CB	55	51	56	51	81	78	2 	3 	 / 	 Right	650	1,637		
+Weligton Weligton 
+Málaga CF / Liga BBVA 
+78	CB	61	38	54	49	81	76	2 	3 	 / 	 Left	650	1,534		
+Dede Dede 
+Cruzeiro / Liga do Brasil 
+78	CB	68	49	70	62	78	82	2 	2 	 / 	 Right	800	1,743	

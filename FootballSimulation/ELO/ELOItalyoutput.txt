@@ -1,0 +1,750 @@
+1910 139 home Italy France 6 2 Friendly
+1910 150 away Italy Hungary 6 1 Friendly
+1911 6 home Italy Hungary 0 1 Friendly
+1911 102 away Italy France 2 2 Friendly
+1911 131 home Italy Switzerland 2 2 Friendly
+1911 145 away Italy Switzerland 3 0 Friendly
+1912 79 home Italy France 3 4 Friendly
+1912 184 away Italy Finland 3 2 Olympic Games
+1912 187 away Italy Sweden 0 1 Olympic Games Consolation Tournament
+1912 189 away Italy Austria 5 1 Olympic Games Consolation Tournament
+1912 363 home Italy Austria 1 3 Friendly
+1913 12 away Italy France 1 0 Friendly
+1913 125 home Italy Belgium 1 0 Friendly
+1913 170 away Italy Austria 2 0 Friendly
+1914 11 home Italy Austria 0 0 Friendly
+1914 91 home Italy France 2 0 Friendly
+1914 98 home Italy Switzerland 1 1 Friendly
+1914 141 away Italy Switzerland 0 1 Friendly
+1915 31 home Italy Switzerland 3 1 Friendly
+1920 18 home Italy France 9 4 Friendly
+1920 90 away Italy Switzerland 3 0 Friendly
+1920 137 home Italy Holland 1 1 Friendly
+1920 245 home Italy Egypt 2 1 Olympic Games
+1920 246 away Italy France 3 1 Olympic Games
+1920 248 home Italy Norway 2 1 Olympic Games
+1920 250 away Italy Spain 2 0 Olympic Games
+1921 51 away Italy France 1 2 Friendly
+1921 68 home Italy Switzerland 2 1 Friendly
+1921 129 away Italy Belgium 2 3 Friendly
+1921 132 away Italy Holland 2 2 Friendly
+1921 316 away Italy Switzerland 1 1 Friendly
+1922 15 home Italy Austria 3 3 Friendly
+1922 57 home Italy Czechoslovakia 1 1 Friendly
+1922 145 home Italy Belgium 4 2 Friendly
+1922 344 home Italy Switzerland 2 2 Friendly
+1923 1 home Italy Germany 3 1 Friendly
+1923 66 home Italy Hungary 0 0 Friendly
+1923 108 away Italy Austria 0 0 Friendly
+1923 151 away Italy Czechoslovakia 5 1 Friendly
+1924 20 home Italy Austria 0 4 Friendly
+1924 71 home Italy Spain 0 0 Friendly
+1924 99 away Italy Hungary 7 1 Friendly
+1924 149 home Italy Spain 1 0 Olympic Games
+1924 153 home Italy Luxembourg 2 0 Olympic Games
+1924 157 away Italy Switzerland 2 1 Olympic Games
+1924 326 home Italy Sweden 2 2 Friendly
+1924 333 away Italy Germany 0 1 Friendly
+1925 18 home Italy Hungary 1 2 Friendly
+1925 84 home Italy France 7 0 Friendly
+1925 169 away Italy Spain 1 0 Friendly
+1925 173 away Italy Portugal 1 0 Friendly
+1925 314 home Italy Yugoslavia 2 1 Friendly
+1925 318 away Italy Hungary 1 1 Friendly
+1926 17 home Italy Czechoslovakia 3 1 Friendly
+1926 83 home Italy Ireland 3 0 Friendly
+1926 111 away Italy Switzerland 1 1 Friendly
+1926 133 home Italy Switzerland 3 2 Friendly
+1926 204 away Italy Sweden 5 3 Friendly
+1926 307 away Italy Czechoslovakia 3 1 Friendly
+1927 30 away Italy Switzerland 1 5 Friendly
+1927 51 home Italy Czechoslovakia 2 2 Friendly
+1927 110 home Italy Portugal 3 1 Friendly
+1927 117 away Italy France 3 3 Friendly
+1927 153 home Italy Spain 2 0 Friendly
+1927 302 away Italy Czechoslovakia 2 2 Dr. Gero International Cup
+1927 316 home Italy Austria 0 1 Dr. Gero International Cup
+1928 1 home Italy Switzerland 3 2 Dr. Gero International Cup
+1928 87 home Italy Hungary 4 3 Dr. Gero International Cup
+1928 108 away Italy Portugal 4 1 Friendly
+1928 115 away Italy Spain 1 1 Friendly
+1928 153 home Italy France 4 3 Olympic Games
+1928 156 home Italy Spain 1 1 Olympic Games
+1928 159 home Italy Spain 7 1 Olympic Games
+1928 162 away Italy Uruguay 3 2 Olympic Games
+1928 165 home Italy Egypt 11 3 Olympic Games
+1928 293 away Italy Switzerland 2 3 Dr. Gero International Cup
+1928 321 home Italy Austria 2 2 Friendly
+1928 343 home Italy Holland 3 2 Friendly
+1929 65 home Italy Czechoslovakia 4 2 Dr. Gero International Cup
+1929 100 away Italy Austria 3 0 Dr. Gero International Cup
+1929 121 home Italy Germany 1 2 Friendly
+1929 342 home Italy Portugal 6 1 Friendly
+1930 40 home Italy Switzerland 4 2 Friendly
+1930 64 away Italy Germany 0 2 Friendly
+1930 99 away Italy Holland 1 1 Friendly
+1930 135 away Italy Hungary 0 5 Dr. Gero International Cup
+1930 177 home Italy Spain 2 3 Friendly
+1931 25 home Italy France 5 0 Friendly
+1931 53 home Italy Austria 2 1 Dr. Gero International Cup
+1931 91 away Italy Switzerland 1 1 Dr. Gero International Cup
+1931 105 away Italy Portugal 0 2 Friendly
+1931 112 away Italy Spain 0 0 Friendly
+1931 144 home Italy Scotland 3 0 Friendly
+1931 325 home Italy Czechoslovakia 2 2 Dr. Gero International Cup
+1931 354 home Italy Hungary 3 2 Dr. Gero International Cup
+1932 45 home Italy Switzerland 3 0 Dr. Gero International Cup
+1932 82 away Italy Austria 2 1 Dr. Gero International Cup
+1932 103 away Italy France 1 2 Friendly
+1932 132 away Italy Hungary 1 1 Dr. Gero International Cup
+1932 307 away Italy Czechoslovakia 2 1 Dr. Gero International Cup
+1932 337 home Italy Hungary 4 2 Friendly
+1933 1 home Italy Germany 3 1 Friendly
+1933 43 away Italy Belgium 2 3 Friendly
+1933 95 away Italy Switzerland 0 3 Dr. Gero International Cup
+1933 131 home Italy Czechoslovakia 2 0 Dr. Gero International Cup
+1933 137 home Italy England 1 1 Friendly
+1933 301 away Italy Hungary 0 1 Dr. Gero International Cup
+1933 344 home Italy Switzerland 5 2 Dr. Gero International Cup
+1934 42 home Italy Austria 2 4 Dr. Gero International Cup
+1934 87 home Italy Greece 4 0 World Cup qualifier
+1934 151 home Italy UnitedStates 7 1 World Cup
+1934 155 home Italy Spain 1 1 World Cup
+1934 156 home Italy Spain 1 0 World Cup
+1934 158 home Italy Austria 1 0 World Cup
+1934 165 home Italy Czechoslovakia 2 1 World Cup
+1934 324 away Italy England 3 2 Friendly
+1934 350 home Italy Hungary 4 2 Friendly
+1935 48 home Italy France 2 1 Friendly
+1935 86 away Italy Austria 0 2 Dr. Gero International Cup
+1935 306 away Italy Czechoslovakia 2 1 Dr. Gero International Cup
+1935 334 home Italy Hungary 2 2 Dr. Gero International Cup
+1936 98 away Italy Switzerland 1 2 Friendly
+1936 141 home Italy Austria 2 2 Friendly
+1936 155 away Italy Hungary 1 2 Friendly
+1936 220 home Italy UnitedStates 1 0 Olympic Games
+1936 224 home Italy Japan 8 0 Olympic Games
+1936 227 home Italy Norway 2 1 Olympic Games
+1936 232 home Italy Austria 2 1 Olympic Games
+1936 304 home Italy Switzerland 4 2 Dr. Gero International Cup
+1936 325 away Italy Germany 2 2 Friendly
+1936 354 home Italy Czechoslovakia 2 0 Friendly
+1937 83 away Italy Austria 2 0 Friendly
+1937 118 home Italy Hungary 2 0 Dr. Gero International Cup
+1937 147 away Italy Czechoslovakia 0 1 Dr. Gero International Cup
+1937 151 away Italy Norway 1 3 Friendly
+1937 310 away Italy Switzerland 2 2 Dr. Gero International Cup
+1937 346 away Italy France 0 0 Friendly
+1938 139 home Italy Belgium 6 1 Friendly
+1938 146 home Italy Yugoslavia 4 0 Friendly
+1938 160 home Italy Norway 2 1 World Cup
+1938 167 away Italy France 1 3 World Cup
+1938 171 home Italy Brazil 2 1 World Cup
+1938 174 home Italy Hungary 4 2 World Cup
+1938 330 home Italy Switzerland 2 0 Friendly
+1938 345 home Italy France 1 0 Friendly
+1939 88 home Italy Germany 3 2 Friendly
+1939 137 home Italy England 2 2 Friendly
+1939 159 away Italy Yugoslavia 1 2 Friendly
+1939 163 away Italy Hungary 1 3 Friendly
+1939 166 away Italy Romania 0 1 Friendly
+1939 206 away Italy Finland 2 3 Friendly
+1939 322 away Italy Switzerland 3 1 Friendly
+1939 336 away Italy Germany 5 2 Friendly
+1940 65 home Italy Switzerland 1 1 Friendly
+1940 107 home Italy Romania 2 1 Friendly
+1940 129 home Italy Germany 3 2 Friendly
+1940 342 home Italy Hungary 1 1 Friendly
+1942 98 home Italy Croatia 4 0 Friendly
+1942 112 home Italy Spain 4 0 Friendly
+1945 321 away Italy Switzerland 4 4 Friendly
+1946 342 home Italy Austria 3 2 Friendly
+1947 120 home Italy Switzerland 5 2 Friendly
+1947 135 home Italy Hungary 3 2 Friendly
+1947 319 away Italy Austria 5 1 Friendly
+1947 355 home Italy Czechoslovakia 3 1 Friendly
+1948 97 away Italy France 1 3 Friendly
+1948 140 home Italy England 0 4 Friendly
+1949 58 home Italy Portugal 4 1 Friendly
+1949 89 away Italy Spain 1 3 Friendly
+1949 146 home Italy Austria 3 1 Dr. Gero International Cup
+1949 167 away Italy Hungary 1 1 Dr. Gero International Cup
+1949 340 away Italy England 2 0 Friendly
+1950 67 home Italy Belgium 3 1 Friendly
+1950 95 away Italy Austria 1 0 Dr. Gero International Cup
+1950 180 away Italy Sweden 3 2 World Cup
+1950 188 home Italy Paraguay 2 0 World Cup
+1951 101 away Italy Portugal 1 4 Friendly
+1951 130 home Italy Yugoslavia 0 0 Friendly
+1951 158 home Italy France 4 1 Friendly
+1951 321 home Italy Sweden 1 1 Friendly
+1951 335 away Italy Switzerland 1 1 Dr. Gero International Cup
+1952 55 away Italy Belgium 2 0 Friendly
+1952 142 home Italy England 1 1 Friendly
+1952 305 away Italy Sweden 1 1 Friendly
+1952 369 home Italy Switzerland 2 0 Dr. Gero International Cup
+1953 119 away Italy Czechoslovakia 2 0 Dr. Gero International Cup
+1953 141 home Italy Hungary 0 3 Dr. Gero International Cup
+1953 323 away Italy Egypt 1 2 World Cup qualifier
+1953 354 home Italy Czechoslovakia 3 0 Dr. Gero International Cup
+1954 24 home Italy Egypt 5 1 World Cup qualifier
+1954 104 away Italy France 1 3 Friendly
+1954 172 away Italy Switzerland 2 1 World Cup
+1954 175 home Italy Belgium 4 1 World Cup
+1954 178 away Italy Switzerland 4 1 World Cup
+1954 346 home Italy Argentina 2 0 Friendly
+1955 16 home Italy Belgium 1 0 Friendly
+1955 92 away Italy Germany 1 2 Friendly
+1955 153 home Italy Yugoslavia 0 4 Dr. Gero International Cup
+1955 337 away Italy Hungary 2 0 Dr. Gero International Cup
+1955 359 home Italy Germany 2 1 Friendly
+1956 46 home Italy France 2 0 Friendly
+1956 118 home Italy Brazil 3 0 Friendly
+1956 179 away Italy Argentina 1 0 Friendly
+1956 187 away Italy Brazil 2 0 Friendly
+1956 321 away Italy Switzerland 1 1 Dr. Gero International Cup
+1956 350 home Italy Austria 2 1 Dr. Gero International Cup
+1957 118 home Italy NorthernIreland 1 0 World Cup qualifier
+1957 136 away Italy Yugoslavia 6 1 Dr. Gero International Cup
+1957 150 away Italy Portugal 3 0 World Cup qualifier
+1957 345 away Italy NorthernIreland 2 2 Friendly
+1957 363 home Italy Portugal 3 0 World Cup qualifier
+1958 15 away Italy NorthernIreland 2 1 World Cup qualifier
+1958 85 away Italy Austria 3 2 Dr. Gero International Cup
+1958 319 away Italy France 2 2 Friendly
+1958 354 home Italy Czechoslovakia 1 1 Dr. Gero International Cup
+1959 59 home Italy Spain 1 1 Friendly
+1959 130 away Italy England 2 2 Friendly
+1959 311 away Italy Czechoslovakia 2 1 Dr. Gero International Cup
+1959 339 home Italy Hungary 1 1 Dr. Gero International Cup
+1960 6 home Italy Switzerland 3 0 Dr. Gero International Cup
+1960 75 away Italy Spain 3 1 Friendly
+1960 351 home Italy Austria 1 2 Friendly
+1961 118 home Italy NorthernIreland 3 2 Friendly
+1961 148 home Italy England 2 3 Friendly
+1961 170 home Italy Argentina 4 1 Friendly
+1961 294 away Italy Israel 2 4 World Cup qualifier
+1961 314 home Italy Israel 6 0 World Cup qualifier
+1962 129 home Italy France 2 1 Friendly
+1962 137 away Italy Belgium 1 3 Friendly
+1962 155 home Italy Germany 0 0 World Cup
+1962 157 away Italy Chile 2 0 World Cup
+1962 162 home Italy Switzerland 3 0 World Cup
+1962 321 away Italy Austria 1 2 Friendly
+1962 343 home Italy Turkey 6 0 European Cup qualifier
+1963 89 away Italy Turkey 0 1 European Cup qualifier
+1963 136 home Italy Brazil 3 0 Friendly
+1963 164 away Italy Austria 0 1 Friendly
+1963 292 away Italy SovietUnion 2 0 European Cup qualifier
+1963 320 home Italy SovietUnion 1 1 European Cup qualifier
+1963 355 home Italy Austria 1 0 Friendly
+1964 104 home Italy Czechoslovakia 0 0 Friendly
+1964 134 away Italy Switzerland 1 3 Friendly
+1964 314 home Italy Finland 6 1 World Cup qualifier
+1964 346 home Italy Denmark 3 1 Friendly
+1965 75 away Italy Germany 1 1 Friendly
+1965 111 away Italy Poland 0 0 World Cup qualifier
+1965 125 home Italy Wales 4 1 Friendly
+1965 171 away Italy Sweden 2 2 Friendly
+1965 178 away Italy Finland 0 2 World Cup qualifier
+1965 182 away Italy Hungary 2 1 Friendly
+1965 311 home Italy Poland 6 1 World Cup qualifier
+1965 319 away Italy Scotland 1 0 World Cup qualifier
+1965 348 home Italy Scotland 3 0 World Cup qualifier
+1966 81 away Italy France 0 0 Friendly
+1966 169 home Italy Bulgaria 6 1 Friendly
+1966 173 home Italy Austria 1 0 Friendly
+1966 177 home Italy Argentina 3 0 Friendly
+1966 184 home Italy Mexico 5 0 Friendly
+1966 199 home Italy Chile 2 0 World Cup
+1966 202 away Italy SovietUnion 1 0 World Cup
+1966 205 away Italy NorthKorea 1 0 World Cup
+1966 311 home Italy SovietUnion 1 0 Friendly
+1966 336 home Italy Romania 3 1 European Cup qualifier
+1967 84 away Italy Cyprus 0 2 European Cup qualifier
+1967 89 home Italy Portugal 1 1 Friendly
+1967 180 away Italy Romania 0 1 European Cup qualifier
+1967 311 home Italy Cyprus 5 0 European Cup qualifier
+1967 328 away Italy Switzerland 2 2 European Cup qualifier
+1967 364 home Italy Switzerland 4 0 European Cup qualifier
+1968 99 away Italy Bulgaria 3 2 European Cup qualifier
+1968 113 home Italy Bulgaria 2 0 European Cup qualifier
+1968 160 home Italy SovietUnion 0 0 European Cup
+1968 163 home Italy Yugoslavia 1 1 European Cup
+1968 165 home Italy Yugoslavia 2 0 European Cup
+1968 302 away Italy Wales 0 1 World Cup qualifier
+1969 1 away Italy Mexico 2 3 Friendly
+1969 5 away Italy Mexico 1 1 Friendly
+1969 91 away Italy EastGermany 2 2 World Cup qualifier
+1969 148 home Italy Bulgaria 0 0 Friendly
+1969 314 home Italy Wales 4 1 World Cup qualifier
+1969 332 home Italy EastGermany 3 0 World Cup qualifier
+1970 52 away Italy Spain 2 2 Friendly
+1970 134 away Italy Portugal 1 2 Friendly
+1970 158 home Italy Sweden 1 0 World Cup
+1970 161 home Italy Uruguay 0 0 World Cup
+1970 166 away Italy Israel 0 0 World Cup
+1970 169 away Italy Mexico 1 4 World Cup
+1970 172 home Italy Germany 4 3 World Cup
+1970 176 away Italy Brazil 4 1 World Cup
+1970 296 away Italy Switzerland 1 1 Friendly
+1970 310 away Italy Austria 1 2 European Cup qualifier
+1970 349 home Italy Ireland 3 0 European Cup qualifier
+1971 51 home Italy Spain 1 2 Friendly
+1971 134 away Italy Ireland 1 2 European Cup qualifier
+1971 164 away Italy Sweden 0 0 European Cup qualifier
+1971 273 home Italy Mexico 2 0 Friendly
+1971 288 home Italy Sweden 3 0 European Cup qualifier
+1971 330 home Italy Austria 2 2 European Cup qualifier
+1972 66 away Italy Greece 2 1 Friendly
+1972 122 home Italy Belgium 0 0 European Cup qualifier
+1972 137 away Italy Belgium 2 1 European Cup qualifier
+1972 172 away Italy Romania 3 3 Friendly
+1972 176 away Italy Bulgaria 1 1 Friendly
+1972 268 home Italy Yugoslavia 3 1 Friendly
+1972 286 away Italy Luxembourg 0 4 World Cup qualifier
+1972 300 away Italy Switzerland 0 0 World Cup qualifier
+1973 13 home Italy Turkey 0 0 World Cup qualifier
+1973 56 away Italy Turkey 0 1 World Cup qualifier
+1973 93 home Italy Luxembourg 5 0 World Cup qualifier
+1973 164 home Italy Brazil 2 0 Friendly
+1973 169 home Italy England 2 0 Friendly
+1973 277 home Italy Sweden 2 0 Friendly
+1973 299 home Italy Switzerland 2 0 World Cup qualifier
+1973 324 away Italy England 0 1 Friendly
+1974 57 home Italy Germany 0 0 Friendly
+1974 163 away Italy Austria 0 0 Friendly
+1974 170 home Italy Haiti 3 1 World Cup
+1974 174 away Italy Argentina 1 1 World Cup
+1974 178 away Italy Poland 2 1 World Cup
+1974 276 away Italy Yugoslavia 1 0 Friendly
+1974 330 away Italy Holland 3 1 European Cup qualifier
+1974 370 home Italy Bulgaria 0 0 Friendly
+1975 112 home Italy Poland 0 0 European Cup qualifier
+1975 160 away Italy Finland 0 1 European Cup qualifier
+1975 163 away Italy SovietUnion 1 0 Friendly
+1975 275 home Italy Finland 0 0 European Cup qualifier
+1975 305 away Italy Poland 0 0 European Cup qualifier
+1975 332 home Italy Holland 1 0 European Cup qualifier
+1975 371 home Italy Greece 3 2 Friendly
+1976 100 home Italy Portugal 3 1 Friendly
+1976 152 away Italy England 3 2 Friendly
+1976 155 away Italy Brazil 4 1 Friendly
+1976 160 home Italy Romania 4 2 Friendly
+1976 270 away Italy Denmark 0 1 Friendly
+1976 273 home Italy Yugoslavia 3 0 Friendly
+1976 295 away Italy Luxembourg 1 4 World Cup qualifier
+1976 327 home Italy England 2 0 World Cup qualifier
+1976 363 away Italy Portugal 2 1 Friendly
+1977 26 home Italy Belgium 2 1 Friendly
+1977 163 away Italy Finland 0 3 World Cup qualifier
+1977 287 away Italy Germany 2 1 Friendly
+1977 294 home Italy Finland 6 1 World Cup qualifier
+1977 326 away Italy England 2 0 World Cup qualifier
+1977 344 home Italy Luxembourg 3 0 World Cup qualifier
+1977 362 away Italy Belgium 0 1 Friendly
+1978 25 away Italy Spain 2 1 Friendly
+1978 39 home Italy France 2 2 Friendly
+1978 142 home Italy Yugoslavia 0 0 Friendly
+1978 157 home Italy France 2 1 World Cup
+1978 161 home Italy Hungary 3 1 World Cup
+1978 165 away Italy Argentina 0 1 World Cup
+1978 169 home Italy Germany 0 0 World Cup
+1978 173 home Italy Austria 1 0 World Cup
+1978 176 away Italy Holland 2 1 World Cup
+1978 179 away Italy Brazil 2 1 World Cup
+1978 268 home Italy Bulgaria 1 0 Friendly
+1978 271 home Italy Turkey 1 0 Friendly
+1978 318 away Italy Czechoslovakia 3 0 Friendly
+1978 362 home Italy Spain 1 0 Friendly
+1979 55 home Italy Holland 3 0 Friendly
+1979 150 home Italy Argentina 2 2 Friendly
+1979 168 away Italy Yugoslavia 4 1 Friendly
+1979 274 home Italy Sweden 1 0 Friendly
+1979 327 home Italy Switzerland 2 0 Friendly
+1980 47 home Italy Romania 2 1 Friendly
+1980 77 home Italy Uruguay 1 0 Friendly
+1980 112 home Italy Poland 2 2 Friendly
+1980 167 home Italy Spain 0 0 European Cup
+1980 170 home Italy England 1 0 European Cup
+1980 173 home Italy Belgium 0 0 European Cup
+1980 176 home Italy Czechoslovakia 1 1 European Cup
+1980 272 home Italy Portugal 3 1 Friendly
+1980 290 away Italy Luxembourg 0 2 World Cup qualifier
+1980 311 home Italy Denmark 2 0 World Cup qualifier
+1980 325 home Italy Yugoslavia 2 0 World Cup qualifier
+1980 347 away Italy Greece 0 2 World Cup qualifier
+1981 3 away Italy Uruguay 2 0 Mundialito
+1981 6 home Italy Holland 1 1 Mundialito
+1981 112 home Italy EastGermany 0 0 Friendly
+1981 158 away Italy Denmark 3 1 World Cup qualifier
+1981 271 home Italy Bulgaria 3 2 Friendly
+1981 296 away Italy Yugoslavia 1 1 World Cup qualifier
+1981 324 home Italy Greece 1 1 World Cup qualifier
+1981 346 home Italy Luxembourg 1 0 World Cup qualifier
+1982 54 away Italy France 2 0 Friendly
+1982 107 away Italy EastGermany 1 0 Friendly
+1982 152 away Italy Switzerland 1 1 Friendly
+1982 169 home Italy Poland 0 0 World Cup
+1982 173 home Italy Peru 1 1 World Cup
+1982 178 away Italy Cameroon 1 1 World Cup
+1982 184 home Italy Argentina 2 1 World Cup
+1982 191 home Italy Brazil 3 2 World Cup
+1982 194 home Italy Poland 2 0 World Cup
+1982 197 home Italy Germany 3 1 World Cup
+1982 306 home Italy Switzerland 0 1 Friendly
+1982 323 home Italy Czechoslovakia 2 2 European Cup qualifier
+1982 345 home Italy Romania 0 0 European Cup qualifier
+1983 43 away Italy Cyprus 1 1 European Cup qualifier
+1983 109 away Italy Romania 1 0 European Cup qualifier
+1983 153 away Italy Sweden 2 0 European Cup qualifier
+1983 284 home Italy Greece 3 0 Friendly
+1983 294 home Italy Sweden 0 3 European Cup qualifier
+1983 326 away Italy Czechoslovakia 2 0 European Cup qualifier
+1983 363 home Italy Cyprus 3 1 European Cup qualifier
+1984 35 home Italy Mexico 5 0 Friendly
+1984 65 away Italy Turkey 1 2 Friendly
+1984 100 home Italy Czechoslovakia 1 1 Friendly
+1984 146 away Italy Germany 1 0 Friendly
+1984 150 away Italy Canada 0 2 Friendly
+1984 154 away Italy UnitedStates 0 0 Friendly
+1984 274 home Italy Sweden 1 0 Friendly
+1984 313 away Italy Switzerland 1 1 Friendly
+1984 349 home Italy Poland 2 0 Friendly
+1985 36 away Italy Ireland 1 2 Friendly
+1985 75 away Italy Greece 0 0 Friendly
+1985 96 home Italy Portugal 2 0 Friendly
+1985 157 away Italy Mexico 1 1 Copa Ciudad de Mexico
+1985 161 home Italy England 2 1 Copa Ciudad de Mexico
+1985 273 home Italy Norway 1 2 Friendly
+1985 326 away Italy Poland 1 0 Friendly
+1986 36 home Italy Germany 1 2 Friendly
+1986 88 home Italy Austria 2 1 Friendly
+1986 135 home Italy China 2 0 Friendly
+1986 155 away Italy Bulgaria 1 1 World Cup
+1986 160 away Italy Argentina 1 1 World Cup
+1986 165 home Italy SouthKorea 3 2 World Cup
+1986 172 away Italy France 2 0 World Cup
+1986 287 home Italy Greece 2 0 Friendly
+1986 325 home Italy Switzerland 3 2 European Cup qualifier
+1986 347 away Italy Malta 0 2 European Cup qualifier
+1987 24 home Italy Malta 5 0 European Cup qualifier
+1987 45 away Italy Portugal 0 1 European Cup qualifier
+1987 111 away Italy Germany 0 0 Friendly
+1987 152 away Italy Norway 0 0 Friendly
+1987 158 away Italy Sweden 1 0 European Cup qualifier
+1987 165 home Italy Argentina 3 1 Friendly
+1987 271 home Italy Yugoslavia 1 0 Friendly
+1987 296 away Italy Switzerland 0 0 European Cup qualifier
+1987 324 home Italy Sweden 2 1 European Cup qualifier
+1987 346 home Italy Portugal 3 0 European Cup qualifier
+1988 51 home Italy SovietUnion 4 1 Friendly
+1988 93 away Italy Yugoslavia 1 1 Friendly
+1988 120 away Italy Luxembourg 0 3 Friendly
+1988 159 home Italy Wales 0 1 Friendly
+1988 165 away Italy Germany 1 1 European Cup
+1988 169 home Italy Spain 1 0 European Cup
+1988 172 away Italy Denmark 0 2 European Cup
+1988 177 home Italy SovietUnion 0 2 European Cup
+1988 298 home Italy Norway 2 1 Friendly
+1988 326 home Italy Holland 1 0 Friendly
+1988 363 home Italy Scotland 2 0 Friendly
+1989 53 home Italy Denmark 1 0 Friendly
+1989 87 away Italy Austria 0 1 Friendly
+1989 91 away Italy Romania 1 0 Friendly
+1989 115 home Italy Uruguay 1 1 Friendly
+1989 119 home Italy Hungary 4 0 Friendly
+1989 268 home Italy Bulgaria 4 0 Friendly
+1989 293 home Italy Brazil 0 1 Friendly
+1989 321 home Italy Algeria 1 0 Friendly
+1989 325 away Italy England 0 0 Friendly
+1989 362 home Italy Argentina 0 0 Friendly
+1990 52 away Italy Holland 0 0 Friendly
+1990 93 away Italy Switzerland 0 1 Friendly
+1990 154 home Italy Greece 0 0 Friendly
+1990 164 home Italy Austria 1 0 World Cup
+1990 169 home Italy UnitedStates 1 0 World Cup
+1990 174 home Italy Czechoslovakia 2 0 World Cup
+1990 180 home Italy Uruguay 2 0 World Cup
+1990 185 home Italy Ireland 1 0 World Cup
+1990 189 home Italy Argentina 1 1 World Cup
+1990 193 home Italy England 2 1 World Cup
+1990 274 home Italy Holland 1 0 Friendly
+1990 296 away Italy Hungary 1 1 European Cup qualifier
+1990 313 home Italy SovietUnion 0 0 European Cup qualifier
+1990 363 away Italy Cyprus 0 4 European Cup qualifier
+1991 44 home Italy Belgium 0 0 Friendly
+1991 125 home Italy Hungary 3 1 European Cup qualifier
+1991 160 away Italy Norway 2 1 European Cup qualifier
+1991 167 home Italy Denmark 2 0 Friendly tournament
+1991 171 home Italy SovietUnion 1 1 Friendly tournament
+1991 273 away Italy Bulgaria 2 1 Friendly
+1991 291 away Italy SovietUnion 0 0 European Cup qualifier
+1991 323 home Italy Norway 1 1 European Cup qualifier
+1991 362 home Italy Cyprus 2 0 European Cup qualifier
+1992 50 home Italy SanMarino 4 0 Friendly
+1992 87 home Italy Germany 1 0 Friendly
+1992 155 home Italy Portugal 0 0 US Cup
+1992 159 home Italy Ireland 2 0 US Cup
+1992 161 away Italy UnitedStates 1 1 US Cup
+1992 257 away Italy Holland 2 3 Friendly
+1992 293 home Italy Switzerland 2 2 World Cup qualifier
+1992 328 away Italy Scotland 0 0 World Cup qualifier
+1992 360 away Italy Malta 1 2 World Cup qualifier
+1993 20 home Italy Mexico 2 0 Friendly
+1993 55 away Italy Portugal 1 3 World Cup qualifier
+1993 86 home Italy Malta 6 1 World Cup qualifier
+1993 107 home Italy Estonia 2 0 World Cup qualifier
+1993 125 away Italy Switzerland 1 0 World Cup qualifier
+1993 270 away Italy Estonia 0 3 World Cup qualifier
+1993 292 home Italy Scotland 3 1 World Cup qualifier
+1993 327 home Italy Portugal 1 0 World Cup qualifier
+1994 47 home Italy France 0 1 Friendly
+1994 85 away Italy Germany 2 1 Friendly
+1994 151 home Italy Finland 2 0 Friendly
+1994 158 home Italy Switzerland 1 0 Friendly
+1994 166 home Italy CostaRica 1 0 Friendly
+1994 173 away Italy Ireland 1 0 World Cup
+1994 178 home Italy Norway 1 0 World Cup
+1994 183 away Italy Mexico 1 1 World Cup
+1994 191 home Italy Nigeria 2 1 World Cup
+1994 195 home Italy Spain 2 1 World Cup
+1994 199 home Italy Bulgaria 2 1 World Cup
+1994 203 away Italy Brazil 0 0 World Cup
+1994 255 away Italy Slovenia 1 1 European Cup qualifier
+1994 287 away Italy Estonia 0 2 European Cup qualifier
+1994 326 home Italy Croatia 1 2 European Cup qualifier
+1994 362 home Italy Turkey 3 1 Friendly
+1995 87 home Italy Estonia 4 1 European Cup qualifier
+1995 91 away Italy Ukraine 0 2 European Cup qualifier
+1995 119 away Italy Lithuania 0 1 European Cup qualifier
+1995 174 away Italy Switzerland 0 1 Centenary Tournament
+1995 176 away Italy Germany 2 0 Centenary Tournament
+1995 254 home Italy Slovenia 1 0 European Cup qualifier
+1995 287 away Italy Croatia 1 1 European Cup qualifier
+1995 321 home Italy Ukraine 3 1 European Cup qualifier
+1995 325 home Italy Lithuania 4 0 European Cup qualifier
+1996 24 home Italy Wales 3 0 Friendly
+1996 153 home Italy Belgium 2 2 Friendly
+1996 156 away Italy Hungary 0 2 Friendly
+1996 166 home Italy Russia 2 1 European Cup
+1996 169 away Italy Czechia 2 1 European Cup
+1996 174 home Italy Germany 0 0 European Cup
+1996 284 away Italy Moldova 1 3 World Cup qualifier
+1996 288 home Italy Georgia 1 0 World Cup qualifier
+1996 316 away Italy Bosnia 2 1 Friendly
+1997 22 home Italy NorthernIreland 2 0 Friendly
+1997 43 away Italy England 0 1 World Cup qualifier
+1997 91 home Italy Moldova 3 0 World Cup qualifier
+1997 95 away Italy Poland 0 0 World Cup qualifier
+1997 123 home Italy Poland 3 0 World Cup qualifier
+1997 159 away Italy England 2 0 Friendly tournament
+1997 163 away Italy Brazil 3 3 Friendly tournament
+1997 166 away Italy France 2 2 Friendly tournament
+1997 258 away Italy Georgia 0 0 World Cup qualifier
+1997 290 home Italy England 0 0 World Cup qualifier
+1997 308 away Italy Russia 1 1 World Cup qualifier
+1997 325 home Italy Russia 1 0 World Cup qualifier
+1998 28 home Italy Slovakia 3 0 Friendly
+1998 115 home Italy Paraguay 3 1 Friendly
+1998 157 away Italy Sweden 1 0 Friendly
+1998 166 away Italy Chile 2 2 World Cup
+1998 172 home Italy Cameroon 3 0 World Cup
+1998 178 home Italy Austria 2 1 World Cup
+1998 182 home Italy Norway 1 0 World Cup
+1998 189 away Italy France 0 0 World Cup
+1998 253 away Italy Wales 0 2 European Cup qualifier
+1998 289 home Italy Switzerland 2 0 European Cup qualifier
+1998 328 home Italy Spain 2 2 Friendly
+1999 41 home Italy Norway 0 0 Friendly
+1999 89 away Italy Denmark 1 2 European Cup qualifier
+1999 93 home Italy Belarus 1 1 European Cup qualifier
+1999 121 away Italy Croatia 0 0 Friendly
+1999 160 home Italy Wales 4 0 European Cup qualifier
+1999 164 away Italy Switzerland 0 0 European Cup qualifier
+1999 256 home Italy Denmark 2 3 European Cup qualifier
+1999 288 away Italy Belarus 0 0 European Cup qualifier
+1999 323 home Italy Belgium 1 3 Friendly
+2000 54 home Italy Sweden 1 0 Friendly
+2000 91 away Italy Spain 2 0 Friendly
+2000 119 home Italy Portugal 2 0 Friendly
+2000 158 away Italy Norway 1 0 Friendly
+2000 166 home Italy Turkey 2 1 European Cup
+2000 169 away Italy Belgium 0 2 European Cup
+2000 174 home Italy Sweden 2 1 European Cup
+2000 179 home Italy Romania 2 0 European Cup
+2000 184 away Italy Holland 0 0 European Cup
+2000 188 away Italy France 2 1 European Cup
+2000 251 away Italy Hungary 2 2 World Cup qualifier
+2000 286 home Italy Romania 3 0 World Cup qualifier
+2000 290 home Italy Georgia 2 0 World Cup qualifier
+2000 325 home Italy England 1 0 Friendly
+2001 59 home Italy Argentina 1 2 Friendly
+2001 86 away Italy Romania 0 2 World Cup qualifier
+2001 90 home Italy Lithuania 4 0 World Cup qualifier
+2001 118 home Italy SouthAfrica 1 0 Friendly
+2001 157 away Italy Georgia 1 2 World Cup qualifier
+2001 249 away Italy Lithuania 0 0 World Cup qualifier
+2001 253 home Italy Morocco 1 0 Friendly
+2001 285 home Italy Hungary 1 0 World Cup qualifier
+2001 317 away Italy Japan 1 1 Friendly
+2002 44 home Italy UnitedStates 1 0 Friendly
+2002 89 away Italy England 1 2 Friendly
+2002 110 home Italy Uruguay 1 1 Friendly
+2002 142 away Italy Czechia 1 0 Friendly
+2002 158 home Italy Ecuador 2 0 World Cup
+2002 163 away Italy Croatia 2 1 World Cup
+2002 168 away Italy Mexico 1 1 World Cup
+2002 173 away Italy SouthKorea 2 1 World Cup
+2002 238 home Italy Slovenia 0 1 Friendly
+2002 255 away Italy Azerbaijan 0 2 European Cup qualifier
+2002 291 home Italy Yugoslavia 1 1 European Cup qualifier
+2002 295 away Italy Wales 2 1 European Cup qualifier
+2002 330 home Italy Turkey 1 1 Friendly
+2003 43 home Italy Portugal 1 0 Friendly
+2003 91 home Italy Finland 2 0 European Cup qualifier
+2003 123 away Italy Switzerland 1 2 Friendly
+2003 158 home Italy NorthernIreland 2 0 Friendly
+2003 166 away Italy Finland 0 2 European Cup qualifier
+2003 237 away Italy Germany 0 1 Friendly
+2003 254 home Italy Wales 4 0 European Cup qualifier
+2003 258 away Italy Serbia and Montenegro 1 1 European Cup qualifier
+2003 290 home Italy Azerbaijan 4 0 European Cup qualifier
+2003 322 away Italy Poland 3 1 Friendly
+2003 326 home Italy Romania 1 0 Friendly
+2004 49 home Italy Czechia 2 2 Friendly
+2004 93 away Italy Portugal 1 2 Friendly
+2004 121 home Italy Spain 1 1 Friendly
+2004 154 away Italy Tunisia 0 4 Friendly
+2004 169 away Italy Denmark 0 0 European Cup
+2004 173 home Italy Sweden 1 1 European Cup
+2004 177 home Italy Bulgaria 2 1 European Cup
+2004 235 away Italy Iceland 2 0 Friendly
+2004 252 home Italy Norway 2 1 World Cup qualifier
+2004 256 away Italy Moldova 0 1 World Cup qualifier
+2004 288 away Italy Slovenia 1 0 World Cup qualifier
+2004 292 home Italy Belarus 4 3 World Cup qualifier
+2004 327 home Italy Finland 1 0 Friendly
+2005 40 home Italy Russia 2 0 Friendly
+2005 88 home Italy Scotland 2 0 World Cup qualifier
+2005 92 home Italy Iceland 0 0 Friendly
+2005 159 away Italy Norway 0 0 World Cup qualifier
+2005 163 home Italy Serbia and Montenegro 1 1 Friendly
+2005 166 away Italy Ecuador 1 1 Friendly
+2005 234 away Italy Ireland 1 2 Friendly
+2005 251 away Italy Scotland 1 1 World Cup qualifier
+2005 255 away Italy Belarus 1 4 World Cup qualifier
+2005 287 home Italy Slovenia 1 0 World Cup qualifier
+2005 291 home Italy Moldova 2 1 World Cup qualifier
+2005 322 away Italy Holland 1 3 Friendly
+2005 326 home Italy IvoryCoast 1 1 Friendly
+2006 63 home Italy Germany 4 1 Friendly
+2006 155 away Italy Switzerland 1 1 Friendly
+2006 157 home Italy Ukraine 0 0 Friendly
+2006 167 home Italy Ghana 2 0 World Cup
+2006 172 home Italy UnitedStates 1 1 World Cup
+2006 177 home Italy Czechia 2 0 World Cup
+2006 181 home Italy Australia 1 0 World Cup
+2006 185 home Italy Ukraine 3 0 World Cup
+2006 190 away Italy Germany 0 2 World Cup
+2006 195 home Italy France 1 1 World Cup
+2006 233 home Italy Croatia 0 2 Friendly
+2006 250 home Italy Lithuania 1 1 European Cup qualifier
+2006 254 away Italy France 3 1 European Cup qualifier
+2006 286 home Italy Ukraine 2 0 European Cup qualifier
+2006 290 away Italy Georgia 1 3 European Cup qualifier
+2006 325 home Italy Turkey 1 1 Friendly
+2007 90 home Italy Scotland 2 0 European Cup qualifier
+2007 157 away Italy FaroeIslands 1 2 European Cup qualifier
+2007 161 away Italy Lithuania 0 2 European Cup qualifier
+2007 239 away Italy Hungary 3 1 Friendly
+2007 256 home Italy France 0 0 European Cup qualifier
+2007 260 away Italy Ukraine 1 2 European Cup qualifier
+2007 292 home Italy Georgia 2 0 European Cup qualifier
+2007 296 home Italy SouthAfrica 2 0 Friendly
+2007 327 away Italy Scotland 1 2 European Cup qualifier
+2007 331 home Italy FaroeIslands 3 1 European Cup qualifier
+2008 37 home Italy Portugal 3 1 Friendly
+2008 88 away Italy Spain 1 0 Friendly
+2008 154 home Italy Belgium 3 1 Friendly
+2008 164 away Italy Holland 3 0 European Cup
+2008 168 away Italy Romania 1 1 European Cup
+2008 172 home Italy France 2 0 European Cup
+2008 177 home Italy Spain 0 0 European Cup
+2008 237 away Italy Austria 2 2 Friendly
+2008 254 away Italy Cyprus 1 2 World Cup qualifier
+2008 258 home Italy Georgia 2 0 World Cup qualifier
+2008 290 away Italy Bulgaria 0 0 World Cup qualifier
+2008 294 home Italy Montenegro 2 1 World Cup qualifier
+2008 329 away Italy Greece 1 1 Friendly
+2009 41 away Italy Brazil 2 0 Friendly
+2009 90 away Italy Montenegro 0 2 World Cup qualifier
+2009 94 home Italy Ireland 1 1 World Cup qualifier
+2009 161 home Italy NorthernIreland 3 0 Friendly
+2009 165 home Italy NewZealand 4 3 Friendly
+2009 170 home Italy UnitedStates 3 1 Confederations Cup
+2009 173 away Italy Egypt 1 0 Confederations Cup
+2009 176 away Italy Brazil 3 0 Confederations Cup
+2009 229 away Italy Switzerland 0 0 Friendly
+2009 253 away Italy Georgia 0 2 World Cup qualifier
+2009 257 home Italy Bulgaria 2 0 World Cup qualifier
+2009 289 away Italy Ireland 2 2 World Cup qualifier
+2009 293 home Italy Cyprus 3 2 World Cup qualifier
+2009 324 home Italy Holland 0 0 Friendly
+2009 328 home Italy Sweden 1 0 Friendly
+2010 65 away Italy Cameroon 0 0 Friendly
+2010 158 away Italy Mexico 2 1 Friendly
+2010 160 away Italy Switzerland 1 1 Friendly
+2010 169 away Italy Paraguay 1 1 World Cup
+2010 175 home Italy NewZealand 1 1 World Cup
+2010 179 away Italy Slovakia 3 2 World Cup
+2010 227 away Italy IvoryCoast 1 0 Friendly
+2010 251 away Italy Estonia 1 2 European Cup qualifier
+2010 255 home Italy FaroeIslands 5 0 European Cup qualifier
+2010 287 away Italy NorthernIreland 0 0 European Cup qualifier
+2010 327 home Italy Romania 1 1 Friendly
+2011 40 away Italy Germany 1 1 Friendly
+2011 87 away Italy Slovenia 0 1 European Cup qualifier
+2011 91 away Italy Ukraine 0 2 Friendly
+2011 158 home Italy Estonia 3 0 European Cup qualifier
+2011 162 away Italy Ireland 2 0 Friendly
+2011 227 home Italy Spain 2 1 Friendly
+2011 250 away Italy FaroeIslands 0 1 European Cup qualifier
+2011 254 home Italy Slovenia 1 0 European Cup qualifier
+2011 286 away Italy Serbia 1 1 European Cup qualifier
+2011 290 home Italy NorthernIreland 3 0 European Cup qualifier
+2011 321 away Italy Poland 0 2 Friendly
+2011 325 home Italy Uruguay 0 1 Friendly
+2012 60 home Italy UnitedStates 0 1 Friendly
+2012 156 away Italy Russia 3 0 Friendly
+2012 165 home Italy Spain 1 1 European Cup
+2012 169 away Italy Croatia 1 1 European Cup
+2012 173 home Italy Ireland 2 0 European Cup
+2012 179 home Italy England 0 0 European Cup
+2012 183 home Italy Germany 2 1 European Cup
+2012 187 away Italy Spain 4 0 European Cup
+2012 232 away Italy England 2 1 Friendly
+2012 255 away Italy Bulgaria 2 2 World Cup qualifier
+2012 259 home Italy Malta 2 0 World Cup qualifier
+2012 291 away Italy Armenia 1 3 World Cup qualifier
+2012 295 home Italy Denmark 3 1 World Cup qualifier
+2012 324 home Italy France 1 2 Friendly
+2013 37 away Italy Holland 1 1 Friendly
+2013 83 away Italy Brazil 2 2 Friendly
+2013 88 away Italy Malta 0 2 World Cup qualifier
+2013 155 home Italy SanMarino 4 0 Friendly
+2013 162 away Italy Czechia 0 0 World Cup qualifier
+2013 166 away Italy Haiti 2 2 Friendly
+2013 171 home Italy Mexico 2 1 Confederations Cup
+2013 174 home Italy Japan 4 3 Confederations Cup
+2013 177 away Italy Brazil 4 2 Confederations Cup
+2013 182 home Italy Spain 0 0 Confederations Cup
+2013 185 home Italy Uruguay 2 2 Confederations Cup
+2013 231 home Italy Argentina 1 2 Friendly
+2013 254 home Italy Bulgaria 1 0 World Cup qualifier
+2013 258 home Italy Czechia 2 1 World Cup qualifier
+2013 290 away Italy Denmark 2 2 World Cup qualifier
+2013 294 home Italy Armenia 2 2 World Cup qualifier
+2013 325 home Italy Germany 1 1 Friendly
+2013 328 home Italy Nigeria 2 2 Friendly
+2014 67 away Italy Spain 1 0 Friendly

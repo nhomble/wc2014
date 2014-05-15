@@ -1,0 +1,495 @@
+1922 172 away Australia NewZealand 3 1 Friendly
+1922 179 away Australia NewZealand 1 1 Friendly
+1922 194 away Australia NewZealand 3 1 Friendly
+1923 164 home Australia NewZealand 2 1 Friendly
+1923 171 home Australia NewZealand 2 3 Friendly
+1923 185 home Australia NewZealand 1 4 Friendly
+1924 162 home Australia Canada 3 2 Friendly
+1924 169 home Australia Canada 0 1 Friendly
+1924 178 home Australia Canada 4 1 Friendly
+1924 183 home Australia Canada 0 0 Friendly
+1924 198 home Australia Canada 1 4 Friendly
+1924 212 home Australia Canada 1 0 Friendly
+1933 160 home Australia NewZealand 4 2 Friendly
+1933 172 home Australia NewZealand 6 4 Friendly
+1933 179 home Australia NewZealand 4 2 Friendly
+1936 190 away Australia NewZealand 1 7 Friendly
+1936 197 away Australia NewZealand 0 10 Friendly
+1936 204 away Australia NewZealand 1 4 Friendly
+1938 251 home Australia India 5 3 Friendly
+1938 258 home Australia India 4 4 Friendly
+1938 265 home Australia India 1 4 Friendly
+1938 272 home Australia India 5 4 Friendly
+1938 280 home Australia India 3 1 Friendly
+1947 134 home Australia SouthAfrica 1 2 Friendly
+1947 148 home Australia SouthAfrica 2 4 Friendly
+1947 155 home Australia SouthAfrica 3 3 Friendly
+1947 162 home Australia SouthAfrica 5 1 Friendly
+1947 169 home Australia SouthAfrica 1 2 Friendly
+1948 231 away Australia NewZealand 0 6 Friendly
+1948 245 away Australia NewZealand 0 7 Friendly
+1948 252 away Australia NewZealand 0 4 Friendly
+1948 259 away Australia NewZealand 1 8 Friendly
+1950 179 away Australia SouthAfrica 3 2 Friendly
+1950 187 away Australia SouthAfrica 2 1 Friendly
+1950 194 away Australia SouthAfrica 1 2 Friendly
+1950 201 away Australia Rhodesia 0 5 Friendly
+1950 209 away Australia SouthAfrica 0 2 Friendly
+1950 215 away Australia Rhodesia 1 4 Friendly
+1954 231 home Australia NewZealand 1 2 Friendly
+1954 245 home Australia NewZealand 4 1 Friendly
+1954 252 home Australia NewZealand 4 1 Friendly
+1955 251 home Australia SouthAfrica 0 3 Friendly
+1955 258 home Australia SouthAfrica 0 2 Friendly
+1955 265 home Australia SouthAfrica 0 8 Friendly
+1955 272 home Australia SouthAfrica 0 6 Friendly
+1955 280 home Australia SouthAfrica 1 4 Friendly
+1956 337 home Australia Japan 2 0 Olympic Games
+1956 342 home Australia India 2 4 Olympic Games
+1956 353 home Australia India 1 7 Friendly
+1958 233 away Australia NewZealand 2 3 Friendly
+1958 240 away Australia NewZealand 2 2 Friendly
+1965 331 away Australia NorthKorea 6 1 World Cup qualifier
+1965 334 away Australia NorthKorea 3 1 World Cup qualifier
+1965 336 away Australia Khmer 0 0 Friendly
+1965 339 away Australia HongKong 1 0 Friendly tournament
+1965 344 away Australia Taiwan 1 3 Friendly
+1965 348 away Australia Malaysia 0 1 Friendly
+1965 349 away Australia Malaysia 0 3 Friendly
+1967 315 home Australia NewZealand 5 3 Friendly tournament
+1967 317 away Australia SouthVietnam 0 1 Friendly tournament
+1967 321 home Australia Singapore 5 1 Friendly tournament
+1967 322 home Australia Malaysia 1 0 Friendly tournament
+1967 324 home Australia SouthKorea 3 2 Friendly tournament
+1967 328 away Australia Indonesia 0 2 Friendly
+1967 331 away Australia Indonesia 1 3 Friendly
+1967 334 away Australia Singapore 1 6 Friendly
+1967 337 away Australia Malaysia 0 4 Friendly
+1968 92 home Australia Japan 2 2 Friendly
+1968 93 home Australia Japan 3 1 Friendly
+1968 97 home Australia Japan 1 3 Friendly
+1969 205 home Australia Greece 1 0 Friendly
+1969 209 home Australia Greece 2 2 Friendly
+1969 212 home Australia Greece 0 2 Friendly
+1969 289 home Australia Japan 3 1 World Cup qualifier
+1969 293 away Australia SouthKorea 1 2 World Cup qualifier
+1969 295 home Australia Japan 1 1 World Cup qualifier
+1969 299 away Australia SouthKorea 1 1 World Cup qualifier
+1969 333 home Australia Rhodesia 1 1 World Cup qualifier
+1969 337 home Australia Rhodesia 0 0 World Cup qualifier
+1969 339 home Australia Rhodesia 3 1 World Cup qualifier
+1969 345 away Australia Israel 1 0 World Cup qualifier
+1969 355 home Australia Israel 1 1 World Cup qualifier
+1970 302 away Australia NewCaledonia 1 3 Friendly
+1970 304 away Australia NewCaledonia 0 1 Friendly
+1970 309 away Australia Macao 0 9 Friendly
+1970 314 away Australia Iran 1 2 Friendly
+1970 320 away Australia Israel 0 1 Friendly
+1970 329 away Australia Greece 1 3 Friendly
+1970 343 away Australia Mexico 3 0 Friendly
+1971 321 home Australia Israel 2 2 Friendly
+1971 324 home Australia Israel 1 0 Friendly
+1971 331 home Australia Israel 1 3 Friendly
+1972 286 away Australia Indonesia 1 4 Friendly
+1972 288 home Australia NewZealand 3 1 Friendly
+1972 294 away Australia SouthVietnam 0 1 Friendly
+1972 301 away Australia SouthKorea 1 1 Friendly
+1972 303 away Australia SouthKorea 0 2 Friendly
+1972 308 away Australia Philippines 0 6 Friendly
+1973 45 home Australia Bulgaria 2 2 Friendly
+1973 47 home Australia Bulgaria 1 3 Friendly
+1973 49 home Australia Bulgaria 0 2 Friendly
+1973 66 home Australia NewZealand 1 1 World Cup qualifier
+1973 73 home Australia Iraq 3 1 World Cup qualifier
+1973 75 home Australia Indonesia 2 1 World Cup qualifier
+1973 78 home Australia NewZealand 3 3 World Cup qualifier
+1973 80 home Australia Iraq 0 0 World Cup qualifier
+1973 86 home Australia Indonesia 6 0 World Cup qualifier
+1973 235 home Australia Iran 3 0 World Cup qualifier
+1973 241 away Australia Iran 2 0 World Cup qualifier
+1973 307 home Australia SouthKorea 0 0 World Cup qualifier
+1973 320 away Australia SouthKorea 2 2 World Cup qualifier
+1973 323 home Australia SouthKorea 1 0 World Cup qualifier
+1974 119 home Australia Uruguay 0 0 Friendly
+1974 121 home Australia Uruguay 2 0 Friendly
+1974 145 away Australia Indonesia 1 2 Friendly
+1974 152 away Australia Israel 2 1 Friendly
+1974 169 away Australia EastGermany 2 0 World Cup
+1974 173 away Australia Germany 3 0 World Cup
+1974 177 home Australia Chile 0 0 World Cup
+1975 223 home Australia China 1 0 Friendly
+1976 60 away Australia NewZealand 0 1 Friendly
+1976 64 home Australia NewZealand 3 3 Friendly
+1976 228 home Australia HongKong 0 1 Friendly
+1976 235 home Australia HongKong 2 0 Friendly
+1976 299 away Australia Indonesia 1 1 Friendly
+1976 301 away Australia Singapore 0 1 Friendly
+1976 303 away Australia HongKong 0 2 Friendly
+1976 308 away Australia China 0 2 Friendly
+1976 313 away Australia Israel 1 1 Friendly
+1977 43 home Australia Israel 1 1 Friendly
+1977 47 home Australia Israel 1 1 Friendly
+1977 75 home Australia Taiwan 3 0 World Cup qualifier
+1977 78 home Australia Taiwan 2 1 World Cup qualifier
+1977 81 away Australia Fiji 1 0 Friendly
+1977 89 home Australia NewZealand 3 1 World Cup qualifier
+1977 92 away Australia NewZealand 1 1 World Cup qualifier
+1977 196 home Australia HongKong 3 0 World Cup qualifier
+1977 231 home Australia Iran 0 1 World Cup qualifier
+1977 245 home Australia SouthKorea 2 1 World Cup qualifier
+1977 295 home Australia Kuwait 1 2 World Cup qualifier
+1977 302 away Australia SouthKorea 0 0 World Cup qualifier
+1977 309 away Australia HongKong 2 5 World Cup qualifier
+1977 323 away Australia Singapore 0 2 Friendly
+1977 329 away Australia Kuwait 1 0 World Cup qualifier
+1977 335 away Australia Iran 1 0 World Cup qualifier
+1978 166 home Australia Greece 1 2 Friendly
+1978 169 home Australia Greece 0 1 Friendly
+1978 172 home Australia Greece 1 1 Friendly
+1979 168 away Australia NewZealand 1 0 Friendly
+1979 337 away Australia Taiwan 0 2 Friendly
+1980 27 home Australia Czechoslovakia 0 4 Friendly
+1980 34 home Australia Czechoslovakia 0 5 Friendly
+1980 40 home Australia Czechoslovakia 2 2 Friendly
+1980 53 home Australia NewHebrides 1 0 Oceania Nations Cup
+1980 55 away Australia NewCaledonia 0 8 Oceania Nations Cup
+1980 57 home Australia PapuaNew 11 2 Oceania Nations Cup
+1980 65 home Australia Tahiti 4 2 Oceania Nations Cup
+1980 155 home Australia England 1 2 Friendly
+1980 166 home Australia NorthernIreland 1 2 Friendly
+1980 170 home Australia NorthernIreland 1 1 Friendly
+1980 173 home Australia NorthernIreland 1 2 Friendly
+1980 241 home Australia Mexico 2 2 Friendly
+1980 243 home Australia Mexico 1 1 Friendly
+1980 321 away Australia Greece 3 3 Friendly
+1980 343 away Australia Israel 0 1 Friendly
+1980 346 away Australia HongKong 1 0 Friendly
+1980 348 away Australia Indonesia 1 1 Friendly
+1981 118 away Australia NewZealand 3 3 World Cup qualifier
+1981 140 home Australia NewZealand 0 2 World Cup qualifier
+1981 144 home Australia Indonesia 2 0 World Cup qualifier
+1981 165 home Australia Taiwan 3 2 World Cup qualifier
+1981 212 away Australia Fiji 1 4 World Cup qualifier
+1981 231 home Australia Fiji 10 0 World Cup qualifier
+1981 247 away Australia Indonesia 1 0 World Cup qualifier
+1981 254 away Australia Taiwan 0 0 World Cup qualifier
+1982 285 home Australia Thailand 4 0 Merlion Tournament
+1982 290 home Australia Indonesia 2 0 Merlion Tournament
+1982 293 home Australia Malaysia 5 0 Merlion Tournament
+1982 296 home Australia SouthKorea 3 2 Merlion Tournament
+1983 53 away Australia NewZealand 2 1 Trans Tasman Cup
+1983 58 home Australia NewZealand 0 2 Trans Tasman Cup
+1983 167 home Australia England 0 0 Friendly
+1983 170 home Australia England 0 1 Friendly
+1983 174 home Australia England 1 1 Friendly
+1983 345 away Australia China 2 1 Merlion Tournament
+1983 351 home Australia Thailand 2 0 Merlion Tournament
+1983 356 home Australia SouthKorea 3 1 Merlion Tournament
+1983 359 away Australia Singapore 2 3 Merlion Tournament
+1984 313 away Australia China 3 2 Friendly
+1985 125 home Australia Tahiti 4 0 Friendly
+1985 269 away Australia NewZealand 0 0 World Cup qualifier
+1985 271 home Australia China 2 0 Friendly
+1985 273 home Australia China 1 1 Friendly
+1985 275 home Australia China 3 0 Friendly
+1985 287 away Australia Israel 1 2 World Cup qualifier
+1985 299 home Australia Israel 1 1 World Cup qualifier
+1985 302 home Australia Taiwan 7 0 World Cup qualifier
+1985 306 home Australia Taiwan 8 0 World Cup qualifier
+1985 313 home Australia NewZealand 2 0 World Cup qualifier
+1985 330 away Australia Scotland 2 0 World Cup qualifier
+1985 345 home Australia Scotland 0 0 World Cup qualifier
+1986 220 home Australia Czechoslovakia 1 1 Friendly
+1986 223 home Australia Czechoslovakia 0 1 Friendly
+1986 227 home Australia Czechoslovakia 0 3 Friendly
+1986 304 away Australia NewZealand 1 1 Trans Tasman Cup
+1986 312 home Australia NewZealand 2 1 Trans Tasman Cup
+1986 333 away Australia China 0 2 Friendly
+1987 164 home Australia Morocco 1 0 Presidents Cup
+1987 174 home Australia Egypt 0 0 Presidents Cup
+1987 176 away Australia SouthKorea 1 1 Presidents Cup
+1987 250 home Australia NewZealand 1 1 Trans Tasman Cup
+1987 257 away Australia NewZealand 1 0 Trans Tasman Cup
+1987 325 away Australia Taiwan 0 3 Olympic Games qualifier
+1988 59 home Australia Taiwan 3 0 Olympic Games qualifier
+1988 69 home Australia Israel 2 0 Olympic Games qualifier
+1988 71 home Australia Taiwan 3 2 Olympic Games qualifier
+1988 75 home Australia NewZealand 3 1 Olympic Games qualifier
+1988 82 home Australia Israel 0 0 Olympic Games qualifier
+1988 85 away Australia NewZealand 1 1 Olympic Games qualifier
+1988 89 home Australia Taiwan 3 0 Olympic Games qualifier
+1988 193 home Australia Brazil 0 1 Bicentenary Gold Cup
+1988 195 home Australia SaudiArabia 3 0 Bicentenary Gold Cup
+1988 200 home Australia Argentina 4 1 Bicentenary Gold Cup
+1988 203 home Australia Brazil 0 2 Bicentenary Gold Cup
+1988 222 home Australia China 2 2 Friendly tournament
+1988 226 home Australia Thailand 0 0 Friendly tournament
+1988 232 away Australia China 1 0 Friendly tournament
+1988 291 away Australia NewZealand 1 2 Trans Tasman Cup
+1988 295 home Australia NewZealand 2 0 Trans Tasman Cup
+1988 336 away Australia Fiji 1 0 World Cup qualifier
+1988 344 home Australia Fiji 5 1 World Cup qualifier
+1989 74 home Australia NewZealand 4 1 World Cup qualifier
+1989 81 away Australia Israel 1 1 World Cup qualifier
+1989 95 away Australia NewZealand 2 0 World Cup qualifier
+1989 109 home Australia Israel 1 1 World Cup qualifier
+1990 242 away Australia Indonesia 0 3 Friendly tournament
+1990 254 away Australia SouthKorea 1 0 Friendly
+1990 257 away Australia SouthKorea 1 0 Friendly
+1991 30 home Australia Czechoslovakia 0 1 Friendly
+1991 37 home Australia Czechoslovakia 0 2 Friendly
+1991 136 away Australia NewZealand 0 1 Trans Tasman Cup
+1991 139 home Australia NewZealand 2 1 Trans Tasman Cup
+1991 156 home Australia England 0 1 Friendly
+1991 169 away Australia SouthKorea 0 0 Presidents Cup
+1991 252 away Australia SouthKorea 0 0 Friendly
+1992 26 home Australia Sweden 0 0 Friendly
+1992 29 home Australia Sweden 1 0 Friendly
+1992 33 home Australia Sweden 1 0 Friendly
+1992 169 away Australia UnitedStates 0 1 Friendly
+1992 173 away Australia Argentina 2 0 Friendly
+1992 176 away Australia Uruguay 2 0 Friendly
+1992 191 home Australia Croatia 1 0 Friendly
+1992 194 home Australia Croatia 3 1 Friendly
+1992 198 home Australia Croatia 0 0 Friendly
+1992 227 home Australia Thailand 1 0 Independence Cup
+1992 228 away Australia Malaysia 1 0 Independence Cup
+1992 230 away Australia SouthKorea 1 0 Independence Cup
+1992 231 away Australia Indonesia 0 3 Independence Cup
+1992 252 away Australia SolomonIslands 1 2 World Cup qualifier
+1992 259 away Australia Tahiti 0 3 World Cup qualifier
+1992 268 home Australia Tahiti 2 0 World Cup qualifier
+1992 273 home Australia SolomonIslands 6 1 World Cup qualifier
+1993 108 home Australia Kuwait 1 0 Friendly
+1993 112 away Australia Kuwait 3 1 Friendly
+1993 154 away Australia NewZealand 0 1 World Cup qualifier
+1993 161 home Australia NewZealand 3 0 World Cup qualifier
+1993 217 away Australia Canada 2 1 World Cup qualifier
+1993 232 home Australia Canada 2 1 World Cup qualifier
+1993 272 away Australia SouthKorea 1 1 Friendly
+1993 274 away Australia SouthKorea 1 0 Friendly
+1993 310 home Australia Argentina 1 1 World Cup qualifier
+1993 320 away Australia Chile 3 2 Friendly
+1993 327 away Australia Argentina 1 0 World Cup qualifier
+1994 146 away Australia Japan 1 1 Kirin Cup
+1994 150 away Australia France 1 0 Kirin Cup
+1994 163 home Australia SouthAfrica 1 0 Friendly
+1994 167 home Australia SouthAfrica 1 0 Friendly
+1994 272 home Australia Kuwait 0 0 Friendly
+1994 275 away Australia Japan 0 0 Friendly
+1995 38 home Australia Colombia 0 0 Friendly
+1995 42 home Australia Colombia 0 1 Friendly
+1995 46 home Australia Japan 2 1 Friendly
+1995 173 home Australia Ghana 2 1 Friendly
+1995 176 home Australia Ghana 1 0 Friendly
+1995 179 home Australia Ghana 0 1 Friendly
+1995 185 away Australia Argentina 2 0 Friendly
+1995 320 away Australia NewZealand 0 0 Oceania Nations Cup
+1995 325 home Australia NewZealand 3 0 Oceania Nations Cup
+1996 41 home Australia Japan 1 4 Friendly
+1996 45 home Australia Japan 3 0 Friendly
+1996 56 home Australia Sweden 0 2 Friendly
+1996 59 home Australia Sweden 0 0 Friendly
+1996 89 away Australia Scotland 1 0 Friendly
+1996 116 away Australia Chile 3 0 Friendly
+1996 262 home Australia Ghana 2 0 Simba Cup
+1996 266 away Australia SouthAfrica 2 0 Simba Cup
+1996 269 home Australia Kenya 4 0 Simba Cup
+1996 288 away Australia SaudiArabia 0 0 Friendly
+1996 305 away Australia Tahiti 0 6 Oceania Nations Cup
+1996 311 home Australia Tahiti 5 0 Oceania Nations Cup
+1997 18 home Australia NewZealand 1 0 Friendly tournament
+1997 22 home Australia SouthKorea 2 1 Friendly tournament
+1997 25 home Australia Norway 1 0 Friendly tournament
+1997 74 away Australia Macedonia 0 1 Friendly
+1997 95 away Australia Hungary 1 3 Friendly
+1997 166 home Australia SolomonIslands 13 0 World Cup qualifier
+1997 168 home Australia Tahiti 5 0 World Cup qualifier
+1997 172 home Australia SolomonIslands 6 2 World Cup qualifier
+1997 174 home Australia Tahiti 2 0 World Cup qualifier
+1997 183 away Australia NewZealand 0 3 World Cup qualifier
+1997 192 home Australia NewZealand 2 0 World Cup qualifier
+1997 280 away Australia Tunisia 0 3 Friendly
+1997 332 away Australia Iran 1 1 World Cup qualifier
+1997 339 home Australia Iran 2 2 World Cup qualifier
+1997 353 home Australia Mexico 3 1 Confederations Cup
+1997 355 home Australia Brazil 0 0 Confederations Cup
+1997 357 away Australia SaudiArabia 1 0 Confederations Cup
+1997 360 home Australia Uruguay 1 0 Confederations Cup
+1997 362 away Australia Brazil 6 0 Confederations Cup
+1998 38 home Australia Chile 0 1 Friendly
+1998 42 home Australia SouthKorea 1 0 Friendly
+1998 46 home Australia Japan 0 3 Friendly
+1998 161 away Australia Croatia 7 0 Friendly
+1998 273 home Australia Fiji 3 1 Oceania Nations Cup
+1998 276 home Australia CookIslands 16 0 Oceania Nations Cup
+1998 281 home Australia Tahiti 4 1 Oceania Nations Cup
+1998 283 home Australia NewZealand 0 1 Oceania Nations Cup
+1998 316 away Australia UnitedStates 0 0 Friendly
+2000 40 away Australia Chile 2 1 Copa Ciudad de Valparaíso
+2000 43 home Australia Slovakia 0 0 Copa Ciudad de Valparaíso
+2000 46 away Australia Bulgaria 1 1 Copa Ciudad de Valparaíso
+2000 54 away Australia Hungary 0 3 Friendly
+2000 91 away Australia Czechia 3 1 Friendly
+2000 164 home Australia Paraguay 0 0 Friendly
+2000 167 home Australia Paraguay 0 0 Friendly
+2000 170 home Australia Paraguay 2 1 Friendly
+2000 174 home Australia CookIslands 17 0 Oceania Nations Cup
+2000 178 home Australia SolomonIslands 6 0 Oceania Nations Cup
+2000 180 home Australia Vanuatu 1 0 Oceania Nations Cup
+2000 183 home Australia NewZealand 2 0 Oceania Nations Cup
+2000 283 home Australia Kuwait 1 0 Friendly tournament
+2000 286 away Australia SouthKorea 4 2 Friendly tournament
+2000 325 away Australia Scotland 0 2 Friendly
+2001 59 away Australia Colombia 3 2 Friendly
+2001 102 home Australia Tonga 22 0 World Cup qualifier
+2001 104 home Australia EasternSamoa 31 0 World Cup qualifier
+2001 107 home Australia Fiji 2 0 World Cup qualifier
+2001 109 home Australia WesternSamoa 11 0 World Cup qualifier
+2001 154 home Australia Mexico 2 0 Confederations Cup
+2001 156 home Australia France 1 0 Confederations Cup
+2001 158 away Australia SouthKorea 1 0 Confederations Cup
+2001 162 away Australia Japan 1 0 Confederations Cup
+2001 164 home Australia Brazil 1 0 Confederations Cup
+2001 175 away Australia NewZealand 0 2 World Cup qualifier
+2001 179 home Australia NewZealand 4 1 World Cup qualifier
+2001 232 away Australia Japan 3 0 AFC-OFC Challenge Cup
+2001 321 home Australia France 1 1 Friendly
+2001 330 home Australia Uruguay 1 0 World Cup qualifier
+2001 335 away Australia Uruguay 3 0 World Cup qualifier
+2002 192 home Australia Vanuatu 2 0 Oceania Nations Cup
+2002 194 home Australia NewCaledonia 11 0 Oceania Nations Cup
+2002 196 home Australia Fiji 8 0 Oceania Nations Cup
+2002 198 home Australia Tahiti 2 1 Oceania Nations Cup
+2002 200 away Australia NewZealand 1 0 Oceania Nations Cup
+2003 43 away Australia England 1 3 Friendly
+2003 236 away Australia Ireland 2 1 Friendly
+2003 255 home Australia Jamaica 2 1 Friendly
+2004 49 away Australia Venezuela 1 1 Friendly
+2004 92 home Australia SouthAfrica 1 0 Friendly
+2004 145 home Australia Turkey 1 3 Friendly
+2004 148 home Australia Turkey 0 1 Friendly
+2004 153 home Australia NewZealand 1 0 World Cup qualifier
+2004 155 home Australia Tahiti 9 0 World Cup qualifier
+2004 157 home Australia Fiji 6 1 World Cup qualifier
+2004 159 home Australia Vanuatu 3 0 World Cup qualifier
+2004 161 home Australia SolomonIslands 2 2 World Cup qualifier
+2004 288 away Australia SolomonIslands 1 5 Oceania Nations Cup
+2004 291 home Australia SolomonIslands 6 0 Oceania Nations Cup
+2004 326 home Australia Norway 2 2 Friendly
+2005 40 away Australia SouthAfrica 1 1 Friendly
+2005 88 home Australia Iraq 2 1 Friendly
+2005 91 home Australia Indonesia 3 0 Friendly
+2005 164 home Australia NewZealand 1 0 Friendly
+2005 170 away Australia Germany 4 3 Confederations Cup
+2005 173 away Australia Argentina 4 2 Confederations Cup
+2005 176 away Australia Tunisia 2 0 Confederations Cup
+2005 251 home Australia SolomonIslands 7 0 World Cup qualifier
+2005 254 away Australia SolomonIslands 1 2 World Cup qualifier
+2005 288 home Australia Jamaica 5 0 Friendly
+2005 322 away Australia Uruguay 1 0 World Cup qualifier
+2005 326 home Australia Uruguay 1 0 World Cup qualifier
+2006 53 away Australia Bahrain 1 3 Asian Cup qualifier
+2006 149 home Australia Greece 1 0 Friendly
+2006 159 away Australia Holland 1 1 Friendly
+2006 162 home Australia Liechtenstein 3 1 Friendly
+2006 167 home Australia Japan 3 1 World Cup
+2006 173 away Australia Brazil 2 0 World Cup
+2006 177 home Australia Croatia 2 2 World Cup
+2006 181 away Australia Italy 1 0 World Cup
+2006 233 home Australia Kuwait 2 0 Asian Cup qualifier
+2006 254 away Australia Kuwait 2 0 Asian Cup qualifier
+2006 286 home Australia Paraguay 1 1 Friendly
+2006 290 home Australia Bahrain 2 0 Asian Cup qualifier
+2006 324 home Australia Ghana 1 1 Friendly
+2007 37 away Australia Denmark 3 1 Friendly
+2007 86 away Australia China 0 2 Friendly
+2007 157 home Australia Uruguay 1 2 Friendly
+2007 185 away Australia Singapore 0 3 Friendly
+2007 194 home Australia Oman 1 1 Asian Cup
+2007 199 away Australia Iraq 3 1 Asian Cup
+2007 202 away Australia Thailand 0 4 Asian Cup
+2007 207 away Australia Japan 1 1 Asian Cup
+2007 259 home Australia Argentina 0 1 Friendly
+2007 327 home Australia Nigeria 1 0 Friendly
+2008 37 home Australia Qatar 3 0 World Cup qualifier
+2008 84 away Australia Singapore 0 0 Friendly
+2008 88 away Australia China 0 0 World Cup qualifier
+2008 147 home Australia Ghana 1 0 Friendly
+2008 156 home Australia Iraq 1 0 World Cup qualifier
+2008 162 away Australia Iraq 1 0 World Cup qualifier
+2008 169 away Australia Qatar 1 3 World Cup qualifier
+2008 177 home Australia China 0 1 World Cup qualifier
+2008 236 home Australia SouthAfrica 2 2 Friendly
+2008 254 away Australia Holland 1 2 Friendly
+2008 258 away Australia Uzbekistan 0 1 World Cup qualifier
+2008 294 home Australia Qatar 4 0 World Cup qualifier
+2008 329 away Australia Bahrain 0 1 World Cup qualifier
+2009 28 away Australia Indonesia 0 0 Asian Cup qualifier
+2009 42 away Australia Japan 0 0 World Cup qualifier
+2009 67 home Australia Kuwait 0 1 Asian Cup qualifier
+2009 94 home Australia Uzbekistan 2 0 World Cup qualifier
+2009 161 away Australia Qatar 0 0 World Cup qualifier
+2009 165 home Australia Bahrain 2 0 World Cup qualifier
+2009 172 home Australia Japan 2 1 World Cup qualifier
+2009 229 away Australia Ireland 0 3 Friendly
+2009 253 away Australia SouthKorea 3 1 Friendly
+2009 289 home Australia Holland 0 0 Friendly
+2009 293 home Australia Oman 1 0 Asian Cup qualifier
+2009 324 away Australia Oman 1 2 Asian Cup qualifier
+2010 6 away Australia Kuwait 2 2 Asian Cup qualifier
+2010 65 home Australia Indonesia 1 0 Asian Cup qualifier
+2010 148 home Australia NewZealand 2 1 Friendly
+2010 156 home Australia Denmark 1 0 Friendly
+2010 160 away Australia UnitedStates 3 1 Friendly
+2010 168 away Australia Germany 4 0 World Cup
+2010 174 home Australia Ghana 1 1 World Cup
+2010 178 home Australia Serbia 2 1 World Cup
+2010 228 away Australia Slovenia 2 0 Friendly
+2010 251 away Australia Switzerland 0 0 Friendly
+2010 255 away Australia Poland 1 2 Friendly
+2010 288 home Australia Paraguay 1 0 Friendly
+2010 327 away Australia Egypt 3 0 Friendly
+2011 5 away Australia UnitedArab 0 0 Friendly
+2011 10 home Australia India 4 0 Asian Cup
+2011 14 home Australia SouthKorea 1 1 Asian Cup
+2011 18 home Australia Bahrain 1 0 Asian Cup
+2011 22 home Australia Iraq 1 0 Asian Cup
+2011 25 home Australia Uzbekistan 6 0 Asian Cup
+2011 29 away Australia Japan 1 0 Asian Cup
+2011 91 away Australia Germany 1 2 Friendly
+2011 160 home Australia NewZealand 3 0 Friendly
+2011 162 home Australia Serbia 0 0 Friendly
+2011 227 away Australia Wales 1 2 Friendly
+2011 250 home Australia Thailand 2 1 World Cup qualifier
+2011 254 away Australia SaudiArabia 1 3 World Cup qualifier
+2011 286 home Australia Malaysia 5 0 Friendly
+2011 290 home Australia Oman 3 0 World Cup qualifier
+2011 321 away Australia Oman 1 0 World Cup qualifier
+2011 325 away Australia Thailand 0 1 World Cup qualifier
+2012 60 home Australia SaudiArabia 4 2 World Cup qualifier
+2012 157 away Australia Denmark 2 0 Friendly
+2012 163 away Australia Oman 0 0 World Cup qualifier
+2012 167 home Australia Japan 1 1 World Cup qualifier
+2012 232 away Australia Scotland 3 1 Friendly
+2012 254 away Australia Lebanon 0 3 Friendly
+2012 259 away Australia Jordan 2 1 World Cup qualifier
+2012 295 away Australia Iraq 1 2 World Cup qualifier
+2012 324 away Australia SouthKorea 1 2 Friendly
+2012 344 away Australia HongKong 0 1 East Asian Championship qualifier
+2012 346 away Australia NorthKorea 1 1 East Asian Championship qualifier
+2012 348 home Australia Guam 9 0 East Asian Championship qualifier
+2012 350 home Australia Taiwan 8 0 East Asian Championship qualifier
+2013 37 away Australia Romania 3 2 Friendly
+2013 88 home Australia Oman 2 2 World Cup qualifier
+2013 159 away Australia Japan 1 1 World Cup qualifier
+2013 166 home Australia Jordan 4 0 World Cup qualifier
+2013 173 home Australia Iraq 1 0 World Cup qualifier
+2013 206 away Australia SouthKorea 0 0 East Asian Championship
+2013 211 away Australia Japan 3 2 East Asian Championship
+2013 214 away Australia China 4 3 East Asian Championship
+2013 255 away Australia Brazil 6 0 Friendly
+2013 290 away Australia France 6 0 Friendly
+2013 294 home Australia Canada 3 0 Friendly
+2013 329 home Australia CostaRica 1 0 Friendly
+2014 67 away Australia Ecuador 4 3 Friendly

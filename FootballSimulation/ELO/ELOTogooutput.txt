@@ -1,0 +1,352 @@
+1956 292 home Togo GoldCoast 1 1 Friendly
+1964 348 home Togo Nigeria 2 1 Friendly
+1964 368 away Togo Nigeria 1 2 African Games qualifier
+1965 204 home Togo Uganda 1 1 African Games
+1965 205 home Togo Mali 2 1 African Games
+1965 207 away Togo Congo 7 2 African Games
+1965 209 away Togo Congo (Kinshasa) 5 1 African Games
+1965 211 home Togo Madagascar 1 0 African Games
+1967 219 away Togo Nigeria 4 2 African Nations Cup qualifier
+1967 233 home Togo IvoryCoast 0 2 African Nations Cup qualifier
+1967 290 home Togo Nigeria 1 0 African Nations Cup qualifier
+1967 325 away Togo IvoryCoast 3 0 African Nations Cup qualifier
+1968 100 home Togo Guinea 1 1 Friendly
+1969 227 away Togo Guinea 4 0 African Nations Cup qualifier
+1969 241 home Togo Guinea 1 1 African Nations Cup qualifier
+1970 304 home Togo Senegal 3 0 Friendly
+1970 318 home Togo Dahomey 2 1 African Nations Cup qualifier
+1970 332 away Togo Dahomey 0 0 African Nations Cup qualifier
+1971 38 home Togo Guinea 1 1 Olympic Games qualifier
+1971 86 home Togo Liberia 0 2 Friendly
+1971 90 away Togo Guinea 4 5 Olympic Games qualifier
+1971 292 home Togo Ghana 0 0 African Nations Cup qualifier
+1971 306 away Togo Ghana 0 1 African Nations Cup qualifier
+1971 340 home Togo UpperVolta 1 0 Friendly
+1971 353 away Togo UpperVolta 1 2 Friendly
+1972 20 home Togo Dahomey 4 0 Friendly
+1972 55 away Togo Mali 3 3 African Nations Cup
+1972 57 away Togo Cameroon 2 0 African Nations Cup
+1972 59 away Togo Kenya 1 1 African Nations Cup
+1972 116 away Togo Ghana 1 1 Olympic Games qualifier
+1972 123 home Togo Senegal 0 2 Olympic Games qualifier
+1972 131 home Togo Cameroon 1 2 Olympic Games qualifier
+1972 138 home Togo Ghana 0 2 Olympic Games qualifier
+1972 145 away Togo Senegal 0 1 Olympic Games qualifier
+1972 152 away Togo Cameroon 1 0 Olympic Games qualifier
+1972 161 home Togo Zaire 0 0 World Cup qualifier
+1972 175 away Togo Zaire 4 0 World Cup qualifier
+1974 68 home Togo Denmark 0 2 Friendly
+1975 125 away Togo Senegal 1 0 Olympic Games qualifier
+1975 142 home Togo Senegal 1 1 Olympic Games qualifier
+1975 227 home Togo Liberia 1 0 African Nations Cup qualifier
+1975 241 away Togo Liberia 0 2 African Nations Cup qualifier
+1975 262 away Togo Cameroon 3 0 African Nations Cup qualifier
+1975 276 home Togo Cameroon 4 0 African Nations Cup qualifier
+1975 305 home Togo Guinea 2 2 African Nations Cup qualifier
+1975 319 away Togo Guinea 2 0 African Nations Cup qualifier
+1976 296 home Togo Senegal 1 0 World Cup qualifier
+1976 310 away Togo Senegal 1 1 World Cup qualifier
+1977 44 home Togo Guinea 0 2 World Cup qualifier
+1977 58 away Togo Guinea 2 1 World Cup qualifier
+1977 266 away Togo Senegal 2 1 African Nations Cup qualifier
+1977 281 home Togo Senegal 0 1 African Nations Cup qualifier
+1979 264 home Togo Gambia 2 0 African Nations Cup qualifier
+1979 278 away Togo Gambia 1 0 African Nations Cup qualifier
+1979 307 away Togo Morocco 7 0 African Nations Cup qualifier
+1979 321 home Togo Morocco 2 1 African Nations Cup qualifier
+1980 348 away Togo Mali 1 2 Friendly
+1980 350 away Togo Mali 4 0 Friendly
+1980 355 away Togo Niger 0 1 World Cup qualifier
+1980 369 home Togo Niger 1 2 World Cup qualifier
+1981 70 away Togo Liberia 2 0 Friendly
+1981 98 away Togo Cameroon 4 0 African Nations Cup qualifier
+1981 107 home Togo Congo 2 1 Friendly
+1981 112 home Togo Cameroon 2 2 African Nations Cup qualifier
+1982 44 home Togo Liberia 1 0 West African Nations Cup
+1982 48 home Togo UpperVolta 2 1 West African Nations Cup
+1982 52 away Togo IvoryCoast 1 1 West African Nations Cup
+1982 54 away Togo Ghana 2 1 West African Nations Cup
+1982 306 away Togo Senegal 1 2 Friendly
+1982 317 home Togo Benin 2 2 Friendly
+1982 324 home Togo SierraLeone 3 0 African Nations Cup qualifier
+1982 338 away Togo SierraLeone 0 1 African Nations Cup qualifier
+1983 86 home Togo Congo 0 2 Friendly
+1983 92 away Togo Benin 0 2 Friendly
+1983 103 away Togo Guinea 0 1 African Nations Cup qualifier
+1983 110 away Togo Guinea-Bissau 2 0 Cedeao Tournament
+1983 117 home Togo Guinea 2 0 African Nations Cup qualifier
+1983 132 home Togo Guinea-Bissau 3 0 Cedeao Tournament
+1983 189 away Togo Ethiopia 2 1 African Nations Cup qualifier
+1983 229 away Togo Mauritania 0 4 Cedeao Tournament
+1983 245 home Togo Ethiopia 3 0 African Nations Cup qualifier
+1983 275 away Togo Ghana 1 1 West African Nations Cup
+1983 276 away Togo IvoryCoast 3 0 West African Nations Cup
+1983 278 home Togo Liberia 4 0 West African Nations Cup
+1983 281 away Togo Ghana 3 1 West African Nations Cup
+1983 357 home Togo Nigeria 5 2 Cedeao Tournament
+1983 359 away Togo IvoryCoast 2 1 Cedeao Tournament
+1983 361 away Togo IvoryCoast 1 0 Cedeao Tournament
+1984 44 away Togo Congo 2 0 Friendly
+1984 46 home Togo Ghana 2 1 Friendly
+1984 50 away Togo Gabon 1 1 Friendly
+1984 66 away Togo IvoryCoast 3 0 African Nations Cup
+1984 69 away Togo Cameroon 4 1 African Nations Cup
+1984 72 away Togo Egypt 0 0 African Nations Cup
+1984 327 away Togo BurkinaFaso 1 1 West African Nations Cup
+1984 331 away Togo Ghana 2 2 West African Nations Cup
+1984 333 away Togo IvoryCoast 1 1 West African Nations Cup
+1984 335 home Togo Benin 2 0 West African Nations Cup
+1984 338 away Togo Ghana 1 1 West African Nations Cup
+1985 93 home Togo Senegal 0 1 African Nations Cup qualifier
+1985 100 away Togo Mali 4 0 Cedeao Tournament
+1985 107 away Togo Senegal 1 1 African Nations Cup qualifier
+1985 114 home Togo Mali 3 0 Cedeao Tournament
+1986 55 home Togo BurkinaFaso 1 0 West African Nations Cup
+1986 56 away Togo Ghana 2 2 West African Nations Cup
+1986 58 home Togo Liberia 1 0 West African Nations Cup
+1986 59 away Togo Niger 3 1 West African Nations Cup
+1986 63 home Togo Niger 3 1 West African Nations Cup
+1986 64 away Togo Ghana 1 0 West African Nations Cup
+1986 213 away Togo Nigeria 2 2 Friendly tournament
+1986 217 away Togo Ghana 1 1 Friendly tournament
+1986 219 away Togo Liberia 1 0 Friendly tournament
+1987 6 away Togo Ghana 3 0 African Games qualifier
+1987 18 home Togo Ghana 1 1 African Games qualifier
+1987 31 home Togo Niger 1 0 West African Nations Cup
+1987 33 home Togo IvoryCoast 1 0 West African Nations Cup
+1987 35 away Togo Ghana 3 0 West African Nations Cup
+1987 37 away Togo Liberia 3 0 West African Nations Cup
+1987 39 away Togo Nigeria 3 1 West African Nations Cup
+1987 90 away Togo Nigeria 2 0 African Nations Cup qualifier
+1987 105 home Togo Nigeria 1 1 African Nations Cup qualifier
+1987 328 home Togo CentralAfrican 1 0 Friendly
+1987 332 away Togo IvoryCoast 3 0 Cedeao Tournament
+1987 354 home Togo IvoryCoast 1 0 Cedeao Tournament
+1988 137 away Togo Reunion 1 0 Friendly
+1990 42 home Togo Cameroon 1 1 Friendly
+1990 215 home Togo Mali 0 0 Friendly
+1990 235 away Togo Nigeria 3 0 African Nations Cup qualifier
+1990 250 away Togo BurkinaFaso 2 0 African Nations Cup qualifier
+1990 278 home Togo Ghana 0 1 African Nations Cup qualifier
+1990 293 away Togo Benin 1 1 African Nations Cup qualifier
+1991 27 home Togo Nigeria 0 0 African Nations Cup qualifier
+1991 114 home Togo BurkinaFaso 1 0 African Nations Cup qualifier
+1991 122 away Togo Ghana 2 0 African Nations Cup qualifier
+1991 200 home Togo Benin 2 0 African Nations Cup qualifier
+1992 98 home Togo Ghana 1 0 Friendly
+1992 169 away Togo Gabon 1 0 Friendly
+1992 234 away Togo Senegal 2 0 African Nations Cup qualifier
+1992 282 home Togo Algeria 0 0 African Nations Cup qualifier
+1992 290 away Togo Zimbabwe 1 0 World Cup qualifier
+1992 304 home Togo Egypt 1 4 World Cup qualifier
+1992 318 home Togo Guinea-Bissau 0 0 African Nations Cup qualifier
+1993 9 away Togo SierraLeone 0 0 African Nations Cup qualifier
+1993 17 home Togo Zimbabwe 1 2 World Cup qualifier
+1993 24 home Togo Senegal 1 1 African Nations Cup qualifier
+1993 31 away Togo Egypt 3 0 World Cup qualifier
+1993 59 home Togo Angola 0 1 World Cup qualifier
+1993 116 away Togo Algeria 4 0 African Nations Cup qualifier
+1994 221 away Togo Niger 0 0 Friendly
+1994 233 away Togo Niger 3 2 Friendly
+1994 252 away Togo Liberia 1 0 African Nations Cup qualifier
+1994 254 away Togo Liberia 1 1 Friendly
+1994 295 home Togo Senegal 2 0 African Nations Cup qualifier
+1994 323 away Togo Tunisia 1 1 African Nations Cup qualifier
+1994 345 home Togo BurkinaFaso 2 0 Friendly
+1994 359 away Togo Cameroon 1 1 Friendly
+1995 8 home Togo Mauritania 0 0 African Nations Cup qualifier
+1995 15 away Togo IvoryCoast 0 0 Friendly
+1995 102 home Togo Liberia 0 0 African Nations Cup qualifier
+1995 115 away Togo Senegal 5 1 African Nations Cup qualifier
+1995 137 home Togo Benin 3 0 Friendly
+1995 159 home Togo Tunisia 0 1 African Nations Cup qualifier
+1995 200 away Togo Mauritania 2 1 African Nations Cup qualifier
+1996 157 home Togo Senegal 2 1 World Cup qualifier
+1996 164 away Togo Nigeria 1 3 Friendly
+1996 170 away Togo Senegal 1 1 World Cup qualifier
+1996 228 away Togo Congo 0 0 African Nations Cup qualifier
+1996 237 home Togo Benin 2 0 Friendly
+1996 242 home Togo Congo 1 0 African Nations Cup qualifier
+1996 284 home Togo Tanzania 2 1 African Nations Cup qualifier
+1996 313 home Togo Gabon 0 1 Friendly
+1996 320 home Togo Cameroon 2 4 World Cup qualifier
+1997 6 home Togo Ghana 4 0 Friendly
+1997 12 away Togo Zimbabwe 3 0 World Cup qualifier
+1997 19 away Togo Benin 1 1 Friendly
+1997 26 home Togo Liberia 2 1 African Nations Cup qualifier
+1997 54 home Togo Zaire 1 1 African Nations Cup qualifier
+1997 92 away Togo Gabon 2 1 Friendly
+1997 99 away Togo Angola 3 1 World Cup qualifier
+1997 120 away Togo Cameroon 2 0 World Cup qualifier
+1997 159 home Togo BurkinaFaso 0 0 Friendly
+1997 163 home Togo Zimbabwe 2 1 World Cup qualifier
+1997 176 away Togo Tanzania 1 0 African Nations Cup qualifier
+1997 199 home Togo Liberia 4 0 African Nations Cup qualifier
+1997 213 away Togo Zaire 1 0 African Nations Cup qualifier
+1997 234 home Togo Angola 1 1 World Cup qualifier
+1997 289 away Togo UnitedArab 3 0 Friendly
+1997 336 away Togo Morocco 3 0 Friendly
+1997 359 away Togo Egypt 7 2 Friendly
+1997 363 home Togo Algeria 1 0 Friendly tournament
+1997 365 away Togo Cameroon 3 1 Friendly tournament
+1998 4 away Togo Guinea 1 0 Friendly
+1998 11 home Togo Mozambique 1 2 Friendly
+1998 29 home Togo Mali 2 1 Friendly
+1998 32 home Togo Mali 0 4 Friendly
+1998 40 away Togo Dem. Rep. of Congo 2 1 African Nations Cup
+1998 43 home Togo Ghana 2 1 African Nations Cup
+1998 47 away Togo Tunisia 3 1 African Nations Cup
+1998 219 away Togo SaoTome 0 4 African Nations Cup qualifier
+1998 235 home Togo SaoTome 2 0 African Nations Cup qualifier
+1998 240 away Togo BurkinaFaso 1 1 Friendly
+1998 254 home Togo Benin 0 1 Friendly
+1998 268 home Togo Mali 0 1 Friendly
+1998 283 home Togo Guinea 2 0 African Nations Cup qualifier
+1999 3 away Togo IvoryCoast 3 1 Friendly
+1999 18 home Togo BurkinaFaso 1 2 Friendly
+1999 59 home Togo Morocco 2 3 African Nations Cup qualifier
+1999 103 away Togo Morocco 1 1 African Nations Cup qualifier
+1999 175 away Togo Guinea 2 1 African Nations Cup qualifier
+1999 317 away Togo BurkinaFaso 1 0 Friendly
+1999 320 away Togo BurkinaFaso 1 1 Friendly
+1999 329 away Togo Libya 2 1 Friendly
+1999 336 away Togo Gabon 0 0 Friendly tournament
+1999 338 away Togo Congo 2 1 Friendly tournament
+1999 368 away Togo Gabon 3 2 Artificial River Tournament
+1999 369 away Togo Libya 2 0 Artificial River Tournament
+2000 4 away Togo Egypt 2 1 Friendly
+2000 7 away Togo Tunisia 7 0 Friendly
+2000 18 home Togo Egypt 1 0 Friendly
+2000 24 home Togo IvoryCoast 1 1 African Nations Cup
+2000 27 away Togo Ghana 2 0 African Nations Cup
+2000 31 home Togo Cameroon 1 0 African Nations Cup
+2000 101 away Togo Guinea-Bissau 0 0 World Cup qualifier
+2000 116 home Togo Guinea-Bissau 3 0 World Cup qualifier
+2000 159 away Togo Benin 1 2 Friendly
+2000 194 away Togo Zambia 2 0 World Cup qualifier
+2000 237 away Togo SierraLeone 2 0 African Nations Cup qualifier
+2000 251 home Togo SierraLeone 2 0 African Nations Cup qualifier
+2000 272 away Togo Senegal 0 0 African Nations Cup qualifier
+2000 287 home Togo Uganda 3 0 African Nations Cup qualifier
+2001 7 home Togo BurkinaFaso 1 1 Friendly
+2001 14 away Togo Guinea 0 0 African Nations Cup qualifier
+2001 28 home Togo Cameroon 0 2 World Cup qualifier
+2001 54 away Togo Libya 3 3 World Cup qualifier
+2001 73 home Togo Angola 1 1 World Cup qualifier
+2001 130 home Togo Zambia 3 2 World Cup qualifier
+2001 157 away Togo Uganda 0 3 African Nations Cup qualifier
+2001 172 home Togo Senegal 1 0 African Nations Cup qualifier
+2001 187 away Togo Cameroon 2 0 World Cup qualifier
+2001 201 home Togo Libya 2 0 World Cup qualifier
+2001 215 away Togo Angola 1 1 World Cup qualifier
+2001 338 away Togo Tunisia 1 0 Friendly
+2001 357 away Togo BurkinaFaso 1 2 Friendly
+2001 363 home Togo BurkinaFaso 1 0 Friendly
+2001 371 away Togo Benin 1 1 Friendly
+2002 21 home Togo IvoryCoast 0 0 African Nations Cup
+2002 26 home Togo Dem. Rep. of Congo 0 0 African Nations Cup
+2002 29 away Togo Cameroon 3 0 African Nations Cup
+2002 250 away Togo Libya 4 0 Friendly
+2002 255 away Togo Kenya 3 0 African Nations Cup qualifier
+2002 292 home Togo Mauritania 1 0 African Nations Cup qualifier
+2003 91 away Togo CapeVerde 2 1 African Nations Cup qualifier
+2003 163 home Togo CapeVerde 5 2 African Nations Cup qualifier
+2003 177 home Togo Kenya 2 0 African Nations Cup qualifier
+2003 191 away Togo Mauritania 0 0 African Nations Cup qualifier
+2003 290 away Togo EquatorialGuinea 1 0 World Cup qualifier
+2003 326 home Togo EquatorialGuinea 2 0 World Cup qualifier
+2004 144 away Togo Benin 0 1 Friendly
+2004 147 home Togo Benin 1 1 Friendly
+2004 160 away Togo Zambia 1 0 World Cup qualifier
+2004 169 away Togo Ghana 0 0 Friendly
+2004 175 home Togo Senegal 3 1 World Cup qualifier
+2004 190 away Togo Liberia 0 0 World Cup qualifier
+2004 253 home Togo Congo 2 0 World Cup qualifier
+2004 289 home Togo Mali 1 0 World Cup qualifier
+2005 89 away Togo Mali 1 2 World Cup qualifier
+2005 153 home Togo BurkinaFaso 1 0 Friendly
+2005 160 home Togo Zambia 4 1 World Cup qualifier
+2005 173 away Togo Senegal 2 2 World Cup qualifier
+2005 234 home Togo Morocco 1 0 Friendly
+2005 252 home Togo Liberia 3 0 World Cup qualifier
+2005 287 away Togo Congo 2 3 World Cup qualifier
+2005 321 away Togo Paraguay 4 2 Friendly tournament
+2005 323 away Togo Iran 2 0 Friendly tournament
+2006 7 away Togo Guinea 1 0 Friendly
+2006 11 home Togo Ghana 1 0 Friendly
+2006 21 away Togo Dem. Rep. of Congo 2 0 African Nations Cup
+2006 25 away Togo Cameroon 2 0 African Nations Cup
+2006 29 away Togo Angola 3 2 African Nations Cup
+2006 138 away Togo SaudiArabia 1 0 Friendly
+2006 157 away Togo Liechtenstein 0 1 Friendly
+2006 168 away Togo SouthKorea 2 1 World Cup
+2006 174 away Togo Switzerland 2 0 World Cup
+2006 178 away Togo France 2 0 World Cup
+2006 232 away Togo Ghana 2 0 Friendly
+2006 246 home Togo Niger 1 1 Friendly
+2006 251 home Togo Benin 2 1 African Nations Cup qualifier
+2006 287 away Togo Mali 1 0 African Nations Cup qualifier
+2006 325 away Togo Luxembourg 0 0 Friendly
+2007 38 home Togo Cameroon 2 2 Friendly
+2007 86 home Togo SierraLeone 3 1 African Nations Cup qualifier
+2007 158 away Togo SierraLeone 0 1 African Nations Cup qualifier
+2007 172 away Togo Benin 4 1 African Nations Cup qualifier
+2007 239 home Togo Zambia 3 1 Friendly
+2007 291 home Togo Mali 0 2 African Nations Cup qualifier
+2007 307 away Togo Senegal 0 0 UEMOA Tournament
+2007 309 away Togo Niger 2 1 UEMOA Tournament
+2007 311 away Togo BurkinaFaso 2 1 UEMOA Tournament
+2007 328 away Togo Ghana 2 0 Friendly tournament
+2007 331 home Togo UnitedArab 5 0 Friendly tournament
+2008 87 away Togo Guinea 2 0 Friendly
+2008 155 home Togo Zambia 1 0 World Cup qualifier
+2008 163 away Togo Swaziland 2 1 World Cup qualifier
+2008 237 away Togo Dem. Rep. of Congo 2 1 Friendly
+2008 258 away Togo Zambia 1 0 World Cup qualifier
+2008 290 home Togo Swaziland 6 0 World Cup qualifier
+2008 329 home Togo Rwanda 1 0 Friendly
+2009 42 away Togo BurkinaFaso 1 1 Friendly
+2009 90 home Togo Cameroon 1 0 World Cup qualifier
+2009 161 away Togo Gabon 3 0 World Cup qualifier
+2009 175 away Togo Morocco 0 0 World Cup qualifier
+2009 229 away Togo Angola 2 0 Friendly
+2009 254 home Togo Morocco 1 1 World Cup qualifier
+2009 289 away Togo Cameroon 3 0 World Cup qualifier
+2009 293 away Togo Japan 5 0 Friendly
+2009 316 away Togo Bahrain 5 1 Friendly
+2009 324 home Togo Gabon 1 0 World Cup qualifier
+2010 143 away Togo Gabon 3 0 Friendly tournament
+2010 187 away Togo Chad 2 2 African Nations Cup qualifier
+2010 195 home Togo Malawi 1 1 African Nations Cup qualifier
+2010 228 away Togo SaudiArabia 1 0 Friendly
+2010 252 away Togo Botswana 2 1 African Nations Cup qualifier
+2010 289 home Togo Tunisia 1 2 African Nations Cup qualifier
+2010 327 home Togo Chad 0 0 African Nations Cup qualifier
+2011 39 away Togo Ghana 4 1 Friendly
+2011 88 away Togo Malawi 1 0 African Nations Cup qualifier
+2011 227 away Togo Niger 3 3 Friendly
+2011 252 home Togo Botswana 1 0 African Nations Cup qualifier
+2011 287 away Togo Tunisia 2 0 African Nations Cup qualifier
+2011 321 away Togo Guinea-Bissau 1 1 World Cup qualifier
+2011 325 home Togo Guinea-Bissau 1 0 World Cup qualifier
+2012 60 away Togo Kenya 2 1 African Nations Cup qualifier
+2012 146 away Togo Egypt 3 0 Friendly
+2012 158 home Togo Libya 1 1 World Cup qualifier
+2012 165 away Togo Dem. Rep. of Congo 2 0 World Cup qualifier
+2012 172 home Togo Kenya 1 0 African Nations Cup qualifier
+2012 231 away Togo BurkinaFaso 3 0 Friendly
+2012 256 away Togo Gabon 1 1 African Nations Cup qualifier
+2012 293 home Togo Gabon 2 1 African Nations Cup qualifier
+2012 324 away Togo Morocco 0 1 Friendly
+2012 370 away Togo Oman 0 1 Friendly
+2013 5 away Togo Niger 3 1 Friendly
+2013 13 home Togo Niger 2 1 Friendly
+2013 22 away Togo IvoryCoast 2 1 African Nations Cup
+2013 26 home Togo Algeria 2 0 African Nations Cup
+2013 30 home Togo Tunisia 1 1 African Nations Cup
+2013 34 away Togo BurkinaFaso 1 0 African Nations Cup
+2013 85 away Togo Cameroon 2 1 World Cup qualifier
+2013 160 away Togo EquatorialGuinea 0 1 Friendly
+2013 164 home Togo Cameroon 2 0 World Cup qualifier
+2013 169 away Togo Libya 2 0 World Cup qualifier
+2013 256 home Togo Dem. Rep. of Congo 2 1 World Cup qualifier

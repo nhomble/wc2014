@@ -1,0 +1,126 @@
+Edin Dzeko Edin Dzeko 
+Manchester City / Barclays PL 
+83	ST	72	82	67	80	51	74	3 	4 	 / 	 Right	1,400	1,797		
+Asmir Begovic Asmir Begovic 
+Stoke City / Barclays PL 
+81	GK	83	81	74	86	52	78	1 	2 	 / 	 Right	800	965		
+Senad Lulic Senad Lulic 
+Lazio / Serie A 
+79	LM	84	72	79	79	75	72	3 	4 	 / 	 Right	650	2,013		
+Sejad Salihovic Sejad Salihovic 
+1899 Hoffenheim / Bundesliga 
+77	CM	50	81	83	75	71	58	3 	2 	 / 	 Left	650	1,985		
+Izet Hajrovic Izet Hajrovic 
+Grasshopper Club Zürich / Raiffeisen SL 
+74	RM	83	70	69	81	52	57	2 	4 	 / 	 Left	3,000	1,816		
+Izet Hajrovic Izet Hajrovic 
+Galatasaray / Turklig 
+74	RM	83	70	69	81	52	57	2 	4 	 / 	 Left	0	1,816		
+Elvir Rahimic Elvir Rahimic 
+CSKA Moskva / Russian League 
+66	CDM	34	57	64	62	66	74	2 	3 	 / 	 Right	600	1,641		
+Milan Djuric Milan Djuric 
+Trapani / Serie B 
+66	ST	65	62	57	59	48	70	2 	3 	 / 	 Right	400	1,533		
+Gordan Bunoza Gordan Bunoza 
+Wisła Kraków / Ekstraklasa 
+66	LB	83	42	55	61	70	64	2 	3 	 / 	 Left	950	1,544		
+Milan Djuric Milan Djuric 
+Cittadella / Serie B 
+66	ST	65	62	57	59	48	70	2 	3 	 / 	 Right	0	1,533		
+Zlatko Janjic Zlatko Janjic 
+Erzgebirge Aue / Bundesliga 2 
+64	CAM	72	65	57	69	40	53	3 	3 	 / 	 Right	200	1,564		
+Eldin Hadzic Eldin Hadzic 
+Hércules CF / Liga Adelante 
+64	CF	78	59	54	69	39	54	2 	3 	 / 	 Right	200	1,496		
+Muhamed Subasic Muhamed Subasic 
+OH Leuven / Pro League 
+63	LB	72	53	63	65	60	60	2 	2 	 / 	 Left	200	1,636		
+Jasmin Fejzic Jasmin Fejzic 
+VfR Aalen / Bundesliga 2 
+62	GK	66	60	63	64	25	57	1 	2 	 / 	 Right	200	792		
+Adnan Mravac Adnan Mravac 
+Dynamo Dresden / Bundesliga 2 
+61	CB	52	38	48	44	63	67	2 	3 	 / 	 Right	200	1,339		
+Dinko Felic Dinko Felic 
+Syrianska FC / Allsvenskan 
+60	ST	58	56	55	62	42	58	2 	3 	 / 	 Right	200	1,378		
+Amir Spahic Amir Spahic 
+Śląsk Wrocław / Ekstraklasa 
+59	LB	70	51	50	63	58	66	3 	3 	 / 	 Left	250	1,511		
+Miralem Pjanic Miralem Pjanic 
+Roma / Serie A 
+80	CM	70	78	84	82	64	63	3 	4 	 / 	 Right	350	2,042		
+Vedad Ibisevic Vedad Ibisevic 
+VfB Stuttgart / Bundesliga 
+79	ST	66	76	61	73	47	78	3 	4 	 / 	 Right	350	1,709		
+Miralem Pjanic Miralem Pjanic 
+Roma / Serie A 
+78	CM	69	74	82	81	60	62	3 	4 	 / 	 Right	1,500	1,927		
+Emir Spahic Emir Spahic 
+Bayer 04 Leverkusen / Bundesliga 
+77	CB	60	44	61	51	75	79	2 	4 	 / 	 Left	350	1,588		
+Mensur Mujdza Mensur Mujdza 
+SC Freiburg / Bundesliga 
+73	RB	73	53	72	69	73	65	2 	3 	 / 	 Right	800	1,765		
+Ermin Bicakcic Ermin Bicakcic 
+Eintracht Braunschweig / Bundesliga 
+73	CB	63	38	55	43	74	74	2 	3 	 / 	 Right	1,900	1,480		
+Miroslav Stevanovic Miroslav Stevanovic 
+Elche CF / Liga BBVA 
+72	RM	77	58	71	73	48	68	3 	3 	 / 	 Right	400	1,691		
+Miroslav Stevanovic Miroslav Stevanovic 
+Sevilla FC / Liga BBVA 
+72	RM	77	58	71	73	48	68	3 	3 	 / 	 Right	200	1,691		
+Miroslav Stevanovic Miroslav Stevanovic 
+Deportivo Alavés / Liga Adelante 
+72	RM	77	58	71	73	48	68	3 	3 	 / 	 Right	500	1,691		
+Ervin Zukanovic Ervin Zukanovic 
+AA Gent / Pro League 
+70	CB	52	53	67	57	71	68	2 	3 	 / 	 Left	300	1,644		
+Damir Vrancic Damir Vrancic 
+Eintracht Braunschweig / Bundesliga 
+69	CM	59	56	67	65	66	65	2 	4 	 / 	 Right	250	1,714		
+Jasmin Buric Jasmin Buric 
+Lech Poznań / Ekstraklasa 
+68	GK	70	65	61	75	30	62	1 	3 	 / 	 Right	50,000	843		
+Enis Nadarevic Enis Nadarevic 
+Cesena / Serie B 
+66	LM	80	62	60	69	42	64	3 	3 	 / 	 Left	300	1,581		
+Enis Nadarevic Enis Nadarevic 
+Bari / Serie B 
+66	LM	80	62	60	69	42	64	3 	3 	 / 	 Left	0	1,581		
+Boubacar Diabang Boubacar Diabang 
+KV Mechelen / Pro League 
+65	LM	82	58	58	67	52	61	3 	2 	 / 	 Left	200	1,629		
+Vlastimir Jovanovic Vlastimir Jovanovic 
+Korona Kielce / Ekstraklasa 
+64	CDM	69	45	62	61	64	55	2 	3 	 / 	 Right	200	1,540		
+Mateo Susic Mateo Susic 
+Energie Cottbus / Bundesliga 2 
+64	RB	73	46	63	62	62	61	2 	3 	 / 	 Right	200	1,576		
+Zlatko Tripic Zlatko Tripic 
+Molde FK / Tippeligaen 
+62	RW	72	59	55	63	40	52	3 	3 	 / 	 Right	200	1,453		
+Senad Karahmet Senad Karahmet 
+KV Mechelen / Pro League 
+61	LB	65	36	62	63	62	56	2 	3 	 / 	 Left	200	1,474		
+Haris Skenderovic Haris Skenderovic 
+Syrianska FC / Allsvenskan 
+60	CB	38	34	42	43	61	70	2 	3 	 / 	 Right	200	1,257		
+Sanjin Prcic Sanjin Prcic 
+FC Sochaux / Ligue 1 
+58	CM	61	51	62	61	46	50	3 	3 	 / 	 Right	200	1,492		
+Arvedin Terzic Arvedin Terzic 
+SC Wiener Neustadt / A. Bundesliga 
+58	LM	66	59	61	58	36	60	3 	3 	 / 	 Left	200	1,445		
+Bahrudin Atajic Bahrudin Atajic 
+Celtic / Scottish Prem 
+55	ST	66	48	47	59	35	53	2 	2 	 / 	 Right	1,000,000	1,287		
+Bahrudin Atajic Bahrudin Atajic 
+Shrewsbury Town / Football League 1 
+55	ST	66	48	47	59	35	53	2 	2 	 / 	 Right	200	1,287		
+Armin Alesevic Armin Alesevic 
+FC Zürich / Raiffeisen SL 
+48	CB	60	28	26	27	48	49	2 	3 	 / 	 Left	200	1,086		

@@ -1,0 +1,4725 @@
+August 28
+1920	Sweden
+Greece	9
+0	Olympic Games
+in Belgium	+42
+-42	1707
+1458	-1
+-	13
+29
+June 30
+1929	Bulgaria
+Greece	1
+1	Friendly
+in Bulgaria	-1
++1	1405
+1459	0
+0	45
+44
+January 26
+1930	Greece
+Yugoslavia	2
+1	Balkan Cup
+in Greece	+19
+-19	1478
+1531	+4
+-2	40
+33
+May 25
+1930	Romania
+Greece	8
+1	Balkan Cup
+in Romania	+19
+-19	1624
+1459	+5
+-3	19
+42
+December 07
+1930	Greece
+Bulgaria	6
+1	Balkan Cup
+in Greece	+23
+-23	1482
+1382	+2
+-1	41
+48
+March 15
+1931	Yugoslavia
+Greece	4
+1	Balkan Cup
+in Yugoslavia	+14
+-14	1644
+1468	+1
+-2	19
+44
+October 25
+1931	Bulgaria
+Greece	2
+1	Balkan Cup
+in Bulgaria	+18
+-18	1419
+1450	+4
+0	47
+44
+November 29
+1931	Greece
+Romania	2
+4	Balkan Cup
+in Greece	-20
++20	1430
+1687	0
++1	44
+17
+March 27
+1932	Greece
+Bulgaria	1
+2	Friendly
+in Greece	-13
++13	1417
+1432	-2
++2	46
+44
+June 26
+1932	Yugoslavia
+Greece	7
+1	Balkan Cup
+in Yugoslavia	+17
+-17	1576
+1400	+1
+-6	30
+51
+June 28
+1932	Romania
+Greece	3
+0	Balkan Cup
+in Yugoslavia	+14
+-14	1657
+1386	+1
+-1	18
+52
+July 02
+1932	Bulgaria
+Greece	2
+0	Balkan Cup
+in Yugoslavia	+21
+-21	1517
+1365	+2
+-1	36
+53
+June 03
+1933	Yugoslavia
+Greece	5
+3	Balkan Cup
+in Romania	+15
+-15	1578
+1350	+1
+-3	30
+56
+June 06
+1933	Romania
+Greece	1
+0	Balkan Cup
+in Romania	+4
+-4	1629
+1346	0
+-2	22
+58
+June 10
+1933	Bulgaria
+Greece	2
+0	Balkan Cup
+in Romania	+20
+-20	1489
+1326	+3
+0	40
+58
+February 04
+1934	Greece
+Bulgaria	1
+0	Friendly
+in Greece	+12
+-12	1338
+1477	0
+-2	58
+42
+March 25
+1934	Italy
+Greece	4
+0	World Cup qualifier
+in Italy	+2
+-2	1906
+1336	0
+0	4
+58
+December 23
+1934	Greece
+Yugoslavia	2
+1	Balkan Cup
+in Greece	+28
+-28	1364
+1562	+3
+-3	56
+32
+December 27
+1934	Greece
+Romania	2
+2	Balkan Cup
+in Greece	+10
+-10	1374
+1639	0
+-2	56
+20
+January 01
+1935	Greece
+Bulgaria	1
+2	Balkan Cup
+in Greece	-22
++22	1352
+1454	-2
++1	57
+43
+June 16
+1935	Bulgaria
+Greece	5
+2	Balkan Cup
+in Bulgaria	+17
+-17	1471
+1335	0
+-2	41
+59
+June 21
+1935	Yugoslavia
+Greece	6
+1	Balkan Cup
+in Bulgaria	+11
+-11	1661
+1324	0
+0	19
+59
+June 24
+1935	Greece
+Romania	2
+2	Balkan Cup
+in Bulgaria	+11
+-11	1335
+1526	0
+0	59
+35
+May 17
+1936	Romania
+Greece	5
+2	Balkan Cup
+in Romania	+10
+-10	1554
+1325	0
+0	35
+59
+May 21
+1936	Bulgaria
+Greece	5
+4	Balkan Cup
+in Romania	+10
+-10	1520
+1315	0
+0	36
+59
+June 19
+1936	Egypt
+Greece	3
+1	Friendly
+in Egypt	+3
+-3	1633
+1312	0
+0	22
+60
+January 22
+1938	Palestine
+Greece	1
+3	World Cup qualifier
+in Palestine	-36
++36	1245
+1348	0
++2	66
+59
+February 20
+1938	Greece
+Palestine	1
+0	World Cup qualifier
+in Greece	+9
+-9	1357
+1236	+3
+0	57
+68
+March 25
+1938	Hungary
+Greece	11
+1	World Cup qualifier
+in Hungary	+4
+-4	1819
+1353	0
+-3	7
+59
+April 23
+1948	Greece
+Turkey	1
+3	Friendly
+in Greece	-17
++17	1336
+1425	-1
++3	68
+55
+November 28
+1948	Turkey
+Greece	2
+1	Friendly
+in Turkey	+4
+-4	1491
+1332	0
+0	45
+70
+May 15
+1949	Greece
+Turkey	1
+2	Mediterranean Cup
+in Greece	-15
++15	1317
+1528	0
++1	73
+42
+May 18
+1949	Greece
+Egypt	1
+3	Mediterranean Cup
+in Greece	-19
++19	1298
+1567	-2
++5	75
+32
+November 25
+1949	Greece
+Syria	8
+0	Friendly
+in Greece	+29
+-29	1327
+1442	+3
+-6	76
+55
+February 17
+1950	Egypt
+Greece	2
+0	Mediterranean Cup
+in Egypt	+7
+-7	1574
+1320	+1
+-1	31
+77
+October 14
+1951	Greece
+Syria	4
+0	Mediterranean Games
+in Egypt	+48
+-48	1368
+1374	+8
+-11	74
+73
+October 18
+1951	Egypt
+Greece	0
+2	Mediterranean Games
+in Egypt	-52
++52	1542
+1420	-10
++12	40
+62
+October 21
+1951	Egypt
+Greece	3
+0	Friendly
+in Egypt	+8
+-8	1550
+1412	+3
+0	37
+62
+November 25
+1951	Greece
+Egypt	1
+0	Mediterranean Cup
+in Greece	+22
+-22	1434
+1528	+3
+-5	59
+42
+May 16
+1952	Turkey
+Greece	0
+1	Friendly
+in Turkey	-16
++16	1562
+1450	-4
++2	35
+56
+July 15
+1952	Denmark
+Greece	2
+1	Olympic Games
+in Finland	+14
+-14	1668
+1436	+2
+-2	22
+59
+November 28
+1952	Greece
+Egypt	2
+2	Friendly
+in Greece	0
+0	1436
+1525	0
+0	60
+42
+May 09
+1953	Yugoslavia
+Greece	1
+0	World Cup qualifier
+in Yugoslavia	+2
+-2	1869
+1434	0
+-1	7
+61
+November 01
+1953	Greece
+Israel	1
+0	World Cup qualifier
+in Greece	+17
+-17	1451
+1470	+2
+-3	59
+56
+March 08
+1954	Israel
+Greece	0
+2	World Cup qualifier
+in Israel	-40
++40	1428
+1491	-5
++8	62
+51
+March 28
+1954	Greece
+Yugoslavia	0
+1	World Cup qualifier
+in Greece	-6
++6	1485
+1897	-2
+0	53
+5
+November 07
+1954	Greece
+Egypt	1
+1	Mediterranean Cup
+in Greece	-2
++2	1483
+1555	0
++1	54
+40
+January 23
+1955	Egypt
+Greece	1
+1	Mediterranean Cup
+in Egypt	-9
++9	1551
+1492	-2
+0	41
+54
+May 05
+1957	Greece
+Yugoslavia	0
+0	World Cup qualifier
+in Greece	+11
+-11	1503
+1793	+4
+-1	50
+13
+June 16
+1957	Greece
+Romania	1
+2	World Cup qualifier
+in Greece	-22
++22	1481
+1598	-9
++1	59
+35
+November 03
+1957	Romania
+Greece	3
+0	World Cup qualifier
+in Romania	+15
+-15	1619
+1466	+4
+-2	32
+61
+November 10
+1957	Yugoslavia
+Greece	4
+1	World Cup qualifier
+in Yugoslavia	+5
+-5	1807
+1461	+1
+-2	11
+63
+October 01
+1958	France
+Greece	7
+1	European Cup qualifier
+in France	+4
+-4	1905
+1457	+1
+-1	2
+63
+December 03
+1958	Greece
+France	1
+1	European Cup qualifier
+in Greece	+15
+-15	1472
+1888	+3
+0	60
+3
+November 15
+1959	Yugoslavia
+Greece	4
+0	Olympic Games qualifier
+in Yugoslavia	+5
+-5	1824
+1467	0
+-3	9
+60
+December 02
+1959	Greece
+Denmark	1
+3	Friendly
+in Greece	-14
++14	1453
+1607	-3
++1	63
+38
+March 06
+1960	Israel
+Greece	2
+1	Olympic Games qualifier
+in Israel	+12
+-12	1518
+1441	+4
+-4	46
+67
+April 03
+1960	Greece
+Israel	2
+1	Olympic Games qualifier
+in Greece	+19
+-19	1460
+1499	+8
+-5	60
+51
+April 24
+1960	Greece
+Yugoslavia	0
+5	Olympic Games qualifier
+in Greece	-15
++15	1445
+1832	-5
+0	70
+10
+July 03
+1960	Denmark
+Greece	7
+2	Friendly
+in Denmark	+7
+-7	1615
+1438	+1
+-3	37
+71
+November 20
+1960	Greece
+West Germany	0
+3	World Cup qualifier
+in Greece	-11
++11	1427
+1832	-3
+0	75
+11
+May 03
+1961	Greece
+Northern Ireland	2
+1	World Cup qualifier
+in Greece	+22
+-22	1449
+1541	+7
+-2	69
+48
+October 17
+1961	Northern Ireland
+Greece	2
+0	World Cup qualifier
+in Northern Ireland	+17
+-17	1530
+1432	+4
+-6	49
+74
+October 22
+1961	West Germany
+Greece	2
+1	World Cup qualifier
+in West Germany	+2
+-2	1831
+1430	0
+0	12
+74
+October 18
+1962	Greece
+Ethiopia	3
+2	Friendly
+in Greece	+7
+-7	1437
+1405	+2
+-1	75
+82
+May 22
+1963	Poland
+Greece	4
+0	Friendly
+in Poland	+7
+-7	1609
+1430	+2
+-1	38
+78
+October 16
+1963	Greece
+Poland	3
+1	Friendly
+in Greece	+19
+-19	1449
+1595	+4
+-4	73
+41
+November 27
+1963	Cyprus
+Greece	3
+1	Friendly
+in Cyprus	+13
+-13	1397
+1436	+3
+-4	88
+78
+May 13
+1964	Greece
+Ethiopia	3
+1	Friendly
+in Greece	+11
+-11	1447
+1419	+6
+-2	73
+84
+November 29
+1964	Greece
+Denmark	4
+2	World Cup qualifier
+in Greece	+34
+-34	1481
+1565	+5
+-6	70
+48
+December 09
+1964	Greece
+Wales	2
+0	World Cup qualifier
+in Greece	+37
+-37	1518
+1624	+13
+-5	57
+34
+February 24
+1965	Greece
+Bulgaria	1
+2	Friendly
+in Greece	-8
++8	1510
+1683	-2
+0	58
+27
+March 17
+1965	Wales
+Greece	4
+1	World Cup qualifier
+in Wales	+16
+-16	1640
+1494	+4
+-4	30
+64
+May 23
+1965	Soviet Union
+Greece	3
+1	World Cup qualifier
+in the Soviet Union	+4
+-4	1855
+1490	+1
+-3	6
+68
+October 03
+1965	Greece
+Soviet Union	1
+4	World Cup qualifier
+in Greece	-13
++13	1477
+1859	-1
++2	71
+6
+October 27
+1965	Denmark
+Greece	1
+1	World Cup qualifier
+in Denmark	-10
++10	1564
+1487	-2
++1	48
+70
+October 16
+1966	Greece
+Finland	2
+1	European Cup qualifier
+in Greece	+10
+-10	1497
+1385	+6
+-3	64
+89
+February 15
+1967	Greece
+Libya	4
+0	Friendly
+in Greece	+15
+-15	1512
+1504	+5
+-2	56
+58
+March 08
+1967	Greece
+Romania	1
+2	Friendly
+in Greece	-5
++5	1507
+1796	-1
++1	57
+14
+May 10
+1967	Finland
+Greece	1
+1	European Cup qualifier
+in Finland	+1
+-1	1386
+1506	+1
+0	90
+58
+July 16
+1967	Soviet Union
+Greece	4
+0	European Cup qualifier
+in the Soviet Union	+3
+-3	1939
+1503	0
+-1	4
+61
+October 04
+1967	Greece
+Austria	4
+1	European Cup qualifier
+in Greece	+43
+-43	1546
+1646	+9
+-2	54
+31
+October 31
+1967	Greece
+Soviet Union	0
+1	European Cup qualifier
+in Greece	-7
++7	1539
+1931	-1
++1	56
+5
+November 05
+1967	Austria
+Greece	1
+1	European Cup qualifier
+in Austria	-12
++12	1665
+1551	-1
++4	30
+52
+October 12
+1968	Switzerland
+Greece	1
+0	World Cup qualifier
+in Switzerland	+11
+-11	1620
+1540	0
+-2	39
+56
+November 20
+1968	Greece
+Egypt	4
+1	Friendly
+in Greece	+23
+-23	1563
+1726	+8
+-1	50
+20
+December 11
+1968	Greece
+Portugal	4
+2	World Cup qualifier
+in Greece	+48
+-48	1611
+1847	+12
+-3	38
+10
+March 12
+1969	Israel
+Greece	3
+3	Friendly
+in Israel	-2
++2	1595
+1613	0
+0	43
+40
+March 25
+1969	Greece
+Cyprus	1
+0	Friendly
+in Greece	+2
+-2	1615
+1354	0
+-1	38
+101
+April 16
+1969	Greece
+Romania	2
+2	World Cup qualifier
+in Greece	+1
+-1	1616
+1731	0
+0	38
+21
+May 04
+1969	Portugal
+Greece	2
+2	World Cup qualifier
+in Portugal	-13
++13	1777
+1629	0
++1	16
+36
+July 19
+1969	Australia
+Greece	1
+0	Friendly
+in Australia	+8
+-8	1592
+1621	+1
+-2	46
+37
+July 23
+1969	Australia
+Greece	2
+2	Friendly
+in Australia	-2
++2	1590
+1623	-1
++1	47
+36
+July 26
+1969	Australia
+Greece	0
+2	Friendly
+in Australia	-18
++18	1572
+1641	-1
++3	48
+33
+October 15
+1969	Greece
+Switzerland	4
+1	World Cup qualifier
+in Greece	+23
+-23	1664
+1595	+3
+-5	31
+44
+November 16
+1969	Romania
+Greece	1
+1	World Cup qualifier
+in Romania	-10
++10	1752
+1674	-3
+0	19
+33
+October 11
+1970	Malta
+Greece	1
+1	European Cup qualifier
+in Malta	+15
+-15	1240
+1659	0
+-1	130
+33
+October 28
+1970	Spain
+Greece	2
+1	Friendly
+in Spain	+4
+-4	1789
+1655	0
+0	13
+33
+November 19
+1970	Greece
+Australia	1
+3	Friendly
+in Greece	-19
++19	1636
+1678	-2
++5	37
+29
+November 22
+1970	Greece
+West Germany	1
+3	Friendly
+in Greece	-6
++6	1630
+1983	-2
++1	39
+2
+December 09
+1970	Greece
+Cyprus	1
+1	Friendly
+in Greece	-8
++8	1622
+1343	0
++3	39
+104
+December 16
+1970	Greece
+Switzerland	0
+1	European Cup qualifier
+in Greece	-27
++27	1595
+1628	-5
++4	45
+40
+April 07
+1971	Greece
+Bulgaria	0
+1	Friendly
+in Greece	-10
++10	1585
+1695	-1
+0	46
+27
+April 21
+1971	England
+Greece	3
+0	European Cup qualifier
+in England	+4
+-4	1992
+1581	0
+0	2
+46
+May 12
+1971	Switzerland
+Greece	1
+0	European Cup qualifier
+in Switzerland	+12
+-12	1636
+1569	0
+-2	39
+49
+June 18
+1971	Greece
+Malta	2
+0	European Cup qualifier
+in Greece	+4
+-4	1573
+1224	+1
+0	48
+127
+July 06
+1971	Mexico
+Greece	1
+1	Friendly
+in Mexico	-5
++5	1681
+1578	0
++1	29
+47
+September 30
+1971	Greece
+Mexico	0
+1	Friendly
+in Greece	-11
++11	1567
+1671	-4
++3	50
+32
+October 10
+1971	Morocco
+Greece	1
+0	Mediterranean Games
+in Turkey	+14
+-14	1695
+1553	0
+-4	29
+54
+October 13
+1971	Egypt
+Greece	0
+0	Mediterranean Games
+in Turkey	-9
++9	1717
+1562	-2
+0	25
+54
+November 17
+1971	Bulgaria
+Greece	2
+2	Friendly
+in Bulgaria	-6
++6	1724
+1568	-2
++2	23
+51
+December 01
+1971	Greece
+England	0
+2	European Cup qualifier
+in Greece	-9
++9	1559
+1989	-2
+0	53
+3
+February 16
+1972	Greece
+Netherlands	0
+5	Friendly
+in Greece	-17
++17	1542
+1736	-3
++3	57
+22
+March 04
+1972	Greece
+Italy	2
+1	Friendly
+in Greece	+17
+-17	1559
+1946	+4
+0	56
+4
+April 12
+1972	Greece
+Spain	0
+0	Friendly
+in Greece	+4
+-4	1563
+1819	0
+0	55
+9
+May 07
+1972	Ethiopia
+Greece	0
+1	Friendly
+in Ethiopia	-9
++9	1425
+1572	-3
++1	80
+53
+September 02
+1972	Greece
+France	1
+3	Friendly
+in Greece	-12
++12	1560
+1749	-2
++2	53
+22
+November 19
+1972	Yugoslavia
+Greece	1
+0	World Cup qualifier
+in Yugoslavia	+4
+-4	1867
+1556	+2
+0	7
+54
+January 17
+1973	Greece
+Spain	2
+3	World Cup qualifier
+in Greece	-11
++11	1545
+1842	-4
++1	55
+10
+January 31
+1973	Greece
+Bulgaria	2
+2	Friendly
+in Greece	+3
+-3	1548
+1768	+2
+-2	53
+21
+February 21
+1973	Spain
+Greece	3
+1	World Cup qualifier
+in Spain	+6
+-6	1848
+1542	0
+-2	10
+54
+September 08
+1973	France
+Greece	3
+1	Friendly
+in France	+5
+-5	1712
+1537	0
+-1	28
+58
+December 19
+1973	Greece
+Yugoslavia	2
+4	World Cup qualifier
+in Greece	-12
++12	1525
+1898	-2
+0	58
+6
+April 28
+1974	Brazil
+Greece	0
+0	Friendly
+in Brazil	-10
++10	2076
+1535	0
++1	1
+58
+May 15
+1974	Poland
+Greece	2
+0	Friendly
+in Poland	+2
+-2	1929
+1533	0
+-1	5
+59
+May 29
+1974	Romania
+Greece	3
+1	Balkan Cup
+in Romania	+9
+-9	1747
+1524	+2
+0	23
+59
+October 13
+1974	Bulgaria
+Greece	3
+3	European Cup qualifier
+in Bulgaria	-14
++14	1719
+1538	0
++4	25
+54
+November 15
+1974	Greece
+Cyprus	3
+1	Friendly
+in Greece	+4
+-4	1542
+1303	+1
+-1	53
+114
+November 20
+1974	Greece
+West Germany	2
+2	European Cup qualifier
+in Greece	+17
+-17	1559
+2082	+4
+0	49
+1
+December 18
+1974	Greece
+Bulgaria	2
+1	European Cup qualifier
+in Greece	+23
+-23	1582
+1695	+5
+-3	44
+29
+February 23
+1975	Malta
+Greece	2
+0	European Cup qualifier
+in Malta	+48
+-48	1283
+1534	+7
+-12	123
+56
+April 01
+1975	Cyprus
+Greece	1
+2	Friendly
+in Cyprus	-6
++6	1297
+1540	-3
++2	118
+54
+June 04
+1975	Greece
+Malta	4
+0	European Cup qualifier
+in Greece	+9
+-9	1549
+1274	+3
+-3	55
+125
+September 24
+1975	Greece
+Romania	1
+1	Balkan Cup
+in Greece	+7
+-7	1556
+1777	+2
+-1	54
+20
+October 11
+1975	West Germany
+Greece	1
+1	European Cup qualifier
+in West Germany	-19
++19	2038
+1575	-1
++6	2
+50
+December 30
+1975	Italy
+Greece	3
+2	Friendly
+in Italy	+2
+-2	1904
+1573	0
+0	7
+48
+May 06
+1976	Greece
+Poland	1
+0	Friendly
+in Greece	+17
+-17	1590
+1946	+1
+0	46
+4
+September 22
+1976	Greece
+Israel	0
+1	Friendly
+in Greece	-9
++9	1581
+1734	-1
++2	48
+24
+October 09
+1976	Greece
+Hungary	1
+1	World Cup qualifier
+in Greece	+8
+-8	1589
+1825	+3
+0	46
+14
+November 10
+1976	Greece
+Austria	0
+3	Friendly
+in Greece	-16
++16	1573
+1739	-3
++4	50
+21
+January 26
+1977	Israel
+Greece	1
+1	Friendly
+in Israel	-6
++6	1704
+1579	0
++1	26
+48
+March 09
+1977	Austria
+Greece	2
+0	Friendly
+in Austria	+5
+-5	1767
+1574	0
+0	22
+49
+March 23
+1977	Czechoslovakia
+Greece	4
+0	Friendly
+in Czechoslovakia	+2
+-2	1954
+1572	0
+0	4
+49
+April 24
+1977	Soviet Union
+Greece	2
+0	World Cup qualifier
+in the Soviet Union	+5
+-5	1894
+1567	+2
+0	7
+49
+May 10
+1977	Greece
+Soviet Union	1
+0	World Cup qualifier
+in Greece	+31
+-31	1598
+1847	+3
+-2	46
+13
+May 28
+1977	Hungary
+Greece	3
+0	World Cup qualifier
+in Hungary	+8
+-8	1858
+1590	+1
+-1	12
+47
+September 21
+1977	Romania
+Greece	6
+1	Friendly
+in Romania	+5
+-5	1846
+1585	0
+-1	14
+49
+October 26
+1977	Bulgaria
+Greece	0
+0	Friendly
+in Bulgaria	-6
++6	1709
+1591	-1
++2	31
+45
+November 16
+1977	Greece
+Yugoslavia	0
+0	Balkan Cup
+in Greece	+6
+-6	1597
+1793	0
+-2	44
+19
+January 11
+1978	Cyprus
+Greece	0
+2	Friendly
+in Cyprus	-6
++6	1239
+1603	0
+0	133
+44
+February 15
+1978	Greece
+Austria	1
+1	Friendly
+in Greece	+3
+-3	1606
+1816	+1
+-1	43
+15
+March 22
+1978	Greece
+Czechoslovakia	0
+1	Friendly
+in Greece	-6
++6	1600
+1865	-1
+0	44
+13
+April 05
+1978	Poland
+Greece	5
+2	Friendly
+in Poland	+4
+-4	1881
+1596	+1
+-1	10
+45
+May 24
+1978	Finland
+Greece	3
+0	European Cup qualifier
+in Finland	+44
+-44	1453
+1552	+9
+-12	76
+57
+June 11
+1978	Australia
+Greece	1
+2	Friendly
+in Australia	-15
++15	1629
+1567	0
++6	39
+51
+June 14
+1978	Australia
+Greece	0
+1	Friendly
+in Australia	-14
++14	1615
+1581	-2
++2	41
+49
+June 17
+1978	Australia
+Greece	1
+1	Friendly
+in Australia	-4
++4	1611
+1585	-1
++1	42
+48
+September 20
+1978	Soviet Union
+Greece	2
+0	European Cup qualifier
+in the Soviet Union	+5
+-5	1924
+1580	0
+-1	7
+50
+October 11
+1978	Greece
+Finland	8
+1	European Cup qualifier
+in Greece	+21
+-21	1601
+1455	+6
+0	44
+75
+October 29
+1978	Greece
+Hungary	4
+1	European Cup qualifier
+in Greece	+42
+-42	1643
+1730	+6
+-6	37
+26
+November 15
+1978	Yugoslavia
+Greece	4
+1	Balkan Cup
+in Yugoslavia	+16
+-16	1765
+1627	+3
+-2	20
+39
+December 13
+1978	Greece
+Romania	2
+1	Friendly
+in Greece	+12
+-12	1639
+1779	+3
+0	37
+18
+February 14
+1979	Israel
+Greece	4
+1	Friendly
+in Israel	+11
+-11	1697
+1628	0
+-3	29
+40
+March 21
+1979	Romania
+Greece	3
+0	Friendly
+in Romania	+7
+-7	1786
+1621	0
+-3	19
+43
+May 02
+1979	Hungary
+Greece	0
+0	European Cup qualifier
+in Hungary	-12
++12	1750
+1633	-1
++6	24
+37
+September 12
+1979	Greece
+Soviet Union	1
+0	European Cup qualifier
+in Greece	+29
+-29	1662
+1878	+5
+-1	32
+9
+January 16
+1980	Cyprus
+Greece	1
+1	Friendly
+in Cyprus	+7
+-7	1251
+1655	+2
+-1	131
+34
+February 27
+1980	France
+Greece	5
+1	Friendly
+in France	+5
+-5	1884
+1650	0
+-1	9
+35
+April 01
+1980	Switzerland
+Greece	2
+0	Friendly
+in Switzerland	+14
+-14	1579
+1636	+3
+-3	53
+39
+April 16
+1980	East Germany
+Greece	2
+0	Friendly
+in East Germany	+4
+-4	1877
+1632	0
+0	10
+40
+May 14
+1980	Greece
+Bulgaria	0
+0	Friendly
+in Greece	-3
++3	1629
+1628	0
+0	39
+40
+June 11
+1980	Netherlands
+Greece	1
+0	European Cup
+in Italy	+6
+-6	1993
+1623	+1
+-2	3
+43
+June 14
+1980	Czechoslovakia
+Greece	3
+1	European Cup
+in Italy	+16
+-16	1868
+1607	+1
+-5	13
+48
+June 17
+1980	Greece
+West Germany	0
+0	European Cup
+in Italy	+22
+-22	1629
+2050	+7
+0	41
+1
+October 15
+1980	Denmark
+Greece	0
+1	World Cup qualifier
+in Denmark	-25
++25	1591
+1654	-6
++4	48
+36
+November 11
+1980	Greece
+Australia	3
+3	Friendly
+in Greece	-3
++3	1651
+1648	0
+0	35
+37
+December 06
+1980	Greece
+Italy	0
+2	World Cup qualifier
+in Greece	-14
++14	1637
+1974	-3
+0	38
+3
+January 28
+1981	Greece
+Luxembourg	2
+0	World Cup qualifier
+in Greece	+3
+-3	1640
+1193	0
+0	38
+145
+March 11
+1981	Luxembourg
+Greece	0
+2	World Cup qualifier
+in Luxembourg	-7
++7	1186
+1647	-1
++1	146
+37
+April 15
+1981	Cyprus
+Greece	0
+1	Friendly
+in Cyprus	-3
++3	1232
+1650	0
++1	135
+36
+April 29
+1981	Yugoslavia
+Greece	5
+1	World Cup qualifier
+in Yugoslavia	+12
+-12	1847
+1638	+1
+0	13
+37
+September 23
+1981	Greece
+Sweden	2
+1	Friendly
+in Greece	+8
+-8	1646
+1647	+1
+-1	38
+37
+October 14
+1981	Greece
+Denmark	2
+3	World Cup qualifier
+in Greece	-25
++25	1621
+1691	-3
++3	41
+30
+November 14
+1981	Italy
+Greece	1
+1	World Cup qualifier
+in Italy	-16
++16	1869
+1637	0
+0	8
+40
+November 29
+1981	Greece
+Yugoslavia	1
+2	World Cup qualifier
+in Greece	-13
++13	1624
+1872	0
++3	39
+7
+January 20
+1982	Greece
+Portugal	1
+2	Friendly
+in Greece	-11
++11	1613
+1715	-3
+0	42
+27
+February 10
+1982	Greece
+East Germany	0
+1	Friendly
+in Greece	-6
++6	1607
+1862	-1
+0	43
+10
+March 10
+1982	Greece
+Soviet Union	0
+2	Friendly
+in Greece	-5
++5	1602
+1976	0
+0	43
+3
+March 24
+1982	Czechoslovakia
+Greece	2
+1	Friendly
+in Czechoslovakia	+2
+-2	1861
+1600	+2
+-1	10
+44
+April 14
+1982	Netherlands
+Greece	1
+0	Friendly
+in the Netherlands	+2
+-2	1862
+1598	0
+0	11
+44
+October 09
+1982	Luxembourg
+Greece	0
+2	European Cup qualifier
+in Luxembourg	-8
++8	1170
+1606	-1
++1	147
+42
+October 27
+1982	Cyprus
+Greece	1
+1	Friendly
+in Cyprus	+6
+-6	1248
+1600	+1
+-2	136
+44
+November 17
+1982	Greece
+England	0
+3	European Cup qualifier
+in Greece	-13
++13	1587
+1974	-4
++1	48
+4
+December 01
+1982	Greece
+Switzerland	1
+3	Friendly
+in Greece	-15
++15	1572
+1704	-1
++1	48
+28
+December 22
+1982	Greece
+Cyprus	1
+0	Friendly
+in Greece	+2
+-2	1574
+1240	0
+-1	48
+137
+February 02
+1983	Greece
+Romania	1
+3	Friendly
+in Greece	-11
++11	1563
+1771	-5
++2	53
+20
+February 23
+1983	East Germany
+Greece	2
+1	Friendly
+in East Germany	+2
+-2	1815
+1561	+1
+0	13
+53
+March 30
+1983	England
+Greece	0
+0	European Cup qualifier
+in England	-18
++18	1964
+1579	-1
++5	3
+48
+April 27
+1983	Denmark
+Greece	1
+0	European Cup qualifier
+in Denmark	+10
+-10	1691
+1569	+1
+-3	31
+51
+May 15
+1983	Hungary
+Greece	2
+3	European Cup qualifier
+in Hungary	-34
++34	1728
+1603	-3
++7	25
+43
+October 05
+1983	Italy
+Greece	3
+0	Friendly
+in Italy	+3
+-3	1895
+1600	0
+0	6
+43
+November 16
+1983	Greece
+Denmark	0
+2	European Cup qualifier
+in Greece	-26
++26	1574
+1778	-7
++2	50
+22
+December 03
+1983	Greece
+Hungary	2
+2	European Cup qualifier
+in Greece	+2
+-2	1576
+1702	0
+0	51
+33
+December 14
+1983	Greece
+Luxembourg	1
+0	European Cup qualifier
+in Greece	+2
+-2	1578
+1156	+1
+0	50
+153
+February 15
+1984	Greece
+East Germany	1
+3	Friendly
+in Greece	-10
++10	1568
+1819	-2
++3	53
+12
+March 07
+1984	Romania
+Greece	2
+0	Friendly
+in Romania	+4
+-4	1796
+1564	+2
+-1	19
+55
+April 11
+1984	Greece
+Cyprus	1
+1	Friendly
+in Greece	-8
++8	1556
+1273	-1
++6	53
+126
+April 18
+1984	Austria
+Greece	0
+0	Friendly
+in Austria	-7
++7	1765
+1563	-1
+0	24
+53
+September 05
+1984	Greece
+Czechoslovakia	0
+1	Friendly
+in Greece	-6
++6	1557
+1819	0
++2	53
+13
+September 12
+1984	East Germany
+Greece	1
+0	Friendly
+in East Germany	+2
+-2	1828
+1555	-1
+0	13
+53
+September 30
+1984	Cyprus
+Greece	0
+2	Friendly
+in Cyprus	-8
++8	1261
+1563	-3
++2	132
+53
+October 09
+1984	Greece
+Israel	2
+2	Friendly
+in Greece	0
+0	1563
+1677	0
+0	53
+36
+October 17
+1984	Poland
+Greece	3
+1	World Cup qualifier
+in Poland	+5
+-5	1894
+1558	0
+-1	6
+55
+December 19
+1984	Greece
+Belgium	0
+0	World Cup qualifier
+in Greece	+8
+-8	1566
+1792	+1
+-3	55
+20
+January 09
+1985	Israel
+Greece	0
+2	Friendly
+in Israel	-23
++23	1645
+1589	-2
++5	38
+51
+February 27
+1985	Greece
+Albania	2
+0	World Cup qualifier
+in Greece	+11
+-11	1600
+1422	+4
+-2	45
+87
+March 13
+1985	Greece
+Italy	0
+0	Friendly
+in Greece	+4
+-4	1604
+1842	0
+-1	46
+9
+March 27
+1985	Belgium
+Greece	2
+0	World Cup qualifier
+in Belgium	+12
+-12	1753
+1592	+1
+-3	26
+49
+May 19
+1985	Greece
+Poland	1
+4	World Cup qualifier
+in Greece	-25
++25	1567
+1817	-7
++5	56
+11
+October 16
+1985	Greece
+Bulgaria	0
+2	Friendly
+in Greece	-10
++10	1557
+1794	-4
++1	59
+20
+October 30
+1985	Albania
+Greece	1
+1	World Cup qualifier
+in Albania	+2
+-2	1417
+1555	0
+0	86
+60
+January 17
+1986	Qatar
+Greece	0
+1	Friendly
+in Qatar	-11
++11	1479
+1566	0
++4	72
+56
+February 19
+1986	Greece
+Cyprus	0
+0	Friendly
+in Greece	-8
++8	1558
+1264	-4
++1	60
+129
+March 26
+1986	Greece
+East Germany	2
+0	Friendly
+in Greece	+23
+-23	1581
+1826	+7
+-6	52
+14
+May 01
+1986	Sweden
+Greece	0
+0	Friendly
+in Sweden	-8
++8	1819
+1589	-2
++3	14
+50
+September 24
+1986	Spain
+Greece	3
+1	Friendly
+in Spain	+2
+-2	1939
+1587	-1
+0	4
+51
+October 08
+1986	Italy
+Greece	2
+0	Friendly
+in Italy	+4
+-4	1822
+1583	+1
+-1	12
+53
+October 15
+1986	Poland
+Greece	2
+1	European Cup qualifier
+in Poland	+8
+-8	1730
+1575	+1
+-3	27
+56
+November 12
+1986	Greece
+Hungary	2
+1	European Cup qualifier
+in Greece	+25
+-25	1600
+1735	+10
+-4	46
+26
+December 03
+1986	Cyprus
+Greece	2
+4	European Cup qualifier
+in Cyprus	-12
++12	1252
+1612	-4
++1	129
+45
+January 07
+1987	Portugal
+Greece	1
+1	Friendly
+in Portugal	-5
++5	1714
+1617	-1
++1	30
+45
+January 14
+1987	Greece
+Cyprus	3
+1	European Cup qualifier
+in Greece	+4
+-4	1621
+1245	+2
+-1	44
+132
+March 11
+1987	Greece
+Romania	1
+1	Friendly
+in Greece	+2
+-2	1623
+1805	0
+0	43
+14
+March 25
+1987	Netherlands
+Greece	1
+1	European Cup qualifier
+in the Netherlands	-15
++15	1830
+1638	-2
++2	13
+41
+April 29
+1987	Greece
+Poland	1
+0	European Cup qualifier
+in Greece	+20
+-20	1658
+1720	+2
+-2	38
+27
+September 23
+1987	Soviet Union
+Greece	3
+0	Friendly
+in the Soviet Union	+3
+-3	1947
+1655	0
+-1	1
+39
+October 07
+1987	Romania
+Greece	2
+2	Friendly
+in Romania	-7
++7	1822
+1662	-2
++1	15
+38
+October 14
+1987	Hungary
+Greece	3
+0	European Cup qualifier
+in Hungary	+20
+-20	1742
+1642	+3
+-2	25
+40
+December 16
+1987	Greece
+Netherlands	0
+3	European Cup qualifier
+in Greece	-22
++22	1620
+1895	-6
++1	45
+6
+February 17
+1988	Greece
+Northern Ireland	3
+2	Friendly
+in Greece	+9
+-9	1629
+1661	+4
+-3	42
+38
+March 23
+1988	Greece
+Soviet Union	0
+4	Friendly
+in Greece	-9
++9	1620
+1939	-4
+0	46
+2
+April 06
+1988	Greece
+Austria	2
+2	Friendly
+in Greece	-2
++2	1618
+1666	0
++1	46
+35
+May 19
+1988	Canada
+Greece	0
+1	Friendly
+in Canada	-11
++11	1557
+1629	-4
++4	57
+42
+May 21
+1988	Canada
+Greece	0
+3	Friendly tournament
+in Canada	-28
++28	1529
+1657	-5
++3	62
+39
+May 23
+1988	Chile
+Greece	0
+1	Friendly tournament
+in Canada	-22
++22	1797
+1679	-2
++4	16
+35
+May 28
+1988	Canada
+Greece	0
+0	Friendly tournament
+in Canada	+1
+-1	1552
+1678	0
+0	59
+35
+August 31
+1988	East Germany
+Greece	1
+0	Friendly
+in East Germany	+5
+-5	1768
+1673	0
+0	22
+34
+September 21
+1988	Turkey
+Greece	3
+1	Friendly
+in Turkey	+19
+-19	1507
+1654	+4
+-4	68
+38
+October 19
+1988	Greece
+Denmark	1
+1	World Cup qualifier
+in Greece	+2
+-2	1656
+1793	0
+-2	38
+19
+November 02
+1988	Romania
+Greece	3
+0	World Cup qualifier
+in Romania	+11
+-11	1859
+1645	+1
+-1	7
+39
+November 15
+1988	Greece
+Hungary	3
+0	Friendly
+in Greece	+17
+-17	1662
+1724	+3
+-2	36
+29
+January 18
+1989	Albania
+Greece	1
+1	Friendly
+in Albania	+5
+-5	1384
+1657	0
+-1	99
+37
+January 25
+1989	Greece
+Portugal	1
+2	Friendly
+in Greece	-11
++11	1646
+1726	-2
++2	39
+28
+February 08
+1989	Greece
+England	1
+2	Friendly
+in Greece	-7
++7	1639
+1851	+1
+0	38
+9
+February 22
+1989	Greece
+Norway	4
+2	Friendly
+in Greece	+10
+-10	1649
+1607	+2
+-3	37
+45
+March 08
+1989	Greece
+East Germany	3
+2	Friendly
+in Greece	+10
+-10	1659
+1730	+1
+-2	36
+27
+March 29
+1989	Greece
+Turkey	0
+1	Friendly
+in Greece	-16
++16	1643
+1553	-3
++2	39
+58
+April 05
+1989	Greece
+Yugoslavia	1
+4	Friendly
+in Greece	-13
++13	1630
+1857	-1
++1	40
+10
+April 26
+1989	Greece
+Romania	0
+0	World Cup qualifier
+in Greece	+7
+-7	1637
+1855	0
+-3	39
+11
+May 17
+1989	Denmark
+Greece	7
+1	World Cup qualifier
+in Denmark	+15
+-15	1825
+1622	+3
+-2	12
+41
+August 23
+1989	Norway
+Greece	0
+0	Friendly
+in Norway	-2
++2	1599
+1624	0
+0	45
+41
+September 05
+1989	Poland
+Greece	3
+0	Friendly
+in Poland	+7
+-7	1775
+1617	0
+0	22
+41
+September 20
+1989	Yugoslavia
+Greece	3
+0	Friendly
+in Yugoslavia	+4
+-4	1877
+1613	0
+0	8
+40
+October 11
+1989	Bulgaria
+Greece	4
+0	World Cup qualifier
+in Bulgaria	+20
+-20	1705
+1593	+1
+-5	30
+45
+October 25
+1989	Hungary
+Greece	1
+1	Friendly
+in Hungary	-6
++6	1707
+1599	-1
++1	29
+44
+November 15
+1989	Greece
+Bulgaria	1
+0	World Cup qualifier
+in Greece	+20
+-20	1619
+1685	+4
+-1	40
+31
+January 17
+1990	Greece
+Belgium	2
+0	Friendly
+in Greece	+19
+-19	1638
+1794	+2
+-3	38
+20
+March 28
+1990	Greece
+Israel	2
+1	Friendly
+in Greece	+7
+-7	1645
+1618	+1
+0	35
+40
+May 30
+1990	Italy
+Greece	0
+0	Friendly
+in Italy	-8
++8	1923
+1653	0
+0	4
+35
+September 05
+1990	Greece
+Albania	1
+0	Friendly
+in Greece	+2
+-2	1655
+1352	0
+0	35
+106
+October 10
+1990	Greece
+Egypt	6
+1	Friendly
+in Greece	+13
+-13	1668
+1624	0
+-1	32
+39
+October 31
+1990	Greece
+Malta	4
+0	European Cup qualifier
+in Greece	+5
+-5	1673
+1322	0
+-1	33
+112
+November 21
+1990	Netherlands
+Greece	2
+0	European Cup qualifier
+in the Netherlands	+8
+-8	1902
+1665	+1
+0	6
+33
+December 19
+1990	Greece
+Poland	1
+2	Friendly
+in Greece	-11
++11	1654
+1753	0
+0	33
+24
+January 23
+1991	Greece
+Portugal	3
+2	European Cup qualifier
+in Greece	+21
+-21	1675
+1754	0
+-2	33
+23
+February 27
+1991	Cyprus
+Greece	1
+1	Friendly
+in Cyprus	+8
+-8	1227
+1667	0
+0	136
+33
+March 27
+1991	Morocco
+Greece	0
+0	Friendly
+in Morocco	-1
++1	1595
+1668	0
+0	47
+33
+April 17
+1991	Greece
+Sweden	2
+2	Friendly
+in Greece	0
+0	1668
+1785	0
+-1	33
+19
+September 04
+1991	Greece
+Albania	0
+2	Friendly
+in Greece	-27
++27	1641
+1391	-3
++7	38
+97
+October 09
+1991	Finland
+Greece	1
+1	European Cup qualifier
+in Finland	-3
++3	1588
+1644	-1
++1	49
+38
+October 30
+1991	Greece
+Finland	2
+0	European Cup qualifier
+in Greece	+17
+-17	1661
+1571	+4
+-3	34
+51
+November 21
+1991	Portugal
+Greece	1
+0	European Cup qualifier
+in Portugal	+10
+-10	1756
+1651	+1
+-3	22
+38
+December 04
+1991	Greece
+Netherlands	0
+2	European Cup qualifier
+in Greece	-18
++18	1633
+1922	-3
++1	40
+6
+December 22
+1991	Malta
+Greece	1
+1	European Cup qualifier
+in Malta	+9
+-9	1368
+1624	+1
+-1	105
+41
+January 29
+1992	Albania
+Greece	1
+0	Friendly
+in Albania	+14
+-14	1404
+1610	+7
+-4	89
+46
+February 12
+1992	Greece
+Romania	1
+0	Friendly
+in Greece	+12
+-12	1622
+1762	+4
+-2	42
+21
+March 25
+1992	Cyprus
+Greece	1
+3	Friendly
+in Cyprus	-4
++4	1215
+1626	-2
+0	141
+41
+May 13
+1992	Greece
+Iceland	1
+0	World Cup qualifier
+in Greece	+10
+-10	1636
+1534	+3
+-2	38
+59
+September 02
+1992	Greece
+Cyprus	2
+3	Friendly
+in Greece	-19
++19	1617
+1269	-4
++9	44
+129
+October 07
+1992	Iceland
+Greece	0
+1	World Cup qualifier
+in Iceland	-22
++22	1527
+1639	-3
++9	61
+37
+November 11
+1992	Greece
+Hungary	0
+0	World Cup qualifier
+in Greece	-4
++4	1635
+1681	-1
+0	41
+32
+February 17
+1993	Greece
+Luxembourg	2
+0	World Cup qualifier
+in Greece	+2
+-2	1637
+1127	0
+-1	38
+165
+March 10
+1993	Austria
+Greece	2
+1	Friendly
+in Austria	+8
+-8	1611
+1629	+1
+0	48
+39
+March 31
+1993	Hungary
+Greece	0
+1	World Cup qualifier
+in Hungary	-29
++29	1664
+1658	-3
++2	34
+35
+May 23
+1993	Russia
+Greece	1
+1	World Cup qualifier
+in Russia	-13
++13	1809
+1671	-3
++1	15
+31
+October 12
+1993	Luxembourg
+Greece	1
+3	World Cup qualifier
+in Luxembourg	-5
++5	1131
+1676	-2
+0	168
+31
+November 17
+1993	Greece
+Russia	1
+0	World Cup qualifier
+in Greece	+21
+-21	1697
+1778	+2
+-3	29
+21
+March 23
+1994	Greece
+Poland	0
+0	Friendly
+in Greece	-4
++4	1693
+1664	0
++2	29
+33
+April 27
+1994	Greece
+Saudi Arabia	5
+1	Friendly
+in Greece	+12
+-12	1705
+1649	+1
+-3	29
+39
+May 09
+1994	Greece
+Cameroon	0
+3	Friendly tournament
+in Greece	-39
++39	1666
+1663	-5
++8	34
+36
+May 13
+1994	Greece
+Bolivia	0
+0	Friendly tournament
+in Greece	-4
++4	1662
+1679	-2
++2	36
+31
+May 17
+1994	England
+Greece	5
+0	Friendly
+in England	+7
+-7	1853
+1655	0
+-1	11
+37
+May 28
+1994	United States
+Greece	1
+1	Friendly
+in the United States	-1
++1	1578
+1656	0
+0	53
+37
+June 05
+1994	Colombia
+Greece	2
+0	Friendly
+in the United States	+6
+-6	1912
+1650	0
+-1	5
+38
+June 21
+1994	Argentina
+Greece	4
+0	World Cup
+in the United States	+24
+-24	1904
+1626	+3
+-6	5
+43
+June 26
+1994	Bulgaria
+Greece	4
+0	World Cup
+in the United States	+47
+-47	1732
+1579	+3
+-9	26
+52
+June 30
+1994	Nigeria
+Greece	2
+0	World Cup
+in the United States	+23
+-23	1792
+1556	0
+-3	23
+55
+September 07
+1994	Faroe Islands
+Greece	1
+5	European Cup qualifier
+in Faroe Islands	-10
++10	1124
+1566	-5
++3	171
+54
+October 12
+1994	Greece
+Finland	4
+0	European Cup qualifier
+in Greece	+21
+-21	1587
+1479	+7
+-8	49
+79
+November 16
+1994	Greece
+San Marino	2
+0	European Cup qualifier
+in Greece	+1
+-1	1588
+995	0
+0	49
+188
+December 18
+1994	Greece
+Scotland	1
+0	European Cup qualifier
+in Greece	+23
+-23	1611
+1724	+6
+-3	42
+27
+January 25
+1995	Cyprus
+Greece	2
+3	Friendly
+in Cyprus	-5
++5	1329
+1616	-1
++1	124
+39
+February 08
+1995	Greece
+Romania	1
+0	Friendly
+in Greece	+14
+-14	1630
+1837	+2
+-4	37
+16
+March 08
+1995	Greece
+Switzerland	1
+1	Friendly
+in Greece	+3
+-3	1633
+1829	0
+0	37
+19
+April 26
+1995	Greece
+Russia	0
+3	European Cup qualifier
+in Greece	-31
++31	1602
+1806	-12
++2	47
+21
+May 17
+1995	Lithuania
+Greece	2
+1	Friendly
+in Lithuania	+12
+-12	1434
+1590	+2
+-2	95
+50
+June 11
+1995	Finland
+Greece	2
+1	European Cup qualifier
+in Finland	+19
+-19	1523
+1571	+8
+-6	66
+52
+August 16
+1995	Scotland
+Greece	1
+0	European Cup qualifier
+in Scotland	+7
+-7	1752
+1564	0
+-2	25
+53
+September 06
+1995	San Marino
+Greece	0
+4	European Cup qualifier
+in San Marino	-4
++4	965
+1568	0
++1	192
+53
+September 20
+1995	Greece
+Yugoslavia	0
+2	Friendly
+in Greece	-7
++7	1561
+1881	-1
+0	54
+6
+October 11
+1995	Russia
+Greece	2
+1	European Cup qualifier
+in Russia	+4
+-4	1838
+1557	+1
+-3	10
+57
+November 15
+1995	Greece
+Faroe Islands	5
+0	European Cup qualifier
+in Greece	+4
+-4	1561
+1136	+3
+0	55
+165
+January 24
+1996	Greece
+Israel	2
+1	Friendly
+in Greece	+8
+-8	1569
+1586	+2
+-1	54
+50
+February 21
+1996	France
+Greece	3
+1	Friendly
+in France	+2
+-2	1918
+1567	0
+0	6
+55
+March 27
+1996	Portugal
+Greece	1
+0	Friendly
+in Portugal	+2
+-2	1831
+1565	+1
+-1	14
+56
+April 24
+1996	Greece
+Slovenia	2
+0	World Cup qualifier
+in Greece	+20
+-20	1585
+1525	+5
+-4	51
+66
+May 08
+1996	Greece
+Georgia	2
+1	Friendly
+in Greece	+7
+-7	1592
+1561	+2
+-2	48
+57
+August 14
+1996	Greece
+Albania	2
+1	Friendly
+in Greece	+3
+-3	1595
+1404	0
+-1	48
+104
+September 01
+1996	Greece
+Bosnia and Herzegovina	3
+0	World Cup qualifier
+in Greece	+17
+-17	1612
+1479	+3
+-5	44
+80
+October 09
+1996	Denmark
+Greece	2
+1	World Cup qualifier
+in Denmark	+4
+-4	1917
+1608	0
+0	6
+44
+November 10
+1996	Croatia
+Greece	1
+1	World Cup qualifier
+in Croatia	-15
++15	1839
+1623	-1
++3	13
+42
+January 22
+1997	Israel
+Greece	1
+1	Friendly
+in Israel	-1
++1	1566
+1624	0
+-1	56
+44
+February 19
+1997	Greece
+Portugal	0
+0	Friendly
+in Greece	+3
+-3	1627
+1839	0
+0	42
+12
+March 12
+1997	Cyprus
+Greece	0
+4	Friendly
+in Cyprus	-13
++13	1397
+1640	-5
++4	104
+38
+April 02
+1997	Bosnia and Herzegovina
+Greece	0
+1	World Cup qualifier
+in Bosnia and Herzegovina	-19
++19	1500
+1659	-5
++2	74
+37
+April 30
+1997	Greece
+Croatia	0
+1	World Cup qualifier
+in Greece	-17
++17	1642
+1836	-3
++1	41
+12
+August 19
+1997	Greece
+Cyprus	2
+1	Friendly
+in Greece	+2
+-2	1644
+1394	0
+-2	39
+105
+September 06
+1997	Slovenia
+Greece	0
+3	World Cup qualifier
+in Slovenia	-33
++33	1492
+1677	-5
++5	73
+37
+October 11
+1997	Greece
+Denmark	0
+0	World Cup qualifier
+in Greece	+6
+-6	1683
+1873	0
+0	35
+9
+February 18
+1998	Greece
+Russia	1
+1	Friendly
+in Greece	+1
+-1	1684
+1828	0
+0	35
+15
+April 08
+1998	Romania
+Greece	2
+1	Friendly
+in Romania	+4
+-4	1819
+1680	0
+0	17
+36
+September 06
+1998	Greece
+Slovenia	2
+2	European Cup qualifier
+in Greece	-15
++15	1665
+1475	-5
++6	38
+80
+October 14
+1998	Greece
+Georgia	3
+0	European Cup qualifier
+in Greece	+17
+-17	1682
+1556	+5
+-3	36
+60
+November 18
+1998	Albania
+Greece	0
+0	European Cup qualifier
+in Albania	+10
+-10	1398
+1672	+4
+-1	104
+37
+February 03
+1999	Greece
+Finland	2
+1	Friendly tournament
+in Cyprus	+10
+-10	1682
+1544	+4
+-3	35
+63
+February 05
+1999	Greece
+Belgium	1
+0	Friendly tournament
+in Cyprus	+19
+-19	1701
+1769	+5
+-3	30
+20
+March 10
+1999	Greece
+Croatia	3
+2	Friendly
+in Greece	+13
+-13	1714
+1896	0
+-1	31
+10
+March 27
+1999	Greece
+Norway	0
+2	European Cup qualifier
+in Greece	-31
++31	1683
+1839	-5
++1	36
+15
+March 31
+1999	Latvia
+Greece	0
+0	European Cup qualifier
+in Latvia	+9
+-9	1429
+1674	+3
+-1	91
+39
+April 28
+1999	Greece
+Switzerland	1
+1	Friendly
+in Greece	-3
++3	1671
+1663	-2
+0	41
+43
+June 05
+1999	Georgia
+Greece	1
+2	European Cup qualifier
+in Georgia	-17
++17	1504
+1688	-7
++5	74
+36
+June 09
+1999	Greece
+Latvia	1
+2	European Cup qualifier
+in Greece	-36
++36	1652
+1438	-10
++8	46
+91
+August 18
+1999	Greece
+El Salvador	3
+1	Friendly
+in Greece	+4
+-4	1656
+1401	+1
+-1	44
+102
+August 20
+1999	Greece
+El Salvador	3
+0	Friendly
+in Greece	+4
+-4	1660
+1397	+1
+-1	43
+103
+September 04
+1999	Norway
+Greece	1
+0	European Cup qualifier
+in Norway	+6
+-6	1877
+1654	0
+0	12
+42
+October 06
+1999	Greece
+Albania	2
+0	European Cup qualifier
+in Greece	+6
+-6	1660
+1376	+1
+-1	40
+108
+October 09
+1999	Slovenia
+Greece	0
+3	European Cup qualifier
+in Slovenia	-36
++36	1529
+1696	-3
++7	63
+33
+November 13
+1999	Greece
+Nigeria	2
+0	Friendly
+in Greece	+10
+-10	1706
+1660	+3
+0	30
+39
+November 17
+1999	Greece
+Bulgaria	1
+0	Friendly
+in Greece	+5
+-5	1711
+1628	+1
+0	29
+47
+December 14
+1999	Greece
+Ghana	1
+1	Friendly
+in Greece	-6
++6	1705
+1596	-2
+0	30
+54
+December 16
+1999	Greece
+Moldova	2
+0	Friendly
+in Greece	+2
+-2	1707
+1378	+1
+0	29
+108
+December 18
+1999	Greece
+Estonia	2
+2	Friendly
+in Greece	-9
++9	1698
+1309	-3
++1	32
+129
+February 23
+2000	Greece
+Austria	4
+1	Friendly
+in Greece	+12
+-12	1710
+1663	+3
+-4	29
+43
+March 29
+2000	Greece
+Romania	2
+0	Friendly
+in Greece	+16
+-16	1726
+1806	+1
+0	28
+16
+April 26
+2000	Ireland
+Greece	0
+1	Friendly
+in Ireland	-13
++13	1730
+1739	-3
++3	25
+23
+June 03
+2000	Romania
+Greece	2
+1	Friendly
+in Romania	+6
+-6	1810
+1733	0
+-2	16
+25
+August 16
+2000	Switzerland
+Greece	2
+2	Friendly
+in Switzerland	-2
++2	1688
+1735	-2
+-1	37
+25
+September 02
+2000	Germany
+Greece	2
+0	World Cup qualifier
+in Germany	+16
+-16	1831
+1719	+2
+-4	12
+29
+October 07
+2000	Greece
+Finland	1
+0	World Cup qualifier
+in Greece	+8
+-8	1727
+1573	+2
+0	28
+60
+October 11
+2000	Albania
+Greece	2
+0	World Cup qualifier
+in Albania	+47
+-47	1457
+1680	+14
+-10	85
+38
+November 15
+2000	Greece
+Slovakia	0
+2	Friendly
+in Greece	-19
++19	1661
+1716	-6
++3	46
+31
+December 13
+2000	Greece
+Yugoslavia	1
+1	Friendly
+in Greece	+3
+-3	1664
+1862	0
+0	46
+9
+February 28
+2001	Greece
+Russia	3
+3	Friendly
+in Greece	+1
+-1	1665
+1794	+3
+-1	42
+16
+March 28
+2001	Greece
+Germany	2
+4	World Cup qualifier
+in Greece	-23
++23	1642
+1869	-5
++1	47
+9
+April 25
+2001	Croatia
+Greece	2
+2	Friendly
+in Croatia	-7
++7	1851
+1649	0
++2	10
+45
+June 02
+2001	Greece
+Albania	1
+0	World Cup qualifier
+in Greece	+7
+-7	1656
+1469	+1
+0	44
+79
+June 06
+2001	Greece
+England	0
+2	World Cup qualifier
+in Greece	-21
++21	1635
+1880	-1
++1	47
+8
+August 15
+2001	Russia
+Greece	0
+0	Friendly
+in Russia	-6
++6	1798
+1641	0
+0	18
+47
+September 05
+2001	Finland
+Greece	5
+1	World Cup qualifier
+in Finland	+26
+-26	1680
+1615	+5
+-3	40
+51
+October 06
+2001	England
+Greece	2
+2	World Cup qualifier
+in England	-16
++16	1900
+1631	0
++2	7
+49
+November 10
+2001	Greece
+Estonia	4
+2	Friendly
+in Greece	+3
+-3	1634
+1317	+1
+0	48
+126
+November 14
+2001	Greece
+Cyprus	1
+2	Friendly
+in Greece	-17
++17	1617
+1468	-4
++4	52
+83
+February 13
+2002	Greece
+Sweden	2
+2	Friendly
+in Greece	+4
+-4	1621
+1856	0
+0	50
+8
+March 27
+2002	Greece
+Belgium	3
+2	Friendly
+in Greece	+12
+-12	1633
+1795	+4
+-4	46
+21
+April 17
+2002	Greece
+Czechia	0
+0	Friendly
+in Greece	+2
+-2	1635
+1794	+1
+-1	45
+20
+May 15
+2002	Greece
+Cyprus	3
+1	Friendly
+in Greece	+5
+-5	1640
+1459	+2
+-2	44
+89
+August 21
+2002	Romania
+Greece	0
+1	Friendly
+in Romania	-16
++16	1769
+1656	-3
++4	26
+38
+September 07
+2002	Greece
+Spain	0
+2	European Cup qualifier
+in Greece	-15
++15	1641
+1968	-3
+0	41
+3
+October 12
+2002	Ukraine
+Greece	2
+0	European Cup qualifier
+in Ukraine	+22
+-22	1659
+1619	+3
+-6	40
+48
+October 16
+2002	Greece
+Armenia	2
+0	European Cup qualifier
+in Greece	+9
+-9	1628
+1401	0
+-8	47
+108
+November 20
+2002	Greece
+Ireland	0
+0	Friendly
+in Greece	+3
+-3	1631
+1818	+1
+0	46
+14
+January 29
+2003	Cyprus
+Greece	1
+2	Friendly
+in Cyprus	-8
++8	1456
+1639	0
+0	87
+46
+February 12
+2003	Greece
+Norway	1
+0	Friendly
+in Greece	+11
+-11	1650
+1757	+3
+-3	43
+26
+March 26
+2003	Austria
+Greece	2
+2	Friendly
+in Austria	-3
++3	1645
+1653	-2
++1	45
+40
+April 02
+2003	Northern Ireland
+Greece	0
+2	European Cup qualifier
+in Northern Ireland	-22
++22	1435
+1675	-6
++2	93
+39
+April 30
+2003	Slovakia
+Greece	2
+2	Friendly
+in Slovakia	-2
++2	1640
+1677	-2
++2	45
+38
+June 07
+2003	Spain
+Greece	0
+1	European Cup qualifier
+in Spain	-36
++36	1932
+1713	-1
++5	5
+33
+June 11
+2003	Greece
+Ukraine	1
+0	European Cup qualifier
+in Greece	+13
+-13	1726
+1666	+2
+-1	31
+38
+August 20
+2003	Sweden
+Greece	1
+2	Friendly
+in Sweden	-15
++15	1800
+1741	-1
++4	18
+25
+September 06
+2003	Armenia
+Greece	0
+1	European Cup qualifier
+in Armenia	-8
++8	1402
+1749	0
++1	102
+24
+October 11
+2003	Greece
+Northern Ireland	1
+0	European Cup qualifier
+in Greece	+3
+-3	1752
+1432	0
+0	25
+94
+November 15
+2003	Portugal
+Greece	1
+1	Friendly
+in Portugal	-6
++6	1885
+1758	-1
++3	9
+22
+February 18
+2004	Greece
+Bulgaria	2
+0	Friendly
+in Greece	+10
+-10	1768
+1716	+5
+-3	19
+32
+March 31
+2004	Greece
+Switzerland	1
+0	Friendly
+in Greece	+5
+-5	1773
+1682	+1
+-2	19
+39
+April 28
+2004	Netherlands
+Greece	4
+0	Friendly
+in the Netherlands	+6
+-6	1964
+1767	+1
+-3	4
+22
+May 29
+2004	Poland
+Greece	1
+0	Friendly
+in Poland	+9
+-9	1721
+1758	+1
+-2	32
+24
+June 03
+2004	Liechtenstein
+Greece	0
+2	Friendly
+in Liechtenstein	-1
++1	1044
+1759	-1
+0	184
+23
+June 12
+2004	Portugal
+Greece	1
+2	European Cup
+in Portugal	-38
++38	1830
+1797	-3
++4	12
+19
+June 16
+2004	Greece
+Spain	1
+1	European Cup
+in Portugal	+13
+-13	1810
+1982	+2
+0	18
+2
+June 20
+2004	Russia
+Greece	2
+1	European Cup
+in Portugal	+31
+-31	1759
+1779	+3
+-3	24
+22
+June 25
+2004	Greece
+France	1
+0	European Cup
+in Portugal	+41
+-41	1820
+1998	+7
+0	15
+1
+July 01
+2004	Greece
+Czechia	1
+0	European Cup
+in Portugal	+37
+-37	1857
+1962	+5
+-2	10
+3
+July 04
+2004	Portugal
+Greece	0
+1	European Cup
+in Portugal	-34
++34	1859
+1891	-2
++2	10
+8
+August 18
+2004	Czechia
+Greece	0
+0	Friendly
+in Czechia	-5
++5	1957
+1896	0
++1	4
+7
+September 04
+2004	Albania
+Greece	2
+1	World Cup qualifier
+in Albania	+34
+-34	1520
+1862	+2
+-3	76
+10
+September 08
+2004	Greece
+Turkey	0
+0	World Cup qualifier
+in Greece	-8
++8	1854
+1813	0
++4	10
+16
+October 09
+2004	Ukraine
+Greece	1
+1	World Cup qualifier
+in Ukraine	+7
+-7	1636
+1847	+1
+0	46
+10
+November 17
+2004	Greece
+Kazakhstan	3
+1	World Cup qualifier
+in Greece	+2
+-2	1849
+1323	0
++1	12
+123
+February 09
+2005	Greece
+Denmark	2
+1	World Cup qualifier
+in Greece	+13
+-13	1862
+1813	+1
+0	11
+16
+March 26
+2005	Georgia
+Greece	1
+3	World Cup qualifier
+in Georgia	-11
++11	1484
+1873	-2
+0	81
+11
+March 30
+2005	Greece
+Albania	2
+0	World Cup qualifier
+in Greece	+3
+-3	1876
+1470	+1
++1	10
+83
+June 04
+2005	Turkey
+Greece	0
+0	World Cup qualifier
+in Turkey	-1
++1	1788
+1877	0
+-1	21
+11
+June 08
+2005	Greece
+Ukraine	0
+1	World Cup qualifier
+in Greece	-32
++32	1845
+1781	-2
++4	13
+24
+June 16
+2005	Brazil
+Greece	3
+0	Confederations Cup
+in Germany	+32
+-32	1971
+1813	+3
+-4	2
+17
+June 19
+2005	Japan
+Greece	1
+0	Confederations Cup
+in Germany	+28
+-28	1805
+1785	+7
+-5	18
+22
+June 22
+2005	Greece
+Mexico	0
+0	Confederations Cup
+in Germany	+10
+-10	1795
+1926	+1
+-1	21
+7
+August 17
+2005	Belgium
+Greece	2
+0	Friendly
+in Belgium	+14
+-14	1722
+1781	+2
+-2	32
+21
+September 07
+2005	Kazakhstan
+Greece	1
+2	World Cup qualifier
+in Kazakhstan	-4
++4	1281
+1785	0
+-1	136
+23
+October 08
+2005	Denmark
+Greece	1
+0	World Cup qualifier
+in Denmark	+12
+-12	1851
+1773	0
+0	14
+23
+October 12
+2005	Greece
+Georgia	1
+0	World Cup qualifier
+in Greece	+3
+-3	1776
+1458	0
+0	23
+89
+November 16
+2005	Greece
+Hungary	2
+1	Friendly
+in Greece	+3
+-3	1779
+1567	+1
++1	23
+60
+January 21
+2006	Greece
+South Korea	1
+1	Friendly tournament
+in Saudi Arabia	-5
++5	1774
+1662	0
+0	23
+45
+January 25
+2006	Saudi Arabia
+Greece	1
+1	Friendly tournament
+in Saudi Arabia	+2
+-2	1637
+1772	0
+-1	50
+24
+February 28
+2006	Greece
+Belarus	1
+0	Friendly tournament
+in Cyprus	+6
+-6	1778
+1541	+1
+0	25
+67
+March 01
+2006	Greece
+Kazakhstan	2
+0	Friendly tournament
+in Cyprus	+3
+-3	1781
+1296	+2
+-1	23
+132
+May 25
+2006	Australia
+Greece	1
+0	Friendly
+in Australia	+7
+-7	1787
+1774	+2
+-3	22
+25
+August 16
+2006	England
+Greece	4
+0	Friendly
+in England	+6
+-6	1977
+1768	0
+0	5
+23
+September 02
+2006	Moldova
+Greece	0
+1	European Cup qualifier
+in Moldova	-7
++7	1386
+1775	0
++2	101
+21
+October 07
+2006	Greece
+Norway	1
+0	European Cup qualifier
+in Greece	+13
+-13	1788
+1735	+2
+-3	19
+30
+October 11
+2006	Bosnia and Herzegovina
+Greece	0
+4	European Cup qualifier
+in Bosnia and Herzegovina	-24
++24	1538
+1812	-4
++2	67
+17
+November 15
+2006	France
+Greece	1
+0	Friendly
+in France	+3
+-3	2036
+1809	0
+0	2
+17
+February 06
+2007	South Korea
+Greece	1
+0	Friendly
+in England	+14
+-14	1658
+1795	+2
+-2	46
+19
+March 24
+2007	Greece
+Turkey	1
+4	European Cup qualifier
+in Greece	-45
++45	1750
+1840	-11
++3	28
+14
+March 28
+2007	Malta
+Greece	0
+1	European Cup qualifier
+in Malta	-4
++4	1240
+1754	-3
++1	149
+28
+June 02
+2007	Greece
+Hungary	2
+0	European Cup qualifier
+in Greece	+10
+-10	1764
+1554	+3
+-3	25
+67
+June 06
+2007	Greece
+Moldova	2
+1	European Cup qualifier
+in Greece	+2
+-2	1766
+1355	+1
+-1	24
+114
+August 22
+2007	Greece
+Spain	2
+3	Friendly
+in Greece	-9
++9	1757
+1905	-4
++2	27
+8
+September 12
+2007	Norway
+Greece	2
+2	European Cup qualifier
+in Norway	-5
++5	1742
+1762	-2
++2	30
+23
+October 13
+2007	Greece
+Bosnia and Herzegovina	3
+2	European Cup qualifier
+in Greece	+6
+-6	1768
+1540	+2
+-1	21
+68
+October 17
+2007	Turkey
+Greece	0
+1	European Cup qualifier
+in Turkey	-26
++26	1754
+1794	-5
++5	25
+16
+November 17
+2007	Greece
+Malta	5
+0	European Cup qualifier
+in Greece	+2
+-2	1796
+1216	+2
+-1	14
+153
+November 21
+2007	Hungary
+Greece	1
+2	European Cup qualifier
+in Hungary	-12
++12	1540
+1808	-4
+-1	70
+16
+February 05
+2008	Greece
+Czechia	1
+0	Friendly
+in Cyprus	+13
+-13	1821
+1902	+1
+-1	16
+8
+February 06
+2008	Greece
+Finland	2
+1	Friendly
+in Cyprus	+6
+-6	1827
+1649	+1
+-3	15
+44
+March 26
+2008	Greece
+Portugal	2
+1	Friendly
+in Germany	+10
+-10	1837
+1833	+1
+-1	13
+14
+May 19
+2008	Greece
+Cyprus	2
+0	Friendly
+in Greece	+2
+-2	1839
+1501	0
+0	13
+81
+May 24
+2008	Hungary
+Greece	3
+2	Friendly
+in Hungary	+15
+-15	1543
+1824	+3
+-1	70
+14
+June 01
+2008	Armenia
+Greece	0
+0	Friendly
+in Germany	+8
+-8	1420
+1816	+3
+0	99
+14
+June 10
+2008	Sweden
+Greece	2
+0	European Cup
+in Austria	+44
+-44	1800
+1772	+10
+-8	15
+22
+June 14
+2008	Russia
+Greece	1
+0	European Cup
+in Austria	+27
+-27	1775
+1745	+6
+-3	20
+26
+June 18
+2008	Spain
+Greece	2
+1	European Cup
+in Austria	+10
+-10	2002
+1735	+2
+-3	2
+30
+August 20
+2008	Slovakia
+Greece	0
+2	Friendly
+in Slovakia	-13
++13	1581
+1748	-1
++5	56
+26
+September 06
+2008	Luxembourg
+Greece	0
+3	World Cup qualifier
+in Luxembourg	-2
++2	1005
+1750	-1
+-2	186
+28
+September 10
+2008	Latvia
+Greece	0
+2	World Cup qualifier
+in Latvia	-19
++19	1503
+1769	-5
++6	84
+22
+October 11
+2008	Greece
+Moldova	3
+0	World Cup qualifier
+in Greece	+5
+-5	1774
+1420	+2
+0	21
+97
+October 15
+2008	Greece
+Switzerland	1
+2	World Cup qualifier
+in Greece	-28
++28	1746
+1759	-6
++7	27
+24
+November 19
+2008	Greece
+Italy	1
+1	Friendly
+in Greece	+4
+-4	1750
+1977	-1
+0	28
+4
+February 11
+2009	Greece
+Denmark	1
+1	Friendly
+in Greece	-2
++2	1748
+1788	0
++1	27
+18
+March 28
+2009	Israel
+Greece	1
+1	World Cup qualifier
+in Israel	-4
++4	1717
+1752	0
++1	36
+27
+April 01
+2009	Greece
+Israel	2
+1	World Cup qualifier
+in Greece	+13
+-13	1765
+1704	+2
+-4	24
+39
+August 12
+2009	Poland
+Greece	2
+0	Friendly
+in Poland	+14
+-14	1698
+1751	+1
+-5	42
+28
+September 05
+2009	Switzerland
+Greece	2
+0	World Cup qualifier
+in Switzerland	+20
+-20	1797
+1731	+2
+-7	17
+35
+September 09
+2009	Moldova
+Greece	1
+1	World Cup qualifier
+in Moldova	+11
+-11	1427
+1720	+4
+-1	98
+36
+October 10
+2009	Greece
+Latvia	5
+2	World Cup qualifier
+in Greece	+12
+-12	1732
+1540	+5
+-3	32
+68
+October 14
+2009	Greece
+Luxembourg	2
+1	World Cup qualifier
+in Greece	0
+0	1732
+1066	-2
+0	34
+181
+November 14
+2009	Greece
+Ukraine	0
+0	World Cup qualifier
+in Greece	-3
++3	1729
+1785	0
+0	33
+17
+November 18
+2009	Ukraine
+Greece	0
+1	World Cup qualifier
+in Ukraine	-28
++28	1757
+1757	-6
++10	23
+23
+March 03
+2010	Greece
+Senegal	0
+2	Friendly
+in Greece	-26
++26	1731
+1549	-8
++10	29
+71
+May 25
+2010	Greece
+North Korea	2
+2	Friendly
+in Austria	-5
++5	1726
+1533	-1
++1	29
+78
+June 02
+2010	Paraguay
+Greece	2
+0	Friendly
+in Switzerland	+15
+-15	1745
+1711	+3
+-4	24
+32
+June 12
+2010	South Korea
+Greece	2
+0	World Cup
+in South Africa	+40
+-40	1789
+1671	+5
+-10	17
+42
+June 17
+2010	Greece
+Nigeria	2
+1	World Cup
+in South Africa	+32
+-32	1703
+1660	+9
+-5	34
+43
+June 22
+2010	Argentina
+Greece	2
+0	World Cup
+in South Africa	+18
+-18	1966
+1685	0
+-4	4
+38
+August 11
+2010	Serbia
+Greece	0
+1	Friendly
+in Serbia	-15
++15	1766
+1700	-5
++4	20
+34
+September 03
+2010	Greece
+Georgia	1
+1	European Cup qualifier
+in Greece	-16
++16	1684
+1434	-2
++2	36
+98
+September 07
+2010	Croatia
+Greece	0
+0	European Cup qualifier
+in Croatia	-14
++14	1864
+1698	0
++3	7
+33
+October 08
+2010	Greece
+Latvia	1
+0	European Cup qualifier
+in Greece	+7
+-7	1705
+1522	+2
+-1	31
+78
+October 12
+2010	Greece
+Israel	2
+1	European Cup qualifier
+in Greece	+13
+-13	1718
+1659	+1
+-4	30
+43
+November 17
+2010	Austria
+Greece	1
+2	Friendly
+in Austria	-9
++9	1577
+1727	-3
++3	61
+27
+February 09
+2011	Greece
+Canada	1
+0	Friendly
+in Greece	+4
+-4	1731
+1577	-1
+-1	29
+59
+March 26
+2011	Malta
+Greece	0
+1	European Cup qualifier
+in Malta	-3
++3	1180
+1734	-1
+0	159
+29
+March 29
+2011	Greece
+Poland	0
+0	Friendly
+in Greece	-5
++5	1729
+1651	0
++1	29
+44
+June 04
+2011	Greece
+Malta	3
+1	European Cup qualifier
+in Greece	+1
+-1	1730
+1179	0
+0	29
+161
+June 07
+2011	Ecuador
+Greece	1
+1	Friendly
+in the United States	+1
+-1	1705
+1729	0
+-2	35
+31
+August 10
+2011	Bosnia and Herzegovina
+Greece	0
+0	Friendly
+in Bosnia and Herzegovina	+1
+-1	1610
+1728	-1
++1	57
+30
+September 02
+2011	Israel
+Greece	0
+1	European Cup qualifier
+in Israel	-22
++22	1649
+1750	-5
++5	44
+25
+September 06
+2011	Latvia
+Greece	1
+1	European Cup qualifier
+in Latvia	+8
+-8	1502
+1742	+2
+-3	83
+28
+October 07
+2011	Greece
+Croatia	2
+0	European Cup qualifier
+in Greece	+32
+-32	1774
+1839	+8
+-3	20
+12
+October 11
+2011	Georgia
+Greece	1
+2	European Cup qualifier
+in Georgia	-9
++9	1454
+1783	-2
+0	96
+20
+November 11
+2011	Greece
+Russia	1
+1	Friendly
+in Greece	-3
++3	1780
+1788	-3
+-3	23
+21
+November 15
+2011	Romania
+Greece	3
+1	Friendly
+in Austria	+20
+-20	1679
+1760	+2
+-1	39
+24
+February 29
+2012	Greece
+Belgium	1
+1	Friendly
+in Greece	-5
++5	1755
+1661	-2
+0	26
+42
+May 26
+2012	Greece
+Slovenia	1
+1	Friendly
+in Austria	-4
++4	1751
+1628	0
++2	26
+51
+May 31
+2012	Greece
+Armenia	1
+0	Friendly
+in Austria	+4
+-4	1755
+1511	0
+-4	27
+83
+June 08
+2012	Poland
+Greece	1
+1	European Cup
+in Poland	-3
++3	1694
+1758	-2
++1	37
+24
+June 12
+2012	Czechia
+Greece	2
+1	European Cup
+in Poland	+28
+-28	1750
+1730	+7
+-7	25
+31
+June 16
+2012	Greece
+Russia	1
+0	European Cup
+in Poland	+34
+-34	1764
+1820	+5
+-2	24
+14
+June 22
+2012	Germany
+Greece	4
+2	European Cup
+in Poland	+11
+-11	2074
+1753	0
+-1	2
+24
+August 15
+2012	Norway
+Greece	2
+3	Friendly
+in Norway	-12
++12	1721
+1765	-1
++1	29
+23
+September 07
+2012	Latvia
+Greece	1
+2	World Cup qualifier
+in Latvia	-12
++12	1504
+1777	-3
++1	82
+22
+September 11
+2012	Greece
+Lithuania	2
+0	World Cup qualifier
+in Greece	+5
+-5	1782
+1441	0
++1	22
+95
+October 12
+2012	Greece
+Bosnia and Herzegovina	0
+0	World Cup qualifier
+in Greece	-10
++10	1772
+1705	0
++3	22
+33
+October 16
+2012	Slovakia
+Greece	0
+1	World Cup qualifier
+in Slovakia	-16
++16	1581
+1788	-8
++1	63
+21
+November 14
+2012	Ireland
+Greece	0
+1	Friendly
+in Ireland	-11
++11	1701
+1799	0
++1	31
+20
+February 06
+2013	Greece
+Switzerland	0
+0	Friendly
+in Greece	-3
++3	1796
+1803	0
+0	20
+19
+March 22
+2013	Bosnia and Herzegovina
+Greece	3
+1	World Cup qualifier
+in Bosnia and Herzegovina	+26
+-26	1763
+1770	+1
+-2	24
+22
+June 07
+2013	Lithuania
+Greece	0
+1	World Cup qualifier
+in Lithuania	-9
++9	1435
+1779	-2
+0	99
+22
+August 14
+2013	Austria
+Greece	0
+2	Friendly
+in Austria	-12
++12	1605
+1791	-2
++1	54
+22
+September 06
+2013	Liechtenstein
+Greece	0
+1	World Cup qualifier
+in Liechtenstein	-2
++2	1172
+1793	0
++2	163
+20
+September 10
+2013	Greece
+Latvia	1
+0	World Cup qualifier
+in Greece	+3
+-3	1796
+1460	-1
++1	20
+92
+October 11
+2013	Greece
+Slovakia	1
+0	World Cup qualifier
+in Greece	+5
+-5	1801
+1569	0
+0	20
+61
+October 15
+2013	Greece
+Liechtenstein	2
+0	World Cup qualifier
+in Greece	+1
+-1	1802
+1162	+1
++1	19
+165
+November 15
+2013	Greece
+Romania	3
+1	World Cup qualifier
+in Greece	+14
+-14	1816
+1679	0
+-6	19
+40
+November 19
+2013	Romania
+Greece	1
+1	World Cup qualifier
+in Romania	+2
+-2	1681
+1814	0
++2	40
+17
+March 05
+2014	Greece
+South Korea	0
+2	Friendly
+in Greece	-24
++24	1790
+1690	-4
++7	21
+36

@@ -1,0 +1,3429 @@
+July 29
+1930	Faroe Islands
+Iceland	0
+1	Friendly
+in Faroe Islands	-7
++7	1193
+1407	-
+-	64
+46
+July 17
+1946	Iceland
+Denmark	0
+3	Friendly
+in Iceland	-10
++10	1397
+1671	0
+0	56
+19
+July 24
+1947	Iceland
+Norway	2
+4	Friendly
+in Iceland	-12
++12	1385
+1569	-1
++3	60
+36
+July 02
+1948	Iceland
+Finland	2
+0	Friendly
+in Iceland	+7
+-7	1392
+1265	0
+-1	62
+78
+August 07
+1949	Denmark
+Iceland	5
+1	Friendly
+in Denmark	+3
+-3	1695
+1389	0
+0	20
+65
+June 29
+1951	Iceland
+Sweden	4
+3	Friendly
+in Iceland	+18
+-18	1407
+1861	+3
+-1	64
+7
+July 26
+1951	Norway
+Iceland	3
+1	Friendly
+in Norway	+6
+-6	1537
+1401	+1
+0	40
+64
+August 09
+1953	Denmark
+Iceland	4
+0	Friendly
+in Denmark	+4
+-4	1657
+1397	0
+-2	24
+73
+August 13
+1953	Norway
+Iceland	3
+1	Friendly
+in Norway	+6
+-6	1533
+1391	+1
+-2	43
+74
+July 04
+1954	Iceland
+Norway	1
+0	Friendly
+in Iceland	+12
+-12	1403
+1556	+5
+-1	70
+38
+August 24
+1954	Sweden
+Iceland	3
+2	Friendly
+in Sweden	+1
+-1	1767
+1402	0
+-1	13
+71
+July 03
+1955	Iceland
+Denmark	0
+4	Friendly
+in Iceland	-12
++12	1390
+1635	-4
++3	75
+25
+August 25
+1955	Iceland
+United States	3
+2	Friendly
+in Iceland	+12
+-12	1402
+1543	+4
+-1	71
+41
+June 29
+1956	Finland
+Iceland	2
+1	Friendly
+in Finland	+9
+-9	1332
+1393	+1
+-2	88
+73
+June 02
+1957	France
+Iceland	8
+0	World Cup qualifier
+in France	+5
+-5	1819
+1388	0
+-2	8
+78
+June 05
+1957	Belgium
+Iceland	8
+3	World Cup qualifier
+in Belgium	+11
+-11	1617
+1377	+2
+-4	30
+82
+July 08
+1957	Iceland
+Norway	0
+3	Friendly
+in Iceland	-15
++15	1362
+1550	-1
++2	83
+44
+July 10
+1957	Iceland
+Denmark	2
+6	Friendly
+in Iceland	-14
++14	1348
+1572	-7
++4	90
+39
+September 01
+1957	Iceland
+France	1
+5	World Cup qualifier
+in Iceland	-8
++8	1340
+1827	-1
+0	91
+9
+September 04
+1957	Iceland
+Belgium	2
+5	World Cup qualifier
+in Iceland	-19
++19	1321
+1636	-2
++4	93
+26
+June 26
+1959	Iceland
+Denmark	2
+4	Olympic Games qualifier
+in Iceland	-20
++20	1301
+1567	-2
++2	97
+43
+July 07
+1959	Iceland
+Norway	1
+0	Olympic Games qualifier
+in Iceland	+26
+-26	1327
+1486	+4
+-8	93
+57
+August 18
+1959	Denmark
+Iceland	1
+1	Olympic Games qualifier
+in Denmark	-15
++15	1564
+1342	0
++1	43
+92
+August 21
+1959	Norway
+Iceland	2
+1	Olympic Games qualifier
+in Norway	+8
+-8	1494
+1334	+2
+-1	55
+93
+June 09
+1960	Norway
+Iceland	4
+0	Friendly
+in Norway	+9
+-9	1449
+1325	+2
+-1	68
+100
+August 03
+1960	Iceland
+West Germany	0
+5	Friendly
+in Iceland	-4
++4	1321
+1805	-2
+0	102
+13
+July 09
+1962	Iceland
+Norway	1
+3	Friendly
+in Iceland	-15
++15	1306
+1427	-4
++3	107
+78
+August 12
+1962	Ireland
+Iceland	4
+2	European Cup qualifier
+in Ireland	+5
+-5	1618
+1301	+1
+-2	34
+108
+September 02
+1962	Iceland
+Ireland	1
+1	European Cup qualifier
+in Iceland	+11
+-11	1312
+1607	+2
+-2	105
+37
+August 10
+1964	Iceland
+Bermuda	4
+3	Friendly
+in Iceland	+7
+-7	1319
+1293	+1
+-	111
+115
+August 23
+1964	Iceland
+Finland	0
+2	Friendly
+in Iceland	-21
++21	1298
+1293	-3
++7	114
+115
+July 05
+1965	Iceland
+Denmark	1
+3	Friendly
+in Iceland	-8
++8	1290
+1591	-5
++1	117
+42
+August 23
+1967	Denmark
+Iceland	14
+2	Friendly
+in Denmark	+8
+-8	1513
+1282	+1
+-2	60
+119
+July 18
+1968	Iceland
+Norway	0
+4	Friendly
+in Iceland	-13
++13	1269
+1497	-1
++1	119
+67
+June 23
+1969	Iceland
+Bermuda	2
+1	Friendly
+in Iceland	+7
+-7	1276
+1270	+2
+-2	118
+119
+July 21
+1969	Norway
+Iceland	2
+1	Friendly
+in Norway	+3
+-3	1495
+1273	+1
+0	68
+118
+July 24
+1969	Finland
+Iceland	3
+1	Friendly
+in Finland	+8
+-8	1368
+1265	+2
+-1	97
+119
+November 11
+1969	Bermuda
+Iceland	3
+2	Friendly
+in Bermuda	+7
+-7	1288
+1258	+1
+0	115
+120
+July 07
+1970	Iceland
+Denmark	0
+0	Friendly
+in Iceland	+6
+-6	1264
+1586	+1
+-2	121
+47
+July 20
+1970	Iceland
+Norway	2
+0	Friendly
+in Iceland	+21
+-21	1285
+1478	+2
+-2	119
+69
+May 26
+1971	Norway
+Iceland	3
+1	Friendly
+in Norway	+5
+-5	1487
+1280	-1
+-1	70
+119
+August 13
+1971	Iceland
+Japan	0
+2	Friendly
+in Iceland	-10
++10	1270
+1510	-1
++2	120
+60
+May 18
+1972	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+2
+-2	1799
+1268	+1
+0	12
+122
+May 22
+1972	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+2
+-2	1801
+1266	0
+-1	12
+124
+July 03
+1972	Iceland
+Denmark	2
+5	Friendly
+in Iceland	-7
++7	1259
+1609	0
++2	124
+42
+July 12
+1972	Iceland
+Faroe Islands	3
+0	Friendly
+in Iceland	+10
+-10	1269
+1183	+1
+-1	123
+142
+August 03
+1972	Norway
+Iceland	4
+1	World Cup qualifier
+in Norway	+13
+-13	1431
+1256	+6
+-1	76
+124
+June 08
+1973	Faroe Islands
+Iceland	0
+4	Friendly
+in Faroe Islands	-20
++20	1163
+1276	-4
++2	145
+124
+July 11
+1973	Sweden
+Iceland	1
+0	Friendly
+in Sweden	+1
+-1	1807
+1275	0
+0	14
+124
+July 17
+1973	Iceland
+East Germany	1
+2	Friendly
+in Iceland	-1
++1	1274
+1817	0
+0	124
+13
+July 19
+1973	Iceland
+East Germany	0
+2	Friendly
+in Iceland	-2
++2	1272
+1819	0
+0	124
+12
+August 03
+1973	Iceland
+Norway	0
+4	World Cup qualifier
+in Iceland	-32
++32	1240
+1458	-7
++10	130
+70
+August 22
+1973	Netherlands
+Iceland	5
+0	World Cup qualifier
+in the Netherlands	+2
+-2	1781
+1238	0
+0	18
+129
+August 29
+1973	Netherlands
+Iceland	8
+1	World Cup qualifier
+in the Netherlands	+2
+-2	1783
+1236	+1
+0	17
+129
+July 03
+1974	Faroe Islands
+Iceland	2
+3	Friendly
+in Faroe Islands	-11
++11	1152
+1247	-1
++2	148
+129
+August 19
+1974	Iceland
+Finland	2
+2	Friendly
+in Iceland	+1
+-1	1248
+1364	+1
+0	128
+98
+September 08
+1974	Iceland
+Belgium	0
+2	European Cup qualifier
+in Iceland	-3
++3	1245
+1842	-1
++1	128
+11
+October 09
+1974	Denmark
+Iceland	2
+1	Friendly
+in Denmark	+2
+-2	1547
+1243	0
+0	52
+128
+October 12
+1974	East Germany
+Iceland	1
+1	European Cup qualifier
+in East Germany	-19
++19	1869
+1262	0
++4	7
+124
+May 25
+1975	Iceland
+France	0
+0	European Cup qualifier
+in Iceland	+16
+-16	1278
+1720	0
+-3	125
+26
+June 05
+1975	Iceland
+East Germany	2
+1	European Cup qualifier
+in Iceland	+37
+-37	1315
+1797	+14
+-3	110
+15
+June 23
+1975	Iceland
+Faroe Islands	6
+0	Friendly
+in Iceland	+8
+-8	1323
+1144	+1
+-2	109
+150
+July 07
+1975	Iceland
+Norway	1
+1	Olympic Games qualifier
+in Iceland	0
+0	1323
+1421	0
+0	109
+81
+July 17
+1975	Norway
+Iceland	3
+2	Olympic Games qualifier
+in Norway	+10
+-10	1431
+1313	+2
+-1	79
+110
+July 30
+1975	Iceland
+Soviet Union	0
+2	Olympic Games qualifier
+in Iceland	-6
++6	1307
+1814	-2
+0	112
+13
+September 03
+1975	France
+Iceland	3
+0	European Cup qualifier
+in France	+3
+-3	1723
+1304	0
+-2	24
+113
+September 06
+1975	Belgium
+Iceland	1
+0	European Cup qualifier
+in Belgium	+1
+-1	1872
+1303	0
+0	8
+113
+September 10
+1975	Soviet Union
+Iceland	1
+0	Olympic Games qualifier
+in the Soviet Union	+1
+-1	1824
+1302	0
+0	13
+113
+May 19
+1976	Norway
+Iceland	0
+1	Friendly
+in Norway	-15
++15	1381
+1317	-8
++6	92
+109
+June 16
+1976	Faroe Islands
+Iceland	1
+6	Friendly
+in Faroe Islands	-16
++16	1128
+1333	-1
++6	147
+103
+July 14
+1976	Finland
+Iceland	1
+0	Friendly
+in Finland	+6
+-6	1380
+1327	0
+-2	93
+106
+August 21
+1976	Iceland
+Luxembourg	3
+1	Friendly
+in Iceland	+8
+-8	1335
+1232	+3
+0	104
+131
+September 05
+1976	Iceland
+Belgium	0
+1	World Cup qualifier
+in Iceland	-4
++4	1331
+1815	-3
+0	105
+15
+September 08
+1976	Iceland
+Netherlands	0
+1	World Cup qualifier
+in Iceland	-1
++1	1330
+2003	-1
+0	106
+3
+June 11
+1977	Iceland
+Northern Ireland	1
+0	World Cup qualifier
+in Iceland	+32
+-32	1362
+1637	+6
+-4	100
+37
+June 30
+1977	Iceland
+Norway	2
+1	Friendly
+in Iceland	+8
+-8	1370
+1398	+4
+-3	96
+89
+July 20
+1977	Iceland
+Sweden	0
+1	Friendly
+in Iceland	-3
++3	1367
+1763	-1
+0	97
+22
+August 31
+1977	Netherlands
+Iceland	4
+1	World Cup qualifier
+in the Netherlands	+1
+-1	2026
+1366	0
+-1	2
+98
+September 03
+1977	Belgium
+Iceland	4
+0	World Cup qualifier
+in Belgium	+3
+-3	1804
+1363	+1
+-1	15
+98
+September 21
+1977	Northern Ireland
+Iceland	2
+0	World Cup qualifier
+in Northern Ireland	+6
+-6	1643
+1357	0
+-2	38
+100
+June 28
+1978	Iceland
+Denmark	0
+0	Friendly
+in Iceland	+4
+-4	1361
+1581	+2
+-1	97
+49
+September 03
+1978	Iceland
+United States	0
+0	Friendly
+in Iceland	-1
++1	1360
+1442	0
+0	96
+78
+September 06
+1978	Iceland
+Poland	0
+2	European Cup qualifier
+in Iceland	-5
++5	1355
+1899	-2
+0	98
+9
+September 20
+1978	Netherlands
+Iceland	3
+0	European Cup qualifier
+in the Netherlands	+1
+-1	2016
+1354	0
+-1	2
+99
+October 04
+1978	East Germany
+Iceland	3
+1	European Cup qualifier
+in East Germany	+1
+-1	1894
+1353	0
+0	10
+99
+May 22
+1979	Switzerland
+Iceland	2
+0	European Cup qualifier
+in Switzerland	+10
+-10	1545
+1343	+1
+-2	59
+103
+May 26
+1979	Iceland
+West Germany	1
+3	Friendly
+in Iceland	-1
++1	1342
+1992	0
+0	103
+3
+June 09
+1979	Iceland
+Switzerland	1
+2	European Cup qualifier
+in Iceland	-14
++14	1328
+1559	-3
++3	107
+57
+September 05
+1979	Iceland
+Netherlands	0
+4	European Cup qualifier
+in Iceland	-3
++3	1325
+1984	-2
+0	109
+3
+September 12
+1979	Iceland
+East Germany	0
+3	European Cup qualifier
+in Iceland	-5
++5	1320
+1867	0
+0	109
+11
+October 10
+1979	Poland
+Iceland	2
+0	European Cup qualifier
+in Poland	+1
+-1	1929
+1319	0
+0	7
+110
+June 02
+1980	Iceland
+Wales	0
+4	World Cup qualifier
+in Iceland	-9
++9	1310
+1777	-4
++1	112
+18
+June 25
+1980	Iceland
+Finland	1
+1	Friendly
+in Iceland	+1
+-1	1311
+1438	0
+0	112
+76
+June 30
+1980	Iceland
+Faroe Islands	2
+1	Friendly tournament
+in Iceland	+5
+-5	1316
+1123	+4
+-3	108
+155
+July 03
+1980	Iceland
+Greenland	4
+1	Friendly tournament
+in Iceland	+2
+-2	1318
+884	0
+0	109
+184
+July 14
+1980	Norway
+Iceland	3
+1	Friendly
+in Norway	+7
+-7	1448
+1311	+2
+-3	73
+112
+July 17
+1980	Sweden
+Iceland	1
+1	Friendly
+in Sweden	-8
++8	1624
+1319	-2
++3	42
+109
+September 03
+1980	Iceland
+Soviet Union	1
+2	World Cup qualifier
+in Iceland	-2
++2	1317
+1924	0
+0	110
+8
+September 24
+1980	Turkey
+Iceland	1
+3	World Cup qualifier
+in Turkey	-54
++54	1561
+1371	-12
++14	55
+97
+October 15
+1980	Soviet Union
+Iceland	5
+0	World Cup qualifier
+in the Soviet Union	+2
+-2	1926
+1369	0
+-1	7
+98
+May 27
+1981	Czechoslovakia
+Iceland	6
+1	World Cup qualifier
+in Czechoslovakia	+3
+-3	1848
+1366	+1
+-1	14
+96
+August 22
+1981	Iceland
+Nigeria	3
+0	Friendly
+in Iceland	+27
+-27	1393
+1641	+4
+-6	91
+38
+August 26
+1981	Denmark
+Iceland	3
+0	Friendly
+in Denmark	+3
+-3	1678
+1390	0
+0	32
+91
+September 09
+1981	Iceland
+Turkey	2
+0	World Cup qualifier
+in Iceland	+33
+-33	1423
+1490	+10
+-7	83
+70
+September 23
+1981	Iceland
+Czechoslovakia	1
+1	World Cup qualifier
+in Iceland	+15
+-15	1438
+1855	+2
+-2	81
+12
+October 14
+1981	Wales
+Iceland	2
+2	World Cup qualifier
+in Wales	-18
++18	1817
+1456	-1
++1	16
+80
+March 14
+1982	Kuwait
+Iceland	0
+0	Friendly
+in Kuwait	-6
++6	1618
+1462	0
++1	39
+78
+June 02
+1982	Iceland
+England	1
+1	Friendly
+in Iceland	+8
+-8	1470
+1915	+2
+-1	76
+6
+June 05
+1982	Malta
+Iceland	2
+1	European Cup qualifier
+in Malta	+23
+-23	1344
+1447	+5
+-4	104
+80
+July 11
+1982	Finland
+Iceland	3
+2	Friendly
+in Finland	+8
+-8	1437
+1439	+2
+-1	82
+81
+August 01
+1982	Faroe Islands
+Iceland	1
+4	Friendly
+in Faroe Islands	-8
++8	1129
+1447	0
++1	155
+80
+August 02
+1982	Faroe Islands
+Iceland	0
+4	Friendly
+in Faroe Islands	-8
++8	1121
+1455	-2
++1	157
+79
+September 01
+1982	Iceland
+Netherlands	1
+1	European Cup qualifier
+in Iceland	+14
+-14	1469
+1838	+3
+-2	76
+12
+September 08
+1982	Iceland
+East Germany	0
+1	Friendly
+in Iceland	-3
++3	1466
+1862	-1
++1	76
+8
+October 13
+1982	Ireland
+Iceland	2
+0	European Cup qualifier
+in Ireland	+8
+-8	1688
+1458	+1
+-1	31
+77
+October 27
+1982	Spain
+Iceland	1
+0	European Cup qualifier
+in Spain	+3
+-3	1793
+1455	0
+0	19
+77
+May 29
+1983	Iceland
+Spain	0
+1	European Cup qualifier
+in Iceland	-7
++7	1448
+1834	-2
++1	85
+11
+June 05
+1983	Iceland
+Malta	1
+0	European Cup qualifier
+in Iceland	+9
+-9	1457
+1313	+2
+-1	82
+107
+August 08
+1983	Iceland
+Faroe Islands	6
+0	Friendly
+in Iceland	+3
+-3	1460
+1122	+2
+-1	80
+158
+August 17
+1983	Iceland
+Sweden	0
+4	Friendly
+in Iceland	-11
++11	1449
+1734	-2
++1	83
+22
+September 07
+1983	Netherlands
+Iceland	3
+0	European Cup qualifier
+in the Netherlands	+5
+-5	1801
+1444	0
+0	17
+83
+September 21
+1983	Iceland
+Ireland	0
+3	European Cup qualifier
+in Iceland	-22
++22	1422
+1704	-4
++2	87
+31
+June 20
+1984	Iceland
+Norway	0
+1	Friendly
+in Iceland	-9
++9	1413
+1578	0
+0	87
+50
+August 01
+1984	Faroe Islands
+Iceland	0
+0	Friendly tournament
+in Faroe Islands	+8
+-8	1130
+1405	+1
+-1	156
+89
+August 03
+1984	Iceland
+Greenland	1
+0	Friendly tournament
+in Faroe Islands	+1
+-1	1406
+879	0
+0	89
+184
+September 12
+1984	Iceland
+Wales	1
+0	World Cup qualifier
+in Iceland	+33
+-33	1439
+1739	+7
+-4	82
+25
+September 25
+1984	Saudi Arabia
+Iceland	1
+2	Friendly
+in Saudi Arabia	-14
++14	1484
+1453	-6
++1	74
+81
+October 17
+1984	Scotland
+Iceland	3
+0	World Cup qualifier
+in Scotland	+5
+-5	1812
+1448	0
+0	15
+80
+November 14
+1984	Wales
+Iceland	2
+1	World Cup qualifier
+in Wales	+4
+-4	1726
+1444	+1
+-1	30
+82
+March 31
+1985	Kuwait
+Iceland	1
+1	Friendly
+in Kuwait	-5
++5	1508
+1449	-1
++1	64
+81
+April 24
+1985	Luxembourg
+Iceland	0
+0	Friendly
+in Luxembourg	+6
+-6	1138
+1443	+2
+0	154
+82
+May 28
+1985	Iceland
+Scotland	0
+1	World Cup qualifier
+in Iceland	-7
++7	1436
+1816	0
+0	83
+12
+June 12
+1985	Iceland
+Spain	1
+2	World Cup qualifier
+in Iceland	-7
++7	1429
+1812	0
++1	83
+14
+July 10
+1985	Iceland
+Faroe Islands	9
+0	Friendly
+in Iceland	+5
+-5	1434
+1132	0
+-2	83
+157
+July 12
+1985	Iceland
+Faroe Islands	1
+0	Friendly
+in Iceland	+2
+-2	1436
+1130	0
+0	83
+157
+September 25
+1985	Spain
+Iceland	2
+1	World Cup qualifier
+in Spain	+2
+-2	1814
+1434	0
+0	13
+83
+March 11
+1986	Bahrain
+Iceland	2
+1	Friendly
+in Bahrain	+11
+-11	1317
+1423	+4
+-1	109
+85
+March 15
+1986	Bahrain
+Iceland	0
+2	Friendly
+in Bahrain	-15
++15	1302
+1438	-7
++2	116
+83
+March 19
+1986	Kuwait
+Iceland	1
+0	Friendly
+in Kuwait	+5
+-5	1514
+1433	+1
+-1	66
+84
+May 25
+1986	Iceland
+Ireland	1
+2	Friendly tournament
+in Iceland	-10
++10	1423
+1666	-1
++2	86
+34
+May 29
+1986	Iceland
+Czechoslovakia	1
+2	Friendly tournament
+in Iceland	-6
++6	1417
+1785	0
+0	86
+21
+September 10
+1986	Iceland
+France	0
+0	European Cup qualifier
+in Iceland	+17
+-17	1434
+1936	+2
+-1	84
+4
+September 24
+1986	Iceland
+Soviet Union	1
+1	European Cup qualifier
+in Iceland	+16
+-16	1450
+1904	+1
+-1	83
+7
+October 29
+1986	East Germany
+Iceland	2
+0	European Cup qualifier
+in East Germany	+5
+-5	1769
+1445	+1
+0	19
+83
+February 26
+1987	Kuwait
+Iceland	1
+1	Friendly
+in Kuwait	-7
++7	1642
+1452	0
+0	40
+82
+February 28
+1987	Kuwait
+Iceland	0
+1	Friendly
+in Kuwait	-17
++17	1625
+1469	-2
++5	42
+78
+April 29
+1987	France
+Iceland	2
+0	European Cup qualifier
+in France	+3
+-3	1897
+1466	0
++1	8
+78
+June 03
+1987	Iceland
+East Germany	0
+6	European Cup qualifier
+in Iceland	-22
++22	1444
+1774	-2
++4	80
+19
+September 09
+1987	Iceland
+Norway	2
+1	European Cup qualifier
+in Iceland	+28
+-28	1472
+1656	+4
+-6	76
+40
+September 23
+1987	Norway
+Iceland	0
+1	European Cup qualifier
+in Norway	-33
++33	1623
+1505	-6
++3	46
+73
+October 28
+1987	Soviet Union
+Iceland	2
+0	European Cup qualifier
+in the Soviet Union	+3
+-3	1945
+1502	0
+0	1
+73
+May 04
+1988	Hungary
+Iceland	3
+0	Friendly
+in Hungary	+4
+-4	1742
+1498	0
+0	25
+71
+August 07
+1988	Iceland
+Bulgaria	2
+3	Friendly
+in Iceland	-5
++5	1493
+1772	-2
+0	72
+22
+August 24
+1988	Iceland
+Faroe Islands	1
+0	Friendly
+in Iceland	+1
+-1	1494
+1129	0
+0	71
+153
+August 31
+1988	Iceland
+Soviet Union	1
+1	World Cup qualifier
+in Iceland	+16
+-16	1510
+1945	+4
+-1	67
+3
+September 21
+1988	Iceland
+Hungary	0
+3	Friendly
+in Iceland	-12
++12	1498
+1730	-3
+0	70
+29
+September 28
+1988	Denmark
+Iceland	1
+0	Friendly
+in Denmark	+2
+-2	1795
+1496	+1
+-1	18
+71
+October 12
+1988	Turkey
+Iceland	1
+1	World Cup qualifier
+in Turkey	-6
++6	1501
+1502	-2
++2	70
+69
+October 19
+1988	East Germany
+Iceland	2
+0	World Cup qualifier
+in East Germany	+7
+-7	1762
+1495	+3
+-3	23
+72
+May 31
+1989	Soviet Union
+Iceland	1
+1	World Cup qualifier
+in the Soviet Union	-19
++19	1945
+1514	-2
++4	4
+66
+June 14
+1989	Iceland
+Austria	0
+0	World Cup qualifier
+in Iceland	+3
+-3	1517
+1658	+1
+-1	64
+33
+August 23
+1989	Austria
+Iceland	2
+1	World Cup qualifier
+in Austria	+8
+-8	1666
+1509	+3
+0	33
+63
+September 06
+1989	Iceland
+East Germany	0
+3	World Cup qualifier
+in Iceland	-30
++30	1479
+1689	-7
++5	71
+31
+September 20
+1989	Iceland
+Turkey	2
+1	World Cup qualifier
+in Iceland	+21
+-21	1500
+1574	+2
+-7	69
+51
+March 28
+1990	Luxembourg
+Iceland	1
+2	Friendly
+in Luxembourg	-4
++4	1136
+1504	0
++1	157
+68
+April 03
+1990	Bermuda
+Iceland	0
+4	Friendly
+in Bermuda	-15
++15	1327
+1519	-4
++3	113
+65
+April 08
+1990	United States
+Iceland	4
+1	Friendly
+in the United States	+13
+-13	1525
+1506	+3
+-3	63
+68
+May 30
+1990	Iceland
+Albania	2
+0	European Cup qualifier
+in Iceland	+12
+-12	1518
+1354	+1
+-4	67
+106
+August 08
+1990	Faroe Islands
+Iceland	2
+3	Friendly
+in Faroe Islands	-4
++4	1145
+1522	-1
++1	155
+65
+September 05
+1990	Iceland
+France	1
+2	European Cup qualifier
+in Iceland	-8
++8	1514
+1868	-2
++1	66
+8
+September 26
+1990	Czechoslovakia
+Iceland	1
+0	European Cup qualifier
+in Czechoslovakia	+3
+-3	1838
+1511	+2
+0	12
+66
+October 10
+1990	Spain
+Iceland	2
+1	European Cup qualifier
+in Spain	+2
+-2	1916
+1509	0
+-2	6
+65
+May 01
+1991	Wales
+Iceland	1
+0	Friendly
+in Wales	+3
+-3	1716
+1506	+1
+0	29
+64
+May 07
+1991	Malta
+Iceland	1
+4	Friendly
+in Malta	-13
++13	1303
+1519	-4
++2	116
+62
+May 26
+1991	Albania
+Iceland	1
+0	European Cup qualifier
+in Albania	+24
+-24	1364
+1495	+7
+-5	103
+66
+June 05
+1991	Iceland
+Czechoslovakia	0
+1	European Cup qualifier
+in Iceland	-7
++7	1488
+1881	-1
+0	67
+8
+July 17
+1991	Iceland
+Turkey	5
+1	Friendly
+in Iceland	+17
+-17	1505
+1532	+3
+-4	65
+59
+September 04
+1991	Iceland
+Denmark	0
+0	Friendly
+in Iceland	+5
+-5	1510
+1808	0
+-1	65
+14
+September 25
+1991	Iceland
+Spain	2
+0	European Cup qualifier
+in Iceland	+47
+-47	1557
+1784	+10
+-6	54
+18
+October 16
+1991	Cyprus
+Iceland	1
+1	Friendly
+in Cyprus	+6
+-6	1224
+1551	+1
+0	139
+54
+November 20
+1991	France
+Iceland	3
+1	European Cup qualifier
+in France	+3
+-3	1965
+1548	0
+0	2
+55
+February 10
+1992	Malta
+Iceland	1
+0	Rothmans Tournament
+in Malta	+18
+-18	1386
+1530	+5
+-3	98
+58
+March 02
+1992	United Arab Emirates
+Iceland	0
+1	Friendly
+in United Arab Emirates	-10
++10	1414
+1540	-3
++2	88
+56
+April 08
+1992	Israel
+Iceland	2
+2	Friendly
+in Israel	-4
++4	1599
+1544	0
+0	47
+56
+May 13
+1992	Greece
+Iceland	1
+0	World Cup qualifier
+in Greece	+10
+-10	1636
+1534	+3
+-2	38
+59
+June 03
+1992	Hungary
+Iceland	1
+2	World Cup qualifier
+in Hungary	-33
++33	1658
+1567	-4
++7	36
+52
+August 09
+1992	Iceland
+Israel	0
+2	Friendly
+in Iceland	-18
++18	1549
+1609	-4
++2	57
+46
+October 07
+1992	Iceland
+Greece	0
+1	World Cup qualifier
+in Iceland	-22
++22	1527
+1639	-3
++9	61
+37
+October 14
+1992	Russia
+Iceland	1
+0	World Cup qualifier
+in Russia	+4
+-4	1833
+1523	+1
+0	12
+61
+April 17
+1993	United States
+Iceland	1
+1	Friendly
+in the United States	-5
++5	1623
+1528	-3
++1	42
+63
+May 20
+1993	Luxembourg
+Iceland	1
+1	World Cup qualifier
+in Luxembourg	+14
+-14	1138
+1514	+4
+-7	160
+69
+June 02
+1993	Iceland
+Russia	1
+1	World Cup qualifier
+in Iceland	+10
+-10	1524
+1799	+6
+-1	64
+16
+June 16
+1993	Iceland
+Hungary	2
+0	World Cup qualifier
+in Iceland	+34
+-34	1558
+1632	+5
+-8	58
+41
+August 31
+1993	Iceland
+United States	0
+1	Friendly
+in Iceland	-12
++12	1546
+1616	-2
++3	61
+47
+September 08
+1993	Iceland
+Luxembourg	1
+0	World Cup qualifier
+in Iceland	+2
+-2	1548
+1136	0
+0	61
+166
+October 17
+1993	Tunisia
+Iceland	3
+1	Friendly
+in Tunisia	+10
+-10	1582
+1538	+2
+-1	53
+62
+April 20
+1994	Saudi Arabia
+Iceland	2
+0	Friendly
+in France	+10
+-10	1661
+1528	+1
+-4	36
+65
+April 24
+1994	United States
+Iceland	1
+2	Friendly
+in the United States	-15
++15	1588
+1543	-4
++5	51
+60
+May 04
+1994	Brazil
+Iceland	3
+0	Friendly
+in Brazil	+2
+-2	1927
+1541	0
+0	4
+60
+May 19
+1994	Iceland
+Bolivia	1
+0	Friendly
+in Iceland	+11
+-11	1552
+1668	+2
+-1	58
+32
+August 16
+1994	Iceland
+Estonia	4
+0	Friendly
+in Iceland	+2
+-2	1554
+1164	0
+0	57
+160
+August 30
+1994	Iceland
+United Arab Emirates	1
+0	Friendly
+in Iceland	+5
+-5	1559
+1461	+2
+-2	55
+86
+September 07
+1994	Iceland
+Sweden	0
+1	European Cup qualifier
+in Iceland	-7
++7	1552
+1947	-1
+0	57
+4
+October 12
+1994	Turkey
+Iceland	5
+0	European Cup qualifier
+in Turkey	+27
+-27	1595
+1525	+8
+-7	47
+65
+October 29
+1994	Kuwait
+Iceland	0
+1	Friendly
+in Kuwait	-14
++14	1552
+1539	-1
++3	57
+61
+November 16
+1994	Switzerland
+Iceland	1
+0	European Cup qualifier
+in Switzerland	+4
+-4	1819
+1535	-3
+-1	20
+62
+April 22
+1995	Chile
+Iceland	1
+1	Friendly
+in Chile	-7
++7	1711
+1542	0
++1	27
+61
+June 01
+1995	Sweden
+Iceland	1
+1	European Cup qualifier
+in Sweden	-16
++16	1830
+1558	-5
++4	19
+55
+June 11
+1995	Iceland
+Hungary	2
+1	European Cup qualifier
+in Iceland	+17
+-17	1575
+1591	+5
+-5	50
+47
+July 02
+1995	Iceland
+Faroe Islands	2
+0	Friendly
+in Iceland	+1
+-1	1576
+1116	0
+0	49
+171
+August 16
+1995	Iceland
+Switzerland	0
+2	European Cup qualifier
+in Iceland	-23
++23	1553
+1785	-11
++2	60
+22
+October 11
+1995	Iceland
+Turkey	0
+0	European Cup qualifier
+in Iceland	+4
+-4	1557
+1711	+4
++1	57
+28
+November 11
+1995	Hungary
+Iceland	1
+0	European Cup qualifier
+in Hungary	+15
+-15	1565
+1542	+9
+-8	53
+65
+February 07
+1996	Slovenia
+Iceland	7
+1	Rothmans Tournament
+in Malta	+34
+-34	1554
+1508	+5
+-8	62
+71
+February 09
+1996	Russia
+Iceland	3
+0	Rothmans Tournament
+in Malta	+7
+-7	1852
+1501	0
+-1	10
+72
+February 11
+1996	Malta
+Iceland	1
+4	Rothmans Tournament
+in Malta	-18
++18	1272
+1519	-3
++5	135
+67
+April 24
+1996	Estonia
+Iceland	0
+3	Friendly
+in Estonia	-5
++5	1083
+1524	0
++1	176
+67
+June 01
+1996	Iceland
+Macedonia	1
+1	World Cup qualifier
+in Iceland	-8
++8	1516
+1486	-2
++4	68
+80
+June 05
+1996	Iceland
+Cyprus	2
+1	Friendly
+in Iceland	+4
+-4	1520
+1353	0
+0	70
+116
+August 14
+1996	Iceland
+Malta	2
+1	Friendly
+in Iceland	+2
+-2	1522
+1266	0
+0	70
+139
+September 04
+1996	Czechia
+Iceland	2
+1	Friendly
+in Czechia	+1
+-1	1892
+1521	0
+0	8
+69
+October 05
+1996	Lithuania
+Iceland	2
+0	World Cup qualifier
+in Lithuania	+31
+-31	1443
+1490	+9
+-8	90
+77
+October 09
+1996	Iceland
+Romania	0
+4	World Cup qualifier
+in Iceland	-20
++20	1470
+1791	-6
++1	83
+19
+November 10
+1996	Ireland
+Iceland	0
+0	World Cup qualifier
+in Ireland	-15
++15	1694
+1485	-2
++2	31
+82
+April 29
+1997	Slovakia
+Iceland	3
+1	Friendly
+in Slovakia	+6
+-6	1639
+1479	+2
+0	43
+78
+June 07
+1997	Macedonia
+Iceland	1
+0	World Cup qualifier
+in Macedonia	+13
+-13	1520
+1466	+4
+-2	70
+81
+June 11
+1997	Iceland
+Lithuania	0
+0	World Cup qualifier
+in Iceland	-7
++7	1459
+1439	-2
++3	84
+91
+July 20
+1997	Iceland
+Norway	0
+1	Friendly
+in Iceland	-4
++4	1455
+1807	-3
+0	86
+18
+July 27
+1997	Iceland
+Faroe Islands	1
+0	Friendly
+in Iceland	+2
+-2	1457
+1163	+2
+0	85
+161
+August 20
+1997	Liechtenstein
+Iceland	0
+4	World Cup qualifier
+in Liechtenstein	-12
++12	1054
+1469	-1
++4	180
+81
+September 06
+1997	Iceland
+Ireland	2
+4	World Cup qualifier
+in Iceland	-23
++23	1446
+1669	-10
++3	90
+38
+September 10
+1997	Romania
+Iceland	4
+0	World Cup qualifier
+in Romania	+4
+-4	1836
+1442	0
+-2	12
+92
+October 11
+1997	Iceland
+Liechtenstein	4
+0	World Cup qualifier
+in Iceland	+4
+-4	1446
+1048	+3
+-1	91
+181
+December 07
+1997	Saudi Arabia
+Iceland	0
+0	Friendly
+in Saudi Arabia	-7
++7	1655
+1453	0
++7	42
+84
+February 05
+1998	Slovenia
+Iceland	3
+2	Friendly tournament
+in Cyprus	+14
+-14	1482
+1439	+5
+-11	77
+96
+February 07
+1998	Slovakia
+Iceland	2
+1	Friendly tournament
+in Cyprus	+7
+-7	1651
+1432	0
+-1	42
+97
+May 12
+1998	Saudi Arabia
+Iceland	1
+1	Friendly
+in France	-5
++5	1626
+1437	-2
++2	46
+96
+June 06
+1998	South Africa
+Iceland	1
+1	Friendly
+in Germany	-5
++5	1639
+1442	-1
++4	42
+91
+August 19
+1998	Iceland
+Latvia	4
+1	Friendly
+in Iceland	+9
+-9	1451
+1360	+4
+-2	89
+115
+September 05
+1998	Iceland
+France	1
+1	European Cup qualifier
+in Iceland	+18
+-18	1469
+2028	+8
+0	81
+1
+October 10
+1998	Armenia
+Iceland	0
+0	European Cup qualifier
+in Armenia	-2
++2	1401
+1471	0
++4	102
+78
+October 14
+1998	Iceland
+Russia	1
+0	European Cup qualifier
+in Iceland	+30
+-30	1501
+1738	+5
+-1	73
+22
+March 10
+1999	Luxembourg
+Iceland	1
+2	Friendly
+in Luxembourg	-4
++4	1167
+1505	-2
++6	164
+67
+March 27
+1999	Andorra
+Iceland	0
+2	European Cup qualifier
+in Andorra	-7
++7	1050
+1512	-1
+0	181
+69
+March 31
+1999	Ukraine
+Iceland	1
+1	European Cup qualifier
+in Ukraine	-14
++14	1697
+1526	-3
++3	32
+66
+April 28
+1999	Malta
+Iceland	1
+2	Friendly
+in Malta	-4
++4	1166
+1530	-1
++1	162
+64
+June 05
+1999	Iceland
+Armenia	2
+0	European Cup qualifier
+in Iceland	+12
+-12	1542
+1369	+1
+-4	63
+111
+June 09
+1999	Russia
+Iceland	1
+0	European Cup qualifier
+in Russia	+5
+-5	1781
+1537	-1
+-1	19
+64
+August 18
+1999	Faroe Islands
+Iceland	0
+1	Friendly
+in Faroe Islands	-4
++4	1184
+1541	0
++1	156
+62
+September 04
+1999	Iceland
+Andorra	3
+0	European Cup qualifier
+in Iceland	+2
+-2	1543
+1046	-1
+0	63
+181
+September 08
+1999	Iceland
+Ukraine	0
+1	European Cup qualifier
+in Iceland	-17
++17	1526
+1710	-1
++1	64
+31
+October 09
+1999	France
+Iceland	3
+2	European Cup qualifier
+in France	+1
+-1	1998
+1525	0
+0	2
+64
+January 31
+2000	Iceland
+Norway	0
+0	Nordic Tournament
+in Spain	+11
+-11	1536
+1864	+1
+-3	66
+14
+February 02
+2000	Iceland
+Finland	1
+0	Nordic Tournament
+in Spain	+15
+-15	1551
+1521	+4
+-2	62
+68
+February 04
+2000	Iceland
+Faroe Islands	3
+2	Nordic Tournament
+in Spain	+3
+-3	1554
+1135	+1
+0	61
+166
+July 27
+2000	Iceland
+Malta	5
+0	Friendly
+in Iceland	+3
+-3	1557
+1193	0
+0	61
+156
+August 16
+2000	Iceland
+Sweden	2
+1	Nordic Tournament
+in Iceland	+22
+-22	1579
+1799	+3
+-2	58
+15
+September 02
+2000	Iceland
+Denmark	1
+2	World Cup qualifier
+in Iceland	-17
++17	1562
+1750	-3
++3	61
+23
+October 07
+2000	Czechia
+Iceland	4
+0	World Cup qualifier
+in Czechia	+6
+-6	1902
+1556	0
+0	8
+61
+October 11
+2000	Iceland
+Northern Ireland	1
+0	World Cup qualifier
+in Iceland	+11
+-11	1567
+1480	+2
+-1	61
+80
+November 15
+2000	Poland
+Iceland	1
+0	Friendly
+in Poland	+4
+-4	1720
+1563	+3
+0	28
+61
+January 13
+2001	India
+Iceland	0
+3	Millenium Cup
+in India	-7
++7	1120
+1570	-1
+0	172
+61
+January 20
+2001	Chile
+Iceland	2
+0	Millenium Cup
+in India	+15
+-15	1706
+1555	+4
+0	34
+61
+March 24
+2001	Bulgaria
+Iceland	2
+1	World Cup qualifier
+in Bulgaria	+9
+-9	1674
+1546	+1
+-1	39
+63
+April 25
+2001	Malta
+Iceland	1
+4	World Cup qualifier
+in Malta	-13
++13	1177
+1559	-3
++1	161
+62
+June 02
+2001	Iceland
+Malta	3
+0	World Cup qualifier
+in Iceland	+4
+-4	1563
+1173	0
+0	62
+161
+June 06
+2001	Iceland
+Bulgaria	1
+1	World Cup qualifier
+in Iceland	+1
+-1	1564
+1687	0
++1	63
+37
+August 15
+2001	Iceland
+Poland	1
+1	Friendly
+in Iceland	+3
+-3	1567
+1762	0
++1	60
+24
+September 01
+2001	Iceland
+Czechia	3
+1	World Cup qualifier
+in Iceland	+45
+-45	1612
+1815	+5
+-6	54
+16
+September 05
+2001	Northern Ireland
+Iceland	3
+0	World Cup qualifier
+in Northern Ireland	+40
+-40	1499
+1572	+9
+-5	77
+58
+October 06
+2001	Denmark
+Iceland	6
+0	World Cup qualifier
+in Denmark	+11
+-11	1810
+1561	+1
+-1	17
+59
+January 08
+2002	Iceland
+Kuwait	0
+0	Friendly
+in Oman	+1
+-1	1562
+1578	0
+0	59
+55
+January 10
+2002	Saudi Arabia
+Iceland	1
+0	Friendly
+in Saudi Arabia	+4
+-4	1710
+1558	+3
+0	34
+59
+March 07
+2002	Brazil
+Iceland	6
+1	Friendly
+in Brazil	+4
+-4	1828
+1554	0
+0	14
+59
+May 22
+2002	Norway
+Iceland	1
+1	Friendly
+in Norway	-7
++7	1728
+1561	-1
+0	31
+60
+August 21
+2002	Iceland
+Andorra	3
+0	Friendly
+in Iceland	+1
+-1	1562
+1065	+2
+0	59
+177
+September 07
+2002	Iceland
+Hungary	0
+2	Friendly
+in Iceland	-21
++21	1541
+1542	-5
++5	64
+63
+October 12
+2002	Iceland
+Scotland	0
+2	European Cup qualifier
+in Iceland	-31
++31	1510
+1656	-6
++6	69
+41
+October 16
+2002	Iceland
+Lithuania	3
+0	European Cup qualifier
+in Iceland	+13
+-13	1523
+1346	+5
+-4	65
+124
+November 20
+2002	Estonia
+Iceland	2
+0	Friendly
+in Estonia	+16
+-16	1409
+1507	+10
+-4	102
+69
+March 29
+2003	Scotland
+Iceland	2
+1	European Cup qualifier
+in Scotland	+8
+-8	1657
+1499	+2
+-4	40
+75
+April 30
+2003	Finland
+Iceland	3
+0	Friendly
+in Finland	+7
+-7	1650
+1492	-1
+-1	43
+76
+June 07
+2003	Iceland
+Faroe Islands	2
+1	European Cup qualifier
+in Iceland	+5
+-5	1497
+1233	0
+0	75
+149
+June 11
+2003	Lithuania
+Iceland	0
+3	European Cup qualifier
+in Lithuania	-34
++34	1350
+1531	-11
++6	121
+69
+August 20
+2003	Faroe Islands
+Iceland	1
+2	European Cup qualifier
+in Faroe Islands	-10
++10	1221
+1541	0
++3	152
+65
+September 06
+2003	Iceland
+Germany	0
+0	European Cup qualifier
+in Iceland	+12
+-12	1553
+1857	+1
+-1	64
+11
+October 11
+2003	Germany
+Iceland	3
+0	European Cup qualifier
+in Germany	+6
+-6	1868
+1547	+1
+0	10
+63
+November 19
+2003	Iceland
+Mexico	0
+0	Friendly
+in the United States	+7
+-7	1554
+1824	0
+-1	65
+13
+March 31
+2004	Albania
+Iceland	2
+1	Friendly
+in Albania	+9
+-9	1496
+1545	+1
+-2	77
+66
+April 28
+2004	Latvia
+Iceland	0
+0	Friendly
+in Latvia	-2
++2	1497
+1547	+1
++1	75
+65
+May 30
+2004	Japan
+Iceland	3
+2	Friendly tournament
+in England	+6
+-6	1779
+1541	0
+-1	20
+66
+June 05
+2004	England
+Iceland	6
+1	Friendly tournament
+in England	+4
+-4	1908
+1537	0
+0	8
+67
+August 18
+2004	Iceland
+Italy	2
+0	Friendly
+in Iceland	+25
+-25	1562
+1889	+5
+-1	65
+8
+September 04
+2004	Iceland
+Bulgaria	1
+3	World Cup qualifier
+in Iceland	-31
++31	1531
+1687	-9
++6	74
+33
+September 08
+2004	Hungary
+Iceland	3
+2	World Cup qualifier
+in Hungary	+13
+-13	1570
+1518	0
+-1	63
+74
+October 09
+2004	Malta
+Iceland	0
+0	World Cup qualifier
+in Malta	+11
+-11	1226
+1507	+5
+-2	149
+77
+October 13
+2004	Iceland
+Sweden	1
+4	World Cup qualifier
+in Iceland	-16
++16	1491
+1834	-6
++1	82
+15
+March 26
+2005	Croatia
+Iceland	4
+0	World Cup qualifier
+in Croatia	+6
+-6	1813
+1485	0
+0	18
+80
+March 30
+2005	Italy
+Iceland	0
+0	Friendly
+in Italy	-9
++9	1879
+1494	0
+0	8
+81
+June 04
+2005	Iceland
+Hungary	2
+3	World Cup qualifier
+in Iceland	-22
++22	1472
+1585	-4
++7	84
+59
+June 08
+2005	Iceland
+Malta	4
+1	World Cup qualifier
+in Iceland	+8
+-8	1480
+1200	+3
+-2	81
+158
+August 17
+2005	Iceland
+South Africa	4
+1	Friendly
+in Iceland	+18
+-18	1498
+1568	0
+-4	82
+62
+September 03
+2005	Iceland
+Croatia	1
+3	World Cup qualifier
+in Iceland	-12
++12	1486
+1854	-4
++1	85
+13
+September 07
+2005	Bulgaria
+Iceland	3
+2	World Cup qualifier
+in Bulgaria	+7
+-7	1653
+1479	+2
+-1	46
+86
+October 07
+2005	Poland
+Iceland	3
+2	Friendly
+in Poland	+2
+-2	1805
+1477	0
+0	18
+86
+October 12
+2005	Sweden
+Iceland	3
+1	World Cup qualifier
+in Sweden	+3
+-3	1878
+1474	0
+0	9
+83
+February 28
+2006	Trinidad and Tobago
+Iceland	2
+0	Friendly
+in England	+11
+-11	1572
+1463	+3
+-3	59
+87
+August 15
+2006	Iceland
+Spain	0
+0	Friendly
+in Iceland	+8
+-8	1471
+1925	+2
+-1	85
+8
+September 02
+2006	Northern Ireland
+Iceland	0
+3	European Cup qualifier
+in Northern Ireland	-46
++46	1436
+1517	-14
++11	95
+76
+September 06
+2006	Iceland
+Denmark	0
+2	European Cup qualifier
+in Iceland	-11
++11	1506
+1895	0
++2	76
+8
+October 07
+2006	Latvia
+Iceland	4
+0	European Cup qualifier
+in Latvia	+32
+-32	1487
+1474	+9
+-11	83
+87
+October 11
+2006	Iceland
+Sweden	1
+2	European Cup qualifier
+in Iceland	-7
++7	1467
+1858	-1
++1	89
+11
+March 28
+2007	Spain
+Iceland	1
+0	European Cup qualifier
+in Spain	+2
+-2	1889
+1465	0
+-2	9
+90
+June 02
+2007	Iceland
+Liechtenstein	1
+1	European Cup qualifier
+in Iceland	-17
++17	1448
+1131	-3
+0	91
+172
+June 06
+2007	Sweden
+Iceland	5
+0	European Cup qualifier
+in Sweden	+6
+-6	1786
+1442	+1
+-2	20
+93
+August 22
+2007	Iceland
+Canada	1
+1	Friendly
+in Iceland	+3
+-3	1445
+1629	+1
+0	93
+50
+September 08
+2007	Iceland
+Spain	1
+1	European Cup qualifier
+in Iceland	+16
+-16	1461
+1889	+5
+-1	88
+9
+September 12
+2007	Iceland
+Northern Ireland	2
+1	European Cup qualifier
+in Iceland	+18
+-18	1479
+1504	+4
+-2	83
+75
+October 13
+2007	Iceland
+Latvia	2
+4	European Cup qualifier
+in Iceland	-44
++44	1435
+1451	-12
++13	96
+90
+October 17
+2007	Liechtenstein
+Iceland	3
+0	European Cup qualifier
+in Liechtenstein	+54
+-54	1177
+1381	+6
+-11	166
+108
+November 21
+2007	Denmark
+Iceland	3
+0	European Cup qualifier
+in Denmark	+4
+-4	1776
+1377	0
+-1	20
+108
+February 02
+2008	Belarus
+Iceland	2
+0	Friendly tournament
+in Malta	+13
+-13	1545
+1364	+1
+-4	70
+112
+February 04
+2008	Malta
+Iceland	1
+0	Friendly tournament
+in Malta	+18
+-18	1217
+1346	+4
+-6	153
+118
+February 06
+2008	Iceland
+Armenia	2
+0	Friendly tournament
+in Malta	+28
+-28	1374
+1400	+8
+-6	110
+103
+March 16
+2008	Iceland
+Faroe Islands	3
+0	Friendly
+in Iceland	+4
+-4	1378
+1123	+2
+0	108
+171
+March 26
+2008	Slovakia
+Iceland	1
+2	Friendly
+in Slovakia	-18
++18	1604
+1396	-5
++3	53
+104
+May 28
+2008	Iceland
+Wales	0
+1	Friendly
+in Iceland	-7
++7	1389
+1627	-2
+0	106
+49
+August 20
+2008	Iceland
+Azerbaijan	1
+1	Friendly
+in Iceland	-4
++4	1385
+1342	-3
++1	113
+121
+September 06
+2008	Norway
+Iceland	2
+2	World Cup qualifier
+in Norway	-17
++17	1686
+1402	-3
++7	41
+106
+September 10
+2008	Iceland
+Scotland	1
+2	World Cup qualifier
+in Iceland	-10
++10	1392
+1704	-2
++2	108
+38
+October 11
+2008	Netherlands
+Iceland	2
+0	World Cup qualifier
+in the Netherlands	+1
+-1	1986
+1391	0
+-2	3
+110
+October 15
+2008	Iceland
+Macedonia	1
+0	World Cup qualifier
+in Iceland	+24
+-24	1415
+1535	+13
+-8	98
+72
+November 19
+2008	Malta
+Iceland	0
+1	Friendly
+in Malta	-7
++7	1190
+1422	-2
++1	159
+97
+February 11
+2009	Iceland
+Liechtenstein	2
+0	Friendly
+in Spain	+5
+-5	1427
+1155	+1
+0	98
+164
+March 22
+2009	Iceland
+Faroe Islands	1
+2	Friendly
+in Iceland	-18
++18	1409
+1152	-5
++3	104
+166
+April 01
+2009	Scotland
+Iceland	2
+1	World Cup qualifier
+in Scotland	+4
+-4	1689
+1405	-1
+-1	43
+103
+June 06
+2009	Iceland
+Netherlands	1
+2	World Cup qualifier
+in Iceland	-2
++2	1403
+2003	-2
+-1	105
+3
+June 10
+2009	Macedonia
+Iceland	2
+0	World Cup qualifier
+in Macedonia	+13
+-13	1541
+1390	+5
+-5	68
+110
+August 12
+2009	Iceland
+Slovakia	1
+1	Friendly
+in Iceland	+3
+-3	1393
+1609	+2
+0	108
+51
+September 05
+2009	Iceland
+Norway	1
+1	World Cup qualifier
+in Iceland	+11
+-11	1404
+1697	+3
+-1	105
+39
+September 09
+2009	Iceland
+Georgia	3
+1	Friendly
+in Iceland	+12
+-12	1416
+1414	+3
+-6	102
+104
+October 13
+2009	Iceland
+South Africa	1
+0	Friendly
+in Iceland	+10
+-10	1426
+1505	+4
+-3	98
+84
+November 10
+2009	Iran
+Iceland	1
+0	Friendly
+in Iran	+2
+-2	1689
+1424	+1
+-1	42
+98
+November 14
+2009	Luxembourg
+Iceland	1
+1	Friendly
+in Luxembourg	+6
+-6	1072
+1418	+1
+-3	178
+101
+March 03
+2010	Cyprus
+Iceland	0
+0	Friendly
+in Cyprus	-5
++5	1524
+1423	+1
++1	79
+100
+March 21
+2010	Iceland
+Faroe Islands	2
+0	Friendly
+in Iceland	+4
+-4	1427
+1174	+1
+-1	98
+162
+March 24
+2010	Iceland
+Mexico	0
+0	Friendly
+in the United States	+9
+-9	1436
+1877	0
+0	98
+8
+May 29
+2010	Iceland
+Andorra	4
+0	Friendly
+in Iceland	+2
+-2	1438
+1003	0
+0	97
+185
+August 11
+2010	Iceland
+Liechtenstein	1
+1	Friendly
+in Iceland	-8
++8	1430
+1139	-2
+0	98
+171
+September 03
+2010	Iceland
+Norway	1
+2	European Cup qualifier
+in Iceland	-10
++10	1420
+1742	-3
++3	101
+27
+September 07
+2010	Denmark
+Iceland	1
+0	European Cup qualifier
+in Denmark	+4
+-4	1709
+1416	+2
+-2	31
+104
+October 12
+2010	Iceland
+Portugal	1
+3	European Cup qualifier
+in Iceland	-8
++8	1408
+1844	-2
+0	106
+10
+November 17
+2010	Israel
+Iceland	3
+2	Friendly
+in Israel	+2
+-2	1661
+1406	+1
+-5	42
+110
+March 26
+2011	Cyprus
+Iceland	0
+0	European Cup qualifier
+in Cyprus	-11
++11	1499
+1417	-7
+0	89
+107
+June 04
+2011	Iceland
+Denmark	0
+2	European Cup qualifier
+in Iceland	-15
++15	1402
+1730	-3
++4	108
+29
+August 10
+2011	Hungary
+Iceland	4
+0	Friendly
+in Hungary	+5
+-5	1616
+1397	+1
+-1	54
+108
+September 02
+2011	Norway
+Iceland	1
+0	European Cup qualifier
+in Norway	+3
+-3	1766
+1394	+1
+0	21
+108
+September 06
+2011	Iceland
+Cyprus	1
+0	European Cup qualifier
+in Iceland	+19
+-19	1413
+1464	+6
+-5	103
+92
+October 07
+2011	Portugal
+Iceland	5
+3	European Cup qualifier
+in Portugal	+2
+-2	1888
+1411	0
+-1	8
+104
+February 24
+2012	Japan
+Iceland	3
+1	Friendly
+in Japan	+2
+-2	1791
+1409	0
+-1	18
+103
+February 29
+2012	Montenegro
+Iceland	2
+1	Friendly
+in Montenegro	+3
+-3	1598
+1406	-2
+-1	57
+104
+May 27
+2012	France
+Iceland	3
+2	Friendly
+in France	+1
+-1	1832
+1405	0
+0	14
+104
+May 30
+2012	Sweden
+Iceland	3
+2	Friendly
+in Sweden	+1
+-1	1858
+1404	0
+0	10
+104
+August 15
+2012	Iceland
+Faroe Islands	2
+0	Friendly
+in Iceland	+4
+-4	1408
+1186	+1
+-1	104
+159
+September 07
+2012	Iceland
+Norway	2
+0	World Cup qualifier
+in Iceland	+46
+-46	1454
+1675	+9
+-10	95
+39
+September 11
+2012	Cyprus
+Iceland	1
+0	World Cup qualifier
+in Cyprus	+17
+-17	1432
+1437	+3
+-3	100
+98
+October 12
+2012	Albania
+Iceland	1
+2	World Cup qualifier
+in Albania	-28
++28	1454
+1465	-9
++5	96
+93
+October 16
+2012	Iceland
+Switzerland	0
+2	World Cup qualifier
+in Iceland	-13
++13	1452
+1793	-2
++1	93
+20
+November 14
+2012	Andorra
+Iceland	0
+2	Friendly
+in Andorra	-3
++3	970
+1455	0
+0	189
+93
+February 06
+2013	Russia
+Iceland	2
+0	Friendly
+in Spain	+3
+-3	1864
+1452	+1
+-2	12
+96
+March 22
+2013	Slovenia
+Iceland	1
+2	World Cup qualifier
+in Slovenia	-31
++31	1527
+1483	-6
++7	75
+89
+June 07
+2013	Iceland
+Slovenia	2
+4	World Cup qualifier
+in Iceland	-33
++33	1450
+1580	-7
++6	94
+62
+August 14
+2013	Iceland
+Faroe Islands	1
+0	Friendly
+in Iceland	+2
+-2	1452
+1169	+1
+0	94
+164
+September 06
+2013	Switzerland
+Iceland	4
+4	World Cup qualifier
+in Switzerland	-17
++17	1789
+1469	-2
++5	21
+89
+September 10
+2013	Iceland
+Albania	2
+1	World Cup qualifier
+in Iceland	+17
+-17	1486
+1497	+5
+-3	86
+84
+October 11
+2013	Iceland
+Cyprus	2
+0	World Cup qualifier
+in Iceland	+13
+-13	1499
+1358	+3
+-6	83
+119
+October 15
+2013	Norway
+Iceland	1
+1	World Cup qualifier
+in Norway	-11
++11	1615
+1510	-3
++4	53
+79
+November 15
+2013	Iceland
+Croatia	0
+0	World Cup qualifier
+in Iceland	+9
+-9	1519
+1773	+2
+0	77
+22
+November 19
+2013	Croatia
+Iceland	2
+0	World Cup qualifier
+in Croatia	+7
+-7	1780
+1512	0
+-2	22
+78
+January 21
+2014	Sweden
+Iceland	2
+0	Friendly
+in United Arab Emirates	+5
+-5	1806
+1507	0
+-2	19
+80
+March 05
+2014	Wales
+Iceland	3
+1	Friendly
+in Wales	+9
+-9	1567
+1498	+4
+-3	63
+84

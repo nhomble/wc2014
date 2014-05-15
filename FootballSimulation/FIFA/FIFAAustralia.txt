@@ -1,0 +1,225 @@
+Tim Cahill Tim Cahill 
+New York Red Bulls / MLS 
+75	CM	65	71	75	74	70	89	3 	3 	 / 	 Right	700	1,983		
+Robbie Kruse Robbie Kruse 
+Bayer 04 Leverkusen / Bundesliga 
+74	RM	84	65	66	77	48	59	4 	2 	 / 	 Right	500	1,722		
+Adam Federici Adam Federici 
+Reading / FL Championship 
+72	GK	74	69	78	74	47	69	1 	2 	 / 	 Right	450	936		
+Mile Jedinak Mile Jedinak 
+Crystal Palace / Barclays PL 
+72	CDM	60	67	68	58	74	69	2 	3 	 / 	 Right	450	1,763		
+Mathew Ryan Mathew Ryan 
+Club Brugge / Pro League 
+70	GK	70	68	70	69	62	71	1 	4 	 / 	 Right	450	1,101		
+Nikita Rukavytsya Nikita Rukavytsya 
+FSV Frankfurt / Bundesliga 2 
+68	LW	91	59	63	68	44	56	3 	3 	 / 	 Left	350	1,586		
+Mathew Leckie Mathew Leckie 
+FSV Frankfurt / Bundesliga 2 
+67	LM	90	64	58	70	40	63	3 	4 	 / 	 Right	600	1,631		
+Michael Beauchamp Michael Beauchamp 
+Western Sydney Wanderers / A-League 
+66	CB	50	31	53	58	65	71	2 	3 	 / 	 Right	850	1,365		
+Jacob Burns Jacob Burns 
+Perth Glory / A-League 
+65	CDM	33	58	55	48	67	65	2 	4 	 / 	 Right	450	1,557		
+Nikolai Topor-Stanley Nikolai Topor-Stanley 
+Western Sydney Wanderers / A-League 
+65	CB	49	39	60	56	65	79	2 	1 	 / 	 Left	2,000	1,394		
+Luke DeVere Luke DeVere 
+GyeongNam FC / K LEAGUE 
+65	CB	65	39	43	40	70	69	2 	3 	 / 	 Right	300	1,400		
+Mile Sterjovski Mile Sterjovski 
+Central Coast Mariners / A-League 
+64	LM	69	67	65	63	55	65	3 	5 	 / 	 Right	200	1,710		
+Carl Valeri Carl Valeri 
+Sassuolo / Serie A 
+64	CM	65	49	70	60	60	64	3 	3 	 / 	 Right	3,500	1,618		
+Adrian Madaschi Adrian Madaschi 
+Jeju United FC / K LEAGUE 
+64	CB	46	41	52	45	66	69	2 	3 	 / 	 Left	200	1,357		
+Michael Thwaite Michael Thwaite 
+Perth Glory / A-League 
+64	CB	64	46	55	41	66	68	2 	3 	 / 	 Right	200	1,471		
+ David Williams David Williams 
+Melbourne Heart / A-League 	
+64	LW	86	66	59	66	49	57	3 	3 	 / 	 Right	400	1,631		
+Mark Bridge Mark Bridge 
+Western Sydney Wanderers / A-League 
+64	LW	71	62	56	66	43	60	2 	3 	 / 	 Right	200	1,551		
+David Carney David Carney 
+New York Red Bulls / MLS 
+64	LB	71	63	63	67	63	57	3 	2 	 / 	 Left	700	1,736		
+Nathan Burns Nathan Burns 
+Newcastle Jets / A-League 
+64	RM	81	59	61	62	50	65	3 	4 	 / 	 Right	3,000	1,633		
+Michael Zullo Michael Zullo 
+Adelaide United / A-League 
+64	LB	82	50	63	70	59	52	3 	3 	 / 	 Left	200	1,686		
+Ivan Franjic Ivan Franjic 
+Brisbane Roar / A-League 
+64	RB	75	57	65	64	62	63	2 	2 	 / 	 Right	250	1,665		
+Bailey Wright Bailey Wright 
+Preston North End / Football League 1 
+64	CB	70	35	46	43	64	75	2 	3 	 / 	 Right	200	1,439		
+Nathan Burns Nathan Burns 
+Incheon United FC / K LEAGUE 
+64	RM	81	59	61	62	50	65	3 	4 	 / 	 Right	300	1,633		
+Carl Valeri Carl Valeri 
+Ternana / Serie B 
+64	CM	65	49	70	60	60	64	3 	3 	 / 	 Right	200	1,618		
+David Carney David Carney 
+Newcastle Jets / A-League 
+64	LB	71	63	63	67	63	57	3 	2 	 / 	 Left	0	1,736
+Adrian Leijer Adrian Leijer 
+Melbourne Victory / A-League 
+63	CB	60	38	53	52	62	77	2 	3 	 / 	 Right	200	1,424		
+Ruben Zadkovich Ruben Zadkovich 
+Newcastle Jets / A-League 
+63	CM	68	66	62	63	61	62	3 	3 	 / 	 Right	200	1,720		
+Danny Vukovic Danny Vukovic 
+Perth Glory / A-League 
+63	GK	66	61	53	72	53	55	1 	3 	 / 	 Right	200	981		
+Robert Cornthwaite Robert Cornthwaite 
+Chunnam Dragons / K LEAGUE 
+63	CB	45	35	41	32	65	65	2 	2 	 / 	 Right	200	1,231		
+Matt Simon Matt Simon 
+Central Coast Mariners / A-League 
+63	ST	68	56	42	57	61	70	2 	3 	 / 	 Right	300	1,504		
+Mustafa Amini Mustafa Amini 
+Borussia Dortmund / Bundesliga 
+63	CM	68	60	62	67	54	52	3 	4 	 / 	 Right	350	1,596		
+Eli Babalj Eli Babalj 
+AZ / Eredivisie 
+63	ST	68	58	31	64	39	67	3 	3 	 / 	 Right	200	1,365		
+Iain Ramsay Iain Ramsay 
+Melbourne Heart / A-League 
+63	LW	90	56	51	67	43	43	4 	3 	 / 	 Left	250	1,492		
+Aziz Behich Aziz Behich 
+Melbourne Heart / A-League 
+63	LB	78	49	62	68	62	60	3 	3 	 / 	 Left	300	1,639		
+Zachary Anderson Zachary Anderson 
+Central Coast Mariners / A-League 
+63	CB	60	43	58	51	60	71	2 	3 	 / 	 Right	200	1,387		
+Mitchell Duke Mitchell Duke 
+Central Coast Mariners / A-League 
+63	ST	84	61	32	64	39	70	2 	3 	 / 	 Right	200	1,438		
+Craig Goodwin Craig Goodwin 
+Newcastle Jets / A-League 
+63	LM	78	67	57	66	57	51	3 	2 	 / 	 Left	1,900	1,714		
+Luke Brattan Luke Brattan 
+Brisbane Roar / A-League 
+62	CDM	72	59	68	60	55	48	2 	3 	 / 	 Right	700	1,624		
+Ben Halloran Ben Halloran 
+Fortuna Düsseldorf / Bundesliga 2 
+62	RW	85	54	52	67	35	46	3 	2 	 / 	 Right	200	1,425		
+James Virgili James Virgili 
+Newcastle Jets / A-League 
+62	RW	78	55	59	69	31	44	4 	3 	 / 	 Right	200	1,407		
+Steve Pantelidis Steve Pantelidis 
+Perth Glory / A-League 
+61	CB	37	33	48	42	60	65	2 	3 	 / 	 Right	200	1,318		
+Andrew Redmayne Andrew Redmayne 
+Melbourne Heart / A-League 
+61	GK	63	59	60	64	42	64	1 	2 	 / 	 Right	200	883		
+Isaka Cernak Isaka Cernak 
+Perth Glory / A-League 
+61	CAM	81	52	54	67	40	42	3 	4 	 / 	 Right	4,900	1,424		
+Shannon Cole Shannon Cole 
+Western Sydney Wanderers / A-League 
+61	RB	66	61	62	68	59	51	3 	5 	 / 	 Right	250	1,652		
+Mate Dugandzic Mate Dugandzic 
+Melbourne Heart / A-League 
+61	RW	77	58	52	70	32	29	3 	3 	 / 	 Right	200	1,396		
+Connor Pain Connor Pain 
+Melbourne Victory / A-League 
+61	LW	86	56	43	67	32	47	3 	3 	 / 	 Left	200	1,394		
+Isaka Cernak Isaka Cernak 
+Central Coast Mariners / A-League 
+61	CAM	81	52	54	67	40	42	3 	4 	 / 	 Right	0	1,424		
+Leigh Broxham Leigh Broxham 
+Melbourne Victory / A-League 
+60	CM	48	53	57	58	67	71	2 	2 	 / 	 Right	200	1,635		
+Justin Pasfield Justin Pasfield 
+Central Coast Mariners / A-League 
+60	GK	69	53	54	67	50	53	1 	3 	 / 	 Right	200	891		
+Dimitri Petratos Dimitri Petratos 
+Brisbane Roar / A-League 
+60	RW	84	57	43	64	38	42	3 	3 	 / 	 Right	200	1,391	
+Mark Schwarzer Mark Schwarzer 
+Chelsea / Barclays PL 
+79	GK	75	81	69	79	50	81	1 	3 	 / 	 Right	500	950		
+Luke Wilkshire Luke Wilkshire 
+Dinamo Moskva / Russian League 
+72	RB	82	61	74	62	68	66	3 	2 	 / 	 Right	300	1,862		
+Thomas Oar Thomas Oar 
+FC Utrecht / Eredivisie 
+72	LM	78	63	70	73	41	40	3 	3 	 / 	 Left	500	1,626		
+Brad Jones Brad Jones 
+Liverpool / Barclays PL 
+71	GK	74	67	70	75	52	69	1 	2 	 / 	 Left	750	952		
+Rhys Williams Rhys Williams 
+Middlesbrough / FL Championship 
+71	CB	69	54	70	64	73	70	2 	4 	 / 	 Right	1,100	1,686		
+Matt McKay Matt McKay 
+Brisbane Roar / A-League 
+70	CM	71	59	73	68	63	48	3 	4 	 / 	 Left	750	1,724		
+Mitchell Langerak Mitchell Langerak 
+Borussia Dortmund / Bundesliga 
+70	GK	73	63	72	76	48	65	1 	3 	 / 	 Right	300	900		
+Harry Kewell Harry Kewell 
+Melbourne Heart / A-League 
+69	LW	70	70	63	72	43	66	4 	3 	 / 	 Left	450	1,648		
+Scott McDonald Scott McDonald 
+Millwall / FL Championship 
+68	ST	75	64	55	67	50	69	3 	3 	 / 	 Right	400	1,650		
+ Dario Vidosic Dario Vidosic 
+FC Sion / Raiffeisen SL 	
+68	CAM	76	66	64	71	49	56	3 	4 	 / 	 Right	500	1,676		
+James Holland James Holland 
+Austria Wien / A. Bundesliga 
+68	CDM	68	58	65	64	66	58	3 	4 	 / 	 Right	200	1,716		
+Adam Sarota Adam Sarota 
+FC Utrecht / Eredivisie 
+68	RM	69	60	69	67	64	64	2 	3 	 / 	 Right	200	1,738		
+Eugene Galekovic Eugene Galekovic 
+Adelaide United / A-League 
+67	GK	71	62	62	69	58	63	1 	2 	 / 	 Right	1,000	965		
+Ante Covic Ante Covic 
+Western Sydney Wanderers / A-League 
+66	GK	67	68	66	68	38	61	1 	2 	 / 	 Left	1,500	875		
+Richard Garcia Richard Garcia 
+Sydney FC / A-League 
+66	RW	67	63	61	68	55	60	2 	4 	 / 	 Right	200	1,652		
+Alex Wilkinson Alex Wilkinson 
+Jeonbuk Hyundai Motors / K LEAGUE 
+66	CB	54	47	56	47	64	70	2 	3 	 / 	 Right	300	1,492		
+Shane Lowry Shane Lowry 
+Millwall / FL Championship 
+66	LB	65	36	62	61	67	70	2 	2 	 / 	 Left	250	1,527		
+Chris Herd Chris Herd 
+Aston Villa / Barclays PL 
+66	CDM	74	57	63	60	69	76	3 	3 	 / 	 Right	1,700	1,726		
+Trent Sainsbury Trent Sainsbury 
+Central Coast Mariners / A-League 
+66	CB	74	48	68	64	69	69	2 	4 	 / 	 Right	150,000	1,643		
+Matt Smith Matt Smith 
+Brisbane Roar / A-League 
+66	CB	59	34	50	48	68	74	2 	3 	 / 	 Right	1,400	1,436		
+Tomas Rogic Tomas Rogic 
+Celtic / Scottish Prem 
+66	CAM	72	65	65	77	41	60	4 	3 	 / 	 Left	1,700	1,606		
+Tomas Rogic Tomas Rogic 
+Melbourne Victory / A-League 
+66	CAM	72	65	65	77	41	60	4 	3 	 / 	 Left	800	1,606		
+Trent Sainsbury Trent Sainsbury 
+PEC Zwolle / Eredivisie 
+66	CB	74	48	68	64	69	69	2 	4 	 / 	 Right	0	1,643		
+Archie Thompson Archie Thompson 
+Melbourne Victory / A-League 
+65	ST	78	59	50	71	44	52	3 	3 	 / 	 Right	200	1,568		
+Pedj Bojic Pedj Bojic 
+Sydney FC / A-League 
+65	RB	76	66	60	69	66	68	3 	4 	 / 	 Right	500	1,797	

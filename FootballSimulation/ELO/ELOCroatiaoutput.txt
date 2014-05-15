@@ -1,0 +1,249 @@
+1940 95 home Croatia Switzerland 4 0 Friendly
+1940 114 away Croatia Switzerland 0 1 Friendly
+1940 126 away Croatia Hungary 1 0 Friendly
+1940 349 home Croatia Hungary 1 1 Friendly
+1941 170 away Croatia Germany 5 1 Friendly
+1941 255 away Croatia Slovakia 1 1 Friendly
+1941 276 home Croatia Slovakia 5 2 Friendly
+1942 18 away Croatia Germany 2 0 Friendly
+1942 98 away Croatia Italy 4 0 Friendly
+1942 104 home Croatia Bulgaria 6 0 Friendly
+1942 162 away Croatia Slovakia 1 2 Friendly
+1942 169 away Croatia Hungary 1 1 Friendly
+1942 254 home Croatia Slovakia 6 1 Friendly
+1942 290 away Croatia Romania 2 2 Friendly
+1942 311 away Croatia Germany 5 1 Friendly
+1943 97 away Croatia Switzerland 1 0 Friendly
+1943 103 home Croatia Slovakia 1 0 Friendly
+1943 162 away Croatia Slovakia 1 3 Friendly
+1944 102 home Croatia Slovakia 7 3 Friendly
+1990 296 home Croatia UnitedStates 2 1 Friendly
+1990 363 home Croatia Romania 2 0 Friendly
+1991 174 away Croatia Slovenia 0 1 Friendly
+1992 191 away Croatia Australia 1 0 Friendly
+1992 194 away Croatia Australia 3 1 Friendly
+1992 198 away Croatia Australia 0 0 Friendly
+1992 301 home Croatia Mexico 3 0 Friendly
+1993 180 home Croatia Ukraine 3 1 Friendly
+1994 85 away Croatia Spain 0 2 Friendly
+1994 113 away Croatia Slovakia 4 1 Friendly
+1994 142 away Croatia Hungary 2 2 Friendly
+1994 159 home Croatia Argentina 0 0 Friendly
+1994 234 away Croatia Israel 0 4 Friendly
+1994 252 away Croatia Estonia 0 2 European Cup qualifier
+1994 288 home Croatia Lithuania 2 0 European Cup qualifier
+1994 326 away Croatia Italy 1 2 European Cup qualifier
+1995 87 home Croatia Ukraine 4 0 European Cup qualifier
+1995 91 away Croatia Lithuania 0 0 European Cup qualifier
+1995 119 home Croatia Slovenia 2 0 European Cup qualifier
+1995 166 away Croatia Ukraine 1 0 European Cup qualifier
+1995 251 home Croatia Estonia 7 1 European Cup qualifier
+1995 287 home Croatia Italy 1 1 European Cup qualifier
+1995 325 away Croatia Slovenia 1 2 European Cup qualifier
+1996 59 home Croatia Poland 2 1 Friendly
+1996 75 home Croatia SouthKorea 3 0 Friendly
+1996 88 home Croatia Israel 2 0 Friendly
+1996 103 home Croatia Hungary 4 1 Friendly
+1996 117 away Croatia England 0 0 Friendly
+1996 157 away Croatia Ireland 2 2 Friendly
+1996 166 home Croatia Turkey 1 0 European Cup
+1996 171 home Croatia Denmark 3 0 European Cup
+1996 174 away Croatia Portugal 3 0 European Cup
+1996 178 away Croatia Germany 2 1 European Cup
+1996 287 home Croatia Bosnia 4 1 World Cup qualifier
+1996 320 home Croatia Greece 1 1 World Cup qualifier
+1996 352 away Croatia Morocco 2 2 King Hassan Cup
+1996 353 home Croatia Czechia 1 1 King Hassan Cup
+1997 91 home Croatia Denmark 1 1 World Cup qualifier
+1997 95 home Croatia Slovenia 3 3 World Cup qualifier
+1997 123 away Croatia Greece 0 1 World Cup qualifier
+1997 163 away Croatia Japan 4 3 Kirin Cup
+1997 167 home Croatia Turkey 1 1 Kirin Cup
+1997 254 home Croatia Bosnia 3 2 World Cup qualifier
+1997 258 away Croatia Denmark 3 1 World Cup qualifier
+1997 290 away Croatia Slovenia 1 3 World Cup qualifier
+1997 308 home Croatia Ukraine 2 0 World Cup qualifier
+1997 325 away Croatia Ukraine 1 1 World Cup qualifier
+1998 115 home Croatia Poland 4 1 Friendly
+1998 153 home Croatia Slovakia 1 2 Friendly
+1998 158 home Croatia Iran 2 0 Friendly
+1998 161 home Croatia Australia 7 0 Friendly
+1998 169 home Croatia Jamaica 3 1 World Cup
+1998 175 home Croatia Japan 1 0 World Cup
+1998 181 away Croatia Argentina 1 0 World Cup
+1998 185 home Croatia Romania 1 0 World Cup
+1998 190 home Croatia Germany 3 0 World Cup
+1998 194 away Croatia France 2 1 World Cup
+1998 197 home Croatia Holland 2 1 World Cup
+1998 253 away Croatia Ireland 2 0 European Cup qualifier
+1998 289 away Croatia Malta 1 4 European Cup qualifier
+1998 293 home Croatia Macedonia 3 2 European Cup qualifier
+1999 41 home Croatia Denmark 0 1 Friendly
+1999 72 away Croatia Greece 3 2 Friendly
+1999 121 home Croatia Italy 0 0 Friendly
+1999 129 away Croatia Spain 3 1 Friendly
+1999 160 away Croatia Macedonia 1 1 European Cup qualifier
+1999 168 home Croatia Egypt 2 2 Korea Cup
+1999 171 home Croatia Mexico 2 1 Korea Cup
+1999 174 away Croatia SouthKorea 1 1 Korea Cup
+1999 235 away Croatia Yugoslavia 0 0 European Cup qualifier
+1999 238 home Croatia Malta 2 1 European Cup qualifier
+1999 252 home Croatia Ireland 1 0 European Cup qualifier
+1999 288 home Croatia Yugoslavia 2 2 European Cup qualifier
+1999 323 away Croatia France 3 0 Friendly
+2000 54 home Croatia Spain 0 0 Friendly
+2000 91 home Croatia Germany 1 1 Friendly
+2000 119 away Croatia Austria 1 2 Friendly
+2000 152 home Croatia France 0 2 Friendly
+2000 233 away Croatia Slovakia 1 1 Friendly
+2000 250 away Croatia Belgium 0 0 World Cup qualifier
+2000 290 home Croatia Scotland 1 1 World Cup qualifier
+2001 59 home Croatia Austria 1 0 Friendly
+2001 86 home Croatia Latvia 4 1 World Cup qualifier
+2001 118 home Croatia Greece 2 2 Friendly
+2001 157 home Croatia SanMarino 4 0 World Cup qualifier
+2001 161 away Croatia Latvia 0 1 World Cup qualifier
+2001 232 away Croatia Ireland 2 2 Friendly
+2001 249 away Croatia Scotland 0 0 World Cup qualifier
+2001 253 away Croatia SanMarino 0 4 World Cup qualifier
+2001 285 home Croatia Belgium 1 0 World Cup qualifier
+2001 320 away Croatia SouthKorea 2 0 Friendly
+2001 323 away Croatia SouthKorea 1 1 Friendly
+2002 44 home Croatia Bulgaria 0 0 Friendly
+2002 89 home Croatia Slovenia 0 0 Friendly
+2002 110 home Croatia Bosnia 2 0 Friendly
+2002 132 away Croatia Hungary 0 2 Friendly
+2002 158 away Croatia Mexico 1 0 World Cup
+2002 163 home Croatia Italy 2 1 World Cup
+2002 168 away Croatia Ecuador 1 0 World Cup
+2002 238 home Croatia Wales 1 1 Friendly
+2002 255 home Croatia Estonia 0 0 European Cup qualifier
+2002 291 away Croatia Bulgaria 2 0 European Cup qualifier
+2002 330 away Croatia Romania 0 1 Friendly
+2003 40 home Croatia Macedonia 2 2 Friendly
+2003 43 home Croatia Poland 0 0 Friendly
+2003 91 home Croatia Belgium 4 0 European Cup qualifier
+2003 95 home Croatia Andorra 2 0 European Cup qualifier
+2003 123 away Croatia Sweden 1 2 Friendly
+2003 166 away Croatia Estonia 0 1 European Cup qualifier
+2003 237 away Croatia England 3 1 Friendly
+2003 254 away Croatia Andorra 0 3 European Cup qualifier
+2003 258 away Croatia Belgium 2 1 European Cup qualifier
+2003 290 home Croatia Bulgaria 1 0 European Cup qualifier
+2003 325 home Croatia Slovenia 1 1 European Cup qualifier
+2003 329 away Croatia Slovenia 0 1 European Cup qualifier
+2004 49 home Croatia Germany 1 2 Friendly
+2004 93 home Croatia Turkey 2 2 Friendly
+2004 121 away Croatia Macedonia 0 1 Friendly
+2004 153 home Croatia Slovakia 1 0 Friendly
+2004 160 away Croatia Denmark 1 2 Friendly
+2004 168 home Croatia Switzerland 0 0 European Cup
+2004 172 home Croatia France 2 2 European Cup
+2004 176 away Croatia England 4 2 European Cup
+2004 235 home Croatia Israel 1 0 Friendly
+2004 252 home Croatia Hungary 3 0 World Cup qualifier
+2004 256 away Croatia Sweden 0 1 World Cup qualifier
+2004 288 home Croatia Bulgaria 2 2 World Cup qualifier
+2004 326 away Croatia Ireland 1 0 Friendly
+2005 40 away Croatia Israel 3 3 Friendly
+2005 88 home Croatia Iceland 4 0 World Cup qualifier
+2005 92 home Croatia Malta 3 0 World Cup qualifier
+2005 159 away Croatia Bulgaria 1 3 World Cup qualifier
+2005 234 home Croatia Brazil 1 1 Friendly
+2005 251 away Croatia Iceland 1 3 World Cup qualifier
+2005 255 away Croatia Malta 1 1 World Cup qualifier
+2005 287 home Croatia Sweden 1 0 World Cup qualifier
+2005 291 away Croatia Hungary 0 0 World Cup qualifier
+2005 322 away Croatia Portugal 2 0 Friendly
+2006 29 away Croatia SouthKorea 2 0 Carlsberg Cup
+2006 63 home Croatia Argentina 3 2 Friendly
+2006 147 away Croatia Austria 1 4 Friendly
+2006 152 home Croatia Iran 2 2 Friendly
+2006 158 away Croatia Poland 1 0 Friendly
+2006 162 away Croatia Spain 2 1 Friendly
+2006 168 away Croatia Brazil 1 0 World Cup
+2006 173 home Croatia Japan 0 0 World Cup
+2006 177 away Croatia Australia 2 2 World Cup
+2006 233 away Croatia Italy 0 2 Friendly
+2006 254 away Croatia Russia 0 0 European Cup qualifier
+2006 286 home Croatia Andorra 7 0 European Cup qualifier
+2006 290 home Croatia England 2 0 European Cup qualifier
+2006 325 away Croatia Israel 3 4 European Cup qualifier
+2007 38 home Croatia Norway 2 1 Friendly
+2007 86 home Croatia Macedonia 2 1 European Cup qualifier
+2007 157 away Croatia Estonia 0 1 European Cup qualifier
+2007 161 home Croatia Russia 0 0 European Cup qualifier
+2007 239 away Croatia Bosnia 3 5 Friendly
+2007 256 home Croatia Estonia 2 0 European Cup qualifier
+2007 260 away Croatia Andorra 0 6 European Cup qualifier
+2007 292 home Croatia Israel 1 0 European Cup qualifier
+2007 295 home Croatia Slovakia 3 0 Friendly
+2007 327 away Croatia Macedonia 2 0 European Cup qualifier
+2007 331 away Croatia England 2 3 European Cup qualifier
+2008 37 home Croatia Holland 0 3 Friendly
+2008 88 away Croatia Scotland 1 1 Friendly
+2008 148 home Croatia Moldova 1 0 Friendly
+2008 155 away Croatia Hungary 1 1 Friendly
+2008 163 away Croatia Austria 0 1 European Cup
+2008 167 home Croatia Germany 2 1 European Cup
+2008 171 home Croatia Poland 1 0 European Cup
+2008 175 away Croatia Turkey 1 1 European Cup
+2008 237 away Croatia Slovenia 2 3 Friendly
+2008 254 home Croatia Kazakhstan 3 0 World Cup qualifier
+2008 258 home Croatia England 1 4 World Cup qualifier
+2008 290 away Croatia Ukraine 0 0 World Cup qualifier
+2008 294 home Croatia Andorra 4 0 World Cup qualifier
+2009 42 away Croatia Romania 1 2 Friendly
+2009 94 away Croatia Andorra 0 2 World Cup qualifier
+2009 161 home Croatia Ukraine 2 2 World Cup qualifier
+2009 229 away Croatia Belarus 1 3 World Cup qualifier
+2009 253 home Croatia Belarus 1 0 World Cup qualifier
+2009 257 away Croatia England 5 1 World Cup qualifier
+2009 287 home Croatia Qatar 3 2 Friendly
+2009 293 away Croatia Kazakhstan 1 2 World Cup qualifier
+2009 324 home Croatia Liechtenstein 5 0 Friendly
+2010 65 away Croatia Belgium 0 1 Friendly
+2010 143 away Croatia Austria 0 1 Friendly
+2010 147 home Croatia Wales 2 0 Friendly
+2010 150 away Croatia Estonia 0 0 Friendly
+2010 228 away Croatia Slovakia 1 1 Friendly
+2010 251 away Croatia Latvia 0 3 European Cup qualifier
+2010 255 home Croatia Greece 0 0 European Cup qualifier
+2010 288 away Croatia Israel 1 2 European Cup qualifier
+2010 291 home Croatia Norway 2 1 Friendly
+2010 327 home Croatia Malta 3 0 European Cup qualifier
+2011 40 home Croatia Czechia 4 2 Friendly
+2011 88 away Croatia Georgia 1 0 European Cup qualifier
+2011 91 away Croatia France 0 0 Friendly
+2011 158 home Croatia Georgia 2 1 European Cup qualifier
+2011 227 away Croatia Ireland 0 0 Friendly
+2011 250 away Croatia Malta 1 3 European Cup qualifier
+2011 254 home Croatia Israel 3 1 European Cup qualifier
+2011 286 away Croatia Greece 2 0 European Cup qualifier
+2011 290 home Croatia Latvia 2 0 European Cup qualifier
+2011 321 away Croatia Turkey 0 3 European Cup qualifier
+2011 325 home Croatia Turkey 0 0 European Cup qualifier
+2012 60 home Croatia Sweden 1 3 Friendly
+2012 149 home Croatia Estonia 3 1 Friendly
+2012 157 away Croatia Norway 1 1 Friendly
+2012 165 home Croatia Ireland 3 1 European Cup
+2012 169 home Croatia Italy 1 1 European Cup
+2012 173 away Croatia Spain 1 0 European Cup
+2012 232 home Croatia Switzerland 2 4 Friendly
+2012 255 home Croatia Macedonia 1 0 World Cup qualifier
+2012 259 away Croatia Belgium 1 1 World Cup qualifier
+2012 291 away Croatia Macedonia 1 2 World Cup qualifier
+2012 295 home Croatia Wales 2 0 World Cup qualifier
+2013 37 home Croatia SouthKorea 4 0 Friendly
+2013 84 home Croatia Serbia 2 0 World Cup qualifier
+2013 88 away Croatia Wales 1 2 World Cup qualifier
+2013 162 home Croatia Scotland 0 1 World Cup qualifier
+2013 165 away Croatia Portugal 1 0 Friendly
+2013 231 away Croatia Liechtenstein 2 3 Friendly
+2013 254 away Croatia Serbia 1 1 World Cup qualifier
+2013 258 away Croatia SouthKorea 1 2 Friendly
+2013 290 home Croatia Belgium 1 2 World Cup qualifier
+2013 294 away Croatia Scotland 2 0 World Cup qualifier
+2013 325 away Croatia Iceland 0 0 World Cup qualifier
+2013 329 home Croatia Iceland 2 0 World Cup qualifier
+2014 67 away Croatia Switzerland 2 2 Friendly

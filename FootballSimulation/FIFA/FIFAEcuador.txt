@@ -1,0 +1,54 @@
+Antonio Valencia Antonio Valencia 
+Manchester United / Barclays PL 
+83	RM	87	68	79	82	58	66	4 	2 	 / 	 Right	800	1,927		
+Jefferson Montero Jefferson Montero 
+Monarcas Morelia / LIGA Bancomer MX 
+76	RW	92	70	64	82	45	60	4 	4 	 / 	 Right	700	1,764		
+Fidel Martinez Fidel Martinez 
+Tijuana / LIGA Bancomer MX 
+74	LW	80	69	67	79	45	65	5 	4 	 / 	 Left	2,700	1,733		
+Joao Rojas Joao Rojas 
+Cruz Azul / LIGA Bancomer MX 
+73	LW	93	62	63	77	45	66	4 	4 	 / 	 Right	1,300	1,696		
+Renato Ibarra Renato Ibarra 
+Vitesse / Eredivisie 
+72	RM	89	64	64	76	54	57	3 	3 	 / 	 Right	300	1,743		
+Christian Suarez Christian Suarez 
+Pachuca / LIGA Bancomer MX 
+71	RM	88	64	68	73	44	66	3 	3 	 / 	 Right	350	1,692		
+Diego Calderon Diego Calderon 
+Colorado Rapids / MLS 
+64	CB	62	25	39	62	66	66	2 	2 	 / 	 Left	200	1,330		
+Joao Plata Joao Plata 
+Real Salt Lake / MLS 
+61	ST	88	59	49	73	34	44	3 	2 	 / 	 Right	200	1,501	
+Christian Noboa Christian Noboa 
+Dinamo Moskva / Russian League 
+76	CDM	73	70	79	77	72	72	3 	3 	 / 	 Right	350	1,988		
+Felipe Caicedo Felipe Caicedo 
+Lokomotiv Moskva / Russian League 
+75	ST	75	74	60	68	54	76	3 	3 	 / 	 Left	600	1,759		
+Carlos Vicente Tenorio Carlos Vicente Tenorio 
+Vasco da Gama / Liga do Brasil 
+73	ST	73	70	71	73	47	71	2 	3 	 / 	 Right	200	1,720		
+Narciso Mina Narciso Mina 
+América / LIGA Bancomer MX 
+72	ST	81	64	53	71	42	78	3 	3 	 / 	 Right	2,200	1,613		
+Narciso Mina Narciso Mina 
+Atlante / LIGA Bancomer MX 
+72	ST	81	64	53	71	42	78	3 	3 	 / 	 Right	200	1,613		
+Segundo Castillo Segundo Castillo 
+Al Hilal (Riyadh) / ALJ League 
+70	CDM	73	68	62	68	70	75	2 	3 	 / 	 Right	600	1,833		
+Felix Borja Felix Borja 
+Puebla / LIGA Bancomer MX 
+70	ST	75	66	59	67	50	76	3 	3 	 / 	 Right	300	1,675		
+Walter Ayovi Walter Ayovi 
+Pachuca / LIGA Bancomer MX 
+68	CM	64	61	73	68	65	62	3 	4 	 / 	 Left	450	1,747		
+Oswaldo Minda Oswaldo Minda 
+Chivas USA / MLS 
+68	CDM	69	56	68	62	67	65	2 	3 	 / 	 Right	200	1,711		
+Cristian Ramirez Cristian Ramirez 
+Fortuna Düsseldorf / Bundesliga 2 
+60	LB	80	39	59	65	57	60	2 	4 	 / 	 Left	200	1,553

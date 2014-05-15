@@ -1,0 +1,201 @@
+Arturo Vidal Arturo Vidal 
+Juventus / Serie A 
+86	CM	80	79	83	83	83	72	3 	4 	 / 	 Right	2,400	0		
+Arturo Vidal Arturo Vidal 
+Juventus / Serie A 
+85	CM	79	77	82	82	82	71	3 	4 	 / 	 Right	2,000	2,152		
+Alexis Sanchez Alexis Sanchez 
+FC Barcelona / Liga BBVA 
+82	RW	87	75	74	85	53	63	4 	3 	 / 	 Right	1,000	1,918		
+Claudio Bravo Claudio Bravo 
+Real Sociedad / Liga BBVA 
+81	GK	84	74	88	85	55	78	1 	3 	 / 	 Right	650	1,001		
+David Pizarro David Pizarro 
+Fiorentina / Serie A 
+80	CM	64	69	87	82	67	51	3 	3 	 / 	 Right	700	1,944		
+Jorge Valdivia Jorge Valdivia 
+Palmeiras / Liga do Brasil B 
+77	CAM	72	66	77	83	49	58	5 	3 	 / 	 Right	650	1,748		
+Eduardo Vargas Eduardo Vargas 
+Grêmio / Liga do Brasil 
+77	ST	90	76	70	85	42	63	4 	4 	 / 	 Right	900	1,814		
+Eduardo Vargas Eduardo Vargas 
+Valencia CF / Liga BBVA 
+77	ST	90	76	70	85	42	63	4 	4 	 / 	 Right	900	1,814		
+Jaime Valdes Jaime Valdes 
+Parma / Serie A 
+76	CM	73	71	84	77	57	48	3 	4 	 / 	 Right	800	1,871		
+Jaime Valdes Jaime Valdes 
+Colo Colo / Camp. Petrobras 
+76	CM	73	71	84	77	57	48	3 	4 	 / 	 Right	650	1,871		
+Mark Gonzalez Mark Gonzalez 
+CSKA Moskva / Russian League 
+75	LM	90	79	70	74	43	66	4 	3 	 / 	 Left	1,300	1,814		
+Mark Gonzalez Mark Gonzalez 
+Universidad Católica / Camp. Petrobras 
+75	LM	90	79	70	74	43	66	4 	3 	 / 	 Left	650	1,814		
+Marcos Gonzalez Marcos Gonzalez 
+Flamengo / Liga do Brasil 
+74	CB	51	35	49	53	77	68	2 	3 	 / 	 Right	3,000	1,432		
+Jean Beausejour Jean Beausejour 
+Wigan Athletic / FL Championship 
+74	LM	73	66	72	77	66	63	3 	2 	 / 	 Left	350	1,874		
+Carlos Carmona Carlos Carmona 
+Atalanta / Serie A 
+74	CM	78	56	77	70	72	61	2 	3 	 / 	 Right	400	1,896		
+Fabian Orellana Fabian Orellana 
+RC Celta de Vigo / Liga BBVA 
+73	LM	83	64	62	83	42	60	4 	4 	 / 	 Right	400	1,714		
+Gary Medel Gary Medel 
+Cardiff City / Barclays PL 
+73	CM	76	68	68	67	82	70	3 	4 	 / 	 Right	1,500	1,957		
+Gustavo Canales Gustavo Canales 
+Unión Española / Camp. Petrobras 
+73	ST	83	73	58	67	47	78	3 	3 	 / 	 Right	300	1,671		
+Charles Aranguiz Charles Aranguiz 
+Universidad de Chile / Camp. Petrobras 
+73	CM	76	66	79	74	56	56	3 	4 	 / 	 Right	4,900	1,830		
+Bryan Rabello Bryan Rabello 
+Sevilla FC / Liga BBVA 
+73	CAM	81	63	73	81	40	44	3 	4 	 / 	 Right	1,100	1,654		
+Charles Aranguiz Charles Aranguiz 
+Internacional / Liga do Brasil 
+73	CM	76	66	79	74	56	56	3 	4 	 / 	 Right	400	1,830		
+Bryan Rabello Bryan Rabello 
+RC Deportivo / Liga Adelante 
+73	CAM	81	63	73	81	40	44	3 	4 	 / 	 Right	400	1,654		
+Waldo Ponce Waldo Ponce 
+Universidad de Chile / Camp. Petrobras 
+72	CB	65	50	52	45	75	78	2 	2 	 / 	 Right	3,100	1,613		
+Fernando Meneses Fernando Meneses 
+Universidad Católica / Camp. Petrobras 
+72	RM	90	63	69	74	55	54	4 	3 	 / 	 Right	300	1,785		
+Matias Fernandez Matias Fernandez 
+Fiorentina / Serie A 
+71	CM	68	74	76	79	48	58	4 	4 	 / 	 Right	350	1,799	
+Marcelo Diaz Marcelo Diaz 
+FC Basel / Raiffeisen SL 
+71	CDM	71	58	75	68	63	60	2 	3 	 / 	 Right	350	1,808		
+Francisco Silva Francisco Silva 
+CA Osasuna / Liga BBVA 
+71	CM	63	64	73	60	67	53	3 	3 	 / 	 Right	300	1,754		
+Luis Pedro Figueroa Luis Pedro Figueroa 
+CD OHiggins / Camp. Petrobras 
+69	RW	90	60	69	68	64	66	2 	2 	 / 	 Right	350	1,806		
+Jose Fuenzalida Jose Fuenzalida 
+Colo Colo / Camp. Petrobras 
+69	RB	88	58	69	72	68	64	3 	3 	 / 	 Right	350	1,806		
+Luis Marin Luis Marin 
+Universidad de Chile / Camp. Petrobras 
+69	GK	70	71	75	75	36	66	1 	3 	 / 	 Right	400	875		
+Bryan Carrasco Bryan Carrasco 
+Audax Italiano / Camp. Petrobras 
+69	RM	92	66	67	75	64	56	4 	3 	 / 	 Right	350	1,839		
+Roberto Cereceda Roberto Cereceda 
+Universidad de Chile / Camp. Petrobras 
+66	CDM	92	39	64	58	67	58	4 	3 	 / 	 Left	450	1,611		
+Nicolas Penailillo Nicolas Penailillo 
+Everton de Viña del Mar / Camp. Petrobras 
+66	LM	91	58	65	65	62	66	2 	4 	 / 	 Left	350	1,751		
+Nelson Saavedra Nelson Saavedra 
+Audax Italiano / Camp. Petrobras 	
+65	RB	63	50	52	63	68	72	2 	2 	 / 	 Right	250	1,596		
+Miguel Aceval Miguel Aceval 
+CD Huachipato / Camp. Petrobras 
+65	CB	40	36	58	48	69	70	2 	2 	 / 	 Left	400	1,428		
+Enzo Andia Enzo Andia 
+Universidad Católica / Camp. Petrobras 
+65	CB	61	35	48	51	66	78	2 	3 	 / 	 Right	500	1,378		
+Cristian Alvarez Cristian Alvarez 
+Universidad Católica / Camp. Petrobras 
+64	RB	62	42	58	56	67	69	2 	3 	 / 	 Right	200	1,531		
+Alexis Norambuena Alexis Norambuena 
+Jagiellonia Białystok / Ekstraklasa 
+64	RB	71	47	68	62	59	67	2 	4 	 / 	 Right	200	1,600		
+Felipe Gallegos Felipe Gallegos 
+RC Recreativo / Liga Adelante 
+64	LM	80	62	58	71	36	56	3 	3 	 / 	 Left	150	1,526		
+Adan Vergara Adan Vergara 
+Ñublense / Camp. Petrobras 
+63	CB	46	44	50	49	66	64	2 	4 	 / 	 Right	300	1,427		
+Kevin Harbottle Kevin Harbottle 
+Deportes Antofagasta / Camp. Petrobras 
+63	LW	72	58	58	69	37	49	2 	3 	 / 	 Right	300	1,511		
+Juan Robledo Juan Robledo 
+Östers IF / Allsvenskan 
+58	CB	32	32	37	26	60	69	2 	3 	 / 	 Right	200	1,123	
+Mauricio Isla Mauricio Isla 
+Juventus / Serie A 
+77	RM	81	66	77	76	72	64	3 	3 	 / 	 Right	400	1,939		
+Humberto Suazo Humberto Suazo 
+Monterrey / LIGA Bancomer MX 
+76	ST	74	76	74	78	55	66	3 	4 	 / 	 Right	350	1,880		
+Manuel Iturra Manuel Iturra 
+Granada CF / Liga BBVA 
+76	CDM	71	51	75	70	73	58	2 	4 	 / 	 Left	400	1,773		
+Mauricio Pinilla Mauricio Pinilla 
+Cagliari / Serie A 
+75	ST	72	70	59	71	45	82	3 	3 	 / 	 Right	400	1,690		
+Pedro Morales Pedro Morales 
+Málaga CF / Liga BBVA 
+75	CAM	71	76	77	75	38	53	3 	3 	 / 	 Right	350	1,712		
+Pablo Contreras Pablo Contreras 
+Olympiakos CFP / Hellas Liga 
+73	CB	64	42	58	58	73	73	2 	3 	 / 	 Right	200	1,648		
+Miguel Pinto Miguel Pinto 
+Atlas / LIGA Bancomer MX 
+73	GK	75	70	67	77	59	74	1 	3 	 / 	 Right	500	942		
+Hector Mancilla Hector Mancilla 
+Monarcas Morelia / LIGA Bancomer MX 
+73	ST	72	71	63	70	47	77	2 	3 	 / 	 Right	550	1,709		
+Cristopher Toselli Cristopher Toselli 
+Universidad Católica / Camp. Petrobras 
+73	GK	75	72	69	76	47	72	1 	2 	 / 	 Right	200	897		
+Esteban Paredes Esteban Paredes 
+Querétaro / LIGA Bancomer MX 
+73	ST	66	71	66	73	47	70	2 	3 	 / 	 Right	450	1,700		
+Esteban Paredes Esteban Paredes 
+Colo Colo / Camp. Petrobras 
+73	ST	66	71	66	73	47	70	2 	3 	 / 	 Right	700	1,700		
+Claudio Maldonado Claudio Maldonado 
+Corinthians / Liga do Brasil 
+72	CDM	57	52	72	71	73	64	2 	3 	 / 	 Right	200	1,714		
+Felipe Gutierrez Felipe Gutierrez 
+FC Twente / Eredivisie 
+72	CAM	71	70	71	74	46	44	3 	3 	 / 	 Left	200	1,701		
+Angelo Henriquez Angelo Henriquez 
+Real Zaragoza / Liga Adelante 
+72	ST	77	69	55	72	36	68	3 	4 	 / 	 Left	200	1,570		
+Rafael Olarra Rafael Olarra 
+Audax Italiano / Camp. Petrobras 
+71	CB	45	50	58	51	72	71	2 	3 	 / 	 Left	200	1,519		
+Milovan Mirosevic Milovan Mirosevic 
+Universidad Católica / Camp. Petrobras 
+71	CAM	65	68	68	67	63	68	4 	3 	 / 	 Right	250	1,760		
+Gonzalo Fierro Gonzalo Fierro 
+Colo Colo / Camp. Petrobras 
+71	RM	81	71	74	70	54	64	3 	4 	 / 	 Right	300	1,793		
+Johnny Herrera Johnny Herrera 
+Universidad de Chile / Camp. Petrobras 
+70	GK	76	69	67	74	57	67	1 	2 	 / 	 Right	200	916		
+ Hugo Droguett Hugo Droguett 
+CD Cobreloa / Camp. Petrobras 	
+70	CAM	83	66	66	72	46	57	3 	2 	 / 	 Left	3,000	1,703		
+Eugenio Mena Eugenio Mena 
+Santos / Liga do Brasil 
+70	LM	74	47	73	69	68	58	3 	3 	 / 	 Left	450	1,721		
+Hugo Droguett Hugo Droguett 
+Jeju United FC / K LEAGUE 
+70	CAM	83	66	66	72	46	57	3 	2 	 / 	 Left	300	1,703		
+Jose Rojas Jose Rojas 
+Universidad de Chile / Camp. Petrobras 
+69	CB	71	66	65	64	71	69	3 	3 	 / 	 Left	650	1,769		
+Gonzalo Jara Reyes Gonzalo Jara Reyes 
+Nottingham Forest / FL Championship 
+69	RB	71	45	63	65	70	66	2 	3 	 / 	 Right	850	1,653		
+Osvaldo Gonzalez Osvaldo Gonzalez 
+Universidad de Chile / Camp. Petrobras 
+69	RB	70	47	65	61	70	74	2 	3 	 / 	 Right	200	1,637		
+Diego Rubio Diego Rubio 
+Sporting CP / Liga Portuguesa 
+69	ST	72	65	48	72	42	67	3 	3 	 / 	 Right	0	1,566

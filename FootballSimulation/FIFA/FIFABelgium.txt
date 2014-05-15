@@ -1,0 +1,225 @@
+Eden Hazard Eden Hazard 
+Chelsea / Barclays PL 
+88	LM	89	82	85	90	49	63	4 	4 	 / 	 Right	274,000	2,052		
+Vincent Kompany Vincent Kompany 
+Manchester City / Barclays PL 
+86	CB	73	57	74	72	86	80	2 	3 	 / 	 Right	15,250	1,872		
+Eden Hazard Eden Hazard 
+Chelsea / Barclays PL 
+85	LM	87	79	83	88	48	62	4 	4 	 / 	 Right	156,000	1,945		
+Thibaut Courtois Thibaut Courtois 
+Atlético de Madrid / Liga BBVA 
+84	GK	82	88	69	86	46	84	1 	3 	 / 	 Left	950	943		
+Jan Vertonghen Jan Vertonghen 
+Tottenham Hotspur / Barclays PL 
+82	CB	72	67	74	73	81	82	3 	3 	 / 	 Left	850	1,962		
+Thomas Vermaelen Thomas Vermaelen 
+Arsenal / Barclays PL 
+81	CB	71	66	71	63	81	85	2 	3 	 / 	 Left	700	1,911		
+Moussa Dembele Moussa Dembele 
+Tottenham Hotspur / Barclays PL 
+81	CAM	81	72	76	86	71	74	4 	2 	 / 	 Left	650	1,984		
+Marouane Fellaini Marouane Fellaini 
+Manchester United / Barclays PL 
+81	CM	71	72	77	76	81	85	3 	3 	 / 	 Right	1,000	2,003		
+Christian Benteke Christian Benteke 
+Aston Villa / Barclays PL 
+81	ST	81	77	62	75	48	83	3 	4 	 / 	 Right	950	1,849		
+Simon Mignolet Simon Mignolet 
+Liverpool / Barclays PL 
+81	GK	83	81	73	84	57	81	1 	3 	 / 	 Right	900	0		
+Simon Mignolet Simon Mignolet 
+Liverpool / Barclays PL 
+80	GK	81	81	72	83	55	80	1 	3 	 / 	 Right	900	1,014		
+Dries Mertens Dries Mertens 
+Napoli / Serie A 
+80	LW	83	76	75	83	42	40	4 	4 	 / 	 Right	750	1,796		
+Axel Witsel Axel Witsel 
+Zenit St. Petersburg / Russian League 
+80	CM	71	72	78	84	77	77	4 	3 	 / 	 Right	900	2,038		
+Radja Nainggolan Radja Nainggolan 
+Cagliari / Serie A 
+80	CM	83	72	81	81	76	65	3 	4 	 / 	 Right	950	2,071		
+Radja Nainggolan Radja Nainggolan 
+Roma / Serie A 
+80	CM	83	72	81	81	76	65	3 	4 	 / 	 Right	700	2,071		
+Romelu Lukaku Romelu Lukaku 
+Everton / Barclays PL 
+80	ST	84	75	66	75	48	79	3 	4 	 / 	 Left	950	1,798		
+Christian Benteke Christian Benteke 
+Aston Villa / Barclays PL 
+79	ST	81	75	60	75	48	81	3 	4 	 / 	 Right	1,200	1,761		
+Daniel van Buyten Daniel van Buyten 
+Bayern München / Bundesliga 
+78	CB	29	54	53	35	80	77	2 	2 	 / 	 Right	700	1,470		
+Romelu Lukaku Romelu Lukaku 
+Everton / Barclays PL 
+77	ST	83	73	65	73	47	77	3 	4 	 / 	 Left	850	1,707		
+Timmy Simons Timmy Simons 
+Club Brugge / Pro League 
+74	CDM	50	56	67	62	76	75	2 	3 	 / 	 Right	350	1,758		
+Roland Lamah Roland Lamah 
+Swansea City / Barclays PL 
+74	LM	90	64	69	74	62	66	3 	2 	 / 	 Left	1,900	1,879		
+Igor de Camargo Igor de Camargo 
+Standard Liège / Pro League 
+73	ST	66	68	69	71	57	87	3 	4 	 / 	 Right	850	1,794		
+Jelle Van Damme Jelle Van Damme 
+Standard Liège / Pro League 
+73	LB	72	68	73	66	73	86	2 	3 	 / 	 Left	1,300	1,884		
+Filip Daems Filip Daems 
+Borussia Mgladbach / Bundesliga 
+73	LB	54	41	67	62	76	74	2 	3 	 / 	 Left	800	1,684		
+Vadis Odjidja-Ofoe Vadis Odjidja-Ofoe 
+Club Brugge / Pro League 
+73	CM	72	72	72	74	69	76	3 	4 	 / 	 Right	1,600	1,914	
+Zakaria Bakkali Zakaria Bakkali 
+PSV / Eredivisie 
+73	RW	85	68	60	84	34	38	4 	4 	 / 	 Right	2,000	1,621		
+Adnan Januzaj Adnan Januzaj 
+Manchester United / Barclays PL 
+73	LM	78	63	71	80	32	34	3 	4 	 / 	 Left	5,900	1,604		
+Benjamin De Ceulaer Benjamin De Ceulaer 
+RC Genk / Pro League 
+72	ST	80	72	66	77	47	56	4 	4 	 / 	 Right	450	1,760		
+Tom De Sutter Tom De Sutter 
+Club Brugge / Pro League 
+72	ST	71	67	61	64	54	80	3 	4 	 / 	 Right	350	1,666		
+Paul-Jose Mpoku Paul-Jose Mpoku 
+Standard Liège / Pro League 
+72	LM	82	74	68	78	54	58	3 	4 	 / 	 Right	450	1,795		
+Jeroen Simaeys Jeroen Simaeys 
+RC Genk / Pro League 
+71	CB	46	55	63	54	72	71	2 	4 	 / 	 Right	450	1,615		
+Yassine El Ghanassy Yassine El Ghanassy 
+AA Gent / Pro League 
+71	LW	84	62	61	78	46	55	4 	5 	 / 	 Right	400	1,668		
+Junior Malanda Junior Malanda 
+SV Zulte-Waregem / Pro League 
+71	CDM	74	54	65	64	74	76	2 	3 	 / 	 Right	4,800	1,736		
+Junior Malanda Junior Malanda 
+VfL Wolfsburg / Bundesliga 
+71	CDM	74	54	65	64	74	76	2 	3 	 / 	 Right	850	1,736		
+ Jan Wuytens Jan Wuytens 
+AZ / Eredivisie 	
+70	CB	48	48	63	57	71	75	2 	2 	 / 	 Left	400	1,601		
+Koen Casteels Koen Casteels 
+1899 Hoffenheim / Bundesliga 
+70	GK	76	67	70	68	44	69	1 	3 	 / 	 Left	400	915		
+Hans Vanaken Hans Vanaken 
+Lokeren / Pro League 
+70	CAM	61	63	71	65	44	68	3 	5 	 / 	 Right	300	1,592		
+Gaby Mudingayi Gaby Mudingayi 
+Inter / Serie A 
+69	CM	66	62	69	67	76	66	2 	3 	 / 	 Right	350	1,841		
+Christophe Lepoint Christophe Lepoint 
+AA Gent / Pro League 
+69	CAM	67	65	65	63	69	74	2 	4 	 / 	 Right	400	1,759		
+Brian Vandenbussche Brian Vandenbussche 
+SC Heerenveen / Eredivisie 
+69	GK	73	67	63	71	50	68	1 	3 	 / 	 Left	350	912		
+Jonathan Legear Jonathan Legear 
+Terek Grozny / Russian League 
+69	RM	87	67	64	70	50	64	3 	3 	 / 	 Right	2,000	1,739		
+Katuku Tshimanga Katuku Tshimanga 
+RC Genk / Pro League 
+69	LB	92	53	62	74	68	70	3 	3 	 / 	 Left	1,400	1,783		
+Jonathan Legear Jonathan Legear 
+KV Mechelen / Pro League 
+69	RM	87	67	64	70	50	64	3 	3 	 / 	 Right	450	1,739		
+Steve De Ridder Steve De Ridder 
+FC Utrecht / Eredivisie 
+68	RM	88	63	63	73	41	52	3 	2 	 / 	 Right	300	1,624		
+ Ritchie De Laet Ritchie De Laet 
+Leicester City / FL Championship 	
+68	RB	87	39	57	63	68	70	2 	4 	 / 	 Right	4,100	1,560		
+Kevin Oris Kevin Oris 
+Jeonbuk Hyundai Motors / K LEAGUE 
+68	ST	61	65	50	60	42	77	2 	3 	 / 	 Right	700	1,450		
+Tim Smolders Tim Smolders 
+Cercle Brugge / Pro League 
+67	CM	33	68	65	60	64	62	2 	3 	 / 	 Right	350	1,641		
+Seth De Witte Seth De Witte 
+KV Mechelen / Pro League 
+67	CDM	66	53	64	54	68	72	2 	3 	 / 	 Left	350	1,641		
+Kristof Van Hout Kristof Van Hout 
+RC Genk / Pro League 
+67	GK	69	62	61	69	25	68	1 	3 	 / 	 Right	650	774		
+Benjamin Mokulu Benjamin Mokulu 
+KV Mechelen / Pro League 
+67	RW	75	56	63	73	46	73	3 	4 	 / 	 Left	400	1,541
+Kevin Mirallas Kevin Mirallas 
+Everton / Barclays PL 
+80	RM	88	75	79	85	53	66	4 	4 	 / 	 Right	650	1,909		
+Kevin De Bruyne Kevin De Bruyne 
+Chelsea / Barclays PL 
+80	CAM	79	79	80	82	54	55	4 	5 	 / 	 Right	1,900	1,889		
+Kevin De Bruyne Kevin De Bruyne 
+VfL Wolfsburg / Bundesliga 
+80	CAM	79	79	80	82	54	55	4 	5 	 / 	 Right	700	1,889		
+Toby Alderweireld Toby Alderweireld 
+Atlético de Madrid / Liga BBVA 
+78	CB	62	58	71	61	79	78	2 	3 	 / 	 Right	400	1,789		
+Nacer Chadli Nacer Chadli 
+Tottenham Hotspur / Barclays PL 
+78	LW	77	74	74	81	55	69	3 	2 	 / 	 Right	400	1,872		
+Steven Defour Steven Defour 
+FC Porto / Liga Portuguesa 
+77	CDM	73	68	78	76	74	65	3 	3 	 / 	 Right	350	1,954		
+Nicolas Lombaerts Nicolas Lombaerts 
+Zenit St. Petersburg / Russian League 
+76	CB	47	52	72	57	77	80	2 	2 	 / 	 Left	400	1,682		
+Silvio Proto Silvio Proto 
+Anderlecht / Pro League 
+75	GK	82	68	73	81	53	67	1 	2 	 / 	 Right	350	967		
+Maarten Martens Maarten Martens 
+AZ / Eredivisie 
+75	CAM	66	68	75	77	39	54	3 	4 	 / 	 Left	400	1,670		
+ Jelle Vossen Jelle Vossen 
+RC Genk / Pro League 	
+75	ST	66	79	69	66	53	65	3 	4 	 / 	 Right	350	1,804		
+Maxime Lestienne Maxime Lestienne 
+Club Brugge / Pro League 
+75	LW	86	71	70	79	44	50	3 	4 	 / 	 Left	350	1,757		
+Maarten Martens Maarten Martens 
+PAOK / Hellas Liga 
+75	LW	66	68	75	77	39	54	3 	4 	 / 	 Left	400	1,670		
+Ilombe Mboyo Ilombe Mboyo 
+RC Genk / Pro League 
+74	ST	74	69	65	75	52	76	3 	4 	 / 	 Right	500	1,745		
+Thorgan Hazard Thorgan Hazard 
+SV Zulte-Waregem / Pro League 
+74	LM	73	68	74	75	46	48	3 	3 	 / 	 Right	1,100	1,708		
+Thomas Buffel Thomas Buffel 
+RC Genk / Pro League 
+73	RM	71	70	72	72	58	57	3 	4 	 / 	 Right	400	1,807		
+Sebastien Pocognoli Sebastien Pocognoli 
+Hannover 96 / Bundesliga 
+73	LB	80	61	70	74	71	68	3 	3 	 / 	 Left	550	1,885		
+Guillaume Gillet Guillaume Gillet 
+Anderlecht / Pro League 
+72	RB	71	70	72	70	68	76	3 	3 	 / 	 Right	300	1,895		
+Dennis Praet Dennis Praet 
+Anderlecht / Pro League 
+72	CAM	71	60	72	73	51	49	3 	4 	 / 	 Right	250	1,664		
+Massimo Bruno Massimo Bruno 
+Anderlecht / Pro League 
+72	RW	84	62	66	76	48	61	3 	3 	 / 	 Right	200	1,697		
+Yannick Ferreira Carrasco Yannick Ferreira Carrasco 
+AS Monaco / Ligue 1 
+72	LM	79	69	72	75	40	56	3 	3 	 / 	 Right	1,100	1,673		
+Jonathan Blondel Jonathan Blondel 
+Club Brugge / Pro League 
+71	CDM	74	67	70	70	69	67	2 	3 	 / 	 Left	200	1,899		
+Laurent Ciman Laurent Ciman 
+Standard Liège / Pro League 
+71	CB	70	54	67	50	70	71	2 	3 	 / 	 Right	1,100	1,697		
+Timothy Derijck Timothy Derijck 
+FC Utrecht / Eredivisie 
+71	CB	67	42	56	58	70	69	2 	4 	 / 	 Right	300	1,549		
+Yoni Buyens Yoni Buyens 
+Standard Liège / Pro League 
+71	CDM	70	61	65	62	71	73	2 	3 	 / 	 Right	200	1,790		
+Laurens De Bock Laurens De Bock 
+Club Brugge / Pro League 
+71	LB	76	46	69	65	69	70	2 	4 	 / 	 Left	300	1,767

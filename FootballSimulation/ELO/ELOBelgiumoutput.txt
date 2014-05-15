@@ -1,0 +1,702 @@
+1904 125 home Belgium France 3 3 Friendly
+1905 123 home Belgium Holland 1 4 Friendly
+1905 131 home Belgium France 7 0 Friendly
+1905 138 away Belgium Holland 4 0 Friendly
+1906 115 away Belgium France 0 5 Friendly
+1906 122 home Belgium Holland 5 0 Friendly
+1906 137 away Belgium Holland 2 3 Friendly
+1907 107 home Belgium Holland 1 3 Friendly
+1907 114 home Belgium France 1 2 Friendly
+1907 133 away Belgium Holland 1 2 Friendly
+1908 91 home Belgium Holland 1 4 Friendly
+1908 105 away Belgium France 1 2 Friendly
+1908 119 away Belgium Holland 3 1 Friendly
+1908 305 home Belgium Sweden 2 1 Friendly
+1909 83 home Belgium Holland 1 4 Friendly
+1909 118 away Belgium Holland 4 1 Friendly
+1909 133 home Belgium France 5 2 Friendly
+1910 75 home Belgium Holland 3 2 Friendly
+1910 96 away Belgium France 0 4 Friendly
+1910 103 away Belgium Holland 7 0 Friendly
+1910 140 away Belgium Germany 0 3 Friendly
+1911 81 home Belgium Holland 1 5 Friendly
+1911 95 away Belgium Holland 3 1 Friendly
+1911 116 home Belgium Germany 2 1 Friendly
+1911 123 home Belgium France 7 1 Friendly
+1912 28 away Belgium France 1 1 Friendly
+1912 51 home Belgium Switzerland 9 2 Friendly
+1912 72 home Belgium Holland 1 2 Friendly
+1912 121 away Belgium Holland 4 3 Friendly
+1913 47 home Belgium France 3 0 Friendly
+1913 71 home Belgium Holland 3 3 Friendly
+1913 113 away Belgium Holland 2 4 Friendly
+1913 125 away Belgium Italy 1 0 Friendly
+1913 128 away Belgium Switzerland 1 2 Friendly
+1913 312 home Belgium Switzerland 2 0 Friendly
+1913 333 home Belgium Germany 6 2 Friendly
+1914 25 away Belgium France 4 3 Friendly
+1914 77 home Belgium Holland 2 4 Friendly
+1914 119 away Belgium Holland 4 2 Friendly
+1919 71 home Belgium France 2 2 Friendly
+1920 90 away Belgium France 2 1 Friendly
+1920 246 home Belgium Spain 3 1 Olympic Games
+1920 248 home Belgium Holland 3 0 Olympic Games
+1920 250 home Belgium Czechoslovakia 2 0 Olympic Games
+1921 68 home Belgium France 3 1 Friendly
+1921 129 home Belgium Italy 2 3 Friendly
+1921 139 home Belgium Holland 1 1 Friendly
+1921 145 home Belgium England 0 2 Friendly
+1921 288 away Belgium Spain 2 0 Friendly
+1922 15 away Belgium France 2 1 Friendly
+1922 88 home Belgium Holland 4 0 Friendly
+1922 108 home Belgium Denmark 0 0 Friendly
+1922 131 away Belgium Holland 1 2 Friendly
+1922 145 away Belgium Italy 4 2 Friendly
+1923 35 home Belgium Spain 1 0 Friendly
+1923 56 home Belgium France 4 1 Friendly
+1923 81 away Belgium England 6 1 Friendly
+1923 122 away Belgium Holland 1 1 Friendly
+1923 311 home Belgium England 2 2 Friendly
+1924 13 away Belgium France 2 0 Friendly
+1924 85 away Belgium Holland 1 1 Friendly
+1924 120 home Belgium Holland 1 1 Friendly
+1924 153 away Belgium Sweden 8 1 Olympic Games
+1924 284 away Belgium Denmark 2 1 Friendly
+1924 321 home Belgium France 3 0 Friendly
+1924 349 away Belgium England 4 0 Friendly
+1925 77 home Belgium Holland 0 1 Friendly
+1925 127 away Belgium Holland 5 0 Friendly
+1925 145 away Belgium Hungary 1 3 Friendly
+1925 148 away Belgium Switzerland 0 0 Friendly
+1925 354 home Belgium Austria 3 4 Friendly
+1926 45 home Belgium Hungary 0 2 Friendly
+1926 76 home Belgium Holland 1 1 Friendly
+1926 104 away Belgium France 4 3 Friendly
+1926 126 away Belgium Holland 1 5 Friendly
+1926 148 home Belgium England 3 5 Friendly
+1926 175 home Belgium France 2 2 Friendly
+1927 2 home Belgium Czechoslovakia 2 3 Friendly
+1927 75 home Belgium Holland 2 0 Friendly
+1927 96 home Belgium Sweden 2 1 Friendly
+1927 125 away Belgium Holland 3 2 Friendly
+1927 135 home Belgium England 1 9 Friendly
+1927 146 away Belgium Austria 4 1 Friendly
+1927 150 away Belgium Czechoslovakia 4 0 Friendly
+1927 252 away Belgium Sweden 7 0 Friendly
+1928 8 home Belgium Austria 1 2 Friendly
+1928 43 home Belgium Ireland 2 4 Friendly
+1928 73 away Belgium Holland 1 1 Friendly
+1928 94 home Belgium Holland 1 0 Friendly
+1928 108 away Belgium France 2 3 Friendly
+1928 143 home Belgium England 1 3 Friendly
+1928 151 home Belgium Luxembourg 5 3 Olympic Games
+1928 157 away Belgium Argentina 6 3 Olympic Games
+1928 160 away Belgium Holland 3 1 Olympic Games Consolation Tournament
+1928 314 away Belgium Holland 1 1 Friendly
+1929 113 away Belgium Ireland 4 0 Friendly
+1929 129 home Belgium Holland 3 1 Friendly
+1929 135 home Belgium England 1 5 Friendly
+1929 150 home Belgium France 4 1 Friendly
+1930 106 away Belgium France 1 6 Friendly
+1930 128 away Belgium Holland 2 2 Friendly
+1930 135 home Belgium Ireland 1 3 Friendly
+1930 142 home Belgium Holland 3 1 Friendly
+1930 149 home Belgium France 1 2 Friendly
+1930 163 home Belgium Portugal 2 1 Friendly
+1930 199 away Belgium UnitedStates 3 0 World Cup
+1930 206 away Belgium Paraguay 1 0 World Cup
+1930 269 home Belgium Czechoslovakia 2 3 Friendly
+1930 276 home Belgium Sweden 2 2 Friendly
+1930 348 away Belgium France 2 2 Friendly
+1931 91 away Belgium Holland 3 2 Friendly
+1931 127 home Belgium Holland 4 2 Friendly
+1931 140 home Belgium England 1 4 Friendly
+1931 155 away Belgium Portugal 3 2 Friendly
+1931 290 home Belgium Poland 2 1 Friendly
+1931 347 home Belgium Switzerland 2 1 Friendly
+1932 82 home Belgium Holland 1 4 Friendly
+1932 110 away Belgium Holland 2 1 Friendly
+1932 125 home Belgium France 5 2 Friendly
+1932 160 away Belgium Denmark 3 4 Friendly
+1932 167 away Belgium Sweden 3 1 Friendly
+1932 352 home Belgium Austria 1 6 Friendly
+1933 43 home Belgium Italy 2 3 Friendly
+1933 74 away Belgium Switzerland 3 3 Friendly
+1933 88 away Belgium France 3 0 Friendly
+1933 102 home Belgium Holland 1 3 Friendly
+1933 131 away Belgium Holland 1 2 Friendly
+1933 159 away Belgium Poland 0 1 Friendly
+1933 166 away Belgium Austria 4 1 Friendly
+1933 301 away Belgium Germany 8 1 Friendly
+1933 336 home Belgium Denmark 2 2 Friendly
+1934 21 home Belgium France 2 3 Friendly
+1934 56 away Belgium Ireland 4 4 World Cup qualifier
+1934 73 away Belgium Holland 9 3 Friendly
+1934 122 home Belgium Holland 2 4 World Cup qualifier
+1934 151 away Belgium Germany 5 2 World Cup
+1935 93 away Belgium Holland 4 2 Friendly
+1935 107 home Belgium France 1 1 Friendly
+1935 121 home Belgium Germany 1 6 Friendly
+1935 136 home Belgium Holland 0 2 Friendly
+1935 154 home Belgium Switzerland 2 2 Friendly
+1935 327 home Belgium Sweden 5 1 Friendly
+1936 47 home Belgium Poland 0 2 Friendly
+1936 70 away Belgium France 3 0 Friendly
+1936 91 away Belgium Holland 8 0 Friendly
+1936 127 home Belgium Holland 1 1 Friendly
+1936 133 home Belgium England 3 2 Friendly
+1936 148 away Belgium Switzerland 1 1 Friendly
+1937 52 home Belgium France 3 1 Friendly
+1937 97 home Belgium Holland 2 1 Friendly
+1937 111 home Belgium Switzerland 1 2 Friendly
+1937 118 away Belgium Germany 1 0 Friendly
+1937 126 away Belgium Holland 1 0 Friendly
+1937 161 away Belgium Yugoslavia 1 1 Friendly
+1937 165 away Belgium Romania 2 1 Friendly
+1938 30 away Belgium France 5 3 Friendly
+1938 58 away Belgium Holland 7 2 Friendly
+1938 75 away Belgium Luxembourg 2 3 World Cup qualifier
+1938 96 home Belgium Holland 1 1 World Cup qualifier
+1938 132 away Belgium Switzerland 0 3 Friendly
+1938 139 away Belgium Italy 6 1 Friendly
+1938 153 home Belgium Yugoslavia 2 2 Friendly
+1938 160 away Belgium France 3 1 World Cup
+1939 29 home Belgium Germany 1 4 Friendly
+1939 81 home Belgium Holland 5 4 Friendly
+1939 116 away Belgium Holland 3 2 Friendly
+1939 138 home Belgium Switzerland 1 2 Friendly
+1939 142 home Belgium France 1 3 Friendly
+1939 151 away Belgium Poland 3 3 Friendly
+1940 79 home Belgium Holland 7 1 Friendly
+1940 114 away Belgium Holland 4 2 Friendly
+1944 365 away Belgium France 3 1 Friendly
+1945 137 away Belgium Luxembourg 4 1 Friendly
+1945 356 home Belgium France 2 1 Friendly
+1946 54 home Belgium Luxembourg 7 0 Friendly
+1946 136 away Belgium Holland 6 3 Friendly
+1946 154 home Belgium Holland 2 2 Friendly
+1947 100 away Belgium Holland 2 1 Friendly
+1947 128 home Belgium Holland 1 2 Friendly
+1947 142 home Belgium Scotland 2 1 Friendly
+1947 156 away Belgium France 4 2 Friendly
+1947 269 home Belgium England 2 5 Friendly
+1947 312 away Belgium Switzerland 4 0 Friendly
+1948 76 home Belgium Holland 1 1 Friendly
+1948 111 away Belgium Holland 2 2 Friendly
+1948 121 away Belgium Scotland 2 0 Friendly
+1948 161 home Belgium France 4 2 Friendly
+1948 296 away Belgium France 3 3 Friendly
+1948 331 home Belgium Holland 1 1 Friendly
+1949 2 away Belgium Spain 1 1 Friendly
+1949 75 away Belgium Holland 3 3 Friendly
+1949 117 away Belgium Ireland 0 2 Friendly
+1949 146 home Belgium Wales 3 1 Friendly
+1949 281 home Belgium Switzerland 3 0 Friendly
+1949 316 away Belgium Holland 0 1 Friendly
+1949 333 away Belgium Wales 5 1 Friendly
+1950 67 away Belgium Italy 3 1 Friendly
+1950 109 home Belgium Holland 2 0 Friendly
+1950 134 home Belgium Ireland 5 1 Friendly
+1950 142 home Belgium England 1 4 Friendly
+1950 159 home Belgium France 4 1 Friendly
+1950 311 away Belgium France 3 3 Friendly
+1950 322 home Belgium Holland 7 2 Friendly
+1951 108 away Belgium Holland 5 4 Friendly
+1951 144 home Belgium Scotland 0 5 Friendly
+1951 165 home Belgium Spain 3 3 Friendly
+1951 172 away Belgium Portugal 1 1 Friendly
+1951 293 home Belgium Austria 1 8 Friendly
+1951 335 away Belgium Holland 6 7 Friendly
+1952 55 home Belgium Italy 2 0 Friendly
+1952 85 away Belgium Austria 2 0 Friendly
+1952 99 home Belgium Holland 4 2 Friendly
+1952 146 home Belgium France 1 2 Friendly
+1952 298 home Belgium Holland 2 1 Friendly
+1952 336 away Belgium England 5 0 Friendly
+1952 366 away Belgium France 0 1 Friendly
+1953 81 away Belgium Spain 3 1 Friendly
+1953 112 away Belgium Holland 0 2 Friendly
+1953 138 home Belgium Yugoslavia 1 3 Friendly
+1953 149 away Belgium Finland 2 4 World Cup qualifier
+1953 152 away Belgium Sweden 2 3 World Cup qualifier
+1953 271 home Belgium Finland 2 2 World Cup qualifier
+1953 287 home Belgium Sweden 2 0 World Cup qualifier
+1953 304 away Belgium Holland 1 0 Friendly
+1953 332 away Belgium Switzerland 2 2 Friendly
+1954 76 home Belgium Portugal 0 0 Friendly
+1954 97 home Belgium Holland 4 0 Friendly
+1954 133 away Belgium Yugoslavia 0 2 Friendly
+1954 154 home Belgium France 3 3 Friendly
+1954 172 home Belgium England 4 4 World Cup
+1954 175 away Belgium Italy 4 1 World Cup
+1954 274 home Belgium Germany 2 0 Friendly
+1954 303 home Belgium Holland 4 3 Friendly
+1954 321 away Belgium France 2 2 Friendly
+1955 16 away Belgium Italy 1 0 Friendly
+1955 96 away Belgium Holland 1 0 Friendly
+1955 160 home Belgium Czechoslovakia 1 3 Friendly
+1955 273 away Belgium Czechoslovakia 5 2 Friendly
+1955 276 away Belgium Romania 1 0 Friendly
+1955 295 away Belgium Holland 2 2 Friendly
+1955 366 home Belgium France 2 1 Friendly
+1956 73 home Belgium Switzerland 1 3 Friendly
+1956 101 home Belgium Holland 0 1 Friendly
+1956 158 home Belgium Hungary 5 4 Friendly
+1956 293 home Belgium Holland 2 3 Friendly
+1956 321 away Belgium France 6 3 World Cup qualifier
+1956 364 away Belgium Germany 4 1 Friendly
+1957 93 home Belgium Spain 0 5 Friendly
+1957 121 away Belgium Holland 1 1 Friendly
+1957 150 home Belgium Romania 1 0 Friendly
+1957 160 home Belgium Iceland 8 3 World Cup qualifier
+1957 252 away Belgium Iceland 2 5 World Cup qualifier
+1957 306 home Belgium France 0 0 World Cup qualifier
+1957 327 away Belgium Holland 5 2 Friendly
+1957 349 away Belgium Turkey 1 1 Friendly
+1958 64 home Belgium Germany 0 2 Friendly
+1958 106 home Belgium Holland 2 7 Friendly
+1958 150 away Belgium Switzerland 0 2 Friendly
+1958 276 home Belgium Holland 2 3 Friendly
+1958 305 home Belgium Turkey 1 1 Friendly
+1958 333 away Belgium Hungary 3 1 Friendly
+1959 63 away Belgium France 2 2 Friendly
+1959 112 away Belgium Holland 2 2 Friendly
+1959 148 home Belgium Austria 0 2 Friendly
+1959 169 away Belgium Austria 4 2 Friendly
+1959 283 away Belgium Holland 9 1 Friendly
+1960 59 home Belgium France 1 0 Friendly
+1960 89 home Belgium Switzerland 3 1 Friendly
+1960 106 home Belgium Chile 1 1 Friendly
+1960 117 home Belgium Holland 2 1 Friendly
+1960 146 away Belgium Bulgaria 4 1 Friendly
+1960 281 home Belgium Holland 1 4 Friendly
+1960 298 away Belgium Sweden 2 0 World Cup qualifier
+1960 309 home Belgium Hungary 2 1 Friendly
+1960 330 home Belgium Switzerland 2 4 World Cup qualifier
+1961 70 away Belgium Germany 1 0 Friendly
+1961 77 away Belgium France 1 1 Friendly
+1961 84 away Belgium Holland 6 2 Friendly
+1961 144 away Belgium Switzerland 2 1 World Cup qualifier
+1961 283 home Belgium Sweden 0 2 World Cup qualifier
+1961 297 home Belgium France 3 0 Friendly
+1961 322 away Belgium Holland 0 4 Friendly
+1961 365 home Belgium Bulgaria 4 0 Friendly
+1962 94 home Belgium Holland 3 1 Friendly
+1962 137 home Belgium Italy 1 3 Friendly
+1962 141 away Belgium Portugal 1 2 Friendly
+1962 147 away Belgium Poland 2 0 Friendly
+1962 293 home Belgium Holland 2 0 Friendly
+1962 314 away Belgium Yugoslavia 3 2 European Cup qualifier
+1962 343 home Belgium Spain 1 1 Friendly
+1963 65 away Belgium Holland 0 1 Friendly
+1963 93 home Belgium Yugoslavia 0 1 European Cup qualifier
+1963 117 home Belgium Brazil 5 1 Friendly
+1963 299 away Belgium Holland 1 1 Friendly
+1963 342 away Belgium Spain 1 2 Friendly
+1963 366 away Belgium France 1 2 Friendly
+1964 84 home Belgium Holland 0 0 Friendly
+1964 108 away Belgium Switzerland 2 0 Friendly
+1964 127 home Belgium Portugal 1 2 Friendly
+1964 278 home Belgium Holland 1 0 Friendly
+1964 300 away Belgium England 2 2 Friendly
+1964 343 home Belgium France 3 0 Friendly
+1965 86 away Belgium Ireland 0 2 Friendly
+1965 100 home Belgium Poland 0 0 Friendly
+1965 133 home Belgium Israel 1 0 World Cup qualifier
+1965 157 away Belgium Brazil 5 0 Friendly
+1965 274 away Belgium Bulgaria 3 0 World Cup qualifier
+1965 306 home Belgium Bulgaria 5 0 World Cup qualifier
+1965 320 away Belgium Israel 0 5 World Cup qualifier
+1965 370 away Belgium Bulgaria 2 1 World Cup qualifier
+1966 110 away Belgium Holland 3 1 Friendly
+1966 113 away Belgium France 0 3 Friendly
+1966 146 home Belgium SovietUnion 0 1 Friendly
+1966 149 home Belgium Ireland 2 3 Friendly
+1966 301 home Belgium Switzerland 1 0 Friendly
+1966 321 home Belgium France 2 1 European Cup qualifier
+1967 81 away Belgium Luxembourg 0 5 European Cup qualifier
+1967 109 home Belgium Holland 1 0 Friendly
+1967 145 away Belgium Poland 3 1 European Cup qualifier
+1967 287 home Belgium Poland 2 4 European Cup qualifier
+1967 307 away Belgium France 1 1 European Cup qualifier
+1967 332 home Belgium Luxembourg 3 0 European Cup qualifier
+1968 10 away Belgium Israel 0 2 Friendly
+1968 68 home Belgium Germany 1 3 Friendly
+1968 100 away Belgium Holland 1 2 Friendly
+1968 117 away Belgium SovietUnion 1 0 Friendly
+1968 174 away Belgium Finland 1 2 World Cup qualifier
+1968 288 home Belgium Finland 6 1 World Cup qualifier
+1968 295 home Belgium Yugoslavia 3 0 World Cup qualifier
+1968 352 away Belgium Spain 1 1 World Cup qualifier
+1969 54 home Belgium Spain 2 1 World Cup qualifier
+1969 109 home Belgium Mexico 2 0 Friendly
+1969 298 away Belgium Yugoslavia 4 0 World Cup qualifier
+1969 315 away Belgium Mexico 1 0 Friendly
+1970 56 home Belgium England 1 3 Friendly
+1970 158 home Belgium ElSalvador 3 0 World Cup
+1970 161 away Belgium SovietUnion 4 1 World Cup
+1970 166 away Belgium Mexico 1 0 World Cup
+1970 325 home Belgium France 1 2 Friendly
+1970 335 home Belgium Denmark 2 0 European Cup qualifier
+1971 34 home Belgium Scotland 3 0 European Cup qualifier
+1971 48 home Belgium Portugal 3 0 European Cup qualifier
+1971 144 away Belgium Luxembourg 0 4 Friendly
+1971 150 away Belgium Denmark 1 2 European Cup qualifier
+1971 317 home Belgium Luxembourg 1 0 Friendly
+1971 320 away Belgium Scotland 1 0 European Cup qualifier
+1971 331 away Belgium Portugal 1 1 European Cup qualifier
+1972 122 away Belgium Italy 0 0 European Cup qualifier
+1972 137 home Belgium Italy 2 1 European Cup qualifier
+1972 142 home Belgium Iceland 4 0 World Cup qualifier
+1972 146 home Belgium Iceland 4 0 World Cup qualifier
+1972 169 home Belgium Germany 1 2 European Cup
+1972 172 home Belgium Hungary 2 1 European Cup
+1972 283 away Belgium Norway 0 2 World Cup qualifier
+1972 329 home Belgium Holland 0 0 World Cup qualifier
+1973 111 home Belgium EastGermany 3 0 Friendly
+1973 310 home Belgium Norway 2 0 World Cup qualifier
+1973 328 away Belgium Holland 0 0 World Cup qualifier
+1974 75 away Belgium EastGermany 1 0 Friendly
+1974 110 home Belgium Poland 1 1 Friendly
+1974 125 away Belgium Switzerland 0 1 Friendly
+1974 156 home Belgium Scotland 2 1 Friendly
+1974 256 away Belgium Iceland 0 2 European Cup qualifier
+1974 291 home Belgium France 2 1 European Cup qualifier
+1974 348 away Belgium EastGermany 0 0 European Cup qualifier
+1975 123 home Belgium Holland 1 0 Friendly
+1975 254 home Belgium Iceland 1 0 European Cup qualifier
+1975 275 home Belgium EastGermany 1 2 European Cup qualifier
+1975 325 away Belgium France 0 0 European Cup qualifier
+1976 118 away Belgium Holland 5 0 European Cup qualifier
+1976 146 home Belgium Holland 1 2 European Cup qualifier
+1976 253 away Belgium Iceland 0 1 World Cup qualifier
+1976 320 home Belgium NorthernIreland 2 0 World Cup qualifier
+1977 26 away Belgium Italy 2 1 Friendly
+1977 88 home Belgium Holland 0 2 World Cup qualifier
+1977 251 home Belgium Iceland 4 0 World Cup qualifier
+1977 305 away Belgium Holland 1 0 World Cup qualifier
+1977 326 away Belgium NorthernIreland 3 0 World Cup qualifier
+1977 362 home Belgium Italy 0 1 Friendly
+1978 84 home Belgium Austria 1 0 Friendly
+1978 112 away Belgium EastGermany 0 0 Friendly
+1978 268 home Belgium Norway 1 1 European Cup qualifier
+1978 290 away Belgium Portugal 1 1 European Cup qualifier
+1978 325 away Belgium Israel 1 0 Friendly
+1979 90 home Belgium Austria 1 1 European Cup qualifier
+1979 126 away Belgium Austria 0 0 European Cup qualifier
+1979 260 away Belgium Norway 1 2 European Cup qualifier
+1979 274 away Belgium Holland 1 0 Friendly
+1979 296 home Belgium Portugal 2 0 European Cup qualifier
+1979 331 home Belgium Scotland 2 0 European Cup qualifier
+1979 360 away Belgium Scotland 1 3 European Cup qualifier
+1980 58 home Belgium Luxembourg 5 0 Friendly
+1980 80 home Belgium Uruguay 2 0 Friendly
+1980 95 home Belgium Poland 2 1 Friendly
+1980 161 home Belgium Romania 2 1 Friendly
+1980 167 home Belgium England 1 1 European Cup
+1980 170 home Belgium Spain 2 1 European Cup
+1980 173 away Belgium Italy 0 0 European Cup
+1980 177 away Belgium Germany 2 1 European Cup
+1980 294 away Belgium Ireland 1 1 World Cup qualifier
+1980 329 home Belgium Holland 1 0 World Cup qualifier
+1980 362 away Belgium Cyprus 0 2 World Cup qualifier
+1981 49 home Belgium Cyprus 3 2 World Cup qualifier
+1981 87 home Belgium Ireland 1 0 World Cup qualifier
+1981 122 away Belgium France 3 2 World Cup qualifier
+1981 257 home Belgium France 2 0 World Cup qualifier
+1981 293 away Belgium Holland 3 0 World Cup qualifier
+1981 357 away Belgium Spain 2 0 Friendly
+1982 86 home Belgium Romania 4 1 Friendly
+1982 121 home Belgium Bulgaria 2 1 Friendly
+1982 151 away Belgium Denmark 1 0 Friendly
+1982 168 home Belgium Argentina 1 0 World Cup
+1982 174 home Belgium ElSalvador 1 0 World Cup
+1982 177 home Belgium Hungary 1 1 World Cup
+1982 183 away Belgium Poland 3 0 World Cup
+1982 187 away Belgium SovietUnion 1 0 World Cup
+1982 270 away Belgium Germany 0 0 Friendly
+1982 285 home Belgium Switzerland 3 0 European Cup qualifier
+1982 356 home Belgium Scotland 3 2 European Cup qualifier
+1983 92 away Belgium EastGermany 1 2 European Cup qualifier
+1983 120 home Belgium EastGermany 2 1 European Cup qualifier
+1983 155 home Belgium France 1 1 Friendly
+1983 269 home Belgium Holland 1 1 Friendly
+1983 291 away Belgium Scotland 1 1 European Cup qualifier
+1983 319 away Belgium Switzerland 3 1 European Cup qualifier
+1984 60 home Belgium Germany 0 1 Friendly
+1984 110 away Belgium Poland 1 0 Friendly
+1984 161 home Belgium Hungary 2 2 Friendly
+1984 168 home Belgium Yugoslavia 2 0 European Cup
+1984 171 away Belgium France 5 0 European Cup
+1984 174 away Belgium Denmark 3 2 European Cup
+1984 253 home Belgium Argentina 0 2 Friendly
+1984 296 home Belgium Albania 3 1 World Cup qualifier
+1984 360 away Belgium Greece 0 0 World Cup qualifier
+1984 363 away Belgium Albania 2 0 World Cup qualifier
+1985 89 home Belgium Greece 2 0 World Cup qualifier
+1985 125 home Belgium Poland 2 0 World Cup qualifier
+1985 259 away Belgium Poland 0 0 World Cup qualifier
+1985 295 home Belgium Holland 1 0 World Cup qualifier
+1985 330 away Belgium Holland 2 1 World Cup qualifier
+1986 50 away Belgium Spain 3 0 Friendly
+1986 116 home Belgium Bulgaria 2 0 Friendly
+1986 143 home Belgium Yugoslavia 1 3 Friendly
+1986 158 away Belgium Mexico 2 1 World Cup
+1986 163 home Belgium Iraq 2 1 World Cup
+1986 166 home Belgium Paraguay 2 2 World Cup
+1986 170 home Belgium SovietUnion 4 3 World Cup
+1986 177 home Belgium Spain 1 1 World Cup
+1986 180 away Belgium Argentina 2 0 World Cup
+1986 183 away Belgium France 4 2 World Cup
+1986 258 home Belgium Ireland 2 2 European Cup qualifier
+1986 293 away Belgium Luxembourg 0 6 European Cup qualifier
+1986 329 home Belgium Bulgaria 1 1 European Cup qualifier
+1987 35 away Belgium Portugal 1 0 Friendly
+1987 94 home Belgium Scotland 4 1 European Cup qualifier
+1987 122 away Belgium Ireland 0 0 European Cup qualifier
+1987 257 away Belgium Holland 0 0 Friendly
+1987 271 away Belgium Bulgaria 2 0 European Cup qualifier
+1987 293 away Belgium Scotland 2 0 European Cup qualifier
+1987 321 home Belgium Luxembourg 3 0 European Cup qualifier
+1988 19 away Belgium Israel 2 3 Friendly
+1988 88 home Belgium Hungary 3 0 Friendly
+1988 159 away Belgium Denmark 3 1 Friendly
+1988 291 home Belgium Brazil 1 2 Friendly
+1988 298 home Belgium Switzerland 1 0 World Cup qualifier
+1988 326 away Belgium Czechoslovakia 0 0 World Cup qualifier
+1989 46 away Belgium Portugal 1 1 World Cup qualifier
+1989 122 home Belgium Czechoslovakia 2 1 World Cup qualifier
+1989 151 home Belgium Yugoslavia 1 0 Friendly
+1989 156 away Belgium Luxembourg 0 5 World Cup qualifier
+1989 163 away Belgium Canada 0 2 Friendly
+1989 241 home Belgium Denmark 3 0 Friendly
+1989 254 home Belgium Portugal 3 0 World Cup qualifier
+1989 290 away Belgium Switzerland 2 2 World Cup qualifier
+1989 304 home Belgium Luxembourg 1 1 World Cup qualifier
+1990 17 away Belgium Greece 2 0 Friendly
+1990 52 home Belgium Sweden 0 0 Friendly
+1990 150 home Belgium Romania 2 2 Friendly
+1990 157 home Belgium Mexico 3 0 Friendly
+1990 161 home Belgium Poland 1 1 Friendly
+1990 167 home Belgium SouthKorea 2 0 World Cup
+1990 172 home Belgium Uruguay 3 1 World Cup
+1990 176 home Belgium Spain 1 2 World Cup
+1990 181 home Belgium England 0 1 World Cup
+1990 260 home Belgium EastGermany 0 2 Friendly
+1990 296 away Belgium Wales 3 1 European Cup qualifier
+1991 44 away Belgium Italy 0 0 Friendly
+1991 58 home Belgium Luxembourg 3 0 European Cup qualifier
+1991 89 home Belgium Wales 1 1 European Cup qualifier
+1991 125 away Belgium Germany 1 0 European Cup qualifier
+1991 259 away Belgium Luxembourg 0 2 European Cup qualifier
+1991 288 away Belgium Hungary 0 2 Friendly
+1991 330 home Belgium Germany 0 1 European Cup qualifier
+1992 57 away Belgium Tunisia 2 1 Friendly
+1992 87 away Belgium France 3 3 Friendly
+1992 115 home Belgium Cyprus 1 0 World Cup qualifier
+1992 158 away Belgium FaroeIslands 0 3 World Cup qualifier
+1992 250 away Belgium Czechoslovakia 1 2 World Cup qualifier
+1992 293 home Belgium Romania 1 0 World Cup qualifier
+1992 328 home Belgium Wales 2 0 World Cup qualifier
+1993 44 away Belgium Cyprus 0 3 World Cup qualifier
+1993 93 away Belgium Wales 2 0 World Cup qualifier
+1993 146 home Belgium FaroeIslands 3 0 World Cup qualifier
+1993 285 home Belgium Gabon 2 1 Friendly
+1993 292 away Belgium Romania 2 1 World Cup qualifier
+1993 327 home Belgium Czechoslovakia 0 0 World Cup qualifier
+1994 47 away Belgium Malta 1 0 Friendly
+1994 159 home Belgium Zambia 9 0 Friendly
+1994 163 home Belgium Hungary 3 1 Friendly
+1994 174 home Belgium Morocco 1 0 World Cup
+1994 180 home Belgium Holland 1 0 World Cup
+1994 184 away Belgium SaudiArabia 1 0 World Cup
+1994 188 away Belgium Germany 3 2 World Cup
+1994 255 home Belgium Armenia 2 0 European Cup qualifier
+1994 291 away Belgium Denmark 3 1 European Cup qualifier
+1994 326 home Belgium Macedonia 1 1 European Cup qualifier
+1994 358 home Belgium Spain 1 4 European Cup qualifier
+1995 91 away Belgium Spain 1 1 European Cup qualifier
+1995 115 home Belgium UnitedStates 1 0 Friendly
+1995 119 home Belgium Cyprus 2 0 European Cup qualifier
+1995 162 away Belgium Macedonia 0 5 European Cup qualifier
+1995 240 home Belgium Germany 1 2 Friendly
+1995 254 home Belgium Denmark 1 3 European Cup qualifier
+1995 286 away Belgium Armenia 0 2 European Cup qualifier
+1995 325 away Belgium Cyprus 1 1 European Cup qualifier
+1996 89 home Belgium France 0 2 Friendly
+1996 117 home Belgium Russia 0 0 Friendly
+1996 153 away Belgium Italy 2 2 Friendly
+1996 248 home Belgium Turkey 2 1 World Cup qualifier
+1996 288 away Belgium SanMarino 0 3 World Cup qualifier
+1996 355 home Belgium Holland 0 3 World Cup qualifier
+1997 42 away Belgium NorthernIreland 3 0 Friendly
+1997 91 away Belgium Wales 1 2 World Cup qualifier
+1997 123 away Belgium Turkey 1 3 World Cup qualifier
+1997 162 home Belgium SanMarino 6 0 World Cup qualifier
+1997 254 away Belgium Holland 3 1 World Cup qualifier
+1997 290 home Belgium Wales 3 2 World Cup qualifier
+1997 308 away Belgium Ireland 1 1 World Cup qualifier
+1997 325 home Belgium Ireland 2 1 World Cup qualifier
+1998 56 home Belgium UnitedStates 2 0 Friendly
+1998 87 home Belgium Norway 2 2 Friendly
+1998 115 home Belgium Romania 1 1 Friendly
+1998 151 away Belgium France 1 0 King Hassan Cup
+1998 153 away Belgium England 0 0 King Hassan Cup
+1998 158 home Belgium Colombia 2 0 Friendly
+1998 161 home Belgium Paraguay 1 0 Friendly
+1998 168 away Belgium Holland 0 0 World Cup
+1998 175 away Belgium Mexico 2 2 World Cup
+1998 180 home Belgium SouthKorea 1 1 World Cup
+1998 328 away Belgium Luxembourg 0 0 Friendly
+1999 34 away Belgium Cyprus 0 1 Friendly tournament
+1999 36 away Belgium Greece 1 0 Friendly tournament
+1999 40 home Belgium Czechia 0 1 Friendly
+1999 89 home Belgium Bulgaria 0 1 Friendly
+1999 92 home Belgium Egypt 0 1 Friendly
+1999 121 away Belgium Romania 1 0 Friendly
+1999 154 home Belgium Peru 1 1 Kirin Cup
+1999 158 away Belgium Japan 0 0 Kirin Cup
+1999 160 away Belgium SouthKorea 1 2 Friendly
+1999 235 home Belgium Finland 3 4 Friendly
+1999 252 away Belgium Holland 5 5 Friendly
+1999 255 home Belgium Morocco 4 0 Friendly
+1999 289 away Belgium England 2 1 Friendly
+1999 323 away Belgium Italy 1 3 Friendly
+2000 54 home Belgium Portugal 1 1 Friendly
+2000 91 home Belgium Holland 2 2 Friendly
+2000 119 away Belgium Norway 0 2 Friendly
+2000 158 away Belgium Denmark 2 2 Friendly
+2000 165 home Belgium Sweden 2 1 European Cup
+2000 169 home Belgium Italy 0 2 European Cup
+2000 174 home Belgium Turkey 0 2 European Cup
+2000 233 away Belgium Bulgaria 1 3 Friendly
+2000 250 home Belgium Croatia 0 0 World Cup qualifier
+2000 286 away Belgium Latvia 0 4 World Cup qualifier
+2001 59 home Belgium SanMarino 10 1 World Cup qualifier
+2001 86 away Belgium Scotland 2 2 World Cup qualifier
+2001 118 away Belgium Czechia 1 1 Friendly
+2001 157 home Belgium Latvia 3 1 World Cup qualifier
+2001 161 away Belgium SanMarino 1 4 World Cup qualifier
+2001 232 away Belgium Finland 4 1 Friendly
+2001 253 home Belgium Scotland 2 0 World Cup qualifier
+2001 285 away Belgium Croatia 1 0 World Cup qualifier
+2001 320 home Belgium Czechia 1 0 World Cup qualifier
+2001 324 away Belgium Czechia 0 1 World Cup qualifier
+2002 44 home Belgium Norway 1 0 Friendly
+2002 89 away Belgium Greece 3 2 Friendly
+2002 110 home Belgium Slovakia 1 1 Friendly
+2002 138 home Belgium Algeria 0 0 Friendly
+2002 142 away Belgium France 1 2 Friendly
+2002 150 home Belgium CostaRica 1 0 Friendly
+2002 159 away Belgium Japan 2 2 World Cup
+2002 165 away Belgium Tunisia 1 1 World Cup
+2002 169 home Belgium Russia 3 2 World Cup
+2002 172 away Belgium Brazil 2 0 World Cup
+2002 238 away Belgium Poland 1 1 Friendly
+2002 255 home Belgium Bulgaria 0 2 European Cup qualifier
+2002 291 away Belgium Andorra 0 1 European Cup qualifier
+2002 295 away Belgium Estonia 0 1 European Cup qualifier
+2003 43 away Belgium Algeria 1 3 Friendly
+2003 91 away Belgium Croatia 4 0 European Cup qualifier
+2003 123 home Belgium Poland 3 1 Friendly
+2003 162 away Belgium Bulgaria 2 2 European Cup qualifier
+2003 166 home Belgium Andorra 3 0 European Cup qualifier
+2003 237 home Belgium Holland 1 1 Friendly
+2003 258 home Belgium Croatia 2 1 European Cup qualifier
+2003 290 home Belgium Estonia 2 0 European Cup qualifier
+2004 49 home Belgium France 0 2 Friendly
+2004 93 away Belgium Germany 3 0 Friendly
+2004 121 home Belgium Turkey 2 3 Friendly
+2004 153 away Belgium Holland 0 1 Friendly
+2004 235 away Belgium Norway 2 2 Friendly
+2004 252 home Belgium Lithuania 1 1 World Cup qualifier
+2004 288 away Belgium Spain 2 0 World Cup qualifier
+2004 327 home Belgium Serbia and Montenegro 0 2 World Cup qualifier
+2005 40 away Belgium Egypt 4 0 Friendly
+2005 88 home Belgium Bosnia 4 1 World Cup qualifier
+2005 92 away Belgium SanMarino 1 2 World Cup qualifier
+2005 159 away Belgium Serbia and Montenegro 0 0 World Cup qualifier
+2005 234 home Belgium Greece 2 0 Friendly
+2005 251 away Belgium Bosnia 1 0 World Cup qualifier
+2005 255 home Belgium SanMarino 8 0 World Cup qualifier
+2005 287 home Belgium Spain 0 2 World Cup qualifier
+2005 291 away Belgium Lithuania 1 1 World Cup qualifier
+2006 63 away Belgium Luxembourg 0 2 Friendly
+2006 135 home Belgium SaudiArabia 2 1 Friendly
+2006 144 away Belgium Slovakia 1 1 Friendly
+2006 148 home Belgium Turkey 3 3 Friendly
+2006 233 home Belgium Kazakhstan 0 0 European Cup qualifier
+2006 254 away Belgium Armenia 0 1 European Cup qualifier
+2006 286 away Belgium Serbia 1 0 European Cup qualifier
+2006 290 home Belgium Azerbaijan 3 0 European Cup qualifier
+2006 325 home Belgium Poland 0 1 European Cup qualifier
+2007 38 home Belgium Czechia 0 2 Friendly
+2007 86 away Belgium Portugal 4 0 European Cup qualifier
+2007 157 home Belgium Portugal 1 2 European Cup qualifier
+2007 161 away Belgium Finland 2 0 European Cup qualifier
+2007 239 home Belgium Serbia 3 2 European Cup qualifier
+2007 260 away Belgium Kazakhstan 2 2 European Cup qualifier
+2007 292 home Belgium Finland 0 0 European Cup qualifier
+2007 296 home Belgium Armenia 3 0 European Cup qualifier
+2007 327 away Belgium Poland 2 0 European Cup qualifier
+2007 331 away Belgium Azerbaijan 0 1 European Cup qualifier
+2008 88 home Belgium Morocco 1 4 Friendly
+2008 154 away Belgium Italy 3 1 Friendly
+2008 237 away Belgium Germany 2 0 Friendly
+2008 254 home Belgium Estonia 3 2 World Cup qualifier
+2008 258 away Belgium Turkey 1 1 World Cup qualifier
+2008 290 home Belgium Armenia 2 0 World Cup qualifier
+2008 294 home Belgium Spain 1 2 World Cup qualifier
+2008 329 away Belgium Luxembourg 1 1 Friendly
+2009 42 home Belgium Slovenia 2 0 Friendly
+2009 90 home Belgium Bosnia 2 4 World Cup qualifier
+2009 94 away Belgium Bosnia 2 1 World Cup qualifier
+2009 153 home Belgium Chile 1 1 Kirin Cup
+2009 155 away Belgium Japan 4 0 Kirin Cup
+2009 229 away Belgium Czechia 3 1 Friendly
+2009 253 away Belgium Spain 5 0 World Cup qualifier
+2009 257 away Belgium Armenia 2 1 World Cup qualifier
+2009 289 home Belgium Turkey 2 0 World Cup qualifier
+2009 293 away Belgium Estonia 2 0 World Cup qualifier
+2009 324 home Belgium Hungary 3 0 Friendly
+2009 327 home Belgium Qatar 2 0 Friendly
+2010 65 home Belgium Croatia 0 1 Friendly
+2010 143 home Belgium Bulgaria 2 1 Friendly
+2010 228 away Belgium Finland 1 0 Friendly
+2010 251 home Belgium Germany 0 1 European Cup qualifier
+2010 255 away Belgium Turkey 3 2 European Cup qualifier
+2010 287 away Belgium Kazakhstan 0 2 European Cup qualifier
+2010 291 home Belgium Austria 4 4 European Cup qualifier
+2010 327 away Belgium Russia 0 2 Friendly
+2011 40 home Belgium Finland 1 1 Friendly
+2011 87 away Belgium Austria 0 2 European Cup qualifier
+2011 91 home Belgium Azerbaijan 4 1 European Cup qualifier
+2011 158 home Belgium Turkey 1 1 European Cup qualifier
+2011 227 away Belgium Slovenia 0 0 Friendly
+2011 250 away Belgium Azerbaijan 1 1 European Cup qualifier
+2011 254 home Belgium UnitedStates 1 0 Friendly
+2011 286 home Belgium Kazakhstan 4 1 European Cup qualifier
+2011 290 away Belgium Germany 3 1 European Cup qualifier
+2011 321 home Belgium Romania 2 1 Friendly
+2011 325 away Belgium France 0 0 Friendly
+2012 60 away Belgium Greece 1 1 Friendly
+2012 149 home Belgium Montenegro 2 2 Friendly
+2012 157 away Belgium England 1 0 Friendly
+2012 232 home Belgium Holland 4 2 Friendly
+2012 255 away Belgium Wales 0 2 World Cup qualifier
+2012 259 home Belgium Croatia 1 1 World Cup qualifier
+2012 291 away Belgium Serbia 0 3 World Cup qualifier
+2012 295 home Belgium Scotland 2 0 World Cup qualifier
+2012 324 away Belgium Romania 2 1 Friendly
+2013 37 home Belgium Slovakia 2 1 Friendly
+2013 84 away Belgium Macedonia 0 2 World Cup qualifier
+2013 88 home Belgium Macedonia 1 0 World Cup qualifier
+2013 153 away Belgium UnitedStates 2 4 Friendly
+2013 162 home Belgium Serbia 2 1 World Cup qualifier
+2013 231 home Belgium France 0 0 Friendly
+2013 254 away Belgium Scotland 0 2 World Cup qualifier
+2013 290 away Belgium Croatia 1 2 World Cup qualifier
+2013 294 home Belgium Wales 1 1 World Cup qualifier
+2013 324 home Belgium Colombia 0 2 Friendly
+2013 329 home Belgium Japan 2 3 Friendly
+2014 67 home Belgium IvoryCoast 2 2 Friendly

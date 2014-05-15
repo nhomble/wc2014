@@ -1,0 +1,4796 @@
+October 26
+1923	Turkey
+Romania	2
+2	Friendly
+in Turkey	-1
++1	1599
+1674	-
+0	24
+18
+May 25
+1924	Czechoslovakia
+Turkey	5
+2	Olympic Games
+in France	+22
+-22	1854
+1577	+1
+-2	2
+28
+June 17
+1924	Finland
+Turkey	2
+4	Friendly
+in Finland	-16
++16	1487
+1593	-2
++1	39
+27
+June 19
+1924	Estonia
+Turkey	1
+4	Friendly
+in Estonia	-8
++8	1286
+1601	0
+0	48
+27
+June 22
+1924	Latvia
+Turkey	1
+3	Friendly
+in Latvia	-10
++10	1358
+1611	0
++2	46
+25
+June 29
+1924	Poland
+Turkey	2
+0	Friendly
+in Poland	+14
+-14	1550
+1597	+1
+-1	33
+26
+November 16
+1924	Soviet Union
+Turkey	3
+0	Friendly
+in the Soviet Union	+20
+-20	1462
+1577	+1
+-1	42
+28
+April 10
+1925	Turkey
+Bulgaria	2
+1	Friendly
+in Turkey	+5
+-5	1582
+1463	0
+0	27
+42
+May 01
+1925	Romania
+Turkey	1
+2	Friendly
+in Romania	-14
++14	1595
+1596	-5
++2	27
+25
+May 15
+1925	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-16
++16	1580
+1478	-2
++3	27
+40
+October 02
+1925	Turkey
+Poland	1
+2	Friendly
+in Turkey	-14
++14	1566
+1548	0
++2	28
+31
+May 07
+1926	Turkey
+Romania	1
+3	Friendly
+in Turkey	-17
++17	1549
+1633	-1
++1	30
+22
+September 12
+1926	Poland
+Turkey	6
+1	Friendly
+in Poland	+15
+-15	1562
+1534	+3
+-4	29
+35
+July 17
+1927	Bulgaria
+Turkey	3
+3	Friendly
+in Bulgaria	0
+0	1418
+1534	0
+0	46
+33
+October 14
+1927	Turkey
+Bulgaria	3
+1	Friendly
+in Turkey	+7
+-7	1541
+1411	+2
+0	30
+46
+April 08
+1928	Yugoslavia
+Turkey	2
+1	Friendly
+in Yugoslavia	+8
+-8	1533
+1533	+2
+-1	33
+33
+April 15
+1928	Romania
+Turkey	4
+2	Friendly
+in Romania	+8
+-8	1617
+1525	+3
+-2	22
+35
+May 28
+1928	Egypt
+Turkey	7
+1	Olympic Games
+in the Netherlands	+48
+-48	1663
+1477	+3
+-7	20
+42
+August 20
+1931	Soviet Union
+Turkey	3
+2	Friendly
+in the Soviet Union	+6
+-6	1513
+1471	+1
+0	35
+42
+September 27
+1931	Bulgaria
+Turkey	5
+1	Friendly
+in Bulgaria	+19
+-19	1388
+1452	+1
+-2	52
+44
+October 02
+1931	Turkey
+Yugoslavia	2
+0	Friendly
+in Bulgaria	+22
+-22	1474
+1608	+2
+-2	42
+23
+October 21
+1932	Turkey
+Soviet Union	2
+2	Friendly
+in Turkey	-2
++2	1472
+1515	0
+0	43
+37
+October 23
+1932	Turkey
+Soviet Union	0
+4	Friendly
+in Turkey	-22
++22	1450
+1537	-1
++4	44
+33
+October 27
+1932	Turkey
+Soviet Union	0
+1	Friendly
+in Turkey	-10
++10	1440
+1547	0
++1	44
+33
+October 30
+1932	Turkey
+Soviet Union	2
+3	Friendly
+in Turkey	-10
++10	1430
+1557	-1
+0	45
+33
+November 05
+1932	Turkey
+Bulgaria	2
+3	Friendly
+in Turkey	-10
++10	1420
+1527	-1
+0	46
+37
+July 30
+1933	Soviet Union
+Turkey	1
+2	Friendly
+in the Soviet Union	-16
++16	1541
+1436	-1
++2	34
+44
+August 07
+1934	Soviet Union
+Turkey	2
+1	Friendly
+in the Soviet Union	+5
+-5	1546
+1431	+1
+-2	35
+46
+October 13
+1935	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-10
++10	1421
+1556	-2
+0	46
+34
+October 15
+1935	Turkey
+Soviet Union	2
+2	Friendly
+in Turkey	+1
+-1	1422
+1555	0
+0	46
+34
+October 19
+1935	Turkey
+Soviet Union	3
+3	Friendly
+in Turkey	+1
+-1	1423
+1554	+1
+0	45
+34
+October 21
+1935	Turkey
+Soviet Union	2
+3	Friendly
+in Turkey	-9
++9	1414
+1563	-3
++3	48
+31
+October 25
+1935	Turkey
+Soviet Union	1
+2	Friendly
+in Turkey	-9
++9	1405
+1572	-1
++2	49
+29
+October 27
+1935	Turkey
+Soviet Union	3
+3	Friendly
+in Turkey	+2
+-2	1407
+1570	+1
+0	48
+29
+July 12
+1936	Turkey
+Yugoslavia	3
+3	Friendly
+in Turkey	+4
+-4	1411
+1656	+1
+-1	46
+21
+August 03
+1936	Norway
+Turkey	4
+0	Olympic Games
+in Germany	+26
+-26	1650
+1385	+2
+-4	22
+50
+August 01
+1937	Yugoslavia
+Turkey	3
+1	Friendly
+in Yugoslavia	+3
+-3	1640
+1382	0
+0	22
+50
+October 26
+1947	Iran
+Turkey	1
+3	Friendly
+in Iran	-26
++26	1566
+1408	-3
++4	35
+57
+April 23
+1948	Greece
+Turkey	1
+3	Friendly
+in Greece	-17
++17	1336
+1425	-1
++3	68
+55
+May 30
+1948	Turkey
+Austria	0
+1	Friendly
+in Turkey	-4
++4	1421
+1785	-2
+0	57
+13
+August 02
+1948	Turkey
+China	4
+0	Olympic Games
+in England	+83
+-83	1504
+1517	+15
+-12	42
+41
+August 05
+1948	Yugoslavia
+Turkey	3
+1	Olympic Games
+in England	+22
+-22	1724
+1482	+2
+-3	16
+45
+October 28
+1948	Iran
+Turkey	1
+1	Friendly
+in Iran	-5
++5	1561
+1487	-1
+0	35
+45
+November 28
+1948	Turkey
+Greece	2
+1	Friendly
+in Turkey	+4
+-4	1491
+1332	0
+0	45
+70
+March 20
+1949	Austria
+Turkey	1
+0	Friendly
+in Austria	+3
+-3	1712
+1488	0
+0	17
+46
+May 12
+1949	Turkey
+Egypt	3
+2	Mediterranean Cup
+in Greece	+25
+-25	1513
+1548	+3
+-7	43
+37
+May 15
+1949	Greece
+Turkey	1
+2	Mediterranean Cup
+in Greece	-15
++15	1317
+1528	0
++1	73
+42
+November 20
+1949	Turkey
+Syria	7
+0	World Cup qualifier
+in Turkey	+29
+-29	1557
+1471	+5
+-	37
+49
+May 28
+1950	Turkey
+Iran	6
+1	Friendly
+in Turkey	+15
+-15	1572
+1546	+5
+-3	33
+39
+May 30
+1950	Turkey
+Iran	2
+2	Friendly
+in Turkey	-3
++3	1569
+1549	-1
+0	34
+39
+October 28
+1950	Israel
+Turkey	5
+1	Friendly
+in Israel	+18
+-18	1493
+1551	+3
+-5	48
+39
+December 03
+1950	Turkey
+Israel	3
+2	Friendly
+in Turkey	+6
+-6	1557
+1487	+2
+-1	37
+49
+June 10
+1951	Sweden
+Turkey	3
+1	Friendly
+in Sweden	+2
+-2	1883
+1555	0
+0	5
+36
+June 17
+1951	West Germany
+Turkey	1
+2	Friendly
+in West Germany	-18
++18	1841
+1573	-1
++4	9
+32
+November 14
+1951	Turkey
+Sweden	1
+0	Friendly
+in Turkey	+14
+-14	1587
+1810	+1
+-2	31
+13
+November 21
+1951	Turkey
+West Germany	0
+2	Friendly
+in Turkey	-9
++9	1578
+1854	-1
++2	32
+7
+May 16
+1952	Turkey
+Greece	0
+1	Friendly
+in Turkey	-16
++16	1562
+1450	-4
++2	35
+56
+June 01
+1952	Turkey
+Switzerland	1
+5	Friendly
+in Turkey	-20
++20	1542
+1666	-2
++2	38
+23
+June 08
+1952	Turkey
+Spain	0
+0	Friendly
+in Turkey	+5
+-5	1547
+1833	+1
+-1	37
+9
+May 25
+1953	Switzerland
+Turkey	1
+2	Friendly
+in Switzerland	-15
++15	1636
+1562	-2
++1	25
+37
+June 05
+1953	Turkey
+Yugoslavia	2
+2	Friendly
+in Turkey	+6
+-6	1568
+1878	+2
+0	35
+6
+January 06
+1954	Spain
+Turkey	4
+1	World Cup qualifier
+in Spain	+8
+-8	1839
+1560	0
+-4	10
+40
+March 14
+1954	Turkey
+Spain	1
+0	World Cup qualifier
+in Turkey	+29
+-29	1589
+1810	+5
+-1	34
+11
+March 17
+1954	Spain
+Turkey	2
+2	World Cup qualifier
+in Italy	-11
++11	1799
+1600	0
+0	11
+34
+June 17
+1954	West Germany
+Turkey	4
+1	World Cup
+in Switzerland	+17
+-17	1903
+1583	+2
+-2	6
+34
+June 20
+1954	Turkey
+South Korea	7
+0	World Cup
+in Switzerland	+63
+-63	1646
+1496	+10
+-10	24
+49
+June 23
+1954	West Germany
+Turkey	7
+2	World Cup
+in Switzerland	+26
+-26	1896
+1620	+1
+-6	8
+30
+October 17
+1954	Yugoslavia
+Turkey	5
+1	Friendly
+in Yugoslavia	+4
+-4	1887
+1616	0
+0	9
+29
+December 18
+1955	Turkey
+Portugal	3
+1	Friendly
+in Turkey	+10
+-10	1626
+1583	+2
+-1	27
+34
+February 19
+1956	Turkey
+Hungary	3
+1	Friendly
+in Turkey	+28
+-28	1654
+2122	+3
+0	24
+1
+March 25
+1956	Portugal
+Turkey	3
+1	Friendly
+in Portugal	+13
+-13	1619
+1641	+1
+-2	30
+25
+May 01
+1956	Turkey
+Brazil	0
+1	Friendly
+in Turkey	-4
++4	1637
+1986	0
+0	24
+3
+November 16
+1956	Turkey
+Poland	1
+1	Friendly
+in Turkey	-6
++6	1631
+1513	-3
++1	26
+50
+November 25
+1956	Czechoslovakia
+Turkey	1
+1	Friendly
+in Czechoslovakia	-6
++6	1789
+1637	-1
++2	13
+24
+April 05
+1957	Egypt
+Turkey	0
+4	Mediterranean Cup
+in Egypt	-46
++46	1573
+1683	-8
++2	38
+21
+May 19
+1957	Poland
+Turkey	0
+1	Friendly
+in Poland	-8
++8	1505
+1691	0
++1	47
+21
+November 06
+1957	Spain
+Turkey	3
+0	Friendly
+in Spain	+9
+-9	1797
+1682	+1
+0	13
+24
+December 08
+1957	Turkey
+Belgium	1
+1	Friendly
+in Turkey	-4
++4	1678
+1630	0
++1	24
+29
+May 04
+1958	Netherlands
+Turkey	1
+2	Friendly
+in the Netherlands	-12
++12	1623
+1690	-1
+0	31
+24
+October 26
+1958	Belgium
+Turkey	1
+1	Friendly
+in Belgium	0
+0	1599
+1690	0
+0	39
+24
+November 02
+1958	Romania
+Turkey	3
+0	European Cup qualifier
+in Romania	+35
+-35	1629
+1655	+11
+-2	29
+26
+December 07
+1958	Turkey
+Bulgaria	0
+0	Friendly
+in Turkey	-4
++4	1651
+1630	-1
++2	27
+29
+December 18
+1958	Turkey
+Czechoslovakia	1
+0	Friendly
+in Turkey	+12
+-12	1663
+1812	+1
+-1	26
+12
+April 26
+1959	Turkey
+Romania	2
+0	European Cup qualifier
+in Turkey	+19
+-19	1682
+1610	+1
+-8	26
+38
+May 10
+1959	Turkey
+Netherlands	0
+0	Friendly
+in Turkey	-4
++4	1678
+1653	-1
+0	27
+28
+June 08
+1960	Turkey
+Scotland	4
+2	Friendly
+in Turkey	+14
+-14	1692
+1737	+3
+-3	23
+20
+November 27
+1960	Bulgaria
+Turkey	2
+1	Friendly
+in Bulgaria	+6
+-6	1735
+1686	+2
+0	19
+24
+May 14
+1961	Turkey
+Romania	0
+1	Friendly
+in Turkey	-15
++15	1671
+1611	-3
++2	26
+38
+June 01
+1961	Norway
+Turkey	0
+1	World Cup qualifier
+in Norway	-15
++15	1461
+1686	-4
++3	66
+23
+June 18
+1961	Soviet Union
+Turkey	1
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1910
+1680	+1
+0	4
+23
+October 08
+1961	Romania
+Turkey	4
+0	Friendly
+in Romania	+17
+-17	1628
+1663	+9
+-4	32
+27
+October 18
+1961	Turkey
+South Korea	1
+0	Friendly
+in Turkey	+6
+-6	1669
+1613	0
+-2	27
+38
+October 29
+1961	Turkey
+Norway	2
+1	World Cup qualifier
+in Turkey	+5
+-5	1674
+1408	+2
+-1	25
+80
+November 12
+1961	Turkey
+Soviet Union	1
+2	World Cup qualifier
+in Turkey	-13
++13	1661
+1916	-3
++3	28
+3
+1962	Northern Cyprus
+Turkey	0
+5	Friendly
+in Northern Cyprus	-11
++11	1389
+1672	-
++3	87
+25
+April 29
+1962	Hungary
+Turkey	2
+1	Friendly
+in Hungary	+3
+-3	1889
+1669	0
+-2	7
+27
+May 16
+1962	Turkey
+Israel	1
+0	Friendly
+in Turkey	+4
+-4	1673
+1547	+2
+0	25
+47
+October 10
+1962	Turkey
+Ethiopia	3
+0	Friendly
+in Turkey	+4
+-4	1677
+1412	+1
+-1	24
+81
+November 25
+1962	Israel
+Turkey	0
+2	Friendly
+in Israel	-14
++14	1530
+1691	-1
++1	52
+23
+December 02
+1962	Italy
+Turkey	6
+0	European Cup qualifier
+in Italy	+18
+-18	1832
+1673	+1
+-2	11
+25
+December 12
+1962	Turkey
+Denmark	1
+1	Friendly
+in Turkey	-3
++3	1670
+1652	0
+0	25
+28
+December 16
+1962	Ethiopia
+Turkey	0
+0	Friendly
+in Ethiopia	+4
+-4	1409
+1666	0
+0	82
+25
+March 27
+1963	Turkey
+Italy	0
+1	European Cup qualifier
+in Turkey	-16
++16	1650
+1848	-1
++3	28
+8
+September 22
+1963	Poland
+Turkey	0
+0	Friendly
+in Poland	-2
++2	1614
+1652	-2
+0	36
+28
+September 28
+1963	West Germany
+Turkey	3
+0	Friendly
+in West Germany	+5
+-5	1877
+1647	+2
+0	5
+28
+October 09
+1963	Turkey
+Romania	0
+0	Friendly
+in Turkey	-2
++2	1645
+1684	-1
+0	29
+26
+June 11
+1964	Algeria
+Turkey	0
+0	Friendly
+in Algeria	-6
++6	1779
+1651	0
+0	16
+29
+September 27
+1964	Turkey
+Poland	2
+3	Friendly
+in Turkey	-14
++14	1637
+1635	-2
++2	32
+33
+November 01
+1964	Turkey
+Tunisia	4
+1	Friendly
+in Turkey	+8
+-8	1645
+1508	+1
+-1	30
+58
+December 20
+1964	Turkey
+Bulgaria	0
+0	Friendly
+in Turkey	-2
++2	1643
+1675	0
+0	29
+27
+January 24
+1965	Portugal
+Turkey	5
+1	World Cup qualifier
+in Portugal	+28
+-28	1662
+1615	+3
+-8	29
+37
+April 19
+1965	Turkey
+Portugal	0
+1	World Cup qualifier
+in Turkey	-23
++23	1592
+1685	-8
++3	42
+27
+May 02
+1965	Romania
+Turkey	3
+0	World Cup qualifier
+in Romania	+9
+-9	1824
+1583	+3
+-1	11
+42
+May 09
+1965	Bulgaria
+Turkey	4
+1	Friendly
+in Bulgaria	+8
+-8	1691
+1575	0
+-1	27
+44
+May 22
+1965	Iran
+Turkey	1
+2	Friendly
+in Iran	-12
++12	1521
+1587	-3
++2	56
+42
+May 24
+1965	Iran
+Turkey	2
+1	Friendly
+in Iran	+9
+-9	1530
+1578	+2
+-2	54
+44
+July 21
+1965	Turkey
+Pakistan	3
+1	Friendly tournament
+in Iran	+11
+-11	1589
+1380	+2
+-4	43
+94
+July 25
+1965	Iran
+Turkey	0
+0	Friendly tournament
+in Iran	-2
++2	1538
+1591	-1
++1	55
+42
+October 09
+1965	Turkey
+Czechoslovakia	0
+6	World Cup qualifier
+in Turkey	-27
++27	1564
+1853	-4
++2	47
+8
+October 23
+1965	Turkey
+Romania	2
+1	World Cup qualifier
+in Turkey	+27
+-27	1591
+1767	+5
+-1	43
+16
+November 21
+1965	Czechoslovakia
+Turkey	3
+1	World Cup qualifier
+in Czechoslovakia	+7
+-7	1859
+1584	0
+-1	8
+42
+March 16
+1966	Iran
+Turkey	0
+0	Friendly
+in Iran	-2
++2	1536
+1586	0
+0	53
+42
+May 30
+1966	Denmark
+Turkey	0
+0	Friendly
+in Denmark	-2
++2	1549
+1588	-1
+0	51
+43
+October 12
+1966	Turkey
+West Germany	0
+2	Friendly
+in Turkey	-5
++5	1583
+1986	-1
+0	43
+2
+October 16
+1966	Soviet Union
+Turkey	0
+2	Friendly
+in the Soviet Union	-28
++28	1913
+1611	-1
++2	6
+41
+November 16
+1966	Ireland
+Turkey	2
+1	European Cup qualifier
+in Ireland	+14
+-14	1633
+1597	+1
+0	35
+41
+January 22
+1967	Tunisia
+Turkey	0
+0	Friendly
+in Tunisia	-1
++1	1528
+1598	+1
+0	51
+41
+February 01
+1967	Turkey
+Spain	0
+0	European Cup qualifier
+in Turkey	+7
+-7	1605
+1809	0
+0	40
+12
+February 22
+1967	Turkey
+Ireland	2
+1	European Cup qualifier
+in Turkey	+15
+-15	1620
+1608	+4
+-4	36
+40
+May 31
+1967	Spain
+Turkey	2
+0	European Cup qualifier
+in Spain	+10
+-10	1814
+1610	+1
+-5	12
+40
+June 18
+1967	Czechoslovakia
+Turkey	3
+0	European Cup qualifier
+in Czechoslovakia	+8
+-8	1882
+1602	+1
+0	8
+40
+November 15
+1967	Turkey
+Czechoslovakia	0
+0	European Cup qualifier
+in Turkey	+9
+-9	1611
+1865	0
+0	37
+9
+November 26
+1967	Turkey
+Iran	1
+0	Friendly tournament
+in Pakistan	+12
+-12	1623
+1531	+2
+0	36
+59
+November 28
+1967	Pakistan
+Turkey	4
+7	Friendly tournament
+in Pakistan	-12
++12	1304
+1635	-3
++1	114
+35
+March 13
+1968	Turkey
+Tunisia	0
+0	Friendly
+in Turkey	-5
++5	1630
+1533	-1
++2	37
+58
+April 24
+1968	Poland
+Turkey	8
+0	Friendly
+in Poland	+16
+-16	1656
+1614	+1
+-2	33
+38
+October 09
+1968	Turkey
+Bulgaria	0
+2	Friendly
+in Turkey	-11
++11	1603
+1823	-1
+0	40
+12
+October 23
+1968	Northern Ireland
+Turkey	4
+1	World Cup qualifier
+in Northern Ireland	+22
+-22	1665
+1581	+4
+-4	29
+45
+December 11
+1968	Turkey
+Northern Ireland	0
+3	World Cup qualifier
+in Turkey	-37
++37	1544
+1702	-12
++5	57
+25
+January 17
+1969	Saudi Arabia
+Turkey	1
+2	Friendly
+in Saudi Arabia	-7
++7	1335
+1551	0
++3	104
+55
+March 06
+1969	Turkey
+Pakistan	4
+1	Friendship Cup
+in Iran	+10
+-10	1561
+1294	+4
+-1	50
+112
+March 09
+1969	Iran
+Turkey	2
+1	Friendship Cup
+in Iran	+9
+-9	1612
+1552	+1
+-4	39
+54
+March 11
+1969	Soviet Union
+Turkey	2
+0	Friendship Cup
+in Iran	+5
+-5	1922
+1547	0
+-2	6
+56
+March 13
+1969	Turkey
+Iraq	1
+0	Friendship Cup
+in Iran	+14
+-14	1561
+1499	+6
+-3	50
+66
+April 30
+1969	Turkey
+Poland	1
+3	Friendly
+in Turkey	-14
++14	1547
+1689	-6
++1	56
+28
+September 14
+1969	Turkey
+Pakistan	4
+2	Friendly tournament
+in Turkey	+5
+-5	1552
+1297	+1
+0	55
+112
+September 17
+1969	Turkey
+Iran	4
+0	Friendly tournament
+in Turkey	+25
+-25	1577
+1590	+6
+-6	49
+46
+September 24
+1969	Turkey
+Switzerland	3
+0	Friendly
+in Turkey	+15
+-15	1592
+1618	+5
+-3	44
+38
+October 15
+1969	Soviet Union
+Turkey	3
+0	World Cup qualifier
+in the Soviet Union	+5
+-5	1928
+1587	+1
+-3	4
+48
+November 16
+1969	Turkey
+Soviet Union	1
+3	World Cup qualifier
+in Turkey	-12
++12	1575
+1948	-1
+0	48
+4
+September 03
+1970	Iran
+Turkey	1
+1	Friendly tournament
+in Iran	-5
++5	1591
+1580	-1
++1	46
+48
+October 17
+1970	West Germany
+Turkey	1
+1	European Cup qualifier
+in West Germany	-18
++18	1997
+1598	0
++5	2
+43
+December 13
+1970	Turkey
+Albania	2
+1	European Cup qualifier
+in Turkey	+5
+-5	1603
+1364	+1
+-1	43
+96
+April 25
+1971	Turkey
+West Germany	0
+3	European Cup qualifier
+in Turkey	-12
++12	1591
+1997	-2
++1	45
+2
+September 22
+1971	Poland
+Turkey	5
+1	European Cup qualifier
+in Poland	+13
+-13	1778
+1578	+3
+-1	16
+46
+September 26
+1971	Switzerland
+Turkey	4
+0	Friendly
+in Switzerland	+11
+-11	1647
+1567	+2
+-5	37
+51
+November 14
+1971	Albania
+Turkey	3
+0	European Cup qualifier
+in Albania	+45
+-45	1412
+1522	+6
+-6	88
+57
+December 05
+1971	Turkey
+Poland	1
+0	European Cup qualifier
+in Turkey	+28
+-28	1550
+1745	+3
+-3	56
+18
+October 04
+1972	Algeria
+Turkey	1
+0	Friendly
+in Algeria	+8
+-8	1546
+1542	+2
+-2	55
+56
+October 22
+1972	Luxembourg
+Turkey	2
+0	World Cup qualifier
+in Luxembourg	+46
+-46	1280
+1496	+7
+-9	122
+65
+December 10
+1972	Turkey
+Luxembourg	3
+0	World Cup qualifier
+in Turkey	+10
+-10	1506
+1270	+2
+-2	63
+124
+January 13
+1973	Italy
+Turkey	0
+0	World Cup qualifier
+in Italy	-18
++18	1891
+1524	0
++4	5
+59
+February 14
+1973	Turkey
+Algeria	4
+0	Friendly
+in Turkey	+15
+-15	1539
+1537	+2
+-7	57
+58
+February 25
+1973	Turkey
+Italy	0
+1	World Cup qualifier
+in Turkey	-8
++8	1531
+1899	-2
+0	59
+5
+April 18
+1973	Turkey
+Bulgaria	5
+2	Balkan Cup
+in Turkey	+52
+-52	1583
+1769	+12
+-6	48
+19
+May 09
+1973	Switzerland
+Turkey	0
+0	World Cup qualifier
+in Switzerland	-10
++10	1665
+1593	-2
++4	31
+44
+October 17
+1973	Turkey
+Spain	0
+0	Friendly
+in Turkey	+4
+-4	1597
+1835	+1
+-1	41
+10
+November 18
+1973	Turkey
+Switzerland	2
+0	World Cup qualifier
+in Turkey	+28
+-28	1625
+1642	+5
+-2	37
+34
+January 18
+1974	Pakistan
+Turkey	2
+2	Friendly tournament
+in Pakistan	+9
+-9	1293
+1616	+4
+-1	116
+38
+January 20
+1974	Turkey
+Iran	1
+0	Friendly tournament
+in Pakistan	+15
+-15	1631
+1594	+1
+-2	37
+42
+May 08
+1974	Bulgaria
+Turkey	5
+1	Balkan Cup
+in Bulgaria	+15
+-15	1790
+1616	+2
+-1	17
+38
+November 13
+1974	Turkey
+Austria	0
+1	Friendly
+in Turkey	-8
++8	1608
+1787	-1
++2	42
+18
+November 20
+1974	Turkey
+Ireland	1
+1	European Cup qualifier
+in Turkey	-5
++5	1603
+1631	0
+0	42
+39
+December 01
+1974	Turkey
+Switzerland	2
+1	European Cup qualifier
+in Turkey	+18
+-18	1621
+1642	+1
+-3	41
+36
+March 19
+1975	Turkey
+Romania	1
+1	Friendly
+in Turkey	+1
+-1	1622
+1761	0
+0	42
+21
+April 02
+1975	Soviet Union
+Turkey	3
+0	European Cup qualifier
+in the Soviet Union	+13
+-13	1794
+1609	+2
+0	18
+42
+April 30
+1975	Switzerland
+Turkey	1
+1	European Cup qualifier
+in Switzerland	-7
++7	1631
+1616	-3
+0	40
+42
+October 12
+1975	Romania
+Turkey	2
+2	Friendly
+in Romania	-6
++6	1771
+1622	0
++3	20
+41
+October 29
+1975	Ireland
+Turkey	4
+0	European Cup qualifier
+in Ireland	+27
+-27	1649
+1595	+5
+-6	35
+46
+November 23
+1975	Turkey
+Soviet Union	1
+0	European Cup qualifier
+in Turkey	+28
+-28	1623
+1824	+3
+-3	41
+14
+December 20
+1975	Turkey
+West Germany	0
+5	Friendly
+in Turkey	-6
++6	1617
+2047	-1
+0	43
+1
+February 08
+1976	Iraq
+Turkey	0
+0	Friendly
+in Iraq	-2
++2	1575
+1619	-1
+0	48
+43
+August 25
+1976	Finland
+Turkey	2
+1	Friendly
+in Finland	+14
+-14	1392
+1605	+11
+-1	84
+44
+September 22
+1976	Bulgaria
+Turkey	2
+2	Friendly
+in Bulgaria	-6
++6	1734
+1611	-1
++1	24
+43
+October 13
+1976	Turkey
+Ireland	3
+3	Friendly
+in Turkey	-1
++1	1610
+1689	-1
++1	44
+28
+October 31
+1976	Turkey
+Malta	4
+0	World Cup qualifier
+in Turkey	+5
+-5	1615
+1259	+1
+0	42
+124
+November 17
+1976	East Germany
+Turkey	1
+1	World Cup qualifier
+in East Germany	-16
++16	1903
+1631	-1
++1	7
+41
+January 05
+1977	Northern Cyprus
+Turkey	0
+1	Friendly
+in Northern Cyprus	-6
++6	1383
+1637	-4
++1	95
+38
+February 16
+1977	Turkey
+Bulgaria	2
+0	Balkan Cup
+in Turkey	+27
+-27	1664
+1673	+6
+-2	33
+30
+March 23
+1977	Romania
+Turkey	4
+0	Balkan Cup
+in Romania	+18
+-18	1786
+1646	+3
+-3	18
+38
+April 06
+1977	Turkey
+Finland	1
+2	Friendly
+in Turkey	-18
++18	1628
+1424	-1
++5	39
+80
+April 17
+1977	Austria
+Turkey	1
+0	World Cup qualifier
+in Austria	+8
+-8	1775
+1620	+1
+-2	20
+41
+September 07
+1977	Czechoslovakia
+Turkey	1
+0	Friendly
+in Czechoslovakia	+2
+-2	1871
+1618	0
+-2	10
+42
+September 21
+1977	Bulgaria
+Turkey	3
+1	Balkan Cup
+in Bulgaria	+16
+-16	1712
+1602	+1
+-3	28
+45
+October 30
+1977	Turkey
+Austria	0
+1	World Cup qualifier
+in Turkey	-14
++14	1588
+1819	-2
++1	46
+15
+November 16
+1977	Turkey
+East Germany	1
+2	World Cup qualifier
+in Turkey	-9
++9	1579
+1915	-2
++1	48
+5
+November 27
+1977	Malta
+Turkey	0
+3	World Cup qualifier
+in Malta	-16
++16	1258
+1595	-4
++3	126
+45
+March 22
+1978	Turkey
+Romania	1
+1	Balkan Cup
+in Turkey	+5
+-5	1600
+1777	+2
+0	44
+20
+April 05
+1978	Ireland
+Turkey	4
+2	Friendly
+in Ireland	+8
+-8	1678
+1592	+3
+-2	33
+46
+September 23
+1978	Italy
+Turkey	1
+0	Friendly
+in Italy	+1
+-1	1966
+1591	0
+0	5
+45
+October 05
+1978	Turkey
+Soviet Union	0
+2	Friendly
+in Turkey	-6
++6	1585
+1930	-3
+0	48
+7
+November 29
+1978	Wales
+Turkey	1
+0	European Cup qualifier
+in Wales	+7
+-7	1766
+1578	+1
+0	20
+48
+February 28
+1979	Turkey
+Algeria	0
+1	Friendly
+in Turkey	-12
++12	1566
+1602	-2
+0	53
+48
+March 18
+1979	Turkey
+Malta	2
+1	European Cup qualifier
+in Turkey	+4
+-4	1570
+1265	0
+-2	53
+126
+April 01
+1979	Turkey
+West Germany	0
+0	European Cup qualifier
+in Turkey	+14
+-14	1584
+1962	+2
+-1	51
+5
+October 28
+1979	Malta
+Turkey	1
+2	European Cup qualifier
+in Malta	-9
++9	1250
+1593	-3
++3	131
+50
+November 21
+1979	Turkey
+Wales	1
+0	European Cup qualifier
+in Turkey	+25
+-25	1618
+1766	+4
+-1	44
+21
+December 22
+1979	West Germany
+Turkey	2
+0	European Cup qualifier
+in West Germany	+3
+-3	2026
+1615	0
+-1	1
+46
+September 24
+1980	Turkey
+Iceland	1
+3	World Cup qualifier
+in Turkey	-54
++54	1561
+1371	-12
++14	55
+97
+September 28
+1980	Turkey
+Northern Cyprus	5
+0	Friendly tournament
+in Turkey	+10
+-10	1571
+1373	+2
+-4	53
+95
+October 01
+1980	Turkey
+Libya	1
+2	Friendly tournament
+in Turkey	-24
++24	1547
+1446	-5
++6	58
+77
+October 03
+1980	Turkey
+Saudi Arabia	3
+0	Friendly tournament
+in Turkey	+13
+-13	1560
+1446	+3
+-3	55
+76
+October 05
+1980	Turkey
+Malaysia	3
+0	Friendly tournament
+in Turkey	+7
+-7	1567
+1325	+1
+-1	54
+110
+October 15
+1980	Wales
+Turkey	4
+0	World Cup qualifier
+in Wales	+11
+-11	1788
+1556	0
+-1	18
+55
+December 03
+1980	Czechoslovakia
+Turkey	2
+0	World Cup qualifier
+in Czechoslovakia	+6
+-6	1860
+1550	0
+-2	13
+55
+March 25
+1981	Turkey
+Wales	0
+1	World Cup qualifier
+in Turkey	-11
++11	1539
+1833	-2
+0	58
+15
+April 15
+1981	Turkey
+Czechoslovakia	0
+3	World Cup qualifier
+in Turkey	-16
++16	1523
+1863	-2
++1	60
+12
+September 09
+1981	Iceland
+Turkey	2
+0	World Cup qualifier
+in Iceland	+33
+-33	1423
+1490	+10
+-7	83
+70
+September 23
+1981	Soviet Union
+Turkey	4
+0	World Cup qualifier
+in the Soviet Union	+3
+-3	1935
+1487	0
+-1	4
+71
+October 07
+1981	Turkey
+Soviet Union	0
+3	World Cup qualifier
+in Turkey	-8
++8	1479
+1943	0
+0	71
+4
+September 22
+1982	Hungary
+Turkey	5
+0	Friendly
+in Hungary	+4
+-4	1770
+1475	+1
+-1	20
+75
+October 27
+1982	Turkey
+Albania	1
+0	European Cup qualifier
+in Turkey	+10
+-10	1485
+1363	+2
+-1	72
+97
+November 17
+1982	Austria
+Turkey	4
+0	European Cup qualifier
+in Austria	+5
+-5	1867
+1480	0
+0	9
+72
+January 29
+1983	Turkey
+Romania	1
+1	Friendly
+in Turkey	+5
+-5	1485
+1760	0
+-1	73
+22
+March 09
+1983	Romania
+Turkey	3
+1	Friendly
+in Romania	+3
+-3	1774
+1482	0
+0	20
+73
+March 30
+1983	Northern Ireland
+Turkey	2
+1	European Cup qualifier
+in Northern Ireland	+5
+-5	1728
+1477	0
+-2	24
+75
+April 23
+1983	Turkey
+West Germany	0
+3	European Cup qualifier
+in Turkey	-7
++7	1470
+1963	0
+0	74
+4
+May 11
+1983	Albania
+Turkey	1
+1	European Cup qualifier
+in Albania	0
+0	1371
+1470	0
+-1	96
+77
+October 12
+1983	Turkey
+Northern Ireland	1
+0	European Cup qualifier
+in Turkey	+30
+-30	1500
+1726	+11
+-3	66
+26
+October 26
+1983	West Germany
+Turkey	5
+1	European Cup qualifier
+in West Germany	+3
+-3	1985
+1497	0
+0	3
+66
+November 16
+1983	Turkey
+Austria	3
+1	European Cup qualifier
+in Turkey	+47
+-47	1544
+1776	+8
+-10	58
+24
+January 20
+1984	Egypt
+Turkey	1
+0	Friendly
+in Egypt	+5
+-5	1623
+1539	0
+-1	41
+59
+January 22
+1984	Egypt
+Turkey	0
+1	Friendly
+in Egypt	-15
++15	1608
+1554	0
++3	41
+56
+March 03
+1984	Turkey
+Italy	1
+2	Friendly
+in Turkey	-5
++5	1549
+1828	-1
+0	58
+11
+March 11
+1984	Luxembourg
+Turkey	1
+3	Friendly
+in Luxembourg	-5
++5	1150
+1554	-1
++2	153
+57
+April 04
+1984	Turkey
+Hungary	0
+6	Friendly
+in Turkey	-18
++18	1536
+1731	-7
++3	61
+27
+September 26
+1984	Poland
+Turkey	2
+0	Friendly
+in Poland	+2
+-2	1889
+1534	0
+0	6
+58
+October 16
+1984	Turkey
+Bulgaria	0
+0	Friendly
+in Turkey	+2
+-2	1536
+1696	+1
+0	59
+34
+October 31
+1984	Turkey
+Finland	1
+2	World Cup qualifier
+in Turkey	-31
++31	1505
+1457	-5
++6	64
+80
+November 14
+1984	Turkey
+England	0
+8	World Cup qualifier
+in Turkey	-14
++14	1491
+1931	-4
++1	68
+3
+December 22
+1984	Turkey
+Luxembourg	1
+0	Friendly
+in Turkey	+1
+-1	1492
+1132	0
+0	70
+156
+March 28
+1985	Albania
+Turkey	0
+0	Friendly
+in Albania	-1
++1	1421
+1493	0
+0	86
+73
+April 03
+1985	Romania
+Turkey	3
+0	World Cup qualifier
+in Romania	+8
+-8	1762
+1485	+2
+-1	23
+71
+May 01
+1985	Northern Ireland
+Turkey	2
+0	World Cup qualifier
+in Northern Ireland	+6
+-6	1774
+1479	0
+-1	21
+74
+August 28
+1985	Switzerland
+Turkey	0
+0	Friendly
+in Switzerland	-7
++7	1694
+1486	-1
++1	33
+75
+September 11
+1985	Turkey
+Northern Ireland	0
+0	World Cup qualifier
+in Turkey	+10
+-10	1496
+1764	+3
+-4	71
+26
+September 25
+1985	Finland
+Turkey	1
+0	World Cup qualifier
+in Finland	+17
+-17	1473
+1479	+5
+-4	77
+75
+October 16
+1985	England
+Turkey	5
+0	World Cup qualifier
+in England	+4
+-4	1905
+1475	+1
+-1	3
+77
+November 13
+1985	Turkey
+Romania	1
+3	World Cup qualifier
+in Turkey	-16
++16	1459
+1760	-5
++3	82
+25
+December 11
+1985	Turkey
+Poland	1
+1	Friendly
+in Turkey	+6
+-6	1465
+1785	0
+-4	82
+23
+March 12
+1986	Turkey
+Switzerland	1
+0	Friendly
+in Turkey	+13
+-13	1478
+1678	+7
+0	73
+32
+October 29
+1986	Yugoslavia
+Turkey	4
+0	European Cup qualifier
+in Yugoslavia	+6
+-6	1796
+1472	+1
+-4	16
+78
+November 12
+1986	Turkey
+Northern Ireland	0
+0	European Cup qualifier
+in Turkey	+8
+-8	1480
+1717	+5
+-2	73
+30
+March 04
+1987	Turkey
+Romania	1
+3	Friendly
+in Turkey	-7
++7	1473
+1807	-4
++1	77
+14
+March 25
+1987	Turkey
+East Germany	3
+1	Friendly
+in Turkey	+23
+-23	1496
+1747	+7
+-6	70
+24
+April 29
+1987	Turkey
+England	0
+0	European Cup qualifier
+in Turkey	+16
+-16	1512
+1959	+4
+0	69
+3
+October 14
+1987	England
+Turkey	8
+0	European Cup qualifier
+in England	+4
+-4	1942
+1508	+1
+-3	1
+70
+November 11
+1987	Northern Ireland
+Turkey	1
+0	European Cup qualifier
+in Northern Ireland	+8
+-8	1670
+1500	+1
+-4	36
+74
+December 16
+1987	Turkey
+Yugoslavia	2
+3	European Cup qualifier
+in Turkey	-10
++10	1490
+1792	-1
+0	75
+20
+March 16
+1988	Hungary
+Turkey	1
+0	Friendly
+in Hungary	+2
+-2	1748
+1488	0
++1	24
+73
+September 21
+1988	Turkey
+Greece	3
+1	Friendly
+in Turkey	+19
+-19	1507
+1654	+4
+-4	68
+38
+October 12
+1988	Turkey
+Iceland	1
+1	World Cup qualifier
+in Turkey	-6
++6	1501
+1502	-2
++2	70
+69
+November 02
+1988	Austria
+Turkey	3
+2	World Cup qualifier
+in Austria	+7
+-7	1688
+1494	0
+-2	33
+71
+November 30
+1988	Turkey
+East Germany	3
+1	World Cup qualifier
+in Turkey	+43
+-43	1537
+1719	+11
+-6	59
+29
+March 29
+1989	Greece
+Turkey	0
+1	Friendly
+in Greece	-16
++16	1643
+1553	-3
++2	39
+58
+April 12
+1989	East Germany
+Turkey	0
+2	World Cup qualifier
+in East Germany	-50
++50	1673
+1603	-4
++11	33
+46
+May 10
+1989	Turkey
+Soviet Union	0
+1	World Cup qualifier
+in Turkey	-8
++8	1595
+1964	0
++1	46
+3
+September 20
+1989	Iceland
+Turkey	2
+1	World Cup qualifier
+in Iceland	+21
+-21	1500
+1574	+2
+-7	69
+51
+October 25
+1989	Turkey
+Austria	3
+0	World Cup qualifier
+in Turkey	+36
+-36	1610
+1643	+11
+-4	40
+37
+November 15
+1989	Soviet Union
+Turkey	2
+0	World Cup qualifier
+in the Soviet Union	+6
+-6	1912
+1604	0
+-3	6
+43
+April 11
+1990	Denmark
+Turkey	1
+0	Friendly
+in Denmark	+2
+-2	1856
+1602	0
+0	13
+43
+May 27
+1990	Turkey
+Ireland	0
+0	Friendly
+in Turkey	+4
+-4	1606
+1844	+2
+0	44
+15
+September 05
+1990	Hungary
+Turkey	4
+1	Friendly
+in Hungary	+9
+-9	1705
+1597	0
+-1	28
+48
+October 17
+1990	Ireland
+Turkey	5
+0	European Cup qualifier
+in Ireland	+10
+-10	1848
+1587	+2
+-2	10
+49
+November 14
+1990	Turkey
+Poland	0
+1	European Cup qualifier
+in Turkey	-18
++18	1569
+1742	-2
++2	52
+24
+February 27
+1991	Turkey
+Yugoslavia	1
+1	Friendly
+in Turkey	+7
+-7	1576
+1933	+1
+0	51
+4
+March 27
+1991	Tunisia
+Turkey	0
+0	Friendly
+in Tunisia	0
+0	1464
+1576	0
+0	74
+51
+April 17
+1991	Poland
+Turkey	3
+0	European Cup qualifier
+in Poland	+14
+-14	1736
+1562	+1
+-2	24
+53
+May 01
+1991	Turkey
+England	0
+1	European Cup qualifier
+in Turkey	-7
++7	1555
+1949	-2
+0	55
+3
+July 15
+1991	Faroe Islands
+Turkey	1
+1	Friendly
+in Faroe Islands	+6
+-6	1207
+1549	+1
+0	144
+55
+July 17
+1991	Iceland
+Turkey	5
+1	Friendly
+in Iceland	+17
+-17	1505
+1532	+3
+-4	65
+59
+August 21
+1991	Bulgaria
+Turkey	0
+0	Friendly
+in Bulgaria	-6
++6	1684
+1538	-2
++3	33
+55
+September 04
+1991	Turkey
+United States	1
+1	Friendly
+in Turkey	+1
+-1	1539
+1670	0
+0	55
+34
+October 16
+1991	England
+Turkey	1
+0	European Cup qualifier
+in England	+2
+-2	1957
+1537	0
+0	3
+55
+November 13
+1991	Turkey
+Ireland	1
+3	European Cup qualifier
+in Turkey	-13
++13	1524
+1873	-4
++1	60
+10
+February 12
+1992	Turkey
+Finland	1
+1	Friendly
+in Turkey	-2
++2	1522
+1573	-1
++1	61
+50
+March 25
+1992	Luxembourg
+Turkey	2
+3	Friendly
+in Luxembourg	-3
++3	1135
+1525	0
++1	156
+60
+April 08
+1992	Turkey
+Denmark	2
+1	Friendly
+in Turkey	+16
+-16	1541
+1827	+3
+0	57
+11
+May 30
+1992	Germany
+Turkey	1
+0	Friendly
+in Germany	+1
+-1	2036
+1540	0
+0	1
+57
+August 26
+1992	Turkey
+Bulgaria	3
+2	Friendly
+in Turkey	+13
+-13	1553
+1736	+5
+-4	56
+25
+September 23
+1992	Poland
+Turkey	1
+0	World Cup qualifier
+in Poland	+6
+-6	1745
+1547	+2
+-1	23
+59
+October 28
+1992	Turkey
+San Marino	4
+1	World Cup qualifier
+in Turkey	+2
+-2	1549
+983	+1
+-1	57
+182
+November 18
+1992	England
+Turkey	4
+0	World Cup qualifier
+in England	+5
+-5	1907
+1544	0
+-2	6
+58
+December 16
+1992	Turkey
+Netherlands	1
+3	World Cup qualifier
+in Turkey	-10
++10	1534
+1926	-1
+0	60
+5
+February 24
+1993	Netherlands
+Turkey	3
+1	World Cup qualifier
+in the Netherlands	+3
+-3	1929
+1531	0
+-1	5
+61
+March 10
+1993	San Marino
+Turkey	0
+0	World Cup qualifier
+in San Marino	+17
+-17	1000
+1514	+1
+-3	182
+66
+March 31
+1993	Turkey
+England	0
+2	World Cup qualifier
+in Turkey	-9
++9	1505
+1916	-3
+0	69
+6
+April 28
+1993	Norway
+Turkey	3
+1	World Cup qualifier
+in Norway	+8
+-8	1729
+1497	+1
+-4	26
+74
+October 27
+1993	Turkey
+Poland	2
+1	World Cup qualifier
+in Turkey	+25
+-25	1522
+1669	+11
+-2	64
+32
+November 10
+1993	Turkey
+Norway	2
+1	World Cup qualifier
+in Turkey	+31
+-31	1553
+1805	+4
+-2	60
+15
+February 23
+1994	Turkey
+Czechia	1
+4	Friendly
+in Turkey	-10
++10	1543
+1812	0
++3	60
+15
+April 20
+1994	Turkey
+Russia	0
+1	Friendly
+in Turkey	-6
++6	1537
+1806	0
++1	60
+17
+June 01
+1994	Azerbaijan
+Turkey	1
+2	Friendly
+in Azerbaijan	-8
++8	1376
+1545	0
++3	108
+59
+June 03
+1994	Azerbaijan
+Turkey	0
+0	Friendly
+in Azerbaijan	+2
+-2	1378
+1543	0
+-1	109
+60
+August 31
+1994	Macedonia
+Turkey	0
+2	Friendly
+in Macedonia	-19
++19	1521
+1562	-3
++5	64
+55
+September 07
+1994	Hungary
+Turkey	2
+2	European Cup qualifier
+in Hungary	-6
++6	1570
+1568	0
++2	52
+53
+October 12
+1994	Turkey
+Iceland	5
+0	European Cup qualifier
+in Turkey	+27
+-27	1595
+1525	+8
+-7	47
+65
+December 14
+1994	Turkey
+Switzerland	1
+2	European Cup qualifier
+in Turkey	-13
++13	1582
+1832	-5
++2	50
+18
+December 21
+1994	Italy
+Turkey	3
+1	Friendly
+in Italy	+2
+-2	1947
+1580	0
+0	4
+51
+February 15
+1995	Turkey
+Romania	1
+1	Friendly
+in Turkey	+4
+-4	1584
+1833	0
+-1	49
+18
+March 08
+1995	Turkey
+Israel	2
+1	Friendly
+in Turkey	+7
+-7	1591
+1572	+1
+-2	48
+52
+March 29
+1995	Turkey
+Sweden	2
+1	European Cup qualifier
+in Turkey	+31
+-31	1622
+1876	+7
+-2	41
+8
+April 26
+1995	Switzerland
+Turkey	1
+2	European Cup qualifier
+in Switzerland	-34
++34	1786
+1656	-2
++6	22
+34
+June 04
+1995	Canada
+Turkey	1
+3	Friendly
+in Canada	-15
++15	1545
+1671	-2
++3	56
+31
+June 07
+1995	Canada
+Turkey	0
+3	Friendly
+in Canada	-16
++16	1529
+1687	-6
++2	62
+29
+June 11
+1995	Turkey
+Honduras	1
+0	Friendly
+in Canada	+5
+-5	1692
+1499	0
+-2	29
+76
+June 17
+1995	Paraguay
+Turkey	0
+0	Copa Centenario
+in Chile	+2
+-2	1659
+1690	0
+0	33
+29
+June 20
+1995	Turkey
+New Zealand	2
+1	Copa Centenario
+in Chile	+8
+-8	1698
+1504	+1
+-2	29
+74
+June 22
+1995	Chile
+Turkey	0
+0	Copa Centenario
+in Chile	-5
++5	1714
+1703	0
+0	27
+29
+August 30
+1995	Turkey
+Macedonia	2
+1	Friendly
+in Turkey	+3
+-3	1706
+1513	0
+0	29
+71
+September 06
+1995	Turkey
+Hungary	2
+0	European Cup qualifier
+in Turkey	+12
+-12	1718
+1559	0
+-3	29
+55
+October 04
+1995	Finland
+Turkey	0
+0	Friendly
+in Finland	+3
+-3	1499
+1715	+2
+0	72
+29
+October 11
+1995	Iceland
+Turkey	0
+0	European Cup qualifier
+in Iceland	+4
+-4	1557
+1711	+4
++1	57
+28
+November 15
+1995	Sweden
+Turkey	2
+2	European Cup qualifier
+in Sweden	-11
++11	1813
+1722	-5
++1	17
+27
+February 14
+1996	Turkey
+Belarus	3
+2	Friendly
+in Turkey	+2
+-2	1724
+1437	+1
+-1	27
+92
+March 26
+1996	Czechia
+Turkey	3
+0	Friendly
+in Czechia	+7
+-7	1865
+1717	+1
+-1	9
+28
+April 09
+1996	Azerbaijan
+Turkey	0
+1	Friendly
+in Azerbaijan	-3
++3	1333
+1720	-1
++1	120
+27
+May 01
+1996	Turkey
+Ukraine	3
+2	Friendly
+in Turkey	+4
+-4	1724
+1556	0
+0	27
+58
+May 29
+1996	Estonia
+Turkey	0
+0	Friendly
+in Estonia	+9
+-9	1092
+1715	+1
+0	175
+27
+June 02
+1996	Finland
+Turkey	1
+2	Friendly
+in Finland	-6
++6	1468
+1721	-1
+-1	87
+28
+June 11
+1996	Croatia
+Turkey	1
+0	European Cup
+in England	+17
+-17	1858
+1704	+4
+-2	10
+31
+June 14
+1996	Portugal
+Turkey	1
+0	European Cup
+in England	+15
+-15	1861
+1689	+1
+-2	10
+32
+June 19
+1996	Denmark
+Turkey	3
+0	European Cup
+in England	+23
+-23	1892
+1666	+2
+0	8
+33
+August 14
+1996	Turkey
+Moldova	2
+0	Friendly
+in Turkey	+3
+-3	1669
+1392	0
+0	33
+106
+August 31
+1996	Belgium
+Turkey	2
+1	World Cup qualifier
+in Belgium	+11
+-11	1749
+1658	0
+-1	25
+34
+October 09
+1996	France
+Turkey	4
+0	Friendly
+in France	+3
+-3	1981
+1655	0
+0	3
+35
+November 10
+1996	Turkey
+San Marino	7
+0	World Cup qualifier
+in Turkey	+1
+-1	1656
+932	0
+0	35
+196
+December 14
+1996	Wales
+Turkey	0
+0	World Cup qualifier
+in Wales	0
+0	1552
+1656	0
+0	60
+37
+February 12
+1997	Turkey
+Finland	1
+1	Friendly
+in Turkey	-7
++7	1649
+1445	-1
++3	36
+90
+April 02
+1997	Turkey
+Netherlands	1
+0	World Cup qualifier
+in Turkey	+29
+-29	1678
+1890	+7
+-3	31
+9
+April 30
+1997	Turkey
+Belgium	1
+3	World Cup qualifier
+in Turkey	-35
++35	1643
+1752	-7
++2	40
+24
+June 12
+1997	Croatia
+Turkey	1
+1	Kirin Cup
+in Japan	-7
++7	1812
+1650	0
+-1	15
+39
+June 15
+1997	Japan
+Turkey	1
+0	Kirin Cup
+in Japan	+9
+-9	1713
+1641	+1
+0	28
+40
+August 20
+1997	Turkey
+Wales	6
+4	World Cup qualifier
+in Turkey	+15
+-15	1656
+1538	+3
+-2	39
+65
+September 10
+1997	San Marino
+Turkey	0
+5	World Cup qualifier
+in San Marino	-2
++2	929
+1658	-1
++1	198
+40
+October 11
+1997	Netherlands
+Turkey	0
+0	World Cup qualifier
+in the Netherlands	-16
++16	1904
+1674	-1
++5	8
+36
+January 21
+1998	Turkey
+Albania	1
+4	Friendly
+in Turkey	-32
++32	1642
+1401	-7
++11	44
+103
+February 18
+1998	Israel
+Turkey	4
+0	Friendly
+in Israel	+17
+-17	1588
+1625	0
+-3	57
+47
+April 22
+1998	Russia
+Turkey	1
+0	Friendly
+in Russia	+3
+-3	1842
+1622	-1
+-3	13
+50
+September 05
+1998	Turkey
+Northern Ireland	3
+0	European Cup qualifier
+in Turkey	+20
+-20	1642
+1548	+4
+-2	45
+61
+October 10
+1998	Turkey
+Germany	1
+0	European Cup qualifier
+in Turkey	+32
+-32	1674
+1939	+10
+-1	36
+5
+October 14
+1998	Turkey
+Finland	1
+3	European Cup qualifier
+in Turkey	-49
++49	1625
+1554	-15
++11	51
+61
+March 27
+1999	Turkey
+Moldova	2
+0	European Cup qualifier
+in Turkey	+7
+-7	1632
+1356	+2
+-2	50
+117
+June 05
+1999	Finland
+Turkey	2
+4	European Cup qualifier
+in Finland	-30
++30	1503
+1662	-12
++6	75
+44
+September 04
+1999	Northern Ireland
+Turkey	0
+3	European Cup qualifier
+in Northern Ireland	-33
++33	1508
+1695	-11
++9	73
+32
+September 08
+1999	Moldova
+Turkey	1
+1	European Cup qualifier
+in Moldova	+11
+-11	1380
+1684	+5
+-2	108
+33
+October 09
+1999	Germany
+Turkey	0
+0	European Cup qualifier
+in Germany	-13
++13	1840
+1697	0
++1	16
+32
+November 13
+1999	Ireland
+Turkey	1
+1	European Cup qualifier
+in Ireland	-8
++8	1726
+1705	-1
++1	27
+31
+November 17
+1999	Turkey
+Ireland	0
+0	European Cup qualifier
+in Turkey	-4
++4	1701
+1730	-1
++1	32
+26
+February 23
+2000	Turkey
+Norway	0
+2	Friendly
+in Turkey	-11
++11	1690
+1896	-3
+0	34
+9
+June 11
+2000	Italy
+Turkey	2
+1	European Cup
+in the Netherlands	+12
+-12	1906
+1678	+1
+-4	7
+38
+June 15
+2000	Turkey
+Sweden	0
+0	European Cup
+in the Netherlands	+12
+-12	1690
+1839	+4
+0	34
+14
+June 19
+2000	Belgium
+Turkey	0
+2	European Cup
+in Belgium	-56
++56	1722
+1746	-11
++14	29
+21
+June 24
+2000	Portugal
+Turkey	2
+0	European Cup
+in the Netherlands	+18
+-18	1968
+1728	0
+-4	6
+25
+August 16
+2000	Bosnia and Herzegovina
+Turkey	2
+0	Friendly
+in Bosnia and Herzegovina	+20
+-20	1521
+1708	+6
+-7	69
+33
+September 02
+2000	Turkey
+Moldova	2
+0	World Cup qualifier
+in Turkey	+5
+-5	1713
+1378	+2
+-2	31
+110
+October 07
+2000	Sweden
+Turkey	1
+1	World Cup qualifier
+in Sweden	-10
++10	1791
+1723	-2
++3	17
+30
+October 11
+2000	Azerbaijan
+Turkey	0
+1	World Cup qualifier
+in Azerbaijan	-4
++4	1213
+1727	-2
++1	151
+28
+November 15
+2000	Turkey
+France	0
+4	Friendly
+in Turkey	-7
++7	1720
+2075	+1
+0	28
+1
+February 28
+2001	Netherlands
+Turkey	0
+0	Friendly
+in the Netherlands	-8
++8	1956
+1728	0
+-1	6
+31
+March 24
+2001	Turkey
+Slovakia	1
+1	World Cup qualifier
+in Turkey	-6
++6	1722
+1720	0
+0	31
+32
+March 28
+2001	Macedonia
+Turkey	1
+2	World Cup qualifier
+in Macedonia	-13
++13	1480
+1735	-3
++2	78
+29
+April 25
+2001	Turkey
+Albania	0
+2	Friendly
+in Turkey	-27
++27	1708
+1476	-5
++5	34
+80
+June 02
+2001	Turkey
+Azerbaijan	3
+0	World Cup qualifier
+in Turkey	+2
+-2	1710
+1224	+2
+0	31
+151
+June 06
+2001	Turkey
+Macedonia	3
+3	World Cup qualifier
+in Turkey	-15
++15	1695
+1484	-4
++3	34
+77
+August 15
+2001	Norway
+Turkey	1
+1	Friendly
+in Norway	-3
++3	1718
+1698	0
+0	28
+33
+September 01
+2001	Slovakia
+Turkey	0
+1	World Cup qualifier
+in Slovakia	-20
++20	1576
+1718	-3
++5	58
+29
+September 05
+2001	Turkey
+Sweden	1
+2	World Cup qualifier
+in Turkey	-19
++19	1699
+1855	-5
++2	35
+10
+October 06
+2001	Moldova
+Turkey	0
+3	World Cup qualifier
+in Moldova	-15
++15	1353
+1714	-4
++2	118
+34
+November 10
+2001	Austria
+Turkey	0
+1	World Cup qualifier
+in Austria	-24
++24	1662
+1738	-2
++8	43
+25
+November 14
+2001	Turkey
+Austria	5
+0	World Cup qualifier
+in Turkey	+21
+-21	1759
+1641	+2
+-3	24
+46
+February 12
+2002	Ecuador
+Turkey	1
+0	Friendly
+in the Netherlands	+12
+-12	1693
+1747	+1
+-1	39
+27
+March 26
+2002	Turkey
+South Korea	0
+0	Friendly
+in Germany	-2
++2	1745
+1691	0
++1	27
+39
+April 17
+2002	Turkey
+Chile	2
+0	Friendly
+in the Netherlands	+8
+-8	1753
+1565	0
+-1	27
+56
+May 23
+2002	South Africa
+Turkey	2
+0	Friendly tournament
+in Hong Kong	+32
+-32	1637
+1721	+8
+-4	45
+31
+June 03
+2002	Brazil
+Turkey	2
+1	World Cup
+in South Korea	+20
+-20	1862
+1701	+3
+-2	9
+34
+June 09
+2002	Costa Rica
+Turkey	1
+1	World Cup
+in South Korea	-6
++6	1765
+1707	0
+0	25
+34
+June 13
+2002	Turkey
+China	3
+0	World Cup
+in South Korea	+41
+-41	1748
+1589	+8
+-9	27
+54
+June 18
+2002	Japan
+Turkey	0
+1	World Cup
+in Japan	-45
++45	1800
+1793	-8
++4	21
+23
+June 22
+2002	Turkey
+Senegal	1
+0	World Cup
+in Japan	+31
+-31	1824
+1772	+9
+-7	14
+26
+June 26
+2002	Brazil
+Turkey	1
+0	World Cup
+in Japan	+17
+-17	2004
+1807	0
+-3	1
+17
+June 29
+2002	South Korea
+Turkey	2
+3	World Cup
+in South Korea	-37
++37	1753
+1844	-5
++4	27
+13
+August 21
+2002	Turkey
+Georgia	3
+0	Friendly
+in Turkey	+4
+-4	1848
+1560	0
+-2	13
+61
+September 07
+2002	Turkey
+Slovakia	3
+0	European Cup qualifier
+in Turkey	+10
+-10	1858
+1620	+2
+-3	11
+49
+October 12
+2002	Macedonia
+Turkey	1
+2	European Cup qualifier
+in Macedonia	-5
++5	1416
+1863	0
++1	97
+10
+October 16
+2002	Turkey
+Liechtenstein	5
+0	European Cup qualifier
+in Turkey	0
+0	1863
+1055	+1
+0	9
+178
+November 20
+2002	Italy
+Turkey	1
+1	Friendly
+in Italy	-2
++2	1848
+1865	0
+0	11
+9
+February 12
+2003	Turkey
+Ukraine	0
+0	Friendly
+in Turkey	-7
++7	1858
+1664	-1
++2	10
+39
+April 02
+2003	England
+Turkey	2
+0	European Cup qualifier
+in England	+19
+-19	1914
+1839	+2
+0	6
+12
+April 30
+2003	Czechia
+Turkey	4
+0	Friendly
+in Czechia	+12
+-12	1889
+1827	+1
+-2	8
+14
+June 07
+2003	Slovakia
+Turkey	0
+1	European Cup qualifier
+in Slovakia	-15
++15	1625
+1842	-2
++2	47
+12
+June 11
+2003	Turkey
+Macedonia	3
+2	European Cup qualifier
+in Turkey	+2
+-2	1844
+1410	0
+-1	12
+99
+June 19
+2003	Turkey
+United States	2
+1	Confederations Cup
+in France	+23
+-23	1867
+1788	+1
+-2	11
+20
+June 21
+2003	Cameroon
+Turkey	1
+0	Confederations Cup
+in France	+30
+-30	1826
+1837	+4
+-2	15
+13
+June 23
+2003	Turkey
+Brazil	2
+2	Confederations Cup
+in France	+10
+-10	1847
+1981	+1
+0	13
+3
+June 26
+2003	France
+Turkey	3
+2	Confederations Cup
+in France	+11
+-11	1971
+1836	0
+-1	4
+14
+June 28
+2003	Turkey
+Colombia	2
+1	Confederations Cup
+in France	+24
+-24	1860
+1801	+2
+-4	12
+19
+August 20
+2003	Turkey
+Moldova	2
+0	Friendly
+in Turkey	+1
+-1	1861
+1349	+2
+0	11
+121
+September 06
+2003	Liechtenstein
+Turkey	0
+3	European Cup qualifier
+in Liechtenstein	-1
++1	1060
+1862	-1
++1	178
+10
+September 09
+2003	Ireland
+Turkey	2
+2	Friendly
+in Ireland	-2
++2	1835
+1864	0
+0	15
+10
+October 11
+2003	Turkey
+England	0
+0	European Cup qualifier
+in Turkey	-2
++2	1862
+1939	-1
+-1	11
+7
+November 15
+2003	Latvia
+Turkey	1
+0	European Cup qualifier
+in Latvia	+34
+-34	1509
+1828	+8
+-2	73
+13
+November 19
+2003	Turkey
+Latvia	2
+2	European Cup qualifier
+in Turkey	-17
++17	1811
+1526	-2
++4	15
+71
+February 18
+2004	Turkey
+Denmark	0
+1	Friendly
+in Turkey	-12
++12	1799
+1865	-2
+0	17
+10
+March 31
+2004	Croatia
+Turkey	2
+2	Friendly
+in Croatia	-3
++3	1787
+1802	0
+0	18
+16
+April 28
+2004	Belgium
+Turkey	2
+3	Friendly
+in Belgium	-12
++12	1745
+1814	-4
++1	27
+15
+May 21
+2004	Australia
+Turkey	1
+3	Friendly
+in Australia	-20
++20	1803
+1834	-4
++3	17
+12
+May 24
+2004	Australia
+Turkey	0
+1	Friendly
+in Australia	-12
++12	1791
+1846	0
+0	17
+12
+June 02
+2004	South Korea
+Turkey	0
+1	Friendly
+in South Korea	-8
++8	1660
+1854	-3
++1	44
+11
+June 05
+2004	South Korea
+Turkey	2
+1	Friendly
+in South Korea	+13
+-13	1673
+1841	+3
+0	41
+11
+August 18
+2004	Turkey
+Belarus	1
+2	Friendly
+in Turkey	-18
++18	1823
+1539	-3
++4	15
+71
+September 04
+2004	Turkey
+Georgia	1
+1	World Cup qualifier
+in Turkey	-18
++18	1805
+1462	-4
++4	19
+89
+September 08
+2004	Greece
+Turkey	0
+0	World Cup qualifier
+in Greece	-8
++8	1854
+1813	0
++4	10
+16
+October 09
+2004	Turkey
+Kazakhstan	4
+0	World Cup qualifier
+in Turkey	+3
+-3	1816
+1343	-1
+0	17
+120
+October 13
+2004	Denmark
+Turkey	1
+1	World Cup qualifier
+in Denmark	-7
++7	1839
+1823	-3
+0	14
+17
+November 17
+2004	Turkey
+Ukraine	0
+3	World Cup qualifier
+in Turkey	-58
++58	1765
+1706	-9
++10	26
+31
+March 26
+2005	Turkey
+Albania	2
+0	World Cup qualifier
+in Turkey	+6
+-6	1771
+1473	+3
+-1	22
+84
+March 30
+2005	Georgia
+Turkey	2
+5	World Cup qualifier
+in Georgia	-18
++18	1466
+1789	-1
+0	84
+22
+June 04
+2005	Turkey
+Greece	0
+0	World Cup qualifier
+in Turkey	-1
++1	1788
+1877	0
+-1	21
+11
+June 08
+2005	Kazakhstan
+Turkey	0
+6	World Cup qualifier
+in Kazakhstan	-9
++9	1308
+1797	-3
+-1	130
+21
+August 17
+2005	Bulgaria
+Turkey	3
+1	Friendly
+in Bulgaria	+18
+-18	1656
+1779	+5
+-5	47
+23
+September 03
+2005	Turkey
+Denmark	2
+2	World Cup qualifier
+in Turkey	-3
++3	1776
+1834	-1
+0	24
+15
+September 07
+2005	Ukraine
+Turkey	0
+1	World Cup qualifier
+in Ukraine	-25
++25	1746
+1801	-3
++5	28
+19
+October 08
+2005	Turkey
+Germany	2
+1	Friendly
+in Turkey	+9
+-9	1810
+1860	+1
+0	18
+11
+October 12
+2005	Albania
+Turkey	0
+1	World Cup qualifier
+in Albania	-9
++9	1494
+1819	0
++1	82
+17
+November 12
+2005	Switzerland
+Turkey	2
+0	World Cup qualifier
+in Switzerland	+28
+-28	1768
+1791	+6
+-5	24
+22
+November 16
+2005	Turkey
+Switzerland	4
+2	World Cup qualifier
+in Turkey	+20
+-20	1811
+1748	+5
+-3	17
+28
+March 01
+2006	Turkey
+Czechia	2
+2	Friendly
+in Turkey	+1
+-1	1812
+1930	0
+0	16
+5
+April 12
+2006	Azerbaijan
+Turkey	1
+1	Friendly
+in Azerbaijan	+8
+-8	1328
+1804	0
+-3	124
+20
+May 24
+2006	Belgium
+Turkey	3
+3	Friendly
+in Belgium	+1
+-1	1683
+1803	-1
++1	42
+19
+May 26
+2006	Ghana
+Turkey	1
+1	Friendly
+in Germany	+6
+-6	1571
+1797	+2
+0	61
+19
+May 28
+2006	Estonia
+Turkey	1
+1	Friendly
+in Germany	+8
+-8	1400
+1789	0
+-2	100
+21
+May 31
+2006	Turkey
+Saudi Arabia	1
+0	Friendly
+in Germany	+5
+-5	1794
+1595	0
+-1	20
+55
+June 02
+2006	Turkey
+Angola	3
+2	Friendly
+in the Netherlands	+4
+-4	1798
+1568	+1
+-2	19
+63
+June 04
+2006	Macedonia
+Turkey	1
+0	Friendly
+in Germany	+18
+-18	1477
+1780	+8
+-3	83
+22
+August 16
+2006	Luxembourg
+Turkey	0
+1	Friendly
+in Luxembourg	0
+0	946
+1780	+1
++1	190
+19
+September 06
+2006	Turkey
+Malta	2
+0	European Cup qualifier
+in Germany	+2
+-2	1782
+1203	+1
+-1	18
+156
+October 07
+2006	Hungary
+Turkey	0
+1	European Cup qualifier
+in Hungary	-15
++15	1581
+1797	-2
++1	58
+17
+October 11
+2006	Turkey
+Moldova	5
+0	European Cup qualifier
+in Germany	+7
+-7	1804
+1380	-1
+0	18
+103
+November 15
+2006	Italy
+Turkey	1
+1	Friendly
+in Italy	-7
++7	1993
+1811	0
++2	3
+16
+February 07
+2007	Georgia
+Turkey	1
+0	Friendly
+in Georgia	+16
+-16	1510
+1795	+2
+-1	79
+17
+March 24
+2007	Greece
+Turkey	1
+4	European Cup qualifier
+in Greece	-45
++45	1750
+1840	-11
++3	28
+14
+March 28
+2007	Norway
+Turkey	2
+2	European Cup qualifier
+in Germany	+8
+-8	1708
+1832	+4
+0	37
+14
+June 02
+2007	Bosnia and Herzegovina
+Turkey	3
+2	European Cup qualifier
+in Bosnia and Herzegovina	+29
+-29	1601
+1803	+9
+-2	53
+16
+June 05
+2007	Brazil
+Turkey	0
+0	Friendly
+in Germany	-6
++6	2036
+1809	0
++1	1
+15
+August 22
+2007	Romania
+Turkey	2
+0	Friendly
+in Romania	+9
+-9	1873
+1800	0
+-2	12
+17
+September 08
+2007	Malta
+Turkey	2
+2	European Cup qualifier
+in Malta	+17
+-17	1247
+1783	+4
+-1	145
+18
+September 12
+2007	Turkey
+Hungary	3
+0	European Cup qualifier
+in Turkey	+11
+-11	1794
+1572	0
+-1	18
+59
+October 13
+2007	Moldova
+Turkey	1
+1	European Cup qualifier
+in Moldova	+14
+-14	1410
+1780	0
+-1	104
+19
+October 17
+2007	Turkey
+Greece	0
+1	European Cup qualifier
+in Turkey	-26
++26	1754
+1794	-5
++5	25
+16
+November 17
+2007	Norway
+Turkey	1
+2	European Cup qualifier
+in Norway	-26
++26	1737
+1780	-6
++7	31
+19
+November 21
+2007	Turkey
+Bosnia and Herzegovina	1
+0	European Cup qualifier
+in Turkey	+4
+-4	1784
+1515	+1
+0	17
+76
+February 06
+2008	Turkey
+Sweden	0
+0	Friendly
+in Turkey	-3
++3	1781
+1771	-2
+-1	21
+24
+March 26
+2008	Belarus
+Turkey	2
+2	Friendly
+in Belarus	+4
+-4	1535
+1777	+1
+0	71
+21
+May 20
+2008	Turkey
+Slovakia	1
+0	Friendly
+in Germany	+5
+-5	1782
+1599	+2
+-2	19
+55
+May 25
+2008	Uruguay
+Turkey	3
+2	Friendly
+in Germany	+10
+-10	1784
+1772	+5
+-4	17
+22
+May 29
+2008	Turkey
+Finland	2
+0	Friendly
+in Germany	+10
+-10	1782
+1635	+3
+-1	19
+46
+June 07
+2008	Portugal
+Turkey	2
+0	European Cup
+in Switzerland	+32
+-32	1867
+1750	+2
+-7	11
+27
+June 11
+2008	Switzerland
+Turkey	1
+2	European Cup
+in Switzerland	-32
++32	1711
+1782	-9
++4	37
+21
+June 15
+2008	Turkey
+Czechia	3
+2	European Cup
+in Switzerland	+31
+-31	1813
+1839	+3
+-1	15
+13
+June 20
+2008	Turkey
+Croatia	1
+1	European Cup
+in Austria	+6
+-6	1819
+1897	+1
+0	14
+7
+June 25
+2008	Germany
+Turkey	3
+2	European Cup
+in Switzerland	+16
+-16	1965
+1803	0
+0	6
+15
+August 20
+2008	Turkey
+Chile	1
+0	Friendly
+in Turkey	+6
+-6	1809
+1753	0
+0	15
+25
+September 06
+2008	Armenia
+Turkey	0
+2	World Cup qualifier
+in Armenia	-10
++10	1410
+1819	-3
+0	103
+15
+September 10
+2008	Turkey
+Belgium	1
+1	World Cup qualifier
+in Turkey	-15
++15	1804
+1611	-2
++4	17
+51
+October 11
+2008	Turkey
+Bosnia and Herzegovina	2
+1	World Cup qualifier
+in Turkey	+4
+-4	1808
+1517	0
+-2	17
+81
+October 15
+2008	Estonia
+Turkey	0
+0	World Cup qualifier
+in Estonia	+15
+-15	1369
+1793	+2
+-2	117
+18
+November 19
+2008	Austria
+Turkey	2
+4	Friendly
+in Austria	-9
++9	1539
+1802	-2
++2	67
+16
+February 11
+2009	Turkey
+Ivory Coast	1
+1	Friendly
+in Turkey	-5
++5	1797
+1719	0
+0	15
+38
+March 28
+2009	Spain
+Turkey	1
+0	World Cup qualifier
+in Spain	+4
+-4	2082
+1793	0
+-1	1
+16
+April 01
+2009	Turkey
+Spain	1
+2	World Cup qualifier
+in Turkey	-10
++10	1783
+2092	0
+0	17
+1
+June 02
+2009	Turkey
+Azerbaijan	2
+0	Friendly
+in Turkey	+1
+-1	1784
+1346	0
+0	16
+124
+June 05
+2009	France
+Turkey	1
+0	Friendly
+in France	+6
+-6	1855
+1778	0
+-1	10
+17
+August 12
+2009	Ukraine
+Turkey	0
+3	Friendly
+in Ukraine	-22
++22	1758
+1800	-6
++5	24
+14
+September 05
+2009	Turkey
+Estonia	4
+2	World Cup qualifier
+in Turkey	+3
+-3	1803
+1393	+1
+-1	13
+108
+September 09
+2009	Bosnia and Herzegovina
+Turkey	1
+1	World Cup qualifier
+in Bosnia and Herzegovina	+5
+-5	1626
+1798	0
+-1	50
+14
+October 10
+2009	Belgium
+Turkey	2
+0	World Cup qualifier
+in Belgium	+44
+-44	1569
+1754	+14
+-10	59
+24
+October 14
+2009	Turkey
+Armenia	2
+0	World Cup qualifier
+in Turkey	+3
+-3	1757
+1351	+1
+-2	23
+123
+March 03
+2010	Turkey
+Honduras	2
+0	Friendly
+in Turkey	+11
+-11	1768
+1740	+4
+-1	17
+25
+May 22
+2010	Turkey
+Czechia	2
+1	Friendly
+in the United States	+8
+-8	1776
+1701	0
+-2	17
+37
+May 26
+2010	Turkey
+Northern Ireland	2
+0	Friendly
+in the United States	+6
+-6	1782
+1530	0
+-2	17
+79
+May 29
+2010	United States
+Turkey	2
+1	Friendly
+in the United States	+8
+-8	1749
+1774	+2
+0	23
+17
+August 11
+2010	Turkey
+Romania	2
+0	Friendly
+in Turkey	+9
+-9	1783
+1711	+1
+0	16
+32
+September 03
+2010	Kazakhstan
+Turkey	0
+3	European Cup qualifier
+in Kazakhstan	-8
++8	1321
+1791	-1
++1	128
+15
+September 07
+2010	Turkey
+Belgium	3
+2	European Cup qualifier
+in Turkey	+5
+-5	1796
+1552	+1
+-3	14
+71
+October 08
+2010	Germany
+Turkey	3
+0	European Cup qualifier
+in Germany	+9
+-9	2045
+1787	0
+-2	4
+16
+October 12
+2010	Azerbaijan
+Turkey	1
+0	European Cup qualifier
+in Azerbaijan	+34
+-34	1436
+1753	+7
+-8	101
+23
+November 17
+2010	Netherlands
+Turkey	1
+0	Friendly
+in the Netherlands	+2
+-2	2079
+1751	+1
+0	2
+23
+February 09
+2011	Turkey
+South Korea	0
+0	Friendly
+in Turkey	-2
++2	1749
+1781	0
++1	24
+18
+March 29
+2011	Turkey
+Austria	2
+0	European Cup qualifier
+in Turkey	+9
+-9	1758
+1530	+2
+-3	23
+72
+June 03
+2011	Belgium
+Turkey	1
+1	European Cup qualifier
+in Belgium	+1
+-1	1637
+1757	0
+-1	47
+24
+August 10
+2011	Turkey
+Estonia	3
+0	Friendly
+in Turkey	+3
+-3	1760
+1428	0
+0	23
+99
+September 02
+2011	Turkey
+Kazakhstan	2
+1	European Cup qualifier
+in Turkey	+2
+-2	1762
+1323	+1
+-1	22
+129
+September 06
+2011	Austria
+Turkey	0
+0	European Cup qualifier
+in Austria	+8
+-8	1531
+1754	+3
+-1	72
+23
+October 07
+2011	Turkey
+Germany	1
+3	European Cup qualifier
+in Turkey	-16
++16	1738
+2047	-5
+0	28
+3
+October 11
+2011	Turkey
+Azerbaijan	1
+0	European Cup qualifier
+in Turkey	+3
+-3	1741
+1365	-1
+-1	29
+116
+November 11
+2011	Turkey
+Croatia	0
+3	European Cup qualifier
+in Turkey	-35
++35	1706
+1879	-7
++5	36
+7
+November 15
+2011	Croatia
+Turkey	0
+0	European Cup qualifier
+in Croatia	-13
++13	1866
+1719	-2
++2	9
+33
+February 29
+2012	Turkey
+Slovakia	1
+2	Friendly
+in Turkey	-16
++16	1703
+1569	-2
++6	34
+64
+May 24
+2012	Turkey
+Georgia	3
+1	Friendly
+in Austria	+6
+-6	1709
+1463	0
+0	34
+92
+May 26
+2012	Finland
+Turkey	3
+2	Friendly
+in Austria	+14
+-14	1586
+1695	+3
+-1	59
+35
+May 29
+2012	Turkey
+Bulgaria	2
+0	Friendly
+in Austria	+12
+-12	1707
+1606	+2
+-1	33
+55
+June 02
+2012	Portugal
+Turkey	1
+3	Friendly
+in Portugal	-24
++24	1838
+1731	-3
++2	12
+31
+June 05
+2012	Turkey
+Ukraine	2
+0	Friendly
+in Germany	+16
+-16	1747
+1730	+3
+-3	28
+31
+August 15
+2012	Austria
+Turkey	2
+0	Friendly
+in Austria	+18
+-18	1596
+1729	+4
+-3	59
+28
+September 07
+2012	Netherlands
+Turkey	2
+0	World Cup qualifier
+in the Netherlands	+10
+-10	1928
+1719	+2
++1	6
+27
+September 11
+2012	Turkey
+Estonia	3
+0	World Cup qualifier
+in Turkey	+9
+-9	1728
+1477	0
+-2	27
+89
+October 12
+2012	Turkey
+Romania	0
+1	World Cup qualifier
+in Turkey	-26
++26	1702
+1743	-8
++3	35
+26
+October 16
+2012	Hungary
+Turkey	3
+1	World Cup qualifier
+in Hungary	+25
+-25	1680
+1677	+6
+-3	37
+38
+November 14
+2012	Turkey
+Denmark	1
+1	Friendly
+in Turkey	-1
++1	1676
+1747	+2
+-1	37
+26
+February 06
+2013	Turkey
+Czechia	0
+2	Friendly
+in Turkey	-16
++16	1660
+1763	-4
++4	44
+22
+March 22
+2013	Andorra
+Turkey	0
+2	World Cup qualifier
+in Andorra	-2
++2	968
+1662	0
++3	191
+40
+March 26
+2013	Turkey
+Hungary	1
+1	World Cup qualifier
+in Turkey	-6
++6	1656
+1663	-4
++1	44
+41
+May 28
+2013	Latvia
+Turkey	3
+3	Friendly
+in Germany	+5
+-5	1466
+1651	+1
+0	93
+44
+May 31
+2013	Slovenia
+Turkey	2
+0	Friendly
+in Germany	+20
+-20	1547
+1631	+7
+-4	68
+49
+August 14
+2013	Turkey
+Ghana	2
+2	Friendly
+in Turkey	-1
++1	1630
+1702	0
++1	48
+32
+September 06
+2013	Turkey
+Andorra	5
+0	World Cup qualifier
+in Turkey	+1
+-1	1631
+974	-1
+0	49
+190
+September 10
+2013	Romania
+Turkey	0
+2	World Cup qualifier
+in Romania	-45
++45	1684
+1676	-11
++7	39
+41
+October 11
+2013	Estonia
+Turkey	0
+2	World Cup qualifier
+in Estonia	-20
++20	1433
+1696	-4
++6	99
+35
+October 15
+2013	Turkey
+Netherlands	0
+2	World Cup qualifier
+in Turkey	-16
++16	1680
+1990	-5
+0	40
+5
+November 15
+2013	Turkey
+Northern Ireland	1
+0	Friendly
+in Turkey	+2
+-2	1682
+1383	+2
+-1	38
+112
+November 19
+2013	Turkey
+Belarus	2
+1	Friendly
+in Turkey	+4
+-4	1686
+1562	+1
+-2	37
+66
+March 05
+2014	Turkey
+Sweden	2
+1	Friendly
+in Turkey	+11
+-11	1697
+1795	+3
+0	34
+19

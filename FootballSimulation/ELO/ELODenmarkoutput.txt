@@ -1,0 +1,785 @@
+1908 301 home Denmark France 17 1 Olympic Games
+1908 303 away Denmark GreatBritain 2 0 Olympic Games
+1912 185 home Denmark Norway 7 0 Olympic Games
+1912 188 home Denmark Holland 4 1 Olympic Games
+1912 190 away Denmark GreatBritain 4 2 Olympic Games
+1912 285 home Denmark Germany 3 1 Friendly
+1913 149 home Denmark Sweden 8 0 Friendly
+1913 284 away Denmark Sweden 0 10 Friendly
+1913 305 away Denmark Germany 1 4 Friendly
+1914 141 home Denmark Holland 4 3 Friendly
+1915 161 home Denmark Sweden 2 0 Friendly
+1915 267 home Denmark Norway 8 1 Friendly
+1915 310 away Denmark Sweden 0 2 Friendly
+1916 159 home Denmark Sweden 2 0 Friendly
+1916 180 away Denmark Norway 0 2 Friendly
+1916 287 away Denmark Sweden 4 0 Friendly
+1916 294 home Denmark Norway 8 0 Friendly
+1917 158 home Denmark Sweden 1 1 Friendly
+1917 172 away Denmark Norway 1 2 Friendly
+1917 286 home Denmark Norway 12 0 Friendly
+1917 293 away Denmark Sweden 1 2 Friendly
+1918 157 home Denmark Sweden 3 0 Friendly
+1918 171 away Denmark Norway 3 1 Friendly
+1918 285 home Denmark Norway 4 0 Friendly
+1918 299 away Denmark Sweden 1 2 Friendly
+1919 160 home Denmark Sweden 3 0 Friendly
+1919 167 home Denmark Norway 5 1 Friendly
+1919 269 away Denmark Norway 3 2 Friendly
+1919 291 away Denmark Sweden 3 0 Friendly
+1920 98 away Denmark Holland 2 0 Friendly
+1920 168 away Denmark Norway 1 1 Friendly
+1920 245 away Denmark Spain 1 0 Olympic Games
+1920 289 away Denmark Sweden 0 2 Friendly
+1921 167 home Denmark Holland 1 1 Friendly
+1921 281 home Denmark Norway 3 1 Friendly
+1921 288 away Denmark Sweden 0 0 Friendly
+1922 108 away Denmark Belgium 0 0 Friendly
+1922 110 away Denmark Holland 2 0 Friendly
+1922 166 away Denmark Czechoslovakia 3 0 Friendly
+1922 258 away Denmark Norway 3 3 Friendly
+1922 280 home Denmark Sweden 1 2 Friendly
+1923 130 away Denmark Czechoslovakia 2 0 Friendly
+1923 172 home Denmark Switzerland 3 2 Friendly
+1923 278 home Denmark Norway 2 1 Friendly
+1923 293 away Denmark Sweden 1 3 Friendly
+1924 114 away Denmark Switzerland 2 0 Friendly
+1924 170 home Denmark Sweden 2 3 Friendly
+1924 262 away Denmark Norway 1 3 Friendly
+1924 284 home Denmark Belgium 2 1 Friendly
+1925 169 away Denmark Sweden 0 2 Friendly
+1925 176 home Denmark Norway 5 1 Friendly
+1925 275 home Denmark Finland 3 3 Friendly
+1925 304 away Denmark Holland 4 2 Friendly
+1926 168 home Denmark Holland 4 1 Friendly
+1926 175 away Denmark Finland 3 2 Friendly
+1926 267 away Denmark Norway 2 2 Friendly
+1926 282 home Denmark Sweden 2 0 Friendly
+1927 153 away Denmark Norway 0 1 Friendly
+1927 167 home Denmark Holland 1 1 Friendly
+1927 174 away Denmark Sweden 0 0 Friendly
+1927 281 home Denmark Germany 3 1 Friendly
+1927 309 home Denmark Norway 3 1 Friendly
+1928 115 away Denmark Holland 2 0 Friendly
+1928 172 away Denmark Norway 2 3 Friendly
+1928 264 away Denmark Germany 2 1 Friendly
+1928 286 home Denmark Sweden 3 1 Friendly
+1929 171 away Denmark Sweden 3 2 Friendly
+1929 178 home Denmark Norway 2 5 Friendly
+1929 292 home Denmark Finland 8 0 Friendly
+1930 171 away Denmark Finland 1 6 Friendly
+1930 177 home Denmark Sweden 6 1 Friendly
+1930 255 home Denmark Germany 6 3 Friendly
+1930 269 away Denmark Norway 1 0 Friendly
+1931 149 home Denmark Norway 3 1 Friendly
+1931 169 home Denmark Holland 0 2 Friendly
+1931 183 away Denmark Sweden 3 1 Friendly
+1931 275 away Denmark Germany 4 2 Friendly
+1931 290 home Denmark Finland 2 3 Friendly
+1932 160 home Denmark Belgium 3 4 Friendly
+1932 174 home Denmark Sweden 3 1 Friendly
+1932 247 away Denmark Finland 4 2 Friendly
+1932 273 away Denmark Norway 1 2 Friendly
+1933 166 home Denmark Norway 2 2 Friendly
+1933 173 away Denmark Sweden 2 3 Friendly
+1933 287 home Denmark Finland 2 0 Friendly
+1933 336 away Denmark Belgium 2 2 Friendly
+1934 145 home Denmark Poland 4 2 Friendly
+1934 172 home Denmark Sweden 3 5 Friendly
+1934 189 away Denmark Finland 2 1 Friendly
+1934 271 away Denmark Norway 3 1 Friendly
+1934 286 home Denmark Germany 2 5 Friendly
+1935 171 away Denmark Sweden 3 1 Friendly
+1935 178 home Denmark Norway 1 0 Friendly
+1935 285 home Denmark Finland 5 1 Friendly
+1935 313 away Denmark Holland 3 0 Friendly
+1936 169 home Denmark Sweden 4 3 Friendly
+1936 185 away Denmark Finland 1 4 Friendly
+1936 278 away Denmark Norway 3 3 Friendly
+1936 283 home Denmark Poland 2 1 Friendly
+1937 140 away Denmark Germany 8 0 Friendly
+1937 168 home Denmark Norway 5 1 Friendly
+1937 260 away Denmark Poland 3 1 Friendly
+1937 282 away Denmark Sweden 1 2 Friendly
+1937 296 home Denmark Finland 2 1 Friendly
+1938 176 home Denmark Sweden 0 1 Friendly
+1938 248 away Denmark Finland 2 1 Friendly
+1938 266 away Denmark Norway 1 1 Friendly
+1938 302 home Denmark Holland 2 2 Friendly
+1939 170 home Denmark Finland 5 0 Friendly
+1939 173 home Denmark Norway 6 3 Friendly
+1939 180 home Denmark Germany 0 2 Friendly
+1939 265 home Denmark Finland 8 1 Friendly
+1939 280 away Denmark Sweden 4 1 Friendly
+1939 301 home Denmark Norway 4 1 Friendly
+1940 285 away Denmark Sweden 1 1 Friendly
+1940 299 home Denmark Sweden 3 3 Friendly
+1940 327 away Denmark Germany 1 0 Friendly
+1941 262 away Denmark Sweden 2 2 Friendly
+1941 298 home Denmark Sweden 2 1 Friendly
+1941 326 away Denmark Germany 1 1 Friendly
+1942 183 home Denmark Sweden 0 3 Friendly
+1942 283 away Denmark Sweden 2 1 Friendly
+1943 175 home Denmark Sweden 3 2 Friendly
+1945 179 away Denmark Sweden 2 1 Friendly
+1945 187 home Denmark Sweden 3 4 Friendly
+1945 243 home Denmark Norway 4 2 Friendly
+1945 257 away Denmark Norway 1 5 Friendly
+1945 278 away Denmark Sweden 4 1 Friendly
+1946 171 away Denmark Norway 2 1 Friendly
+1946 179 home Denmark Sweden 3 1 Friendly
+1946 194 home Denmark Norway 2 0 Friendly
+1946 203 away Denmark Iceland 0 3 Friendly
+1946 249 away Denmark Finland 2 5 Friendly
+1946 285 away Denmark Sweden 3 3 Friendly
+1946 299 home Denmark Norway 7 1 Friendly
+1947 170 home Denmark Sweden 1 4 Friendly
+1947 175 home Denmark Czechoslovakia 2 2 Friendly
+1947 181 away Denmark Sweden 6 1 Friendly
+1947 269 away Denmark Norway 3 5 Friendly
+1947 284 home Denmark Finland 4 1 Friendly
+1948 167 home Denmark Norway 1 2 Friendly
+1948 170 away Denmark Finland 0 3 Friendly
+1948 181 home Denmark Poland 8 0 Friendly
+1948 217 home Denmark Egypt 3 1 Olympic Games
+1948 227 away Denmark Sweden 4 2 Olympic Games
+1948 274 home Denmark England 0 0 Friendly
+1948 289 away Denmark Sweden 1 0 Friendly
+1949 167 home Denmark Holland 1 2 Friendly
+1949 174 away Denmark Poland 1 2 Friendly
+1949 224 home Denmark Iceland 5 1 Friendly
+1949 259 home Denmark Finland 0 2 Friendly
+1949 259 away Denmark Norway 0 2 Friendly
+1949 302 home Denmark Sweden 3 2 Friendly
+1949 352 away Denmark Holland 0 1 Friendly
+1950 152 away Denmark Yugoslavia 5 1 Friendly
+1950 177 home Denmark Norway 4 0 Friendly
+1950 244 away Denmark Finland 1 2 Friendly
+1950 258 home Denmark Yugoslavia 1 4 Friendly
+1950 294 away Denmark Sweden 4 0 Friendly
+1950 315 away Denmark Austria 5 1 Friendly
+1951 136 away Denmark Scotland 3 1 Friendly
+1951 172 home Denmark Austria 3 3 Friendly
+1951 264 away Denmark Norway 2 0 Friendly
+1951 278 home Denmark Finland 1 0 Friendly
+1951 300 home Denmark Sweden 3 1 Friendly
+1952 149 home Denmark Scotland 1 2 Friendly
+1952 166 away Denmark Sweden 2 0 Friendly
+1952 177 away Denmark Sweden 4 3 Friendly
+1952 201 home Denmark Greece 2 1 Olympic Games
+1952 207 home Denmark Poland 2 0 Olympic Games
+1952 211 away Denmark Yugoslavia 5 3 Olympic Games
+1952 269 home Denmark Holland 3 2 Friendly
+1952 284 away Denmark Finland 2 1 Friendly
+1952 298 home Denmark Norway 1 3 Friendly
+1953 69 away Denmark Holland 1 2 Friendly
+1953 176 home Denmark Sweden 1 3 Friendly
+1953 182 away Denmark Switzerland 1 4 Friendly
+1953 226 home Denmark Iceland 4 0 Friendly
+1953 261 away Denmark Norway 0 1 Friendly
+1953 283 home Denmark Finland 6 1 Friendly
+1954 159 away Denmark Norway 2 1 Friendly
+1954 168 away Denmark Finland 2 2 Friendly
+1954 267 home Denmark Switzerland 1 1 Friendly
+1954 289 away Denmark Sweden 5 2 Friendly
+1954 310 home Denmark Norway 0 1 Friendly
+1955 75 away Denmark Holland 1 1 Friendly
+1955 139 home Denmark Hungary 0 6 Friendly
+1955 174 home Denmark Finland 2 1 Friendly
+1955 189 away Denmark Iceland 0 4 Friendly
+1955 259 away Denmark Norway 1 1 Friendly
+1955 281 home Denmark England 1 5 Friendly
+1955 295 home Denmark Sweden 3 3 Friendly
+1956 147 away Denmark SovietUnion 5 1 Friendly
+1956 179 home Denmark Norway 2 3 Friendly
+1956 187 home Denmark SovietUnion 2 5 Friendly
+1956 264 away Denmark Finland 0 4 Friendly
+1956 282 away Denmark Ireland 2 1 World Cup qualifier
+1956 300 away Denmark Sweden 1 1 Friendly
+1956 314 home Denmark Holland 2 2 Friendly
+1956 346 away Denmark England 5 2 World Cup qualifier
+1957 139 home Denmark England 1 4 World Cup qualifier
+1957 150 home Denmark Bulgaria 1 1 Friendly
+1957 173 away Denmark Finland 2 0 Friendly
+1957 174 away Denmark Norway 0 2 Friendly
+1957 185 home Denmark Sweden 1 2 Friendly
+1957 196 away Denmark Iceland 2 6 Friendly
+1957 270 away Denmark Norway 2 2 Friendly
+1957 281 home Denmark Ireland 0 2 World Cup qualifier
+1957 292 home Denmark Finland 3 0 Friendly
+1958 139 home Denmark Curacao 3 2 Friendly
+1958 149 home Denmark Poland 3 2 Friendly
+1958 184 home Denmark Norway 1 2 Friendly
+1958 262 away Denmark Finland 1 4 Friendly
+1958 272 home Denmark Germany 1 1 Friendly
+1958 294 away Denmark Holland 5 1 Friendly
+1958 305 away Denmark Sweden 4 4 Friendly
+1959 176 home Denmark Sweden 0 6 Friendly
+1959 181 away Denmark Iceland 2 4 Olympic Games qualifier
+1959 188 home Denmark Norway 2 1 Olympic Games qualifier
+1959 235 home Denmark Iceland 1 1 Olympic Games qualifier
+1959 261 away Denmark Norway 2 4 Olympic Games qualifier
+1959 271 home Denmark Czechoslovakia 2 2 European Cup qualifier
+1959 283 home Denmark Finland 4 0 Friendly
+1959 297 away Denmark Czechoslovakia 5 1 European Cup qualifier
+1959 343 away Denmark Greece 1 3 Friendly
+1959 347 away Denmark Bulgaria 2 1 Friendly
+1960 150 home Denmark Norway 3 0 Friendly
+1960 189 home Denmark Greece 7 2 Friendly
+1960 213 home Denmark Hungary 1 0 Friendly
+1960 227 home Denmark Finland 2 1 Friendly
+1960 246 home Denmark Poland 2 1 Olympic Games
+1960 249 home Denmark Tunisia 3 1 Olympic Games
+1960 258 away Denmark Yugoslavia 3 1 Olympic Games
+1960 302 away Denmark Sweden 2 0 Friendly
+1961 152 home Denmark EastGermany 1 1 Friendly
+1961 173 home Denmark Sweden 1 2 Friendly
+1961 265 away Denmark Norway 0 4 Friendly
+1961 268 away Denmark Germany 5 1 Friendly
+1961 294 home Denmark Finland 9 1 Friendly
+1961 315 away Denmark Poland 5 0 Friendly
+1962 147 away Denmark EastGermany 4 1 Friendly
+1962 166 home Denmark Norway 6 1 Friendly
+1962 183 home Denmark Malta 6 1 European Cup qualifier
+1962 259 home Denmark NetherlandsAntilles 3 1 Friendly
+1962 264 away Denmark Finland 1 6 Friendly
+1962 274 home Denmark Holland 4 1 Friendly
+1962 307 away Denmark Sweden 4 2 Friendly
+1962 349 away Denmark Malta 1 3 European Cup qualifier
+1962 353 away Denmark Turkey 1 1 Friendly
+1963 143 away Denmark Hungary 6 0 Friendly
+1963 158 home Denmark Finland 1 1 Friendly
+1963 178 home Denmark Romania 2 3 Olympic Games qualifier
+1963 184 home Denmark Albania 4 0 European Cup qualifier
+1963 263 away Denmark Norway 0 4 Friendly
+1963 285 home Denmark Sweden 2 2 Friendly
+1963 309 away Denmark Albania 1 0 European Cup qualifier
+1963 313 away Denmark Romania 2 3 Olympic Games qualifier
+1963 338 away Denmark Romania 2 1 Olympic Games qualifier
+1963 345 away Denmark Luxembourg 3 3 European Cup qualifier
+1963 351 home Denmark Luxembourg 2 2 European Cup qualifier
+1963 359 home Denmark Luxembourg 1 0 European Cup qualifier
+1964 172 away Denmark SovietUnion 3 0 European Cup
+1964 175 away Denmark Hungary 3 1 European Cup
+1964 183 away Denmark Sweden 4 1 Friendly
+1964 254 away Denmark Finland 2 1 Friendly
+1964 290 home Denmark Norway 2 0 Friendly
+1964 300 home Denmark Wales 1 0 World Cup qualifier
+1964 339 away Denmark Greece 4 2 World Cup qualifier
+1964 342 away Denmark Israel 0 1 Friendly
+1964 346 away Denmark Italy 3 1 Friendly
+1965 164 home Denmark Finland 3 1 Friendly
+1965 175 home Denmark Sweden 2 1 Friendly
+1965 182 away Denmark SovietUnion 6 0 World Cup qualifier
+1965 191 away Denmark Iceland 1 3 Friendly
+1965 274 away Denmark Norway 2 2 Friendly
+1965 296 home Denmark SovietUnion 1 3 World Cup qualifier
+1965 306 home Denmark Greece 1 1 World Cup qualifier
+1965 342 away Denmark Wales 4 2 World Cup qualifier
+1966 154 home Denmark Turkey 0 0 Friendly
+1966 172 home Denmark Argentina 0 2 Friendly
+1966 176 home Denmark Portugal 1 3 Friendly
+1966 181 home Denmark Norway 0 1 Friendly
+1966 189 home Denmark England 0 2 Friendly
+1966 266 away Denmark Finland 2 1 Friendly
+1966 269 away Denmark Hungary 6 0 European Cup qualifier
+1966 305 home Denmark Israel 3 1 Friendly
+1966 316 away Denmark Sweden 2 1 Friendly
+1966 340 away Denmark Holland 2 0 European Cup qualifier
+1967 148 home Denmark Hungary 0 2 European Cup qualifier
+1967 159 home Denmark EastGermany 1 1 European Cup qualifier
+1967 180 home Denmark Sweden 1 1 Friendly
+1967 240 home Denmark Iceland 14 2 Friendly
+1967 272 away Denmark Norway 0 5 Friendly
+1967 283 home Denmark Holland 3 2 European Cup qualifier
+1967 290 away Denmark EastGermany 3 2 European Cup qualifier
+1967 301 home Denmark Finland 3 0 Friendly
+1968 159 away Denmark Finland 1 3 Friendly
+1968 178 home Denmark Norway 5 1 Friendly
+1968 182 away Denmark Sweden 2 1 Friendly
+1968 273 home Denmark Czechoslovakia 0 3 World Cup qualifier
+1968 295 home Denmark Scotland 0 1 Friendly
+1968 299 away Denmark Czechoslovakia 1 0 World Cup qualifier
+1968 330 home Denmark Luxembourg 5 1 Friendly
+1969 12 away Denmark Bermuda 1 5 Friendly
+1969 15 away Denmark DutchGuiana 2 1 Friendly
+1969 22 away Denmark Mexico 3 0 Friendly
+1969 130 home Denmark Mexico 3 1 Friendly
+1969 151 home Denmark Ireland 2 0 World Cup qualifier
+1969 170 home Denmark Hungary 3 2 World Cup qualifier
+1969 180 home Denmark Sweden 0 1 Friendly
+1969 187 home Denmark Bermuda 6 0 Friendly
+1969 258 home Denmark Finland 5 2 Friendly
+1969 269 away Denmark Norway 2 0 Friendly
+1969 294 away Denmark Ireland 1 1 World Cup qualifier
+1969 301 away Denmark Hungary 3 0 World Cup qualifier
+1970 143 home Denmark Poland 0 2 Friendly
+1970 158 away Denmark Finland 1 1 Friendly
+1970 180 away Denmark Sweden 1 1 Friendly
+1970 193 away Denmark Iceland 0 0 Friendly
+1970 250 away Denmark Poland 5 0 Friendly
+1970 271 home Denmark Norway 0 1 Friendly
+1970 293 home Denmark Portugal 0 1 European Cup qualifier
+1970 321 away Denmark Scotland 1 0 European Cup qualifier
+1970 335 away Denmark Belgium 2 0 European Cup qualifier
+1971 136 away Denmark Portugal 5 0 European Cup qualifier
+1971 150 home Denmark Belgium 1 2 European Cup qualifier
+1971 164 home Denmark Scotland 1 0 European Cup qualifier
+1971 175 home Denmark Sweden 1 3 Friendly
+1971 185 home Denmark Germany 1 3 Friendly
+1971 214 home Denmark Japan 3 2 Friendly
+1971 256 home Denmark Finland 0 0 Friendly
+1971 274 away Denmark Norway 1 4 Friendly
+1971 289 home Denmark Romania 2 1 Olympic Games qualifier
+1972 145 away Denmark Romania 2 3 Olympic Games qualifier
+1972 162 home Denmark Finland 3 0 Friendly
+1972 184 away Denmark Sweden 2 0 Friendly
+1972 189 away Denmark Iceland 2 5 Friendly
+1972 283 home Denmark Switzerland 1 1 Friendly
+1972 297 home Denmark Scotland 1 4 World Cup qualifier
+1972 325 away Denmark Scotland 2 0 World Cup qualifier
+1973 119 home Denmark Sweden 1 2 Friendly
+1973 126 home Denmark Czechoslovakia 1 1 World Cup qualifier
+1973 161 away Denmark Czechoslovakia 6 0 World Cup qualifier
+1973 175 home Denmark Norway 1 0 Friendly
+1973 271 away Denmark Norway 0 1 Friendly
+1973 292 home Denmark Hungary 2 2 Friendly
+1973 331 away Denmark France 3 0 Friendly
+1974 68 away Denmark Togo 0 2 Friendly
+1974 72 away Denmark Dahomey 2 0 Friendly
+1974 158 home Denmark Sweden 0 2 Friendly
+1974 161 away Denmark Finland 1 1 Friendly
+1974 251 home Denmark Indonesia 9 0 Friendly
+1974 273 home Denmark Spain 1 2 European Cup qualifier
+1974 288 home Denmark Iceland 2 1 Friendly
+1974 292 home Denmark Romania 0 0 European Cup qualifier
+1975 135 away Denmark Romania 6 1 European Cup qualifier
+1975 180 home Denmark Finland 2 0 Friendly
+1975 251 home Denmark Scotland 0 1 European Cup qualifier
+1975 273 away Denmark Sweden 0 0 Friendly
+1975 291 away Denmark Spain 2 0 European Cup qualifier
+1975 308 away Denmark Scotland 3 1 European Cup qualifier
+1976 35 away Denmark Israel 0 1 Friendly
+1976 135 away Denmark Sweden 1 2 Friendly
+1976 147 away Denmark Cyprus 1 5 World Cup qualifier
+1976 179 away Denmark Norway 0 0 Friendly
+1976 242 home Denmark Norway 3 0 Friendly
+1976 249 home Denmark France 1 1 Friendly
+1976 270 home Denmark Italy 0 1 Friendly
+1976 306 home Denmark Cyprus 5 0 World Cup qualifier
+1976 327 away Denmark Portugal 1 0 World Cup qualifier
+1977 30 away Denmark Gambia 1 4 Friendly
+1977 33 away Denmark Senegal 2 3 Friendly
+1977 106 away Denmark Bulgaria 3 1 Friendly
+1977 125 home Denmark Poland 1 2 World Cup qualifier
+1977 156 away Denmark Norway 0 2 Friendly
+1977 170 home Denmark Sweden 2 1 Friendly
+1977 177 away Denmark Finland 1 2 Friendly
+1977 269 away Denmark Poland 4 1 World Cup qualifier
+1977 284 away Denmark Sweden 1 0 Friendly
+1977 288 home Denmark Portugal 2 4 World Cup qualifier
+1978 39 away Denmark Israel 2 0 Friendly
+1978 148 home Denmark Ireland 3 3 European Cup qualifier
+1978 155 away Denmark Norway 1 2 Friendly
+1978 183 away Denmark Iceland 0 0 Friendly
+1978 233 home Denmark Sweden 2 1 Friendly
+1978 268 home Denmark England 3 4 European Cup qualifier
+1978 290 home Denmark Bulgaria 2 2 European Cup qualifier
+1978 304 away Denmark NorthernIreland 2 1 European Cup qualifier
+1979 126 away Denmark Ireland 2 0 European Cup qualifier
+1979 133 home Denmark Sweden 2 2 Friendly
+1979 161 home Denmark NorthernIreland 4 0 European Cup qualifier
+1979 182 home Denmark SovietUnion 1 2 Friendly
+1979 246 away Denmark Finland 0 0 Friendly
+1979 260 away Denmark England 1 0 European Cup qualifier
+1979 274 home Denmark Finland 1 0 Friendly
+1979 310 away Denmark Bulgaria 3 0 European Cup qualifier
+1979 324 away Denmark Spain 1 3 Friendly
+1980 131 away Denmark Sweden 0 1 Friendly
+1980 145 home Denmark Spain 2 2 Friendly
+1980 159 home Denmark Norway 3 1 Friendly
+1980 198 away Denmark SovietUnion 2 0 Friendly
+1980 244 away Denmark Switzerland 1 1 Friendly
+1980 275 away Denmark Yugoslavia 2 1 World Cup qualifier
+1980 294 home Denmark Greece 0 1 World Cup qualifier
+1980 311 away Denmark Italy 2 0 World Cup qualifier
+1980 329 home Denmark Luxembourg 4 0 World Cup qualifier
+1981 108 home Denmark Romania 2 1 Friendly
+1981 125 away Denmark Luxembourg 1 2 World Cup qualifier
+1981 138 away Denmark Sweden 1 2 Friendly
+1981 158 home Denmark Italy 3 1 World Cup qualifier
+1981 229 away Denmark Finland 1 2 Friendly
+1981 243 home Denmark Iceland 3 0 Friendly
+1981 257 home Denmark Yugoslavia 1 2 World Cup qualifier
+1981 271 home Denmark Norway 2 1 Friendly
+1981 293 away Denmark Greece 2 3 World Cup qualifier
+1982 129 home Denmark Sweden 1 1 Friendly
+1982 143 away Denmark Austria 1 0 Friendly
+1982 151 home Denmark Belgium 1 0 Friendly
+1982 170 away Denmark Norway 2 1 Friendly
+1982 228 home Denmark Finland 3 2 Friendly
+1982 249 away Denmark Romania 1 0 Friendly
+1982 270 home Denmark England 2 2 European Cup qualifier
+1982 306 home Denmark Czechoslovakia 1 3 Friendly
+1982 320 away Denmark Luxembourg 1 2 European Cup qualifier
+1983 120 home Denmark Greece 1 0 European Cup qualifier
+1983 156 home Denmark Hungary 3 1 European Cup qualifier
+1983 255 home Denmark France 3 1 Friendly
+1983 269 away Denmark England 0 1 European Cup qualifier
+1983 291 home Denmark Luxembourg 6 0 European Cup qualifier
+1983 305 away Denmark Hungary 1 0 European Cup qualifier
+1983 326 away Denmark Greece 0 2 European Cup qualifier
+1984 76 away Denmark Holland 6 0 Friendly
+1984 95 away Denmark Spain 2 1 Friendly
+1984 140 away Denmark Czechoslovakia 1 0 Friendly
+1984 161 away Denmark Sweden 0 1 Friendly
+1984 163 home Denmark Bulgaria 1 1 Friendly
+1984 167 away Denmark France 1 0 European Cup
+1984 171 home Denmark Yugoslavia 5 0 European Cup
+1984 174 home Denmark Belgium 3 2 European Cup
+1984 179 home Denmark Spain 1 1 European Cup
+1984 260 home Denmark Austria 3 1 Friendly
+1984 274 home Denmark Norway 1 0 World Cup qualifier
+1984 296 away Denmark Switzerland 1 0 World Cup qualifier
+1984 324 home Denmark Ireland 3 0 World Cup qualifier
+1985 25 away Denmark Honduras 0 3 Friendly
+1985 27 away Denmark Honduras 1 0 Friendly
+1985 34 away Denmark ElSalvador 3 0 Friendly
+1985 132 home Denmark EastGermany 4 1 Friendly
+1985 160 home Denmark SovietUnion 4 2 World Cup qualifier
+1985 259 home Denmark Sweden 0 3 Friendly
+1985 273 away Denmark SovietUnion 1 0 World Cup qualifier
+1985 288 home Denmark Switzerland 0 0 World Cup qualifier
+1985 295 away Denmark Norway 1 5 World Cup qualifier
+1985 323 away Denmark Ireland 1 4 World Cup qualifier
+1986 88 away Denmark NorthernIreland 1 1 Friendly
+1986 102 away Denmark Bulgaria 3 0 Friendly
+1986 137 away Denmark Norway 1 0 Friendly
+1986 140 home Denmark Poland 1 0 Friendly
+1986 144 away Denmark Paraguay 2 1 Friendly
+1986 159 home Denmark Scotland 1 0 World Cup
+1986 163 home Denmark Uruguay 6 1 World Cup
+1986 168 home Denmark Germany 2 0 World Cup
+1986 173 away Denmark Spain 5 1 World Cup
+1986 258 away Denmark EastGermany 0 1 Friendly
+1986 272 home Denmark Germany 0 2 Friendly
+1986 308 home Denmark Finland 1 0 European Cup qualifier
+1986 322 away Denmark Czechoslovakia 0 0 European Cup qualifier
+1986 344 home Denmark Bangladesh 2 0 Friendly tournament
+1986 346 home Denmark Singapore 5 0 Friendly tournament
+1986 347 away Denmark Nepal 0 1 Friendly tournament
+1986 350 home Denmark SouthKorea 2 1 Friendly tournament
+1986 354 home Denmark China 2 0 Friendly tournament
+1987 122 away Denmark Finland 0 1 European Cup qualifier
+1987 158 home Denmark Czechoslovakia 1 1 European Cup qualifier
+1987 243 away Denmark Sweden 1 0 Friendly
+1987 257 away Denmark Wales 1 0 European Cup qualifier
+1987 271 away Denmark Germany 1 0 Friendly
+1987 293 home Denmark Wales 1 0 European Cup qualifier
+1988 120 away Denmark Austria 1 0 Friendly
+1988 134 away Denmark Hungary 2 2 Friendly
+1988 156 home Denmark Czechoslovakia 0 1 Friendly
+1988 159 home Denmark Belgium 3 1 Friendly
+1988 166 home Denmark Spain 2 3 European Cup
+1988 169 away Denmark Germany 2 0 European Cup
+1988 172 home Denmark Italy 0 2 European Cup
+1988 248 away Denmark Sweden 1 2 Friendly
+1988 262 away Denmark England 1 0 Friendly
+1988 276 home Denmark Iceland 1 0 Friendly
+1988 298 away Denmark Greece 1 1 World Cup qualifier
+1988 312 home Denmark Bulgaria 1 1 World Cup qualifier
+1989 39 away Denmark Malta 0 2 Rothmans Tournament
+1989 41 away Denmark Finland 0 0 Rothmans Tournament
+1989 43 away Denmark Algeria 0 0 Rothmans Tournament
+1989 53 away Denmark Italy 1 0 Friendly
+1989 105 home Denmark Canada 2 0 Friendly
+1989 119 away Denmark Bulgaria 0 2 World Cup qualifier
+1989 141 home Denmark Greece 7 1 World Cup qualifier
+1989 162 home Denmark England 1 1 Friendly
+1989 169 home Denmark Sweden 6 0 Friendly tournament
+1989 173 home Denmark Brazil 4 0 Friendly tournament
+1989 241 away Denmark Belgium 3 0 Friendly
+1989 254 away Denmark Holland 2 2 Friendly
+1989 290 home Denmark Romania 3 0 World Cup qualifier
+1989 325 away Denmark Romania 3 1 World Cup qualifier
+1990 29 away Denmark Iraq 1 1 Friendly
+1990 32 away Denmark Iraq 1 0 Friendly
+1990 36 away Denmark UnitedArab 1 1 Friendly
+1990 40 away Denmark UnitedArab 0 5 Friendly
+1990 43 away Denmark Bahrain 1 2 Friendly
+1990 45 away Denmark Egypt 0 0 Friendly
+1990 104 home Denmark Turkey 1 0 Friendly
+1990 139 away Denmark England 1 0 Friendly
+1990 154 away Denmark Germany 1 0 Friendly
+1990 161 away Denmark Norway 1 2 Friendly
+1990 253 away Denmark Sweden 0 1 Friendly
+1990 259 home Denmark Wales 1 0 Friendly
+1990 289 home Denmark FaroeIslands 4 1 European Cup qualifier
+1990 296 away Denmark NorthernIreland 1 1 European Cup qualifier
+1990 324 home Denmark Yugoslavia 0 2 European Cup qualifier
+1991 102 home Denmark Bulgaria 1 1 Friendly
+1991 125 away Denmark Yugoslavia 1 2 European Cup qualifier
+1991 160 home Denmark Austria 2 1 European Cup qualifier
+1991 167 away Denmark Italy 2 0 Friendly tournament
+1991 170 away Denmark Sweden 4 0 Friendly tournament
+1991 252 away Denmark Iceland 0 0 Friendly
+1991 273 away Denmark FaroeIslands 0 4 European Cup qualifier
+1991 288 away Denmark Austria 0 3 European Cup qualifier
+1991 323 home Denmark NorthernIreland 2 1 European Cup qualifier
+1992 101 away Denmark Turkey 2 1 Friendly
+1992 122 home Denmark Norway 1 0 Friendly
+1992 158 home Denmark IndependentStates 1 1 Friendly
+1992 166 home Denmark England 0 0 European Cup
+1992 169 away Denmark Sweden 1 0 European Cup
+1992 172 home Denmark France 2 1 European Cup
+1992 177 home Denmark Holland 2 2 European Cup
+1992 181 home Denmark Germany 2 0 European Cup
+1992 243 away Denmark Latvia 0 0 World Cup qualifier
+1992 257 home Denmark Germany 1 2 Friendly
+1992 271 away Denmark Lithuania 0 0 World Cup qualifier
+1992 293 home Denmark Ireland 0 0 World Cup qualifier
+1992 328 away Denmark NorthernIreland 0 1 World Cup qualifier
+1993 30 away Denmark UnitedStates 2 2 Friendly
+1993 34 home Denmark ElSalvador 2 0 Friendly
+1993 55 away Denmark Argentina 1 1 Artemio Franchi Trophy
+1993 93 home Denmark Spain 1 0 World Cup qualifier
+1993 107 home Denmark Latvia 2 0 World Cup qualifier
+1993 121 away Denmark Ireland 1 1 World Cup qualifier
+1993 157 home Denmark Albania 4 0 World Cup qualifier
+1993 242 home Denmark Lithuania 4 0 World Cup qualifier
+1993 256 away Denmark Albania 0 1 World Cup qualifier
+1993 292 home Denmark NorthernIreland 1 0 World Cup qualifier
+1993 327 away Denmark Spain 1 0 World Cup qualifier
+1994 33 away Denmark Norway 3 3 Dunhill Cup
+1994 35 away Denmark Malaysia 1 5 Dunhill Cup
+1994 37 home Denmark Japan 6 1 Dunhill Cup
+1994 41 home Denmark UnitedStates 0 0 Carlsberg Cup
+1994 71 away Denmark England 1 0 Friendly
+1994 113 home Denmark Hungary 3 1 Friendly
+1994 150 home Denmark Sweden 1 0 Friendly
+1994 156 away Denmark Norway 2 1 Friendly
+1994 234 home Denmark Finland 2 1 Friendly
+1994 255 away Denmark Macedonia 1 1 European Cup qualifier
+1994 291 home Denmark Belgium 3 1 European Cup qualifier
+1994 326 away Denmark Spain 3 0 European Cup qualifier
+1995 8 away Denmark SaudiArabia 0 2 Intercontinental Cup
+1995 10 home Denmark Mexico 1 1 Intercontinental Cup
+1995 13 home Denmark Argentina 2 0 Intercontinental Cup
+1995 24 away Denmark Canada 0 1 Friendly tournament
+1995 29 away Denmark Portugal 1 0 Friendly tournament
+1995 91 away Denmark Cyprus 1 1 European Cup qualifier
+1995 119 home Denmark Macedonia 1 0 European Cup qualifier
+1995 155 away Denmark Finland 0 1 Friendly
+1995 162 home Denmark Cyprus 4 0 European Cup qualifier
+1995 233 away Denmark Armenia 0 2 European Cup qualifier
+1995 254 away Denmark Belgium 1 3 European Cup qualifier
+1995 290 home Denmark Spain 1 1 European Cup qualifier
+1995 325 home Denmark Armenia 3 1 European Cup qualifier
+1996 89 away Denmark Germany 2 0 Friendly
+1996 117 home Denmark Scotland 2 0 Friendly
+1996 157 home Denmark Ghana 1 0 Friendly
+1996 164 home Denmark Portugal 1 1 European Cup
+1996 171 away Denmark Croatia 3 0 European Cup
+1996 174 home Denmark Turkey 3 0 European Cup
+1996 231 away Denmark Sweden 0 1 Friendly
+1996 249 away Denmark Slovenia 0 2 World Cup qualifier
+1996 288 home Denmark Greece 2 1 World Cup qualifier
+1996 319 home Denmark France 1 0 Friendly
+1997 17 away Denmark Mexico 3 1 US Cup
+1997 19 home Denmark Peru 2 1 US Cup
+1997 22 away Denmark UnitedStates 1 4 US Cup
+1997 91 away Denmark Croatia 1 1 World Cup qualifier
+1997 123 home Denmark Slovenia 4 0 World Cup qualifier
+1997 163 home Denmark Bosnia 2 0 World Cup qualifier
+1997 237 away Denmark Bosnia 3 0 World Cup qualifier
+1997 258 home Denmark Croatia 3 1 World Cup qualifier
+1997 290 away Denmark Greece 0 0 World Cup qualifier
+1998 87 away Denmark Scotland 0 1 Friendly
+1998 115 home Denmark Norway 0 2 Friendly
+1998 152 away Denmark Sweden 3 0 Friendly
+1998 160 home Denmark Cameroon 1 2 Friendly
+1998 167 home Denmark SaudiArabia 1 0 World Cup
+1998 173 home Denmark SouthAfrica 1 1 World Cup
+1998 179 away Denmark France 2 1 World Cup
+1998 183 home Denmark Nigeria 4 1 World Cup
+1998 189 away Denmark Brazil 3 2 World Cup
+1998 236 away Denmark Czechia 1 0 Friendly
+1998 253 away Denmark Belarus 0 0 European Cup qualifier
+1998 289 home Denmark Wales 1 2 European Cup qualifier
+1998 293 away Denmark Switzerland 1 1 European Cup qualifier
+1999 41 away Denmark Croatia 0 1 Friendly
+1999 89 home Denmark Italy 1 2 European Cup qualifier
+1999 121 home Denmark SouthAfrica 1 1 Friendly
+1999 160 home Denmark Belarus 1 0 European Cup qualifier
+1999 164 away Denmark Wales 0 2 European Cup qualifier
+1999 235 home Denmark Holland 0 0 Friendly
+1999 252 home Denmark Switzerland 2 1 European Cup qualifier
+1999 256 away Denmark Italy 2 3 European Cup qualifier
+1999 289 home Denmark Iran 0 0 Friendly
+1999 323 away Denmark Israel 0 5 European Cup qualifier
+1999 327 home Denmark Israel 3 0 European Cup qualifier
+2000 31 away Denmark Sweden 1 0 Nordic Tournament
+2000 33 away Denmark Norway 4 2 Nordic Tournament
+2000 35 away Denmark Finland 2 1 Nordic Tournament
+2000 91 away Denmark Portugal 2 1 Friendly
+2000 119 home Denmark Sweden 0 1 Friendly
+2000 158 home Denmark Belgium 2 2 Friendly
+2000 166 away Denmark France 3 0 European Cup
+2000 171 away Denmark Holland 3 0 European Cup
+2000 176 away Denmark Czechia 2 0 European Cup
+2000 233 away Denmark FaroeIslands 0 2 Nordic Tournament
+2000 250 away Denmark Iceland 1 2 World Cup qualifier
+2000 286 away Denmark NorthernIreland 1 1 World Cup qualifier
+2000 290 home Denmark Bulgaria 1 1 World Cup qualifier
+2000 325 home Denmark Germany 2 1 Friendly
+2001 86 away Denmark Malta 0 5 World Cup qualifier
+2001 90 away Denmark Czechia 0 0 World Cup qualifier
+2001 118 home Denmark Slovenia 3 0 Friendly
+2001 157 home Denmark Czechia 2 1 World Cup qualifier
+2001 161 home Denmark Malta 2 1 World Cup qualifier
+2001 232 away Denmark France 1 0 Friendly
+2001 249 home Denmark NorthernIreland 1 1 World Cup qualifier
+2001 253 away Denmark Bulgaria 0 2 World Cup qualifier
+2001 285 home Denmark Iceland 6 0 World Cup qualifier
+2001 320 home Denmark Holland 1 1 Friendly
+2002 44 away Denmark SaudiArabia 0 1 Friendly
+2002 89 away Denmark Ireland 3 0 Friendly
+2002 110 home Denmark Israel 3 1 Friendly
+2002 141 home Denmark Cameroon 2 1 Friendly
+2002 150 home Denmark Tunisia 2 1 Friendly
+2002 156 home Denmark Uruguay 2 1 World Cup
+2002 161 away Denmark Senegal 1 1 World Cup
+2002 166 home Denmark France 2 0 World Cup
+2002 170 away Denmark England 3 0 World Cup
+2002 238 away Denmark Scotland 0 1 Friendly
+2002 255 away Denmark Norway 2 2 European Cup qualifier
+2002 291 home Denmark Luxembourg 2 0 European Cup qualifier
+2002 330 home Denmark Poland 2 0 Friendly
+2003 43 away Denmark Egypt 1 4 Friendly
+2003 91 away Denmark Romania 2 5 European Cup qualifier
+2003 95 home Denmark Bosnia 0 2 European Cup qualifier
+2003 123 home Denmark Ukraine 1 0 Friendly
+2003 162 home Denmark Norway 1 0 European Cup qualifier
+2003 166 away Denmark Luxembourg 0 2 European Cup qualifier
+2003 237 home Denmark Finland 1 1 Friendly
+2003 258 home Denmark Romania 2 2 European Cup qualifier
+2003 290 away Denmark Bosnia 1 1 European Cup qualifier
+2003 326 away Denmark England 2 3 Friendly
+2004 18 away Denmark UnitedStates 1 1 Friendly
+2004 49 away Denmark Turkey 0 1 Friendly
+2004 93 away Denmark Spain 2 0 Friendly
+2004 121 home Denmark Scotland 1 0 Friendly
+2004 154 away Denmark Estonia 2 2 Friendly
+2004 160 home Denmark Croatia 1 2 Friendly
+2004 169 home Denmark Italy 0 0 European Cup
+2004 173 home Denmark Bulgaria 2 0 European Cup
+2004 177 home Denmark Sweden 2 2 European Cup
+2004 182 away Denmark Czechia 3 0 European Cup
+2004 235 away Denmark Poland 1 5 Friendly
+2004 252 home Denmark Ukraine 1 1 World Cup qualifier
+2004 288 away Denmark Albania 0 2 World Cup qualifier
+2004 292 home Denmark Turkey 1 1 World Cup qualifier
+2004 327 away Denmark Georgia 2 2 World Cup qualifier
+2005 40 away Denmark Greece 2 1 World Cup qualifier
+2005 88 home Denmark Kazakhstan 3 0 World Cup qualifier
+2005 92 away Denmark Ukraine 1 0 World Cup qualifier
+2005 157 away Denmark Finland 0 1 Friendly
+2005 163 home Denmark Albania 3 1 World Cup qualifier
+2005 234 home Denmark England 4 1 Friendly
+2005 251 away Denmark Turkey 2 2 World Cup qualifier
+2005 255 home Denmark Georgia 6 1 World Cup qualifier
+2005 287 home Denmark Greece 1 0 World Cup qualifier
+2005 291 away Denmark Kazakhstan 1 2 World Cup qualifier
+2006 26 away Denmark Singapore 1 2 Friendly
+2006 32 home Denmark SouthKorea 3 1 Carlsberg Cup
+2006 63 away Denmark Israel 0 2 Friendly
+2006 151 home Denmark Paraguay 1 1 Friendly
+2006 155 away Denmark France 2 0 Friendly
+2006 233 home Denmark Poland 2 0 Friendly
+2006 249 home Denmark Portugal 4 2 Friendly
+2006 254 away Denmark Iceland 0 2 European Cup qualifier
+2006 286 home Denmark NorthernIreland 0 0 European Cup qualifier
+2006 290 away Denmark Liechtenstein 0 4 European Cup qualifier
+2006 325 away Denmark Czechia 1 1 Friendly
+2007 20 away Denmark UnitedStates 3 1 Friendly
+2007 24 away Denmark ElSalvador 1 0 Friendly
+2007 27 away Denmark Honduras 1 1 Friendly
+2007 37 home Denmark Australia 3 1 Friendly
+2007 86 away Denmark Spain 2 1 European Cup qualifier
+2007 90 away Denmark Germany 0 1 Friendly
+2007 157 home Denmark Sweden 3 3 European Cup qualifier
+2007 161 away Denmark Latvia 0 2 European Cup qualifier
+2007 239 home Denmark Ireland 0 4 Friendly
+2007 256 away Denmark Sweden 0 0 European Cup qualifier
+2007 260 home Denmark Liechtenstein 4 0 European Cup qualifier
+2007 292 home Denmark Spain 1 3 European Cup qualifier
+2007 296 home Denmark Latvia 3 1 European Cup qualifier
+2007 327 away Denmark NorthernIreland 2 1 European Cup qualifier
+2007 331 home Denmark Iceland 3 0 European Cup qualifier
+2008 37 away Denmark Slovenia 1 2 Friendly
+2008 88 home Denmark Czechia 1 1 Friendly
+2008 153 away Denmark Holland 1 1 Friendly
+2008 156 away Denmark Poland 1 1 Friendly
+2008 237 home Denmark Spain 0 3 Friendly
+2008 254 away Denmark Hungary 0 0 World Cup qualifier
+2008 258 away Denmark Portugal 2 3 World Cup qualifier
+2008 290 home Denmark Malta 3 0 World Cup qualifier
+2008 329 home Denmark Wales 0 1 Friendly
+2009 42 away Denmark Greece 1 1 Friendly
+2009 90 away Denmark Malta 0 3 World Cup qualifier
+2009 94 home Denmark Albania 3 0 World Cup qualifier
+2009 161 away Denmark Sweden 0 1 World Cup qualifier
+2009 229 home Denmark Chile 1 2 Friendly
+2009 253 home Denmark Portugal 1 1 World Cup qualifier
+2009 257 away Denmark Albania 1 1 World Cup qualifier
+2009 289 home Denmark Sweden 1 0 World Cup qualifier
+2009 293 home Denmark Hungary 0 1 World Cup qualifier
+2009 324 home Denmark SouthKorea 0 0 Friendly
+2009 328 home Denmark UnitedStates 3 1 Friendly
+2010 65 away Denmark Austria 2 1 Friendly
+2010 151 home Denmark Senegal 2 0 Friendly
+2010 156 away Denmark Australia 1 0 Friendly
+2010 160 away Denmark SouthAfrica 1 0 Friendly
+2010 169 away Denmark Holland 2 0 World Cup
+2010 174 home Denmark Cameroon 2 1 World Cup
+2010 179 away Denmark Japan 3 1 World Cup
+2010 228 home Denmark Germany 2 2 Friendly
+2010 255 home Denmark Iceland 1 0 European Cup qualifier
+2010 287 away Denmark Portugal 3 1 European Cup qualifier
+2010 291 home Denmark Cyprus 2 0 European Cup qualifier
+2010 327 home Denmark Czechia 0 0 Friendly
+2011 40 home Denmark England 1 2 Friendly
+2011 88 away Denmark Norway 1 1 European Cup qualifier
+2011 91 away Denmark Slovakia 1 2 Friendly
+2011 159 away Denmark Iceland 0 2 European Cup qualifier
+2011 227 away Denmark Scotland 2 1 Friendly
+2011 254 home Denmark Norway 2 0 European Cup qualifier
+2011 286 away Denmark Cyprus 1 4 European Cup qualifier
+2011 290 home Denmark Portugal 2 1 European Cup qualifier
+2011 321 home Denmark Sweden 2 0 Friendly
+2011 325 home Denmark Finland 2 1 Friendly
+2012 60 home Denmark Russia 0 2 Friendly
+2012 150 away Denmark Brazil 3 1 Friendly
+2012 157 home Denmark Australia 2 0 Friendly
+2012 164 home Denmark Holland 1 0 European Cup
+2012 168 away Denmark Portugal 3 2 European Cup
+2012 172 away Denmark Germany 2 1 European Cup
+2012 232 home Denmark Slovakia 1 3 Friendly
+2012 256 home Denmark Czechia 0 0 World Cup qualifier
+2012 291 away Denmark Bulgaria 1 1 World Cup qualifier
+2012 295 away Denmark Italy 3 1 World Cup qualifier
+2012 324 away Denmark Turkey 1 1 Friendly
+2013 26 home Denmark Canada 4 0 Friendly
+2013 30 home Denmark Mexico 1 1 Friendly
+2013 37 away Denmark Macedonia 3 0 Friendly
+2013 84 away Denmark Czechia 0 3 World Cup qualifier
+2013 88 home Denmark Bulgaria 1 1 World Cup qualifier
+2013 160 home Denmark Georgia 2 1 Friendly
+2013 166 home Denmark Armenia 0 4 World Cup qualifier
+2013 231 away Denmark Poland 3 2 Friendly
+2013 254 away Denmark Malta 1 2 World Cup qualifier
+2013 258 away Denmark Armenia 0 1 World Cup qualifier
+2013 290 home Denmark Italy 2 2 World Cup qualifier
+2013 294 home Denmark Malta 6 0 World Cup qualifier
+2013 325 home Denmark Norway 2 1 Friendly
+2014 67 away Denmark England 1 0 Friendly

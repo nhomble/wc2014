@@ -1,0 +1,765 @@
+1908 198 away Norway Sweden 11 3 Friendly
+1910 259 home Norway Sweden 0 4 Friendly
+1911 265 away Norway Sweden 4 1 Friendly
+1912 171 home Norway Sweden 1 2 Friendly
+1912 178 home Norway Hungary 0 6 Friendly
+1912 185 away Norway Denmark 7 0 Olympic Games
+1912 187 away Norway Austria 1 0 Olympic Games Consolation Tournament
+1912 189 home Norway Russia 2 1 Friendly
+1912 313 away Norway Sweden 4 2 Friendly
+1913 163 away Norway Sweden 9 0 Friendly
+1913 262 away Norway Russia 1 1 Friendly
+1913 305 home Norway Sweden 1 1 Friendly
+1914 183 home Norway Sweden 0 1 Friendly
+1914 198 home Norway Russia 1 1 Friendly
+1914 304 away Norway Sweden 7 0 Friendly
+1915 182 home Norway Sweden 1 1 Friendly
+1915 267 away Norway Denmark 8 1 Friendly
+1915 303 away Norway Sweden 5 2 Friendly
+1916 180 home Norway Denmark 0 2 Friendly
+1916 188 away Norway Sweden 6 0 Friendly
+1916 251 home Norway UnitedStates 1 1 Friendly
+1916 280 home Norway Sweden 0 0 Friendly
+1916 294 away Norway Denmark 8 0 Friendly
+1917 172 home Norway Denmark 1 2 Friendly
+1917 236 away Norway Sweden 3 3 Friendly
+1917 264 home Norway Sweden 0 2 Friendly
+1917 286 away Norway Denmark 12 0 Friendly
+1918 150 away Norway Sweden 2 0 Friendly
+1918 171 home Norway Denmark 3 1 Friendly
+1918 263 home Norway Sweden 2 1 Friendly
+1918 285 away Norway Denmark 4 0 Friendly
+1919 167 away Norway Denmark 5 1 Friendly
+1919 184 home Norway Sweden 4 3 Friendly
+1919 248 home Norway Holland 1 1 Friendly
+1919 262 away Norway Sweden 1 5 Friendly
+1919 269 home Norway Denmark 3 2 Friendly
+1920 168 home Norway Denmark 1 1 Friendly
+1920 182 home Norway Sweden 0 3 Friendly
+1920 245 home Norway GreatBritain 3 1 Olympic Games
+1920 246 away Norway Czechoslovakia 4 0 Olympic Games
+1920 248 away Norway Italy 2 1 Olympic Games
+1920 274 away Norway Sweden 0 0 Friendly
+1921 149 home Norway Finland 3 2 Friendly
+1921 174 home Norway Sweden 3 1 Friendly
+1921 266 away Norway Sweden 0 3 Friendly
+1921 281 away Norway Denmark 3 1 Friendly
+1922 240 away Norway Sweden 0 0 Friendly
+1922 243 away Norway Finland 1 3 Friendly
+1922 258 home Norway Denmark 3 3 Friendly
+1922 272 home Norway Sweden 0 5 Friendly
+1923 172 home Norway Finland 3 0 Friendly
+1923 176 home Norway Switzerland 2 2 Friendly
+1923 247 home Norway Russia 2 3 Friendly
+1923 264 home Norway Sweden 2 3 Friendly
+1923 278 away Norway Denmark 2 1 Friendly
+1923 307 away Norway France 0 2 Friendly
+1923 314 away Norway Germany 1 0 Friendly
+1924 170 home Norway Germany 0 2 Friendly
+1924 240 away Norway Finland 2 0 Friendly
+1924 262 home Norway Denmark 1 3 Friendly
+1924 269 away Norway Sweden 6 1 Friendly
+1925 162 home Norway Finland 1 0 Friendly
+1925 176 away Norway Denmark 5 1 Friendly
+1925 240 home Norway Sweden 3 7 Friendly
+1926 161 away Norway Finland 2 5 Friendly
+1926 164 away Norway Sweden 3 2 Friendly
+1926 267 home Norway Denmark 2 2 Friendly
+1926 286 home Norway Poland 3 4 Friendly
+1927 153 home Norway Denmark 0 1 Friendly
+1927 170 home Norway Finland 3 1 Friendly
+1927 181 home Norway Sweden 3 5 Friendly
+1927 302 away Norway Germany 6 2 Friendly
+1927 309 away Norway Denmark 3 1 Friendly
+1928 158 away Norway Finland 0 6 Friendly
+1928 162 away Norway Sweden 6 1 Friendly
+1928 172 home Norway Denmark 2 3 Friendly
+1928 271 home Norway Germany 0 2 Friendly
+1929 152 home Norway Scotland 3 7 Friendly
+1929 167 home Norway Holland 4 4 Friendly
+1929 173 home Norway Finland 4 0 Friendly
+1929 178 away Norway Denmark 2 5 Friendly
+1929 277 home Norway Sweden 2 1 Friendly
+1929 313 away Norway Holland 1 4 Friendly
+1930 156 home Norway Finland 6 2 Friendly
+1930 174 home Norway Switzerland 3 0 Friendly
+1930 192 away Norway Sweden 6 3 Friendly
+1930 249 home Norway SovietUnion 0 4 Friendly
+1930 269 home Norway Denmark 1 0 Friendly
+1930 312 away Norway Germany 1 1 Friendly
+1931 149 away Norway Denmark 3 1 Friendly
+1931 176 home Norway Germany 2 2 Friendly
+1931 254 away Norway Finland 4 4 Friendly
+1931 275 home Norway Sweden 2 1 Friendly
+1932 160 home Norway Estonia 3 0 Friendly
+1932 172 home Norway Finland 2 1 Friendly
+1932 187 away Norway Sweden 1 4 Friendly
+1932 273 home Norway Denmark 1 2 Friendly
+1933 166 away Norway Denmark 2 2 Friendly
+1933 251 away Norway Finland 1 5 Friendly
+1933 272 home Norway Sweden 0 1 Friendly
+1933 315 away Norway Germany 2 2 Friendly
+1934 187 away Norway Sweden 3 3 Friendly
+1934 250 home Norway Finland 4 2 Friendly
+1934 271 home Norway Denmark 3 1 Friendly
+1935 178 away Norway Denmark 1 0 Friendly
+1935 182 home Norway Germany 1 1 Friendly
+1935 256 away Norway Finland 1 5 Friendly
+1935 270 home Norway Sweden 0 2 Friendly
+1935 313 away Norway Switzerland 2 0 Friendly
+1936 173 home Norway Switzerland 1 2 Friendly
+1936 191 away Norway Sweden 2 0 Friendly
+1936 212 away Norway Sweden 3 4 Friendly
+1936 220 home Norway Turkey 4 0 Olympic Games
+1936 224 away Norway Germany 0 2 Olympic Games
+1936 227 away Norway Italy 2 1 Olympic Games
+1936 230 home Norway Poland 3 2 Olympic Games
+1936 254 home Norway Finland 0 2 Friendly
+1936 278 home Norway Denmark 3 3 Friendly
+1936 311 away Norway Holland 3 3 Friendly
+1937 138 home Norway England 0 6 Friendly
+1937 151 home Norway Italy 1 3 Friendly
+1937 168 away Norway Denmark 5 1 Friendly
+1937 253 away Norway Finland 0 2 Friendly
+1937 267 home Norway Sweden 3 2 Friendly
+1937 289 home Norway Ireland 3 2 World Cup qualifier
+1937 303 away Norway Germany 3 0 Friendly
+1937 317 away Norway Ireland 3 3 World Cup qualifier
+1938 155 home Norway Estonia 1 0 Friendly
+1938 160 away Norway Italy 2 1 World Cup
+1938 172 home Norway Finland 9 0 Friendly
+1938 252 home Norway Sweden 2 1 Friendly
+1938 266 home Norway Denmark 1 1 Friendly
+1938 281 away Norway Sweden 2 3 Friendly
+1938 302 away Norway Poland 2 2 Friendly
+1938 319 away Norway England 4 0 Friendly
+1939 158 away Norway Sweden 3 2 Friendly
+1939 169 home Norway Sweden 1 0 Friendly
+1939 173 away Norway Denmark 6 3 Friendly
+1939 177 home Norway Germany 0 4 Friendly
+1939 251 away Norway Finland 1 2 Friendly
+1939 265 home Norway Sweden 2 3 Friendly
+1939 301 away Norway Denmark 4 1 Friendly
+1945 243 away Norway Denmark 4 2 Friendly
+1945 257 home Norway Denmark 1 5 Friendly
+1945 300 away Norway Sweden 10 0 Friendly
+1946 171 home Norway Denmark 2 1 Friendly
+1946 183 home Norway Finland 12 0 Friendly
+1946 194 away Norway Denmark 2 0 Friendly
+1946 214 away Norway Luxembourg 3 2 Friendly
+1946 263 home Norway Sweden 0 3 Friendly
+1946 299 away Norway Denmark 7 1 Friendly
+1947 166 home Norway Poland 3 1 Friendly
+1947 181 away Norway Finland 1 2 Friendly
+1947 183 away Norway Sweden 5 1 Friendly
+1947 210 away Norway Iceland 2 4 Friendly
+1947 255 away Norway Finland 3 3 Friendly
+1947 269 home Norway Denmark 3 5 Friendly
+1947 284 away Norway Sweden 4 1 Friendly
+1948 150 home Norway Holland 1 2 Friendly
+1948 167 away Norway Denmark 1 2 Friendly
+1948 223 home Norway UnitedStates 11 0 Friendly
+1948 253 home Norway Finland 2 0 Friendly
+1948 267 home Norway Sweden 3 5 Friendly
+1948 365 away Norway Egypt 1 1 Friendly
+1949 142 home Norway England 1 4 Friendly
+1949 174 home Norway Yugoslavia 1 3 Friendly
+1949 194 away Norway Finland 1 1 Friendly
+1949 259 home Norway Denmark 0 2 Friendly
+1949 281 away Norway Sweden 3 3 Friendly
+1950 177 away Norway Denmark 4 0 Friendly
+1950 232 home Norway Luxembourg 2 2 Friendly
+1950 258 home Norway Finland 4 1 Friendly
+1950 272 home Norway Sweden 1 3 Friendly
+1950 315 away Norway Yugoslavia 4 0 Friendly
+1950 336 away Norway Ireland 2 2 Friendly
+1951 154 home Norway Ireland 2 3 Friendly
+1951 161 away Norway Holland 2 3 Friendly
+1951 212 home Norway Iceland 3 1 Friendly
+1951 233 away Norway Finland 1 1 Friendly
+1951 240 home Norway Yugoslavia 2 4 Friendly
+1951 264 home Norway Denmark 2 0 Friendly
+1951 278 away Norway Sweden 3 4 Friendly
+1952 165 home Norway Finland 1 2 Friendly
+1952 180 away Norway Yugoslavia 4 1 Friendly
+1952 207 away Norway Sweden 4 1 Olympic Games
+1952 248 home Norway Finland 7 2 Friendly
+1952 284 home Norway Sweden 1 2 Friendly
+1952 298 away Norway Denmark 1 3 Friendly
+1953 179 home Norway Saar 2 3 World Cup qualifier
+1953 230 home Norway Iceland 3 1 Friendly
+1953 236 home Norway Germany 1 1 World Cup qualifier
+1953 247 away Norway Finland 1 4 Friendly
+1953 261 home Norway Denmark 0 1 Friendly
+1953 275 home Norway Holland 4 0 Friendly
+1953 297 away Norway Sweden 0 0 Friendly
+1953 318 away Norway Saar 0 0 World Cup qualifier
+1953 332 away Norway Germany 5 1 World Cup qualifier
+1954 129 away Norway Scotland 1 0 Friendly
+1954 143 home Norway Scotland 1 1 Friendly
+1954 154 away Norway Austria 5 0 Friendly
+1954 159 home Norway Denmark 2 1 Friendly
+1954 162 away Norway Sweden 3 0 Friendly
+1954 190 away Norway Iceland 1 0 Friendly
+1954 246 home Norway Finland 3 1 Friendly
+1954 267 home Norway Sweden 1 1 Friendly
+1954 310 away Norway Denmark 0 1 Friendly
+1954 318 away Norway Ireland 2 1 Friendly
+1955 132 home Norway Hungary 0 5 Friendly
+1955 149 home Norway Ireland 1 3 Friendly
+1955 167 home Norway Romania 0 1 Friendly
+1955 231 away Norway Finland 1 3 Friendly
+1955 259 home Norway Denmark 1 1 Friendly
+1955 273 away Norway Sweden 1 1 Friendly
+1955 316 away Norway Holland 3 0 Friendly
+1955 326 away Norway Germany 2 0 Friendly
+1956 154 home Norway Poland 0 0 Friendly
+1956 168 home Norway Germany 1 3 Friendly
+1956 179 away Norway Denmark 2 3 Friendly
+1956 181 away Norway Romania 2 0 Friendly
+1956 243 home Norway Finland 1 1 Friendly
+1956 264 home Norway Sweden 3 1 Friendly
+1956 307 away Norway Poland 5 3 Friendly
+1957 146 home Norway Bulgaria 1 2 World Cup qualifier
+1957 167 home Norway Hungary 2 1 World Cup qualifier
+1957 173 home Norway Sweden 0 0 Friendly
+1957 174 home Norway Denmark 0 2 Friendly
+1957 194 away Norway Iceland 0 3 Friendly
+1957 249 away Norway Finland 0 4 Friendly
+1957 270 home Norway Denmark 2 2 Friendly
+1957 292 away Norway Sweden 5 2 Friendly
+1957 313 away Norway Bulgaria 7 0 World Cup qualifier
+1957 320 away Norway Hungary 5 0 World Cup qualifier
+1958 152 home Norway Holland 0 0 Friendly
+1958 170 home Norway Finland 2 0 Friendly
+1958 184 away Norway Denmark 1 2 Friendly
+1958 230 home Norway EastGermany 6 5 Friendly
+1958 262 home Norway Sweden 0 2 Friendly
+1958 312 away Norway EastGermany 4 1 Friendly
+1959 144 home Norway Austria 0 1 European Cup qualifier
+1959 172 home Norway Luxembourg 1 0 Friendly
+1959 183 away Norway Finland 2 4 Friendly
+1959 188 away Norway Denmark 2 1 Olympic Games qualifier
+1959 193 away Norway Iceland 1 0 Olympic Games qualifier
+1959 238 home Norway Iceland 2 1 Olympic Games qualifier
+1959 261 home Norway Denmark 2 4 Olympic Games qualifier
+1959 271 away Norway Austria 5 2 European Cup qualifier
+1959 297 away Norway Sweden 6 2 Friendly
+1959 314 away Norway Holland 7 1 Friendly
+1960 150 away Norway Denmark 3 0 Friendly
+1960 164 home Norway Iceland 4 0 Friendly
+1960 177 home Norway Austria 1 2 Friendly
+1960 245 home Norway Finland 6 3 Friendly
+1960 266 home Norway Sweden 3 1 Friendly
+1960 316 away Norway Ireland 3 1 Friendly
+1961 140 home Norway Mexico 1 1 Friendly
+1961 156 home Norway Turkey 0 1 World Cup qualifier
+1961 182 away Norway Finland 4 1 Friendly
+1961 187 away Norway SovietUnion 5 2 World Cup qualifier
+1961 240 home Norway SovietUnion 0 3 World Cup qualifier
+1961 265 home Norway Denmark 0 4 Friendly
+1961 301 away Norway Sweden 2 0 Friendly
+1961 308 away Norway Turkey 2 1 World Cup qualifier
+1961 315 away Norway Malta 1 1 Friendly
+1962 140 home Norway Holland 2 1 Friendly
+1962 166 away Norway Denmark 6 1 Friendly
+1962 176 home Norway Sweden 0 2 European Cup qualifier
+1962 189 home Norway Malta 5 0 Friendly
+1962 195 away Norway Iceland 1 3 Friendly
+1962 243 home Norway Finland 2 1 Friendly
+1962 264 home Norway Sweden 2 1 Friendly
+1962 314 away Norway Sweden 1 1 European Cup qualifier
+1963 139 home Norway Poland 2 5 Friendly
+1963 159 home Norway Scotland 4 3 Friendly
+1963 182 away Norway Finland 2 0 Friendly
+1963 231 away Norway Sweden 0 0 Friendly
+1963 252 away Norway Poland 9 0 Friendly
+1963 263 home Norway Denmark 0 4 Friendly
+1963 313 away Norway Switzerland 0 2 Friendly
+1963 317 away Norway Scotland 6 1 Friendly
+1964 137 home Norway Ireland 1 4 Friendly
+1964 187 home Norway Switzerland 3 2 Friendly
+1964 237 home Norway Finland 2 0 Friendly
+1964 268 home Norway Sweden 1 1 Friendly
+1964 290 away Norway Denmark 2 0 Friendly
+1964 318 away Norway Luxembourg 0 2 World Cup qualifier
+1964 321 away Norway France 1 0 World Cup qualifier
+1965 143 home Norway Thailand 7 0 Friendly
+1965 151 home Norway Luxembourg 4 2 World Cup qualifier
+1965 171 home Norway Yugoslavia 3 0 World Cup qualifier
+1965 225 away Norway Finland 4 0 Friendly
+1965 263 home Norway France 0 1 World Cup qualifier
+1965 274 home Norway Denmark 2 2 Friendly
+1965 310 away Norway Sweden 0 0 Friendly
+1965 317 away Norway Yugoslavia 1 1 World Cup qualifier
+1966 167 away Norway Portugal 4 0 Friendly
+1966 181 away Norway Denmark 0 1 Friendly
+1966 184 home Norway England 1 6 Friendly
+1966 231 home Norway Finland 1 1 Friendly
+1966 266 home Norway Sweden 2 4 Friendly
+1966 323 away Norway Bulgaria 4 2 European Cup qualifier
+1966 329 away Norway Germany 3 0 Friendly
+1967 156 away Norway Finland 0 2 Friendly
+1967 163 home Norway Portugal 1 2 European Cup qualifier
+1967 184 home Norway Bulgaria 0 0 European Cup qualifier
+1967 251 home Norway Sweden 3 1 European Cup qualifier
+1967 272 home Norway Denmark 0 5 Friendly
+1967 315 away Norway Sweden 5 2 European Cup qualifier
+1967 322 away Norway Portugal 2 1 European Cup qualifier
+1968 164 home Norway Poland 1 6 Friendly
+1968 178 away Norway Denmark 5 1 Friendly
+1968 204 away Norway Iceland 0 4 Friendly
+1968 235 home Norway Finland 4 1 Friendly
+1968 263 home Norway Sweden 1 1 Friendly
+1968 288 away Norway Sweden 5 0 World Cup qualifier
+1968 316 away Norway France 0 1 World Cup qualifier
+1969 132 home Norway Mexico 0 2 Friendly
+1969 156 away Norway Sweden 4 2 Friendly
+1969 174 home Norway Sweden 2 5 World Cup qualifier
+1969 189 home Norway Bermuda 2 0 Friendly
+1969 207 home Norway Iceland 2 1 Friendly
+1969 241 away Norway Finland 2 2 Friendly
+1969 244 away Norway Poland 6 1 Friendly
+1969 258 home Norway France 1 3 World Cup qualifier
+1969 269 home Norway Denmark 2 0 Friendly
+1969 321 away Norway Mexico 4 0 Friendly
+1969 326 away Norway Guatemala 1 3 Friendly
+1970 137 home Norway Czechoslovakia 0 2 Friendly
+1970 172 home Norway Finland 2 0 Friendly
+1970 206 away Norway Iceland 2 0 Friendly
+1970 261 home Norway Sweden 2 4 Friendly
+1970 271 away Norway Denmark 0 1 Friendly
+1970 286 home Norway Hungary 1 3 European Cup qualifier
+1970 321 away Norway France 3 1 European Cup qualifier
+1970 325 away Norway Bulgaria 1 1 European Cup qualifier
+1971 150 home Norway Iceland 3 1 Friendly
+1971 164 home Norway Bulgaria 1 4 European Cup qualifier
+1971 177 home Norway Germany 1 7 Friendly
+1971 225 away Norway Sweden 3 0 Friendly
+1971 241 away Norway Finland 1 1 Friendly
+1971 256 home Norway France 1 3 European Cup qualifier
+1971 274 home Norway Denmark 1 4 Friendly
+1971 306 away Norway Hungary 4 0 European Cup qualifier
+1972 54 away Norway Israel 2 1 Friendly
+1972 155 away Norway Finland 0 0 Friendly
+1972 169 home Norway Uruguay 0 1 Friendly
+1972 220 home Norway Iceland 4 1 World Cup qualifier
+1972 265 home Norway Sweden 1 3 Friendly
+1972 283 home Norway Belgium 0 2 World Cup qualifier
+1972 311 away Norway Holland 9 0 World Cup qualifier
+1973 161 home Norway Ireland 1 1 Friendly
+1973 175 away Norway Denmark 1 0 Friendly
+1973 211 home Norway NorthKorea 3 0 Friendly
+1973 220 away Norway Iceland 0 4 World Cup qualifier
+1973 260 home Norway Holland 1 2 World Cup qualifier
+1973 271 home Norway Denmark 0 1 Friendly
+1973 310 away Norway Belgium 2 0 World Cup qualifier
+1973 314 away Norway Luxembourg 2 1 Friendly
+1974 146 away Norway EastGermany 1 0 Friendly
+1974 161 home Norway Scotland 1 2 Friendly
+1974 225 away Norway Sweden 2 1 Friendly
+1974 232 home Norway Finland 1 2 Friendly
+1974 252 home Norway NorthernIreland 2 1 European Cup qualifier
+1974 309 away Norway Yugoslavia 3 1 European Cup qualifier
+1975 164 home Norway Yugoslavia 1 3 European Cup qualifier
+1975 185 away Norway Sweden 3 1 European Cup qualifier
+1975 193 away Norway Iceland 1 1 Olympic Games qualifier
+1975 203 home Norway Iceland 3 2 Olympic Games qualifier
+1975 230 home Norway Sweden 0 2 European Cup qualifier
+1975 245 home Norway SovietUnion 1 3 Olympic Games qualifier
+1975 272 away Norway SovietUnion 4 0 Olympic Games qualifier
+1975 308 away Norway NorthernIreland 3 0 European Cup qualifier
+1976 86 away Norway Ireland 3 0 Friendly
+1976 143 home Norway Iceland 0 1 Friendly
+1976 171 away Norway Sweden 2 0 World Cup qualifier
+1976 179 home Norway Denmark 0 0 Friendly
+1976 226 home Norway Switzerland 1 0 World Cup qualifier
+1976 242 away Norway Denmark 3 0 Friendly
+1976 270 home Norway Sweden 3 2 Friendly
+1977 150 away Norway Sweden 1 0 Friendly
+1977 156 home Norway Denmark 0 2 Friendly
+1977 185 away Norway Iceland 2 1 Friendly
+1977 235 home Norway Finland 1 1 Friendly
+1977 255 home Norway Sweden 2 1 World Cup qualifier
+1977 309 away Norway Switzerland 1 0 World Cup qualifier
+1978 91 away Norway Spain 3 0 Friendly
+1978 145 home Norway Ireland 0 0 Friendly
+1978 155 home Norway Denmark 1 2 Friendly
+1978 226 away Norway Finland 1 1 Friendly
+1978 247 home Norway Austria 0 2 European Cup qualifier
+1978 268 away Norway Belgium 1 1 European Cup qualifier
+1978 304 away Norway Scotland 3 2 European Cup qualifier
+1979 133 home Norway Portugal 0 1 European Cup qualifier
+1979 162 home Norway Scotland 0 4 European Cup qualifier
+1979 183 away Norway Sweden 2 0 Friendly
+1979 232 home Norway Sweden 2 0 Friendly
+1979 238 away Norway Finland 0 1 Olympic Games qualifier
+1979 246 away Norway Austria 4 0 European Cup qualifier
+1979 260 home Norway Belgium 1 2 European Cup qualifier
+1979 305 home Norway Finland 1 1 Olympic Games qualifier
+1979 311 away Norway Portugal 3 1 European Cup qualifier
+1980 146 home Norway Bulgaria 1 0 Friendly
+1980 159 away Norway Denmark 3 1 Friendly
+1980 200 home Norway Iceland 3 1 Friendly
+1980 238 home Norway Finland 6 1 Friendly
+1980 258 away Norway England 4 0 World Cup qualifier
+1980 272 home Norway Romania 1 1 World Cup qualifier
+1980 308 away Norway Switzerland 1 2 World Cup qualifier
+1981 59 away Norway Sweden 4 2 Friendly
+1981 122 away Norway Bulgaria 1 0 Friendly
+1981 144 home Norway Hungary 1 2 World Cup qualifier
+1981 158 away Norway Romania 1 0 World Cup qualifier
+1981 172 home Norway Switzerland 1 1 World Cup qualifier
+1981 188 away Norway Finland 3 1 Friendly
+1981 229 home Norway Nigeria 2 2 Friendly
+1981 257 home Norway England 2 1 World Cup qualifier
+1981 271 away Norway Denmark 2 1 Friendly
+1981 310 away Norway Hungary 4 1 World Cup qualifier
+1982 121 home Norway Finland 1 1 Friendly
+1982 136 home Norway Germany 2 4 Friendly
+1982 170 home Norway Denmark 2 1 Friendly
+1982 228 home Norway Sweden 1 0 Friendly
+1982 270 away Norway Wales 1 0 European Cup qualifier
+1982 292 home Norway Yugoslavia 3 1 European Cup qualifier
+1982 306 away Norway Bulgaria 2 2 European Cup qualifier
+1982 323 away Norway Kuwait 1 0 Friendly
+1983 227 home Norway Romania 0 0 Friendly
+1983 255 home Norway Bulgaria 1 2 European Cup qualifier
+1983 269 home Norway Wales 0 0 European Cup qualifier
+1983 291 away Norway Yugoslavia 2 1 European Cup qualifier
+1984 125 away Norway Luxembourg 0 2 Friendly
+1984 147 away Norway Hungary 0 0 Friendly
+1984 161 home Norway Wales 1 0 Friendly
+1984 175 away Norway Iceland 0 1 Friendly
+1984 246 home Norway Poland 1 1 Friendly
+1984 260 home Norway Switzerland 0 1 World Cup qualifier
+1984 274 away Norway Denmark 1 0 World Cup qualifier
+1984 289 home Norway SovietUnion 1 1 World Cup qualifier
+1984 296 home Norway Ireland 1 0 World Cup qualifier
+1984 359 away Norway Egypt 0 1 Friendly
+1984 362 away Norway Egypt 0 1 Friendly
+1985 57 away Norway Wales 1 1 Friendly
+1985 110 away Norway EastGermany 1 0 Friendly
+1985 125 away Norway Ireland 0 0 World Cup qualifier
+1985 146 away Norway Sweden 1 0 Friendly
+1985 160 home Norway Wales 4 2 Friendly
+1985 231 home Norway EastGermany 0 1 Friendly
+1985 258 home Norway Egypt 3 0 Friendly
+1985 273 away Norway Italy 1 2 Friendly
+1985 295 home Norway Denmark 1 5 World Cup qualifier
+1985 309 away Norway SovietUnion 1 0 World Cup qualifier
+1985 323 away Norway Switzerland 1 1 World Cup qualifier
+1986 57 away Norway Grenada 1 2 Friendly
+1986 123 home Norway Argentina 1 0 Friendly
+1986 137 home Norway Denmark 1 0 Friendly
+1986 159 away Norway Romania 3 1 Friendly
+1986 237 home Norway Romania 2 2 Friendly
+1986 257 home Norway Hungary 0 0 Friendly
+1986 272 home Norway EastGermany 0 0 European Cup qualifier
+1986 308 away Norway SovietUnion 4 0 European Cup qualifier
+1987 86 away Norway Poland 4 1 Friendly
+1987 152 home Norway Italy 0 0 Friendly
+1987 158 home Norway SovietUnion 0 1 European Cup qualifier
+1987 171 home Norway France 2 0 European Cup qualifier
+1987 229 home Norway Sweden 0 0 Friendly
+1987 257 away Norway Iceland 2 1 European Cup qualifier
+1987 271 home Norway Iceland 0 1 European Cup qualifier
+1987 293 away Norway France 1 1 European Cup qualifier
+1987 307 away Norway EastGermany 3 1 European Cup qualifier
+1988 156 home Norway Ireland 0 0 Friendly
+1988 214 home Norway Brazil 1 1 Friendly
+1988 226 home Norway Bulgaria 1 1 Friendly
+1988 262 home Norway Scotland 1 2 World Cup qualifier
+1988 276 away Norway France 1 0 World Cup qualifier
+1988 298 away Norway Italy 2 1 Friendly
+1988 312 away Norway Cyprus 0 3 World Cup qualifier
+1988 314 away Norway Czechoslovakia 3 2 Friendly
+1989 53 away Norway Greece 4 2 Friendly
+1989 126 home Norway Poland 0 3 Friendly
+1989 145 home Norway Cyprus 3 1 World Cup qualifier
+1989 155 home Norway Austria 4 1 Friendly
+1989 169 home Norway Yugoslavia 1 2 World Cup qualifier
+1989 240 home Norway Greece 0 0 Friendly
+1989 253 home Norway France 1 1 World Cup qualifier
+1989 290 away Norway Yugoslavia 1 0 World Cup qualifier
+1989 304 away Norway Kuwait 2 2 Friendly
+1989 325 away Norway Scotland 1 1 World Cup qualifier
+1990 36 home Norway SouthKorea 3 2 Rothmans Tournament
+1990 38 away Norway Malta 1 1 Rothmans Tournament
+1990 89 away Norway NorthernIreland 2 3 Friendly
+1990 161 home Norway Denmark 1 2 Friendly
+1990 239 home Norway Sweden 1 2 Friendly
+1990 260 away Norway SovietUnion 2 0 European Cup qualifier
+1990 289 home Norway Hungary 0 0 European Cup qualifier
+1990 310 home Norway Cameroon 6 1 Friendly
+1990 317 away Norway Tunisia 1 3 Friendly
+1990 324 away Norway Cyprus 0 3 European Cup qualifier
+1991 110 away Norway Austria 0 0 Friendly
+1991 125 home Norway Cyprus 3 0 European Cup qualifier
+1991 147 home Norway Romania 1 0 Friendly
+1991 160 home Norway Italy 2 1 European Cup qualifier
+1991 225 home Norway Sweden 1 2 Friendly
+1991 245 home Norway SovietUnion 0 1 European Cup qualifier
+1991 273 home Norway Czechoslovakia 2 3 Friendly
+1991 309 away Norway Hungary 0 0 European Cup qualifier
+1991 323 away Norway Italy 1 1 European Cup qualifier
+1992 7 away Norway Egypt 0 0 Friendly
+1992 35 away Norway Bermuda 1 3 Friendly
+1992 122 away Norway Denmark 1 0 Friendly
+1992 137 home Norway FaroeIslands 2 0 Friendly
+1992 158 home Norway Scotland 0 0 Friendly
+1992 243 home Norway Sweden 2 2 Friendly
+1992 257 home Norway SanMarino 10 0 World Cup qualifier
+1992 271 home Norway Holland 2 1 World Cup qualifier
+1992 286 away Norway SanMarino 0 2 World Cup qualifier
+1992 293 away Norway England 1 1 World Cup qualifier
+1992 339 away Norway HongKong 3 3 Carlsberg Cup
+1992 343 away Norway China 2 1 Carlsberg Cup
+1993 41 away Norway Portugal 1 1 Friendly
+1993 92 away Norway Qatar 1 6 Friendly
+1993 121 home Norway Turkey 3 1 World Cup qualifier
+1993 157 home Norway England 2 0 World Cup qualifier
+1993 164 away Norway Holland 0 0 World Cup qualifier
+1993 228 away Norway FaroeIslands 0 7 Friendly
+1993 256 home Norway UnitedStates 1 0 Friendly
+1993 270 home Norway Poland 1 0 World Cup qualifier
+1993 292 away Norway Poland 0 3 World Cup qualifier
+1993 320 away Norway Turkey 2 1 World Cup qualifier
+1994 15 away Norway UnitedStates 2 1 Friendly
+1994 19 away Norway CostaRica 0 0 Friendly
+1994 33 home Norway Denmark 3 3 Dunhill Cup
+1994 35 home Norway Japan 3 2 Dunhill Cup
+1994 37 away Norway Malaysia 0 2 Dunhill Cup
+1994 71 away Norway Wales 1 3 Friendly
+1994 113 home Norway Portugal 0 0 Friendly
+1994 146 away Norway England 0 0 Friendly
+1994 156 home Norway Denmark 2 1 Friendly
+1994 160 away Norway Sweden 2 0 Friendly
+1994 174 home Norway Mexico 1 0 World Cup
+1994 178 away Norway Italy 1 0 World Cup
+1994 183 away Norway Ireland 0 0 World Cup
+1994 255 home Norway Belarus 1 0 European Cup qualifier
+1994 291 home Norway Holland 1 1 European Cup qualifier
+1994 326 away Norway Belarus 0 4 European Cup qualifier
+1994 355 away Norway Malta 0 1 European Cup qualifier
+1995 37 home Norway Estonia 7 0 Friendly
+1995 39 away Norway Cyprus 0 2 Friendly
+1995 91 away Norway Luxembourg 0 2 European Cup qualifier
+1995 119 home Norway Luxembourg 5 0 European Cup qualifier
+1995 149 home Norway Ghana 3 2 Friendly
+1995 162 home Norway Malta 2 0 European Cup qualifier
+1995 208 home Norway France 0 0 Friendly
+1995 233 home Norway Czechia 1 1 European Cup qualifier
+1995 254 away Norway Czechia 2 0 European Cup qualifier
+1995 290 home Norway England 0 0 Friendly
+1995 325 away Norway Holland 3 0 European Cup qualifier
+1995 336 away Norway Jamaica 1 1 Friendly
+1995 339 away Norway TrinidadTobago 3 2 Friendly
+1996 38 away Norway Spain 1 0 Friendly
+1996 89 away Norway NorthernIreland 0 2 Friendly
+1996 117 home Norway Spain 0 0 Friendly
+1996 157 home Norway Azerbaijan 5 0 World Cup qualifier
+1996 249 home Norway Georgia 1 0 Friendly
+1996 288 home Norway Hungary 3 0 World Cup qualifier
+1996 320 away Norway Switzerland 0 1 World Cup qualifier
+1997 18 away Norway SouthKorea 1 0 Friendly tournament
+1997 22 home Norway NewZealand 3 0 Friendly tournament
+1997 25 away Norway Australia 1 0 Friendly tournament
+1997 91 away Norway UnitedArab 1 4 Friendly
+1997 123 home Norway Finland 1 1 World Cup qualifier
+1997 154 home Norway Brazil 4 2 Friendly
+1997 163 away Norway Hungary 1 1 World Cup qualifier
+1997 206 away Norway Iceland 0 1 Friendly
+1997 237 away Norway Finland 0 4 World Cup qualifier
+1997 254 away Norway Azerbaijan 0 1 World Cup qualifier
+1997 258 home Norway Switzerland 5 0 World Cup qualifier
+1997 287 home Norway Colombia 0 0 Friendly
+1998 56 away Norway France 3 3 Friendly
+1998 87 away Norway Belgium 2 2 Friendly
+1998 115 away Norway Denmark 0 2 Friendly
+1998 144 home Norway Mexico 5 2 Friendly
+1998 151 home Norway SaudiArabia 6 0 Friendly
+1998 165 home Norway Morocco 2 2 World Cup
+1998 171 away Norway Scotland 1 1 World Cup
+1998 178 home Norway Brazil 2 1 World Cup
+1998 182 away Norway Italy 1 0 World Cup
+1998 236 home Norway Romania 0 0 Friendly
+1998 254 home Norway Latvia 1 3 European Cup qualifier
+1998 289 away Norway Slovenia 1 2 European Cup qualifier
+1998 293 home Norway Albania 2 2 European Cup qualifier
+1998 328 away Norway Egypt 1 1 Friendly
+1999 20 away Norway Israel 0 1 Friendly tournament
+1999 22 away Norway Estonia 3 3 Friendly tournament
+1999 41 away Norway Italy 0 0 Friendly
+1999 89 away Norway Greece 0 2 European Cup qualifier
+1999 121 away Norway Georgia 1 4 European Cup qualifier
+1999 144 home Norway Jamaica 6 0 Friendly
+1999 154 home Norway Georgia 1 0 European Cup qualifier
+1999 160 away Norway Albania 1 2 European Cup qualifier
+1999 235 home Norway Lithuania 1 0 Friendly
+1999 252 home Norway Greece 1 0 European Cup qualifier
+1999 256 home Norway Slovenia 4 0 European Cup qualifier
+1999 288 away Norway Latvia 1 2 European Cup qualifier
+1999 324 home Norway Germany 0 1 Friendly
+2000 31 away Norway Iceland 0 0 Nordic Tournament
+2000 33 home Norway Denmark 4 2 Nordic Tournament
+2000 35 home Norway Sweden 1 1 Nordic Tournament
+2000 54 away Norway Turkey 0 2 Friendly
+2000 91 away Norway Switzerland 2 2 Friendly
+2000 119 home Norway Belgium 0 2 Friendly
+2000 151 home Norway Slovakia 2 0 Friendly
+2000 158 home Norway Italy 1 0 Friendly
+2000 168 home Norway Spain 1 0 European Cup
+2000 173 away Norway Yugoslavia 1 0 European Cup
+2000 176 away Norway Slovenia 0 0 European Cup
+2000 233 away Norway Finland 3 1 Nordic Tournament
+2000 250 home Norway Armenia 0 0 World Cup qualifier
+2000 286 away Norway Wales 1 1 World Cup qualifier
+2000 290 home Norway Ukraine 0 1 World Cup qualifier
+2001 24 home Norway SouthKorea 3 2 Carlsberg Cup
+2001 59 away Norway NorthernIreland 0 4 Friendly
+2001 86 home Norway Poland 2 3 World Cup qualifier
+2001 90 away Norway Belarus 2 1 World Cup qualifier
+2001 118 home Norway Bulgaria 2 1 Friendly
+2001 157 away Norway Ukraine 0 0 World Cup qualifier
+2001 161 home Norway Belarus 1 1 World Cup qualifier
+2001 232 home Norway Turkey 1 1 Friendly
+2001 249 away Norway Poland 3 0 World Cup qualifier
+2001 253 home Norway Wales 3 2 World Cup qualifier
+2001 285 away Norway Armenia 1 4 World Cup qualifier
+2002 44 away Norway Belgium 1 0 Friendly
+2002 89 away Norway Tunisia 0 0 Friendly
+2002 110 home Norway Sweden 0 0 Friendly
+2002 138 home Norway Japan 3 0 Friendly
+2002 146 home Norway Iceland 1 1 Friendly
+2002 238 home Norway Holland 0 1 Friendly
+2002 255 home Norway Denmark 2 2 European Cup qualifier
+2002 291 away Norway Romania 0 1 European Cup qualifier
+2002 295 home Norway Bosnia 2 0 European Cup qualifier
+2002 330 away Norway Austria 0 1 Friendly
+2003 26 away Norway UnitedArab 1 1 Friendly
+2003 28 away Norway Oman 1 2 Friendly
+2003 43 away Norway Greece 1 0 Friendly
+2003 95 away Norway Luxembourg 0 2 European Cup qualifier
+2003 123 away Norway Ireland 1 0 Friendly
+2003 146 home Norway Finland 2 0 Friendly
+2003 162 away Norway Denmark 1 0 European Cup qualifier
+2003 166 home Norway Romania 1 1 European Cup qualifier
+2003 237 home Norway Scotland 0 0 Friendly
+2003 254 away Norway Bosnia 1 0 European Cup qualifier
+2003 258 home Norway Portugal 0 1 Friendly
+2003 290 home Norway Luxembourg 1 0 European Cup qualifier
+2003 325 away Norway Spain 2 1 European Cup qualifier
+2003 329 home Norway Spain 0 3 European Cup qualifier
+2004 22 home Norway Sweden 3 0 Carlsberg Cup
+2004 25 home Norway Honduras 3 1 Carlsberg Cup
+2004 28 away Norway Singapore 2 5 Friendly
+2004 49 away Norway NorthernIreland 1 4 Friendly
+2004 93 away Norway Serbia and Montenegro 0 1 Friendly
+2004 121 home Norway Russia 3 2 Friendly
+2004 151 home Norway Wales 0 0 Friendly
+2004 235 home Norway Belgium 2 2 Friendly
+2004 252 away Norway Italy 2 1 World Cup qualifier
+2004 256 home Norway Belarus 1 1 World Cup qualifier
+2004 288 away Norway Scotland 0 1 World Cup qualifier
+2004 292 home Norway Slovenia 3 0 World Cup qualifier
+2004 326 away Norway Australia 2 2 Friendly
+2005 22 away Norway Kuwait 1 1 Friendly
+2005 25 away Norway Bahrain 0 1 Friendly
+2005 28 away Norway Jordan 0 0 Friendly
+2005 40 away Norway Malta 0 3 Friendly
+2005 92 away Norway Moldova 0 0 World Cup qualifier
+2005 113 away Norway Estonia 1 2 Friendly
+2005 148 home Norway CostaRica 1 0 Friendly
+2005 159 home Norway Italy 0 0 World Cup qualifier
+2005 163 away Norway Sweden 2 3 Friendly
+2005 234 home Norway Switzerland 0 2 Friendly
+2005 251 away Norway Slovenia 2 3 World Cup qualifier
+2005 255 home Norway Scotland 1 2 World Cup qualifier
+2005 287 home Norway Moldova 1 0 World Cup qualifier
+2005 291 away Norway Belarus 0 1 World Cup qualifier
+2005 322 home Norway Czechia 0 1 World Cup qualifier
+2005 326 away Norway Czechia 1 0 World Cup qualifier
+2006 25 away Norway Mexico 2 1 Friendly
+2006 29 away Norway UnitedStates 5 0 Friendly
+2006 63 away Norway Senegal 2 1 Friendly
+2006 148 home Norway Paraguay 2 2 Friendly
+2006 156 home Norway SouthKorea 0 0 Friendly
+2006 233 home Norway Brazil 1 1 Friendly
+2006 250 away Norway Hungary 1 4 European Cup qualifier
+2006 254 home Norway Moldova 2 0 European Cup qualifier
+2006 286 away Norway Greece 1 0 European Cup qualifier
+2006 325 away Norway Serbia 1 1 Friendly
+2007 38 away Norway Croatia 2 1 Friendly
+2007 86 home Norway Bosnia 1 2 European Cup qualifier
+2007 90 home Norway Turkey 2 2 European Cup qualifier
+2007 157 home Norway Malta 4 0 European Cup qualifier
+2007 161 home Norway Hungary 4 0 European Cup qualifier
+2007 239 home Norway Argentina 2 1 Friendly
+2007 256 away Norway Moldova 0 1 European Cup qualifier
+2007 260 home Norway Greece 2 2 European Cup qualifier
+2007 296 away Norway Bosnia 0 2 European Cup qualifier
+2007 327 home Norway Turkey 1 2 European Cup qualifier
+2007 331 away Norway Malta 1 4 European Cup qualifier
+2008 37 away Norway Wales 3 0 Friendly
+2008 88 away Norway Montenegro 3 1 Friendly
+2008 152 home Norway Uruguay 2 2 Friendly
+2008 237 home Norway Ireland 1 1 Friendly
+2008 254 home Norway Iceland 2 2 World Cup qualifier
+2008 290 away Norway Scotland 0 0 World Cup qualifier
+2008 294 home Norway Holland 0 1 World Cup qualifier
+2008 329 away Norway Ukraine 1 0 Friendly
+2009 42 away Norway Germany 0 1 Friendly
+2009 90 away Norway SouthAfrica 2 1 Friendly
+2009 94 home Norway Finland 3 2 Friendly
+2009 161 away Norway Macedonia 0 0 World Cup qualifier
+2009 165 away Norway Holland 2 0 World Cup qualifier
+2009 229 home Norway Scotland 4 0 World Cup qualifier
+2009 253 away Norway Iceland 1 1 World Cup qualifier
+2009 257 home Norway Macedonia 2 1 World Cup qualifier
+2009 289 home Norway SouthAfrica 1 0 Friendly
+2009 324 away Norway Switzerland 0 1 Friendly
+2010 65 away Norway Slovakia 0 1 Friendly
+2010 153 home Norway Montenegro 2 1 Friendly
+2010 157 home Norway Ukraine 0 1 Friendly
+2010 228 home Norway France 2 1 Friendly
+2010 251 away Norway Iceland 1 2 European Cup qualifier
+2010 255 home Norway Portugal 1 0 European Cup qualifier
+2010 287 away Norway Cyprus 1 2 European Cup qualifier
+2010 291 away Norway Croatia 2 1 Friendly
+2010 327 away Norway Ireland 1 2 Friendly
+2011 40 away Norway Poland 1 0 Friendly
+2011 88 home Norway Denmark 1 1 European Cup qualifier
+2011 159 away Norway Portugal 1 0 European Cup qualifier
+2011 162 home Norway Lithuania 1 0 Friendly
+2011 227 home Norway Czechia 3 0 Friendly
+2011 250 home Norway Iceland 1 0 European Cup qualifier
+2011 254 away Norway Denmark 2 0 European Cup qualifier
+2011 290 home Norway Cyprus 3 1 European Cup qualifier
+2011 322 away Norway Wales 4 1 Friendly
+2012 18 away Norway Thailand 0 1 King's Cup
+2012 60 away Norway NorthernIreland 0 3 Friendly
+2012 150 home Norway England 0 1 Friendly
+2012 157 home Norway Croatia 1 1 Friendly
+2012 232 home Norway Greece 2 3 Friendly
+2012 255 away Norway Iceland 2 0 World Cup qualifier
+2012 259 home Norway Slovenia 2 1 World Cup qualifier
+2012 291 away Norway Switzerland 1 1 World Cup qualifier
+2012 295 away Norway Cyprus 1 3 World Cup qualifier
+2012 324 away Norway Hungary 0 2 Friendly
+2013 8 away Norway SouthAfrica 0 1 Friendly
+2013 12 away Norway Zambia 0 0 Friendly
+2013 37 home Norway Ukraine 0 2 Friendly
+2013 84 home Norway Albania 0 1 World Cup qualifier
+2013 162 away Norway Albania 1 1 World Cup qualifier
+2013 166 home Norway Macedonia 2 0 Friendly
+2013 231 away Norway Sweden 4 2 Friendly
+2013 254 home Norway Cyprus 2 0 World Cup qualifier
+2013 258 home Norway Switzerland 0 2 World Cup qualifier
+2013 290 away Norway Slovenia 3 0 World Cup qualifier
+2013 294 home Norway Iceland 1 1 World Cup qualifier
+2013 325 away Norway Denmark 2 1 Friendly
+2013 329 home Norway Scotland 0 1 Friendly
+2014 15 home Norway Moldova 2 1 Friendly
+2014 18 away Norway Poland 3 0 Friendly
+2014 67 away Norway Czechia 2 2 Friendly

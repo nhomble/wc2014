@@ -1,0 +1,6750 @@
+May 15
+1910	Italy
+France	6
+2	Friendly
+in Italy	+8
+-8	1708
+1571	-
+-1	9
+19
+May 26
+1910	Hungary
+Italy	6
+1	Friendly
+in Hungary	+20
+-20	1635
+1688	0
+0	13
+9
+January 06
+1911	Italy
+Hungary	0
+1	Friendly
+in Italy	-13
++13	1675
+1678	-1
++2	11
+10
+April 09
+1911	France
+Italy	2
+2	Friendly
+in France	+1
+-1	1553
+1674	0
+0	20
+10
+May 07
+1911	Italy
+Switzerland	2
+2	Friendly
+in Italy	-5
++5	1669
+1606	0
++1	10
+14
+May 21
+1911	Switzerland
+Italy	3
+0	Friendly
+in Switzerland	+16
+-16	1622
+1653	0
+-2	14
+12
+March 17
+1912	Italy
+France	3
+4	Friendly
+in Italy	-15
++15	1638
+1576	0
+0	12
+18
+June 29
+1912	Finland
+Italy	3
+2	Olympic Games
+in Sweden	+43
+-43	1522
+1595	+2
+-1	20
+14
+July 01
+1912	Sweden
+Italy	0
+1	Olympic Games Consolation Tournament
+in Sweden	-30
++30	1650
+1625	-1
+0	12
+14
+July 03
+1912	Austria
+Italy	5
+1	Olympic Games Consolation Tournament
+in Sweden	+34
+-34	1693
+1591	0
+-2	11
+16
+December 22
+1912	Italy
+Austria	1
+3	Friendly
+in Italy	-17
++17	1574
+1668	-1
++1	17
+11
+January 12
+1913	France
+Italy	1
+0	Friendly
+in France	+7
+-7	1583
+1567	0
+-1	16
+18
+May 01
+1913	Italy
+Belgium	1
+0	Friendly
+in Italy	+13
+-13	1580
+1750	0
+-1	17
+8
+June 15
+1913	Austria
+Italy	2
+0	Friendly
+in Austria	+8
+-8	1668
+1572	+1
+0	11
+17
+January 11
+1914	Italy
+Austria	0
+0	Friendly
+in Italy	0
+0	1572
+1664	0
+0	16
+11
+March 29
+1914	Italy
+France	2
+0	Friendly
+in Italy	+12
+-12	1584
+1579	+1
+-1	15
+16
+April 05
+1914	Italy
+Switzerland	1
+1	Friendly
+in Italy	-4
++4	1580
+1559	0
+0	15
+18
+May 17
+1914	Switzerland
+Italy	0
+1	Friendly
+in Switzerland	-12
++12	1547
+1592	0
+0	18
+15
+January 31
+1915	Italy
+Switzerland	3
+1	Friendly
+in Italy	+9
+-9	1601
+1538	+1
+0	15
+19
+January 18
+1920	Italy
+France	9
+4	Friendly
+in Italy	+13
+-13	1614
+1566	+2
+0	15
+19
+March 28
+1920	Switzerland
+Italy	3
+0	Friendly
+in Switzerland	+18
+-18	1530
+1596	+3
+-2	22
+17
+May 13
+1920	Italy
+Netherlands	1
+1	Friendly
+in Italy	+4
+-4	1600
+1860	0
+0	17
+2
+August 28
+1920	Italy
+Egypt	2
+1	Olympic Games
+in Belgium	+30
+-30	1630
+1570	+1
+-	16
+22
+August 29
+1920	France
+Italy	3
+1	Olympic Games
+in Belgium	+50
+-50	1645
+1580	+4
+-4	16
+20
+August 31
+1920	Italy
+Norway	2
+1	Olympic Games
+in Belgium	+30
+-30	1610
+1551	+3
+-6	17
+25
+September 02
+1920	Spain
+Italy	2
+0	Olympic Games
+in Belgium	+22
+-22	1832
+1588	+4
+-3	3
+20
+February 20
+1921	France
+Italy	1
+2	Friendly
+in France	-14
++14	1601
+1602	-3
++2	19
+18
+March 06
+1921	Italy
+Switzerland	2
+1	Friendly
+in Italy	+6
+-6	1608
+1569	+2
+0	16
+22
+May 05
+1921	Belgium
+Italy	2
+3	Friendly
+in Belgium	-18
++18	1838
+1626	0
+0	3
+16
+May 08
+1921	Netherlands
+Italy	2
+2	Friendly
+in the Netherlands	-6
++6	1769
+1632	0
+0	8
+16
+November 06
+1921	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	-1
++1	1564
+1633	0
+0	24
+16
+January 15
+1922	Italy
+Austria	3
+3	Friendly
+in Italy	0
+0	1633
+1718	0
+0	17
+13
+February 26
+1922	Italy
+Czechoslovakia	1
+1	Friendly
+in Italy	+2
+-2	1635
+1795	0
+0	17
+5
+May 21
+1922	Italy
+Belgium	4
+2	Friendly
+in Italy	+18
+-18	1653
+1797	+1
+0	16
+6
+December 03
+1922	Italy
+Switzerland	2
+2	Friendly
+in Italy	-4
++4	1649
+1595	0
+0	18
+26
+January 01
+1923	Italy
+Germany	3
+1	Friendly
+in Italy	+9
+-9	1658
+1587	0
+-1	18
+27
+March 04
+1923	Italy
+Hungary	0
+0	Friendly
+in Italy	0
+0	1658
+1768	0
+0	18
+9
+April 15
+1923	Austria
+Italy	0
+0	Friendly
+in Austria	-4
++4	1702
+1662	0
+0	15
+18
+May 27
+1923	Czechoslovakia
+Italy	5
+1	Friendly
+in Czechoslovakia	+7
+-7	1821
+1655	0
+0	4
+19
+January 20
+1924	Italy
+Austria	0
+4	Friendly
+in Italy	-23
++23	1632
+1705	0
++2	19
+14
+March 09
+1924	Italy
+Spain	0
+0	Friendly
+in Italy	+5
+-5	1637
+1897	0
+0	19
+1
+April 06
+1924	Hungary
+Italy	7
+1	Friendly
+in Hungary	+8
+-8	1797
+1629	+3
+0	4
+20
+May 25
+1924	Italy
+Spain	1
+0	Olympic Games
+in France	+49
+-49	1678
+1848	+3
+-2	17
+3
+May 29
+1924	Italy
+Luxembourg	2
+0	Olympic Games
+in France	+6
+-6	1684
+1199	+1
+-1	16
+51
+June 02
+1924	Switzerland
+Italy	2
+1	Olympic Games
+in France	+28
+-28	1732
+1656	+2
+-3	13
+20
+November 16
+1924	Italy
+Sweden	2
+2	Friendly
+in Italy	+2
+-2	1658
+1834	0
+0	20
+4
+November 23
+1924	Germany
+Italy	0
+1	Friendly
+in Germany	-11
++11	1599
+1669	-3
+0	26
+20
+January 18
+1925	Italy
+Hungary	1
+2	Friendly
+in Italy	-11
++11	1658
+1748	0
++3	20
+9
+March 22
+1925	Italy
+France	7
+0	Friendly
+in Italy	+9
+-9	1667
+1516	+1
+0	19
+35
+June 14
+1925	Spain
+Italy	1
+0	Friendly
+in Spain	+3
+-3	1883
+1664	0
+0	2
+20
+June 18
+1925	Portugal
+Italy	1
+0	Friendly
+in Portugal	+7
+-7	1678
+1657	+1
+0	18
+20
+November 04
+1925	Italy
+Yugoslavia	2
+1	Friendly
+in Italy	+4
+-4	1661
+1504	0
+0	20
+35
+November 08
+1925	Hungary
+Italy	1
+1	Friendly
+in Hungary	-4
++4	1710
+1665	0
+0	14
+20
+January 17
+1926	Italy
+Czechoslovakia	3
+1	Friendly
+in Italy	+18
+-18	1683
+1811	+2
+-1	17
+6
+March 21
+1926	Italy
+Ireland	3
+0	Friendly
+in Italy	+7
+-7	1690
+1541	0
+0	17
+31
+April 18
+1926	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	-3
++3	1682
+1693	0
+0	17
+16
+May 09
+1926	Italy
+Switzerland	3
+2	Friendly
+in Italy	+7
+-7	1700
+1663	0
+-1	16
+18
+July 18
+1926	Sweden
+Italy	5
+3	Friendly
+in Sweden	+7
+-7	1818
+1693	+2
+0	5
+16
+October 28
+1926	Czechoslovakia
+Italy	3
+1	Friendly
+in Czechoslovakia	+7
+-7	1808
+1686	+1
+0	6
+16
+January 30
+1927	Switzerland
+Italy	1
+5	Friendly
+in Switzerland	-23
++23	1645
+1709	-2
++3	19
+13
+February 20
+1927	Italy
+Czechoslovakia	2
+2	Friendly
+in Italy	0
+0	1709
+1816	0
+0	13
+6
+April 17
+1927	Italy
+Portugal	3
+1	Friendly
+in Italy	+9
+-9	1718
+1660	0
+0	13
+17
+April 24
+1927	France
+Italy	3
+3	Friendly
+in France	+2
+-2	1546
+1716	0
+0	31
+13
+May 29
+1927	Italy
+Spain	2
+0	Friendly
+in Italy	+19
+-19	1735
+1896	+2
+0	11
+2
+October 23
+1927	Czechoslovakia
+Italy	2
+2	Dr. Gero International Cup
+in Czechoslovakia	-12
++12	1857
+1747	0
+0	5
+12
+November 06
+1927	Italy
+Austria	0
+1	Dr. Gero International Cup
+in Italy	-23
++23	1724
+1819	-1
++1	13
+6
+January 01
+1928	Italy
+Switzerland	3
+2	Dr. Gero International Cup
+in Italy	+10
+-10	1734
+1621	+1
+-1	11
+22
+March 25
+1928	Italy
+Hungary	4
+3	Dr. Gero International Cup
+in Italy	+16
+-16	1750
+1743	+1
+-1	10
+11
+April 15
+1928	Portugal
+Italy	4
+1	Friendly
+in Portugal	+17
+-17	1682
+1733	+1
+-2	16
+12
+April 22
+1928	Spain
+Italy	1
+1	Friendly
+in Spain	-6
++6	1890
+1739	0
++1	3
+11
+May 29
+1928	Italy
+France	4
+3	Olympic Games
+in the Netherlands	+11
+-11	1750
+1473	0
+-3	11
+42
+June 01
+1928	Italy
+Spain	1
+1	Olympic Games
+in the Netherlands	+14
+-14	1764
+1908	0
+0	11
+3
+June 04
+1928	Italy
+Spain	7
+1	Olympic Games
+in the Netherlands	+89
+-89	1853
+1819	+6
+-3	5
+6
+June 07
+1928	Uruguay
+Italy	3
+2	Olympic Games
+in the Netherlands	+19
+-19	2009
+1834	0
+0	1
+5
+June 10
+1928	Italy
+Egypt	11
+3	Olympic Games
+in the Netherlands	+41
+-41	1875
+1634	+2
+-3	3
+20
+October 14
+1928	Switzerland
+Italy	2
+3	Dr. Gero International Cup
+in Switzerland	-10
++10	1565
+1885	-2
+0	30
+3
+November 11
+1928	Italy
+Austria	2
+2	Friendly
+in Italy	-4
++4	1881
+1848	0
+0	3
+6
+December 02
+1928	Italy
+Netherlands	3
+2	Friendly
+in Italy	+3
+-3	1884
+1653	0
+0	3
+17
+March 03
+1929	Italy
+Czechoslovakia	4
+2	Dr. Gero International Cup
+in Italy	+21
+-21	1905
+1850	+1
+0	3
+5
+April 07
+1929	Austria
+Italy	3
+0	Dr. Gero International Cup
+in Austria	+30
+-30	1881
+1875	+1
+-2	4
+5
+April 28
+1929	Italy
+Germany	1
+2	Friendly
+in Italy	-16
++16	1859
+1735	0
++1	5
+13
+December 01
+1929	Italy
+Portugal	6
+1	Friendly
+in Italy	+6
+-6	1865
+1653	0
+0	5
+17
+February 09
+1930	Italy
+Switzerland	4
+2	Friendly
+in Italy	+2
+-2	1867
+1488	0
+0	5
+38
+March 02
+1930	Germany
+Italy	0
+2	Friendly
+in Germany	-14
++14	1741
+1881	-1
++1	13
+4
+April 06
+1930	Netherlands
+Italy	1
+1	Friendly
+in the Netherlands	+5
+-5	1606
+1876	0
+-1	25
+5
+May 11
+1930	Hungary
+Italy	0
+5	Dr. Gero International Cup
+in Hungary	-39
++39	1729
+1915	-4
++3	14
+2
+June 22
+1930	Italy
+Spain	2
+3	Friendly
+in Italy	-15
++15	1900
+1848	-2
++2	4
+6
+January 25
+1931	Italy
+France	5
+0	Friendly
+in Italy	+2
+-2	1902
+1497	0
+0	3
+36
+February 22
+1931	Italy
+Austria	2
+1	Dr. Gero International Cup
+in Italy	+12
+-12	1914
+1845	0
+-2	3
+8
+March 29
+1931	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+15
+-15	1506
+1899	+2
+-1	37
+4
+April 12
+1931	Portugal
+Italy	0
+2	Friendly
+in Portugal	-9
++9	1643
+1908	-1
++1	19
+3
+April 19
+1931	Spain
+Italy	0
+0	Friendly
+in Spain	-1
++1	1855
+1909	0
+0	6
+3
+May 20
+1931	Italy
+Scotland	3
+0	Friendly
+in Italy	+11
+-11	1920
+1872	0
+0	3
+4
+November 15
+1931	Italy
+Czechoslovakia	2
+2	Dr. Gero International Cup
+in Italy	-11
++11	1909
+1824	0
+0	3
+8
+December 13
+1931	Italy
+Hungary	3
+2	Dr. Gero International Cup
+in Italy	+9
+-9	1918
+1784	0
+0	3
+10
+February 14
+1932	Italy
+Switzerland	3
+0	Dr. Gero International Cup
+in Italy	+3
+-3	1921
+1464	0
+0	3
+43
+March 20
+1932	Austria
+Italy	2
+1	Dr. Gero International Cup
+in Austria	+15
+-15	1921
+1906	+1
+-1	3
+4
+April 10
+1932	France
+Italy	1
+2	Friendly
+in France	-3
++3	1522
+1909	0
+0	34
+4
+May 08
+1932	Hungary
+Italy	1
+1	Dr. Gero International Cup
+in Hungary	+1
+-1	1796
+1908	0
+0	9
+4
+October 28
+1932	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+24
+-24	1770
+1884	+2
+-1	9
+5
+November 27
+1932	Italy
+Hungary	4
+2	Friendly
+in Italy	+7
+-7	1891
+1759	0
+0	5
+11
+January 01
+1933	Italy
+Germany	3
+1	Friendly
+in Italy	+5
+-5	1896
+1699	0
+0	5
+13
+February 12
+1933	Belgium
+Italy	2
+3	Friendly
+in Belgium	-3
++3	1519
+1899	0
+0	37
+5
+April 02
+1933	Switzerland
+Italy	0
+3	Dr. Gero International Cup
+in Switzerland	-16
++16	1570
+1915	-1
+0	31
+4
+May 07
+1933	Italy
+Czechoslovakia	2
+0	Dr. Gero International Cup
+in Italy	+12
+-12	1927
+1764	+2
+-2	2
+11
+May 13
+1933	Italy
+England	1
+1	Friendly
+in Italy	-4
++4	1923
+1889	-1
+0	3
+5
+October 22
+1933	Hungary
+Italy	0
+1	Dr. Gero International Cup
+in Hungary	-17
++17	1753
+1940	-1
+0	11
+2
+December 03
+1933	Italy
+Switzerland	5
+2	Dr. Gero International Cup
+in Italy	+4
+-4	1944
+1550	0
+0	2
+33
+February 11
+1934	Italy
+Austria	2
+4	Dr. Gero International Cup
+in Italy	-40
++40	1904
+1964	-2
++1	4
+2
+March 25
+1934	Italy
+Greece	4
+0	World Cup qualifier
+in Italy	+2
+-2	1906
+1336	0
+0	4
+58
+May 27
+1934	Italy
+United States	7
+1	World Cup
+in Italy	+20
+-20	1926
+1694	+1
+-3	3
+16
+May 31
+1934	Italy
+Spain	1
+1	World Cup
+in Italy	-10
++10	1916
+1919	-1
++2	4
+3
+June 01
+1934	Italy
+Spain	1
+0	World Cup
+in Italy	+22
+-22	1938
+1897	+1
+-2	3
+5
+June 03
+1934	Italy
+Austria	1
+0	World Cup
+in Italy	+27
+-27	1965
+1971	+1
+0	2
+1
+June 10
+1934	Italy
+Czechoslovakia	2
+1	World Cup
+in Italy	+14
+-14	1979
+1847	0
+0	1
+7
+November 14
+1934	England
+Italy	3
+2	Friendly
+in England	+9
+-9	1916
+1970	0
+0	3
+1
+December 09
+1934	Italy
+Hungary	4
+2	Friendly
+in Italy	+6
+-6	1976
+1812	0
+-1	1
+9
+February 17
+1935	Italy
+France	2
+1	Friendly
+in Italy	+1
+-1	1977
+1557	0
+-1	1
+34
+March 24
+1935	Austria
+Italy	0
+2	Dr. Gero International Cup
+in Austria	-31
++31	1857
+2008	0
+0	6
+1
+October 27
+1935	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+25
+-25	1846
+1983	+2
+0	6
+1
+November 24
+1935	Italy
+Hungary	2
+2	Dr. Gero International Cup
+in Italy	-13
++13	1970
+1812	0
+0	1
+9
+April 05
+1936	Switzerland
+Italy	1
+2	Friendly
+in Switzerland	-4
++4	1610
+1974	-1
+0	27
+1
+May 17
+1936	Italy
+Austria	2
+2	Friendly
+in Italy	-6
++6	1968
+1836	0
++1	1
+8
+May 31
+1936	Hungary
+Italy	1
+2	Friendly
+in Hungary	-9
++9	1823
+1977	0
+0	9
+1
+August 03
+1936	Italy
+United States	1
+0	Olympic Games
+in Germany	+10
+-10	1987
+1684	0
+0	1
+16
+August 07
+1936	Italy
+Japan	8
+0	Olympic Games
+in Germany	+2
+-2	1989
+1233	0
+0	1
+66
+August 10
+1936	Italy
+Norway	2
+1	Olympic Games
+in Germany	+11
+-11	2000
+1715	0
+0	1
+13
+August 15
+1936	Italy
+Austria	2
+1	Olympic Games
+in Germany	+15
+-15	2015
+1800	0
+-1	1
+8
+October 25
+1936	Italy
+Switzerland	4
+2	Dr. Gero International Cup
+in Italy	+3
+-3	2018
+1597	0
+-1	1
+30
+November 15
+1936	Germany
+Italy	2
+2	Friendly
+in Germany	+4
+-4	1761
+2014	0
+0	11
+1
+December 13
+1936	Italy
+Czechoslovakia	2
+0	Friendly
+in Italy	+6
+-6	2020
+1865	0
+0	1
+5
+March 21
+1937	Austria
+Italy	2
+0	Friendly
+in Austria	+20
+-20	1823
+2000	+1
+0	7
+1
+April 25
+1937	Italy
+Hungary	2
+0	Dr. Gero International Cup
+in Italy	+8
+-8	2008
+1772	0
+0	1
+10
+May 23
+1937	Czechoslovakia
+Italy	0
+1	Dr. Gero International Cup
+in Czechoslovakia	-16
++16	1829
+2024	-2
+0	7
+1
+May 27
+1937	Norway
+Italy	1
+3	Friendly
+in Norway	-6
++6	1683
+2030	-1
+0	17
+1
+October 31
+1937	Switzerland
+Italy	2
+2	Dr. Gero International Cup
+in Switzerland	+17
+-17	1533
+2013	+3
+0	35
+1
+December 05
+1937	France
+Italy	0
+0	Friendly
+in France	+8
+-8	1558
+2005	0
+0	34
+1
+May 15
+1938	Italy
+Belgium	6
+1	Friendly
+in Italy	+1
+-1	2006
+1502	0
+0	1
+41
+May 22
+1938	Italy
+Yugoslavia	4
+0	Friendly
+in Italy	+2
+-2	2008
+1640	0
+-1	1
+22
+June 05
+1938	Italy
+Norway	2
+1	World Cup
+in France	+8
+-8	2016
+1677	0
+0	1
+16
+June 12
+1938	France
+Italy	1
+3	World Cup
+in France	-12
++12	1584
+2028	-2
+0	33
+1
+June 16
+1938	Italy
+Brazil	2
+1	World Cup
+in France	+17
+-17	2045
+1847	0
+-2	1
+7
+June 19
+1938	Italy
+Hungary	4
+2	World Cup
+in France	+25
+-25	2070
+1857	0
+-3	1
+6
+November 20
+1938	Italy
+Switzerland	2
+0	Friendly
+in Italy	+1
+-1	2071
+1639	0
+0	1
+21
+December 04
+1938	Italy
+France	1
+0	Friendly
+in Italy	+1
+-1	2072
+1583	0
+0	1
+33
+March 26
+1939	Italy
+Germany	3
+2	Friendly
+in Italy	+2
+-2	2074
+1739	0
+0	1
+15
+May 13
+1939	Italy
+England	2
+2	Friendly
+in Italy	-7
++7	2067
+1876	0
++1	1
+4
+June 04
+1939	Yugoslavia
+Italy	1
+2	Friendly
+in Yugoslavia	-2
++2	1621
+2069	0
+0	24
+1
+June 08
+1939	Hungary
+Italy	1
+3	Friendly
+in Hungary	-8
++8	1793
+2077	-1
+0	8
+1
+June 11
+1939	Romania
+Italy	0
+1	Friendly
+in Romania	-1
++1	1528
+2078	0
+0	36
+1
+July 20
+1939	Finland
+Italy	2
+3	Friendly
+in Finland	-1
++1	1346
+2079	0
+0	62
+1
+November 12
+1939	Switzerland
+Italy	3
+1	Friendly
+in Switzerland	+25
+-25	1713
+2054	+1
+0	16
+1
+November 26
+1939	Germany
+Italy	5
+2	Friendly
+in Germany	+27
+-27	1783
+2027	+3
+0	11
+1
+March 03
+1940	Italy
+Switzerland	1
+1	Friendly
+in Italy	-8
++8	2019
+1721	0
+0	2
+16
+April 14
+1940	Italy
+Romania	2
+1	Friendly
+in Italy	+1
+-1	2020
+1530	0
+0	2
+38
+May 05
+1940	Italy
+Germany	3
+2	Friendly
+in Italy	+2
+-2	2022
+1767	0
+0	2
+13
+December 01
+1940	Italy
+Hungary	1
+1	Friendly
+in Italy	-7
++7	2015
+1812	0
++1	1
+8
+April 05
+1942	Italy
+Croatia	4
+0	Friendly
+in Italy	+5
+-5	2020
+1782	0
+-2	2
+13
+April 19
+1942	Italy
+Spain	4
+0	Friendly
+in Italy	+8
+-8	2028
+1875	+1
+0	1
+4
+November 11
+1945	Switzerland
+Italy	4
+4	Friendly
+in Switzerland	+6
+-6	1692
+2022	0
+0	18
+2
+December 01
+1946	Italy
+Austria	3
+2	Friendly
+in Italy	+2
+-2	2024
+1728	0
+0	2
+16
+April 27
+1947	Italy
+Switzerland	5
+2	Friendly
+in Italy	+3
+-3	2027
+1694	0
+0	2
+18
+May 11
+1947	Italy
+Hungary	3
+2	Friendly
+in Italy	+3
+-3	2030
+1825	0
+0	2
+7
+November 09
+1947	Austria
+Italy	5
+1	Friendly
+in Austria	+29
+-29	1753
+2001	+2
+0	14
+2
+December 14
+1947	Italy
+Czechoslovakia	3
+1	Friendly
+in Italy	+4
+-4	2005
+1779	0
+0	2
+12
+April 04
+1948	France
+Italy	1
+3	Friendly
+in France	-6
++6	1673
+2011	-2
+0	22
+2
+May 16
+1948	Italy
+England	0
+4	Friendly
+in Italy	-27
++27	1984
+1980	0
+0	2
+3
+February 27
+1949	Italy
+Portugal	4
+1	Friendly
+in Italy	+2
+-2	1986
+1627	0
+0	3
+26
+March 27
+1949	Spain
+Italy	1
+3	Friendly
+in Spain	-12
++12	1801
+1998	0
++1	10
+2
+May 22
+1949	Italy
+Austria	3
+1	Dr. Gero International Cup
+in Italy	+6
+-6	2004
+1708	0
++1	2
+17
+June 12
+1949	Hungary
+Italy	1
+1	Dr. Gero International Cup
+in Hungary	+4
+-4	1835
+2000	0
+0	8
+2
+November 30
+1949	England
+Italy	2
+0	Friendly
+in England	+13
+-13	1958
+1987	+1
+0	3
+2
+March 05
+1950	Italy
+Belgium	3
+1	Friendly
+in Italy	+1
+-1	1988
+1561	0
+0	2
+35
+April 02
+1950	Austria
+Italy	1
+0	Dr. Gero International Cup
+in Austria	+28
+-28	1760
+1960	+2
+0	13
+2
+June 25
+1950	Sweden
+Italy	3
+2	World Cup
+in Brazil	+34
+-34	1950
+1926	+1
+-2	4
+5
+July 02
+1950	Italy
+Paraguay	2
+0	World Cup
+in Brazil	+36
+-36	1962
+1822	+3
+-3	2
+11
+April 08
+1951	Portugal
+Italy	1
+4	Friendly
+in Portugal	-7
++7	1617
+1969	0
+0	27
+3
+May 06
+1951	Italy
+Yugoslavia	0
+0	Friendly
+in Italy	-6
++6	1963
+1826	0
++1	3
+11
+June 03
+1951	Italy
+France	4
+1	Friendly
+in Italy	+3
+-3	1966
+1642	0
+0	3
+25
+November 11
+1951	Italy
+Sweden	1
+1	Friendly
+in Italy	-6
++6	1960
+1824	0
++2	3
+11
+November 25
+1951	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+11
+-11	1656
+1949	0
+0	25
+3
+February 24
+1952	Belgium
+Italy	2
+0	Friendly
+in Belgium	+24
+-24	1625
+1925	+3
+0	27
+3
+May 18
+1952	Italy
+England	1
+1	Friendly
+in Italy	-3
++3	1922
+1914	0
+0	3
+4
+October 26
+1952	Sweden
+Italy	1
+1	Friendly
+in Sweden	+1
+-1	1790
+1921	0
+0	14
+4
+December 28
+1952	Italy
+Switzerland	2
+0	Dr. Gero International Cup
+in Italy	+6
+-6	1927
+1642	0
+0	5
+23
+April 26
+1953	Czechoslovakia
+Italy	2
+0	Dr. Gero International Cup
+in Czechoslovakia	+46
+-46	1659
+1881	+7
+-2	22
+6
+May 17
+1953	Italy
+Hungary	0
+3	Dr. Gero International Cup
+in Italy	-34
++34	1847
+2022	-3
+0	9
+2
+November 13
+1953	Egypt
+Italy	1
+2	World Cup qualifier
+in Egypt	-11
++11	1563
+1858	-4
++1	39
+8
+December 13
+1953	Italy
+Czechoslovakia	3
+0	Dr. Gero International Cup
+in Italy	+13
+-13	1871
+1690	+2
+-2	7
+20
+January 24
+1954	Italy
+Egypt	5
+1	World Cup qualifier
+in Italy	+7
+-7	1878
+1556	0
+-2	7
+40
+April 11
+1954	France
+Italy	1
+3	Friendly
+in France	-13
++13	1715
+1891	0
+0	15
+7
+June 17
+1954	Switzerland
+Italy	2
+1	World Cup
+in Switzerland	+44
+-44	1660
+1847	+7
+-2	22
+9
+June 20
+1954	Italy
+Belgium	4
+1	World Cup
+in Switzerland	+35
+-35	1882
+1690	+2
+-4	8
+19
+June 23
+1954	Switzerland
+Italy	4
+1	World Cup
+in Switzerland	+73
+-73	1708
+1809	+8
+-2	17
+10
+December 05
+1954	Italy
+Argentina	2
+0	Friendly
+in Italy	+21
+-21	1830
+2031	0
+0	10
+2
+January 16
+1955	Italy
+Belgium	1
+0	Friendly
+in Italy	+5
+-5	1835
+1715	0
+-1	10
+17
+March 30
+1955	West Germany
+Italy	1
+2	Friendly
+in West Germany	-16
++16	1964
+1851	-1
++1	4
+8
+May 29
+1955	Italy
+Yugoslavia	0
+4	Dr. Gero International Cup
+in Italy	-45
++45	1806
+1926	-2
++1	9
+5
+November 27
+1955	Hungary
+Italy	2
+0	Dr. Gero International Cup
+in Hungary	+4
+-4	2150
+1802	0
+-1	1
+10
+December 18
+1955	Italy
+West Germany	2
+1	Friendly
+in Italy	+11
+-11	1813
+1930	+1
+0	9
+4
+February 15
+1956	Italy
+France	2
+0	Friendly
+in Italy	+10
+-10	1823
+1776	0
+0	10
+14
+April 25
+1956	Italy
+Brazil	3
+0	Friendly
+in Italy	+21
+-21	1844
+1982	+1
+0	8
+3
+June 24
+1956	Argentina
+Italy	1
+0	Friendly
+in Argentina	+3
+-3	2027
+1841	+1
+0	1
+9
+July 01
+1956	Brazil
+Italy	2
+0	Friendly
+in Brazil	+5
+-5	2016
+1836	0
+0	3
+9
+November 11
+1956	Switzerland
+Italy	1
+1	Dr. Gero International Cup
+in Switzerland	+8
+-8	1595
+1828	+2
+0	33
+9
+December 09
+1956	Italy
+Austria	2
+1	Dr. Gero International Cup
+in Italy	+15
+-15	1843
+1829	+2
+-2	6
+8
+April 25
+1957	Italy
+Northern Ireland	1
+0	World Cup qualifier
+in Italy	+4
+-4	1847
+1542	0
+0	7
+42
+May 12
+1957	Yugoslavia
+Italy	6
+1	Dr. Gero International Cup
+in Yugoslavia	+35
+-35	1828
+1812	+5
+-4	8
+11
+May 26
+1957	Portugal
+Italy	3
+0	World Cup qualifier
+in Portugal	+47
+-47	1636
+1765	+9
+-6	25
+17
+December 04
+1957	Northern Ireland
+Italy	2
+2	Friendly
+in Northern Ireland	+1
+-1	1620
+1764	+1
+0	32
+16
+December 22
+1957	Italy
+Portugal	3
+0	World Cup qualifier
+in Italy	+15
+-15	1779
+1616	+1
+-5	15
+33
+January 15
+1958	Northern Ireland
+Italy	2
+1	World Cup qualifier
+in Northern Ireland	+23
+-23	1643
+1756	+4
+-2	27
+17
+March 23
+1958	Austria
+Italy	3
+2	Dr. Gero International Cup
+in Austria	+11
+-11	1840
+1745	+2
+-1	7
+18
+November 09
+1958	France
+Italy	2
+2	Friendly
+in France	-6
++6	1903
+1751	0
+0	3
+18
+December 13
+1958	Italy
+Czechoslovakia	1
+1	Dr. Gero International Cup
+in Italy	-2
++2	1749
+1824	0
+0	18
+11
+February 28
+1959	Italy
+Spain	1
+1	Friendly
+in Italy	-1
++1	1748
+1827	0
+0	18
+10
+May 06
+1959	England
+Italy	2
+2	Friendly
+in England	-6
++6	1889
+1754	0
+0	4
+18
+November 01
+1959	Czechoslovakia
+Italy	2
+1	Dr. Gero International Cup
+in Czechoslovakia	+12
+-12	1810
+1742	+2
+-1	11
+20
+November 29
+1959	Italy
+Hungary	1
+1	Dr. Gero International Cup
+in Italy	+5
+-5	1747
+1925	0
+0	20
+3
+January 06
+1960	Italy
+Switzerland	3
+0	Dr. Gero International Cup
+in Italy	+9
+-9	1756
+1512	+1
+-1	18
+47
+March 13
+1960	Spain
+Italy	3
+1	Friendly
+in Spain	+7
+-7	1861
+1749	0
+-1	8
+20
+December 10
+1960	Italy
+Austria	1
+2	Friendly
+in Italy	-12
++12	1737
+1794	0
++2	18
+14
+April 25
+1961	Italy
+Northern Ireland	3
+2	Friendly
+in Italy	+3
+-3	1740
+1563	0
+-1	19
+46
+May 24
+1961	Italy
+England	2
+3	Friendly
+in Italy	-8
++8	1732
+1915	0
++1	20
+4
+June 15
+1961	Italy
+Argentina	4
+1	Friendly
+in Italy	+24
+-24	1756
+1940	+1
+0	19
+2
+October 15
+1961	Israel
+Italy	2
+4	World Cup qualifier
+in Israel	-25
++25	1571
+1781	-2
++1	45
+18
+November 04
+1961	Italy
+Israel	6
+0	World Cup qualifier
+in Italy	+12
+-12	1793
+1557	+1
+-1	16
+46
+May 05
+1962	Italy
+France	2
+1	Friendly
+in Italy	+5
+-5	1798
+1705	+1
+-1	15
+22
+May 13
+1962	Belgium
+Italy	1
+3	Friendly
+in Belgium	-11
++11	1599
+1809	-1
++1	41
+14
+May 31
+1962	Italy
+West Germany	0
+0	World Cup
+in Chile	+3
+-3	1812
+1843	0
+0	14
+10
+June 02
+1962	Chile
+Italy	2
+0	World Cup
+in Chile	+42
+-42	1776
+1770	+3
+-4	17
+18
+June 07
+1962	Italy
+Switzerland	3
+0	World Cup
+in Chile	+31
+-31	1801
+1591	+1
+-10	16
+43
+November 11
+1962	Austria
+Italy	1
+2	Friendly
+in Austria	-13
++13	1787
+1814	-3
++4	19
+11
+December 02
+1962	Italy
+Turkey	6
+0	European Cup qualifier
+in Italy	+18
+-18	1832
+1673	+1
+-2	11
+25
+March 27
+1963	Turkey
+Italy	0
+1	European Cup qualifier
+in Turkey	-16
++16	1650
+1848	-1
++3	28
+8
+May 12
+1963	Italy
+Brazil	3
+0	Friendly
+in Italy	+15
+-15	1863
+1893	0
+-1	9
+4
+June 09
+1963	Austria
+Italy	0
+1	Friendly
+in Austria	-11
++11	1783
+1874	0
++3	17
+6
+October 13
+1963	Soviet Union
+Italy	2
+0	European Cup qualifier
+in the Soviet Union	+16
+-16	1959
+1858	0
+-1	1
+9
+November 10
+1963	Italy
+Soviet Union	1
+1	European Cup qualifier
+in Italy	0
+0	1858
+1959	0
+0	8
+1
+December 14
+1963	Italy
+Austria	1
+0	Friendly
+in Italy	+5
+-5	1863
+1740	0
+-1	8
+21
+April 11
+1964	Italy
+Czechoslovakia	0
+0	Friendly
+in Italy	-3
++3	1860
+1859	-1
+-1	9
+10
+May 10
+1964	Switzerland
+Italy	1
+3	Friendly
+in Switzerland	-6
++6	1530
+1866	-2
+0	53
+9
+November 04
+1964	Italy
+Finland	6
+1	World Cup qualifier
+in Italy	+2
+-2	1868
+1305	0
+0	6
+114
+December 05
+1964	Italy
+Denmark	3
+1	Friendly
+in Italy	+3
+-3	1871
+1575	0
+0	6
+44
+March 13
+1965	West Germany
+Italy	1
+1	Friendly
+in West Germany	-2
++2	1842
+1873	0
+0	10
+6
+April 18
+1965	Poland
+Italy	0
+0	World Cup qualifier
+in Poland	+7
+-7	1645
+1866	+1
+-1	31
+6
+May 01
+1965	Italy
+Wales	4
+1	Friendly
+in Italy	+6
+-6	1872
+1682	+1
+-2	5
+29
+June 16
+1965	Sweden
+Italy	2
+2	Friendly
+in Sweden	-1
++1	1814
+1873	0
+0	14
+5
+June 23
+1965	Finland
+Italy	0
+2	World Cup qualifier
+in Finland	-4
++4	1295
+1877	-2
+0	114
+5
+June 27
+1965	Hungary
+Italy	2
+1	Friendly
+in Hungary	+6
+-6	1934
+1871	0
+0	2
+5
+November 01
+1965	Italy
+Poland	6
+1	World Cup qualifier
+in Italy	+11
+-11	1882
+1636	+1
+-1	4
+34
+November 09
+1965	Scotland
+Italy	1
+0	World Cup qualifier
+in Scotland	+20
+-20	1810
+1862	+2
+-1	13
+5
+December 07
+1965	Italy
+Scotland	3
+0	World Cup qualifier
+in Italy	+22
+-22	1884
+1805	+4
+-1	4
+13
+March 19
+1966	France
+Italy	0
+0	Friendly
+in France	+2
+-2	1721
+1882	0
+0	26
+6
+June 14
+1966	Italy
+Bulgaria	6
+1	Friendly
+in Italy	+9
+-9	1891
+1752	0
+-2	7
+19
+June 18
+1966	Italy
+Austria	1
+0	Friendly
+in Italy	+4
+-4	1895
+1728	0
+-2	7
+23
+June 22
+1966	Italy
+Argentina	3
+0	Friendly
+in Italy	+15
+-15	1910
+1940	+2
+-1	5
+2
+June 29
+1966	Italy
+Mexico	5
+0	Friendly
+in Italy	+11
+-11	1921
+1827	0
+-1	5
+11
+July 13
+1966	Italy
+Chile	2
+0	World Cup
+in England	+21
+-21	1942
+1698	+2
+-2	3
+27
+July 16
+1966	Soviet Union
+Italy	1
+0	World Cup
+in England	+31
+-31	1960
+1911	+2
+-5	1
+7
+July 19
+1966	North Korea
+Italy	1
+0	World Cup
+in England	+49
+-49	1695
+1862	+8
+-1	26
+8
+November 01
+1966	Italy
+Soviet Union	1
+0	Friendly
+in Italy	+8
+-8	1870
+1901	+1
+0	8
+6
+November 26
+1966	Italy
+Romania	3
+1	European Cup qualifier
+in Italy	+15
+-15	1885
+1771	+1
+-1	7
+18
+March 22
+1967	Cyprus
+Italy	0
+2	European Cup qualifier
+in Cyprus	-5
++5	1362
+1890	-1
+0	101
+7
+March 27
+1967	Italy
+Portugal	1
+1	Friendly
+in Italy	-2
++2	1888
+1929	0
+0	7
+4
+June 25
+1967	Romania
+Italy	0
+1	European Cup qualifier
+in Romania	-18
++18	1732
+1906	-4
+0	22
+7
+November 01
+1967	Italy
+Cyprus	5
+0	European Cup qualifier
+in Italy	+2
+-2	1908
+1356	0
+-1	7
+100
+November 18
+1967	Switzerland
+Italy	2
+2	European Cup qualifier
+in Switzerland	+9
+-9	1644
+1899	+1
+-1	33
+7
+December 23
+1967	Italy
+Switzerland	4
+0	European Cup qualifier
+in Italy	+9
+-9	1908
+1635	+1
+-2	5
+35
+April 06
+1968	Bulgaria
+Italy	3
+2	European Cup qualifier
+in Bulgaria	+21
+-21	1811
+1887	+2
+-3	13
+8
+April 20
+1968	Italy
+Bulgaria	2
+0	European Cup qualifier
+in Italy	+18
+-18	1905
+1825	+2
+-1	6
+12
+June 05
+1968	Italy
+Soviet Union	0
+0	European Cup
+in Italy	-5
++5	1900
+1939	-1
+0	6
+3
+June 08
+1968	Italy
+Yugoslavia	1
+1	European Cup
+in Italy	-13
++13	1887
+1822	-2
++1	8
+12
+June 10
+1968	Italy
+Yugoslavia	2
+0	European Cup
+in Italy	+21
+-21	1908
+1801	+4
+-3	4
+15
+October 23
+1968	Wales
+Italy	0
+1	World Cup qualifier
+in Wales	-11
++11	1637
+1919	-3
+0	34
+5
+January 01
+1969	Mexico
+Italy	2
+3	Friendly
+in Mexico	-10
++10	1798
+1929	-1
++1	15
+4
+January 05
+1969	Mexico
+Italy	1
+1	Friendly
+in Mexico	+1
+-1	1799
+1928	0
+-1	15
+5
+March 29
+1969	East Germany
+Italy	2
+2	World Cup qualifier
+in East Germany	-2
++2	1862
+1930	0
++1	8
+5
+May 24
+1969	Italy
+Bulgaria	0
+0	Friendly
+in Italy	-5
++5	1925
+1844	-1
+0	6
+10
+November 04
+1969	Italy
+Wales	4
+1	World Cup qualifier
+in Italy	+6
+-6	1931
+1597	0
+-2	5
+44
+November 22
+1969	Italy
+East Germany	3
+0	World Cup qualifier
+in Italy	+21
+-21	1952
+1860	+1
+0	4
+7
+February 21
+1970	Spain
+Italy	2
+2	Friendly
+in Spain	+2
+-2	1777
+1950	0
+0	14
+4
+May 10
+1970	Portugal
+Italy	1
+2	Friendly
+in Portugal	-7
++7	1748
+1957	0
+0	19
+3
+June 03
+1970	Italy
+Sweden	1
+0	World Cup
+in Mexico	+17
+-17	1974
+1780	0
+-2	3
+14
+June 06
+1970	Italy
+Uruguay	0
+0	World Cup
+in Mexico	-11
++11	1963
+1851	0
++1	3
+8
+June 11
+1970	Israel
+Italy	0
+0	World Cup
+in Mexico	+22
+-22	1647
+1941	+5
+0	34
+5
+June 14
+1970	Mexico
+Italy	1
+4	World Cup
+in Mexico	-35
++35	1688
+1976	-4
++1	27
+4
+June 17
+1970	Italy
+West Germany	4
+3	World Cup
+in Mexico	+34
+-34	2010
+1992	+2
+-1	2
+3
+June 21
+1970	Brazil
+Italy	4
+1	World Cup
+in Mexico	+41
+-41	2127
+1969	0
+-2	1
+4
+October 17
+1970	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+6
+-6	1607
+1963	+1
+0	40
+4
+October 31
+1970	Austria
+Italy	1
+2	European Cup qualifier
+in Austria	-11
++11	1673
+1974	-2
+0	31
+4
+December 08
+1970	Italy
+Ireland	3
+0	European Cup qualifier
+in Italy	+3
+-3	1977
+1544	0
+0	4
+54
+February 20
+1971	Italy
+Spain	1
+2	Friendly
+in Italy	-17
++17	1960
+1820	0
++1	4
+8
+May 10
+1971	Ireland
+Italy	1
+2	European Cup qualifier
+in Ireland	-6
++6	1538
+1966	0
+0	57
+4
+June 09
+1971	Sweden
+Italy	0
+0	European Cup qualifier
+in Sweden	+4
+-4	1804
+1962	0
+0	12
+4
+September 25
+1971	Italy
+Mexico	2
+0	Friendly
+in Italy	+3
+-3	1965
+1660	0
+-1	4
+35
+October 09
+1971	Italy
+Sweden	3
+0	European Cup qualifier
+in Italy	+13
+-13	1978
+1792	0
+-1	4
+14
+November 20
+1971	Italy
+Austria	2
+2	European Cup qualifier
+in Italy	-15
++15	1963
+1745	0
+0	4
+21
+March 04
+1972	Greece
+Italy	2
+1	Friendly
+in Greece	+17
+-17	1559
+1946	+4
+0	56
+4
+April 29
+1972	Italy
+Belgium	0
+0	European Cup qualifier
+in Italy	-14
++14	1932
+1774	-1
++2	5
+16
+May 13
+1972	Belgium
+Italy	2
+1	European Cup qualifier
+in Belgium	+23
+-23	1797
+1909	+2
+-1	14
+5
+June 17
+1972	Romania
+Italy	3
+3	Friendly
+in Romania	+2
+-2	1750
+1907	+1
+0	19
+5
+June 21
+1972	Bulgaria
+Italy	1
+1	Friendly
+in Bulgaria	+2
+-2	1735
+1905	0
+0	24
+5
+September 20
+1972	Italy
+Yugoslavia	3
+1	Friendly
+in Italy	+9
+-9	1914
+1854	0
+0	5
+9
+October 07
+1972	Luxembourg
+Italy	0
+4	World Cup qualifier
+in Luxembourg	-3
++3	1234
+1917	0
+0	129
+5
+October 21
+1972	Switzerland
+Italy	0
+0	World Cup qualifier
+in Switzerland	+8
+-8	1671
+1909	+1
+0	32
+5
+January 13
+1973	Italy
+Turkey	0
+0	World Cup qualifier
+in Italy	-18
++18	1891
+1524	0
++4	5
+59
+February 25
+1973	Turkey
+Italy	0
+1	World Cup qualifier
+in Turkey	-8
++8	1531
+1899	-2
+0	59
+5
+March 31
+1973	Italy
+Luxembourg	5
+0	World Cup qualifier
+in Italy	+1
+-1	1900
+1269	0
+0	4
+125
+June 09
+1973	Italy
+Brazil	2
+0	Friendly
+in Italy	+19
+-19	1919
+2085	+1
+0	4
+1
+June 14
+1973	Italy
+England	2
+0	Friendly
+in Italy	+12
+-12	1931
+1939	0
+0	4
+3
+September 29
+1973	Italy
+Sweden	2
+0	Friendly
+in Italy	+7
+-7	1938
+1806	0
+0	5
+14
+October 20
+1973	Italy
+Switzerland	2
+0	World Cup qualifier
+in Italy	+7
+-7	1945
+1670	+2
+0	3
+31
+November 14
+1973	England
+Italy	0
+1	Friendly
+in England	-13
++13	1928
+1958	0
+0	4
+3
+February 26
+1974	Italy
+West Germany	0
+0	Friendly
+in Italy	0
+0	1958
+2051	0
+0	3
+2
+June 08
+1974	Austria
+Italy	0
+0	Friendly
+in Austria	+3
+-3	1763
+1955	0
+0	21
+3
+June 15
+1974	Italy
+Haiti	3
+1	World Cup
+in West Germany	+8
+-8	1963
+1552	0
+-1	3
+51
+June 19
+1974	Argentina
+Italy	1
+1	World Cup
+in West Germany	+11
+-11	1845
+1952	+2
+-1	9
+4
+June 23
+1974	Poland
+Italy	2
+1	World Cup
+in West Germany	+29
+-29	1994
+1923	0
+-2	3
+6
+September 28
+1974	Yugoslavia
+Italy	1
+0	Friendly
+in Yugoslavia	+9
+-9	1863
+1914	0
+-1	8
+6
+November 20
+1974	Netherlands
+Italy	3
+1	European Cup qualifier
+in the Netherlands	+13
+-13	2049
+1901	0
+0	2
+6
+December 29
+1974	Italy
+Bulgaria	0
+0	Friendly
+in Italy	-7
++7	1894
+1702	0
+0	6
+29
+April 19
+1975	Italy
+Poland	0
+0	European Cup qualifier
+in Italy	0
+0	1894
+1995	0
+0	6
+3
+June 05
+1975	Finland
+Italy	0
+1	European Cup qualifier
+in Finland	-3
++3	1357
+1897	-1
+0	98
+6
+June 08
+1975	Soviet Union
+Italy	1
+0	Friendly
+in the Soviet Union	+10
+-10	1812
+1887	+1
+0	13
+6
+September 27
+1975	Italy
+Finland	0
+0	European Cup qualifier
+in Italy	-19
++19	1868
+1370	0
++6	7
+93
+October 26
+1975	Poland
+Italy	0
+0	European Cup qualifier
+in Poland	-12
++12	2001
+1880	0
+0	3
+7
+November 22
+1975	Italy
+Netherlands	1
+0	European Cup qualifier
+in Italy	+22
+-22	1902
+2000	0
+-1	7
+3
+December 30
+1975	Italy
+Greece	3
+2	Friendly
+in Italy	+2
+-2	1904
+1573	0
+0	7
+48
+April 07
+1976	Italy
+Portugal	3
+1	Friendly
+in Italy	+7
+-7	1911
+1792	+1
+-1	6
+18
+May 28
+1976	England
+Italy	3
+2	Friendly
+in the United States	+9
+-9	1938
+1902	0
+-2	4
+7
+May 31
+1976	Brazil
+Italy	4
+1	Friendly
+in the United States	+12
+-12	2030
+1890	+1
+-1	2
+8
+June 05
+1976	Italy
+Romania	4
+2	Friendly
+in Italy	+6
+-6	1896
+1756	+1
+0	7
+20
+September 22
+1976	Denmark
+Italy	0
+1	Friendly
+in Denmark	-5
++5	1587
+1901	-1
+0	46
+7
+September 25
+1976	Italy
+Yugoslavia	3
+0	Friendly
+in Italy	+10
+-10	1911
+1837	+1
+0	6
+13
+October 16
+1976	Luxembourg
+Italy	1
+4	World Cup qualifier
+in Luxembourg	-2
++2	1214
+1913	0
+0	135
+6
+November 17
+1976	Italy
+England	2
+0	World Cup qualifier
+in Italy	+23
+-23	1936
+1913	+2
+-1	5
+6
+December 22
+1976	Portugal
+Italy	2
+1	Friendly
+in Portugal	+12
+-12	1781
+1924	+1
+0	18
+5
+January 26
+1977	Italy
+Belgium	2
+1	Friendly
+in Italy	+5
+-5	1929
+1824	0
+0	5
+14
+June 08
+1977	Finland
+Italy	0
+3	World Cup qualifier
+in Finland	-7
++7	1431
+1936	0
+0	78
+4
+October 08
+1977	West Germany
+Italy	2
+1	Friendly
+in West Germany	+4
+-4	2092
+1932	0
+-1	1
+5
+October 15
+1977	Italy
+Finland	6
+1	World Cup qualifier
+in Italy	+2
+-2	1934
+1416	0
+-1	5
+83
+November 16
+1977	England
+Italy	2
+0	World Cup qualifier
+in England	+28
+-28	1882
+1906	+4
+-1	8
+6
+December 03
+1977	Italy
+Luxembourg	3
+0	World Cup qualifier
+in Italy	+1
+-1	1907
+1196	0
+0	6
+142
+December 21
+1977	Belgium
+Italy	0
+1	Friendly
+in Belgium	-9
++9	1749
+1916	0
++1	22
+5
+January 25
+1978	Spain
+Italy	2
+1	Friendly
+in Spain	+8
+-8	1909
+1908	+1
+-2	6
+7
+February 08
+1978	Italy
+France	2
+2	Friendly
+in Italy	-5
++5	1903
+1801	0
+0	7
+17
+May 18
+1978	Italy
+Yugoslavia	0
+0	Friendly
+in Italy	-6
++6	1897
+1781	0
++1	8
+19
+June 02
+1978	Italy
+France	2
+1	World Cup
+in Argentina	+25
+-25	1922
+1812	+3
+0	5
+14
+June 06
+1978	Italy
+Hungary	3
+1	World Cup
+in Argentina	+36
+-36	1958
+1812	+1
+-3	4
+14
+June 10
+1978	Argentina
+Italy	0
+1	World Cup
+in Argentina	-36
++36	1889
+1994	-3
+0	9
+4
+June 14
+1978	Italy
+West Germany	0
+0	World Cup
+in Argentina	+3
+-3	1997
+2026	0
+-2	4
+3
+June 18
+1978	Italy
+Austria	1
+0	World Cup
+in Argentina	+16
+-16	2013
+1802	0
+-2	4
+17
+June 21
+1978	Netherlands
+Italy	2
+1	World Cup
+in Argentina	+28
+-28	2061
+1985	0
++1	2
+3
+June 24
+1978	Brazil
+Italy	2
+1	World Cup
+in Argentina	+22
+-22	2098
+1963	0
+-1	1
+4
+September 20
+1978	Italy
+Bulgaria	1
+0	Friendly
+in Italy	+2
+-2	1965
+1678	0
+-1	5
+33
+September 23
+1978	Italy
+Turkey	1
+0	Friendly
+in Italy	+1
+-1	1966
+1591	0
+0	5
+45
+November 08
+1978	Czechoslovakia
+Italy	3
+0	Friendly
+in Czechoslovakia	+18
+-18	1877
+1948	+1
+0	11
+5
+December 21
+1978	Italy
+Spain	1
+0	Friendly
+in Italy	+7
+-7	1955
+1915	+1
+0	5
+7
+February 24
+1979	Italy
+Netherlands	3
+0	Friendly
+in Italy	+16
+-16	1971
+2009	+1
+0	5
+2
+May 26
+1979	Italy
+Argentina	2
+2	Friendly
+in Italy	-2
++2	1969
+2004	-1
+0	6
+2
+June 13
+1979	Yugoslavia
+Italy	4
+1	Friendly
+in Yugoslavia	+22
+-22	1793
+1947	+1
+0	19
+6
+September 26
+1979	Italy
+Sweden	1
+0	Friendly
+in Italy	+2
+-2	1949
+1657	0
+0	5
+34
+November 17
+1979	Italy
+Switzerland	2
+0	Friendly
+in Italy	+2
+-2	1951
+1541	0
+0	5
+61
+February 16
+1980	Italy
+Romania	2
+1	Friendly
+in Italy	+3
+-3	1954
+1740	0
+-1	5
+24
+March 15
+1980	Italy
+Uruguay	1
+0	Friendly
+in Italy	+2
+-2	1956
+1626	0
+-1	5
+42
+April 19
+1980	Italy
+Poland	2
+2	Friendly
+in Italy	-4
++4	1952
+1916	0
+0	5
+7
+June 12
+1980	Italy
+Spain	0
+0	European Cup
+in Italy	-14
++14	1938
+1843	0
+0	6
+15
+June 15
+1980	Italy
+England	1
+0	European Cup
+in Italy	+21
+-21	1959
+1959	+2
+-1	4
+4
+June 18
+1980	Italy
+Belgium	0
+0	European Cup
+in Italy	-11
++11	1948
+1910	-2
++2	6
+7
+June 21
+1980	Italy
+Czechoslovakia	1
+1	European Cup
+in Italy	-12
++12	1936
+1887	0
++2	6
+10
+September 24
+1980	Italy
+Portugal	3
+1	Friendly
+in Italy	+5
+-5	1941
+1768	0
+0	5
+20
+October 11
+1980	Luxembourg
+Italy	0
+2	World Cup qualifier
+in Luxembourg	-1
++1	1200
+1942	-1
+0	142
+5
+November 01
+1980	Italy
+Denmark	2
+0	World Cup qualifier
+in Italy	+4
+-4	1946
+1587	0
+0	5
+47
+November 15
+1980	Italy
+Yugoslavia	2
+0	World Cup qualifier
+in Italy	+14
+-14	1960
+1832	+2
+0	3
+14
+December 06
+1980	Greece
+Italy	0
+2	World Cup qualifier
+in Greece	-14
++14	1637
+1974	-3
+0	38
+3
+January 03
+1981	Uruguay
+Italy	2
+0	Mundialito
+in Uruguay	+44
+-44	1748
+1930	+2
+-1	25
+5
+January 06
+1981	Italy
+Netherlands	1
+1	Mundialito
+in Uruguay	-3
++3	1927
+1879	-2
+0	7
+12
+April 19
+1981	Italy
+East Germany	0
+0	Friendly
+in Italy	-4
++4	1923
+1894	0
++1	6
+9
+June 03
+1981	Denmark
+Italy	3
+1	World Cup qualifier
+in Denmark	+46
+-46	1669
+1877	+7
+-4	33
+10
+September 23
+1981	Italy
+Bulgaria	3
+2	Friendly
+in Italy	+3
+-3	1880
+1671	+1
+0	8
+32
+October 17
+1981	Yugoslavia
+Italy	1
+1	World Cup qualifier
+in Yugoslavia	-5
++5	1858
+1885	-1
+0	10
+8
+November 14
+1981	Italy
+Greece	1
+1	World Cup qualifier
+in Italy	-16
++16	1869
+1637	0
+0	8
+40
+December 05
+1981	Italy
+Luxembourg	1
+0	World Cup qualifier
+in Italy	0
+0	1869
+1178	0
+0	8
+145
+February 23
+1982	France
+Italy	2
+0	Friendly
+in France	+11
+-11	1864
+1858	+1
+-4	10
+12
+April 14
+1982	East Germany
+Italy	1
+0	Friendly
+in East Germany	+7
+-7	1867
+1851	+1
+0	10
+14
+May 28
+1982	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+3
+-3	1635
+1848	0
+-2	38
+14
+June 14
+1982	Italy
+Poland	0
+0	World Cup
+in Spain	+6
+-6	1854
+1916	+2
+-1	11
+6
+June 18
+1982	Italy
+Peru	1
+1	World Cup
+in Spain	-10
++10	1844
+1741	-1
+0	12
+23
+June 23
+1982	Cameroon
+Italy	1
+1	World Cup
+in Spain	+15
+-15	1671
+1829	0
+-1	35
+13
+June 29
+1982	Italy
+Argentina	2
+1	World Cup
+in Spain	+41
+-41	1870
+1922	+6
+-1	7
+6
+July 05
+1982	Italy
+Brazil	3
+2	World Cup
+in Spain	+49
+-49	1919
+2077	+2
+0	6
+1
+July 08
+1982	Italy
+Poland	2
+0	World Cup
+in Spain	+52
+-52	1971
+1925	+1
+-2	5
+6
+July 11
+1982	Italy
+West Germany	3
+1	World Cup
+in Spain	+55
+-55	2026
+1992	+3
+-1	2
+3
+October 27
+1982	Italy
+Switzerland	0
+1	Friendly
+in Italy	-19
++19	2007
+1652	0
+0	2
+39
+November 13
+1982	Italy
+Czechoslovakia	2
+2	European Cup qualifier
+in Italy	-14
++14	1993
+1821	-1
++1	3
+14
+December 04
+1982	Italy
+Romania	0
+0	European Cup qualifier
+in Italy	-15
++15	1978
+1765	0
++1	2
+21
+February 12
+1983	Cyprus
+Italy	1
+1	European Cup qualifier
+in Cyprus	+19
+-19	1259
+1959	+4
+-3	132
+5
+April 16
+1983	Romania
+Italy	1
+0	European Cup qualifier
+in Romania	+26
+-26	1782
+1933	+3
+-2	19
+6
+May 29
+1983	Sweden
+Italy	2
+0	European Cup qualifier
+in Sweden	+41
+-41	1742
+1892	+7
+-3	23
+8
+October 05
+1983	Italy
+Greece	3
+0	Friendly
+in Italy	+3
+-3	1895
+1600	0
+0	6
+43
+October 15
+1983	Italy
+Sweden	0
+3	European Cup qualifier
+in Italy	-56
++56	1839
+1817	-3
++8	9
+15
+November 16
+1983	Czechoslovakia
+Italy	2
+0	European Cup qualifier
+in Czechoslovakia	+25
+-25	1819
+1814	+7
+-5	13
+14
+December 22
+1983	Italy
+Cyprus	3
+1	European Cup qualifier
+in Italy	+1
+-1	1815
+1265	0
+-2	13
+130
+February 04
+1984	Italy
+Mexico	5
+0	Friendly
+in Italy	+8
+-8	1823
+1662	+1
+-1	11
+36
+March 03
+1984	Turkey
+Italy	1
+2	Friendly
+in Turkey	-5
++5	1549
+1828	-1
+0	58
+11
+April 07
+1984	Italy
+Czechoslovakia	1
+1	Friendly
+in Italy	-3
++3	1825
+1807	-1
++1	12
+15
+May 22
+1984	West Germany
+Italy	1
+0	Friendly
+in Switzerland	+6
+-6	1971
+1819	0
+-1	2
+13
+May 26
+1984	Canada
+Italy	0
+2	Friendly
+in Canada	-6
++6	1468
+1825	-4
+0	80
+13
+May 30
+1984	United States
+Italy	0
+0	Friendly
+in the United States	+6
+-6	1496
+1819	+1
+-1	70
+14
+September 26
+1984	Italy
+Sweden	1
+0	Friendly
+in Italy	+6
+-6	1825
+1758	+1
+0	13
+21
+November 03
+1984	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	0
+0	1722
+1825	0
+0	31
+12
+December 08
+1984	Italy
+Poland	2
+0	Friendly
+in Italy	+13
+-13	1838
+1862	+2
+-1	10
+7
+February 05
+1985	Ireland
+Italy	1
+2	Friendly
+in Ireland	-8
++8	1670
+1846	0
++1	34
+8
+March 13
+1985	Greece
+Italy	0
+0	Friendly
+in Greece	+4
+-4	1604
+1842	0
+-1	46
+9
+April 03
+1985	Italy
+Portugal	2
+0	Friendly
+in Italy	+8
+-8	1850
+1770	0
+0	8
+20
+June 02
+1985	Mexico
+Italy	1
+1	Copa Ciudad de Mexico
+in Mexico	0
+0	1756
+1850	0
+0	26
+8
+June 06
+1985	Italy
+England	2
+1	Copa Ciudad de Mexico
+in Mexico	+18
+-18	1868
+1893	+2
+0	7
+4
+September 25
+1985	Italy
+Norway	1
+2	Friendly
+in Italy	-17
++17	1851
+1661	0
++3	6
+37
+November 16
+1985	Poland
+Italy	1
+0	Friendly
+in Poland	+9
+-9	1804
+1842	+3
+-1	16
+8
+February 05
+1986	Italy
+West Germany	1
+2	Friendly
+in Italy	-12
++12	1830
+1875	-5
++1	13
+5
+March 26
+1986	Italy
+Austria	2
+1	Friendly
+in Italy	+4
+-4	1834
+1705	+1
+0	12
+30
+May 11
+1986	Italy
+China	2
+0	Friendly
+in Italy	+2
+-2	1836
+1504	0
+0	12
+68
+May 31
+1986	Bulgaria
+Italy	1
+1	World Cup
+in Mexico	+5
+-5	1781
+1831	0
+-2	22
+12
+June 05
+1986	Argentina
+Italy	1
+1	World Cup
+in Mexico	-2
++2	1858
+1833	0
++1	7
+8
+June 10
+1986	Italy
+South Korea	3
+2	World Cup
+in Mexico	+13
+-13	1846
+1592	0
+-2	9
+47
+June 17
+1986	France
+Italy	2
+0	World Cup
+in Mexico	+28
+-28	2013
+1818	0
+-1	1
+11
+October 08
+1986	Italy
+Greece	2
+0	Friendly
+in Italy	+4
+-4	1822
+1583	+1
+-1	12
+53
+November 15
+1986	Italy
+Switzerland	3
+2	European Cup qualifier
+in Italy	+8
+-8	1830
+1682	+1
+-1	12
+33
+December 06
+1986	Malta
+Italy	0
+2	European Cup qualifier
+in Malta	-5
++5	1292
+1835	0
+0	118
+12
+January 24
+1987	Italy
+Malta	5
+0	European Cup qualifier
+in Italy	+2
+-2	1837
+1290	0
+0	12
+118
+February 14
+1987	Portugal
+Italy	0
+1	European Cup qualifier
+in Portugal	-19
++19	1703
+1856	-1
++3	30
+9
+April 18
+1987	West Germany
+Italy	0
+0	Friendly
+in West Germany	-4
++4	1916
+1860	0
+-1	6
+10
+May 28
+1987	Norway
+Italy	0
+0	Friendly
+in Norway	+3
+-3	1648
+1857	0
+0	39
+10
+June 03
+1987	Sweden
+Italy	1
+0	European Cup qualifier
+in Sweden	+14
+-14	1882
+1843	0
+-3	9
+13
+June 10
+1987	Italy
+Argentina	3
+1	Friendly
+in Switzerland	+21
+-21	1864
+1982	+3
+-1	10
+2
+September 23
+1987	Italy
+Yugoslavia	1
+0	Friendly
+in Italy	+6
+-6	1870
+1799	+2
+-1	6
+17
+October 17
+1987	Switzerland
+Italy	0
+0	European Cup qualifier
+in Switzerland	+5
+-5	1692
+1865	0
+0	32
+8
+November 14
+1987	Italy
+Sweden	2
+1	European Cup qualifier
+in Italy	+14
+-14	1879
+1838	+2
+-2	6
+12
+December 05
+1987	Italy
+Portugal	3
+0	European Cup qualifier
+in Italy	+12
+-12	1891
+1700	0
+-3	6
+31
+February 20
+1988	Italy
+Soviet Union	4
+1	Friendly
+in Italy	+15
+-15	1906
+1930	+1
+0	6
+2
+March 31
+1988	Yugoslavia
+Italy	1
+1	Friendly
+in Yugoslavia	0
+0	1804
+1906	0
+0	16
+5
+April 27
+1988	Luxembourg
+Italy	0
+3	Friendly
+in Luxembourg	-1
++1	1137
+1907	0
+0	153
+5
+June 04
+1988	Italy
+Wales	0
+1	Friendly
+in Italy	-17
++17	1890
+1754	-1
++2	7
+24
+June 10
+1988	West Germany
+Italy	1
+1	European Cup
+in West Germany	-9
++9	1916
+1899	-1
++1	5
+6
+June 14
+1988	Italy
+Spain	1
+0	European Cup
+in West Germany	+24
+-24	1923
+1864	+1
+-1	5
+8
+June 17
+1988	Denmark
+Italy	0
+2	European Cup
+in West Germany	-26
++26	1783
+1949	-6
++3	20
+2
+June 22
+1988	Italy
+Soviet Union	0
+2	European Cup
+in West Germany	-35
++35	1914
+2010	-3
+0	6
+1
+October 19
+1988	Italy
+Norway	2
+1	Friendly
+in Italy	+2
+-2	1916
+1607	0
+0	5
+46
+November 16
+1988	Italy
+Netherlands	1
+0	Friendly
+in Italy	+10
+-10	1926
+2005	0
+0	5
+1
+December 22
+1988	Italy
+Scotland	2
+0	Friendly
+in Italy	+5
+-5	1931
+1756	0
+-1	5
+24
+February 22
+1989	Italy
+Denmark	1
+0	Friendly
+in Italy	+4
+-4	1935
+1771	0
+0	5
+21
+March 25
+1989	Austria
+Italy	0
+1	Friendly
+in Austria	-6
++6	1682
+1941	0
+0	34
+5
+March 29
+1989	Romania
+Italy	1
+0	Friendly
+in Romania	+9
+-9	1872
+1932	0
+0	8
+5
+April 22
+1989	Italy
+Uruguay	1
+1	Friendly
+in Italy	-6
++6	1926
+1822	0
++1	5
+12
+April 26
+1989	Italy
+Hungary	4
+0	Friendly
+in Italy	+5
+-5	1931
+1699	0
++1	5
+29
+September 20
+1989	Italy
+Bulgaria	4
+0	Friendly
+in Italy	+5
+-5	1936
+1685	+1
+-1	4
+31
+October 14
+1989	Italy
+Brazil	0
+1	Friendly
+in Italy	-13
++13	1923
+1959	0
++1	4
+2
+November 11
+1989	Italy
+Algeria	1
+0	Friendly
+in Italy	+2
+-2	1925
+1670	0
+0	4
+34
+November 15
+1989	England
+Italy	0
+0	Friendly
+in England	-2
++2	1896
+1927	0
+0	7
+4
+December 21
+1989	Italy
+Argentina	0
+0	Friendly
+in Italy	-6
++6	1921
+1773	0
+0	4
+21
+February 21
+1990	Netherlands
+Italy	0
+0	Friendly
+in the Netherlands	-5
++5	2002
+1926	0
+0	1
+4
+March 31
+1990	Switzerland
+Italy	0
+1	Friendly
+in Switzerland	-5
++5	1629
+1931	0
+0	38
+4
+May 30
+1990	Italy
+Greece	0
+0	Friendly
+in Italy	-8
++8	1923
+1653	0
+0	4
+35
+June 09
+1990	Italy
+Austria	1
+0	World Cup
+in Italy	+9
+-9	1932
+1712	0
+-2	4
+28
+June 14
+1990	Italy
+United States	1
+0	World Cup
+in Italy	+3
+-3	1935
+1522	0
+0	4
+64
+June 19
+1990	Italy
+Czechoslovakia	2
+0	World Cup
+in Italy	+24
+-24	1959
+1832	0
+-6	4
+15
+June 25
+1990	Italy
+Uruguay	2
+0	World Cup
+in Italy	+20
+-20	1979
+1819	0
+-2	2
+17
+June 30
+1990	Italy
+Ireland	1
+0	World Cup
+in Italy	+12
+-12	1991
+1835	0
+-3	2
+15
+July 03
+1990	Italy
+Argentina	1
+1	World Cup
+in Italy	-19
++19	1972
+1855	0
++5	2
+9
+July 07
+1990	Italy
+England	2
+1	World Cup
+in Italy	+20
+-20	1992
+1938	0
+-1	2
+4
+September 26
+1990	Italy
+Netherlands	1
+0	Friendly
+in Italy	+6
+-6	1998
+1918	0
+0	2
+5
+October 17
+1990	Hungary
+Italy	1
+1	European Cup qualifier
+in Hungary	+10
+-10	1713
+1988	+1
+0	28
+2
+November 03
+1990	Italy
+Soviet Union	0
+0	European Cup qualifier
+in Italy	-13
++13	1975
+1843	0
++2	2
+11
+December 22
+1990	Cyprus
+Italy	0
+4	European Cup qualifier
+in Cyprus	-2
++2	1219
+1977	-1
+0	138
+2
+February 13
+1991	Italy
+Belgium	0
+0	Friendly
+in Italy	-7
++7	1970
+1788	0
++1	2
+18
+May 01
+1991	Italy
+Hungary	3
+1	European Cup qualifier
+in Italy	+7
+-7	1977
+1715	0
+-5	2
+30
+June 05
+1991	Norway
+Italy	2
+1	European Cup qualifier
+in Norway	+31
+-31	1697
+1946	+2
+-1	32
+3
+June 12
+1991	Italy
+Denmark	2
+0	Friendly tournament
+in Sweden	+17
+-17	1963
+1838	0
+-2	3
+12
+June 16
+1991	Italy
+Soviet Union	1
+1	Friendly tournament
+in Sweden	-4
++4	1959
+1879	0
+0	3
+9
+September 25
+1991	Bulgaria
+Italy	2
+1	Friendly
+in Bulgaria	+15
+-15	1699
+1944	+2
+-3	30
+5
+October 12
+1991	Soviet Union
+Italy	0
+0	European Cup qualifier
+in the Soviet Union	-2
++2	1878
+1946	0
+0	9
+5
+November 13
+1991	Italy
+Norway	1
+1	European Cup qualifier
+in Italy	-16
++16	1930
+1688	0
++2	5
+32
+December 21
+1991	Italy
+Cyprus	2
+0	European Cup qualifier
+in Italy	+1
+-1	1931
+1220	0
+-1	5
+139
+February 19
+1992	Italy
+San Marino	4
+0	Friendly
+in Italy	0
+0	1931
+988	0
+0	5
+178
+March 25
+1992	Italy
+Germany	1
+0	Friendly
+in Italy	+10
+-10	1941
+2038	0
+0	5
+1
+May 31
+1992	Italy
+Portugal	0
+0	US Cup
+in the United States	-7
++7	1934
+1779	0
++1	4
+20
+June 04
+1992	Italy
+Ireland	2
+0	US Cup
+in the United States	+16
+-16	1950
+1820	0
+-1	4
+11
+June 06
+1992	United States
+Italy	1
+1	US Cup
+in the United States	+8
+-8	1665
+1942	+3
+0	34
+4
+September 09
+1992	Netherlands
+Italy	2
+3	Friendly
+in the Netherlands	-14
++14	1958
+1956	-3
+0	4
+5
+October 14
+1992	Italy
+Switzerland	2
+2	World Cup qualifier
+in Italy	-14
++14	1942
+1778	0
+0	4
+20
+November 18
+1992	Scotland
+Italy	0
+0	World Cup qualifier
+in Scotland	+5
+-5	1750
+1937	0
+0	23
+4
+December 19
+1992	Malta
+Italy	1
+2	World Cup qualifier
+in Malta	-2
++2	1357
+1939	0
+0	106
+3
+January 20
+1993	Italy
+Mexico	2
+0	Friendly
+in Italy	+5
+-5	1944
+1751	0
+0	4
+22
+February 24
+1993	Portugal
+Italy	1
+3	World Cup qualifier
+in Portugal	-23
++23	1736
+1967	-4
++2	24
+2
+March 24
+1993	Italy
+Malta	6
+1	World Cup qualifier
+in Italy	+1
+-1	1968
+1346	0
+-1	2
+112
+April 14
+1993	Italy
+Estonia	2
+0	World Cup qualifier
+in Italy	0
+0	1968
+1219	0
+0	2
+148
+May 01
+1993	Switzerland
+Italy	1
+0	World Cup qualifier
+in Switzerland	+25
+-25	1804
+1943	+2
+-2	15
+4
+September 22
+1993	Estonia
+Italy	0
+3	World Cup qualifier
+in Estonia	-2
++2	1186
+1945	0
+0	158
+2
+October 13
+1993	Italy
+Scotland	3
+1	World Cup qualifier
+in Italy	+8
+-8	1953
+1718	0
+0	2
+26
+November 17
+1993	Italy
+Portugal	1
+0	World Cup qualifier
+in Italy	+7
+-7	1960
+1791	0
+0	2
+19
+February 16
+1994	Italy
+France	0
+1	Friendly
+in Italy	-16
++16	1944
+1858	-1
++1	3
+10
+March 23
+1994	Germany
+Italy	2
+1	Friendly
+in Germany	+6
+-6	1981
+1938	0
+0	1
+3
+May 27
+1994	Italy
+Finland	2
+0	Friendly
+in Italy	+2
+-2	1940
+1527	0
+0	3
+64
+June 03
+1994	Italy
+Switzerland	1
+0	Friendly
+in Italy	+5
+-5	1945
+1836	0
+0	3
+14
+June 11
+1994	Italy
+Costa Rica	1
+0	Friendly
+in the United States	+2
+-2	1947
+1582	+1
+0	2
+52
+June 18
+1994	Ireland
+Italy	1
+0	World Cup
+in the United States	+40
+-40	1864
+1907	+4
+-1	10
+4
+June 23
+1994	Italy
+Norway	1
+0	World Cup
+in the United States	+25
+-25	1932
+1827	0
+-2	4
+14
+June 28
+1994	Mexico
+Italy	1
+1	World Cup
+in the United States	+9
+-9	1837
+1923	0
+-1	14
+4
+July 05
+1994	Italy
+Nigeria	2
+1	World Cup
+in the United States	+19
+-19	1942
+1773	0
+-3	4
+24
+July 09
+1994	Italy
+Spain	2
+1	World Cup
+in the United States	+28
+-28	1970
+1889	+1
+-1	3
+7
+July 13
+1994	Italy
+Bulgaria	2
+1	World Cup
+in the United States	+20
+-20	1990
+1828	0
+-1	2
+14
+July 17
+1994	Brazil
+Italy	0
+0	World Cup
+in the United States	-3
++3	2027
+1993	0
+0	1
+2
+September 07
+1994	Slovenia
+Italy	1
+1	European Cup qualifier
+in Slovenia	+16
+-16	1531
+1977	+6
+0	65
+2
+October 08
+1994	Estonia
+Italy	0
+2	European Cup qualifier
+in Estonia	-1
++1	1160
+1978	0
+0	161
+2
+November 16
+1994	Italy
+Croatia	1
+2	European Cup qualifier
+in Italy	-33
++33	1945
+1846	-1
++5	3
+13
+December 21
+1994	Italy
+Turkey	3
+1	Friendly
+in Italy	+2
+-2	1947
+1580	0
+0	4
+51
+March 25
+1995	Italy
+Estonia	4
+1	European Cup qualifier
+in Italy	0
+0	1947
+1134	0
+0	3
+166
+March 29
+1995	Ukraine
+Italy	0
+2	European Cup qualifier
+in Ukraine	-8
++8	1520
+1955	-3
+0	67
+3
+April 26
+1995	Lithuania
+Italy	0
+1	European Cup qualifier
+in Lithuania	-3
++3	1422
+1958	-1
++1	97
+2
+June 19
+1995	Switzerland
+Italy	0
+1	Centenary Tournament
+in Switzerland	-12
++12	1774
+1970	-1
+0	22
+2
+June 21
+1995	Germany
+Italy	2
+0	Centenary Tournament
+in Switzerland	+25
+-25	1955
+1945	+2
+-1	2
+3
+September 06
+1995	Italy
+Slovenia	1
+0	European Cup qualifier
+in Italy	+2
+-2	1947
+1492	0
++1	3
+76
+October 08
+1995	Croatia
+Italy	1
+1	European Cup qualifier
+in Croatia	+2
+-2	1814
+1945	0
+0	19
+3
+November 11
+1995	Italy
+Ukraine	3
+1	European Cup qualifier
+in Italy	+4
+-4	1949
+1562	+1
+-3	3
+55
+November 15
+1995	Italy
+Lithuania	4
+0	European Cup qualifier
+in Italy	+2
+-2	1951
+1419	0
+-2	3
+100
+January 24
+1996	Italy
+Wales	3
+0	Friendly
+in Italy	+2
+-2	1953
+1573	0
+0	3
+53
+May 29
+1996	Italy
+Belgium	2
+2	Friendly
+in Italy	-7
++7	1946
+1738	-1
++2	4
+24
+June 01
+1996	Hungary
+Italy	0
+2	Friendly
+in Hungary	-4
++4	1538
+1950	-1
+0	64
+4
+June 11
+1996	Italy
+Russia	2
+1	European Cup
+in England	+20
+-20	1970
+1859	+1
+0	3
+9
+June 14
+1996	Czechia
+Italy	2
+1	European Cup
+in England	+34
+-34	1877
+1936	+3
+-2	9
+5
+June 19
+1996	Italy
+Germany	0
+0	European Cup
+in England	+7
+-7	1943
+2036	0
+-1	5
+2
+October 05
+1996	Moldova
+Italy	1
+3	World Cup qualifier
+in Moldova	-4
++4	1382
+1947	0
+0	109
+5
+October 09
+1996	Italy
+Georgia	1
+0	World Cup qualifier
+in Italy	+2
+-2	1949
+1556	0
++1	5
+58
+November 06
+1996	Bosnia and Herzegovina
+Italy	2
+1	Friendly
+in Bosnia and Herzegovina	+18
+-18	1489
+1931	+6
+0	77
+5
+January 22
+1997	Italy
+Northern Ireland	2
+0	Friendly
+in Italy	+2
+-2	1933
+1591	0
+0	5
+53
+February 12
+1997	England
+Italy	0
+1	World Cup qualifier
+in England	-25
++25	1893
+1958	-2
+0	9
+5
+March 29
+1997	Italy
+Moldova	3
+0	World Cup qualifier
+in Italy	+1
+-1	1959
+1379	0
+-1	5
+113
+April 02
+1997	Poland
+Italy	0
+0	World Cup qualifier
+in Poland	+12
+-12	1628
+1947	+5
+0	45
+5
+April 30
+1997	Italy
+Poland	3
+0	World Cup qualifier
+in Italy	+6
+-6	1953
+1622	0
+-1	5
+49
+June 04
+1997	England
+Italy	2
+0	Friendly tournament
+in France	+24
+-24	1948
+1929	+1
+-1	5
+6
+June 08
+1997	Brazil
+Italy	3
+3	Friendly tournament
+in France	-4
++4	2028
+1933	0
+0	2
+6
+June 11
+1997	France
+Italy	2
+2	Friendly tournament
+in France	-6
++6	1965
+1939	0
+0	4
+6
+September 10
+1997	Georgia
+Italy	0
+0	World Cup qualifier
+in Georgia	+15
+-15	1530
+1924	+3
+0	66
+6
+October 11
+1997	Italy
+England	0
+0	World Cup qualifier
+in Italy	-4
++4	1920
+1962	0
+0	6
+5
+October 29
+1997	Russia
+Italy	1
+1	World Cup qualifier
+in Russia	-1
++1	1839
+1921	0
+-1	12
+7
+November 15
+1997	Italy
+Russia	1
+0	World Cup qualifier
+in Italy	+10
+-10	1931
+1829	0
+-3	7
+15
+January 28
+1998	Italy
+Slovakia	3
+0	Friendly
+in Italy	+4
+-4	1935
+1651	0
+-2	7
+42
+April 22
+1998	Italy
+Paraguay	3
+1	Friendly
+in Italy	+5
+-5	1940
+1731	-1
+-2	6
+28
+June 02
+1998	Sweden
+Italy	1
+0	Friendly
+in Sweden	+11
+-11	1807
+1929	+1
+-2	18
+7
+June 11
+1998	Chile
+Italy	2
+2	World Cup
+in France	+14
+-14	1772
+1915	+1
+-1	21
+8
+June 17
+1998	Italy
+Cameroon	3
+0	World Cup
+in France	+15
+-15	1930
+1590	0
+-4	7
+58
+June 23
+1998	Italy
+Austria	2
+1	World Cup
+in France	+12
+-12	1942
+1674	+1
+-4	5
+36
+June 27
+1998	Italy
+Norway	1
+0	World Cup
+in France	+26
+-26	1968
+1875	+2
+0	4
+10
+July 03
+1998	France
+Italy	0
+0	World Cup
+in France	-11
++11	1988
+1979	0
+0	3
+4
+September 05
+1998	Wales
+Italy	0
+2	European Cup qualifier
+in Wales	-7
++7	1522
+1986	0
+0	66
+3
+October 10
+1998	Italy
+Switzerland	2
+0	European Cup qualifier
+in Italy	+4
+-4	1990
+1638	0
+-3	3
+49
+November 18
+1998	Italy
+Spain	2
+2	Friendly
+in Italy	-4
++4	1986
+1940	0
++1	3
+5
+February 10
+1999	Italy
+Norway	0
+0	Friendly
+in Italy	-7
++7	1979
+1808	0
+0	3
+16
+March 27
+1999	Denmark
+Italy	1
+2	European Cup qualifier
+in Denmark	-15
++15	1780
+1994	-1
+0	19
+3
+March 31
+1999	Italy
+Belarus	1
+1	European Cup qualifier
+in Italy	-19
++19	1975
+1391	0
++6	3
+107
+April 28
+1999	Croatia
+Italy	0
+0	Friendly
+in Croatia	-1
++1	1895
+1976	0
+0	10
+3
+June 05
+1999	Italy
+Wales	4
+0	European Cup qualifier
+in Italy	+3
+-3	1979
+1546	0
+0	3
+60
+June 09
+1999	Switzerland
+Italy	0
+0	European Cup qualifier
+in Switzerland	+11
+-11	1674
+1968	+4
+0	39
+3
+September 08
+1999	Italy
+Denmark	2
+3	European Cup qualifier
+in Italy	-33
++33	1935
+1832	0
+0	4
+17
+October 09
+1999	Belarus
+Italy	0
+0	European Cup qualifier
+in Belarus	+17
+-17	1386
+1918	+6
+-1	107
+5
+November 13
+1999	Italy
+Belgium	1
+3	Friendly
+in Italy	-25
++25	1893
+1764	-3
++1	8
+23
+February 23
+2000	Italy
+Sweden	1
+0	Friendly
+in Italy	+7
+-7	1900
+1867	0
+-1	8
+13
+March 29
+2000	Spain
+Italy	2
+0	Friendly
+in Spain	+8
+-8	1980
+1892	0
+-1	3
+9
+April 26
+2000	Italy
+Portugal	2
+0	Friendly
+in Italy	+10
+-10	1902
+1870	+1
+-1	8
+11
+June 03
+2000	Norway
+Italy	1
+0	Friendly
+in Norway	+8
+-8	1881
+1894	+2
+0	9
+8
+June 11
+2000	Italy
+Turkey	2
+1	European Cup
+in the Netherlands	+12
+-12	1906
+1678	+1
+-4	7
+38
+June 14
+2000	Belgium
+Italy	0
+2	European Cup
+in Belgium	-39
++39	1778
+1945	-3
++2	19
+5
+June 19
+2000	Italy
+Sweden	2
+1	European Cup
+in the Netherlands	+18
+-18	1963
+1821	+2
+-2	3
+15
+June 24
+2000	Italy
+Romania	2
+0	European Cup
+in Belgium	+23
+-23	1986
+1802	+1
+-1	4
+15
+June 29
+2000	Netherlands
+Italy	0
+0	European Cup
+in the Netherlands	-9
++9	2003
+1995	0
+0	3
+4
+July 02
+2000	France
+Italy	2
+1	European Cup
+in the Netherlands	+19
+-19	2096
+1976	0
+0	1
+4
+September 03
+2000	Hungary
+Italy	2
+2	World Cup qualifier
+in Hungary	+14
+-14	1594
+1962	+2
+0	56
+4
+October 07
+2000	Italy
+Romania	3
+0	World Cup qualifier
+in Italy	+13
+-13	1975
+1785	0
+-2	4
+18
+October 11
+2000	Italy
+Georgia	2
+0	World Cup qualifier
+in Italy	+2
+-2	1977
+1514	0
+-1	4
+70
+November 15
+2000	Italy
+England	1
+0	Friendly
+in Italy	+4
+-4	1981
+1816	0
+0	4
+14
+February 28
+2001	Italy
+Argentina	1
+2	Friendly
+in Italy	-13
++13	1968
+1986	-1
++2	5
+3
+March 24
+2001	Romania
+Italy	0
+2	World Cup qualifier
+in Romania	-25
++25	1785
+1993	-1
++2	15
+3
+March 28
+2001	Italy
+Lithuania	4
+0	World Cup qualifier
+in Italy	+1
+-1	1994
+1381	+1
+-1	2
+108
+April 25
+2001	Italy
+South Africa	1
+0	Friendly
+in Italy	+2
+-2	1996
+1661	0
++1	2
+41
+June 02
+2001	Georgia
+Italy	1
+2	World Cup qualifier
+in Georgia	-4
++4	1509
+2000	-1
+0	71
+2
+September 01
+2001	Lithuania
+Italy	0
+0	World Cup qualifier
+in Lithuania	+18
+-18	1392
+1982	+7
+-1	103
+3
+September 05
+2001	Italy
+Morocco	1
+0	Friendly
+in Italy	+2
+-2	1984
+1660	0
+-2	3
+45
+October 06
+2001	Italy
+Hungary	1
+0	World Cup qualifier
+in Italy	+2
+-2	1986
+1548	0
+-1	3
+62
+November 07
+2001	Japan
+Italy	1
+1	Friendly
+in Japan	+1
+-1	1838
+1985	+1
+0	11
+3
+February 13
+2002	Italy
+United States	1
+0	Friendly
+in Italy	+3
+-3	1988
+1770	+1
+-1	2
+24
+March 27
+2002	England
+Italy	1
+2	Friendly
+in England	-10
++10	1890
+1998	0
+0	7
+2
+April 17
+2002	Italy
+Uruguay	1
+1	Friendly
+in Italy	-7
++7	1991
+1771	0
+0	2
+25
+May 18
+2002	Czechia
+Italy	1
+0	Friendly
+in Czechia	+13
+-13	1807
+1978	+1
+-1	18
+3
+June 03
+2002	Italy
+Ecuador	2
+0	World Cup
+in Japan	+15
+-15	1993
+1687	0
+-4	3
+39
+June 08
+2002	Croatia
+Italy	2
+1	World Cup
+in Japan	+44
+-44	1859
+1949	+8
+-3	11
+5
+June 13
+2002	Mexico
+Italy	1
+1	World Cup
+in Japan	+8
+-8	1867
+1941	+1
+0	12
+4
+June 18
+2002	South Korea
+Italy	2
+1	World Cup
+in South Korea	+35
+-35	1813
+1906	+7
+-2	17
+8
+August 21
+2002	Italy
+Slovenia	0
+1	Friendly
+in Italy	-18
++18	1888
+1631	-2
++4	10
+46
+September 07
+2002	Azerbaijan
+Italy	0
+2	European Cup qualifier
+in Azerbaijan	-3
++3	1284
+1891	-1
++1	135
+9
+October 12
+2002	Italy
+Yugoslavia	1
+1	European Cup qualifier
+in Italy	-12
++12	1879
+1772	0
++3	9
+23
+October 16
+2002	Wales
+Italy	2
+1	European Cup qualifier
+in Wales	+29
+-29	1629
+1850	+7
+-2	46
+11
+November 20
+2002	Italy
+Turkey	1
+1	Friendly
+in Italy	-2
++2	1848
+1865	0
+0	11
+9
+February 12
+2003	Italy
+Portugal	1
+0	Friendly
+in Italy	+9
+-9	1857
+1890	0
+0	11
+8
+March 29
+2003	Italy
+Finland	2
+0	European Cup qualifier
+in Italy	+9
+-9	1866
+1643	0
+-3	11
+44
+April 30
+2003	Switzerland
+Italy	1
+2	Friendly
+in Switzerland	-8
++8	1682
+1874	-1
+0	37
+10
+June 03
+2003	Italy
+Northern Ireland	2
+0	Friendly
+in Italy	+1
+-1	1875
+1434	0
+0	10
+94
+June 11
+2003	Finland
+Italy	0
+2	European Cup qualifier
+in Finland	-22
++22	1655
+1897	-2
++2	41
+8
+August 20
+2003	Germany
+Italy	0
+1	Friendly
+in Germany	-12
++12	1869
+1909	0
++1	10
+7
+September 06
+2003	Italy
+Wales	4
+0	European Cup qualifier
+in Italy	+7
+-7	1916
+1615	0
+-3	7
+53
+September 10
+2003	Serbia and Montenegro
+Italy	1
+1	European Cup qualifier
+in Serbia and Montenegro	+7
+-7	1689
+1909	0
+-1	36
+8
+October 11
+2003	Italy
+Azerbaijan	4
+0	European Cup qualifier
+in Italy	+1
+-1	1910
+1307	0
+0	8
+131
+November 12
+2003	Poland
+Italy	3
+1	Friendly
+in Poland	+21
+-21	1694
+1889	+2
+-1	36
+9
+November 16
+2003	Italy
+Romania	1
+0	Friendly
+in Italy	+4
+-4	1893
+1751	0
+0	8
+24
+February 18
+2004	Italy
+Czechia	2
+2	Friendly
+in Italy	-1
++1	1892
+1945	0
+0	8
+6
+March 31
+2004	Portugal
+Italy	1
+2	Friendly
+in Portugal	-13
++13	1873
+1905	0
+0	9
+8
+April 28
+2004	Italy
+Spain	1
+1	Friendly
+in Italy	-1
++1	1904
+1984	0
+0	8
+3
+May 30
+2004	Tunisia
+Italy	0
+4	Friendly
+in Tunisia	-12
++12	1663
+1916	-2
++1	42
+7
+June 14
+2004	Denmark
+Italy	0
+0	European Cup
+in Portugal	+5
+-5	1844
+1911	+1
+0	9
+7
+June 18
+2004	Italy
+Sweden	1
+1	European Cup
+in Portugal	-7
++7	1904
+1823	-1
++1	8
+14
+June 22
+2004	Italy
+Bulgaria	2
+1	European Cup
+in Portugal	+10
+-10	1914
+1650	0
+-2	7
+45
+August 18
+2004	Iceland
+Italy	2
+0	Friendly
+in Iceland	+25
+-25	1562
+1889	+5
+-1	65
+8
+September 04
+2004	Italy
+Norway	2
+1	World Cup qualifier
+in Italy	+8
+-8	1897
+1745	+1
+0	7
+29
+September 08
+2004	Moldova
+Italy	0
+1	World Cup qualifier
+in Moldova	-3
++3	1368
+1900	-1
+-1	112
+8
+October 09
+2004	Slovenia
+Italy	1
+0	World Cup qualifier
+in Slovenia	+30
+-30	1646
+1870	+9
+0	42
+8
+October 13
+2004	Italy
+Belarus	4
+3	World Cup qualifier
+in Italy	+4
+-4	1874
+1561	0
+0	8
+64
+November 17
+2004	Italy
+Finland	1
+0	Friendly
+in Italy	+3
+-3	1877
+1648	0
+-3	8
+43
+February 09
+2005	Italy
+Russia	2
+0	Friendly
+in Italy	+6
+-6	1883
+1728	0
+0	8
+30
+March 26
+2005	Italy
+Scotland	2
+0	World Cup qualifier
+in Italy	+5
+-5	1888
+1568	0
++1	8
+63
+March 30
+2005	Italy
+Iceland	0
+0	Friendly
+in Italy	-9
++9	1879
+1494	0
+0	8
+81
+June 04
+2005	Norway
+Italy	0
+0	World Cup qualifier
+in Norway	+1
+-1	1766
+1878	0
+-1	24
+9
+June 08
+2005	Italy
+Serbia and Montenegro	1
+1	Friendly
+in Canada	-4
++4	1874
+1743	0
++2	9
+28
+June 11
+2005	Ecuador
+Italy	1
+1	Friendly
+in the United States	+4
+-4	1731
+1870	+1
+-1	30
+10
+August 17
+2005	Ireland
+Italy	1
+2	Friendly
+in Ireland	-12
++12	1816
+1882	-1
++1	16
+9
+September 03
+2005	Scotland
+Italy	1
+1	World Cup qualifier
+in Scotland	+10
+-10	1598
+1872	-2
+-1	58
+10
+September 07
+2005	Belarus
+Italy	1
+4	World Cup qualifier
+in Belarus	-15
++15	1524
+1887	-9
++1	75
+9
+October 08
+2005	Italy
+Slovenia	1
+0	World Cup qualifier
+in Italy	+4
+-4	1891
+1610	+2
++1	7
+56
+October 12
+2005	Italy
+Moldova	2
+1	World Cup qualifier
+in Italy	+1
+-1	1892
+1388	-1
+-2	8
+103
+November 12
+2005	Netherlands
+Italy	1
+3	Friendly
+in the Netherlands	-22
++22	1960
+1914	0
++1	2
+7
+November 16
+2005	Italy
+Ivory Coast	1
+1	Friendly
+in Switzerland	-5
++5	1909
+1706	0
+0	7
+37
+March 01
+2006	Italy
+Germany	4
+1	Friendly
+in Italy	+11
+-11	1920
+1857	0
+0	7
+11
+May 31
+2006	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+2
+-2	1762
+1918	0
+0	28
+7
+June 02
+2006	Italy
+Ukraine	0
+0	Friendly
+in Switzerland	-5
++5	1913
+1750	0
++2	7
+31
+June 12
+2006	Italy
+Ghana	2
+0	World Cup
+in Germany	+14
+-14	1927
+1598	+1
+-3	7
+55
+June 17
+2006	Italy
+United States	1
+1	World Cup
+in Germany	-12
++12	1915
+1794	0
++1	8
+18
+June 22
+2006	Italy
+Czechia	2
+0	World Cup
+in Germany	+42
+-42	1957
+1851	+3
+-1	5
+11
+June 26
+2006	Italy
+Australia	1
+0	World Cup
+in Germany	+18
+-18	1975
+1794	+1
+-2	5
+18
+June 30
+2006	Italy
+Ukraine	3
+0	World Cup
+in Germany	+27
+-27	2002
+1763	+2
+-5	2
+24
+July 04
+2006	Germany
+Italy	0
+2	World Cup
+in Germany	-50
++50	1890
+2052	-1
++2	9
+1
+July 09
+2006	Italy
+France	1
+1	World Cup
+in Germany	-1
++1	2051
+2040	0
+0	1
+2
+August 16
+2006	Italy
+Croatia	0
+2	Friendly
+in Italy	-27
++27	2024
+1817	-2
++4	3
+15
+September 02
+2006	Italy
+Lithuania	1
+1	European Cup qualifier
+in Italy	-19
++19	2005
+1473	0
++6	3
+86
+September 06
+2006	France
+Italy	3
+1	European Cup qualifier
+in France	+18
+-18	2066
+1987	0
+0	1
+3
+October 07
+2006	Italy
+Ukraine	2
+0	European Cup qualifier
+in Italy	+8
+-8	1995
+1761	0
+0	3
+23
+October 11
+2006	Georgia
+Italy	1
+3	European Cup qualifier
+in Georgia	-5
++5	1470
+2000	-2
+0	88
+3
+November 15
+2006	Italy
+Turkey	1
+1	Friendly
+in Italy	-7
++7	1993
+1811	0
++2	3
+16
+March 28
+2007	Italy
+Scotland	2
+0	European Cup qualifier
+in Italy	+6
+-6	1999
+1706	0
+-3	3
+40
+June 02
+2007	Faroe Islands
+Italy	1
+2	European Cup qualifier
+in Faroe Islands	0
+0	1136
+1999	0
+0	171
+3
+June 06
+2007	Lithuania
+Italy	0
+2	European Cup qualifier
+in Lithuania	-5
++5	1467
+2004	-1
+0	89
+3
+August 22
+2007	Hungary
+Italy	3
+1	Friendly
+in Hungary	+27
+-27	1567
+1977	+8
+0	62
+4
+September 08
+2007	Italy
+France	0
+0	European Cup qualifier
+in Italy	-2
++2	1975
+2039	-1
+0	5
+2
+September 12
+2007	Ukraine
+Italy	1
+2	European Cup qualifier
+in Ukraine	-14
++14	1758
+1989	-5
+0	24
+5
+October 13
+2007	Italy
+Georgia	2
+0	European Cup qualifier
+in Italy	+2
+-2	1991
+1490	+1
+-1	4
+78
+October 17
+2007	Italy
+South Africa	2
+0	Friendly
+in Italy	+1
+-1	1992
+1474	0
+0	4
+86
+November 17
+2007	Scotland
+Italy	1
+2	European Cup qualifier
+in Scotland	-12
++12	1731
+2004	-5
++1	34
+3
+November 21
+2007	Italy
+Faroe Islands	3
+1	European Cup qualifier
+in Italy	0
+0	2004
+1127	0
+0	2
+172
+February 06
+2008	Italy
+Portugal	3
+1	Friendly
+in Switzerland	+9
+-9	2013
+1843	0
+0	2
+14
+March 26
+2008	Spain
+Italy	1
+0	Friendly
+in Spain	+9
+-9	1953
+2004	0
+0	5
+2
+May 30
+2008	Italy
+Belgium	3
+1	Friendly
+in Italy	+2
+-2	2006
+1592	0
+-2	2
+57
+June 09
+2008	Netherlands
+Italy	3
+0	European Cup
+in Switzerland	+52
+-52	1994
+1954	+4
+-3	3
+6
+June 13
+2008	Romania
+Italy	1
+1	European Cup
+in Switzerland	+5
+-5	1888
+1949	0
++1	11
+5
+June 17
+2008	Italy
+France	2
+0	European Cup
+in Switzerland	+36
+-36	1985
+1896	0
+-2	5
+8
+June 22
+2008	Italy
+Spain	0
+0	European Cup
+in Austria	+1
+-1	1986
+2001	0
+0	5
+1
+August 20
+2008	Austria
+Italy	2
+2	Friendly
+in France	+8
+-8	1564
+1978	+2
+0	59
+5
+September 06
+2008	Cyprus
+Italy	1
+2	World Cup qualifier
+in Cyprus	-4
++4	1493
+1982	-1
++2	85
+3
+September 10
+2008	Italy
+Georgia	2
+0	World Cup qualifier
+in Italy	+2
+-2	1984
+1480	-1
+0	4
+88
+October 11
+2008	Bulgaria
+Italy	0
+0	World Cup qualifier
+in Bulgaria	+6
+-6	1777
+1978	+1
+0	20
+4
+October 15
+2008	Italy
+Montenegro	2
+1	World Cup qualifier
+in Italy	+3
+-3	1981
+1606	0
+-1	4
+53
+November 19
+2008	Greece
+Italy	1
+1	Friendly
+in Greece	+4
+-4	1750
+1977	-1
+0	28
+4
+February 10
+2009	Brazil
+Italy	2
+0	Friendly
+in England	+14
+-14	2009
+1963	+1
+0	2
+4
+March 28
+2009	Montenegro
+Italy	0
+2	World Cup qualifier
+in Montenegro	-11
++11	1600
+1974	+1
++1	52
+4
+April 01
+2009	Italy
+Ireland	1
+1	World Cup qualifier
+in Italy	-15
++15	1959
+1756	-1
++3	5
+25
+June 06
+2009	Italy
+Northern Ireland	3
+0	Friendly
+in Italy	+2
+-2	1961
+1558	0
+-3	5
+65
+June 10
+2009	Italy
+New Zealand	4
+3	Friendly
+in South Africa	+1
+-1	1962
+1519	0
++1	5
+78
+June 15
+2009	Italy
+United States	3
+1	Confederations Cup
+in South Africa	+21
+-21	1983
+1775	+1
+-5	4
+19
+June 18
+2009	Egypt
+Italy	1
+0	Confederations Cup
+in South Africa	+42
+-42	1737
+1941	+10
+-1	31
+5
+June 21
+2009	Brazil
+Italy	3
+0	Confederations Cup
+in South Africa	+30
+-30	2087
+1911	0
+-1	2
+6
+August 12
+2009	Switzerland
+Italy	0
+0	Friendly
+in Switzerland	+1
+-1	1777
+1910	+1
+0	19
+6
+September 05
+2009	Georgia
+Italy	0
+2	World Cup qualifier
+in Georgia	-6
++6	1426
+1916	0
+0	98
+6
+September 09
+2009	Italy
+Bulgaria	2
+0	World Cup qualifier
+in Italy	+12
+-12	1928
+1763	0
+-3	6
+22
+October 10
+2009	Ireland
+Italy	2
+2	World Cup qualifier
+in Ireland	+4
+-4	1755
+1924	+5
+0	23
+6
+October 14
+2009	Italy
+Cyprus	3
+2	World Cup qualifier
+in Italy	+2
+-2	1926
+1529	0
+-1	6
+73
+November 14
+2009	Italy
+Netherlands	0
+0	Friendly
+in Italy	0
+0	1926
+2011	0
+0	6
+3
+November 18
+2009	Italy
+Sweden	1
+0	Friendly
+in Italy	+3
+-3	1929
+1744	0
+0	6
+26
+March 03
+2010	Cameroon
+Italy	0
+0	Friendly
+in Monaco	+6
+-6	1706
+1923	0
++1	37
+5
+June 03
+2010	Mexico
+Italy	2
+1	Friendly
+in Belgium	+11
+-11	1883
+1912	0
+0	8
+6
+June 05
+2010	Switzerland
+Italy	1
+1	Friendly
+in Switzerland	+2
+-2	1735
+1910	0
+0	27
+6
+June 14
+2010	Paraguay
+Italy	1
+1	World Cup
+in South Africa	+13
+-13	1758
+1897	0
+0	22
+7
+June 20
+2010	Italy
+New Zealand	1
+1	World Cup
+in South Africa	-23
++23	1874
+1570	-1
++11	9
+60
+June 24
+2010	Slovakia
+Italy	3
+2	World Cup
+in South Africa	+49
+-49	1654
+1825	+7
+-4	45
+13
+August 10
+2010	Ivory Coast
+Italy	1
+0	Friendly
+in England	+12
+-12	1771
+1813	+4
+-1	18
+14
+September 03
+2010	Estonia
+Italy	1
+2	European Cup qualifier
+in Estonia	-7
++7	1432
+1820	-3
+0	99
+14
+September 07
+2010	Italy
+Faroe Islands	5
+0	European Cup qualifier
+in Italy	+1
+-1	1821
+1165	+1
+0	12
+164
+October 08
+2010	Northern Ireland
+Italy	0
+0	European Cup qualifier
+in Northern Ireland	+9
+-9	1561
+1812	+2
+-1	68
+13
+November 17
+2010	Italy
+Romania	1
+1	Friendly
+in Austria	-4
++4	1808
+1684	+1
++3	12
+36
+February 09
+2011	Germany
+Italy	1
+1	Friendly
+in Germany	-7
++7	2036
+1815	0
+0	4
+13
+March 25
+2011	Slovenia
+Italy	0
+1	European Cup qualifier
+in Slovenia	-18
++18	1655
+1833	-2
++1	41
+12
+March 29
+2011	Ukraine
+Italy	0
+2	Friendly
+in Ukraine	-17
++17	1762
+1850	-3
++2	21
+10
+June 03
+2011	Italy
+Estonia	3
+0	European Cup qualifier
+in Italy	+5
+-5	1855
+1482	0
+-1	10
+91
+June 07
+2011	Ireland
+Italy	2
+0	Friendly
+in Belgium	+19
+-19	1772
+1836	+4
+-2	19
+12
+August 10
+2011	Italy
+Spain	2
+1	Friendly
+in Italy	+15
+-15	1851
+2096	+1
+0	11
+1
+September 02
+2011	Faroe Islands
+Italy	0
+1	European Cup qualifier
+in Faroe Islands	-2
++2	1191
+1853	+1
+0	155
+11
+September 06
+2011	Italy
+Slovenia	1
+0	European Cup qualifier
+in Italy	+5
+-5	1858
+1616	0
+0	11
+55
+October 07
+2011	Serbia
+Italy	1
+1	European Cup qualifier
+in Serbia	+1
+-1	1738
+1857	+2
++2	28
+9
+October 11
+2011	Italy
+Northern Ireland	3
+0	European Cup qualifier
+in Italy	+3
+-3	1860
+1428	-1
++1	10
+98
+November 11
+2011	Poland
+Italy	0
+2	Friendly
+in Poland	-12
++12	1675
+1872	-2
++1	39
+9
+November 15
+2011	Italy
+Uruguay	0
+1	Friendly
+in Italy	-10
++10	1862
+1968	-1
+0	10
+5
+February 29
+2012	Italy
+United States	0
+1	Friendly
+in Italy	-16
++16	1846
+1727	0
++4	10
+30
+June 01
+2012	Russia
+Italy	3
+0	Friendly
+in Switzerland	+20
+-20	1823
+1826	+1
+-3	16
+15
+June 10
+2012	Italy
+Spain	1
+1	European Cup
+in Poland	+17
+-17	1843
+2087	+2
+0	13
+1
+June 14
+2012	Croatia
+Italy	1
+1	European Cup
+in Poland	-3
++3	1875
+1846	0
+0	10
+14
+June 18
+2012	Italy
+Ireland	2
+0	European Cup
+in Poland	+26
+-26	1872
+1709	+1
+-5	12
+32
+June 24
+2012	Italy
+England	0
+0	European Cup
+in Ukraine	+6
+-6	1878
+1951	0
+-1	11
+5
+June 28
+2012	Italy
+Germany	2
+1	European Cup
+in Poland	+38
+-38	1916
+2036	+3
+0	8
+2
+July 01
+2012	Spain
+Italy	4
+0	European Cup
+in Ukraine	+23
+-23	2132
+1893	0
+-2	1
+10
+August 15
+2012	England
+Italy	2
+1	Friendly
+in Switzerland	+8
+-8	1959
+1885	+1
++1	4
+9
+September 07
+2012	Bulgaria
+Italy	2
+2	World Cup qualifier
+in Bulgaria	+9
+-9	1619
+1876	+1
+-2	52
+11
+September 11
+2012	Italy
+Malta	2
+0	World Cup qualifier
+in Italy	+1
+-1	1877
+1205	+1
+0	10
+153
+October 12
+2012	Armenia
+Italy	1
+3	World Cup qualifier
+in Armenia	-10
++10	1496
+1887	-2
++1	82
+9
+October 16
+2012	Italy
+Denmark	3
+1	World Cup qualifier
+in Italy	+13
+-13	1900
+1746	+2
+-2	7
+25
+November 14
+2012	Italy
+France	1
+2	Friendly
+in Italy	-14
++14	1886
+1863	-1
++2	8
+12
+February 06
+2013	Netherlands
+Italy	1
+1	Friendly
+in the Netherlands	-5
++5	1966
+1891	0
++1	5
+7
+March 21
+2013	Brazil
+Italy	2
+2	Friendly
+in Switzerland	-4
++4	2023
+1895	0
+0	3
+7
+March 26
+2013	Malta
+Italy	0
+2	World Cup qualifier
+in Malta	-2
++2	1213
+1897	-1
+0	152
+7
+May 31
+2013	Italy
+San Marino	4
+0	Friendly
+in Italy	0
+0	1897
+860	0
+0	7
+205
+June 07
+2013	Czechia
+Italy	0
+0	World Cup qualifier
+in Czechia	+3
+-3	1742
+1894	0
+0	28
+7
+June 11
+2013	Haiti
+Italy	2
+2	Friendly
+in Brazil	+9
+-9	1428
+1885	+1
+-1	100
+8
+June 16
+2013	Italy
+Mexico	2
+1	Confederations Cup
+in Brazil	+22
+-22	1907
+1818	+1
+-5	7
+17
+June 19
+2013	Italy
+Japan	4
+3	Confederations Cup
+in Brazil	+14
+-14	1921
+1737	0
+-2	7
+28
+June 22
+2013	Brazil
+Italy	4
+2	Confederations Cup
+in Brazil	+17
+-17	2056
+1904	0
+0	2
+7
+June 27
+2013	Italy
+Spain	0
+0	Confederations Cup
+in Brazil	+15
+-15	1919
+2127	0
+0	7
+1
+June 30
+2013	Italy
+Uruguay	2
+2	Confederations Cup
+in Brazil	-6
++6	1913
+1834	0
++1	7
+13
+August 14
+2013	Italy
+Argentina	1
+2	Friendly
+in Italy	-11
++11	1902
+1991	0
++1	7
+4
+September 06
+2013	Italy
+Bulgaria	1
+0	World Cup qualifier
+in Italy	+5
+-5	1907
+1650	0
++1	7
+43
+September 10
+2013	Italy
+Czechia	2
+1	World Cup qualifier
+in Italy	+6
+-6	1913
+1702	0
+-1	7
+32
+October 11
+2013	Denmark
+Italy	2
+2	World Cup qualifier
+in Denmark	+5
+-5	1721
+1908	+1
+0	26
+7
+October 15
+2013	Italy
+Armenia	2
+2	World Cup qualifier
+in Italy	-17
++17	1891
+1555	-1
++4	8
+69
+November 15
+2013	Italy
+Germany	1
+1	Friendly
+in Italy	+2
+-2	1893
+2051	-1
+0	10
+3
+November 18
+2013	Italy
+Nigeria	2
+2	Friendly
+in England	-5
++5	1888
+1718	0
++1	10
+30
+March 05
+2014	Spain
+Italy	1
+0	Friendly
+in Spain	+3
+-3	2085
+1885	0
+0	2
+11

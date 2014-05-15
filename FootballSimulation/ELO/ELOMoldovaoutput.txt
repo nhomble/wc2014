@@ -1,0 +1,175 @@
+1991 188 home Moldova Georgia 2 4 Friendly
+1992 144 home Moldova Lithuania 1 1 Friendly
+1992 293 away Moldova Armenia 0 0 Friendly
+1993 136 away Moldova Belarus 0 1 Friendly
+1994 109 away Moldova UnitedStates 1 1 Friendly
+1994 113 away Moldova UnitedStates 3 0 Friendly
+1994 249 home Moldova Azerbaijan 2 1 Friendly
+1994 255 away Moldova Georgia 0 1 European Cup qualifier
+1994 291 home Moldova Wales 3 2 European Cup qualifier
+1994 326 away Moldova Bulgaria 4 1 European Cup qualifier
+1994 355 home Moldova Germany 0 3 European Cup qualifier
+1995 91 away Moldova Albania 3 0 European Cup qualifier
+1995 119 home Moldova Bulgaria 0 3 European Cup qualifier
+1995 162 home Moldova Albania 2 3 European Cup qualifier
+1995 254 away Moldova Wales 1 0 European Cup qualifier
+1995 287 away Moldova Germany 6 1 European Cup qualifier
+1995 325 home Moldova Georgia 3 2 European Cup qualifier
+1996 102 home Moldova Ukraine 2 2 Friendly
+1996 156 away Moldova Romania 3 1 Friendly
+1996 231 away Moldova Turkey 2 0 Friendly
+1996 249 home Moldova England 0 3 World Cup qualifier
+1996 284 home Moldova Italy 1 3 World Cup qualifier
+1996 309 home Moldova Indonesia 2 1 Friendly
+1996 320 away Moldova Poland 2 1 World Cup qualifier
+1997 85 away Moldova Ukraine 1 0 Friendly
+1997 91 away Moldova Italy 3 0 World Cup qualifier
+1997 162 away Moldova Georgia 2 0 World Cup qualifier
+1997 258 away Moldova England 4 0 World Cup qualifier
+1997 272 home Moldova Georgia 0 1 World Cup qualifier
+1997 286 home Moldova Poland 0 3 World Cup qualifier
+1998 84 away Moldova Azerbaijan 1 0 Friendly
+1998 161 away Moldova Romania 5 1 Friendly
+1998 233 away Moldova Lithuania 1 1 Friendly
+1998 237 away Moldova Estonia 0 1 Friendly
+1998 253 away Moldova Finland 3 2 European Cup qualifier
+1998 271 home Moldova Romania 0 0 Friendly
+1998 293 home Moldova Germany 1 3 European Cup qualifier
+1998 328 away Moldova NorthernIreland 2 2 European Cup qualifier
+1999 72 away Moldova Malta 0 2 Friendly
+1999 89 away Moldova Turkey 2 0 European Cup qualifier
+1999 93 home Moldova NorthernIreland 0 0 European Cup qualifier
+1999 159 away Moldova Germany 6 1 European Cup qualifier
+1999 164 home Moldova Finland 0 0 European Cup qualifier
+1999 235 away Moldova Hungary 1 1 Friendly
+1999 256 home Moldova Turkey 1 1 European Cup qualifier
+1999 357 away Moldova Greece 2 0 Friendly
+2000 33 away Moldova Armenia 2 1 Friendly tournament
+2000 35 home Moldova Lithuania 2 1 Friendly tournament
+2000 119 away Moldova SanMarino 0 1 Friendly
+2000 159 home Moldova Russia 0 1 Friendly
+2000 233 home Moldova Malta 1 0 Friendly
+2000 250 away Moldova Turkey 2 0 World Cup qualifier
+2000 286 home Moldova Slovakia 0 1 World Cup qualifier
+2000 290 home Moldova Macedonia 0 0 World Cup qualifier
+2001 45 away Moldova Israel 1 0 Friendly
+2001 86 away Moldova Azerbaijan 0 0 World Cup qualifier
+2001 90 home Moldova Sweden 0 2 World Cup qualifier
+2001 118 home Moldova Estonia 0 0 Friendly
+2001 157 away Moldova Macedonia 2 2 World Cup qualifier
+2001 161 away Moldova Sweden 6 0 World Cup qualifier
+2001 232 away Moldova Portugal 3 0 Friendly
+2001 249 home Moldova Azerbaijan 2 0 World Cup qualifier
+2001 253 away Moldova Slovakia 4 2 World Cup qualifier
+2001 285 home Moldova Turkey 0 3 World Cup qualifier
+2002 40 away Moldova Lithuania 1 0 Rothmans Tournament
+2002 42 home Moldova Jordan 2 0 Rothmans Tournament
+2002 44 away Moldova Malta 3 0 Rothmans Tournament
+2002 89 home Moldova Hungary 0 2 Friendly
+2002 238 away Moldova Estonia 1 0 Friendly
+2002 255 away Moldova Austria 2 0 European Cup qualifier
+2002 291 home Moldova Czechia 0 2 European Cup qualifier
+2002 330 away Moldova Hungary 1 1 Friendly
+2003 43 away Moldova Georgia 2 2 Friendly
+2003 67 away Moldova Israel 0 0 Friendly
+2003 91 away Moldova Belarus 2 1 European Cup qualifier
+2003 95 home Moldova Holland 1 2 European Cup qualifier
+2003 162 home Moldova Austria 1 0 European Cup qualifier
+2003 166 away Moldova Czechia 5 0 European Cup qualifier
+2003 237 away Moldova Turkey 2 0 Friendly
+2003 258 home Moldova Belarus 2 1 European Cup qualifier
+2003 290 away Moldova Holland 5 0 European Cup qualifier
+2003 330 away Moldova Luxembourg 1 2 Friendly
+2004 45 away Moldova Malta 0 0 Friendly tournament
+2004 49 away Moldova Estonia 1 0 Friendly tournament
+2004 93 home Moldova Azerbaijan 2 1 Friendly
+2004 121 away Moldova Israel 1 1 Friendly
+2004 235 home Moldova Georgia 1 0 Friendly
+2004 252 away Moldova Slovenia 3 0 World Cup qualifier
+2004 256 home Moldova Italy 0 1 World Cup qualifier
+2004 288 away Moldova Belarus 4 0 World Cup qualifier
+2004 292 home Moldova Scotland 1 1 World Cup qualifier
+2005 40 away Moldova Azerbaijan 0 0 Friendly
+2005 92 home Moldova Norway 0 0 World Cup qualifier
+2005 148 away Moldova Romania 2 0 Friendly
+2005 159 away Moldova Scotland 2 0 World Cup qualifier
+2005 251 home Moldova Belarus 2 0 World Cup qualifier
+2005 255 home Moldova Slovenia 1 2 World Cup qualifier
+2005 287 away Moldova Norway 1 0 World Cup qualifier
+2005 291 away Moldova Italy 2 1 World Cup qualifier
+2006 142 home Moldova Azerbaijan 0 0 Friendly
+2006 233 home Moldova Lithuania 3 2 Friendly
+2006 250 home Moldova Greece 0 1 European Cup qualifier
+2006 254 away Moldova Norway 2 0 European Cup qualifier
+2006 286 home Moldova Bosnia 2 2 European Cup qualifier
+2006 290 away Moldova Turkey 5 0 European Cup qualifier
+2007 38 away Moldova Romania 2 0 Friendly
+2007 86 home Moldova Malta 1 1 European Cup qualifier
+2007 90 away Moldova Hungary 2 0 European Cup qualifier
+2007 161 away Moldova Greece 2 1 European Cup qualifier
+2007 239 away Moldova Latvia 1 2 Friendly
+2007 256 home Moldova Norway 0 1 European Cup qualifier
+2007 260 away Moldova Bosnia 0 1 European Cup qualifier
+2007 292 home Moldova Turkey 1 1 European Cup qualifier
+2007 296 away Moldova Malta 2 3 European Cup qualifier
+2007 327 home Moldova Hungary 3 0 European Cup qualifier
+2008 37 home Moldova Kazakhstan 1 0 Friendly
+2008 148 away Moldova Croatia 1 0 Friendly
+2008 152 home Moldova Armenia 2 2 Friendly
+2008 237 away Moldova Lithuania 3 0 Friendly
+2008 254 home Moldova Latvia 1 2 World Cup qualifier
+2008 258 home Moldova Israel 1 2 World Cup qualifier
+2008 290 away Moldova Greece 3 0 World Cup qualifier
+2008 294 away Moldova Luxembourg 0 0 World Cup qualifier
+2008 328 away Moldova Estonia 1 0 Friendly
+2008 329 away Moldova Lithuania 1 1 Friendly
+2009 42 away Moldova Macedonia 1 1 Friendly
+2009 90 home Moldova Switzerland 0 2 World Cup qualifier
+2009 94 away Moldova Switzerland 2 0 World Cup qualifier
+2009 161 away Moldova Georgia 1 2 Friendly
+2009 165 away Moldova Belarus 2 2 Friendly
+2009 229 away Moldova Armenia 1 4 Friendly
+2009 253 home Moldova Luxembourg 0 0 World Cup qualifier
+2009 257 home Moldova Greece 1 1 World Cup qualifier
+2009 289 away Moldova Israel 3 1 World Cup qualifier
+2009 293 away Moldova Latvia 3 2 World Cup qualifier
+2010 65 home Moldova Kazakhstan 1 0 Friendly
+2010 150 home Moldova Azerbaijan 1 1 Friendly
+2010 153 away Moldova UnitedArab 3 2 Friendly
+2010 228 home Moldova Georgia 0 0 Friendly
+2010 251 home Moldova Finland 2 0 European Cup qualifier
+2010 255 away Moldova Hungary 2 1 European Cup qualifier
+2010 287 home Moldova Holland 0 1 European Cup qualifier
+2010 291 away Moldova SanMarino 0 2 European Cup qualifier
+2011 37 away Moldova Poland 1 0 Friendly
+2011 40 home Moldova Andorra 2 1 Friendly
+2011 91 away Moldova Sweden 2 1 European Cup qualifier
+2011 158 home Moldova Sweden 1 4 European Cup qualifier
+2011 227 away Moldova Cyprus 3 2 Friendly
+2011 250 away Moldova Finland 4 1 European Cup qualifier
+2011 254 home Moldova Hungary 0 2 European Cup qualifier
+2011 286 away Moldova Holland 1 0 European Cup qualifier
+2011 290 home Moldova SanMarino 4 0 European Cup qualifier
+2011 321 away Moldova Georgia 2 0 Friendly
+2012 60 away Moldova Belarus 0 0 Friendly
+2012 147 away Moldova Venezuela 4 0 Friendly
+2012 150 away Moldova ElSalvador 2 0 Friendly
+2012 232 away Moldova Albania 0 0 Friendly
+2012 255 home Moldova England 0 5 World Cup qualifier
+2012 259 away Moldova Poland 2 0 World Cup qualifier
+2012 291 home Moldova Ukraine 0 0 World Cup qualifier
+2012 295 away Moldova SanMarino 0 2 World Cup qualifier
+2013 37 away Moldova Kazakhstan 3 1 Friendly
+2013 84 home Moldova Montenegro 0 1 World Cup qualifier
+2013 88 away Moldova Ukraine 2 1 World Cup qualifier
+2013 162 home Moldova Poland 1 1 World Cup qualifier
+2013 169 home Moldova Kyrgyzstan 2 1 Friendly
+2013 231 home Moldova Andorra 1 1 Friendly
+2013 254 away Moldova England 4 0 World Cup qualifier
+2013 290 home Moldova SanMarino 3 0 World Cup qualifier
+2013 294 away Moldova Montenegro 2 5 World Cup qualifier
+2013 328 home Moldova Lithuania 1 1 Friendly
+2014 15 away Moldova Norway 2 1 Friendly
+2014 17 away Moldova Sweden 2 1 Friendly
+2014 20 away Moldova Poland 1 0 Friendly
+2014 67 away Moldova Andorra 0 3 Friendly

@@ -1,0 +1,225 @@
+Carlos Vela Carlos Vela 
+Real Sociedad / Liga BBVA 
+82	RW	86	76	73	86	46	64	4 	2 	 / 	 Left	1,000	1,848		
+Javier Hernandez Javier Hernandez 
+Manchester United / Barclays PL 
+82	ST	88	76	62	75	44	77	3 	3 	 / 	 Right	1,100	1,813		
+Andres Guardado Andres Guardado 
+Valencia CF / Liga BBVA 
+81	LM	87	73	78	84	72	64	3 	2 	 / 	 Left	1,500	2,051		
+Andres Guardado Andres Guardado 
+Bayer 04 Leverkusen / Bundesliga 
+81	LM	87	73	78	84	72	64	3 	2 	 / 	 Left	850	2,051		
+Giovani dos Santos Giovani dos Santos 
+Villarreal CF / Liga BBVA 
+79	LM	85	74	76	87	40	52	4 	4 	 / 	 Left	850	1,797		
+Guillermo Ochoa Guillermo Ochoa 
+AC Ajaccio / Ligue 1 
+78	GK	84	68	76	85	47	74	1 	3 	 / 	 Right	700	941		
+Cirilo Saucedo Cirilo Saucedo 
+Tijuana / LIGA Bancomer MX 	
+74	GK	72	74	71	75	42	74	1 	3 	 / 	 Right	750	877		
+Angel Reyna Angel Reyna 
+Tiburones Rojos de Veracruz / LIGA Bancomer MX 
+74	CAM	78	72	70	78	54	68	4 	5 	 / 	 Right	1,400	1,815		
+Carlos Salcido Carlos Salcido 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+73	CDM	74	58	70	70	75	75	2 	5 	 / 	 Left	1,600	1,873		
+Jonathan Dos Santos Jonathan Dos Santos 
+FC Barcelona / Liga BBVA 
+73	CM	68	68	74	74	57	60	2 	4 	 / 	 Right	1,200	1,790		
+Marco Fabian Marco Fabian 
+Guadalajara / LIGA Bancomer MX 
+73	CAM	79	73	72	76	45	64	4 	4 	 / 	 Right	2,700	1,785		
+Javier Aquino Javier Aquino 
+Villarreal CF / Liga BBVA 
+73	RM	90	63	69	78	39	52	4 	4 	 / 	 Right	1,600	1,708		
+Marco Fabian Marco Fabian 
+Cruz Azul / LIGA Bancomer MX 
+73	CAM	79	73	72	76	45	64	4 	4 	 / 	 Right	950	1,785		
+Aldo De Nigris Aldo De Nigris 
+Guadalajara / LIGA Bancomer MX 
+72	ST	69	68	63	64	54	80	2 	3 	 / 	 Right	550	1,727		
+Jesus Corona Jesus Corona 
+FC Twente / Eredivisie 
+72	LW	80	63	65	78	50	57	5 	3 	 / 	 Left	1,000	1,727		
+ Damian Alvarez Damian Alvarez 
+Tigres U.A.N.L. / LIGA Bancomer MX 	
+71	LM	79	62	66	80	46	48	4 	4 	 / 	 Right	400	1,668		
+Joel Huiqui Joel Huiqui 
+Monarcas Morelia / LIGA Bancomer MX 
+71	CB	62	46	50	57	72	78	2 	3 	 / 	 Right	450	1,525		
+Ivan Estrada Ivan Estrada 
+Pachuca / LIGA Bancomer MX 
+71	RB	88	57	65	69	66	60	2 	4 	 / 	 Right	1,200	1,793		
+Omar Arellano Omar Arellano 
+Monterrey / LIGA Bancomer MX 
+71	RW	91	64	66	73	48	66	3 	4 	 / 	 Right	400	1,729		
+Jesus Molina Jesus Molina 
+América / LIGA Bancomer MX 
+71	CDM	61	55	61	64	73	81	2 	3 	 / 	 Left	750	1,701		
+Enrique Perez Enrique Perez 
+Monarcas Morelia / LIGA Bancomer MX 
+71	CB	90	52	66	64	71	76	2 	3 	 / 	 Right	2,300	1,780		
+Enrique Perez Enrique Perez 
+Atlas / LIGA Bancomer MX 
+71	CB	90	52	66	64	71	76	2 	3 	 / 	 Right	750	1,780		
+Ivan Estrada Ivan Estrada 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+71	RB	88	57	65	69	66	60	2 	4 	 / 	 Right	450	1,793		
+Edgar Andrade Edgar Andrade 
+Monarcas Morelia / LIGA Bancomer MX 
+70	RM	77	67	69	72	56	56	3 	4 	 / 	 Right	1,400	1,730		
+Edgar Andrade Edgar Andrade 
+Pachuca / LIGA Bancomer MX 
+70	RM	77	67	69	72	56	56	3 	4 	 / 	 Right	300	1,666	
+Vicente Matias Vuoso Vicente Matias Vuoso 
+Atlas / LIGA Bancomer MX 
+69	ST	60	67	55	65	49	79	3 	3 	 / 	 Right	250	1,644		
+Jose Arturo Rivas Jose Arturo Rivas 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+68	CB	55	48	58	51	68	82	2 	3 	 / 	 Left	350	1,578		
+Isaac Brizuela Isaac Brizuela 
+Toluca / LIGA Bancomer MX 
+68	RW	87	60	63	68	40	55	4 	3 	 / 	 Right	650	1,565		
+Alan Pulido Alan Pulido 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+68	ST	88	63	54	72	46	63	3 	1 	 / 	 Right	550	1,621		
+Hector Reynoso Hector Reynoso 
+Guadalajara / LIGA Bancomer MX 
+67	CB	51	49	51	45	66	72	2 	3 	 / 	 Right	9,600	1,451		
+Jorge Villalpando Jorge Villalpando 
+Puebla / LIGA Bancomer MX 
+67	GK	71	59	70	73	62	62	1 	2 	 / 	 Left	350	1,044		
+Eduardo Herrera Eduardo Herrera 
+Santos Laguna / LIGA Bancomer MX 
+67	ST	64	63	52	58	49	67	2 	3 	 / 	 Right	600	1,435		
+Fernando Navarro Fernando Navarro 
+León / LIGA Bancomer MX 
+67	RB	88	54	67	70	60	49	2 	2 	 / 	 Right	650	1,747		
+Nestor Araujo Nestor Araujo 
+Santos Laguna / LIGA Bancomer MX 
+67	CB	73	41	57	55	70	64	2 	3 	 / 	 Left	700	1,461		
+Hector Reynoso Hector Reynoso 
+Monarcas Morelia / LIGA Bancomer MX 
+67	CB	51	49	51	45	66	72	2 	3 	 / 	 Right	250	1,451		
+Marco Antonio Palacios Marco Antonio Palacios 
+U.N.A.M. / LIGA Bancomer MX 
+66	CB	40	46	51	42	64	66	2 	3 	 / 	 Right	300	1,372		
+Anibal Anibal 
+CE Sabadell FC / Liga Adelante 
+66	ST	60	63	41	54	50	74	2 	4 	 / 	 Right	350	1,459		
+Isaac Romo Isaac Romo 
+Querétaro / LIGA Bancomer MX 
+65	ST	54	61	54	56	45	68	2 	3 	 / 	 Left	400	1,393		
+Alfredo Gonzalez Tahuilan Alfredo Gonzalez Tahuilan 
+Tijuana / LIGA Bancomer MX 
+65	CB	46	49	44	38	66	72	2 	3 	 / 	 Right	350	1,403		
+Julio Nava Julio Nava 
+Querétaro / LIGA Bancomer MX 
+65	LW	86	57	64	64	43	56	3 	3 	 / 	 Left	2,600	1,533		
+Julio Nava Julio Nava 
+Chiapas FC / LIGA Bancomer MX 
+65	LW	86	57	64	64	43	56	3 	3 	 / 	 Left	300	1,533		
+Francisco Torres Francisco Torres 
+Chiapas FC / LIGA Bancomer MX 
+64	CM	76	65	63	66	60	59	3 	3 	 / 	 Right	1,300	1,726		
+Mauricio Romero Mauricio Romero 
+Chiapas FC / LIGA Bancomer MX 
+64	ST	58	61	46	62	50	75	3 	3 	 / 	 Right	200	1,545		
+Cesar Villaluz Cesar Villaluz 
+Chiapas FC / LIGA Bancomer MX 	
+64	RM	69	60	66	68	42	59	3 	4 	 / 	 Right	200	1,561		
+Emmanuel Cerda Emmanuel Cerda 
+Tijuana / LIGA Bancomer MX 
+64	RW	77	58	56	71	40	62	3 	3 	 / 	 Right	200	1,498		
+Edgar Mejia Edgar Mejia 
+Chivas USA / MLS 
+64	CDM	66	42	62	54	66	59	2 	3 	 / 	 Right	2,000	1,579		
+Daniel Marquez Daniel Marquez 
+Tijuana / LIGA Bancomer MX 
+64	ST	68	59	50	63	49	74	2 	3 	 / 	 Right	500	1,521		
+Jonathan Espericueta Jonathan Espericueta 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+64	CM	68	64	66	66	49	60	2 	3 	 / 	 Left	1,300	1,643		
+Edgar Mejia Edgar Mejia 
+Puebla / LIGA Bancomer MX 
+64	CDM	66	42	62	54	66	59	2 	3 	 / 	 Right	200	1,579		
+Francisco Torres Francisco Torres 
+Puebla / LIGA Bancomer MX 
+64	CM	76	65	63	66	60	59	3 	3 	 / 	 Right	250	1,726
+Hector Moreno Hector Moreno 
+RCD Espanyol / Liga BBVA 
+78	CB	70	43	63	55	77	81	2 	2 	 / 	 Left	350	1,693		
+Jose de Jesus Corona Jose de Jesus Corona 
+Cruz Azul / LIGA Bancomer MX 
+77	GK	76	79	74	77	47	78	1 	3 	 / 	 Right	400	951		
+Francisco Rodriguez Francisco Rodriguez 
+América / LIGA Bancomer MX 
+76	CB	64	43	55	56	77	76	2 	3 	 / 	 Right	400	1,563		
+Oribe Peralta Oribe Peralta 
+Santos Laguna / LIGA Bancomer MX 
+76	ST	77	74	64	73	46	78	3 	5 	 / 	 Right	400	1,778		
+Christian Gimenez Christian Gimenez 
+Cruz Azul / LIGA Bancomer MX 
+75	CAM	71	77	75	75	43	66	3 	4 	 / 	 Right	350	1,776		
+Jonathan Orozco Jonathan Orozco 
+Monterrey / LIGA Bancomer MX 
+75	GK	78	71	84	77	41	70	1 	3 	 / 	 Right	400	1,072		
+Hugo Ayala Hugo Ayala 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+75	CB	71	51	66	62	78	68	2 	3 	 / 	 Right	350	1,683		
+Diego Reyes Diego Reyes 
+FC Porto / Liga Portuguesa 
+75	CB	73	51	66	71	75	74	3 	3 	 / 	 Right	350	1,768		
+Hector Herrera Hector Herrera 
+FC Porto / Liga Portuguesa 
+74	CM	76	62	73	73	69	60	2 	4 	 / 	 Right	2,100	1,831		
+Jorge Torres Nilo Jorge Torres Nilo 
+Tigres U.A.N.L. / LIGA Bancomer MX 
+74	LB	81	56	68	66	73	67	2 	3 	 / 	 Left	2,300	1,788		
+Jesus Zavala Jesus Zavala 
+Monterrey / LIGA Bancomer MX 
+74	CDM	70	57	71	67	74	73	2 	3 	 / 	 Right	1,000	1,762		
+Oswaldo Sanchez Oswaldo Sanchez 
+Santos Laguna / LIGA Bancomer MX 
+73	GK	75	71	67	75	45	68	1 	3 	 / 	 Right	105,000	1,012		
+Moises Munoz Moises Munoz 
+América / LIGA Bancomer MX 
+73	GK	73	70	69	75	56	75	1 	3 	 / 	 Right	800	964		
+Sinha Sinha 
+Toluca / LIGA Bancomer MX 
+72	CAM	66	68	72	74	46	66	4 	2 	 / 	 Right	1,200	1,740		
+Christian Valdez Christian Valdez 
+Monarcas Morelia / LIGA Bancomer MX 
+72	CM	71	63	71	69	68	48	3 	3 	 / 	 Right	400	1,779		
+Paul Aguilar Paul Aguilar 
+América / LIGA Bancomer MX 
+72	RB	82	57	69	69	69	71	2 	3 	 / 	 Right	1,600	1,788		
+Hiram Mier Hiram Mier 
+Monterrey / LIGA Bancomer MX 
+72	CB	72	48	61	60	72	78	2 	3 	 / 	 Right	800	1,672		
+Raul Jimenez Raul Jimenez 
+América / LIGA Bancomer MX 
+72	ST	78	68	60	71	44	76	3 	4 	 / 	 Right	7,900	1,670		
+Rafael Marquez Rafael Marquez 
+León / LIGA Bancomer MX 
+71	CB	43	60	69	62	70	72	2 	3 	 / 	 Right	1,700	1,731		
+Luis Michel Luis Michel 
+Guadalajara / LIGA Bancomer MX 
+71	GK	73	68	70	71	50	70	1 	3 	 / 	 Right	4,500	998		
+Fernando Arce Fernando Arce 
+Tijuana / LIGA Bancomer MX 
+71	CM	66	68	73	70	61	66	3 	3 	 / 	 Right	1,300	1,833		
+Rafael Marquez Lugo Rafael Marquez Lugo 
+Guadalajara / LIGA Bancomer MX 
+71	ST	72	69	62	69	47	75	2 	4 	 / 	 Right	300	1,709		
+Leobardo Lopez Leobardo Lopez 
+Monterrey / LIGA Bancomer MX 
+71	CB	63	48	61	58	71	75	2 	3 	 / 	 Right	200	1,666		
+Pablo Barrera Pablo Barrera 
+Cruz Azul / LIGA Bancomer MX 
+71	RM	81	67	66	75	55	59	3 	4 	 / 	 Right	750	1,778		
+Jose Maria Cardenas Jose Maria Cardenas 
+Monarcas Morelia / LIGA Bancomer MX 
+71	LM	79	66	68	75	65	65	4 	3 	 / 	 Left	550	1,857

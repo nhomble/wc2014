@@ -1,0 +1,48 @@
+Roger Espinoza Roger Espinoza 
+Wigan Athletic / FL Championship 
+73	CM	73	66	70	73	73	67	3 	5 	 / 	 Left	450	1,871		
+Victor Bernardez Victor Bernardez 
+San Jose Earthquakes / MLS 
+72	CB	51	59	60	47	75	75	2 	3 	 / 	 Right	400	1,670		
+Marvin Chavez Marvin Chavez 
+San Jose Earthquakes / MLS 
+69	RM	85	63	60	75	50	55	3 	5 	 / 	 Right	3,100	1,713		
+Marvin Chavez Marvin Chavez 
+Colorado Rapids / MLS 
+69	RM	85	63	60	75	50	55	3 	5 	 / 	 Right	550	1,713		
+Osman Chavez Osman Chavez 
+Wisła Kraków / Ekstraklasa 
+64	CB	67	40	33	42	60	70	2 	2 	 / 	 Right	300	1,327		
+Andy Najar Andy Najar 
+Anderlecht / Pro League 
+62	RB	77	62	67	74	62	54	4 	4 	 / 	 Right	250	1,779			
+Maynor Figueroa Maynor Figueroa 
+Hull City / Barclays PL 
+75	CB	76	62	64	65	75	73	3 	2 	 / 	 Left	400	1,827		
+Oscar Boniek Garcia Oscar Boniek Garcia 
+Houston Dynamo / MLS 
+73	RM	78	64	69	75	63	62	3 	3 	 / 	 Right	500	1,819		
+Emilio Izaguirre Emilio Izaguirre 
+Celtic / Scottish Prem 
+71	LB	80	43	70	69	71	71	2 	4 	 / 	 Left	1,000	1,748		
+Wilson Palacios Wilson Palacios 
+Stoke City / Barclays PL 
+70	CDM	58	60	72	70	73	76	2 	3 	 / 	 Right	500	1,854		
+Ramon Nunez Ramon Nunez 
+FC Dallas / MLS 
+68	CAM	79	68	65	69	41	45	3 	2 	 / 	 Right	200	1,600		
+Hendry Thomas Hendry Thomas 
+Colorado Rapids / MLS 
+68	CDM	61	45	60	63	71	64	2 	3 	 / 	 Right	100,000	1,652		
+Hendry Thomas Hendry Thomas 
+FC Dallas / MLS 
+68	CDM	61	45	60	63	71	64	2 	3 	 / 	 Right	200	1,652		
+Jerry Bengtson Jerry Bengtson 
+New England Revolution / MLS 
+67	ST	72	62	50	65	43	67	3 	2 	 / 	 Right	200	1,521		
+Walter Martinez Walter Martinez 
+San Jose Earthquakes / MLS 
+65	LM	69	59	56	66	58	59	3 	3 	 / 	 Right	300	1,621		
+Johnny Leveron Johnny Leveron 
+Vancouver Whitecaps / MLS 
+64	CB	62	51	61	62	63	66	2 	2 	 / 	 Left	200	1,588		

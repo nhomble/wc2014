@@ -1,0 +1,277 @@
+1940 120 away Lebanon Palestine 5 1 Friendly
+1953 218 away Lebanon Syria 0 0 Pan Arab Games
+1953 220 away Lebanon Jordan 4 1 Pan Arab Games
+1955 23 home Lebanon Bulgaria 2 3 Friendly
+1956 60 home Lebanon Hungary 1 4 Friendly
+1957 297 home Lebanon SaudiArabia 1 1 Pan Arab Games
+1957 299 home Lebanon Syria 1 1 Pan Arab Games
+1957 301 home Lebanon Jordan 6 0 Pan Arab Games
+1957 305 home Lebanon Tunisia 2 4 Pan Arab Games
+1959 325 home Lebanon Iraq 0 3 Friendly
+1959 335 away Lebanon Iraq 8 0 Friendly
+1961 251 away Lebanon Morocco 1 0 Pan Arab Games
+1961 252 home Lebanon SaudiArabia 7 1 Pan Arab Games
+1961 254 home Lebanon Kuwait 4 0 Pan Arab Games
+1961 256 away Lebanon Egypt 4 0 Pan Arab Games
+1961 258 away Lebanon Libya 3 2 Pan Arab Games
+1963 101 away Lebanon Syria 3 2 Arab Nations Cup
+1963 102 away Lebanon Jordan 0 6 Arab Nations Cup
+1963 105 home Lebanon Tunisia 1 1 Arab Nations Cup
+1963 106 home Lebanon Kuwait 4 0 Arab Nations Cup
+1963 271 home Lebanon Malta 2 0 Mediterranean Games
+1964 323 away Lebanon Jordan 0 0 Arab Nations Cup
+1964 324 away Lebanon Libya 2 1 Arab Nations Cup
+1964 328 away Lebanon Iraq 1 0 Arab Nations Cup
+1964 330 away Lebanon Kuwait 2 3 Arab Nations Cup
+1965 82 away Lebanon Cyprus 2 0 Friendly
+1965 249 home Lebanon Iraq 0 0 Pan Arab Games
+1965 250 home Lebanon SouthYemen 4 3 Pan Arab Games
+1965 251 away Lebanon Palestine 1 0 Pan Arab Games
+1965 252 away Lebanon Egypt 3 0 Pan Arab Games
+1966 94 away Lebanon Iraq 0 0 Arab Nations Cup
+1966 96 home Lebanon Bahrain 6 1 Arab Nations Cup
+1966 97 home Lebanon Jordan 2 1 Arab Nations Cup
+1966 99 home Lebanon Kuwait 2 1 Arab Nations Cup
+1966 101 away Lebanon Syria 1 0 Arab Nations Cup
+1966 103 away Lebanon Libya 6 1 Arab Nations Cup
+1967 276 home Lebanon Philippines 11 1 Olympic Games qualifier
+1967 278 away Lebanon SouthKorea 2 0 Olympic Games qualifier
+1967 282 away Lebanon Japan 3 1 Olympic Games qualifier
+1967 286 home Lebanon Taiwan 5 2 Olympic Games qualifier
+1967 288 home Lebanon SouthVietnam 1 1 Olympic Games qualifier
+1971 289 home Lebanon Iraq 1 0 Olympic Games qualifier
+1971 296 away Lebanon Iraq 1 0 Olympic Games qualifier
+1971 303 away Lebanon Iraq 2 1 Olympic Games qualifier
+1971 352 away Lebanon Bahrain 3 0 Asian Cup qualifier
+1971 355 away Lebanon Kuwait 1 0 Asian Cup qualifier
+1971 360 home Lebanon Syria 3 2 Asian Cup qualifier
+1971 363 away Lebanon Iraq 4 1 Asian Cup qualifier
+1971 365 home Lebanon Jordan 2 0 Asian Cup qualifier
+1974 274 away Lebanon Algeria 4 1 Kuneitra Cup
+1974 276 home Lebanon Tunisia 2 1 Kuneitra Cup
+1974 278 away Lebanon Jordan 0 0 Kuneitra Cup
+1974 281 away Lebanon Morocco 3 0 Kuneitra Cup
+1974 283 away Lebanon Egypt 2 0 Kuneitra Cup
+1975 134 home Lebanon Indonesia 4 0 Presidents Cup
+1975 140 away Lebanon SouthKorea 1 0 Presidents Cup
+1975 142 away Lebanon Japan 1 0 Presidents Cup
+1977 249 away Lebanon India 4 2 Presidents Cup
+1977 250 away Lebanon Thailand 5 3 Presidents Cup
+1977 255 away Lebanon SouthKorea 4 1 Presidents Cup
+1979 1 away Lebanon Syria 1 0 Asian Cup qualifier
+1979 2 away Lebanon UnitedArab 0 0 Asian Cup qualifier
+1985 77 away Lebanon Iraq 6 0 World Cup qualifier
+1985 80 away Lebanon Iraq 6 0 World Cup qualifier
+1985 84 away Lebanon Qatar 7 0 World Cup qualifier
+1985 89 away Lebanon Qatar 8 0 World Cup qualifier
+1988 197 away Lebanon Iraq 0 0 Arab Nations Cup
+1988 199 home Lebanon SaudiArabia 1 0 Arab Nations Cup
+1988 201 away Lebanon Egypt 3 0 Arab Nations Cup
+1988 203 home Lebanon Tunisia 1 1 Arab Nations Cup
+1989 309 away Lebanon Kuwait 5 0 Friendly tournament
+1989 312 away Lebanon Uganda 2 0 Friendly tournament
+1993 20 away Lebanon Kuwait 2 0 Friendly
+1993 88 home Lebanon Jordan 1 0 Friendly
+1993 131 home Lebanon India 2 2 World Cup qualifier
+1993 133 home Lebanon HongKong 2 2 World Cup qualifier
+1993 135 home Lebanon SouthKorea 0 1 World Cup qualifier
+1993 137 home Lebanon Bahrain 0 0 World Cup qualifier
+1993 160 away Lebanon Bahrain 0 0 World Cup qualifier
+1993 162 away Lebanon SouthKorea 2 0 World Cup qualifier
+1993 164 home Lebanon HongKong 2 1 World Cup qualifier
+1993 166 home Lebanon India 2 1 World Cup qualifier
+1995 88 home Lebanon Egypt 1 1 Friendly
+1995 347 home Lebanon Slovakia 2 1 Friendly
+1996 3 home Lebanon Kazakhstan 2 1 Friendly
+1996 16 home Lebanon Cyprus 1 0 Friendly
+1996 42 home Lebanon Ecuador 1 0 Friendly
+1996 136 home Lebanon Turkmenistan 3 1 Asian Cup qualifier
+1996 150 away Lebanon Turkmenistan 0 1 Asian Cup qualifier
+1996 164 home Lebanon Kuwait 3 5 Asian Cup qualifier
+1996 175 away Lebanon Kuwait 0 0 Asian Cup qualifier
+1996 253 home Lebanon Oman 1 2 Friendly
+1996 256 home Lebanon Oman 2 1 Friendly
+1996 282 home Lebanon Bahrain 2 3 Friendly
+1996 288 home Lebanon NewZealand 1 1 Friendly
+1996 323 home Lebanon Iran 0 0 Friendly
+1996 346 home Lebanon Georgia 4 2 Friendly
+1996 349 home Lebanon Georgia 3 2 Friendly
+1997 12 home Lebanon Algeria 2 2 Friendly
+1997 26 home Lebanon Estonia 2 0 Friendly
+1997 33 home Lebanon Jordan 1 0 Friendly
+1997 38 away Lebanon Jordan 0 0 Friendly
+1997 81 away Lebanon UnitedArab 2 1 Friendly
+1997 106 home Lebanon Singapore 1 1 World Cup qualifier
+1997 120 home Lebanon Libya 2 0 Friendly
+1997 132 away Lebanon Kuwait 2 0 World Cup qualifier
+1997 148 away Lebanon Singapore 1 2 World Cup qualifier
+1997 177 home Lebanon Kuwait 1 3 World Cup qualifier
+1997 199 home Lebanon Jordan 1 1 Pan Arab Games
+1997 202 home Lebanon Oman 1 1 Pan Arab Games
+1997 205 home Lebanon Libya 2 1 Pan Arab Games
+1997 210 home Lebanon Syria 2 3 Pan Arab Games
+1997 238 home Lebanon Iraq 0 2 Friendly
+1998 206 home Lebanon Palestine 3 1 Arab Nations Cup qualifier
+1998 209 home Lebanon Jordan 0 2 Arab Nations Cup qualifier
+1998 212 home Lebanon Syria 0 1 Arab Nations Cup qualifier
+1998 235 away Lebanon Armenia 1 0 Friendly
+1998 257 away Lebanon Kuwait 0 0 Friendly
+1998 275 away Lebanon SaudiArabia 4 1 Arab Nations Cup
+1998 296 home Lebanon Syria 3 3 Friendly tournament
+1998 298 away Lebanon Sudan 1 1 Friendly tournament
+1998 300 away Lebanon UnitedArab 1 0 Friendly tournament
+1998 328 home Lebanon Iraq 0 2 Friendly
+1998 340 away Lebanon China 4 1 Asian Games
+1998 345 home Lebanon Cambodia 5 1 Asian Games
+1998 349 away Lebanon Qatar 1 0 Asian Games
+1998 351 away Lebanon Thailand 1 0 Asian Games
+1998 353 home Lebanon Kazakhstan 3 0 Asian Games
+1999 237 away Lebanon UnitedArab 2 0 Pan Arab Games
+1999 240 away Lebanon Jordan 1 3 Pan Arab Games
+1999 242 home Lebanon Oman 1 1 Pan Arab Games
+1999 244 away Lebanon Iraq 4 0 Pan Arab Games
+1999 334 home Lebanon Malta 0 0 Friendly
+1999 356 away Lebanon Malta 1 0 Friendly
+2000 47 home Lebanon NorthKorea 1 0 Friendly
+2000 54 home Lebanon Jordan 1 1 Friendly
+2000 70 away Lebanon Jordan 1 1 Friendly
+2000 137 away Lebanon Jordan 1 1 Friendly
+2000 145 home Lebanon SaudiArabia 0 0 Friendly
+2000 147 away Lebanon Iraq 2 1 West Asian Championship
+2000 149 home Lebanon Kyrgyzstan 2 0 West Asian Championship
+2000 151 away Lebanon Jordan 0 0 West Asian Championship
+2000 180 home Lebanon Kuwait 3 1 Friendly
+2000 222 home Lebanon Oman 3 1 Friendly
+2000 225 home Lebanon Oman 1 2 Friendly
+2000 255 home Lebanon UnitedArab 0 1 Friendly
+2000 258 home Lebanon UnitedArab 2 2 Friendly
+2000 291 home Lebanon Iran 0 4 Asian Cup
+2000 294 home Lebanon Iraq 2 2 Asian Cup
+2000 297 home Lebanon Thailand 1 1 Asian Cup
+2001 31 home Lebanon Iraq 0 0 Friendly
+2001 69 home Lebanon Syria 2 2 Friendly
+2001 97 home Lebanon Bahrain 1 1 Friendly
+2001 118 home Lebanon Philippines 3 0 Friendly
+2001 137 home Lebanon Pakistan 6 0 World Cup qualifier
+2001 139 home Lebanon SriLanka 4 0 World Cup qualifier
+2001 141 home Lebanon Thailand 1 2 World Cup qualifier
+2001 150 home Lebanon Pakistan 8 1 World Cup qualifier
+2001 152 home Lebanon SriLanka 5 0 World Cup qualifier
+2001 154 away Lebanon Thailand 2 2 World Cup qualifier
+2002 249 away Lebanon Jordan 1 0 West Asian Championship
+2002 251 away Lebanon Iran 2 0 West Asian Championship
+2002 354 away Lebanon SaudiArabia 1 1 Friendly
+2002 360 away Lebanon SaudiArabia 1 0 Arab Nations Cup
+2002 365 home Lebanon Yemen 4 2 Arab Nations Cup
+2002 367 away Lebanon Bahrain 0 0 Arab Nations Cup
+2003 239 home Lebanon Syria 1 0 Friendly
+2003 252 away Lebanon NorthKorea 0 1 Asian Cup qualifier
+2003 267 away Lebanon Bahrain 4 3 Friendly
+2003 296 away Lebanon Jordan 1 0 Asian Cup qualifier
+2003 313 home Lebanon NorthKorea 1 1 Asian Cup qualifier
+2003 322 home Lebanon Jordan 0 2 Asian Cup qualifier
+2003 329 home Lebanon Iran 0 3 Asian Cup qualifier
+2003 338 away Lebanon Iran 1 0 Asian Cup qualifier
+2003 357 away Lebanon Kuwait 2 0 Friendly
+2003 359 away Lebanon Kuwait 0 0 Friendly
+2004 39 home Lebanon Bahrain 2 1 Friendly
+2004 49 away Lebanon SouthKorea 2 0 World Cup qualifier
+2004 85 home Lebanon Syria 0 1 Friendly
+2004 93 away Lebanon Vietnam 0 2 World Cup qualifier
+2004 150 home Lebanon Bahrain 2 2 Friendly
+2004 164 home Lebanon Maldives 3 0 World Cup qualifier
+2004 172 away Lebanon Iran 4 0 West Asian Championship
+2004 174 away Lebanon Syria 3 1 West Asian Championship
+2004 189 away Lebanon China 6 0 Friendly
+2004 248 away Lebanon Jordan 2 2 Friendly
+2004 256 away Lebanon Maldives 2 5 World Cup qualifier
+2004 282 home Lebanon Kuwait 1 3 Friendly
+2004 285 home Lebanon Kuwait 1 1 Friendly
+2004 292 home Lebanon SouthKorea 1 1 World Cup qualifier
+2004 327 home Lebanon Vietnam 0 0 World Cup qualifier
+2004 342 away Lebanon Qatar 4 1 Friendly
+2005 33 away Lebanon Bahrain 2 1 Friendly
+2006 27 away Lebanon SaudiArabia 1 2 Friendly
+2006 53 home Lebanon Kuwait 1 1 Asian Cup qualifier
+2006 362 home Lebanon Mauritania 0 0 Arab Nations Cup qualifier
+2006 365 home Lebanon Somalia 4 0 Arab Nations Cup qualifier
+2006 368 home Lebanon Sudan 0 0 Arab Nations Cup qualifier
+2007 171 away Lebanon Syria 1 0 West Asian Championship
+2007 175 away Lebanon Jordan 3 0 West Asian Championship
+2007 271 away Lebanon UnitedArab 1 1 Friendly
+2007 287 home Lebanon India 4 1 World Cup qualifier
+2007 309 away Lebanon India 2 2 World Cup qualifier
+2008 2 away Lebanon Kuwait 3 2 Friendly
+2008 20 away Lebanon China 0 0 Friendly
+2008 28 away Lebanon Jordan 4 1 Friendly
+2008 37 home Lebanon Uzbekistan 0 1 World Cup qualifier
+2008 88 away Lebanon Singapore 2 0 World Cup qualifier
+2008 102 home Lebanon Maldives 4 0 Asian Cup qualifier
+2008 116 away Lebanon Maldives 1 2 Asian Cup qualifier
+2008 151 away Lebanon Qatar 2 1 Friendly
+2008 157 away Lebanon SaudiArabia 4 1 World Cup qualifier
+2008 162 away Lebanon SaudiArabia 2 1 World Cup qualifier
+2008 169 away Lebanon Uzbekistan 3 0 World Cup qualifier
+2008 177 home Lebanon Singapore 1 2 World Cup qualifier
+2009 14 away Lebanon Vietnam 3 1 Asian Cup qualifier
+2009 21 away Lebanon Thailand 2 1 King's Cup
+2009 23 home Lebanon NorthKorea 1 0 King's Cup
+2009 28 home Lebanon Syria 0 2 Asian Cup qualifier
+2009 94 home Lebanon Namibia 1 1 Friendly
+2009 236 away Lebanon India 0 1 Nehru Gold Cup
+2009 239 away Lebanon SriLanka 4 3 Nehru Gold Cup
+2009 242 away Lebanon Kyrgyzstan 1 1 Nehru Gold Cup
+2009 244 away Lebanon Syria 1 0 Nehru Gold Cup
+2009 324 home Lebanon China 0 2 Asian Cup qualifier
+2009 332 away Lebanon China 1 0 Asian Cup qualifier
+2010 6 home Lebanon Vietnam 1 1 Asian Cup qualifier
+2010 65 away Lebanon Syria 4 0 Asian Cup qualifier
+2011 188 home Lebanon Kuwait 0 6 Friendly
+2011 195 home Lebanon Oman 0 1 Friendly
+2011 203 away Lebanon UnitedArab 6 2 Friendly
+2011 209 home Lebanon Bangladesh 4 0 World Cup qualifier
+2011 214 away Lebanon Bangladesh 2 0 World Cup qualifier
+2011 234 home Lebanon Syria 2 3 Friendly
+2011 250 away Lebanon SouthKorea 6 0 World Cup qualifier
+2011 254 home Lebanon UnitedArab 3 1 World Cup qualifier
+2011 290 home Lebanon Kuwait 2 2 World Cup qualifier
+2011 316 away Lebanon Iraq 1 0 Friendly
+2011 318 home Lebanon Thailand 3 1 Friendly
+2011 321 away Lebanon Kuwait 0 1 World Cup qualifier
+2011 325 home Lebanon SouthKorea 2 1 World Cup qualifier
+2012 22 home Lebanon Iraq 1 0 Friendly
+2012 60 away Lebanon UnitedArab 4 2 World Cup qualifier
+2012 135 home Lebanon Egypt 1 4 Friendly
+2012 142 home Lebanon Jordan 1 2 Friendly
+2012 151 away Lebanon Oman 1 1 Friendly
+2012 158 home Lebanon Qatar 0 1 World Cup qualifier
+2012 163 home Lebanon Uzbekistan 1 1 World Cup qualifier
+2012 167 away Lebanon SouthKorea 3 0 World Cup qualifier
+2012 179 away Lebanon Iraq 1 0 Arab Nations Cup
+2012 182 away Lebanon Sudan 2 0 Arab Nations Cup
+2012 254 home Lebanon Australia 0 3 Friendly
+2012 259 home Lebanon Iran 1 0 World Cup qualifier
+2012 295 home Lebanon Yemen 2 1 Friendly
+2012 324 away Lebanon Qatar 1 0 World Cup qualifier
+2012 349 home Lebanon Oman 1 0 West Asian Championship
+2012 352 away Lebanon Palestine 1 0 West Asian Championship
+2012 355 away Lebanon Kuwait 2 1 West Asian Championship
+2013 15 home Lebanon Gabon 0 0 Friendly
+2013 31 away Lebanon Qatar 1 0 Friendly
+2013 37 away Lebanon Iran 5 0 Asian Cup qualifier
+2013 79 away Lebanon Bahrain 0 0 Friendly
+2013 84 home Lebanon Thailand 5 2 Asian Cup qualifier
+2013 88 away Lebanon Uzbekistan 1 0 World Cup qualifier
+2013 153 home Lebanon Oman 1 1 Friendly
+2013 159 home Lebanon SouthKorea 1 1 World Cup qualifier
+2013 166 away Lebanon Iran 4 0 World Cup qualifier
+2013 254 home Lebanon Syria 2 0 Friendly
+2013 257 away Lebanon Qatar 1 1 Friendly
+2013 287 home Lebanon Iraq 1 1 Friendly
+2013 294 home Lebanon Kuwait 1 1 Asian Cup qualifier
+2013 319 away Lebanon Bahrain 1 0 Friendly
+2013 325 away Lebanon Kuwait 0 0 Asian Cup qualifier
+2013 329 home Lebanon Iran 1 4 Asian Cup qualifier
+2013 367 away Lebanon Jordan 0 0 West Asian Championship
+2014 50 home Lebanon Pakistan 3 1 Friendly
+2014 67 away Lebanon Thailand 2 5 Asian Cup qualifier

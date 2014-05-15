@@ -1,0 +1,476 @@
+1961 372 away Senegal Dahomey 4 3 Friendly tournament
+1962 1 home Senegal IvoryCoast 1 1 Friendly
+1962 346 home Senegal Gambia 2 3 Friendly
+1963 54 away Senegal Mali 3 1 Nkrumah Cup
+1963 58 away Senegal Nigeria 4 0 Nkrumah Cup
+1963 104 home Senegal Cameroon 1 0 Friendly tournament
+1963 106 home Senegal Nigeria 5 1 Friendly tournament
+1963 108 home Senegal Niger 3 1 Friendly tournament
+1963 114 home Senegal Tunisia 1 1 Friendly tournament
+1965 59 home Senegal Guinea 2 0 African Nations Cup qualifier
+1965 69 home Senegal Mali 3 0 African Games qualifier
+1965 76 away Senegal Mali 4 0 African Games qualifier
+1965 93 away Senegal Guinea 3 0 African Nations Cup qualifier
+1965 324 away Senegal Tunisia 0 0 African Nations Cup
+1965 329 home Senegal Ethiopia 5 1 African Nations Cup
+1965 331 away Senegal IvoryCoast 1 0 African Nations Cup
+1967 219 home Senegal Liberia 4 1 African Nations Cup qualifier
+1967 275 away Senegal Guinea 3 0 African Nations Cup qualifier
+1967 290 home Senegal Guinea 4 1 African Nations Cup qualifier
+1967 325 away Senegal Liberia 1 1 African Nations Cup qualifier
+1967 332 home Senegal Guinea 2 1 African Nations Cup qualifier
+1968 12 away Senegal Ghana 2 2 African Nations Cup
+1968 14 home Senegal Congo 2 1 African Nations Cup
+1968 16 away Senegal Congo (Kinshasa) 2 1 African Nations Cup
+1968 313 away Senegal Morocco 1 0 World Cup qualifier
+1968 342 away Senegal Ghana 2 0 Friendly
+1969 5 home Senegal Morocco 2 1 World Cup qualifier
+1969 22 away Senegal Congo 1 0 Friendly
+1969 24 home Senegal Cameroon 3 2 Friendly
+1969 26 away Senegal Congo (Kinshasa) 4 0 Friendly
+1969 44 away Senegal Morocco 2 0 World Cup qualifier
+1969 287 home Senegal Guinea 1 1 African Nations Cup qualifier
+1969 291 away Senegal Ghana 4 3 Friendly
+1969 301 away Senegal Guinea 4 3 African Nations Cup qualifier
+1970 138 away Senegal Guinea 3 1 Friendly
+1970 141 away Senegal Guinea 4 0 Friendly
+1970 290 away Senegal SierraLeone 1 0 Friendly
+1970 297 away Senegal IvoryCoast 0 1 Friendly
+1970 304 away Senegal Togo 3 0 Friendly
+1970 325 away Senegal Guinea 1 0 Friendly
+1970 360 home Senegal Malawi 4 1 Friendly
+1971 66 away Senegal Cameroon 1 1 Friendly
+1971 69 away Senegal Cameroon 1 2 Friendly
+1971 96 away Senegal Nigeria 1 2 Olympic Games qualifier
+1971 111 home Senegal Nigeria 1 1 Olympic Games qualifier
+1971 211 home Senegal SierraLeone 2 1 Friendly
+1971 235 away Senegal Guinea 1 0 African Nations Cup qualifier
+1971 249 home Senegal Guinea 0 0 African Nations Cup qualifier
+1971 360 home Senegal Mali 4 1 Friendly
+1972 9 home Senegal Congo 0 2 Friendly
+1972 48 home Senegal Morocco 1 3 Friendly
+1972 63 away Senegal Guinea 3 2 African Games qualifier
+1972 116 home Senegal Cameroon 1 1 Olympic Games qualifier
+1972 123 away Senegal Togo 0 2 Olympic Games qualifier
+1972 131 away Senegal Ghana 1 0 Olympic Games qualifier
+1972 138 away Senegal Cameroon 3 2 Olympic Games qualifier
+1972 145 home Senegal Togo 0 1 Olympic Games qualifier
+1972 152 home Senegal Ghana 2 0 Olympic Games qualifier
+1972 329 away Senegal Morocco 0 0 World Cup qualifier
+1972 344 home Senegal Morocco 1 2 World Cup qualifier
+1973 264 away Senegal Ghana 3 2 African Nations Cup qualifier
+1973 278 home Senegal Ghana 1 0 African Nations Cup qualifier
+1975 125 home Senegal Togo 1 0 Olympic Games qualifier
+1975 142 away Senegal Togo 1 1 Olympic Games qualifier
+1975 262 away Senegal Morocco 4 0 African Nations Cup qualifier
+1975 276 home Senegal Morocco 2 1 African Nations Cup qualifier
+1975 340 home Senegal Zaire 3 1 Olympic Games qualifier
+1975 355 away Senegal Zaire 2 0 Olympic Games qualifier
+1976 76 home Senegal Ghana 0 0 Olympic Games qualifier
+1976 90 away Senegal Ghana 2 1 Olympic Games qualifier
+1976 296 away Senegal Togo 1 0 World Cup qualifier
+1976 310 home Senegal Togo 1 1 World Cup qualifier
+1977 33 home Senegal Denmark 2 3 Friendly
+1977 125 away Senegal Algeria 2 0 Friendly
+1977 266 home Senegal Togo 2 1 African Nations Cup qualifier
+1977 281 away Senegal Togo 0 1 African Nations Cup qualifier
+1977 309 home Senegal Nigeria 3 1 African Nations Cup qualifier
+1977 323 away Senegal Nigeria 3 0 African Nations Cup qualifier
+1979 9 home Senegal CapeVerde 1 0 Amilcar Cabral Cup
+1979 11 away Senegal Guinea-Bissau 0 2 Amilcar Cabral Cup
+1979 13 home Senegal Guinea 3 1 Amilcar Cabral Cup
+1979 14 home Senegal Mali 1 0 Amilcar Cabral Cup
+1980 41 away Senegal Mali 1 0 Amilcar Cabral Cup
+1980 45 home Senegal Mauritania 2 1 Amilcar Cabral Cup
+1980 47 home Senegal Guinea 2 1 Amilcar Cabral Cup
+1980 49 away Senegal Gambia 0 1 Amilcar Cabral Cup
+1980 98 home Senegal Tunisia 0 2 Friendly
+1980 125 home Senegal Guinea 1 0 Friendly
+1980 177 home Senegal Morocco 0 1 World Cup qualifier
+1980 188 away Senegal Mauritania 1 3 Friendly
+1980 192 away Senegal Morocco 0 0 World Cup qualifier
+1980 327 home Senegal SierraLeone 2 0 African Nations Cup qualifier
+1980 340 away Senegal SierraLeone 1 2 African Nations Cup qualifier
+1981 34 home Senegal CapeVerde 1 0 Amilcar Cabral Cup
+1981 36 home Senegal Guinea-Bissau 1 0 Amilcar Cabral Cup
+1981 41 away Senegal Guinea 1 0 Amilcar Cabral Cup
+1981 43 home Senegal CapeVerde 5 1 Amilcar Cabral Cup
+1981 87 home Senegal Guinea 0 1 Friendly
+1981 96 away Senegal Algeria 2 0 Friendly
+1981 105 away Senegal Tunisia 1 0 African Nations Cup qualifier
+1981 119 home Senegal Tunisia 0 0 African Nations Cup qualifier
+1981 311 home Senegal Morocco 2 0 Friendly
+1982 24 away Senegal UpperVolta 0 0 Friendly
+1982 31 home Senegal Benin 1 0 Friendly
+1982 42 away Senegal Guinea 1 1 Amilcar Cabral Cup
+1982 44 home Senegal Guinea-Bissau 1 0 Amilcar Cabral Cup
+1982 46 home Senegal SierraLeone 2 0 Amilcar Cabral Cup
+1982 48 home Senegal Mali 1 0 Amilcar Cabral Cup
+1982 50 away Senegal Guinea 3 0 Amilcar Cabral Cup
+1982 125 away Senegal Cameroon 2 1 Friendly
+1982 128 away Senegal Ghana 0 0 Friendly
+1982 129 away Senegal Guinea 1 1 Friendly
+1982 223 home Senegal SouthKorea 2 0 Merdeka Tournament
+1982 226 home Senegal UnitedArab 3 1 Merdeka Tournament
+1982 228 away Senegal Indonesia 2 2 Merdeka Tournament
+1982 230 away Senegal Malaysia 1 0 Merdeka Tournament
+1982 235 home Senegal SouthKorea 1 1 Merdeka Tournament
+1982 237 away Senegal Ghana 2 2 Merdeka Tournament
+1982 306 home Senegal Togo 1 2 Friendly
+1982 324 away Senegal Niger 0 0 African Nations Cup qualifier
+1982 338 home Senegal Niger 1 0 African Nations Cup qualifier
+1983 23 away Senegal Niger 2 0 Cedeao Tournament
+1983 32 home Senegal Guinea 1 0 Friendly
+1983 37 home Senegal Niger 2 0 Cedeao Tournament
+1983 71 home Senegal Morocco 1 0 Friendly
+1983 101 away Senegal Libya 2 1 African Nations Cup qualifier
+1983 117 home Senegal Libya 1 0 African Nations Cup qualifier
+1983 206 away Senegal Guinea-Bissau 1 1 Amilcar Cabral Cup
+1983 209 home Senegal Gambia 2 1 Amilcar Cabral Cup
+1983 210 away Senegal Guinea 1 1 Amilcar Cabral Cup
+1983 213 home Senegal Mali 2 1 Amilcar Cabral Cup
+1983 215 home Senegal Guinea-Bissau 3 0 Amilcar Cabral Cup
+1983 231 home Senegal Algeria 1 1 African Nations Cup qualifier
+1983 245 away Senegal Algeria 2 0 African Nations Cup qualifier
+1983 325 away Senegal Nigeria 1 0 Cedeao Tournament
+1983 329 home Senegal Nigeria 0 1 Cedeao Tournament
+1984 2 away Senegal Gambia 2 2 Friendly tournament
+1984 4 home Senegal Mauritania 2 0 Friendly tournament
+1984 18 home Senegal Guinea 1 0 Friendly
+1984 29 away Senegal Liberia 0 0 Friendly tournament
+1984 31 away Senegal IvoryCoast 1 0 Friendly tournament
+1984 33 away Senegal Mali 1 1 Friendly tournament
+1984 36 away Senegal IvoryCoast 4 3 Friendly tournament
+1984 40 home Senegal Guinea-Bissau 3 2 Amilcar Cabral Cup
+1984 42 away Senegal Mali 1 0 Amilcar Cabral Cup
+1984 44 home Senegal Mauritania 6 0 Amilcar Cabral Cup
+1984 46 home Senegal Gambia 1 0 Amilcar Cabral Cup
+1984 50 away Senegal SierraLeone 0 0 Amilcar Cabral Cup
+1984 178 away Senegal Morocco 2 1 Friendly
+1984 187 away Senegal Angola 1 0 World Cup qualifier
+1984 201 home Senegal Angola 1 0 World Cup qualifier
+1985 43 home Senegal Guinea 2 0 Amilcar Cabral Cup
+1985 45 home Senegal Mauritania 2 0 Amilcar Cabral Cup
+1985 47 away Senegal Mali 2 2 Amilcar Cabral Cup
+1985 50 home Senegal CapeVerde 1 0 Amilcar Cabral Cup
+1985 53 away Senegal Gambia 0 1 Amilcar Cabral Cup
+1985 93 away Senegal Togo 0 1 African Nations Cup qualifier
+1985 107 home Senegal Togo 1 1 African Nations Cup qualifier
+1985 134 away Senegal Mauritania 0 0 Friendly
+1985 235 away Senegal Zimbabwe 1 0 African Nations Cup qualifier
+1985 249 home Senegal Zimbabwe 3 0 African Nations Cup qualifier
+1985 366 home Senegal Guinea 3 1 Cedeao Tournament
+1985 370 home Senegal IvoryCoast 2 0 Cedeao Tournament
+1986 22 away Senegal Gabon 0 1 Friendly
+1986 32 home Senegal Guinea 2 1 Amilcar Cabral Cup
+1986 36 home Senegal Mali 1 0 Amilcar Cabral Cup
+1986 39 home Senegal Gambia 1 0 Amilcar Cabral Cup
+1986 41 home Senegal SierraLeone 3 1 Amilcar Cabral Cup
+1986 69 away Senegal Egypt 0 1 African Nations Cup
+1986 72 home Senegal Mozambique 2 0 African Nations Cup
+1986 75 away Senegal IvoryCoast 1 0 African Nations Cup
+1986 230 home Senegal Gabon 1 0 Friendly
+1987 54 away Senegal SierraLeone 1 0 Amilcar Cabral Cup
+1987 56 home Senegal CapeVerde 2 0 Amilcar Cabral Cup
+1987 63 away Senegal Guinea 1 0 Amilcar Cabral Cup
+1987 64 home Senegal SierraLeone 0 0 Amilcar Cabral Cup
+1987 91 home Senegal Guinea 4 0 African Nations Cup qualifier
+1987 105 away Senegal Guinea 0 0 African Nations Cup qualifier
+1987 151 away Senegal Japan 2 0 Friendly
+1987 154 home Senegal FrenchGuiana 3 0 Friendly tournament
+1987 191 home Senegal Zaire 0 0 African Nations Cup qualifier
+1987 205 away Senegal Zaire 0 0 African Nations Cup qualifier
+1987 219 away Senegal Egypt 1 0 African Games
+1987 221 away Senegal Malawi 2 0 African Games
+1987 223 away Senegal IvoryCoast 1 0 African Games
+1987 225 home Senegal Tunisia 1 0 African Games
+1987 360 away Senegal IvoryCoast 1 0 Cedeao Tournament
+1987 363 home Senegal BurkinaFaso 1 0 Cedeao Tournament
+1988 121 away Senegal Gambia 0 4 Amilcar Cabral Cup
+1988 123 away Senegal Guinea-Bissau 1 1 Amilcar Cabral Cup
+1988 126 home Senegal SierraLeone 2 2 Amilcar Cabral Cup
+1988 129 away Senegal Mali 1 1 Amilcar Cabral Cup
+1988 131 home Senegal SierraLeone 2 1 Amilcar Cabral Cup
+1988 327 away Senegal CapeVerde 0 1 Friendly tournament
+1988 328 home Senegal Angola 2 1 Friendly tournament
+1989 29 home Senegal Zaire 1 1 Friendly
+1989 31 home Senegal Zaire 2 1 Friendly
+1989 148 away Senegal Guinea-Bissau 0 0 Amilcar Cabral Cup
+1989 151 away Senegal Mali 2 2 Amilcar Cabral Cup
+1989 154 away Senegal CapeVerde 2 1 Amilcar Cabral Cup
+1989 202 home Senegal Tunisia 3 0 African Nations Cup qualifier
+1989 216 away Senegal Tunisia 0 1 African Nations Cup qualifier
+1989 331 home Senegal CentralAfrican 3 0 Friendly
+1989 365 home Senegal SierraLeone 1 0 Friendly
+1990 24 home Senegal Liberia 1 0 Cedeao Tournament
+1990 28 away Senegal Nigeria 1 1 Cedeao Tournament
+1990 65 away Senegal Kenya 0 0 African Nations Cup
+1990 68 away Senegal Cameroon 0 2 African Nations Cup
+1990 71 home Senegal Zambia 0 0 African Nations Cup
+1990 74 away Senegal Algeria 2 1 African Nations Cup
+1990 77 home Senegal Zambia 0 1 African Nations Cup
+1990 353 away Senegal Morocco 0 0 Friendly
+1990 358 away Senegal Algeria 1 0 Friendly
+1991 46 home Senegal IvoryCoast 0 0 Friendly tournament
+1991 48 home Senegal Algeria 2 2 Friendly tournament
+1991 129 home Senegal IvoryCoast 0 0 Friendly
+1991 164 away Senegal IvoryCoast 2 0 Friendly
+1991 310 home Senegal Ghana 3 2 Cedeao Tournament
+1991 312 away Senegal IvoryCoast 1 0 Cedeao Tournament
+1991 334 home Senegal Guinea-Bissau 4 0 Amilcar Cabral Cup
+1991 337 home Senegal CapeVerde 0 0 Amilcar Cabral Cup
+1991 340 home Senegal Gambia 2 0 Amilcar Cabral Cup
+1991 343 home Senegal CapeVerde 1 0 Amilcar Cabral Cup
+1992 12 home Senegal Nigeria 1 2 African Nations Cup
+1992 16 home Senegal Kenya 3 0 African Nations Cup
+1992 19 home Senegal Cameroon 0 1 African Nations Cup
+1992 234 home Senegal Togo 2 0 African Nations Cup qualifier
+1992 247 home Senegal Guinea-Bissau 3 0 African Nations Cup qualifier
+1992 304 away Senegal Mozambique 0 1 World Cup qualifier
+1992 318 away Senegal SierraLeone 2 0 African Nations Cup qualifier
+1992 327 away Senegal UnitedArab 1 1 Friendly
+1992 329 away Senegal UnitedArab 2 2 Friendly
+1992 361 away Senegal Gabon 3 2 World Cup qualifier
+1993 10 home Senegal Algeria 1 2 African Nations Cup qualifier
+1993 24 away Senegal Togo 1 1 African Nations Cup qualifier
+1993 30 home Senegal Mozambique 6 1 World Cup qualifier
+1993 58 home Senegal Gabon 1 0 World Cup qualifier
+1993 104 away Senegal Guinea-Bissau 0 3 African Nations Cup qualifier
+1993 111 away Senegal Morocco 1 0 World Cup qualifier
+1993 175 away Senegal Mali 0 2 Friendly
+1993 197 home Senegal SierraLeone 1 1 African Nations Cup qualifier
+1993 203 home Senegal Morocco 1 3 World Cup qualifier
+1993 211 away Senegal Algeria 4 0 African Nations Cup qualifier
+1993 224 home Senegal Zambia 0 0 World Cup qualifier
+1993 267 away Senegal Zimbabwe 2 0 Friendly
+1993 274 away Senegal Zambia 4 0 World Cup qualifier
+1993 337 away Senegal Mali 1 0 Amilcar Cabral Cup
+1993 339 away Senegal Mauritania 0 4 Amilcar Cabral Cup
+1993 342 away Senegal Guinea-Bissau 0 0 Amilcar Cabral Cup
+1993 344 away Senegal Gambia 0 2 Amilcar Cabral Cup
+1993 346 away Senegal SierraLeone 2 0 Amilcar Cabral Cup
+1994 23 away Senegal Mali 1 0 Friendly
+1994 30 home Senegal Mali 0 0 Friendly
+1994 38 away Senegal Gambia 0 0 Friendly
+1994 58 away Senegal Gabon 0 0 Friendly
+1994 91 home Senegal Guinea 2 1 African Nations Cup
+1994 93 away Senegal Ghana 1 0 African Nations Cup
+1994 96 away Senegal Zambia 1 0 African Nations Cup
+1994 251 home Senegal Mauritania 0 0 African Nations Cup qualifier
+1994 288 home Senegal Nigeria 3 1 Friendly
+1994 295 away Senegal Togo 2 0 African Nations Cup qualifier
+1994 302 away Senegal Oman 0 1 Friendly
+1994 304 away Senegal Oman 2 1 Friendly
+1994 307 away Senegal UnitedArab 3 2 Friendly
+1994 323 away Senegal Guinea-Bissau 1 4 African Nations Cup qualifier
+1995 7 home Senegal Tunisia 0 0 African Nations Cup qualifier
+1995 22 away Senegal Liberia 1 1 African Nations Cup qualifier
+1995 63 away Senegal Morocco 2 0 Friendly
+1995 100 away Senegal Mauritania 0 1 African Nations Cup qualifier
+1995 115 home Senegal Togo 5 1 African Nations Cup qualifier
+1995 201 away Senegal Tunisia 4 0 African Nations Cup qualifier
+1995 216 home Senegal Liberia 3 0 African Nations Cup qualifier
+1995 328 away Senegal Guinea-Bissau 2 1 Amilcar Cabral Cup
+1995 330 home Senegal Guinea 3 0 Amilcar Cabral Cup
+1995 332 away Senegal SierraLeone 1 1 Amilcar Cabral Cup
+1996 114 away Senegal Gambia 1 2 Friendly
+1996 141 away Senegal Mauritania 0 0 Friendly
+1996 150 away Senegal Tunisia 2 0 Friendly
+1996 157 away Senegal Togo 2 1 World Cup qualifier
+1996 170 home Senegal Togo 1 1 World Cup qualifier
+1996 263 home Senegal Mali 1 0 Friendly
+1996 285 away Senegal Ethiopia 1 2 African Nations Cup qualifier
+1997 12 away Senegal Mali 0 0 Friendly
+1997 25 home Senegal Egypt 0 0 African Nations Cup qualifier
+1997 47 home Senegal Mali 1 1 Friendly
+1997 53 home Senegal Morocco 0 0 African Nations Cup qualifier
+1997 132 away Senegal IvoryCoast 4 1 Friendly
+1997 161 home Senegal Algeria 0 0 Friendly
+1997 177 home Senegal Ethiopia 3 0 African Nations Cup qualifier
+1997 198 away Senegal Egypt 2 0 African Nations Cup qualifier
+1997 213 away Senegal Morocco 3 0 African Nations Cup qualifier
+1997 338 away Senegal Mauritania 1 1 Amilcar Cabral Cup
+1997 340 home Senegal CapeVerde 2 0 Amilcar Cabral Cup
+1997 343 away Senegal Gambia 0 0 Amilcar Cabral Cup
+1997 346 home Senegal Guinea 2 1 Amilcar Cabral Cup
+1997 348 away Senegal Mali 1 0 Amilcar Cabral Cup
+1998 205 home Senegal CapeVerde 1 0 Friendly
+1998 212 home Senegal Mali 3 1 Friendly
+1998 250 away Senegal Morocco 2 0 Friendly
+1998 265 away Senegal SaudiArabia 3 2 Friendly
+1998 354 away Senegal Burundi 1 0 African Nations Cup qualifier
+1999 10 home Senegal Guinea 1 0 Friendly
+1999 13 home Senegal Guinea 1 0 Friendly
+1999 23 home Senegal BurkinaFaso 1 1 African Nations Cup qualifier
+1999 59 home Senegal Nigeria 1 1 African Nations Cup qualifier
+1999 140 away Senegal Libya 2 1 Friendly
+1999 156 away Senegal Mali 1 1 Friendly
+1999 161 away Senegal BurkinaFaso 2 2 African Nations Cup qualifier
+1999 174 home Senegal Burundi 1 0 African Nations Cup qualifier
+1999 203 home Senegal Eritrea 6 2 African Nations Cup qualifier
+1999 218 away Senegal Zimbabwe 2 1 African Nations Cup qualifier
+1999 225 home Senegal Zimbabwe 2 0 African Nations Cup qualifier
+1999 238 away Senegal Eritrea 0 2 African Nations Cup qualifier
+1999 331 home Senegal IvoryCoast 3 0 Friendly
+1999 353 home Senegal Gambia 3 0 Friendly
+1999 362 away Senegal Morocco 0 0 Friendly
+2000 13 home Senegal Cameroon 0 0 Friendly
+2000 25 home Senegal BurkinaFaso 3 1 African Nations Cup
+2000 28 away Senegal Egypt 1 0 African Nations Cup
+2000 32 home Senegal Zambia 2 2 African Nations Cup
+2000 38 away Senegal Nigeria 2 1 African Nations Cup
+2000 102 away Senegal Benin 1 1 World Cup qualifier
+2000 116 home Senegal Benin 1 0 World Cup qualifier
+2000 130 away Senegal Gambia 1 1 Amilcar Cabral Cup
+2000 132 away Senegal CapeVerde 2 2 Amilcar Cabral Cup
+2000 135 home Senegal Mali 2 2 Amilcar Cabral Cup
+2000 138 away Senegal CapeVerde 1 0 Amilcar Cabral Cup
+2000 159 home Senegal Zambia 0 0 Friendly
+2000 161 home Senegal Zambia 0 0 Friendly
+2000 166 away Senegal Tunisia 4 1 Friendly
+2000 171 away Senegal Algeria 1 1 World Cup qualifier
+2000 195 home Senegal Egypt 0 0 World Cup qualifier
+2000 272 home Senegal Togo 0 0 African Nations Cup qualifier
+2000 287 away Senegal Guinea 1 0 African Nations Cup qualifier
+2001 13 away Senegal Uganda 1 1 African Nations Cup qualifier
+2001 35 home Senegal Mali 1 0 Friendly
+2001 55 away Senegal Morocco 0 0 World Cup qualifier
+2001 72 home Senegal Namibia 4 0 World Cup qualifier
+2001 86 home Senegal Uganda 3 0 African Nations Cup qualifier
+2001 114 home Senegal Algeria 3 0 World Cup qualifier
+2001 130 away Senegal Egypt 1 0 World Cup qualifier
+2001 158 away Senegal Gambia 0 0 Friendly
+2001 172 away Senegal Togo 1 0 African Nations Cup qualifier
+2001 200 home Senegal Morocco 1 0 World Cup qualifier
+2001 207 away Senegal Namibia 0 5 World Cup qualifier
+2001 283 home Senegal Japan 2 0 Friendly
+2001 318 away Senegal SouthKorea 0 1 Friendly
+2001 367 home Senegal BurkinaFaso 2 4 Friendly
+2001 371 home Senegal Algeria 1 0 Friendly
+2002 20 home Senegal Egypt 1 0 African Nations Cup
+2002 26 home Senegal Zambia 1 0 African Nations Cup
+2002 31 home Senegal Tunisia 0 0 African Nations Cup
+2002 35 home Senegal Dem. Rep. of Congo 2 0 African Nations Cup
+2002 38 home Senegal Nigeria 2 1 African Nations Cup
+2002 41 home Senegal Cameroon 0 0 African Nations Cup
+2002 89 home Senegal Bolivia 2 1 Friendly
+2002 138 away Senegal SaudiArabia 3 2 Friendly
+2002 147 home Senegal Ecuador 1 0 Friendly
+2002 155 home Senegal France 1 0 World Cup
+2002 161 home Senegal Denmark 1 1 World Cup
+2002 166 home Senegal Uruguay 3 3 World Cup
+2002 171 home Senegal Sweden 2 1 World Cup
+2002 177 away Senegal Turkey 1 0 World Cup
+2002 256 away Senegal Lesotho 0 1 African Nations Cup qualifier
+2002 291 home Senegal Nigeria 2 2 Friendly
+2002 329 away Senegal SouthAfrica 1 1 Friendly tournament
+2003 43 away Senegal Morocco 1 0 Friendly
+2003 92 away Senegal Gambia 0 0 African Nations Cup qualifier
+2003 123 away Senegal Tunisia 1 0 Friendly
+2003 155 home Senegal CapeVerde 2 1 Friendly
+2003 162 home Senegal Gambia 3 1 African Nations Cup qualifier
+2003 169 home Senegal Lesotho 3 0 African Nations Cup qualifier
+2003 258 away Senegal Japan 0 1 Friendly
+2003 289 away Senegal Egypt 1 0 Friendly
+2003 325 home Senegal IvoryCoast 1 0 Friendly
+2004 18 home Senegal SouthAfrica 2 1 Friendly
+2004 26 away Senegal BurkinaFaso 0 0 African Nations Cup
+2004 30 home Senegal Kenya 3 0 African Nations Cup
+2004 33 away Senegal Mali 1 1 African Nations Cup
+2004 38 away Senegal Tunisia 1 0 African Nations Cup
+2004 153 away Senegal Guinea 1 1 Friendly
+2004 160 home Senegal Congo 2 0 World Cup qualifier
+2004 168 away Senegal CapeVerde 1 3 Friendly
+2004 175 away Senegal Togo 3 1 World Cup qualifier
+2004 189 home Senegal Zambia 1 0 World Cup qualifier
+2004 235 away Senegal IvoryCoast 2 1 Friendly
+2004 253 away Senegal Mali 2 2 World Cup qualifier
+2004 289 away Senegal Liberia 0 3 World Cup qualifier
+2004 327 home Senegal Algeria 2 1 Friendly
+2005 40 away Senegal Cameroon 1 0 Friendly
+2005 88 home Senegal Liberia 6 1 World Cup qualifier
+2005 160 away Senegal Congo 0 0 World Cup qualifier
+2005 173 home Senegal Togo 2 2 World Cup qualifier
+2005 234 away Senegal Ghana 0 0 Friendly
+2005 251 away Senegal Zambia 0 1 World Cup qualifier
+2005 287 home Senegal Mali 3 0 World Cup qualifier
+2005 322 away Senegal SouthAfrica 2 3 Friendly tournament
+2005 368 home Senegal Ecuador 2 1 Friendly tournament
+2005 370 away Senegal Egypt 4 2 Friendly tournament
+2006 14 home Senegal Dem. Rep. of Congo 0 0 Friendly
+2006 23 home Senegal Zimbabwe 2 0 African Nations Cup
+2006 27 away Senegal Ghana 1 0 African Nations Cup
+2006 31 away Senegal Nigeria 2 1 African Nations Cup
+2006 34 home Senegal Guinea 3 2 African Nations Cup
+2006 38 away Senegal Egypt 2 1 African Nations Cup
+2006 40 away Senegal Nigeria 1 0 African Nations Cup
+2006 63 home Senegal Norway 2 1 Friendly
+2006 147 away Senegal SouthKorea 1 1 Friendly
+2006 233 home Senegal IvoryCoast 1 0 Friendly
+2006 250 home Senegal Mozambique 2 0 African Nations Cup qualifier
+2006 286 away Senegal BurkinaFaso 1 0 African Nations Cup qualifier
+2007 38 home Senegal Benin 2 1 Friendly
+2007 86 home Senegal Tanzania 4 0 African Nations Cup qualifier
+2007 157 away Senegal Tanzania 1 1 African Nations Cup qualifier
+2007 165 away Senegal Malawi 2 3 Friendly
+2007 172 away Senegal Mozambique 0 0 African Nations Cup qualifier
+2007 238 away Senegal Ghana 1 1 Friendly
+2007 256 home Senegal BurkinaFaso 5 1 African Nations Cup qualifier
+2007 293 home Senegal Guinea 3 1 Friendly
+2007 307 home Senegal Togo 0 0 UEMOA Tournament
+2007 309 away Senegal BurkinaFaso 0 0 UEMOA Tournament
+2007 311 away Senegal Niger 3 2 UEMOA Tournament
+2007 327 home Senegal Mali 3 2 Friendly
+2007 331 away Senegal Morocco 3 0 Friendly
+2008 12 home Senegal Namibia 3 1 Friendly
+2008 16 home Senegal Benin 2 1 Friendly
+2008 23 home Senegal Tunisia 2 2 African Nations Cup
+2008 27 away Senegal Angola 3 1 African Nations Cup
+2008 31 home Senegal SouthAfrica 1 1 African Nations Cup
+2008 155 home Senegal Algeria 1 0 World Cup qualifier
+2008 163 away Senegal Gambia 0 0 World Cup qualifier
+2008 170 away Senegal Liberia 2 2 World Cup qualifier
+2008 176 home Senegal Liberia 3 1 World Cup qualifier
+2008 237 away Senegal Libya 0 0 Friendly
+2008 253 away Senegal Algeria 3 2 World Cup qualifier
+2008 290 home Senegal Gambia 1 1 World Cup qualifier
+2009 90 away Senegal Oman 2 0 Friendly
+2009 94 away Senegal Iran 1 1 Friendly
+2009 229 home Senegal Dem. Rep. of Congo 2 1 Friendly
+2009 253 away Senegal Angola 1 1 Friendly
+2009 257 away Senegal China 0 0 Friendly
+2009 293 away Senegal SouthKorea 2 0 Friendly
+2010 65 away Senegal Greece 0 2 Friendly
+2010 134 away Senegal Mexico 1 0 Friendly
+2010 151 away Senegal Denmark 2 0 Friendly
+2010 228 home Senegal CapeVerde 1 0 Friendly
+2010 253 away Senegal Dem. Rep. of Congo 2 4 African Nations Cup qualifier
+2010 288 home Senegal Mauritius 7 0 African Nations Cup qualifier
+2010 327 home Senegal Gabon 2 1 Friendly
+2011 40 home Senegal Guinea 3 0 Friendly
+2011 88 home Senegal Cameroon 1 0 African Nations Cup qualifier
+2011 159 away Senegal Cameroon 0 0 African Nations Cup qualifier
+2011 227 home Senegal Morocco 0 2 Friendly
+2011 251 home Senegal Dem. Rep. of Congo 2 0 African Nations Cup qualifier
+2011 288 away Senegal Mauritius 0 2 African Nations Cup qualifier
+2011 321 home Senegal Guinea 4 1 Friendly
+2012 12 home Senegal Sudan 1 0 Friendly
+2012 21 away Senegal Zambia 2 1 African Nations Cup
+2012 25 away Senegal EquatorialGuinea 2 1 African Nations Cup
+2012 29 away Senegal Libya 2 1 African Nations Cup
+2012 60 away Senegal SouthAfrica 0 0 Friendly
+2012 149 away Senegal Morocco 0 1 Friendly
+2012 157 home Senegal Liberia 3 1 World Cup qualifier
+2012 164 away Senegal Uganda 1 1 World Cup qualifier
+2012 256 away Senegal IvoryCoast 4 2 African Nations Cup qualifier
+2012 292 home Senegal IvoryCoast 0 2 African Nations Cup qualifier
+2012 324 away Senegal Niger 1 1 Friendly
+2013 36 away Senegal Guinea 1 1 Friendly
+2013 85 home Senegal Angola 1 1 World Cup qualifier
+2013 163 away Senegal Angola 1 1 World Cup qualifier
+2013 171 away Senegal Liberia 0 2 World Cup qualifier
+2013 231 home Senegal Zambia 1 1 Friendly
+2013 255 home Senegal Uganda 1 0 World Cup qualifier
+2013 291 away Senegal IvoryCoast 3 1 World Cup qualifier
+2013 326 home Senegal IvoryCoast 1 1 World Cup qualifier
+2014 67 away Senegal Mali 1 1 Friendly
